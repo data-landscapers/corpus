@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-15-angola-minttics-cloud-nacional-ecossistema-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Cloud Nacional de Angola", "country_label": "Cloud Nacional de Angola (Nuvem Governamental Unificada)", "class": "other", "platform": "", "owner": "MINTTICS through INFOSI", "tiers": "ministerial departments; the document says existing applications are to be migrated to it"}
+  ],
+  "note": "Describes a government cloud project at Camama launched 16 Feb 2023; states no hosting or cloud policy and does not tie the cloud to one or require public bodies to use it."
+}

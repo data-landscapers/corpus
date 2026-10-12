@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de backup da cloud do Governo", "country_label": "centro de backup da cloud do Governo", "class": "other", "platform": "", "owner": "INFOSI", "tiers": "public administration"},
+    {"system": "Data center do Governo (Camama)", "country_label": "data center do Governo localizado no Camama", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": ""}
+  ],
+  "note": "Capacity figures for a backup centre (48 racks, about 8.5 PB); mentions a government strategy of data protection and sovereignty but no hosting or cloud policy instrument, so no policy-class fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-14-ai-data-governance-strategy-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "sovereign cloud systems", "country_label": "sovereign cloud systems", "class": "other", "platform": "", "owner": "government", "tiers": ""},
+    {"system": "data centers", "country_label": "data centers", "class": "other", "platform": "", "owner": "government", "tiers": ""}
+  ],
+  "note": "The national AI and data governance strategy (handed to the Prime Minister 13 March 2025 for adoption) plans data centres and sovereign cloud as infrastructure; it states no rule on hosting or public bodies' cloud use, so no policy fact."
+}

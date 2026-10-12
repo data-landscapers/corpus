@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,National Data Centre (Nouakchott),مركز البيانات الوطني,other,,State digital agency AN-ETAT,national government,2026-08-11-mauritania-world-bank-national-data-centre-visit
+MRT,National government cloud project,السحابة الحكومية الوطنية,other,,AN-ETAT; funded under WARDIP,government systems and data to be migrated,2026-08-11-mauritania-world-bank-national-data-centre-visit
+MRT,"Centre national de données (Tier III, HCI architecture)",centre national de données,other,hyperconverged (HCI) architecture,Ministry of Digital Transformation,"all public administration servers, separate clusters per ministry",2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale
+MRT,Cloud national,premier cloud national,other,,Ministry of Digital Transformation,national,2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale
+MRT,Centre de données de Nouakchott,centre de données de Nouakchott,other,,AN-ETAT,,2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter
+MRT,National cloud platform,national cloud,other,,Ministry of Digital Transformation,government agencies,2026-06-30-national-cloud-launch-ecofin
+MRT,"Nouakchott National Data Center (Tier III, WARDIP)",National Data Center,other,,,government,2026-06-30-national-cloud-launch-ecofin
+MRT,National Mauritanian Cloud,السحابة الوطنية الموريتانية,other,,Ministry of Digital Transformation,national; digital public services,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
+MRT,Nouakchott data centre,مركز البيانات في نواكشوط,other,,,,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
+MRT,Maadeni (النظام المعلوماتي المندمج معدني),Maadeni,,,Agence nationale Maaden Mauritanie,national agency; interconnected with the national population register and GIMTEL CONNECT,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
+MRT,Nouakchott national data centre,Tier III national data centre in Nouakchott,other,,Government of Mauritania,,2026-02-10-digital-economy-country-commercial-guide-tradegov
+MRT,Nouakchott data centre,Nouakchott data centre,other,Tier III (Uptime Institute certified),Operated by International Mauritania Telecom (IMT/GIE): the State via Mauripost and the three telecom operators; built with a EUR 15 million EIB loan,,"2025-08-20 Construction of a Datacenter in Nouakchott, Mauritania (EEAS)"
+MRT,Nouakchott national data centre,Centre de données de Nouakchott,other,Tier III data centre (Uptime Institute certified),Government of Mauritania; to be managed by International Mauritania Telecom (IMT),national,2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)
+MRT,Centre de Données de Nouakchott,Centre de Données de Nouakchott,other,"Tier III data centre, 1,372 m2, 100 racks; in-country cloud hosting, backup and disaster recovery services",Government of Mauritania (Ministry of Digital Transformation); financed by the EIB,"national; public administrations, financial institutions, startups and service providers",2025-05-08-ami-inauguration-data-center-nouakchott-1372m2-100-baies

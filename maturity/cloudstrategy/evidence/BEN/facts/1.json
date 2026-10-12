@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-02-ale-abdel-farid-securite-nationale-numerique-2033",
+  "facts": [],
+  "systems": [
+    {"system": "cloud souverain béninois", "country_label": "projet de cloud souverain béninois", "class": "other", "platform": "", "owner": "", "tiers": "state sensitive data (national or African infrastructure)"}
+  ],
+  "note": "An expert's proposal for 2033 mentions a sovereign cloud project to host sensitive state data; no government hosting or cloud policy, adoption or drafting is stated."
+}

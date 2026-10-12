@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "Africa in the Room states that Kenya's Cloud Policy 2025 came into force in May 2025 and requires government data classified as sensitive, top secret, secret or restricted to be stored within Kenya.",
+     "as_of": "2025-05", "date_precision": "month", "system": "Kenya Cloud Policy 2025", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

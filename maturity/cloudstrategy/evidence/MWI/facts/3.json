@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-03-dmap-implementation-status-report",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "none", "fact": "The World Bank DMAP status report records zero government data governance frameworks, including data classification and cloud policies, enacted and mandated for use as at 30 June 2025, against a target of 3 by October 2030.", "as_of": "2025-06-30", "date_precision": "day", "system": "Government data governance frameworks including cloud policies (DMAP indicator)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Center", "country_label": "national Data Center in Lilongwe", "class": "other", "platform": "", "owner": "Government of Malawi (funded under the earlier World Bank project)", "tiers": "first few clients migrated; target of 30 entities hosting data there by October 2030, 0 at April 2024"},
+    {"system": "Bolamathu", "country_label": "government exchange platform Bolamathu", "class": "other", "platform": "", "owner": "", "tiers": "9 entities onboarded at December 2021; target 30 by October 2030"}
+  ],
+  "note": ""
+}

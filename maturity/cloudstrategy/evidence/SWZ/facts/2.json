@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-24-swz-times-national-data-centre-incident",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Royal Science and Technology Park (RSTP), parastatal under the Ministry of ICT", "tiers": "central government"}
+  ],
+  "note": "Reports an incident at the National Data Centre disrupting at least 12 government services; states no hosting or cloud policy."
+}

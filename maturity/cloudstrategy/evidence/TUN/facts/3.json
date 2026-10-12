@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-22-tun-cybersecurite-circulaire-entreprises-publiques",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The article says a Cloud First doctrine of 2024 reinforced the 2023 orientation of public systems and services towards labelled cloud providers, and that a circular of 2 September 2026 tightens hosting requirements for public bodies.", "as_of": "2024", "date_precision": "year", "system": "Cloud First doctrine", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The article says the national cybersecurity agency (ANCS) published a list of labelled providers on 17 September 2026 with six N-Cloud entries, the providers public bodies are directed to.", "as_of": "2026-09-17", "date_precision": "day", "system": "N-Cloud label list", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "N-Cloud label list (ANCS)", "country_label": "N-Cloud", "class": "policy", "platform": "", "owner": "Agence Nationale de la Cybersecurite (ANCS)", "tiers": "public bodies and their private suppliers"},
+    {"system": "CNI private cloud", "country_label": "Cloud prive du Centre National de l'Informatique", "class": "other", "platform": "", "owner": "Centre National de l'Informatique (CNI)", "tiers": ""}
+  ],
+  "note": ""
+}

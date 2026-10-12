@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Axian/Stellarix data centre build-out (Cote d'Ivoire)", "country_label": "", "class": "other", "platform": "", "owner": "Axian / Stellarix", "tiers": ""},
+    {"system": "ST Digital data centres (Cote d'Ivoire)", "country_label": "", "class": "other", "platform": "", "owner": "ST Digital", "tiers": ""}
+  ],
+  "note": "Names operators with data centres in Cote d'Ivoire; states no hosting or cloud policy for the country."
+}

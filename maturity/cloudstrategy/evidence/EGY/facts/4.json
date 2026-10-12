@@ -1,0 +1,10 @@
+{
+  "slug": "2024-03-13-egy-supreme-council-digital-society-first-meeting-cloud-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Cabinet's spokesperson said the Supreme Council for the Digital Society, at its first meeting after reconstitution under the Prime Minister, approved and launched the cloud computing policy, in line with the Digital Egypt strategy (document date is a proxy).", "as_of": "2024-03-13", "date_precision": "day", "system": "Cloud computing policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Cloud computing policy", "country_label": "سياسة الحوسبة السحابية", "class": "policy", "platform": "", "owner": "Supreme Council for the Digital Society; Ministry of Communications and Information Technology", "tiers": "government and private bodies"}
+  ],
+  "note": ""
+}

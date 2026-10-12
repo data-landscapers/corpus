@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01 The National Data Centre - Royal Science and Technology Park",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre (NDC)", "class": "other", "platform": "colocation, IaaS, PaaS and SaaS services; four 500 KVA diesel generators", "owner": "Royal Science and Technology Park (RSTP)", "tiers": ""}
+  ],
+  "note": "Undated operator facility page; describes the data centre's services and states no government hosting or cloud policy."
+}

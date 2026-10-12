@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-27-dmap-tors-data-centre-cloud-architect",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalization",
+   "tiers": "MDAs"
+  }
+ ],
+ "note": "Consultant terms of reference; a duty to help define cloud strategies is not a policy drafted or adopted."
+}

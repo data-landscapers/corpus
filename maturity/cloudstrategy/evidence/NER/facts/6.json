@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne",
+  "facts": [],
+  "systems": [
+    {"system": "Datacenter Tiers 3 de Niamey (Dorsale Transsaharienne a Fibre Optique project)", "country_label": "Datacenter Tiers 3", "class": "other", "platform": "", "owner": "Government of Niger, AfDB-financed project", "tiers": ""}
+  ],
+  "note": "Reports a Tier III data centre under construction in Niamey as a project component; no hosting or cloud policy is stated."
+}

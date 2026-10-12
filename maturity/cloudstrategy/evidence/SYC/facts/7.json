@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-13-itweb-airtel-seychelles-ericsson-turnkey-5g",
+  "facts": [],
+  "systems": [
+    {"system": "Airtel Seychelles datacentre and hybrid network cloud", "country_label": "new datacentre in Seychelles", "class": "other", "platform": "Ericsson virtualised network functions", "owner": "Airtel Seychelles (Airtel Africa)", "tiers": ""}
+  ],
+  "note": "Operator's commercial network datacentre and cloud move (2021); no government hosting or cloud policy stated."
+}

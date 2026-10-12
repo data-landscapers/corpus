@@ -1,0 +1,12 @@
+{
+  "slug": "2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Ministerial Instructions Nº 001/2012, issued by the Minister in the Office of the President in Charge of ICT and in force from signature on 2012-03-12, include a rule on hosting critical Government data and systems; the document states no end or replacement.", "as_of": "2012-03-12", "date_precision": "day", "system": "Ministerial Instructions Nº 001/2012", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "Article 17 of the Ministerial Instructions requires all Government IT systems and applications that process, store or provide critical Government data to be hosted in the National Data Center (NDC), including website, email and shared applications; Article 18 requires institutions with own data centres to take disaster recovery from the NDC.", "as_of": "2012-03-12", "date_precision": "day", "system": "Ministerial Instructions Nº 001/2012", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Center", "country_label": "National Data Center (NDC)", "class": "other", "platform": "", "owner": "a selected managing company on fee-for-service basis, for Government", "tiers": "central and local government institutions"},
+    {"system": "Ministerial Instructions Nº 001/2012", "country_label": "Ministerial Instructions related to ICT procurement", "class": "policy", "platform": "", "owner": "Ministry in the Office of the President in Charge of ICT", "tiers": "public institutions"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Mchumanisi", "country_label": "Mchumanisi (proposed National Data Exchange Platform)", "class": "other", "platform": "", "owner": "Government, under the proposed National Data Governance Policy", "tiers": "government institutions"}
+  ],
+  "note": "Draft data governance policy proposes a data exchange platform; no hosting or cloud policy is stated."
+}

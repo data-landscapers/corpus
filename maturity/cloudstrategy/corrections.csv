@@ -1,0 +1,12 @@
+iso3,n,aspect,value,action,why
+BWA,001,standing,adopted,removed,a roadmap that lists government cloud infrastructure among its priorities states no rule on where public bodies host
+COM,001,standing,none,removed,"the page says only that no cloud-first policy is confirmed, and gives no date for it; stage 1 needs a dated statement that there is none"
+DZA,001,use,named,removed,"an order to connect information systems through the national data centre is not a rule on where to host, and no policy is on record"
+MOZ,001,standing,adopted,removed,the decree licenses cloud providers; the source says it states no rule for public bodies' use of cloud
+SDN,001,standing,adopted,removed,"a regulation of commercial data-centre and cloud providers, which exempts government data centres and government cloud"
+SDN,002,standing,adopted,removed,"a regulation of commercial data-centre and cloud providers, which exempts government data centres and government cloud"
+UGA,001,use,named,removed,"a target for use of the national data centre in an agency's plan; the source says the plan does not require public bodies to host there, and no policy is on record"
+UGA,002,use,named,removed,"a target for use of the national data centre in an agency's plan; the source says the plan does not require public bodies to host there, and no policy is on record"
+ZAF,002,use,named,revalued: none,"the policy names the state IT agency as the buyer of cloud services, not a government cloud in service or a list of approved providers; a law firm's reading of the same text says it names neither"
+ZWE,001,standing,adopted,removed,an AI strategy that provides for a sovereign cloud to be built states no rule on where public bodies host
+NGA,005,use,named,revalued: none,"the policy says the state provider will aggregate demand and buying will go through a marketplace still to be set up; no government cloud in service is named and no list of approved providers is published. The second drafter's reading, and the lower one"

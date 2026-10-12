@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-18-approval-data-center-regulation",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "DLA Piper Africa reports the Cloud Computing Regulation was approved by Decree No. 72/2025 of 31 December 2025, as part of a digital transformation package creating a legal framework for technological sovereignty and data governance; the document describes licensing of providers and does not itself state a rule for public bodies' use of cloud.", "as_of": "2025-12-31", "date_precision": "day", "system": "Cloud Computing Regulation (Decree No. 72/2025)", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "DLA Piper Africa reports the Data Center Regulation was approved by Decree No. 71/2025 of 31 December 2025, with a 90-day vacatio legis and one year for operating data centres to comply, and that it covers digital sovereignty and national data protection for data centres located abroad and storage of information classified as State secret.", "as_of": "2025-12-31", "date_precision": "day", "system": "Data Center Regulation (Decree No. 71/2025)", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

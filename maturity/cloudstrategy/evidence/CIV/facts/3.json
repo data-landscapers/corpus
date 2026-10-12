@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-10-cote-divoire-cybastion-170m-digital-infrastructure-exim",
+  "facts": [],
+  "systems": [
+    {"system": "National sovereign data centre (Cybastion programme)", "country_label": "data center national souverain", "class": "other", "platform": "", "owner": "Government of Cote d'Ivoire, implemented by Cybastion with US EXIM Bank backing", "tiers": "national; public data hosting"},
+    {"system": "ST Digital Grand-Bassam sovereign data centre", "country_label": "centre de donnees souverain de Grand-Bassam", "class": "other", "platform": "OVHcloud partnership", "owner": "ST Digital", "tiers": "businesses and administrations"}
+  ],
+  "note": "States a sovereign data centre authorised and one inaugurated October 2025, but no hosting or cloud policy and no instruction to public bodies; a data centre alone is class other."
+}

@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Data Center national,Data Center national,other,,Government of Niger (Ministry of Communication),,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,national data center (planned),data center national,other,,Government of Niger,government applications and public services; businesses,2026-06-08-sofrecom-etude-faisabilite-data-center-national
+NER,centre de donnees national Tier III,data center national de niveau Tier III,other,,"Government of Niger (DTS project, AfDB-financed)",main administrative sites to be connected by 88 km urban loop,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,Datacenter Tiers 3 Niamey,Datacenter Tiers 3,other,,Government of Niger (DTS/FO project),,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,Datacenter Tiers 3 de Niamey (Dorsale Transsaharienne a Fibre Optique project),Datacenter Tiers 3,other,,"Government of Niger, AfDB-financed project",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,Data Center national (Niger),Data center,other,,"Ministry of Communication, Posts and Digital Economy",,2025-03-04-minister-raliou-national-data-center-interview-lesahel

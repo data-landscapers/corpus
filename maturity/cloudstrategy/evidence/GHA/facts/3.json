@@ -1,0 +1,26 @@
+{
+  "slug": "2024-06-26-government-working-to-host-all-data-centres-locally",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Ministry of Communications reports that Smart Africa and NITA held a validation workshop in Accra to gather stakeholder input for an enhanced regulatory framework for cloud and data centres in Ghana, with the Minister saying the government is working to have its data hosted locally; no adoption is stated, and the date is the document's published date, as it gives none for the workshop.",
+      "as_of": "2024-06-26",
+      "date_precision": "day",
+      "system": "Enhanced regulatory framework for cloud and data centres",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Enhanced regulatory framework for cloud and data centres",
+      "country_label": "Regulatory framework for cloud and data centres",
+      "class": "policy",
+      "platform": "",
+      "owner": "Ministry of Communications, Digital Technology and Innovations; NITA; Smart Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

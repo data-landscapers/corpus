@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-angop-infosi-backup-data-center-requalificacao",
+  "facts": [],
+  "systems": [
+    {"system": "Backup Data Center do INFOSI", "country_label": "Backup Data Center do INFOSI", "class": "other", "platform": "", "owner": "INFOSI", "tiers": ""},
+    {"system": "Data Center e Cloud do Governo", "country_label": "Data Center e Cloud do Governo (Camama)", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": ""}
+  ],
+  "note": "Reports a reinaugurated backup data centre within the government data centre and cloud; states no hosting or cloud policy, so no policy-class fact."
+}

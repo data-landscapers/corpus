@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "data center du Setic (modernisation prevue)", "country_label": "data center du Secretariat executif des TIC (Setic)", "class": "other", "platform": "", "owner": "Setic", "tiers": ""},
+    {"system": "cloud souverain (prevu)", "country_label": "cloud souverain", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Reports the National AI Strategy validation workshop (April 2026); its infrastructure axis plans Setic data center modernisation and a sovereign cloud, but states no hosting or cloud rule for public bodies, so no policy fact."
+}

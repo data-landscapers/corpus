@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-sudan-tpra-data-center-cloud-computing-regulations",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "TPRA's regulatory-framework catalogue, retrieved 2026-08-29, lists the Regulations for the Organization of Data Center and Cloud Computing Services, 2025 among its current regulations, with no end or replacement shown; the listing gives the year only and is a regulation of data-centre and cloud providers.", "as_of": "2025", "date_precision": "year", "system": "Regulations for the Organization of Data Center and Cloud Computing Services, 2025", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

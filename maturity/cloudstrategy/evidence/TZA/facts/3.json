@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-18-data-center-standards-guidelines-public-institutions",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The e-Government Authority's Data Center Standards and Guidelines for Public Institutions (eGA/EXT/IRA/003, version 2.0) was approved by its Board Chairperson on 18 February 2026, issued under s.49 of the e-Government Act No. 10 of 2019, to guide public institutions on where to host Government ICT applications; s.25(b)(ii) of the Act requires them to host systems in a Government approved hosting environment.", "as_of": "2026-02-18", "date_precision": "day", "system": "Data Center Standards and Guidelines for Public Institutions", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

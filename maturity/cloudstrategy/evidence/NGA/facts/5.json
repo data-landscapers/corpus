@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-05-nga-a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-busin",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "A law-firm review on Mondaq says Nigeria has issued the National Digital Cloud Policy, whose Parts I, II and IV (investment, government adoption, implementation) take effect on publication while Part III, the sovereignty framework, takes effect only on Presidential approval; the article gives no issue date, so its published date is used.", "as_of": "2026-10-05", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "ended", "fact": "The review says the National Digital Cloud Policy replaces the 2019 Nigeria Cloud Computing Policy; the article gives no replacement date, so its published date is used.", "as_of": "2026-10-05", "date_precision": "day", "system": "Nigeria Cloud Computing Policy 2019", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The review says Part II designates Galaxy Backbone Limited the primary digital infrastructure provider, aggregating government cloud demand and operating shared government platforms, with procurement through a National Digital Marketplace on which only certified providers may be listed; the article gives no date for the designation, so its published date is used.", "as_of": "2026-10-05", "date_precision": "day", "system": "Galaxy Backbone Limited", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Digital Marketplace", "country_label": "National Digital Marketplace", "class": "other", "platform": "", "owner": "NITDA, Bureau of Public Procurement and Galaxy Backbone Limited", "tiers": "federal ministries, departments and agencies"},
+    {"system": "Galaxy Backbone shared government platforms", "country_label": "Galaxy Backbone Limited (GBB)", "class": "other", "platform": "", "owner": "Galaxy Backbone Limited", "tiers": "federal ministries, departments and agencies"}
+  ],
+  "note": ""
+}

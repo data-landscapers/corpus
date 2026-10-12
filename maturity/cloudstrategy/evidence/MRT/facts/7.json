@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-30-apd-mauritanie-deliberation-005-2025-modifiee-cloud-etranger",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "The data-protection authority (APD) issued deliberation 005/2025 on minimum conditions for using cloud services abroad, requiring public- and private-sector data controllers to obtain APD authorisation before processing personal data on foreign cloud services and to include contract clauses on legal compliance, data transfer, data return on expiry and permanent deletion; the document publishes the amended text on 2026-04-30 and dates the original meeting 2025-07-30.",
+     "as_of": "2025-07-30", "date_precision": "day", "system": "Délibération n° 005/2025 (cloud services abroad)", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

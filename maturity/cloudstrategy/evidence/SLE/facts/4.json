@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-17-natca-hq-national-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "NatCA / Ministry of Communication, Technology and Innovation", "tiers": "government information, per the minister"}
+  ],
+  "note": "Same commissioning of the National Data Centre as reported elsewhere; no hosting or cloud policy is stated."
+}

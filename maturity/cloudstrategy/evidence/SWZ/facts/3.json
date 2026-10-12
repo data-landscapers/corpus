@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Royal Science and Technology Park (RSTP)", "tiers": "central government"},
+    {"system": "Government in Your Hand", "country_label": "Government in Your Hand", "class": "other", "platform": "", "owner": "RSTP (operator)", "tiers": "central government"}
+  ],
+  "note": "Reports outages and the Finance Minister's statement that the RSTP facility is not a fully operational data centre and a data recovery site loan was sought to be cancelled; no hosting or cloud policy is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-12-adetic-audit-certification-data-center-national",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center national", "country_label": "Data Center national", "class": "other", "platform": "Huawei equipment (PMICE project)", "owner": "ADETIC", "tiers": "national; hosting of public data and State digital services"}
+  ],
+  "note": "Reports a security audit visit to the national data centre ahead of official commissioning; states no hosting or cloud policy and no rule telling public bodies where to host."
+}

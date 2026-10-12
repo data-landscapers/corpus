@@ -1,0 +1,14 @@
+{
+  "slug": "2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Circulaire n° 16 of 22 July 2024, issued by the Head of Government to ministers, governors and heads of public bodies, generalises public bodies' adoption of cloud computing under the 'TN Government Cloud First Policy', and is listed as in force.", "as_of": "2024-07-22", "date_precision": "day", "system": "TN Government Cloud First Policy (Circulaire n° 16)", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The circular sets four hosting tiers: sensitive internal systems go in a private cloud or national or sectoral government cloud centres, shared G2G systems in government cloud centres, and citizen and business e-services in the body's private cloud, government cloud centres or providers holding the N-Cloud label, with G-Cloud labelled providers as the fallback for the first two tiers.", "as_of": "2024-07-22", "date_precision": "day", "system": "TN Government Cloud First Policy (Circulaire n° 16)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "TN Government Cloud First Policy (Circulaire n° 16)", "country_label": "Politique du Cloud Computing d'abord", "class": "policy", "platform": "", "owner": "Presidence du Gouvernement", "tiers": "all public bodies: ministries, governors, local authorities, public enterprises and public bodies"},
+    {"system": "G-Cloud label (government cloud service provider)", "country_label": "Fournisseur de services informatiques en nuage gouvernemental (G-Cloud)", "class": "other", "platform": "", "owner": "Ministry of Communication Technologies (label by arrete of 13 September 2023)", "tiers": "tiers 1 and 2"},
+    {"system": "N-Cloud label (national cloud service provider)", "country_label": "Fournisseur de services informatiques en nuage national (N-Cloud)", "class": "other", "platform": "", "owner": "Ministry of Communication Technologies (label by arrete of 13 September 2023)", "tiers": "tier 3"},
+    {"system": "National and sectoral government cloud centres", "country_label": "مراكز الحوسبة السحابية الحكومية الوطنية أو القطاعية", "class": "other", "platform": "", "owner": "", "tiers": "tiers 1, 2 and 3"}
+  ],
+  "note": ""
+}

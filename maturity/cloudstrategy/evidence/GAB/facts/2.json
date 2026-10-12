@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-07-gabon-datacenter-inauguration-figures",
+  "facts": [],
+  "systems": [
+    {"system": "Gabon national data center (Nkok)", "country_label": "first national data center", "class": "other", "platform": "ST Digital Tier III facility with cloud services room, colocation room and private hosting room", "owner": "ST Digital", "tiers": ""}
+  ],
+  "note": "Data centre inaugurated 3 July 2026 with ST Digital's claim that about 95% of Gabon's data is hosted abroad; no hosting or cloud policy stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-goc-san-executive-summary-bid-evaluation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "Government Online Centre",
+      "class": "other",
+      "platform": "clustered hypervisor, SAN, backup; main site and DR site",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "central government"
+    }
+  ],
+  "note": "Hardware bid evaluation for the GOC data centre and DR site; states no hosting or cloud policy."
+}

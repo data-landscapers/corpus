@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-nitda-unveils-cloud-policy-package-to-drive-nigerias-digital-infrastructure-gr",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "TechAfrica News reports that NITDA has introduced a four-part cloud policy package whose National Cloud Computing Guideline drives a Cloud First mandate across government institutions; the article gives no issue date, so its published date is used.", "as_of": "2026-09-14", "date_precision": "day", "system": "National Cloud Computing Guideline", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

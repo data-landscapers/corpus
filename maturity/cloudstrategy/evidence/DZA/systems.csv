@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Deuxième Centre national de données (Blida),Centre national de données,other,,Haut-Commissariat à la numérisation,national,2026-09-02-hcn-blida-deuxieme-centre-national-donnees-tier-iii-design
+DZA,Premier Centre national de données (El Mohammadia),Centre national de données,other,,Haut-Commissariat à la numérisation,national,2026-09-02-hcn-blida-deuxieme-centre-national-donnees-tier-iii-design
+DZA,National Data Center / National Digital Services Center,Centre national des services numériques,other,,Government of Algeria,all public administrations (ordered to connect),2026-07-15-one-month-deadline-data-center-integration--wearetech
+DZA,Dzair Digital Services,Dzair Digital Services,,,Government of Algeria,national,2026-07-15-one-month-deadline-data-center-integration--wearetech
+DZA,"National Digital Services Center (Algiers and Blida, active-active)",Centre national des services numériques,other,Huawei,Government of Algeria / Haut-Commissariat à la numérisation,all public administrations,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
+DZA,"Data center, Constantine",Data Center de Constantine,other,,Algérie Télécom,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
+DZA,"AI data center, Oran",Data Center IA d'Oran,other,,,,2026-07-08-national-digital-services-center-dual-data-centers--wearetech
+DZA,Centre national des services numériques,Centre national des services numériques,other,,State / Haut-Commissariat à la numérisation,"national, two sites",2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
+DZA,Centre national des services numériques (Alger and Blida),Centre national des services numériques,other,"Huawei servers, storage and network",State,national,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Data Center de Constantine,Data Center de Constantine,other,,Algérie Télécom,"enterprises, regional",2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Data Center IA d'Oran,Data Center IA d'Oran,other,,,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,National cloud (objective),cloud national,,,,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,National Digital Services Centre (Mohammadia),المركز الوطني للخدمات الرقمية,other,,High Commission for Digitalisation,,2026-07-05-national-centre-digital-services-inauguration-echorouk
+DZA,State sovereign cloud at the National Digital Services Centre,السحابة السيادية للدولة,other,,High Commission for Digitalisation,National People's Assembly,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
+DZA,Mohammadia Data Center / Cloud national,Cloud national,other,Huawei,High Commission for Digitalisation,,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,Constantine Data Center,Data Center de Constantine,other,,,enterprises,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,Blida data center,deuxième grand centre de données national,other,,,,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,ICOSNET cloud hosting and storage service,Hosting and cloud computing storage services,other,,ICOSNET SPA,,2026-03-12-icosnet-legal-notice-general-authorisation-cloud
+DZA,Mohammadia Data Center,Centre national de données,other,,High Commission for Digitalisation,,2026-02-22-aps-data-center-tier-iii-certification
+DZA,deuxième Centre national des données (Blida),Centre national algérien des services numériques / second national data centre,other,,Haut-Commissariat à la numérisation,,2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida
+DZA,biggest Data Center and computing center,national data and computing centre,other,,Algerian government,,2025-03-03-mpt-ai-data-centre-energy-competitiveness

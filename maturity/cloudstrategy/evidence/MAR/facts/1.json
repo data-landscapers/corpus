@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-01-ausim-livre-blanc-cloud-au-maroc",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "In the AUSIM white paper the delegate minister for digital transition says her ministry carries a Feuille de Route Cloud 2025-2030 of six objectives and 21 domains and is putting in place a public-sector 'Cloud First' policy, while the roadmap itself is described as not yet published, with a national reference architecture still to be defined from 2026; the document gives no adoption date.", "as_of": "2025-11", "date_precision": "month", "system": "Politique Cloud First (Feuille de Route Cloud 2025-2030)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Politique Cloud First / Feuille de Route Cloud 2025-2030", "country_label": "Politique Cloud First", "class": "policy", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform (MNTRA)", "tiers": "public sector"},
+    {"system": "Marketplace nationale du Cloud", "country_label": "Marketplace nationale du Cloud", "class": "other", "platform": "", "owner": "piloted by MNTRA, operated by ADD", "tiers": "public sector (planned)"},
+    {"system": "Cloud souverain", "country_label": "Cloud souverain", "class": "other", "platform": "", "owner": "", "tiers": "sensitive public data under Decree 2-24-921"}
+  ],
+  "note": ""
+}

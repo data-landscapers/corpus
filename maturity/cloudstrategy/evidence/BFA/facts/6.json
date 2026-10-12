@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-31-bfa-anptic-g-cloud-projet",
+  "facts": [],
+  "systems": [
+    {"system": "G-Cloud (Government Cloud)", "country_label": "G-Cloud", "class": "other", "platform": "", "owner": "ANPTIC (Agence Nationale de Promotion des TIC), under the Ministry of Digital Economy", "tiers": "public administrations; growth poles Bagré and Samandéni to have cloud nodes"}
+  ],
+  "note": "ANPTIC project page describes the G-Cloud private cloud infrastructure built 2015-2019 and its objectives; it states no hosting or cloud policy and does not tie G-Cloud to any rule requiring public bodies to use it."
+}

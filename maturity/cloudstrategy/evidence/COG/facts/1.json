@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-24-cog-aci-data-center-82-pourcent",
+  "facts": [],
+  "systems": [
+    {"system": "data center national (Bacongo, Brazzaville)", "country_label": "data center national", "class": "other", "platform": "", "owner": "Government of Congo; financed by the African Development Bank group", "tiers": ""}
+  ],
+  "note": "States the national data centre is to be operational by end 2026 with works at 82%; no hosting or cloud policy is mentioned, so no fact for the policy class."
+}

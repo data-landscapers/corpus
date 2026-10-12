@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-10-south-africa-national-cloud-and-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "ENSafrica reports the DCDT officially published the National Data and Cloud Policy (Government Gazette No. 50741) on 31 May 2024 under section 3(1) of the Electronic Communications Act, 2005, applying to national and provincial government, organs of state and the private sector.", "as_of": "2024-05-31", "date_precision": "day", "system": "National Data and Cloud Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "ENSafrica says the policy aims to migrate all government IT services to the cloud via decentralised private providers, requires government data centre infrastructure to be in the country, names no government cloud or provider list, and still needs implementation through consultation with SITA and departments (as of 10 June 2024).", "as_of": "2024-06-10", "date_precision": "day", "system": "National Data and Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data and Cloud Policy", "country_label": "National Data and Cloud Policy", "class": "policy", "platform": "", "owner": "DCDT", "tiers": "national; provincial; organs of state"}
+  ],
+  "note": ""
+}

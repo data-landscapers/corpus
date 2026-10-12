@@ -1,0 +1,11 @@
+{
+  "slug": "2024-10-11 South Africa's Significant Improvement in the UN e-Government Index 2024",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The DCDT statement lists 'the drafting of the Data and Cloud Strategy' among contributors to South Africa's UN e-government ranking; it gives no event date, so the document's published date of 2024-10-11 is used.", "as_of": "2024-10-11", "date_precision": "day", "system": "Data and Cloud Strategy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Data and Cloud Strategy", "country_label": "Data and Cloud Strategy", "class": "policy", "platform": "", "owner": "DCDT", "tiers": ""},
+    {"system": "National e-Government Portal", "country_label": "National e-Government Portal (eservices.gov.za)", "class": "other", "platform": "", "owner": "SITA, with DCDT", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-afrique-data-centers-souverainete-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "Data center de Nkok (ST Digital)", "country_label": "premier data center souverain, certifié Tier III", "class": "other", "platform": "", "owner": "ST Digital", "tiers": "State, banks, companies and telecom operators (stated aim)"}
+  ],
+  "note": "Describes the July 2026 Nkok data centre opening; no hosting or cloud policy for Gabon is stated."
+}

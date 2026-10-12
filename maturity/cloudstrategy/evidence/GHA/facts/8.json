@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Onix data centre, Accra",
+      "country_label": "Onix Tier IV data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Onix (majority-owned by AIIM, Old Mutual)",
+      "tiers": ""
+    }
+  ],
+  "note": "Names Ghana data centres (Onix) and operators; no Ghana hosting or cloud policy stated."
+}

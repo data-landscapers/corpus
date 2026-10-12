@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-17 Government data silos threaten Nigeria's AI ambitions",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "TechCabal reports that NITDA said it is working through the National Cloud Policy and developing data-exchange frameworks, and an NITDA official said the process is proving complex and 'will take longer than we anticipated'; the article does not say whether the policy was adopted, and the as_of date is the Tuesday AI Summit remarks before the 2026-06-17 publication.", "as_of": "2026-06-16", "date_precision": "day", "system": "National Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Cloud Policy", "country_label": "National Cloud Policy", "class": "policy", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": ""
+}

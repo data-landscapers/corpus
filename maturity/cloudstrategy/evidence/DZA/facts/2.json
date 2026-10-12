@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-15-one-month-deadline-data-center-integration--wearetech",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "At a Cabinet meeting on 12 July 2026 President Tebboune ordered public administrations to complete intersectoral interconnection of their information systems through the National Data Center within one month, per the Cabinet statement as reported by We Are Tech (article published 2026-07-15).", "as_of": "2026-07-12", "date_precision": "day", "system": "Cabinet order on interconnection through the National Data Center", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Center / National Digital Services Center", "country_label": "Centre national des services numériques", "class": "other", "platform": "", "owner": "Government of Algeria", "tiers": "all public administrations (ordered to connect)"},
+    {"system": "Dzair Digital Services", "country_label": "Dzair Digital Services", "class": "", "platform": "", "owner": "Government of Algeria", "tiers": "national"}
+  ],
+  "note": ""
+}

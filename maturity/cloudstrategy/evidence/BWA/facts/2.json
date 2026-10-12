@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The communications minister presented the ICT Roadmap 2030, which lists government cloud infrastructure among its priorities; the article gives no date for the roadmap itself, so its published date is used.", "as_of": "2026-03-09", "date_precision": "day", "system": "ICT Roadmap 2030", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Delta Digital Data Centre", "country_label": "Delta Digital Data Centre", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": "core government ICT systems, then applications from various ministries"}
+  ],
+  "note": "The roadmap is the only policy instrument named; the data centre migration is stated without tying it to the roadmap or any hosting rule."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2021-05-31-decreto-presidencial-135-21-estatuto-organico-do-infosi",
+  "facts": [],
+  "systems": [
+    {"system": "Centro Nacional de Dados", "country_label": "Centro Nacional de Dados", "class": "other", "platform": "", "owner": "INFOSI", "tiers": "public administration, ministries and provincial governments"}
+  ],
+  "note": "INFOSI's organic statute; gives it a mandate over the Centro Nacional de Dados and shared services but states no hosting or cloud policy or requirement."
+}

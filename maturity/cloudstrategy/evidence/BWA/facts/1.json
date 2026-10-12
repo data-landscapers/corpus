@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-06-digital-delta-data-centre-improve-public-service-delivery",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Delta Data Centre (DDDC)", "country_label": "Digital Delta Data Centre", "class": "other", "platform": "", "owner": "Botswana Fibre Networks (BoFiNet)", "tiers": "central government services"}
+  ],
+  "note": "Reports migration of critical government services to the BoFiNet data centre but names no hosting or cloud policy."
+}

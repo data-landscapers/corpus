@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08-ami-inauguration-data-center-nouakchott-1372m2-100-baies",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de Données de Nouakchott", "country_label": "Centre de Données de Nouakchott", "class": "other", "platform": "Tier III data centre, 1,372 m2, 100 racks; in-country cloud hosting, backup and disaster recovery services", "owner": "Government of Mauritania (Ministry of Digital Transformation); financed by the EIB", "tiers": "national; public administrations, financial institutions, startups and service providers"}
+  ],
+  "note": "Reports the data centre opened 2025-05-08 as the result of an unnamed 'ambitious policy'; names no hosting or cloud policy and no requirement that public bodies host there, so no fact of class policy."
+}

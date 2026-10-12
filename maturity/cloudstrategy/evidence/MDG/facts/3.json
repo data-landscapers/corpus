@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-12-appel-offres-datacenters-ugd-prodigy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGD datacenters Site A",
+   "country_label": "UGD datacenters Site A",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  },
+  {
+   "system": "UGD datacenters Site B",
+   "country_label": "UGD datacenters Site B",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Equipment tender for UGD data centres; no hosting or cloud policy stated."
+}

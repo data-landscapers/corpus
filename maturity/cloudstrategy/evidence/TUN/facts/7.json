@@ -1,0 +1,12 @@
+{
+  "slug": "2023-09-13-tunisie-arrete-label-g-cloud-n-cloud",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The ministerial order of 13 September 2023 (JORT no. 106, 15 September 2023) requires public bodies' software, platforms and infrastructure to be hosted in-house or with cloud providers according to four tiers, and makes any other arrangement subject to prior ANCS approval.", "as_of": "2023-09-13", "date_precision": "day", "system": "Arrete du 13 septembre 2023 (G-cloud and N-cloud labels)", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The order sets the hosting tiers as the body's own private cloud, a G-cloud labelled government provider, an N-cloud labelled national provider, and unlabelled providers, with ANCS issuing the labels, valid one year, to Tunisian providers with data centres on Tunisian territory.", "as_of": "2023-09-13", "date_precision": "day", "system": "G-cloud and N-cloud labels", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "G-cloud label", "country_label": "Fournisseur de services informatiques en nuage gouvernemental (G-cloud)", "class": "policy", "platform": "", "owner": "Agence Nationale de la Cybersecurite (ANCS)", "tiers": "second tier: used between government structures"},
+    {"system": "N-cloud label", "country_label": "Fournisseur de services informatiques en nuage national (N-cloud)", "class": "policy", "platform": "", "owner": "Agence Nationale de la Cybersecurite (ANCS)", "tiers": "third tier: used by government structures for businesses or citizens"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-18-nigeria-national-digital-cloud-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "TechCabal reports that on Monday 17 August 2026 the Federal Ministry of Communications, Innovation and Digital Economy released the National Digital Cloud Policy, which makes cloud the default deployment model for federal ministries, departments and agencies for new systems and requires phased migration plans.", "as_of": "2026-08-17", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "ended", "fact": "TechCabal reports that the National Digital Cloud Policy supersedes the Nigeria Cloud Computing Policy 2019, which first introduced the Cloud First principle and was implemented unevenly according to the new policy.", "as_of": "2026-08-17", "date_precision": "day", "system": "Nigeria Cloud Computing Policy 2019", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "TechCabal reports that under the policy Galaxy Backbone Limited will aggregate government cloud demand from registered providers and negotiate framework agreements, with procurement through a National Digital Marketplace on which NITDA handles provider registration; a 24-month roadmap plans migration of priority ministries in months six to twelve, with no migration yet reported.", "as_of": "2026-08-17", "date_precision": "day", "system": "National Digital Marketplace", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Digital Marketplace", "country_label": "National Digital Marketplace", "class": "other", "platform": "", "owner": "NITDA (registration), Bureau of Public Procurement (compliance), Galaxy Backbone (aggregation)", "tiers": "federal ministries, departments and agencies"},
+    {"system": "Galaxy Backbone Limited government cloud aggregation", "country_label": "Galaxy Backbone Limited (GBB)", "class": "other", "platform": "", "owner": "Galaxy Backbone Limited", "tiers": "federal ministries, departments and agencies"}
+  ],
+  "note": ""
+}

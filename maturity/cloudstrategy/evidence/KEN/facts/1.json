@@ -1,0 +1,16 @@
+{
+  "slug": "2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "Business Daily reports that the implementation guidelines of the 2025 Kenya Cloud Policy, published by the Ministry of ICT and the Digital Economy, prohibit entities from hosting systems and data in their own server rooms without Cloud Adoption Committee authorisation and give all State organs 24 months to migrate non-exempted systems; the document gives no date for the guidelines other than its publication date, 2026-08-06.",
+     "as_of": "2026-08-06", "date_precision": "day", "system": "Kenya Cloud Policy 2025", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "none",
+     "fact": "Business Daily reports that applications for accreditation as a government cloud service provider are open to a Cloud Adoption Committee yet to be established, one provider will be chosen from the accredited list to host all State data, and the list of eligible providers is yet to be published; the document gives no date for this other than its publication date, 2026-08-06.",
+     "as_of": "2026-08-06", "date_precision": "day", "system": "Kenya Cloud Policy 2025", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Konza data centre", "country_label": "Konza data centre", "class": "other", "platform": "", "owner": "State-owned", "tiers": ""},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "", "platform": "", "owner": "", "tiers": "State organs"}
+  ],
+  "note": ""
+}

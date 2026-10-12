@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-indiaexim-swz-drs-data-centre-2021-construction-of-disaster-recovery-site-for",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre disaster recovery site",
+      "country_label": "Disaster Recovery Site for the national data centre (RSTP Phase 2)",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Eswatini / Royal Science and Technology Park",
+      "tiers": "government IT systems"
+    }
+  ],
+  "note": "A data centre loan and stalled build; no hosting or cloud policy stated, so no policy-class fact."
+}

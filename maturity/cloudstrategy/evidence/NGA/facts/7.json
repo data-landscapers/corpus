@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-25-nigeria-national-cloud-taskforce-itweb",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "ITWeb Africa reports that the Federal Government's National Digital Cloud Policy targets US$750 million in private cloud and data-centre investment over the next 24 months, and that the National Sovereign Cloud Initiative Implementation Taskforce was inaugurated to move from policy to implementation; the article gives no adoption date, so its published date of 2026-08-25 is used.", "as_of": "2026-08-25", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": ""
+}

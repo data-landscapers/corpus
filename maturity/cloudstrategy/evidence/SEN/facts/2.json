@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The article states that after the Diamniadio National Datacenter was established in June 2021, President Macky Sall instructed his government to migrate all state data and digital platforms to it and to repatriate all national data hosted outside Senegal; it also says Senegal then required all servers to be housed within its borders.", "as_of": "2021-06", "date_precision": "month", "system": "Presidential instruction to migrate state data to the Diamniadio National Datacenter", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The article names the Diamniadio National Datacenter (built by Huawei on a China EximBank loan, cost given as $18.2 million) as the facility to which the President instructed all state data and platforms to be migrated; it gives no count of bodies that have moved.", "as_of": "2021-06", "date_precision": "month", "system": "Presidential instruction to migrate state data to the Diamniadio National Datacenter", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Diamniadio National Datacenter (DND)", "country_label": "Diamniadio National Datacenter", "class": "other", "platform": "Huawei-built", "owner": "Government of Senegal (Sénégal Numérique)", "tiers": "all state data and digital platforms, per the presidential instruction"}
+  ],
+  "note": "Third-party analysis (2025-09) citing a 2021 DCD report; the article's own dates are 2021 events, and the facts are the article's account of them."
+}

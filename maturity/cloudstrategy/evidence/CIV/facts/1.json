@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-30-femua-18-hub-africain-ia-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "national data center, Grand-Bassam", "country_label": "data center national à Grand-Bassam", "class": "other", "platform": "", "owner": "government (Ministry of Digital Transition)", "tiers": ""},
+    {"system": "data center, Yamoussoukro", "country_label": "data center à Yamoussoukro", "class": "other", "platform": "", "owner": "government (Ministry of Digital Transition)", "tiers": ""},
+    {"system": "sovereign cloud network", "country_label": "réseau de cloud souverain", "class": "other", "platform": "", "owner": "government (Ministry of Digital Transition)", "tiers": ""}
+  ],
+  "note": "The minister (29 April 2026) names data centres and a sovereign cloud under construction; no hosting or cloud policy is stated, and infrastructure alone places nothing."
+}

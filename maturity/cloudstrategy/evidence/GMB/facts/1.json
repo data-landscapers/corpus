@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-mocde-data-governance-trends-gambia",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Communications and Digital Economy's presentation lists a 'Government Cloud Policy, Strategy and implementation plan 2023' among the Gambia's policies, strategies and legal frameworks, and says the Government Cloud Strategy 2023-2027 builds on the cloud policy; the document gives no more specific date, so 2023 is the year the document names.", "as_of": "2023", "date_precision": "year", "system": "Government Cloud Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The presentation describes the Government Cloud Strategy (2023-2027) as aiming to modernise government service delivery through cloud adoption; the document gives no adoption date beyond the 2023-2027 period.", "as_of": "2023", "date_precision": "year", "system": "Government Cloud Strategy 2023-2027", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Government Cloud Policy, Strategy and implementation plan 2023", "country_label": "Government Cloud Policy", "class": "policy", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "Government Cloud Strategy 2023-2027", "country_label": "Government Cloud Strategy", "class": "policy", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-22-prodigy-tenders-data-center-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tsimbazaza data centre (principal)",
+   "country_label": "Tsimbazaza data centre (principal)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  },
+  {
+   "system": "Iavoloha data centre (secondary)",
+   "country_label": "Iavoloha data centre (secondary)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Tender news on data-centre rehabilitation; no hosting or cloud policy stated."
+}

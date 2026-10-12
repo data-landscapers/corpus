@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-04-build-local-data-centres-cloud-regulations-techafricanews",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "TechAfrica News reports that, at an event on or before its published date of 2025-12-04, the Minister of Communications and Digital Transformation said the government is drafting an updated regulatory framework for cloud adoption to replace current legal restrictions, alongside a five-year plan for domestic data centres to host cloud services for banks and other institutions.", "as_of": "2025-12", "date_precision": "month", "system": "Updated regulatory framework for cloud adoption", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

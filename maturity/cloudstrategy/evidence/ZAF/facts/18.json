@@ -1,0 +1,8 @@
+{
+  "slug": "2019-03-06 Microsoft opens first datacenters in Africa with general availability of Microsoft Azure",
+  "facts": [],
+  "systems": [
+    {"system": "Microsoft Azure Cape Town and Johannesburg regions", "country_label": "Microsoft Azure cloud regions in Cape Town and Johannesburg", "class": "other", "platform": "Microsoft Azure", "owner": "Microsoft", "tiers": ""}
+  ],
+  "note": "Vendor announcement of commercial cloud regions; no government hosting or cloud policy stated."
+}

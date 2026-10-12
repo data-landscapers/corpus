@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-27-benin-secondary-national-data-center",
+  "facts": [],
+  "systems": [
+    {"system": "National data center (Abomey-Calavi)", "country_label": "national data center", "class": "other", "platform": "", "owner": "SBIM, state-owned telecommunications company", "tiers": ""}
+  ],
+  "note": "States a feasibility study for a second national data centre and the existing 300 sqm one; no hosting or cloud policy and no tie to one."
+}

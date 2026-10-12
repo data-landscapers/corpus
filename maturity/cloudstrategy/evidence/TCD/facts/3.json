@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "other", "platform": "", "owner": "ADETIC", "tiers": "national"},
+    {"system": "100 micro-data centers", "country_label": "micro-data centers", "class": "other", "platform": "", "owner": "ADETIC", "tiers": "government institutions"}
+  ],
+  "note": "Reports a 2026-02-05 audit agreement for the national data centre and 100 micro data centres; states no hosting or cloud policy and no rule telling public bodies where to host."
+}

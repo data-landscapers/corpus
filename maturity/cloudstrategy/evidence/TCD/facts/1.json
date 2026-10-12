@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-agenceecofin-tchad-cybastion-finaliser-datacenter",
+  "facts": [],
+  "systems": [
+    {"system": "centre de données national", "country_label": "Centre de données national du Tchad", "class": "other", "platform": "", "owner": "Government of Chad (Telecommunications ministry)", "tiers": ""}
+  ],
+  "note": "Reports a data centre being audited and certified with Cybastion and Techso Group; states no hosting or cloud policy and no rule telling public bodies where to host."
+}

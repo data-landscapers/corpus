@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-cloudstrategy.md — the fourteenth maturity study: the government's hosting and cloud policy, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: cloudstrategy
@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-storage-cloud-strategy`, which as at 2026-08
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Government hosting and cloud policy | Data storage / cloud strategy: government hosting and cloud policy | `gov.policy--data-storage-cloud-strategy-hosting-policy` |
+| Government hosting and cloud policy | Data storage / cloud strategy: hosting policy | `gov.policy--data-storage-cloud-strategy-hosting-policy` |
 
 Anything else the evidence names is `other`, noted and never staged: a data centre or sovereign cloud built or planned with no policy behind it, an operator's commercial cloud, a rule on where private companies keep data, a data protection law.
 
@@ -75,10 +75,21 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: `study-select.py`, then the drafters, in the order of §5.
-- [ ] **D3. Stage**: `study-ladder-cloudstrategy.py`, the parent's reading of every fact that sets stage 4 or 5, and the agreement check.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 29 `about` stories; then the cited news of 44 countries; then the newest held news for 31 still short of questions 1 and 2. The policy texts were not opened, South Africa's excepted. 81 facts.
+- [x] **D3. Staged**: four at stage 4, eight at 3, four at 2, one at 1, none at 5, two unplaced and 35 with no evidence, as at 2026-09-30; eleven corrections by the parent; agreement 16 of 17.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **A head of government's instruction to host at a named place is a policy adopted** (Senegal, 2021; Burkina Faso's circular): it does the job, whatever its form.
+- **A regulation that licenses commercial cloud providers is not the government's hosting policy** (Sudan, Mozambique).
+- **Naming the agency that buys cloud services is not naming where to host** (South Africa, Nigeria): the one cell the second drafter read differently, and the lower reading stands.
+- **A sovereign cloud provided for in another strategy, or listed in a roadmap, is not a policy** (Zimbabwe, Botswana).
+- **An order to connect systems through a data centre, or a target for its use, is not a hosting rule** (Algeria, Uganda).
+- **A regulator's rule on public bodies' use of foreign cloud counts** (Mauritania).
+- **A source held with no web address gives no fact** (Nigeria's policy text): news of it carries the same.
+- **The summaries were written by the parent, not by writers**, to stay inside the ceiling.
 
 ## Boundary
 

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister",
+  "facts": [],
+  "systems": [
+    {"system": "Data Sharing Platform", "country_label": "Data Sharing Platform", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": "public institutions"},
+    {"system": "Shared Government Data Hub", "country_label": "Shared Government Data Hub", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""}
+  ],
+  "note": "States a National Data Sharing Policy (May 2025) on data exchange between public institutions, not on hosting or cloud use; no hosting or cloud policy fact."
+}

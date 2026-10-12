@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-14 Angola Nears Completion of National Data Center, Set for 2026 Launch",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "Ecofin reports the government said that once the national data centre, developed alongside a unified government cloud (about USD 90 million combined), is inaugurated, all government services must migrate to it within 30 days; no date given for the statement, so the document's published date is used.", "as_of": "2025-11-14", "date_precision": "day", "system": "National data centre and unified government cloud (INFOSI)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National data centre and unified government cloud", "country_label": "Data Centre Nacional / cloud unificada do governo", "class": "other", "platform": "modular, 12 containers of 28 racks (336 racks)", "owner": "INFOSI", "tiers": "all government services"}
+  ],
+  "note": ""
+}

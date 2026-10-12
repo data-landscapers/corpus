@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-hcn-blida-deuxieme-centre-national-donnees-tier-iii-design",
+  "facts": [],
+  "systems": [
+    {"system": "Deuxième Centre national de données (Blida)", "country_label": "Centre national de données", "class": "other", "platform": "", "owner": "Haut-Commissariat à la numérisation", "tiers": "national"},
+    {"system": "Premier Centre national de données (El Mohammadia)", "country_label": "Centre national de données", "class": "other", "platform": "", "owner": "Haut-Commissariat à la numérisation", "tiers": "national"}
+  ],
+  "note": "Data centre Tier III Design certification only; no hosting or cloud policy stated."
+}

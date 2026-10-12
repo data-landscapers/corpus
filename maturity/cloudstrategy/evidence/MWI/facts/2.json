@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre, Lilongwe", "class": "other", "platform": "", "owner": "Ministry of ICT, Department of eGovernment", "tiers": "government systems migrating; stated goal to host all public services there"}
+  ],
+  "note": "Reports migration of government systems to the national data centre but names no hosting or cloud policy, so no fact of the policy class."
+}

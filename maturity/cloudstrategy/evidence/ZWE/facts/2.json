@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-17-econet-ai-launch-cassava-compute",
+  "facts": [],
+  "systems": [
+    {"system": "Econet AI compute via Cassava Technologies", "country_label": "Econet AI", "class": "other", "platform": "Cassava Technologies GPU infrastructure", "owner": "Econet Wireless Zimbabwe / Cassava Technologies", "tiers": ""},
+    {"system": "Sovereign cloud for government and institutions", "country_label": "sovereign cloud", "class": "other", "platform": "", "owner": "Econet AI (mentioned at its launch)", "tiers": "government and institutions"}
+  ],
+  "note": "Operator's commercial AI compute launch; the sovereign cloud is mentioned only in passing with no policy, date or use by public bodies."
+}

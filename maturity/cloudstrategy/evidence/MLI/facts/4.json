@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-02 Mali unveils modern Tier III data centre",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Ministry of Communication, Digital Economy and Administration Modernisation", "tiers": "national government; state strategic data, e-administration platforms, public digital services; AES mutualised infrastructure short term"}
+  ],
+  "note": "A data centre inaugurated; the government says it ends dependence on foreign infrastructure and extraterritorial cloud, but no hosting or cloud policy is stated."
+}

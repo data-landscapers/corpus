@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01 Morocco adopts Cloud First Policy under Digital Morocco 2030",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "North Africa Post reports Morocco implemented a Cloud First Policy under Digital Morocco 2030, making cloud the mandatory default for all public-administration technology investments, per the ministry's director of cloud infrastructure; the article gives no date beyond its 2025 published year, which is used here.", "as_of": "2025", "date_precision": "year", "system": "Cloud First Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Cloud First Policy", "country_label": "Cloud First Policy", "class": "policy", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "all public administration"},
+    {"system": "Cloud excellence centre", "country_label": "Cloud excellence centre", "class": "other", "platform": "", "owner": "Ministry of Digital Transition with ADD", "tiers": ""},
+    {"system": "National cloud observatory", "country_label": "National cloud observatory", "class": "other", "platform": "", "owner": "", "tiers": "planned for 2027"}
+  ],
+  "note": ""
+}

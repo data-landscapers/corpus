@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-12-nigeria-nitda-national-sovereign-cloud",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Punch reports that Nigeria introduced a Cloud First policy in 2019 to discourage ministries, departments and agencies from building separate data centres and to encourage use of cloud services.", "as_of": "2019", "date_precision": "year", "system": "Cloud First policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Punch quotes NITDA Director-General Kashifu Inuwa saying the existing Cloud First policy remains in force and that government agencies are not prohibited from using international public cloud platforms; published 2026-08-12.", "as_of": "2026-08-12", "date_precision": "day", "system": "Cloud First policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Punch reports, quoting Inuwa, that NITDA's consultation process has produced three guidelines covering data classification and cloud policy, minimum requirements for cloud service providers, and digital quality assurance; no date is given, so the published date 2026-08-12 is used.", "as_of": "2026-08-12", "date_precision": "day", "system": "NITDA cloud guidelines", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Sovereign Cloud initiative", "country_label": "National Sovereign Cloud", "class": "other", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "Cloud First policy", "country_label": "Cloud First policy", "class": "policy", "platform": "", "owner": "NITDA", "tiers": "ministries, departments and agencies"}
+  ],
+  "note": ""
+}

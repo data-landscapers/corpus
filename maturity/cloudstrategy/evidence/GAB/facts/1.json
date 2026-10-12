@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-08-gabon-sovereign-datacenter-technical-spec",
+  "facts": [],
+  "systems": [
+    {"system": "Gabon sovereign data centre (Nkok)", "country_label": "first sovereign data centre", "class": "other", "platform": "ST DIGITAL Tier III facility with cloud room, colocation room and private AI room", "owner": "State in partnership with ST DIGITAL", "tiers": "government agencies, businesses, banks, public administrations"}
+  ],
+  "note": "Reports a data centre inaugurated in July 2026 and the government's hosting aims, but states no hosting or cloud policy and no instruction to public bodies to use it."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mohammadia Data Center / Cloud national",
+      "country_label": "Cloud national",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "High Commission for Digitalisation",
+      "tiers": ""
+    },
+    {
+      "system": "Constantine Data Center",
+      "country_label": "Data Center de Constantine",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "enterprises"
+    },
+    {
+      "system": "Blida data center",
+      "country_label": "deuxième grand centre de données national",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Feature on data centres; no hosting or cloud policy stated."
+}

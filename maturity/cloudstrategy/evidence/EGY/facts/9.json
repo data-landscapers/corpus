@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "On 2026-06-30 Al-Ahram reported the ICT ministry is preparing an integrated national strategy to regulate data-centre establishment, under presidential directives that include digital sovereignty and data localisation.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National data centre strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National data centre strategy",
+   "country_label": "الاستراتيجية الوطنية لمراكز البيانات",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

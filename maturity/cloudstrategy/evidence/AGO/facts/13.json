@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-angola-autonomia-armazenamento-documentos-data-center",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center e Cloud do Governo de Angola", "country_label": "Data Center e Cloud do Governo", "class": "other", "platform": "", "owner": "INFOSI, under MINTTICS", "tiers": "Ministries of Finance, Telecommunications, Interior, Education and Health connected by fibre"}
+  ],
+  "note": "Describes a government data centre built at USD 89 million, with replication to a secondary government data centre; it states no policy telling public bodies to host there, so it places nothing."
+}

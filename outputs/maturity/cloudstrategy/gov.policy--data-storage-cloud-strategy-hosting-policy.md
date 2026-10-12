@@ -1,0 +1,367 @@
+# Data storage / cloud strategy: hosting policy
+
+*As at 2026-09-30.*
+
+## The norm
+
+The African Union's Data Policy Framework asks each state to set rules for hosting its own data, by category, and to build national or regional cloud capacity; the Digital Transformation Strategy sets a target for hosting the continent's content on the continent. This study asks whether the policy exists, is adopted, names where to host and is being followed; it does not measure the capacity or the localisation.
+
+## The ladder
+
+| Stage | Answers |
+|---|---|
+| 1 Absent | A dated source says the government has no hosting or cloud policy and none is being written |
+| 2 Preparing | Yes to 1: a policy being written, or one that has ended with no successor adopted |
+| 3 Establishing | Yes to 1 and 2: a policy adopted and in force |
+| 4 Operating | Yes to 1, 2 and 3: the government has named where public bodies must host |
+| 5 Leading | Yes to all four: public bodies have moved onto the named hosting |
+
+## Countries by stage
+
+| Stage | Countries |
+|---|---|
+| 5 Leading | 0 |
+| 4 Operating | 4 |
+| 3 Established | 8 |
+| 2 Nascent | 4 |
+| 1 Absent | 1 |
+| Unplaced | 2 |
+| No evidence | 35 |
+
+## Countries
+
+### Burkina Faso: 4 Operating
+
+Burkina Faso tells public bodies to host nationally and opened two government cloud data centres in 2026; which bodies have moved is not known.
+
+- The ministry reported 120 public platforms inventoried for hosting in the country, the two inaugurated data centres being the destination, with repatriation begun and targeted for completion before end-2026; the document counts no body as having moved ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
+- ANPTIC's board chair set as the course for 2026 the repatriation of administrations' and institutions' data to the national data centres inaugurated in January 2026; no body is stated to have moved ([source, 2026-03-24](https://anptic.gov.bf/actualites/lanptic-tient-sa-1ere-session-ordinaire-du-conseil-dadministration-de-lannee-2026/)).
+- The government's "Zéro donnée à l'extérieur" chantier, one of the twelve digital-transformation chantiers to 2030, aims to host platforms and data on national territory, and the Prime Minister's half-year evaluation of 25 July 2026 reported it as under implementation ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
+
+### Rwanda: 4 Operating
+
+Rwanda has required critical government systems to be hosted in the National Data Center since 2012; which bodies have moved recently is not known.
+
+- Article 17 of the Ministerial Instructions requires all Government IT systems and applications that process, store or provide critical Government data to be hosted in the National Data Center (NDC), including website, email and shared applications; Article 18 requires institutions with own data centres to take disaster recovery from the NDC ([source, 2012-03-12](https://rwandalii.org/akn/rw/act/min/2012/1/eng@2012-03-12)).
+- Ministerial Instructions Nº 001/2012, issued by the Minister in the Office of the President in Charge of ICT and in force from signature on 2012-03-12, include a rule on hosting critical Government data and systems; the document states no end or replacement ([source, 2012-03-12](https://rwandalii.org/akn/rw/act/min/2012/1/eng@2012-03-12)).
+
+### Senegal: 4 Operating
+
+Senegal's president instructed in 2021 that all state data move to the Diamniadio national data centre; which bodies have moved is not known.
+
+- The article names the Diamniadio National Datacenter (built by Huawei on a China EximBank loan, cost given as $18.2 million) as the facility to which the President instructed all state data and platforms to be migrated; it gives no count of bodies that have moved ([source, 2021-06](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/)).
+- The report names the Diamniadio National Datacenter, managed by the state IT agency ADIE, as the facility where all government data and applications are to be migrated and hosted; its first phase was due to open in about six months, and no count of bodies moved is given ([source, 2021-06](https://www.datacenterdynamics.com/en/news/senegal-to-migrate-all-government-data-and-applications-to-new-government-data-center/)).
+- The article states that after the Diamniadio National Datacenter was established in June 2021, President Macky Sall instructed his government to migrate all state data and digital platforms to it and to repatriate all national data hosted outside Senegal; it also says Senegal then required all servers to be housed within its borders ([source, 2021-06](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/)).
+
+### Tunisia: 4 Operating
+
+Tunisia's 2024 Cloud First circular sets hosting tiers and a list of labelled providers was published in 2026; which bodies have moved is not known.
+
+- The article says the national cybersecurity agency (ANCS) published a list of labelled providers on 17 September 2026 with six N-Cloud entries, the providers public bodies are directed to ([source, 2026-09-17](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)).
+- The circular sets four hosting tiers: sensitive internal systems go in a private cloud or national or sectoral government cloud centres, shared G2G systems in government cloud centres, and citizen and business e-services in the body's private cloud, government cloud centres or providers holding the N-Cloud label, with G-Cloud labelled providers as the fallback for the first two tiers ([source, 2024-07-22](https://legislation-securite.tn/latest-laws/circulaire-n-16-du-22-juillet-2024-portant-sur-la-generalisation-de-ladoption-par-les-structures-publiques-des-solutions-de-cloud-computing-pour-lhebergement-des-logiciels-de/)).
+- The article says a Cloud First doctrine of 2024 reinforced the 2023 orientation of public systems and services towards labelled cloud providers, and that a circular of 2 September 2026 tightens hosting requirements for public bodies ([source, 2024](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)).
+
+### Egypt: 3 Established
+
+Egypt adopted a Cloud First Policy in 2024, in force since August 2024; where public bodies must host under it is not known.
+
+- Digital Policy Alert records that the Cloud First Policy (2024), including its data localisation requirement, entered into force on 22 August 2024 ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
+- Digital Policy Alert records that the Supreme Council of Digital Society adopted the Cloud First Policy on 13 March 2024, requiring data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-03-13](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
+
+### Gambia: 3 Established
+
+The Gambia has a government cloud policy and strategy dated 2023; where public bodies must host under it is not known.
+
+- The Ministry of Communications and Digital Economy's presentation lists a 'Government Cloud Policy, Strategy and implementation plan 2023' among the Gambia's policies, strategies and legal frameworks, and says the Government Cloud Strategy 2023-2027 builds on the cloud policy; the document gives no more specific date, so 2023 is the year the document names ([source, 2023](https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf)).
+
+### Kenya: 3 Established
+
+Kenya's Cloud Policy took effect in May 2025 and gives State bodies 24 months to migrate; the list of approved providers is not yet published.
+
+- Business Daily reports that the implementation guidelines of the 2025 Kenya Cloud Policy, published by the Ministry of ICT and the Digital Economy, prohibit entities from hosting systems and data in their own server rooms without Cloud Adoption Committee authorisation and give all State organs 24 months to migrate non-exempted systems; the document gives no date for the guidelines other than its publication date, 2026-08-06 ([source, 2026-08-06](https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208)).
+- Tech Africa News reports the National Cloud Policy among the policy and regulatory reforms already achieved with Executive-Parliament collaboration, as told by the ICT State Department's Principal Secretary; the article gives no date for the policy, so its published date 2026-07-30 is used ([source, 2026-07-30](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/)).
+
+### Mauritania: 3 Established
+
+Mauritania's data-protection authority has required its authorisation for cloud services abroad since 2025; where public bodies must host is not known.
+
+- The APD's monthly meeting of 29 April 2026 had on its agenda the approval of amendments to some articles of deliberation 2025/005 on minimum conditions for outsourcing to the cloud abroad, and the members took decisions on the agenda items without the minute stating the amended wording ([source, 2026-04-29](https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-16/)).
+- The data-protection authority (APD) issued deliberation 005/2025 on minimum conditions for using cloud services abroad, requiring public- and private-sector data controllers to obtain APD authorisation before processing personal data on foreign cloud services and to include contract clauses on legal compliance, data transfer, data return on expiry and permanent deletion; the document publishes the amended text on 2026-04-30 and dates the original meeting 2025-07-30 ([source, 2025-07-30](https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7-%d8%a7/)).
+
+### Morocco: 3 Established
+
+Morocco made cloud the mandatory default for public-administration technology spending in 2025; where public bodies must host is not known.
+
+- North Africa Post reports Morocco implemented a Cloud First Policy under Digital Morocco 2030, making cloud the mandatory default for all public-administration technology investments, per the ministry's director of cloud infrastructure; the article gives no date beyond its 2025 published year, which is used here ([source, 2025](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html)).
+
+### Nigeria: 3 Established
+
+Nigeria released a National Digital Cloud Policy in August 2026, replacing its 2019 policy; a government cloud in service is not yet named.
+
+- NITDA's director-general said frameworks such as the National Digital Cloud Policy and its investment roadmap are intended to give private capital clearer pathways to enter the market; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy/)).
+- NITDA's director-general said the government is using a newly institutionalised Cloud-First Policy to consolidate public-sector technology spending, and that under the National Digital Cloud Policy Nigeria targets about $750 million of digital infrastructure investment within two years; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-moves-to-harness-1bn-public-it-demand-for-domestic-cloud-ecosystem/)).
+
+### South Africa: 3 Established
+
+South Africa gazetted its National Policy on Data and Cloud in May 2024; no government cloud or list of providers is named.
+
+- President Ramaphosa said in March 2025 that government published the National Data and Cloud Policy the previous year (2024); the document gives no month ([source, 2024](https://www.gov.za/news/speeches/president-cyril-ramaphosa-microsoft-investment-and-ai-skilling-initiative)).
+- The Department of Communications and Digital Technologies published the National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 on 31 May 2024; it covers national and provincial government and organs of state, and sets out government's position on cloud-based long-term data storage and compute ([source, 2024-05-31](https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf)).
+
+### Tanzania: 3 Established
+
+Tanzania approved hosting standards for public institutions in February 2026; the approved hosting environments are not named.
+
+- The e-Government Authority's Data Center Standards and Guidelines for Public Institutions (eGA/EXT/IRA/003, version 2.0) was approved by its Board Chairperson on 18 February 2026, issued under s.49 of the e-Government Act No. 10 of 2019, to guide public institutions on where to host Government ICT applications; s.25(b)(ii) of the Act requires them to host systems in a Government approved hosting environment ([source, 2026-02-18](https://www.ega.go.tz/uploads/standarddocuments/sw-1773257204-FINAL%20Reviewed_Data%20Center%20Standards%20and%20Guidelines%20for%20Public%20Institutions-18.2.2026.pdf)).
+
+### Angola: 2 Nascent
+
+Angola has a hosting policy being written and none in force, so where public bodies must host is not known.
+
+- The Instituto de Modernizacao Administrativa's terms of reference (document 01/IMA/2026, version 1.2 of 9 March 2026, under the PADA project) procure a five-month consultancy to structure, draft and consolidate the Politica Nacional de Gestao e Hospedagem de Dados Publicos and its implementing regulation, including hosting rules by data category (on-premises, government or sovereign cloud, hybrid, conditions for public cloud) and residency rules ([source, 2026-03-09](https://c2a.portais.gov.ao/uploads/TDR_Contratacao_de_Servico_de_Consultoria_Apoio_Estrategico_e_Juridico_a810d7f256.pdf)).
+
+### Ghana: 2 Nascent
+
+Ghana held a validation workshop on a cloud and data centre framework in 2024; whether the framework has been adopted is not known.
+
+- The Ministry of Communications reports that Smart Africa and NITA held a validation workshop in Accra to gather stakeholder input for an enhanced regulatory framework for cloud and data centres in Ghana, with the Minister saying the government is working to have its data hosted locally; no adoption is stated, and the date is the document's published date, as it gives none for the workshop ([source, 2024-06-26](https://moc.gov.gh/2024/06/26/government-working-to-host-all-data-centres-locally/)).
+
+### Libya: 2 Nascent
+
+Libya had a national cloud computing policy out for consultation in 2026; whether it has been adopted is not known.
+
+- The General Information Authority held a consultative meeting with ESCWA, ministries, private-sector and civil-society representatives to review the proposed National Cloud Computing Policy, a unified framework for hosting government data and services, and agreed to incorporate feedback toward its final version; the document gives no date for the event other than its published date of 2026-01-01 ([source, 2026-01-01](https://www.gia.gov.ly/en/2026/01/01/the-general-information-authority-presents-the-proposed-national-cloud-computing-policy-in-collaboration-with-escwa/)).
+
+### Mozambique: 2 Nascent
+
+Mozambique said in 2025 it is drafting a new framework for cloud adoption; whether one has been adopted for public bodies is not known.
+
+- TechAfrica News reports that, at an event on or before its published date of 2025-12-04, the Minister of Communications and Digital Transformation said the government is drafting an updated regulatory framework for cloud adoption to replace current legal restrictions, alongside a five-year plan for domestic data centres to host cloud services for banks and other institutions ([source, 2025-12](https://techafricanews.com/2025/12/04/mozambique-to-build-local-data-centres-and-new-regulations-for-cloud-adoption/)).
+
+### Malawi: 1 Absent
+
+Malawi had no cloud policy enacted as at June 2025, the World Bank records; whether one is being written is not known.
+
+- The World Bank DMAP status report records zero government data governance frameworks, including data classification and cloud policies, enacted and mandated for use as at 30 June 2025, against a target of 3 by October 2030 ([source, 2025-06-30](https://documents1.worldbank.org/curated/en/099100325094017738/pdf/P505095-2fb01803-deaa-46f1-8e6f-5bc277a0b2ce.pdf)).
+
+### Central African Republic: Unplaced
+
+A 2023 World Bank record shows no government cloud policy in Central African Republic; nothing newer is held, so no stage is set.
+
+Not established: No policy or draft is on record, and no source dated in the last three years says the government has neither.
+
+### Eritrea: Unplaced
+
+A 2022 World Bank record shows no government cloud policy in Eritrea; nothing newer is held, so no stage is set.
+
+Not established: No policy or draft is on record, and no source dated in the last three years says the government has neither.
+
+### Algeria: No evidence
+
+Nothing held says Algeria has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Benin: No evidence
+
+Nothing held says Benin has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Botswana: No evidence
+
+Nothing held says Botswana has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Burundi: No evidence
+
+Nothing held says Burundi has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Cameroon: No evidence
+
+Nothing held says Cameroon has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Cape Verde: No evidence
+
+Nothing held says Cape Verde has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Chad: No evidence
+
+Nothing held says Chad has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Comoros: No evidence
+
+Nothing held says Comoros has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Congo: No evidence
+
+Nothing held says Congo has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Cote d'Ivoire: No evidence
+
+Nothing held says Cote d'Ivoire has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### DR Congo: No evidence
+
+Nothing held says DR Congo has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Djibouti: No evidence
+
+Nothing held says Djibouti has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Equatorial Guinea: No evidence
+
+Nothing held says Equatorial Guinea has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Eswatini: No evidence
+
+Nothing held says Eswatini has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Ethiopia: No evidence
+
+Nothing held says Ethiopia has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Gabon: No evidence
+
+Nothing held says Gabon has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Guinea: No evidence
+
+Nothing held says Guinea has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Guinea-Bissau: No evidence
+
+Nothing held says Guinea-Bissau has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Lesotho: No evidence
+
+Nothing held says Lesotho has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Liberia: No evidence
+
+Nothing held says Liberia has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Madagascar: No evidence
+
+Nothing held says Madagascar has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Mali: No evidence
+
+Nothing held says Mali has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Mauritius: No evidence
+
+Nothing held says Mauritius has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Namibia: No evidence
+
+Nothing held says Namibia has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Niger: No evidence
+
+Nothing held says Niger has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Sao Tome and Principe: No evidence
+
+Nothing held says Sao Tome and Principe has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Seychelles: No evidence
+
+Nothing held says Seychelles has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Sierra Leone: No evidence
+
+Nothing held says Sierra Leone has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Somalia: No evidence
+
+Nothing held says Somalia has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### South Sudan: No evidence
+
+Nothing held says South Sudan has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Sudan: No evidence
+
+Nothing held says Sudan has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Togo: No evidence
+
+Nothing held says Togo has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Uganda: No evidence
+
+Nothing held says Uganda has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Zambia: No evidence
+
+Nothing held says Zambia has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.
+
+### Zimbabwe: No evidence
+
+Nothing held says Zimbabwe has a government hosting or cloud policy, or says it has none, so no stage is set.
+
+Not established: Nothing held names a government hosting or cloud policy, or says there is none.

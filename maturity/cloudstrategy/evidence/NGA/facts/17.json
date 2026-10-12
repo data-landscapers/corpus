@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-05-nitda-signs-sovereign-cloud-framework-to-boost-ai-data-centre-investment",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "NITDA signed the National Cloud Computing Guideline, the National Cloud Technical Guideline and the National Digital Infrastructure Assurance Framework and presented the National Cloud Investment Strategy, with implementation beginning immediately in phases; the article gives no signing date, so the published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "National Cloud Computing Guideline", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "other", "platform": "", "owner": "NITDA", "tiers": ""},
+    {"system": "National digital regulatory platform for cloud providers", "country_label": "", "class": "other", "platform": "", "owner": "NITDA", "tiers": "planned to be operational by October 2026 for onboarding, assessment, certification and regulation of cloud and digital infrastructure providers"}
+  ],
+  "note": ""
+}

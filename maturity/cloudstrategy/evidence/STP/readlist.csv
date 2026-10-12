@@ -1,0 +1,4 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,STP,status,gov.policy,,outputs/reports/STP/STP-status.md,,"Strategies, plans and policies",,,status,,0,429
+,,,,STP,status,infra.store,,outputs/reports/STP/STP-status.md,,Data Storage,,,status,,0,331
+1,1,rung,instrument,STP,raw,2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness,passages,scripts/.workroot/study/cloudstrategy/passages/STP/2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness.md,https://www.tralac.org/documents/resources/africa/8051-africa-economic-update-october-2026-world-bank/file.html,"Africa Economic Update, October 2026: Building AI Readiness",2026-10-01,XSS,regional,cloud strategy,1,417

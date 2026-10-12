@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-18-cybil-feasibility-study-guinea-bissau-cybersecurity",
+  "facts": [],
+  "systems": [
+    {"system": "National GovCloud", "country_label": "National GovCloud for Guinea-Bissau", "class": "other", "platform": "", "owner": "Government of Guinea-Bissau", "tiers": ""}
+  ],
+  "note": "Project record: a feasibility study assessed requirements for a national cloud and produced terms of reference to establish a National GovCloud, plus a draft cybersecurity strategy; no hosting or cloud policy is stated, so a cloud build-out alone gives no fact."
+}

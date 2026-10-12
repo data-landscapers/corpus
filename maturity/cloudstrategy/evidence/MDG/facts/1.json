@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tsimbazaza data centre (principal)",
+   "country_label": "Tsimbazaza data centre (principal)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  },
+  {
+   "system": "Iavoloha data centre (secondary)",
+   "country_label": "Iavoloha data centre (secondary)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centres for the national ID system under PRODIGY; no hosting or cloud policy stated."
+}

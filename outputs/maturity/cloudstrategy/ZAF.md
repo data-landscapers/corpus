@@ -1,0 +1,11 @@
+# South Africa
+
+## Government hosting and cloud policy
+
+**Policy adopted.** The Department of Communications and Digital Technologies [published the National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 on 31 May 2024](<https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf>). It covers national and provincial government and organs of state. It was [published under section 3(1) of the Electronic Communications Act, 2005](<https://www.ensafrica.com/news/detail/8715/south-africas-new-national-cloud-and-data-pol/>), and the department listed [the drafting of a Data and Cloud Strategy](<https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html>) among its work in October 2024.
+
+**Named hosting and moves.** The policy says [government data shall be stored in unified, cloud-enabled data centres in designated locations, names the State Information Technology Agency as the authority to source data infrastructure and cloud services for government, and makes cloud the first option for new ICT procurement](<https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf>). A law firm's reading of June 2024 is that it [requires government data-centre infrastructure to be in the country and still needs implementing with the agency and departments](<https://www.ensafrica.com/news/detail/8715/south-africas-new-national-cloud-and-data-pol/>).
+
+***Noted, not assessed***. [Unified cloud-enabled government data centres](<https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf>); [National e-Government Portal](<https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html>); [Oracle Cloud Johannesburg Region](<https://www.oracle.com/news/announcement/oracle-cloud-johannesburg-region-2022-01-19/>); [Microsoft Azure Cape Town and Johannesburg regions](<https://azure.microsoft.com/en-us/blog/microsoft-opens-first-datacenters-in-africa-with-general-availability-of-microsoft-azure/>).
+
+***Not held***. No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-eritel-private-cloud-services",
+  "facts": [],
+  "systems": [
+    {"system": "Eritel Nextcloud (Private Cloud Services)", "country_label": "Eritel Private Cloud Services", "class": "other", "platform": "Nextcloud, offered as Platform-as-a-Service", "owner": "Eritel Telecom Corporation", "tiers": ""}
+  ],
+  "note": "Operator's commercial private-cloud service page; states no government hosting or cloud policy and no public-body use."
+}

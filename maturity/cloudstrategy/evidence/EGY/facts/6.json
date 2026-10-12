@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-techafricanews-egypt-vodafone-elsewedy-cassava-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "On 2026-09-08 the ICT minister said the ministry is developing a national data centre strategy covering storage and compute needs, investment, regulation and legislation, standards, sustainability, skills and digital sovereignty.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "National data centre strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National data centre strategy",
+   "country_label": "الاستراتيجية الوطنية لمراكز البيانات",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

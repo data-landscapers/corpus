@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-leadership-nitda-data-sovereignty-digital-infrastructure-investment",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The NITDA director-general, speaking at ITW Data Cloud Africa 2026 in Nairobi, referred to the National Digital Cloud Policy and its investment roadmap, and to a National Cloud Infrastructure Strategy, as existing instruments expected to give investors clarity; the article gives no adoption date, so the published date is used.", "as_of": "2026-09-10", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "other", "platform": "", "owner": "Federal Government of Nigeria (NITDA)", "tiers": ""}
+  ],
+  "note": ""
+}

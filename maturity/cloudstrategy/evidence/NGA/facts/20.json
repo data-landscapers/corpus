@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-17-nigeria-national-digital-cloud-policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Cloud Policy",
+   "country_label": "National Digital Cloud Policy",
+   "class": "policy",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation and Digital Economy; NITDA",
+   "tiers": "federal MDAs; states and local governments may join voluntarily"
+  },
+  {
+   "system": "Nigeria Cloud Computing Policy 2019",
+   "country_label": "Nigeria Cloud Computing Policy 2019",
+   "class": "policy",
+   "platform": "",
+   "owner": "Federal Government",
+   "tiers": "federal public institutions"
+  },
+  {
+   "system": "Galaxy Backbone Limited (GBB) aggregation and hosting",
+   "country_label": "Galaxy Backbone",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited, state-owned enterprise",
+   "tiers": "federal MDAs; participating states"
+  },
+  {
+   "system": "National Digital Marketplace",
+   "country_label": "National Digital Marketplace",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA (registration), BPP (compliance), GBB (operation)",
+   "tiers": "federal MDAs; participating states"
+  }
+ ],
+ "note": "The policy's own text, held with no URL, so no fact is taken from it: a row needs a link. News of the same policy states its adoption, what it supersedes and the hosting it names."
+}

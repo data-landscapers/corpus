@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-24-cog-vox-vpm-inspecte-data-center-solaire",
+  "facts": [],
+  "systems": [
+    {"system": "Data center de Bacongo (data center national)", "country_label": "Data center", "class": "other", "platform": "", "owner": "Government of Congo; built with the African Development Bank", "tiers": ""}
+  ],
+  "note": "Site inspection of the national data centre and a solar farm; no hosting or cloud policy and no instruction to public bodies to host there is stated."
+}

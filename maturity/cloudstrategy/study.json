@@ -77,9 +77,17 @@
       "key": "policy",
       "label": "Government hosting and cloud policy",
       "subject": "gov.policy",
-      "text": "Data storage / cloud strategy: government hosting and cloud policy",
+      "text": "Data storage / cloud strategy: hosting policy",
       "indicator_id": "gov.policy--data-storage-cloud-strategy-hosting-policy",
-      "class": "policy"
+      "class": "policy",
+      "criteria": [
+        "A source from the past three years says the government has no hosting or cloud policy and none is being written.",
+        "A government hosting or cloud policy is being written or is out for consultation, or the last one has ended with no successor adopted. A data centre or government cloud with no policy behind it does not count.",
+        "A policy on where the state's data is hosted, or on how public bodies may use cloud, is adopted and in force. It may be a cloud-first policy, a circular, a hosting standard or part of a larger strategy or law. Where public bodies must host is not yet named.",
+        "The government has named where public bodies must host: a government cloud or data centre in service that the policy tells them to use, or a published list of approved providers.",
+        "Public bodies have moved onto the named hosting in the past three years: a dated source names or counts the ministries or agencies that have. How good the policy is, is not judged."
+      ],
+      "criteria_of": "96bff153cc73"
     }
   ],
   "classes": [

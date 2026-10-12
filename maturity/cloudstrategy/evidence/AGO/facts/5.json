@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de Dados do Governo", "country_label": "Centro de Dados do Governo", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": "ministries, public institutions, organs of sovereignty"},
+    {"system": "Nuvem Nacional de Angola (Government Cloud)", "country_label": "Nuvem Nacional de Angola", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": "ministries, public institutions, organs of sovereignty"}
+  ],
+  "note": "Says progressive and obligatory migration of public services to the national cloud is foreseen, but cites no adopted policy or instrument and gives no date for the obligation; recorded as no fact."
+}

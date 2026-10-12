@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Wingu", "country_label": "Wingu", "class": "other", "platform": "", "owner": "Wingu (data centre operator; Djibouti Telecom a state joint-venture partner)", "tiers": "Djibouti government as anchor tenant"}
+  ],
+  "note": "Regional opinion piece; says only that Djibouti is an anchor tenant of the commercial operator Wingu, with no hosting or cloud policy stated, so no policy-class fact."
+}

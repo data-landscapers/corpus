@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-05-swz-times-e182m-data-centre-loan-not-cancelled",
+  "facts": [],
+  "systems": [
+    {"system": "Data Recovery Site (DRS), Siteki", "country_label": "Data Recovery Site", "class": "other", "platform": "", "owner": "Government of Eswatini (ICT ministry); financed by Exim Bank of India loan", "tiers": ""}
+  ],
+  "note": "Reports on the Exim Bank loan for a disaster-recovery data site; infrastructure and financing, states no hosting or cloud policy."
+}

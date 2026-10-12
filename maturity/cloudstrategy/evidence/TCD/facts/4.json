@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch",
+  "facts": [],
+  "systems": [
+    {"system": "national data center", "country_label": "national data center", "class": "other", "platform": "", "owner": "ADETIC", "tiers": "national"},
+    {"system": "100 micro data centers", "country_label": "micro data centers", "class": "other", "platform": "", "owner": "ADETIC", "tiers": "government institutions"}
+  ],
+  "note": "Reports the 2026-02-05 audit agreement and the Chad Connection 2030 plan (a national digital development plan); states no hosting or cloud policy."
+}

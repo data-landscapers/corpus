@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida",
+  "facts": [],
+  "systems": [
+    {"system": "deuxième Centre national des données (Blida)", "country_label": "Centre national algérien des services numériques / second national data centre", "class": "other", "platform": "", "owner": "Haut-Commissariat à la numérisation", "tiers": ""}
+  ],
+  "note": "Reports installation start of a data centre at Blida; states no hosting or cloud policy."
+}

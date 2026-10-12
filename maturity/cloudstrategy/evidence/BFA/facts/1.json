@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-02-100-visages-du-burkina-digital-michael-folane",
+  "facts": [],
+  "systems": [
+    {"system": "G-Cloud", "country_label": "G-Cloud", "class": "other", "platform": "", "owner": "ANPTIC", "tiers": ""},
+    {"system": "RESINA", "country_label": "Réseau Informatique National de l'Administration (RESINA)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Biographical profile; names the G-Cloud project as a national cloud infrastructure for the administration but gives no dated policy, rule or move."
+}

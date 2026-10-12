@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-27-data-center-mtn-benin",
+  "facts": [],
+  "systems": [
+    {"system": "MTN Data Center", "country_label": "MTN Data Center", "class": "other", "platform": "", "owner": "MTN Bénin", "tiers": ""}
+  ],
+  "note": "Operator's commercial colocation page; no government policy."
+}

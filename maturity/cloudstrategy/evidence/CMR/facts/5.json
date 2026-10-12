@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-29-rollout-20000-smart-meters-ami-world-bank-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Douala data centre for smart-meter data", "country_label": "", "class": "other", "platform": "", "owner": "MINEE / PRSEC programme", "tiers": ""}
+  ],
+  "note": "Electricity smart-metering story; mentions a data centre under construction in Douala, no hosting or cloud policy."
+}

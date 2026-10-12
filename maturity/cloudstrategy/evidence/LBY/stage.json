@@ -1,0 +1,16 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "2",
+   "standing": "draft",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "No source held says a government hosting or cloud policy is adopted and in force.",
+   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
+  }
+ ]
+}

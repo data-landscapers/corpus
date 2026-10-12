@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-16-econet-launches-dedicated-ai-unit-to-drive-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "Cassava AiCloud", "country_label": "Cassava AiCloud", "class": "other", "platform": "NVIDIA GPUs at the Cassava AI Factory, South Africa", "owner": "Econet AI / Cassava", "tiers": "enterprises"}
+  ],
+  "note": "Operator's commercial cloud hosted in South Africa; no government hosting or cloud policy stated."
+}

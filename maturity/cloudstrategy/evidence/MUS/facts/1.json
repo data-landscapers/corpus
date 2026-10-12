@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-27-goc-scale-out-storage-solution-award",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "Government Online Centre",
+      "class": "other",
+      "platform": "scale-out storage",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "central government"
+    }
+  ],
+  "note": "Storage procurement award for the GOC; states no hosting or cloud policy."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "Centre national de données (Tier III, HCI architecture)", "country_label": "centre national de données", "class": "other", "platform": "hyperconverged (HCI) architecture", "owner": "Ministry of Digital Transformation", "tiers": "all public administration servers, separate clusters per ministry"},
+    {"system": "Cloud national", "country_label": "premier cloud national", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national"}
+  ],
+  "note": "Minister's account to parliament of servers moved and the national cloud launched; no policy or rule tying public bodies to it is stated, so the systems are class other."
+}

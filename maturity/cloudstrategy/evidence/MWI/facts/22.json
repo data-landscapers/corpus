@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Huawei, Ministry of Information and ESCOM",
+   "tiers": "MDAs and private sector"
+  }
+ ],
+ "note": "Data centre use by 78 virtual-machine clients; no policy telling public bodies where to host is stated."
+}

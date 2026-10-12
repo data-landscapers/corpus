@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Hybrid (public and private) cloud computing transformation project, Central Bank of Sudan", "country_label": "مشروع التحول إلى الحوسبة السحابية الهجينة (العامة والخاصة)", "class": "other", "platform": "", "owner": "Central Bank of Sudan", "tiers": "central bank (internal)"},
+    {"system": "National disaster-recovery and business-continuity centre for the banking sector", "country_label": "مركز وطني للتعافي من الكوارث واستمرارية الأعمال للجهاز المصرفي", "class": "other", "platform": "", "owner": "Central Bank of Sudan", "tiers": "banking sector"}
+  ],
+  "note": "The central bank's own five-year plan (31 Dec 2025) lists launching a hybrid-cloud project and widening its data-centre network as initiatives; an institution's plan, not a government policy on where public bodies host, so no fact of class policy."
+}

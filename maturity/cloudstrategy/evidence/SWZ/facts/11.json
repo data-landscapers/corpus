@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-01-rstp-national-data-centre-brochure",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre (NDC)", "class": "other", "platform": "Tier-III colocation facility offering cloud VM (VDS, VPC), cloud ERP/CRM and managed services", "owner": "Royal Science and Technology Park (RSTP)", "tiers": ""}
+  ],
+  "note": "Operator service brochure for a data centre; it states no government hosting or cloud policy and does not tie the centre to any rule on public bodies."
+}

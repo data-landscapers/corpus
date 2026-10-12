@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-19-oracle-opens-first-cloud-region-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Oracle Cloud Johannesburg Region", "country_label": "Oracle Cloud Johannesburg Region", "class": "other", "platform": "Oracle Cloud Infrastructure", "owner": "Oracle", "tiers": ""}
+  ],
+  "note": "Vendor announcement of a commercial cloud region; no government hosting or cloud policy stated."
+}

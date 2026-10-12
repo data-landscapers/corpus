@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-18-sierra-leone-statehouse-natca-hq-national-data-centre-commissioning",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "NatCA / Ministry of Communication, Technology and Innovation", "tiers": "government information, per the minister"}
+  ],
+  "note": "A National Data Centre housed in the NatCA headquarters was commissioned on 2026-04-17 for secure storage of government information; no policy telling public bodies where to host is stated, so a data centre alone gives no fact."
+}

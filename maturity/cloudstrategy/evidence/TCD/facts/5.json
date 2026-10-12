@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation",
+  "facts": [],
+  "systems": [
+    {"system": "Centre national des données numériques", "country_label": "Centre national des données numériques du Tchad", "class": "other", "platform": "Built by Huawei Technologies, China-financed, under PMICE", "owner": "Government of Chad", "tiers": "national"}
+  ],
+  "note": "Reports a data centre nearing completion in January 2025; states no hosting or cloud policy and no rule telling public bodies where to host."
+}

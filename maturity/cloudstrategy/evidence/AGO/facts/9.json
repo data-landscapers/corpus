@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-09-tdr-politica-nacional-de-gestao-e-hospedagem-de-dados-publicos",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Instituto de Modernizacao Administrativa's terms of reference (document 01/IMA/2026, version 1.2 of 9 March 2026, under the PADA project) procure a five-month consultancy to structure, draft and consolidate the Politica Nacional de Gestao e Hospedagem de Dados Publicos and its implementing regulation, including hosting rules by data category (on-premises, government or sovereign cloud, hybrid, conditions for public cloud) and residency rules.", "as_of": "2026-03-09", "date_precision": "day", "system": "Politica Nacional de Gestao e Hospedagem de Dados Publicos", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

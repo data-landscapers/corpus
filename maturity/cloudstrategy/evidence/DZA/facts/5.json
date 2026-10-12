@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-05-jeune-independant-centre-national-services-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "Centre national des services numériques (Alger and Blida)", "country_label": "Centre national des services numériques", "class": "other", "platform": "Huawei servers, storage and network", "owner": "State", "tiers": "national"},
+    {"system": "Data Center de Constantine", "country_label": "Data Center de Constantine", "class": "other", "platform": "", "owner": "Algérie Télécom", "tiers": "enterprises, regional"},
+    {"system": "Data Center IA d'Oran", "country_label": "Data Center IA d'Oran", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National cloud (objective)", "country_label": "cloud national", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Describes the data centre built to host data on national territory; no hosting or cloud policy is stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-22-nita-u-five-year-digital-strategy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "NITA-U's Strategic Plan FY2025/26-2029/30, launched June 2026, targets use of the National Data Centre rising from 70 percent to 83 percent by FY 2029/30, according to NITA-U's Executive Director; the report does not say the plan requires public bodies to host there.", "as_of": "2026-06", "date_precision": "month", "system": "National Data Centre", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "UGHub", "country_label": "UGHub data integration platform", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "Ministries, Departments and Agencies (37 percent connected)"}
+  ],
+  "note": "No hosting or cloud policy is stated; the strategic plan is NITA-U's general plan. The one fact is its National Data Centre utilisation target."
+}

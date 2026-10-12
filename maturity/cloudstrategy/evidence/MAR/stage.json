@@ -1,0 +1,16 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "3",
+   "standing": "adopted",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-002",
+   "gaps": "No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.",
+   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
+  }
+ ]
+}

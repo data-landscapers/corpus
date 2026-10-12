@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Bomalathu,Bomalathu digital services platform,other,locally hosted server infrastructure,Department of E-Government,"Malawi Revenue Authority, National Registration Bureau; Department of Immigration and Citizenship Services being integrated; 25 e-services being onboarded",2026-07-07 Malawi integrates immigration e-services
+MWI,National Data Centre,"National Data Centre, Lilongwe",other,,"Ministry of ICT, Department of eGovernment",government systems migrating; stated goal to host all public services there,2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm
+MWI,National Data Center,national Data Center in Lilongwe,other,,Government of Malawi (funded under the earlier World Bank project),"first few clients migrated; target of 30 entities hosting data there by October 2030, 0 at April 2024",2025-10-03-dmap-implementation-status-report
+MWI,Bolamathu,government exchange platform Bolamathu,other,,,9 entities onboarded at December 2021; target 30 by October 2030,2025-10-03-dmap-implementation-status-report
+MWI,"Government Data Centre, Lilongwe",Government Data Centre (Lilongwe),other,Hyper-converged Infrastructure,Public Private Partnership Commission with Department of e-Government,government systems to be consolidated; Lilongwe primary,2024-03-01 Government Data Center making progress
+MWI,Blantyre data centre,existing data centre in Blantyre,other,,Government of Malawi,secondary/backup site,2024-03-01 Government Data Center making progress
+MWI,National Data Centre,National Data Centre,other,,Ministry of ICT (Department of e-Government),government institutions,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
+MWI,National Data Exchange Platform (Boma Lathu),Boma Lathu,other,,Ministry of ICT,government institutions,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
+MWI,Sparc Systems data centre,Sparc data centre,other,,Sparc Systems (private),,2026-05-01-sparc-systems-data-centre-launch-malawi24
+MWI,National Data Centre,National Data Centre,other,,Government of Malawi (World Bank Digital Malawi Foundations Project),whole of government (planned scale-up under DMAP),"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
+MWI,National Data Centre,National Data Centre,other,Huawei,Government of Malawi with Huawei,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
+MWI,National Data Centre,National Data Centre,other,Huawei,"Huawei, Ministry of Information and ESCOM",MDAs and private sector,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,National Data Centre,National Data Centre,other,,Ministry of Information and Digitalization,MDAs,2025-06-27-dmap-tors-data-centre-cloud-architect

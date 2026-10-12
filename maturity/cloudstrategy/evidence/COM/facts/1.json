@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-digwatch-comoros-country-profile",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "none", "fact": "Digital Watch Observatory states Comoros has no confirmed standalone cloud-first policy; the page gives no date for the statement, so its published date 2024-01-01 is used.", "as_of": "2024-01-01", "date_precision": "year", "system": "cloud-first policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Data Center of the Public Administration", "country_label": "Data Center of the Public Administration", "class": "other", "platform": "", "owner": "ANADEN and Comores Câbles (co-managed)", "tiers": "state and private-sector digital platforms; public administration"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi (World Bank Digital Malawi Foundations Project)",
+   "tiers": "whole of government (planned scale-up under DMAP)"
+  }
+ ],
+ "note": "Data centre built and to be scaled for whole-of-government use; no hosting or cloud policy stated."
+}

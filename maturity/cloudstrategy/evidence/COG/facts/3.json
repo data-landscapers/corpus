@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-13-congo-telecom-ministerial-review-connectivity",
+  "facts": [],
+  "systems": [
+    {"system": "Congo Telecom datacentres (Brazzaville, Pointe-Noire, Oyo) and security operations centre", "country_label": "datacenters de Congo Telecom", "class": "other", "platform": "", "owner": "Congo Telecom", "tiers": ""}
+  ],
+  "note": "Ministerial visit to the operator; mentions a government digitalisation roadmap and task forces but no hosting or cloud policy."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview",
+  "facts": [],
+  "systems": [
+    {"system": "Wingu Cloud Exchange (WCX)", "country_label": "Wingu Cloud Exchange", "class": "other", "platform": "Wingu Compute, Kubernetes, Wingu Security", "owner": "Wingu Africa (commercial operator)", "tiers": ""}
+  ],
+  "note": "Operator interview on a commercial locally hosted private cloud; it states no government hosting or cloud policy."
+}

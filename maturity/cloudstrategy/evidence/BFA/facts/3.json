@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-24-bfa-anptic-1ere-session-ordinaire-ca-2026",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "ANPTIC's board chair set as the course for 2026 the repatriation of administrations' and institutions' data to the national data centres inaugurated in January 2026; no body is stated to have moved.", "as_of": "2026-03-24", "date_precision": "day", "system": "National Data Centers (ANPTIC)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Centers", "country_label": "Data Centers nationaux", "class": "other", "platform": "", "owner": "ANPTIC", "tiers": "administrations and institutions"}
+  ],
+  "note": ""
+}

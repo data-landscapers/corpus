@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-08 Orange launches backup data center in Sierra Leone (Bo)",
+  "facts": [],
+  "systems": [
+    {"system": "Orange Sierra Leone Bo data center", "country_label": "Orange Bo data centre", "class": "other", "platform": "", "owner": "Orange Sierra Leone", "tiers": ""},
+    {"system": "Orange Sierra Leone Freetown data center", "country_label": "Orange Freetown data centre", "class": "other", "platform": "", "owner": "Orange Sierra Leone", "tiers": ""}
+  ],
+  "note": "A private operator's commercial data centres; no government hosting or cloud policy is stated."
+}

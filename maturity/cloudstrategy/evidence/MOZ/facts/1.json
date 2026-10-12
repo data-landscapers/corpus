@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-bubble-data-centers-moz",
+  "facts": [],
+  "systems": [
+    {"system": "Bubble", "country_label": "Bubble", "class": "other", "platform": "", "owner": "Bubble (commercial cloud provider)", "tiers": ""}
+  ],
+  "note": "Commercial cloud provider with two availability zones and an INTIC advanced-category licence; no government hosting policy stated."
+}

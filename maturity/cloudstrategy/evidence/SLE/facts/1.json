@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-05-sierra-leone-moctii-un-data-governance-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Government Data Centre at NatCA Tower", "country_label": "Government Data Centre", "class": "other", "platform": "", "owner": "Ministry of Communication, Technology and Innovation", "tiers": "government institutions"},
+    {"system": "Redundancy site at State House (planned)", "country_label": "redundancy site", "class": "other", "platform": "", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}
+  ],
+  "note": "The ministry is developing a Data Governance Framework on how government data is classified, shared and used; it states no hosting or cloud rule, so it is a data policy of class other. Data centre and planned redundancy site are not policy."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-ggpen-angosat-2-national-data-center-redundancy",
+  "facts": [],
+  "systems": [
+    {"system": "Government Data Center", "country_label": "Data Center do Governo / National Data Center", "class": "other", "platform": "", "owner": "Government of Angola", "tiers": ""}
+  ],
+  "note": "ANGOSAT-2 connectivity and redundancy for the government data centre; no hosting or cloud policy stated."
+}

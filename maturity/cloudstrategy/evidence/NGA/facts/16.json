@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-von-nigeria-sovereign-ai-gitex",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Secretary to the Government of the Federation, represented by a permanent secretary, called the National Digital Cloud Policy 'newly unveiled' and said it targets US$750 million of private investment in cloud and data infrastructure over 24 months; the article gives no unveiling date, so the published date is used.", "as_of": "2026-08-31", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

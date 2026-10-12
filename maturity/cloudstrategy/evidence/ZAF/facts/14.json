@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-06-ramaphosa-microsoft-investment-ai-skilling-remarks",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "President Ramaphosa said in March 2025 that government published the National Data and Cloud Policy the previous year (2024); the document gives no month.", "as_of": "2024", "date_precision": "year", "system": "National Data and Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data and Cloud Policy", "country_label": "National Data and Cloud Policy", "class": "policy", "platform": "", "owner": "Government of South Africa", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "1",
+   "standing": "none",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
+  }
+ ]
+}

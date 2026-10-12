@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-nigeria-national-digital-cloud-policy-fmcide-announcement",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Federal Ministry of Communications, Innovation and Digital Economy announced it has unveiled the National Digital Cloud Policy, which implements a strengthened Cloud First approach across federal ministries, departments and agencies with whole-of-government aggregation and shared government cloud services.", "as_of": "2026-08-17", "date_precision": "day", "system": "National Digital Cloud Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Digital Marketplace", "country_label": "National Digital Marketplace", "class": "other", "platform": "", "owner": "Federal Government of Nigeria", "tiers": "federal"}
+  ],
+  "note": ""
+}

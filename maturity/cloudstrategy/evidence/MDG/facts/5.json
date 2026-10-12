@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-28-prodigy-iavoloha-datacenter-aircon-tender",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Iavoloha data centre (secondary)",
+   "country_label": "Iavoloha data centre (secondary)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Air-conditioning tender for Iavoloha data centre; no hosting or cloud policy stated."
+}

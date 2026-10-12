@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-sudan-tpra-data-center-cloud-computing-regulations-2025-fulltext",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Regulations for the Organization of Data Center and Cloud Computing Services, 2025 were passed by the board of the Telecommunications and Post Regulatory Authority with the assent of the Minister of Digital Transformation and Communications (signed on 16 Safar 1447, 10 August as OCR-read), take effect on signature, and repeal the 2022 regulation of the same name; they apply to providers inside Sudan or abroad with an agent or contract in Sudan and exempt government data centres, government cloud services and PKI bodies.", "as_of": "2025-08-10", "date_precision": "day", "system": "Regulations for the Organization of Data Center and Cloud Computing Services, 2025", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The regulation tells providers not to store data classified Level 1 or Level 2 (Level 2 being data circulated within public-sector institutions, rated high-risk) in cloud outside the country, with Level 2 allowed abroad only if the requesting body's first official consents, the regulators approve, the data is encrypted and the contract is direct; the National Information Centre sets public-sector data-classification policy.", "as_of": "2025-08-10", "date_precision": "day", "system": "Regulations for the Organization of Data Center and Cloud Computing Services, 2025", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

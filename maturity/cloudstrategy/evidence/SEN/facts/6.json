@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart",
+  "facts": [],
+  "systems": [
+    {"system": "Diamniadio National Data Center", "country_label": "Diamniadio National Data Center (Smart Sénégal)", "class": "other", "platform": "Tier 3 data center built by Huawei", "owner": "Government of Senegal / ADIE", "tiers": ""}
+  ],
+  "note": "Loan record for a data centre expansion; it states no hosting or cloud policy, adopted or drafted, so no fact of class policy."
+}

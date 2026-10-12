@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Prime Minister inaugurated two modular government-cloud data centres on 23 January 2026 as a key step of the strategic chantier \"zéro donnée à l'extérieur\", aimed at hosting, operating and securing all public data and repatriating data still stored abroad.", "as_of": "2026-01-23", "date_precision": "day", "system": "Zéro donnée à l'extérieur", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The Primature states the two government-cloud data centres inaugurated on 23 January 2026 are to host all public data under the \"zéro donnée à l'extérieur\" chantier; no body is stated to have moved.", "as_of": "2026-01-23", "date_precision": "day", "system": "Cloud gouvernemental", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Cloud gouvernemental", "country_label": "Cloud gouvernemental (deux datacenters modulaires)", "class": "other", "platform": "", "owner": "Government of Burkina Faso", "tiers": "public data"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-01-gia-national-cloud-computing-policy-escwa",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The General Information Authority held a consultative meeting with ESCWA, ministries, private-sector and civil-society representatives to review the proposed National Cloud Computing Policy, a unified framework for hosting government data and services, and agreed to incorporate feedback toward its final version; the document gives no date for the event other than its published date of 2026-01-01.",
+     "as_of": "2026-01-01", "date_precision": "day",
+     "system": "National Cloud Computing Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Cloud Computing Policy", "country_label": "National Cloud Computing Policy (proposed)", "class": "policy", "platform": "", "owner": "General Information Authority (Libya), with ESCWA as consulting partner", "tiers": ""}
+  ],
+  "note": ""
+}

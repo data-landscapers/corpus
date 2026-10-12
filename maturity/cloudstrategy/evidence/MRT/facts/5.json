@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national",
+  "facts": [],
+  "systems": [
+    {"system": "National Mauritanian Cloud", "country_label": "السحابة الوطنية الموريتانية", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national; digital public services"},
+    {"system": "Nouakchott data centre", "country_label": "مركز البيانات في نواكشوط", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Inauguration of the national cloud on 29 June 2026 with World Bank WARDIP support; no hosting or cloud policy stated."
+}

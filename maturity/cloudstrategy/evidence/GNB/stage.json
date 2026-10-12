@@ -1,0 +1,16 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "no evidence",
+   "standing": "",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a government hosting or cloud policy, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
+  }
+ ]
+}

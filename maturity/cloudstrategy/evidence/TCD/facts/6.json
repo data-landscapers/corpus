@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-08-data-center-national-souverainete-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Centre National des Données Numériques (Data Center)", "country_label": "Centre National des Données Numériques", "class": "other", "platform": "", "owner": "Ministry of Communications, Digital Economy and Digitalisation of the Administration", "tiers": "state and private institutions (stated as intended users)"}
+  ],
+  "note": "Reports a ministerial visit to the national data centre under construction (7 January 2025); states no hosting or cloud policy, so no fact for the policy class."
+}

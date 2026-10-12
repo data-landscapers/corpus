@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-30-national-cloud-launch-ecofin",
+  "facts": [],
+  "systems": [
+    {"system": "National cloud platform", "country_label": "national cloud", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "government agencies"},
+    {"system": "Nouakchott National Data Center (Tier III, WARDIP)", "country_label": "National Data Center", "class": "other", "platform": "", "owner": "", "tiers": "government"}
+  ],
+  "note": "Reports the 29 June 2026 launch of a national cloud; states no policy or requirement for agencies to use it, and no migration timeline."
+}

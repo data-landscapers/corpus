@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-22-aps-data-center-tier-iii-certification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mohammadia Data Center",
+      "country_label": "Centre national de données",
+      "class": "other",
+      "platform": "",
+      "owner": "High Commission for Digitalisation",
+      "tiers": ""
+    }
+  ],
+  "note": "Data centre certification news; no hosting or cloud policy stated."
+}

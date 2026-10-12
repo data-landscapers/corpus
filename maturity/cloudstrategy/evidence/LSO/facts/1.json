@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-lesotho-national-ai-strategy-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Data Centre Blueprint", "country_label": "Data Centre Blueprint", "class": "other", "platform": "", "owner": "MICSTI", "tiers": ""}
+  ],
+  "note": "Document states a Data Centre Blueprint being drafted (a data centre plan, not a hosting or cloud policy) and validation in 2025 of AI, Data Management and Broadband and Shared Infrastructure policies, none stated as a hosting rule; no fact."
+}

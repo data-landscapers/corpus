@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive",
+  "facts": [],
+  "systems": [
+    {"system": "Lomé Data Centre (LDC)", "country_label": "Lomé Data Centre", "class": "other", "platform": "Tier 3 certified, SLA 99.982%; private cloud offer with ST DIGITAL", "owner": "SIN, state company wholly held by the Togolese Republic", "tiers": "companies"}
+  ],
+  "note": "Press release on a commercial private-cloud partnership; it mentions the 2019 data protection law (n° 2019-014) but states no government hosting or cloud policy."
+}

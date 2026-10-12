@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-mauritania-world-bank-national-data-centre-visit",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre (Nouakchott)", "country_label": "مركز البيانات الوطني", "class": "other", "platform": "", "owner": "State digital agency AN-ETAT", "tiers": "national government"},
+    {"system": "National government cloud project", "country_label": "السحابة الحكومية الوطنية", "class": "other", "platform": "", "owner": "AN-ETAT; funded under WARDIP", "tiers": "government systems and data to be migrated"}
+  ],
+  "note": "Reports a visit and cloud project progress; states no hosting or cloud policy, only a system of class other."
+}

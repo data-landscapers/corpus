@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01-sierra-leone-mocti-orange-bo-data-centre-commissioned",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Sierra Leone Bo data centre",
+      "country_label": "Orange Sierra Leone Data Centre, Bo",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Sierra Leone",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator disaster-recovery data centre; no government hosting or cloud policy stated, so class other and no fact."
+}

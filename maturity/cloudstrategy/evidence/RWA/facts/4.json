@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Shared Government Data Hub and Data Interoperability Platform", "country_label": "Shared Government Data Hub", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""},
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "other", "platform": "", "owner": "Government of Rwanda", "tiers": "government"}
+  ],
+  "note": "Minutes of a project tender sounding (2025-11-21), not a hosting or cloud policy; no fact."
+}

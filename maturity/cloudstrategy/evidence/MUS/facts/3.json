@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-06-scale-out-storage-solution-goc-tender",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "Government Online Centre",
+      "class": "other",
+      "platform": "scale-out storage",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "central government"
+    }
+  ],
+  "note": "Tender notice for GOC storage; states no hosting or cloud policy."
+}

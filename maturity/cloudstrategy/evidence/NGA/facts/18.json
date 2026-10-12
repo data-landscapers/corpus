@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-nigeria-sovereign-cloud-regulatory-frameworks-signed",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Voice of Nigeria reports that the Nigerian Government signed the National Cloud Computing Guideline, the National Cloud Technical Guideline and the National Digital Infrastructure Assurance Framework in Abuja and presented the National Cloud Investment Strategy; the passages give no signing date, so the published date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "National Cloud Computing Guideline", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

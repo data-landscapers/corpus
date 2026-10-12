@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-15-malawi-dragging-feet-legal-gaps-human-rights",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Malawi with Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes the Huawei-built data centre and data protection gaps; states no hosting or cloud policy."
+}

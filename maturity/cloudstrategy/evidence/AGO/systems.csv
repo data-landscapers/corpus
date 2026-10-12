@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Backup Data Center do INFOSI,Backup Data Center do INFOSI,other,,INFOSI,,2026-08-25-angop-infosi-backup-data-center-requalificacao
+AGO,Data Center e Cloud do Governo,Data Center e Cloud do Governo (Camama),other,,Government of Angola,,2026-08-25-angop-infosi-backup-data-center-requalificacao
+AGO,Centro de backup da cloud do Governo,centro de backup da cloud do Governo,other,,INFOSI,public administration,2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks
+AGO,Data center do Governo (Camama),data center do Governo localizado no Camama,other,,Government of Angola,,2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks
+AGO,Government Data Center,Data Center do Governo / National Data Center,other,,Government of Angola,,2026-05-21-ggpen-angosat-2-national-data-center-redundancy
+AGO,Centro de Dados e Cloud do Governo,Data Center e Cloud do Governo,other,,Government of Angola (MINTTICS),,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,Centro de Dados do Governo,Centro de Dados do Governo,other,,Government of Angola,"ministries, public institutions, organs of sovereignty",2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
+AGO,Nuvem Nacional de Angola (Government Cloud),Nuvem Nacional de Angola,other,,Government of Angola,"ministries, public institutions, organs of sovereignty",2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
+AGO,National data centre and unified government cloud,Data Centre Nacional / cloud unificada do governo,other,"modular, 12 containers of 28 racks (336 racks)",INFOSI,all government services,"2025-11-14 Angola Nears Completion of National Data Center, Set for 2026 Launch"
+AGO,National cloud platform,national cloud platform,other,,INFOSI,,2025-09-10 Angola advances technological development for digital transformation
+AGO,Nuvem Nacional de Angola (primary modular data centre at Camama),Nuvem Nacional / Cloud Nacional,other,"204 server racks, 5,320 m2",INFOSI,"sovereign bodies, state administration, information society",2023-02-16-minttics-infosi-projecto-cloud-nacional-dois-data-centers
+AGO,"Backup Data Center, Centro Nacional de Dados (Rangel)",Data Center Backup,other,,INFOSI,,2023-02-16-minttics-infosi-projecto-cloud-nacional-dois-data-centers
+AGO,Centro Nacional de Dados,Centro Nacional de Dados,other,,INFOSI,"public administration, ministries and provincial governments",2021-05-31-decreto-presidencial-135-21-estatuto-organico-do-infosi
+AGO,Data Center da Imprensa Nacional,Data Center da Imprensa Nacional,other,,Imprensa Nacional,Imprensa Nacional (state printer),2026-09-12-ago-correiokianda-imprensa-nacional-data-center-documentos-seguranca
+AGO,Data Center e Cloud do Governo de Angola,Data Center e Cloud do Governo,other,,"INFOSI, under MINTTICS","Ministries of Finance, Telecommunications, Interior, Education and Health connected by fibre",2026-04-27-angola-autonomia-armazenamento-documentos-data-center
+AGO,Raxio Angola (AG1),Raxio Angola (AG1),other,,Raxio Group,,2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion
+AGO,"Paratus Angola DC1, DC2 and DC3 (Luanda)",Paratus Angola data centres,other,,"Paratus Group (Paratus Angola, previously ITA)",,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
+AGO,Cloud Nacional de Angola,Cloud Nacional de Angola (Nuvem Governamental Unificada),other,,MINTTICS through INFOSI,ministerial departments; the document says existing applications are to be migrated to it,2023-02-15-angola-minttics-cloud-nacional-ecossistema-digital
+AGO,"Africell Angola data center (Kings Tower, Luanda)",Africell data center,other,,Africell Angola,,2021-10-20 Africell opens high-tech data center in Angola

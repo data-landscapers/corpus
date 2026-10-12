@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)",
+  "facts": [],
+  "systems": [
+    {"system": "Nouakchott national data centre", "country_label": "Centre de données de Nouakchott", "class": "other", "platform": "Tier III data centre (Uptime Institute certified)", "owner": "Government of Mauritania; to be managed by International Mauritania Telecom (IMT)", "tiers": "national"}
+  ],
+  "note": "Reports a data centre inaugurated 2025-05-08 that lets Mauritania host national data locally; states no hosting or cloud policy, so no fact of class policy."
+}

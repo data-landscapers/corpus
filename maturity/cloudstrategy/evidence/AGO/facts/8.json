@@ -1,0 +1,9 @@
+{
+  "slug": "2023-02-16-minttics-infosi-projecto-cloud-nacional-dois-data-centers",
+  "facts": [],
+  "systems": [
+    {"system": "Nuvem Nacional de Angola (primary modular data centre at Camama)", "country_label": "Nuvem Nacional / Cloud Nacional", "class": "other", "platform": "204 server racks, 5,320 m2", "owner": "INFOSI", "tiers": "sovereign bodies, state administration, information society"},
+    {"system": "Backup Data Center, Centro Nacional de Dados (Rangel)", "country_label": "Data Center Backup", "class": "other", "platform": "", "owner": "INFOSI", "tiers": ""}
+  ],
+  "note": "Project presentation (16 Feb 2023): plans to move ministries' data-centre silos onto the unified government cloud by Q1 2024, but states no policy and no rule requiring it."
+}

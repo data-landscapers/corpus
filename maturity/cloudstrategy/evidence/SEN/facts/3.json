@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-senum-transformation-digitale-administration",
+  "facts": [],
+  "systems": [
+    {"system": "Data center Orana", "country_label": "Orana", "class": "other", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "State structures; 176 structures have hosted data at SENUM across its data centres"},
+    {"system": "Data center Technopole", "country_label": "Technopole", "class": "other", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "State structures"},
+    {"system": "Data center Diamniadio", "country_label": "Diamniadio", "class": "other", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "State structures"},
+    {"system": "Cloud souverain", "country_label": "Cloud souverain", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "SENUM deck (2025, year only; published date used) states no hosting or cloud policy: it names a state strategy of pooling infrastructure and lists hosting data in SENUM data centres and a sovereign cloud as future requirements, and says 176 structures have hosted data at SENUM, but ties none to a policy instrument."
+}

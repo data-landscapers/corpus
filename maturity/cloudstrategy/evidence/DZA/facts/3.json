@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-08-national-digital-services-center-dual-data-centers--wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Services Center (Algiers and Blida, active-active)", "country_label": "Centre national des services numériques", "class": "other", "platform": "Huawei", "owner": "Government of Algeria / Haut-Commissariat à la numérisation", "tiers": "all public administrations"},
+    {"system": "Data center, Constantine", "country_label": "Data Center de Constantine", "class": "other", "platform": "", "owner": "Algérie Télécom", "tiers": ""},
+    {"system": "AI data center, Oran", "country_label": "Data Center IA d'Oran", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Data centre inauguration 2026-07-05 said to host all public administration data; no policy or rule on hosting is stated, so no fact for a policy-class system."
+}

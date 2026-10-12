@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-eritrea-global-digital-identity-index-govtech",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "none", "fact": "The World Bank GovTech Maturity Index entry for Eritrea (data year 2022) records the government cloud data hosting policy as 'No policy / Unknown', with no supporting document; the document's published date 2022-01-01 is used as no event date is given.", "as_of": "2022", "date_precision": "year", "system": "Government Cloud data hosting policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "none", "fact": "The World Bank GovTech Maturity Index entry for Eritrea (data year 2022) answers 'No' to whether a shared cloud platform is available for all government entities, and gives no platform name, URL or launch year; the published date 2022-01-01 is used as no event date is given.", "as_of": "2022", "date_precision": "year", "system": "Shared government cloud platform", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

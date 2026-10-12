@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03-tinto-hebergement-national-souverainete",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The director general of digital transformation says a Prime Minister's circular enjoins the various actors to give priority to hosting at national level, and that requests for platform operation are screened for where data is hosted; the circular's own date is not given, so the interview's published date of 2026-03-03 is used.", "as_of": "2026-03-03", "date_precision": "day", "system": "Circulaire du Premier ministre on national hosting", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "Interview on the decree setting the terms for putting state digital platforms into operation; the decree itself has no explicit local-hosting rule, no named hosting that bodies must use and no count of moves, so no fact on use."
+}

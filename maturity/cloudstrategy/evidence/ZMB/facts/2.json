@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-26-zambia-huawei-national-ai-data-centre-mou-ovp",
+  "facts": [],
+  "systems": [
+    {"system": "National AI data centre", "country_label": "national AI data centre", "class": "other", "platform": "Huawei cloud and AI infrastructure", "owner": "Smart Zambia Institute with Huawei Technologies Zambia (co-investment under a planned MoU)", "tiers": "government systems; AI-powered public services across all 25 ministries"}
+  ],
+  "note": "A planned MoU for a national AI data centre and Huawei cloud in government systems; no hosting or cloud policy is stated, and no facility is said to be in service."
+}

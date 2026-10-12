@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-16-ai-strategy-mandates-local-storage",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "TechnoMag reports that Zimbabwe officially launched its National AI Strategy 2026-2030, which establishes a Sovereign National Cloud to keep national data, including agricultural and mining data, on domestic servers; the article's publication date is used as the date.", "as_of": "2026-03-16", "date_precision": "day", "system": "Zimbabwe National AI Strategy 2026-2030 (Sovereign National Cloud, data residency)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Sovereign National Cloud", "country_label": "Sovereign National Cloud", "class": "other", "platform": "", "owner": "Government of Zimbabwe under the National AI Strategy; implementation by the AI Strategy Implementation Office", "tiers": "national"}
+  ],
+  "note": ""
+}

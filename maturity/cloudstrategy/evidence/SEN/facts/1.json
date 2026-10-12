@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-24-mctn-reception-officielle-cloud-national-joj-dakar-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Cloud national des JOJ Dakar 2026", "country_label": "Cloud national des JOJ Dakar 2026", "class": "other", "platform": "Alibaba Cloud Apsara Stack", "owner": "Sénégal Numérique SA (SENUM SA) with COJOJ; supplier Alibaba Cloud", "tiers": "Dakar 2026 Youth Olympic Games strategic applications; the ministry says it lays foundations of a national public cloud open to public and private sectors"}
+  ],
+  "note": "Ministry post of 2026-03-24 on taking delivery of an Alibaba-built cloud for the Youth Olympics; states no hosting or cloud policy, so a cloud with no policy behind it is a systems entry only."
+}

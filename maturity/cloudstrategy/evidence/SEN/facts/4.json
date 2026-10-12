@@ -1,0 +1,11 @@
+{
+  "slug": "2021-06-23-dcd-senegal-diamniadio-national-datacenter-state-data-migration",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "President Macky Sall, commissioning the Diamniadio National Datacenter, instructed the government to migrate all state data and platforms to it and to repatriate national data hosted outside the country; state-owned firms such as Senelec are to move their data too.", "as_of": "2021-06", "date_precision": "month", "system": "Presidential instruction to migrate state data to the Diamniadio National Datacenter", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The report names the Diamniadio National Datacenter, managed by the state IT agency ADIE, as the facility where all government data and applications are to be migrated and hosted; its first phase was due to open in about six months, and no count of bodies moved is given.", "as_of": "2021-06", "date_precision": "month", "system": "Presidential instruction to migrate state data to the Diamniadio National Datacenter", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Diamniadio National Datacenter", "country_label": "Diamniadio National Datacenter", "class": "other", "platform": "Huawei equipment and technical support", "owner": "State Informatics Agency (ADIE)", "tiers": "government agencies and state-owned firms such as Senelec; also enterprises and other public bodies"}
+  ],
+  "note": ""
+}

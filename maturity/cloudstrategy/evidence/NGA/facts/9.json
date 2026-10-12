@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-28-nga-techcabal-overlapping-data-rules-cbn-nitda",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "TechCabal reports that the Nigerian government unveiled its National Digital Cloud Policy in August 2026, two months after the CBN's 15 June 2026 payment-data rule, creating a framework for cloud adoption, data classification, cybersecurity and digital infrastructure.", "as_of": "2026-08", "date_precision": "month", "system": "National Digital Cloud Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

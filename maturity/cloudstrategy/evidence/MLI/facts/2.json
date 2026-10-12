@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-05 Government of Mali launches data center in Bamako",
+  "facts": [],
+  "systems": [
+    {"system": "Tier III data centre, Bamako", "country_label": "Tier III data centre", "class": "other", "platform": "", "owner": "Government of Mali, Ministry of Communication, Digital Economy and Administrative Modernization", "tiers": "national government"}
+  ],
+  "note": "A data centre inaugurated 31 January 2026 with a gradual repatriation of data hosted abroad; no hosting or cloud policy is stated."
+}
