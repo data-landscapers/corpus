@@ -48,17 +48,15 @@ Asked in order. Each is answered with a date and a link.
 - **A yes to a later question answers the earlier ones**: a regulation made under a law shows the law is in force.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years.**
-- **A decree or regulation counts as well as an act of parliament.** In much of the continent the binding text is a decree, and a source naming it as binding is enough.
-- **A law for one sector places nothing.** A health or land law that provides for data exchange within its sector is noted. This is one change from the row as it stands, which places Kenya at stage 3 on its Digital Health Act.
+- **A decree or regulation counts as well as an act of parliament.**
+- **A law for one sector places nothing**, and is noted. This is one change from the row as it stands, which places Kenya at stage 3 on its Digital Health Act; Kenya holds no fact.
 - **An e-government or digital government law counts only where a source says it provides for public bodies exchanging data**, or its own text plainly does. One that only sets up an agency or allows electronic documents is noted.
 - **An interoperability framework counts only where it is issued as a decree or regulation.** One adopted as a policy or a standard is the interoperability framework row's, and is noted here.
 - **A decree that sets up the exchange platform and binds public bodies to use it is a yes to questions 2 and 3 together.**
 - **A platform alone places nothing**, however many bodies are connected to it. Bodies connected count for question 4 only where the source ties them to the law.
-- **A data protection law is not the data sharing law.** That it permits or limits sharing between public bodies is noted.
 - **A law passed but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
-- **An old law still in force is a yes to question 2 and no more**, until a source says it requires sharing. A bill to replace or amend it is named in the summary and does not lower the stage.
+- **An old law still in force is a yes to question 2 and no more**, until a source says it requires sharing.
 - **Whether the law requires sharing is taken from what a source says of it, or from what its own text plainly provides**, where the text held is short.
-- **How good the law is, and whether data is shared safely, are not judged.** A reported criticism is noted.
 - **Two more changes from the row as it stands**: its stage 4 asks for implementing acts, register-reuse rules, levels of assurance and a custodian together, with a sharing agreement on record; its stage 5 is the African Union strategy's end state, with mutual recognition of identities between countries. Neither is a fact one story can state.
 
 `study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `duty` (`applied`, `required`, `none`) for 3 and 4.
@@ -72,9 +70,7 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 - **Read first**: **30 news stories and short legal notices about such a law**, covering 15 countries, 27 of them from the last three years. No study has read them for these questions; the interoperability framework study read 11 for its own.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 139 across 45 countries.
 - **Then, only for a country with no answer to question 1 or 2**: one call of its newest held news that names such a law, from at most 296 stories across 39 countries, or with none, the text its cell cites.
-- **Not read**: the long texts of the laws and reports, 286 of them. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
-
-The held news on this subject is thin: the payments law study opened on 97 stories and the identity law study on 82. Expect more countries without evidence than either.
+- **Not read**: the long texts of the laws and reports, 286 of them. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -96,8 +92,7 @@ The held news on this subject is thin: the payments law study opened on 97 stori
 - **An act not yet started by its minister is in force** (Botswana).
 - **A section headed *Data sharing and exchange* makes an e-government act count** (Tanzania); one saying only that a body *may* share stops at stage 3 (Zambia).
 - **An e-government bill or act described without data exchange gives nothing** (Nigeria, Sierra Leone, Morocco's Law 55-19, Namibia's Electronic Transactions Act).
-- **Kenya holds no fact**: its Digital Health Act and its agricultural information bill are for one sector.
-- **The third read was cut to 11 countries**, the ones whose held news might name a law, to stay inside the ceiling; the cells' cited texts were read with their news.
+- **The third read was cut to 11 countries**, the ones whose held news might name a law, to stay inside the ceiling.
 - **The summaries were written by the parent.** **Tokens: 36.1 million at the map**, ceiling 40 million.
 
 ## Boundary
