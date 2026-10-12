@@ -95,7 +95,7 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 - **Algeria's law of February 2026 is taken from the held record of its gazetted text.**
 - **A civil registration law or draft that sets up a unique number or a population register counts** (Cameroon, Mauritania, Sudan, South Sudan, Niger).
 - **South Sudan is at stage 5 on a law and 2024 regulations.**
-- **Ten countries hold no fact.** **Kenya is at stage 2** *(Bill, 2026-10-12)*: a system on an executive order, amended into a 1947 act, has no law behind it.
+- **Ten countries hold no fact.** **Kenya is at stage 2** *(Bill, 2026-10-12)*: a system on an executive order, amended into a 1947 act, has no law.
 
 ## Boundary
 
