@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-aistrategy.md — the sixteenth maturity study: the national AI strategy, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: aistrategy
@@ -77,10 +77,23 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: the 411 `about` stories; then the cited news; then the newest held news for a country still short of questions 1 and 2.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact that sets stage 4 or 5; a second drafter restages 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 411 `about` stories, in 108 calls, which used 38 of the 60 million; then, for the ten countries those left with nothing, the cited news and one call of the newest held news each. The other countries' cited news and the strategies' texts were not read. 287 facts.
+- [x] **D3. Staged**: one at stage 5, seven at 4, eight at 3, 24 at 2, two at 1, 12 with no evidence, as at 2026-09-30; 35 corrections by the parent; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **Money announced at a launch and not yet released is not allocated** (Ghana's US$20 million). **A strategy's own costing is not an allocation** (Kenya), nor is a statement that programme budgets pay for it (Egypt, Mauritius).
+- **A grant scheme a public regulator runs as an action in the strategy, with its amount named, is a yes to question 4** (Zimbabwe, the one stage 5).
+- **An office the strategy says will be set up is not a body named** (Ghana, Mauritius's council). **A ministry created with the strategy among its duties is the ministry responsible in general** (Benin).
+- **Commissions set up to monitor the strategy's axes are a body** (Algeria), as is a cabinet committee (Kenya) or an existing institute the policy names (Ethiopia, Zambia).
+- **A strategy that sources cite as existing, with no approval or launch stated, answers question 1 only** (Nigeria, Togo, Lesotho's policy of 2025).
+- **A strategy validated at a workshop is a draft** (Burundi, DR Congo). **A draft withdrawn is a draft, not a strategy that has run out** (South Africa).
+- **A source saying a strategy is needed, planned or recommended does not say there is none** (Mali, Madagascar, Eswatini, Chad, Togo): five stage 1 claims removed.
+- **A body created by decree for a strategy still in draft lifts nothing** (Mozambique).
+- **A list of countries "still developing" a strategy is a yes to question 1** (Guinea) **unless a later source contradicts it** (Mali).
+- **The summaries were written by the parent, not by writers**, to stay inside the ceiling.
 
 ## Boundary
 

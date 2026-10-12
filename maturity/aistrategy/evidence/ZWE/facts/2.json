@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-16-ai-strategy-mandates-local-storage",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechnoMag reports Zimbabwe has officially launched its National AI Strategy (2026-2030); the article gives no event date, so its published date of 2026-03-16 is used.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "TechnoMag says implementation will be overseen by the AI Strategy Implementation Office (AISIO), supported by funding from the Treasury and the Universal Service Fund managed by POTRAZ; no amount is given and the published date of 2026-03-16 is used.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "National AI Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

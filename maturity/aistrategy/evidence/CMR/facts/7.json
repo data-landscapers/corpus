@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-06-nkafu-ai-future-of-work-cameroon",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Nkafu Policy Institute brief states that Cameroon launched its National Artificial Intelligence Strategy (SNIA) in July 2025, with targets to 2040 of 60,000 AI professionals, 12,000 direct AI jobs and 0.8-1.2% of GDP.", "as_of": "2025-07", "date_precision": "month", "system": "National Artificial Intelligence Strategy (SNIA)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy (SNIA)", "country_label": "SNIA", "class": "strategy", "platform": "", "owner": "MINPOSTEL", "tiers": "national"}
+  ],
+  "note": "A proposed AI Council is only recommended by the brief, so no body fact; no funding stated."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "TechTrends Africa states that Mauritius published an AI strategy in 2018, the first on the continent; it states no end or replacement.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "National Artificial Intelligence Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "Nothing on a body or funding for Mauritius."
+}

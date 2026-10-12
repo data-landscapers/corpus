@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-20-real-test-ai-roadmap-nation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Daily Nation reports that Kenya has published a 2025-2030 implementation roadmap, developed under the Ministry of ICT and the Digital Economy, for the 'previously launched' national AI Strategy; the strategy's own launch date is not given, so the article's publication date is used.", "as_of": "2026-02-20", "date_precision": "day", "system": "Artificial Intelligence (AI) Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence (AI) Strategy and its Implementation Roadmap 2025-2030", "country_label": "Kenya AI Strategy", "class": "strategy", "platform": "", "owner": "Ministry of ICT and the Digital Economy", "tiers": ""}
+  ],
+  "note": "No body or funding is stated for the strategy: the ministry is named as author only, and funding is mentioned only as a risk to sustain."
+}

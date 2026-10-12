@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-14-zimbabwe-thirty-first-post-cabinet-press-briefing",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Thirty-First Post-Cabinet Press Briefing records Cabinet considered and approved the Zimbabwe National Artificial Intelligence Strategy (2026 to 2030).",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The briefing names the AI Strategy Implementation Office within the Ministry of ICT and the National Digital Regulatory Committee under POTRAZ among the proposed means to accelerate implementation.",
+   "as_of": "2025-10-14",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "National AI Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

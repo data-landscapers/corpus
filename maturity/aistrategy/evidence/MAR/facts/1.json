@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The update reports that Morocco announced plans to officially unveil its National AI Roadmap, \"Morocco AI 2030\"; no adoption is stated. The event falls in January-February 2026; the document is published 2026-06-23.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Morocco AI 2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Morocco AI 2030",
+   "country_label": "Maroc IA 2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

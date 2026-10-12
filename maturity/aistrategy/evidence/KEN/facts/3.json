@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-03-kenya-draft-ai-policy-public-participation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Techpoint Africa reports Kenya has opened its draft National Artificial Intelligence and Emerging Technologies Policy, led by the Ministry of Information, Communications and the Digital Economy, for public participation; the document gives no earlier date, so its publication date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "Kenya Artificial Intelligence and Emerging Technologies Policy (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya Artificial Intelligence and Emerging Technologies Policy (draft)", "country_label": "Draft National Artificial Intelligence and Emerging Technologies Policy", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"}
+  ],
+  "note": "The Steering Committee, National AI Council and Kenya AI Safety Institute are proposed in the draft, not set up."
+}

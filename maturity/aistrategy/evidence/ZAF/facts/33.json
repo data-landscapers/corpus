@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-ai-strategies-and-the-informal-economy-africas-job-creation-test",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "CSIS says South Africa's National AI Policy framework draft was released for public comment and has since been recalled by the ministry, leaving implementation in the balance; no date for the recall is given, so the document's published date is used.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "National AI Policy framework draft",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Policy framework draft",
+   "country_label": "National AI Policy framework",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

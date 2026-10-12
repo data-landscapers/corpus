@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-29-national-ai-strategy-wearetech",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "We Are Tech Africa reports Djibouti launched a structured process to define its future national AI strategy with UN support: the Ministry of Digital Economy and Innovation held a national diagnostic phase and a multi-stakeholder workshop the week before, whose contributions will feed the final version.", "as_of": "2026-01", "date_precision": "month", "system": "Stratégie nationale de l'intelligence artificielle", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'intelligence artificielle", "country_label": "Stratégie nationale de l'IA", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique et de l'Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

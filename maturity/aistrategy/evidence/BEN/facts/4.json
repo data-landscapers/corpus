@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-26-ben-mtdi-creation-ministere-transformation-digitale",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "use",
+      "value": "body",
+      "fact": "Under decree no. 2026-314 of 24 May 2026 the new Ministry of Digital Transformation and Innovation was created with an explicit mandate to lead the national AI strategy; its minister took office on 26 May 2026.",
+      "as_of": "2026-05-24",
+      "date_precision": "day",
+      "system": "National AI Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

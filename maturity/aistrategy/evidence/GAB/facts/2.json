@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-27-gab-gabonreview-ai-national-strategy-consultations",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The digital-economy ministry and UNDP announced on 26 September 2026 consultations in Libreville from 28 to 30 September to prepare a national AI strategy, feeding its formulation, review and finalisation; no budget or adoption date is given.",
+      "as_of": "2026-09-26",
+      "date_precision": "day",
+      "system": "Stratégie nationale de l'intelligence artificielle",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

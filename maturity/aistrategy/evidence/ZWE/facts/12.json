@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-14-un-zimbabwe-ai-strategy-launch",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The UN in Zimbabwe reports the formal launch of the National AI Strategy 2026-2030 by President Mnangagwa at New Parliament House on 13 March 2026.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-28-ai-strategy-knust-leadership-myjoy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Ghana's AI Strategy received cabinet approval in February 2026, after consultations led by KNUST's Responsible AI Lab with the Ministry of Communication, Digital Technology and Innovations.", "as_of": "2026-02", "date_precision": "month", "system": "National AI Strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "By April 2025 a structured draft National AI Strategy on eight pillars existed, coordinated by KNUST's RAIL with the Ministry of Communication, Digital Technology and Innovations and the British High Commission, and presented at a consultation.", "as_of": "2025-04", "date_precision": "month", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

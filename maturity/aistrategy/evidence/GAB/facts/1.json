@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-01-gabonreview-gabon-ai-strategy-22-challenges-36-recommendations",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "Preparatory workshops for Gabon's future national AI strategy closed in Libreville on 30 September 2026 with 22 challenges and 36 recommendations from six UNDP-supported groups; the ministry and UNDP will next draft the strategy, action plan, financing and indicators, and the outputs are a diagnostic, not a finished strategy.",
+      "as_of": "2026-09-30",
+      "date_precision": "day",
+      "system": "Stratégie nationale de l'intelligence artificielle",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

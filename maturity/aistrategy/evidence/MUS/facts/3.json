@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-29-rodrigues-port-mathurin-ai-cybersecurity-mission-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "L'Express reports the IT minister discussed Rodrigues' place in the existing national AI strategy during a 26-28 May 2026 visit; the strategy is treated as in force, with no adoption date given (published date used).",
+   "as_of": "2026-05-29",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Rod-Digital Vision is a Rodrigues ICT roadmap, not national; no fact from it."
+}

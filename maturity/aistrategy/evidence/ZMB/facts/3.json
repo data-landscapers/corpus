@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-21-zambia-national-artificial-intelligence-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Technology and Science published the Zambia National Artificial Intelligence Strategy, titled 2024-2026 on its cover and 2025-2027 in its page headers, and announced its launch on 21 November 2024; the document carries no adoption date of its own, so the date is the launch announcement as proxied in the source page.", "as_of": "2024-11-21", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The strategy sets up a National AI Council with sector Technical Working Groups, makes Smart Zambia Institute the coordinator of AI implementation within government and the Ministry of Technology and Science the lead for adoption across the economy; the date is the strategy's publication date, as the document gives none of its own.", "as_of": "2024-11-21", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

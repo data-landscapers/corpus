@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-06-tanzania-statement-un-global-dialogue-ai-governance",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "In its 6 July 2026 country statement to the UN Global Dialogue on AI Governance, Tanzania lists, among governance frameworks it is 'developing', a National AI Strategy Framework (2026); the statement gives no adoption, body or funding.",
+      "as_of": "2026-07-06",
+      "date_precision": "day",
+      "system": "National AI Strategy Framework (2026)",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

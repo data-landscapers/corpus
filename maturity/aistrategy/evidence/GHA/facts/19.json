@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-20-tan-ghana-national-ict-week",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Deputy Minister Sukparu told National ICT Week on 17 August 2026 that the National AI Strategy was launched in April 2026, setting priorities on data governance, infrastructure, talent, ethics and applications.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National AI Strategy",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

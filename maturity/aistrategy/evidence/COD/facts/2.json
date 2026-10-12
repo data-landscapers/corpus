@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-drc-kibassa-launches-digital-economy-policy-and-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "At a ceremony of government validation on 4 August 2026, Minister Augustin Kibassa Maliba presented the national AI strategy (SNIA) and announced it would go to the Council of Ministers within days for adoption, so it was not yet adopted.", "as_of": "2026-08-04", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "SNIA", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

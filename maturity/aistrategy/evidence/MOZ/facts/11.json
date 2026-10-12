@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-15-itu-sandbox-regulatorio-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft",
+     "fact": "INTIC's board chair said at the AI Impact Summit India in February 2026 that a proposal for a National AI Strategy was being drawn up with UNESCO support and ITU follow-up, and the article of 2026-05-15 still describes the strategy as being prepared.",
+     "as_of": "2026-05", "date_precision": "month", "system": "Estratégia Nacional de Inteligência Artificial", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "The ITU sandbox is a regulatory testing mechanism, not the strategy, and gives no fact; no body or funding is tied to the strategy."
+}

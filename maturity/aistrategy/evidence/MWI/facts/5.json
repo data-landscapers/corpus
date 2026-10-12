@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-malawi-drafts-ai-bill-to-govern-public-sector-tech",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ICT minister Namalomba said on 2026-08-06 that the government is finalising a National AI Strategy, to be supported by an AI Bill.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Bill",
+   "country_label": "AI Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "Strategy still draft; AI Bill is an other-class instrument; no body or funding tied to the strategy."
+}

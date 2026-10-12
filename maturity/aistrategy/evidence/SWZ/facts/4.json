@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-16-swz-times-comesa-regional-ai-validation-meeting",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Minister for Tinkhundla Administration Sikhumbuzo Dlamini, for the ICT Minister, said Eswatini had recently engaged a consultant to draft its National AI Strategy.", "as_of": "2026-09-16", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "strategy", "platform": "", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": ""
+}

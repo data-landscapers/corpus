@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-07-highstreetjournal-ghana-stranded-connectivity-local-language-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Samuel Nartey George said on 7 September 2026 that the strategy, led by academics, was launched (a prototype was shown at the launch) and that universities are central to it.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The minister said President Mahama announced $20 million of government support for local AI capacity and a $250 million computing allocation, both awaiting operationalisation, and that UK FCDO gave 500,000 pounds to academic institutions for developing the strategy plus a further 6 million pounds in UK support; the $20m is not explicitly tied to the strategy.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National AI Strategy",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-03 Ghana approves $250M AI Hub & National AI Strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Africa AI News reports that Ghana's Cabinet approved the National Artificial Intelligence Strategy, a ten-year strategy with eight pillars, with public launch set for 24 April 2026; the date is the document's published date, as it gives only 'on Tuesday'.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The document says a dedicated Responsible AI Office will oversee implementation of the strategy, coordinating sectors and monitoring progress.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Computing centre ($250m) is not tied to the strategy as its funded action; the document gives the strategy period as 2023-2033."
+}

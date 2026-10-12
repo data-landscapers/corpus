@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-16-mnangagwa-launches-five-year-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ITWeb reports President Mnangagwa launched the five-year National AI Strategy (2026-2030) in Harare on Friday, the Friday before the 16 March 2026 article.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "ITWeb reports the AI Strategy Implementation Office, based in the Ministry of ICT, is responsible for driving AI projects under the strategy, with a National digital Regulatory Committee under POTRAZ as regulatory custodian.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "National AI Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

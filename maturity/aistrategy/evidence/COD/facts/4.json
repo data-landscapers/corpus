@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-22-rdc-arrete-cmsnia-commission-mixte-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "A ministerial order of 22 October 2025 created the Commission Mixte (CMSNIA), under the Minister of Digital Economy, to draft and coordinate the national AI strategy, with a six-month renewable mandate.", "as_of": "2025-10-22", "date_precision": "day", "system": "Stratégie Nationale de l'intelligence artificielle", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale de l'intelligence artificielle", "country_label": "SNIA", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"}
+  ],
+  "note": "The commission was set up to write the strategy, so it gives no fact on the body aspect; the order's text is paywalled."
+}

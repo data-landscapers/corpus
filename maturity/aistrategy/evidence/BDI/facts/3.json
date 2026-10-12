@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-22-abp-validation-strategie-nationale-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The state news agency reports that the Ministry of Finance, Budget and Digital Economy with UNDP opened a validation session for the national AI strategy on 21 April 2026, to validate the country's strategic orientations; it does not report approval or launch.", "as_of": "2026-04-21", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'intelligence artificielle", "country_label": "Burundi", "class": "strategy", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

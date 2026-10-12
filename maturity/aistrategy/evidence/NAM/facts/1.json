@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-namibia-deloitte-ai-strategy-framework",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "strategy",
+   "fact": "ITWeb Africa reports, on 2026-08-05 (no event date given, so the publication date), that consultations on Namibia's AI strategy framework have begun under NCRST leadership, per ICT Minister Emma Theofelus, with the strategy to precede AI legislation.",
+   "as_of": "2026-08"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

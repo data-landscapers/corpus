@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-24-mahama-unveils-10-year-ai-strategy-myjoy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "President Mahama launched a 10-year National AI Strategy, to be implemented with targets and indicators across its pillars, with the vision of a national AI ecosystem by 2035.", "as_of": "2026-04-24", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "At the launch the President named a Responsible Artificial Intelligence Office as a critical step still to be established, to oversee implementation and coordinate stakeholders; it is not yet reported set up.", "as_of": "2026-04-24", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

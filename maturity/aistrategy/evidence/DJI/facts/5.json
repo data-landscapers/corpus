@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-22-rtd-mdeni-lancement-strategie-nationale-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "RTD reports the digital economy ministry (MDENI) officially launched on 22 January 2026 the preparatory work, a diagnostic and drafting workshop, for the national AI strategy 2026-2030, with UN representation.", "as_of": "2026-01-22", "date_precision": "day", "system": "Stratégie nationale de l'Intelligence Artificielle 2026-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'Intelligence Artificielle 2026-2030", "country_label": "Stratégie nationale de l'IA", "class": "strategy", "platform": "", "owner": "MDENI", "tiers": ""}
+  ],
+  "note": ""
+}

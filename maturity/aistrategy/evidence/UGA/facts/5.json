@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-12-govt-crafts-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "At a stakeholder engagement on the AI strategy on 12 March 2026, the ICT ministry's AI Secretariat head Ambrose Ruyooka said the government is developing a national AI strategy; none is adopted.", "as_of": "2026-03-12", "date_precision": "day", "system": "Uganda national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

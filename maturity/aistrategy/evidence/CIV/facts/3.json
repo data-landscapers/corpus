@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-strategie-nationale-intelligence-artificielle-snia-2030-civ",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of Digital Transition issued the 71-page SNIA 2030 in 2024 with forewords signed by the Prime Minister and the minister; it sets a 2030 vision, three pillars and a roadmap, and says it will create a National AI Agency.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Stratégie Nationale de l'Intelligence Artificielle - SNIA 2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale de l'Intelligence Artificielle - SNIA 2030",
+   "country_label": "SNIA 2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de la Transition Numérique et de la Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

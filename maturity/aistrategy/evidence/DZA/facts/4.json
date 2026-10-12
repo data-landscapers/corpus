@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-05-algerie-premieres-etapes-mise-en-oeuvre-strategie-nationale-intelligence-artificielle",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Algérie Maintenant reports that the higher education minister chaired a first coordination meeting with ministries launching implementation of the national AI strategy, adopting priority areas and a joint roadmap.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The source reports a joint follow-up committee of representatives of the sectors concerned was formed to monitor the roadmap's stages to a set timetable.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algeria national AI strategy",
+   "country_label": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research (coordination)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

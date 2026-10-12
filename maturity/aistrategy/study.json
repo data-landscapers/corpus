@@ -97,7 +97,15 @@
       "subject": "gov.policy",
       "text": "AI strategy: national AI strategy",
       "indicator_id": "gov.policy--ai-strategy-national-ai-strategy",
-      "class": "strategy"
+      "class": "strategy",
+      "criteria": [
+        "A source from the past three years says the country has no national AI strategy and none is being written.",
+        "A national AI strategy, policy or roadmap is being written or is out for consultation, or the last one has run out with no successor adopted. A task force appointed to write it counts. AI named as a priority in a digital strategy does not.",
+        "A national AI strategy is adopted and still running: approved by cabinet, or launched or issued by the head of state, the minister or the agency responsible. No body is yet named to carry it out.",
+        "The government has named a body to carry out the strategy: a council, office, agency, committee or ministry unit set up or named for it.",
+        "Public money has gone into carrying out the strategy in the past three years: a dated source names money allocated to it, or an action in it started with its funding named. How good the strategy is, is not judged."
+      ],
+      "criteria_of": "8ab2dce6fe93"
     }
   ],
   "classes": [

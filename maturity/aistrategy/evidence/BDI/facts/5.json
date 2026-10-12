@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-28-pnud-burundi-feuille-route-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "UNDP reports that a national AI landscape assessment workshop held 25-27 November 2025 in Bujumbura fed the future National AI Strategy, which the government says it will now draw up.", "as_of": "2025-11-27", "date_precision": "day", "system": "Stratégie Nationale d'Intelligence Artificielle", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale d'Intelligence Artificielle", "country_label": "Burundi", "class": "strategy", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

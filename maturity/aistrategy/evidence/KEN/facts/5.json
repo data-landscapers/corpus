@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "CIPESA states Kenya adopted its own national AI strategy in May 2025, with implementation of the National AI Strategy (2025-2030) costed at KSh 152 billion over five years.", "as_of": "2025-05", "date_precision": "month", "system": "Kenya National Artificial Intelligence Strategy (2025-2030)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "none", "fact": "CIPESA states a review of Kenya's 2026/27 national budget shows no dedicated funding allocation for the National AI Strategy, the KSh 8.6 billion for the ICT sector going mainly to broadband, digital skills and government digitisation.", "as_of": "2026", "date_precision": "year", "system": "Kenya National Artificial Intelligence Strategy (2025-2030)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya National Artificial Intelligence Strategy (2025-2030)", "country_label": "National Artificial Intelligence Strategy", "class": "strategy", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-11-ncai-reviews-national-ai-strategy-progress-adopts-governance-framework",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The National Council for AI, Quantum Computing and Emerging Technologies reviewed the implementation status of the National AI Strategy and its 2025 progress, and adopted the strategy's implementation plan with 56 sub-indicators.", "as_of": "2026-03-11", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The council, chaired by the ICT minister, recommended that government entities submit quarterly achievement reports against the National AI Strategy's implementation plan; no public money is stated.", "as_of": "2026-03-11", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "strategy", "platform": "", "owner": "MCIT / National Council for AI, Quantum Computing and Emerging Technologies", "tiers": "national; government entities report quarterly"}
+  ],
+  "note": ""
+}

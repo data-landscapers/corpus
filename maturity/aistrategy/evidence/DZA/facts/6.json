@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-25-dz-aps-strategie-nationale-ia",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "APS, citing a Prime Minister's services communique, reports that on 25 May 2026 a Government meeting chaired by PM Sifi Ghrieb examined the draft ('projet de') national AI strategy.",
+      "as_of": "2026-05-25",
+      "date_precision": "day",
+      "system": "stratégie nationale d'intelligence artificielle",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

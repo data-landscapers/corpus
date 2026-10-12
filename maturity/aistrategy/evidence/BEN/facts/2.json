@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-10-grain-west-africa-ai-governance-comparative-study",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "GRAIN's comparative report on four West African countries says Benin was the first of the four to adopt a national AI strategy, in 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National AI Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

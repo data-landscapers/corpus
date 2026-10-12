@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIPESA lists Guinea, with Burkina Faso, Lesotho, Mali, Namibia and Uganda, as still at different stages in developing its AI policy or strategy; no adoption is stated. No date of its own is given, so the document's published date is used.", "as_of": "2026-07-23", "date_precision": "day", "system": "national AI strategy or policy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

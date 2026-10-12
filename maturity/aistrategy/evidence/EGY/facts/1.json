@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-25-egy-ai-council-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Egypt's National Council for AI, Quantum Computing and Emerging Technologies adopted the achievements report on the Second Edition of the National AI Strategy (2025-2030) covering the first half of 2026; the meeting date is not stated, so the document's published date is used.", "as_of": "2026-09-25", "date_precision": "day", "system": "National AI Strategy Second Edition (2025-2030)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The National Council for AI, Quantum Computing and Emerging Technologies, chaired by the ICT minister, met to follow up the National AI Strategy and reviewed its progress across six pillars; the meeting date is not stated, so the document's published date is used.", "as_of": "2026-09-25", "date_precision": "day", "system": "National AI Strategy Second Edition (2025-2030)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy Second Edition (2025-2030)", "country_label": "National Artificial Intelligence Strategy", "class": "strategy", "platform": "", "owner": "MCIT / National Council for AI, Quantum Computing and Emerging Technologies", "tiers": "national"}
+  ],
+  "note": ""
+}

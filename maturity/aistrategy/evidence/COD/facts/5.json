@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-10 DR Congo launches National Digital Plan 2026-2030 (PNN2) and first AI strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "On 8 October 2025 in Kinshasa, Digital Economy Minister Augustin Kibassa Maliba launched the drafting of the country's first National AI Strategy alongside the National Digital Plan 2026-2030.", "as_of": "2025-10-08", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "", "class": "strategy", "platform": "", "owner": "Ministry of Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

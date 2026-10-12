@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-20-ethiopia-joins-waico-global-ai-alliance",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Birr Metrics reports that Ethiopia adopted its National Artificial Intelligence Policy in 2024, setting priorities in AI research, human capital, digital infrastructure, innovation and responsible adoption.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Artificial Intelligence Policy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

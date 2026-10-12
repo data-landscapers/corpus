@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-16-ghana-public-sector-ai-capacity-programme-japan-undp",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Minister said the National AI Strategy had Cabinet approval, with formal unveiling by the President set for 24 April 2026; the approval date is not given, so the article date is used.",
+   "as_of": "2026-04-16",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

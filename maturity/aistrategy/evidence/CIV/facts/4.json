@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-civ-socialnetlink-pacte-alliance-nationale-ia-cas-usage",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article refers to Côte d'Ivoire's existing national AI strategy as being turned into projects, with a three-year AI roadmap to follow; the document gives no adoption date and is published 2026-09-14.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Stratégie nationale d'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

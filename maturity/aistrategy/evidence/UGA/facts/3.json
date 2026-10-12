@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cipit-east-african-ai-policy-outlook-report",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIPIT's report summary says Tanzania and Uganda are still developing AI strategies off existing digital and data-protection frameworks, while Kenya and Rwanda have adopted national AI instruments; the date is the document's published date, the page giving no other.", "as_of": "2026-07-30", "date_precision": "day", "system": "Uganda national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-22-dza-dzwatch-ai-strategy-implementation-phase",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "DZWatch reports that a follow-up meeting reviewed implementation of Algeria's National AI Strategy, which had moved from planning to execution of priority projects; meeting date not stated, so the published date 2026-09-22 is used.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "DZWatch reports that specialised committees (data and infrastructure, continuous training, AI doctorate, funding, international cooperation) reported progress on the strategy's roadmap; date is the published date 2026-09-22 as the meeting date is not stated.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algeria national AI strategy",
+   "country_label": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research (coordination)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

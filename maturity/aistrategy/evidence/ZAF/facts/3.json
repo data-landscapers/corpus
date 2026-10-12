@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-parly-chairperson-ai-governance-south-africa",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "ITWeb reports that South Africa's AI regulatory environment is yet to be finalised, with the national AI policy back at the revision stage after its withdrawal over fictitious AI-generated citations, and that the Department of Communications and Digital Technologies is targeting financial year 2026/27 to finalise it.", "as_of": "2026-07-29", "date_precision": "day", "system": "National AI policy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

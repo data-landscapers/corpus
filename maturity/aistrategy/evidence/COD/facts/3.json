@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-rdc-strategie-nationale-ia-validation-technique",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "A five-day workshop, 23 to 27 July 2026, technically validated the draft national AI strategy (SNIA-RDC) subject to amendments on governance, roadmap, monitoring and change management, ahead of official adoption.", "as_of": "2026-07-27", "date_precision": "day", "system": "SNIA-RDC", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNIA-RDC", "country_label": "Stratégie nationale de l'intelligence artificielle", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

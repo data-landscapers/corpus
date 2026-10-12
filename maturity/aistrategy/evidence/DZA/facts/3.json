@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "El Watan reports that the interministerial meeting chaired by the higher education minister formalised a joint monitoring commission to oversee the strategy's intersectoral objectives to a set timetable.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algeria national AI strategy",
+   "country_label": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research (coordination)",
+   "tiers": "national"
+  }
+ ],
+ "note": "El Watan says the strategy was drawn up by 150 national and diaspora experts but gives no adoption statement; no standing fact."
+}

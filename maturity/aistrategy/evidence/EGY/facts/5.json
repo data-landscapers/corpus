@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-18-acet-who-funds-ai-policy-development-in-africa",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "ACET says Egypt reviewed its earlier AI strategy, adopted a newer version and is in the second phase of implementation; no adoption date is given, so the published date is used.", "as_of": "2026-09-18", "date_precision": "day", "system": "Egypt National Artificial Intelligence Strategy (second edition)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Egypt National Artificial Intelligence Strategy (second edition)", "country_label": "National Artificial Intelligence Strategy", "class": "strategy", "platform": "", "owner": "National Council for AI with MCIT", "tiers": "national"}
+  ],
+  "note": "Regional think-tank piece; the Egypt-specific content is the standing fact. The 2021 first-edition drafting was government-funded (outside three years, drafting not carrying out) and the World Bank implementation pledge is a donor item, so no use fact."
+}

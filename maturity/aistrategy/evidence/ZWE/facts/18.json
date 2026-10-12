@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-14-zimbabwe-cabinet-23rd-press-briefing",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Cabinet press briefing lists the National Artificial Intelligence Strategy (2026-2030) among the frameworks under which the ICT sector operates; no adoption date given, so the briefing date is used.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "country_label": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

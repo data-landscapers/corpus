@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "use",
+      "value": "body",
+      "fact": "CIPESA says Ethiopia's AI policy designates the Ethiopian Artificial Intelligence Institute as national coordinating body for implementation, standards and capacity building, with the Ministry of Innovation and Technology providing policy oversight; the document gives no date for this, so its published date is used.",
+      "as_of": "2026-07-23",
+      "date_precision": "day",
+      "system": "Ethiopia national AI policy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "Standing not recorded: the document says only that Ethiopia has 'developed' AI policies or strategies, without saying adopted; no funding stated."
+}

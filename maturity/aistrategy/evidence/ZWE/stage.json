@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "5",
+   "standing": "adopted",
+   "use": "funded",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-023;ZWE-015",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-aistrategy.py."
+  }
+ ]
+}

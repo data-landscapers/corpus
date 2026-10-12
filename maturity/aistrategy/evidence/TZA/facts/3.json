@@ -1,0 +1,17 @@
+{
+  "slug": "2025-07-29-tanzania-charts-path-responsible-ai",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Citizen reported that a National AI Strategy was under development and expected to be released later in 2025, as the first National AI Forum ended on 29 July 2025.",
+      "as_of": "2025-07-29",
+      "date_precision": "day",
+      "system": "National AI Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

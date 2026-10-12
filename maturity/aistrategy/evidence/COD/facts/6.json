@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-05-drc-kibassa-receives-validated-psen-and-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "On 4 August 2026 the Minister of Digital Economy received the validated final version of the Stratégie nationale d'intelligence artificielle (SNIA), signed by the minister and the ADN, and announced it would be presented to the Council of Ministers in the coming days, so it was not yet adopted.", "as_of": "2026-08-04", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle (SNIA)", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "No fact on the use aspect: the document names no body charged with carrying out the strategy and no funding."
+}

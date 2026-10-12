@@ -1,0 +1,11 @@
+# Algeria
+
+## National AI strategy
+
+**Strategy adopted.** Algeria has a national AI strategy in implementation. [A government meeting chaired by the Prime Minister examined the draft on 25 May 2026](<https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722>). [On 5 August 2026 the higher education minister chaired a first coordination meeting with ministries that launched its implementation and adopted priority areas and a joint roadmap](<https://algeriemaintenant.dz/2026/08/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D8%A3%D9%88%D9%84%D9%89/>). [By September 2026 it had moved from planning to carrying out priority projects](<https://dzwatch.dz/?p=79285>).
+
+**Body named and action funded.** [The August 2026 meeting set up a joint monitoring commission to oversee the strategy's objectives to a timetable](<https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/>). [A meeting in September 2026 created five thematic commissions to monitor its main axes, among them data and infrastructure, financing and training](<https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/>), and [those committees have since reported progress on the roadmap](<https://dzwatch.dz/?p=79285>). No source held from the last three years names public money allocated to the strategy, or an action in it started with its funding named. No budget line for the strategy is held.
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-zaf-sowetan-gumede-cybersecurity-gaps-ai-policy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A Sowetan column of 15 September 2026 says the minister withdrew the draft national AI policy over fictitious citations and that an amended draft is still to come; the draft's explanatory note set finalisation for 2025/26 and full implementation for 2027/28 (as_of is the publication date).",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-wearetech-burundi-ia-seoul-ambitions",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The article says Burundi's national AI strategy 2025-2030 was validated in April 2026 with UNDP support, and that it has still to move from the national framework to first applications; it records validation, not approval or launch by the government.", "as_of": "2026-04", "date_precision": "month", "system": "Stratégie nationale d'intelligence artificielle 2025-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale d'intelligence artificielle 2025-2030", "country_label": "Burundi", "class": "strategy", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

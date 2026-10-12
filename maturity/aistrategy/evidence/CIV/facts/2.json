@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-14-ai-data-governance-strategy-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "On 13 March 2025, after eight months of preparation, the national AI strategy was officially handed to the Prime Minister for government adoption and upcoming launch.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "none",
+   "fact": "The article says the investment amount required to implement the strategy had not yet been disclosed (published 2025-03-14); a National Committee for AI and Data Governance is listed as an initial action, not yet set up.",
+   "as_of": "2025-03-14",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Stratégie nationale de l'IA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-23-okolo-raji-global-majority-international-ai-governance",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Okolo and Raji list Ghana among 13 African countries with AI strategies or draft AI policies through soft law as of July 2025, without saying whether Ghana's was adopted or still a draft, so the lower value is recorded.", "as_of": "2025-07", "date_precision": "month", "system": "Ghana national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "Only the one-line listing of Ghana among 13 countries; nothing on adoption, a named body or funding for Ghana."
+}

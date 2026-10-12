@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-18-cipit-standing-cabinet-committee-ai-kenya",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "CIPIT states the National AI Strategy 2025-2030 was launched in March 2025 by the Ministry of Information, Communications and the Digital Economy and is the framework the Cabinet committee now steers.", "as_of": "2025-03", "date_precision": "month", "system": "Kenya National Artificial Intelligence Strategy 2025-2030", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "CIPIT reports that on 30 June 2026 the Cabinet, chaired by President Ruto at State House, established a Standing Cabinet Committee on Artificial Intelligence with the mandate of steering the national AI strategy and coordinating policy across government.", "as_of": "2026-06-30", "date_precision": "day", "system": "Kenya National Artificial Intelligence Strategy 2025-2030", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIPIT describes a recently published Draft Kenya AI and other Emerging Technologies Policy 2026, the policy instrument the Strategy contemplates; the document gives no exact publication date, so the year is used.", "as_of": "2026", "date_precision": "year", "system": "Kenya AI and other Emerging Technologies Policy 2026 (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya National Artificial Intelligence Strategy 2025-2030", "country_label": "National AI Strategy 2025-2030", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
+    {"system": "Kenya AI and other Emerging Technologies Policy 2026 (draft)", "country_label": "Draft Kenya AI and other Emerging Technologies Policy 2026", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

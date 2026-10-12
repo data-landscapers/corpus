@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-02-nam-iafrica-national-ai-institute",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy",
+   "fact": "iAfrica says NCRST was assigned to lead development of Namibia's National AI Strategy, for which no date has been given; dated by publication, 2026-10-02.",
+   "as_of": "2026-10-02"
+  }
+ ],
+ "systems": [],
+ "note": "Institute, AI Council and readiness assessment are other-class; no budget tied to the strategy."
+}

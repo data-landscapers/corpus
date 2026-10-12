@@ -1,0 +1,37 @@
+{
+ "slug": "2026-04-25-president-unveils-270m-national-ai-strategy-graphic",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Graphic Online reports President Mahama unveiled the National AI Strategy in Accra on 24 April 2026.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The strategy carries US$250 million for an AI computing centre and US$20 million earmarked for short-to-medium-term implementation, per Graphic Online.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "A KNUST professor who helped develop the strategy said a National AI Office under the Ministry of Communication, Digital Technology and Innovations would be established, with a Responsible AI Authority within the first year; the article also says AI focal persons were designated in ministries.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

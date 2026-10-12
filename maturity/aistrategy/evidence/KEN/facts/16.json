@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-22-itweb-africa-kenya-targets-ais-real-payoff",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Principal Secretary for Broadcasting and Telecommunications, speaking at a Nairobi forum, named the National Artificial Intelligence Strategy (2025-2030) as part of the government's policy foundation already in place.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Kenya National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya National Artificial Intelligence Strategy 2025-2030",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

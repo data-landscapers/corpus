@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-government-reviews-national-ai-strategy-elmoudjahid",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "El Moudjahid, citing a Prime Minister's office communiqué, reports a government meeting chaired by the Prime Minister examined the draft national AI strategy; action plans follow its adoption by the Council of Ministers.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algeria national AI strategy",
+   "country_label": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research (coordination)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

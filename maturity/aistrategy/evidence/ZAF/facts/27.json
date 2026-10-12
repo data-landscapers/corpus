@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "Minister Malatsi told Parliament in his budget vote speech that the Draft National AI Policy was withdrawn after generative AI was used irresponsibly in drafting it; date of withdrawal not given, so the speech date is used.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "South Africa's draft National AI Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The minister announced an Independent Expert Review Panel chaired by Prof Benjamin Rosman to review the policy before it is reintroduced for public comment.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "South Africa's draft National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

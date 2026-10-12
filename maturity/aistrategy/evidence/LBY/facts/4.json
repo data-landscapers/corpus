@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-03-gia-meeting-launch-executive-initiatives-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The General Information Authority hosted a meeting on 26 April 2026 on moving Libya's National AI Strategy 2025-2030 from preparation to implementation, under the Minister of State for Digital Economy and AI (published 3 May 2026).",
+   "as_of": "2026-04-26",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "country_label": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

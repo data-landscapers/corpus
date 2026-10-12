@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-25-un-eswatini-ai-indaba",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "At the inaugural AI Indaba the Ministry of ICT Under Secretary announced plans to develop a National AI Strategy in the 2024/2025 fiscal year, so none yet existed and no drafting was reported.", "as_of": "2024-11-25", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "strategy", "platform": "", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": ""
+}

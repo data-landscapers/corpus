@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article states Kenya launched its National AI Strategy for 2025-2030 in March 2025 after a public consultation begun the previous year, citing Bowmans.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Kenya National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya National Artificial Intelligence Strategy 2025-2030",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

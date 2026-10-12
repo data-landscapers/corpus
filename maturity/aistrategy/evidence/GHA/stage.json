@@ -1,0 +1,16 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "3",
+   "standing": "adopted",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-024;GHA-016",
+   "gaps": "No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.",
+   "note": "Counted from the four questions by study-ladder-aistrategy.py."
+  }
+ ]
+}

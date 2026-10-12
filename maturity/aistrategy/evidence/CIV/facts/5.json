@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-12-civ-fratmat-impact-ia-2026-77-cas-usage-prioritaires",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "At the close of IMPACT IA on 11 September 2026 the minister said the government would accelerate implementation of a national AI strategy, with a budgeted roadmap expected within three weeks.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'IA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

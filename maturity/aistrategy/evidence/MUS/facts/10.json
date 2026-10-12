@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-02-globalcenter-building-ai-vs-using-it-africa-smes",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "A Global Center on AI Governance article reviews national AI strategies of five countries including Mauritius and treats Mauritius as having one; it gives no adoption date, so its published date of 2026-10-02 is used.",
+      "as_of": "2026-10-02",
+      "date_precision": "day",
+      "system": "National Artificial Intelligence Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "No body or funding stated for the strategy; fab labs and AI Tech Park are mentioned only as innovation initiatives."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-10-grain-west-africa-ai-governance-comparative-study",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The GRAIN comparative study, presented 10 August 2026, says Burkina Faso does not yet have a dedicated national AI strategy and recommends developing one.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

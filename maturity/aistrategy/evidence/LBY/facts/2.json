@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-national-ai-strategy-2025-2030-published-libyaherald",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The General Information Authority made the full National Strategy for Artificial Intelligence in the State of Libya 2025-2030 public on its website, calling it the highest reference strategy of the Libyan state (document gives no separate date; published date used).",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "National Strategy for Artificial Intelligence in the State of Libya 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Strategy for Artificial Intelligence in the State of Libya 2025-2030",
+   "country_label": "National Strategy for Artificial Intelligence in the State of Libya 2025-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

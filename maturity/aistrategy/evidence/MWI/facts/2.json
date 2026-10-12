@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Malawi began validating its Draft National AI Strategy at a two-day workshop in Lilongwe led by the Ministry of ICT's Department of E-Government with UNDP, before the strategy is finalised.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "Draft National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Department of E-Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Standing is draft; Department of E-Government leads validation, a body for writing, not for carrying out."
+}

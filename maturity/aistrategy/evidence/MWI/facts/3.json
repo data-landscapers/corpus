@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-25-national-ai-strategy-consultation-itweb",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Malawi launched regional consultation workshops to develop its first National AI Strategy, led by the Department of E-Government with UNDP and the PPPC; document published 2025-09-25, event date not given.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Department of E-Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Strategy being written in Sept 2025."
+}

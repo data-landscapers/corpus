@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-21-sle-calabash-ai-strategy-authority-limits-agents",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "An opinion column in The Calabash Newspaper of 21 September 2026 states that the Ministry of Communication, Technology and Innovation is developing the country's first National AI Strategy in collaboration with the World Bank.", "as_of": "2026-09-21", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

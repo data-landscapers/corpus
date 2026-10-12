@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-01-gab-agpgabon-ravaux-sur-la-future-strategie-nationale",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The digital-economy minister closed three days of work on drawing up Gabon's future national AI strategy on 30 September 2026; UNDP said the document presented is a preliminary diagnostic, not a finished strategy, to be consolidated and validated in later steps.",
+      "as_of": "2026-09-30",
+      "date_precision": "day",
+      "system": "Stratégie nationale de l'intelligence artificielle",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

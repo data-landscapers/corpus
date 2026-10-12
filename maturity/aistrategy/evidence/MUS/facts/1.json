@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-21-cajnews-mauritius-ai-innovation-lab-stempower",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The IT minister said the AI Innovation Lab accords with Mauritius' National AI Strategy (2025-2029), launched in April 2026 together with the FAIR Guidelines.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National AI Strategy (2025-2029)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The minister said Mauritius established an AI Unit in December 2025 to complement the AI Strategy and support AI advancement.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "AI Unit",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Unit",
+   "country_label": "AI Unit",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

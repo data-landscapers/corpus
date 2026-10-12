@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-ghana-health-ministry-develops-ai-policy-healthcare",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Health's draft AI health policy is said to build on existing national frameworks that include the National AI Strategy; the document gives no adoption date, so the published date is used.", "as_of": "2026-08-06", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "The Ministry of Health AI Health Policy is a sector policy in development (other), not the national strategy, and gives no fact."
+}

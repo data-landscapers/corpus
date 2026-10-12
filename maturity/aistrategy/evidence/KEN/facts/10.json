@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-28-kaluvu-kenya-ai-policy-debating-right-things",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "An opinion piece by Anne Kaluvu reports that ICT Cabinet Secretary William Kabogo, through the Ministry of Information, Communications and the Digital Economy, invited public submissions on the Draft Artificial Intelligence and Emerging Technologies Policy, with consultation open until 4 August 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Draft Artificial Intelligence and Emerging Technologies Policy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Draft Artificial Intelligence and Emerging Technologies Policy", "country_label": "Draft Artificial Intelligence and Emerging Technologies Policy", "class": "strategy", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""}
+  ],
+  "note": "Date is the article's publication date; the rest is commentary on readiness and names no body or funding."
+}

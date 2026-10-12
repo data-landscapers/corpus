@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-28-mus-defimedia-ai-progress-regulation",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "A Defimedia blog by Vishal Askurn states that the Government of Mauritius launched the National Artificial Intelligence Strategy and the non-binding FAIR Guidelines in April 2026.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "National Artificial Intelligence Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "No body or funding stated for the strategy."
+}

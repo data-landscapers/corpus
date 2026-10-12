@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-01-techreviewafrica-benin-appoints-akplogan-digital-minister",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "use",
+      "value": "body",
+      "fact": "Benin appointed Mahuna Akplogan Minister of Digital Transformation and Innovation, entrusted with responsibility for the country's National Artificial Intelligence Strategy; the appointment date is not given, so the article's published date is used.",
+      "as_of": "2026-06-01",
+      "date_precision": "day",
+      "system": "National AI Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

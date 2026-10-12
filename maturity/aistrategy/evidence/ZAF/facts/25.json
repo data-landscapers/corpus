@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The update reports South Africa moving to finalise its AI policy in 2026/2027, with the Economic Cluster Ministerial Council to deliberate in March, then Cabinet, then gazette and 60 days of public comment; the document gives no event date, so the published date applies.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "South Africa AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

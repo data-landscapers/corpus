@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cipit-east-african-ai-policy-outlook-report",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "CIPIT's East African AI policy outlook, as summarised on the page, splits the four countries into Kenya and Rwanda, which 'have adopted national AI instruments', and Tanzania and Uganda, still developing strategies; the instrument is not named and no adoption date is given, so the report's publication date is used.", "as_of": "2026-07-30", "date_precision": "day", "system": "national AI instruments", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "Only the abstract and an ingest summary are held, not the report; the instrument is unnamed, and the page says its country characterisations are not current state."
+}

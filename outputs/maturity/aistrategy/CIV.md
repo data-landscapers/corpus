@@ -1,0 +1,11 @@
+# Cote d'Ivoire
+
+## National AI strategy
+
+**Strategy adopted.** Cote d'Ivoire has an adopted national AI strategy. [The strategy was handed to the Prime Minister on 13 March 2025 for adoption by the government](<https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy>), and [a comparative study presented in August 2026 says the country has adopted its AI strategy to 2030](<https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/>). [In September 2026 the strategy was being turned into projects, with a three-year roadmap to follow](<https://www.socialnetlink.org/2026/09/14/cote-divoire-letat-et-le-secteur-prive-scellent-une-alliance-pour-accelerer-ladoption-de-lintelligence-artificielle/>).
+
+**Body named and action funded.** [On 11 September 2026 the minister said the government would speed up the strategy's implementation, with a budgeted roadmap expected within three weeks](<https://www.fratmat.info/article/2644463/economie/impact-ia-2026-la-cote-divoire-passe-de-la-reflexion-a-laction-avec-77-cas-dusage-prioritaires>). [In March 2025 the money needed to carry out the strategy had not been disclosed, and a national committee for AI and data governance was listed as a first action](<https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy>). No source held names a council, office, agency or ministry unit set up or named to carry out the strategy. No source held names public money allocated to it, or an action in it started with its funding named, in the last three years. No implementation plan or budget for it is held.
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held names a body set up or named to carry out the strategy: a council, office, agency, committee or ministry unit.

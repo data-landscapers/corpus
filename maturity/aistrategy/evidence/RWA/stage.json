@@ -1,0 +1,16 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "body",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-008;RWA-013;RWA-004",
+   "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
+   "note": "Counted from the four questions by study-ladder-aistrategy.py."
+  }
+ ]
+}

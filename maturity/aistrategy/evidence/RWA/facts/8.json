@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-21-rwa-newtimes-ai-sovereignty-pm-nsengiyumva",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Prime Minister said the government has adopted a National AI Policy; the article gives no adoption date, so the published date 2026-09-21 is used.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "National AI Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The Prime Minister said a National AI Agency was approved in June 2026 to drive AI strategy, research, development and adoption.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

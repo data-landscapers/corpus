@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-22-kenya-seeks-public-input-on-ai-policy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ITWeb Africa reports on 2026-07-22 that Kenya's National AI Strategy (2025-2030) is in place and that the draft AI policy forms part of it (document gives no adoption date).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "National AI Strategy 2025-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ministry opened a draft AI policy for public consultation on 2026-07-21, with comments due 4 August 2026, per ITWeb Africa.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Kenya draft AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2025-2030",
+   "country_label": "National AI Strategy 2025-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information, Communications and the Digital Economy",
+   "tiers": ""
+  },
+  {
+   "system": "Kenya draft AI policy",
+   "country_label": "Kenya draft AI policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Information, Communications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

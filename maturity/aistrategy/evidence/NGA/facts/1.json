@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-10-nigeria-tops-africa-girai-responsible-ai-index",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The article says Nigeria's own draft AI policy identifies dependence on foreign cloud providers and frontier models as a strategic risk; it also credits Nigeria with progress through the National Artificial Intelligence Strategy without saying it was adopted (published date 2026-08-10 used).",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "National Artificial Intelligence Strategy / draft AI policy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

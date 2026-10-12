@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-14-kenya-cipesa-draft-ai-policy-submission",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIPESA reports it submitted recommendations in August 2026 to the committee considering the Draft Kenya Artificial Intelligence and Other Emerging Technologies Policy, 2026, which was then under public consultation.", "as_of": "2026-08", "date_precision": "month", "system": "Kenya AI and Other Emerging Technologies Policy, 2026 (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya AI and Other Emerging Technologies Policy, 2026 (draft)", "country_label": "Draft Kenya AI and Other Emerging Technologies Policy, 2026", "class": "strategy", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The proposed AI Council and steering committee are proposals in a draft, not bodies set up; the national AI strategy is mentioned without date or status."
+}

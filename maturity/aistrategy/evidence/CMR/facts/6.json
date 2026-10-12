@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-22-unveils-plans-national-ai-strategy-afd-index-wearetech",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Minister of Posts and Telecommunications announced on 21 January 2025 that Cameroon is developing a national AI strategy, which is under development with no adoption stated.", "as_of": "2025-01-21", "date_precision": "day", "system": "National AI strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI strategy", "country_label": "stratégie nationale d'intelligence artificielle", "class": "strategy", "platform": "", "owner": "Ministry of Posts and Telecommunications (MINPOSTEL)", "tiers": "national"}
+  ],
+  "note": ""
+}

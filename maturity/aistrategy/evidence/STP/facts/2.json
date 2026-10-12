@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-unesco-sao-tome-ai-readiness-assessment-full-report",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "The minister of education's preface to UNESCO's readiness report states the country has no national AI strategy; the report gives no month, so its published year of 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "national AI strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "none", "fact": "The preface states the country has no national AI ethics commission or any other specific AI structure; the report gives no month, so its published year of 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

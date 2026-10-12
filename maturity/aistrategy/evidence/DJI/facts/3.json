@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-29 Djibouti develops national AI strategy with UN support",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "TechAfrica News reports Djibouti is developing its first National AI Strategy, led by the education, innovation and digital ministry (MENIDjib) with UNESCO and UN-ESCWA support, beginning with a UNESCO readiness-assessment diagnostic; the document gives no event date, so the published date 2026-01-29 is used.", "as_of": "2026-01-29", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "Stratégie nationale d'intelligence artificielle", "class": "strategy", "platform": "", "owner": "MENIDjib", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "CIPESA lists Mali among countries still at different stages of developing their AI policies or strategies, not among those that have adopted one; no date for the status is given, so the published date 2026-07-23 is used.", "as_of": "2026-07-23", "date_precision": "day", "system": "National AI policy or strategy (in development)", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

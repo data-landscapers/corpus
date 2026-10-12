@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-24-gna-ghana-invest-250m-ai-centre-launch-national-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Ghana News Agency reports President Mahama launched the National AI Strategy (2025-2035) in Accra on 24 April 2026, led by the Ministry of Communication, Digital Technology and Innovations.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "Government announced $250 million for an AI Computing Centre, with $20 million allocated for short- and medium-term implementation of the AI strategy, and plans a Responsible Artificial Intelligence Office to oversee implementation.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy",
+   "country_label": "National AI Strategy 2025-2035",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

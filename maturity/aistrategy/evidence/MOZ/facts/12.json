@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-17-cnia-decree-mozambique",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body",
+     "fact": "Decree 14/2026 of 17 April 2026 creates the National AI Commission (CNIA) under the Council of Ministers, and gives its executive secretariat, the ICT regulatory authority, the task of coordinating implementation of the actions of the National AI Strategy.",
+     "as_of": "2026-04-17", "date_precision": "day", "system": "Estratégia Nacional de Inteligência Artificial", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

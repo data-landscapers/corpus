@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-14-zaf-techcentral-godongwana-ict-policy-drift-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Finance minister Godongwana pointed to South Africa's continued absence of an AI strategy; TechCentral adds the World Bank does not count South Africa among countries with one.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "none",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "TechCentral reports the draft policy was gazetted 10 April and withdrawn 16 days later, and that a revised draft is due at cabinet in November with public consultation targeted for January 2027.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "South Africa National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

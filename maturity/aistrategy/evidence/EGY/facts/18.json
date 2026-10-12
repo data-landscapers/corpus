@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document states Egypt's National Artificial Intelligence Strategy was adopted in January 2025.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The document states Egypt relies on programmatic budgets to fund implementation of its AI strategy; it gives no figures. No event date given, so the document's published date 2026-07-23 is used.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

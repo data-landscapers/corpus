@@ -1,0 +1,17 @@
+{
+  "slug": "2026-02-16-ethiopia-launches-ai-unipod",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "UNDP's release says the Ethiopian AI Institute's director general stated Ethiopia had recently published its National Artificial Intelligence Policy; no date is given, so the document's published date of 2026-02-16 is used.",
+      "as_of": "2026-02-16",
+      "date_precision": "day",
+      "system": "National Artificial Intelligence Policy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

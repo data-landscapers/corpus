@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-06-biggest-winners-losers-kenya-ai-policy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "TechCabal describes Kenya's proposed Artificial Intelligence and Emerging Technologies Policy as a draft ('if adopted, the policy would...'), setting out the government's plans to regulate, build and commercialise AI; no adoption date is given, so the article's publication date is used.", "as_of": "2026-08-06", "date_precision": "day", "system": "Artificial Intelligence and Emerging Technologies Policy (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence and Emerging Technologies Policy (draft)", "country_label": "Kenya AI and Emerging Technologies Policy", "class": "strategy", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The draft's commitments on research funding and procurement are proposals, not a named body or allocated money."
+}

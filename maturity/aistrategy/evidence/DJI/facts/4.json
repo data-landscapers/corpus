@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-29-unescwa-djibouti-ai-strategy-consultation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "ESCWA reports that on 22 January 2026 it and Djibouti's Ministry of Digital Economy and Innovation held a consultative workshop on the current draft of the national AI strategy, in preparation for its official adoption.", "as_of": "2026-01-22", "date_precision": "day", "system": "national AI strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "national AI strategy", "country_label": "Stratégie nationale d'intelligence artificielle", "class": "strategy", "platform": "", "owner": "Ministry of Digital Economy and Innovation (MDENI)", "tiers": ""}
+  ],
+  "note": ""
+}

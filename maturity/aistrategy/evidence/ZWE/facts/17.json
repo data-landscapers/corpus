@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Bindura Eye reports the AI for Impact Challenge is linked to implementation of the National Artificial Intelligence Strategy 2026-2030 and an accompanying AI Policy Framework; no adoption date given, so the published date is used.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "country_label": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

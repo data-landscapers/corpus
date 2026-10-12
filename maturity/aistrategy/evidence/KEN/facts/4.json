@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-kenya-draft-ai-policy-power-over-foreign-tech-giants",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Nairobi Business Monthly reports the ICT Ministry has drawn up a draft national AI policy; the document gives no date for the draft's issue, so its publication date is used.", "as_of": "2026-07-29", "date_precision": "day", "system": "Kenya draft national AI policy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Kenya draft national AI policy", "country_label": "Draft AI policy", "class": "strategy", "platform": "", "owner": "ICT Ministry", "tiers": "national"}
+  ],
+  "note": ""
+}

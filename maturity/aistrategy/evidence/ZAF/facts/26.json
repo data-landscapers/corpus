@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15 Africa–Europe Cooperation on AI Governance Report",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "The report states that South Africa's Draft National AI Policy was withdrawn in April 2026 after AI-fabricated references were found in the gazetted document.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "South Africa's draft National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

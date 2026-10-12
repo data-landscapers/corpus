@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-23-burundi-six-pillar-ai-strategy-wearetech",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The article reports that Burundi is adopting a national AI strategy for 2025-2030, designed by the Ministry of Finance, Budget and Digital Economy with UNDP, following its validation in Bujumbura on 22 April 2026.", "as_of": "2026-04-22", "date_precision": "day", "system": "National AI strategy 2025-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI strategy 2025-2030", "country_label": "Burundi", "class": "strategy", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": "national"}
+  ],
+  "note": "Steering bodies and pilot projects are only planned; no body named or money allocated."
+}

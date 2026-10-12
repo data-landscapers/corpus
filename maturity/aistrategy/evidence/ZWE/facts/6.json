@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-22-zwe-unga81-digital-inclusion-ai-roadmap",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The ICT minister presented Zimbabwe's National AI Strategy 2026-2030 at UNGA81 as the country's current strategy; the article's published date is used as as_of.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "National AI Strategy 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

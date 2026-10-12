@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy",
+   "fact": "NCRST's own authors state Namibia currently lacks a national AI strategy and is developing one through the NCRST AI Working Group and technical advisory committees; finalising it is a next step. Dated by publication, 2026-02-16.",
+   "as_of": "2026-02-16"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

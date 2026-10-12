@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-tun-thd-strategie-nationale-ia-introuvable-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "THD reports the national AI strategy has been in preparation since 2018 and that four ministers signed an MoU on preparing it and its implementation plan on 19 February 2022; as of 22 July 2026 the Official Gazette holds no text instituting or adopting it.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'IA",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "none",
+   "fact": "THD reports the steering structures meant to carry the strategy are idle or never created: the digital economy council has had no known meeting since 29 March 2018 and the digital development agency was never set up (article of 22 July 2026).",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'IA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'IA",
+   "country_label": "Stratégie nationale de l'IA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

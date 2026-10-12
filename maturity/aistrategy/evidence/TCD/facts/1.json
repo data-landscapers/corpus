@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-07-atpe-gouvernance-ia-tchad-geneve",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "On 7 July 2026 Chad's telecommunications minister told the ITU global AI governance dialogue in Geneva that Chad is running a national AI readiness diagnostic and drafting a national data governance strategy as a first step toward adopting a dedicated national AI strategy; no AI strategy is stated to be adopted or under drafting.", "as_of": "2026-07-07", "date_precision": "day", "system": "Stratégie nationale dédiée à l'intelligence artificielle", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

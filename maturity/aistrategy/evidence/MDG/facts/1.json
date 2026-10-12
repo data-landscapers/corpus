@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-compte-rendu-table-ronde-ia-madagascar-zama",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "The Zama 2026 diaspora round-table report presents a national AI policy for Madagascar as something still to be built, under a heading on a national AI policy and sovereignty 'to be built', and proposes local citizen conventions to draft one; it names no existing or draft strategy (report dated 2026-07, no event day given, so the published date is used).", "as_of": "2026-07", "date_precision": "month", "system": "National AI policy (none existing)", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "Only the standing aspect has a fact; the report names no body or funding for an AI strategy."
+}

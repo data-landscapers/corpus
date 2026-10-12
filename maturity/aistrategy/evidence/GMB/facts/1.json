@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft",
+     "fact": "In its national statement to the 29th session of the UN CSTD (Geneva, 20-24 April 2026), The Gambia says it is currently developing a National AI Policy and Strategy, led by the Ministry of Communications and Digital Economy; the statement carries no date of its own, so the as_of is the document's published date (2026-04), a proxy from the session dates.",
+     "as_of": "2026-04", "date_precision": "month", "system": "National AI Policy and Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Policy and Strategy", "country_label": "National AI Policy and Strategy", "class": "strategy", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

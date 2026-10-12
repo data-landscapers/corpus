@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-29-zimbabwe-potraz-ai4i-challenge-launch",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechnoMag reports the National Artificial Intelligence Strategy (2026-2030) was officially launched in March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "TechnoMag reports POTRAZ's AI4I Challenge, the implementation framework for the strategy's AI Grand Challenge, offers selected teams up to USD 80,000 in milestone-based grant funding, with 16 winners considered for POTRAZ incubation.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy (2026-2030)",
+   "country_label": "National Artificial Intelligence Strategy (2026-2030)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

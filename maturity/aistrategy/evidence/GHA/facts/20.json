@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-cipit-ai-and-intellectual-property-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "CIPIT's July 2026 report assesses Ghana's national AI strategy among seven national strategies; no adoption date given, so the published month is used.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National AI Strategy",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

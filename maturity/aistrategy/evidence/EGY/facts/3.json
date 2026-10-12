@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-10-egypt-ai-national-security-strategy-karnak-ahram",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The ICT minister told the Senate defence committee that the National Council for AI launched the second edition of the National AI Strategy in 2025, built on six pillars: governance, technology, data, infrastructure, ecosystem and skills.", "as_of": "2025", "date_precision": "year", "system": "National AI Strategy Second Edition (2025)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The minister said the National Council for AI, created in 2019, launched the first edition of the strategy in 2021 and the second in 2025; the council was renamed National Council for AI, Quantum Computing and Emerging Technologies.", "as_of": "2025", "date_precision": "year", "system": "National AI Strategy Second Edition (2025)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy Second Edition (2025)", "country_label": "الاستراتيجية الوطنية للذكاء الاصطناعي (الإصدار الثاني)", "class": "strategy", "platform": "", "owner": "National Council for AI, Quantum Computing and Emerging Technologies", "tiers": "national"}
+  ],
+  "note": ""
+}

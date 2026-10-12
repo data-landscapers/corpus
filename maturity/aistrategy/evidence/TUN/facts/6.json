@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-23-okolo-raji-global-majority-international-ai-governance",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The chapter lists Tunisia among 13 African countries with AI strategies or draft AI policies as of July 2025, without saying whether Tunisia's was adopted or a draft.", "as_of": "2025-07", "date_precision": "month", "system": "Tunisia national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "Only a list entry for Tunisia; nothing on adoption, a body or funding."
+}

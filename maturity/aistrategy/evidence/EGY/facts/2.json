@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The article says Egypt followed with a national AI strategy in 2020, later revised into a second edition covering 2025 to 2030; the second edition's exact date is not given.", "as_of": "2025", "date_precision": "year", "system": "National AI Strategy Second Edition (2025-2030)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The article places Egypt's second-edition AI strategy for 2025 to 2030 under its National Council for Artificial Intelligence; no date is given for this, so the published date is used.", "as_of": "2026-07-28", "date_precision": "day", "system": "National AI Strategy Second Edition (2025-2030)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy Second Edition (2025-2030)", "country_label": "national strategy, second edition", "class": "strategy", "platform": "", "owner": "National Council for Artificial Intelligence", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-01-cipit-ai-and-intellectual-property-in-africa",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "CIPIT's July 2026 report assesses the AI strategies of seven countries including Mauritius, treating Mauritius's as an existing national AI strategy; the document gives no adoption date, so its published date of 2026-07 is used.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "National Artificial Intelligence Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "No body or funding stated."
+}

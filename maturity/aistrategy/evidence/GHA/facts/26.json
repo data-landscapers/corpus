@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-02-dpa-digital-digest-ghana-2025",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Digital Policy Alert's April 2025 digest says the Ministry of Communications and Digitalisation released Ghana's National AI Strategy in October 2023, with eight pillars, and that Ghana has launched it.", "as_of": "2023-10", "date_precision": "month", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "strategy", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": "national"}
+  ],
+  "note": ""
+}

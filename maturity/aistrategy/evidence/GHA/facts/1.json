@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-30-ghana-10-year-ai-implementation-roadmap",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Chronicle reports the Minister's representative saying government launched the National AI Strategy and is developing a 10-year implementation plan with annual milestones; the launch date is not given here, so the article's published date is used.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "funded",
+   "fact": "The Minister's representative reaffirmed the commitment to establish a US$250 million AI Compute Centre first announced by the President at the strategy's launch; the article gives no allocation, and is dated by publication.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

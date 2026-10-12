@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-07-ghana-unesco-ai-readiness-assessment-methodology",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "UNESCO's country profile, as summarised, says Ghana's Cabinet-approved National AI Strategy was launched on 24 April 2026 (it gives the period as 2023-2033; the wiki holds 2025-2035).",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The same profile says the strategy is anchored by a Responsible Artificial Intelligence Office.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Ghana National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

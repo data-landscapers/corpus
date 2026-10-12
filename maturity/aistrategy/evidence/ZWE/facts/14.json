@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-11-zwe-spikedmedia-national-ai-data-platform-tourism-statistics",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Spiked Media reports the ICT minister, on 10 September 2026, said her ministry leads the Zimbabwe National AI Strategy 2026-2030, a whole-of-government instrument.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Spiked Media reports the strategy's governance includes an AI Strategy Implementation Office that coordinates implementation, with the National Digital Regulatory Committee setting policy, as described by the minister on 10 September 2026.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

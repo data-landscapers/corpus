@@ -1,0 +1,16 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "1",
+   "standing": "none",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "STP-001;STP-003",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-aistrategy.py."
+  }
+ ]
+}

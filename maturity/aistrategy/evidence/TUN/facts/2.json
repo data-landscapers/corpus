@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-tunisie-strategie-ia-sante-agriculture-souverainete-numerique",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ICT Minister Sofien Hemissi described the national AI strategy's priority sectors (digital health, agriculture, energy, transport, digital administration) and four axes at an engineers' order conference on 23 May 2026, and said his ministry had begun drafting legal and regulatory frameworks for AI; the report does not say the strategy was adopted or launched.",
+   "as_of": "2026-05-23",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "country_label": "Stratégie nationale de l'IA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-25-intic-amia-mozambique-ai-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "INTIC presented the proposed National AI Strategy (ENIA) to the Mozambican AI Association; the report says it is still being developed through an ongoing multi-sector consultation (date given is the publication date, 2026-08-25, as the meeting date is not stated).", "as_of": "2026-08", "date_precision": "month", "system": "Estratégia Nacional de Inteligência Artificial (ENIA)", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

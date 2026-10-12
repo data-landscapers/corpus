@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-28-ai-strategy-declaration-digital-sovereignty-myjoy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "An opinion piece says Ghana launched its National AI Strategy in Accra on the Friday before 28 April 2026, under the President and the Communications Minister.", "as_of": "2026-04-24", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": "The Computing Centre, AI Fund and Responsible AI Authority are described as proposed or intended, not set up or funded, so no use fact."
+}

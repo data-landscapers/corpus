@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-14-xaf-steyn-au-ai-strategy-implementation-gap",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Johan Steyn writes that South Africa's 86-page draft national AI policy was withdrawn by gazette after the Communications Minister confirmed fictitious sources, and that revised documents are expected at Cabinet late 2026 for publication in early 2027; the withdrawal is undated in the piece, so the published date is used.", "as_of": "2026-09-14", "date_precision": "day", "system": "National AI Policy (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Policy (draft)", "country_label": "draft national AI policy", "class": "strategy", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}
+  ],
+  "note": ""
+}

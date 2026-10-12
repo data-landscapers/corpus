@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-28-escindia-national-ai-forum-djibouti-invitation",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "ESC India reports that Djibouti's National AI Strategy is due to be officially presented at the National Forum on AI on 2-3 September 2026; the document is dated 2026-07-28 and the presentation was still planned.",
+      "as_of": "2026-07-28",
+      "date_precision": "day",
+      "system": "National AI Strategy (Strategie Nationale de l'Intelligence Artificielle)",
+      "class": "strategy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National AI Strategy (Strategie Nationale de l'Intelligence Artificielle)",
+      "country_label": "National Artificial Intelligence Strategy",
+      "class": "strategy",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-21-itonline-southafrica-ai-rules-delay-opinion",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Bruce von Maltitz writes the draft National AI Policy gazetted in April 2026 was withdrawn within weeks, a seven-member expert panel is rebuilding it, a revised draft reaches Cabinet in November and consultation is unlikely before January 2027.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Draft South Africa National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

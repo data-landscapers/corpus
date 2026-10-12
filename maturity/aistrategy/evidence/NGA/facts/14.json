@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The op-ed says Google, Meta and Microsoft have supported the drafting of Nigeria's National AI strategy; it gives no date for this, so the published date 2026-02-17 is used.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Nigeria National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

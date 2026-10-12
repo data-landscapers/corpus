@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-namibia-deloitte-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy",
+   "fact": "Tech Africa News reports that at a meeting on 3 August 2026 the ICT Minister said consultations on Namibia's Artificial Intelligence Strategy Framework had begun, led by the NCRST, and that a national AI strategy is prioritised before legislation.",
+   "as_of": "2026-08-03"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

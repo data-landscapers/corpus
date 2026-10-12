@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-28-zaf-thecabal-south-africa-ai-policy-retraction-lessons",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Cabal's commentator says South Africa's draft National AI Policy was found to contain fabricated citations and was withdrawn and recalled; the withdrawal is undated in the piece, so the document's published date is used.", "as_of": "2026-09-28", "date_precision": "day", "system": "National AI Policy (draft)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National AI Policy (draft)", "country_label": "National AI Policy", "class": "strategy", "platform": "", "owner": "South African government", "tiers": ""}
+  ],
+  "note": ""
+}

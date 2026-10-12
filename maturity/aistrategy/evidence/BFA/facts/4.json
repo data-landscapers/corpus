@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The article lists Burkina Faso among countries still at different stages of developing their AI policies or strategies; published date used as no event date is given.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "National AI policy or strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-08-dji-lobservateur-strategie-nationale-ia-2026-2030",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "L'Observateur reports Djibouti presented the main lines of its first national AI strategy (SNIA) for 2026-2030 and launched it, with six priority axes; the document gives no event date, so the published date 2026-09-08 is used.", "as_of": "2026-09-08", "date_precision": "day", "system": "Stratégie nationale d'intelligence artificielle (SNIA) 2026-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale d'intelligence artificielle (SNIA) 2026-2030", "country_label": "SNIA", "class": "strategy", "platform": "", "owner": "Government of Djibouti", "tiers": ""}
+  ],
+  "note": ""
+}

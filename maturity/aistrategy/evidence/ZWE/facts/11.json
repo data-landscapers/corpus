@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-25-zimbabwe-launches-national-ai-strategy-unesco",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "UNESCO reports President Mnangagwa launched the National AI Strategy (2026-2030) at Parliament in Harare on 13 March 2026.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

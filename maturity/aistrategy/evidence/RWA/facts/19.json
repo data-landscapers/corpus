@@ -1,0 +1,27 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "CIPESA states Rwanda was the first African country to adopt a national AI policy, in 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Rwanda national AI policy",
+      "class": "strategy"
+    },
+    {
+      "sub_indicator": "strategy",
+      "aspect": "use",
+      "value": "body",
+      "fact": "CIPESA states Rwanda's AI policy mandates the Responsible AI office under the Ministry of ICT and Innovation to implement it, with RURA as technical regulator and NCSA overseeing data protection; no date is given, so the document's published date is used.",
+      "as_of": "2026-07-23",
+      "date_precision": "day",
+      "system": "Rwanda national AI policy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": "Rwanda's project-level funding framework is stated without any allocation, so no funded fact."
+}

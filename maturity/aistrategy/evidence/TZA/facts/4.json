@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "CIPIT states Tanzania is currently developing its National AI Strategy and lacks a dedicated AI law; the document gives no event date, so its publication date of 2026-09-15 is used.",
+      "as_of": "2026-09-15",
+      "date_precision": "day",
+      "system": "National AI Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

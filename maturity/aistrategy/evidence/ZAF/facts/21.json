@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-09-itweb-co-za-sa-ai-infrastructure-lags-governance",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Johan Steyn writes that the Department of Communications and Digital Technologies published the Draft South Africa National AI Policy for public comment on 10 April 2026; Minister Malatsi withdrew it on 26 April, gazetted 12 June, after fabricated AI-generated references were found.",
+   "as_of": "2026-04-26",
+   "date_precision": "day",
+   "system": "Draft South Africa National AI Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Steyn writes the department's recovery path is revised documents to Cabinet by November 2026 and publication for comment targeted for January 2027, and that for now South Africa has no dedicated AI policy.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Draft South Africa National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

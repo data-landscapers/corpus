@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-21-kenya-ai-emerging-technologies-policy-draft-companion",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The State Department for ICT and the Digital Economy published Kenya's first national AI and Other Emerging Technologies Policy in draft and opened it for public comment on 21 July 2026, with comments due 4 August 2026.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Kenya Artificial Intelligence and Other Emerging Technologies Policy, 2026 (draft)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The draft policy states it builds on the National AI Strategy 2025-2030 rather than replacing it; the document gives no adoption date, so the date is its published date, 2026-07-21.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "National AI Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

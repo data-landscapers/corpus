@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "La Nation reports that the UNESCO-backed readiness assessment (RAM) will serve as the basis of Djibouti's national AI strategy, which is still to be officially launched at the national AI forum opening 1 September 2026; no strategy is yet adopted.",
+      "as_of": "2026-08-26",
+      "date_precision": "day",
+      "system": "National AI Strategy (Strategie Nationale de l'Intelligence Artificielle)",
+      "class": "strategy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National AI Strategy (Strategie Nationale de l'Intelligence Artificielle)",
+      "country_label": "Strategie Nationale de l'Intelligence Artificielle",
+      "class": "strategy",
+      "platform": "",
+      "owner": "Ministere delegue charge de l'Economie Numerique et de l'Innovation",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

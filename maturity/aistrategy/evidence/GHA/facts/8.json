@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-29-ghana-launches-national-ai-strategy-moc",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Communications reports the launch of a stakeholder consultation forum for the National AI Strategy on 29 April 2025, with the strategy still being shaped.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Consultation stage only; no body named for carrying out the strategy."
+}

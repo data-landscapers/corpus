@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Techtrends Africa reports the department published a Draft National AI Policy in the Government Gazette on 10 April 2026 following Cabinet approval, then withdrew it in late April over fabricated AI-generated references.",
+   "as_of": "2026-04-10",
+   "date_precision": "day",
+   "system": "Draft South Africa National AI Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Techtrends Africa reports a seven-member independent expert panel is rewriting the policy, with Cabinet resubmission targeted for November 2026 and a fresh public comment draft in January 2027.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Draft South Africa National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

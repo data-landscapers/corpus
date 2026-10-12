@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The CIPIT review says Rwanda's AI framework rests on the National AI Policy, dated April 2023 in its footnote.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "National AI Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

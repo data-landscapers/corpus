@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-23-leconomie-national-ai-strategy-unveiled",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "L'Economie reports that the national AI development strategy was unveiled by the Minister of Posts and Telecommunications at CONIA on 7-8 July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "SNIA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIA (Stratégie nationale d'intelligence artificielle)",
+   "country_label": "SNIA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications (MINPOSTEL)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

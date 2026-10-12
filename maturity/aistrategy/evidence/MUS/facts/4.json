@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-18-acet-who-funds-ai-policy-development-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "ACET says Mauritius' 2018 AI strategy, the earliest in Africa, was reviewed and a newer version adopted; the 2018 document is superseded (date taken from the 10 April 2026 UNDP launch it cites).",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Mauritius Artificial Intelligence Strategy (2018)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ACET says Mauritius adopted a newer national AI strategy, launched 10 April 2026 with UNDP support, and is in the second phase of implementation.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Mauritius National AI Strategy (2026)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

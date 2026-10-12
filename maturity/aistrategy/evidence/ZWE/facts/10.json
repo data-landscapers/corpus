@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-09-zimbabwe-ai4i-challenge-launch",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The strategy was launched by President Mnangagwa in March 2026, per the article of 9 June 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The minister said a dedicated AI Strategy Implementation Office was being stood up within the ICT ministry to track delivery, and the National Digital Regulatory Committee's terms of reference were finalised.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030",
+   "country_label": "National AI Strategy 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

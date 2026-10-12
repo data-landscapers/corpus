@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-20-aci-comite-national-ethique-strategie-nationale-ia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The ACI reports that the government, with UNDP support, held a national workshop on 6-7 May 2026 in Brazzaville launching the drafting of the national AI strategy, whose final document is still to be written.", "as_of": "2026-05-06", "date_precision": "day", "system": "stratégie nationale de l'intelligence artificielle", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

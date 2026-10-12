@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-28-nga-businessday-nigeria-66-fibre-delays-unfinished-digital-agenda",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "BusinessDay reports the communications minister's ministry has developed a National Artificial Intelligence Strategy intended as a coordinated framework for AI development, and does not say it has been adopted.",
+      "as_of": "2026-09-28",
+      "date_precision": "day",
+      "system": "National Artificial Intelligence Strategy",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

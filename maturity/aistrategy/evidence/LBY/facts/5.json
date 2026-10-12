@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-28-gaci-ai-ethics-charter-public-consultation-workshop",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "A workshop on 28 April 2026, attended by the Minister of State for Digital Economy and AI, was devoted to following implementation of the National AI Strategy 2025-2030, per LANA.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "country_label": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

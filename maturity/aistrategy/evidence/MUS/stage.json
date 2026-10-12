@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "body",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-002;MUS-010",
+   "gaps": "No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.",
+   "note": "Counted from the four questions by study-ladder-aistrategy.py."
+  }
+ ]
+}

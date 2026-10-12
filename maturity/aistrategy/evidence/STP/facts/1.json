@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-22-unesco-sao-tome-ai-ethics-governance-country-profile",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "none", "fact": "UNESCO's country profile, drawn from the completed Readiness Assessment, states São Tomé and Príncipe currently has no national AI strategy; no date is given for the statement, so the document's published date of 2026-01-22 is used.", "as_of": "2026-01-22", "date_precision": "day", "system": "national AI strategy", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "use", "value": "none", "fact": "UNESCO's country profile states the country has no National AI Ethics Commission or any dedicated AI governance structure; no date is given, so the published date of 2026-01-22 is used.", "as_of": "2026-01-22", "date_precision": "day", "system": "national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

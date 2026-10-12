@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-globalcenter-building-ai-vs-using-it-africa-smes",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Global Center analyst piece reviews Rwanda's AI policy as an existing national document (linked 2023 policy text); no event date given, so dated by publication (2026-10-02).",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "Rwanda national AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda national AI policy",
+   "country_label": "Rwanda's AI policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-cipit-ai-and-intellectual-property-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "CIPIT's report assesses Kenya's national AI strategy among those of seven countries; it gives no adoption date, so the date is the report's publication, July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Kenya national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-11-zaf-dailymaverick-local-ai-policy-agents-agency",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "Daily Maverick states South Africa's draft AI policy was withdrawn after AI hallucinations were found in its citations; no date is given, so the published date is used.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Daily Maverick describes South Africa's national AI policy as emerging, with a revised draft still to come after the withdrawal; published date used as no other date is given.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National Artificial Intelligence Policy",
+   "country_label": "Draft National AI Policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-19-citizen-activate-sa-ai-policy-summit",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Citizen reports that the draft National AI Policy released for public comment on 10 April 2026 was withdrawn by Communications Minister Solly Malatsi over fabricated references, and that he called for a full reset; the draft had proposed a National AI Commission and an AI Insurance Superfund, and no successor was adopted as at 2026-08-19.", "as_of": "2026-04-10", "date_precision": "day", "system": "Draft National Artificial Intelligence (AI) Policy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

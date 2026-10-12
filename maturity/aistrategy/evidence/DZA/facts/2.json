@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-dza-mesrs-premiere-reunion-coordination-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Higher Education and Research ministry states that its minister chaired a coordination meeting on monitoring and implementing the national AI strategy.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The ministry states the meeting created five thematic commissions (data and infrastructure, financing, large language models, specialised AI doctorate, continuing AI training) to monitor the strategy's main axes.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Algeria national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algeria national AI strategy",
+   "country_label": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research (coordination)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

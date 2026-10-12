@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-28-ai-hallucination-policy-withdrawal",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Citizen reports the Draft National AI Policy was gazetted for comment on 10 April 2026 (86 pages) before its withdrawal.",
+   "as_of": "2026-04-10",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "The Citizen reports Minister Malatsi withdrew the Draft National AI Policy over fictitious sources in its reference list; no withdrawal date is given, so the published date is used.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National Artificial Intelligence Policy",
+   "country_label": "Draft National AI Policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

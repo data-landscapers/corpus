@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-12-malatsi-ai-expert-panel",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Minister Malatsi told the National Assembly on 12 May 2026 that the draft national AI policy had been withdrawn over fabricated AI-generated citations, and that he had appointed an expert panel chaired by Prof Benjamin Rosman to help formulate the policy to be reintroduced for public comment.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

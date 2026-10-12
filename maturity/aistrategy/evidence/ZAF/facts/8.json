@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-25-timeline-sa-national-ai-policy",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ITWeb reports the department told Parliament's portfolio committee on 24 February 2026 that a draft national AI policy framework published in August 2024 was going to Cabinet and then public comment, with the process to finish in 2026/27 and the full policy by 2027/28; ITWeb notes no national AI roadmap is in place.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "Draft National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft National Artificial Intelligence Policy",
+   "country_label": "Draft National AI Policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Department of Communications and Digital Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

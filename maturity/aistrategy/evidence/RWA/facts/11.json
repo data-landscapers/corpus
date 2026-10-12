@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechTrends Africa says Rwanda's national AI policy was approved by Cabinet in April 2023, developed by the Ministry of ICT and Innovation and RURA.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Rwanda national AI policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "TechTrends Africa says Rwanda approved a National AI Agency as a standalone institution for AI governance; no event date given, so dated by publication (2026-07-28).",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "National AI Agency",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda national AI policy",
+   "country_label": "National AI Policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT and Innovation; RURA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

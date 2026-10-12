@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-04-wits-sa-ai-policy-fake-research",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Department of Communications and Digital Technologies gazetted the Draft South Africa National Artificial Intelligence Policy for public comment (the article says 10 April; the draft's gazette notice is dated 2026-04-09).",
+   "as_of": "2026-04-10",
+   "date_precision": "day",
+   "system": "South Africa National Artificial Intelligence Policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "The communications minister withdrew the draft policy 16 days after it was gazetted, after journalists found fabricated references in it; the article gives no exact withdrawal date, so the date is computed from 10 April.",
+   "as_of": "2026-04-26",
+   "date_precision": "day",
+   "system": "South Africa National Artificial Intelligence Policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

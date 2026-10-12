@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-nilepost-uganda-ai-sovereignty-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Nile Post reported that Uganda is developing an AI strategy, per Science, Technology and Innovation minister Jonard Asiimwe, and that it must be able to adapt to new technologies; no adoption is stated.", "as_of": "2026-09-10", "date_precision": "day", "system": "Uganda national AI strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

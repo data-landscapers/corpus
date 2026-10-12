@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-rdc-unesco-snia-psen-validation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "UNESCO reports that public actors, partners and experts validated the Stratégie nationale de l'intelligence artificielle (SNIA) at a Kinshasa ceremony on 4 August 2026, ending a process led by the Ministry of Digital Economy; the article does not say the government adopted it.", "as_of": "2026-08-04", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "SNIA", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

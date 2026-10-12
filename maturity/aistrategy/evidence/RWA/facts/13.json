@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Op-ed by Zuria Nagadya says Rwanda has a fully approved national AI policy; no date given, so dated by publication (2026-05-04).",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Rwanda national AI policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "Op-ed says a Responsible AI Office sits in Rwanda's Ministry of ICT and Innovation and the Rwanda Information Society Authority is the named implementing body; no date given, so dated by publication (2026-05-04).",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Responsible AI Office",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda national AI policy",
+   "country_label": "national AI policy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-16-lanation-uac-strategie-ia-cadre-ethique",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "A ministry representative on 16 July 2026 described the University of Abomey-Calavi's own AI strategy as in line with the national AI and big-data strategy (2023-2027), which is thereby shown as current; the university's own strategy is not the national one.",
+      "as_of": "2026-07-16",
+      "date_precision": "day",
+      "system": "Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

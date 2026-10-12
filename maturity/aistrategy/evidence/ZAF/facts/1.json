@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-03-ai-policy-gets-a-second-chance",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Deputy minister Mondli Gungubele told Business Times that the redrafted national AI policy is at an advanced stage, with the final draft due for ministerial input before the end of November 2026 and then cabinet by the end of the financial year, after the April draft was withdrawn over AI-hallucinated citations; the date is that of his remarks, inferred as 2026-09-28 from the dateline.", "as_of": "2026-09-28", "date_precision": "day", "system": "National AI policy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

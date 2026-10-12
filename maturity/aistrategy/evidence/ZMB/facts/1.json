@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-17-zambia-ai-leadership-robotics-challenge",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The head of Zambia's Presidential Delivery Unit announced on 17 July 2026 that the country's National AI Strategy was nearing completion, and the Ministry of Technology and Science referred to the forthcoming National AI Strategy; the article does not mention an earlier adopted strategy.", "as_of": "2026-07-17", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}
+  ],
+  "systems": [],
+  "note": ""
+}

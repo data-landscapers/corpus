@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-28-gab-agp-ouverture-strategie-ia",
+  "facts": [
+    {
+      "sub_indicator": "strategy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The digital-economy ministry's secretary-general opened workshops on drawing up Gabon's national AI strategy in Libreville on 28 September 2026, with UNDP as partner.",
+      "as_of": "2026-09-28",
+      "date_precision": "day",
+      "system": "Stratégie nationale de l'intelligence artificielle",
+      "class": "strategy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

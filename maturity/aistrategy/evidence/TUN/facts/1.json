@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-17-tunisia-ai-strategy-digital-sovereignty-critique-economiste-maghrebin",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "L'Economiste Maghrébin reports that Tunisia presented the outlines (grandes lignes) of its national AI strategy for 2026-2030 at a ministerial council, carried by ICT Minister Sofiane Hemissi; the article is dated 2026-08-17 and gives no adoption or launch decision.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National AI Strategy 2026-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "none",
+   "fact": "The article says no precise budget, detailed timetable or result indicators for the strategy had been made public, and names no body charged with carrying it out (article dated 2026-08-17).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National AI Strategy 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy 2026-2030",
+   "country_label": "Stratégie nationale de l'IA 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

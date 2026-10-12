@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-08-cameroon-discusses-national-ai-strategy-consultations-itweb",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ITWeb reports Cameroon is fine-tuning its draft National Strategy for the Development of AI, discussed at national consultations in Yaounde the previous day (7 July 2025).",
+   "as_of": "2025-07-07",
+   "date_precision": "day",
+   "system": "SNIA",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIA (Stratégie nationale d'intelligence artificielle)",
+   "country_label": "SNIA",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications (MINPOSTEL)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

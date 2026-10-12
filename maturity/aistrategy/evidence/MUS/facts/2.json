@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-23-ai-strategy-fair-ethics-before-execution-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechCabal reports Mauritius' National AI Strategy 2025-2029 was introduced with the FAIR Guidelines in April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National AI Strategy (2025-2029)",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The report says Mauritius is building an AI Council, supported by public, private and international experts, to oversee implementation of the strategy; stated as planned (would oversee).",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "AI Council",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Council",
+   "country_label": "AI Council",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-26-citinewsroom-ghana-ai-strategy-cabinet-approval",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Communications Minister Samuel Nartey George said Cabinet had approved the National AI Strategy 'last week' (a week before 26 February 2026), to be launched by the President in a few weeks.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
