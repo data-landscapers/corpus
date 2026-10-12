@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 22 |
+| 4 Operating | 23 |
 | 3 Established | 8 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 11 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -135,6 +135,13 @@ Ethiopia's 2023 Digital Identification Proclamation sets up a biometric identity
 
 - Proclamation No. 1284/2023 sets up a Digital Identification System that collects demographic and biometric data in a central database (Article 2), issues each registrant a unique, permanent, non-repeating Unique Number (Article 11), and provides for authentication online or offline against that database (Articles 2 and 16) ([source, 2023-04-18](https://ethiodata.et/wp-content/uploads/2023/09/Ethiopian-Digital-Identification-Proclamation-No.-1284_2023-1.pdf)).
 - The document is the full text of the Ethiopian Digital Identification Proclamation No. 1284/2023, a proclamation signed by the President on 18 April 2023 and in force from its publication in the Federal Negarit Gazette (Article 26) ([source, 2023-04-18](https://ethiodata.et/wp-content/uploads/2023/09/Ethiopian-Digital-Identification-Proclamation-No.-1284_2023-1.pdf)).
+
+### Kenya: 4 Operating
+
+Kenya's Registration of Persons Act, amended in 2018, sets up a population register and a unique number; no rules since 2023 are known.
+
+- Kabata (2024) says section 9A of the amended Act establishes the National Integrated Identity Management System, to keep a national population register as the single source of personal information on citizens and resident foreigners and to assign a unique national identification number to every person registered; the paper cites the 2018 amendment, and the year is used ([source, 2018](https://www.cambridge.org/core/journals/data-and-policy/article/an-assessment-of-the-legal-and-regulatory-framework-supporting-the-implementation-of-the-national-integrated-identity-management-system-niims-in-kenya/617BC651E2C09DE2CDD175C73A1C90E2)).
+- Kabata (2024) calls the Registration of Persons Act, Cap 107, Kenya's primary identity law, and says the digital identity system was set up by an omnibus amendment to it and not by a stand-alone Act; the paper gives the amendment as 2018, and the year is used ([source, 2018](https://www.cambridge.org/core/journals/data-and-policy/article/an-assessment-of-the-legal-and-regulatory-framework-supporting-the-implementation-of-the-national-integrated-identity-management-system-niims-in-kenya/617BC651E2C09DE2CDD175C73A1C90E2)).
 
 ### Lesotho: 4 Operating
 
@@ -386,12 +393,6 @@ Not established: Nothing held names a national identity law or bill, or says the
 ### Guinea-Bissau: No evidence
 
 Nothing held names a national identity law or bill for Guinea-Bissau, or says there is none, so no stage is set.
-
-Not established: Nothing held names a national identity law or bill, or says there is none.
-
-### Kenya: No evidence
-
-Nothing held names a national identity law or bill for Kenya, or says there is none, so no stage is set.
 
 Not established: Nothing held names a national identity law or bill, or says there is none.
 
