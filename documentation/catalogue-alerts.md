@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-10-12
-status: built and deployed 2026-09-16; the 2026-10-12 confirmation-header fix is built and awaits Bill's paste-and-deploy, then one `POST /api/alerts/run`
+status: built and deployed 2026-09-16; unattended sending proven 2026-10-12, after the confirmation-header fix
 ---
 
 # Catalogue alerts
@@ -111,6 +111,6 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 - **What the deployed Worker read, 2026-10-05 16:27 UTC**: `send_mode_env: "about_to_send"`, thirteen plain characters — so the cause was the saved-but-undeployed variable, which that deploy made live.
 - **The check that costs nothing**: on any Monday the alert did not arrive, read `cron_status` first. `mode` against `send_mode_env` separates *Cloudflare did not give the Worker the variable* from *the Worker ignored it*, which were indistinguishable on 2026-10-05.
 
-**The Monday Buttondown refused — 2026-10-12, fix built the same day.** `cron_status` read `stage: failed, error: emails 400-sending_requires_confirmation` beside `send_mode_env: about_to_send`: the variable was live, which settles 2026-10-05, and the first unattended send met Buttondown's API version 2026-04-01, which refuses an API-created `about_to_send` without the header `X-Buttondown-Live-Dangerously: true`. `emailHeaders` (pure half, under test) now sends it on a send and not on a draft. Nothing was created and `last_sent_through` stayed at 2026-10-04, so `POST /api/alerts/run` after the deploy sends the week whole. **`logs/.cloudflare-kv.json` reads the `alerts` namespace too** — the token is account-wide KV read, so `cron_status` needs no dashboard.
+**The Monday Buttondown refused — 2026-10-12, fix built the same day.** `cron_status` read `stage: failed, error: emails 400-sending_requires_confirmation` beside `send_mode_env: about_to_send`: the variable was live, which settles 2026-10-05, and the first unattended send met Buttondown's API version 2026-04-01, which refuses an API-created `about_to_send` without the header `X-Buttondown-Live-Dangerously: true`. `emailHeaders` (pure half, under test) now sends it on a send and not on a draft. Nothing was created and `last_sent_through` stayed at 2026-10-04, so `POST /api/alerts/run` after the deploy sent the week whole at 09:35 UTC, and Bill confirmed it in Buttondown. **`logs/.cloudflare-kv.json` reads the `alerts` namespace too** — the token is account-wide KV read, so `cron_status` needs no dashboard.
 
 **Not in this version**: report editions as alert items; a monthly pass pruning `def:` entries whose tag has no active subscriber and clearing stale `orphan:` keys; a monthly cadence if readers ask for one.
