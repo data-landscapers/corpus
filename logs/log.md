@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 15:33 · **BUILD** · 35m · catalogue 27,960, finance 62 places, scan 33 units, 31 ledger rows minted, 12 moved, 1 settled; 7 status sub-sections revised in 3 units; data centres 0 rows; maturity held; bulletin 33; budgets: poll run, 1 staged, none waiting — ok
 2026-10-12 14:58 · **ANALYTICS** · unclocked · 2026-10-10..2026-10-11 written; 11 Oct: dl.io 19 views / 0 clicks, corpus 45 views / 1 clicks
 2026-10-12 14:56 · **MATURITY-STUDY** · 11m · opendatapolicy run: 44 facts; as at 2026-09-30 stage 4: 1, 3: 5, 2: 8, none at 1 or 5, 7 unplaced, 33 without evidence; 4 corrections; agreement 14 of 14; on the map. Tokens 41.2M, ceiling 50M
 2026-10-12 14:44 · **MATURITY-STUDY** · unclocked · opendatapolicy, step 1: four questions prepared for `gov.policy--open-data-policy`; 49 unread stories about an open data policy or portal across 33 countries, 108 cited by the current cells, ceiling 50M. Nothing run; waits for Bill.
