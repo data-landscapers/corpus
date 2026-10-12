@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-10-towards-5g-enabled-digitalized-namibia-2026-telecomreviewafrica",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The article says the National Digital Strategy launched in 2025, with the Sixth National Development Plan, charts digital infrastructure through 2025/26 to 2029/30, with a target of raising internet use from 53% to 90% by 2030; the period had not ended and no successor is named.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Digital Strategy",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Strategy",
+      "country_label": "National Digital Strategy (NDS)",
+      "class": "plan",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Only the standing fact: no money or progress against the strategy's targets is tied to it. The Digital Government Strategic Roadmap 2024-2026 is not a broadband plan."
+}

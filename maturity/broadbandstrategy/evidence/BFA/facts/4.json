@@ -1,0 +1,26 @@
+{
+  "slug": "2025-10-26-observatoire-amenagement-numerique-lance",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Sidwaya reports the minister saying at the 24 October 2025 launch of the OAN platform that the SDAN was adopted in 2019; no period or successor is given.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Schéma directeur d'aménagement numérique (SDAN)",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Schéma directeur d'aménagement numérique (SDAN)",
+      "country_label": "SDAN",
+      "class": "plan",
+      "platform": "",
+      "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

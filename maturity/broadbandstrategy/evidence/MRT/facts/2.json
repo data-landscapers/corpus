@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-mesrstic-plan-actions-strategie-nationale-promotion-haut-debit-volume-2",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "The January 2019 action plan of the Stratégie Nationale de Promotion du Haut Débit lists actions by theme with phasing and a preliminary calendar (one action to launch in September 2019) and leaves the fiches to be completed by a follow-up committee, but the passages state no adoption and no broadband coverage, speed or price target.", "as_of": "2019-01", "date_precision": "month", "system": "Plan d'actions de la Stratégie Nationale de Promotion du Haut Débit", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Plan d'actions de la Stratégie Nationale de Promotion du Haut Débit", "country_label": "Stratégie Nationale de Promotion du Haut Débit", "class": "plan", "platform": "", "owner": "MESRSTIC", "tiers": "national"}
+  ],
+  "note": "Passages only; no funding commitment or progress report stated, so no delivery fact."
+}

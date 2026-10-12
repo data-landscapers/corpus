@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-20-afdb-niger-1000-km-fibre-optique-reception",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projet de la dorsale transsaharienne a fibre optique (DTS)",
+      "country_label": "Projet de la dorsale transsaharienne a fibre optique (DTS)",
+      "class": "other",
+      "platform": "AfDB / African Development Fund financed project",
+      "owner": "Ministere de la Communication et des Nouvelles Technologies de l'Information",
+      "tiers": "national"
+    }
+  ],
+  "note": "Reports a single fibre project's provisional reception; mentions a presidential programme (PRR) but names no national broadband plan or targets."
+}

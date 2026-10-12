@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projet de la Dorsale Transsaharienne a Fibre Optique (DTS/FO), composante Niger",
+      "country_label": "Projet de la Dorsale Transsaharienne a Fibre Optique (DTS/FO), composante Niger",
+      "class": "other",
+      "platform": "AfDB-financed project",
+      "owner": "Ministere de la Communication et des Nouvelles Technologies de l'Information",
+      "tiers": "national"
+    }
+  ],
+  "note": "Reports a single fibre project's provisional reception; names no national broadband plan or targets."
+}

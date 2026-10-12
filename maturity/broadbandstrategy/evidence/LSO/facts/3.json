@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "The Government of Lesotho (MICSTI) held a second draft of the Broadband and Shared Infrastructure Policy and Implementation Plan, with a monitoring and evaluation framework, dated by the proxy publish date of 17 February 2025; the document states no plan period and says formal broadband legislation is lacking.", "as_of": "2025-02-17", "date_precision": "day", "system": "Broadband and Shared Infrastructure Policy and Implementation Plan", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Broadband and Shared Infrastructure Policy and Implementation Plan", "country_label": "Broadband and Shared Infrastructure Policy", "class": "plan", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation; drafted by Norway Registers Development AS for UNDP", "tiers": ""}
+  ],
+  "note": ""
+}

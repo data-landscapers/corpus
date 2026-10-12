@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,plan,standing,none,"ITU's 2019 table of broadband strategies, policies and plans lists Eritrea with policy exist? 'No' and no named policy; the table gives no date for the entry, so the document's published date (2019) is used.",2019,year,,plan,2019-01-01-itu-broadband-strategies-policies-plans-2019,http://broadband.itu.int/wp-content/uploads/2021/03/ITU_BroadbandPlans_2019.pdf

@@ -1,0 +1,26 @@
+{
+  "slug": "2020-06-01-gambia-moici-national-broadband-strategy-2020-2024",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "ended",
+      "fact": "The Gambia National Broadband Strategy 2020-2024, commissioned by the Ministry of Information and Communication Infrastructure in June 2020, covers 2020 to 2024 and sets targets of broadband coverage to more than 90% of the population by 2024, at least 75% of homes with affordable 5 Mbps download and upload speeds by 2022 and 4G coverage of at least 85% of the population by 2024; the document names no successor plan, and its own text refers to a review for the next five-year cycle.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "The Gambia National Broadband Strategy 2020-2024",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "The Gambia National Broadband Strategy 2020-2024",
+      "country_label": "Gambia Broadband Strategic Plan 2020-2024 (GBSP 2020-2024)",
+      "class": "plan",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Infrastructure (MOICI)",
+      "tiers": "national"
+    }
+  ],
+  "note": "No delivery fact: the document gives programme cost estimates and prospective funding sources but commits no money and reports no figures against the plan's targets."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-national-5g-strategy-digital-nation-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document's editorial note says the government presented the National Strategy for the Implementation of 5G on 11 Feb 2026 and that Resolution No. 33/2026 of 20 Feb 2026 formally approved it; it gives no plan period and names no successor.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Estratégia Nacional para a Implementação da Tecnologia 5G",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estratégia Nacional para a Implementação da Tecnologia 5G",
+   "country_label": "National 5G Strategy",
+   "class": "plan",
+   "platform": "",
+   "owner": "Ministry of Digital Economy / DGTED",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

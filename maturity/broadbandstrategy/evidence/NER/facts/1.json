@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-10-niger-china-eximbank-national-backbone-loan-aiddata",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Backbone Fiber Optic Cable Network and Communication Service Project",
+      "country_label": "National Backbone Fiber Optic Cable Network and Communication Service Project",
+      "class": "other",
+      "platform": "China Eximbank loan / SONITEL; contractor China International Telecommunication Construction Corporation",
+      "owner": "Government of Niger; SONITEL",
+      "tiers": "national"
+    }
+  ],
+  "note": "Documents a single loan-financed fibre project, not a national broadband plan; no plan, plan period or plan targets are named."
+}

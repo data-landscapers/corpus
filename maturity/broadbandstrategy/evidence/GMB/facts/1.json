@@ -1,0 +1,11 @@
+{
+  "slug": "2020-06-01-gambia-moici-national-broadband-policy-2020-2024",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "ended",
+     "fact": "The Ministry of Information and Communication Infrastructure issued the National Broadband Policy 2020-2024 (BP-2024) in June 2020 for a five-year period ending in 2024, setting a 5 Mbps minimum for every user, 75% of homes with affordable 5 Mbps by 2022, near-100% by 2023 and 4G coverage of at least 85% of the population by 2024; the document names no successor.",
+     "as_of": "2020-06", "date_precision": "month",
+     "system": "The Gambia National Broadband Policy 2020-2024 (BP-2024)", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "No delivery fact: the document names a Financing and investment gap and a monitoring chapter, but ties no money to the plan and reports no figures against its targets (capture truncated before sections 12-13)."
+}

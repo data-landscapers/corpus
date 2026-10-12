@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-dza-lasentinelle-gigacity-2026-alger-premiere-ville-africaine",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "La Sentinelle reports that Algeria's national all-fibre strategy aims to generalise FTTH across the whole territory by 2027, with the copper network phased out by the same date; the document gives no period that has ended and names no successor, and the strategy's adoption date is not stated (reported 2026-10-01, ministry communique of 2026-09-30).", "as_of": "2026-09-30", "date_precision": "day", "system": "stratégie nationale du « tout fibre »", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "stratégie nationale du « tout fibre »", "country_label": "stratégie nationale du « tout fibre »", "class": "plan", "platform": "", "owner": "Ministère de la Poste et des Télécommunications", "tiers": ""}
+  ],
+  "note": ""
+}

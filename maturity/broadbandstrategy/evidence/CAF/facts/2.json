@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-04-caf-ambition28-investment-program-launch",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The government's 4 September 2025 press release launches a USD 12.8bn investment programme built on the National Development Plan 2024-2028 (period 2024-2028, not ended), with a stated target of 3,000 km of fibre-optic deployment by 2028; broadband is a part of this larger plan, and the release does not itself say the plan was adopted.", "as_of": "2025-09-04", "date_precision": "day", "system": "Plan National de Développement 2024-2028", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Plan National de Développement 2024-2028", "country_label": "Plan National de Développement 2024-2028", "class": "plan", "platform": "", "owner": "Government of the Central African Republic", "tiers": ""}
+  ],
+  "note": ""
+}

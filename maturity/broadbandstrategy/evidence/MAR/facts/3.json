@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-18-maroc-digital-2030-plaquette-institutionnelle-en",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The Digital Morocco 2030 brochure lists PNHD 2 (Plan National du Haut Debit 2), a program to cover areas with little to no coverage, as aiming to cover 1,800 localities; it gives no plan period, and the date used is the document's published date of 2024-09-18.", "as_of": "2024-09-18", "date_precision": "day", "system": "Plan National du Haut Debit 2 (PNHD 2)", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Plan National du Haut Debit 2 (PNHD 2)", "country_label": "Plan National du Haut Debit 2", "class": "plan", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""}
+  ],
+  "note": ""
+}

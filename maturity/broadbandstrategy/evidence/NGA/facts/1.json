@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-21-nga-businessday-national-broadband-plan-missed-70-target",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "ended",
+     "fact": "BusinessDay NG (2026-09-21) says Nigeria's five-year broadband strategy, the National Broadband Plan 2020-2025, has ended, and describes the next phase of broadband policy as still to come, without naming a successor plan.",
+     "as_of": "2025", "date_precision": "year", "system": "National Broadband Plan 2020-2025", "class": "plan"},
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft",
+     "fact": "BusinessDay NG says a committee led by Funke Opeke of MainOne, with Bashir Gwandu as co-chair, was inaugurated in December 2019 to develop a new five-year broadband strategy through 2025, which produced the National Broadband Plan 2020-2025.",
+     "as_of": "2019-12", "date_precision": "month", "system": "National Broadband Plan 2020-2025", "class": "plan"},
+    {"sub_indicator": "plan", "aspect": "delivery", "value": "reported",
+     "fact": "BusinessDay NG, citing Nigerian Communications Commission data, reports broadband penetration of 51.97 percent in December 2025 against the plan's 70 percent target, and 4G at 52.95 percent of mobile subscriptions against the plan's 70 percent goal (target set for 2023).",
+     "as_of": "2025-12", "date_precision": "month", "system": "National Broadband Plan 2020-2025", "class": "plan"},
+    {"sub_indicator": "plan", "aspect": "delivery", "value": "reported",
+     "fact": "BusinessDay NG says the NCC reported that the previous national broadband plan (2013-2018) exceeded its 30 percent penetration target, reaching 37.8 percent when the plan expired; the year of expiry is not given in the document beyond the plan's stated 2018 end.",
+     "as_of": "2018", "date_precision": "year", "system": "National Broadband Plan 2013-2018", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Broadband Plan 2020-2025", "country_label": "National Broadband Plan 2020-2025", "class": "plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Broadband Plan 2013-2018", "country_label": "2013-2018 national broadband plan", "class": "plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "other", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-itu-broadband-strategies-policies-plans-2019",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "none", "fact": "ITU's 2019 table of broadband strategies, policies and plans, drawn from its World Telecommunication/ICT Regulatory Database, answers 'No' to whether a policy exists for Guinea-Bissau and names none; the document gives no date for the entry beyond its 2019 publication, so 2019 is used.", "as_of": "2019", "date_precision": "year", "system": "National broadband policy or plan", "class": "plan"}
+  ],
+  "systems": [],
+  "note": ""
+}

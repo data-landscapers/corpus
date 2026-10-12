@@ -1,0 +1,17 @@
+{
+  "slug": "2025-01-31-starlink-university-internet-elcome",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "ITEdgeNews reports that the Starlink university connectivity deal aligns with Sierra Leone's National Broadband Strategy for 2023-2028, a period that had not ended; the article gives no event date, so its published date of 2025-01-31 is used.",
+      "as_of": "2025-01-31",
+      "date_precision": "day",
+      "system": "National Broadband Strategy (2023-2028)",
+      "class": "plan"
+    }
+  ],
+  "systems": [],
+  "note": "The Starlink/ELCOME SL university agreement is a single connectivity project (other), not a plan, and no money or progress figures are tied to the strategy, so no delivery fact."
+}

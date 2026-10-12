@@ -1,0 +1,12 @@
+{
+  "slug": "2023-10-12-zwe-govt-develops-new-ict-policy",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The ICT minister, Dr Tatenda Mavetera, said Potraz had been in sync with Government in implementing the National Broadband Plan, which Government 'came up with' to provide broadband access at government, business, household and individual levels; the document gives no adoption date or plan period, so as_of is the article's published date.", "as_of": "2023-10-12", "date_precision": "day", "system": "National Broadband Plan", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan", "class": "plan", "platform": "", "owner": "Government of Zimbabwe (Ministry of ICT, Postal and Courier Services)", "tiers": "national"},
+    {"system": "Smart Zimbabwe Master Plan", "country_label": "Smart Zimbabwe Master Plan", "class": "other", "platform": "", "owner": "Government of Zimbabwe", "tiers": "national"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "other", "platform": "", "owner": "Government of Zimbabwe (Ministry of ICT, Postal and Courier Services)", "tiers": "national"}
+  ],
+  "note": "Delivery: article gives no money or results tied to the Broadband Plan itself; CIC and computer-lab figures are Potraz programmes not tied to the plan."
+}

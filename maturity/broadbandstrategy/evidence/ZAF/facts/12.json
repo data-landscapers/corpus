@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-24-imt-roadmap-2026-gazette-55068",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The page on the IMT Roadmap 2026 gazette names \"broadband for all\" as set in the SA Connect policy of 2013, and states no period or successor for that policy.", "as_of": "2013", "date_precision": "year", "system": "SA Connect policy", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "SA Connect policy", "country_label": "SA Connect", "class": "plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

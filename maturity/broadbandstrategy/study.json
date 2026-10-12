@@ -64,7 +64,15 @@
       "subject": "gov.policy",
       "text": "Broadband strategy: national plan",
       "indicator_id": "gov.policy--broadband-strategy-national-plan",
-      "class": "plan"
+      "class": "plan",
+      "criteria": [
+        "A source from the past three years says the country has no national broadband plan and none is being written.",
+        "A national broadband plan is being written or is out for consultation, or the last one has ended with no successor adopted.",
+        "A national broadband plan is adopted by the government or the minister and its period has not ended. It may be part of a larger digital strategy or development plan that states broadband targets. No money tied to it is on record in the past three years.",
+        "Money has been committed to the plan in the past three years: a budget line, a universal service fund allocation or a financed programme that the source ties to the plan.",
+        "The plan is funded, and the government has published figures against the plan's own targets in the past three years. Whether the targets are met is not judged."
+      ],
+      "criteria_of": "7930ab42a0a8"
     }
   ],
   "classes": [

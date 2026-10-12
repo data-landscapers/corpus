@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-11-national-5g-strategy-hub-2030-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "TechAfrica News reports on 11 Sep 2025 the launch of Cape Verde's National Strategy for 5G, with a target of 90% internet penetration by 2026 and regional hub status by 2030, without stating that it had been adopted.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Estratégia Nacional para a Implementação da Tecnologia 5G",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "funded",
+   "fact": "The strategy is led by the Ministry of Digital Economy as part of the World Bank-funded Cape Verde Digital Project and implemented through DGTED, per TechAfrica News.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "Estratégia Nacional para a Implementação da Tecnologia 5G",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estratégia Nacional para a Implementação da Tecnologia 5G",
+   "country_label": "National 5G Strategy",
+   "class": "plan",
+   "platform": "",
+   "owner": "Ministry of Digital Economy / DGTED",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

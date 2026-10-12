@@ -1,0 +1,16 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "plan",
+   "stage": "2",
+   "standing": "draft",
+   "delivery": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-002;NGA-001",
+   "gaps": "No source held says a national broadband plan is adopted and still running.",
+   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
+  }
+ ]
+}

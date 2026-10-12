@@ -1,0 +1,16 @@
+{
+  "slug": "2020-09-17-businessday-ipnx-ustda-nigeria-ict-infrastructure",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted",
+     "fact": "BusinessDay NG (2020-09-17) refers to the 'recently updated Nigerian Broadband Plan' as an existing plan whose goals the ipNX-USTDA partnership will advance, and the NCC's Director of Technical Standards and Network Integrity says the grant is in line with the National Broadband Plan.",
+     "as_of": "2020-09-17", "date_precision": "day", "system": "National Broadband Plan", "class": "plan"},
+    {"sub_indicator": "plan", "aspect": "delivery", "value": "funded",
+     "fact": "BusinessDay NG says a USTDA grant to ipNX, signed 2020-09-17 to expand fibre to more than 200,000 residences in Lagos, Abuja and Port Harcourt, is described by the US Ambassador as helping achieve the goals of the National Broadband Plan; the grant amount is not stated and the money is foreign, not a Nigerian budget line.",
+     "as_of": "2020-09-17", "date_precision": "day", "system": "National Broadband Plan", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Broadband Plan", "country_label": "Nigerian Broadband Plan / National Broadband Plan", "class": "plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Economy Policy and Strategy", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

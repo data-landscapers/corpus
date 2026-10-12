@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-broadbandstrategy.md — the thirteenth maturity study: the national broadband plan, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: broadbandstrategy
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Is money committed to it? | In the last three years: a budget line, a universal service fund allocation or a financed programme that the source ties to the plan |
 | 4 | Does the government publish progress against the plan's targets? | In the last three years: a published review or report giving figures against the plan's own targets |
 
-## 3. The ladder
+## 3. The ladders
 
 **National broadband plan**
 
@@ -48,6 +48,7 @@ Asked in order. Each is answered with a date and a link.
 - **Questions 1 and 2 have no time limit**: an adopted plan stands, with its year, until its period ends or a dated source says it is replaced or withdrawn.
 - **A statement that there is no plan counts for three years.**
 - **Money counts only where the source ties it to the plan.** A financed fibre project in a country with no plan is noted and places nothing.
+- **A published review does not answer question 3**: it does not show that money was committed, so a country with a review and no money on record stays at stage 3.
 - **Whether the targets are met is not judged.** A published review saying the plan missed its targets is a yes to question 4, and the summary says what it found.
 - **A regulator's yearly market figures are not a yes to question 4** unless they are set against the plan's targets.
 - **The African Union's 2030 target is noted and does not change the stage.**
@@ -74,10 +75,19 @@ The Broadband Commission's first target is a funded national broadband plan in e
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: `study-select.py`, then the drafters, in the order of §5.
-- [ ] **D3. Stage**: `study-ladder-broadbandstrategy.py`, the parent's reading of every fact that sets stage 4 or 5, and the agreement check.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 14 `about` stories; then the cited news of 48 countries; then the newest held news for 19 still short of questions 1 and 2; then the cited plan texts of 12 with nothing else. 68 facts.
+- [x] **D3. Staged**: one at stage 4, 20 at 3, eight at 2, one at 1, none at 5, one unplaced and 23 with no evidence, as at 2026-09-30; ten corrections by the parent; agreement 19 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **A published review with no money on record stays at stage 3** (Algeria, Uganda): the second drafter read the ladder that way, and it is the lower reading.
+- **A minister's figure given in an interview is not a published report** (Kenya).
+- **A universal service fund's own strategy counts as the plan**, and is a draft until the government or the minister adopts it (DR Congo, Guinea-Bissau).
+- **A programme launched while its strategy is still a proposal is a plan being written** (Mozambique): the one cell the second drafter read differently.
+- **A 5G strategy with a national internet target counts as the plan** (Cabo Verde).
+- **Nigeria is at stage 2**: its 2020 to 2025 plan has ended and no successor is adopted.
 
 ## Boundary
 

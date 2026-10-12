@@ -1,0 +1,13 @@
+{
+  "slug": "2018-06-01-bwa-national-broadband-strategy",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted",
+     "fact": "The Ministry of Transport and Communications issued Botswana's National Broadband Strategy (final, June 2018), stating that the Government has developed it with targets of 2 Mbps for 50% of citizens by end 2014 and 20 Mbps for 90% of the population by 2018, with the Information Age Council to guide implementation and monitor progress; the document gives no separate adoption date, so the date used is its June 2018 publication.",
+     "as_of": "2018-06", "date_precision": "month",
+     "system": "National Broadband Strategy", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Broadband Strategy", "country_label": "National Broadband Strategy (NBS)", "class": "plan", "platform": "", "owner": "Ministry of Transport and Communications", "tiers": "national"}
+  ],
+  "note": "No delivery fact: the captured text only says funding will come from government-industry partnership and the funding and monitoring sections were truncated."
+}

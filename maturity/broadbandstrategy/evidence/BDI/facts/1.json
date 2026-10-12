@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-04-africa-bb-maps-rapport-evenement-national-cartographie-large-bande-burundi",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The ITU report on the October 2025 Africa-BB-Maps national event says Burundi's legal and regulatory framework includes a 'Stratégie Large Bande 2025' (broadband strategy 2025) and a Universal Service Fund, with ARCT and SETIC as the lead bodies; the document gives no period dates and states no broadband targets, and names no successor.", "as_of": "2025-10", "date_precision": "month", "system": "Stratégie Large Bande 2025", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Stratégie Large Bande 2025", "country_label": "Stratégie Large Bande 2025", "class": "plan", "platform": "", "owner": "ARCT / SETIC", "tiers": "national"},
+    {"system": "Africa-BB-Maps", "country_label": "Système national de cartographie à large bande", "class": "other", "platform": "ITU Africa-BB-Maps; hybrid proprietary and open source on rented cloud proposed", "owner": "ARCT", "tiers": "national"},
+    {"system": "DQoS", "country_label": "DQoS", "class": "other", "platform": "mobile application with RPM data collection system", "owner": "ARCT", "tiers": "national"}
+  ],
+  "note": ""
+}

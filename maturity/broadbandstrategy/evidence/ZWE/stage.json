@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "plan",
+   "stage": "3",
+   "standing": "adopted",
+   "delivery": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-001",
+   "gaps": "No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
+  }
+ ]
+}

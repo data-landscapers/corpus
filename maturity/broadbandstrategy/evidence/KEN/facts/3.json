@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-02-nation-africa-ruto-fibre-optic-network-plan-falters",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "President Ruto announced the Digital Superhighway's 100,000km national fibre target in November 2022 for universal broadband availability over five years, with a deadline of 2027 that the 2 September 2026 report says is still ahead, and no successor named.",
+   "as_of": "2022-11",
+   "date_precision": "month",
+   "system": "Digital Superhighway",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "funded",
+   "fact": "The Digital Superhighway fibre programme is funded through the Universal Service Fund, with the CA and ICT Authority initially signing a Sh5 billion agreement covering 19 counties, and Kenya Power had received Sh940.6 million by June 2025 for design, supply and installation, per the Daily Nation.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Digital Superhighway",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "reported",
+   "fact": "ICT Cabinet Secretary William Kabogo said on 2 September 2026 that 37,000km of the 100,000km fibre target serving 53,000 government facilities had been laid, leaving 63,000km.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Digital Superhighway",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Superhighway",
+   "country_label": "Digital Superhighway",
+   "class": "plan",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2025-11-24-arn-guine-bissau-plano-estrategico-fasu-2026-2031",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Strategic Plan of the Access and Universal Service Fund (FASU) for 2026-2031, a consultancy final report dated 24 November 2025 prepared for the regulator ARN, states it is still to be disseminated and validated in public stakeholder consultation, and sets coverage targets before 2031 of 99% of the population for 2G, 98% for 3G and 96% for 4G broadband (dated 2025-11-24 by the document's own date, as it gives no other date for the draft status).",
+      "as_of": "2025-11-24",
+      "date_precision": "day",
+      "system": "Plano Estratégico do Fundo de Acesso e Serviços Universais 2026-2031",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plano Estratégico do Fundo de Acesso e Serviços Universais 2026-2031",
+      "country_label": "Plano Estratégico da FASU 2026-2031",
+      "class": "plan",
+      "platform": "",
+      "owner": "ARN (Autoridade Reguladora Nacional), with WARDIP and consultancy Salience",
+      "tiers": "national"
+    },
+    {
+      "system": "Estratégia Nacional para a Transformação Digital (ENTD.GW)",
+      "country_label": "ENTD.GW, adopted January 2025",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Guinea-Bissau",
+      "tiers": "national"
+    }
+  ],
+  "note": "No delivery fact: the capture is truncated before the financing chapters, and the financing shown is the Fund's own, not tied by the text read to a national broadband plan."
+}

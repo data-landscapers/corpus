@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-mozambique-portail-national-haut-debit",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Wearetech.africa reports that the Internet Para Todos programme, launched in March 2025, targets 80% mobile penetration, 95% territorial coverage and 99% network availability by 2030, a period that had not ended.", "as_of": "2025-03", "date_precision": "month", "system": "Internet Para Todos", "class": "plan"}
+  ],
+  "systems": [],
+  "note": ""
+}

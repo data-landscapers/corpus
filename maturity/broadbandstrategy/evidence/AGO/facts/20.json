@@ -1,0 +1,8 @@
+{
+  "slug": "2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The ministry's national director says many targets of the Plano de Desenvolvimento Nacional 2018-2022, whose priority actions included broadband access, were missed because of Covid-19, so they were revised and will be executed in the period 2023-2027; the document states no broadband targets of its own.", "as_of": "2023-05-17", "date_precision": "day", "system": "Plano de Desenvolvimento Nacional 2018-2022 (revised for 2023-2027)", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "The Projecto Nacional de Banda Larga is described as a fibre backbone project, not a plan with targets, so it gives no fact; no money or results are tied to a plan."
+}

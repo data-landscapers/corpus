@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-19-lesotho-budget-speech-2025-26",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "The Minister of Finance and Development Planning told Parliament on 19 February 2025 that key policies under development include Artificial Intelligence, Broadband and Data Management.", "as_of": "2025-02-19", "date_precision": "day", "system": "Broadband policy", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "The M381.1 million ICT allocation is not tied to a broadband plan, so no delivery fact."
+}

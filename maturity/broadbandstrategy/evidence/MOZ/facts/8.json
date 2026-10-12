@@ -1,0 +1,7 @@
+{"slug":"2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)","facts":[
+{"sub_indicator":"plan","aspect":"standing","value":"draft","fact":"The U.S. International Trade Administration reports that the government is drafting a Digital Transformation Strategy covering connectivity, e-government and social services (note dated 2025-07-16, which is also the as_of date).","as_of":"2025-07-16","date_precision":"day","system":"Digital Transformation Strategy","class":"plan"},
+{"sub_indicator":"plan","aspect":"standing","value":"adopted","fact":"The U.S. International Trade Administration reports that in December 2024 the government launched the Internet for All project, aiming to raise internet access from under 25% to 100% of the population by 2030, with a period running to 2030.","as_of":"2024-12","date_precision":"month","system":"Internet for All","class":"plan"}
+],"systems":[
+{"system":"Digital Transformation Strategy","country_label":"Digital Transformation Strategy","class":"plan","platform":"","owner":"Ministry of Communications and Digital Transformation","tiers":""},
+{"system":"Internet for All","country_label":"Internet for All","class":"plan","platform":"","owner":"Government of Mozambique; INCM plans rural connectivity tenders","tiers":""}
+],"note":""}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Digital Transformation Strategy (ENTD.GW)",
+      "country_label": "ENTD.GW",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Transportation, Telecommunication and Digital Economy, with UNDP and UNU-EGOV",
+      "tiers": ""
+    }
+  ],
+  "note": "ENTD.GW is a digital strategy; the document states no broadband targets, so no fact on a broadband plan."
+}

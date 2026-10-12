@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-sa-icasa-nrfp-spectrum-eussc-mtn-vodacom-legal-challenge",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article says telecoms licensees' spectrum obligations align with the government's SA Connect target of universal broadband access with an average user experience of 100Mbps by 2030, a period not ended; the document gives no event date, so its published date 2026-08-03 is used.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "SA Connect",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SA Connect",
+   "country_label": "SA Connect",
+   "class": "plan",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

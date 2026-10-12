@@ -1,0 +1,17 @@
+{
+  "slug": "2020-08-14-namibia-national-broadband-policy-gazette-7308",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Government Notice No. 189 in Government Gazette No. 7308 publishes the National Broadband Policy, which the Minister of Information and Communication Technology, Dr P. Mushelenga, signed on 27 July 2020 and issued to the Communications Regulatory Authority of Namibia as policy guidelines under section 7 of the Communications Act 2009; the gazette is dated 14 August 2020.",
+      "as_of": "2020-08-14",
+      "date_precision": "day",
+      "system": "National Broadband Policy",
+      "class": "plan"
+    }
+  ],
+  "systems": [],
+  "note": "The captured text is truncated before the objectives, financing and monitoring sections, so it states nothing on money committed or progress reported; the table of contents lists an implementation action plan for 2019-2024 as Appendix 6, but its text is not in the capture."
+}

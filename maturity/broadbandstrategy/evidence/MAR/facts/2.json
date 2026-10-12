@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-05-mar-anfaspress-khayf-allah-digitisation-bureaucracy",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The op-ed by Issam Khayf Allah says more than 10,000 rural areas have been covered with 3G and 4G networks within the national high-speed plan (al-mukhattat al-watani lil-sabib al-ali), giving no period for the plan; the date is the document's 'late 2025' framing for the connectivity figures.", "as_of": "2025", "date_precision": "year", "system": "المخطط الوطني للصبيب العالي", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "المخطط الوطني للصبيب العالي", "country_label": "National high-speed (broadband) plan", "class": "plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

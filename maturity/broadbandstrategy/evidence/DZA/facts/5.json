@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-20-three-million-households-fibre-broadband--techafricanews",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "TechAfrica News reports Minister Zerrouki said in a 20 February 2026 video message that the government has adopted a comprehensive all-fibre communications strategy to extend high-speed infrastructure nationwide; no adoption date or period is given, so the date is the message date.", "as_of": "2026-02-20", "date_precision": "day", "system": "all-fibre communications strategy", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "all-fibre communications strategy", "country_label": "all-fibre communications strategy", "class": "plan", "platform": "", "owner": "Ministry of Post and Telecommunications", "tiers": ""}
+  ],
+  "note": ""
+}

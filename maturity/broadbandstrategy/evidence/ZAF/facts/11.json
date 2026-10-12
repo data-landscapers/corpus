@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-icasa-imt-roadmap-2026-draft-implementation-plans",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "ICASA's media statement names the SA Connect Broadband Policy as an existing national policy that the IMT Roadmap 2026 supports, and gives no period or successor for it; no date is given for the policy, so the document's published date is used.", "as_of": "2026-07-27", "date_precision": "day", "system": "SA Connect Broadband Policy", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "SA Connect Broadband Policy", "country_label": "SA Connect", "class": "plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

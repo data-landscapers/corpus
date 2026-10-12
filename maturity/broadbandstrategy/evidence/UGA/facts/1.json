@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-12-itu-review-broadband-policy-implementation",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The document refers to Uganda's National Broadband Policy 2018 as a policy under implementation, which the Ministry of ICT and National Guidance and the ITU reviewed; it gives no end date or replacement, and the year 2018 is taken from the policy's title.", "as_of": "2018", "date_precision": "year", "system": "National Broadband Policy 2018", "class": "plan"},
+    {"sub_indicator": "plan", "aspect": "delivery", "value": "reported", "fact": "The Ministry of ICT and National Guidance and the ITU published a review of the implementation of the 2018 National Broadband Policy, with a matrix of each objective and strategy, activities undertaken, outcomes, reported level of implementation by stakeholders, challenges and mitigation measures; the document is dated by its published date, 2026-01-12, and states no figures in the excerpt.", "as_of": "2026-01-12", "date_precision": "day", "system": "National Broadband Policy 2018", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Broadband Policy 2018", "country_label": "National Broadband Policy", "class": "plan", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national"}
+  ],
+  "note": ""
+}

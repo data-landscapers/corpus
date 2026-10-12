@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-17-lesahel-copil-dts-ptba-2026-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projet de la Dorsale Transsaharienne a Fibre Optique, composante Niger (DTS-FO)",
+      "country_label": "Projet de la Dorsale Transsaharienne a Fibre Optique, composante Niger (DTS-FO)",
+      "class": "other",
+      "platform": "AfDB-financed project",
+      "owner": "Ministere de la Communication et des Nouvelles Technologies de l'Information",
+      "tiers": "national"
+    }
+  ],
+  "note": "Steering committee of a single AfDB-financed fibre project; money is tied to the project, not to a national broadband plan."
+}

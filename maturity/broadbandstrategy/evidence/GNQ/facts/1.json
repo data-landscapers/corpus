@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-15-guinea-ecuatorial-plan-semestral-transportes-cobertura-85-por-ciento",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted",
+     "fact": "On 15 July 2026 the Ministry of Transport, Telecommunications and Civil Aviation presented to the Prime Minister its action plan for the period July-December 2026, which sets a target of raising national 2G and 4G coverage to 85% with 34 new towers in Annobon and the interior, and the Prime Minister told it to keep to the timetable; the document calls it a ministry action plan, not a national broadband plan.",
+     "as_of": "2026-07-15", "date_precision": "day",
+     "system": "plan de acción julio-diciembre 2026 del Ministerio de Transportes, Telecomunicaciones y Aviación Civil", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "plan de acción julio-diciembre 2026 del Ministerio de Transportes, Telecomunicaciones y Aviación Civil", "country_label": "plan semestral", "class": "plan", "platform": "", "owner": "Ministerio de Transportes, Telecomunicaciones y Aviación Civil", "tiers": "national"}
+  ],
+  "note": "No delivery fact: the document gives no funding tied to the plan and no figures set against its targets."
+}

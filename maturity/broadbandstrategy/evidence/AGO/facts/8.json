@@ -1,0 +1,12 @@
+{
+  "slug": "2024-12-05-livro-branco-das-tic-2023-2027",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The ICT White Paper 2023-2027, published 5 December 2024 (date is the document's published date), says its measures follow from implementing the National Broadband Strategy, which covers modernising and expanding the primary electronic communications network, now called the National Broadband Network, as a State-funded public-domain infrastructure; the passages held give no period or numeric targets for the strategy itself.", "as_of": "2024-12-05", "date_precision": "day", "system": "Estratégia Nacional de Banda Larga", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Estratégia Nacional de Banda Larga", "country_label": "Estratégia Nacional de Banda Larga", "class": "plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Rede Nacional de Banda Larga (RNBL)", "country_label": "Rede Nacional de Banda Larga", "class": "", "platform": "primary electronic communications network", "owner": "State", "tiers": "national"},
+    {"system": "Livro Branco das Tecnologias de Informação e Comunicação (LBTIC 2023-2027)", "country_label": "Livro Branco das TIC 2023-2027", "class": "plan", "platform": "", "owner": "MINTTICS", "tiers": "national"}
+  ],
+  "note": "No delivery fact: the passages tie no money to the plan and give no figures against targets."
+}

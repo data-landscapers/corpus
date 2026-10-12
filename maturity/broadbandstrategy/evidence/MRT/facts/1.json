@@ -1,0 +1,10 @@
+{
+  "slug": "2019-02-01-mesrstic-strategie-promotion-haut-debit-acces-universel-volume-1",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "The ministry's final study of February 2019 proposes a Stratégie Nationale Haut Débit / Plan National du Haut Débit for 2019-2025 (objectives dated 2020 and 2025; coverage of all Moughataas short term and the whole country medium term, with a 623 million US dollar investment estimate over 25 years), and states no adoption by the government or a minister.", "as_of": "2019-02", "date_precision": "month", "system": "Stratégie Nationale de Promotion du Haut Débit", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale de Promotion du Haut Débit", "country_label": "Stratégie de promotion du Haut Débit et d'accès Universel", "class": "plan", "platform": "", "owner": "MESRSTIC", "tiers": "national"}
+  ],
+  "note": "Body is an excerpt; no adoption, funding commitment or progress report is stated, so no delivery fact."
+}

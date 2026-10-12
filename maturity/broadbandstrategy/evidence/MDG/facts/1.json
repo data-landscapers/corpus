@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DECIM",
+      "country_label": "DECIM",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Madagascar / World Bank",
+      "tiers": ""
+    },
+    {
+      "system": "PRODIGY",
+      "country_label": "PRODIGY",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Madagascar / World Bank",
+      "tiers": ""
+    }
+  ],
+  "note": "Reports on two World Bank projects (DECIM, PRODIGY); names no national broadband plan or its targets."
+}

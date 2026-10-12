@@ -1,0 +1,12 @@
+{
+  "slug": "2024-12-05-decreto-presidencial-272-24-aprova-livro-branco-das-tic",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Presidential Decree 272/24, published in Diario da Republica I Serie n.º 231 on 5 December 2024 after Council of Ministers review on 30 August 2024, approves the ICT White Paper 2023-2027 (period 2023-2027, still running), whose stated objective is universal access of the whole population to the universal broadband service and which names the National Broadband Strategy and the National Broadband Network (RNBL) as its basis; no numeric coverage, speed or price target appears in the text held.", "as_of": "2024-12-05", "date_precision": "day", "system": "Livro Branco das Tecnologias de Informação e Comunicação (LBTIC 2023-2027)", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das Tecnologias de Informação e Comunicação (LBTIC 2023-2027)", "country_label": "Livro Branco das TIC 2023-2027", "class": "plan", "platform": "", "owner": "Presidente da República; Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS)", "tiers": "national"},
+    {"system": "Estratégia Nacional de Banda Larga", "country_label": "Estratégia Nacional de Banda Larga", "class": "plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Rede Nacional de Banda Larga (RNBL)", "country_label": "Rede Nacional de Banda Larga", "class": "", "platform": "fibre-optic primary electronic communications network", "owner": "State", "tiers": "national"}
+  ],
+  "note": "No delivery fact: the text held ties no money to the plan and reports no figures against its targets; the capture is truncated."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "ZMB",
+ "cells": [
+  {
+   "sub_indicator": "plan",
+   "stage": "1",
+   "standing": "none",
+   "delivery": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZMB-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-icasa-imt-roadmap-2026-6g-spectrum-consultation",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICASA says its IMT Roadmap supports national broadband objectives as outlined in the SA Connect Broadband Policy, which it treats as in force and cites for broadband access; the document gives no period for the policy and no event date, so its published date 2026-07-28 is used.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "SA Connect Broadband Policy",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SA Connect Broadband Policy",
+   "country_label": "SA Connect Broadband Policy",
+   "class": "plan",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

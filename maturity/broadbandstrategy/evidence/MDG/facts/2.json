@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-19-madagascar-reviews-progress-decim-prodigy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DECIM",
+      "country_label": "DECIM",
+      "class": "other",
+      "platform": "",
+      "owner": "MNDPT / World Bank",
+      "tiers": ""
+    },
+    {
+      "system": "PRODIGY",
+      "country_label": "PRODIGY",
+      "class": "other",
+      "platform": "",
+      "owner": "MNDPT / World Bank",
+      "tiers": ""
+    }
+  ],
+  "note": "Monitoring session on DECIM and PRODIGY; names no national broadband plan or its targets."
+}

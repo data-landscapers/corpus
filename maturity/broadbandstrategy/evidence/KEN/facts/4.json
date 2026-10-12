@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-11-businessdaily-ict-allocation-fy2026-27",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "funded",
+   "fact": "The FY2026/27 budget allocates Sh1.3 billion to maintain the national fibre backbone, Sh400 million for digital hubs and Sh382 million for digital superhighway cybersecurity, which Business Daily describes as part of the Digital Superhighway agenda to lay 100,000km of fibre.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Digital Superhighway",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Superhighway",
+   "country_label": "Digital Superhighway",
+   "class": "plan",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": "national"
+  },
+  {
+   "system": "Kenya Digital Economy Acceleration Project",
+   "country_label": "Kenya Digital Economy Acceleration Project",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

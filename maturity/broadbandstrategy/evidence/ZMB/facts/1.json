@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-01-africa-broadband-mapping-zambia-national-event-report",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "none", "fact": "The policy working group at the Africa BB Maps national event (ITU/EU project, hosted with ZICTA, Lusaka, 9-11 December 2025) concluded that Zambia lacks a national broadband policy and recommended formulating one.", "as_of": "2025-12", "date_precision": "month", "system": "national broadband policy", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2013-01-01-tunisie-mtc-fibre-optique-strategie-tres-haut-debit",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The communication technologies ministry's page refers to a National Strategy for the Development of very high speed broadband, under which it publishes FTTH technical terms of reference; the page gives no period and no successor, and has no date of its own, so the 2013 publication year (inferred from its annexed 2013 specifications) is used.", "as_of": "2013", "date_precision": "year", "system": "Stratégie Nationale pour le Développement du très haut débit", "class": "plan"}
+  ],
+  "systems": [],
+  "note": ""
+}

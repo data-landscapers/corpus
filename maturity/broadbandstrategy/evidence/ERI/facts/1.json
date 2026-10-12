@@ -1,0 +1,17 @@
+{
+  "slug": "2019-01-01-itu-broadband-strategies-policies-plans-2019",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "ITU's 2019 table of broadband strategies, policies and plans lists Eritrea with policy exist? 'No' and no named policy; the table gives no date for the entry, so the document's published date (2019) is used.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "",
+      "class": "plan"
+    }
+  ],
+  "systems": [],
+  "note": "Only the standing absence is stated; no plan is named, so no system entry and nothing on delivery."
+}
