@@ -81,7 +81,7 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
 - [x] **D1. Bill's word**: run on it, 2026-10-12.
-- [x] **D2. Read**: the 49 `about` stories and the 108 news stories the current cells cite, together; then, for the 44 countries with no answer to question 1, one call of the newest held news and the 28 texts their current cells cite. 135 calls, 48 facts. The rest of the held news was not read: the count stood at 39 million tokens of 50.
+- [x] **D2. Read**: the 49 `about` stories and the 108 news stories the current cells cite, then, for the 44 countries with no answer to question 1, one call of the newest held news and the 28 texts their current cells cite. 135 calls, 48 facts. The rest was not read: 39 million tokens of 50 were spent.
 - [x] **D3. Staged**: one at stage 4, five at 3, eight at 2, none at 1 or 5, seven unplaced and 33 with no evidence, as at 2026-09-30; four corrections by the parent; agreement 14 of 14, every staged cell.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
 
