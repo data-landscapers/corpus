@@ -5,7 +5,7 @@ period: 2025-10-01 to 2026-10-12
 place: XAF
 ledger_rows: 235
 not_held: 3
-record: 9d12a762883b
+record: 6024185b016e
 ---
 
 # Africa: progress report, October 2025 – October 2026
@@ -21,7 +21,7 @@ record: 9d12a762883b
 ## Summary of the period
 
 <!-- narrative: summary -->
-The year's continental movement was institutional rather than operational. Bodies were constituted, positions adopted and memoranda signed across artificial intelligence, connectivity and payments, and very little of it yet carries a delivery figure. The Africa AI Council was established, an Algiers declaration on telecommunications sovereignty was adopted, a continental payments rail passed 190 institutions in 28 countries, and the digital trade protocol still has no ratification count. Where numbers exist they are mostly one side's own: an operator's ranking, a company's training pledge, a foundation's cohort call.
+The year's continental movement was institutional rather than operational. Bodies were constituted, positions adopted and memoranda signed across artificial intelligence, connectivity and payments, and very little of it yet carries a delivery figure. The Africa AI Council was established, an Algiers declaration on telecommunications sovereignty was adopted, a continental payments rail reached 30 countries and about 200 institutions, and the digital trade protocol still has no ratification count. Where numbers exist they are mostly one side's own: an operator's ranking, a company's training pledge, a foundation's cohort call.
 
 One fact runs underneath the rest. Official development assistance fell sharply in 2025 with a further fall expected, and the agency that said so told its board its model is shifting from delivering aid to mobilising investment — which bears on almost every programme here without naming one.
 <!-- /narrative -->
@@ -359,9 +359,9 @@ None of the three carries a disbursement, a site or a delivery date in the repos
 | Women and girls digital-inclusion accelerator | ***Baseline not held*** | [An industry-body accelerator backed by two private foundations opened its next call for digital-inclusion solutions for women and girls across India and sub-Saharan Africa, with a grant amount listed at INR 42,000,000](https://www.ngobox.org/full_grant_announcement_Applications-Invited-for-SheConnects-Digital-Accelerator-to-Advance-Womens-Digital-Inclusion-_13239) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
-The repository holds almost nothing continental on capacity, and the one item it does hold is an industry body's. A women and girls digital-inclusion accelerator opened, backed by two private foundations, with no baseline behind it and no cohort figure yet published.
+Continental capacity work is now on the record as courses and cohorts, and almost none of it as outcomes. The development bank [launched free AI courses for serving public officials in September 2026](https://www.afdb.org/en/news-and-events/press-releases/unga81-african-development-bank-group-and-partners-launch-free-ai-training-african-public-officials-97043), a foundation-funded initiative [set targets of more than 50,000 learners in foundational digital literacy and 2,500 advanced certifications over five years](https://news.asu.edu/20260827-local-national-and-global-affairs-new-asu-initiative-connects-young-people-across-africa), and a European Union regulators' programme [convened its eighth cohort in Nairobi in October 2026](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/). A regional mapping centre [trained 55 officials from 20 member states on digital land records](https://spaceinafrica.com/2026/09/17/rcmrd-trains-55-african-officials-on-digital-land-record-systems-in-nairobi/).
 
-That is the finding rather than an omission: skills and inclusion programmes are run nationally and appear on the country ledgers, so this section stays thin until a continental instrument exists to fill it. The pledges that do appear are made at continental level and delivered, if at all, somewhere else.
+What is counted is attendance and intent: no completion, certification or employment figure is published against any of them. Skills and inclusion programmes are otherwise run nationally and appear on the country ledgers, so the pledges made at continental level are delivered, if at all, somewhere else.
 <!-- /narrative -->
 
 ## Finance
