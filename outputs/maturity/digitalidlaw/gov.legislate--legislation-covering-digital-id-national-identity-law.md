@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 23 |
+| 4 Operating | 22 |
 | 3 Established | 8 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 10 |
@@ -135,13 +135,6 @@ Ethiopia's 2023 Digital Identification Proclamation sets up a biometric identity
 
 - Proclamation No. 1284/2023 sets up a Digital Identification System that collects demographic and biometric data in a central database (Article 2), issues each registrant a unique, permanent, non-repeating Unique Number (Article 11), and provides for authentication online or offline against that database (Articles 2 and 16) ([source, 2023-04-18](https://ethiodata.et/wp-content/uploads/2023/09/Ethiopian-Digital-Identification-Proclamation-No.-1284_2023-1.pdf)).
 - The document is the full text of the Ethiopian Digital Identification Proclamation No. 1284/2023, a proclamation signed by the President on 18 April 2023 and in force from its publication in the Federal Negarit Gazette (Article 26) ([source, 2023-04-18](https://ethiodata.et/wp-content/uploads/2023/09/Ethiopian-Digital-Identification-Proclamation-No.-1284_2023-1.pdf)).
-
-### Kenya: 4 Operating
-
-Kenya's Registration of Persons Act, amended in 2018, sets up a population register and a unique number; no rules since 2023 are known.
-
-- Kabata (2024) says section 9A of the amended Act establishes the National Integrated Identity Management System, to keep a national population register as the single source of personal information on citizens and resident foreigners and to assign a unique national identification number to every person registered; the paper cites the 2018 amendment, and the year is used ([source, 2018](https://www.cambridge.org/core/journals/data-and-policy/article/an-assessment-of-the-legal-and-regulatory-framework-supporting-the-implementation-of-the-national-integrated-identity-management-system-niims-in-kenya/617BC651E2C09DE2CDD175C73A1C90E2)).
-- Kabata (2024) calls the Registration of Persons Act, Cap 107, Kenya's primary identity law, and says the digital identity system was set up by an omnibus amendment to it and not by a stand-alone Act; the paper gives the amendment as 2018, and the year is used ([source, 2018](https://www.cambridge.org/core/journals/data-and-policy/article/an-assessment-of-the-legal-and-regulatory-framework-supporting-the-implementation-of-the-national-integrated-identity-management-system-niims-in-kenya/617BC651E2C09DE2CDD175C73A1C90E2)).
 
 ### Lesotho: 4 Operating
 
@@ -317,6 +310,12 @@ The DRC's population file rests on a 2022 decree; a bill on identifying persons 
 
 - Two national deputies tabled at the National Assembly's Bureau a private member's bill (proposition de loi) on the general rules for identifying natural persons in the DRC, which the document says is to go through committee and then possibly plenary, with the existing identity arrangements resting on decrees creating the Fichier Général de la Population and the national identity card ([source, 2026-06-12](https://actualite.cd/2026/06/12/assemblee-nationale-venance-eyanga-et-patrick-namazihana-deposent-une-proposition-de-loi)).
 - The Prime Minister's Decree n° 22/07 of 2 March 2022 creates the Fichier Général de la Population (FGP), run by ONIP, with a national identification number and biometric data, as a decree alone; its legal bases cite no identity law, only the 2011 decree setting up ONIP and a 1923 decree-law requiring residents to be recorded ([source, 2022-03-02](https://leganet.cd/Legislation/Droit%20Public/Identification/decret%2022.04.02.03.2022.html)).
+
+### Kenya: 2 Nascent
+
+Kenya's digital identity system rests on a 2018 executive order and 2020 regulations, added to a 1947 act; it has no law of its own.
+
+- Kabata (2024) says Kenya has no stand-alone digital identity law: the National Integrated Identity Management System rests on executive order no. 1 of 2018, was written into the 1947 Registration of Persons Act as section 9A by an omnibus amendment, and is anchored on the Huduma Namba regulations of 2020; the High Court ruled in January 2020 that a comprehensive framework should be enacted before rollout. Read, on Bill's ruling of 2026-10-12, as a system run on an order with no identity law behind it ([source, 2020-01](https://www.cambridge.org/core/journals/data-and-policy/article/an-assessment-of-the-legal-and-regulatory-framework-supporting-the-implementation-of-the-national-integrated-identity-management-system-niims-in-kenya/617BC651E2C09DE2CDD175C73A1C90E2)).
 
 ### Madagascar: 2 Nascent
 

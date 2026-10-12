@@ -94,8 +94,8 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 - **A regulation setting how long a card is valid is a rule made under the law** (Uganda); one changing fees is not (Malawi, Zimbabwe).
 - **Algeria's law of February 2026 is taken from the held record of its gazetted text.**
 - **A civil registration law or draft that sets up a unique number or a population register counts** (Cameroon, Mauritania, Sudan, South Sudan, Niger).
-- **South Sudan is at stage 5 on a law and 2024 regulations the World Bank calls under-implemented.**
-- **Ten countries hold no fact**, Egypt and Gabon among them; Kenya reached stage 4 on Kabata (2024), ingested 2026-10-12.
+- **South Sudan is at stage 5 on a law and 2024 regulations.**
+- **Ten countries hold no fact.** **Kenya is at stage 2** *(Bill, 2026-10-12)*: a system on an executive order, amended into a 1947 act, has no law behind it.
 
 ## Boundary
 

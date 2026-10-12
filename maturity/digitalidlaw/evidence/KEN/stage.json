@@ -3,13 +3,13 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "4",
-      "standing": "in-force",
-      "cover": "digital",
+      "stage": "2",
+      "standing": "bill",
+      "cover": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
+      "stage_sources": "KEN-001",
+      "gaps": "No source held says a national identity law is in force.",
       "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
       "as_at": "2026-10-12"
     }
