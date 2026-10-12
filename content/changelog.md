@@ -1,6 +1,6 @@
 ## 12 October 2026
 
-- Twenty-two country status reports no longer say that rural clinics, schools, police posts or registry offices record on paper where the cited source does not say so. Each sentence now gives only what its source states.
+- Thirty-six country status reports no longer say that rural clinics, schools, police posts or registry offices record on paper where the cited source does not say so. Each sentence now gives only what its source states.
 
 ## 5 October 2026
 
