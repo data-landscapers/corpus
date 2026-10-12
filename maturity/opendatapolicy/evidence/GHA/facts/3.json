@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-05-ndpc-data-literacy-week-myjoy",
+  "facts": [],
+  "systems": [
+    {"system": "District Development Data Platform", "country_label": "District Development Data Platform", "class": "other", "platform": "", "owner": "National Development Planning Commission (with GIZ support)", "tiers": "district"}
+  ],
+  "note": "Data-sharing agreements between the Statistical Service and 25 MDAs and a district data platform; no open data policy or national open data portal is stated."
+}

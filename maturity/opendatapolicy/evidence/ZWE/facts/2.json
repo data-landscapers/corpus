@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-05-zimstat-un-dfdi-meeting",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal 2.0", "country_label": "enhanced Open Data Portal 2.0", "class": "other", "platform": "", "owner": "ZimStat (statistics office)", "tiers": "national"},
+    {"system": "OpenSDG", "country_label": "OpenSDG", "class": "other", "platform": "", "owner": "ZimStat", "tiers": "national"}
+  ],
+  "note": "Statistics office portals only (ODP 2.0 due Q1 2026, OpenSDG launched July 2025); no open data policy stated."
+}

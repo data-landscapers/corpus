@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 SA finally has a broadband map - and it reveals where the gaps are",
+  "facts": [],
+  "systems": [
+    {"system": "Sadis broadband GIS", "country_label": "South Africa Digital Infrastructure Investment Study GIS", "class": "other", "platform": "", "owner": "Development Bank of Southern Africa", "tiers": "national"}
+  ],
+  "note": "Development bank GIS map, data not public; says no publicly available current government database exists for policy planning, which is not a dated statement of no open data policy."
+}

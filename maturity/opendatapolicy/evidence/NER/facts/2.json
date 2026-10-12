@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-18-anp-pnin-portail-web-renove",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme Nationale d'Information pour la Nutrition (PNIN) web portal", "country_label": "PNIN", "class": "other", "platform": "", "owner": "Institut National de la Statistique (INS)", "tiers": "national"}
+  ],
+  "note": "A statistics office's sector portal (nutrition), not a national open data portal; no open data policy stated."
+}

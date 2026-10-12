@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-14-portail-td-mise-en-ligne-journal-officiel-republique-du-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme numérique du Journal officiel", "country_label": "Journal officiel numérique", "class": "other", "platform": "", "owner": "Government of Chad (launched by the Prime Minister)", "tiers": "national"}
+  ],
+  "note": "Online publication of official texts and procurement notices; no open data policy or open data portal is stated."
+}

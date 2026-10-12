@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-7joursinfo-cemac-sdmx-open-data-capacites-statistiques",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data 2.0 platform (ODP 2.0)", "country_label": "plateforme Open Data 2.0", "class": "other", "platform": "ODP (African Development Bank statistical platform)", "owner": "CEMAC member states' statistics systems", "tiers": "national"}
+  ],
+  "note": "Workshop on SDMX and a statistical data platform across six CEMAC states; states nothing on a Gabon open data policy or government open data portal."
+}

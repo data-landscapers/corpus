@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-29-about-ghana-open-data-initiative",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Ghana Open Data Initiative's history page lists a draft National Data Sharing (Open Data incorporated) policy as a deliverable of the portal revamp that ran from July 2018 to April 2019, and states no adoption of it.", "as_of": "2019-04", "date_precision": "month", "system": "National Data Sharing (Open Data incorporated) policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "The page, undated and taken at its published date of 2026-08-29, describes the Ghana Open Data Initiative as a government platform run by the National Information Technology Agency under the Ministry of Communications, with a data catalogue portal rebooted in the 2018-2019 revamp; it ties the portal to the initiative and to the draft data sharing policy, not to an adopted open data policy.", "as_of": "2026-08-29", "date_precision": "day", "system": "Ghana Open Data Initiative portal (data.gov.gh)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Ghana Open Data Initiative portal (data catalogue)", "country_label": "Ghana Open Data Initiative (GODI)", "class": "policy", "platform": "OGPL (first portal, 2012); rebooted and upgraded 2018-2019", "owner": "National Information Technology Agency (NITA), Ministry of Communications", "tiers": "national; 154 staff from 20 MDAs trained in the revamp"}
+  ],
+  "note": ""
+}

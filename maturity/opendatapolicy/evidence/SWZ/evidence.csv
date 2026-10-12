@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SWZ-001,SWZ,policy,use,none,"The UNDP digital readiness assessment, launched November 2024, cites the absence of a centralised open data portal as a reason for Eswatini's 191st-of-195 rank in the 2022 Open Data Inventory.",2024-11,month,open data portal,policy,2024-11-01-eswatini-digital-readiness-assessment,https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf

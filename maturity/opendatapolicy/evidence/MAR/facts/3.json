@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-08-data-gov-ma-gouvernance-plan-actions-national-open-data",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal",
+     "fact": "The portal's own documentation page says the Agence de Developpement du Digital (ADD) manages Morocco's national open data portal and monitors the national Open Data action plan, which the Open Data steering committee (set up December 2019) oversees; no published date, so the page's retrieval date of 2026-08-08 is used.",
+     "as_of": "2026-08-08", "date_precision": "day", "system": "data.gov.ma national open data portal", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "data.gov.ma national open data portal", "country_label": "portail national des donnees ouvertes", "class": "policy", "platform": "", "owner": "Agence de Developpement du Digital (ADD)", "tiers": "national; ministries and public bodies publish through designated Open Data Officers and Data Managers"}
+  ],
+  "note": "The page describes the 2020 ADD/World Bank readiness-assessment action plan and steering committee but does not say any policy, decree or law was adopted, and names no ministry releasing data nor a dataset count, so no standing fact and no published fact."
+}

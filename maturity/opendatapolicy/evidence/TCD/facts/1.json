@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-02-inseed-anad-politique-dacces-microdonnees",
+  "facts": [],
+  "systems": [
+    {"system": "Archive Nationale des Données du Tchad (ANAD)", "country_label": "ANAD", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"}
+  ],
+  "note": "Access conditions for statistics microdata at the statistics office's archive; no national open data policy or government open data portal is stated."
+}

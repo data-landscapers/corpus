@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "Décret présidentiel n° 25-320 (dispositif national de gouvernance des données)", "country_label": "Décret sur la gouvernance des données", "class": "other", "platform": "", "owner": "Government of Algeria (presidential decree, JO 30 Dec 2025)", "tiers": "public administrations"}
+  ],
+  "note": "The article covers a national data governance decree (class other) and only has an expert saying the decree specifies no opening or reuse policy; it does not state that DZA has no open data policy and none is being written, and names no open data portal."
+}

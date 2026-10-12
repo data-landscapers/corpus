@@ -1,0 +1,8 @@
+{
+  "slug": "2015-04-01-anp-guine-bissau-portal-dados-abertos",
+  "facts": [],
+  "systems": [
+    {"system": "Dados Abertos (portal da Assembleia Nacional Popular)", "country_label": "Dados Abertos", "class": "other", "platform": "Plone (Interlegis)", "owner": "Assembleia Nacional Popular", "tiers": ""}
+  ],
+  "note": "A parliament's own open data page on its website (four JSON datasets via APIs), not a national open data portal the government runs; no policy is mentioned."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-05-nation-sc-nbs-website-modernisation-eois",
+  "facts": [],
+  "systems": [
+    {"system": "National Bureau of Statistics official website", "country_label": "NBS website", "class": "other", "platform": "", "owner": "National Bureau of Statistics (Seychelles)", "tiers": ""}
+  ],
+  "note": "Two AfDB-financed EOIs to modernise the statistics office's website for public data access; a statistics office website, not a government open data portal or policy."
+}

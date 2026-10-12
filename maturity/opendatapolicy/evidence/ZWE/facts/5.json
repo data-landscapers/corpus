@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-zimbabwe-ecadastre-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe eCadastre", "country_label": "eCadastre Portal Zimbabwe", "class": "other", "platform": "", "owner": "Department of the Surveyor General (Ministry of Lands, Agriculture, Water, Fisheries and Rural Settlement)", "tiers": "national"}
+  ],
+  "note": "A paid land-records portal of one department; no open data policy or national open data portal mentioned."
+}

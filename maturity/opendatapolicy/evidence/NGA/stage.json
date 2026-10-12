@@ -1,0 +1,16 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "portal",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-002;NGA-001",
+   "gaps": "No source from the last three years naming a ministry or agency that has released data under the policy, or counting the datasets or the bodies publishing, is held.",
+   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
+  }
+ ]
+}

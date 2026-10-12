@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-ins-atelier-sdmx-migration-odp-2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Platform (ODP) 2.0", "country_label": "plateforme Open Data Platform (ODP) 2.0", "class": "other", "platform": "Open Data Platform (ODP)", "owner": "Institut National de la Statistique (INS), with African Development Bank support", "tiers": "national statistics office and ANASA"}
+  ],
+  "note": "Statistics office data portal run by the INS with African Development Bank support; no national open data policy or government open data portal is stated."
+}

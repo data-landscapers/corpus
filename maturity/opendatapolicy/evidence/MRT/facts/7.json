@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-24-ami-lancement-portail-electronique-journal-officiel-rim",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail électronique du Journal Officiel",
+   "country_label": "Portail électronique du Journal Officiel",
+   "class": "other",
+   "platform": "",
+   "owner": "Secrétariat général du Gouvernement (World Bank WARDIP support)",
+   "tiers": ""
+  }
+ ],
+ "note": "Legal gazette portal, not an open data portal or policy; no open data statement."
+}

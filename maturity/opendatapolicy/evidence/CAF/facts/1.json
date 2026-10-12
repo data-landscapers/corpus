@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10-caf-icasees-odp-portal-odin-modernisation",
+  "facts": [],
+  "systems": [
+    {"system": "Portail Open Data (ODP)", "country_label": "Portail Open Data de l'ICASEES", "class": "other", "platform": "ODP 1.0 (African Development Bank / Open Data Watch programme)", "owner": "ICASEES (statistics office)", "tiers": "national"}
+  ],
+  "note": "The portal is the statistics office's (ICASEES) data portal, supported by the AfDB, Gates Foundation and World Bank HISWACA SOP2; the document ties it to no open data policy, and states no policy or draft."
+}

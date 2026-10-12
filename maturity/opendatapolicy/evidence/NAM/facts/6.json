@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-13-nsa-nsdi-geoportal-redesign-tender",
+  "facts": [],
+  "systems": [
+    {"system": "National Geographic Portal (Digital Namibia and NSDI Geoportal)", "country_label": "NSDI Geographic Portal", "class": "other", "platform": "PostgreSQL/PostGIS back end; open-source software recommended for the redesign", "owner": "Namibia Statistics Agency", "tiers": "government"}
+  ],
+  "note": "Tender to redesign the statistics agency's spatial data (NSDI) geoportal, launched 2017 under the 2015 NSDI Policy; a statistics office's spatial portal, not an open data policy or national open data portal, so class other and no fact."
+}

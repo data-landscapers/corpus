@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-madagascar-instat-microdata-platform",
+  "facts": [],
+  "systems": [
+    {"system": "INSTAT Madagascar microdata sharing platform (microdata.instat.mg)", "country_label": "Microdonnees INSTAT Madagascar", "class": "other", "platform": "", "owner": "Institut National de la Statistique (INSTAT)", "tiers": "national"}
+  ],
+  "note": "A statistics office's gated microdata platform is class other; the page states nothing on an open data policy or a government open data portal."
+}

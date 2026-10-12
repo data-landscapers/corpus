@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-01-statsbank-2-0-release",
+  "facts": [],
+  "systems": [
+    {"system": "StatsBank 2.0", "country_label": "StatsBank", "class": "other", "platform": "", "owner": "Ghana Statistical Service", "tiers": "national"}
+  ],
+  "note": "A statistics office's data portal upgrade (class other); no open data policy or government open data portal is stated."
+}

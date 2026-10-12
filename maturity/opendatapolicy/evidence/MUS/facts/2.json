@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-22-undp-statistics-mauritius-maustats-platform-launch",
+  "facts": [],
+  "systems": [
+    {"system": "MauStats", "country_label": "MauStats platform", "class": "other", "platform": "open-source, SDMX-based", "owner": "Statistics Mauritius with UNDP", "tiers": "national and local"}
+  ],
+  "note": "MauStats is a statistics office data platform, class other; no national open data policy or government-run open data portal is stated."
+}

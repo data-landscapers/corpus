@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi National Electronic Procurement System (MANePS)", "country_label": "MANePS", "class": "other", "platform": "", "owner": "Public Procurement and Disposal of Public Assets Authority (PPDA) with the Treasury", "tiers": "national procuring and disposing entities (232 of a targeted 250 uploaded annual procurement plans)"}
+  ],
+  "note": "The document is about mandatory use of the e-procurement system MANePS from 1 April 2026; it states nothing about an open data policy or a national open data portal."
+}

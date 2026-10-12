@@ -1,0 +1,16 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "no evidence",
+   "standing": "",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names an open data policy, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
+  }
+ ]
+}

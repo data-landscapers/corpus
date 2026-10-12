@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-23-morocco-open-data-comite-pilotage-11e-reunion",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "The national Open Data steering committee (COPIL), meeting at the Agence de Développement du Digital (ADD), debated a 2026 action plan of the government's Open Data programme that includes enriching and maintaining the national open data portal www.data.gov.ma; the document names no open data policy, strategy or law behind the portal and gives no dataset or publisher count.",
+      "as_of": "2025-12-23",
+      "date_precision": "day",
+      "system": "portail national des données ouvertes (www.data.gov.ma)",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "portail national des données ouvertes (data.gov.ma)",
+      "country_label": "Portail de l'Open Data au Maroc",
+      "class": "policy",
+      "platform": "",
+      "owner": "Government of Morocco; Agence de Développement du Digital (ADD) hosts the national Open Data steering committee",
+      "tiers": "national; producers are public bodies and institutions"
+    }
+  ],
+  "note": "No standing fact: the document records an action plan and a steering committee, not a policy being drafted or adopted; a hackathon, training workshops, API interfacing and Responsables Open Data designations are planned or class other."
+}

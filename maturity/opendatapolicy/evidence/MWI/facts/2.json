@@ -1,0 +1,8 @@
+{
+  "slug": "2022-06-01-malawi-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "MWEITI Open Data Policy 2022 to 2027", "country_label": "Malawi Extractives Industries Transparency Initiative Open Data Policy", "class": "other", "platform": "", "owner": "Malawi Extractive Industries Transparency Initiative (MWEITI)", "tiers": ""}
+  ],
+  "note": "Sector policy: covers extractive-industry (EITI) data only, so class other and no fact."
+}

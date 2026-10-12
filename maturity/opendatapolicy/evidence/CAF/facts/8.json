@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-19-imf-car-egdds-implementation",
+  "facts": [],
+  "systems": [
+    {"system": "National Summary Data Page (NSDP)", "country_label": "National Summary Data Page", "class": "other", "platform": "IMF e-GDDS", "owner": "Institut Centrafricain de Statistique et des Etudes Economiques et Sociales, with BEAC and the Ministry of Finance and Budget", "tiers": "national"}
+  ],
+  "note": "The NSDP is a statistics data portal for macroeconomic data under the IMF e-GDDS, not an open data policy or a government open data portal tied to one; no fact."
+}

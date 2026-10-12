@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Mchumanisi", "country_label": "National Data Exchange Platform", "class": "other", "platform": "", "owner": "Government of Eswatini (Ministry of ICT)", "tiers": "government institutions"}
+  ],
+  "note": "National data governance policy and a proposed inter-government data exchange platform and data marketplace; no open data policy or open data portal stated."
+}

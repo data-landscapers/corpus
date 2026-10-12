@@ -1,0 +1,34 @@
+{
+  "slug": "2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "published",
+      "fact": "The document states the General Information Authority (GIA), which runs the Open Data Platform, had recently launched indicators covering 91 datasets on it; it does not tie the platform to an open data policy, and gives the month only (workshop of 15 February 2026).",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Open Data Platform",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Open Data Platform",
+      "country_label": "Open Data Platform",
+      "class": "policy",
+      "platform": "",
+      "owner": "General Information Authority (GIA)",
+      "tiers": "national"
+    },
+    {
+      "system": "Government Data Governance Policies",
+      "country_label": "Government Data Governance Policies",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority (GIA)",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

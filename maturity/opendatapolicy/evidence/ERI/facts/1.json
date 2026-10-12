@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-eritrea-global-digital-identity-index-govtech",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data portal (eritrea.opendataforafrica.org)", "country_label": "Open Data portal", "class": "other", "platform": "Open Data for Africa", "owner": "", "tiers": ""}
+  ],
+  "note": "The GovTech index (data year 2022) records an open data portal at eritrea.opendataforafrica.org, an Open Data for Africa address (the African Development Bank's platform), with no statement of who runs it or of any open data policy, so it is a systems entry and no fact."
+}

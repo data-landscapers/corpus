@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel",
+  "facts": [],
+  "systems": [
+    {"system": "Portal do Censo 2024", "country_label": "Portal do Censo 2024", "class": "other", "platform": "", "owner": "Instituto Nacional de Estatistica (INE)", "tiers": "national"},
+    {"system": "INE Angola", "country_label": "aplicacao movel INE Angola", "class": "other", "platform": "mobile app", "owner": "Instituto Nacional de Estatistica (INE)", "tiers": "national"}
+  ],
+  "note": "Statistics office census portal and app launched 2026-07-02; class other, no national open data policy or government open data portal stated."
+}

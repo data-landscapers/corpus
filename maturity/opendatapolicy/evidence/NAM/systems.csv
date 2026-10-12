@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Namibia Data Portal,Namibia Data Portal,other,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Central Data Catalog (NADA microdata archive),Central Data Catalog,other,NADA,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Geo Portal,Namibia Geo Portal,other,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,National Spatial Data Infrastructure (NSDI),NSDI,other,,Namibia Statistics Agency with Ministry of Lands and Resettlement,government,2015-03-06-namibia-nsdi-policy-gazette-5684
+NAM,National Geographic Portal (Digital Namibia and NSDI Geoportal),NSDI Geographic Portal,other,PostgreSQL/PostGIS back end; open-source software recommended for the redesign,Namibia Statistics Agency,government,2025-10-13-nsa-nsdi-geoportal-redesign-tender

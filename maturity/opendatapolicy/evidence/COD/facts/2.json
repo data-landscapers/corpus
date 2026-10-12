@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-numerico-bcc-nouveau-site-donnees-economiques",
+  "facts": [],
+  "systems": [
+    {"system": "BCC website 2.0 (economic data pages)", "country_label": "Site internet de la Banque Centrale du Congo", "class": "other", "platform": "", "owner": "Banque Centrale du Congo", "tiers": ""}
+  ],
+  "note": "A central bank's own website relaunch with exchange rates and indicators; not a national open data portal and no open data policy is mentioned."
+}

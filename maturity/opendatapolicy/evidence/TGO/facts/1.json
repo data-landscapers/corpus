@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) 1.0 / ODP 2.0", "country_label": "Plateforme de Données Ouvertes (ODP) du Togo", "class": "other", "platform": "SDMX-based statistical platform", "owner": "INSEED (national statistics office), with sector ministries' focal points", "tiers": "national"}
+  ],
+  "note": "Statistics office data portal (INSEED, migration ODP 1.0 to 2.0, training financed by the World Bank); no open data policy or government-run national open data portal is stated, so no fact."
+}

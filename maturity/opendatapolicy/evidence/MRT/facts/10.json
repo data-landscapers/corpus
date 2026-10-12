@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard",
+  "facts": [],
+  "systems": [
+    {"system": "Data Warehouse portal (Mauritania EITI)", "country_label": "Data Warehouse", "class": "other", "platform": "", "owner": "Mauritania EITI", "tiers": ""},
+    {"system": "2019 decree on systematic disclosure of EITI data", "country_label": "decree mandating systematic disclosure of EITI data", "class": "other", "platform": "", "owner": "Government of Mauritania", "tiers": ""}
+  ],
+  "note": "Only a sector (extractive industries) data decree and an EITI data portal are described: sector open data, class other; no national open data policy or portal is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-12 Icasa moves to mandate national infrastructure database",
+  "facts": [],
+  "systems": [
+    {"system": "national rapid deployment GIS database", "country_label": "national rapid deployment GIS database", "class": "other", "platform": "", "owner": "Icasa (communications regulator)", "tiers": "national"}
+  ],
+  "note": "Draft Icasa regulation obliging operators to file network data with the regulator; a sector database, not an open data policy or portal."
+}

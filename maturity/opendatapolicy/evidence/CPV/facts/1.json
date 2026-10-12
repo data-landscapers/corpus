@@ -1,0 +1,18 @@
+{
+  "slug": "2024-01-01-cabo-verde-commitment-cv0004",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The OGP Independent Reporting Mechanism review says an open data policy draft was discussed with government agencies, per the National Director of State Modernization interviewed on 20 March 2023, and is to be shared with civil society during the 2023-2025 action plan; the plan's commitment CV0004 is to prepare the law establishing the policy between January 2023 and January 2024.",
+     "as_of": "2023-03-20", "date_precision": "day",
+     "system": "Open Data Policy (CV0004)", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "none",
+     "fact": "The document says the open data portal, launched as a goal in the previous action plan, was delayed by COVID-19 and never made public, that it is 'currently under development' under the Ministry of State Modernization and Public Administration (which took the lead from NOSi), with a completion date of January 2025; it does not tie the portal to an adopted policy, and states no ministry publishing on it or dataset count. The document gives no date for this statement, so its published date of 2024-01-01 is used.",
+     "as_of": "2024-01-01", "date_precision": "year",
+     "system": "Open Data Portal", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open Data Portal", "country_label": "Portal de Dados Abertos", "class": "policy", "platform": "", "owner": "Ministry of State Modernization and Public Administration (lead); NOSi developed", "tiers": ""},
+    {"system": "Ministry of Finance budget and accounts open data page", "country_label": "Orçamentos e contas dados abertos", "class": "other", "platform": "", "owner": "Ministry of Finance, National Directorate of Budget and Public Accounting", "tiers": ""}
+  ],
+  "note": ""
+}

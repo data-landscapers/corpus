@@ -1,0 +1,26 @@
+{
+  "slug": "2021-04-01-add-maroc-ouverture-donnees-publiques-manuel-responsables-open-data",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "The Agence de Développement du Digital's April 2021 manual for Responsables Open Data states that Morocco's national open data portal (data.gov.ma) was launched in 2011, hosts datasets of some administrations and references datasets on sectoral portals; it does not say who runs the portal, ties it to no named open data policy, strategy or law, and gives no dataset or publisher count.",
+      "as_of": "2011",
+      "date_precision": "year",
+      "system": "portail national Open Data (data.gov.ma)",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "portail national Open Data (data.gov.ma)",
+      "country_label": "portail national Open Data",
+      "class": "policy",
+      "platform": "",
+      "owner": "not stated; the manual is issued by the Agence de Développement du Digital (ADD), which with the Comité de Pilotage Open Data sets the framework and follows implementation",
+      "tiers": "national; public bodies publish on it directly or connect their own portals to it"
+    }
+  ],
+  "note": "No standing fact: the manual describes the Responsable Open Data role and mentions a future 'décret Open Data' only conditionally, with no drafting reported; the access to information law 31-13 and the data protection law 09-08 are class other."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-09-south-sudan-climis-ipc-population-dashboard",
+  "facts": [],
+  "systems": [
+    {"system": "CLIMIS", "country_label": "CLIMIS Data Warehouse (Climate Information and Early Warning / food security dashboard)", "class": "other", "platform": "", "owner": "South Sudan IPC Technical Working Group / CLIMIS Data Warehouse", "tiers": ""}
+  ],
+  "note": "A sector (food security) data dashboard, not a national open data portal or policy; it mentions no open data policy and no government portal."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-gab-agp-bad-cemac-sdmx-open-data-platform-workshop",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Platform (ODP 1.0 / ODP 2.0)", "country_label": "plateformes nationales ODP", "class": "other", "platform": "ODP (African Development Bank statistical platform)", "owner": "national statistics institutes; CEMAC Commission for the regional level", "tiers": "national"},
+    {"system": "CEMAC-Data", "country_label": "plateforme régionale CEMAC-Data", "class": "other", "platform": "", "owner": "CEMAC Commission", "tiers": "regional"}
+  ],
+  "note": "Regional statistical-platform workshop opened in Libreville; the ODP is a statistics dissemination platform, nothing on a Gabon open data policy or a government open data portal."
+}

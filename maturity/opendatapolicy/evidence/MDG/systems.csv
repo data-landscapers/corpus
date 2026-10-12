@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,Open Data Parlementaire (parlement.mg/opendata),Open Data - Assemblée Nationale de Madagascar,other,read-only REST API with JSON and CSV exports,Assemblée nationale de Madagascar (supported by EISA),national (parliament),2026-08-09-madagascar-assemblee-nationale-open-data-api
+MDG,INSTAT Madagascar microdata sharing platform (microdata.instat.mg),Microdonnees INSTAT Madagascar,other,,Institut National de la Statistique (INSTAT),national,2026-08-09-madagascar-instat-microdata-platform
+MDG,OpenData Madagascar (opendata.mg),MADA OPENDATA,other,Radias|IT (footer credit),not named; the page names no ministry or agency,,2026-08-09-madagascar-opendata-mg-portal

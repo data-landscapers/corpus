@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-tanzania-integrated-statistical-portal-tisp",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Integrated Statistical Portal (TISP)", "country_label": "TISP", "class": "other", "platform": "", "owner": "National Bureau of Statistics / Office of the Chief Government Statistician", "tiers": ""}
+  ],
+  "note": "A statistics office's data portal, with no open data policy mentioned: class other, no fact."
+}

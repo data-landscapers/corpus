@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-igad-capacity-building-programme-regional-statistical-systems-sdmx",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) 2.0", "country_label": "IGAD Open Data Portal 2.0", "class": "other", "platform": "African Development Bank African Information Highway open data platform", "owner": "IGAD Secretariat, Djibouti, with African Development Bank support", "tiers": "regional"}
+  ],
+  "note": "Regional IGAD statistical portal supported by the AfDB, training held in Djibouti; no statement on a Djibouti government open data policy or national portal."
+}

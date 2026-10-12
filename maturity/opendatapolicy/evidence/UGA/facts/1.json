@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-17-national-sdg-task-force-july-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National SDG Open Data Portal", "country_label": "National SDG Open Data Portal", "class": "other", "platform": "", "owner": "Office of the Prime Minister (National SDG Secretariat) publishes the report; the Data Technical Working Group, chaired by the Uganda Bureau of Statistics, reported the uploads; the document does not say who runs the portal", "tiers": "national"}
+  ],
+  "note": "The only portal named is the SDG-specific open data portal (155 SDG indicators uploaded); the document does not tie it to an open data policy or say who runs it, and no open data policy, draft or statement of absence is mentioned, so class other and no fact."
+}

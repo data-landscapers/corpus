@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-04-tunisia-results-report-2023-2025",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The OGP Independent Reporting Mechanism's results report (published 2026-08-04, so dated by publication) says Tunisia's National Open Data Strategy still awaits formal government endorsement.", "as_of": "2026-08", "date_precision": "month", "system": "National Open Data Strategy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Mizaniatouna", "country_label": "Mizaniatouna", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": "national"},
+    {"system": "National Open Data Registry", "country_label": "National Open Data Registry (registre.data.gov.tn)", "class": "", "platform": "", "owner": "Government of Tunisia", "tiers": ""}
+  ],
+  "note": ""
+}

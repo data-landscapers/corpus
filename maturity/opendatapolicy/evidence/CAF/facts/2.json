@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-21-caf-icasees-webinaire-bad-open-data-watch",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme Open Data", "country_label": "Plateforme Open Data de l'ICASEES", "class": "other", "platform": "", "owner": "ICASEES (statistics office)", "tiers": "national"},
+    {"system": "NADA", "country_label": "Plateforme NADA de l'ICASEES", "class": "other", "platform": "NADA", "owner": "ICASEES (statistics office)", "tiers": "national"}
+  ],
+  "note": "Statistics office webinar report on licences and ODIN; the Open Data platform is ICASEES's, tied to no open data policy, and no policy or draft is stated."
+}

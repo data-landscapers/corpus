@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-18-togo-lancement-plateformes-open-data-geoportail",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "A post on opendata.gouv.tg dated 18 December 2024 announces the official launch ceremony on 19 December 2024 of the Open Data and Geoportail Open Data platforms giving access to data on Togo's socio-economic infrastructure; the post carries the MENTD and ATD hashtags but names no policy and no publishing bodies or dataset counts.", "as_of": "2024-12-19", "date_precision": "day", "system": "Open Data platform (opendata.gouv.tg)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open Data platform (opendata.gouv.tg)", "country_label": "Plateforme Open Data du Togo", "class": "policy", "platform": "", "owner": "Government (page on opendata.gouv.tg, hashtags MENTD and ATD)", "tiers": "national"},
+    {"system": "Geoportail Open Data", "country_label": "Geoportail Open Data du Togo", "class": "other", "platform": "", "owner": "Government (launched with the open data platform, hashtags MENTD and ATD)", "tiers": "national"}
+  ],
+  "note": ""
+}

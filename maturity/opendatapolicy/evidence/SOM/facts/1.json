@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-13-somalia-open-data-portal-terms-of-use",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal / Open Data Platform of the SNBS (Data portal of Somalia)", "country_label": "Somalia Open Data Portal", "class": "other", "platform": "", "owner": "Somali National Bureau of Statistics (SNBS)", "tiers": ""}
+  ],
+  "note": "The document is the statistics office's terms of use for its own data portal (CC-BY 4.0); a statistics office portal and a licence are class other, and it ties the portal to no open data policy."
+}

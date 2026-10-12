@@ -1,0 +1,11 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Ministry of ICT and National Guidance's Q4 FY2021/22 vote report lists under its software industry output that a Draft Open Data Policy was disseminated to staff.", "as_of": "2022-06", "date_precision": "month", "system": "Draft Open Data Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "The same report says work continued to operationalise an open data portal and that staff reviewed it and gave input for further development; it names no publishing bodies or dataset count, the ministry's report does not say who runs the portal beyond the ministry's own activity, and it does not tie the portal to the draft policy.", "as_of": "2022-06", "date_precision": "month", "system": "Open data portal", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open data portal", "country_label": "open data portal", "class": "policy", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national"}
+  ],
+  "note": ""
+}

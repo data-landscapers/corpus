@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,ZIMSTAT Open Data Portal (ODP 2.0),Open Data Portal (ODP 2.0),other,SDMX-based; frontend at zw.dbr.afdb.org (AfDB Data Portal),ZIMSTAT (statistics office),national,2025-01-01-zimstat-odp2-tutorial-guide
+ZWE,OpenSDG,OpenSDG portal,other,SDMX-based,ZIMSTAT,national,2025-01-01-zimstat-odp2-tutorial-guide
+ZWE,Open Data Portal 2.0,enhanced Open Data Portal 2.0,other,,ZimStat (statistics office),national,2025-12-05-zimstat-un-dfdi-meeting
+ZWE,OpenSDG,OpenSDG,other,,ZimStat,national,2025-12-05-zimstat-un-dfdi-meeting
+ZWE,National Data Commons,National Data Commons,other,,"Government of Zimbabwe (Ministry of ICT, Postal and Courier Services launched the programme)",,2026-08-04-zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge
+ZWE,National AI and Data Platform,National AI and Data Platform,other,,"Government of Zimbabwe (AI Strategy Implementation Office, Ministry of ICT)",,2026-03-16-mnangagwa-launches-five-year-ai-strategy
+ZWE,Zimbabwe eCadastre,eCadastre Portal Zimbabwe,other,,"Department of the Surveyor General (Ministry of Lands, Agriculture, Water, Fisheries and Rural Settlement)",national,2026-01-01-zimbabwe-ecadastre-portal

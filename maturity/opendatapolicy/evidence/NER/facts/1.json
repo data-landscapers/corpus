@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "ILLIMI", "country_label": "Illimi Niger", "class": "other", "platform": "", "owner": "UN Resident Coordinator's Office in Niger with the government (funded by the UN Trust Fund for Human Security)", "tiers": "national, regional, communal, departmental"}
+  ],
+  "note": "Illimi is a multisector data platform shared between government and the UN, not a national open data portal; no open data policy stated."
+}

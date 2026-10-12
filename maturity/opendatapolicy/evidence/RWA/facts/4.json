@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-07 What will determine the success of Rwanda’s data governance push",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Cenfri reports the public sector data sharing policy is in place and positions government data as open by default, subject to classification and access controls; the document gives no adoption date, so this is dated to its publication.", "as_of": "2026-05", "date_precision": "month", "system": "National Data Sharing Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Data sharing platform", "country_label": "data sharing platform", "class": "other", "platform": "", "owner": "National Institute of Statistics of Rwanda (Data Governance Unit)", "tiers": "central government institutions"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Ministry of Digital Transformation, Innovation and Administration Modernisation (MTNIMA) strategy document, dated June 2023, sets out a national open data and interoperability strategy with three axes and a roadmap, including open by default for public bodies' data; the passages state no cabinet approval, launch or issue date, and say the open data law and the portal's implementing decree are still to be drafted.", "as_of": "2023-06", "date_precision": "month", "system": "Stratégie nationale de données ouvertes et interopérables", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de données ouvertes et interopérables", "country_label": "Stratégie nationale de données ouvertes et interopérables", "class": "policy", "platform": "", "owner": "MTNIMA", "tiers": ""},
+    {"system": "Portail des données ouvertes de la Mauritanie (planned)", "country_label": "portail de données ouvertes", "class": "", "platform": "", "owner": "MTNIMA / AN-ETAT", "tiers": ""}
+  ],
+  "note": "No use fact: the document plans the portal's design and implementation (Priority 2.2) and describes no running portal or published data."
+}

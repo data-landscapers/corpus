@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-14-govt-upgrade-procurement-portal-oc4ids",
+  "facts": [],
+  "systems": [
+    {"system": "Government Procurement Portal (GPP)", "country_label": "Government Procurement Portal", "class": "other", "platform": "", "owner": "Public Procurement and Disposal of Public Assets Authority (PPDA)", "tiers": ""}
+  ],
+  "note": "The GPP is a sector procurement-data portal; the document states nothing on a national open data policy or national open data portal."
+}

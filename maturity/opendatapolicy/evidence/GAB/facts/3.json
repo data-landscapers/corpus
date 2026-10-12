@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-18-cemac-sdmx-odp-workshop-agp",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Platform (ODP 2.0)", "country_label": "plateformes ODP 2.0 des États membres", "class": "other", "platform": "ODP (African Development Bank statistical platform)", "owner": "national statistics institutes", "tiers": "national"},
+    {"system": "Salata", "country_label": "plateforme Salata", "class": "other", "platform": "", "owner": "CEMAC Commission", "tiers": "regional"},
+    {"system": "CEMAC-Data", "country_label": "CEMAC-Data", "class": "other", "platform": "", "owner": "CEMAC Commission", "tiers": "regional"}
+  ],
+  "note": "Regional workshop recommendations on statistical ODP 2.0 migration; nothing on a Gabon open data policy or government open data portal."
+}

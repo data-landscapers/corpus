@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-zimstat-odp2-tutorial-guide",
+  "facts": [],
+  "systems": [
+    {"system": "ZIMSTAT Open Data Portal (ODP 2.0)", "country_label": "Open Data Portal (ODP 2.0)", "class": "other", "platform": "SDMX-based; frontend at zw.dbr.afdb.org (AfDB Data Portal)", "owner": "ZIMSTAT (statistics office)", "tiers": "national"},
+    {"system": "OpenSDG", "country_label": "OpenSDG portal", "class": "other", "platform": "SDMX-based", "owner": "ZIMSTAT", "tiers": "national"}
+  ],
+  "note": "Statistics office data portals (ODP 2.0, OpenSDG), not a government open data policy portal; no open data policy mentioned."
+}

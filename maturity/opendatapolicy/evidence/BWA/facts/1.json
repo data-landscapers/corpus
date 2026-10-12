@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-14-bwa-haus-open-data-hackathon-tor-phase2",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "HAUS's Phase 2 terms of reference for the EU-funded open data hackathons programme in Botswana refer to the anticipated adoption of the national Open Data Policy by Parliament, so the policy is written and not yet adopted; the document states no approval or launch.", "as_of": "2026-03-14", "date_precision": "day", "system": "national Open Data Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "SmartBots Lab", "country_label": "SmartBots Lab", "class": "other", "platform": "", "owner": "Botswana Digital Innovation Hub (BDIH)", "tiers": ""},
+    {"system": "National Open Data Hackathons", "country_label": "National Open Data Hackathon", "class": "other", "platform": "", "owner": "EU Support to Digital Transformation in Botswana project (Expertise France, ESTDEV, HAUS) with BDIH and SmartBots", "tiers": ""}
+  ],
+  "note": "No portal fact: the document names no national open data portal; SmartBots Lab exposes curated open datasets to innovators through sandbox interfaces and is not stated to be a government portal tied to the policy."
+}

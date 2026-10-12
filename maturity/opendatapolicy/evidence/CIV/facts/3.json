@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-23-e-mining-cadastre-portal-wearetech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-mining cadastre portal",
+      "country_label": "e-mining cadastre",
+      "class": "other",
+      "platform": "Landfolio",
+      "owner": "Ministry of Mines, Petroleum and Energy",
+      "tiers": "national"
+    }
+  ],
+  "note": "Sector mining cadastre portal; no national open data policy or portal stated."
+}

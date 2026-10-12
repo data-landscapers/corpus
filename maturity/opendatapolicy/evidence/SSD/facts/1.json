@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-south-sudan-nbs-open-data-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (National Bureau of Statistics)", "country_label": "Open Data Portal", "class": "other", "platform": "", "owner": "National Bureau of Statistics, South Sudan", "tiers": "national"}
+  ],
+  "note": "The portal is a statistics office's data portal (class other); the page names no government-wide open data policy, ministry or agency publishing on a national portal, or dataset count."
+}

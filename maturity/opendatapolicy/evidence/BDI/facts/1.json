@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-10-insbu-accord-de-licence-ouverte-plateforme-donnees-ouvertes",
+  "facts": [],
+  "systems": [
+    {"system": "INSBU Open Data Platform (Plateforme de Données Ouvertes)", "country_label": "Plateforme de Données Ouvertes de l'INSBU", "class": "other", "platform": "", "owner": "Institut National de la Statistique du Burundi (INSBU)", "tiers": ""}
+  ],
+  "note": "Open data licence of the statistics office's own data platform; class other, no policy or government portal stated, and no tie to an open data policy."
+}

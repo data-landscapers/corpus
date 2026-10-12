@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-mocde-data-governance-trends-gambia",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "A Ministry of Communications and Digital Economy presentation lists the Government Open Data Strategy 2024-2027 among The Gambia's policies, strategies and legal frameworks, and says it was developed with the e-Governance Academy of Estonia under the AU-EU D4D Hub; it gives no approval date and also headlines it as 'Open Data Strategy (2023-2026)', and the document's date is its published year 2025.", "as_of": "2025", "date_precision": "year", "system": "Government Open Data Strategy 2024-2027", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Government Open Data Strategy 2024-2027", "country_label": "Government Open Data Strategy 2024-2027", "class": "policy", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "Government Web Portal", "country_label": "Government Web Portal & Mobile App", "class": "other", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "MYGOV - Digital Gambia Platform", "country_label": "MYGOV", "class": "other", "platform": "", "owner": "Government of The Gambia with UNDP (a2i) and ECOWAS support", "tiers": ""}
+  ],
+  "note": "No open data portal or published-data statement; the government web portal and MYGOV are service portals, not open data portals."
+}

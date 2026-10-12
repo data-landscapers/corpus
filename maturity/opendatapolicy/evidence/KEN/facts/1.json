@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kenya Data Marketplace (proposed)",
+   "country_label": "National data marketplace",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information, Communications and the Digital Economy (draft policy)",
+   "tiers": "national"
+  }
+ ],
+ "note": "Kenya's draft data governance policy proposes a marketplace for anonymised non-personal public datasets; a national data policy, not an open data policy or portal."
+}

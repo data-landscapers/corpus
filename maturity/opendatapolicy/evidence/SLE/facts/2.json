@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-sierra-leone-sleiti-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Online Repository", "country_label": "Government of Sierra Leone Online Repository", "class": "other", "platform": "", "owner": "Government of Sierra Leone, drawing on the Mining Cadastre Administration System", "tiers": "national"},
+    {"system": "Open Data Portal", "country_label": "GoSL's new Open Data Portal", "class": "other", "platform": "", "owner": "Government of Sierra Leone", "tiers": "national"}
+  ],
+  "note": "The document is the SLEITI extractives-data open data policy, a sector policy (class other); the Open Data Charter adoption in 2016 and the OGP commitment place nothing, and the portal is named only as new, with no statement that it runs."
+}

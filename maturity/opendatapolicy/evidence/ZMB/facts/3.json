@@ -1,0 +1,11 @@
+{
+  "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Electronic Government Division's National Electronic Government Plan 2023-2026 lists developing an Open Government Data framework as a costed activity (ZMW 2.5 million, with the Ministry of Justice, civil society and cooperating partners named); it states that inadequate legislation and policy framework hampers open data, and gives no date by which the framework is written (as_of is the plan's publication date).", "as_of": "2023-08-17", "date_precision": "day", "system": "Open Government Data framework", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open Government Data framework", "country_label": "Open Government Data (OGD) framework", "class": "policy", "platform": "", "owner": "Electronic Government Division", "tiers": "national"},
+    {"system": "Zamportal", "country_label": "Zamportal", "class": "other", "platform": "", "owner": "Electronic Government Division / Smart Zambia Institute", "tiers": "national"}
+  ],
+  "note": "No open data portal or published-data statement; Zamportal is a public services portal, not an open data portal."
+}

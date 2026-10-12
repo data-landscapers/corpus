@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-instat-mali-accord-licence-donnees-ouvertes",
+  "facts": [],
+  "systems": [
+    {"system": "portail de données ouvertes de l'INSTAT", "country_label": "portail de données ouvertes de l'INSTAT", "class": "other", "platform": "", "owner": "Institut National de la Statistique du Mali (INSTAT)", "tiers": ""}
+  ],
+  "note": "An INSTAT open data licence and a statistics-office portal: class other, no national open data policy or government portal stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-20-icasees-sdmx-odp2-cemac-delegation-centrafricaine",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Platform (ODP) 2.0",
+      "country_label": "ODP 2.0",
+      "class": "other",
+      "platform": "ODP 2.0 (AfDB Open Data Platform)",
+      "owner": "ICASEES with AfDB, CEMAC, UNFPA workshop support",
+      "tiers": "national statistics office"
+    }
+  ],
+  "note": "Statistics-office ODP migration workshop; no open data policy or government portal fact."
+}

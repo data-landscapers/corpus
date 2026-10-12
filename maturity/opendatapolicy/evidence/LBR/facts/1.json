@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-01-liberia-lisgis-wen-survey-2024-public-use-dataset",
+  "facts": [],
+  "systems": [
+    {"system": "LISGIS microdata catalogue (microdata.lisgislr.org)", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Liberia Institute of Statistics and Geo-Information Services (LISGIS)", "tiers": ""}
+  ],
+  "note": "Survey catalogue entry for the WEN Survey 2024 on the statistics office's microdata catalogue; it states nothing about an open data policy or a government open data portal."
+}

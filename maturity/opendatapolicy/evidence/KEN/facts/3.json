@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-07-state-plans-ecitizen-data-sale-nation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kenya Data Marketplace (proposed)",
+   "country_label": "National data marketplace",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information, Communication and ICT and the Digital Economy; Data Governance Office",
+   "tiers": "national"
+  }
+ ],
+ "note": "Proposed State-run marketplace under the National Data Governance Policy; not an open data policy or portal."
+}

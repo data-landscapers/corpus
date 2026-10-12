@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-11-geoportail-grand-abidjan-ville-intelligente-fratmat",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Géoportail d'urbanisme du Grand Abidjan",
+      "country_label": "Géoportail du Grand Abidjan",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère de l'Urbanisme, du Logement et du Cadre de vie, with JICA",
+      "tiers": "national"
+    }
+  ],
+  "note": "Urban-planning geoportal project, a sector portal; no national open data policy or portal stated."
+}

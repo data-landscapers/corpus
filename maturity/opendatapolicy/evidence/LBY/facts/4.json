@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-20 Libya's GIA launches national government-reports platform LY-GOVREP",
+  "facts": [],
+  "systems": [
+    {
+      "system": "LY-GOVREP",
+      "country_label": "national platform for Libyan government reports",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority (GIA), with the Inspection and Follow-Up Department of the Cabinet",
+      "tiers": "national"
+    }
+  ],
+  "note": "LY-GOVREP is a government-reports and oversight platform, not an open data portal; the document mentions no open data policy or portal."
+}

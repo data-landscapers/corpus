@@ -1,0 +1,10 @@
+{
+  "slug": "2017-05-01-national-open-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "The Ministry of Technology, Communication and Innovation issued the National Open Data Policy in May 2017, prepared with the Central Informatics Bureau, the Data Protection Office and the Attorney General's Office, setting 'open by default' for public datasets and adopting the CC BY 4.0 licence; the document carries no end date.",
+     "as_of": "2017-05", "date_precision": "month", "system": "National Open Data Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "No portal or publishing body is stated in the text held (it breaks off in the licence section); it says 25+ quick-win datasets would be released as ready, which is an intention, so no use fact."
+}

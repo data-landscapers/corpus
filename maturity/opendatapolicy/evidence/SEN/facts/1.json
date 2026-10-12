@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-25-aps-ansd-open-data-platform-2-0-louga",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Platform 2.0 (ODP 2.0)", "country_label": "plateforme Open Data (ODP) 2.0", "class": "other", "platform": "", "owner": "Agence nationale de la statistique et de la demographie (ANSD)", "tiers": "regional technical services (Louga region)"}
+  ],
+  "note": "The only system is the statistics office's (ANSD) data platform, class other; the article ties it to no open data policy and states no adoption, draft, dataset count or named publishing body."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-18-zambia-launches-znsdi-policy-geoportal",
+  "facts": [],
+  "systems": [
+    {"system": "Zambia National Spatial Data Infrastructure (ZNSDI) Policy 2026-2030", "country_label": "ZNSDI Policy", "class": "other", "platform": "", "owner": "Electronic Government Division (National NSDI Lead Authority)", "tiers": "national"},
+    {"system": "ZNSDI national geoportal (map server, map viewer, GeoNetwork catalogue)", "country_label": "ZNSDI portal", "class": "other", "platform": "GeoNetwork (open source)", "owner": "Electronic Government Division", "tiers": "national"}
+  ],
+  "note": "A sector spatial-data policy and geospatial portal (non-sensitive spatial data open by default, 58 layers on the existing platform); not a national open data policy or open data portal, so no fact."
+}

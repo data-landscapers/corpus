@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-27 Introduction to the Rwanda National Data Sharing Policy",
+  "facts": [],
+  "systems": [
+    {"system": "Data Sharing Platform", "country_label": "Data Sharing Platform", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": "government agencies"}
+  ],
+  "note": "Reports the government approved a National Data Sharing Policy for sharing among agencies; it does not say the policy sets a rule that public bodies publish data openly, only that it will facilitate access to open data."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2026-06-08",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Draft Final National Data Governance Policy (May 2026)",
+      "country_label": "National Data Governance Policy",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "national"
+    },
+    {
+      "system": "Data marketplace",
+      "country_label": "national data exchange",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "eCitizen",
+      "country_label": "eCitizen",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    }
+  ],
+  "note": "Data governance policy licenses anonymised datasets for revenue; the document does not say it sets a rule that public bodies publish data openly, so no fact."
+}

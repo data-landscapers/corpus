@@ -1,0 +1,11 @@
+{
+  "slug": "2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Government decree no. 2021-3 of 6 January 2021, issued by the Head of Government after deliberation of the Council of Ministers, organises the publication of public data under the open-by-default principle for public bodies; the document states no end or replacement.", "as_of": "2021-01-06", "date_precision": "day", "system": "Décret gouvernemental n° 2021-3 relatif aux données publiques ouvertes", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal", "fact": "The decree makes the e-Government Unit of the Presidency of the Government administer the national open data portal and requires public bodies to publish their datasets on it (art. 4 and 9), so the portal is tied to the decree; the document does not report the portal as running or any body as having published.", "as_of": "2021-01-06", "date_precision": "day", "system": "National open data portal (portail national des données ouvertes)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Portail national des données ouvertes", "country_label": "البوابة الوطنية للبيانات المفتوحة", "class": "policy", "platform": "", "owner": "e-Government Unit (Presidency of the Government)", "tiers": "national; public bodies under art. 2 of organic law 2016-22"}
+  ],
+  "note": ""
+}

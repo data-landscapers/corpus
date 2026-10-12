@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-ppra-ocds-publication-policy",
+  "facts": [],
+  "systems": [
+    {"system": "NeST Open Contracting Data Portal", "country_label": "NeST Open Contracting Data Portal", "class": "other", "platform": "OCDS", "owner": "Public Procurement Regulatory Authority (PPRA)", "tiers": ""},
+    {"system": "National e-Procurement System of Tanzania (NeST)", "country_label": "NeST", "class": "other", "platform": "", "owner": "Public Procurement Regulatory Authority (PPRA)", "tiers": ""}
+  ],
+  "note": "A sector (procurement) open data policy and portal run by PPRA: class other, no fact."
+}

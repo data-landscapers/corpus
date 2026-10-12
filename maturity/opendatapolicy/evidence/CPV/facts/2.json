@@ -1,0 +1,15 @@
+{
+  "slug": "2023-11-17-cpv-ministra-edna-oliveira-comissao-especializada-oe2024",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "use", "value": "none",
+     "fact": "The Minister of State Modernisation and Public Administration told parliament's first specialised committee on 16 November 2023 that developing an open data portal is a 2024 project of the Digital Transformation of the Public Sector programme, financed by the World Bank, so no portal was running; the document ties it to no open data policy and names no publishing body or dataset count.",
+     "as_of": "2023-11-16", "date_precision": "day",
+     "system": "Open data portal (portal de dados abertos)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Open data portal (portal de dados abertos)", "country_label": "portal de dados abertos", "class": "policy", "platform": "", "owner": "Ministry of State Modernisation and Public Administration (programme financed by the World Bank)", "tiers": ""},
+    {"system": "Public bodies database", "country_label": "base de dados dos organismos públicos", "class": "", "platform": "", "owner": "Ministry of State Modernisation and Public Administration", "tiers": ""},
+    {"system": "Integrated public services portal", "country_label": "novo portal de prestação de serviços públicos integrados", "class": "other", "platform": "", "owner": "Ministry of State Modernisation and Public Administration", "tiers": ""}
+  ],
+  "note": "Planned 2024 portal is the only open-data item; the data governance diploma for public administration is not an open data policy and gives no standing fact."
+}

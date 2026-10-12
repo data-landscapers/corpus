@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-15-sgdd-a-imf-open-data-national-summary-page-lanation",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme Open Data de Djibouti", "country_label": "Plateforme Open Data de Djibouti", "class": "other", "platform": "", "owner": "African Development Bank (access granted by the BAD; document does not say the government runs it)", "tiers": "national statistics and central bank teams, Ministry of Budget"},
+    {"system": "Page Nationale Récapitulative de Données (PNRD)", "country_label": "Page Nationale Récapitulative de Données", "class": "other", "platform": "IMF enhanced General Data Dissemination System (SGDD-a)", "owner": "Banque Centrale de Djibouti with INSTAD and Ministry of Budget, with IMF and BAD", "tiers": "national"}
+  ],
+  "note": "Macroeconomic summary data page under the IMF SGDD-a, hosted on a platform the document ties to the African Development Bank; no open data policy or government-run portal is stated."
+}

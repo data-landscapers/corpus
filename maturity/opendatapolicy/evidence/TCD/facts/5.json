@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-01-inseed-portails-de-donnees-et-chiffres-cles",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) du Tchad", "country_label": "Open Data Portal (ODP)", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"},
+    {"system": "Page Nationale Récapitulative des Données (PNRD)", "country_label": "PNRD", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"},
+    {"system": "Archive Nationale des Données Statistiques", "country_label": "Archive Nationale des Données Statistiques", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"},
+    {"system": "Suivi des Indicateurs ODD (Goal Tracker)", "country_label": "Goal Tracker", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"},
+    {"system": "Suivi des Indicateurs du PND Tchad Connexion2030", "country_label": "Tchad Connexion2030 tracker", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"}
+  ],
+  "note": "Statistics office's own data portals, listed by name only; the page ties none to an open data policy and states no policy."
+}

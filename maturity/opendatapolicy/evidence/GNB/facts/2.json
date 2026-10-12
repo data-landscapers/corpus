@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-08-imf-pr24262-guinea-bissau-implements-egdds-national-summary-data-page",
+  "facts": [],
+  "systems": [
+    {"system": "National Summary Data Page on the national Open Data Platform", "country_label": "National Summary Data Page", "class": "other", "platform": "African Development Bank Open Data Platform", "owner": "Provided by the African Development Bank; data supplied by the National Institute of Statistics, the Ministry of Finance and the BCEAO", "tiers": "national"}
+  ],
+  "note": "Portal is a donor-provided (AfDB) statistics portal under the IMF e-GDDS, class other; no open data policy is tied to it."
+}

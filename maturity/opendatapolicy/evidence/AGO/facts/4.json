@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos",
+  "facts": [],
+  "systems": [
+    {"system": "portal do INE", "country_label": "Portal do INE (www.ine.gov.ao)", "class": "other", "platform": "", "owner": "Instituto Nacional de Estatistica", "tiers": "national"}
+  ],
+  "note": "Census 2024 synthesis report; it says only that results are on the statistics office portal, which is class other, and states nothing on an open data policy."
+}

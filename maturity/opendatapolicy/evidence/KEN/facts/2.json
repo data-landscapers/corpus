@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-08 Kenya proposes marketplace for State data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kenya Data Marketplace (proposed)",
+   "country_label": "National data marketplace",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information, Communications and the Digital Economy; Data Governance Office",
+   "tiers": "national"
+  }
+ ],
+ "note": "Proposed State-run data marketplace under the National Data Governance Policy; licensing, not an open data portal."
+}

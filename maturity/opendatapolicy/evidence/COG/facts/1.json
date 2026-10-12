@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-05-vox-congo-accord-partenariat-capitaliser-donnees-statistiques-open-data-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal", "country_label": "Open Data Portal", "class": "other", "platform": "", "owner": "Institut national de la statistique (INS)", "tiers": "national; INS and sectoral ministries and other agencies load statistics onto it"}
+  ],
+  "note": "The only open data system named is the statistics institute's own Open Data Portal; it is a statistics office portal and the article ties it to no open data policy, so no fact."
+}

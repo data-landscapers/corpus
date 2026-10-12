@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-madagascar-assemblee-nationale-open-data-api",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Parlementaire (parlement.mg/opendata)", "country_label": "Open Data - Assemblée Nationale de Madagascar", "class": "other", "platform": "read-only REST API with JSON and CSV exports", "owner": "Assemblée nationale de Madagascar (supported by EISA)", "tiers": "national (parliament)"}
+  ],
+  "note": "A parliament's own open data page and API (five datasets, Licence Ouverte v2.0); not a national government portal and tied to no open data policy, so a systems entry only."
+}

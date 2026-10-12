@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-inseed-archive-nationale-microdonnees",
+  "facts": [],
+  "systems": [
+    {"system": "Archive nationale de microdonnées", "country_label": "Archive nationale de microdonnées", "class": "other", "platform": "NADA", "owner": "INSEED (national statistics office)", "tiers": "national"}
+  ],
+  "note": "A statistics office's microdata archive with 15 datasets; the page ties it to no open data policy, so no fact."
+}

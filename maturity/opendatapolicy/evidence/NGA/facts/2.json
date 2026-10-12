@@ -1,0 +1,16 @@
+{
+  "slug": "2018-07-01-nigeria-open-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "The Federal Ministry of Communications issued the Nigeria Open Data Policy in July 2018, applying to all federal ministries, departments and agencies and requiring them to release data open by default.",
+     "as_of": "2018-07", "date_precision": "month", "system": "Nigeria Open Data Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "portal",
+     "fact": "The policy says Data.gov.ng has been developed as the national catalogue of open data, requires agencies to link their datasets to it and to post a Rolling Release Schedule on it; the document does not name who runs the portal, and ties it to the policy; it names no publishing ministry and gives no dataset count (document published 2018-07).",
+     "as_of": "2018-07", "date_precision": "month", "system": "Data.gov.ng", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Nigeria Open Data Policy", "country_label": "Nigeria Open Data Policy", "class": "policy", "platform": "", "owner": "Federal Ministry of Communications", "tiers": "federal"},
+    {"system": "Data.gov.ng", "country_label": "Data.gov.ng", "class": "policy", "platform": "", "owner": "", "tiers": "federal"}
+  ],
+  "note": ""
+}

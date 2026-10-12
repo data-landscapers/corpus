@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-08-egypt-national-open-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The National Council for Artificial Intelligence, chaired by the communications and IT minister, formally adopted Egypt's Open Data Policy, drafted by MCIT, as a reference document for all government entities; it entered into force in August 2025 as a transitional framework pending a data governance law.", "as_of": "2025-08", "date_precision": "month", "system": "Egypt Open Data Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Unified national open data portal", "country_label": "unified national open data portal", "class": "", "platform": "", "owner": "MCIT", "tiers": "national"}
+  ],
+  "note": "No use fact: the document says MCIT has started developing a unified national open data portal, not that one is running or publishing data."
+}

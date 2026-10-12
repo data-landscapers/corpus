@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "unplaced",
+   "standing": "",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.",
+   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
+  }
+ ]
+}

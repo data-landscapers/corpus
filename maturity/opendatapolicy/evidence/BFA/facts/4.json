@@ -1,0 +1,26 @@
+{
+  "slug": "2015-11-10-bfa-mdenp-arrete-bodi-open-data-initiative",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "A joint order of the digital economy minister and the economy and finance minister, signed 10 November 2015, created the Burkina Open Data Initiative (BODI) project to promote releasing non-sensitive government data for reuse, with ANPTIC as executing agency; the order sets the project's closing date at 31 December 2019 unless otherwise provided, and the document states no later end or replacement.",
+      "as_of": "2015-11-10",
+      "date_precision": "day",
+      "system": "Initiative Open Data du Burkina (BODI)",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Initiative Open Data du Burkina (BODI)",
+      "country_label": "Initiative Open Data du Burkina (BODI)",
+      "class": "policy",
+      "platform": "a central platform for publishing data, named as an objective, not described as running",
+      "owner": "Ministry of Digital Economy and Posts, with ANPTIC as executing agency; financial oversight by the Ministry of Economy and Finance",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

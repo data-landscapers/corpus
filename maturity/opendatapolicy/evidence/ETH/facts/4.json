@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-06-ess-statistical-data-dissemination-and-access",
+  "facts": [],
+  "systems": [
+    {"system": "STATBANK", "country_label": "STATBANK", "class": "other", "platform": "", "owner": "Ethiopian Statistics Service", "tiers": ""},
+    {"system": "Microdata repositories and web portals", "country_label": "microdata repositories, web portals", "class": "other", "platform": "", "owner": "Ethiopian Statistics Service", "tiers": ""}
+  ],
+  "note": "Describes a statistics office's data dissemination department and its portals; no national open data policy or government open data portal is stated."
+}

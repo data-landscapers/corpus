@@ -1,0 +1,6 @@
+{
+  "slug": "2026-06-24-techafricanews-egov-portal",
+  "facts": [],
+  "systems": [{"system":"egov.sc","country_label":"Seychelles Government Portal","class":"other","platform":"","owner":"Department of Information and DICT","tiers":"national"}],
+  "note": "egov.sc is a government services portal, not an open data portal; no open data policy or portal is stated."
+}

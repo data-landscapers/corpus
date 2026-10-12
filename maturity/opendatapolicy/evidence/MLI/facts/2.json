@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-instat-mali-atelier-sdmx-migration-odp-2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) 2.0", "country_label": "plateforme Open Data Portal (ODP) 2.0", "class": "other", "platform": "ODP 2.0", "owner": "Institut National de la Statistique du Mali (INSTAT), with UEMOA Commission and AfDB support", "tiers": ""}
+  ],
+  "note": "A statistics office's data portal migration workshop: class other, no national open data policy or government portal stated."
+}

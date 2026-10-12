@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue",
+  "facts": [],
+  "systems": [
+    {"system": "Namibia Data Portal", "country_label": "Namibia Data Portal", "class": "other", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""},
+    {"system": "Central Data Catalog (NADA microdata archive)", "country_label": "Central Data Catalog", "class": "other", "platform": "NADA", "owner": "Namibia Statistics Agency", "tiers": ""},
+    {"system": "Namibia Geo Portal", "country_label": "Namibia Geo Portal", "class": "other", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": "Statistics agency's own data portals under the Statistics Act 2011; not a government open data portal and no open data policy is stated, so class other only."
+}

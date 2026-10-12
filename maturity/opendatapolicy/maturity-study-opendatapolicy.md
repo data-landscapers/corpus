@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-opendatapolicy.md — the nineteenth maturity study: the open data policy, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the four questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: opendatapolicy
@@ -75,16 +75,24 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 
 ## 6. Token ceiling
 
-**50 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The reading is smaller than the data governance study's, which spent 43.2 million against 50; the third read is one call a country and the parent writes the summaries. Earlier studies hold the names of open data policies and portals but no fact that answers these questions, so nothing is carried.
+**50 million.** The run checks after every fan-out and stops at it. The parent writes the summaries. No earlier study holds a fact that answers these questions, so nothing is carried.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**, in the order of §5.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact that would set stage 4 or 5; two drafters compared on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 49 `about` stories and the 108 news stories the current cells cite, together; then, for the 44 countries with no answer to question 1, one call of the newest held news and the 28 texts their current cells cite. 135 calls, 48 facts. The rest of the held news was not read: the count stood at 39 million tokens of 50.
+- [x] **D3. Staged**: one at stage 4, five at 3, eight at 2, none at 1 or 5, seven unplaced and 33 with no evidence, as at 2026-09-30; four corrections by the parent; agreement 14 of 14, every staged cell.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
 
+**Decided in the run**:
+
+- **An order creating a project to promote open data is not a policy** (Burkina Faso), nor is one clause in a technical standard (Zambia) or a plan budgeting for a framework (Zambia).
+- **The open data rule in a national data policy counts** (Rwanda, adopted; Mozambique, draft).
+- **A strategy the ministry lists among its policies in force is adopted** (The Gambia), with no approval date held.
+- **A decree naming who is to run the portal is not a portal at work** (Tunisia). **A policy saying its catalogue has been built and is visited is** (Nigeria); the second drafter called it doubtful.
+- **A draft strategy written under an adopted decree does not undo the decree** (Tunisia).
+- **Seven countries hold a portal and no policy** and are unplaced: Côte d'Ivoire, the Democratic Republic of the Congo, Eswatini (a statement that it has no portal), Malawi, Morocco, Sierra Leone and Togo.
 ## Boundary
 
 Nothing here writes to `C:\OSINT` or to `raw/`.

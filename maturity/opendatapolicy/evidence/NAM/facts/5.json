@@ -1,0 +1,8 @@
+{
+  "slug": "2015-03-06-namibia-nsdi-policy-gazette-5684",
+  "facts": [],
+  "systems": [
+    {"system": "National Spatial Data Infrastructure (NSDI)", "country_label": "NSDI", "class": "other", "platform": "", "owner": "Namibia Statistics Agency with Ministry of Lands and Resettlement", "tiers": "government"}
+  ],
+  "note": "Gazetted 2015 spatial data sector policy, not an open data policy; class other."
+}
