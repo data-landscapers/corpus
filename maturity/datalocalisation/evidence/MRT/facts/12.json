@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nouakchott data centre",
+      "country_label": "centre de données de Nouakchott",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "APD session discussed hosting of AN-ETAT data and accreditation of the data centre; the text states no rule or decision content."
+}

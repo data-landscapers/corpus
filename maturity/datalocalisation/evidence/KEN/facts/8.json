@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-09-cioafrica-nobus-nairobi-availability-zone",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nobus-EA-AZ1",
+      "country_label": "Nobus-EA-AZ1",
+      "class": "other",
+      "platform": "",
+      "owner": "Nobus Cloud Services (Nkponani Limited)",
+      "tiers": ""
+    },
+    {
+      "system": "Data Protection Act",
+      "country_label": "Data Protection Act",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Company cloud launch; names conditions on transfers abroad and unspecified Central Bank residency expectations, which are noted, not a rule."
+}

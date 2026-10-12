@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-31-digital-realty-opens-accra-data-center-graphic",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Communications Minister Sam George said at the ACR2 opening that Ghana has a localisation policy under which local data and traffic processed on clouds outside the country will have to be hosted in Ghana; the document gives no instrument name or compliance date.", "as_of": "2025-10-31", "date_precision": "day", "system": "Ghana localisation policy", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Digital Realty ACR2 data center, Accra", "country_label": "ACR2", "class": "other", "platform": "PlatformDIGITAL", "owner": "Digital Realty", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-27-nga-punchng-cbn-data-localisation-skills-security",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Punch reports that a circular issued on 15 June 2026 by the CBN's Payments System Supervision Department directs financial institutions and payment participants to store and manage payment transaction data generated in Nigeria in Nigeria, with a deadline of 1 January 2027.", "as_of": "2026-06-15", "date_precision": "day", "system": "CBN circular on payment data localisation", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "The circular was issued by the Central Bank of Nigeria's Payments System Supervision Department to the financial institutions and payment participants it supervises.", "as_of": "2026-06-15", "date_precision": "day", "system": "CBN circular on payment data localisation", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "CBN circular on payment data localisation", "country_label": "CBN data localisation rule", "class": "rule", "platform": "", "owner": "Central Bank of Nigeria, Payments System Supervision Department", "tiers": "national; banks, fintechs, payment operators"},
+    {"system": "NIMC national identity database", "country_label": "national identity database", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": "national"}
+  ],
+  "note": ""
+}

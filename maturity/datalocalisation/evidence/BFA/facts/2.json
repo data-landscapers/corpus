@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-03-tinto-hebergement-national-souverainete",
+  "facts": [],
+  "systems": [
+    {"system": "Circulaire du Premier ministre sur l'hébergement national", "country_label": "circulaire du Premier ministre enjoignant de privilégier l'hébergement au niveau national", "class": "other", "platform": "", "owner": "Premier ministre", "tiers": "administrations publiques"},
+    {"system": "Dérogation spéciale pour l'hébergement à l'étranger des données de santé (loi sur la protection des données à caractère personnel)", "country_label": "dérogation spéciale", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Interview of 2026-03-03: a Prime Minister's circular urges national hosting ('privilégier') and the ministry weighs hosting location when reviewing platform requests, but no binding must-store-in-country rule is stated; the health-data derogation is a condition on sending data abroad. Both noted as other."
+}

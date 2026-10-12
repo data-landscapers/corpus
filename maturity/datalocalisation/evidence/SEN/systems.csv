@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,Diamniadio National Datacenter (DND),Data Center National de Diamniadio,other,Huawei-built,Government of Senegal,state,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength au Senegal,other,Amazon Web Services,Sonatel,finance; health; telecoms; public sector,2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength Zone,other,Amazon Web Services,Orange,telecoms; finance; public sector; healthcare,2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength Zone,other,Amazon Web Services,Orange Middle East & Africa,telecoms; finance; public sector; healthcare,2024-05-30-orange-omea-aws-wavelength-morocco-senegal

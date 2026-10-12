@@ -1,0 +1,23 @@
+{
+  "slug": "2024-10-29-togo-top-news-st-digital-launches-its-100-african-cloud-offering",
+  "facts": [],
+  "systems": [
+    {
+      "system": "cloudstore.africa",
+      "country_label": "Cloud 100% africain",
+      "class": "other",
+      "platform": "VPS",
+      "owner": "ST Digital",
+      "tiers": ""
+    },
+    {
+      "system": "Lomé Data Centre",
+      "country_label": "Lomé Data Centre (LDC)",
+      "class": "other",
+      "platform": "",
+      "owner": "SIN (state-owned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Company says data ought to be stored locally; a statement, not a rule."
+}

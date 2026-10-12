@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-08 China funds Namibia digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AI-ready national data centre",
+      "country_label": "national data centre",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "Ministry of ICT / Ministry of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "No localisation rule stated; mentions an AI-ready national data centre and data sovereignty aim only."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud",
+  "facts": [],
+  "systems": [
+    {"system": "Gotera Cloud (G-Cloud)", "country_label": "Gotera Cloud (G-Cloud)", "class": "other", "platform": "", "owner": "Information Network Security Administration (INSA)", "tiers": "central government institutions; e-government, digital finance and other sectors"}
+  ],
+  "note": "INSA announces a home-grown government cloud framed as data localisation; it states no rule requiring data to stay in the country, so no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-26-aws-launches-new-aws-local-zones-location-in-lagos-nigeria-techcabal",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Local Zones Lagos", "country_label": "AWS Local Zones location in Lagos", "class": "other", "platform": "AWS", "owner": "Amazon Web Services", "tiers": "private sector; healthcare, financial services and public sector named as possible users"}
+  ],
+  "note": "A cloud launch that mentions data residency in general terms; it states no Nigerian rule."
+}

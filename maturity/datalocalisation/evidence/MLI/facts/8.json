@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-02 Mali opens Tier III data center in Bamako amid regional push to keep data at home",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre (Tier III, Bamako)",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Economy and Administrative Modernization",
+   "tiers": "e-government platforms, state databases, later private sector"
+  }
+ ],
+ "note": "Data centre and planned gradual repatriation described; no rule, enforcer or application stated."
+}

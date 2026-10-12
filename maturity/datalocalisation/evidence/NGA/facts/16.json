@@ -1,0 +1,36 @@
+{
+  "slug": "2026-10-08-nga-cbn-insists-on-january-1-2027-deadline-for-banks-fintechs-to-store-pay",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Central Bank of Nigeria's Payments System Supervision Department issued Circular PSS/DIR/PUB/CIR/001/004 on 15 June 2026 requiring banks, fintechs and other licensed payment operators to store and manage payment transaction data generated in Nigeria in Nigeria, with full compliance due 1 January 2027 and the CBN saying that date has not changed.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "CBN payment data localisation directive (Circular PSS/DIR/PUB/CIR/001/004)",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "enforcer",
+      "fact": "The CBN, which issued the circular for the payment institutions it licenses, says it will monitor compliance and may impose supervisory sanctions, though the circular sets no penalty schedule (reported 8 October 2026).",
+      "as_of": "2026-10-08",
+      "date_precision": "day",
+      "system": "CBN payment data localisation directive (Circular PSS/DIR/PUB/CIR/001/004)",
+      "class": "rule"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Open Access Data Centres",
+      "country_label": "Open Access Data Centres",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lomé Data Centre",
+      "country_label": "Lomé Data Centre (LDC)",
+      "class": "other",
+      "platform": "",
+      "owner": "SIN (state-owned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Private cloud partnership hosting local companies' data in-country is a company arrangement, not a rule; no rule stated."
+}

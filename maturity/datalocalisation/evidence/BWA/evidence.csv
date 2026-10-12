@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BWA-001,BWA,rule,standing,in-force,"Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement.",2025-11-25,day,Data Protection Act,rule,2025-11-25-govt-moves-to-in-house-local-data,https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news

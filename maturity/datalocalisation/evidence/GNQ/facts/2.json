@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-15-guinea-ecuatorial-cniapge-junta-directiva-centro-de-datos-estatal",
+  "facts": [],
+  "systems": [
+    {"system": "centro de datos (state data centre of CNIAPGE)", "country_label": "centro de datos del CNIAPGE", "class": "other", "platform": "", "owner": "CNIAPGE (Centro Nacional para la Informatización de la Administración Pública)", "tiers": "central government"}
+  ],
+  "note": "The 2025-04-15 board report names a state data centre and centralised IT procurement but states no rule that data be kept in the country and no statement that none exists."
+}

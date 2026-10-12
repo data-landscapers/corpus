@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Analysis states that Central Bank of Nigeria circular PSS/DIR/PUB/CIR/001/004 of 15 June 2026 requires payment data to be stored and managed in Nigeria by January 2027.", "as_of": "2026-06-15", "date_precision": "day", "system": "CBN payments circular PSS/DIR/PUB/CIR/001/004", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "Analysis presents the CBN as issuer of the June 2026 payments circular whose data localisation pillar binds payment institutions, and expects CBN supervisory discretion over the deadline.", "as_of": "2026-06-15", "date_precision": "day", "system": "CBN payments circular PSS/DIR/PUB/CIR/001/004", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "MTN Sifiso Dabengwa Data Centre", "country_label": "Sifiso Dabengwa Data Centre", "class": "other", "platform": "", "owner": "MTN Nigeria", "tiers": "private sector"}
+  ],
+  "note": ""
+}

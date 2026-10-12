@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-08-gabon-sovereign-datacenter-technical-spec",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital national sovereign data centre, Nkok",
+      "country_label": "Data Center National et souverain du Gabon",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "national"
+    }
+  ],
+  "note": "Government-stated aim of local hosting; no rule stated."
+}

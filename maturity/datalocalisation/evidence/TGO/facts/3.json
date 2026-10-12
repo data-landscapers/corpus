@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-04-uneca-atpc-dtri-togo-country-profile",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "none", "fact": "The UNECA ATPC country profile states that Togo has no restrictions on data localisation, with no requirement for local storage or local processing including infrastructure requirements, and that the regulatory framework does not specifically address where personal data is stored; the PDF carries no date, so the as_of is the document's published date, and the latest event it reports is June 2021.", "as_of": "2026-09-04", "date_precision": "day", "system": "Data localisation rule (none stated)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Law No. 2019-014 on the protection of personal data, articles 28-31 (conditional cross-border transfer regime)", "country_label": "Loi n°2019-014 relative à la protection des données à caractère personnel", "class": "other", "platform": "", "owner": "Instance de Protection des Données à Caractère Personnel (IPDCP), described as not yet operational", "tiers": ""}
+  ],
+  "note": ""
+}

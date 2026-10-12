@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force",
+     "fact": "A DCDT presentation to Parliament's communications committee, dated 24 February 2026, states that the National Data and Cloud Policy provides that government data carrying content on national security and the sovereignty of the Republic shall be stored only in digital infrastructure located within South Africa's borders.",
+     "as_of": "2026-02-24", "date_precision": "day",
+     "system": "National Policy on Data and Cloud", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "National Policy on Data and Cloud", "country_label": "National Data and Cloud Policy", "class": "rule", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national government"},
+    {"system": "SITA data centres (Centurion and Beta)", "country_label": "SITA data centres", "class": "other", "platform": "", "owner": "State Information Technology Agency (SITA)", "tiers": "national government"}
+  ],
+  "note": "SITA is named as the authority to source government data and cloud infrastructure and monitor service levels, not as checking compliance with the storage rule; no application of the rule is stated, so no use fact."
+}

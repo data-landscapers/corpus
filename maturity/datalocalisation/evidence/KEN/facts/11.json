@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Microsoft/G42 Olkaria data centre",
+      "country_label": "Microsoft/G42 Olkaria data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft / G42",
+      "tiers": ""
+    }
+  ],
+  "note": "Stalled data centre project; no localisation rule stated."
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2025-02-24-intic-proposta-regulamento-computacao-em-nuvem-consulta-publica",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "draft",
+     "fact": "INTIC's draft Regulamento dos Servicos de Computacao em Nuvem, in public consultation from 2025-02-24 (day inferred from the consultation window, the document's published date), says in Art. 11(2) that classified information may be handled only in private clouds and must always stay in national territory unless the regulator expressly authorises otherwise.",
+     "as_of": "2025-02-24", "date_precision": "day",
+     "system": "Proposta de Regulamento dos Servicos de Computacao em Nuvem", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer",
+     "fact": "The same draft (Art. 4 and Art. 11(2)) names INTIC as the regulator competent for registration, supervision and licensing of cloud providers and the body that can authorise classified information to leave national territory; the rule is a consultation draft, published 2025-02-24.",
+     "as_of": "2025-02-24", "date_precision": "day",
+     "system": "Proposta de Regulamento dos Servicos de Computacao em Nuvem", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Proposta de Regulamento dos Servicos de Computacao em Nuvem", "country_label": "Regulamento dos Servicos de Computacao em Nuvem (INTIC)", "class": "rule", "platform": "", "owner": "INTIC, I.P.", "tiers": "national"},
+    {"system": "Portal do Operador Economico de Novas Tecnologias", "country_label": "Portal do Operador Economico de Novas Tecnologias", "class": "other", "platform": "", "owner": "INTIC, I.P.", "tiers": "national"}
+  ],
+  "note": "Draft stage only; the file's ingest note says a Decreto 72/2025 of 31 December enacted it, but the held text is the draft and does not state that."
+}

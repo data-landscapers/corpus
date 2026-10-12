@@ -1,0 +1,16 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "1",
+   "standing": "none",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-001;SDN-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-gin-webguinee24-data-center-national-operationnalisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National (Koloma)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Economy and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "No rule requiring data to be kept in the country is stated; data centre status and hosting aims only."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-25-semlex-hands-biometric-data-to-comoros-government-alwatwan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric passport and national ID production and data",
+      "country_label": "papiers biométriques",
+      "class": "other",
+      "platform": "GenKey",
+      "owner": "Ministry of the Interior",
+      "tiers": "national"
+    }
+  ],
+  "note": "Contract clause: the new provider GenKey agreed to host biometric data in Comoros; a company contract term, not a government rule requiring data to stay."
+}

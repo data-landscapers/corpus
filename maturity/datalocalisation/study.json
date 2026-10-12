@@ -106,7 +106,15 @@
       "subject": "gov.policy",
       "text": "Data localisation policies: localisation rule",
       "indicator_id": "gov.policy--data-localisation-policies-localisation-rule",
-      "class": "rule"
+      "class": "rule",
+      "criteria": [
+        "A source from the past three years says the country has no rule that data must be kept in the country and none is being written.",
+        "A rule that data, or a named kind of data, must be stored or processed in the country is being written or is out for consultation, or the last one was repealed with no successor. A minister's stated intention with no drafting begun does not count, and nor does a data centre.",
+        "A rule is in force: a law, decree, regulation or regulator's directive that data, or a named kind of data, must be kept in the country. A rule on one kind of data counts; a condition on sending data abroad does not. No body is yet named to enforce it.",
+        "A body is named to enforce the rule: a regulator, agency or ministry unit that checks compliance or grants exemptions. A regulator that issued the rule for the bodies it licenses counts.",
+        "The rule has been applied in the past three years: a dated source names an organisation ordered to bring data into the country, penalised or exempted under it, or counts those that have moved data to comply. How wide the rule is, and whether the country should have one, is not judged."
+      ],
+      "criteria_of": "fabfa51f90c2"
     }
   ],
   "classes": [

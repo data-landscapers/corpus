@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-19-sudan-scps-privacy-gap-intro",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "none", "fact": "The Sudanese Center for Policy Studies says mobile banking data transits infrastructure Sudan neither owns nor regulates, with no statutory requirement governing data localization or cross-border transfer; it only proposes localisation as a first legislative tranche.", "as_of": "2026-07-19", "date_precision": "day", "system": "Data localisation rule", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Fact dated to the document's published date, as it gives no other date for the absence."
+}

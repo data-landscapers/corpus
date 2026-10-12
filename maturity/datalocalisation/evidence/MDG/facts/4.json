@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-12-appel-offres-datacenters-ugd-prodigy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGD data centres, site A and site B",
+   "country_label": "UGD data centres, site A and site B",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement notice for data-centre equipment; no localisation rule."
+}

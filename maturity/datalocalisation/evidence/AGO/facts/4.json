@@ -1,0 +1,27 @@
+{
+  "slug": "2020-10-21-angola-decreto-presidencial-275-20-regulamento-centrais-privadas-informacao-credito",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Presidential Decree 275/20 of 21 October 2020 (Article 19) requires private credit information bureaux to have their primary data processing centres in national territory and replica facilities for data recovery also inside national territory, at least 30 km from the primary centre (Article 20); the document gives no later compliance date and no repeal.",
+      "as_of": "2020-10-21",
+      "date_precision": "day",
+      "system": "Decreto Presidencial n.º 275/20 - Regulamento da Actividade das Centrais Privadas de Informação de Crédito",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "enforcer",
+      "fact": "Decree 275/20 makes the Agência de Protecção de Dados responsible for authorising, supervising, inspecting and fining private credit bureaux (Articles 6 and 53), and for approving any use of cloud storage for their data (Article 21); breaching the regulation, including cloud adoption without that approval, is a fineable contravention (Articles 51 and 52).",
+      "as_of": "2020-10-21",
+      "date_precision": "day",
+      "system": "Decreto Presidencial n.º 275/20 - Regulamento da Actividade das Centrais Privadas de Informação de Crédito",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "Cross-border sharing of client data needs prior APD authorisation (Article 18) and cloud storage needs prior APD approval (Article 21); both are conditions, noted here and not facts."
+}

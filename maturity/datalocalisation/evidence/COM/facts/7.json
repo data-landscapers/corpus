@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-comores-cables-technologies",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Neutral data centre",
+      "country_label": "data center neutre",
+      "class": "other",
+      "platform": "",
+      "owner": "Comores Câbles",
+      "tiers": ""
+    }
+  ],
+  "note": "Company page on cables, an IXP and a data centre under construction; no rule stated."
+}

@@ -1,0 +1,250 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,"Lei n.º 22/11 de 17 de Junho, articles 33 and 37 (conditions on international transfer of personal data)",Lei de Protecção de Dados Pessoais,other,,Agência de Protecção de Dados (APD),,2026-08-27-apd-questoes-sobre-proteccao-de-dados-transferencias-internacionais
+AGO,Data Center da Imprensa Nacional,Data Center da Imprensa Nacional,other,"two servers, 64 cores, 1 TB memory, 76.8 TB raw storage",Imprensa Nacional,national,2026-09-12-ago-correiokianda-imprensa-nacional-data-center-documentos-seguranca
+AGO,"Autorização de transferência internacional de dados (APD, Lei 22/11)",transferência internacional de dados sem autorização,other,,Agência de Protecção de Dados (APD),,2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center
+AGO,Centro de Dados do Governo / Nuvem Nacional de Angola (Government Cloud),Centro de Dados do Governo,other,"Tier III, 208 racks, 1,040 kW",MINTTICS / INFOSI,national,2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
+AGO,Data Center e Cloud do Governo de Angola,Data Center e Cloud do Governo,other,,MINTTICS / INFOSI,national,2026-04-27-angola-autonomia-armazenamento-documentos-data-center
+AGO,Raxio Angola (AG1),Raxio Angola (AG1),other,"Tier III, 3 MW, 800+ racks",Raxio Group,,2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion
+BDI,Loi n°1/03 du 10 mars 2026 portant protection des données à caractère personnel,Burundi personal data protection law,other,,ARCT (publisher),,2026-03-10-loi-1-03-2026-protection-donnees-caractere-personnel
+BDI,Loi n°1/03 du 10 mars 2026 (conditional cross-border transfer regime),Burundi personal data protection law,other,,,,2026-09-10-amcham-kenya-eac-cross-border-data-flows-assessment
+BFA,Circulaire du Premier ministre sur l'hébergement national,circulaire du Premier ministre enjoignant de privilégier l'hébergement au niveau national,other,,Premier ministre,administrations publiques,2026-03-03-tinto-hebergement-national-souverainete
+BFA,Dérogation spéciale pour l'hébergement à l'étranger des données de santé (loi sur la protection des données à caractère personnel),dérogation spéciale,other,,,,2026-03-03-tinto-hebergement-national-souverainete
+BFA,Modular government datacenters (zero data abroad),"chantier « zéro donnée à l'extérieur »; deux datacenters modulaires inaugurés en janvier 2026, FCFA 15 milliards",other,,Ministère de la Transition digitale,administration publique,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
+BFA,National datacenter (planned),"datacenter national, FCFA 20 milliards, mise en service vers 2028",other,,Ministère de la Transition digitale,,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
+BFA,G-Cloud,Cloud gouvernemental du Burkina Faso,other,,ANPTIC / Ministère de la Transition digitale,national; 354 communes connected,2026-08-05-burkina-g-cloud-portal
+BFA,G-Cloud,G-Cloud,other,,ANPTIC,,2026-08-02-100-visages-du-burkina-digital-michael-folane
+BFA,IKA CLOUD,"IKA CLOUD, hébergeur 100 % local lancé le 2026-07-31",other,,IKA Solution (private company),"businesses, individuals, start-ups, institutions",2026-08-01-burkina-ika-cloud-hebergeur-local-donnees
+BWA,Data Protection Act,Data Protection Act,rule,,Government of Botswana,,2025-11-25-govt-moves-to-in-house-local-data
+BWA,Delta Digital Data Centre,Bofinet Delta Digital Data Centre,other,Tier 3 certified data centre,Bofinet,government services to migrate from the Department of Shared Digital Services,2025-11-25-govt-moves-to-in-house-local-data
+BWA,Botswana adequacy list,Botswana's list of countries with adequate protection,other,,,,2026-06-15-africas-digital-future-depends-on-seamless-data-flows
+CAF,"Centre de données national Tier III (planned, Huawei partnership)",centre de données national,other,,"Government / Ministry of Digital Economy, with Huawei",national government,2026-06-03-huawei-egovernance-partnership-four-axes-mbetimedia
+CAF,"Centre de données national Tier III (planned, Huawei-backed)",centre de données national,other,,"Ministry of Digital Economy, Posts and Telecommunications, with Huawei",national government,2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin
+CAF,Centre de données numériques (AIAL Group MoU),Centre de données,other,,AIAL Group Limited to build and manage; Ministry of Digital Economy,all ministries and state administration,2025-01-22-aial-group-data-centre-mou-oubanguimedias
+CIV,Digital City sovereign data center,Digital City,other,,Cybastion with the Ivorian government,,2025-07-21-digital-city-sovereign-data-center-cybastion-techafricanews
+CIV,Data Center National,Data Center national,other,,Ministry of Digital Transition with Cybastion,national administrative entities,2024-02-16-cote-divoire-lancement-construction-data-center-national
+CIV,Data Center National / Cloud National,Data Center ou Cloud National,other,,State,government and state entities (non-critical classified data),2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030
+CIV,"ST Digital data center, VITIB Grand-Bassam",data center,other,,ST Digital,enterprises and institutions,2025-10-03-data-center-inaugure-vitib-fratmat
+CIV,"ST Digital data center, VITIB Grand-Bassam",data center,other,,ST Digital,Ivorian and West African actors,2025-10-01-st-digital-data-center-grand-bassam-fratmat
+CIV,"ST Digital sovereign Tier III data center, VITIB Grand-Bassam",sovereign data center,other,,ST Digital,administrations and SMEs,2025-08-12-st-digital-sovereign-tier-iii-data-center-techafricanews
+CIV,"ST Digital Tier III data centre, Cote d'Ivoire",data centre,other,,ST Digital,private operators and public agencies,2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CIV,"Raxio data centre, Cote d'Ivoire",data centre,other,,Raxio,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+CMR,Huawei-built data center in Cameroon,Cameroon,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+CMR,Zamengoé Datacenter,Zamengoé Datacenter,other,,Camtel,government agencies and businesses,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
+CMR,ST Digital data centre (Cameroon),ST Digital,other,,ST Digital,"private sector operators, public agencies, local banks",2025-08-12-st-digital-sovereign-tier-iii-data-center-techafricanews
+CMR,ST Digital data centre (Cameroon),ST Digital,other,,ST Digital,"private sector operators, public agencies, local banks",2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CMR,ST Digital data centre (Cameroon),ST Digital,other,,ST Digital,"private sector operators, public agencies, local banks",2026-06-11 Can Africa supply it's own digital infrastructure
+COD,Cloud souverain,Cloud souverain,other,,Ministere du Numerique,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
+COD,Data center du Gouvernement,Data center du Gouvernement,other,,"Government (Kinshasa-Gombe, Government building)",public administration,2025-07-24-sgptntic-visite-data-center-gouvernement
+COG,Brazzaville data centre,Brazzaville data centre (ADB-funded),other,,Government of Congo; operator a 'delegate' to be named,national,2024-05-20-developingtelecoms-brazzaville-data-centre-due-end-of-year-adb
+COM,Centre de données national,"centre de données national (Moroni, campus de l'Université des Comores)",other,,ANADEN (financed by the AfDB),,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,Plateforme d'interopérabilité et d'échange de données,plateforme d'interopérabilité et d'échange de données,other,,ANADEN (financed by the IsDB),,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,Biometric passport and national ID production and data,papiers biométriques,other,GenKey,Ministry of the Interior,national,2026-03-25-semlex-hands-biometric-data-to-comoros-government-alwatwan
+COM,Biometric passport and national ID production and data,biometric passports and national ID cards,other,GenKey,Ministry of the Interior,national,2026-03-09-genkey-takes-over-comoros-biometric-passport-id-production-biometricupdate
+COM,Biometric passport and national ID data,données biométriques,other,GenKey,Ministry of the Interior,national,2026-01-05-alwatwan-assoumani-interieur-plan-comores-emergent
+COM,Neutral data centre,data center neutre,other,,Comores Câbles,,2026-01-01-comores-cables-technologies
+COM,Data Center de l'Administration Publique,Data Center de l'Administration Publique,other,,ANADEN with Comores Câble,national,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+DJI,Wingu Cloud Exchange (WCX),"Wingu Africa regional expansion incl. Djibouti (launched in Ethiopia and Tanzania, not stated for Djibouti)",other,private cloud,Wingu Africa,,2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia
+DJI,Wingu data centres in Djibouti,Wingu (Djibouti),other,,"Wingu, with Djibouti Telecom as state joint-venture partner",government as anchor tenant,2026-06-11 Can Africa supply it's own digital infrastructure
+EGY,Cloud First Policy,Cloud First Policy (2024),rule,,Supreme Council of Digital Society; MCIT,central government,2024-01-01-egypt-cloud-first-policy-data-localisation-dpa
+EGY,National data-centre strategy (in preparation),استراتيجية وطنية لمراكز البيانات,other,,MCIT,,2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram
+ERI,Eritel Nextcloud Private Cloud Services,Eritel Private Cloud,other,Nextcloud,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
+ETH,Gotera Cloud (G-Cloud),Gotera Cloud (G-Cloud),other,,Information Network Security Administration (INSA),"central government institutions; e-government, digital finance and other sectors",2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud
+ETH,Personal Data Protection Proclamation (Proclamation No. 1321/2024),Personal Data Protection Proclamation,rule,,Parliament of Ethiopia,data controllers and processors,2024-07-24-data-localisation-requirement-proclamation-1321-2024
+GAB,"Datacenter Tier III (Carrier Hotel neutre, ACE II)",Datacenter Tier III / Gabon Datacenter,other,,"ACE Gabon SA, state company under the Ministry of Digital Economy","operators, businesses, administrations",2026-07-31-gabon-datacenter-tier-iii-avancement-chantier
+GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2026-07-08-gabon-sovereign-datacenter-technical-spec
+GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2026-07-07-gabon-datacenter-inauguration-figures
+GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2026-07-03-presidence-gabon-inauguration-data-center-national-nkok
+GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2025-08-08-gabon-datacenter-groundbreaking-nkok
+GAB,"ST Digital national sovereign data centre, Nkok",Data Center National et souverain du Gabon,other,,ST Digital,national,2025-02-14-gabon-st-digital-nkok-datacenter-announced
+GAB,Second public data centre (announced for 2027),deuxième data center public,other,,,,2026-10-01-gab-fr-gabon-lia-passe-du-debat-a-la-strategie
+GAB,"National hosting of data (recommendation of the AI strategy consultations, 28-30 September 2026)",hébergement des données sur le territoire,other,,Ministère de l'Économie numérique,,2026-10-01-gab-fr-gabon-lia-passe-du-debat-a-la-strategie
+GAB,Tier III Carrier Hotel Datacenter,Tier III Carrier Hotel Datacenter,other,,ACE GABON SA (state-owned),"operators, businesses and public institutions",2026-07-31-gabon-tier-iii-datacenter
+GAB,Data Center IA Cloud Écoresponsable Tier 3 (Nkok),Data Center IA Cloud Écoresponsable Tier 3,other,,ST Digital,"public administration, local data",2026-05-28-gabon-datacenter-june-launch-set
+GAB,"ST Digital data centre, Gabon (planned)","ST Digital DataCenter, Gabon",other,,ST Digital,,2025-08-12-st-digital-sovereign-tier-iii-data-center-techafricanews
+GAB,"ST Digital Tier III data centre, Gabon (planned for 2024)","ST Digital data centre, Gabon",other,,ST Digital,,2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+GHA,"Digital Realty ACR2 data center, Accra",ACR2,other,PlatformDIGITAL,Digital Realty,,2025-10-31-digital-realty-opens-accra-data-center-graphic
+GHA,Huawei-built data centers in Ghana,,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+GIN,Data Center National (Koloma),Data Center National,other,,"Ministry of Communication, Digital Economy and Innovation",national,2026-09-15-guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center
+GIN,Data Center National (Koloma),Data Center National,other,,"Ministry of Communication, Digital Economy and Innovation",national,2026-09-14-gin-guineenews-data-center-national-koloma-operationnalisation
+GIN,Data Center National (Koloma),Data Center National,other,,"Ministry of Communication, Digital Economy and Innovation",national,2026-09-10-gin-visionguinee-data-center-souverainete-numerique
+GIN,Data Center National (Koloma),Data Center National,other,,"Ministry of Communication, Digital Economy and Innovation",national,2026-09-09-gin-webguinee24-data-center-national-operationnalisation
+GIN,Cloud souverain (sovereign cloud study on hosting of public data),Cloud souverain,other,,"ANDE (Agence Nationale de Digitalisation de l'Etat), World Bank-supported, with Roland Berger",national,2026-05-23-cloud-souverain-ande-roland-berger-conakry
+GIN,"National data centre, Conakry (Tier 3)",Data centre national,other,,"Ministry of Posts, Telecommunications and Digital Economy",national,2025-09-04 Guinea opens Tier 3 national data centre to strengthen digital transition
+GIN,plateforme de numérisation de l'état civil,Plateforme de numérisation de l'état civil / Registre National de l'État Civil,other,,Ministère de l'Administration du territoire et de la Décentralisation,,2026-08-11-guinee-decentralisation-etat-civil-npi
+GMB,Government Cloud (G-Cloud),Gambia Government Cloud,other,,GICTA (Principal Government Cloud Service Provider),all levels of government and organs of State,2023-06-29-gambia-mocde-government-cloud-policy
+GMB,National Identity Management System Data Centre (Abuko),National Identity Management System Data Centre,other,,Margins ID Group (PPP),,2026-07-06-citinewsroom-gambia-gam-id-national-identity-data-centre-abuko
+GMB,National Data Centre (Abuko),National Data Centre,other,,Ministry of Interior and Margins ID Group (PPP),,2026-07-01-barrow-inaugurates-national-data-centre-nims-standard
+GMB,QGroup House data centre,QGroup House,other,,QGroup,,2026-05-05-qgroup-data-center-gambia
+GNB,National GovCloud,National GovCloud for Guinea-Bissau,other,,Government of Guinea-Bissau,,2025-09-18-cybil-feasibility-study-guinea-bissau-cybersecurity
+GNQ,centro de datos (state data centre of CNIAPGE),centro de datos del CNIAPGE,other,,CNIAPGE (Centro Nacional para la Informatización de la Administración Pública),central government,2025-04-15-guinea-ecuatorial-cniapge-junta-directiva-centro-de-datos-estatal
+KEN,ODPC draft Guidance Note on AI: adequacy assessment before cross-border transfer of AI-processed personal data,Kenya,other,,Office of the Data Protection Commissioner,,2026-09-24-ken-cipesa-kenya-ai-emerging-tech-guidance-notes
+KEN,Huawei-built data centre (Kenya),Kenya,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+KEN,TCS Sovereign Secure Cloud,TCS Sovereign Secure Cloud,other,,Tata Consultancy Services / Sybyl / iXAfrica,"government, regulated industries",2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi
+KEN,Nobus-EA-AZ1,Nobus-EA-AZ1,other,,Nobus Cloud Services (Nkponani Limited),,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Data Protection Act,Data Protection Act,other,,,,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Kenya Cloud Policy implementation guidelines,Kenya Cloud Policy implementation guidelines,rule,,Ministry of ICT and the Digital Economy,State organs,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,Cloud Adoption Committee,Cloud Adoption Committee,other,,Ministry of ICT and the Digital Economy,State organs,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,"Nxtra data centre, Tatu City","Nxtra data centre, Tatu City",other,,Airtel Africa,,2026-08-04-techtrends-nxtra-kenya-july-2027-target
+KEN,Microsoft/G42 Olkaria data centre,Microsoft/G42 Olkaria data centre,other,,Microsoft / G42,,2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity
+LBR,National digital identity system / biometric database,National ID card system,,,National Identification Registry,,2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa
+LBY,Libyan Spider Tripoli data center,"Libyan Spider new data center, Tripoli (opened 22 April 2024, year inferred)",other,,Libyan Spider,,2024-05-30-libyan-spider-opens-new-data-center-in-tripoli-to-enhance-security-and-availabil
+LBY,CBL Circular No. 18 data protection system and executive regulation,Data Protection System and Executive Regulation,rule,,Central Bank of Libya,banks; foreign bank branches; fintech and electronic payment providers; exchange and credit companies; leasing companies,2025-01-01-informatics-cbl-personal-data-protection-regulation-session
+LSO,Data Management Policy,Data Management Policy,other,,MICSTI,,2026-06-12-three-digital-policies-signed-lestimes
+LSO,Data Management Policy,Data Management Policy,other,,MICSTI,,2025-01-21-lesotho-data-management-policy-second-draft
+MAR,AWS Wavelength Zone in Orange data centres,AWS Wavelength Zones Morocco,other,Amazon Web Services,Orange Middle East & Africa with AWS,"regulated industries (telecom, finance, public sector, healthcare)",2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal
+MAR,AWS Wavelength Zone in Orange data centres,AWS Wavelength Zones Morocco,other,Amazon Web Services,Orange Middle East & Africa with AWS,"regulated industries (telecom, finance, public sector, healthcare)",2024-05-30-orange-omea-aws-wavelength-morocco-senegal
+MDG,Tsimbazaza data centre (main),Tsimbazaza data centre (main),other,,UGD / PRODIGY,,2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin
+MDG,Iavoloha data centre (secondary),Iavoloha data centre (secondary),other,,UGD / PRODIGY,,2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin
+MDG,Tsimbazaza data centre (main),Tsimbazaza data centre (main),other,,UGD / PRODIGY,,2026-04-21-publication-documents-gres-prodigy-datacenters
+MDG,Iavoloha data centre (secondary),Iavoloha data centre (secondary),other,,UGD / PRODIGY,,2026-04-21-publication-documents-gres-prodigy-datacenters
+MDG,"UGD data centres, site A and site B","UGD data centres, site A and site B",other,,UGD / PRODIGY,,2026-02-12-appel-offres-datacenters-ugd-prodigy
+MDG,Tsimbazaza data centre (main),Tsimbazaza data centre (main),other,,UGD / PRODIGY,,2025-12-22-prodigy-tenders-data-center-biometricupdate
+MDG,Iavoloha data centre (secondary),Iavoloha data centre (secondary),other,,UGD / PRODIGY,,2025-12-22-prodigy-tenders-data-center-biometricupdate
+MDG,Data Center Iavoloha,Data Center Iavoloha (PRODIGY),other,,"UCP-PRODIGY, Government of Madagascar",,2025-08-28-prodigy-iavoloha-datacenter-aircon-tender
+MDG,Axian / Stellarix data centres,Stellarix,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+MLI,"Tier III data centre, Bamako",data center de niveau Tier III,other,,"Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernisation)",national; e-government platforms and state databases,2026-02-02-mali-inauguration-data-center-tier-iii-bamako
+MLI,"Recommended national strategy for securing, storing, transporting and using data, with a data management law","stratégie nationale de sécurisation, de stockage, de transport et d'exploitation des données",other,,Direction nationale de l'Economie numérique,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
+MLI,"National Data Centre (Tier III, Bamako)",National Data Centre,other,,"Ministry of Communication, Digital Economy and Administrative Modernization",national government,2026-02-05 Government of Mali launches data center in Bamako
+MLI,"National Data Centre (Tier III, Bamako)",National Data Centre,other,,"Ministry of Communication, Digital Economy and Administrative Modernization","e-government platforms, state databases, later private sector",2026-02-02 Mali opens Tier III data center in Bamako amid regional push to keep data at home
+MLI,"National Data Centre (Tier III, Bamako)",National Data Centre,other,,"Ministry of Communication, Digital Economy and Administrative Modernization","state strategic data, e-administration, public digital services",2026-02-02 Mali unveils modern Tier III data centre
+MOZ,Huawei-built data centre (Mozambique),,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+MOZ,Cloud computing regulation,regulations on cloud computing,other,,Ministry of Communications and Digital Transformation,operators of critical infrastructure,2026-07-28-clubofmozambique-muchanga-digital-infrastructure-strategic
+MOZ,Cloud Computing Regulations,Cloud Computing Regulations,other,,,,2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)
+MOZ,Data Center Regulation (Decree 71/2025),Data Center Regulation,other,,INTIC,,2026-02-18-approval-data-center-regulation
+MOZ,Cloud Computing Regulation (Decree 72/2025),Cloud Computing Regulation,other,,INTIC,,2026-02-18-approval-data-center-regulation
+MOZ,Notice 4/GGBM/2003 (Banco de Moçambique),Notice 4/GGBM/2003,rule,,Banco de Moçambique,financial institutions,2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report
+MOZ,Draft regulation on data centres and cloud computing,proposed regulation,other,,INTIC,,2025-03-21-regulation-data-centres-cloud-includes-sanctions-clubofmozambique
+MOZ,Proposta de Regulamento dos Servicos de Computacao em Nuvem,Regulamento dos Servicos de Computacao em Nuvem (INTIC),rule,,"INTIC, I.P.",national,2025-02-24-intic-proposta-regulamento-computacao-em-nuvem-consulta-publica
+MOZ,Portal do Operador Economico de Novas Tecnologias,Portal do Operador Economico de Novas Tecnologias,other,,"INTIC, I.P.",national,2025-02-24-intic-proposta-regulamento-computacao-em-nuvem-consulta-publica
+MOZ,Bubble Cloud Mozambique availability zones,Bubble Cloud,other,,Bubble Cloud Mozambique,,2026-07-24-bubble-cloud-two-availability-zones-mozambique
+MRT,"Cloud services abroad (APD deliberation 005/2025 amended: prior APD authorisation, contract clauses on transfer, data return and deletion)",Délibération n° 005/2025,other,,APD,public and private controllers,2026-04-30-apd-mauritanie-deliberation-005-2025-modifiee-cloud-etranger
+MRT,"Cloud services abroad (APD deliberation 005/2025: prior APD authorisation, contract clauses on transfer, data return and deletion)",Délibération n° 005/2025,other,,APD,public and private controllers,2025-07-30-apd-mudawala-005-2025-khadamat-sahabiya-cloud-kharij
+MRT,Cross-border transfer authorisation and 105-country adequacy list (APD deliberation 004/2025),Délibération n° 004/2025,other,,APD,all personal-data controllers,2025-07-14-mauritanie-apd-deliberation-004-2025-transfert-donnees-etranger-liste-pays-adequats
+MRT,AN-ETAT,AN-ETAT,other,,MTNIMA (listed as an entity under its supervision),,2026-09-21-mtnima-etablissements-sous-tutelle
+MRT,"National data centre, Nouakchott",مركز البيانات الوطني,other,,,,2026-09-17-mrt-elhourriya-biram-audit-independant-projets-numeriques
+MRT,"National data centre (Tier III, HCI), Nouakchott",centre national de données,other,hyperconverged (HCI) architecture,Ministry of Digital Transformation,national,2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale
+MRT,National cloud,cloud national,other,,Ministry of Digital Transformation,national,2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale
+MRT,Nouakchott data centre,centre de données de Nouakchott,other,,,,2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter
+MUS,Sovereign Cloud for the Government of Mauritius,Sovereign Cloud (MITCI RFI 01/2025-26),other,,"Ministry of Information Technology, Communication and Innovation",central government; public bodies,2025-09-19-sovereign-cloud-rfi-clarification-no-2
+MUS,Government Online Centre (GOC),Government Online Centre,other,,"Ministry of Information Technology, Communication and Innovation",central government,2025-09-19-sovereign-cloud-rfi-clarification-no-2
+MUS,Government Online Centre,Government Online Centre,other,,"Ministry of Information Technology, Communication and Innovation",,2025-10-06-scale-out-storage-solution-goc-tender
+MWI,"Sparc Systems data centre, Lilongwe",Sparc data centre,other,,Sparc Systems,,2026-05-01-sparc-systems-data-centre-launch-malawi24
+NAM,National Data Centre,National Data Centre,other,,Ministry of Information and Communication Technology,central government,2026-09-25-nam-neweralive-theofelus-ai-digital-services
+NAM,National Data Centre,National Data Centre,other,,Ministry of Information and Communication Technology,central government,2026-08-06-namibia-national-data-centre-639m-ict-budget
+NAM,National and Public Data Centre,National Data Centre,other,,Ministry of ICT and Office of the Prime Minister,national,2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb
+NAM,National Data Centre,National Data Centre,other,,Ministry of ICT and Office of the Prime Minister,national,2025-09-20-namibia-cabinet-ict-directives-national-data-centre
+NAM,Bank of Namibia Determination on Cloud Computing (BID-19),BID-19,other,,Bank of Namibia,banking institutions and microfinance banking institutions,2024-11-26-bon-bid-19-cloud-computing-determination-gazette-8513
+NAM,AI-ready national data centre,national data centre,other,Huawei,Ministry of ICT / Ministry of Home Affairs,,2026-07-08 China funds Namibia digital infrastructure
+NAM,National datacentre (planned),national datacentre,other,,Ministry of ICT,,2026-06-15 Namibia encouraged by Angola on datacentre establishment
+NAM,Armada datacentre,Armada datacentre,other,,Paratus,,2026-06-15 Namibia encouraged by Angola on datacentre establishment
+NAM,Virtual Space Data Centre,Virtual Space Data Centre,other,,Airbus and Namibia University of Science & Technology,,2026-06-15 Namibia encouraged by Angola on datacentre establishment
+NER,Data Center national,Data Center national,other,,Government of Niger (Ministry of Communication),national,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,"Datacenter Tier III, Niamey (Trans-Saharan Fibre Optic Backbone project, Niger component)",Datacenter Tiers 3,other,,"Government of Niger (Ministry of Communication), financed with the African Development Bank",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"Centre de traitement informatique (CTI) mutualisé, Côte d'Ivoire and Niger",CTI mutualisé,other,,BCEAO,,2025-04-01-bceao-rapport-imf-moyens-services-paiement-uemoa-2022-2023
+NGA,"Split-cloud architecture (domestic data, offshore applications)","Split-cloud architecture (domestic data, offshore applications)",other,,Banks and fintechs,,2026-10-04-nga-businessday-split-cloud-banks-cbn-data-localisation
+NGA,"Tier III data centre, Lagos (4.5MW initial, 9MW planned)","Tier III data centre, Lagos (4.5MW initial, 9MW planned)",other,,,,2026-10-04-nga-businessday-split-cloud-banks-cbn-data-localisation
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,Galaxy Backbone Limited (state-owned); NITDA,,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
+NGA,Cloud First Policy (2019),Cloud First Policy (2019),other,,Government of Nigeria,,2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon
+NGA,CBN circular PSS/DIR/PUB/CIR/001/004,CBN data localisation directive,rule,,"Central Bank of Nigeria, Payments System Supervision Department","national; banks, microfinance banks, mobile money operators, switches, PTSPs, super agents, licensed payment operators",2026-06-24-complyan-cbn-data-localisation-directive
+NGA,CBN data localisation directive,CBN data localisation directive,rule,,Central Bank of Nigeria,national; banks and fintechs,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
+NGA,NIP (NIBSS Instant Payment),NIP,other,,Nigeria Inter-Bank Settlement System,national; banks,2026-09-29-growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to
+NGA,CBN data localisation directive,CBN data localisation directive,rule,,Central Bank of Nigeria,"national; banks, fintechs, mobile money operators, switches, payment service providers",2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short
+NGA,NIP (NIBSS Instant Payment),NIP,other,,Nigeria Inter-Bank Settlement System,national; banks,2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short
+NGA,CBN data localisation directive,CBN data localisation directive,rule,,Central Bank of Nigeria,"national; banks, mobile money operators, switches, payment service providers",2026-09-28-nga-businessam-data-localisation-data-centre-investment
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,rule,,National Information Technology Development Agency (NITDA),national,2026-09-28-nga-businessam-data-localisation-data-centre-investment
+NGA,National Digital Cloud Policy,National Digital Cloud Policy,other,,Federal Government,national,2026-09-28-nga-businessam-data-localisation-data-centre-investment
+NGA,CBN circular on payment data localisation,CBN data localisation rule,rule,,"Central Bank of Nigeria, Payments System Supervision Department","national; banks, fintechs, payment operators",2026-09-27-nga-punchng-cbn-data-localisation-skills-security
+NGA,NIMC national identity database,national identity database,other,,National Identity Management Commission,national,2026-09-27-nga-punchng-cbn-data-localisation-skills-security
+NGA,CBN payments data localisation directive,CBN directive on hosting payments data in Nigeria,rule,,Central Bank of Nigeria,national,2026-09-25-nga-thisdaylive-stakeholders-cbn-data-localisation-timeline
+NGA,CBN payments circular (June 2026),"CBN circular on market structure, data localisation, UBO disclosure and systemic oversight",rule,,Central Bank of Nigeria,national,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
+NGA,National Cloud Technical Document,National Cloud Technical Document,other,,NITDA,public institutions,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
+NGA,National Data Classification Framework,National Data Classification Framework,other,,NITDA,national,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
+NGA,National Cloud Computing Policy,National Cloud Computing Policy (2019),other,,NITDA,government institutions,2026-08-13-nigeria-data-localisation-sovereign-cloud-analysis
+NGA,CBN payments data localisation directive,CBN data localisation directive,rule,,Central Bank of Nigeria,national,2026-08-10-thecable-cbn-data-localisation-reaction
+NGA,CBN circular PSS/DIR/PUB/CIR/001/004,"Circular on market structure requirements, data localisation, UBO disclosure and systemic oversight",rule,,"Central Bank of Nigeria, Payments System Supervision",national,2026-06-15-cbn-circulars-register-pss-dir-pub-cir-001-004
+NGA,NDPC call for local storage of Nigerian data,NDPC statement that data generated in Nigeria must be stored and processed locally,other,,Nigeria Data Protection Commission,national,2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation
+NGA,Open Access Data Centres,Open Access Data Centres,other,,,,2026-10-08-nga-cbn-insists-on-january-1-2027-deadline-for-banks-fintechs-to-store-pay
+NGA,National Cloud Initiative,National Cloud Initiative,other,,Technical working group co-chaired by Digital Realty Nigeria,,2026-09-20-ncw-business-remarks-tssf-7-digital-infrastructure-strategy
+NGA,Huawei Cloud Nigeria local cloud,Huawei Cloud,other,Huawei Cloud,Huawei,,2026-08-31-techafricanews-huawei-agentic-ai-cloud-nigeria
+NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,other,,NITDA,,2026-08-31-techafricanews-huawei-agentic-ai-cloud-nigeria
+NGA,GFA Abeokuta Technology Zone Data Centre,200MW Abeokuta Technology Zone Data Centre and Digital Infrastructure Campus,other,,GFA Technologies Group,,2026-07-27-cbn-data-localisation-directive-data-centre-investment
+NGA,OADC Lagos data centre campus,OADC Lagos campus,other,,OADC,private sector,2026-07-07 CBN's local data order puts Nigeria's data centres to test
+NGA,Nigerian commercial data centre market,"commercial data centres, 50-56 MW live, about 124 MW installed",other,,"OADC, Rack Centre, Kasi Cloud, Galaxy Backbone, Equinix",,2026-07-07 CBN's local data order puts Nigeria's data centres to test
+NGA,MTN Sifiso Dabengwa Data Centre,Sifiso Dabengwa Data Centre,other,,MTN Nigeria,private sector,"2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing"
+NGA,AWS Local Zones Lagos,AWS Local Zones location in Lagos,other,AWS,Amazon Web Services,"private sector; healthcare, financial services and public sector named as possible users",2023-01-26-aws-launches-new-aws-local-zones-location-in-lagos-nigeria-techcabal
+RWA,AWS Outposts,AWS Outposts Rwanda,other,Amazon Web Services,"Amazon Web Services, with Sand Technologies",government institutions and enterprises,2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews
+SDN,Undeclared data localization policy of the Central Bank and other government institutions,,other,,Central Bank of Sudan,national,2023-10-21-advox-sudan-conflict-impact-ict-digital-transformation
+SEN,Diamniadio National Datacenter (DND),Data Center National de Diamniadio,other,Huawei-built,Government of Senegal,state,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength au Senegal,other,Amazon Web Services,Sonatel,finance; health; telecoms; public sector,2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength Zone,other,Amazon Web Services,Orange,telecoms; finance; public sector; healthcare,2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal
+SEN,AWS Wavelength Zone Senegal,AWS Wavelength Zone,other,Amazon Web Services,Orange Middle East & Africa,telecoms; finance; public sector; healthcare,2024-05-30-orange-omea-aws-wavelength-morocco-senegal
+SOM,Dalkom Somalia disaster recovery service,Disaster Recovery - Local And International,other,,Dalkom Somalia,,2026-08-29-dalkom-somalia-disaster-recovery
+SOM,National Data Centre (planned),National Data Centre,other,,Ministry of Communications and Technology,federal government,2026-08-07-somalia-national-data-centre-plans
+SOM,Hormuud local data centres,local data centres,other,,Hormuud Telecom,,2026-06-18-hormuud-anchors-somalia-digital-economy
+SOM,National Data Center,National Data Center,other,,Ministry of Communications and Technology,government institutions,2025-05-06-moct-national-data-center-nearing-completion
+SSD,"Trinity Technologies Tier 2 datacentre, Hai Malakal, Juba",Trinity Technologies datacentre,other,,Trinity Technologies Limited,,2026-08-29-trinity-technologies-datacentre-about
+SSD,National data centre (under construction),national data centre,other,,Government of South Sudan,,2026-04-30-ateny-digital-transformation-nairobi-summit-eyeradio
+STP,INIC Alojamento Web (web and system hosting service),Alojamento,other,,INIC (Instituto de Inovacao e Conhecimento),whole public administration; private bodies invited,2026-01-01-inic-sao-tome-alojamento-web-soberania-territorio-nacional
+STP,Data center and disaster-recovery site for the digital identity system,data center e recuperação de desastre para o sistema de identidade digital,other,,AFAP (tender issuer),,2026-05-14-afap-tender-data-center-servidores-identidade-digital
+SWZ,Mchumanisi,National Data Exchange Platform (proposed),other,,Ministry of ICT,government institutions,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,Data Recovery Site (DRS),"Data Recovery Site, Siteki",other,,Government of Eswatini; financed by Exim Bank of India,,2026-10-05-swz-times-e182m-data-centre-loan-not-cancelled
+SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-28-swz-times-interpol-rstp-incident
+SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-24-swz-times-national-data-centre-incident
+SWZ,National Data Centre,National Data Centre,other,,Royal Science and Technology Park (RSTP),central government,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
+SWZ,Data Recovery Site,"Data Recovery Site, Lubombo",other,,Government of Eswatini; financed by Exim Bank of India,,2026-09-23-swz-independentnews-govt-systems-crippled-digital-outages
+SWZ,Data Recovery Site,"Data Recovery Site, Lubombo Region",other,,Government of Eswatini; financed by Exim Bank of India,,2026-09-22-swz-times-data-recovery-site-loan-cancel
+SYC,Data Protection Act 2023,Data Protection Act,other,,Information Commission (data protection authority),national,2024-06-04 Review of Seychelles DPA
+SYC,Data Protection Act 2023,Data Protection Act,other,,Information Commission of Seychelles,national,2024-03-25 Data Protection Law Now In Force In Seychelles
+SYC,Data Center 1 - Bon Espoir,"Bon Espoir data centre, Anse Boileau",other,,Cable & Wireless (Seychelles) Limited,,2025-09-04-uptime-institute-bon-espoir-certification
+SYC,Electronic Government Network (EGN),Electronic Government Network,other,,Department of Information Communication Technology,"ministries, departments and agencies",2025-06-17-national-assembly-dict-egn-visit
+SYC,Bon Espoir Data Centre,Bon Espoir Data Centre,other,,Cable & Wireless Seychelles,,2024-11-22-cable-wireless-inaugurates-state-of-the-art-data-centre
+SYC,"Data Protection Act, 2023 (Act 24 of 2023)","Data Protection Act, 2023",other,,Information Commission Seychelles,,2024-01-01-data-protection-laws-of-the-world-seychelles
+SYC,Airtel Seychelles new datacentre,Airtel Seychelles datacentre,other,Ericsson hybrid network cloud,Airtel Seychelles,,2021-12-13-itweb-airtel-seychelles-ericsson-turnkey-5g
+TCD,national data center,national data center,other,,Government of Chad,,2026-03-16-ecofin-ansice-cybersecurity-agency-reform
+TCD,Adetic Data Center,Adetic's Data Center,other,,ADETIC,,2026-02-19-techafricanews-chad-azerbaijan-adetic-ict
+TCD,National Data Center,National Data Center,other,,ADETIC,government institutions,"2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure"
+TCD,100 micro-data centers,micro-data centers,other,,ADETIC,government institutions,"2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure"
+TCD,National Data Center,national data center,other,,ADETIC,government institutions,2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch
+TCD,100 micro data centers,micro data centers,other,,ADETIC,government institutions,2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch
+TCD,National Data Center,National Data Center,other,,"Ministry of Telecommunications, Digital Economy and Digitalization (PMICE)",,2026-01-06 Chad invests 175m in national data center and networks
+TCD,Centre national des données numériques,Centre national des données numériques du Tchad,other,Huawei,Government of Chad (PMICE),,2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation
+TGO,Lomé Data Centre,Lomé Data Centre (LDC),other,,"Société d'Infrastructures Numériques (SIN), state-owned",businesses (private cloud via ST DIGITAL partnership),2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
+TGO,IPDCP international transfer authorisation,demandes d'autorisation de transfert de données personnelles à l'international (IPDCP),other,,Instance de protection des données à caractère personnel (IPDCP),,2026-01-31-togo-ipdcp-donnees-numeriques-nouvelles-exigences-operateurs
+TGO,IPDCP stated aim to require in-country storage of personal data,imposer le stockage des données personnelles des Togolais au Togo,other,,Instance de protection des données à caractère personnel (IPDCP),,2026-01-31-togo-ipdcp-donnees-numeriques-nouvelles-exigences-operateurs
+TGO,"Law No. 2019-014 on the protection of personal data, articles 28-31 (conditional cross-border transfer regime)",Loi n°2019-014 relative à la protection des données à caractère personnel,other,,"Instance de Protection des Données à Caractère Personnel (IPDCP), described as not yet operational",,2026-09-04-uneca-atpc-dtri-togo-country-profile
+TGO,Lomé Data Centre,Lomé Data Centre (LDC),other,,SIN (state-owned),,"2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center"
+TGO,Lomé Data Centre,Lomé Data Centre (LDC),other,,SIN (state-owned),,2025-09-24-lome-data-centre-home-page-en
+TGO,cloudstore.africa,Cloud 100% africain,other,VPS,ST Digital,,2024-10-29-togo-top-news-st-digital-launches-its-100-african-cloud-offering
+TGO,Lomé Data Centre,Lomé Data Centre (LDC),other,,SIN (state-owned),,2024-10-29-togo-top-news-st-digital-launches-its-100-african-cloud-offering
+TUN,Orange Tunisia and Focus Tunisie locally hosted cloud,Cloud hosted in Tunisia,other,,Orange Tunisia; Focus Tunisie,private companies,2026-10-06-tun-techafricanews-orange-focus-local-cloud
+TUN,Tunisian sovereign cloud,cloud souverain tunisien,other,,Ministry of Health (announced),national health data,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
+TUN,CNI Data Center,Data Center du CNI,other,,Centre National de l'Informatique,"government departments, regional departments, public bodies, municipalities",2026-09-19-tunisie-cni-hosting-services-data-center-etat
+TUN,SoleCrypt Bizerte data center,Bizerte 20MW data center,other,,SoleCrypt,,2026-02-06-dcd-solecrypt-schneider-bizerte-data-center
+TZA,Huawei-built data centre in Tanzania,,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+TZA,AI data centres (planned),AI data centres,other,,Government of Tanzania (Ministry of Communication and Information Technology),,2026-09-11-tza-dailynews-tanzania-plans-ai-data-centres
+TZA,PDPC approval of personal data transfers abroad,Personal Data Protection Commission transfer approvals,other,,Personal Data Protection Commission (PDPC),,2026-08-15-tanzania-758-towers-world-bank-ucsaf-connectivity
+TZA,Health data stored within the country (proposed measure),health data stored in Tanzania,other,,Ministry of Health,,2026-07-31-tanzania-ai-drive-in-healthcare-amid-data-privacy-push
+TZA,Wingu Cloud Exchange (WCX),Wingu Cloud Exchange,other,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
+UGA,"Cross-border transfer requirement under the Data Protection and Privacy Act, Cap. 97 (WhatsApp/Meta PDPO decision 20 Feb 2026)",,other,,Personal Data Protection Office,,2026-07-29-whatsapp-privacy-updates-uganda-data-protection-enforcement
+UGA,National Data Centre,National Data Centre,other,,NITA-U,"ministries, departments and agencies (utilisation 70 percent, target 83 percent by FY 2029/30)",2026-06-22-nita-u-five-year-digital-strategy
+UGA,National AI Research Cloud,National AI Research Cloud,other,,Makerere University with RENU,innovators and researchers,2026-03-16-musenero-launches-national-ai-research-cloud
+UGA,Centenary Group Masaka data centre,Centenary Group Data Centre,other,,Centenary Group (Cente-Tech),"banks, telecoms, government agencies, enterprises",2026-03-13-monitor-centenary-masaka-tier-iii-data-centre
+UGA,Centenary Group Masaka data centre,Centenary Group Data Centre,other,,Centenary Group (Cente-Tech),"banks, telecoms, government agencies, enterprises",2026-03-11-pctechmag-centenary-masaka-data-centre-cleared-for-launch
+UGA,ABQ Cloud,ABQ Cloud,other,,"ABQ Cloud, hosted at Raxio Data Centre","startups, enterprises, government institutions, innovators",2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem
+ZAF,Critical information infrastructure designation of data centres,critical information infrastructure,other,,South African government,national,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+ZAF,"SITA colocation data centre facility, Gauteng",Colocation data centre (RFB2728-2022),other,,SITA,national,2023-04-06-sita-rfb2728-2022-colocation-data-centre-gauteng-invitation
+ZAF,"SITA data centres (Numerus, Centurion, Beta)",SITA locations on the National Key Points list,other,,SITA,national,2015-01-26-itweb-sita-national-key-points-state-secret
+ZAF,National Policy on Data and Cloud,National Data and Cloud Policy,rule,,Department of Communications and Digital Technologies,national government,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
+ZAF,SITA data centres (Centurion and Beta),SITA data centres,other,,State Information Technology Agency (SITA),national government,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
+ZAF,Policy Direction to ICASA on B-BBEE (Notice 3692 of 2025),Policy Direction to ICASA,other,,Department of Communications and Digital Technologies,national regulator,2025-12-11-policy-direction-icasa-bbbee-data-sovereignty
+ZAF,Draft National Policy on Data and Cloud,Draft National Policy on Data and Cloud,rule,,Department of Communications and Digital Technologies,national government,2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries
+ZAF,National Policy on Data and Cloud,National Policy on Data and Cloud,rule,,Department of Communications and Digital Technologies,national government,2024-05-31-national-policy-on-data-and-cloud
+ZAF,Dube Tradeport Data Centre,Dube Tradeport Data Centre,other,,,"MICT SETA chose it for primary, failover and disaster recovery of ILMS data (2026-08-20)",2026-08-20-parliament-ilms-intellectual-property-dispute
+ZAF,CSIR government cloud,government cloud infrastructure via CSIR,other,,CSIR,national,2026-07-06-sa-building-own-cloud-ramaphosa
+ZAF,Africa Data Hub Holding Limited,Africa Data Hub,other,,MTN Group (minority) with Tarek Al Ashram,,2026-09-11-iafrikan-africa-ai-data-centre-rush-power-water
+ZMB,Helium Platform,Helium Platform,other,,SMART Zambia Institute with inq Zambia and Mezzanine,government ministries and institutions,2025-10-09-smart-zambia-partnerships-inq-mezzanine-visa
+ZMB,Planned national data center (Zambia Smart Institute and Huawei),national data center,other,Huawei,Zambia Smart Institute; Huawei (co-investment),national government,2026-06-08-zambia-huawei-ai-sovereignty-partnership
+ZMB,Microsoft Azure Stack and Office 365 hosted by Liquid in Zambia,,other,Microsoft Azure Stack,Liquid Intelligent Technologies,,2018-10-17-liquid-completes-acquisition-cec-liquid-zambia
+ZWE,Huawei-built data centre (Zimbabwe),,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+ZWE,Project Pangolin (National AI and Data Platform),Project Pangolin,other,,,,2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information
+ZWE,Sovereign National Cloud,Sovereign National Cloud,other,,AI Strategy Implementation Office (AISIO) oversees the strategy,,2026-03-16-ai-strategy-mandates-local-storage

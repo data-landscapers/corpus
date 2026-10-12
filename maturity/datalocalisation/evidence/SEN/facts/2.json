@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Wavelength Zone Senegal", "country_label": "AWS Wavelength au Senegal", "class": "other", "platform": "Amazon Web Services", "owner": "Sonatel", "tiers": "finance; health; telecoms; public sector"}
+  ],
+  "note": "Operator press release mentions regulatory data localisation requirements in general terms only; no rule, instrument or enforcer is identified."
+}

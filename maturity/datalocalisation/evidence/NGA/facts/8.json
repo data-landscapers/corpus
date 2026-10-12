@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "BusinessDay reports the CBN directive, issued in June 2026, requires financial institutions and payment participants (banks, fintechs, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria in Nigeria, with a deadline of 1 January 2027.", "as_of": "2026-06", "date_precision": "month", "system": "CBN data localisation directive", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "The directive was issued by the Central Bank of Nigeria for the financial institutions and payment operators it licenses; banks and fintechs interviewed say they have been unable to get clarity from the CBN on hybrid cloud arrangements.", "as_of": "2026-09-29", "date_precision": "day", "system": "CBN data localisation directive", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "CBN data localisation directive", "country_label": "CBN data localisation directive", "class": "rule", "platform": "", "owner": "Central Bank of Nigeria", "tiers": "national; banks, fintechs, mobile money operators, switches, payment service providers"},
+    {"system": "NIP (NIBSS Instant Payment)", "country_label": "NIP", "class": "other", "platform": "", "owner": "Nigeria Inter-Bank Settlement System", "tiers": "national; banks"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-06-tun-techafricanews-orange-focus-local-cloud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Tunisia and Focus Tunisie locally hosted cloud",
+      "country_label": "Cloud hosted in Tunisia",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Tunisia; Focus Tunisie",
+      "tiers": "private companies"
+    }
+  ],
+  "note": "Companies offer Tunisia-hosted cloud by choice; no rule stated."
+}

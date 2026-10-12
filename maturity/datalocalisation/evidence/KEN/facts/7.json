@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "TCS Sovereign Secure Cloud",
+      "country_label": "TCS Sovereign Secure Cloud",
+      "class": "other",
+      "platform": "",
+      "owner": "Tata Consultancy Services / Sybyl / iXAfrica",
+      "tiers": "government, regulated industries"
+    }
+  ],
+  "note": "Sovereign cloud launch at a data centre; states no rule requiring data to stay in the country."
+}

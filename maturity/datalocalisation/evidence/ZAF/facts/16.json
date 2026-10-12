@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-06-sa-building-own-cloud-ramaphosa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CSIR government cloud",
+      "country_label": "government cloud infrastructure via CSIR",
+      "class": "other",
+      "platform": "",
+      "owner": "CSIR",
+      "tiers": "national"
+    }
+  ],
+  "note": "President says government is building its own cloud and warns of data held outside national jurisdiction; a statement, no rule or drafting."
+}

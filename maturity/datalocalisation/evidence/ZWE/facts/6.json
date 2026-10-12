@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-potraz-data-protection-implementation-guidelines",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "POTRAZ, as the designated Data Protection Authority, states in its implementation guidelines that it will not permit highly sensitive information such as core banking platforms and critical financial systems to be hosted outside Zimbabwe and that such systems must be hosted locally; the document gives no date, so its published date of 2025-01-01 is used.", "as_of": "2025", "date_precision": "year", "system": "POTRAZ Data Protection Authority Implementation Guidelines (cross-border data transfers, sensitive information)", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "The guidelines name POTRAZ, the Data Protection Authority, as the body whose prior written approval, backed by a risk assessment and justification, is required for any exception to local hosting of highly sensitive systems such as core banking; the document gives no date, so its published date of 2025-01-01 is used.", "as_of": "2025", "date_precision": "year", "system": "POTRAZ Data Protection Authority Implementation Guidelines (cross-border data transfers, sensitive information)", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Rule on local hosting of highly sensitive systems (core banking, critical financial systems) with POTRAZ exemption approval; no application of the rule is stated."
+}

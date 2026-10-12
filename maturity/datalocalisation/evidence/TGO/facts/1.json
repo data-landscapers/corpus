@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive",
+  "facts": [],
+  "systems": [
+    {"system": "Lomé Data Centre", "country_label": "Lomé Data Centre (LDC)", "class": "other", "platform": "", "owner": "Société d'Infrastructures Numériques (SIN), state-owned", "tiers": "businesses (private cloud via ST DIGITAL partnership)"}
+  ],
+  "note": "Company press release on a hosting partnership and an ambition to host company data in the country; no rule requiring it is stated."
+}

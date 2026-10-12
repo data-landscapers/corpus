@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-24-data-localisation-requirement-proclamation-1321-2024",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Digital Policy Alert records that Personal Data Protection Proclamation No. 1321/2024, adopted by Parliament on 4 April 2024, entered into force on 24 July 2024 and requires data controllers and processors to store locally collected personal data on servers in Ethiopia.", "as_of": "2024-07-24", "date_precision": "day", "system": "Personal Data Protection Proclamation (Proclamation No. 1321/2024)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Proclamation (Proclamation No. 1321/2024)", "country_label": "Personal Data Protection Proclamation", "class": "rule", "platform": "", "owner": "Parliament of Ethiopia", "tiers": "data controllers and processors"}
+  ],
+  "note": ""
+}

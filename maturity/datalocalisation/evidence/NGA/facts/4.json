@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-12-nigeria-cbn-payments-system-circular-data-localisation",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A law-firm article states the CBN circular makes it mandatory that all payment transaction data generated in Nigeria be stored and managed on servers within Nigeria, with full compliance expected by 1 January 2027; the date is the article's publication date.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "CBN circular on market structure, data localisation, UBO disclosure and systemic oversight in the Nigeria payments system",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

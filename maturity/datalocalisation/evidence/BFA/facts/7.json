@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-01-burkina-ika-cloud-hebergeur-local-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "IKA CLOUD", "country_label": "IKA CLOUD, hébergeur 100 % local lancé le 2026-07-31", "class": "other", "platform": "", "owner": "IKA Solution (private company)", "tiers": "businesses, individuals, start-ups, institutions"}
+  ],
+  "note": "A private firm chose to launch local hosting under ministry patronage; no rule requiring data to stay in the country is stated."
+}

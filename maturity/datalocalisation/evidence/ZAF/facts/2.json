@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown",
+  "facts": [],
+  "systems": [
+    {"system": "Critical information infrastructure designation of data centres", "country_label": "critical information infrastructure", "class": "other", "platform": "", "owner": "South African government", "tiers": "national"}
+  ],
+  "note": "For South Africa it only says data centres are designated critical information infrastructure (a noted item, not a rule that data stay in the country); the data repatriation order described is Senegal's."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center",
+  "facts": [],
+  "systems": [
+    {"system": "Autorização de transferência internacional de dados (APD, Lei 22/11)", "country_label": "transferência internacional de dados sem autorização", "class": "other", "platform": "", "owner": "Agência de Protecção de Dados (APD)", "tiers": ""}
+  ],
+  "note": "Fines on Crescer Tech (USD 505,000) and Fast Digital Center (USD 112,000) include storing data on cloud servers abroad without authorisation: a condition on sending data abroad, not a rule that it must stay."
+}

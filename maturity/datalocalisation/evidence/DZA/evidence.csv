@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DZA-001,DZA,rule,standing,in-force,"The US International Trade Administration's country commercial guide states that data localisation is mandatory in Algeria, with data to be stored in-country, under Law No. 18-07, which came into force on 10 August 2023.",2023-08-10,day,Law No. 18-07,rule,2024-09-19 Algeria Digital Economy (US Country Commercial Guide),https://www.trade.gov/country-commercial-guides/algeria-digital-economy

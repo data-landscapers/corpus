@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-31-togo-ipdcp-donnees-numeriques-nouvelles-exigences-operateurs",
+  "facts": [],
+  "systems": [
+    {"system": "IPDCP international transfer authorisation", "country_label": "demandes d'autorisation de transfert de données personnelles à l'international (IPDCP)", "class": "other", "platform": "", "owner": "Instance de protection des données à caractère personnel (IPDCP)", "tiers": ""},
+    {"system": "IPDCP stated aim to require in-country storage of personal data", "country_label": "imposer le stockage des données personnelles des Togolais au Togo", "class": "other", "platform": "", "owner": "Instance de protection des données à caractère personnel (IPDCP)", "tiers": ""}
+  ],
+  "note": "IPDCP president (2026-01-31) states a final objective to require in-country storage and handles transfer authorisations; an intention and a transfer condition, no rule drafted or issued."
+}

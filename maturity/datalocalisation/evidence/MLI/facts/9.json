@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-02 Mali unveils modern Tier III data centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre (Tier III, Bamako)",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Economy and Administrative Modernization",
+   "tiers": "state strategic data, e-administration, public digital services"
+  }
+ ],
+ "note": "Data centre and sovereignty statements only; no rule stated."
+}

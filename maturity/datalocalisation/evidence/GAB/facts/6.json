@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-14-gabon-st-digital-nkok-datacenter-announced",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital national sovereign data centre, Nkok",
+      "country_label": "Data Center National et souverain du Gabon",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "national"
+    }
+  ],
+  "note": "Company announcement of data centre; no localisation rule stated."
+}

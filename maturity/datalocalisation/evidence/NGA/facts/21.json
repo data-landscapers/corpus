@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-07 CBN's local data order puts Nigeria's data centres to test",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "TechCabal reports that a Central Bank of Nigeria directive requires banks, fintechs and payment companies to move transactional data from overseas cloud servers to data centres inside Nigeria by 1 January 2027 (no issue date given; article published 2026-07-07).", "as_of": "2026-07-07", "date_precision": "day", "system": "CBN data localisation directive", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "TechCabal reports the localisation directive was issued by the Central Bank of Nigeria for the banks, fintechs and payment companies it covers (article published 2026-07-07).", "as_of": "2026-07-07", "date_precision": "day", "system": "CBN data localisation directive", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "OADC Lagos data centre campus", "country_label": "OADC Lagos campus", "class": "other", "platform": "", "owner": "OADC", "tiers": "private sector"},
+    {"system": "Nigerian commercial data centre market", "country_label": "commercial data centres, 50-56 MW live, about 124 MW installed", "class": "other", "platform": "", "owner": "OADC, Rack Centre, Kasi Cloud, Galaxy Backbone, Equinix", "tiers": ""}
+  ],
+  "note": ""
+}

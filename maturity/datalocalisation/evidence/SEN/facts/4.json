@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-30-orange-omea-aws-wavelength-morocco-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Wavelength Zone Senegal", "country_label": "AWS Wavelength Zone", "class": "other", "platform": "Amazon Web Services", "owner": "Orange Middle East & Africa", "tiers": "telecoms; finance; public sector; healthcare"}
+  ],
+  "note": "Orange press release on in-country hosting; refers to compliance requirements and data residency needs generally, naming no Senegalese rule."
+}

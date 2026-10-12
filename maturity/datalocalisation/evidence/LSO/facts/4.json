@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-21-lesotho-data-management-policy-second-draft",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Management Policy",
+      "country_label": "Data Management Policy",
+      "class": "other",
+      "platform": "",
+      "owner": "MICSTI",
+      "tiers": ""
+    }
+  ],
+  "note": "Draft policy aims to clarify cross-border transfers and data sovereignty and to prioritise cloud; the excerpt states no requirement to keep data in the country."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-04-tunisie-decret-loi-2022-2-renseignement-credit-localisation",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Article 21 of decree-law 2022-2 of 4 January 2022 bars credit information companies from transferring their databases, or setting up sites to protect the data given to them, outside Tunisia, and bars them from hosting credit information in the cloud.", "as_of": "2022-01-04", "date_precision": "day", "system": "Décret-loi n° 2022-2 du 4 janvier 2022, article 21", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "Under the same decree-law the Banque centrale de Tunisie licenses credit information companies, and its governor may fine one 10,000 to 50,000 dinars, suspend it for three months or withdraw its licence after formal notice (article 29).", "as_of": "2022-01-04", "date_precision": "day", "system": "Décret-loi n° 2022-2 du 4 janvier 2022, article 21", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Read whole by the parent: the passages file did not hold article 21."
+}

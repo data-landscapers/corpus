@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-21-publication-documents-gres-prodigy-datacenters",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tsimbazaza data centre (main)",
+   "country_label": "Tsimbazaza data centre (main)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  },
+  {
+   "system": "Iavoloha data centre (secondary)",
+   "country_label": "Iavoloha data centre (secondary)",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY",
+   "tiers": ""
+  }
+ ],
+ "note": "Safeguard document list for data-centre works; no localisation rule."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Implementation guidelines of the 2025 Kenya Cloud Policy, published by the Ministry of ICT and the Digital Economy, require top secret State data to be held in a data centre within Kenya and bar State entities from hosting data in their own server rooms without Cloud Adoption Committee authorisation, with 24 months to migrate; date is the article's published date.",
+      "as_of": "2026-08-06",
+      "date_precision": "day",
+      "system": "Kenya Cloud Policy implementation guidelines",
+      "class": "rule"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kenya Cloud Policy implementation guidelines",
+      "country_label": "Kenya Cloud Policy implementation guidelines",
+      "class": "rule",
+      "platform": "",
+      "owner": "Ministry of ICT and the Digital Economy",
+      "tiers": "State organs"
+    },
+    {
+      "system": "Cloud Adoption Committee",
+      "country_label": "Cloud Adoption Committee",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT and the Digital Economy",
+      "tiers": "State organs"
+    }
+  ],
+  "note": "Cloud Adoption Committee is described as soon to be established, so no enforcer fact recorded."
+}

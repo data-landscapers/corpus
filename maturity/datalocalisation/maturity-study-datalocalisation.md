@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-datalocalisation.md — the seventeenth maturity study: the rule on keeping data in the country, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: datalocalisation
@@ -74,16 +74,23 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 
 ## 6. Token ceiling
 
-**50 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The interoperability study, with 73 stories to read first and 143 cited, spent 45.3 million against 50. This one is the same size, so the third read is one call a country and the summaries are written by the parent. No earlier study holds facts on a localisation rule, so nothing is carried.
+**50 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The interoperability study, the same size, spent 45.3 million against 50, so the third read is one call a country and the parent writes the summaries. No earlier study holds facts on a localisation rule, so nothing is carried.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: `study-select.py`, then the drafters, then `study-profile.py --merge`.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact setting stage 4 or 5; a second drafter restages 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map.
-- [ ] **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 60 `about` stories; then the cited news of the 35 countries with none; then, for the 42 countries still without a fact, the rest of their cited news and one call of the newest held news each; then the cited texts of nine countries whose current cell names a rule, Tunisia's by the parent. 117 calls, 65 facts.
+- [x] **D3. Staged**: eight at stage 4, eleven at 3, three at 2, one at 1, none at 5, one unplaced and 30 with no evidence, as at 2026-09-30; five corrections by the parent; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12. 42.3 million tokens, step 1 included.
+
+**Decided in the run**:
+
+- **A strategy stating that data will be stored in the country is a rule being written** (Côte d'Ivoire), as is a policy a minister cites with no instrument or date (Ghana).
+- **A profile with no date of its own does not say there is no rule** (Togo): stage 1 needs the statement dated. One dated outside three years leaves the country unplaced (Eritrea).
+- **A central bank or regulator that issued the rule for the firms it licenses is its enforcer** (Nigeria, Libya, Mozambique, Tanzania, Tunisia, Zimbabwe), and so is an agency the rule names to supervise and fine (Angola) or to certify (Rwanda).
+- **An authority the law leaves unnamed is not an enforcer** (Gabon), and nor is a committee that authorises something else (Kenya).
+- **"Should be hosted locally", with hosting abroad allowed on conditions, is not a rule** (Liberia), nor is a circular favouring national hosting (Burkina Faso).
 
 ## Boundary
 

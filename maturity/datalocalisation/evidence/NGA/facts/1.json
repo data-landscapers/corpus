@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-04-nga-businessday-split-cloud-banks-cbn-data-localisation",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BusinessDay reports the CBN's June 2026 circular requires payment transaction data generated in Nigeria to be stored and managed in Nigeria from 1 January 2027, covering banks, payment service providers, switches, mobile money operators and other licensed participants.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CBN circular on market structure, data localisation, UBO disclosure and systemic oversight in the Nigeria payments system",
+   "class": "rule"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Split-cloud architecture (domestic data, offshore applications)",
+   "country_label": "Split-cloud architecture (domestic data, offshore applications)",
+   "class": "other",
+   "platform": "",
+   "owner": "Banks and fintechs",
+   "tiers": ""
+  },
+  {
+   "system": "Tier III data centre, Lagos (4.5MW initial, 9MW planned)",
+   "country_label": "Tier III data centre, Lagos (4.5MW initial, 9MW planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

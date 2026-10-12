@@ -1,0 +1,15 @@
+{
+  "slug": "2023-04-06-sita-rfb2728-2022-colocation-data-centre-gauteng-invitation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SITA colocation data centre facility, Gauteng",
+      "country_label": "Colocation data centre (RFB2728-2022)",
+      "class": "other",
+      "platform": "",
+      "owner": "SITA",
+      "tiers": "national"
+    }
+  ],
+  "note": "No data localisation rule, draft, enforcer or application stated for South Africa."
+}

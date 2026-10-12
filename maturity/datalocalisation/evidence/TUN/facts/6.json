@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-06-dcd-solecrypt-schneider-bizerte-data-center",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SoleCrypt Bizerte data center",
+      "country_label": "Bizerte 20MW data center",
+      "class": "other",
+      "platform": "",
+      "owner": "SoleCrypt",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned private data centre; no rule stated."
+}

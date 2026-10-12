@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-04-uptime-institute-bon-espoir-certification",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center 1 - Bon Espoir", "country_label": "Bon Espoir data centre, Anse Boileau", "class": "other", "platform": "", "owner": "Cable & Wireless (Seychelles) Limited", "tiers": ""}
+  ],
+  "note": "Certifying-body record of a data centre; states nothing about a rule on keeping data in the country."
+}

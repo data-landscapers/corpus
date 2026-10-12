@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "2",
+   "standing": "draft",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-001",
+   "gaps": "No source held says a rule that data must be kept in the country is in force.",
+   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
+  }
+ ]
+}

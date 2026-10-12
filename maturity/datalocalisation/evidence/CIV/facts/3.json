@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-17-us-starlink-approval-170m-data-centre-garcia-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre national de données (National Data Center)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitalisation (builder Cybastion)",
+   "tiers": "national government"
+  }
+ ],
+ "note": "No rule on keeping data in the country is stated; a data centre alone places nothing."
+}

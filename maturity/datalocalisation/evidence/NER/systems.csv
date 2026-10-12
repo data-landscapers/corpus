@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Data Center national,Data Center national,other,,Government of Niger (Ministry of Communication),national,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,"Datacenter Tier III, Niamey (Trans-Saharan Fibre Optic Backbone project, Niger component)",Datacenter Tiers 3,other,,"Government of Niger (Ministry of Communication), financed with the African Development Bank",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"Centre de traitement informatique (CTI) mutualisé, Côte d'Ivoire and Niger",CTI mutualisé,other,,BCEAO,,2025-04-01-bceao-rapport-imf-moyens-services-paiement-uemoa-2022-2023

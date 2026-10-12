@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-28-nga-businessam-data-localisation-data-centre-investment",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027.", "as_of": "2026-09-28", "date_precision": "day", "system": "CBN data localisation directive", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "standing", "value": "draft", "fact": "The chairman of the National Sovereign Cloud Initiative's technical working group said data has been classified into four categories, with categories three and four, covering areas such as national security, financial services, healthcare and citizen-identifiable information, to be stored in Nigeria by law; the initiative has been in development for over two years and is described as seeking to establish a data residency framework; the interview is undated, so the published date is used.", "as_of": "2026-09-28", "date_precision": "day", "system": "National Sovereign Cloud Initiative", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "CBN data localisation directive", "country_label": "CBN data localisation directive", "class": "rule", "platform": "", "owner": "Central Bank of Nigeria", "tiers": "national; banks, mobile money operators, switches, payment service providers"},
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "rule", "platform": "", "owner": "National Information Technology Development Agency (NITDA)", "tiers": "national"},
+    {"system": "National Digital Cloud Policy", "country_label": "National Digital Cloud Policy", "class": "other", "platform": "", "owner": "Federal Government", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2015-01-26-itweb-sita-national-key-points-state-secret",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SITA data centres (Numerus, Centurion, Beta)",
+      "country_label": "SITA locations on the National Key Points list",
+      "class": "other",
+      "platform": "",
+      "owner": "SITA",
+      "tiers": "national"
+    }
+  ],
+  "note": "No data localisation rule, draft, enforcer or application stated for South Africa."
+}

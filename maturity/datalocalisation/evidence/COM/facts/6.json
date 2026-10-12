@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-05-alwatwan-assoumani-interieur-plan-comores-emergent",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric passport and national ID data",
+      "country_label": "données biométriques",
+      "class": "other",
+      "platform": "GenKey",
+      "owner": "Ministry of the Interior",
+      "tiers": "national"
+    }
+  ],
+  "note": "Interior minister says Comorian data must be held in Comoros and GenKey guarantees it; a statement that data ought to stay, no rule or drafting stated."
+}

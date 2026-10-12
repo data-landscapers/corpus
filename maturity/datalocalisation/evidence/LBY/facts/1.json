@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-30-libyan-spider-opens-new-data-center-in-tripoli-to-enhance-security-and-availabil",
+  "facts": [],
+  "systems": [
+    {"system": "Libyan Spider Tripoli data center", "country_label": "Libyan Spider new data center, Tripoli (opened 22 April 2024, year inferred)", "class": "other", "platform": "", "owner": "Libyan Spider", "tiers": ""}
+  ],
+  "note": "Operator blog post says the new Tripoli data centre complies with unnamed data-residency requirements in Libya; it names no rule, issuer, enforcer or application, so no fact on standing or use."
+}

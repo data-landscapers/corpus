@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-25-govt-moves-to-in-house-local-data",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force",
+     "fact": "Mmegi reports that the Data Protection Act, in effect since January 2025, allows data transfers abroad only to approved countries and requires a copy of the data to remain in Botswana; the report is dated 2025-11-25 and gives no other date for the statement.",
+     "as_of": "2025-11-25", "date_precision": "day", "system": "Data Protection Act", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act", "country_label": "Data Protection Act", "class": "rule", "platform": "", "owner": "Government of Botswana", "tiers": ""},
+    {"system": "Delta Digital Data Centre", "country_label": "Bofinet Delta Digital Data Centre", "class": "other", "platform": "Tier 3 certified data centre", "owner": "Bofinet", "tiers": "government services to migrate from the Department of Shared Digital Services"}
+  ],
+  "note": "The minister's wish to amend the Act to compel all businesses to store data in Botswana is a stated intention with no drafting reported, so no draft fact; no enforcer or application named."
+}

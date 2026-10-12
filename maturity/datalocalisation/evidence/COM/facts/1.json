@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de données national", "country_label": "centre de données national (Moroni, campus de l'Université des Comores)", "class": "other", "platform": "", "owner": "ANADEN (financed by the AfDB)", "tiers": ""},
+    {"system": "Plateforme d'interopérabilité et d'échange de données", "country_label": "plateforme d'interopérabilité et d'échange de données", "class": "other", "platform": "", "owner": "ANADEN (financed by the IsDB)", "tiers": ""}
+  ],
+  "note": "Procurement notice for an e-government project; it states no rule requiring data to be kept in the country."
+}

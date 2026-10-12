@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de Dados do Governo / Nuvem Nacional de Angola (Government Cloud)", "country_label": "Centro de Dados do Governo", "class": "other", "platform": "Tier III, 208 racks, 1,040 kW", "owner": "MINTTICS / INFOSI", "tiers": "national"}
+  ],
+  "note": "Inaugurated 2026-04-28; the source only expects progressive, obligatory migration of public services to the cloud (prevê-se), no issued rule or named instrument."
+}

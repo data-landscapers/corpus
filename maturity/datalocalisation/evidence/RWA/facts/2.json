@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Outposts", "country_label": "AWS Outposts Rwanda", "class": "other", "platform": "Amazon Web Services", "owner": "Amazon Web Services, with Sand Technologies", "tiers": "government institutions and enterprises"}
+  ],
+  "note": "Launch of local hybrid cloud pitched at data residency needs; it states no Rwandan rule requiring data to stay in the country."
+}

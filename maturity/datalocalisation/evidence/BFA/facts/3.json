@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan",
+  "facts": [],
+  "systems": [
+    {"system": "Modular government datacenters (zero data abroad)", "country_label": "chantier « zéro donnée à l'extérieur »; deux datacenters modulaires inaugurés en janvier 2026, FCFA 15 milliards", "class": "other", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": "administration publique"},
+    {"system": "National datacenter (planned)", "country_label": "datacenter national, FCFA 20 milliards, mise en service vers 2028", "class": "other", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": ""}
+  ],
+  "note": "Minister says data abroad is a vulnerability and a zero-data-abroad programme builds hosting capacity; no rule requiring data to be kept in the country is stated."
+}

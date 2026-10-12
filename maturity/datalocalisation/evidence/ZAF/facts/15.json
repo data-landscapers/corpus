@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-20-parliament-ilms-intellectual-property-dispute",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dube Tradeport Data Centre",
+      "country_label": "Dube Tradeport Data Centre",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "MICT SETA chose it for primary, failover and disaster recovery of ILMS data (2026-08-20)"
+    }
+  ],
+  "note": "MICT SETA chose a local data centre by its own choice and warned of sovereignty risk; no rule stated."
+}

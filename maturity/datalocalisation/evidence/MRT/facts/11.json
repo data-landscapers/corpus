@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data centre (Tier III, HCI), Nouakchott",
+      "country_label": "centre national de données",
+      "class": "other",
+      "platform": "hyperconverged (HCI) architecture",
+      "owner": "Ministry of Digital Transformation",
+      "tiers": "national"
+    },
+    {
+      "system": "National cloud",
+      "country_label": "cloud national",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Transformation",
+      "tiers": "national"
+    }
+  ],
+  "note": "Minister says state servers moved to the national centre and the cloud ends reliance on foreign hosting; no rule requiring data to stay is stated."
+}

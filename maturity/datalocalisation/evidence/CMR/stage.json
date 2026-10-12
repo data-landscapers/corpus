@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "3",
+   "standing": "in-force",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-001",
+   "gaps": "No source held names a body that enforces the rule: a regulator, agency or ministry unit that checks compliance or grants exemptions.",
+   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
+  }
+ ]
+}

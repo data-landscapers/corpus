@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital data centre (Cameroon)",
+      "country_label": "ST Digital",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "private sector operators, public agencies, local banks"
+    }
+  ],
+  "note": "Commentary naming ST Digital's Cameroon presence; no Cameroonian localisation rule stated."
+}

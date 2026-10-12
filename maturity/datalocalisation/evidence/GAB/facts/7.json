@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-11-jo-ga-loi-027-2023-cybersecurite-cybercriminalite",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Article 27 of Loi N° 027/2023 on cybersecurity and cybercrime (promulgated 11 July 2023, published in Journal Officiel N°218 bis of 15 July 2023) requires data judged confidential or sensitive under its article 22 to be hosted exclusively on national territory, unless the competent administrative authority grants a written derogation.", "as_of": "2023-07-11", "date_precision": "day", "system": "Loi N° 027/2023 (cybersécurité et lutte contre la cybercriminalité), article 27", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "The competent administrative authority that grants derogations is not named in the passages, so no enforcer fact; no application of the rule is stated."
+}

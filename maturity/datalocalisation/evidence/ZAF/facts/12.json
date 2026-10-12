@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-31-national-policy-on-data-and-cloud",
+  "facts": [],
+  "systems": [
+    {"system": "National Policy on Data and Cloud", "country_label": "National Policy on Data and Cloud", "class": "rule", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national government"}
+  ],
+  "note": "The passages file holds only the contents, abbreviations and a legislative-context sentence noting the 2016 White Paper promotes local data storage; no localisation rule is stated in the text supplied."
+}

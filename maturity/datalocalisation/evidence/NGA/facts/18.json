@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-31-techafricanews-huawei-agentic-ai-cloud-nigeria",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Huawei Cloud Nigeria local cloud",
+      "country_label": "Huawei Cloud",
+      "class": "other",
+      "platform": "Huawei Cloud",
+      "owner": "Huawei",
+      "tiers": ""
+    },
+    {
+      "system": "National Sovereign Cloud Initiative",
+      "country_label": "National Sovereign Cloud Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Company-hosted local cloud and a sovereign cloud initiative; no rule stated."
+}

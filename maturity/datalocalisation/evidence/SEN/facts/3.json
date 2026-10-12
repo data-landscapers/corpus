@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Wavelength Zone Senegal", "country_label": "AWS Wavelength Zone", "class": "other", "platform": "Amazon Web Services", "owner": "Orange", "tiers": "telecoms; finance; public sector; healthcare"}
+  ],
+  "note": "Company announcement of in-country hosting for customers needing data to stay local; states no rule for Senegal."
+}

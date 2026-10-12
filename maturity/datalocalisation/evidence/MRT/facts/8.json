@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-21-mtnima-etablissements-sous-tutelle",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AN-ETAT",
+      "country_label": "AN-ETAT",
+      "class": "other",
+      "platform": "",
+      "owner": "MTNIMA (listed as an entity under its supervision)",
+      "tiers": ""
+    }
+  ],
+  "note": "Ministry list of supervised bodies; states no rule on keeping data in the country."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "draft",
+     "fact": "A 2025 book chapter reports that the Draft National Policy on Data and Cloud, commented on in 2021, required a copy of data to be kept within South African borders as well as copies for law enforcement, while allowing citizen data to be held abroad; no date for the draft itself is given, so 2021 is the date of the cited submission.",
+     "as_of": "2021", "date_precision": "year",
+     "system": "Draft National Policy on Data and Cloud", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Draft National Policy on Data and Cloud", "country_label": "Draft National Policy on Data and Cloud", "class": "rule", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national government"}
+  ],
+  "note": ""
+}

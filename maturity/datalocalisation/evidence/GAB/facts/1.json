@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-gabon-datacenter-tier-iii-avancement-chantier",
+  "facts": [],
+  "systems": [
+    {"system": "Datacenter Tier III (Carrier Hotel neutre, ACE II)", "country_label": "Datacenter Tier III / Gabon Datacenter", "class": "other", "platform": "", "owner": "ACE Gabon SA, state company under the Ministry of Digital Economy", "tiers": "operators, businesses, administrations"}
+  ],
+  "note": "Reports a state-owned Tier III data centre due Nov-Dec 2026 and a minister saying it should foster local data hosting; no rule requiring data to stay in the country is stated."
+}

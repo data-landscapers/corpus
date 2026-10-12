@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Speakers at Camtel's Cloud Days (10 December 2025) recalled that Cameroon's personal data protection law imposes strict requirements on consent, local storage and handlers' responsibilities; the document gives no law date or detail, so the date used is its publication date, 2025-12-11.", "as_of": "2025-12-11", "date_precision": "day", "system": "law on the protection of personal data", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Zamengoé Datacenter", "country_label": "Zamengoé Datacenter", "class": "other", "platform": "", "owner": "Camtel", "tiers": "government agencies and businesses"}
+  ],
+  "note": "No enforcer or application of the rule is stated; the datacenter and sovereignty pitch are noted only."
+}

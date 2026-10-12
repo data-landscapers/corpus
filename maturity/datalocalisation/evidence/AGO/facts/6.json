@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-12-ago-correiokianda-imprensa-nacional-data-center-documentos-seguranca",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center da Imprensa Nacional", "country_label": "Data Center da Imprensa Nacional", "class": "other", "platform": "two servers, 64 cores, 1 TB memory, 76.8 TB raw storage", "owner": "Imprensa Nacional", "tiers": "national"}
+  ],
+  "note": "A state printer's own data centre, inaugurated 2026-09-11; no rule on keeping data in the country is stated."
+}

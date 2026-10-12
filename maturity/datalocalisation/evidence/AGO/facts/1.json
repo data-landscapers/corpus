@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-27-apd-questoes-sobre-proteccao-de-dados-transferencias-internacionais",
+  "facts": [],
+  "systems": [
+    {"system": "Lei n.º 22/11 de 17 de Junho, articles 33 and 37 (conditions on international transfer of personal data)", "country_label": "Lei de Protecção de Dados Pessoais", "class": "other", "platform": "", "owner": "Agência de Protecção de Dados (APD)", "tiers": ""}
+  ],
+  "note": "FAQ states only a case-by-case adequacy test and notification/authorisation for transfers abroad; no rule that data must be kept in the country."
+}

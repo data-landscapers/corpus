@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-30-ateny-digital-transformation-nairobi-summit-eyeradio",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data centre (under construction)",
+      "country_label": "national data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of South Sudan",
+      "tiers": ""
+    }
+  ],
+  "note": "Data centre halfway built; no rule on keeping data in the country stated."
+}

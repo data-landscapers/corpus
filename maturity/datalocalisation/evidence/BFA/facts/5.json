@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-05-burkina-g-cloud-portal",
+  "facts": [],
+  "systems": [
+    {"system": "G-Cloud", "country_label": "Cloud gouvernemental du Burkina Faso", "class": "other", "platform": "", "owner": "ANPTIC / Ministère de la Transition digitale", "tiers": "national; 354 communes connected"}
+  ],
+  "note": "Government cloud portal with undated capacity figures; states no rule requiring data to be kept in the country."
+}

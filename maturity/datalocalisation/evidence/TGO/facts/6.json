@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-24-lome-data-centre-home-page-en",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lomé Data Centre",
+      "country_label": "Lomé Data Centre (LDC)",
+      "class": "other",
+      "platform": "",
+      "owner": "SIN (state-owned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator's marketing of data residency; no government rule stated."
+}
