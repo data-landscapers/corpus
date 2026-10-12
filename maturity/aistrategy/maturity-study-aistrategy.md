@@ -84,14 +84,14 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 
 **Decided in the run**:
 
-- **Money announced at a launch and not yet released is not allocated** (Ghana's US$20 million). **A strategy's own costing is not an allocation** (Kenya), nor is a statement that programme budgets pay for it (Egypt, Mauritius).
+- **Money announced at a launch and not yet released is not allocated** (Ghana's US$20 million). Nor is a strategy's own costing (Kenya) or a statement that programme budgets pay for it (Egypt, Mauritius).
 - **A grant scheme a public regulator runs as an action in the strategy, with its amount named, is a yes to question 4** (Zimbabwe, the one stage 5).
 - **An office the strategy says will be set up is not a body named** (Ghana, Mauritius's council). **A ministry created with the strategy among its duties is the ministry responsible in general** (Benin).
 - **Commissions set up to monitor the strategy's axes are a body** (Algeria), as is a cabinet committee (Kenya) or an existing institute the policy names (Ethiopia, Zambia).
 - **A strategy that sources cite as existing, with no approval or launch stated, answers question 1 only** (Nigeria, Togo, Lesotho's policy of 2025).
 - **A strategy validated at a workshop is a draft** (Burundi, DR Congo). **A draft withdrawn is a draft, not a strategy that has run out** (South Africa).
 - **A source saying a strategy is needed, planned or recommended does not say there is none** (Mali, Madagascar, Eswatini, Chad, Togo): five stage 1 claims removed.
-- **A body created by decree for a strategy still in draft lifts nothing** (Mozambique).
+- **A body created for a strategy still in draft lifts nothing** (Mozambique).
 - **A list of countries "still developing" a strategy is a yes to question 1** (Guinea) **unless a later source contradicts it** (Mali).
 - **The summaries were written by the parent, not by writers**, to stay inside the ceiling.
 
