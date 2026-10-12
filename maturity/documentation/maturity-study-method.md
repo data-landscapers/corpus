@@ -18,7 +18,7 @@ status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11. The sim
 2. **Bill confirms the questions.**
 3. **Corpus runs without stopping**: read, stage, write, render, the soft-launch map (§4, §7, §8).
 
-**Bill is asked one thing: the questions.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3, **in a fresh session**. Every other doubt is settled conservatively and reported at the end.
+**Bill is asked one thing: the questions.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3. **Step 1 starts in a fresh session** *(Bill, 2026-10-12)*: asked to prepare in a session that has done other work, CC asks Bill to clear and does nothing until he has. **Step 3 needs no clearing** and may follow step 1 in the same session. Every other doubt is settled conservatively and reported at the end.
 
 **What Bill reads is in plain words.** A question, a stage and a report line say what is true of a country, in words that need no knowledge of this file.
 
