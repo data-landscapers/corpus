@@ -1,3 +1,7 @@
+## 12 October 2026
+
+- Twenty-two country status reports no longer say that rural clinics, schools, police posts or registry offices record on paper where the cited source does not say so. Each sentence now gives only what its source states.
+
 ## 5 October 2026
 
 - Cabo Verde's 2025 and 2026 budget tables now show what the government proposed for its two digital programmes beside what was enacted. The 2025 figures passed unchanged; for 2026 the Assembly trimmed each by about CVE 0.6m.

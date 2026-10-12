@@ -1,6 +1,6 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-11
+compiled: 2026-10-12
 place: BWA
 region: XSA
 built_by: STATUS-INIT
@@ -253,7 +253,7 @@ Revenue administration is the priority. [The revenue service is modernising Lekg
 <!-- derived -->
 That is roughly eight and a half times the entire ICT envelope in the same programme, the envelope carrying the national payment switch.
 
-Elsewhere the front line is still on paper: [the annual school census that produces national education statistics is completed on paper at school level and aggregated centrally (2025)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf).
+Schools report by form: [the annual school census that produces national education statistics is collected on questionnaires sent to schools each year (2018)](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
@@ -284,7 +284,7 @@ Citizen participation in local development planning has a statutory channel in t
 ### Rural digital data capture
 <!-- digital.rural -->
 
-In rural Botswana's clinics and schools the record is still made on paper (2025): rural primary clinics [enter patient data in paper registers and forms at the point of service](https://doi.org/10.2196/preprints.59816), with the national electronic systems concentrated in referral and general hospitals; rural primary schools [complete the annual school census on paper questionnaires](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf) that are aggregated centrally, the digital capacity sitting in the ministry's information-system unit rather than at the school.
+In rural Botswana's clinics and schools the record is still made on paper (2025): rural primary clinics [enter patient data in paper registers and forms at the point of service](https://doi.org/10.2196/preprints.59816), with the national electronic systems concentrated in referral and general hospitals; rural primary schools [complete the annual school census on questionnaires sent to them each year](https://www.statsbots.org.bw/sites/default/files/Primary%20School%20Stats%20Brief%202018.pdf) that are aggregated centrally, the digital capacity sitting in the ministry's information-system unit rather than at the school.
 
 The pressure to change this is being applied from the top rather than at the desk. Addressing the police service's senior officers in May 2025, the President [said officers spent 60 percent of their time on paperwork and pressed for technology to free them for field work](https://dailynews.gov.bw/news-detail/86181), and the [conference resolved to prioritise technology for predictive policing](https://dailynews.gov.bw/news-detail/86258). The rural connectivity programme itself runs through [the Universal Access and Service Fund and the SmartBots programme, which target broadband for more than 500 villages by 2030](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) (August 2026). Civil registration is the exception that shows what the rest is missing: district and sub-district offices [register births and deaths directly into the national system](https://statsbots.org.bw/sites/default/files/Vital%20Statistics%20Report%202023_0.pdf), and reach remote areas through health-facility desks and mobile outreach (2023).
 

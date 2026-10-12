@@ -1,6 +1,6 @@
 ---
 title: Rwanda: status report
-compiled: 2026-10-10
+compiled: 2026-10-12
 place: RWA
 region: XEA
 built_by: STATUS-INIT
@@ -252,7 +252,7 @@ Donors have funded the lower tier directly rather than as an afterthought to nat
 ### Rural digital data capture
 <!-- digital.rural -->
 
-In rural Nyaruguru district, [the integrated justice case management system is in use in the police and justice offices, though ICT literacy and infrastructure limits mean some initial documentation is still taken on paper](https://dr.ur.ac.rw/handle/123456789/2173) (2025). The same gap between where a record arises and where it becomes data runs through civil registration: events in a community rather than a health facility are [written up on paper by the village chief and entered into the electronic register afterwards by the cell executive secretary](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf), while facility births and deaths are captured at the point of service.
+In rural Nyaruguru district, [a study of the integrated electronic case management system found it improving access to justice services, with ICT literacy and infrastructure limits the challenges](https://dr.ur.ac.rw/handle/123456789/2173) (2023). The same gap between where a record arises and where it becomes data runs through civil registration: events in a community rather than a health facility are [registered by the cell executive secretary on information provided by the village head](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf), while facility births and deaths are captured at the point of service.
 
 Elsewhere these are rollouts in progress rather than systems in place. The health ministry's replacement for paper registers at health centres [was short of national coverage in April 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). The education ministry has [introduced a digital attendance system to identify learners at risk of dropping out](https://www.newtimes.co.rw/article/32152/news/technology/new-digital-attendance-system-aims-to-curb-school-dropouts) (December 2025). Land is the exception: [nationwide tenure regularisation](https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf) has put the rural parcel base into one register, and correction drives are [reworking its boundary errors district by district](https://realrwanda.rw/en/kayonza-land-correction-drive-issues-over-28000-titles-cuts-boundary-wrangles).
 

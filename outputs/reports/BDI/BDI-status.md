@@ -1,6 +1,6 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-11
+compiled: 2026-10-12
 place: BDI
 region: XEA
 built_by: STATUS-INIT
@@ -274,7 +274,7 @@ The statutory frame long predates any of it. The 2014 communal administration la
 
 Burundi's largest exercise in rural electronic data capture was a public health campaign: the 2025 mass distribution of insecticide-treated bednets [registered households electronically at the door, managed stock by barcode and QR code, and tracked distribution in real time](https://allianceformalariaprevention.com/wp-content/uploads/2026/02/08_Burundi_Digitalization-2025-ITN-campaign_Georgette-Nibitanga_FR.pdf).
 
-The standing systems that collect data from rural Burundi every year do not work that way. The annual school census is [collected on paper at the school and entered electronically only at central level](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-08-assessment-enabling-factors-burundi.pdf) (December 2023). Rural civil registry offices [register births, deaths and marriages entirely on paper](https://www.undp.org/fr/burundi/actualites/pnud-digitalisation-de-letat-civil-une-revolution-pour-un-service-public-efficace) (2026).
+The standing systems that collect data from rural Burundi every year do not work that way. The annual school census is [collected on paper at the school and entered electronically only at central level](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-08-assessment-enabling-factors-burundi.pdf) (December 2023). Civil registry services [are being digitised with UNDP support, so that a record can be found by name and acts are no longer at risk of loss](https://www.undp.org/fr/burundi/actualites/pnud-digitalisation-de-letat-civil-une-revolution-pour-un-service-public-efficace) (January 2025).
 
 What is arriving is equipment rather than systems. [An African Development Bank-financed project tendered in June 2026 for IT equipment for the Rusi polytechnic centre and ten rural digital learning centres, including tablets for data collection](http://lerenouveau.bi/peappjf-4/), and [UNICEF sought suppliers in August 2026 for computers and power units for écoles centrales in the former provinces of Kirundo, Muyinga and Gitega](https://www.ungm.org/Public/Notice/310460).
 
