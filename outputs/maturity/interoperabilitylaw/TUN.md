@@ -1,0 +1,11 @@
+# Tunisia
+
+## Data sharing law
+
+**Law or decree in force.** Tunisia's Decree-Law 2020-31 of 10 June 2020 on the electronic exchange of data between public structures, and between them and their users, [was approved by Law 14 of 7 April 2021](<https://www.pm.gov.tn/sites/default/files/2026-09/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%B9%D8%AF%D8%AF04%20%D9%84%D8%B3%D9%86%D8%A9%202026_0_0.pdf>). [Government Decree 2020-777 of 5 October 2020](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/>) sets the conditions and procedures for applying it, and took effect on 1 January 2021.
+
+**Sharing required and the law applied.** The 2020 decree says [public structures must use electronic exchange among themselves and with their users](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/>). They must give the interoperability operator the list of the data flows they can supply, and may not ask for more than one electronic copy of a document. The decree itself [is the rule made under the decree-law](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/>), and sets up a strategic committee and a coordination committee; it dates from 2020. No rule made under the decree-law since 2023 is recorded.
+
+***Noted, not assessed***. [Plateforme d'interopérabilité (national interoperability platform)](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/>).
+
+***Not held***. No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.

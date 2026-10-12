@@ -1,0 +1,15 @@
+{
+ "slug": "2019-07-01-niger-loi-2019-29-regime-etat-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC",
+   "country_label": "registre national de l'état civil",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil-status act; passages held state no provision on public bodies sharing data."
+}

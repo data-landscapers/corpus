@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "other", "platform": "mobile application", "owner": "ONECI and La Poste de Côte d'Ivoire", "tiers": "national"},
+    {"system": "RNPP", "country_label": "Registre National des Personnes Physiques", "class": "other", "platform": "biometric population register", "owner": "ONECI", "tiers": "national"}
+  ],
+  "note": "ONECI launch notice for MaPoste; names no law, decree or duty on public bodies sharing data."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-11-government-data-sharing-regulation-boma-lathu-itweb",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "ITWeb Africa reports that Malawi's Ministry of ICT has proposed a Government Data Sharing Regulation (a draft regulation, not yet in force) to govern the National Data Exchange Platform, Boma Lathu; the report is dated 2026-06-11 and gives no earlier date for the proposal.", "as_of": "2026-06-11", "date_precision": "day", "system": "Government Data Sharing Regulation", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "none", "fact": "The ICT Minister is quoted saying government institutions still share citizen data by email, USB drives and paper, and that a binding regulation on exchange through the platform is the missing piece, so no instrument in force yet requires data exchange; the report is dated 2026-06-11.", "as_of": "2026-06-11", "date_precision": "day", "system": "Government Data Sharing Regulation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Boma Lathu", "country_label": "National Data Exchange Platform", "class": "other", "platform": "", "owner": "Ministry of ICT", "tiers": ""},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Ministry of ICT", "tiers": ""},
+    {"system": "Data Protection Act (2024)", "country_label": "Data Protection Act", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

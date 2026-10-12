@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-17-egypt-law-88-2025-unified-real-estate-id-database",
+  "facts": [],
+  "systems": [
+    {"system": "National unified real estate number database (Law 88 of 2025)", "country_label": "قاعدة بيانات الرقم القومى الموحد للعقارات", "class": "other", "platform": "Unified Base Map / spatial information infrastructure", "owner": "CAPMAS with the Military Survey Department", "tiers": "state authorities, bodies providing public services or running public utilities (Art. 7)"}
+  ],
+  "note": "Act (Law 88 of 2025, in force 18 June 2025) is a one-sector property identifier law: it obliges state bodies to deal with property through the unified number (Art. 7) and public and private bodies to supply CAPMAS data (Art. 8), but is not a general law on public bodies sharing data, so class other and no fact."
+}

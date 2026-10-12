@@ -1,0 +1,11 @@
+# Algeria
+
+## Data sharing law
+
+**Law or decree in force.** Algeria's [Presidential Decree 25-320 of 30 December 2025](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf>), published in Official Journal no. 87, sets up a national data governance system. Within it, a national interoperability system secures the exchange of data between public institutions and administrations. In September 2026 [a further presidential decree on a secure digital interoperability plan was reported as being drawn up](<https://www.jeune-independant.net/guessoum-sur-lelaboration-dun-decret-sur-linteroperabilite-numerique-permettre-aux-avancees-numeriques-de-produire-pleinement-leurs-effets/>) on the President's instruction.
+
+**Sharing required and the law applied.** The 2025 decree makes the national interoperability system [the exclusive framework for exchanging digital data between public institutions and administrations](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf>), over a secure national interconnection network set aside for the purpose. Each body must classify and catalogue its data to gain access. No order made under the decree is recorded, and no institution is named as exchanging data through the system because the decree requires it.
+
+***Noted, not assessed***. [Dzair Digital Services](<https://www.jeune-independant.net/guessoum-sur-lelaboration-dun-decret-sur-linteroperabilite-numerique-permettre-aux-avancees-numeriques-de-produire-pleinement-leurs-effets/>); [Réseau d'interconnexion national sécurisé](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf>); [IRIES](<https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/>); [النظام الوطني للتشغيل البيني (national interoperability system)](<https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/>); [Dispositif national de gouvernance des données](<http://news.radioalgerie.dz/fr/node/79376>).
+
+***Not held***. No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.

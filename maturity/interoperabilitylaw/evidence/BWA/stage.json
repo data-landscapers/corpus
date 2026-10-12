@@ -1,0 +1,16 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "duty": "required",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-002;BWA-001",
+   "gaps": "No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.",
+   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
+  }
+ ]
+}

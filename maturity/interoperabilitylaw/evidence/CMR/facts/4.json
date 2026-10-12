@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "PATNuC's explainer of 20 November 2025 describes the e-Gov reform on access to public information and digital transformation of the administration as one of the texts examined at the Ebolowa workshop, and says it provides that administrations must make their information systems compatible to share data securely, with GovTech Cameroun steering interoperability; it reports no promulgation, so this is a bill (the document itself gives no date for the bill, so as_of is the workshop and the document's published date of 2025-11-20).",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "e-Gov law (loi relative à l'accès à l'information publique et à la transformation numérique de l'administration)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plateforme nationale unifiée (single access point for digital public services)",
+      "country_label": "plateforme nationale unifiée",
+      "class": "other",
+      "platform": "",
+      "owner": "GovTech Cameroun",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

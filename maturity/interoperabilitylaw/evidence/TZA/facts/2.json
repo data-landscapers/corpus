@@ -1,0 +1,11 @@
+{
+  "slug": "2019-09-19-e-government-act-cap273",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The e-Government Act (Cap. 273, Act No. 10 of 2019, an act of parliament) commenced on 19 September 2019 (GN No. 964 of 2019) and applies to all public institutions; its Part VIII, Electronic Government Data Management, has a section 48 headed Data sharing and exchange and it defines interoperability as systems exchanging data, though the section text is not held and the date is the Act's commencement.",
+     "as_of": "2019-09-19", "date_precision": "day", "system": "e-Government Act, Cap. 273 (Act No. 10 of 2019)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "e-Government Act, Cap. 273 (Act No. 10 of 2019)", "country_label": "e-Government Act", "class": "law", "platform": "", "owner": "Parliament; administered by the e-Government Authority", "tiers": "all public institutions"}
+  ],
+  "note": "Text of ss.47-49 is not held, so nothing states that the Act obliges public bodies to exchange data or that it has been applied."
+}

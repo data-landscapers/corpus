@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-20-dza-echaab-rakmana-shafafiya-asrana",
+  "facts": [],
+  "systems": [
+    {"system": "IRIES", "country_label": "الشبكة السيادية المؤمنة الوطنية (national secured sovereign network)", "class": "other", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "more than 100 ministerial sectors and public bodies"},
+    {"system": "النظام الوطني للتشغيل البيني (national interoperability system)", "country_label": "النظام الوطني للتشغيل البيني", "class": "other", "platform": "", "owner": "", "tiers": "ministries such as health, justice and interior"},
+    {"system": "Dzair Digital Services", "country_label": "dzair digital services", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names a national interoperability system and the IRIES network but no law, decree or draft on public bodies sharing data."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-ande-deploiement-plateforme-nationale-e-services",
+  "facts": [],
+  "systems": [
+    {"system": "e-Services", "country_label": "plateforme nationale e-Services", "class": "other", "platform": "", "owner": "ANDE, supported by the WARDIP Guinée programme", "tiers": "citizens and businesses"}
+  ],
+  "note": "ANDE news item on launching deployment of the e-Services platform; names no law, decree or draft on data sharing."
+}

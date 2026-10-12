@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-interoperabilitylaw.md — the twenty-second maturity study: the law on public bodies sharing data with each other, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; waits for Bill to confirm the questions. Nothing has been read or staged
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: interoperabilitylaw
@@ -83,10 +83,22 @@ The held news on this subject is thin: the payments law study opened on 97 stori
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: the 30 stories; then the cited news of the countries left short; then one call for a country with no answer to question 1 or 2.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement of two drafters on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 30 stories and what the current cells cite, texts included, 76 calls; then one call each for 11 countries whose held news might name a law, and Zambia's act. 45 facts held.
+- [x] **D3. Staged**: six at stage 4, eight at 3, eight at 2, none at 5 or 1, and 32 with no evidence, as at 2026-09-30; two facts removed and one revalued by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **Stage 4**: Botswana, Cote d'Ivoire, Algeria, Gabon, Mozambique, Tunisia. **None reaches 5**: Tunisia's only rule under its decree-law dates from 2020.
+- **Liberia's executive order of April 2026 is a draft, not a law in force**, legislation being due within a year; as Bill ruled for Kenya's identity system.
+- **A draft that is planned is not a draft** (South Africa); nor is a reform said to need the once-only rule, with no text named (Guinea). Both hold no fact.
+- **An act not yet started by its minister is in force** (Botswana).
+- **A section headed *Data sharing and exchange* makes an e-government act count** (Tanzania); one saying only that a body *may* share stops at stage 3 (Zambia).
+- **An e-government bill or act described without data exchange gives nothing** (Nigeria, Sierra Leone, Morocco's Law 55-19, Namibia's Electronic Transactions Act).
+- **Kenya holds no fact**: its Digital Health Act and its agricultural information bill are for one sector.
+- **The third read was cut to 11 countries**, the ones whose held news might name a law, to stay inside the ceiling; the cells' cited texts were read with their news.
+- **The summaries were written by the parent.** **Tokens: 36.1 million at the map**, ceiling 40 million.
 
 ## Boundary
 

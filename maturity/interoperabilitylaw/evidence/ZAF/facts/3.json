@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-27-mzansixchange-pilot-programme",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The National Treasury's MzansiXchange pilot plan (October 2025 to September 2026) lists the legal framework as in development in Q4 2025 and draft data exchange legislation as a Q2 2026 deliverable, ready for consolidation with broader digital transformation efforts; this is a planned draft act, no bill or text is named, and the date is the document's published date.", "as_of": "2025-09-27", "date_precision": "day", "system": "MzansiXchange", "class": "law"}
+  ],
+  "systems": [
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "other", "platform": "", "owner": "National Treasury", "tiers": "national departments: SASSA, NSFAS, Home Affairs, National Treasury offices, Statistics South Africa"}
+  ],
+  "note": ""
+}

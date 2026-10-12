@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-01-mtnra-guide-methodologique-simplification-digitalisation-parcours-usagers",
+  "facts": [],
+  "systems": [
+    {"system": "idarati.ma", "country_label": "Portail national Idarati", "class": "other", "platform": "", "owner": "MTNRA (ministry in charge of digital transition and administrative reform)", "tiers": "public administrations that transcribed more than 2,500 procedures onto it"}
+  ],
+  "note": "Loi 55-19 on simplifying administrative procedures (in force 28 September 2020) is not described as providing for public bodies exchanging data; the 2018 Royal Speech barring administrations from demanding documents another administration holds is a speech, not an instrument."
+}

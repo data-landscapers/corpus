@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-09-tdr-implementacao-da-interoperabilidade-da-administracao-publica",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade da Administração Pública (PIAP)", "country_label": "PIAP", "class": "other", "platform": "central services, trust services and middleware for API management and orchestration", "owner": "Instituto de Modernização Administrativa (IMA), under the World Bank-financed PADA", "tiers": "pilot of up to five public institutions and ten priority services or integrations"}
+  ],
+  "note": "Terms of reference for a consultancy to support the PIAP; names no law or decree on data sharing, only that the diagnostic found legal gaps and that the roadmap rests on adequate legal framing."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-11-intic-egif4m2-regulation-review",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "INTIC reports that a two-day national workshop on 11 June 2026 held the final consultation on the revised Regulation of the Interoperability Framework for Digital Government Systems (eGIF4M2), a draft regulation, described as the last consultation before its final approval.", "as_of": "2026-06-11", "date_precision": "day", "system": "eGIF4M2 revised interoperability regulation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Quadro de Interoperabilidade de Sistemas de Governo Digital (eGIF4M2)", "country_label": "eGIF4M2", "class": "other", "platform": "", "owner": "MCTD, INTIC and ATDI", "tiers": "public institutions"}
+  ],
+  "note": ""
+}

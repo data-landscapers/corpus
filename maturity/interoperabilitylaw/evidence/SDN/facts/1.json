@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-sudan-justice-ministry-ai-digital-laws",
+  "facts": [],
+  "systems": [
+    {"system": "Data and Artificial Intelligence Regulation Act 2026 (draft law)", "country_label": "قانون تنظيم البيانات والذكاء الاصطناعي لسنة 2026", "class": "other", "platform": "", "owner": "Ministry of Justice with Ministry of Digital Transformation and Communications", "tiers": ""},
+    {"system": "Digital Transformation Regulation Act 2026 (draft law)", "country_label": "قانون تنظيم التحول الرقمي لسنة 2026", "class": "other", "platform": "", "owner": "Ministry of Justice with Ministry of Digital Transformation and Communications", "tiers": ""}
+  ],
+  "note": "Announces three planned 2026 bills (cybersecurity, data and AI, digital transformation) but says nothing of public bodies sharing data with each other; no fact."
+}

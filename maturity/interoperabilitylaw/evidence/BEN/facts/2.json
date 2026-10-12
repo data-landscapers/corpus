@@ -1,0 +1,10 @@
+{
+  "slug": "2020-03-18-benin-decret-2020-209-plateforme-interoperabilite-xroad-bj",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree (décret) no. 2020-209 of 18 March 2020, issued by the Presidency, sets up the XRoad BJ national interoperability platform; the document describes it as the founding instrument of the platform and states nothing on whether it obliges public bodies to use it.", "as_of": "2020-03-18", "date_precision": "day", "system": "XRoad BJ", "class": "law"}
+  ],
+  "systems": [
+    {"system": "XRoad BJ", "country_label": "Plateforme d'Interopérabilité XRoad BJ", "class": "other", "platform": "X-Road (UXP)", "owner": "Presidency of the Republic (ASIN)", "tiers": ""}
+  ],
+  "note": "Held text is a stub: the PDF is an unreadable scan, so only the decree's existence, number, date and purpose are stated; no duty or application fact."
+}

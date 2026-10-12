@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-itweb-africa-namibia-digital-trust-framework",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Key Infrastructure", "country_label": "NPKI / National Trust Framework", "class": "other", "platform": "Veridos", "owner": "CRAN", "tiers": ""}
+  ],
+  "note": "Implementation agreement for a national PKI; no law on public bodies sharing data is mentioned."
+}

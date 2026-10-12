@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-22-gouv-conseil-ministres-etat-civil-anei",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC",
+   "country_label": "Registre National de l'Etat Civil",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Générale de l'état civil, des migrations et des réfugiés",
+   "tiers": ""
+  },
+  {
+   "system": "RNP",
+   "country_label": "Registre National de la Population",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil-status ordonnance and ANEI decrees are identity-sector; the text cites a deficit of interoperability between registers but states no law on public bodies sharing data."
+}

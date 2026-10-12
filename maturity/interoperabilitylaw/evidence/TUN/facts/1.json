@@ -1,0 +1,12 @@
+{
+  "slug": "2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Government decree no. 2020-777 of 5 October 2020 sets the conditions and procedures for electronic data exchange between structures (public bodies and bodies running a public service) and between them and their users, applying decree-law of the Head of Government no. 2020-31 of 10 June 2020; it enters into force on 1 January 2021 (art. 28) and was published in JORT no. 100.", "as_of": "2020-10-05", "date_precision": "day", "system": "Decree-law no. 2020-31 and government decree no. 2020-777 on electronic data exchange", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "Government decree no. 2020-777 of 5 October 2020 says public structures must use electronic exchange among themselves and with users (art. 4), must make the list of their available data flows and licences available to the interoperability operator (art. 20), and may not demand more than one electronic copy of a document (art. 11); the text is binding from 1 January 2021.", "as_of": "2020-10-05", "date_precision": "day", "system": "Decree-law no. 2020-31 and government decree no. 2020-777 on electronic data exchange", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "applied", "fact": "Government decree no. 2020-777 of 5 October 2020 is itself the implementing decree made under decree-law no. 2020-31, creating the interoperability operator's duties (art. 18) and a Strategic Committee and a Coordination Committee (arts. 21-25); the document is dated 2020 and gives no later application.", "as_of": "2020-10-05", "date_precision": "day", "system": "Decree-law no. 2020-31 and government decree no. 2020-777 on electronic data exchange", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité (national interoperability platform)", "country_label": "plateforme d'interopérabilité", "class": "other", "platform": "", "owner": "interoperability operator (personne publique), under the ministry in charge of communication technologies", "tiers": "structures publiques and other structures running a public service"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-07-gabon-egov-legal-framework",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "GabonReview reports that the ordinance on digitalisation, signed by President Oligui Nguema, was published in the Journal officiel on 7 September 2025 and for the first time sets a legal framework for e-government in Gabon (an ordinance, executive instrument; no number given in the article).", "as_of": "2025-09-07", "date_precision": "day", "system": "Ordonnance sur la digitalisation (Gabon)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "GabonReview reports that the ordinance on digitalisation establishes mandatory interconnection between administrations to ease exchange of information and simplify procedures, and makes interoperability of information systems a central axis; it also requires public administrations to digitise their services.", "as_of": "2025-09-07", "date_precision": "day", "system": "Ordonnance sur la digitalisation (Gabon)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

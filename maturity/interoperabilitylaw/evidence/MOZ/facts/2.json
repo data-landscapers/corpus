@@ -1,0 +1,11 @@
+{
+  "slug": "2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree no. 67/2017 of 1 December 2017 (Council of Ministers decree, made under Law 3/2017 on Electronic Transactions) approves the e-Government Interoperability Framework Regulation, applicable to all public administration institutions and in force 180 days after publication; the gazette text gives no repeal.", "as_of": "2017-12-01", "date_precision": "day", "system": "Regulamento do Quadro de Interoperabilidade de Governo Electronico", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "Decree no. 67/2017 (decree) Article 11 obliges public administration entities to share the data they hold and reuse data held by other state entities, Article 12 obliges them to reuse citizen data already supplied via the interoperability platform, and Article 17 obliges them to use the single interoperability platform.", "as_of": "2017-12-01", "date_precision": "day", "system": "Regulamento do Quadro de Interoperabilidade de Governo Electronico", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Plataforma Comum de Comunicacao de Dados do Governo e de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade", "class": "other", "platform": "", "owner": "INAGE (Instituto Nacional de Governo Electronico)", "tiers": "all public administration institutions, central and local"}
+  ],
+  "note": ""
+}

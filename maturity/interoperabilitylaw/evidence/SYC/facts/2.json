@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01 National Addressing System - Seychelles Postal Regulator",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Addressing and Postcode System",
+      "country_label": "National Addressing System",
+      "class": "other",
+      "platform": "S42 address standard",
+      "owner": "Seychelles Postal Regulator",
+      "tiers": ""
+    }
+  ],
+  "note": "Draft addressing legislation only; an addressing law is not a law on public bodies sharing data."
+}

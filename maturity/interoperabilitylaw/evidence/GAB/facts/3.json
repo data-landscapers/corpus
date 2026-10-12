@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-24-gabon-2026-digital-budget-156pct",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "WeAreTech Africa reports that the government recently issued an ordinance on digitalisation (an ordinance made by the Head of State, an executive instrument with legal force); the article gives no ordinance number and no date of issue, so as_of is the article's published date.", "as_of": "2025-10-24", "date_precision": "day", "system": "Ordinance on digitalisation (Gabon)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "WeAreTech Africa reports that the ordinance mandates public administrations to digitise services and interconnect systems; the article gives no number for the ordinance and no date of issue, so as_of is the article's published date.", "as_of": "2025-10-24", "date_precision": "day", "system": "Ordinance on digitalisation (Gabon)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

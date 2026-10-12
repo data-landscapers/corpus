@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-01-liberia-executive-order-147-mandatory-nbis-enrollment",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NBIS", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "central government institutions and private sector"},
+    {"system": "Identity Query Portal and e-Verification platform", "country_label": "Identity Query Portal; eVerification platform", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "government ministries, agencies, commissions; private institutions"}
+  ],
+  "note": "Text of Executive Order 147 (April 2025): requires all public and private institutions to use the NIR database and identity queries, but it is an identity-sector order, not a law or decree on public bodies sharing data with each other, so class other and no fact. The parent may rule otherwise."
+}

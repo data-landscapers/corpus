@@ -1,0 +1,8 @@
+{
+  "slug": "2015-05-08-lei-6-15-simplificacao-do-registo-de-nascimento-e-do-registo-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Base de dados do registo civil", "country_label": "base de dados do registo civil", "class": "other", "platform": "", "owner": "Ministry of Justice (departamento ministerial responsável pelo Sector da Justiça)", "tiers": "civil registry offices, health units, social assistance, social security and tax services"}
+  ],
+  "note": "Lei n.º 6/15 is a civil-registration sector law (birth registry data to health, social security, tax services); sector-only, so class other and no fact."
+}

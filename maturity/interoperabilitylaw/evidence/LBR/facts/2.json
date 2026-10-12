@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-30-no-national-id-no-transaction-eo147-observer",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NBIS", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "ministries of Education, Health, Internal Affairs and Finance; banks; mobile network operators"},
+    {"system": "NIR platform (SIM registration verification)", "country_label": "NIR platform", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "Liberia Telecommunications Authority, mobile network operators"}
+  ],
+  "note": "News of an identity order (EO 147); it makes the NIR database accessible to institutions but names no law or decree on public bodies sharing data with each other."
+}

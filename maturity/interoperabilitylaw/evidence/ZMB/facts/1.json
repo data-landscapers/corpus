@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-23 Zambia begins amending Electronic Government Act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "ITWeb Africa reports that the Electronic Government (Amendment) Bill, revising the Electronic Government Act No. 41 of 2021, was presented at a SMART Zambia Institute stakeholder meeting in January 2026 (a bill, not in force); the article describes its content as legal standing for electronic submissions and digital authentication, and ties it to moving from independent digital systems to an integrated ecosystem and to the vendor-locked systems that prevent data sharing, but does not say the bill itself provides for public bodies exchanging data; the date is the article's published date.",
+     "as_of": "2026-01-23", "date_precision": "day",
+     "system": "Electronic Government (Amendment) Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic Government (Amendment) Bill", "country_label": "Electronic Government (Amendment) Bill", "class": "law", "platform": "", "owner": "SMART Zambia Institute", "tiers": ""},
+    {"system": "Electronic Government Act No. 41 of 2021", "country_label": "Electronic Government Act No. 41 of 2021", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The article does not say the Act in force provides for public bodies exchanging data, so no in-force fact; the bill fact is borderline on the data-sharing content."
+}

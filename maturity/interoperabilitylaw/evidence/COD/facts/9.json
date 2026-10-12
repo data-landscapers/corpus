@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Guichet numérique",
+      "country_label": "Guichet numérique",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Economy",
+      "tiers": ""
+    },
+    {
+      "system": "RDC-PASS",
+      "country_label": "RDC-PASS",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Economy",
+      "tiers": ""
+    }
+  ],
+  "note": "Decrees for Guichet numérique and e-certification agency are not stated to provide for data exchange between public bodies; Digital Code mentioned only as a general framework."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-28-economist-namibia-launches-diginam-national-pki",
+  "facts": [],
+  "systems": [
+    {"system": "DigiNam National Public Key Infrastructure", "country_label": "DigiNam / National PKI", "class": "other", "platform": "", "owner": "CRAN (Root Certification Authority)", "tiers": ""},
+    {"system": "Electronic Transactions Act of 2019", "country_label": "Electronic Transactions Act, Chapter 5 and Section 20", "class": "other", "platform": "", "owner": "CRAN", "tiers": ""}
+  ],
+  "note": "Describes secure interoperability letting agencies cross-verify data as an aim of the PKI, and mandatory standards as a future priority; names no data sharing law, decree or draft."
+}

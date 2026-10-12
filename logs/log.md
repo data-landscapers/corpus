@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 18:43 · **MATURITY-STUDY** · 11m · interoperabilitylaw run: 45 facts; as at 2026-09-30 stage 4: 6, 3: 8, 2: 8, none at 5 or 1, 32 without evidence; 3 corrections; agreement 20 of 20; on the map. Tokens 36.3M, ceiling 40M
 2026-10-12 18:15 · **MATURITY-STUDY** · unclocked · interoperabilitylaw, step 1: four questions prepared for `gov.legislate--legislation-enabling-data-interoperability`; 30 unread stories about a law on public bodies sharing data covering 15 countries, 139 cited by the current cells, ceiling 40M. Nothing run; waits for Bill.
 2026-10-12 18:03 · **MATURITY-STUDY** · unclocked · digitalidlaw, Kenya: on Bill's ruling the system runs on an executive order with no identity law behind it; stage 4 -> 2
 2026-10-12 18:00 · **MATURITY-STUDY** · unclocked · digitalidlaw, Kenya: Kabata (2024) arrived from ingest; Registration of Persons Act as amended 2018 sets up the population register and unique number; no evidence -> stage 4; 10 countries now without evidence

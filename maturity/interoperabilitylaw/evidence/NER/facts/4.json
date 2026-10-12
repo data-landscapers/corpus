@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "RNP",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil registration and identification reform only (sector-specific, class other); no general law on public bodies sharing data stated."
+}

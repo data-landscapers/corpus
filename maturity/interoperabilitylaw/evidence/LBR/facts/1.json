@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-30 Liberia makes biometric ID mandatory — Executive Order 147",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NBIS", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "ministries, agencies, private institutions"},
+    {"system": "NIR online identity-query portal and e-verification platform", "country_label": "Identity Query Portal / e-Verification platform", "class": "other", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "government ministries, agencies, private institutions"}
+  ],
+  "note": "Executive Order 147 is a national identity order; no statement of a law on public bodies sharing data with each other."
+}

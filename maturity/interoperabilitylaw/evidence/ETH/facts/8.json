@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MESOB",
+   "country_label": "MESOB (Modern Ethiopian Service for Organized Benefits)",
+   "class": "other",
+   "platform": "MOSIP-based Fayda for authentication",
+   "owner": "",
+   "tiers": "12 federal institutions"
+  }
+ ],
+ "note": "Describes a one-stop platform on Fayda ID; no legal instrument on data exchange named."
+}

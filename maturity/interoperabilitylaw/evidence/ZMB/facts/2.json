@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-17 Zambia's govt leans towards open-source",
+  "facts": [],
+  "systems": [
+    {"system": "National Spatial Data Infrastructure (NSDI) Policy and NSDI Portal", "country_label": "NSDI Portal", "class": "other", "platform": "open-source software", "owner": "Cabinet Office / Government Chief Technology Officer (Smart Zambia)", "tiers": "government institutions"}
+  ],
+  "note": "Story on a spatial data policy and portal launched June 2026 and a Cabinet direction to adopt open-source; it names no law, decree, regulation or draft on public bodies sharing data."
+}

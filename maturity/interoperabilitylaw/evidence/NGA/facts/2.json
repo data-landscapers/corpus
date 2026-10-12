@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-nigeria-s-identity-law-raises-questions-over-who-regulates-digital-signatures",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Key Infrastructure (NIMC Root Certification Authority)", "country_label": "National PKI", "class": "other", "platform": "", "owner": "NIMC", "tiers": ""},
+    {"system": "NIMC identity database (NIN)", "country_label": "National Identification Number database", "class": "other", "platform": "", "owner": "NIMC", "tiers": "government agencies, banks, businesses via secure APIs"}
+  ],
+  "note": "The NIMC Act 2026 is an identity law (class other); the Digital Economy and E-Governance Bill (approved by the House by May 2026, awaiting the Senate) is described only for e-signatures and paperless records (ss 16-18, 44-46), not for public bodies exchanging data, so no fact. The NIMC Act empowering NIMC to build data-sharing systems across public institutions is noted only."
+}

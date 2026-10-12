@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas",
+  "facts": [],
+  "systems": [
+    {"system": "Gov.cv", "country_label": "Portal Gov.cv", "class": "other", "platform": "", "owner": "Government of Cabo Verde", "tiers": "central government ministries (finance, civil registry and others); existing portals such as Porton di Nos Ilha to migrate into it"}
+  ],
+  "note": "Launch of the Gov.cv single portal; the Prime Minister says systems will talk to each other (interoperability) but no law, decree or draft on data sharing between public bodies is named."
+}

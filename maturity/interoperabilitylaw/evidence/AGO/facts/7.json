@@ -1,0 +1,10 @@
+{
+  "slug": "2018-02-14-decreto-presidencial-46-18-pnagia-interoperabilidade-administracao-do-estado",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Presidential Decree (Decreto Presidencial) n.º 46/18 of 14 February 2018 approves the national interoperability plan PNAGIA for central and local state administration, enters into force on publication, and states that adherence of public administration services to it is mandatory; the decree is a binding executive instrument, though the plan itself says its legal-level measures are still to be legislated.", "as_of": "2018-02-14", "date_precision": "day", "system": "Decreto Presidencial n.º 46/18 (PNAGIA)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Plataforma Tecnológica de Interoperabilidade (PTI)", "country_label": "PTI", "class": "other", "platform": "transactional service bus (web services orchestration), digital authentication, electronic payments, SMS gateway, single service portals", "owner": "", "tiers": "central and local state administration"}
+  ],
+  "note": ""
+}

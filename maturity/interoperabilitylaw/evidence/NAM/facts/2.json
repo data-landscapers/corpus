@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-observer24-namibia-diginam-pki-root-ca-live",
+  "facts": [],
+  "systems": [
+    {"system": "DigiNam National Public Key Infrastructure", "country_label": "DigiNam / National PKI", "class": "other", "platform": "", "owner": "CRAN (National Root Certification Authority)", "tiers": ""},
+    {"system": "Electronic Transactions Act of 2019", "country_label": "Electronic Transactions Act, Section 20 and Chapter 5", "class": "other", "platform": "", "owner": "CRAN", "tiers": ""}
+  ],
+  "note": "Ministers call for institutions to exchange information and interoperate, but name no law, decree or draft on public bodies sharing data; the Electronic Transactions Act provisions in force from 15 June 2026 concern electronic signatures."
+}

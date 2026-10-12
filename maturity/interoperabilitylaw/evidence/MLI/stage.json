@@ -1,0 +1,16 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "no evidence",
+   "standing": "",
+   "duty": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
+  }
+ ]
+}

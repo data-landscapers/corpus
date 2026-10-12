@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "draft",
+   "duty": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-001",
+   "gaps": "No source held says a law, decree or regulation on public bodies sharing data is in force.",
+   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
+  }
+ ]
+}

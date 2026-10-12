@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-05-govt-data-exchange-estonia-xroad",
+  "facts": [],
+  "systems": [
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "other", "platform": "X-Road", "owner": "National Treasury", "tiers": "national government departments (pilot)"}
+  ],
+  "note": "Describes the MzansiXchange data exchange pilot; names no law, decree or draft on public bodies sharing data."
+}

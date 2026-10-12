@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "RNP",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil registration and identification reform only (sector-specific, class other); no general law on public bodies sharing data stated."
+}

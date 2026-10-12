@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-05-egypt-property-registration-rate-below-10pct",
+  "facts": [],
+  "systems": [
+    {"system": "National Property Identification System (National Property ID)", "country_label": "National Property ID", "class": "other", "platform": "", "owner": "Egyptian government entities, under Law 88 of 2025 per other documents", "tiers": "government entities, utilities, municipalities, taxation authorities"},
+    {"system": "Real Estate Wealth Management System (REWMS)", "country_label": "REWMS", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Property ID is a one-sector identifier; the article names no law or decree on public bodies sharing data, only Real Estate Registration Law 114 of 1946 amended by Law 9 of 2022, a registration law."
+}

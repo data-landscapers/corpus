@@ -1,0 +1,31 @@
+{
+ "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC",
+   "country_label": "Registre National de l'Etat Civil",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction Générale de l'état civil, des migrations et des réfugiés",
+   "tiers": ""
+  },
+  {
+   "system": "RNP",
+   "country_label": "Registre National de la Population",
+   "class": "other",
+   "platform": "",
+   "owner": "ANEI",
+   "tiers": ""
+  },
+  {
+   "system": "RNN",
+   "country_label": "Registre National des Nationalités",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Civil-status and identity instruments (ordonnance 2026-21, decrees 2026-242/243/277); identity sector only, no instrument on public bodies sharing data; RNP said to be interoperable with functional registers, a system not a legal duty."
+}

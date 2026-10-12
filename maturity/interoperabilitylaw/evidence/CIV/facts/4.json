@@ -1,0 +1,13 @@
+{
+  "slug": "2017-08-02-civ-ordonnance-2017-500-echanges-electroniques-autorites-administratives",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Ordonnance n° 2017-500 of 2 August 2017 (an ordinance of the President, made in the Council of Ministers) on electronic exchanges between users and administrative authorities and between administrative authorities, with a chapter on interoperability of e-services, was issued on that date; the document gives no later repeal.", "as_of": "2017-08-02", "date_precision": "day", "system": "Ordonnance n° 2017-500", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "Ordonnance n° 2017-500 (ordinance, 2017) states in chapter V that the State sets up an e-services interoperability platform to which all administrative authorities are bound to connect, and that they must follow the general interoperability framework.", "as_of": "2017-08-02", "date_precision": "day", "system": "Ordonnance n° 2017-500", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "Ordonnance n° 2017-500 (ordinance, 2017) states that a person applying to an administrative authority cannot be required to supply information already produced to that or another authority whose system respects the interoperability framework, and that not supplying it is no ground to reject the request.", "as_of": "2017-08-02", "date_precision": "day", "system": "Ordonnance n° 2017-500", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité des e-services", "country_label": "plateforme d'interopérabilité des e-services", "class": "other", "platform": "", "owner": "the State", "tiers": "all administrative authorities (bound to connect)"},
+    {"system": "Référentiel général d'interopérabilité", "country_label": "référentiel général d'interopérabilité", "class": "other", "platform": "", "owner": "the State", "tiers": "all administrative authorities"}
+  ],
+  "note": ""
+}

@@ -177,7 +177,15 @@
       "subject": "gov.legislate",
       "text": "Legislation enabling data interoperability: data sharing law",
       "indicator_id": "gov.legislate--legislation-enabling-data-interoperability-data-sharing-law",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no law or decree on public bodies sharing data with each other and no draft of one.",
+        "A bill, draft decree or draft regulation on public bodies sharing data is published, before parliament or cabinet, or passed and not yet in force. An executive order that legislation is to replace stops here.",
+        "A law, decree or regulation on public bodies sharing data is in force, however old. An interoperability framework counts where it is issued as a decree or regulation. A law for one sector, or a data protection law, does not count.",
+        "The law in force requires public bodies to share: to exchange data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds. A law that only allows sharing does not reach this stage.",
+        "The law has been applied in the past three years: a regulation, decree or order has been made under it, or public bodies are named as exchanging data because it requires them to."
+      ],
+      "criteria_of": "00dc74e7cac5"
     }
   ],
   "classes": [

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-guinee-etat-interconnexion-x-road-e-service",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road", "country_label": "plateforme nationale d'interopérabilité", "class": "other", "platform": "X-Road", "owner": "ANDE", "tiers": "public information systems of the administrations; described as in progress"},
+    {"system": "portail national e-service", "country_label": "portail national e-service", "class": "other", "platform": "", "owner": "ANDE", "tiers": "citizens and businesses"}
+  ],
+  "note": "Press account of a Prime Minister briefing on a platform; names no law, decree or draft on public bodies sharing data."
+}

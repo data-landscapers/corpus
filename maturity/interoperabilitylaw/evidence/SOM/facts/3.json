@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-05-somalia-population-registration-civil-status-law-46",
+  "facts": [],
+  "systems": [
+    {"system": "National civil registration database and digital registration system (Law No. 46, 2026)", "country_label": "Nidaamka diiwaan-gelinta danabaysan / kaydka dhexe", "class": "other", "platform": "", "owner": "Agaasinka Adeegyada Dad-dhigista iyo Tirakoobka Xaaladaha Madaniga ah (Civil Registration and Vital Statistics Directorate)", "tiers": "federal, federal member state, Banadir, district"}
+  ],
+  "note": "Law No. 46 (Official Bulletin 5 April 2026) is a civil registration law for one sector; Art. 10 and 11(2)(f) say its digital system can share data with institutions the law allows, and Art. 38(5) bars sharing with anyone the law does not permit; no general public-body data sharing duty, so class other."
+}

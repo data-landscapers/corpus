@@ -1,0 +1,5 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,ERI,status,gov.legislate,,outputs/reports/ERI/ERI-status.md,,Legislation and regulation,,,status,,0,185
+,,,,ERI,status,dpi.exchange,,outputs/reports/ERI/ERI-status.md,,Data Exchange,,,status,,0,243
+1,1,0,news,ERI,raw,2026-01-08 Eritrea launches ASYCUDA World digital customs system,whole,raw/2026/2026-01-08 Eritrea launches ASYCUDA World digital customs system.md,https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system,Eritrea launches ASYCUDA World digital customs system,2026-01-08,ERI,cell+ledger+subject+considered,,0,100
+2,2,1,news,ERI,raw,2026-01-08-undp-eritrea-asycuda-world-digital-customs,whole,raw/2026/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade,"Eritrea Launches Landmark Digital Customs System, Modernizing Trade",2026-01-08,ERI,status+subject,interoperability law,1,742

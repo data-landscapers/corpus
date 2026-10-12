@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-gicta-functions-under-gambia-ict-agency-act-2019",
+  "facts": [],
+  "systems": [
+    {"system": "national data bank", "country_label": "national data bank", "class": "other", "platform": "", "owner": "Gambia ICT Agency (GICTA)", "tiers": ""}
+  ],
+  "note": "The page lists the agency's functions under the 2019 ICT Agency Act, including guidance on infrastructure for data sharing; it sets no duty on public bodies and says nothing of a data sharing law or draft, so it is an agency act (class other)."
+}

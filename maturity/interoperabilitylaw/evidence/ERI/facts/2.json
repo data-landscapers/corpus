@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08-undp-eritrea-asycuda-world-digital-customs",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "digital customs management system", "class": "other", "platform": "ASYCUDA World (UNCTAD)", "owner": "Eritrean Customs Department", "tiers": "all customs stations"}
+  ],
+  "note": "Sectoral customs intranet data exchange only; states no law, decree or regulation on public bodies sharing data and no draft."
+}

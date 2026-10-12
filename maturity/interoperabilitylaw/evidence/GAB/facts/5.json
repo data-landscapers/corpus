@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-11-jo-ga-ordonnance-0006-pr-2025-digitalisation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Ordonnance N° 0006/PR/2025 portant réglementation de la Digitalisation en République Gabonaise (an ordinance of the President, signed 12 August 2025 and published in Journal Officiel n°81 of 30 August 2025) applies to all State services and to public and private bodies; its art. 3 lists secure sharing of data and art. 6 says digitalisation facilitates sharing and exchange of data, and art. 9 states that information systems must be interoperable; art. 19 leaves implementing provisions to further regulatory texts.", "as_of": "2025-08-30", "date_precision": "day", "system": "Ordonnance N° 0006/PR/2025", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No duty fact: the text requires information systems to be interoperable (art. 9) but states no express obligation to exchange data, and cites no implementing text."
+}

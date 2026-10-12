@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-22-sen-paens-tdr-pins-infrastructure-study",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PINS (Plateforme d'Interopérabilité Nationale du Sénégal, Jokkoo)",
+   "country_label": "PINS",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "MTN / SENUM",
+   "tiers": "administrations and public bodies"
+  }
+ ],
+ "note": "Terms of reference for a PINS infrastructure study; names a National Interoperability Framework and the platform but no law, decree or regulation on data sharing."
+}
