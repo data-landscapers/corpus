@@ -1,0 +1,36 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-12 16:55",
+ "pass": "UPDATE-WIKI",
+ "head": "435183f07b5b2c823c65113d6e68e2596f41fc7b",
+ "head_committed_utc": "2026-10-12 16:54",
+ "collection": {
+  "last_admission": "2026-10-12 17:52",
+  "sweep_closed": "2026-10-12 17:42",
+  "ingest_started": "2026-10-12 17:47"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-12 13:06",
+   "end": "2026-10-12 14:46",
+   "duration": "1:40",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 7,
+  "admitted": 4,
+  "dropped": 3,
+  "awaiting_ingest": 0,
+  "raw_sources": 27964
+ }
+}
