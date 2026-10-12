@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: gov.protect
 places: AGO; BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d87db6756aa1
+record: e83f26429f54
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -49,11 +49,15 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated.
+
 ## Kenya
 
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
 The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October. The High Court [ordered the largest operator on 18 September to give a subscriber, within 21 days, the particulars of every request to access or disclose her communications and mobile money data and the access logs it holds](https://sheriahub.com/cases/ke/caselaw/matey-v-safaricom-plc-2026-kehc-13624-klr.pdf), under the constitutional right of access to information; compliance is not on record. The regulator told a parliamentary committee that [deactivation and recycling of inactive numbers now run under its 2026 procedures and safeguards](https://nation.africa/kenya/business/sim-deactivation-now-backed-by-law-ca-says-5622384).
+
+The communications regulator said it will [set up a central database of recycled phone numbers, updated by operators every three months, so that banks, fintechs and bulk message senders can check a number has not changed hands](https://nation.africa/kenya/business/ca-to-set-up-central-database-to-track-recycled-phone-numbers-5628406); that account describes the deactivation rules as proposed. In a Sh1.5 billion data breach suit against a bank, [a former senior manager testified that a credit manager disclosed a borrower's loan distress to a third party and that the bank's legal department recommended no action](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business).
 
 ## Lesotho
 

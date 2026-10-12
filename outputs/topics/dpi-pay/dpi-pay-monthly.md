@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 94dd612cef98
+record: 2a07fe11739e
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -98,6 +98,8 @@ Scale and use are far apart. A diagnostic report [counts more than 135 million m
 ## Gabon
 
 The Council of Ministers [adopted a bill ratifying and amending the digital payments ordinance, regulating payment-solution providers and moving payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
+
+An account of the bill puts the merchant payment scheme at [more than 3,273 merchants and 1,382 GIMAC QR codes as of July](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability); no transaction figure is published.
 
 ## Gambia
 

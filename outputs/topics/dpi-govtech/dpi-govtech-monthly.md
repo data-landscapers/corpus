@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4888c32c25bc
+record: 8399ab09b808
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -66,6 +66,8 @@ September gave the programme a shortlist. A national prioritisation workshop clo
 The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
 
 The administration's electronic signature reached local government: the civil service ministry [enrolled Marcory's mayor and secretary-general in the system on 15 September, letting them sign administrative documents from any location](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/). No count of enrolled officials is published.
+
+The Senate [opened its second ordinary session of 2026 on 12 October with attendance recorded in real time in place of the roll call, amendments filed online and a trial of electronic voting](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active).
 
 ## DR Congo
 
@@ -170,6 +172,8 @@ The tax directorate [said public establishments must use an electronic platform 
 The environment ministry [made online filing of Waste Carrier Licence applications through the Economic Development Board platform compulsory from October](https://fr.allafrica.com/stories/202609220486.html), for individuals, firms, parastatals, local authorities and ministries alike; an online submission does not itself authorise transport.
 
 Cabinet noted that [online applications for the State Age Pension opened on 7 October 2026, with a pension estimate tool on the KOREK! super-app and assisted applications at 38 Social Security Offices for people with limited digital literacy or access](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2009.10.2026.pdf).
+
+The ICT ministry said on 12 October that it is [building an online application platform with the Central Water Authority for a household water tank and pump grant announced on 9 October](https://lexpress.mu/s/les-demandes-daide-pour-les-reservoirs-deau-bientot-en-ligne-563523); the terms of access are to follow.
 
 ## Morocco
 

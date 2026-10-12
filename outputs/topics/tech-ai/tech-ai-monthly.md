@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ebaaf108c8e5
+record: 0161e0108987
 ---
 
 # AI: monthly update, September – October 2026
@@ -90,6 +90,8 @@ Two automated systems reported. The police [set 1 October 2026 for full automate
 Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/). A commentator's account [puts the start of fining under the automated traffic system back a month, to 1 November](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/), after complaints of poor sensitisation.
 
 [The central bank's governor said a directive on the use of artificial intelligence in the financial sector is in drafting](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/); no draft or date is published.
+
+The communications minister said [national AI language models will be built locally, tasking a Kumasi university to lead a Twi model and other universities other Ghanaian languages](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/); no budget or timetable is stated.
 
 ## Kenya
 

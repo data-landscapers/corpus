@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 01f91f36ef82
+record: 5e14e7b8ea4c
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -152,6 +152,8 @@ The open source policy Cabinet approved in July was [presented by the communicat
 ## South Africa
 
 On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date. The universal service agency said [the minister has approved the fund's manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea), after a draft was withdrawn in November 2025 and reissued for comment in February 2026. The deputy minister said [the redrafted policy is due for ministerial input by the end of November 2026 and at cabinet by the end of 2026/27](https://www.businessday.co.za/business-times/2026-10-03-ai-policy-gets-a-second-chance/). [The universal service agency gazetted a discussion document on the 2010 determination, with three options and a lean to targeted revision, comments closing 30 October 2026](https://pmg.org.za/files/2601001discussionusaasa.pdf). [The consultation, reported 10 October 2026, creates no new funding, subsidy or licensing obligation](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/).
+
+The universal service agency [published a discussion document on 30 September on which needy persons should receive electronic communications subsidies, who must apply and to whom subsidies may be paid, proposing no income threshold, benefit amount or payment platform](https://usaasa.org.za/wp-content/uploads/2026/09/USAASA-Discussion-Document-Needy-Persons_Subsidy-Modalities_20260930_FINAL.pdf); comments close on 30 October.
 
 ## South Sudan
 

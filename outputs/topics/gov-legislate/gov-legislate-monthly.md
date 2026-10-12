@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ce95d7c3f308
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4f6e95528937
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -117,6 +117,10 @@ The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circu
 
 The communications ministry [took the Electronic Transactions and Communications Bill, 2026 to a stakeholder validation workshop in Maseru from 28 September](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/), with UNDP support. It [revises the unenacted 2022 Bill and goes next to the Office of the Parliamentary Counsel](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ); the revised text is not held.
 
+## Liberia
+
+The telecommunications authority [consulted internet service providers, mobile operators and licensees on draft regulations covering the deployment, sharing, management and decommissioning of telecoms infrastructure](https://www.liberianobserver.com/news/lta-holds-public-consultation-on-draft-infrastructure-regulations/article_f187f32e-dd53-4c5e-8645-7e26476124be.html), before finalising them. The draft text is not held.
+
 ## Libya
 
 Trade was tied to the banking system and to a register. Importing goods for trade outside banking channels [is prohibited from 30 September 2026 under decision 449 of 2026, which ties import operations to banking and customs procedures and to registration on the unified digital trade system](https://libyaherald.com/2026/09/tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports-for-the-purpose-of-trade), and the capital's chamber of commerce has met on whether the date can be met and what the decision will cost its members.
@@ -188,6 +192,8 @@ The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-e
 January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the repository held was a scanned PDF with no text layer.
 
 Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
+
+The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints).
 
 ## Zambia
 

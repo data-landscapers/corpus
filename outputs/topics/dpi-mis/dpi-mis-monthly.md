@@ -4,7 +4,7 @@ compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0fe0f4b4c168
+record: b48dd6cefa2b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -130,6 +130,8 @@ On 18 September a Japan-funded International Organization for Migration project 
 ## Malawi
 
 The health ministry's care information system [is in pilot at a central hospital and selected health centres](https://mwnation.com/digital-health-records-system-in-pilot-phase/), giving each patient a unique identifier; the ministry expects most facilities digitised within about a year. The examinations board [released the 2026 MSCE results online on 7 September](https://www.itweb.africa/article/malawi-exam-results-move-online/PmxVE7KEYzKqQY85): of 188,169 candidates, 111,510 passed.
+
+The revenue authority said [average monthly VAT collections rose from MK66.73 billion in February to April to MK81.24 billion in June to August 2026, crediting part of the rise to the electronic invoicing system enforced from 1 May, and that it is building a second integrated tax administration system in-house, for which it is still seeking funding](https://www.liberianobserver.com/business/mra-credits-ataf-support-for-tax-administration-reforms-data-improvements/article_46cb9644-8810-4649-be0a-d358dbf91606.html).
 
 ## Mali
 
