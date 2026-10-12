@@ -1,0 +1,17 @@
+{
+  "slug": "2024-05-31-national-policy-on-data-and-cloud",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted",
+     "fact": "The Department of Communications and Digital Technologies issued the final National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 of 31 May 2024, setting government policy on the collection, storage, use and sharing of data across national and provincial government, organs of state and the private sector; the notice carries no printed day, so the date is the gazette date.",
+     "as_of": "2024-05-31", "date_precision": "day",
+     "system": "National Policy on Data and Cloud", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "body",
+     "fact": "The policy names the State Information Technology Agency (SITA) as the responsible authority to source data infrastructure and cloud services for government, to develop and monitor service level agreements, to monitor access to government data under the Minimum Information Security Standards, and to drive the e-Strategy; the document's governance section (15.8) is not in the text held, and it names no issued rule.",
+     "as_of": "2024-05-31", "date_precision": "day",
+     "system": "National Policy on Data and Cloud", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Policy on Data and Cloud", "country_label": "National Policy on Data and Cloud (Notice 2533 of 2024)", "class": "policy", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national and provincial government, organs of state, private sector"}
+  ],
+  "note": ""
+}

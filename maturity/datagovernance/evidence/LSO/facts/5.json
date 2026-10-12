@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-17-lso-lestimes-first-to-validate-data-value-creation-blueprint",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Lesotho Times reported that a national validation workshop in Maseru, convened by the Ministry of Information, Communications, Science, Technology and Innovation with Smart Africa and GIZ, reviewed the draft Data Value Creation Blueprint, which is expected to give Lesotho a coordinated national approach to data governance; the date is the article's publication date, as it says only 'this week'.",
+      "as_of": "2026-09-17",
+      "date_precision": "day",
+      "system": "National Data Value Creation Blueprint",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": "No body or rule is tied to the blueprint."
+}

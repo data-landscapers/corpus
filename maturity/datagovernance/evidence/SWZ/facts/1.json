@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-27-eswatini-validates-national-data-governance-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "TechReviewAfrica reports that Eswatini reviewed and validated its National Data Governance Policy (2027-2031) at a stakeholder validation; the article states no cabinet approval, launch or issue by the government.", "as_of": "2026-07-27", "date_precision": "day", "system": "National Data Governance Policy (2027-2031)", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

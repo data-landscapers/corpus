@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Atlantic Council describes Kenya's new draft data governance policy as proposing a marketplace for anonymized, non-personal national datasets; it calls it a draft and states no adoption.", "as_of": "2026-07-23", "date_precision": "day", "system": "Draft data governance policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National data marketplace", "country_label": "marketplace for anonymized non-personal national datasets", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

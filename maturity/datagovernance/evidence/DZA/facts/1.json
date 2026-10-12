@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Prime Minister Sifi Ghrieb launched Algeria's national data-governance framework on 9 February 2026, a legal, institutional and technical framework for collecting, storing, sharing and using public data, anchored in Presidential Decree No. 25-350 of 30 December 2025 as this source numbers it.", "as_of": "2026-02-09", "date_precision": "day", "system": "National data-governance framework", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

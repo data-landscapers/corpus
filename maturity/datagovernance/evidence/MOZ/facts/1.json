@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The UNECA, GIZ and African Union Commission inception report of 19 June 2025 for the Government of Mozambique and INTIC sets a workplan to draft a National Data Governance Strategy and National Data Policy from July to December 2025, ending in a national validation workshop; no policy had yet been adopted.",
+     "as_of": "2025-06-19", "date_precision": "day",
+     "system": "National Data Governance Strategy and National Data Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

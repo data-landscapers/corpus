@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-23-mozambique-government-preparing-personal-data-protection-law",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "Communications minister Americo Muchanga said on 22 July 2026 that the national data governance policy and strategy were still in preparation and not yet approved, and asked industry to take part in the discussion.",
+      "as_of": "2026-07-22",
+      "date_precision": "day",
+      "system": "Politica e Estrategia Nacional de Governacao de Dados",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

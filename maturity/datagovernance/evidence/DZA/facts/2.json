@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The roundup reports that Algeria gazetted the National Data Governance Framework, a public tool with a unified mechanism for organising, managing and exchanging data among public institutions; it gives no event date, so the update's published date of 2026-06-23 is used (it covers January and February 2026).", "as_of": "2026-06-23", "date_precision": "day", "system": "National Data Governance Framework", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-14-liberia-national-data-policy-multistakeholder-consultation-au",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Ministry of Posts and Telecommunications, with the African Union Commission, held a two-day multi-stakeholder consultation on 13-14 November 2025 in Monrovia to pave the way for developing Liberia's National Data Policy, described as upcoming and not yet adopted.", "as_of": "2025-11-13", "date_precision": "day", "system": "National Data Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "policy", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "national"}
+  ],
+  "note": ""
+}

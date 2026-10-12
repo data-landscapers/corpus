@@ -1,0 +1,17 @@
+{
+  "slug": "2025-06-09 Rwanda charts a new course for government data sharing",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "IAPP reports Rwanda recently approved a National Data Sharing Policy supported by seven annexes; no approval date is given, so the published date is used.",
+      "as_of": "2025-06-09",
+      "date_precision": "day",
+      "system": "National Data Sharing Policy",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

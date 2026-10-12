@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-22 National payment system registers growth in 2024 Quarter 3",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MITASS",
+      "country_label": "Malawi Interbank Transfer and Settlement System",
+      "class": "other",
+      "platform": "",
+      "owner": "Reserve Bank of Malawi",
+      "tiers": "national"
+    }
+  ],
+  "note": "Payment system statistics report; says nothing on a national data policy."
+}

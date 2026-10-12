@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-23-gia-zakat-fund-data-governance-national-guide",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The General Information Authority reported on 2026-04-23 that it applies the National Guide for Government Data Governance as the reference framework for data management, quality and the responsibilities of entities, and pressed the Libyan Zakat Fund to align its platforms with it.", "as_of": "2026-04-23", "date_precision": "day", "system": "National Guide for Government Data Governance", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "body", "fact": "The document ties the General Information Authority's national role in consolidating government data governance to its application of the National Guide for Government Data Governance, with its National Database director representing it at a 2026-04-23 workshop.", "as_of": "2026-04-23", "date_precision": "day", "system": "National Guide for Government Data Governance", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Guide for Government Data Governance", "country_label": "National Guide for Government Data Governance", "class": "policy", "platform": "", "owner": "General Information Authority", "tiers": "central government; Libyan Zakat Fund"},
+    {"system": "LY-NDEX", "country_label": "National Data Distributor (LY-NDEX)", "class": "other", "platform": "", "owner": "General Information Authority", "tiers": "government entities"}
+  ],
+  "note": ""
+}

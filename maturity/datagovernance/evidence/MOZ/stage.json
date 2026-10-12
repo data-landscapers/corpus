@@ -1,0 +1,16 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "2",
+   "standing": "draft",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-002",
+   "gaps": "No source held says a national data policy is adopted and still running.",
+   "note": "Counted from the four questions by study-ladder-datagovernance.py."
+  }
+ ]
+}

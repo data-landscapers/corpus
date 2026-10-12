@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population", "class": "other", "platform": "", "owner": "ANEI", "tiers": ""},
+    {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "Registre National d'Etat Civil", "class": "other", "platform": "", "owner": "Direction Generale de l'etat civil, des migrations et des refugies", "tiers": ""},
+    {"system": "Registre National des Nationalites (RNN)", "country_label": "Registre National des Nationalites", "class": "other", "platform": "", "owner": "Ministere de la Justice", "tiers": ""}
+  ],
+  "note": "Civil registration and identity reform under the WURI project; no national data policy is mentioned."
+}

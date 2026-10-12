@@ -1,0 +1,17 @@
+{
+  "slug": "2025-02-19-lesotho-budget-speech-2025-26",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Minister of Finance and Development Planning told Parliament on 19 February 2025 that key policies under development include Artificial Intelligence, Broadband and Data Management; the date is the speech's.",
+      "as_of": "2025-02-19",
+      "date_precision": "day",
+      "system": "Data Management Policy",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": "Speech names the policy as under development only; no body or rule."
+}

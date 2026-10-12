@@ -1,0 +1,8 @@
+{
+  "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The National Electronic Government Plan 2023-2026 says significant investments are being made to develop an all-of-government enterprise architecture that includes a Data Governance Framework, and its implementation matrix budgets ZMW 1,000,000 and ZMW 3,000,000 for developing and operationalising a (national) data governance framework under the Electronic Government Division; the document gives no date of adoption, and its published date of 2023-08-17 is used.", "as_of": "2023-08-17", "date_precision": "day", "system": "Data Governance Framework (National Electronic Government Plan 2023-2026)", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

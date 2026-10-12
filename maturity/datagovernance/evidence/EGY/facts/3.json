@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-08-egypt-national-open-data-policy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Policy",
+      "country_label": "Open Data Policy",
+      "class": "other",
+      "platform": "",
+      "owner": "MCIT drafted; NCAI adopted",
+      "tiers": ""
+    }
+  ],
+  "note": "Describes the Open Data Policy (class other), adopted by NCAI and in force August 2025, pending a data governance law and EDGA; it states no national data policy."
+}

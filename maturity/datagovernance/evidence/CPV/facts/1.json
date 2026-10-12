@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-28-cnest-conferencia-estrategia-nacional-dados",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The National Statistics Council (CNEST) held a two-day international conference in Praia on 24-25 April 2025 on the challenges and opportunities for Cabo Verde's first national data strategy, which its president said was to hold entities accountable for providing timely data; the government was represented at the opening by a Secretary of State, and no adoption is stated.",
+     "as_of": "2025-04-25", "date_precision": "day", "system": "Estratégia Nacional de Dados", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Estratégia Nacional de Dados", "country_label": "Estratégia Nacional de Dados", "class": "policy", "platform": "", "owner": "Conselho Nacional de Estatística (CNEST)", "tiers": ""}
+  ],
+  "note": ""
+}

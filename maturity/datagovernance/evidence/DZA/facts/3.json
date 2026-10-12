@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-09-algeria-data-governance-launch-maghrebinfo",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Prime Minister Sifi Ghrieb presided over the official launch on 9 February 2026 of the national data governance framework (dispositif national de gouvernance des données), set up by Presidential Decree 25-320 of 30 December 2025.", "as_of": "2026-02-09", "date_precision": "day", "system": "Dispositif national de gouvernance des données", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "body", "fact": "At the 9 February 2026 launch the High Commissioner for Digitalisation installed the national commission charged with following the framework's implementation, made up of representatives of all ministries and national bodies; the High Commission for Digitalisation is named as its author.", "as_of": "2026-02-09", "date_precision": "day", "system": "Dispositif national de gouvernance des données", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Dispositif national de gouvernance des données", "country_label": "Dispositif national de gouvernance des données", "class": "policy", "platform": "", "owner": "Haut-commissariat à la numérisation", "tiers": "ministries and national bodies"}
+  ],
+  "note": ""
+}

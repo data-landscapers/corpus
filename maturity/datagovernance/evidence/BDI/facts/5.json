@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-24-bdi-burundi-sets-data-as-a-strategic-digital-public-good",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The article reports that Burundi validated its National Data Governance Strategy on 7 November 2025 with the UN Economic Commission for Africa; it describes only validation, with no cabinet approval or launch, and says the strategy's second pillar requires the country to adopt comprehensive data legislation.", "as_of": "2025-11-07", "date_precision": "day", "system": "National Data Governance Strategy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

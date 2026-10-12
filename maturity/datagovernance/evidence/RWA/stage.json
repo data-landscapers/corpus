@@ -1,0 +1,16 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "policy",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "body",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-005;RWA-004",
+   "gaps": "No source from the last three years naming a law, regulation, standard or guideline issued under the policy is held.",
+   "note": "Counted from the four questions by study-ladder-datagovernance.py."
+  }
+ ]
+}

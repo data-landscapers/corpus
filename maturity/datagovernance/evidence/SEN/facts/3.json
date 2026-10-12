@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The article says Senegal has adopted its National Data Strategy (SND) and AI Strategy (SNIA), without giving the adoption date; the date used is the article's published date, which the file marks as an ingest-date proxy.", "as_of": "2026-07-20", "date_precision": "day", "system": "Stratégie nationale des données (SND)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale des données (SND)", "country_label": "Stratégie nationale des données", "class": "policy", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Stratégie sur l'intelligence artificielle (SNIA)", "country_label": "Stratégie sur l'intelligence artificielle", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The data protection bill and decree workshop is class other; the data protection authority is not tied to the data strategy."
+}

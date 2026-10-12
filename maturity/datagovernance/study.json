@@ -103,7 +103,15 @@
       "subject": "gov.policy",
       "text": "Data governance policy: national data policy",
       "indicator_id": "gov.policy--data-governance-policy-national-data-policy",
-      "class": "policy"
+      "class": "policy",
+      "criteria": [
+        "A source from the past three years says the country has no national data policy and none is being written.",
+        "A national data policy, strategy or framework is being written or is out for consultation, or the last one has run out with no successor. A draft validated at a workshop is still a draft. A tender to hire the writer, or a stated intention, does not count.",
+        "The government has adopted the policy and it has not run out: approved by cabinet, or launched or issued by the head of state, the minister or the agency responsible. A policy on sharing or managing data across the whole government counts; a data protection law or an open data policy does not. No body is yet named to carry it out.",
+        "A body is named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit set up or named for it. The ministry that wrote the policy being responsible for it in general does not count.",
+        "A rule or standard the policy called for has been issued in the past three years: a law, regulation, standard or guideline, such as one on classifying data or on sharing it between public bodies. How good the policy is, and whether it follows the African Union's framework, is not judged."
+      ],
+      "criteria_of": "cb80a46747d3"
     }
   ],
   "classes": [

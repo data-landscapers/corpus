@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-21 Smart Africa - ToR for Benin National Data Strategy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Smart Africa Secretariat, under its workstream with GIZ, published terms of reference on 21 November 2025 (closing 17 December 2025) to recruit a consultancy to develop Benin's National Data Strategy, so a national data strategy was being prepared and not yet adopted.", "as_of": "2025-11-21", "date_precision": "day", "system": "Benin National Data Strategy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Benin National Data Strategy", "country_label": "National Data Strategy", "class": "policy", "platform": "", "owner": "Smart Africa Secretariat with GIZ (commissioning the drafting)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Prime Minister's foreword to the National Data Governance Strategy 2024-2030 (SNGD 2030) speaks of the official launch of the strategy by the government, after a participatory process begun in April 2024 with over 200 experts; the document gives no launch date, so the year is its published date, 2024.", "as_of": "2024", "date_precision": "year", "system": "Stratégie Nationale de la Gouvernance des Données 2024-2030 (SNGD 2030)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale de la Gouvernance des Données 2024-2030 (SNGD 2030)", "country_label": "SNGD 2030", "class": "policy", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": "central government"}
+  ],
+  "note": "No fact on use: the strategy plans a national data and AI governance organ and legal texts for 2025, but names no body set up and no rule issued under it."
+}

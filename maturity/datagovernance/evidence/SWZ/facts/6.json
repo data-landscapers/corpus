@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "Smart Africa issued a request for proposals (RFP# 131/SA/RFP/07/2025, budget US$70,000, closing 25 August 2025) to procure the writing of an Eswatini national data policy; the source describes the policy as at procurement stage, not yet drafted, and nothing adopted.",
+     "as_of": "2025-07-25", "date_precision": "day", "system": "Eswatini National Data Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": "Source page is a short excerpt; no body, rule or adoption is stated."
+}

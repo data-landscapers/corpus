@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-29-tanzania-ukinara-usimamizi-data",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Mwananchi reports that at a stakeholder meeting in Dar es Salaam in late August 2025 government, experts and the private sector discussed the roadmap for preparing Tanzania's National Data Management Framework, which was expected to be complete by January 2026, so it was still being prepared.", "as_of": "2025-08", "date_precision": "month", "system": "Mfumo wa Kitaifa wa Usimamizi wa Data (National Data Management Framework)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Mfumo wa Kitaifa wa Usimamizi wa Data (National Data Management Framework)", "country_label": "National Data Management Framework", "class": "policy", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": "national"}
+  ],
+  "note": ""
+}

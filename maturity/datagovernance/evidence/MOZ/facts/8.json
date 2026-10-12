@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-01-mozambique-zero-draft-2-national-data-governance-policy",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "INTIC's second zero draft of the National Data Governance Policy and Implementation Strategy is a Council of Ministers resolution with its number and approval date left blank, so not adopted; the date is a proxy from the November 2025 upload folder, the document carrying none.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "National Data Governance Policy and Implementation Strategy (Zero Draft 2)",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": "The draft would establish a National Data Governance Council and name draft NDGC standards, but a draft's planned body and rules are not a body named or a rule issued."
+}

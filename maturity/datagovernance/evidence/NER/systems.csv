@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Registre National d'Etat Civil,other,,"Direction Generale de l'etat civil, des migrations et des refugies",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalites (RNN),Registre National des Nationalites,other,,Ministere de la Justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre national de l'etat civil informatise,registre national de l'etat civil,other,,Ministere de l'Interieur,102 communes,2026-04-22-gouv-conseil-ministres-etat-civil-anei
+NER,Registre National de la Population,registre national de population,other,,ANEI,,2026-04-22-gouv-conseil-ministres-etat-civil-anei

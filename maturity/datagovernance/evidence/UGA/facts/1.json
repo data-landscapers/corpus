@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-17-laying-foundations-data-driven-digital-economy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The Ministry of ICT and National Guidance's Permanent Secretary wrote on 2025-12-17 that the government is developing a National Data Strategy, which is a draft that will provide a framework once finalised and approved.",
+     "as_of": "2025-12-17", "date_precision": "day", "system": "National Data Strategy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

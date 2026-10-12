@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-gambia-national-data-policy-validated-eeas",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "On 2-3 July 2025 stakeholders from government, private sector, civil society and academia endorsed the draft National Data Policy at a national validation workshop, and the EU Delegation says the finalised policy will be submitted for official approval by the Government.", "as_of": "2025-07-03", "date_precision": "day", "system": "National Data Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "policy", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

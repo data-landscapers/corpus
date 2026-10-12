@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-19-eca-guinea-national-data-governance-ai-readiness",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The UN Economic Commission for Africa reports that national engagements in Conakry on 16-19 June 2026 (an assessment mission consulting 27 institutions, then workshops of 48 and 53 participants) were aimed at developing Guinea's National Data Governance Strategy; the final workshop reviewed preliminary findings and set priorities for the strategy, which is still to be written.", "as_of": "2026-06-19", "date_precision": "day", "system": "National Data Governance Strategy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

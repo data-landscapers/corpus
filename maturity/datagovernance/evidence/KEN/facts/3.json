@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Analyst Rose Mutiso read the Draft Final National Data Governance Policy of 25 May 2026, which proposes a council, a Data Governance Office and a later Data Governance Law, with phased implementation starting July 2026; she gives no adoption.", "as_of": "2026-05-25", "date_precision": "day", "system": "Draft Final National Data Governance Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "other", "platform": "", "owner": "Government of Kenya", "tiers": ""},
+    {"system": "National data marketplace", "country_label": "national exchange for licensing anonymised non-personal datasets", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

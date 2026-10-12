@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-ecofin-guinea-national-data-governance-strategy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Ecofin Agency reports that the Guinean government launched the drafting of a National Data Governance Strategy on 19 June 2026, led by the National Directorate of Information Technology and the Digital Economy (DNTIEN).", "as_of": "2026-06-19", "date_precision": "day", "system": "National Data Governance Strategy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

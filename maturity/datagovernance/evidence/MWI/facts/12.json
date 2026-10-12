@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-03-malawi-launches-new-open-data-portal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Portal",
+      "country_label": "Open Data Portal",
+      "class": "other",
+      "platform": "",
+      "owner": "OGP Malawi Secretariat",
+      "tiers": "national"
+    }
+  ],
+  "note": "Open data portal announcement; an open data portal is not a national data policy."
+}

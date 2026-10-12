@@ -1,0 +1,26 @@
+{
+  "slug": "2025-10-27 Introduction to the Rwanda National Data Sharing Policy",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Cenfri reports that the Government of Rwanda has approved the National Data Sharing Policy, proposed by MINICT and covering data sharing among government agencies; no approval date is given, so the published date is used.",
+      "as_of": "2025-10-27",
+      "date_precision": "day",
+      "system": "National Data Sharing Policy",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Sharing Platform",
+      "country_label": "Data Sharing Platform",
+      "class": "other",
+      "platform": "",
+      "owner": "RISA",
+      "tiers": "government institutions"
+    }
+  ],
+  "note": "Data Governance Unit is described as soon-to-be-established, so no body fact."
+}

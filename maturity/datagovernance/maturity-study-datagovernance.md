@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-datagovernance.md — the eighteenth maturity study: the national data policy, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; awaiting Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: datagovernance
@@ -48,11 +48,11 @@ Asked in order. Each is answered with a date and a link.
 - **Questions 1 to 3 have no time limit**: an adopted policy stands, with its year, until its end date passes or a dated source says it has been replaced or withdrawn.
 - **A statement that there is no policy counts for three years.**
 - **A draft validated at a workshop, or handed to the minister, is still a draft.** Question 2 needs approval or a launch by the government. Most of what is held is a validation, so most countries will sit at stage 2.
-- **A policy on sharing or managing data across the whole government counts** (Rwanda's data sharing policy, Lesotho's data management policy), as it does in the row as it stands. The summary says what it covers.
+- **A policy on sharing or managing data across the whole government counts** (Rwanda's data sharing policy, Lesotho's data management policy), as it does in the row as it stands.
 - **A policy on one matter with a row of its own does not count**: data protection, open data, keeping data in the country, cloud, interoperability, AI. Nor does a strategy for official statistics.
 - **A country saying it will follow the African Union's Data Policy Framework, with no policy of its own being written, places nothing.** This is one change from the row as it stands, whose stage 2 counts it.
 - **A body counts for question 3, and a rule for question 4, only where the source ties it to the policy.** A data protection authority is not the body unless a source says the policy is its job.
-- **The ministry that wrote the policy being responsible for it in general is not a yes to question 3.** A body the policy says will be set up is not yet named.
+- **The ministry that wrote the policy being responsible for it in general is not a yes to question 3.**
 - **A body set up to write the policy answers question 1, not question 3.**
 - **The top stage is one rule issued, not a set.** This is the other change from the row as it stands, whose stage 4 asks for rules in two named areas and whose stage 5 is agreement with the African Union's framework.
 - **A policy adopted but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
@@ -75,15 +75,25 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 ## 6. Token ceiling
 
-**50 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The data localisation study, with 60 stories to read first and 159 cited, spent 42.3 million against 50. This one reads 102 first, so the cited stories are read only for a country the first read leaves short, the third read is one call a country, and the parent writes the summaries. No earlier study holds facts on a national data policy, so nothing is carried.
+**50 million.** The run checks after every fan-out and stops at it. The third read is one call a country, and the parent writes the summaries. No earlier study holds facts on a national data policy, so nothing is carried.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**, as §5.
-- [ ] **D3. Stage**, as at 2026-09-30; the parent reads every fact that would set stage 4 or 5; two drafters compared on 20 countries.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill**, with the tokens spent.
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 102 `about` stories; then the cited news of every country, 169 documents; then one call of newest held news for each of the 22 countries without a fact, which gave none. 123 calls, 98 facts.
+- [x] **D3. Staged**: two at stage 4, eight at 3, 19 at 2, none at 1 or 5, and 25 with no evidence, as at 2026-09-30; six corrections by the parent; agreement 18 of 20, the two that differ being without a stage on both readings.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **A tender to hire the writer is not drafting begun** (Benin, Madagascar), nor is a plan budgeting for one (Zambia).
+- **A decree setting up a data governance framework for public bodies is the policy** (Algeria) and so is a guide applied across government (Libya).
+- **A commission installed to follow the framework is a body** (Algeria), as is a unit set up as the policy's operational arm (Rwanda).
+- **The agency that issued the policy is not a body named** (Libya, South Africa).
+- **A strategy carrying the Prime Minister's foreword on its launch is adopted** (Côte d'Ivoire), and so is one a source calls adopted with no date (Senegal).
+- **A bill sent to parliament is a draft** (Ethiopia).
+- **The parent wrote the summaries.** Chad's validation of 7 October 2026 is after the as-at.
 
 ## Boundary
 

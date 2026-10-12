@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-07 What will determine the success of Rwanda’s data governance push",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Cenfri's interview with NISR's Data Governance Project Lead says the policy is in place (the public sector data sharing policy), with implementation now the question; the document gives no approval date, so the date used is the document's published date.", "as_of": "2026-05-07", "date_precision": "day", "system": "Rwanda National Data Sharing Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "body", "fact": "The document says the Data Governance Unit at the National Institute of Statistics of Rwanda has been established and serves as the operational arm of the public sector data sharing policy, with staff in place and projects started; it gives no establishment date, so the date used is the document's published date.", "as_of": "2026-05-07", "date_precision": "day", "system": "Data Governance Unit (NISR)", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Rwanda National Data Sharing Policy", "country_label": "public sector data sharing policy", "class": "policy", "platform": "", "owner": "Government of Rwanda", "tiers": "national"},
+    {"system": "Data Governance Unit (NISR)", "country_label": "Data Governance Unit", "class": "policy", "platform": "", "owner": "National Institute of Statistics of Rwanda", "tiers": "national"},
+    {"system": "Data sharing platform", "country_label": "data sharing platform", "class": "", "platform": "", "owner": "Data Governance Unit (NISR)", "tiers": "national"}
+  ],
+  "note": ""
+}

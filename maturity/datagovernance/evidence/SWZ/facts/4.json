@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-eu-eswatini-national-data-policy-support",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The EU Delegation states that on 29 April 2026 a two-day stakeholders' workshop opened in Mbabane to help create Eswatini's national data policy, supported by the EU, Member States and GIZ.", "as_of": "2026-04-29", "date_precision": "day", "system": "National Data Policy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

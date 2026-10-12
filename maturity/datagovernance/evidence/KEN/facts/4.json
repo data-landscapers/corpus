@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-08 Kenya proposes marketplace for State data",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "ITWeb reports the ICT ministry is proposing a National Data Governance Policy that would create a state data marketplace, a National Data Governance and Emerging Technologies Council and a Data Governance Office; all are described as proposed.", "as_of": "2026-06-08", "date_precision": "day", "system": "National Data Governance Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National data marketplace", "country_label": "State-run data marketplace", "class": "other", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "other", "platform": "", "owner": "Government of Kenya", "tiers": ""}
+  ],
+  "note": ""
+}

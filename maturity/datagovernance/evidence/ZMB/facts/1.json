@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-zambia-launches-znsdi-policy-geoportal",
+  "facts": [],
+  "systems": [
+    {"system": "ZNSDI geoportal", "country_label": "Zambia National Spatial Data Infrastructure portal", "class": "other", "platform": "GeoNetwork (open source)", "owner": "Electronic Government Division (SMART Zambia)", "tiers": ""}
+  ],
+  "note": "Launch of the Zambia National Spatial Data Infrastructure Policy 2026-2030 concerns spatial data only, class other; no national data policy fact."
+}

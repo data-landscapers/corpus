@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-10 Guinea-Bissau Council of Ministers approves three digital decrees (interoperability, data governance, cybersecurity)",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Guinea-Bissau's Council of Ministers, chaired by Prime Minister Rui Duarte Barros, approved the draft decree on the National Data Governance and Protection Policy, reported by the state news agency ANG; the article has no in-body date and its published date, 2025-07-10, is a proxy for the Thursday meeting.", "as_of": "2025-07-10", "date_precision": "day", "system": "Política Nacional de Governança e Proteção de Dados", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Política Nacional de Governança e Proteção de Dados", "country_label": "Política Nacional de Governança e Proteção de Dados", "class": "policy", "platform": "", "owner": "Council of Ministers", "tiers": ""},
+    {"system": "Regulamento sobre a Interoperabilidade de Sistemas e Plataformas Digitais dos Serviços Públicos e Privados", "country_label": "Regulamento sobre a Interoperabilidade de Sistemas e Plataformas Digitais", "class": "other", "platform": "", "owner": "Council of Ministers", "tiers": ""},
+    {"system": "Estratégia Nacional de Cibersegurança", "country_label": "Estratégia Nacional de Cibersegurança", "class": "other", "platform": "", "owner": "Council of Ministers", "tiers": ""}
+  ],
+  "note": "No fact on use: the article names no body or issued rule tied to the data policy."
+}

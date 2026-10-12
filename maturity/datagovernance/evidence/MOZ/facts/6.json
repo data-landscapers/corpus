@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-05-workshop-valida-politica-estrategia-nacional-governacao-dados",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "INTIC held a validation workshop on 5 December 2025 for the proposed National Data Governance Policy and Strategy and its Action Plan; results included laying the base for the next steps of the approval process, so it was not yet approved.",
+      "as_of": "2025-12-05",
+      "date_precision": "day",
+      "system": "Politica e Estrategia Nacional de Governacao de Dados",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

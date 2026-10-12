@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-malawi-real-time-cdf-dashboard-council-oversight",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CDF dashboard",
+      "country_label": "Constituency Development Fund dashboard",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Local Government and Rural Development",
+      "tiers": "national; local authorities"
+    }
+  ],
+  "note": "A public real-time dashboard for Constituency Development Fund spending was launched; it is not a national data policy."
+}

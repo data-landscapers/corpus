@@ -1,0 +1,15 @@
+{
+  "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-government interoperability platform",
+      "country_label": "Interoperability Platform",
+      "class": "other",
+      "platform": "Minsait",
+      "owner": "Agency for Digital Development (ADD)",
+      "tiers": "public administrations, agencies, institutions"
+    }
+  ],
+  "note": "Interoperability platform, class other; no national data policy named."
+}

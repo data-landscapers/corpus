@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-auda-nepad-comoros-data-governance-strategy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "AUDA-NEPAD reports that government, private-sector and civil-society representatives met in Moroni on 24-25 August 2026 at a workshop to review and validate the National Data Governance Strategy 2027-2031, whose implementation plan was also examined; it does not report approval or launch by the government.", "as_of": "2026-08", "date_precision": "month", "system": "Stratégie nationale de gouvernance des données 2027-2031", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-12-strengthening-ethiopias-national-data-governance-ecosystem",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "DIAL's project page says it developed Ethiopia's first national data governance strategy in 2025 with the Office of the Prime Minister and lists a strategy launch and validation workshop among its 2026 plans, so the strategy was not yet launched; the page's own published date is 2024-02-12 but it describes 2025 work.", "as_of": "2025", "date_precision": "year", "system": "national data governance strategy", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

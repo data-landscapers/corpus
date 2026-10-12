@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-uneca-chad-joins-africa-unified-data-governance-ai-readiness",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "UNECA reports that the first phase of developing Chad's National Data Governance Strategy closed with a stakeholder workshop on 21 May 2026, which discussed preliminary findings of the country assessment.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "National Data Governance Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

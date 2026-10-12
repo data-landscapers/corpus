@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-23-sen-validates-national-blueprint-data-valorisation",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Senegal's telecoms and digital ministry (DTIC) held a two-day workshop on 21-22 September 2026, with Smart Africa and GIZ, to validate a national Blueprint on Data Valorisation, whose roadmap, implementation framework and monitoring mechanism were to be refined before finalisation.", "as_of": "2026-09-22", "date_precision": "day", "system": "Blueprint on Data Valorisation", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Blueprint on Data Valorisation", "country_label": "Blueprint on Data Valorisation", "class": "policy", "platform": "", "owner": "Ministry of Telecommunications and Digital, DTIC, with Smart Africa and GIZ", "tiers": ""}
+  ],
+  "note": ""
+}

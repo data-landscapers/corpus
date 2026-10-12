@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-04-national-data-ai-strategies-techafricanews",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "TechAfrica News (published 2026-05-04) reports that Cape Verde launched the development of a Data Strategy for Public Administration at a kick-off meeting of senior officials, the Secretary of State for the Digital Economy, external consultants and EU representatives, held 28 April 2026 per the note; no adoption is stated.",
+     "as_of": "2026-04-28", "date_precision": "day", "system": "Data Strategy for Public Administration", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Data Strategy for Public Administration", "country_label": "Data Strategy for Public Administration", "class": "policy", "platform": "", "owner": "Ministry of Digital Economy (Secretary of State for the Digital Economy)", "tiers": ""}
+  ],
+  "note": ""
+}

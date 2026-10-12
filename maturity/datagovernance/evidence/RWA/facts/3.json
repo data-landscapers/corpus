@@ -1,0 +1,17 @@
+{
+  "slug": "2025-05-26-national-data-sharing-policy-approved",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "RISA states the Rwandan Cabinet approved the National Data Sharing Policy on 26 May 2025, developed by MINICT with RISA, for data exchange across public institutions.",
+      "as_of": "2025-05-26",
+      "date_precision": "day",
+      "system": "National Data Sharing Policy",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": "RISA is named as supporting implementation as custodian of national digital systems in general, not as a body named for the policy."
+}
