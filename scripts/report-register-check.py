@@ -148,7 +148,14 @@ BUDGET_SECTION_LINE = re.compile(
     r"([\d,]+)\s+to\s+([\d,]+)\s*words a section for an? (status|monthly|progress)")
 
 
-class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per driver")):
+# **A floor may be capped per unit** *(2026-10-12, housekeeping 16)*. `300 + 25 n` asks 325 words of
+# a month in which one row moved, which can only be met by padding; `the floor is never above N
+# words a row for a {doc}` in the skeleton holds the floor to what the rows can carry.
+FLOOR_CAP_LINE = re.compile(
+    r"floor is never above ([\d,]+) words a row for an? (status|monthly|progress)")
+
+
+class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per driver lo_cap")):
     """A word budget, resolved against a count the document carries — rows or sections.
 
     A flat band has zero per-unit terms and ignores the argument; a rate band does not. Keeping one
@@ -163,14 +170,17 @@ class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per driver"
         return bool(self.lo_per or self.hi_per)
 
     def at(self, n):
-        return (self.lo_base + self.lo_per * n, self.hi_base + self.hi_per * n)
+        lo = self.lo_base + self.lo_per * n
+        if self.lo_cap:
+            lo = min(lo, self.lo_cap * n)
+        return (lo, self.hi_base + self.hi_per * n)
 
     def describe(self, n):
         lo, hi = self.at(n)
         return f"{lo}-{hi} on {n} {self.driver}(s)" if self.scaled else f"{lo}-{hi}"
 
 
-Band.__new__.__defaults__ = ("row",)
+Band.__new__.__defaults__ = ("row", 0)
 
 
 def _num(s):
@@ -200,6 +210,9 @@ def budgets(kind="country"):
                   for m in BUDGET_RATE_LINE.finditer(text)})
     found.update({m.group(3): Band(0, _num(m.group(1)), 0, _num(m.group(2)), "section")
                   for m in BUDGET_SECTION_LINE.finditer(text)})
+    for m in FLOOR_CAP_LINE.finditer(text):
+        if m.group(2) in found:
+            found[m.group(2)] = found[m.group(2)]._replace(lo_cap=_num(m.group(1)))
     missing = REQUIRED[kind] - set(found)
     if missing:
         print(f"FATAL: the word-budget line in {os.path.relpath(path, ROOT)} no longer names "

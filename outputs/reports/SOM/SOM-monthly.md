@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: SOM
 ledger_rows: 16
 not_held: 2
-record: 426d0e2bd52c
+record: ff1896aaaf60
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The identity authority [reported more than 1.5 million people registered since 2
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-A 15-member delegation's ten-day mission to Pakistan [closed with a roundtable in Islamabad on 16 September 2026 that set three working groups on identity, data exchange and financial inclusion](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/), with an action matrix of 30-, 60- and 90-day steps.
+A 15-member delegation's ten-day mission to Pakistan [closed with a roundtable in Islamabad on 16 September 2026 that set three working groups on identity, data exchange and financial inclusion](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/), with an action matrix of 30-, 60- and 90-day steps. No instrument, budget or outcome of the first step is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -36,7 +36,7 @@ The state gave a number for what it removes from the internet. On 3 September th
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held. A smaller operator's chief executive said [voice calls interconnect across six operators while mobile-money wallets remain closed to one another](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8).
+A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held. A smaller operator's chief executive said [voice calls interconnect across six operators while mobile-money wallets remain closed to one another](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8). The voice interconnection rests on a 2023 national agreement, on the regulator's account, and no date is set for opening wallets.
 <!-- /narrative -->
 
 ## DPI
@@ -54,7 +54,7 @@ Somaliland's central bank [met banks and mobile-money operators on 11 September 
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects.
+The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects. No indicator set, first report or public view of the system is published.
 <!-- /narrative -->
 
 ## Technology
