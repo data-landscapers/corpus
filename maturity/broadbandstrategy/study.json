@@ -1,0 +1,113 @@
+{
+  "id": "broadbandstrategy",
+  "study_file": "maturity-study-broadbandstrategy.md",
+  "subjects": [
+    "gov.policy",
+    "infra.connect"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--broadband-strategy"
+  ],
+  "carry": [
+    "gov.policy--broadband-strategy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 40000000,
+  "terms": [
+    "national broadband plan",
+    "national broadband policy",
+    "national broadband strategy",
+    "national broadband master plan",
+    "national broadband blueprint",
+    "national broadband roadmap",
+    "national broadband implementation",
+    "broadband plan",
+    "broadband policy",
+    "broadband strategy",
+    "broadband master plan",
+    "broadband development plan",
+    "broadband development strategy",
+    "plan national haut débit",
+    "plan national du haut débit",
+    "plan national très haut débit",
+    "plan national du très haut débit",
+    "plan national haut et très haut débit",
+    "plan national large bande",
+    "plan haut débit",
+    "plan très haut débit",
+    "stratégie nationale haut débit",
+    "stratégie nationale du haut débit",
+    "stratégie nationale très haut débit",
+    "stratégie nationale du très haut débit",
+    "stratégie haut débit",
+    "stratégie très haut débit",
+    "stratégie nationale large bande",
+    "plan national de développement du haut débit",
+    "plano nacional de banda larga",
+    "estratégia nacional de banda larga",
+    "estratégia de banda larga",
+    "política de banda larga",
+    "plan nacional de banda ancha",
+    "estrategia nacional de banda ancha",
+    "الخطة الوطنية للنطاق العريض",
+    "الاستراتيجية الوطنية للنطاق العريض",
+    "استراتيجية النطاق العريض",
+    "خطة النطاق العريض",
+    "المخطط الوطني للصبيب العالي",
+    "الخطة الوطنية للإنترنت فائق السرعة"
+  ],
+  "sub_indicators": [
+    {
+      "key": "plan",
+      "label": "National broadband plan",
+      "subject": "gov.policy",
+      "text": "Broadband strategy: national plan",
+      "indicator_id": "gov.policy--broadband-strategy-national-plan",
+      "class": "plan"
+    }
+  ],
+  "classes": [
+    "plan",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Plan adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "delivery",
+      "name": "Money and results",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "reported",
+        "funded"
+      ],
+      "values": [
+        "reported",
+        "funded",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}

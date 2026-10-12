@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 10:53 · **MATURITY-STUDY** · unclocked · broadbandstrategy, step 1: four questions prepared for `gov.policy--broadband-strategy`; 14 unread stories about a plan, 174 cited by the current cells, ceiling 40M. Nothing run; waits for Bill.
 2026-10-12 09:56 · **HOUSEKEEPING** · 9m · jobs 12 and 13 closed: 160 paper-claim links in dpi.mis and digital.rural read against their sources, 54 more sentences cut or re-pointed in 21 status reports, the six owed settled; status-check passes on all 54 units
 2026-10-12 09:45 · **HOUSEKEEPING** · unclocked · job 12 worked once: 61 unheld-source paper-records sentences read in 25 status reports (12 stand, 43 cut, 6 still owed, sources unfetched); job 14 closed with it; 22 reports touched, status-check ok
 2026-10-12 00:03 · **HOUSEKEEPING** · 8m · job 12 worked once: 29 held-body paper-records sentences settled in 18 status reports (1 stands, 7 re-pointed, 21 cut); 61 unheld-source lines still owed
