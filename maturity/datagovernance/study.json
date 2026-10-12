@@ -1,0 +1,152 @@
+{
+  "id": "datagovernance",
+  "study_file": "maturity-study-datagovernance.md",
+  "subjects": [
+    "gov.policy",
+    "gov.standards",
+    "dpi.exchange",
+    "data.open"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--data-governance-policy"
+  ],
+  "carry": [
+    "gov.policy--data-governance-policy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "data governance policy",
+    "data governance strategy",
+    "data governance framework",
+    "data governance bill",
+    "data governance law",
+    "data governance act",
+    "data governance roadmap",
+    "data governance council",
+    "data governance office",
+    "data governance authority",
+    "data governance committee",
+    "national data governance",
+    "national data policy",
+    "national data strategy",
+    "national data framework",
+    "national data management policy",
+    "national data sharing policy",
+    "national data and cloud policy",
+    "national policy on data",
+    "national strategy on data",
+    "national strategy for data",
+    "data management policy",
+    "data sharing policy",
+    "data policy and strategy",
+    "data strategy and policy",
+    "government data strategy",
+    "government data policy",
+    "policy on data governance",
+    "strategy on data governance",
+    "framework for data governance",
+    "chief data officer",
+    "national data office",
+    "national data council",
+    "domesticate the data policy framework",
+    "domestication of the data policy framework",
+    "domesticating the data policy framework",
+    "politique de gouvernance des données",
+    "politique nationale de gouvernance des données",
+    "stratégie de gouvernance des données",
+    "stratégie nationale de gouvernance des données",
+    "cadre de gouvernance des données",
+    "cadre national de gouvernance des données",
+    "gouvernance nationale des données",
+    "politique nationale des données",
+    "politique nationale de données",
+    "politique nationale de la donnée",
+    "stratégie nationale des données",
+    "stratégie nationale de données",
+    "stratégie nationale de la donnée",
+    "stratégie nationale en matière de données",
+    "politique nationale en matière de données",
+    "politique de partage des données",
+    "politique de gestion des données",
+    "loi sur la gouvernance des données",
+    "conseil national des données",
+    "política de governação de dados",
+    "política de governança de dados",
+    "política nacional de governação de dados",
+    "estratégia de governação de dados",
+    "estratégia de governança de dados",
+    "quadro de governação de dados",
+    "política nacional de dados",
+    "estratégia nacional de dados",
+    "política de partilha de dados",
+    "política de gestão de dados",
+    "política de gobernanza de datos",
+    "estrategia de gobernanza de datos",
+    "política nacional de datos",
+    "estrategia nacional de datos",
+    "سياسة حوكمة البيانات",
+    "استراتيجية حوكمة البيانات",
+    "إطار حوكمة البيانات",
+    "حوكمة البيانات الوطنية",
+    "السياسة الوطنية للبيانات",
+    "الاستراتيجية الوطنية للبيانات",
+    "الإستراتيجية الوطنية للبيانات",
+    "استراتيجية وطنية للبيانات",
+    "قانون حوكمة البيانات"
+  ],
+  "sub_indicators": [
+    {
+      "key": "policy",
+      "label": "National data policy",
+      "subject": "gov.policy",
+      "text": "Data governance policy: national data policy",
+      "indicator_id": "gov.policy--data-governance-policy-national-data-policy",
+      "class": "policy"
+    }
+  ],
+  "classes": [
+    "policy",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Policy adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Body named and rules issued",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "issued",
+        "body"
+      ],
+      "values": [
+        "issued",
+        "body",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
