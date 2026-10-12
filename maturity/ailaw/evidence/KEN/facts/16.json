@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-19-data-protection-africas-default-ai-policy-tool",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "TechCabal reports that Kenya's Artificial Intelligence Bill was formally introduced in the Senate on 19 February 2026 by Senator Karen Nyamu.", "as_of": "2026-02-19", "date_precision": "day", "system": "Artificial Intelligence Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence Bill", "country_label": "Kenya's Artificial Intelligence Bill", "class": "law", "platform": "", "owner": "Senate of Kenya (introduced by Senator Karen Nyamu)", "tiers": ""},
+    {"system": "Data Protection Act", "country_label": "Kenya Data Protection Act (2019, amendments March 2025)", "class": "other", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": ""}
+  ],
+  "note": ""
+}

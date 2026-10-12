@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,law,standing,none,"Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no dedicated AI law and no AI-specific legislation, and that AI is not governed by any specific national framework.",2026-06-08,day,AI law or binding rule,law,2026-06-08-levellers-ai-regulation-eritrea,https://www.levellers.ai/what-is/ai-regulation-eritrea

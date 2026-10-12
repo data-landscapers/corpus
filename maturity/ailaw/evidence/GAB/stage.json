@@ -1,0 +1,16 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "3",
+   "standing": "in-force",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GAB-001",
+   "gaps": "No source held says a law on AI itself, applying across sectors, is in force.",
+   "note": "Counted from the four questions by study-ladder-ailaw.py."
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-lana-dbeibah-adopts-ai-ethics-charter-national-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Ethics Charter", "country_label": "AI Ethics Charter", "class": "other", "platform": "", "owner": "Prime Minister's Office, Government of National Unity", "tiers": "government, private and academic sectors"},
+    {"system": "National Artificial Intelligence Strategy 2026-2030", "country_label": "National AI Strategy 2026-2030", "class": "other", "platform": "", "owner": "Minister of State for Digital Economy and Artificial Intelligence", "tiers": ""}
+  ],
+  "note": "Reports adoption of an AI ethics charter and a strategy, both non-binding instruments (class other); no binding rule on AI is stated."
+}

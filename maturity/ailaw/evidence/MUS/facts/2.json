@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-28-mus-defimedia-ai-progress-regulation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "A Le Defi Media blog by Vishal Askurn states that Mauritius does not currently have a single, comprehensive AI Act, and that existing laws such as the Data Protection Act 2017 and sector guidance supply safeguards.", "as_of": "2026-09-28", "date_precision": "day", "system": "comprehensive AI Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National AI Strategy", "class": "other", "platform": "", "owner": "Government of Mauritius", "tiers": ""},
+    {"system": "FAIR Guidelines", "country_label": "FAIR Guidelines", "class": "other", "platform": "", "owner": "Government of Mauritius", "tiers": ""},
+    {"system": "Financial Services Commission Fintech Series Guidance Notes No. 4", "country_label": "FSC Fintech Guidance Notes No. 4", "class": "other", "platform": "", "owner": "Financial Services Commission", "tiers": ""}
+  ],
+  "note": "Not a statement that Mauritius has no AI rule at all (it names sector guidance), so no standing fact; FAIR Guidelines are described as non-binding; the blog is named-analyst opinion."
+}

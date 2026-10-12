@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-24-ken-cipesa-kenya-ai-emerging-tech-guidance-notes",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "CIPESA's 24 September 2026 article refers to the AI Bill, 2026 as proposing a Commissioner-maintained public register of high-risk AI models and as addressing synthetic political content, and to a prospective AI Commissioner; the article gives no tabling date, so the date is its publication date.", "as_of": "2026-09-24", "date_precision": "day", "system": "AI Bill, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "AI Bill, 2026", "country_label": "AI Bill, 2026", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Draft Guidance Note on Artificial Intelligence", "country_label": "Draft Guidance Note on AI", "class": "other", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": "entities processing personal data with AI"},
+    {"system": "Draft Guidance Note on Emerging Technologies", "country_label": "Draft Guidance Note on Emerging Technologies", "class": "other", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": ""}
+  ],
+  "note": "The ODPC guidance notes are guidance under the Data Protection Act, 2019 and are class other; the only law fact is the passing reference to the AI Bill."
+}

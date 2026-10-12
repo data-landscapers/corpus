@@ -161,7 +161,15 @@
       "subject": "gov.legislate",
       "text": "AI legislation / regulations: AI law or binding rule",
       "indicator_id": "gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no law or regulation on AI and no draft of one.",
+        "A bill, draft decree or draft regulation on AI exists: published, out for consultation, or before cabinet or parliament. A law that is only announced or planned does not count.",
+        "A law, decree or regulation in force names AI and sets a rule for it, in one sector or for one use: AI in higher education, AI-generated content in the media or in elections. A strategy, ethics guidelines or a data protection law's general rule on automated decisions does not count.",
+        "A law on AI itself is in force and applies across sectors.",
+        "That law has been applied in the past three years: a regulation or order has been made under it, or the body it names has registered, licensed, decided or penalised."
+      ],
+      "criteria_of": "b0371dabd793"
     }
   ],
   "classes": [

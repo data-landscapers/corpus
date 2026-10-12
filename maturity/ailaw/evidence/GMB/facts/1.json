@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-01-oxford-tech-justice-gambia-limited-ai-deployment-and-regulation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The Oxford Institute of Technology and Justice assessment states that as at June 2026 there is no dedicated legislation regulating the use of AI in The Gambia and no proposed legislation on AI.", "as_of": "2026-06", "date_precision": "month", "system": "", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The Oxford Institute of Technology and Justice assessment states that there is no general legislation on the use of AI in force in The Gambia, as at June 2026.", "as_of": "2026-06", "date_precision": "month", "system": "", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Automated court recording and transcription system", "country_label": "automated transcription and recording system", "class": "other", "platform": "Q-Soft Denovo", "owner": "Judiciary of The Gambia, with the U.S. Department of State", "tiers": "Banjul High Court; magistrate courts in Brikama, Kerewan, Farafenni and Basse"}
+  ],
+  "note": ""
+}

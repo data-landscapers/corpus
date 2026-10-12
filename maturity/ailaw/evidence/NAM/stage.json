@@ -1,0 +1,16 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "1",
+   "standing": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-003;NAM-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ailaw.py."
+  }
+ ]
+}

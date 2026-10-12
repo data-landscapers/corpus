@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-03-higher-education-use-of-ai-regulations-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Higher Education (Use of Artificial Intelligence) Regulations 2026 (GN No. 39 of 2026), made by the Minister on 3 April 2026 under the Higher Education Act 2017, apply to AI use in the higher education sector and oblige higher education institutions to adopt AI policies and require disclosure of AI tool use, coming into operation on 31 March 2026.", "as_of": "2026-03-31", "date_precision": "day", "system": "Higher Education (Use of Artificial Intelligence) Regulations 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Higher Education (Use of Artificial Intelligence) Regulations 2026", "country_label": "Higher Education (Use of Artificial Intelligence) Regulations 2026 (GN No. 39 of 2026)", "class": "law", "platform": "", "owner": "Minister responsible for higher education; Higher Education Commission", "tiers": "higher education institutions"}
+  ],
+  "note": ""
+}

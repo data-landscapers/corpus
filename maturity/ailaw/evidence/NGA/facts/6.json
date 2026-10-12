@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "TechTrends Africa reports that as of 2025 Nigeria was still working through the National Artificial Intelligence Commission (Establishment) Bill, which would create a commission with regulatory authority, and that it had not cleared the National Assembly (article published 2026-07-28; the date of the status is given only as 2025).",
+     "as_of": "2025", "date_precision": "year",
+     "system": "National Artificial Intelligence Commission (Establishment) Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Commission (Establishment) Bill", "country_label": "National Artificial Intelligence Commission (Establishment) Bill", "class": "law", "platform": "", "owner": "National Assembly", "tiers": ""},
+    {"system": "National Artificial Intelligence Strategy (NAIS)", "country_label": "National Artificial Intelligence Strategy", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

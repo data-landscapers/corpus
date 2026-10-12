@@ -1,0 +1,16 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "draft",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-002",
+   "gaps": "No source held says a law, decree or regulation that sets a rule for AI is in force.",
+   "note": "Counted from the four questions by study-ladder-ailaw.py."
+  }
+ ]
+}

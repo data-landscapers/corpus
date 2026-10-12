@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-09-cabo-verde-cnpd-workshop-governanca-inteligencia-artificial-africa",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none",
+     "fact": "Cabo Verde's data protection authority (CNPD), reporting on its member's role at an African AI governance workshop in Accra (29 September to 1 October 2025), recognises the need to give the country legislation to regulate AI, which it presents as not yet existing; the item is signed at Praia on 3 October 2025.",
+     "as_of": "2025-10-03", "date_precision": "day", "system": "Legislation to regulate artificial intelligence", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-23-okolo-raji-global-majority-international-ai-governance",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "Okolo and Raji state that four consolidated AI bills passed second reading in Nigeria's House of Representatives on 3 December 2024, among them the Control of Usage of Artificial Intelligence Technology in Nigeria Bill, 2023 (HB.942), which provides for ethical principles, risk assessment, data governance, safety and security, and penalties.",
+     "as_of": "2024-12-03", "date_precision": "day",
+     "system": "Control of Usage of Artificial Intelligence Technology in Nigeria Bill, 2023 (HB.942)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Control of Usage of Artificial Intelligence Technology in Nigeria Bill, 2023 (HB.942)", "country_label": "Control of Usage of Artificial Intelligence Technology in Nigeria Bill, 2023", "class": "law", "platform": "", "owner": "House of Representatives", "tiers": ""}
+  ],
+  "note": ""
+}

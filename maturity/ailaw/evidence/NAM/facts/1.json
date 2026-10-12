@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-02-nam-iafrica-national-ai-institute",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Reporting on Namibia's 2025 AI Readiness Assessment lists no formal AI regulatory framework among its unresolved problems, as published by iAfrica on 2 October 2026 (assessment dated 2025, no month given).", "as_of": "2025", "date_precision": "year", "system": "formal AI regulatory framework", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

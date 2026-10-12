@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-27-guinea-ecuatorial-ley-inteligencia-artificial-aniad",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "Equatorial Guinea's Ministry of Transport, Telecommunications and AI Systems is drafting an AI law (anteproyecto), and a session reviewed observations and amendments to its initial draft; no date is given for the session, so the 2025-08-27 publication date is used.",
+     "as_of": "2025-08-27", "date_precision": "day", "system": "Ley de Inteligencia Artificial (anteproyecto)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Ley de Inteligencia Artificial (anteproyecto)", "country_label": "Ley de Inteligencia Artificial", "class": "law", "platform": "", "owner": "Ministerio de Transportes, Telecomunicaciones y Sistemas de Inteligencia Artificial", "tiers": "national"}
+  ],
+  "note": ""
+}

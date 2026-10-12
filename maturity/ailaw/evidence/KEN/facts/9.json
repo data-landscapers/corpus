@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-26-kenya-health-data-sovereignty-standard-opinion",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "A Standard opinion piece of 26 August 2026 says the Artificial Intelligence Bill 2026, sponsored by Senator Karen Nyamu, has been tabled in the Senate and proposes mandatory oversight of high-risk AI; the piece gives no tabling date, so the date is its publication date.", "as_of": "2026-08-26", "date_precision": "day", "system": "Artificial Intelligence Bill 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence Bill 2026", "country_label": "Artificial Intelligence Bill 2026", "class": "law", "platform": "", "owner": "Senate of Kenya", "tiers": "national"},
+    {"system": "Pharmacy and Poisons Board guidelines on AI-powered medical tools", "country_label": "Pharmacy and Poisons Board guidelines on AI-powered medical tools", "class": "other", "platform": "", "owner": "Pharmacy and Poisons Board", "tiers": ""},
+    {"system": "Kenya National Artificial Intelligence Strategy 2025-2030", "country_label": "National Artificial Intelligence Strategy 2025-2030", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

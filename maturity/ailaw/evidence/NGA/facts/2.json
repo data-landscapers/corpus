@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-20-nigeria-ai-bill-control-innovation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "TechCabal reports that Nigeria has a proposed Artificial Intelligence Bill with a risk-based model, a licensing regime for building or deploying certain AI systems and an AI Council, and that it was under debate; the document gives no event date, so its published date is used.",
+     "as_of": "2025-11-20", "date_precision": "day",
+     "system": "Nigeria AI Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Nigeria AI Bill", "country_label": "Artificial Intelligence Bill", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

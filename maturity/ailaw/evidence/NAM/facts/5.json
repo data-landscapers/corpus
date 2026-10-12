@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-namibia-deloitte-ai-strategy",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Tech Africa News reports the ICT minister saying at a 3 August 2026 meeting that government has prioritised a national AI strategy before introducing legislation, so no AI legislation has yet been introduced.", "as_of": "2026-08-03", "date_precision": "day", "system": "Namibia AI Strategy Framework", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Namibia AI Strategy Framework", "country_label": "Artificial Intelligence Strategy Framework", "class": "other", "platform": "", "owner": "National Commission on Research, Science and Technology", "tiers": "national"}
+  ],
+  "note": ""
+}

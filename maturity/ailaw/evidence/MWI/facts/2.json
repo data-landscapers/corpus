@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-malawi-drafts-ai-bill",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Telecompaper reported that Malawi's government announced plans to introduce legislation regulating AI use and that ICT minister Shadric Namalomba said the proposed bill should be tabled in parliament before December; no draft text is described, and the dating is the publication date.", "as_of": "2026-08-10", "date_precision": "day", "system": "AI Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "AI Bill", "country_label": "AI Bill", "class": "law", "platform": "", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": ""
+}

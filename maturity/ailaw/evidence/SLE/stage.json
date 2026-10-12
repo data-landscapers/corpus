@@ -1,0 +1,16 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "1",
+   "standing": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ailaw.py."
+  }
+ ]
+}

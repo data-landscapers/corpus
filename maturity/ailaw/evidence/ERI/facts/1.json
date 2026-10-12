@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-08-levellers-ai-regulation-eritrea",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no dedicated AI law and no AI-specific legislation, and that AI is not governed by any specific national framework.", "as_of": "2026-06-08", "date_precision": "day", "system": "AI law or binding rule", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

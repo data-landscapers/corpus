@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-echosdeleco-gabon-ai-governance-index",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article cites an ordinance of April 2026 governing AI-generated content, notably prohibiting deepfakes, as evidence of Gabon's will to regulate; it gives no article numbers or text.", "as_of": "2026-04", "date_precision": "month", "system": "Ordonnance d'avril 2026 encadrant les contenus générés par IA", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

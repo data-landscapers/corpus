@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-anthropic-book-scanning-south-african-authors",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Copyright Amendment Bill",
+      "country_label": "Copyright Amendment Bill",
+      "class": "other",
+      "platform": "",
+      "owner": "Parliament",
+      "tiers": ""
+    }
+  ],
+  "note": "The Copyright Amendment Bill is quoted as saying nothing explicit about generative AI; it sets no rule naming AI, so no fact."
+}

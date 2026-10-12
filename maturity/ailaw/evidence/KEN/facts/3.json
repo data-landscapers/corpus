@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-18-cipit-standing-cabinet-committee-ai-kenya",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "CIPIT (Strathmore University) says the Artificial Intelligence Bill 2026 seeks to move AI governance in Kenya into a binding legislative framework and is being developed alongside the draft AI policy; the article gives no date for the bill, so the publication date is used.", "as_of": "2026-08-18", "date_precision": "day", "system": "Artificial Intelligence Bill 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Artificial Intelligence Bill 2026", "country_label": "Artificial Intelligence Bill 2026", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Kenya National AI Strategy 2025-2030", "country_label": "National AI Strategy 2025-2030", "class": "other", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""},
+    {"system": "Draft Kenya AI and other Emerging Technologies Policy 2026", "country_label": "Draft AI and other Emerging Technologies Policy", "class": "other", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""},
+    {"system": "Standing Cabinet Committee on Artificial Intelligence", "country_label": "Standing Cabinet Committee on Artificial Intelligence", "class": "other", "platform": "", "owner": "Cabinet", "tiers": ""}
+  ],
+  "note": ""
+}

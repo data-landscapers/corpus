@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-14-namibia-ai-readiness-assessment-report-launch",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "At the 14 August 2025 launch of Namibia's first AI Readiness Assessment Report, NCRST's Dr Simeon Hamukoshi cited the absence of a formal AI regulatory framework as a persisting challenge, and the report recommends establishing a national AI governance framework.", "as_of": "2025-08-14", "date_precision": "day", "system": "formal AI regulatory framework", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

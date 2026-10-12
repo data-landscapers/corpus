@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-ailaw.md — the twenty-third maturity study: the law or binding rule on artificial intelligence, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; awaiting Bill's word on the four questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: ailaw
@@ -56,7 +56,7 @@ Asked in order. Each is answered with a date and a link.
 - **A private member's bill counts as a bill** while it is before parliament.
 - **A law passed but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
 - **A decree or regulation counts as well as an act of parliament**, where a source says it binds.
-- **How good the law is, and whose law it copies, are not judged.** A reported criticism is noted.
+- **How good the law is is not judged.**
 - **A third change from the row as it stands**: its stage 4 asks for assessment tools and a regulator together, and its stage 5 is the Continental AI Strategy's end state, with alignment to a regional ethics board. Neither is a fact one story can state.
 
 `study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `reach` (`applied`, `general`, `none`) for 3 and 4.
@@ -67,22 +67,35 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 
 ## 5. What the run reads
 
-- **Read first**: **129 news stories about a law or binding rule on AI**, covering 40 countries. They are 63 stories, a regional roundup counting once for each country it names, all from the last three years. The AI strategy study read 75 of the 129 for its own questions and none for these. Fourteen countries have none.
+- **Read first**: **129 news stories about a law or binding rule on AI**, covering 40 countries. They are 63 stories, a roundup counting once per country it names. Fourteen countries have none.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 166 across 49 countries.
 - **Then, only for a country with no answer to question 1 or 2**: one call of its newest held news that names such a law, from at most 463 stories across 48 countries.
 - **Not read**: the long texts of laws, strategies and reports, 484 of them. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
 
-**50 million.** The run checks after every fan-out and stops at it. The payments law study, with 97 stories to read first and 169 cited, spent 43.4 million against 50.
+**50 million.** The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: the 129 stories; then the cited news of the countries left short; then one call for a country with no answer to question 1 or 2.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement of two drafters on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 129 stories in 49 calls and the 166 cited in 57; then one call each for 14 countries with no answer whose held news names an AI law twice or more, and the Seychelles act's passages. 57 facts held.
+- [x] **D3. Staged**: six at stage 3, six at 2, nine at 1, none at 4 or 5, and 33 with no evidence, as at 2026-09-30; six facts removed by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **Stage 3**: Comoros (media code), Gabon (ordinance on AI-generated content), Morocco (electoral law), Mauritius (higher education), Nigeria, Tanzania (online content). **No country has a law on AI itself in force.**
+- **Nigeria's data protection directive of 2025 counts**: its articles 43 and 44 name AI and set duties for whoever deploys it. The source is dated after the as-at; the directive is not.
+- **A bill announced is not a draft** (Malawi); nor is work said to have begun on a legal framework, with no text named (Algeria, Tunisia). All three hold no fact.
+- **A ban for one election campaign is not a rule in force** (Guinea's regulator, 2025).
+- **A body saying the country needs an AI law does not say there is none** (Cabo Verde).
+- **A draft for one sector is a draft** (Mozambique, education), as is a wider bill that regulates AI among other technologies (Ghana, Nigeria).
+- **A statement of no law that names no draft sets stage 1**; only The Gambia's says in terms that none is proposed.
+- **A "no law" statement found only in a record's ingest note, not its body, is no fact** (Botswana, Madagascar): six of the row's ten stage 1 cells now hold no evidence.
+- **Seychelles holds no fact**: the passages held of its Broadcasting Corporation Act do not carry the AI clause.
+- **The summaries were written by the parent.** **Tokens: 41.3 million at the map**, ceiling 50 million.
 
 ## Boundary
 

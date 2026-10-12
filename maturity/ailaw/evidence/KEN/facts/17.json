@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-23-okolo-raji-global-majority-international-ai-governance",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Okolo and Raji (published 2026-01-23) describe Kenya's Robotics and Artificial Intelligence Society Bill, 2023 as a bill that would set licensing requirements on five principles and has drawn criticism for a narrow approach and weak enforcement; the document gives no later date for its status, so the date is the bill's year.", "as_of": "2023", "date_precision": "year", "system": "Robotics and Artificial Intelligence Society Bill, 2023", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Robotics and Artificial Intelligence Society Bill, 2023", "country_label": "Robotics and Artificial Intelligence Society Bill, 2023", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

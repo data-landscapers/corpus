@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-unesco-sao-tome-ai-readiness-assessment-full-report",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The UNESCO readiness assessment, in the preface by the Minister of Education, states that Sao Tome and Principe has no laws or regulations specific to the development, use and deployment of AI; the document gives no date for this statement, so its published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

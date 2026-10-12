@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-10-nga-theliberalist-nigeria-needs-no-ai-law-it-already-has-one-the-liberalist",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Liberalist states that the Nigeria Data Protection Commission issued the General Application and Implementation Directive in 2025, whose Article 43 names artificial intelligence and requires controllers deploying it to document parameters, assess disparate outcomes and test the system, and whose Article 44 tells them to cease using AI systems that pose undue risks to human rights; it calls these current regulatory text.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "General Application and Implementation Directive (GAID)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "General Application and Implementation Directive (GAID)", "country_label": "General Application and Implementation Directive", "class": "law", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""},
+    {"system": "Nigeria Data Protection Act 2023", "country_label": "Nigeria Data Protection Act 2023", "class": "other", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""}
+  ],
+  "note": "The Nigeria Data Protection Act s.37 rule on automated decisions is a data protection rule and gives no fact; the document says a dedicated AI law is being developed, which is an intention with no draft named."
+}

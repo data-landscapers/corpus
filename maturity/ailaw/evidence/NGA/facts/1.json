@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-14-nigeria-plans-ai-regulations-bill",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "ITWeb Africa reports that Nigeria is preparing a law to regulate AI through the National Digital Economy and E-Governance Bill, expected to be approved by the end of March, with a risk-based framework, annual impact assessments for high-risk AI systems and fines of up to 10 million naira or 2% of an AI provider's Nigerian revenue; the document gives no event date, so its published date is used.",
+     "as_of": "2026-01-14", "date_precision": "day",
+     "system": "National Digital Economy and E-Governance Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Digital Economy and E-Governance Bill", "country_label": "National Digital Economy and E-Governance Bill", "class": "law", "platform": "", "owner": "National Information Technology Development Agency", "tiers": ""}
+  ],
+  "note": ""
+}

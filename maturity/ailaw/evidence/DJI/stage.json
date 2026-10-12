@@ -1,0 +1,16 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "1",
+   "standing": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ailaw.py."
+  }
+ ]
+}

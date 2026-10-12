@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-26-dji-intelligence-artificielle-ou-en-est-reellement-djibouti",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "La Nation, reporting the UNESCO-supported readiness assessment, states that no law specifically addresses artificial intelligence in Djibouti to date, the Code du numerique being a data-protection frame only; the document gives no date for the statement, so the article's published date is used.", "as_of": "2026-08-26", "date_precision": "day", "system": "AI-specific legislation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Code du numerique", "country_label": "Code du numerique", "class": "other", "platform": "", "owner": "Government of Djibouti", "tiers": ""}
+  ],
+  "note": ""
+}

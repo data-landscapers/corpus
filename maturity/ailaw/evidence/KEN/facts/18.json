@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-31-amenya-kenya-copyright-bill-ai-age",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The commentary says an AI Bill is currently before the Kenyan Senate and would create an Office of the AI Commissioner and an Advisory Committee on AI; the document gives no date for the bill, so its published date of 2026-07-31 is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "AI Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "AI Bill", "country_label": "AI Bill", "class": "law", "platform": "", "owner": "Senate of Kenya", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-28-how-african-governments-are-regulating-ai",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "TechTrends Africa says Kenya's legislative process has yet to deliver actual regulatory bodies and describes its AI legislation as draft bills sitting in committee; the article gives no date for the bills, so the publication date is used.", "as_of": "2026-07-28", "date_precision": "day", "system": "draft AI bills", "class": "law"}
+  ],
+  "systems": [
+    {"system": "draft AI bills", "country_label": "draft bills", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National AI Strategy 2025-2030", "country_label": "National AI Strategy 2025-2030", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

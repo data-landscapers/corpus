@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "CIPIT (Strathmore University) states that Uganda has no AI laws in place and uses data protection laws in place of a dedicated framework; no event date is given, so the document's published date is used.", "as_of": "2026-09-15", "date_precision": "day", "system": "Uganda AI law position", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

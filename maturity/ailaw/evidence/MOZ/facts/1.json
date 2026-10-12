@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-17-mozambique-intic-copyright-ai-legislation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "INTIC board chairman Lourino Chemane said at a Maputo roundtable that Mozambique does not yet have specific legislation governing artificial intelligence; he called for a dedicated AI legal framework and mentioned only a planned proposal for an Online Copyright Protection Act next year, with no AI draft named.", "as_of": "2026-08-17", "date_precision": "day", "system": "AI legislation", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "INTIC board chairman Lourino Chemane said Mozambique has no specific legislation governing artificial intelligence and needs a dedicated legal framework for AI; the document names no AI law of general reach.", "as_of": "2026-08-17", "date_precision": "day", "system": "AI legislation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "other", "platform": "", "owner": "INTIC, with UNESCO support", "tiers": ""},
+    {"system": "Online Copyright Protection Act (planned proposal)", "country_label": "Online Copyright Protection Act", "class": "other", "platform": "", "owner": "INTIC", "tiers": ""}
+  ],
+  "note": ""
+}
