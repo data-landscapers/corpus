@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: COD
-ledger_rows: 52
+ledger_rows: 54
 not_held: 7
-record: 3bd1beaa22fa
+record: 218a77ae60d7
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -55,6 +55,8 @@ An Algerian state electronics firm and its consortium [signed a protocol, report
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
+
+The posts and telecommunications minister [presented the commercial launch of 5G to the Council of Ministers on 9 October 2026, starting in urban areas, with no operator, spectrum assignment, licence fee or date stated](https://7sur7.cd/2026/10/11/rdc-le-gouvernement-annonce-le-lancement-commercial-de-la-5g); he had [said in late September that government was working toward availability before the end of 2026](https://www.wearetech.africa/fr/fils/actualites/telecom/rdc-la-5g-en-preparation-pres-de-7-congolais-sur-10-restent-hors-ligne). The digital-economy minister and his Central African counterpart [agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, with no timetable or financing](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
 <!-- /narrative -->
 ### Energy
 

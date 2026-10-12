@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: NGA
-ledger_rows: 142
+ledger_rows: 144
 not_held: 9
-record: 5c2b7442de83
+record: ba030daeee2a
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -40,6 +40,8 @@ The commission opened a second framework alongside its enforcement work: validat
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 
 The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
+
+A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -58,6 +60,8 @@ The device register went live and met resistance. The board [stated the Device M
 
 <!-- narrative: finance--finance-mou -->
 The one memorandum signed in the window is domestic: the technology development agency and the national chambers of commerce [signed an agreement on small-business digital adoption on the sidelines of GITEX Nigeria, covering a shared enterprise platform, capacity building and the national digital conference](https://punchng.com/nitda-naccima-deepen-push-for-msmes-digital-adoption/), with no sum or deliverable attached.
+
+The central bank [signed a memorandum of understanding in Singapore with the Global Finance & Technology Network, setting a framework for cooperation between the two countries' financial-innovation sectors](https://www.thestar.ng/cbn-singapores-gftn-sign-mou-to-boost-financial-innovation/). The signing date is not stated.
 <!-- /narrative -->
 ### New investments
 

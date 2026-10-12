@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: UGA
-ledger_rows: 62
+ledger_rows: 65
 not_held: 11
-record: 41fc8f5b5eeb
+record: 97437b16376c
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -62,6 +62,11 @@ The second operator followed with a service rather than a partnership: it [launc
 
 [The President directed cancellation of the agreement to revive the state telecoms operator, the investor having failed to inject an initial US$25m while seeking control of the national backbone](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million); a Cabinet paper on a state-funded revival is to follow.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+A former head of the communications regulator wrote that [the information technology authority's strategic plan provides for a third national data centre, with a primary site at Entebbe and disaster recovery at Jinja, guided by a market study launched in 2025](https://www.newvision.co.ug/category/blogs/plan-now-for-infrastructure-to-power-ai-NV_242203_102026). The centre had been removed from the World Bank project in 2025, and no financing or timetable is stated.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -104,6 +109,8 @@ A sectoral register was added beside them. The trade, industry and cooperatives 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
 The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
+
+The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -117,6 +124,8 @@ The tax stamps system published its scale: [more than 1,680 manufacturers and im
 The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own.
 
 The facility record system drew its first district-level complaint on this record. Health workers in Kiryandongo told a public meeting on 19 September that [the ministry's electronic medical record system, introduced in selected facilities in 2016, stalls care for want of connectivity, stable power and computers](https://www.newvision.co.ug/category/health/kiryandongo-health-facilities-struggle-with-e-NV_241031_092026). No national count of facilities running it is published.
+
+The Judiciary [is running a data-cleaning exercise in nine Cluster 10 courts from 6 to 16 October 2026, reconciling physical files against the Court Case Administration System before the courts move to the electronic case management system](https://ugandaradionetwork.com/s/judiciary-cleans-case-records-ahead-of-eccmis-rollout-in-nine-courts/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

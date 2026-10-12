@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: CAF
-ledger_rows: 14
+ledger_rows: 17
 not_held: 4
-record: 36b009bc5fe0
+record: fd2df027ae9c
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -25,6 +25,11 @@ A fire damaged the electoral authority's data-processing centre in the week befo
 <!-- narrative: governance--gov-policy -->
 
 The digital development agency's own presentation establishes its footing: [it was created by law in June 2023 as a public establishment with a mandate to implement the national digital strategy](https://acdd.gouv.cf/agence.php). No budget, staffing or activity report is held.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The statistics institute reported that [the bill replacing the statistics law of 16 July 2001 had passed technical validation and strategic review and awaits the commission that examines draft official texts](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -52,6 +57,8 @@ The regional programme acquired a date rather than money. The country's componen
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
+
+The digital-economy minister and his Congolese counterpart [agreed in Moscow on 8 October 2026 on the need to carry out a fibre interconnection with the Democratic Republic of Congo, which the ministry says would reach the submarine cable landing at Moanda; no timetable or financing was announced](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
 <!-- /narrative -->
 ### Data Storage
 
@@ -94,6 +101,8 @@ The regulator [published operators' combined revenue for the first half of 2026 
 
 <!-- narrative: data--data-statistics -->
 The statistics institute posted the regulator's first-half 2026 market observatory on 16 September, compiled from the returns operators must file under the regulator's decision of 25 June 2025. [It puts internet clients at more than 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0).
+
+The institute [held the mid-term evaluation of the second national statistics strategy in Bangui on 7 to 9 October 2026, financed by UNDP; the strategy is to be updated with revised indicators and a realigned calendar](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
 <!-- /narrative -->
 ### Open data
 

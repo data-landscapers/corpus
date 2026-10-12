@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: TZA
-ledger_rows: 65
+ledger_rows: 68
 not_held: 5
-record: 4b2f9671e075
+record: 0a18591846ad
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -24,6 +24,8 @@ The government [presented a digital infrastructure investment envelope of US$2.6
 
 <!-- narrative: governance--gov-legislate -->
 The [Citizen Budget 2026/27, published on 22 September, lists the digital service tax on foreign digital service providers as raised from 2% to 3%](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). Its effective date and statutory clause are not stated.
+
+A legal update drew attention to [regulations in force since 1 July 2026 that make proof of a digital payment facility, such as Lipa Namba or TANQR, a condition of every new or renewed business licence](https://fbattorneys.co.tz/digital-payments-now-a-business-licensing-requirement/); the [Government Notice was published on 30 June 2026](https://fbattorneys.co.tz/wp-content/uploads/2026/10/The-Business-Licensing-Amendment-Regulations-2026.pdf-stamped.pdf).
 <!-- /narrative -->
 ### Data protection
 
@@ -91,6 +93,8 @@ August gave the national series the earlier account lacked. The regulator's dire
 
 <!-- narrative: dpi--dpi-exchange -->
 The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published. The central bank [signed a cooperation agreement with IFC on the credit reporting system](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing).
+
+The deputy communications minister [called on parcel and express courier providers to register and connect their tracking systems to the national tracking and information-exchange systems, commending those already linking to the Communication Monitoring System the regulator oversees](https://www.mawasiliano.go.tz/news/serikali-yawataka-wasafirishaji-kuunganisha-mifumo-ya-ufuatiliaji-wa-vifurushi-2).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -100,6 +104,8 @@ Where the checks run became the point. The central bank [backed a credit bureau�
 On 16 September the Prime Minister [directed the identity authority to drop the age bar and register young children](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344), and the authority restated its plan to carry birth certificates, health insurance and the passport on the national ID; no start date is set.
 
 On International Identity Day the registration authority [said it will link the national identity to nine services, up from four, naming birth certificates, health insurance, the taxpayer number, driving licences and blood group](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047). It gave no timetable.
+
+The home affairs minister said [6,308 identity cards printed for Zanzibar residents remained uncollected, and that government was considering fines for late collection](https://ippmedia.co.tz/the-guardian/news/local-news/read/6308-nida-cards-remain-uncollected-in-zanzibar-2026-10-12-135944).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -117,6 +123,8 @@ The lands ministry [inspected a National Land Data Infrastructure project buildi
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 
 The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
+
+A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
