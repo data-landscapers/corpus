@@ -1,0 +1,146 @@
+{
+  "id": "aistrategy",
+  "study_file": "maturity-study-aistrategy.md",
+  "subjects": [
+    "gov.policy",
+    "tech.ai"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--ai-strategy"
+  ],
+  "carry": [
+    "gov.policy--ai-strategy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "AI strategy",
+    "AI policy",
+    "AI roadmap",
+    "AI action plan",
+    "AI masterplan",
+    "AI master plan",
+    "AI blueprint",
+    "AI policy framework",
+    "national AI strategy",
+    "national AI policy",
+    "national AI plan",
+    "national AI roadmap",
+    "national AI framework",
+    "national AI council",
+    "national AI office",
+    "national AI commission",
+    "national AI agency",
+    "national AI authority",
+    "AI task force",
+    "AI taskforce",
+    "artificial intelligence strategy",
+    "artificial intelligence policy",
+    "artificial intelligence roadmap",
+    "artificial intelligence action plan",
+    "artificial intelligence masterplan",
+    "artificial intelligence council",
+    "artificial intelligence task force",
+    "strategy for artificial intelligence",
+    "strategy on artificial intelligence",
+    "policy on artificial intelligence",
+    "strategy for AI",
+    "strategy on AI",
+    "policy on AI",
+    "stratégie IA",
+    "stratégie nationale IA",
+    "stratégie nationale d'IA",
+    "stratégie nationale de l'IA",
+    "stratégie nationale en IA",
+    "stratégie d'intelligence artificielle",
+    "stratégie nationale d'intelligence artificielle",
+    "stratégie nationale de l'intelligence artificielle",
+    "stratégie nationale en intelligence artificielle",
+    "stratégie nationale pour l'intelligence artificielle",
+    "stratégie nationale sur l'intelligence artificielle",
+    "stratégie en matière d'intelligence artificielle",
+    "politique nationale d'intelligence artificielle",
+    "politique nationale de l'intelligence artificielle",
+    "politique nationale en matière d'intelligence artificielle",
+    "feuille de route de l'intelligence artificielle",
+    "feuille de route IA",
+    "plan national d'intelligence artificielle",
+    "plan national de l'intelligence artificielle",
+    "conseil national de l'intelligence artificielle",
+    "conseil national de l'IA",
+    "estratégia de inteligência artificial",
+    "estratégia nacional de inteligência artificial",
+    "estratégia nacional para a inteligência artificial",
+    "estratégia de IA",
+    "estratégia nacional de IA",
+    "política de inteligência artificial",
+    "política nacional de inteligência artificial",
+    "plano nacional de inteligência artificial",
+    "conselho nacional de inteligência artificial",
+    "estrategia de inteligencia artificial",
+    "estrategia nacional de inteligencia artificial",
+    "política de inteligencia artificial",
+    "استراتيجية الذكاء الاصطناعي",
+    "الاستراتيجية الوطنية للذكاء الاصطناعي",
+    "الإستراتيجية الوطنية للذكاء الاصطناعي",
+    "استراتيجية وطنية للذكاء الاصطناعي",
+    "سياسة الذكاء الاصطناعي",
+    "السياسة الوطنية للذكاء الاصطناعي",
+    "المجلس الوطني للذكاء الاصطناعي",
+    "المجلس الأعلى للذكاء الاصطناعي"
+  ],
+  "sub_indicators": [
+    {
+      "key": "strategy",
+      "label": "National AI strategy",
+      "subject": "gov.policy",
+      "text": "AI strategy: national AI strategy",
+      "indicator_id": "gov.policy--ai-strategy-national-ai-strategy",
+      "class": "strategy"
+    }
+  ],
+  "classes": [
+    "strategy",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Strategy adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Body named and action funded",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "funded",
+        "body"
+      ],
+      "values": [
+        "funded",
+        "body",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
