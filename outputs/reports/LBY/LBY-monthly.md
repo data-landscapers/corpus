@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: LBY
-ledger_rows: 34
+ledger_rows: 35
 not_held: 4
-record: 092d378639a1
+record: 092adfb4f95d
 ---
 
 # Libya: monthly update, September – October 2026
@@ -112,6 +112,14 @@ A Tripoli municipality [began electronic archiving of staff data, records and do
 
 <!-- narrative: digitalisation--digital-rural -->
 The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/).
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The social affairs ministry and the minister of state for digital economy and artificial intelligence [signed a memorandum launching the Wasl initiative at the Libya AI Forum in Tripoli on 10 October 2026, with one track on digital and artificial-intelligence skills for social-affairs staff and another on the digital empowerment of persons with disabilities](https://lana.gov.ly/post.php?id=367274&lang=ar).
 <!-- /narrative -->
 
 ## Inclusion

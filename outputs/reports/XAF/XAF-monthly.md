@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: XAF
 ledger_rows: 96
 not_held: 3
-record: 9e3f58a7138e
+record: 1782320799c2
 ---
 
 # Africa: monthly update, September – October 2026
@@ -107,6 +107,8 @@ Two card-network products launched on 22 September. [Mastercard launched Wallet 
 A mobile-money operator moved toward public markets: [Airtel Money, running in 13 African markets, announced on 23 September its intention to float in London, with existing shareholders selling, no new capital raised and the IFC to buy up to GBP67.2m of shares](https://www.londonstockexchange.com/news-article/market-news/airtel-mobile-commerce-n-v-intention-to-float/17799936); the prospectus is due in early October.
 
 Mastercard [said it will explore pairing its account-to-account fraud-scoring and dispute service with the Mojaloop Foundation's open-source instant-payment software, and work with AfricaNenda on instant-payment policy and governance](https://techafricanews.com/2026/09/30/mastercard-partners-with-mojaloop-and-africanenda-to-strengthen-instant-payments-in-africa/), in an announcement reported on 30 September; no country deployment, sum or timetable is stated. The continental commission's payments framework [was presented in Nairobi with three preconditions, among them a binding legal instrument and a US$120m fund](https://thesun.ng/africa-needs-120m-au-law-to-fix-cross-border-payments-au/). [A bank operating in 34 African countries said on 9 October 2026 that it would sign an agreement in China the next day to join the Cross-Border Interbank Payment System for yuan transactions, and is in talks to offer yuan settlement jointly with a Chinese bank](https://www.cnbcafrica.com/2026/ecobank-to-join-chinas-cips-payments-platform-for-yuan-settlement).
+
+[Conditional trading in Airtel Money began on the London Stock Exchange on 9 October 2026 after an oversubscribed offer in which existing shareholders sold 270 million shares at GBP1.96, raising about US$703 million; the shares touched GBP2.00 before trading at GBP1.93](https://www.financialexpress.com/market/global-markets/airtel-money-begins-trading-on-london-stock-exchange-after-oversubscribed-ipo/4359283/), with unconditional dealings due on 14 October.
 <!-- /narrative -->
 ### Sectoral management information systems
 

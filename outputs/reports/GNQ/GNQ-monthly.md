@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: GNQ
-ledger_rows: 15
+ledger_rows: 16
 not_held: 6
-record: e10ee4735686
+record: eeec89d3b8db
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
@@ -50,6 +50,11 @@ Two enforcement bodies agreed to exchange information rather than to publish any
 The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
 
 Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions. [The Vice-President instructed the finance ministry on 7 October 2026 to investigate and expedite the financing file for the operator's network agreement with the vendor, slowed by Treasury payment arrears to the operator](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The Vice-President [named the alleged members of a network leaking official documents of the Presidency of the Government, alleging that a registry official extracted several years of administrative files and handed over a hard drive on the pretext of a project to digitise the Presidency's archives](https://realequatorialguinea.com/destacado/politica/el-vicepresidente-revela-nombres-vinculados-a-una-presunta-masiva-filtracion-de-documentos-oficiales-de-guinea-ecuatorial/). The account is the government's own, and no judicial finding is on file.
 <!-- /narrative -->
 
 ## DPI

@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: SDN
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: f6abf3a24317
+record: bc9ebb005c40
 ---
 
 # Sudan: monthly update, September – October 2026
@@ -50,6 +50,8 @@ The first service the repository holds that names agency-to-agency links went li
 
 <!-- narrative: dpi--dpi-id -->
 A first bank [went live on the national digital identity link on 26 September 2026](https://www.suna.sd/posts/bnk-am-drman-alotny-aol-bnk-ytyh-thdyth-byanat-alaamlaaa-rkmya-bastkhdam-sodabas), letting customers inside and outside the country update their data through its digital channels; the remaining banks are to join one by one.
+
+The prime minister of the TASIS-backed administration [announced plans on 11 October 2026 for a national smart identity card for banking, judicial and administrative transactions in territory outside the Port Sudan authorities' control](https://thesudantimes.com/sudan/tasis-outlines-governance-plans-for-24-million-sudanese/). No issuer, technology or date is stated, and the administration's population figures are unverified.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

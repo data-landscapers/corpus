@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: GHA
-ledger_rows: 96
+ledger_rows: 97
 not_held: 10
-record: 5487bdefe15a
+record: 55868ee5c726
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -48,6 +48,8 @@ Ghana's regional position moved on three fronts, none of them with a text attach
 The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
 
 On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
+
+The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

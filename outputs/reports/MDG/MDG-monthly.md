@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: MDG
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: 2a6680b46314
+record: 0de2f451eb0f
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -80,6 +80,8 @@ On 18 September a Japan-funded International Organization for Migration project 
 
 <!-- narrative: dpi--dpi-govtech -->
 On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given. [The tax directorate launched the Torohy platform on 9 October 2026 for the public to report corruption and related offences in the tax administration; the head of state asked for the same mechanism at customs and the treasury](https://www.lexpress.mg/2026/10/lutte-contre-la-corruption-le-colonel.html).
+
+The digital ministry said [its e-Pasipaoro online passport application portal is in testing, for first applications, renewals and replacements with online filing, payment and tracking, while biometric capture and signature stay in person](https://www.2424.mg/administration-le-site-de-demande-de-passeport-en-ligne-en-cours-de-test-selon-le-ministere-en-charge-du-developpement-numerique/). No go-live date is stated.
 <!-- /narrative -->
 
 ## Technology

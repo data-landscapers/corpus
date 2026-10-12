@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: MLI
-ledger_rows: 14
+ledger_rows: 15
 not_held: 1
-record: 65a0f56e9507
+record: d17fb0aef4e1
 ---
 
 # Mali: monthly update, September – October 2026
@@ -79,4 +79,12 @@ The transition president [inaugurated a centre for artificial intelligence and r
 
 <!-- narrative: capacity--capacity-training -->
 The youth digital skills convention delivered its [first cohort of 1,000, in bursaried four-month training toward a target of 15,000 over three years](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html).
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The Council of Ministers [took note on 9 October 2026 of the fourth Schéma Directeur de la Statistique and its action plan for 2026 to 2030, on a written communication from the economy and finance minister](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). It sets four axes: [management of the national statistical system, its capacity, statistical production, and analysis with modernised dissemination and use](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). The text is not held.
 <!-- /narrative -->

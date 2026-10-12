@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: BWA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 8
-record: dc43e0f8d000
+record: 17865ab3932c
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -39,6 +39,8 @@ The commencement instrument behind the data-protection regime is now held in ful
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed. The state fibre operator [announced the launch of its internet exchange point for local traffic](https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ); no member count is given.
+
+The communications minister said [the Universal Access and Service Fund's broadband expansion project has deployed 12 mobile broadband and voice sites along the Trans-Kalahari Highway, a P34.5 million investment, with further coverage through infrastructure sharing due by the end of the next financial year](https://itweb.africa/article/botswana-invests-in-highway-connectivity/8OKdWqDXOgQqbznQ).
 <!-- /narrative -->
 ### Data Storage
 
