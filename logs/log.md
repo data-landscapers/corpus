@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 19:42 · **REVIEW** · 3m · TZA: status 5 sections revised, progress 5 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-12 19:39 · **BUILD** · 9m · catalogue 27,964, finance 62 places, scan 3 units, 4 sources read, no ledger moved; data centres 0 rows; maturity held; bulletin 20; budgets: poll run, 3 read nil, none waiting — ok
 2026-10-12 19:13 · **MATURITY-STUDY** · 10m · ailaw run: 57 facts; as at 2026-09-30 stage 3: 6, 2: 6, 1: 9, none at 4 or 5, 33 without evidence; 6 corrections; agreement 20 of 20; on the map. Tokens 41.3M, ceiling 50M
 2026-10-12 18:54 · **MATURITY-STUDY** · unclocked · ailaw, step 1: four questions prepared for `gov.legislate--ai-legislation-regulations`; 129 unread stories about a law or binding rule on AI covering 40 countries, 166 cited by the current cells, ceiling 50M. Nothing run; waits for Bill.
