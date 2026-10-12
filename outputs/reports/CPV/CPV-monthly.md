@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: CPV
-ledger_rows: 16
-not_held: 30
-record: 5d6db9708fb2
+ledger_rows: 17
+not_held: 29
+record: c41400d83abb
 ---
 
 # Cape Verde: monthly update, September – October 2026
@@ -83,6 +83,14 @@ Procurement opened behind the announced health digitalisation. [Expressions of i
 
 <!-- narrative: technology--tech-innovate -->
 The innovation record moved to the extent that two institutions said they intend to work together. A company hub for technology firms was [announced at a Brazil-Cabo Verde-Portugal business forum in Praia on 4 September](https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/) and [created with a tax number by 17 September, to draw firms in education, technology, IoT hardware and smart cities to the technology park](https://inforpress.cv/en/missao-cabo-verde-teleport-supera-metas-previstas-e-prepara-novos-investimentos-no-pais); no investment figure, site or capacity is stated.
+<!-- /narrative -->
+
+## Capacity
+
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+The economy and digital transition minister [said his ministry will implement a national digital literacy programme, which already has a manual financed by the World Bank and is to advance through protocols with the public university](https://unicv.edu.cv/pt/fct/arquivo-fct/6037-uni-cv-assinala-dia-mundial-dos-correios-com-debate-sobre-comercio-eletronico). No start date, budget or target is stated.
 <!-- /narrative -->
 
 ## Inclusion

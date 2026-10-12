@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: MOZ
-ledger_rows: 37
+ledger_rows: 39
 not_held: 19
-record: 261c043f7941
+record: 0e324d1443f4
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -78,6 +78,8 @@ The finance and communications ministries [invited expressions of interest withi
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 [The minister said on 7 October 2026 that a national network of response teams now has teams in government, the cyber defence unit, the research network, the regulator, the telecoms sector and four provinces, with more being set up](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/).
+
+The communications minister [put cyber incidents recorded in 2025 at about 39,600 and said the national cybersecurity strategy for 2026 to 2030 is still being updated](https://clubofmozambique.com/news/mozambique-government-updating-national-cybersecurity-strategy).
 <!-- /narrative -->
 
 ## DPI
@@ -86,6 +88,8 @@ The finance and communications ministries [invited expressions of interest withi
 
 <!-- narrative: dpi--dpi-exchange -->
 The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors. The digital transformation agency [trained 25 technicians from nine public bodies on the X-Road data-exchange layer, led by Estonian experts](https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/).
+
+A regional trade facilitation agency [awarded a US$174,000 contract to build the Mozambique Transport and Trade Observatory for the Beira Corridor, a platform integrating port, road, rail and customs data, to be hosted in Mozambican data centres and piloted on the Beira-Machipanda route](https://techdisruptormedia.com/featured/csm-tech-bags-tma-mandate-to-build-digital-trade-observatory-for-mozambiques-beira-corridor/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

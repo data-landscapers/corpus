@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: LSO
-ledger_rows: 15
+ledger_rows: 16
 not_held: 4
-record: 36ca1954a418
+record: 6ef1977f9308
 ---
 
 # Lesotho: monthly update, September – October 2026
@@ -67,6 +67,8 @@ A whole-of-government e-payment gateway [is being developed, to be run by the ce
 
 <!-- narrative: dpi--dpi-registry -->
 No national address register exists. The communications regulator [visited Kenya's regulator in September to benchmark its national addressing system and legal framework](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/).
+
+Government reported that [a World Bank urban and land team expressed interest in supporting a nationwide digital address system](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/); no commitment or amount is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -80,6 +82,14 @@ The data blueprint opened in July reached validation in September. A national wo
 
 <!-- narrative: technology--tech-ai -->
 At the second UN Digital Cooperation Day the prime minister [said Lesotho was the first country to implement the UN AI Blueprint, that planning was complete and that Phase One of a National Compute Roadmap running 2026 to 2029 had begun](https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/) (23 September). The roadmap is not published, and no source relates it to the data-centre roadmap drafted in August.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+Government said [efforts are under way to establish the Smart Africa Digital Academy in the country](https://www.gov.ls/ict/lesotho-joined-a-continental-alliance-to-advance-ai-data-and-digital-skills-paving-the-way-for-the-establishment-of-the-smart-africa-digital-academy/), with no host institution, budget or opening date stated.
 <!-- /narrative -->
 
 ## Data

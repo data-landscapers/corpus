@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: ZWE
-ledger_rows: 34
+ledger_rows: 35
 not_held: 7
-record: 843d88c9e234
+record: c3cb4910b5a8
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -24,6 +24,8 @@ The United States embassy said on 25 September that [all its health funding to Z
 
 <!-- narrative: governance--gov-policy -->
 The ICT minister said on 18 September 2026 that [a Postal and Courier Services Policy is being drafted](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy). No draft or date is published. The ICT minister [told the regulator to consider a unit to oversee operators' commercial arrangements and enforce active infrastructure sharing](https://www.heraldonline.co.zw/ict-minister-mavetera-directs-potraz-to-establish-unit-to-police-operator-deals/).
+
+On World Post Day the ICT minister [gave her ministry, the regulator and the postal operator 90 days to produce a costed Postal and Courier Sector Transformation Implementation Plan to 2030, with quarterly progress reports](https://www.heraldonline.co.zw/government-gives-postal-sector-90-days-for-transformation-plan/).
 <!-- /narrative -->
 ### Legislation and regulation
 

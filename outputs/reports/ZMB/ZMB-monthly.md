@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: ZMB
-ledger_rows: 39
+ledger_rows: 41
 not_held: 44
-record: 26c73946d14f
+record: 5b14023d66ff
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -24,6 +24,8 @@ The finance minister [put the national portal at 572 services across 52 provider
 
 <!-- narrative: governance--gov-policy -->
 The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
+
+The technology and youth ministries [are developing a framework for local content creators to earn from digital platforms, engaging Meta, TikTok and Google and compiling a national database of creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn), after the President made it a priority at the opening of the 14th National Assembly.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -123,6 +125,8 @@ A larger programme followed on 15 September: [70 schools are to be connected by 
 
 <!-- narrative: technology--tech-ai -->
 UNDP [published lessons on 17 September from AI compute it has installed with public institutions in six countries, Zambia among them](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). The lead use here is AI analysis of critical-minerals data with the mines ministry and the environmental agency, with data access still to be confirmed.
+
+The technology ministry [is piloting Njila.ai, an artificial-intelligence career-guidance platform in the technical and vocational training system under a World Bank-backed skills project, expected to reach more than 17,000 young people](https://techafricanews.com/2026/10/12/zambia-ai-career-guidance-platform-youth-skills-gap/).
 <!-- /narrative -->
 
 ## Inclusion

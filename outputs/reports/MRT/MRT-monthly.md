@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: MRT
-ledger_rows: 20
+ledger_rows: 21
 not_held: 3
-record: 9f31764e7215
+record: f42b3fe2d013
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -38,6 +38,8 @@ The state asked for outside help with the numbers behind its own borrowing. The 
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 A satellite broadband operator [lists Mauritania among sixteen African markets it aims to launch in during 2026](https://maurinews.info/news-reports/95535/), after about two years seeking a licence; the authorities' conditions concern security guarantees and control over data, and an application with a local partner is pending.
+
+The regulator [published on 7 October 2026 its re-inspection of mobile service quality, run from 13 February to 22 March after the operators' deadline to comply had expired, finding persistent breaches of licence obligations by all three operators in voice and mobile data](https://www.are.mr/pdfs/rapport_qos_mars_vf_2026.pdf). No sanction is recorded.
 <!-- /narrative -->
 ### Cybersecurity
 

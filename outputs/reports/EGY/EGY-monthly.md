@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: EGY
-ledger_rows: 90
+ledger_rows: 91
 not_held: 44
-record: 12d916d18ba0
+record: 873caa135a01
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -134,6 +134,8 @@ The prime minister said on 3 September that [faults in the unified electricity p
 At its UN award shortlisting the services platform [reported 12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures. The prosecution [put five personal-status documents - marriage, divorce and acknowledgement records - on its portal on 10 September, behind the national digital identity](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763), and the environment ministry [launched IDEIA on 1 September, moving environmental impact assessment applications, review and approval online](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879).
 
 The investment ministry's digital transformation aide [described a capital-increase platform linking the eight government bodies involved, from the investment authority to the commercial registry and central depository, with digital-identity log-in, remote signing and e-passport checks on foreign investors](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140) on 22 September. No transaction count or go-live date was given.
+
+Key ration card services [became available on the Digital Egypt platform: heads of household can update card data, replace or activate cards, transfer a file between governorates and add family members, with the data-update service introduced in Port Said for an initial three months](https://www.scenenow.com/News/Key-Ration-Card-Services-Now-Available-on-Digital-Egypt).
 <!-- /narrative -->
 
 ## Digitalisation

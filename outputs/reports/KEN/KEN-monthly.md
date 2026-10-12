@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: KEN
-ledger_rows: 123
+ledger_rows: 125
 not_held: 7
-record: f52e901b47a2
+record: 93e378058368
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -164,6 +164,8 @@ On the one citizen survey held, [digital-government adoption stands at 49% and n
 Cargo seals left state hands. The revenue authority [approved 15 private vendors for electronic seals on transit cargo and set 26 October 2026 for retiring its own](https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework), with users choosing and contracting their vendor directly under the regional cargo tracking system.
 
 At the UN General Assembly the ICT cabinet secretary [put eCitizen at more than 22,500 services](https://techreviewafrica.com/news/7426/). The government, the UN in Kenya and a commercial bank [signed a declaration of intent on 20 September for a Kenya Diaspora Impact Platform, a digital gateway to verifiable investment opportunities](https://diaspora.go.ke/news-details.php?nid=253); no launch date or cost is given.
+
+The High Court at Marsabit [dismissed on 5 October 2026 a constitutional petition against mandatory travel health insurance for foreign visitors, holding the claim that insurance data collected through the electronic travel authorisation system was insecure to be generalised and unproven](https://new.kenyalaw.org/akn/ke/judgment/kehc/2026/15080/eng@2026-10-05). The Senate's ICT committee [questioned the transport authority's director general on 8 October over the Instant Fines Traffic Management System, whose automated penalties the High Court halted on 12 March 2026 and whose launch notice the authority withdrew on 27 March](https://radiogeneration.co.ke/senate-seeks-clarity-on-traffic-cameras-and-ntsas-automated-fines-47327).
 <!-- /narrative -->
 
 ## Digitalisation
