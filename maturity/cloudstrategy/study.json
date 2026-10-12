@@ -1,0 +1,128 @@
+{
+  "id": "cloudstrategy",
+  "study_file": "maturity-study-cloudstrategy.md",
+  "subjects": [
+    "gov.policy",
+    "infra.store"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--data-storage-cloud-strategy"
+  ],
+  "carry": [
+    "gov.policy--data-storage-cloud-strategy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "cloud policy",
+    "cloud first",
+    "cloud-first",
+    "cloud strategy",
+    "cloud computing policy",
+    "cloud computing strategy",
+    "cloud computing guidelines",
+    "cloud computing regulations",
+    "cloud guidelines",
+    "cloud regulations",
+    "government cloud policy",
+    "government cloud strategy",
+    "national cloud policy",
+    "national cloud strategy",
+    "data and cloud policy",
+    "policy on data and cloud",
+    "hosting policy",
+    "hosting standard",
+    "hosting guidelines",
+    "government hosting",
+    "hosting of government data",
+    "hosting of public data",
+    "data centre policy",
+    "data center policy",
+    "data centre strategy",
+    "data center strategy",
+    "politique cloud",
+    "politique du cloud",
+    "politique nationale du cloud",
+    "stratégie cloud",
+    "stratégie nationale cloud",
+    "stratégie nationale du cloud",
+    "cloud d'abord",
+    "informatique en nuage",
+    "politique d'hébergement",
+    "politique nationale d'hébergement",
+    "hébergement national",
+    "hébergement des données de l'état",
+    "hébergement des données publiques",
+    "hébergement des données de l'administration",
+    "política de cloud",
+    "política nacional de cloud",
+    "estratégia de cloud",
+    "estratégia nacional de cloud",
+    "política de computação em nuvem",
+    "estratégia de computação em nuvem",
+    "hospedagem de dados públicos",
+    "política de hospedagem",
+    "política de nube",
+    "estrategia de nube",
+    "computación en la nube",
+    "سياسة الحوسبة السحابية",
+    "استراتيجية الحوسبة السحابية",
+    "الحوسبة السحابية أولا",
+    "السحابة أولا",
+    "استضافة البيانات الحكومية"
+  ],
+  "sub_indicators": [
+    {
+      "key": "policy",
+      "label": "Government hosting and cloud policy",
+      "subject": "gov.policy",
+      "text": "Data storage / cloud strategy: government hosting and cloud policy",
+      "indicator_id": "gov.policy--data-storage-cloud-strategy-hosting-policy",
+      "class": "policy"
+    }
+  ],
+  "classes": [
+    "policy",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Policy adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Named hosting and moves",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "moved",
+        "named"
+      ],
+      "values": [
+        "moved",
+        "named",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
