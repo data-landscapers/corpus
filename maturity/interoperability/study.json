@@ -1,0 +1,138 @@
+{
+  "id": "interoperability",
+  "study_file": "maturity-study-interoperability.md",
+  "subjects": [
+    "gov.policy",
+    "dpi.exchange"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--data-interoperability-framework-roadmap"
+  ],
+  "carry": [
+    "gov.policy--data-interoperability-framework-roadmap"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "interoperability framework",
+    "interoperability frameworks",
+    "interoperability roadmap",
+    "interoperability standard",
+    "interoperability standards",
+    "interoperability regulation",
+    "interoperability regulations",
+    "interoperability policy",
+    "interoperability strategy",
+    "interoperability guidelines",
+    "interoperability decree",
+    "interoperability law",
+    "interoperability bill",
+    "interoperability architecture",
+    "interoperability reference architecture",
+    "interoperability and data exchange",
+    "e-GIF",
+    "eGIF",
+    "EeGIF",
+    "LyGIF",
+    "GEA-GIF",
+    "government enterprise architecture",
+    "national enterprise architecture",
+    "whole-of-government architecture",
+    "government interoperability",
+    "data exchange framework",
+    "data sharing framework",
+    "framework for secure exchange of information",
+    "cadre d'interopérabilité",
+    "cadre national d'interopérabilité",
+    "cadre général d'interopérabilité",
+    "cadre commun d'interopérabilité",
+    "cadre institutionnel de l'interopérabilité",
+    "référentiel général d'interopérabilité",
+    "référentiel d'interopérabilité",
+    "référentiel national d'interopérabilité",
+    "référentiels d'interopérabilité",
+    "RGI",
+    "normes d'interopérabilité",
+    "stratégie d'interopérabilité",
+    "feuille de route de l'interopérabilité",
+    "feuille de route d'interopérabilité",
+    "décret sur l'interopérabilité",
+    "loi sur l'interopérabilité",
+    "interopérabilité des systèmes d'information",
+    "architecture d'entreprise de l'État",
+    "architecture d'entreprise gouvernementale",
+    "urbanisation des systèmes d'information de l'État",
+    "quadro nacional de interoperabilidade",
+    "quadro de interoperabilidade",
+    "regulamento de interoperabilidade",
+    "normas de interoperabilidade",
+    "padrões de interoperabilidade",
+    "arquitectura de interoperabilidade",
+    "arquitetura de interoperabilidade",
+    "interoperabilidade do governo electrónico",
+    "interoperabilidade da administração pública",
+    "marco de interoperabilidad",
+    "marco nacional de interoperabilidad",
+    "esquema nacional de interoperabilidad",
+    "إطار التشغيل البيني",
+    "الإطار الوطني للتشغيل البيني",
+    "إطار الترابط البيني",
+    "الترابط البيني الحكومي",
+    "معايير التشغيل البيني",
+    "التشغيل البيني الحكومي"
+  ],
+  "sub_indicators": [
+    {
+      "key": "framework",
+      "label": "Government interoperability framework",
+      "subject": "gov.policy",
+      "text": "Data interoperability framework / roadmap: government interoperability framework",
+      "indicator_id": "gov.policy--data-interoperability-framework-roadmap-government-framework",
+      "class": "framework"
+    }
+  ],
+  "classes": [
+    "framework",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Framework adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Required and followed",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "followed",
+        "required"
+      ],
+      "values": [
+        "followed",
+        "required",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
