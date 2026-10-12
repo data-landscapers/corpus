@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: GAB
-ledger_rows: 45
+ledger_rows: 46
 not_held: 15
-record: 9cf713736166
+record: dc04b32117ff
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -94,6 +94,8 @@ On 21 September the transport ministry [suspended enrolment for the digitalised 
 
 <!-- narrative: dpi--dpi-pay -->
 The Council of Ministers [adopted a bill ratifying and amending the digital payments ordinance, regulating payment-solution providers and moving payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
+
+An account of the bill puts the merchant payment scheme at [more than 3,273 merchants and 1,382 GIMAC QR codes as of July](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability); no transaction figure is published.
 <!-- /narrative -->
 ### Registries
 

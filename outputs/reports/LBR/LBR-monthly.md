@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: LBR
-ledger_rows: 29
+ledger_rows: 30
 not_held: 6
-record: a7935267497b
+record: 956954da5071
 ---
 
 # Liberia: monthly update, September – October 2026
@@ -26,6 +26,11 @@ The gender and social protection ministry [confirmed on 13 September that leaked
 
 <!-- narrative: governance--gov-policy -->
 The financial inclusion strategy reached validation. The central bank's [draft went through a two-day validation and will be revised](https://frontpageafricaonline.com/liberia-cbls-new-financial-inclusion-plan-hinges-on-id-business-registry-reforms/), with participants naming the identification registry, business registration and credit reference systems as what it depends on; no launch date is set.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The telecommunications authority [consulted internet service providers, mobile operators and licensees on draft regulations covering the deployment, sharing, management and decommissioning of telecoms infrastructure](https://www.liberianobserver.com/news/lta-holds-public-consultation-on-draft-infrastructure-regulations/article_f187f32e-dd53-4c5e-8645-7e26476124be.html), before finalising them. The draft text is not held.
 <!-- /narrative -->
 ### Data protection
 

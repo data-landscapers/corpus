@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: CIV
-ledger_rows: 38
+ledger_rows: 39
 not_held: 10
-record: d37ccb398ce9
+record: 572bbab4f119
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -100,6 +100,8 @@ September gave the programme a shortlist. A national prioritisation workshop clo
 The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
 
 The administration's electronic signature reached local government: the civil service ministry [enrolled Marcory's mayor and secretary-general in the system on 15 September, letting them sign administrative documents from any location](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/). No count of enrolled officials is published.
+
+The Senate [opened its second ordinary session of 2026 on 12 October with attendance recorded in real time in place of the roll call, amendments filed online and a trial of electronic voting](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active).
 <!-- /narrative -->
 
 ## Digitalisation

@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 place: DZA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 6
-record: e0ae146f44ec
+record: 788ac1572570
 ---
 
 # Algeria: monthly update, September – October 2026
@@ -44,6 +44,8 @@ With Niger, [the two prime ministers reaffirmed three trans-Saharan projects, am
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 On 7 September state media stated that [within 18 months no zone would remain out of network, in an operation covering at least 3,000 enclaved and hard-to-reach rural zones](https://www.elmoudjahid.dz/fr/editorials/sans-fritures-4194); no instrument, budget, operator or zone list accompanies the statement. Oran [joined Algiers among the world's top 50 cities for mobile internet speed](https://www.echoroukonline.com/%D8%B3%D8%B1%D8%B9%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1) on a measurement firm's September update.
+
+The posts minister said on 11 October that [fibre-to-the-home subscriptions have passed 4 million, from 53,000 in June 2020, with 1.4 million homes connected in the first nine months of 2026 and the monthly price of an offer of 100 Mbit/s or more down 76%](https://www.agenceecofin.com/actualites-numerique/1210-142333-algerie-la-fibre-optique-depasse-4-millions-d-abonnements-les-tarifs-chutent-de-76); the target is more than 4.4 million by the end of the year.
 <!-- /narrative -->
 ### Data Storage
 

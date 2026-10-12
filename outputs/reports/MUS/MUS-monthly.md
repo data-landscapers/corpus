@@ -3,9 +3,9 @@ title: Mauritius — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 place: MUS
-ledger_rows: 23
+ledger_rows: 24
 not_held: 7
-record: 393557a3d075
+record: 3d3a56b37d1e
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -84,6 +84,8 @@ The digital driving licence [was soft-launched on the KOREK app on 29 September,
 The environment ministry [made online filing of Waste Carrier Licence applications through the Economic Development Board platform compulsory from October](https://fr.allafrica.com/stories/202609220486.html), for individuals, firms, parastatals, local authorities and ministries alike; an online submission does not itself authorise transport.
 
 Cabinet noted that [online applications for the State Age Pension opened on 7 October 2026, with a pension estimate tool on the KOREK! super-app and assisted applications at 38 Social Security Offices for people with limited digital literacy or access](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2009.10.2026.pdf).
+
+The ICT ministry said on 12 October that it is [building an online application platform with the Central Water Authority for a household water tank and pump grant announced on 9 October](https://lexpress.mu/s/les-demandes-daide-pour-les-reservoirs-deau-bientot-en-ligne-563523); the terms of access are to follow.
 <!-- /narrative -->
 
 ## Digitalisation

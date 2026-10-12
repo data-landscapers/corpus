@@ -3,9 +3,9 @@ title: Africa — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 place: XAF
-ledger_rows: 96
+ledger_rows: 97
 not_held: 3
-record: 1782320799c2
+record: b06389d68802
 ---
 
 # Africa: monthly update, September – October 2026
@@ -83,6 +83,8 @@ A philanthropic accelerator [announced on 24 September demonstrations testing wh
 
 <!-- narrative: systems--infra-cybersec -->
 An account of a continental cyberthreat assessment, published on 2 September, [records deepfake incidents up sevenfold between the second and fourth quarters of 2024, 94% of agencies lacking digital forensics tools and only 8% of intelligence analysts with advanced AI expertise](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/).
+
+The African Network of Cybersecurity Authorities [met on the sidelines of a three-day cybersecurity event in Rabat from 12 to 14 October, which also carried an ITU exercise with representatives of about thirty countries](https://www.maroc.ma/en/news/morocco-cybersecurity-week-kicks-rabat); no decision or work programme is published.
 <!-- /narrative -->
 ### Data Exchange
 

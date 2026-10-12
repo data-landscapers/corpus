@@ -3,9 +3,9 @@ title: Ghana — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 place: GHA
-ledger_rows: 97
+ledger_rows: 99
 not_held: 10
-record: 55868ee5c726
+record: 363f82033176
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -36,6 +36,8 @@ The legislative programme itself got a ministerial account on 7 September: under
 The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published. The President [confirmed publicly in New York that Cabinet rejected the United States health agreement](https://ghananewsglobal.com/president-mahama-defends-rejection-of-u-s-health-compact-calls-terms-humiliating-and-a-threat-to-sovereignty/) over demands for pathogen samples, medical records and exemption from the food and drugs regulator; the United States chargé d'affaires [said on 29 September it was meant to taper assistance toward country ownership](https://gna.org.gh/2026/09/u-s-seeks-transition-from-health-aid-dependency-to-country-ownership-rolf-olson/).
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
+
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -179,6 +181,8 @@ Two automated systems reported. The police [set 1 October 2026 for full automate
 Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/). A commentator's account [puts the start of fining under the automated traffic system back a month, to 1 November](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/), after complaints of poor sensitisation.
 
 [The central bank's governor said a directive on the use of artificial intelligence in the financial sector is in drafting](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/); no draft or date is published.
+
+The communications minister said [national AI language models will be built locally, tasking a Kumasi university to lead a Twi model and other universities other Ghanaian languages](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/); no budget or timetable is stated.
 <!-- /narrative -->
 
 ## Capacity

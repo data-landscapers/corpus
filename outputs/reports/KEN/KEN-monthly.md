@@ -3,9 +3,9 @@ title: Kenya — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 place: KEN
-ledger_rows: 125
+ledger_rows: 126
 not_held: 7
-record: 93e378058368
+record: 38d0d482a267
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -36,6 +36,8 @@ The fifteen draft communications regulations [went through a three-day stakehold
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
 The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October. The High Court [ordered the largest operator on 18 September to give a subscriber, within 21 days, the particulars of every request to access or disclose her communications and mobile money data and the access logs it holds](https://sheriahub.com/cases/ke/caselaw/matey-v-safaricom-plc-2026-kehc-13624-klr.pdf), under the constitutional right of access to information; compliance is not on record. The regulator told a parliamentary committee that [deactivation and recycling of inactive numbers now run under its 2026 procedures and safeguards](https://nation.africa/kenya/business/sim-deactivation-now-backed-by-law-ca-says-5622384).
+
+The communications regulator said it will [set up a central database of recycled phone numbers, updated by operators every three months, so that banks, fintechs and bulk message senders can check a number has not changed hands](https://nation.africa/kenya/business/ca-to-set-up-central-database-to-track-recycled-phone-numbers-5628406); that account describes the deactivation rules as proposed. In a Sh1.5 billion data breach suit against a bank, [a former senior manager testified that a credit manager disclosed a borrower's loan distress to a third party and that the bank's legal department recommended no action](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business).
 <!-- /narrative -->
 ### Regional collaboration
 

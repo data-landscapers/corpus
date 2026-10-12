@@ -3,18 +3,18 @@ title: Africa — progress report, October 2025 – October 2026
 compiled: 2026-10-12
 period: 2025-10-01 to 2026-10-12
 place: XAF
-ledger_rows: 234
+ledger_rows: 235
 not_held: 3
-record: f07ca40b0ad2
+record: 9d12a762883b
 ---
 
 # Africa: progress report, October 2025 – October 2026
 
 *Compiled 2026-10-12 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 234 bodies, instruments and systems on this place's ledger, 138 changed position between 2025-10-01 and 2026-10-12, 30 did not, 63 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 235 bodies, instruments and systems on this place's ledger, 138 changed position between 2025-10-01 and 2026-10-12, 30 did not, 64 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 1108 sources for this place in the window — 173 in the earlier half (2025-10 to 2026-03), 935 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 1110 sources for this place in the window — 173 in the earlier half (2025-10 to 2026-03), 937 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -188,6 +188,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 | Reported cybercrime losses across the continent | About US$192m reported (2024) | [About US$484m reported, more than double the 2024 figure, drawn from 36 member countries, with artificial intelligence involved in 55% of surveyed 2025 cybercrime cases and deepfake incidents up sevenfold between the second and fourth quarters of 2024; against that, only 8% of intelligence analysts are recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools, and a single Ugandan deepfake investment scam is put at over US$2m of losses](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/) | Regressed |
 | Vendor-measured attack volume across the continent | None published | [African organisations averaged 3,237 attacks a week in July 2026 against a global average of 2,336, behind Latin America at 3,561 and Asia-Pacific at 3,316; Angola was highest of the African markets broken out at 5,714, then Nigeria at 4,975, Kenya at 2,915 and South Africa at 2,195. Ransomware victims were up 87% year on year and the continent posted the world's highest phishing rate at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) | Movement |
 | Standing in the global cybersecurity index | Ghana, Kenya, Mauritius, Rwanda and Tanzania in Tier 1 (role-modelling); Benin, South Africa, Togo and Zambia in Tier 2 (advancing); the rest of the Africa region in Tiers 3-5, scored across legal, technical, organisational, capacity-development and cooperation measures (2024) | [Mauritius, Rwanda, Kenya, Tanzania and Ghana in the top tier; Benin, Togo, Zambia and South Africa in the second; the majority of the continent below, scored across legal, technical and organisational measures, capacity building and international cooperation](https://fraudforensics.substack.com/p/africas-standing-in-the-global-cybersecurity) | No change |
+| African Network of Cybersecurity Authorities | ***Baseline not held*** | [The network of national cybersecurity authorities met on the sidelines of a three-day event hosted by Morocco's information systems security directorate, which also carried an ITU cybersecurity exercise with representatives of about thirty countries and a cyberdiplomacy workshop for African embassies; no membership list, decision or work programme is published](https://www.maroc.ma/en/news/morocco-cybersecurity-week-kicks-rabat) | ***Baseline not held*** |
 
 ### Data Exchange
 

@@ -3,9 +3,9 @@ title: Uganda — monthly update, September – October 2026
 compiled: 2026-10-12
 period: 2026-09-01 to 2026-10-12
 place: UGA
-ledger_rows: 65
+ledger_rows: 66
 not_held: 11
-record: 97437b16376c
+record: 17c4af245f01
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -31,6 +31,8 @@ The revenue authority [began implementing a compliance risk management strategy 
 January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the repository held was a scanned PDF with no text layer.
 
 Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
+
+The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints).
 <!-- /narrative -->
 ### Data protection
 
