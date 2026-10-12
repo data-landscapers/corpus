@@ -1,0 +1,9 @@
+{
+  "slug": "2021-07-30-mauritanie-loi-2021-014-texte-integral-droit-afrique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Loi n°2021-014 of 5 July 2021 on electronic payment services and means (113 articles, published in Journal Officiel n°1490) regulates payment service providers and e-money issuers in Mauritania and repeals Ordonnance n°2006-031 (art. 1, 112).", "as_of": "2021-07-05", "date_precision": "day", "system": "Loi n°2021-014 relative aux services et moyens de paiement électronique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Loi n°2021-014 (2021) bars anyone except banks from habitual payment-institution activity or e-money issuance and distribution without prior licensing by the Banque Centrale de Mauritanie, so non-bank payment institutions and e-money institutions can be licensed (art. 65, 80; defined art. 64, 75).", "as_of": "2021-07-05", "date_precision": "day", "system": "Loi n°2021-014 relative aux services et moyens de paiement électronique", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Art. 55 and 86 require institutions to meet central-bank technical rules enabling interoperability, but the law states no obligation to connect to each other or to a switch, so no connect fact."
+}

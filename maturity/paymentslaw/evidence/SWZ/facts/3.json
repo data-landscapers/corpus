@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-13-inside-eswatini-tackling-big-payments-challenges",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of Eswatini's payments deputy director said the National Payment Systems Act of 2023 sets the bank's powers and the obligations of payment system providers and participants, and that licensing runs now under the bank's mobile money guidelines while detailed regulations are being finalised.", "as_of": "2025-11", "date_precision": "month", "system": "National Payment Systems Act of 2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Central Bank of Eswatini said it is finalising regulations under the National Payment Systems Act that spell out licensing timelines, documentation and detailed requirements.", "as_of": "2025-11", "date_precision": "month", "system": "National Payment Systems regulations", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The article names three mobile money operators, including MTN MoMo and Instacash, in the interoperable system and the central bank says a new mobile money provider must go through its licensing process, with non-bank providers driving most financial inclusion gains.", "as_of": "2025-11", "date_precision": "month", "system": "National Payment Systems Act of 2023 and mobile money guidelines", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

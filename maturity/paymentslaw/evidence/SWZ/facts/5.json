@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "The Central Bank of Eswatini Governor said, at the 11 December 2024 launch of Fast Payments on the Eswatini Payment Switch, that participation is mandated for all payment service providers offering local payments, with the remaining participants expected to be live by the end of January 2025 (BIS Review published the speech 2025-01-14).", "as_of": "2024-12-11", "date_precision": "day", "system": "Eswatini Payment Switch participation mandate", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Eswatini Payment Switch (EPS) Fast Payments", "country_label": "Eswatini Payment Switch", "class": "other", "platform": "PayLogic", "owner": "Central Bank of Eswatini", "tiers": "banks; non-bank payment service providers; digital wallets"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2022-03-31-bcm-instruction-03-gr-2022-reglementation-etablissements-de-paiement",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Banque Centrale de Mauritanie issued Instruction no. 03/GR/2022 of 31 March 2022 regulating payment institutions, made under law no. 2021-014 of 5 July 2021 on electronic payment services and instruments.", "as_of": "2022-03-31", "date_precision": "day", "system": "Instruction n° 03/GR/2022 portant réglementation des établissements de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Instruction no. 03/GR/2022 (31 March 2022) defines payment institutions as legal entities licensed by the BCM other than credit institutions, and requires prior BCM licensing (minimum capital and guarantee deposit of 20 million MRU each) for anyone providing payment services in Mauritania.", "as_of": "2022-03-31", "date_precision": "day", "system": "Instruction n° 03/GR/2022 portant réglementation des établissements de paiement", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

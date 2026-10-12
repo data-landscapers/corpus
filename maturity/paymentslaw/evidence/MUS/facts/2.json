@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-guideline-for-payment-aggregators",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Mauritius states the National Payment Systems Act 2018 empowers it to regulate, oversee and supervise payment systems and to license payment service providers, with licensing regulations (National Payment Systems (Authorisation and Licensing) Regulations 2021) applying; the date is the document's publication month, July 2026, as it gives none for the Act's effect.", "as_of": "2026-07", "date_precision": "month", "system": "National Payment Systems Act 2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Mauritius Guideline for Payment Aggregators, issued under section 17 of the National Payment Systems Act 2018, comes into effect on 31 August 2026.", "as_of": "2026-08-31", "date_precision": "day", "system": "Guideline for Payment Aggregators", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The Guideline says non-bank bodies corporate that want to act as payment aggregators must obtain a payment service provider licence from the Bank of Mauritius under the National Payment Systems Act 2018 (section 9) and the 2021 licensing regulations, and existing non-bank aggregators must apply by 31 August 2026.", "as_of": "2026-08-31", "date_precision": "day", "system": "National Payment Systems Act 2018", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No statement that providers must connect to each other or to a switch, so no connect fact."
+}

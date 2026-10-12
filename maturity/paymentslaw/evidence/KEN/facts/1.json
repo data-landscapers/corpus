@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-30-ken-bowmans-national-payment-system-bill-2026-analysis",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Bowmans reports that the National Treasury and Central Bank of Kenya published the National Payment System Bill, 2026 for public consultation, with comments due 9 October 2026, to repeal the current National Payment System Act, Cap. 491A.", "as_of": "2026-09", "date_precision": "month", "system": "National Payment System Bill, 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Bowmans describes the National Payment System Act, Cap. 491A as the current Act, which commenced in 2014 and which the 2026 Bill would repeal; it also refers to current regulations under it on suspension and revocation of licences.", "as_of": "2026-09-30", "date_precision": "day", "system": "National Payment System Act, Cap. 491A", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

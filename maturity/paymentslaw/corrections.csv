@@ -1,0 +1,11 @@
+iso3,n,aspect,value,action,why
+SDN,003,reach,connect,removed,the circular obliges providers to connect to the national switch only when it is available and sets no date; not yet a rule in force
+AGO,004,reach,connect,removed,"the rule binds non-bank acquirers of terminals and cash machines, not mobile money providers and banks"
+CAF,003,reach,connect,removed,a strategy says providers are obliged to offer interoperable services and names no rule and no date
+DZA,011,reach,connect,removed,"the article requires a provider to reach the platforms of the instruments it accepts, not providers to connect to each other or to a switch"
+TUN,009,reach,connect,removed,the article has payment establishments join the systems suited to their activity; it does not require providers to connect to each other
+GIN,001,standing,none,removed,"the page lists drafting a payment systems law as a project aim; that there is no law or draft is the drafter's inference, not a statement"
+GNQ,001,standing,in-force,added,the CEMAC payment services regulation of 2018 binds each member; carried from the regional strategy read for the Central African Republic
+GNQ,002,reach,non-bank,added,as GNQ-001
+KEN,005,standing,in-force,redated: 2011,the central bank page carries only the year it was captured; the fact is dated to the Act it names
+KEN,006,reach,non-bank,redated: 2014,"as KEN-005, dated to the regulations it names"

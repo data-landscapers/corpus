@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-22-gabon-cadre-juridique-paiements-digitaux-assemblee-nationale",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "On 22 May 2026 Gabon's digital economy minister defended before the National Assembly finance committee the bill ratifying ordinance n°0002/PR/2026 of 29 January 2026 fixing the rules for digital payments nationwide, said to be aligned to the CEMAC payment-services regulation of 21 December 2018, with the committee's examination still to come and a plenary vote after.",
+     "as_of": "2026-05-22", "date_precision": "day", "system": "Ordonnance n°0002/PR/2026 on digital payments", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

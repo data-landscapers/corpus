@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-25-reporter-economic-execution-ethiopia-fintechs-tax-crackdown",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Reporter says the National Bank of Ethiopia introduced two regulatory frameworks in 2020, the Payment Instrument Issuers directives and the Payment Systems Operators directive, and that firms were licensed and operating under them through 2025.", "as_of": "2020", "date_precision": "year", "system": "Payment Instrument Issuers directives and Payment Systems Operators directive (NBE, 2020)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The Reporter says the 2020 Payment Systems Operators directive created four licence categories (switch, POS, ATM and payment gateway operators) under which non-bank firms such as Chapa, Arifpay, Santimpay and Kacha were licensed, and the Payment Instrument Issuers directives enabled telecom operators to launch mobile wallets such as Telebirr and M-Pesa.", "as_of": "2020", "date_precision": "year", "system": "Payment Systems Operators directive (NBE, 2020)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

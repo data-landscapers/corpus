@@ -1,0 +1,11 @@
+# Namibia
+
+## Payments law
+
+**Law or rules in force.** Namibia's [Payment System Management Act 14 of 2023](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/94/94193758-e15b-4af9-8321-4801142c82f7.pdf>) was promulgated on 28 July 2023 and commenced on 8 August 2023. The Bank of Namibia makes determinations under its section 45: [PSD-10 on fees and charges](<https://www.lac.org.na/laws/2025/8816.pdf>) took effect on 24 December 2025, [PSD-1 on licensing](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/31/313b4ab5-b138-45d3-b526-28959686db96.pdf>) on 6 January 2026 and [PSD-12 on operational and cybersecurity standards](<https://www.lac.org.na/laws/2026/8968.pdf>) on 3 July 2026.
+
+**Non-banks licensed and providers required to connect.** [PSD-1 sets a licensing process for payment services by non-bank financial institutions](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/31/313b4ab5-b138-45d3-b526-28959686db96.pdf>) and defines an electronic money issuer as a licensed payment service provider. [PSD-10 applies to all payment service providers](<https://www.lac.org.na/laws/2025/8816.pdf>), defined as banking institutions and non-bank financial institutions, and binds e-money issuers and providers of e-money wallets and instant payments. No rule is named that requires providers to connect to each other.
+
+***Noted, not assessed***. [Instant Payment Programme](<https://www.namibiansun.com/mw-main/namibia-moves-closer-to-instant-payments-NMH014446-3015-17893>); [Namibia Interbank Settlement System (NISS)](<https://www.namibiansun.com/mw-main/namibia-moves-closer-to-instant-payments-NMH014446-3015-17893>); [Instant Payment Solution (IPS) / Instant Payment Platform (IPP)](<https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760>); [NamPay](<https://www.lac.org.na/laws/2025/8816.pdf>).
+
+***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

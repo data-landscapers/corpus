@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-17-techcabal-semoa-bceao-licence",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article states the BCEAO has applied Instruction no. 001-01-2024 since January 2024, a general framework obliging all fintechs offering payment services in the WAEMU zone to obtain a licence or cease activity.", "as_of": "2024-01", "date_precision": "month", "system": "BCEAO Instruction n° 001-01-2024", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Under BCEAO Instruction no. 001-01-2024 payment institutions that are not banks are licensed by scope of service, with minimum capital of CFA 10 million, 20 million or 100 million; the article says only 20 payment institutions held a licence across the eight member states by September 2025 (published 17 February 2026, no event date given for the licensing rule beyond January 2024).", "as_of": "2025-09", "date_precision": "month", "system": "BCEAO Instruction n° 001-01-2024", "class": "law"}
+  ],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "PI-SPI (Interoperable Instant Payment System Platform)", "class": "other", "platform": "", "owner": "BCEAO", "tiers": "banks; mobile money operators; microfinance institutions"}
+  ],
+  "note": ""
+}

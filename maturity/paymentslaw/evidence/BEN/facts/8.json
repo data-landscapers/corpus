@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-27-horonyafinance-umoa-monnaie-electronique-2025",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "The UMOA Banking Commission's 2025 report counts 3 licensed e-money issuers (EME) in Benin at 31 December 2025, among 18 in the Union.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "BCEAO e-money issuer licensing (UMOA)",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

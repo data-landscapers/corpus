@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-02-beac-registre-instructions-circulaires-reglements-paiement",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BEAC's register of instructions, circulars and regulations lists CEMAC/UMAC Regulation No. 03 of 21 December 2016 on payment systems, means and incidents as a CEMAC-wide text; Chad is a CEMAC member. Document published date used (2026-09-02) for the register; instrument dated 2016.",
+   "as_of": "2016-12-21",
+   "date_precision": "day",
+   "system": "CEMAC/UMAC Regulation No. 03/CEMAC/UMAC/CM of 2016 on payment systems, means and incidents",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BEAC's register lists CEMAC/UMAC/COBAC Regulation No. 04/18 of 21 December 2018 on payment services in the CEMAC, a CEMAC-wide text covering Chad as a member.",
+   "as_of": "2018-12-21",
+   "date_precision": "day",
+   "system": "CEMAC/UMAC/COBAC Regulation No. 04/18 of 2018 on payment services",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Register lists titles only; the 2014 multibanking instruction and 2018 interoperability instruction are listed by title with no statement that providers must connect, so no connect fact."
+}

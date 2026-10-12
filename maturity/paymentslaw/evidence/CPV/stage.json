@@ -1,0 +1,16 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "reach": "non-bank",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-002;CPV-005;CPV-003",
+   "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

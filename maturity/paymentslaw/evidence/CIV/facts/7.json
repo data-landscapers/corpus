@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "BCEAO told every bank, e-money issuer and payment institution in the WAEMU to be connected to PI-SPI by 30 June 2026, then on 25 June 2026 moved the deadline to 30 September 2026 (microfinance 30 June 2027); the union includes Cote d'Ivoire, which had 23 integrated participants by late July (iAfrikan, 29 Sep 2026).",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "BCEAO PI-SPI connection deadline",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-23-brb-lancement-burundipay",
+  "facts": [],
+  "systems": [
+    {"system": "BurundiPay", "country_label": "BurundiPay", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": "commercial banks; microfinance institutions; payment institutions"},
+    {"system": "Switch national de paiement", "country_label": "switch national de paiement", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ACH", "country_label": "système de compensation automatisée (ACH)", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": ""},
+    {"system": "RTGS", "country_label": "système de règlement brut en temps réel (RTGS)", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": ""}
+  ],
+  "note": "Launch of the BurundiPay instant payment system on 2026-04-23; states no law or rule, and the governor only invites institutions to join, with no deadline."
+}

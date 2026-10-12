@@ -1,0 +1,9 @@
+{
+  "slug": "2014-12-24-morocco-loi-103-12-etablissements-credit",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law 103-12 on credit institutions, enacted by Dahir 1-14-193 of 24 December 2014 and given here as amended, defines payment means including electronic money (Article 6) and payment services (Article 16), and regulates payment institutions (Articles 15-18) as binding law.", "as_of": "2014-12-24", "date_precision": "day", "system": "Loi n° 103-12 relative aux établissements de crédit et organismes assimilés", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Law 103-12 (2014) defines payment institutions (établissements de paiement) as entities offering payment services, separate from credit institutions, and requires them to obtain Bank Al-Maghrib approval before operating in Morocco (Article 34).", "as_of": "2014-12-24", "date_precision": "day", "system": "Loi n° 103-12 relative aux établissements de crédit et organismes assimilés", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No rule requiring payment providers to connect to each other is stated in the text read."
+}

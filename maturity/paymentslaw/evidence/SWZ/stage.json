@@ -1,0 +1,16 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "connect",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-006;SWZ-005;SWZ-003",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

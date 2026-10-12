@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-21-swz-observer-eswatini-payment-switch-live",
+  "facts": [],
+  "systems": [
+    {"system": "Eswatini Payment Switch (EPS) fast payments", "country_label": "Eswatini Payment Switch", "class": "other", "platform": "", "owner": "Central Bank of Eswatini", "tiers": "banks; mobile money providers"}
+  ],
+  "note": "Reports the switch going live and next modules; names no law or rule, and no mandate to connect."
+}

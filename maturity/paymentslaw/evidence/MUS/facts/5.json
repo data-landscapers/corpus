@@ -1,0 +1,27 @@
+{
+  "slug": "2018-11-29-national-payment-systems-act-2018",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The National Payment Systems Act 2018 (Act No. 17 of 2018) was passed by the National Assembly on 21 November 2018 and assented on 29 November 2018, making the Bank of Mauritius regulator of payment systems, payment service providers and electronic money; the text says commencement is by Proclamation, with no commencement date given in this document.",
+      "as_of": "2018-11-29",
+      "date_precision": "day",
+      "system": "National Payment Systems Act 2018",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "Section 9(1) of the National Payment Systems Act 2018 bars anyone other than the Bank of Mauritius or a bank from acting as a payment service provider without a Bank of Mauritius licence, and section 45 sets the further conditions for licensed issuers of electronic money (Schedule 1 item 9 lists e-money issuance as a payment service).",
+      "as_of": "2018-11-29",
+      "date_precision": "day",
+      "system": "National Payment Systems Act 2018",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Act text assented 29 November 2018; no provision requires providers to connect to each other or to a switch (section 16(6) only requires system access rules to be non-discriminatory), so no connect fact."
+}

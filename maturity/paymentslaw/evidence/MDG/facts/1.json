@@ -1,0 +1,9 @@
+{
+  "slug": "2017-01-27-decision-hcc-loi-2016-056-monnaie-electronique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The High Constitutional Court's decision of 27 January 2017 declares Law 2016-056 of 16 December 2016 on electronic money and e-money institutions, adopted by both chambers on 14 and 16 December 2016, in conformity with the Constitution before promulgation; it states Madagascar's positive law held no e-money provisions until then.", "as_of": "2017-01-27", "date_precision": "day", "system": "Loi n°2016-056 sur la monnaie électronique et les établissements de monnaie électronique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The decision states that under Law 2016-056 all e-money operations must go through an e-money institution licensed by the CSBF (banking and financial supervision commission), the regulator of those institutions, with disciplinary and penal sanctions for breach.", "as_of": "2017-01-27", "date_precision": "day", "system": "Loi n°2016-056 sur la monnaie électronique et les établissements de monnaie électronique", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "connect",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-001;NER-003;NER-002",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

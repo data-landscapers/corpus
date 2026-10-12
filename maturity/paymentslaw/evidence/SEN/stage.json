@@ -1,0 +1,16 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "connect",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-004;SEN-001;SEN-007;SEN-009",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

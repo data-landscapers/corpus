@@ -1,0 +1,27 @@
+{
+  "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The article states BCEAO's Instruction of 23 January 2024 distinguishes payment institutions from banks, microfinance institutions and e-money institutions as payment service providers; it is the basis of the UMOA payment institution list.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "The article reports that at 31 August 2026 one payment institution was licensed in Niger, among 34 in the UMOA (BCEAO list published 8 October 2026).",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "BCEAO payment institution licensing",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

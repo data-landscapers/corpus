@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-12-seychelles-nps-electronic-money-regulations-2022",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Payment System (Electronic Money) Regulations, 2022 (S.I. 128 of 2022), made by the Central Bank under section 42(1) of the National Payment System Act, 2014, commenced on 12 December 2022.", "as_of": "2022-12-12", "date_precision": "day", "system": "National Payment System (Electronic Money) Regulations, 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The 2022 e-money regulations set capital (SCR 1,000,000 initial) and liquidity rules for electronic money issuers other than banks, and treat issuers that are banks, credit unions or other issuers as separate cases, so non-bank issuers operate under them.", "as_of": "2022-12-12", "date_precision": "day", "system": "National Payment System (Electronic Money) Regulations, 2022", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

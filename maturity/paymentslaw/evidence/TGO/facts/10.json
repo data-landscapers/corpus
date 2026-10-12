@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Finance SAO reports a BCEAO communique of 25 June 2026 set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions in WAEMU to integrate with PI-SPI (30 June 2027 for microfinance institutions); 9 authorised institutions were in Togo at 31 July 2026.", "as_of": "2026-06-25", "date_precision": "day", "system": "BCEAO PI-SPI connection deadline (WAEMU)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "Plateforme interoperable du Systeme de paiement instantane", "class": "other", "platform": "", "owner": "BCEAO", "tiers": "banks, e-money institutions, payment establishments, microfinance institutions"}
+  ],
+  "note": ""
+}

@@ -168,7 +168,15 @@
       "subject": "gov.legislate",
       "text": "Digital payments legislation: payments law",
       "indicator_id": "gov.legislate--digital-payments-legislation-payments-law",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no payments law or e-money rules and no draft of either.",
+        "A payments bill or draft e-money rules are published, before parliament or passed and not yet in force, or mobile money runs on a central bank's letter with no rules behind it.",
+        "A payments law or central bank rules on e-money or payment services are in force, however old. A regional central bank's regulation counts for each member it binds. A law on crypto or virtual assets does not count.",
+        "Companies that are not banks can be licensed under the law or rules in force to offer payments or issue e-money: a source says so, or names one licensed.",
+        "A rule requires mobile money providers and banks to connect to each other or to a national or regional switch. A switch that providers may join by choice, or a rule that binds banks only, does not reach this stage."
+      ],
+      "criteria_of": "bc63edd51ce6"
     }
   ],
   "classes": [

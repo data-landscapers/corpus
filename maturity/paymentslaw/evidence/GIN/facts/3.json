@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-31-guinee-bcrg-projets-reformes-dsmp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "Système de Règlement Brut en Temps Réel",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": "interbank"
+  },
+  {
+   "system": "Switch national",
+   "country_label": "Switch national (with AfricaNenda and GuiM)",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG; Guinéenne de Monétique",
+   "tiers": ""
+  }
+ ],
+ "note": "Removed by the parent (corrections.csv): the page lists drafting a payment systems law as a project aim and does not state that there is no law or draft."
+}

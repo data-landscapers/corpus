@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "reach": "non-bank",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-002;CMR-001;CMR-003",
+   "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

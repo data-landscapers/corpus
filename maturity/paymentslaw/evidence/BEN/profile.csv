@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,law,standing,coverage,in-force,2024,BEN-001;BEN-004;BEN-006;BEN-013,,
+BEN,law,reach,coverage,connect,2026-06-25,BEN-003;BEN-008;BEN-009;BEN-011;BEN-012,BEN-002=non-bank;BEN-005=non-bank;BEN-007=non-bank;BEN-010=non-bank,

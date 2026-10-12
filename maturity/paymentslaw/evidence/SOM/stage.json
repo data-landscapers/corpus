@@ -1,0 +1,16 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "3",
+   "standing": "in-force",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-003",
+   "gaps": "No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

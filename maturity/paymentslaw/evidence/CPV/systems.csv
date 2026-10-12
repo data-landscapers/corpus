@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Sistema de Gestão de Depósitos e Liquidação (SGDL),SGDL,other,,Banco de Cabo Verde,interbank settlement,2025-01-01-bcv-sistema-de-pagamentos
+CPV,Sistema Integrado de Compensação Interbancária e Liquidação (SICIL),SICIL,other,,"managed by Banco de Cabo Verde, operated by SISP","cheques, credit transfers, card payments clearing",2025-01-01-bcv-sistema-de-pagamentos
+CPV,Sistema de Gestão de Mercados e Ativos (SIGMA),SIGMA,other,,Banco de Cabo Verde,,2025-01-01-bcv-sistema-de-pagamentos
+CPV,Sistema de Pagamentos Cabo-verdiano,Sistema de Pagamentos Cabo-verdiano,law,,Banco de Cabo Verde (regulator and superintendent),"participants, payment service providers, system operators, financial institutions",2018-11-28-cabo-verde-decreto-legislativo-7-2018-sistema-pagamentos

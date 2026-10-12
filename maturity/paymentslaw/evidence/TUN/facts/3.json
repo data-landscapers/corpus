@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-29-tun-challenges-cybersecurite-deux-circulaires",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Challenges reports that BCT circulaire n°2026-10 imposes a mandatory annual cyber audit and stronger governance on payment institutions, keeps ceilings on accounts and transfers, and enters into force three months after its issue (published 2026-09-25 per the article's date context; the article gives no day).",
+     "as_of": "2026-09", "date_precision": "month", "system": "BCT circulaire n°2026-10 on payment institutions", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "Challenges reports that BCT circulaire n°2026-10 of September 2026 regulates payment institutions (établissements de paiement), which are not banks, setting audit and governance duties and ceilings on their accounts and transfers.",
+     "as_of": "2026-09", "date_precision": "month", "system": "BCT circulaire n°2026-10 on payment institutions", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

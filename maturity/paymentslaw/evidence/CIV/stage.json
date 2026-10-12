@@ -1,0 +1,16 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "connect",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-008;CIV-010;CIV-002;CIV-003",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

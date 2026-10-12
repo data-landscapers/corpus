@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-02-botswana-electronic-payment-services-amendment-regulations-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister of Finance made the Electronic Payment Services (Amendment) Regulations, 2026 (Statutory Instrument No. 46 of 2026) under section 43B of the Bank of Botswana Act, dated 18 March 2026 and published 2 April 2026, amending the existing Electronic Payment Services Regulations.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services Regulations (as amended 2026)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The amended regulations require any person operating an electronic payment service, including e-money issuance and money or value transfer services, to hold a Bank of Botswana licence and be a company incorporated in Botswana and limited by share capital, and state they do not apply to banks licensed under the Banking Act; unlicensed operation carries a fine up to P1 000 000 or five years.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services Regulations (as amended 2026)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No rule requiring providers to connect to each other or to a switch appears in this instrument."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "BCEAO lists payment institutions as licensed in line with Instruction n°001-01-2024 on payment services in the UMOA, with 34 licensed at 31 August 2026.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "BCEAO's list shows one payment institution licensed in Niger at 31 August 2026 (iFUTUR, approved 6 May 2025).",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "BCEAO payment institution licensing",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "iFUTUR",
+      "country_label": "iFUTUR",
+      "class": "other",
+      "platform": "",
+      "owner": "iFUTUR",
+      "tiers": "payment institution"
+    }
+  ],
+  "note": ""
+}

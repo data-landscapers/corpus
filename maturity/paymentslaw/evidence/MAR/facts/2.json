@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-27-mar-instant-payment-mfc-talks",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Le Matin, reporting the 11th MFC Talks, says Morocco has a regulatory framework already well advanced, and that a first phase led by Bank Al-Maghrib laid the regulatory bases, organised interoperability and governed access to infrastructures; no law or rule is named.", "as_of": "2026-09-27", "date_precision": "day", "system": "Bank Al-Maghrib payments regulatory framework", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Le Matin reports payment institutions (établissements de paiement) and fintechs taking part with banks in Morocco's payments market, with licensed players carrying regulation and compliance for fintechs; no licensing rule is named.", "as_of": "2026-09-27", "date_precision": "day", "system": "Payment institutions (établissements de paiement)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Switch Al Maghrib", "country_label": "Switch Al Maghrib", "platform": "", "owner": "Switch Al Maghrib", "tiers": "banks and payment institutions", "class": "other"}
+  ],
+  "note": ""
+}

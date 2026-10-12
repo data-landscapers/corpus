@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of Seychelles made the National Payment System (Licensing and Authorisation) (Amendment) Regulations, 2025 (S.I. 99 of 2025) on 15 December 2025 under the National Payment System Act, 2014 (Act 14 of 2014), amending the 2014 licensing regulations; they take effect on the 30th day after Gazette publication.", "as_of": "2025-12-15", "date_precision": "day", "system": "National Payment System Act, 2014 and Licensing and Authorisation Regulations", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The 2025 amendment to regulation 9 sets the conditions on which the Central Bank may license a payment service provider, any company incorporated under the Companies Act, while regulation 17 as amended exempts banks and credit unions only from annual fees, and regulation 20(d) as amended refers to electronic money institutions safeguarding holders' funds at licensed banks.", "as_of": "2025-12-15", "date_precision": "day", "system": "National Payment System Act, 2014 and Licensing and Authorisation Regulations", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No fact on connect: the regulations make adequate interfaces for straight-through processing a licensing condition but do not require providers to connect to each other or to a switch."
+}

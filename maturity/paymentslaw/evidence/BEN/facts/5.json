@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-29-pi-spi-banques-mobile-money-interconnectes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PI-SPI",
+      "country_label": "PI-SPI",
+      "platform": "",
+      "owner": "BCEAO",
+      "tiers": "banks, e-money institutions, payment institutions, microfinance institutions",
+      "class": ""
+    }
+  ],
+  "note": "Describes the PI-SPI platform linking banks, e-money issuers, microfinance and payment institutions; states no law, licence or connection rule."
+}

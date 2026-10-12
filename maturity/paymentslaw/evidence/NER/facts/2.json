@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-25-actuniger-airtel-money-transfert-international",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "The article states Airtel Money Niger SA is the first e-money issuer in Niger, licensed by the BCEAO under Decision n° 194-07-2022.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "BCEAO e-money issuer licence (Decision n° 194-07-2022)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Airtel Money",
+      "country_label": "Airtel Money Niger",
+      "class": "other",
+      "platform": "MyAirtel app, USSD 4361*2#",
+      "owner": "Airtel Money Niger SA",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

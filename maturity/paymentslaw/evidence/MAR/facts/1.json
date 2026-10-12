@@ -1,0 +1,8 @@
+{
+  "slug": "2020-04-23-cndp-deliberation-d-108-eus-2020-reconnaissance-faciale-compte-a-distance-banques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The CNDP deliberation of 23 April 2020 treats payment institutions (établissements de paiement) as a category operating remote account opening alongside banks, and permits both to use facial recognition for it on prior authorisation; it names no payment law.", "as_of": "2020-04-23", "date_precision": "day", "system": "Payment institutions (établissements de paiement)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Names no payments law or rule; only the existence of payment institutions beside banks."
+}

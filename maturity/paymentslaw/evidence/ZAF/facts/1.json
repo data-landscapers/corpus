@@ -1,0 +1,5 @@
+{"slug":"2026-09-01-national-payment-system-bill-techcentral","facts":[
+{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"SARB governor Kganyago said on 1 September 2026 that the National Payment System Bill, moving payment regulation from an entity-based to an activity-based model, will soon go out for public comment, following an authorisation framework.","as_of":"2026-09-01","date_precision":"day","system":"National Payment System Bill","class":"law"},
+{"sub_indicator":"law","aspect":"reach","value":"none","fact":"An MTN Group Fintech executive said South Africa has no dedicated non-bank mobile money licence, so fintechs must partner with a licensed bank to move money; the SARB is working on an equivalent through the authorisation framework and the Bill.","as_of":"2026-09-01","date_precision":"day","system":"National Payment System Bill","class":"law"}],
+"systems":[{"system":"PayInc","country_label":"PayInc (formerly BankservAfrica)","class":"other","platform":"","owner":"PayInc, with a SARB shareholding","tiers":""}],
+"note":""}

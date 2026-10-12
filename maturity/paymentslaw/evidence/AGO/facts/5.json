@@ -1,0 +1,18 @@
+{
+  "slug": "2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Banco Nacional de Angola Aviso n.º 8/17 of 12 September 2017, binding on operators of clearing and settlement subsystems, payment service providers and participants, entered into force on publication and replaced Aviso 11/15.", "as_of": "2017-09-12", "date_precision": "day", "system": "Sistema de Pagamentos de Angola", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Aviso rests on Lei n.º 5/05 of 29 July 2005, the Payment System Law of Angola, which it cites as the basis for BNA regulation and for the sanctions regime; the document gives no sign the law was repealed.", "as_of": "2017-09-12", "date_precision": "day", "system": "Sistema de Pagamentos de Angola", "class": "law"}
+  ],
+  "systems": [
+    {"system": "SPTR - Subsistema de Pagamentos em Tempo Real", "country_label": "SPTR", "class": "other", "platform": "", "owner": "Banco Nacional de Angola", "tiers": "interbank participants"},
+    {"system": "SIGMA - Subsistema de Gestao de Mercados e Activos", "country_label": "SIGMA", "class": "other", "platform": "", "owner": "Banco Nacional de Angola", "tiers": "interbank participants"},
+    {"system": "CCAA - Camara de Compensacao Automatizada de Angola", "country_label": "CCAA", "class": "other", "platform": "", "owner": "EMIS (Empresa Interbancaria de Servicos)", "tiers": "interbank participants"},
+    {"system": "MCX - Subsistema Multicaixa", "country_label": "Multicaixa", "class": "other", "platform": "", "owner": "EMIS", "tiers": "card network participants"},
+    {"system": "STC - Subsistema de Transferencias a Credito", "country_label": "STC", "class": "other", "platform": "", "owner": "EMIS", "tiers": "interbank participants"},
+    {"system": "SCC - Subsistema de Compensacao de Cheques", "country_label": "SCC", "class": "other", "platform": "", "owner": "EMIS", "tiers": "interbank participants"},
+    {"system": "SDD - Subsistema de Debitos Directos", "country_label": "SDD", "class": "other", "platform": "", "owner": "EMIS", "tiers": "interbank participants"},
+    {"system": "SPMA - Subsistema Pagamentos Moveis de Angola", "country_label": "SPMA", "class": "other", "platform": "", "owner": "", "tiers": "participants"}
+  ],
+  "note": "No fact on non-bank licensing or mandatory connection: the Aviso names payment service providers as subject to it but states neither that non-banks are licensed nor any rule that providers connect."
+}

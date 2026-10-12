@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-south-sudan-pushes-cashless-transition",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Bank of South Sudan governor urged swift passage of the Draft National Payment System Bill, drafted in 2025, which would set licensing frameworks as the regulatory foundation for mobile money and electronic banking; reported 17 August 2026.", "as_of": "2026-08-17", "date_precision": "day", "system": "National Payment System Bill, 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Payment System Bill, 2025", "country_label": "Draft National Payment System Bill", "class": "law", "platform": "", "owner": "Bank of South Sudan", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2001-01-01-national-payment-systems-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Payment Systems Act [Chapter 24:23] (Act 21 of 2001), consolidated text up to 31 December 2016, commenced on 16 November 2001 and provides for the recognition, operation, regulation and supervision of payment clearing and settlement systems, including payment instructions made by electronic means, under the Reserve Bank of Zimbabwe.", "as_of": "2001-11-16", "date_precision": "day", "system": "National Payment Systems Act [Chapter 24:23]", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Excerpt ends near section 12; the Act as captured lets only financial institutions (banks and institutions the Reserve Bank recognises) and the Reserve Bank take part in a recognised payment system, but says nothing on licensing non-bank providers or requiring connection, so no reach fact."
+}

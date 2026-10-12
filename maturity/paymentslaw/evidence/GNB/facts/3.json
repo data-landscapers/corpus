@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The BCEAO states that payment institutions in the UMOA, Guinea-Bissau among the eight states, are licensed under its Instruction n°001-01-2024 on payment services, and 34 were approved at 31 August 2026.", "as_of": "2026-08-31", "date_precision": "day", "system": "BCEAO Instruction n°001-01-2024 relative aux services de paiement dans l'UMOA", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The BCEAO list at 31 August 2026 shows one payment institution licensed in Guinea-Bissau, INTOUCH Guinée-Bissau (EP.GB.001/2025), approved on 25 June 2025.", "as_of": "2025-06-25", "date_precision": "day", "system": "BCEAO payment institution licensing (UMOA)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

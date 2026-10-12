@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The BCEAO told every bank, e-money issuer and payment institution in the eight WAEMU countries, Senegal included, to be connected to PI-SPI by 30 June 2026, and on 25 June 2026 moved the deadline to 30 September 2026, with 30 June 2027 for microfinance institutions.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "PI-SPI connection deadline",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

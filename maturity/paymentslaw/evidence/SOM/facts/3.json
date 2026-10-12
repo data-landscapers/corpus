@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-somalia-mobile-money-regulations-cbs-nbs-reg-06",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date.", "as_of": "2020", "date_precision": "year", "system": "Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Only the arrangement of articles was held; it shows a licensing part but does not state that non-banks are licensed or that providers must connect, so no reach fact."
+}

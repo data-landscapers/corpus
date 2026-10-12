@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-26-monnaie-electronique-4e-etablissement-djogana-pay-fratmat",
+  "facts": [
+    {"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The article states that the BCEAO granted licence EME.CI.025/2025 to Djogana Pay (Peya Pay), the fourth e-money institution in Cote d'Ivoire after Orange Money, MTN Mobile Money and Moov Money; no event date is given, so the article's published date is used.","as_of":"2025-09-26","date_precision":"day","system":"BCEAO e-money institution licensing","class":"law"}
+  ],
+  "systems": [
+    {"system":"Peya Pay","country_label":"Peya Pay","class":"other","platform":"","owner":"Djogana Pay","tiers":""}
+  ],
+  "note": ""
+}

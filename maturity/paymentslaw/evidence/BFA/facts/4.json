@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "A BCEAO decision published on 25 June 2026 set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions of the WAEMU to complete connection to PI-SPI and open services to the public.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "BCEAO PI-SPI connection deadline (WAEMU)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, payment institutions, microfinance institutions; 20 participants in Burkina Faso at 30 September 2026"
+  }
+ ],
+ "note": ""
+}

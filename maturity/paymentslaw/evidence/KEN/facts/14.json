@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-21-ken-treasury-national-payment-system-bill-2026-draft",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The National Treasury and Central Bank of Kenya published the National Payment System Bill, 2026 as a draft for comment (79 clauses), which would license payment service providers including electronic money issuers and wallet providers, require interoperability (clause 28) and repeal the existing National Payment System Act (clause 78); the document gives the posting date 2026-09-21 as its publication date and states no enactment.",
+     "as_of": "2026-09-21", "date_precision": "day",
+     "system": "National Payment System Bill, 2026", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Draft bill only; no in-force law, non-bank licence under an in-force law or in-force connection rule is stated, so no standing in-force or reach fact."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The BCEAO Instruction of 23 January 2024 distinguishes payment institutions from banks, microfinance institutions and e-money institutions as categories of payment service provider.",
+   "as_of": "2024-01-23",
+   "date_precision": "day",
+   "system": "BCEAO Instruction of 23 January 2024 on payment services in the UMOA",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The BCEAO list of payment institutions at 31 August 2026, published 8 October 2026, shows 11 licensed payment institutions in Senegal out of 34 in the UMOA, as reported by Benin Web TV.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "BCEAO Instruction of 23 January 2024 on payment services in the UMOA",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+  "facts": [
+    {"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article states that the BCEAO instruction of 23 January 2024 defines payment institutions, distinct from banks, microfinance institutions and e-money institutions, among payment service providers, and that institutions are licensed under it across the UMOA, Cote d'Ivoire included.","as_of":"2024-01-23","date_precision":"day","system":"BCEAO Instruction on payment services (2024)","class":"law"},
+    {"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The article states that, per the BCEAO list published 8 October 2026, Cote d'Ivoire had ten licensed payment institutions at 31 August 2026 (of 34 in the Union); the date is the list's as-of date.","as_of":"2026-08-31","date_precision":"day","system":"BCEAO Instruction on payment services (2024)","class":"law"}
+  ],
+  "systems": [],
+  "note": ""
+}

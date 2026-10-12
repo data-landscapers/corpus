@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-25-bceao-prolongation-delai-connexion-pi-spi",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "connect",
+      "fact": "The BCEAO set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions of the Union to open PI-SPI instant payment services (30 June 2027 for microfinance institutions), replacing 30 June 2026; the communique is dated 25 June 2026 and covers all WAEMU members, including Benin.",
+      "as_of": "2026-06-25",
+      "date_precision": "day",
+      "system": "BCEAO PI-SPI connection deadline",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "PI-SPI",
+      "country_label": "PI-SPI",
+      "platform": "",
+      "owner": "BCEAO",
+      "tiers": "banks, e-money institutions, payment institutions, microfinance institutions",
+      "class": ""
+    }
+  ],
+  "note": ""
+}

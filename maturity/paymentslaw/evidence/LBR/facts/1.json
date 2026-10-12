@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01 Liberia Mobile Money Regulations (Central Bank of Liberia)",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of Liberia's Mobile Money Regulations are described as the regulatory framework governing electronic money and mobile-money operators in Liberia, with more than 11 million mobile wallets operating; the document gives no date for the regulations, so its 2024 published date (a year-level proxy) is used.", "as_of": "2024", "date_precision": "year", "system": "Liberia Mobile Money Regulations", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Pay Na-Na", "country_label": "Pay Na-Na", "class": "", "platform": "", "owner": "Central Bank of Liberia", "tiers": ""}
+  ],
+  "note": "Reach not stated: the page does not say non-banks are licensed or that providers must connect."
+}

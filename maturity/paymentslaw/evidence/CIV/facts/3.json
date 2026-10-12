@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-28-bceao-liste-etablissements-paiement-agrees-umoa",
+  "facts": [
+    {"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The BCEAO page states that structures are authorised as payment institutions in the UMOA under Instruction n°001-01-2024 on payment services, which applies to Cote d'Ivoire as a member.","as_of":"2024","date_precision":"year","system":"BCEAO Instruction n°001-01-2024 on payment services","class":"law"},
+    {"sub_indicator":"law","aspect":"reach","value":"non-bank","fact":"The BCEAO page states that nine payment institutions were licensed in Cote d'Ivoire at 28 February 2026, out of 31 in the Union.","as_of":"2026-02-28","date_precision":"day","system":"BCEAO Instruction n°001-01-2024 on payment services","class":"law"}
+  ],
+  "systems": [],
+  "note": ""
+}

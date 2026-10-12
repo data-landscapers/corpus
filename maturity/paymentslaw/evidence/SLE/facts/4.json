@@ -1,0 +1,9 @@
+{
+  "slug": "2022-06-23-sierra-leone-national-payment-systems-act-2022",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Payment Systems Act, 2022 (Act 8 of 2022), assented to 2 June 2022 and published in Gazette 43, commenced on 23 June 2022 and repealed the Payments Systems Act 2009.", "as_of": "2022-06-23", "date_precision": "day", "system": "National Payment Systems Act, 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The National Payment Systems Act, 2022 (s.6) bars any person from providing payment services or operating a system without a Bank of Sierra Leone licence and sets e-money issuer conditions, while s.8 exempts only banks and financial institutions from needing a new licence; s.5 seats mobile money operators and the Fintech Association on the National Payment System Committee. Date is the Act's commencement.", "as_of": "2022-06-23", "date_precision": "day", "system": "National Payment Systems Act, 2022", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No fact on connection: s.16 requires objective, non-discriminatory access rules for systems but sets no duty on providers to connect to each other or a switch."
+}

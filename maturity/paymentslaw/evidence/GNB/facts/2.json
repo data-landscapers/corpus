@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-15-bceao-liste-etablissements-paiement-agrees-umoa",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The BCEAO list of payment institutions approved in the UMOA at 15 September 2025 shows one in Guinea-Bissau, INTOUCH Guinée-Bissau SARL (EP.GB.001/2025), among 30 in the union.", "as_of": "2025-09-15", "date_precision": "day", "system": "BCEAO payment institution licensing (UMOA)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

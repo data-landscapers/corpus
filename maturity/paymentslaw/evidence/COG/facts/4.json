@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-07-cog-aci-artf-transferts-de-fonds-plateforme-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "ARTF's director said on 5 October 2026 that article 13 of the 2026 finance law obliges money-transfer operators to register on ARTF's digital platform and declare all transfers by the 10th of the following month, with a fine of 20 million FCFA for refusing to interconnect to the ARTF platform.",
+     "as_of": "2026-10-05", "date_precision": "day", "system": "Finance law 2026, article 13 (money-transfer operators)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "ARTF digital platform", "country_label": "plateforme digitale de l'ARTF", "class": "", "platform": "", "owner": "ARTF (Agence de régulation des transferts de fonds)", "tiers": "money-transfer operators"}
+  ],
+  "note": "The interconnection duty is to the regulator's reporting platform, not between payment providers or to a payment switch, so no reach fact."
+}

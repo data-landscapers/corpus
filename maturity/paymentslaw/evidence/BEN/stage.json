@@ -1,0 +1,16 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "connect",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-003;BEN-009;BEN-002;BEN-004",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

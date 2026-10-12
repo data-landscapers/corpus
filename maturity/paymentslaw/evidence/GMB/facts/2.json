@@ -1,0 +1,9 @@
+{
+  "slug": "2011-10-15-cbg-regulation-provision-of-mobile-money-services",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of The Gambia's Mobile Money Regulation, 2011, made under sections 52 and 75 of the Central Bank of The Gambia Act 2005, states in section 15 that its effective date is 15 October 2011.", "as_of": "2011-10-15", "date_precision": "day", "system": "Mobile Money Regulation, 2011", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The Mobile Money Regulation, 2011 provides for retail transfers by persons not licensed as banks or financial institutions and sets authorisation by the central bank for such payment service providers (limited liability companies registered in The Gambia, core capital of GMD 10 million plus a GMD 5 million security deposit).", "as_of": "2011-10-15", "date_precision": "day", "system": "Mobile Money Regulation, 2011", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

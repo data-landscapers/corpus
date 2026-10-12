@@ -1,0 +1,22 @@
+{
+  "slug": "2026-09-25-bct-tun-circulaire-2026-10-etablissements-paiement",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Central Bank of Tunisia issued Circular n° 2026-10 on payment establishments on 25 September 2026, binding rules on their services, accounts, agents and governance; it takes effect three months after publication.",
+     "as_of": "2026-09-25", "date_precision": "day", "system": "Circulaire BCT n° 2026-10 relative aux établissements de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Article 51 repeals and replaces Circular n° 2018-16 of 31 December 2018 on the activity and functioning of payment establishments, which was therefore in force until then.",
+     "as_of": "2018-12-31", "date_precision": "day", "system": "Circulaire BCT n° 2018-16 relative aux établissements de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Article 39 refers to Circular n° 2020-11 of 18 May 2020 on the conditions for providing domestic mobile payment services as a text that applies alongside it.",
+     "as_of": "2020-05-18", "date_precision": "day", "system": "Circulaire BCT n° 2020-11 relative aux services de paiement mobile domestique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "Circular 2026-10 authorises payment establishments to open three tiers of client payment accounts, transfer funds and issue electronic payment instruments, and requires the BCT to keep a register and publish a list of licensed establishments (Articles 1, 16, 42).",
+     "as_of": "2026-09-25", "date_precision": "day", "system": "Circulaire BCT n° 2026-10 relative aux établissements de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect",
+     "fact": "Article 3 of Circular 2026-10 requires payment establishments to join the payment and clearing systems suited to their activities; the circular takes effect three months after 25 September 2026.",
+     "as_of": "2026-09-25", "date_precision": "day", "system": "Circulaire BCT n° 2026-10 relative aux établissements de paiement", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

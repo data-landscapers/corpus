@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-uemoa-interoperabilite-paiements-forbesafrique",
+  "facts": [],
+  "systems": [
+    {"system": "PI-SPI (Plateforme Interopérable du Système de Paiement Instantané)", "country_label": "PI-SPI", "class": "other", "platform": "", "owner": "BCEAO", "tiers": "banks, e-money institutions, payment institutions, fintechs; microfinance institutions in time"}
+  ],
+  "note": "Regional feature on PI-SPI interoperability; names no payments law, e-money rule, non-bank licence or connection rule, and says only in a quotation that BCEAO has laid the regulatory rails."
+}

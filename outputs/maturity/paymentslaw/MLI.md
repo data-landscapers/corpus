@@ -1,0 +1,11 @@
+# Mali
+
+## Payments law
+
+**Law or rules in force.** Mali is bound by the rules of the BCEAO, the central bank of the eight-state West African Economic and Monetary Union. Payment institutions are [licensed under its Instruction n°001-01-2024 on payment services](<https://www.bceao.int/fr/communique-presse/liste-des-etablissements-de-paiement-agrees-dans-lumoa-au-31-aout-2026>), which [sets them apart from banks](<https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/>), microfinance institutions and e-money institutions.
+
+**Non-banks licensed and providers required to connect.** [Two payment institutions are licensed in Mali](<https://www.bceao.int/fr/communique-presse/liste-des-etablissements-de-paiement-agrees-dans-lumoa-au-31-aout-2026>): INTOUCH Mali, since 9 May 2025, and CAURIDOR, since 3 September 2025. The union's banking commission [counted two licensed e-money issuers](<https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/>) there at the end of 2025. In April 2026 the BCEAO told every bank, e-money issuer and payment institution to connect to its instant payment platform, PI-SPI, by 30 June, and on 25 June [set 30 September 2026 as the new deadline](<https://www.bceao.int/fr/communique-presse/prolongation-du-delai-de-connexion-a-pi-spi>).
+
+***Noted, not assessed***. [PI-SPI](<https://www.bceao.int/fr/communique-presse/prolongation-du-delai-de-connexion-a-pi-spi>).
+
+***Not held***. Nothing on the four questions.

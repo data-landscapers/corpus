@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The BCEAO list of payment institutions licensed under Instruction n°001-01-2024 on payment services in the UMOA shows licences issued under it, so the instruction was in force at 31 August 2026.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Instruction n°001-01-2024 relative aux services de paiement dans l'UMOA",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The BCEAO list names 11 payment institutions licensed in Senegal under Instruction n°001-01-2024 at 31 August 2026, including Dunya Digital Payment Sénégal, Flutterwave Sénégal and Julaya Sénégal, licensed between May and September 2025.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Instruction n°001-01-2024 relative aux services de paiement dans l'UMOA",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

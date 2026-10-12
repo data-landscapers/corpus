@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-national-payments-system",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CBK page states that the National Payment System Act 2011 provides the legal framework for payment systems and providers and that the National Payment System Regulations 2014 operationalise it; the page is dated only 2026 (published date used).",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "National Payment System Act 2011 and Regulations 2014",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The CBK page states that mobile phone money transfer operators are authorised as Payment Service Providers under the National Payment System Act 2011 and Regulations 2014, in categories including e-money issuer and small money issuer; the page is dated only 2026 (published date used).",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "National Payment System Act 2011 and Regulations 2014",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

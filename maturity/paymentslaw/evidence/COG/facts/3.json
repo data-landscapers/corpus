@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-08-cog-adiac-artf-terminaux-paiement-2027",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "ARTF, Congo's money-transfer regulator, said it will enforce from January 2027 the finance law's obligation on every money-transfer and exchange operator to register on its digital platform and use electronic payment terminals; the law is called 'en vigueur', and the article gives no year for the finance law.",
+     "as_of": "2026-10-08", "date_precision": "day", "system": "Finance law money-transfer obligation (ARTF)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "ARTF digital platform and electronic payment terminals (TPE)", "country_label": "plateforme digitale de l'ARTF; terminaux de paiement électronique", "class": "", "platform": "", "owner": "ARTF (Agence de régulation des transferts de fonds)", "tiers": "money-transfer and exchange operators"}
+  ],
+  "note": "A money-transfer registration and tax-capture rule, not e-money or payment-provider licensing; no non-bank licence and no provider-to-provider connection rule is stated."
+}

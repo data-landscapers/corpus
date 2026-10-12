@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald",
+  "facts": [],
+  "systems": [
+    {"system": "LYPay", "country_label": "LYPay instant payment system", "class": "other", "platform": "", "owner": "Central Bank of Libya", "tiers": "commercial banks (banking apps, QR code at point of sale)"}
+  ],
+  "note": "States a prime ministerial decree accepting e-payment for state revenue and a CBL letter of 4 March 2026 telling banks to activate LYPay QR; no payments law, e-money rules, non-bank licensing or provider connection rule is stated."
+}

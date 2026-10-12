@@ -1,0 +1,8 @@
+{
+  "slug": "2007-04-12-national-payment-systems-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Zambia's page says the National Payment Systems Act was enacted by parliament on 12 April 2007 to give legal backing to the operation of payment mechanisms in Zambia and to empower the Bank to regulate them.", "as_of": "2007-04-12", "date_precision": "day", "system": "National Payment Systems Act", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Page states nothing on licensing of non-banks or on a duty to connect, so no reach fact."
+}

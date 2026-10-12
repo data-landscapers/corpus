@@ -1,0 +1,9 @@
+{
+  "slug": "2017-02-02-loi-2016-056-monnaie-electronique-etablissements-monnaie-electronique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Loi n°2016-056 on electronic money and electronic money institutions, adopted by the National Assembly and Senate on 14 and 16 December 2016 and cleared by the High Constitutional Court on 27 January 2017, was promulgated on 2 February 2017 and is to be published and executed as state law.", "as_of": "2017-02-02", "date_precision": "day", "system": "Loi n°2016-056 sur la monnaie électronique et les établissements de monnaie électronique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Loi n°2016-056 (2017) requires any legal entity running e-money operations to be approved by the CSBF as an e-money institution (a limited company, articles 11, 24 and 33), separate from credit institutions and microfinance institutions, which may also run e-money with CSBF authorisation (articles 34 and 36).", "as_of": "2017-02-02", "date_precision": "day", "system": "Loi n°2016-056 sur la monnaie électronique et les établissements de monnaie électronique", "class": "law"}
+  ],
+  "systems": [],
+  "note": "The law names no rule requiring providers to connect to each other or to a switch, so no connect fact."
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-paymentslaw.md — the twenty-first maturity study: the law on electronic payments, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the four questions
+status: run 2026-10-12 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: paymentslaw
@@ -70,21 +70,31 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 
 - **Read first**: **97 news stories and short legal notices about a payments law or e-money rules**, covering 40 countries, 82 of them from the last three years. No study has read them. A regional story is read once for each member country it names, 154 readings in all.
 - **Then, for every country those leave short of an answer**: the news stories its current cell cites, 169 across 48 countries.
-- **Then, only for a country still short of an answer to question 1 or 2**: the newest held news that names such a law, one call a country, from at most 483 stories across 47 countries.
-- **Not read**: the long texts of the laws and reports, 191 of them. A law's text is opened only for a country with nothing else.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Then, only for a country with no law on record**: one call of its newest held news or, with none, the text its cell cites.
+- **Not read**: the long texts of the laws and reports. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
-**50 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The reading is about half as large again as the identity law study's, which used 35.9 million. No earlier study holds facts that answer these questions, so nothing is carried. The parent writes the summaries.
+**50 million.** The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**, in the order of §5.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact that would set stage 4 or 5; two drafters compared on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: 154 readings of stories about a payments law, 52 calls; then what the current cells cite for the 42 countries short of the fourth answer, 54 calls; then four calls for Eritrea, Guinea, Libya and Equatorial Guinea. 273 facts held.
+- [x] **D3. Staged**: 12 at stage 5, 27 at 4, 12 at 3, one at 2, none at 1, one unplaced and one with no evidence, as at 2026-09-30; six facts removed, two added and two redated by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **The BCEAO's 2026 deadline to connect to its instant payment platform is a yes to question 4 for all eight WAEMU states**, eight of the twelve at stage 5.
+- **The CEMAC payment services regulation of 2018 is a yes to questions 2 and 3 for each of its six states**, a licensee named or not.
+- **Not a yes to question 4**: a rule waiting on a switch not yet built (Sudan), one binding non-bank acquirers only (Angola), one on reaching the platforms of accepted instruments (Algeria), one to join suitable systems (Tunisia), a strategy naming no rule (CEMAC).
+- **A source saying interoperability was mandated in a named year is a yes, the rule unnamed** (Ghana, Eswatini).
+- **A page listing a payments law as a project aim is not a statement that there is none** (Guinea, unplaced).
+- **Licences reported with no law named reach stage 4** (Nigeria, Congo).
+- **Twelve countries stop at a law in force**, Tanzania, Zambia, Malawi and Egypt among them; South Africa on a source saying it has no non-bank licence. **Eritrea holds no fact.**
+- **Tokens: 42.3 million at the writing step**, ceiling 50 million.
 
 ## Boundary
 

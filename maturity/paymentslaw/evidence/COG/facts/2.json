@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC (Groupement interbancaire monétique de l'Afrique centrale)", "tiers": "banks, microfinance institutions, payment institutions and mobile money operators, aggregators, BEAC, Treasuries"}
+  ],
+  "note": "Describes the GIMACPAY regional switch, its participants (16 payment institutions and mobile money operators among 153) and 2025 volumes; states no law, rule, licensing basis or obligation to connect."
+}

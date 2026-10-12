@@ -1,0 +1,27 @@
+{
+  "slug": "2026-10-09-nga-businesstech-one-regulator-or-many-inside-the-bill-that-could-rewrite-how",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Nigerian Fintech Regulatory Commission Bill 2025 (HB.2389), which would create a single regulator to license and supervise all fintech services, passed second reading in the House of Representatives on 28 October 2025 and was still pending as at the article, with no final passage or assent confirmed.",
+      "as_of": "2025-10-28",
+      "date_precision": "day",
+      "system": "Nigerian Fintech Regulatory Commission Bill 2025",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "At the 2 March 2026 public hearing on the fintech regulator bill, the article reports that the CBN already licenses mobile money operators, payment service providers and digital banks (as stated by OPay and other operators); no law or year is named.",
+      "as_of": "2026-03-02",
+      "date_precision": "day",
+      "system": "CBN licensing of mobile money operators and payment service providers",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

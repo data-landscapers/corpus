@@ -1,0 +1,10 @@
+{
+  "slug": "2013-07-11-cbg-pricing-policy-electronic-payment-settlement-credit-reference-systems",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of The Gambia's pricing policy, approved 11 July 2013 and effective 1 December 2013, states that the Electronic Payments System Act 2013 defines the establishment and operation of the electronic payments system and the rights and obligations of participants; the date is the document's approval date, as it gives no enactment date.", "as_of": "2013-07-11", "date_precision": "day", "system": "Electronic Payments System Act 2013", "class": "law"}
+  ],
+  "systems": [
+    {"system": "GAMSWITCH", "country_label": "GAMSWITCH", "class": "other", "platform": "", "owner": "Central Bank of The Gambia", "tiers": "commercial banks and service providers"}
+  ],
+  "note": ""
+}

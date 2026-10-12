@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Instant Payment Programme,Bank of Namibia Instant Payment Programme,other,,Bank of Namibia,participating financial institutions,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Namibia Interbank Settlement System (NISS),NISS,other,ISO 20022 messaging,,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Instant Payment Programme,national instant payment network,other,,,"Bank Windhoek, first certified institution, for government-to-person grants",2026-06-17-namibia-moves-government-grant-payments-onto-instant-payment-network
+NAM,Instant Payment Solution (IPS) / Instant Payment Platform (IPP),Instant Payment Solution,other,NPCI International Payments Limited,"Instant Payment Namibia (IPN), under the Bank of Namibia","banks, authorised fintechs and e-money issuers serve the public; pilot with Bank Windhoek, Nampost, Letshego Bank Namibia",2026-06-15-fact-sheet-namibias-instant-payment-solution-ips
+NAM,NamPay,NamPay,other,,,,2025-12-24-determination-standards-fees-charges-payment-services-psd-10

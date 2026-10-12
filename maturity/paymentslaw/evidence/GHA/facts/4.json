@@ -1,0 +1,8 @@
+{
+  "slug": "2023-08-08-gra-electronic-transfer-levy-administrative-guidelines",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Transfer Levy Management and Assurance System (ELMAS)", "country_label": "ELMAS", "class": "other", "platform": "", "owner": "Ghana Revenue Authority", "tiers": "electronic money issuers, payment service providers, banks, specialised deposit-taking institutions"}
+  ],
+  "note": "Tax guideline under the Electronic Transfer Levy Act 2022 (Act 1075): charging entities onboard onto the GRA's levy system; not a payments law or a rule that providers connect to each other."
+}

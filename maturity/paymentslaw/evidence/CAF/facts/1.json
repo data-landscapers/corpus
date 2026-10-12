@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC (Groupement interbancaire monétique de l'Afrique centrale)", "tiers": "BEAC, two public treasuries, banks, microfinance institutions, payment institutions and mobile money operators, aggregators"}
+  ],
+  "note": "Reports GIMACPAY volumes and a tariff workshop; payment institutions and mobile money operators take part in the switch, but no law or rule, licensing or connection requirement is stated."
+}

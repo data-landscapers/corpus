@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC", "tiers": "banks, microfinance, payment establishments and mobile money operators, aggregators"}
+  ],
+  "note": "States traffic and participants of the regional switch; no rule requiring providers to connect is stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Finance SAO reports that by a BCEAO communiqué of 25 June 2026 banks, e-money institutions and payment institutions in the UEMOA, Guinea-Bissau included (5 institutions authorised on PI-SPI at 31 July 2026), must connect to PI-SPI by 30 September 2026, and microfinance institutions by 30 June 2027.", "as_of": "2026-06-25", "date_precision": "day", "system": "BCEAO deadline to connect to PI-SPI", "class": "law"}
+  ],
+  "systems": [
+    {"system": "PI-SPI (Plateforme interopérable du Système de paiement instantané)", "country_label": "PI-SPI", "class": "other", "platform": "", "owner": "BCEAO", "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-29-gabon-communique-conseil-ministres-ordonnance-paiements-digitaux",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Council of Ministers adopted on 29 January 2026 a draft ordinance setting the rules for digital payments in Gabon, taken under decree 0388/PR/MENNTI of 16 November 2024, to fill the legal vacuum around digital payment operations.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "Projet d'ordonnance fixant les regles applicables aux paiements digitaux",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The communique says the draft ordinance is made in conformity with the CEMAC community provisions in force on digital payments; it names no regulation or year.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "CEMAC community provisions on payments",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

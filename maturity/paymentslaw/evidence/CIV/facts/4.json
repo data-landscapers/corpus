@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-06-uemoa-interoperabilite-paiements-obligatoire-fratmat",
+  "facts": [
+    {"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article states that the BCEAO published instruction n°001-01-2024 on payment services in the UEMOA in January 2024.","as_of":"2024-01","date_precision":"month","system":"BCEAO Instruction n°001-01-2024 on payment services","class":"law"},
+    {"sub_indicator":"law","aspect":"reach","value":"connect","fact":"The article states that, by a BCEAO communique of 2 April 2026, from 30 June 2026 all UEMOA financial institutions (banks, microfinance institutions, e-money institutions and payment institutions) must be connected to the PI-SPI instant payment platform; 80 institutions were already connected.","as_of":"2026-06-30","date_precision":"day","system":"BCEAO PI-SPI connection requirement","class":"law"}
+  ],
+  "systems": [
+    {"system":"PI-SPI","country_label":"Plateforme interopérable du système de paiement instantané","class":"other","platform":"","owner":"BCEAO","tiers":"banks, microfinance institutions, e-money institutions, payment institutions"}
+  ],
+  "note": ""
+}

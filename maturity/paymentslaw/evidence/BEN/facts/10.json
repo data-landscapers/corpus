@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-03-bceao-adhesion-pi-spi-30-juin",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "connect",
+      "fact": "The BCEAO announced that banks, e-money institutions, microfinance institutions and payment institutions of the UEMOA have until 30 June 2026 to complete connection to PI-SPI; the document gives no event date, so its published date is used.",
+      "as_of": "2026-04-03",
+      "date_precision": "day",
+      "system": "BCEAO PI-SPI connection deadline",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "PI-SPI",
+      "country_label": "PI-SPI",
+      "class": "other",
+      "platform": "",
+      "owner": "BCEAO",
+      "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"
+    }
+  ],
+  "note": ""
+}

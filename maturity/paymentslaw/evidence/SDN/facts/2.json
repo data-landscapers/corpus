@@ -1,0 +1,27 @@
+{
+ "slug": "2020-12-28-sudan-cbos-mobile-payment-institutions-regulation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Regulation on Licensing and Organising Mobile Payment Financial Institutions 2020, issued under article 60(1) of the Banking Business Organisation Act 2004 (amended 2014), took effect on signature; the CBOS board approved it on 28 December 2020.",
+   "as_of": "2020-12-28",
+   "date_precision": "day",
+   "system": "Mobile Payment Financial Institutions Regulation 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The 2020 regulation has the central bank licence companies, not banks, to run mobile payment and open e-money wallet accounts, with a rule that their names may not include 'bank'.",
+   "as_of": "2020-12-28",
+   "date_precision": "day",
+   "system": "Mobile Payment Financial Institutions Regulation 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The regulation states no connection or interoperability requirement."
+}

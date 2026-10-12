@@ -1,0 +1,27 @@
+{
+  "slug": "2023-06-27-dza-loi-23-09-monetaire-bancaire",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Loi n° 23-09 of 21 June 2023 on money and banking, published in Journal officiel n° 43 of 27 June 2023, defines payment instruments to include electronic money (art. 74), provides for payment service providers (PSP) to be licensed under a Monetary and Banking Council regulation (art. 76), and repeals ordonnance n° 03-11 (art. 166).",
+      "as_of": "2023-06-21",
+      "date_precision": "day",
+      "system": "Loi n° 23-09 portant loi monétaire et bancaire",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "Loi n° 23-09 of 21 June 2023 (art. 76) lets payment services be provided by duly licensed payment service providers (PSP), with licensing terms set by Council regulation; the law lists PSPs separately from banks and financial institutions (arts. 38, 102).",
+      "as_of": "2023-06-21",
+      "date_precision": "day",
+      "system": "Loi n° 23-09 portant loi monétaire et bancaire",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

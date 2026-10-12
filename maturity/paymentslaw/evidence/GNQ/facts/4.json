@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-01-leconomie-paiement-marchand-interoperable-cemac-premier-trimestre-2026",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC", "tiers": "banks, microfinance institutions, payment institutions, aggregators"}
+  ],
+  "note": "Reports Q1 2026 merchant traffic on GIMACPAY across CEMAC; names no payments law, e-money rule, non-bank licence or connection requirement."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-07-joradp-jo28-reglement-25-02-psp",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Algeria made Regulation no. 25-02 of 14 April 2025, published in Journal Officiel no. 28 of 7 May 2025, setting the conditions for authorisation, licensing and operation of payment service providers (PSPs), issued under monetary and banking law no. 23-09 of 21 June 2023.", "as_of": "2025-04-14", "date_precision": "day", "system": "Regulation no. 25-02 on payment service providers", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Regulation no. 25-02 (14 April 2025) lets a company formed under article 91 of law 23-09 be licensed as a PSP by the Governor of the Bank of Algeria after Monetary and Banking Council authorisation, with a minimum capital of DZD 160,000,000 (arts. 2, 10, 11, 14, 16), to run payment accounts, transfers, acquiring and money remittance.", "as_of": "2025-04-14", "date_precision": "day", "system": "Regulation no. 25-02 on payment service providers", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Article 19 of Regulation no. 25-02 (14 April 2025) requires a PSP's payment platform to be interoperable with every authorisation platform of the payment instruments the PSP accepts; article 6 defines interoperability as connecting the PSP platform to the issuers' authorisation platforms; it sets no deadline and names no national switch.", "as_of": "2025-04-14", "date_precision": "day", "system": "Regulation no. 25-02 on payment service providers", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

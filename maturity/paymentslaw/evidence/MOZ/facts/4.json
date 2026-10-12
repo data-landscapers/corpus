@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "At the start of 2026 Mozambique had three electronic money institutions authorised by the central bank, M-Pesa, e-Mola and M-Kesh, owned by the three mobile operators; the document names no law or rule they are licensed under.", "as_of": "2026-01", "date_precision": "month", "system": "Electronic money institution regime (Bank of Mozambique)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "The 2026-07-30 report says participation by digital wallet operators in the Metix instant payment system, which integrates banks, microbanks, e-money institutions and other payment service providers, is mandatory; the document does not name the rule or give its date (published date used).", "as_of": "2026-07-30", "date_precision": "day", "system": "Metix participation requirement", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Metix", "country_label": "Instant Payment System", "class": "other", "platform": "", "owner": "Sociedade Interbancaria de Mocambique (SIMO)", "tiers": "banks; microbanks; electronic money institutions; other payment service providers; wallet operators"},
+    {"system": "SIMOrede", "country_label": "SIMOrede", "class": "other", "platform": "", "owner": "SIMO", "tiers": "electronic money institutions; banks; microbanks; other payment service providers"}
+  ],
+  "note": ""
+}

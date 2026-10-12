@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-02-xwa-bceao-communique-pi-spi-e-money-transfers-tariffs",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The BCEAO communique of 2 October 2026, for the whole WAEMU, sets binding terms for person-to-person e-money transfers through PI-SPI, taking effect on 2 November 2026 (free sends up to FCFA 8,000 a day, 0-0.8% above, free receipt).", "as_of": "2026-10-02", "date_precision": "day", "system": "BCEAO e-money transfer rules (WAEMU)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "The BCEAO decided that from 2 November 2026 interoperable e-money transactions within WAEMU must be made through the PI-SPI platform, covering transfers between bank or microfinance accounts and accounts at e-money institutions or payment establishments.", "as_of": "2026-10-02", "date_precision": "day", "system": "BCEAO e-money transfer rules (WAEMU)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "PI-SPI", "country_label": "PI-SPI", "class": "other", "platform": "", "owner": "BCEAO", "tiers": "banks, microfinance institutions, e-money institutions, payment establishments"}
+  ],
+  "note": ""
+}

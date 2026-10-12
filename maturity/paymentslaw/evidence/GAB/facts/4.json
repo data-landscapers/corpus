@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC (Groupement interbancaire monétique de l'Afrique centrale)", "tiers": "BEAC, two Treasuries, 56 banks, 26 microfinance institutions, 16 payment institutions and mobile money operators, 52 aggregators"}
+  ],
+  "note": "Reports GIMACPAY volumes and participants; states no law, rule or connection requirement, and names no Gabon licence."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Aviso n.º 1/GBM/2026 of 25 February 2026 is issued by the Banco de Moçambique under Lei n.º 2/2008 of 27 February, the Lei do Sistema Nacional de Pagamentos, which the notice treats as the enabling payments law at that date.", "as_of": "2026-02-25", "date_precision": "day", "system": "Lei do Sistema Nacional de Pagamentos (Lei n.º 2/2008)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Article 8 of the Regulation annexed to Aviso n.º 1/GBM/2026 makes participation in the Mozambique Instant Payment System (SPIM) compulsory for electronic money institutions and for credit institutions with 5,000 active accounts or 10,000 transfers a year; Article 7 also requires participants to be connected to the national electronic payments network; in force 2 March 2026.", "as_of": "2026-03-02", "date_precision": "day", "system": "Aviso n.º 1/GBM/2026, Regulamento do SPIM", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema de Pagamentos Instantâneos de Moçambique (SPIM)", "country_label": "SPIM", "class": "other", "platform": "", "owner": "Sociedade Interbancária de Moçambique (SIMO), operator and manager", "tiers": "credit institutions, electronic money institutions, payment service companies, others authorised by the Banco de Moçambique"}
+  ],
+  "note": ""
+}

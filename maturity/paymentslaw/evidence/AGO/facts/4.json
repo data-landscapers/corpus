@@ -1,0 +1,9 @@
+{
+  "slug": "2022-02-02-aviso-2-22-bna-prestacao-de-servicos-de-pagamento",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Banco Nacional de Angola Aviso n.º 2/22 of 2 February 2022, made under article 6 of Lei n.º 40/20 of 16 December 2020 (Lei do Sistema de Pagamentos de Angola), sets the rules for access to payment service activity, including e-money issuance, and repeals Avisos n.º 5/14 and 7/17.", "as_of": "2022-02-02", "date_precision": "day", "system": "Lei do Sistema de Pagamentos de Angola (Lei n.º 40/20)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Aviso n.º 2/22 of 2 February 2022 lets non-bank financial institutions based in Angola provide payment services and defines a payment service company as a non-bank financial institution authorised by the Banco Nacional de Angola, with e-money issuance among the permitted services.", "as_of": "2022-02-02", "date_precision": "day", "system": "Lei do Sistema de Pagamentos de Angola (Lei n.º 40/20)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

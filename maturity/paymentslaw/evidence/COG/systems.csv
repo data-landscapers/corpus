@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"banks, microfinance institutions, payment institutions and mobile money operators, aggregators, BEAC, Treasuries",2026-07-30-cemac-gimacpay-transactions-2025
+COG,ARTF digital platform and electronic payment terminals (TPE),plateforme digitale de l'ARTF; terminaux de paiement électronique,,,ARTF (Agence de régulation des transferts de fonds),money-transfer and exchange operators,2026-10-08-cog-adiac-artf-terminaux-paiement-2027
+COG,ARTF digital platform,plateforme digitale de l'ARTF,,,ARTF (Agence de régulation des transferts de fonds),money-transfer operators,2026-10-07-cog-aci-artf-transferts-de-fonds-plateforme-numerique
+COG,FOUTA,plateforme électronique FOUTA,,,"Ministry of Finance, Budget and Public Portfolio",public administrations and taxpayers; paid through commercial banks,2026-06-11-cog-arrete-1009-plateforme-fouta-recettes-publiques

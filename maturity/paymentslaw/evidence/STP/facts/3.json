@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-05-sao-tome-lei-3-2025-lei-organica-do-bcstp",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Lei n.º 03/2025, the central bank's organic law (published 5 June 2025, which is the date used), makes the Banco Central responsible for regulating and overseeing payment systems and lets its board adopt binding regulations and decide licences for payment systems and financial institutions; it replaces Lei n.º 08/92 and refers detailed payment rules to special legislation.", "as_of": "2025-06-05", "date_precision": "day", "system": "Lei n.º 03/2025 Lei Orgânica do Banco Central de São Tomé e Príncipe", "class": "law"}
+  ],
+  "systems": [],
+  "note": "A central bank organic law: it gives the mandate to regulate and license payment systems but names no e-money or payment-provider rules and says nothing on non-bank licensing or mandatory connection."
+}

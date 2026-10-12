@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-10-morocco-communique-conjoint-interchange-cap",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Bank Al-Maghrib decision n° 265/W/2026 of 6 July 2026 cut the cap on domestic card interchange fees from 0.65% (set October 2024) to 0.50%, effective 1 October 2026, and BAM supervises payment establishments against its security, continuity and reliability requirements for payment services; the joint communiqué names no payments law and gives its own date 2026-07-10.", "as_of": "2026-07-10", "date_precision": "day", "system": "Bank Al-Maghrib payment services rules", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Bank Al-Maghrib and the Competition Council state that newly licensed payment establishments (établissements de paiement) and already licensed ones are deploying card-acquiring activity in Morocco, with BAM overseeing them; the communiqué is dated 2026-07-10 and gives no licensing dates.", "as_of": "2026-07-10", "date_precision": "day", "system": "Bank Al-Maghrib payment services rules", "class": "law"}
+  ],
+  "systems": [
+    {"system": "CMI (Centre Monétique Interbancaire)", "country_label": "CMI", "class": "", "platform": "", "owner": "banks (shareholders)", "tiers": "payment establishments and banks as acquirers, on equitable access to the technical processing platform"}
+  ],
+  "note": ""
+}

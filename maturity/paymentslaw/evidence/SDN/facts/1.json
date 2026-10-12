@@ -1,0 +1,54 @@
+{
+ "slug": "2026-03-31-cbos-ussd-financial-services-regulations",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CBOS Circular 7/2026 of 31 March 2026 sets binding minimum USSD rules and cites the Payment Systems Regulation 2013 and the 2020 mobile-payment financial institutions licensing regulation as its basis.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Payment Systems Regulation 2013; Mobile Payment Financial Institutions Regulation 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The circular lets mobile-payment financial institutions and electronic payment providers licensed by the central bank offer USSD financial services alongside banks, on production of their CBOS licence certificate.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Mobile Payment Financial Institutions Regulation 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The circular obliges all payment service providers to connect their USSD platforms to the central national switch, 'when available', for interoperability; no deadline is set.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "CBOS Circular 7/2026 (USSD)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "USSD mobile financial services",
+   "country_label": "خدمة الرموز التفاعلية USSD",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Sudan (regulator); banks, mobile-payment institutions and e-payment providers operate",
+   "tiers": ""
+  },
+  {
+   "system": "central national switch",
+   "country_label": "المحول القومي المركزي",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-02-dpa-digital-digest-ghana-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Digital Policy Alert states Ghana implemented the Payment Systems and Services Act in February 2020, setting licensing requirements for payment service providers and electronic money issuers (document published 2025-04-02).", "as_of": "2020-02", "date_precision": "month", "system": "Payment Systems and Services Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Digital Policy Alert states the Payment Systems and Services Act (February 2020) requires payment service providers and electronic money issuers to obtain a Bank of Ghana licence, assessed on financial stability, technology, anti-money-laundering compliance and consumer protection.", "as_of": "2020-02", "date_precision": "month", "system": "Payment Systems and Services Act", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

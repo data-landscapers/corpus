@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-02-cbl-circular-18-2025-data-protection-regime-banking-sector",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Central Bank of Libya circular 18 of 2025 is addressed to, and binds, electronic payment companies licensed by the Central Bank, and defines an electronic payment service provider as an entity licensed by the Central Bank to provide electronic payment services and e-wallets as accounts held at such companies.", "as_of": "2025-07-02", "date_precision": "day", "system": "CBL licensing of electronic payment companies", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

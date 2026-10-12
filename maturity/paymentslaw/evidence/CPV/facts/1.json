@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-bcv-sistema-de-pagamentos",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Banco de Cabo Verde page states that payment services and the issue, distribution and redemption of electronic money are regulated by Decreto-legislativo n.º 8/2018 of 28 November 2018.",
+     "as_of": "2018-11-28", "date_precision": "day",
+     "system": "Decreto-legislativo n.º 8/2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The page states that access to the activity of payment institutions and e-money institutions is regulated by Decreto-legislativo n.º 9/2018 of 28 November 2018, with parts set out in BCV Aviso n.º 6/2019 on authorisation, minimum capital, own funds and safeguarding of funds.",
+     "as_of": "2018-11-28", "date_precision": "day",
+     "system": "Decreto-legislativo n.º 9/2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "The page states that payment institutions and e-money institutions, financial institutions distinct from banks, are authorised by the Banco de Cabo Verde under Decreto-legislativo n.º 9/2018, and that Correios de Cabo Verde may also issue e-money; it names no licensee and gives the page date 2025-01-01 only as its published date.",
+     "as_of": "2018-11-28", "date_precision": "day",
+     "system": "Decreto-legislativo n.º 9/2018", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema de Gestão de Depósitos e Liquidação (SGDL)", "country_label": "SGDL", "class": "other", "platform": "", "owner": "Banco de Cabo Verde", "tiers": "interbank settlement"},
+    {"system": "Sistema Integrado de Compensação Interbancária e Liquidação (SICIL)", "country_label": "SICIL", "class": "other", "platform": "", "owner": "managed by Banco de Cabo Verde, operated by SISP", "tiers": "cheques, credit transfers, card payments clearing"},
+    {"system": "Sistema de Gestão de Mercados e Ativos (SIGMA)", "country_label": "SIGMA", "class": "other", "platform": "", "owner": "Banco de Cabo Verde", "tiers": ""}
+  ],
+  "note": ""
+}

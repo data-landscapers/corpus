@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-27-gha-real-time-vat-cross-border-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Sentinel (Real-Time VAT framework)", "country_label": "Sentinel / RTVAT", "class": "other", "platform": "Sentinel", "owner": "Ghana Revenue Authority", "tiers": "banks, payment service providers, electronic money issuers, third-party payment providers"}
+  ],
+  "note": "States a tax-collection integration duty for banks, PSPs and EMIs with the GRA's system under the VAT Act 2025; not a payments law or a rule that providers connect to each other."
+}

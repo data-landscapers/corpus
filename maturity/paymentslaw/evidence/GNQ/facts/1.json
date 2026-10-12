@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimacpay-transactions-2025",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC (Groupement interbancaire monétique de l'Afrique centrale)", "tiers": "banks, microfinance institutions, payment institutions and mobile money operators, aggregators, BEAC, public treasuries (CEMAC-wide)"}
+  ],
+  "note": "Reports GIMACPAY activity and a tariff workshop for the CEMAC region; names payment institutions as participants but cites no law or rule, and states nothing specific to Equatorial Guinea."
+}

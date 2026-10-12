@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,BurundiPay,BurundiPay,other,,Banque de la République du Burundi,commercial banks; microfinance institutions; payment institutions,2026-04-23-brb-lancement-burundipay
+BDI,Switch national de paiement,switch national de paiement,other,,,,2026-04-23-brb-lancement-burundipay
+BDI,ACH,système de compensation automatisée (ACH),other,,Banque de la République du Burundi,,2026-04-23-brb-lancement-burundipay
+BDI,RTGS,système de règlement brut en temps réel (RTGS),other,,Banque de la République du Burundi,,2026-04-23-brb-lancement-burundipay
+BDI,RTGS,Système de Règlement de Gros Montants en Temps Réel (RTGS),other,,Banque de la République du Burundi,,2025-11-20-brb-cadre-surveillance-paiement
+BDI,ACH,Système de compensation automatisée (ACH),other,,Banque de la République du Burundi,,2025-11-20-brb-cadre-surveillance-paiement
+BDI,CSD,Dépositaire central des titres (CSD),other,,Banque de la République du Burundi,,2025-11-20-brb-cadre-surveillance-paiement
+BDI,Switch national,Switch national,other,,,,2025-11-20-brb-cadre-surveillance-paiement
+BDI,Système de paiement instantané,Système de paiement instantané,other,,,,2025-11-20-brb-cadre-surveillance-paiement
+BDI,Plateformes de monnaie électronique,plateformes de monnaie électronique,other,,"payment institutions, commercial banks, microfinance institutions",payment institutions; commercial banks; microfinance institutions,2025-11-20-brb-cadre-surveillance-paiement

@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Rede Multicaixa,Rede Multicaixa,other,,,financial institutions supervised by the Banco Nacional de Angola,2025-08-13-bna-instrutivo-02-2025-limites-de-valor-sistema-de-pagamentos
+AGO,Sistema Multicaixa (MCX),Sistema Multicaixa (MCX),other,,,banks and authorised non-bank acquirers,2026-01-28-aviso-1-26-bna-adquirente-nao-bancario-e-subadquirente
+AGO,SPTR - Subsistema de Pagamentos em Tempo Real,SPTR,other,,Banco Nacional de Angola,interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,SIGMA - Subsistema de Gestao de Mercados e Activos,SIGMA,other,,Banco Nacional de Angola,interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,CCAA - Camara de Compensacao Automatizada de Angola,CCAA,other,,EMIS (Empresa Interbancaria de Servicos),interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,MCX - Subsistema Multicaixa,Multicaixa,other,,EMIS,card network participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,STC - Subsistema de Transferencias a Credito,STC,other,,EMIS,interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,SCC - Subsistema de Compensacao de Cheques,SCC,other,,EMIS,interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,SDD - Subsistema de Debitos Directos,SDD,other,,EMIS,interbank participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao
+AGO,SPMA - Subsistema Pagamentos Moveis de Angola,SPMA,other,,,participants,2017-09-12-bna-aviso-8-17-classificacao-dos-subsistemas-de-compensacao-e-liquidacao

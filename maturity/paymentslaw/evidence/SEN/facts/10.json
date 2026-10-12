@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-18-uemoa-pi-spi-104-etablissements-autorises",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "A BCEAO communiqué of 25 June 2026 set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions to connect to PI-SPI, and 30 June 2027 for microfinance institutions, across the eight UEMOA countries.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "PI-SPI connection deadline",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"
+  }
+ ],
+ "note": "Senegal's 24 PI-SPI participants at 31 July 2026 is a switch count, not a fact."
+}

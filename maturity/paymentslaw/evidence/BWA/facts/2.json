@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-17-bank-of-botswana-eps-amendment-regulations-2026-press-release",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Botswana states that the Electronic Payment Services (Amendment) Regulations, 2026 (Statutory Instrument No. 46 of 2026) came into effect on 2 April 2026 and payment service providers must comply with immediate effect.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services (Amendment) Regulations, 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "The Bank of Botswana states the 2026 amendment clarifies which entities may be licensed to offer electronic payment services, and tells the public to use licensed payment service providers; the release does not say the licensees are non-banks, so this rests on a licensing regime in force from 2 April 2026.", "as_of": "2026-04-02", "date_precision": "day", "system": "Electronic Payment Services (Amendment) Regulations, 2026", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-bcrg-cadre-reglementaire-systemes-paiement",
+  "facts": [],
+  "systems": [
+    {"system": "RTGS", "country_label": "Système de Règlement Brut en Temps Réel de Gros Montants et Paiements Urgents", "class": "other", "platform": "", "owner": "BCRG", "tiers": ""},
+    {"system": "ACH", "country_label": "Chambre de compensation automatisée", "class": "other", "platform": "", "owner": "BCRG", "tiers": ""}
+  ],
+  "note": "Index of BCRG instruments on the RTGS (Instruction 74 of 2017), the automated clearing house (Règlement 115) and cheque clearing; rules for payment systems, none on e-money or payment providers, and the page describes none of them."
+}

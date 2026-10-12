@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Benin Web TV (8 October 2026) reports that the BCEAO Instruction of 23 January 2024 on payment services, which defines payment service providers and distinguishes payment institutions from banks, microfinance institutions and e-money institutions, is the basis of the licence list at 31 August 2026 covering the Union, Mali included.",
+     "as_of": "2026-08-31", "date_precision": "day",
+     "system": "BCEAO Instruction of 23 January 2024 on payment services", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "Benin Web TV (8 October 2026) reports that Mali had two licensed payment institutions at 31 August 2026, per the BCEAO list, of 34 across the Union.",
+     "as_of": "2026-08-31", "date_precision": "day",
+     "system": "BCEAO Instruction of 23 January 2024 on payment services", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

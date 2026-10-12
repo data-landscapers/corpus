@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-23-sierra-leone-financial-inclusion-project-isr-national-payment-switch",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The World Bank report states the National Payments Systems Act, 2022 has been enacted and repealed the earlier Payment Systems Act, 2009.", "as_of": "2022", "date_precision": "year", "system": "National Payment Systems Act 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The World Bank report states the Bank of Sierra Leone's Guidelines for E-money are completed and gazetted, as are guidelines on money remittance business, e-KYC guidelines and directives for the switch; report dated 2023-06-23, which is used as the date as no other is given.", "as_of": "2023-06-23", "date_precision": "day", "system": "E-money Guidelines", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Payment Switch", "country_label": "National Payment Switch (NPS)", "class": "other", "platform": "", "owner": "Bank of Sierra Leone", "tiers": "commercial banks, mobile money operators, deposit-taking MFIs"}
+  ],
+  "note": ""
+}

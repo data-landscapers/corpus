@@ -1,0 +1,22 @@
+{
+  "slug": "2018-11-28-cabo-verde-decreto-legislativo-7-2018-sistema-pagamentos",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Decreto-legislativo n.º 7/2018 of 28 November 2018, promulgated 25 November 2018, sets the legal regime for the regulation, management and operation of the Cabo Verdean payment system, requires authorisation by the Banco de Cabo Verde to provide payment services or operate a system (art. 15), and enters into force thirty days after publication.",
+     "as_of": "2018-12", "date_precision": "month",
+     "system": "Sistema de Pagamentos Cabo-verdiano", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The same Boletim Oficial n.º 78 of 28 November 2018 publishes Decreto-legislativo n.º 8/2018, the regime for payment services and the issue, distribution and reimbursement of electronic money in Cabo Verde by legally authorised entities; its entry-into-force provision is not in the text held, so the date is the bulletin's publication date.",
+     "as_of": "2018-11-28", "date_precision": "day",
+     "system": "Regime jurídico dos serviços de pagamento e da moeda eletrónica", "class": "law"}
+  ,
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "The same bulletin's index lists Decreto-legislativo n.º 9/2018, the regime governing access to the activity of payment institutions and electronic money institutions, published 28 November 2018 (its text is not in the part held, so the date is the bulletin's publication date).",
+     "as_of": "2018-11-28", "date_precision": "day",
+     "system": "Regime de acesso à atividade das instituições de pagamento e de moeda eletrónica", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema de Pagamentos Cabo-verdiano", "country_label": "Sistema de Pagamentos Cabo-verdiano", "class": "law", "platform": "", "owner": "Banco de Cabo Verde (regulator and superintendent)", "tiers": "participants, payment service providers, system operators, financial institutions"}
+  ],
+  "note": ""
+}

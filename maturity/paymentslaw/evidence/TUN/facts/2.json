@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-16-la-presse-oft-tunisie-agrement-definitif-etablissement-paiement",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "La Presse reports that the BCT licensing commission granted OFT Tunisie, a subsidiary of Ooredoo FinTech International, definitive authorisation as a resident payment institution, published in JORT n°29 in the week before 16 March 2026 after approval in principle in December 2024, and that 16 payment service providers are licensed in Tunisia; the article names no law.",
+     "as_of": "2026-03", "date_precision": "month", "system": "Établissements de paiement (BCT licensing)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-09-ecomatin-cemac-mobile-money-44000-milliards-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "In Chad, Airtel Mobile Commerce was the only licensed payment establishment reporting to COBAC for 2025, with net banking income up 64.2% to FCFA 4.4 billion and 361 million operations (COBAC 2025 annual report, via Ecomatin, 9 October 2026; report date not stated).", "as_of": "2025", "date_precision": "year", "system": "CEMAC payment services regulation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Airtel Money", "country_label": "Airtel Mobile Commerce", "class": "other", "platform": "", "owner": "Airtel Mobile Commerce", "tiers": ""}
+  ],
+  "note": ""
+}

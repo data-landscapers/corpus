@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "CMI says its Fatourati platform is interconnected to 32 banks and payment institutions (établissements de paiement) as at February 2026; no law or rule is named.", "as_of": "2026-02-18", "date_precision": "day", "system": "Payment institutions (établissements de paiement)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Fatourati", "country_label": "Fatourati", "platform": "", "owner": "Centre Monétique Interbancaire (CMI)", "tiers": "32 banks and payment institutions; fintechs and invoicing-software publishers via Fatourati Agrégateur", "class": "other"}
+  ],
+  "note": ""
+}

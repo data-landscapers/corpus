@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-20-brb-cadre-surveillance-paiement",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The central bank's oversight framework (published 2025-11-20, date taken from the file name) cites Loi n°1/07 of 11 May 2018 on the national payment system as the current law, whose article 9 lets the bank issue regulations and instructions on payment systems, operators and issuers of payment instruments.", "as_of": "2018-05", "date_precision": "month", "system": "Loi n°1/07 du 11 mai 2018 portant système national de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The framework cites Règlement n°002/2024, revising Règlement n°001/2017 on payment services and payment institutions, which says no one may provide payment services without the central bank's licence; its date within 2024 is not given.", "as_of": "2024", "date_precision": "year", "system": "Règlement n°002/2024 relatif aux services de paiement et aux activités des établissements de paiement", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Under Règlement n°002/2024 the central bank licenses payment institutions (établissements de paiement), which the framework lists apart from commercial banks and microfinance institutions as operators of e-money platforms, and it requires every licensed payment service provider to be inspected on site at least every two years.", "as_of": "2024", "date_precision": "year", "system": "Règlement n°002/2024 relatif aux services de paiement et aux activités des établissements de paiement", "class": "law"}
+  ],
+  "systems": [
+    {"system": "RTGS", "country_label": "Système de Règlement de Gros Montants en Temps Réel (RTGS)", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": ""},
+    {"system": "ACH", "country_label": "Système de compensation automatisée (ACH)", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": ""},
+    {"system": "CSD", "country_label": "Dépositaire central des titres (CSD)", "class": "other", "platform": "", "owner": "Banque de la République du Burundi", "tiers": ""},
+    {"system": "Switch national", "country_label": "Switch national", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Système de paiement instantané", "country_label": "Système de paiement instantané", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plateformes de monnaie électronique", "country_label": "plateformes de monnaie électronique", "class": "other", "platform": "", "owner": "payment institutions, commercial banks, microfinance institutions", "tiers": "payment institutions; commercial banks; microfinance institutions"}
+  ],
+  "note": ""
+}

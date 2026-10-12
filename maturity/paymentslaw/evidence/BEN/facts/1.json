@@ -1,0 +1,27 @@
+{
+  "slug": "2026-10-08-ben-beninwebtv-quatre-etablissements-paiement-agrees",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The BCEAO's Instruction of 23 January 2024 on payment services distinguishes payment institutions from banks, microfinance institutions and e-money institutions, and the article reports licences issued under it in Benin.",
+      "as_of": "2024-01-23",
+      "date_precision": "day",
+      "system": "Instruction n°001-01-2024 on payment services in the UMOA",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "Four companies (Julaya Bénin, Open SI, FedaPay Bénin, QOS Integrated Center Bénin) held payment institution licences in Benin at 31 August 2026, per the BCEAO list; licences dated Sept 2025 to July 2026.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "Instruction n°001-01-2024 on payment services in the UMOA",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

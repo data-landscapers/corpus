@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-bceao-prolonge-delais-pi-spi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The BCEAO set 30 September 2026 as the latest date for banks, e-money institutions and payment institutions of the WAEMU to connect to the PI-SPI instant payment platform, and 30 June 2027 for microfinance institutions; the decision date is not given, so the article's published date is used.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "BCEAO PI-SPI connection deadline (WAEMU)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "banks, e-money institutions, payment institutions, microfinance institutions"
+  }
+ ],
+ "note": ""
+}

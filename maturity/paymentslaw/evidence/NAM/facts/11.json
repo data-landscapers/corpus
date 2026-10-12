@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-24-determination-standards-fees-charges-payment-services-psd-10",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Bank of Namibia issued Determination PSD-10 on fees and charges under section 45 of the Payment System Management Act, 2023 (Act No. 14 of 2023), effective on gazette publication on 24 December 2025 with a six-month grace period for existing providers, and it repeals the earlier PSD-5 and PSD-10 (2020) determinations.",
+     "as_of": "2025-12-24", "date_precision": "day", "system": "Payment System Management Act, 2023 (Act No. 14 of 2023)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank",
+     "fact": "PSD-10, made under the Payment System Management Act, 2023, states that it applies to all payment service providers, defined as banking institutions and non-bank financial institutions, and it binds e-money issuers and providers of e-money wallets and instant payments; new applicants and existing providers are assessed against it.",
+     "as_of": "2025-12-24", "date_precision": "day", "system": "Payment System Management Act, 2023 (Act No. 14 of 2023)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NamPay", "country_label": "NamPay", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact on connection: PSD-10 sets fee standards and states no rule that providers must connect to each other or to a switch."
+}

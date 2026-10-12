@@ -1,0 +1,16 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "draft",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-002;SSD-001",
+   "gaps": "No source held says a payments law or e-money rules are in force.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+  }
+ ]
+}

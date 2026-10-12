@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-01-cbe-governance-internal-control-fit-and-proper-payment-institutions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Central Bank of Egypt issued the Rules for Licensing and Registration of Payment System Operators and Payment Service Providers in June 2025, with transitional provisions requiring existing payment institutions to apply for a CBE licence within one year, ending June 2026 (month taken from the document's statement of 'June 2025'; the page itself is dated 2025-09-01).",
+     "as_of": "2025-06", "date_precision": "month",
+     "system": "Rules for Licensing and Registration of Payment System Operators and Payment Service Providers (2025)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Central Bank of Egypt issued Regulations on Governance and Internal Control and Fit and Proper Criteria for key officials, with which payment system operators and payment service providers are required to comply within one year of issuance, under Central Bank and Banking Sector Law No. 194 of 2020.",
+     "as_of": "2025-09-01", "date_precision": "day",
+     "system": "CBE Governance, Internal Control and Fit and Proper Regulations for payment institutions (2025)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

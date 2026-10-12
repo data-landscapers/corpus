@@ -1,0 +1,11 @@
+{
+  "slug": "2018-09-07-sao-tome-lei-17-2018-sistema-nacional-de-pagamentos",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Lei n.º 17/2018, published in the Diário da República on 7 September 2018, sets the legal regime for regulating, overseeing and managing the National Payment System, covering payment services including electronic money issuance, and applies to any payment service or system operating wholly or partly in the country.", "as_of": "2018-09-07", "date_precision": "day", "system": "Sistema Nacional de Pagamentos", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Lei n.º 17/2018 (2018) lets the central bank BCSTP authorise and licence payment service providers, defined as any entity providing payment services including e-money issuance, separately from banks, which need no new authorisation for payment services but do need one to operate systems.", "as_of": "2018-09-07", "date_precision": "day", "system": "Sistema Nacional de Pagamentos", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema Nacional de Pagamentos", "country_label": "Sistema Nacional de Pagamentos", "class": "law", "platform": "", "owner": "Banco Central de São Tomé e Príncipe", "tiers": ""}
+  ],
+  "note": "Capture truncated at 50000 characters, so later articles are not read; no provision seen requiring providers to connect to a system, so no connect fact."
+}

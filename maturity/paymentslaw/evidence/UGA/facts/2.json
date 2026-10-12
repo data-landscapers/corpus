@@ -1,0 +1,27 @@
+{
+  "slug": "2026-09-15-uga-kikubolane-central-bank-probe-mobile-money-strangers-loans",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "date_precision": "day",
+      "system": "National Payment Systems Act, 2020",
+      "class": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Bank of Uganda officials told Parliament's COSASE on 2026-09-14 that the bank's oversight of wallet providers, payment firms and deposit-taking institutions rests on the National Payment Systems Act, 2020.",
+      "as_of": "2026-09-14"
+    },
+    {
+      "sub_indicator": "law",
+      "date_precision": "day",
+      "system": "National Payment Systems Act, 2020",
+      "class": "law",
+      "aspect": "reach",
+      "value": "non-bank",
+      "fact": "Bank of Uganda's payment systems director said on 2026-09-14 that the wallet providers it supervises and that it licenses are MTN and Airtel, non-bank mobile money operators, under the National Payment Systems Act, 2020.",
+      "as_of": "2026-09-14"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

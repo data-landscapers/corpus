@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-guinea-nimbapay-instant-payment-system-launch",
+  "facts": [],
+  "systems": [
+    {"system": "NimbaPay", "country_label": "NimbaPay", "class": "other", "platform": "Mojaloop (open source)", "owner": "Central Bank of the Republic of Guinea (BCRG); implemented by Guineenne de Monetique (GuiM)", "tiers": "banks, electronic money institutions, microfinance institutions"}
+  ],
+  "note": "Launch story for the NimbaPay instant payment system; it cites no payments law or e-money rules, no licensing basis for e-money institutions and no rule requiring providers to connect (joining is by invitation)."
+}

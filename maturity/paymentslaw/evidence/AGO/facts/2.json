@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-28-aviso-1-26-bna-adquirente-nao-bancario-e-subadquirente",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Banco Nacional de Angola Aviso n.º 1/26 of 28 January 2026, made under article 6 of Lei n.º 40/20 of 16 December 2020 (Lei do Sistema de Pagamentos de Angola), enters into force on publication and repeals Aviso n.º 15/22 on non-bank acquirers and sub-acquirers.", "as_of": "2026-01-28", "date_precision": "day", "system": "Lei do Sistema de Pagamentos de Angola (Lei n.º 40/20)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "non-bank", "fact": "Aviso n.º 1/26 of 28 January 2026 provides that only payment service companies authorised by the Banco Nacional de Angola under Lei n.º 40/20 may act as non-bank acquirers of payment terminals (TPA) and ATMs.", "as_of": "2026-01-28", "date_precision": "day", "system": "Lei do Sistema de Pagamentos de Angola (Lei n.º 40/20)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Aviso n.º 1/26 of 28 January 2026, in force from publication, requires every non-bank acquirer to participate in the Multicaixa payment arrangement and be certified by the entity responsible for it, and bars a bank from refusing to represent a non-bank acquirer in interbank settlement.", "as_of": "2026-01-28", "date_precision": "day", "system": "Arranjo de Pagamentos Multicaixa", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema Multicaixa (MCX)", "country_label": "Sistema Multicaixa (MCX)", "class": "other", "platform": "", "owner": "", "tiers": "banks and authorised non-bank acquirers"}
+  ],
+  "note": ""
+}
