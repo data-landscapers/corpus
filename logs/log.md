@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 17:01 · **MATURITY-STUDY** · unclocked · digitalidlaw, step 1: four questions prepared for `gov.legislate--legislation-covering-digital-id`; 82 unread stories about a national identity law across 28 countries, 128 cited by the current cells, ceiling 40M. Nothing run; waits for Bill.
 2026-10-12 15:56 · **RENDER** · 23m · 251 documents, home, countries, catalogue, finance, datasets rendered; 88 editions pruned, 2,668 objects to R2; deployed — ok
 2026-10-12 15:33 · **BUILD** · 35m · catalogue 27,960, finance 62 places, scan 33 units, 31 ledger rows minted, 12 moved, 1 settled; 7 status sub-sections revised in 3 units; data centres 0 rows; maturity held; bulletin 33; budgets: poll run, 1 staged, none waiting — ok
 2026-10-12 14:58 · **ANALYTICS** · unclocked · 2026-10-10..2026-10-11 written; 11 Oct: dl.io 19 views / 0 clicks, corpus 45 views / 1 clicks
