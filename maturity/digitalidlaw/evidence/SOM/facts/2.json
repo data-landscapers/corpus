@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-08-somalia-nira-implementing-regulation-158",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Prime Minister signed Implementing Regulation (Xeer Ra'iisal Wasaare Lr. 158) on 8 June 2024, after Council of Ministers decision SHGW.19.76.06.24 of 6 June 2024, taking effect on signature and made under the Public Identification and Registration Law, Law No. 009 of 20 March 2023, which shows that law is in force.", "as_of": "2024-06-08", "date_precision": "day", "system": "Public Identification and Registration Law, Law No. 009 of 2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The regulation defines the Digital National Identification System as the system established by the Public Identification and Registration Law and provides for biometric data (10 fingerprints, face or iris), an 11-digit identity number unique to each person for life, and electronic verification of the card by relying parties.", "as_of": "2024-06-08", "date_precision": "day", "system": "Public Identification and Registration Law, Law No. 009 of 2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "Implementing Regulation Lr. 158 of 8 June 2024, made under Law No. 009 of 2023, applies the law and sets rules for relying parties (banks, phone companies and public bodies) on certification, consent, and acceptance of other proof of identity while the system is not fully rolled out.", "as_of": "2024-06-08", "date_precision": "day", "system": "Public Identification and Registration Law, Law No. 009 of 2023", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Digital National Identification System (DNIS)", "country_label": "Nidaamka Aqoonsiga Qaran ee Casriga ah", "class": "other", "platform": "open-source code run by the Authority (Article 6)", "owner": "Hay'adda Aqoonsiga iyo Diiwaan-gelinta Qaranka (National Identification and Registration Authority), under the Ministry of Interior, Federal Affairs and Reconciliation", "tiers": "federal; registration centres, mobile centres, online, embassies and consulates; relying parties"}
+  ],
+  "note": ""
+}

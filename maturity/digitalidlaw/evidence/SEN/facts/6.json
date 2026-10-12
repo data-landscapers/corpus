@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national de l'Etat civil (RNEC)", "country_label": "RNEC", "class": "other", "platform": "LGEC civil-status management application", "owner": "ANEC (Agence nationale de l'Etat civil)", "tiers": "civil-status centres and consular posts; users include DAF (identity), health, justice, passport, payroll bodies"},
+    {"system": "DAF (Identité) biometric identity system", "country_label": "DAF (CNI)", "class": "other", "platform": "", "owner": "DAF", "tiers": "linked to the RNEC for authentication and biometric identity"}
+  ],
+  "note": "Only a civil-status computerisation bill (projet de loi sur l'informatisation de la gestion de l'état civil, awaiting cabinet validation and Assembly adoption) is named; it sets up no identity number, register of persons or card, so no law fact."
+}

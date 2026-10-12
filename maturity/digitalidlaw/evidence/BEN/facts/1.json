@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-23-article-6-loi-identification-retouche",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "La Nation reports that the National Assembly adopted law no. 2025-12 amending article 6 of law no. 2017-08 of 19 June 2017 on the identification of natural persons (the law behind the national register and the NPI); the 2017 law is treated as the law in force, an ordinary law, and the amending law's promulgation is not stated.", "as_of": "2017-06-19", "date_precision": "day", "system": "Loi n° 2017-08 du 19 juin 2017 portant identification des personnes physiques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Article 6 as amended by law no. 2025-12 under law no. 2017-08 provides for a national biometric population register and a personal identification number (NPI) for each person entered, including special numbers for foreigners and for Afro-descendant naturalised persons.", "as_of": "2025-06-20", "date_precision": "day", "system": "Loi n° 2017-08 du 19 juin 2017 portant identification des personnes physiques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Registre national biométrique de la population (RNPP)", "country_label": "registre national biométrique de la population", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""}
+  ],
+  "note": ""
+}

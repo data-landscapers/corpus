@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-21-nigeria-nimc-new-duties-digital-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Biometric Update reports the NIMC Act, 2026, was signed into law in June 2026 and that NIMC is operationalizing it, taking over national PKI from NITDA as the Act mandates.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "NIMC Act 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) system",
+   "country_label": "NIN",
+   "class": "",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  },
+  {
+   "system": "National Public Key Infrastructure (Root Certification Authority)",
+   "country_label": "National PKI",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

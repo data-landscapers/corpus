@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-digitalidlaw.md — the twentieth maturity study: the national identity law, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; nothing run; waits for Bill's word on the four questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: digitalidlaw
@@ -49,7 +49,7 @@ Asked in order. Each is answered with a date and a link.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years.**
 - **An old law still in force is a yes to question 2 and no more**, until a source says it, or an amendment to it, provides for the digital identity. A bill to replace it is named in the summary and does not lower the stage.
-- **Whether a law covers digital identity is taken from what a source says of it**, never from reading its text for the purpose.
+- **Whether a law covers digital identity is taken from what a source says of it, or from what its own text plainly provides**: a unique number, a biometric register, a chip or an electronic check. Reworded in the run; it first read *never from reading its text*, and the short texts of laws are among the documents held.
 - **A law passed but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
 - **A court ruling that suspends or strikes down the law reverses the yes** from its date.
 - **Cards issued and people enrolled are not rules made under the law**: the digital identity rows read those. Nor is a change to fees.
@@ -75,15 +75,27 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 
 ## 6. Token ceiling
 
-**40 million.** The run checks after every fan-out and again after the writing step, and stops and reports if it reaches it. The reading is the size of the cybercrime law study's. The registry study holds identity facts but none that answers these questions, so nothing is carried. The parent writes the summaries.
+**40 million.** The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**, in the order of §5.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact that would set stage 4 or 5; two drafters compared on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 82 `about` stories and the 128 news stories the current cells cite, 210 documents in 83 calls; then, for the 18 countries with no answer to question 1, one call of the newest held news and the texts their current cells cite, 23 calls. 183 facts held after the parent's corrections.
+- [x] **D3. Staged**: five at stage 5, 22 at 4, eight at 3, eight at 2, none at 1, and 11 with no evidence, as at 2026-09-30; one fact removed, five added and one redated by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **A regulation that itself requires a biometric or electronic check answers question 3 as well as question 4** (Ghana, Mauritius).
+- **A law a source names as instituting a biometric identity card is a yes to question 3** (Comoros, Senegal, Tunisia).
+- **A register of fingerprints taken on paper under a 1986 Act is not** (Botswana); nor are fingerprints taken under 2019 regulations (Zambia).
+- **A law passed by parliament with no promulgation on record is still a bill** (Burkina Faso, Madagascar).
+- **A regulation setting how long a card is valid is a rule made under the law** (Uganda); one changing fees is not (Malawi, Zimbabwe).
+- **Algeria's law of February 2026 is taken from the held record of its gazetted text.**
+- **A civil registration law or draft that sets up a unique number or a population register counts** (Cameroon, Mauritania, Sudan, South Sudan, Niger).
+- **South Sudan is at stage 5 on a law and 2024 regulations the World Bank calls under-implemented.**
+- **Eleven countries hold no fact on an identity law**, Kenya, Egypt and Gabon among them.
 
 ## Boundary
 

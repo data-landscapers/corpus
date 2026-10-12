@@ -1,0 +1,11 @@
+# Djibouti
+
+## National identity law
+
+**Law in force.** Djibouti's law no. 39/AN/19 on the identification of natural persons was [published on 21 January 2019](<https://www.journalofficiel.dj/texte-juridique/loi-n39-an-19-8eme-l-portant-identification-des-personnes-physiques-en-republique-de-djibouti-creation-du-numero-national-didentification-et-etablissement-dun-registre-national/>). It creates the national identification number and the national register of natural persons, which the population directorate runs. A decree of 13 July 2020 [was made under its article 9](<https://www.journalofficiel.dj/texte-juridique/decret-n2020-150-pr-mi-portant-composition-caracteristique-et-champ-dapplication-lies-au-numero-national-didentification-nni/>).
+
+**Digital identity covered and rules made.** The law [creates a unique national identification number and a central register of biographic and biometric data](<https://www.journalofficiel.dj/texte-juridique/loi-n39-an-19-8eme-l-portant-identification-des-personnes-physiques-en-republique-de-djibouti-creation-du-numero-national-didentification-et-etablissement-dun-registre-national/>), the single reference for the identity card and travel documents. Decree no. 2020-150 [sets the number's composition and requires administrations, hospitals, schools, utilities and traders to carry it on their documents](<https://www.journalofficiel.dj/texte-juridique/decret-n2020-150-pr-mi-portant-composition-caracteristique-et-champ-dapplication-lies-au-numero-national-didentification-nni/>). A second 2020 decree [governs access to the register](<https://www.journalofficiel.dj/texte-juridique/loi-n164-an-22-8eme-l-portant-missions-organisation-et-fonctionnement-du-ministere-delegue-charge-de-leconomie-numerique-et-de-linnovation/>). Those rules all date from before September 2023, and none made under the law since then is on record.
+
+***Noted, not assessed***. [Carte nationale d'identité biométrique](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
+
+***Not held***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-24-nimc-act-2026-id4d-acoe-roundtable",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The ID4D project office states that President Tinubu assented to the new NIMC Act on 26 June 2026, repealing the 2007 legislation.", "as_of": "2026-06-26", "date_precision": "day", "system": "National Identity Management Commission Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission Act 2026", "country_label": "NIMC Act 2026", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": ""},
+    {"system": "Nigeria Digital Identification for Development Project", "country_label": "Nigeria Digital ID4D Project", "class": "other", "platform": "", "owner": "Project Implementation Unit, World Bank supported", "tiers": ""}
+  ],
+  "note": ""
+}

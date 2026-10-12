@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law.", "as_of": "2026-03-02", "date_precision": "day", "system": "National Registration (Amendment) Act, 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic Identification System / Digital ID project", "country_label": "Digital ID", "class": "", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "national"},
+    {"system": "Biometric Omang system", "country_label": "Biometric Omang", "class": "", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "national"},
+    {"system": "Omang (National Identity Card)", "country_label": "Omang", "class": "", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "national"}
+  ],
+  "note": ""
+}

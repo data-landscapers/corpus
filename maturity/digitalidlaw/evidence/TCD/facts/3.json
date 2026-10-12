@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population and Secure Documents Management System (SIGPTS)", "country_label": "SIGPTS", "class": "other", "platform": "Idemia", "owner": "ANATS", "tiers": "national"},
+    {"system": "National Biometric Population Register", "country_label": "National Biometric Population Register", "class": "other", "platform": "Idemia", "owner": "ANATS", "tiers": "national"}
+  ],
+  "note": "Refugee ID pilot on SIGPTS; mentions only 'Chadian law' without naming any identity law, bill or decree."
+}

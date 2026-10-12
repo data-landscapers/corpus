@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9",
+  "facts": [],
+  "systems": [
+    {"system": "SNIAC CNI middleware and SDK", "country_label": "Software/Middleware", "class": "other", "platform": "Windows, Linux, macOS middleware with SDK", "owner": "SNIAC", "tiers": "public and private services"}
+  ],
+  "note": "Software release page for the card middleware; names no law or rule."
+}

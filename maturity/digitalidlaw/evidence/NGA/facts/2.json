@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-02-nimc-act-2026-experts-transparency-data-protection",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document states that President Tinubu signed the NIMC Act 2026 into law in June 2026, and that a civil-society speaker said on 29 July 2026 that the gazetted text was not yet public; the month is given, not the day.", "as_of": "2026-06", "date_precision": "month", "system": "National Identity Management Commission Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission Act 2026", "country_label": "NIMC Act 2026", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": ""},
+    {"system": "National Identity Number", "country_label": "NIN", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": ""}
+  ],
+  "note": ""
+}

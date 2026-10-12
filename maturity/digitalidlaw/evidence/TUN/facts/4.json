@@ -1,0 +1,10 @@
+{
+  "slug": "2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Access Now reports that the Ministry of Interior's fourth draft biometric ID law was approved by a ministerial council on 30 November 2023, sent to Parliament's Committee on Rights and Freedoms on 25 December 2023, and adopted by an overwhelming majority on 6 March 2024; the document does not mention promulgation.", "as_of": "2024-03-06", "date_precision": "day", "system": "Biometric ID law (Ministry of Interior draft law)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Biometric national identity card", "country_label": "Biometric ID", "class": "other", "platform": "", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": ""
+}

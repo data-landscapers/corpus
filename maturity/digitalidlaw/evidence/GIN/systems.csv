@@ -1,0 +1,19 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,Registre national des personnes physiques (RNPP),Registre national des personnes physiques,other,,"ONECI and DGE jointly, under MATD supervision",national,2026-09-18-gin-guinee114-atelier-extension-rnpp
+GIN,Identity verification and validation platform,plateforme de vérification et de validation de l'identité,other,local subcontractor Nexyme,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
+GIN,Numéro personnel d'identification (NPI),Numéro Personnel d'Identification (NPI) unique,other,,MATD,national,2026-08-11-guinee-decentralisation-etat-civil-npi
+GIN,Registre national des personnes physiques (RNPP),Registre National des Personnes Physiques,other,,MATD,national; source of the biometric electoral file,2026-08-11-guinee-decentralisation-etat-civil-npi
+GIN,Registre national de l'état civil,Registre National de l'État Civil,other,,MATD,,2026-08-11-guinee-decentralisation-etat-civil-npi
+GIN,Civil registry digitisation platform,plateforme de numérisation de l'état civil,other,,MATD,,2026-08-11-guinee-decentralisation-etat-civil-npi
+GIN,Registre national des personnes physiques (RNPP),Registre national des personnes physiques,other,,ONECI,national; deployment still facing logistical and human challenges,2026-02-26-oneci-vulgarise-nouvelles-lois-etat-civil-identification
+GIN,Registre national de l'état civil,Registre National de l'état civil,other,,PN-RAVEC (programme),national; to assign and keep the NPI,2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification
+GIN,Numéro personnel d'identification (NPI),numéro personnel d'identification,other,,,,2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification
+GIN,Registre national des personnes physiques (RNPP),Registre National des personnes physiques,other,,,national; to be interoperable with connected systems,2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification
+GIN,Numéro personnel d'identification (NPI),Numéro Personnel d'Identification (NPI) unique,other,,MATD,national,2026-08-11-guinea-etat-civil-decentralisation-npi
+GIN,Registre national des personnes physiques (RNPP),Registre National des Personnes Physiques,other,,MATD,national; source of the biometric electoral file,2026-08-11-guinea-etat-civil-decentralisation-npi
+GIN,Registre national de l'état civil,Registre National de l'État Civil,other,,MATD,,2026-08-11-guinea-etat-civil-decentralisation-npi
+GIN,Civil registry digitisation platform,plateforme de numérisation de l'état civil,other,,MATD,,2026-08-11-guinea-etat-civil-decentralisation-npi
+GIN,Registre national des personnes physiques (RNPP),Registre national des personnes physiques,other,,ONECI,,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil
+GIN,Diama Djigui,Diama Djigui,other,"national interoperability and identity-verification platform for the RNPP (MoU with NG Tech Innovation, signed 2026-07-24)",ONECI,health and education data verification mentioned,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil
+GIN,Registre national des personnes physiques (RNPP),registre national des personnes physiques,other,,ONECI (Office national de l'état civil et de l'identification),"DGE (electoral directorate), as sole source of voter identification data under a convention signed 2026-01-22",2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
+GIN,FUGAS,unified administrative and payroll management system,other,,Ministry of Labour,central government public workforce,2025-11-30 Guinea Claims $26.9M Saved Since 2024 with Biometric Audit of Public Workforce (FUGAS)

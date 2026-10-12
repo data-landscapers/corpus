@@ -1,0 +1,26 @@
+{
+  "slug": "2021-10-05-nia-about-us-mandate-act-707",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The NIA says it is a statutory body established by the National Identification Authority Act, 2006 (Act 707), to create, maintain and provide national identity cards (Ghana Cards); no date given for the statement, so the published date 2021-10-05 is used.",
+      "as_of": "2021-10-05",
+      "date_precision": "day",
+      "system": "National Identification Authority Act, 2006 (Act 707)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification System (Ghana Card)",
+      "country_label": "National Identification System / Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "The biometric register and unique number are described as features of the system, not stated of the law, so no cover fact."
+}

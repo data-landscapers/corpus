@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-19-mauritius-national-identity-card-unit",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Mauritius National Identity Card Unit's page lists the National Identity Card Act, No. 60 of 1985 (an Act of Parliament) as the law behind the identity card system, with the new MNIC 3.0 card operational since 19 February 2024; the page is dated 2024-02-19 and gives no other date for the state of the law.", "as_of": "2024-02-19", "date_precision": "day", "system": "National Identity Card Act, No. 60 of 1985", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Mauritius National Identity Card (MNIC 3.0) / Mauritius National Identity Scheme", "country_label": "Mauritius National Identity Card", "class": "other", "platform": "smart card with chip, 1D and 2D barcode", "owner": "Mauritius National Identity Card Unit", "tiers": "citizens; agencies such as the Passport and Immigration Office, banks and Mauritius Post read card data"},
+    {"system": "MauPass", "country_label": "MauPass", "class": "other", "platform": "National Authentication Framework", "owner": "Government of Mauritius", "tiers": "citizens accessing government services online"},
+    {"system": "MauSign", "country_label": "MauSign", "class": "other", "platform": "Certification Authority under the National Public Key Infrastructure", "owner": "", "tiers": "citizens and organisations"},
+    {"system": "Mobile ID", "country_label": "Mobile ID digital wallet", "class": "other", "platform": "mobile digital wallet", "owner": "Mauritius National Identity Card Unit", "tiers": "citizens"}
+  ],
+  "note": ""
+}

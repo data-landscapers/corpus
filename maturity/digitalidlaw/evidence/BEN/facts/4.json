@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-16-adjinacou-maternite-identite-legale",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""},
+    {"system": "Guichet unique d'enregistrement des naissances", "country_label": "guichet unique", "class": "", "platform": "", "owner": "ANIP with Ministry of Health", "tiers": "health facilities"}
+  ],
+  "note": "Interview on the birth-registration pilot; names no identity law, decree or bill."
+}

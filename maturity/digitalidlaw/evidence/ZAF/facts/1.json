@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-23-identification-regulations-fourteenth-amendment-gazette-52893",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister of Home Affairs made the Fourteenth Amendment of the Regulations under section 22 of the Identification Act, 1997 (Act No. 68 of 1997), an Act of Parliament, on 23 June 2025, in operation from 1 July 2025, so the Act is in force.", "as_of": "2025-06-23", "date_precision": "day", "system": "Identification Act, 1997 (Act No. 68 of 1997)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Population register", "country_label": "population register", "class": "other", "platform": "", "owner": "Department of Home Affairs", "tiers": "third parties, state departments, municipalities, statutory bodies"}
+  ],
+  "note": "No cover fact: the amendment only sets fees for third-party verification against the register, and a fee change is neither applied nor digital."
+}

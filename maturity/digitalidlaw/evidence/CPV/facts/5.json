@@ -1,0 +1,9 @@
+{
+  "slug": "2021-07-29-cabo-verde-sniac-titulo-de-residencia-para-estrangeiros",
+  "facts": [],
+  "systems": [
+    {"system": "Título de Residência para Estrangeiros (TRE)", "country_label": "TRE", "class": "other", "platform": "chip smart card using the CNI software", "owner": "Direção de Estrangeiros e Fronteiras / SNIAC", "tiers": "national"},
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "other", "platform": "", "owner": "Government of Cabo Verde", "tiers": "national"}
+  ],
+  "note": "TRE is a foreigners' residence card under Decreto-Lei n.º 20/2014, not the national identity card law; no fact."
+}

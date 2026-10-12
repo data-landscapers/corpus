@@ -1,0 +1,12 @@
+{
+  "slug": "2022-09-09-togo-decret-2022-094-niu-modalites-inscription",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree 2022-094/PR of 9 September 2022 cites in its visas Loi n° 2020-009 of 10 September 2020 on biometric identification of natural persons in Togo, as amended by Loi n° 2022-010 of 24 June 2022, as the law it is made under; the law is a promulgated act.", "as_of": "2022-09-09", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo, modifiée par la loi n° 2022-010 du 24 juin 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "Decree 2022-094/PR of 9 September 2022, issued on a joint report of the digital economy and security ministers, sets the rules for registration, rectification and updating of demographic and biometric data and the conditions of use of the unique identification number (NIU), with the 2020 identification law as amended in 2022 among its visas.", "as_of": "2022-09-09", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo, modifiée par la loi n° 2022-010 du 24 juin 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The decree's title and its visas describe the 2020 law as one on biometric identification of natural persons, with registration of demographic and biometric data and a unique identification number (NIU).", "as_of": "2022-09-09", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo, modifiée par la loi n° 2022-010 du 24 juin 2022", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Numéro d'identification unique (NIU)", "country_label": "NIU", "class": "other", "platform": "", "owner": "ANID", "tiers": ""}
+  ],
+  "note": "Only page 1 of the 15-page scanned decree is transcribed; the operative articles are not in the document as held."
+}

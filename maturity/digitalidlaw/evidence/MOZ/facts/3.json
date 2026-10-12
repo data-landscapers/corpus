@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National mobile digital ID and e-signature infrastructure (EDGE)",
+      "country_label": "mobile digital ID",
+      "class": "other",
+      "platform": "smartphone app, Java Card SIM, eSIM",
+      "owner": "ATDI",
+      "tiers": "three-tier"
+    }
+  ],
+  "note": "Tender for a mobile ID project; no identity law, bill or rule stated."
+}

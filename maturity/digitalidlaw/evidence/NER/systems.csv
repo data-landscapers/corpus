@@ -1,0 +1,29 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Registre National de la Population (RNP),RNP,,,DGATDD / ANEI,"national; first phase in Niamey, then other regions",2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,,,ANEI,national; deconcentrated actors to run registration operations,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Carte Nationale d'Identité Biométrique,CNIB,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Agence Nationale de l'Enregistrement et d'Identification des personnes physiques,ANEI,,,Ministry of the Interior,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,WURI-Niger (OURI in this text),projet OURI,,,,,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,,,ANEI,national; to be interoperable with functional registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),RNEC,,,"Direction Générale de l'état civil, des migrations et des réfugiés",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques,ANEI,,,Government of Niger,public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,WURI-Niger,WURI-Niger,,,World Bank-financed,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
+NER,Carte Nationale d'Identité Biométrique (CNIB),Carte Nationale d'Identité Biométrique,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
+NER,WURI,projet WURI,other,,,,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
+NER,Agence Nationale d'Identification des Personnes (ANIEP),Agence Nationale d'Identification des Personnes,other,,,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
+NER,Agence Nationale de l'Enregistrement et de l'Identification des Personnes Physiques (ANEI),ANEI,other,,Ministry of the Interior,national,2026-04-22-gouv-conseil-ministres-etat-civil-anei
+NER,Registre National de la Population (RNP),registre national de population,other,,,national,2026-04-22-gouv-conseil-ministres-etat-civil-anei
+NER,Registre National de l'Etat Civil informatisé (RNEC),registre national de l'état civil informatisé,other,,,operational in 102 communes,2026-04-22-gouv-conseil-ministres-etat-civil-anei
+NER,Système de l'état civil (Loi n° 2019-29),système de l'état civil,other,,,national,2019-07-01-niger-loi-2019-29-regime-etat-civil
+NER,Carte nationale d'identité biométrique AES (CNIB AES),CNIB AES,other,,Police nationale,regional enrolment in Agadez; central production in Niamey,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,ANEI,national; planned,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Agence Nationale de l'Enregistrement et de l'Identification des Personnes Physiques (ANEI),ANEI,other,,,national,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,WURI-Niger,Projet d'Identification Unique pour l'Intégration Régionale et l'Inclusion en Afrique de l'Ouest,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,ANEI,"national; announced as forthcoming, to give each citizen a unique identifier",2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,Agence Nationale de l'Enregistrement et de l'Identification des Personnes Physiques (ANEI),ANEI,other,,,national,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,WURI-Niger,Programme WURI,other,,,,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,Carte nationale d'identité biométrique AES (CNIB AES),CNIB,other,,,national,2026-07-16-aes-biometric-passport-tiani-first-enrollee-actuniger
+NER,Carte nationale d'identité biométrique AES (CNIB AES),carte nationale d'identité biométrique AES,other,,Ministère de l'Intérieur / Police nationale,"Niamey, extension planned nationally",2026-05-07-cnib-aes-mass-enrolment-launch-lesahel

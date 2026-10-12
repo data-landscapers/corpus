@@ -1,0 +1,11 @@
+{
+  "slug": "2023-04-18-ethiopia-digital-identification-proclamation-1284-2023-full-text",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the full text of the Ethiopian Digital Identification Proclamation No. 1284/2023, a proclamation signed by the President on 18 April 2023 and in force from its publication in the Federal Negarit Gazette (Article 26).", "as_of": "2023-04-18", "date_precision": "day", "system": "Ethiopian Digital Identification Proclamation No. 1284/2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Proclamation No. 1284/2023 sets up a Digital Identification System that collects demographic and biometric data in a central database (Article 2), issues each registrant a unique, permanent, non-repeating Unique Number (Article 11), and provides for authentication online or offline against that database (Articles 2 and 16).", "as_of": "2023-04-18", "date_precision": "day", "system": "Ethiopian Digital Identification Proclamation No. 1284/2023", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Digital Identification System", "country_label": "Ethiopian Digital Identification System (Unique Number, with Alias Numbers)", "class": "", "platform": "", "owner": "Digital Identification Institution, to be set up by Council of Ministers regulation or within a government body (Article 5)", "tiers": "relying parties, authentication service providers"}
+  ],
+  "note": "Law's own text: enactment and digital provisions recorded; it names no regulation or directive made under it, so no applied fact."
+}

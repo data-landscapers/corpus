@@ -1,0 +1,11 @@
+{
+  "slug": "2006-10-18-mali-decret-06-442-modalites-application-nina",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree n°06-442/P-RM of 18 October 2006 is made to apply Law n°06-040 of 11 August 2006 instituting the national identification number NINA for persons and legal entities, which it cites as in force.", "as_of": "2006-10-18", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "Decree n°06-442/P-RM of 18 October 2006 fixes how Law n°06-040 applies: the structure of the 14-digit NINA, the data held, how it is attributed, transmission of civil-status data, and an obligation on named public services, embassies and consulates to use the NINA and show it on their documents.", "as_of": "2006-10-18", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Répertoire national (NINA file)", "country_label": "Numéro d'Identification Nationale (NINA)", "class": "other", "platform": "", "owner": "Service national chargé de la statistique", "tiers": "Economic and finance administrations, education, public service, territorial administration, health and social benefits, employment, security, investment promotion, transport, embassies and consulates; civil-status, health, justice and security declaration centres feed it"}
+  ],
+  "note": ""
+}

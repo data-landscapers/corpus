@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-06 Benin - the NPI certificate as the base for electronic identity",
+  "facts": [],
+  "systems": [
+    {"system": "Certificat du numéro personnel d'identification (Cnpi/fID, carte C'est moi)", "country_label": "Certificat du NPI", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""}
+  ],
+  "note": "Names decree 2020-099 of 26 February 2020 as setting up the NPI certificate but does not say it is made under an identity law or that the system runs on a decree alone; no law stated."
+}

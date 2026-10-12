@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-natca-phase-out-unregistered-sims-link-national-id",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "other", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "mobile operators"}
+  ],
+  "note": "The Subscribers Regulations 2025 are SIM registration rules (class other), not stated to be made under a national identity law; no identity law named."
+}

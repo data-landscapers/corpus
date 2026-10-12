@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-niger-agadez-reformes-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "RNP", "class": "", "platform": "", "owner": "DGATDD / ANEI", "tiers": "national; first phase in Niamey, then other regions"},
+    {"system": "Carte Nationale d'Identité Biométrique", "country_label": "CNIB", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques", "country_label": "ANEI", "class": "", "platform": "", "owner": "Government of Niger", "tiers": ""}
+  ],
+  "note": "Names the ordinance on civil status and three ANEI decrees as the adopted framework, undated here, and says the RNP and unique number are still to come; it names no identity law, number or year, so no standing or cover fact."
+}

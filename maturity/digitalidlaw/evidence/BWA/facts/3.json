@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-botswana-national-id-replacement-delays",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement.", "as_of": "2026-07-29", "date_precision": "day", "system": "National Registration (Amendment) Act, 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Omang (National Identity Card)", "country_label": "Omang", "class": "", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "national"}
+  ],
+  "note": ""
+}

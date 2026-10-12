@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-25-mozambique-tablu-tech-digital-trust-biometricupdate",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital Certification System",
+      "country_label": "Digital Certification System (DCS)",
+      "class": "other",
+      "platform": "MoDi Sign (proposed)",
+      "owner": "INTIC",
+      "tiers": ""
+    },
+    {
+      "system": "National Mobile Digital Identity and Electronic Signature Infrastructure",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "ATDI",
+      "tiers": ""
+    }
+  ],
+  "note": "Names an Electronic Transactions Law and Digital Certification Regulation for signatures only; no identity law stated."
+}

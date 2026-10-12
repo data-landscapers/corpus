@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-29-zambia-monitor-digitalisation-identity-services",
+  "facts": [],
+  "systems": [
+    {"system": "Digitalisation of DNRPC services (computerised issuance of national registration cards, passports and citizenship documents)", "country_label": "DNRPC digitalisation", "class": "other", "platform": "", "owner": "Department of National Registration, Passport and Citizenship, Ministry of Home Affairs and Internal Security, with Smart Zambia", "tiers": "national; online applications planned for citizens at home and abroad"}
+  ],
+  "note": "Reports the start of computerising identity-document issuance; names no identity law, bill or regulation."
+}

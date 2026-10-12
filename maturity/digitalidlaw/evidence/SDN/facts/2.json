@@ -1,0 +1,11 @@
+{
+  "slug": "2011-01-01-sudan-civil-registry-act-2011",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Civil Registry Act 2011, an act of the National Assembly signed by the President, repealed the 2001 Act, came into force on signature, and sets up the civil registry run by the Ministry of Interior, which issues the national number and the identity card; the document gives only the year 2011.", "as_of": "2011", "date_precision": "year", "system": "Civil Registry Act 2011 (National Number)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The Act defines the National Number as a unique, unrepeatable number given to each citizen on registration and provides for civil registry records stored electronically on computer and a central database; the document gives only the year 2011.", "as_of": "2011", "date_precision": "year", "system": "Civil Registry Act 2011 (National Number)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Civil Registry Information System / National Number", "country_label": "Civil Registry; National Number", "class": "other", "platform": "", "owner": "General Administration of the Civil Registry, Ministry of Interior (Police Forces)", "tiers": "state civil registry administrations; locality and administrative-unit centres"}
+  ],
+  "note": ""
+}

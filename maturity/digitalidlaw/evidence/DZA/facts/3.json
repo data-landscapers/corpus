@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-05 Algeria approves draft law on national digital ID and trust services",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Council of Ministers approved a draft law on trust services for electronic transactions and digital identification, which includes a national digital identification system linked to the biometric national ID card; the bill moves to the next legislative stage.", "as_of": "2025-11-02", "date_precision": "day", "system": "Draft law on trust services for electronic transactions and digital identification", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National digital identification system", "country_label": "national digital identification system", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Biometric national ID card", "country_label": "biometric national ID card", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

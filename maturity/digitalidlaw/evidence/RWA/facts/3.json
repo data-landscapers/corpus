@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-08 Rwanda National Identification Agency begins digital ID enrollment",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Biometric Update says the Single Digital Identification System project started in earnest in 2023 with a legislative amendment; the article does not name the instrument or its number.", "as_of": "2023", "date_precision": "year", "system": "Legislative amendment of 2023 for the Single Digital Identification System", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Single Digital Identification System (SDIS)", "country_label": "SDIS", "class": "other", "platform": "Automated Biometric Identification System (ABIS)", "owner": "National Identification Agency (NIDA)", "tiers": "public- and private-sector services"}
+  ],
+  "note": ""
+}

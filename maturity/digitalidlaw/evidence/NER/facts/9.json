@@ -1,0 +1,31 @@
+{
+  "slug": "2026-08-17-niger-dosso-civil-status-tour-aneri-decrees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre National de la Population (RNP)",
+      "country_label": "Registre National de la Population",
+      "class": "other",
+      "platform": "",
+      "owner": "ANEI",
+      "tiers": "national; announced as forthcoming, to give each citizen a unique identifier"
+    },
+    {
+      "system": "Agence Nationale de l'Enregistrement et de l'Identification des Personnes Physiques (ANEI)",
+      "country_label": "ANEI",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "WURI-Niger",
+      "country_label": "Programme WURI",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Cites ordonnance n°2026-21 (civil-status regime, civil registration law with no stated identity number, register or card) and decrees n°2026-242/243 (ANEI, a body, by decree); the RNP is forthcoming. No fact on an identity law."
+}

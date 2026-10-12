@@ -1,0 +1,11 @@
+# Guinea
+
+## National identity law
+
+**Law in force.** Guinea has a law on the identification of physical persons, numbered L/2023/0019. On 26 February 2026 the head of the identification office [named it at a workshop](<https://matd.gov.gn/loneci-vulgarise-les-nouvelles-lois-sur-letat-civil-et-de-lidentification/>) where officials said the country now has two new laws, on identification and on civil status. The minister's declaration of 10 August 2026 [lists their adoption and dissemination](<https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre>) among the year's achievements.
+
+**Digital identity covered and rules made.** The rules to apply the law are still drafts. A workshop at Kindia from 12 to 17 January 2026 [reviewed and validated draft decrees and orders](<https://ravec.gov.gn/ravec-kindia-atelier-de-relecture-et-validation-des-textes-dapplication-portant-etat-civil-et-identification-des-personnes-physiques/>) applying the identification law and the civil status law. A validated draft is not yet a rule, and what the law provides for the identity itself is not stated in these reports.
+
+***Noted, not assessed***. [Registre national des personnes physiques (RNPP)](<https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/>); [Identity verification and validation platform](<https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/>); [Numéro personnel d'identification (NPI)](<https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre>); [Civil registry digitisation platform](<https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre>); [Diama Djigui](<https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/>).
+
+***Not held***. No source held says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.

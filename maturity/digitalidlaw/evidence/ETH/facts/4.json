@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-10-nbe-banks-verifayda-2-migration",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda digital ID", "country_label": "ፋይዳ ዲጂታል መታወቂያ (Fayda)", "class": "other", "platform": "", "owner": "National ID Program", "tiers": "banks"},
+    {"system": "VeriFayda 2", "country_label": "VeriFayda 2", "class": "other", "platform": "EthSwitch", "owner": "National ID Program and EthSwitch", "tiers": "banks"}
+  ],
+  "note": "The article reports a National Bank of Ethiopia and National ID Program bank-account harmonisation order (migration to VeriFayda 2, deadline 30 March 2026 Ethiopian calendar 2018) but names no identity law or instrument made under one, so no standing or cover fact."
+}

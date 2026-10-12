@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Assembly was examining bill n°21/2026, which amends the existing law instituting the ECOWAS biometric identity card, in plenary on 2026-09-29 after committee adoption; no year is given for the law itself and the date is the story's.", "as_of": "2026-09-29", "date_precision": "day", "system": "loi instituant la carte d'identité biométrique CEDEAO", "class": "law"}
+  ],
+  "systems": [
+    {"system": "ECOWAS biometric identity card", "country_label": "carte d'identité biométrique CEDEAO", "class": "other", "platform": "", "owner": "Direction de l'automatisation des fichiers (Interior Ministry)", "tiers": ""}
+  ],
+  "note": ""
+}

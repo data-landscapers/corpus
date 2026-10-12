@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-10-digital-id-trust-services-draft-law--biometricupdate",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Biometric Update reports that the Council of Ministers under President Tebboune approved a draft law on digital identity and trust services, whose ID system is to be linked with the existing biometric ID card system and update the 2015 e-signature law; the document gives no date for the meeting, so as_of is the publication date.", "as_of": "2025-11-10", "date_precision": "day", "system": "Draft law on digital identity and trust services", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Biometric ID card system", "country_label": "biometric national ID card", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

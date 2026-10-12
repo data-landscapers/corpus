@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda national digital identification system", "class": "", "platform": "", "owner": "National ID Programme", "tiers": "banks"}
+  ],
+  "note": "Reports an NBE directive and CBE deadline (9 Nov 2026) to link accounts to Fayda, but names no identity law and does not say the directive is made under one."
+}

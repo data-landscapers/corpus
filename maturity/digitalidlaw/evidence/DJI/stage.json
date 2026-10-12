@@ -1,0 +1,16 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "cover": "digital",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-002;DJI-005;DJI-008",
+   "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

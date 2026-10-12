@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-29-ago-oge-2026-i-trimestre-execucao-lei-identificacao",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Council of Ministers, at its session on 29 April 2026, reviewed the Proposta de Lei da Identificação Civil e Criminal for sending to the National Assembly, a bill setting the legal regime for collecting, processing and managing Bilhete de Identidade and criminal-record data.", "as_of": "2026-04-29", "date_precision": "day", "system": "Proposta de Lei da Identificação Civil e Criminal", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Bilhete de Identidade", "country_label": "Bilhete de Identidade (BI)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

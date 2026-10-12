@@ -1,0 +1,17 @@
+{
+  "slug": "2014-03-24-qanun-8-lisanat-2014-bishan-alraqm-alwatani",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Law No. 8 of 2014 on the National Number, issued by the General National Congress on 24 March 2014, is an ordinary law that takes effect on issue (Article 11) and sets up the national number and national database run with the Civil Registry Authority.",
+     "as_of": "2014-03-24", "date_precision": "day",
+     "system": "Law No. 8 of 2014 on the National Number", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital",
+     "fact": "Law No. 8 of 2014 provides for a 12-digit national number unique to each citizen (Article 2) and a national database completed with ten-print fingerprints, iris print, photograph and signature (Article 3).",
+     "as_of": "2014-03-24", "date_precision": "day",
+     "system": "Law No. 8 of 2014 on the National Number", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Number / national database", "country_label": "الرقم الوطني / قاعدة البيانات الوطنية", "class": "other", "platform": "", "owner": "Civil Registry Authority with the National ID Project", "tiers": "all state institutions"}
+  ],
+  "note": ""
+}

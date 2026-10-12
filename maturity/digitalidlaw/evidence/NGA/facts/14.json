@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-24-thisday-nimc-partnerships-women-affairs-boi-digital-identity",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "ThisDay reports that NIMC's partnerships are anchored on the newly enacted NIMC Act 2026, which the Commission says gives a stronger legal framework for identity management; no enactment date is given, so the published date is used.",
+      "as_of": "2026-07-24",
+      "date_precision": "day",
+      "system": "National Identity Management Commission Act 2026",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Standing only; the document does not state that the Act sets up a biometric register or unique number, or any dated rule made under it."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "bill",
+   "cover": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-001",
+   "gaps": "No source held says a national identity law is in force.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "RNP", "class": "", "platform": "", "owner": "ANEI", "tiers": "national; deconcentrated actors to run registration operations"},
+    {"system": "Carte Nationale d'Identité Biométrique", "country_label": "CNIB", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Agence Nationale de l'Enregistrement et d'Identification des personnes physiques", "country_label": "ANEI", "class": "", "platform": "", "owner": "Ministry of the Interior", "tiers": ""},
+    {"system": "WURI-Niger (OURI in this text)", "country_label": "projet OURI", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Workshop report: mentions legal reforms in general terms and the RNP and unique number as planned; no identity law, instrument, number or date is named."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "3",
+   "standing": "in-force",
+   "cover": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002;ZWE-001",
+   "gaps": "No source held says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

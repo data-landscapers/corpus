@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-20-parliament-uganda-new-id-system-questions-digital-verification",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Parliament of Uganda news release of 20 August 2026 states that under the Registration of Persons Act, 2015, NIRA is mandated to create and run the National Identification Register and issue national identification cards (an Act of Parliament).",
+      "as_of": "2026-08-20",
+      "date_precision": "day",
+      "system": "Registration of Persons Act, 2015",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification Register",
+      "country_label": "National Identification Register",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": ""
+    },
+    {
+      "system": "National ID card (QR code)",
+      "country_label": "new national ID",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": "banks, telecoms"
+    }
+  ],
+  "note": "Date is the document's published date; the Act is dated 2015 in its name."
+}

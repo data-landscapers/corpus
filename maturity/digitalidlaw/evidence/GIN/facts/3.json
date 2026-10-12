@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-26-oneci-vulgarise-nouvelles-lois-etat-civil-identification",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "At an ONECI workshop on 26 February 2026 the director general named law L/2023/0019 on the identification of physical persons, and the elections director general said Guinea now has two new laws, on identification and on civil status, being disseminated; the document gives no promulgation date and the date is that of the workshop.", "as_of": "2026-02-26", "date_precision": "day", "system": "Loi L/2023/0019 portant identification des personnes physiques (2023)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques", "class": "other", "platform": "", "owner": "ONECI", "tiers": "national; deployment still facing logistical and human challenges"}
+  ],
+  "note": ""
+}

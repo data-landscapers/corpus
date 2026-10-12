@@ -1,0 +1,26 @@
+{
+  "slug": "2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Biometric Update reports the new NIA governing board acts under what it calls the National Identification Act 2009, handling oversight and approval of regulations; the document's own citation, no Act 707 or 750 number given.",
+      "as_of": "2025-05-12",
+      "date_precision": "day",
+      "system": "National Identification Act 2009 (as cited by the document)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification System (Ghana Card)",
+      "country_label": "National Identification System / Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "Board tasked with digital ID for all by 2030 is a target, not a cover fact."
+}

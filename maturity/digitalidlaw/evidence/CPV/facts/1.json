@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The SNIAC reference page states that the Cartao Nacional de Identificacao was created by Decreto-Lei n.º 19/2014 of 17 March, an ordinary decree-law that also governs its issue, replacement, use and cancellation; the card was launched on 23 January 2018.", "as_of": "2014-03-17", "date_precision": "day", "system": "Cartão Nacional de Identificação (CNI), Decreto-Lei n.º 19/2014", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The page presents the CNI, created by Decreto-Lei n.º 19/2014, as an electronic polycarbonate card whose chip holds a digital certificate and identification, authentication and digital-signature applications, part of the Sistema Nacional de Identificação e Autenticação Civil.", "as_of": "2014-03-17", "date_precision": "day", "system": "Cartão Nacional de Identificação (CNI), Decreto-Lei n.º 19/2014", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "The page lists Portaria n.º 21/2017 of 15 June, which regulates the capture of biometric data, as legislation applying to the CNI.", "as_of": "2017-06-15", "date_precision": "day", "system": "Cartão Nacional de Identificação (CNI), Decreto-Lei n.º 19/2014", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "The page lists Portaria n.º 35/2017 of 2 September, which sets the validity period of the CNI, as legislation applying to the CNI.", "as_of": "2017-09-02", "date_precision": "day", "system": "Cartão Nacional de Identificação (CNI), Decreto-Lei n.º 19/2014", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "other", "platform": "", "owner": "Government of Cabo Verde (SNIAC; NOSI listed as entity)", "tiers": "national"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "other", "platform": "chip smart card with CNI software/middleware", "owner": "SNIAC", "tiers": "national"},
+    {"system": "Chave Móvel Digital de Cabo Verde (CMDCV)", "country_label": "CMDCV", "class": "other", "platform": "", "owner": "State of Cabo Verde", "tiers": "national"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "other", "platform": "electronic identity management and authentication platform", "owner": "State of Cabo Verde", "tiers": "national"}
+  ],
+  "note": "Chave Móvel Digital is created by Decreto-Legislativo n.º 5/2020, an authentication mechanism, not the identity law: no fact. Fee decree 68/2014 is not an applying rule."
+}

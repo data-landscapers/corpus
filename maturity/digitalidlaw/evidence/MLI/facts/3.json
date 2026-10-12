@@ -1,0 +1,11 @@
+{
+  "slug": "2006-08-11-mali-loi-06-040-numero-identification-nationale",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law n°06-040 of 11 August 2006, adopted by the National Assembly on 13 July 2006 and promulgated by the President, institutes the national identification number NINA for persons and legal entities and a national identification register; it is an ordinary law.", "as_of": "2006-08-11", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Law n°06-040 of 11 August 2006 states the NINA individualises each person with a unique number, held in a national identification register run by the national statistics service, and to be shown on the ID card, passport and civil-status records.", "as_of": "2006-08-11", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NINA (Numéro d'Identification Nationale) and répertoire national d'identification", "country_label": "NINA", "class": "other", "platform": "", "owner": "Service national chargé de la statistique", "tiers": "Any Malian public service required to use it"}
+  ],
+  "note": ""
+}

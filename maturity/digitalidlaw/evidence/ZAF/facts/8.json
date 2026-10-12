@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-06-digital-id-draft-regulation-gazetted",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document treats the Identification Act of 1997 as the existing act, with draft amendments to it published for comment until 6 June 2026 (Home Affairs announcement of 5 May 2026); an act of parliament, amended through regulations.", "as_of": "2026-05-05", "date_precision": "day", "system": "Identification Act, 1997", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Smart ID", "country_label": "Smart ID", "class": "other", "platform": "", "owner": "Home Affairs", "tiers": "citizens"},
+    {"system": "Digital ID and digital wallet (planned)", "country_label": "digital ID", "class": "other", "platform": "MyMzansi app", "owner": "Home Affairs", "tiers": "citizens"}
+  ],
+  "note": ""
+}

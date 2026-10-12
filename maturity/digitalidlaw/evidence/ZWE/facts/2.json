@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-01-si-2024-010-national-registration-fees-amendment",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Statutory Instrument 10 of 2024, gazetted 30 January 2024, was made by the Minister of Home Affairs and Cultural Heritage under section 11 of the National Registration Act [Chapter 10:17], showing the Act in force.",
+      "as_of": "2024-01-30",
+      "date_precision": "day",
+      "system": "National Registration Act [Chapter 10:17] (1976)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Register of residents (National Registration Act)",
+      "country_label": "Register of residents",
+      "class": "other",
+      "platform": "",
+      "owner": "Registrar-General of National Registration",
+      "tiers": ""
+    }
+  ],
+  "note": "No cover fact: the instrument only changes fees, which is not an applying rule."
+}

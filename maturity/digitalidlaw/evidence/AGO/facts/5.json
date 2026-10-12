@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-29-bi-documento-unico-valido-identificacao",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Council of Ministers, chaired by the President, considered on 2026-04-29 a bill gathering all rules on the Bilhete de Identidade and criminal records into one law, making the BI the only valid identification document, and the Justice Minister said it goes to the National Assembly for debate and vote.", "as_of": "2026-04-29", "date_precision": "day", "system": "Bilhete de Identidade", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Bilhete de Identidade", "country_label": "Bilhete de Identidade (BI)", "class": "other", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "banks; telecommunications services; schools; property registry; contracts"}
+  ],
+  "note": ""
+}

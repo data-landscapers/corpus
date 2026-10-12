@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-29-aps-nekkal-avancees-modernisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "NEKKAL programme", "country_label": "Programme d'appui au renforcement du système d'information de l'état civil et à la consolidation d'un fichier national d'identité biométrique", "class": "other", "platform": "", "owner": "ANEC; EU-funded, run by Civipol and Enabel", "tiers": "400 civil-status centres interconnected"}
+  ],
+  "note": "Only a validated civil-registration informatisation bill and decree are stated; a civil registration law with no identity number, register or card is class other."
+}

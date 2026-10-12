@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-16 Digital IDs How registration is progressing so far",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The New Times reports that under the Single Digital Identification Law citizens cannot hold two government-issued identities and all current ID cards become invalid by June 2027 under the law's sunset provision; the law is described as operating, an ordinary law (no number or year given); no date for the statement beyond the article's publication date, 2026-03-16.", "as_of": "2026-03-16", "date_precision": "day", "system": "Single Digital Identification Law", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The article ties the Single Digital Identification Law to the digital national ID (fingerprint, facial and iris biometrics; an ID number, digital token or QR card), enrolled by NIDA; as_of is the article's publication date, 2026-03-16.", "as_of": "2026-03-16", "date_precision": "day", "system": "Single Digital Identification Law", "class": "law"}
+  ],
+  "systems": [
+    {"system": "e-Indangamuntu (digital national ID)", "country_label": "Digital ID", "class": "other", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""}
+  ],
+  "note": ""
+}

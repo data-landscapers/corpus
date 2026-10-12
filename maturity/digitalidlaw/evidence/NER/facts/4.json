@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Carte Nationale d'Identité Biométrique (CNIB)", "country_label": "Carte Nationale d'Identité Biométrique", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "WURI", "country_label": "projet WURI", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Agence Nationale d'Identification des Personnes (ANIEP)", "country_label": "Agence Nationale d'Identification des Personnes", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Names the reforms, the RNP, the new biometric ID card, WURI and the ANIEP agency, but cites no identity law, bill, decree or order and no date of one."
+}

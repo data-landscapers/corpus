@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+  "facts": [],
+  "systems": [
+    {"system": "Autentika", "country_label": "Autentika", "class": "other", "platform": "", "owner": "State of Cabo Verde", "tiers": "national"},
+    {"system": "Portal de Justiça", "country_label": "Portal de Justiça", "class": "other", "platform": "", "owner": "Ministry of Justice", "tiers": "national"}
+  ],
+  "note": "Names Decreto-Lei 53/2024 (justice portal) and Decreto-Legislativo 5/2020 (digitisation of administration), neither an identity law; no fact."
+}

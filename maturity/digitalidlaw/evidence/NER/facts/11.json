@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-07-cnib-aes-mass-enrolment-launch-lesahel",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'identité biométrique AES (CNIB AES)",
+      "country_label": "carte nationale d'identité biométrique AES",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur / Police nationale",
+      "tiers": "Niamey, extension planned nationally"
+    }
+  ],
+  "note": "Describes mass CNIB enrolment from 2026-04-25 but cites no identity law, bill, decree or order."
+}

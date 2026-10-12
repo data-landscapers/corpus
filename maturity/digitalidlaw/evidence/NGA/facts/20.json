@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-11-nigeria-nimc-act-2026-legal-analysis",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A law-firm analysis describes the National Identity Management Commission (Establishment) Act, 2026, an Act of the National Assembly, as repealing and replacing the NIMC Act No. 23 of 2007; it gives no commencement date, so the date is the document's publication date.", "as_of": "2026-08-11", "date_precision": "day", "system": "National Identity Management Commission (Establishment) Act, 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The analysis states the 2026 Act makes the Commission the national repository for biometric data and root certification authority for the National Public Key Infrastructure, and provides for a National Identification Number unrelated to the holder's attributes; the date is the document's publication date.", "as_of": "2026-08-11", "date_precision": "day", "system": "National Identity Management Commission (Establishment) Act, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission (Establishment) Act, 2026", "country_label": "NIMC Act 2026", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": "national"},
+    {"system": "National Identity Database", "country_label": "National Identity Database", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": "national"},
+    {"system": "National Public Key Infrastructure", "country_label": "National Public Key Infrastructure", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": "national"}
+  ],
+  "note": ""
+}

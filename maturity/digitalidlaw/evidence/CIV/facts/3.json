@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The IDS study says Cote d'Ivoire's biometric digital-ID project is backed by the Law on Digital Identification, Law No. 2019-566 (an enacted law of five articles), with an executive decree and the 2013 data protection law alongside it.", "as_of": "2019", "date_precision": "year", "system": "Law on Digital Identification (Loi n° 2019-566)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The IDS study says Law No. 2019-566 establishes the legal basis for the biometric digital-ID and, in its Article 2, describes the ID as a secure, multi-application electronic smart card; it also says the law incorporates the National Register of Persons (RNPP).", "as_of": "2019", "date_precision": "year", "system": "Law on Digital Identification (Loi n° 2019-566)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Biometric digital-ID (electronic smart card)", "country_label": "Digital identification", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional study; CIV country report gives the law's number and year only. Decree No. 2019-458 is named as an executive decree with no date or statement that it applies the law, so no applied fact."
+}

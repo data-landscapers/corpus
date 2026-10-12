@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre National des Personnes Physiques (RNPP) and Numéro National d'Identification (NNI)",
+      "country_label": "RNPP / NNI",
+      "class": "other",
+      "platform": "",
+      "owner": "DGPF (administration); ANSIE (technical management and security)",
+      "tiers": ""
+    },
+    {
+      "system": "Carte nationale d'identité biométrique",
+      "country_label": "carte nationale d'identité biométrique",
+      "class": "other",
+      "platform": "",
+      "owner": "DGPF",
+      "tiers": ""
+    }
+  ],
+  "note": "Report on biometric card enrolment; names no law, decree or bill."
+}

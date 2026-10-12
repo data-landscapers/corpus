@@ -1,0 +1,13 @@
+{
+  "slug": "2022-06-24-togo-loi-2022-010-identification-biometrique-jo",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Loi n° 2022-010 of 24 June 2022, adopted by the National Assembly and promulgated by the President, amends articles 3, 13, 14, 14 bis, 14 ter and 20 of Loi n° 2020-009 of 10 September 2020 on biometric identification of natural persons in Togo; it is a promulgated act of law.", "as_of": "2022-06-24", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo, modifiée par la loi n° 2022-010 du 24 juin 2022", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The amended law defines a unique identification number (NIU) issued by the national identification agency after verification of demographic and biometric data, and a central database holding all NIU with the matching data, against which the NIU and data are authenticated electronically.", "as_of": "2022-06-24", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo, modifiée par la loi n° 2022-010 du 24 juin 2022", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Numéro d'identification unique (NIU)", "country_label": "NIU", "class": "other", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": "administration; banking, insurance, water, electricity and electronic communications service providers; health sector; employers"},
+    {"system": "Base de données centrale", "country_label": "base de données centrale", "class": "other", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": ""},
+    {"system": "Registre social des personnes et des ménages", "country_label": "RSPM", "class": "other", "platform": "", "owner": "", "tiers": "administrations"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-23-gabon-legal-digital-id-three-projects",
+  "facts": [],
+  "systems": [
+    {"system": "Registre biométrique des personnes physiques (RBPP)", "country_label": "RBPP", "class": "other", "platform": "", "owner": "Ministry of the Interior", "tiers": ""},
+    {"system": "Système national d'identité digitale (SNID)", "country_label": "SNID", "class": "other", "platform": "", "owner": "ANINF", "tiers": ""},
+    {"system": "Centre national d'état civil (CNEC)", "country_label": "CNEC", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "IBOGA", "country_label": "IBOGA", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CNIE", "country_label": "CNIE", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Reports project workshops of 23 to 28 June 2025 and mentions legal requirements of each project, but names no identity law, bill or rule."
+}

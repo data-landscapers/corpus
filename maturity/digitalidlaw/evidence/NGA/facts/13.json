@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-19-nigeria-nimc-pki-digital-identity",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Biometric Update says the NIMC Act 2026 replaces the NIMC Act 2007, expands NIMC's duties and makes it the Root Certification Authority for the national PKI and digital public infrastructure; no enactment date is given, so the published date is used.",
+      "as_of": "2026-08-19",
+      "date_precision": "day",
+      "system": "National Identity Management Commission Act 2026",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification Number (NIN) system",
+      "country_label": "NIN",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identity Management Commission",
+      "tiers": ""
+    },
+    {
+      "system": "National Public Key Infrastructure (NPKI)",
+      "country_label": "National Public Key Infrastructure",
+      "class": "other",
+      "platform": "",
+      "owner": "NIMC as Root Certification Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "Standing only; the document does not state that the Act sets up a biometric register or unique number, or any dated rule made under it."
+}

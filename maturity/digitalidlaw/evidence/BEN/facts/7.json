@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-06-loi-2020-34-etat-civil-dematerialise",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "RNPP", "class": "other", "platform": "", "owner": "", "tiers": "national; health services and civil registration centres declare to it"},
+    {"system": "Fichier national de l'etat civil", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Civil registration law (Loi 2020-34, 6 Jan 2021) that routes births, marriages, divorces and deaths into the existing RNPP and gives a child an NPI on entry; it does not itself set up the register, number or card, so it is class other and gives no fact."
+}

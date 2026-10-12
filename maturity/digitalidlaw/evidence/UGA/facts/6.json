@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-01-nira-birth-registration-alien-registration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Identification Register",
+      "country_label": "National Identification Register",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": ""
+    },
+    {
+      "system": "Partner Management System",
+      "country_label": "Partner Management System",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": "eligible institutions"
+    }
+  ],
+  "note": "Names no identity law; covers birth registration and alien registration rollout."
+}

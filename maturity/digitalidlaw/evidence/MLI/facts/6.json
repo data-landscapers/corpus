@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-30-mali-carte-identite-biometrique-msi",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique sécurisée", "country_label": "Carte nationale d'identité biométrique sécurisée", "class": "other", "platform": "Dermalog equipment; card produced by M-SI (Mali)", "owner": "Minister in charge of security; biometric data handled by the Cellule de traitement des données d'état civil (CTDEC)", "tiers": "national; compulsory from age 15, replaces the NINA card, the national identity card and the consular card"},
+    {"system": "NINA", "country_label": "Numéro d'Identification Nationale (NINA) card", "class": "other", "platform": "", "owner": "", "tiers": "national; NINA card production and issue ends when the biometric card enters into force"}
+  ],
+  "note": "Reports Décret n°2022-0639/PT-RM of 3 Nov 2022 instituting the biometric card, but gives no law behind it and does not say the system runs on a decree alone; a decree is not a law in force, so no standing or cover fact."
+}

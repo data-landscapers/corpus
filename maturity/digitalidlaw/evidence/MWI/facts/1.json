@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-malawi-nrb-registration-fees-e-kyc",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Registration (Amendment) Regulations, 2026 were made on 23 July 2026 by the Homeland Security Minister under powers in the National Registration Act, which the NRB runs for National ID; the report gives the Act's number and year nowhere, and the instrument is an Act of parliament with regulations made under it.", "as_of": "2026-07-23", "date_precision": "day", "system": "National Registration Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National ID (National Registration Bureau)", "country_label": "National ID", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": "mobile money, SIM card, bank account and utility services use e-KYC verification"}
+  ],
+  "note": "No cover fact: the regulations change fees, including for e-KYC verification, and the document states no rule that banks or phone companies must check identity against the system, nor that the Act sets up a biometric register or unique number."
+}

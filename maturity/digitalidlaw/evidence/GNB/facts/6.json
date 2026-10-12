@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated System of Citizen Registers and Statistics (SIREC)",
+      "country_label": "SIREC",
+      "class": "other",
+      "platform": "",
+      "owner": "Civil Registration Office, Ministry of Justice",
+      "tiers": ""
+    },
+    {
+      "system": "biometric national ID card system",
+      "country_label": "national ID card",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": ""
+    }
+  ],
+  "note": "Describes systems and projects; names no identity law, decree or bill."
+}

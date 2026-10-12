@@ -1,0 +1,8 @@
+{
+  "slug": "1998-12-01-eswatini-births-marriages-deaths-registration-act-1983",
+  "facts": [],
+  "systems": [
+    {"system": "Births, Marriages and Deaths Registration Act, 1983 (Act 5 of 1983)", "country_label": "civil register of births, marriages and deaths", "class": "other", "platform": "", "owner": "Registrar of Births, Marriages and Deaths (public service)", "tiers": "district and assistant district registrars; registration information officers; chiefs and indunas"}
+  ],
+  "note": "Civil registration law only: sets up registers of births, marriages and deaths and certificates, with no identity number, register of persons or identity card, so it is class other and gives no fact."
+}

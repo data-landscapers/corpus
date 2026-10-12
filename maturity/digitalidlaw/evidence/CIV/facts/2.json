@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP) / Numéro national d'identification (NNI)", "country_label": "RNPP; NNI", "class": "other", "platform": "", "owner": "ONECI", "tiers": "public, parapublic and private actors certify personal data against the RNPP"},
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "other", "platform": "smartphone application", "owner": "La Poste de Côte d'Ivoire with ONECI", "tiers": ""}
+  ],
+  "note": "Launch notice for MaPoste; says the NNI rests on biometric data in the RNPP but names no law or instrument."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2022-03-02-decret-22-07-fichier-general-population",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "The Prime Minister's Decree n° 22/07 of 2 March 2022 creates the Fichier Général de la Population (FGP), run by ONIP, with a national identification number and biometric data, as a decree alone; its legal bases cite no identity law, only the 2011 decree setting up ONIP and a 1923 decree-law requiring residents to be recorded.",
+     "as_of": "2022-03-02", "date_precision": "day",
+     "system": "Fichier Général de la Population (FGP), Décret n° 22/07 du 2 mars 2022", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Fichier Général de la Population (FGP)", "country_label": "Fichier Général de la Population", "class": "", "platform": "", "owner": "Office National d'Identification de la Population (ONIP)", "tiers": "national"}
+  ],
+  "note": "No cover fact: the instrument is a decree, not a law in force, so the digital and applied tests are not met on this document."
+}

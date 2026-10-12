@@ -1,0 +1,34 @@
+{
+  "slug": "2026-05-09-smart-ids-go-digital-draft-rules",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Citizen reports Home Affairs gazetted draft amended regulations in terms of the Identification Act, 1997 (Act No. 68 of 1997) for comment until 6 June 2026, with access to identity information regulated under that Act (document published 2026-05-09, no other date given).",
+      "as_of": "2026-05-09",
+      "date_precision": "day",
+      "system": "Identification Act, 1997 (Act No. 68 of 1997)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Population Register",
+      "country_label": "National Population Register",
+      "class": "other",
+      "platform": "",
+      "owner": "Department of Home Affairs",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Identity",
+      "country_label": "Digital Identity system",
+      "class": "other",
+      "platform": "",
+      "owner": "Department of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "Draft regulations are not made rules, so no applied fact; the document does not say the Act itself provides for digital identity."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-namibia-electronic-id-rollout-september-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Officials of the Ministry of Home Affairs and the Office of the Prime Minister said the electronic ID is legally recognised under the Civil Registration and Identification Act of 2024, and that the Act is the law governing the identity data; the document gives no promulgation date, so the year is the Act's own and the article is dated 2026-07-25.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration and Identification Act, 2024", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "An Office of the Prime Minister official said the Civil Registration and Identification Act allows institutions to accept either the physical E-ID card or its digital version, and the ministry said the E-ID has a digital identity component for electronic verification; the date is the article's published date, 2026-07-25.", "as_of": "2026-07-25", "date_precision": "day", "system": "Civil Registration and Identification Act, 2024", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic identity (E-ID) card and national identity management system", "country_label": "E-ID", "class": "other", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "national"}
+  ],
+  "note": ""
+}

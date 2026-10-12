@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-23-nimc-nitda-collaborate-digital-identity-agenda",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Nation reports NIMC engaging agencies on implementing the newly enacted NIMC Act 2026, which the INEC chairman said gives a stronger legal framework for identity management; no enactment date is given, so the published date is used.",
+      "as_of": "2026-07-23",
+      "date_precision": "day",
+      "system": "National Identity Management Commission Act 2026",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Public Key Infrastructure (NPKI)",
+      "country_label": "National Public Key Infrastructure",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Standing only; the document does not state that the Act sets up a biometric register or unique number, or any dated rule made under it."
+}

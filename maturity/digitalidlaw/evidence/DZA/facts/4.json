@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-04-digital-trust-e-transactions-law--wearetech",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Algerian government approved on 2 November 2025 a draft law on trust services for electronic transactions and digital identification, which introduces a national digital identification framework based on the existing biometric identity card and updates the 2015 e-signature law.", "as_of": "2025-11-02", "date_precision": "day", "system": "Draft law on trust services for electronic transactions and digital identification", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National digital identification framework", "country_label": "national digital identification framework", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Biometric identity card", "country_label": "biometric identity card", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Sistema Nacional de Identificação e Autenticação Civil (SNIAC),SNIAC,other,,Government of Cabo Verde (SNIAC; NOSI listed as entity),national,2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao
+CPV,Cartão Nacional de Identificação (CNI),CNI,other,chip smart card with CNI software/middleware,SNIAC,national,2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao
+CPV,Chave Móvel Digital de Cabo Verde (CMDCV),CMDCV,other,,State of Cabo Verde,national,2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao
+CPV,Autentika,Autentika,other,electronic identity management and authentication platform,State of Cabo Verde,national,2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao
+CPV,Cartão Nacional de Identificação (CNI),CNI,other,,Imprensa Nacional de Cabo Verde (production),national,2026-06-10-inforpress-incv-producao-documentos-seguranca
+CPV,SNIAC CNI middleware and SDK,Software/Middleware,other,"Windows, Linux, macOS middleware with SDK",SNIAC,public and private services,2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9
+CPV,Autentika,Autentika,other,,State of Cabo Verde,national,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Portal de Justiça,Portal de Justiça,other,,Ministry of Justice,national,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,Título de Residência para Estrangeiros (TRE),TRE,other,chip smart card using the CNI software,Direção de Estrangeiros e Fronteiras / SNIAC,national,2021-07-29-cabo-verde-sniac-titulo-de-residencia-para-estrangeiros
+CPV,Sistema Nacional de Identificação e Autenticação Civil (SNIAC),SNIAC,other,,Government of Cabo Verde,national,2021-07-29-cabo-verde-sniac-titulo-de-residencia-para-estrangeiros
+CPV,Sistema Nacional de Identificação e Autenticação Civil (SNIAC),SNIAC,other,,"Direção-Geral dos Registos, Notariado e Identificação (Ministry of Justice)","central government; data supplier to other public administration subsystems; supplies data for the CNI, electronic passport and residence title",2020-01-01-cabo-verde-sniac-sistema-nacional-identificacao-autenticacao-civil
+CPV,Cartão Nacional de Identificação (CNI),CNI,other,,DGRNI,citizens of Cabo Verdean nationality; valid 5 years,2020-01-01-cabo-verde-sniac-sistema-nacional-identificacao-autenticacao-civil

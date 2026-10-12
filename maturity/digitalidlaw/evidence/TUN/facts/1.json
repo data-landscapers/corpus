@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A ministerial session on 2024-04-22 decided to start using the biometric national identity card in H1 2025 following approval of Organic Law No. 22 of 2024 on the biometric identity card; the document gives no promulgation date and does not say the law is not yet in force.", "as_of": "2024-04-22", "date_precision": "day", "system": "Organic Law No. 22 of 2024 on the biometric identity card", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Biometric national identity card", "country_label": "Biometric Identity Card", "class": "other", "platform": "", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": ""
+}

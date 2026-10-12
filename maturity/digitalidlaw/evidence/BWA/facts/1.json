@@ -1,0 +1,11 @@
+{
+  "slug": "1986-12-31-national-registration-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The consolidated National Registration Act (Chapter 01:02, Act 26 of 1986) is an Act of Parliament that commenced on 31 December 1986 and was amended up to Act 11 of 2017 and S.I. 124 of 2017; it provides for the Registrar of National Registration to keep a national register of citizens aged 16 or over and for identity cards to be issued.", "as_of": "1986-12-31", "date_precision": "day", "system": "National Registration Act (Chapter 01:02), 1986", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Registration Act (Chapter 01:02)", "country_label": "National Registration Act", "class": "law", "platform": "", "owner": "Registrar of National Registration", "tiers": ""},
+    {"system": "National register and district registers of citizens (identity cards)", "country_label": "National register", "class": "", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "national;district"}
+  ],
+  "note": "Consolidated text is paywalled after section 5; it states nothing on biometrics or on rules made under the Act, so no cover fact."
+}

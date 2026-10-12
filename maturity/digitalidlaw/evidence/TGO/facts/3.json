@@ -1,0 +1,11 @@
+{
+  "slug": "2022-06-16-togo-loi-modification-2020-009-identification-biometrique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The National Assembly deliberated and adopted on 16 June 2022 a law, number left blank, amending Loi n° 2020-009 of 10 September 2020 on biometric identification of natural persons in Togo; this copy is the adopted text before promulgation.", "as_of": "2022-06-16", "date_precision": "day", "system": "Loi n° 2020-009 du 10 septembre 2020 relative à l'identification biométrique des personnes physiques au Togo (loi portant modification, numéro en blanc)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Numéro d'identification unique (NIU)", "country_label": "NIU", "class": "other", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": "administration"},
+    {"system": "Registre social des personnes et des ménages", "country_label": "RSPM", "class": "other", "platform": "", "owner": "", "tiers": "administrations"}
+  ],
+  "note": "Pre-promulgation draft; the promulgated text is document 2, so no digital or applied fact is taken here."
+}

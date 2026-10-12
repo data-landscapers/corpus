@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-27-ghana-li-2523-national-identity-register-amendment-regulations-2026",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The page gives the National Identity Register Act, 2008 (Act 750), as amended, as the parent act of L.I. 2523, an act of Parliament, with the regulations amending L.I. 2111 of 2012.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The page says L.I. 2523, signed 2 March 2026, gazetted 27 March 2026 and in force 9 June 2026, makes biometric verification mandatory for organisations transacting under Regulation 7 of L.I. 2111, as stated by the Interior Minister on 22 July 2026.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ghana Card / National Identity Register",
+      "country_label": "Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Identity Verification System Platform (IVSP)",
+      "country_label": "IVSP",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": "banks, telecommunications companies, hospitals, educational institutions, government agencies"
+    }
+  ],
+  "note": "Instrument text is an image scan; identity and dates come from the Minister's statement as relayed on the page."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-09-23-nga-ncw-nimc-ninauth-consent-verification",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Nigeria Communications Week describes the NIMC Act 2026 as newly enacted and says NIMC's work is in compliance with it; the document gives no enactment date, so its published date is used.",
+      "as_of": "2026-09-23",
+      "date_precision": "day",
+      "system": "National Identity Management Commission Act 2026",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identity Database (NIDB)",
+      "country_label": "National Identity Database",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identity Management Commission",
+      "tiers": ""
+    },
+    {
+      "system": "NINAuth",
+      "country_label": "NIN Authentication (NINAuth)",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identity Management Commission",
+      "tiers": "banks, telecoms, immigration, tax bodies"
+    }
+  ],
+  "note": "Standing only; the document does not state that the Act sets up a biometric register or unique number, or any dated rule made under it."
+}

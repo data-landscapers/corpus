@@ -1,0 +1,11 @@
+# Niger
+
+## National identity law
+
+**Law in force.** Niger's Council of Ministers [adopted a draft ordinance on the civil status regime](<https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026>) on 22 April 2026. It amends law no. 2019-29 of 1 July 2019 to clarify the national civil status register and the national population register. It is a draft adopted by cabinet; no source says it has been signed.
+
+**Digital identity covered and rules made.** No identity law is in force. The draft ordinance [would add biometric parameters and a unique identifier](<https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026>) to the registers the 2019 civil status law set up, which is what would make it the country's identity law. Until it is signed, the unique identifier and the biometric register are proposals, and the 2019 law stands as a civil status law. The 2019 law is numbered 2019-29.
+
+***Noted, not assessed***. [Registre National de la Population (RNP)](<https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/>); [Carte Nationale d'Identité Biométrique](<https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/>); [Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques](<https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/>); [WURI-Niger (OURI in this text)](<https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/>); [WURI-Niger](<https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/>).
+
+***Not held***. No source held says a national identity law is in force.

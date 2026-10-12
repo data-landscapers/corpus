@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-30-pros-cons-of-amended-nimc-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Punch editorial states that President Tinubu signed the amended NIMC Act on 26 June 2026, repealing the 2007 law and replacing it with a wider legal framework; it is an Act of the National Assembly.", "as_of": "2026-06-26", "date_precision": "day", "system": "National Identity Management Commission Act 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The document states that the amended NIMC Act makes the National Identity Number compulsory across 14 sectors, strengthens digital authentication, and makes NIMC the Root Certification Authority for the national public key infrastructure; the date is the signing date, 26 June 2026.", "as_of": "2026-06-26", "date_precision": "day", "system": "National Identity Management Commission Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission Act 2026", "country_label": "amended NIMC Act", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": ""},
+    {"system": "National Identity Number", "country_label": "NIN", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": "banking; passports; land; pensions; voter registration; tax; business registration"},
+    {"system": "National Public Key Infrastructure", "country_label": "National Public Key Infrastructure", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": ""}
+  ],
+  "note": ""
+}

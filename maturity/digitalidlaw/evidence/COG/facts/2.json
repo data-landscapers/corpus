@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-23 Congo relaunches NIU biometric unique-ID card production",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The document says the Numéro d'Identification Unique (NIU) was instituted by Décret n° 2004-469 of 3 November 2004, a decree, and names no law behind it, so the identity number runs on decree and order alone.", "as_of": "2004-11-03", "date_precision": "day", "system": "Décret n° 2004-469 du 3 novembre 2004 portant institution du numéro d'identification unique (NIU)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The document says the NIU, instituted by Décret n° 2004-469 of 2004, is a unique identification number and was modernised by order 5327 of 12 March 2020 with biometric capture of iris and fingerprints; it is issued from age 6 and described as a permanent unique digital identification.", "as_of": "2020-03-12", "date_precision": "day", "system": "Décret n° 2004-469 du 3 novembre 2004 portant institution du numéro d'identification unique (NIU)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "The document says order 25550 of 12 October 2022 makes the NIU mandatory for eight economic transactions (including invoicing, contracts, bank accounts, transfers abroad, water, electricity and telecom subscriptions) and five administrative and social formalities.", "as_of": "2022-10-12", "date_precision": "day", "system": "Décret n° 2004-469 du 3 novembre 2004 portant institution du numéro d'identification unique (NIU)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NIU (Numéro d'Identification Unique)", "country_label": "NIU", "class": "other", "platform": "", "owner": "Ministère des Finances (DGID)", "tiers": "national; banks, utilities, telecoms, tax, customs, Treasury, social security"}
+  ],
+  "note": ""
+}

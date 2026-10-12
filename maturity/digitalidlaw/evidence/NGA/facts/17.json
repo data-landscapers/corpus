@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-19-fg-digital-id-healthcare-uhc-2030",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Vanguard reports a newly enacted National Identity Management Commission (NIMC) Act, which it dates 2025 (the other sources date it 2026), as the legal foundation for the digital identity system; the document gives no enactment date, so its publication date is used.", "as_of": "2026-07-19", "date_precision": "day", "system": "NIMC Act (given as 2025 in the document)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The NIMC Director-General says the newly enacted NIMC Act provides the legal framework for secure digital authentication, interoperability and trusted digital services across government; the document gives no date for the statement, so its publication date is used.", "as_of": "2026-07-19", "date_precision": "day", "system": "NIMC Act (given as 2025 in the document)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NIMC digital identity infrastructure", "country_label": "digital identity", "class": "", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "Federal Ministry of Health and Social Welfare, primary healthcare centres, National Health Insurance programme (planned)"}
+  ],
+  "note": ""
+}

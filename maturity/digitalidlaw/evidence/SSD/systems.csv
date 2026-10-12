@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SSD,Civil Registry Act 2018,Civil Registry Act (CR Act),law,,Government of South Sudan,national,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,Civil Registration and National Identity Regulations 2024,ID Regulations,law,,Government of South Sudan,national,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,Nationality Act 2011,Nationality Act,other,,Government of South Sudan,national,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,National ID & Passport System,National ID & Passport System,other,build-operate-transfer platform from a German vendor,"DCRNPI (Directorate of Civil Registry, Nationality, Passport and Immigration)",national,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,DCRNPI Civil Registration System (planned),Civil Registration System,other,,DCRNPI,national,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,DHIS2 CRVS Module,National Digital Database (MoH) - DHIS2,other,DHIS2,Ministry of Health with UNICEF,health facilities,2026-05-01-id4d-country-diagnostic-south-sudan
+SSD,Nationality Act 2011,"The Nationality Act, 2011",other,,Directorate of Nationality,national,2011-07-07-nationality-act-2011-south-sudan
+SSD,National Identity Card (NIC) and Personal Identification Number (PIN),National Identity Card,other,,DCRNPI,"national; the card is the intended primary proof of identity, but most people do not obtain it",2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
+SSD,Nationality Certificate (NC),Nationality Certificate,other,,,national; prerequisite for the NIC,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
+SSD,Civil Registry,Civil Registry,other,,DCRNPI,the document says it is not yet operational,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap

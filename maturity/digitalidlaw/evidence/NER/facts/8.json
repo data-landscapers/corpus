@@ -1,0 +1,31 @@
+{
+  "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre National de la Population (RNP)",
+      "country_label": "Registre National de la Population",
+      "class": "other",
+      "platform": "",
+      "owner": "ANEI",
+      "tiers": "national; planned"
+    },
+    {
+      "system": "Agence Nationale de l'Enregistrement et de l'Identification des Personnes Physiques (ANEI)",
+      "country_label": "ANEI",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "WURI-Niger",
+      "country_label": "Projet d'Identification Unique pour l'Intégration Régionale et l'Inclusion en Afrique de l'Ouest",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Names an ordinance on the civil-status regime as a reform to be adopted, which is a civil registration law with no stated identity number, register or card; no fact on an identity law."
+}

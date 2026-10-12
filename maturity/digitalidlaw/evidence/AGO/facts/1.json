@@ -1,0 +1,11 @@
+{
+  "slug": "2021-01-25-angola-lei-3-21-alteracao-identificacao-civil",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Lei n.º 3/21, promulgated on 12 January 2021 and in force on publication, amends Lei n.º 4/09 on the legal regime of civil identification and issue of the national citizen identity card (an act of the National Assembly).", "as_of": "2021-01-25", "date_precision": "day", "system": "Lei n.º 4/09 (Regime Jurídico da Identificação Civil e Emissão do Bilhete de Identidade de Cidadão Nacional), as amended by Lei n.º 20/17 and Lei n.º 3/21", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The amended Lei n.º 4/09 (article 9) gives each identity card a number that acts in law as the Número Único do Cidadão (NUC), an identity number unique to each citizen, and the card carries an encrypted QR code in the photo band.", "as_of": "2021-01-25", "date_precision": "day", "system": "Lei n.º 4/09 (Regime Jurídico da Identificação Civil e Emissão do Bilhete de Identidade de Cidadão Nacional), as amended by Lei n.º 20/17 and Lei n.º 3/21", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Bilhete de Identidade de Cidadão Nacional", "country_label": "Bilhete de Identidade (BI); Número Único do Cidadão (NUC); Base de Dados de Cidadão Maior", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

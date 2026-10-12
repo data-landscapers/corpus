@@ -1,0 +1,18 @@
+{
+  "slug": "2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "The transitional legislative assembly examined and adopted the bill on unique electronic identification of the natural person on 11 October 2024; the article does not mention promulgation.",
+     "as_of": "2024-10-11", "date_precision": "day",
+     "system": "Law on unique electronic identification of the natural person (2024)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital",
+     "fact": "The article says the adopted law underpins a system giving each resident a random unique identifier, issued against biographic and biometric data (fingerprints and iris), and linked to the CNIB, passport, driving licence, patient file and bank account.",
+     "as_of": "2024-10-11", "date_precision": "day",
+     "system": "Law on unique electronic identification of the natural person (2024)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Unique electronic identification system (identifiant unique)", "country_label": "système d'identification unique électronique de la personne", "class": "other", "platform": "", "owner": "Ministry in charge of digital transition", "tiers": "national; linked to CNIB, passport, driving licence, health and bank records"},
+    {"system": "CNIB", "country_label": "CNIB", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

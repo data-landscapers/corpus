@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-23-lca-final-call-for-sim-registration",
+  "facts": [],
+  "systems": [
+    {"system": "SIM card registration", "country_label": "Communications (Subscriber Identity Module Registration) Regulations 2021", "class": "other", "platform": "", "owner": "Lesotho Communications Authority", "tiers": "mobile subscribers (Econet, Vodacom)"}
+  ],
+  "note": "SIM registration rules are class other; the document states nothing about a national identity law."
+}

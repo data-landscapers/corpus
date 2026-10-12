@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-11-zaf-techcentral-digital-id-plumbing-behind-neighbours",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "TechCentral reports the National Identification and Registration Bill is only due in parliament in 2027/2028; no date other than the article's publication date is given.", "as_of": "2026-09-11", "date_precision": "day", "system": "National Identification and Registration Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "other", "platform": "smartphone-based digital identity", "owner": "Department of Home Affairs", "tiers": ""},
+    {"system": "Draft amendments to the Identification Regulations", "country_label": "draft Identification Regulations", "class": "other", "platform": "", "owner": "Department of Home Affairs", "tiers": ""},
+    {"system": "Electronic Communications and Transactions Act, 2002", "country_label": "Electronic Communications and Transactions Act of 2002", "class": "other", "platform": "", "owner": "South African Accreditation Authority", "tiers": ""}
+  ],
+  "note": "Draft regulations gazetted 4 May 2026 with comment closed 6 June 2026 and no commencement date are not applied; the electronic signature act is class other."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "registre national des personnes physiques", "class": "other", "platform": "", "owner": "ONECI (Office national de l'état civil et de l'identification)", "tiers": "DGE (electoral directorate), as sole source of voter identification data under a convention signed 2026-01-22"}
+  ],
+  "note": "Reports a DGE-ONECI convention on the electoral file; it states nothing about the identity law's standing or cover."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-18-nga-blueprint-digital-id-akume",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Secretary to the Government of the Federation said at the National Day of Identity that the enactment of the National Identity Management Commission Act, 2026 gave the identity system a stronger legal foundation and made NIMC the root certification authority for identity; no enactment date is given, so the event date is used.",
+      "as_of": "2026-09-16",
+      "date_precision": "day",
+      "system": "National Identity Management Commission Act 2026",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NINAuth",
+      "country_label": "NINAuth",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identity Management Commission",
+      "tiers": ""
+    }
+  ],
+  "note": "Standing only; the document does not state that the Act sets up a biometric register or unique number, or any dated rule made under it."
+}

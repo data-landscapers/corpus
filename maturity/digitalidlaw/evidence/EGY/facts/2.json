@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-31-egypt-digital-id-checks-fintech-transactions",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Identification Process (FRA Decree 140 of 2023)", "country_label": "Digital Identification Process", "class": "other", "platform": "", "owner": "Financial Regulatory Authority (FRA)", "tiers": "non-banking financial services entities"}
+  ],
+  "note": "FRA decrees under fintech Law 5 of 2022 require biometric identity checks; the document names no national identity law and no check against a national identity system, so no fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National mobile digital identity and electronic signature infrastructure (EDGE)",
+      "country_label": "mobile digital identity",
+      "class": "other",
+      "platform": "mobile app, starter card, virtual card",
+      "owner": "ATDI",
+      "tiers": ""
+    },
+    {
+      "system": "National Population Registry",
+      "country_label": "National Population Registry",
+      "class": "",
+      "platform": "",
+      "owner": "National Directorate of Civil Identification",
+      "tiers": ""
+    }
+  ],
+  "note": "Tender notice only; mentions national legal requirements but names no identity law, bill or rule."
+}

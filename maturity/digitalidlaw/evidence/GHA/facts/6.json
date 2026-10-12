@@ -1,0 +1,44 @@
+{
+  "slug": "2026-07-22-ghana-nia-mandatory-biometric-verification-li-2523",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Interior Ministry says the National Identity Register Regulations (L.I. 2111) are amended by L.I. 2523, a legislative instrument (regulations) made under the identity register law, in effect from 9 June 2026.",
+      "as_of": "2026-06-09",
+      "date_precision": "day",
+      "system": "National Identity Register Regulations (L.I. 2111), as amended by L.I. 2523",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The Interior Minister says L.I. 2523, signed 2 March 2026, gazetted 27 March 2026 and effective 9 June 2026, requires organisations offering services under Regulation 7 of L.I. 2111 to verify identity through the NIA biometric verification system or approved match-on-card devices.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ghana Card / National Identity Register",
+      "country_label": "Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Identity Verification System Platform (IVSP)",
+      "country_label": "IVSP",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": "banks, telecommunications companies, hospitals, educational institutions, government agencies"
+    }
+  ],
+  "note": ""
+}

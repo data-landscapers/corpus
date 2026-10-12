@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-state-house-tinubu-signs-nimc-act-2026",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The State House reports President Tinubu signed the 2026 NIMC Act into law on 26 June 2026.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIMC Act 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) system",
+   "country_label": "NIN",
+   "class": "",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

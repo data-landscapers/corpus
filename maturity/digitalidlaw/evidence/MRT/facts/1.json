@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law no. 2025-011 of 24 February 2025, promulgated by the President after adoption by the National Assembly, replaces articles 15, 31 and 34 of the Civil Status Code (law no. 2011-003 of 12 January 2011), an ordinary law that covers the national biometric population register and secure identity documents.", "as_of": "2025-02-24", "date_precision": "day", "system": "Code de l'Etat Civil (loi n° 2011-003, as amended by loi n° 2025-011)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The amended Civil Status Code, in new article 31, provides for the Registre National Biométrique des Populations, whose data changes are authorised by the structure named in article 6 of the 2011 Code, and new article 15 provides for secure-title applications and digital civil status acts through adopted information systems.", "as_of": "2025-02-24", "date_precision": "day", "system": "Code de l'Etat Civil (loi n° 2011-003, as amended by loi n° 2025-011)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Registre National Biométrique des Populations", "country_label": "Registre National Biométrique des Populations", "class": "other", "platform": "", "owner": "structure named in article 6 of the 2011 Civil Status Code", "tiers": "Centres d'Accueil des Citoyens"}
+  ],
+  "note": ""
+}

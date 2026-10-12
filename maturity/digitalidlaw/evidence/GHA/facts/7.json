@@ -1,0 +1,44 @@
+{
+  "slug": "2026-07-16-nia-li-2523-biometric-verification-press-release",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The NIA says the National Identity Register Act, 2008 (Act 750), as amended, is the parent act under which L.I. 2523 was made, an act of Parliament.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The NIA says L.I. 2523 was signed and gazetted on 27 March 2026 under Section 73(1) of Act 750 and came into effect on 9 June 2026, requiring institutions that verify identity to use real-time biometric verification against the NIA database via the IVSP.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ghana Card / National Identity Register",
+      "country_label": "Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Identity Verification System Platform (IVSP)",
+      "country_label": "IVSP",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": "banks, telecommunications companies, hospitals, educational institutions, government agencies"
+    }
+  ],
+  "note": ""
+}

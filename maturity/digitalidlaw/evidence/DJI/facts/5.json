@@ -1,0 +1,27 @@
+{
+  "slug": "2022-07-27-djibouti-loi-164-mdeni-missions",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Law 164/AN/22/8ème L of 27 July 2022 on the digital economy ministry cites Loi n° 39/AN/19/8ème L on identification of natural persons and the NNI among its legal bases.",
+      "as_of": "2022-07-27",
+      "date_precision": "day",
+      "system": "Loi n° 39/AN/19/8ème L (2019, national identification number and national register of persons)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The same law cites Decree n° 2020-146/PR/MI on terms of access, use and communication of the RNPP (decree date not given; year from its number).",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Décret n° 2020-146/PR/MI (access to and use of the RNPP), under Loi n° 39/AN/19/8ème L",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Ministry organisation law, not an identity law; facts only from its citations."
+}

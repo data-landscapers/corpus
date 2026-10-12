@@ -1,0 +1,26 @@
+{
+  "slug": "2018-05-29-ghana-nia-synopsis-national-identification-system-project",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The NIA synopsis cites sections of the National Identification Authority Act, 2006 (Act 707), the National Identity Register Act, 2008 (Act 750) as amended and regulation 7 of the National Identity Register Regulations, 2012 (L.I. 2111) as amended as requiring the Ghana Card in all transactions where identification is required; no event date given, so published date 2018-05-29 is used.",
+      "as_of": "2018-05-29",
+      "date_precision": "day",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification System (Ghana Card)",
+      "country_label": "National Identification System / Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "The mandatory-use rule is undated here, so no applied fact."
+}

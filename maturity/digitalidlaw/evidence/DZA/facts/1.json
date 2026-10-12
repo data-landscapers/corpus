@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "Projet de loi fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique", "country_label": "projet de loi sur les services de confiance numériques", "class": "other", "platform": "", "owner": "Ministère de la Poste et des Télécommunications", "tiers": ""},
+    {"system": "ANCE", "country_label": "ANCE (autorité de certification électronique)", "class": "other", "platform": "", "owner": "public body proposed by the draft law", "tiers": ""}
+  ],
+  "note": "Trust services and electronic transactions bill; the document says it introduces the principle of electronic identification but not that it sets up an identity number, register or card, so no identity-law fact."
+}

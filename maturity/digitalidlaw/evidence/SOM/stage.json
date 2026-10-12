@@ -1,0 +1,16 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "cover": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-003;SOM-002;SOM-001",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "cover": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-010;GHA-012;GHA-015;GHA-009",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

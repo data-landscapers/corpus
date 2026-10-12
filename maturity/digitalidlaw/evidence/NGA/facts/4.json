@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-22-thisday-shettima-digital-transformation-nimc-act-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document states that President Tinubu signed the NIMC Act 2026 into law, replacing the 2007 Act; it gives no signing date, so the document's published date, 22 July 2026, is used and the signing was on or before it.", "as_of": "2026-07-22", "date_precision": "day", "system": "National Identity Management Commission Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission Act 2026", "country_label": "NIMC Act 2026", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": ""},
+    {"system": "National Identification Number", "country_label": "NIN", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": "Nigeria Immigration Service passports; insurers; financial institutions; public agencies"}
+  ],
+  "note": ""
+}

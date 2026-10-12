@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-17-eritrea-embassy-national-id",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Eritrean National ID",
+      "country_label": "National ID",
+      "class": "other",
+      "platform": "Consular Affairs Processing System (CAPS) online application",
+      "owner": "Embassy of Eritrea, Washington DC",
+      "tiers": ""
+    }
+  ],
+  "note": "Embassy fee and document checklist for national ID with fingerprint verification; names no identity law."
+}

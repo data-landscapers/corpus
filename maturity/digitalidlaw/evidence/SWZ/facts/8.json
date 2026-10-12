@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-16-swz-network-blackout-home-affairs-eptc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national ID card and passport processing",
+      "country_label": "national ID card",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "Reports a network outage halting ID processing; names no identity law."
+}

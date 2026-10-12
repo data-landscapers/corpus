@@ -1,0 +1,14 @@
+{
+  "slug": "2025-08-21-wuri-sensibilisation-bobo-dioulasso-identifiant-unique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "At a WURI awareness workshop on 19 August 2025 the minister for digital transition said a law framing the unique electronic person identifier was adopted the previous year; the article does not say it was promulgated or in force.",
+     "as_of": "2025-08-19", "date_precision": "day",
+     "system": "Law on unique electronic identification of the natural person (adopted 2024)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Unique electronic identification of the person (identifiant unique)", "country_label": "identification unique électronique de la personne", "class": "other", "platform": "", "owner": "Ministry of Digital Transition (WURI project)", "tiers": "national"},
+    {"system": "WURI programme", "country_label": "Programme WURI", "class": "other", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communication", "tiers": "national"}
+  ],
+  "note": ""
+}

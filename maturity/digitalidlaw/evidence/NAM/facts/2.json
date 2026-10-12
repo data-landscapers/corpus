@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-30 Civil Registration and Identification Act, 2024",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Civil Registration and Identification Act, Act No. 13 of 2024, an act of parliament, is Namibia's statute for civil registration and legal identity, with a Civil Register that includes an Identity Register under a Registrar-General; the document gives no commencement date, so the date is its published date, 2024-12-30.", "as_of": "2024-12-30", "date_precision": "day", "system": "Civil Registration and Identification Act, 2024 (Act No. 13 of 2024)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The Act assigns each person a unique identity number linked to a personal profile, authorises physical or electronic identity documents, and governs authentication and verification of Civil Register data; the date is the document's published date, 2024-12-30.", "as_of": "2024-12-30", "date_precision": "day", "system": "Civil Registration and Identification Act, 2024 (Act No. 13 of 2024)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Civil Register (Birth, Marriage, Death and Identity Registers)", "country_label": "Civil Register", "class": "other", "platform": "", "owner": "Registrar-General", "tiers": "national"}
+  ],
+  "note": ""
+}

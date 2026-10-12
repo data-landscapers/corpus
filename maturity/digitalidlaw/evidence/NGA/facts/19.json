@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The NIMC repeal and enact bill No. 23, amending the NIMC Act of 2007, was first read in the Senate on 5 June 2024 and passed second reading in early July 2024, per NIMC's statement of 26 July 2024.", "as_of": "2024-07-26", "date_precision": "day", "system": "NIMC repeal and enact bill No. 23", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The NIMC Act of 2007, an Act of the National Assembly that provided penalties for not using the NIN, was the law in force when NIMC made its statement of 26 July 2024.", "as_of": "2024-07-26", "date_precision": "day", "system": "NIMC Act 2007", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": ""}
+  ],
+  "note": ""
+}

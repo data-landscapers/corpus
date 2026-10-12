@@ -1,0 +1,12 @@
+{
+  "slug": "2022-11-11-mali-jo-2022-35-decret-2022-0639-carte-identite-biometrique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree n°2022-0639/PT-RM of 3 November 2022, instituting the biometric national identity card, cites Law n°06-040 of 11 August 2006 (the NINA law) among the texts it rests on, as a law in force at that date; the document is itself a decree, not a law.", "as_of": "2022-11-03", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "Decree n°2022-0639/PT-RM of 3 November 2022, made citing Law n°06-040 and its 2006 decree, requires the NINA number for any first or renewed biometric ID card application, which police, gendarmerie and sub-prefects issue; it also states the card replaces the NINA card by right.", "as_of": "2022-11-03", "date_precision": "day", "system": "Loi n°06-040 du 11 août 2006 portant institution du Numéro d'Identification Nationale (NINA)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Carte nationale d'Identité biométrique sécurisée", "country_label": "Carte nationale d'Identité biométrique sécurisée", "class": "other", "platform": "", "owner": "Ministre chargé de la Sécurité (Ministère de la Sécurité et de la Protection civile)", "tiers": "Police commissioners, gendarmerie brigade commanders, sub-prefects; diplomatic and consular missions abroad"},
+    {"system": "NINA (Numéro d'Identification Nationale)", "country_label": "NINA", "class": "other", "platform": "", "owner": "", "tiers": "Carried on the biometric card; required to apply for it"}
+  ],
+  "note": ""
+}

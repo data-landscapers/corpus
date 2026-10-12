@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "other", "platform": "", "owner": "ANIP", "tiers": "national"},
+    {"system": "Numero Personnel d'Identification (NPI)", "country_label": "NPI", "class": "other", "platform": "", "owner": "ANIP", "tiers": "national"},
+    {"system": "Carte Nationale d'Identite Biometrique (CNIB)", "country_label": "CNIB", "class": "other", "platform": "", "owner": "ANIP", "tiers": "national"}
+  ],
+  "note": "Playbook describes the RNPP, NPI, certificates and CNIB and their issue counts; it names no identity law, bill, decree or rule made under one."
+}

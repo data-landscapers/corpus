@@ -1,0 +1,12 @@
+{
+  "slug": "2019-01-01-zambia-national-registration-regulations-2019",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Registration Regulations, 2019 (Statutory Instrument No. 34 of 2019) are made under section 14 of the National Registration Act (Cap. 126), the Act that provides for the national registration card, with a Chief Registrar and registrars; the document gives no day, so its published date is used, and the Act is an in-force principal act (a statutory instrument of 2019 made under it, revoking S.I. No. 257 of 1965).", "as_of": "2019-01-01", "date_precision": "day", "system": "National Registration Act (Cap. 126)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "applied", "fact": "Statutory Instrument No. 34 of 2019 applies the National Registration Act (Cap. 126), prescribing the registration procedure (application, photograph, capture of 10 rolled and 10 plain fingerprints, birth certificate), the national registration card forms with an NRC number, and change of particulars, loss and death procedures; the document gives no day, so its published date is used.", "as_of": "2019-01-01", "date_precision": "day", "system": "National Registration Act (Cap. 126)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Registration Act (Cap. 126)", "country_label": "National Registration Act (Laws, Volume 9, Cap. 126)", "class": "law", "platform": "", "owner": "Chief Registrar", "tiers": ""},
+    {"system": "National Registration Card (NRC)", "country_label": "Green Registration Card for citizens, NRC Number", "class": "other", "platform": "", "owner": "Chief Registrar", "tiers": ""}
+  ],
+  "note": ""
+}

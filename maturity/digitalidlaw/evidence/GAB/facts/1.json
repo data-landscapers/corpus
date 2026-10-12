@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-16-gabon-digital-identity-governance-milestone",
+  "facts": [],
+  "systems": [
+    {"system": "Système national d'identité digitale (SNID)", "country_label": "SNID", "class": "other", "platform": "", "owner": "ANINF", "tiers": "banks, SIM issuance, health, administration"},
+    {"system": "IBOGA (Identité Biométrique Officielle du Gabon)", "country_label": "IBOGA", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Carte Nationale d'Identité Électronique", "country_label": "CNIE", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Says the legal framework is evolving around a law on the NIP and a law on the CNEC but gives no stage, date or instrument for either, so no standing or cover fact."
+}

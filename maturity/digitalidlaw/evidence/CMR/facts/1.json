@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Biometric Update reports Law 2024/016, the new civil-registration law, as the law BUNEC is implementing; it is an ordinary law, and the document gives no promulgation date, so the publication date is used.", "as_of": "2025-10-27", "date_precision": "day", "system": "Law 2024/016 (civil registration law)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Biometric Update says Law 2024/016 authorises digital birth, marriage and death certificates and a Unique Personal Identification Number for every citizen; the document gives no date for this other than its own publication.", "as_of": "2025-10-27", "date_precision": "day", "system": "Law 2024/016 (civil registration law)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Unique Personal Identification Number (UPIN)", "country_label": "Unique Personal Identification Number", "class": "other", "platform": "", "owner": "BUNEC", "tiers": ""},
+    {"system": "new biometric national ID", "country_label": "new biometric national ID", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

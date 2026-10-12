@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-12-proposition-loi-identification-personnes-physiques-actualite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Two national deputies tabled at the National Assembly's Bureau a private member's bill (proposition de loi) on the general rules for identifying natural persons in the DRC, which the document says is to go through committee and then possibly plenary, with the existing identity arrangements resting on decrees creating the Fichier Général de la Population and the national identity card.", "as_of": "2026-06-12", "date_precision": "day", "system": "Proposition de loi portant règles générales applicables à l'identification des personnes physiques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Fichier Général de la Population", "country_label": "Fichier Général de la Population (FGP)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Carte d'identité nationale", "country_label": "Carte d'identité nationale", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "RNP", "class": "", "platform": "", "owner": "ANEI", "tiers": "national; to be interoperable with functional registers"},
+    {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "RNEC", "class": "", "platform": "", "owner": "Direction Générale de l'état civil, des migrations et des réfugiés", "tiers": "communes and declaration centres"},
+    {"system": "Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques", "country_label": "ANEI", "class": "", "platform": "", "owner": "Government of Niger", "tiers": "public administrative body created by decree n°2026-242 of 2026-04-22; statutes by decree n°2026-243"},
+    {"system": "WURI-Niger", "country_label": "WURI-Niger", "class": "", "platform": "", "owner": "World Bank-financed", "tiers": ""}
+  ],
+  "note": "Lists the civil-status ordinance (n°2026-21 or 2026-22, the source's own discrepancy) of 2026-04-22, application decree 2026-277 of 2026-05-18 and two ANEI decrees of 2026-04-22; the ordinance is a civil-status regime and the text does not say it sets up an identity number, register or card, and the ANEI decrees set up an agency; no fact recorded."
+}

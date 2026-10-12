@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-03-nimc-national-trust-authority-act-2026-gocop-roundtable",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document states that President Tinubu signed the NIMC Act 2026 into law on 26 June 2026, repealing the NIMC Act 2007 and keeping the National Identity Management Commission as the country's identity authority; it is an Act of the National Assembly.", "as_of": "2026-06-26", "date_precision": "day", "system": "National Identity Management Commission Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Management Commission Act 2026", "country_label": "NIMC Act 2026", "class": "law", "platform": "", "owner": "National Identity Management Commission", "tiers": ""},
+    {"system": "National Identity Number", "country_label": "NIN", "class": "other", "platform": "", "owner": "National Identity Management Commission", "tiers": ""}
+  ],
+  "note": ""
+}

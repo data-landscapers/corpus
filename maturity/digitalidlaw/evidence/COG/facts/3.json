@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb",
+  "facts": [],
+  "systems": [
+    {"system": "NIU (carte de numéro d'identification unique)", "country_label": "NIU", "class": "other", "platform": "", "owner": "police nationale, collecte de données (local supervision)", "tiers": "departmental, Pointe-Noire"},
+    {"system": "carte nationale d'identité (CNI)", "country_label": "CNI", "class": "other", "platform": "", "owner": "", "tiers": "departmental, Pointe-Noire"}
+  ],
+  "note": "Reports a card distribution campaign in Pointe-Noire and uncollected card counts; it names no law, decree or order."
+}

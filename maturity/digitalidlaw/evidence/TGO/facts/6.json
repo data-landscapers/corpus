@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-anid-togo-presentation-missions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ANID's own page says the agency was created by law n° 2020-009 of 10 September 2020 on biometric identification of natural persons in Togo, as amended by law n° 2022-010; the page is undated and gives no date for the law's status, so as_of is the law's own date.", "as_of": "2020-09-10", "date_precision": "day", "system": "Law n° 2020-009 of 10 September 2020 on biometric identification of natural persons, as amended by law n° 2022-010", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Central National Biometric Identification Database", "country_label": "Central National Biometric Identification Database", "class": "other", "platform": "", "owner": "ANID", "tiers": "national"},
+    {"system": "Social Register of Individuals and Households (RSPM)", "country_label": "Registre social des personnes et des ménages", "class": "other", "platform": "", "owner": "ANID", "tiers": "national"}
+  ],
+  "note": "No cover fact: the page lists ANID's functions (registration, unique number, authentication) but does not say the law sets up the register or number, and names no dated implementing instrument."
+}

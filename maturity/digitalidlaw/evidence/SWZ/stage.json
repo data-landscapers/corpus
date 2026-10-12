@@ -1,0 +1,16 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "no evidence",
+   "standing": "",
+   "cover": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a national identity law or bill, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

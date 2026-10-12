@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "cover": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-003;MUS-004;MUS-001",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-digitalidlaw.py."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Organic Law No. 2024-22 of 11 March 2024, published in JORT No. 37 of 12 March 2024, amends and completes Law No. 93-27 of 22 March 1993 on the national identity card, issued by the Ministry of Interior; an organic law promulgated by the President.", "as_of": "2024-03-11", "date_precision": "day", "system": "Law No. 93-27 of 1993 on the national identity card, as amended by Organic Law No. 2024-22 of 2024", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Organic Law No. 2024-22 of 2024 provides that the identity card carries an encrypted secure electronic chip holding the card number and fingerprint and photo, and an electronic certificate allowing identity verification and electronic signature; it leaves the card model to a decree and the certificate rules to a joint ministerial order, with no such instrument dated in the document.", "as_of": "2024-03-11", "date_precision": "day", "system": "Law No. 93-27 of 1993 on the national identity card, as amended by Organic Law No. 2024-22 of 2024", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National identity card with electronic chip", "country_label": "Carte nationale d'identité", "class": "other", "platform": "", "owner": "Ministry of Interior (specialised services); Directorate General of National Security", "tiers": "police, national guard, customs"}
+  ],
+  "note": ""
+}

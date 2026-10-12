@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-20-thisday-alake-nimc-digital-identity-illegal-mining",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The NIMC Act, 2026, which the NIMC Director-General calls recently enacted, is the law behind Nigeria's national identity management; it is an Act of the National Assembly (no date of enactment given, so the document's publication date is used).", "as_of": "2026-07-20", "date_precision": "day", "system": "NIMC Act, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NIMC digital identity infrastructure", "country_label": "NIMC digital identity infrastructure", "class": "", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "Ministry of Solid Minerals Development (planned)"}
+  ],
+  "note": ""
+}

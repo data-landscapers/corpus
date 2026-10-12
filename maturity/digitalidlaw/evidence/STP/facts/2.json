@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "bill",
+      "fact": "A World Bank mission of 8-12 September 2025 flagged as urgent the review, public consultation, finalisation and approval of the new identity law (the 'aggregated identification document Law'), warning that without approval data collection could be constrained, so it is a drafted law not yet approved.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "New identity law (aggregated identification document Law), STP",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Identity (new foundational identity, bilhete de identidade, with Verifiable Credentials Infrastructure)",
+      "country_label": "Identidade Digital / bilhete de identidade",
+      "class": "other",
+      "platform": "Verifiable Credentials Infrastructure and DEX interoperability platform built by system integrator Ooru",
+      "owner": "INIC and DGRN, under the World Bank STP Digital project (P177158)",
+      "tiers": "planned mass population registration January/February 2026"
+    }
+  ],
+  "note": "One standing fact only; no cover fact, as the document gives no statement that a law in force sets up a digital identity and no regulation made under one."
+}

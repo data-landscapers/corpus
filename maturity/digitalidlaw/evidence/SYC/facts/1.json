@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-08-seychelles-miscellaneous-amendments-act-2023",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Miscellaneous Amendments Act 2023 (Act 22 of 2023, assented 8 November 2023) amends the National Identity Cards Act, Cap. 294, a statute in force, adding a card for non-resident citizens (new section 4A) and new rules on disclosing card information.", "as_of": "2023-11-08", "date_precision": "day", "system": "National Identity Cards Act, Cap. 294", "class": "law"}
+  ],
+  "systems": [],
+  "note": "The Act states a card bears a National Identity Number but not that it is unique, biometric or electronically checkable, and no regulation under it is dated, so no cover fact."
+}

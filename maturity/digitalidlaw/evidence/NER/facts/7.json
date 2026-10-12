@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'identité biométrique AES (CNIB AES)",
+      "country_label": "CNIB AES",
+      "class": "other",
+      "platform": "",
+      "owner": "Police nationale",
+      "tiers": "regional enrolment in Agadez; central production in Niamey"
+    }
+  ],
+  "note": "Describes CNIB enrolment in Agadez (fees, documents) but cites no identity law, bill, decree or order."
+}

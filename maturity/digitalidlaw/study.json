@@ -143,7 +143,15 @@
       "subject": "gov.legislate",
       "text": "Legislation covering digital id: national identity law",
       "indicator_id": "gov.legislate--legislation-covering-digital-id-national-identity-law",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no national identity law and no bill for one.",
+        "A bill for a national identity law is drafted, before parliament or passed and not yet promulgated, or the identity system runs on a decree or order with no law behind it.",
+        "A national identity law is in force: a law, ordinance or decree-law that sets up the identity number, the register of persons or the identity card, however old. A data protection law, or a civil registration law that sets up no identity number or card, does not count.",
+        "The law in force provides for a digital identity: a biometric register, an identity number unique to each person, or an identity that can be checked electronically. A law for a paper card only does not reach this stage.",
+        "Rules have been made under that law in the past three years: a regulation or decree applying it, or a rule that banks, phone companies or public bodies must check identity against the system. Cards issued, people enrolled and changes to fees do not count."
+      ],
+      "criteria_of": "2b076af73687"
     }
   ],
   "classes": [

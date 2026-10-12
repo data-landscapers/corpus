@@ -1,0 +1,11 @@
+{
+  "slug": "2011-03-21-lesotho-national-identity-cards-act-2011",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Identity Cards Act, 2011 (Act 9 of 2011), an Act of Parliament published in Government Gazette 33 on 21 March 2011, commenced on 1 July 2013 and repealed the National Identity Cards Act, 2004.", "as_of": "2013-07-01", "date_precision": "day", "system": "National Identity Cards Act, 2011 (Act 9 of 2011); National Identity Register and national identity card", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The National Identity Cards Act, 2011 establishes a National Identity Register that records fingerprints and an image for persons aged sixteen and over, assigns each entry a unique National Identity Number, and provides for an identity card with a chip holding fingerprints.", "as_of": "2013-07-01", "date_precision": "day", "system": "National Identity Cards Act, 2011 (Act 9 of 2011); National Identity Register and national identity card", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Identity Register", "country_label": "National Identity Register", "class": "other", "platform": "", "owner": "Director responsible for national identity cards, under the Minister responsible for the Register and identity cards", "tiers": ""}
+  ],
+  "note": ""
+}

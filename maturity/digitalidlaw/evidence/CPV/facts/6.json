@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-cabo-verde-sniac-sistema-nacional-identificacao-autenticacao-civil",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Justice page states that the national civil identification and authentication system (SNIAC) was created by Lei n.º 43/VIII/2013 of 17 September 2013, an ordinary law, as the central system for identification, civil authentication and the citizen life cycle, run by the Direção-Geral dos Registos, Notariado e Identificação (DGRNI); the page is undated and its published date (2020) is used only for currency.", "as_of": "2013-09-17", "date_precision": "day", "system": "Lei n.º 43/VIII/2013 (SNIAC)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "other", "platform": "", "owner": "Direção-Geral dos Registos, Notariado e Identificação (Ministry of Justice)", "tiers": "central government; data supplier to other public administration subsystems; supplies data for the CNI, electronic passport and residence title"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "other", "platform": "", "owner": "DGRNI", "tiers": "citizens of Cabo Verdean nationality; valid 5 years"}
+  ],
+  "note": "No cover fact: the page does not say the law provides for a biometric register, unique number or electronic check (electronic authentication is listed as a mission goal); Decreto-Lei n.º 30/2020 is cited only for a card fee."
+}

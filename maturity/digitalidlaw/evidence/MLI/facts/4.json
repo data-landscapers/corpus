@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-12-maliweb-justice-casier-nationalite-en-ligne",
+  "facts": [],
+  "systems": [
+    {"system": "NINA", "country_label": "Numéro d'Identification Nationale (NINA)", "class": "other", "platform": "", "owner": "", "tiers": "national; used by citizens to apply on the Justice Ministry's online criminal record and nationality certificate portals"}
+  ],
+  "note": "States no identity law, bill or rule; NINA is only the number citizens use to apply on two online portals."
+}

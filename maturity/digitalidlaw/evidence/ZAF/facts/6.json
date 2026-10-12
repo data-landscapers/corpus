@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-06-problem-with-plan-for-digital-ids-in-south-africa",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "bill",
+      "fact": "Home Affairs' first-quarter performance report to Parliament says it did not submit the National Identification Registration Bill for public comment, as it had to revise it in line with the Digital Identity Policy framework, blaming a failure to appoint a legal drafting provider (reported 2026-10-06; the quarter is not dated in the document).",
+      "as_of": "2026-10-06",
+      "date_precision": "day",
+      "system": "National Identification Registration Bill (NIRB)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Identity",
+      "country_label": "Digital ID",
+      "class": "other",
+      "platform": "",
+      "owner": "Department of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "Draft amendments to the identity regulations of May 2026 are drafts only, so no applied fact."
+}

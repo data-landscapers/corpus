@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-11 Semlex Guinea-Bissau strengthens access to biometric identification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "biometric national identity card",
+      "country_label": "biometric national ID card",
+      "class": "other",
+      "platform": "Semlex",
+      "owner": "Ministry of Justice, Directorate General of Civil Identification",
+      "tiers": "national, 18 production centres"
+    }
+  ],
+  "note": "Production centre news; names no identity law, decree or bill."
+}

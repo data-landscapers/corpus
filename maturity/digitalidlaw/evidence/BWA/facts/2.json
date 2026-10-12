@@ -1,0 +1,12 @@
+{
+  "slug": "1986-12-24-national-registration-act-1986",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The National Registration Act, 1986 (No. 26), an Act of the Parliament of Botswana assented on 24 December 1986, commenced on 31 December 1986 and sets up a national register of citizens and lawfully resident non-citizens aged 16 or over, kept by the Registrar of National Registration, with an identity card issued to each registered person.", "as_of": "1986-12-31", "date_precision": "day", "system": "National Registration Act, 1986 (No. 26)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The Act requires every applicant to submit to fingerprinting and photographing, requires finger print records to go to the Registrar of National Registration, and gives each registrant a registration number in the national register, so the register it sets up is biometric.", "as_of": "1986-12-31", "date_precision": "day", "system": "National Registration Act, 1986 (No. 26)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Registration Act, 1986 (No. 26)", "country_label": "National Registration Act", "class": "law", "platform": "", "owner": "Parliament of Botswana; Minister responsible for Home Affairs", "tiers": ""},
+    {"system": "National register and district registers (identity cards)", "country_label": "National register", "class": "", "platform": "", "owner": "Registrar of National Registration", "tiers": "national;district"}
+  ],
+  "note": ""
+}

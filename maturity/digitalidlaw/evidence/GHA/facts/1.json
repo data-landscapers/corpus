@@ -1,0 +1,66 @@
+{
+  "slug": "2023-11-05-nia-ghana-laws-and-regulations",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The NIA lists the National Identification Authority Act, 2006 (Act 707), the National Identity Register Act, 2008 (Act 750) and the National Identity Register (Amendment) Act, 2017 (Act 950) as the Acts governing the authority; all are Acts of Parliament; the page is dated 2023-11-05 and was observed 2026-07-20.",
+      "as_of": "2023-11-05",
+      "date_precision": "day",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The NIA lists the National Identity Register Regulations, 2012 (L.I. 2111) as a regulation made under the identity Acts.",
+      "as_of": "2012",
+      "date_precision": "year",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The NIA lists the National Identity Register (Amendments) Regulations, 2018 (L.I. 2356) as a regulation made under the identity Acts.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The NIA lists Gazette No. 30 of 15 February 2024, made under Act 707 and L.I. 2111, specifying types of portable identity card readers.",
+      "as_of": "2024-02-15",
+      "date_precision": "day",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "cover",
+      "value": "applied",
+      "fact": "The NIA lists Gazette No. 52 of 2 May 2018, made under Act 707 and L.I. 2111 as amended, on mandatory use of the national identity card.",
+      "as_of": "2018-05-02",
+      "date_precision": "day",
+      "system": "National Identification Authority Act, 2006 (Act 707) and National Identity Register Act, 2008 (Act 750)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identification System (Ghana Card)",
+      "country_label": "National Identification System / Ghana Card",
+      "class": "other",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}
