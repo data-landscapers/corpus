@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: data.statistics
-places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 0feea18612f1
+places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
+record: ae1e5c7a3668
 ---
 
 # National statistics: monthly update, September – October 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,8 @@ Counting for the fourth population and agriculture census [closed on 15 Septembe
 ## Central African Republic
 
 The statistics institute posted the regulator's first-half 2026 market observatory on 16 September, compiled from the returns operators must file under the regulator's decision of 25 June 2025. [It puts internet clients at more than 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0).
+
+The institute [held the mid-term evaluation of the second national statistics strategy in Bangui on 7 to 9 October 2026, financed by UNDP; the strategy is to be updated with revised indicators and a realigned calendar](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
 
 ## Chad
 
@@ -81,6 +83,10 @@ Census enumeration [is complete, with mop-up operations still running in Maseru 
 
 The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published. A green industry centre [published a report of industrial and environmental indicators recording 305 registered industrial establishments, 301 of them private, and 26,034 workers](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation).
 
+## Mali
+
+The Council of Ministers [took note on 9 October 2026 of the fourth Schéma Directeur de la Statistique and its action plan for 2026 to 2030, on a written communication from the economy and finance minister](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). It sets four axes: [management of the national statistical system, its capacity, statistical production, and analysis with modernised dissemination and use](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). The text is not held.
+
 ## Mauritius
 
 The central bank opened its own statistics rather than waiting for the statutory framework to be rewritten. It [launched a central statistical database on 3 September, developed with the International Monetary Fund and the African Development Bank, opening statistical information to businesses, researchers, policymakers and citizens](https://gis.govmu.org/gis/?page_id=4008); the prime minister said a standards and codes report had underscored the need to strengthen statistical capacity and modernise dissemination, and that the statistics statute and the central bank statute are being reviewed. No series list, update cadence, licence or machine-readable access route is stated for the portal.
@@ -115,11 +121,11 @@ An [expression of interest for a consultant to develop South Africa's National S
 
 ## Togo
 
-The statistics institute put a second survey in the field. The third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december) — the second of two rounds opened within six weeks, after a demographic and health gap of more than a decade.
+The statistics institute's third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december).
 
 ## Tunisia
 
-The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it. The regulator's survey [breaks internet use down by age, income, sex and district](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/): 99.2 per cent at 18 to 24 against 54.1 per cent at 60 to 70, and 69.1 per cent in the poorest households against 95.9 per cent in the richest.
+The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique. The regulator's survey [breaks internet use down by age, income, sex and district](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/): 99.2 per cent at 18 to 24 against 54.1 per cent at 60 to 70, and 69.1 per cent in the poorest households against 95.9 per cent in the richest.
 
 ## Uganda
 

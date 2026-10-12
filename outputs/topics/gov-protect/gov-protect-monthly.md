@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: gov.protect
 places: AGO; BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 208f505fc020
+record: d87db6756aa1
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -99,6 +99,8 @@ The consultation acquired a political timetable on 10 September, when the educat
 
 The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
 
+A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held.
+
 ## Senegal
 
 The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
@@ -121,7 +123,7 @@ The community development ministry told parliament on 31 August 2026 that [a Nat
 
 ## Togo
 
-The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published. The data-protection authority [opened its first certification session for data protection officers, assessing 32 professionals](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/).
+On 15 September the data protection authority [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published. On 30 September it [opened its first certification session for data protection officers, assessing 32 professionals](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/).
 
 ## Tunisia
 

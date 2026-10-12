@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: infra.capacity
 places: CMR; COD; KEN; LBY; RWA; ZAF; TGO
-record: d5c6f01c1409
+record: ffac53076a4d
 ---
 
 # Technical Capacity: monthly update, September – October 2026
@@ -39,4 +39,4 @@ The domain registry [counted 1.5 million active registrations across its four co
 
 ## Togo
 
-The digital agency's [governance model for building and maintaining government systems](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) is now held: ministry, agency, public institutions, a super-integrator training integrators on the agency's low-code platforms, and integrators. It names giving itself the force of law as still outstanding. What arrived is the repository's holding of the document, not a change in the arrangement.
+The digital agency's published [governance model for building and maintaining government systems](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) names five tiers: ministry, agency, public institutions, a super-integrator training integrators on the agency's low-code platforms, and integrators. It lists giving itself the force of law as a step still outstanding.

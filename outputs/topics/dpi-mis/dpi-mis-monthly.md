@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a0f5599f632b
+record: 0fe0f4b4c168
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -191,19 +191,21 @@ Community health work is being tied to the payment rail. Local government's ICT 
 
 The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
 
+A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated.
+
 ## Togo
 
 An agricultural information system changed hands: [SIHAM, which sends forecasts, prices and input availability to farmers free by SMS, was handed to the national farmers' organisation to run on 15 September](https://www.togofirst.com/en/agriculture/1609-20075-togo-rolls-out-siham-to-improve-farmers-access-to-agricultural-information).
 
 ## Tunisia
 
-The school platform's first mass use is measured, and the measurement is mid-campaign. Remote enrolment reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online — which is the number that would say whether the platform is a route or a requirement.
+Remote enrolment on the school platform reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online.
 
 The health ministry and UNICEF [set the priority needs for a national digital platform covering the care of mothers, newborns and children](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/), after a benchmarking study; no build date or host is stated.
 
 The family ministry [brought a case system for child-protection delegates into service on 11 September, digitising notifications on children at risk](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9); no access rule or volume is published.
 
-Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published. The health ministry [announced a national platform to track medicine stocks and the generalisation of e-pharmacy](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/), with no supplier or launch date. [The religious affairs ministry launched a digital platform to manage mosque staff, presented on 9 October 2026: it tracks personnel files, identifies vacant posts and links central and regional services](https://www.lapresse.tn/2026/10/10/lancement-dune-plateforme-numerique-pour-gerer-les-cadres-des-mosquees/).
+The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published. The health ministry [announced a national platform to track medicine stocks and the generalisation of e-pharmacy](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/), with no supplier or launch date. [The religious affairs ministry launched a digital platform to manage mosque staff, presented on 9 October 2026: it tracks personnel files, identifies vacant posts and links central and regional services](https://www.lapresse.tn/2026/10/10/lancement-dune-plateforme-numerique-pour-gerer-les-cadres-des-mosquees/).
 
 ## Uganda
 
@@ -216,6 +218,8 @@ The tax stamps system published its scale: [more than 1,680 manufacturers and im
 The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own.
 
 The facility record system drew its first district-level complaint on this record. Health workers in Kiryandongo told a public meeting on 19 September that [the ministry's electronic medical record system, introduced in selected facilities in 2016, stalls care for want of connectivity, stable power and computers](https://www.newvision.co.ug/category/health/kiryandongo-health-facilities-struggle-with-e-NV_241031_092026). No national count of facilities running it is published.
+
+The Judiciary [is running a data-cleaning exercise in nine Cluster 10 courts from 6 to 16 October 2026, reconciling physical files against the Court Case Administration System before the courts move to the electronic case management system](https://ugandaradionetwork.com/s/judiciary-cleans-case-records-ahead-of-eccmis-rollout-in-nine-courts/).
 
 ## Zambia
 

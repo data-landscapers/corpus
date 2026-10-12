@@ -1,10 +1,10 @@
 ---
 title: EU activities — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: geopol.eu
 places: CPV; GNQ; GMB; SEN
-record: 0bd8333e0251
+record: b54d050b5cfe
 ---
 
 # EU activities: monthly update, September – October 2026

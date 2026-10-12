@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 86292b84d723
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 10e53442fa84
 ---
 
 # Training and skills: monthly update, September – October 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -87,6 +87,10 @@ A mathematics and science teacher-training centre [ran an international workshop
 
 The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
 
+## Lesotho
+
+Government said [efforts are under way to establish the Smart Africa Digital Academy in the country](https://www.gov.ls/ict/lesotho-joined-a-continental-alliance-to-advance-ai-data-and-digital-skills-paving-the-way-for-the-establishment-of-the-smart-africa-digital-academy/), with no host institution, budget or opening date stated.
+
 ## Liberia
 
 A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
@@ -94,6 +98,10 @@ A second route into the national university was signed rather than built: a [tri
 The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was [signed in New York on 22 September for a 36-month term](https://elbcnews.com/2026/09/23/gender-minister-signs-partnership-with-cybastion-institute-of-technology-and-cisco-system/), with no cost stated.
 
 Outside government, a foundation-backed computer and robotics laboratory in Monrovia, open since July 2024, [reached 1,717 high-school students in 2025, up from about 200 in 2024](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), on the partner foundation's own figures.
+
+## Libya
+
+The social affairs ministry and the minister of state for digital economy and artificial intelligence [signed a memorandum launching the Wasl initiative at the Libya AI Forum in Tripoli on 10 October 2026, with one track on digital and artificial-intelligence skills for social-affairs staff and another on the digital empowerment of persons with disabilities](https://lana.gov.ly/post.php?id=367274&lang=ar).
 
 ## Mali
 
@@ -147,13 +155,13 @@ The instrument behind teacher training entered the repository, and it is eleven 
 
 ## Togo
 
-The university's own [programme catalogue](https://etu.univ-lome.tg/information/offre) is now held: licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree, so annual output in the field stays unmeasured.
+The University of Lome's [programme catalogue](https://etu.univ-lome.tg/information/offre) lists licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree.
 
 The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published. The data-protection authority and the Universite de Kara [signed a convention for a professional master's in digital law, cybersecurity and data protection](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/). The correspondents scheme reached the state: [thirty-three ministries and public institutions were briefed on naming focal points and certified data-protection correspondents](https://ahouevinfo.tg/technologie-protection-des-donnees-le-togo-accelere-la-mise-en-conformite-de-ses-administrations/), after thirty-two were certified from the private and parastatal sectors. No deadline or count of appointments made is published.
 
 ## Tunisia
 
-Against that intake runs the outflow. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
+[The first of twelve artificial-intelligence laboratories planned for vocational training centres in 2026-2027 was set up at the Kef centre, in partnership with the state operator](https://www.webdo.tn/fr/actualite/national/formation-professionnelle-le-kef-accueille-son-premier-laboratoire-dia-en-partenariat-avec-tunisie-telecom/404244/), announced by the minister on 17 September. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
 
 ## Uganda
 

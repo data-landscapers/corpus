@@ -1,15 +1,15 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
-record: 29ab2b9b9bef
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN; UGA
+record: 9ac48d489cee
 ---
 
 # Data Storage: monthly update, September – October 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -135,6 +135,10 @@ Zanzibar's communications minister said [more than TZS 53bn is set aside for thr
 
 ## Tunisia
 
-Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
+A prime ministerial circular of 2 September 2026 [requires public bodies’ websites and service platforms to be hosted only at the national computing centre, sectoral public centres or licensed operators, and bans circulating administrative documents over mobile applications and social media](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
 
 On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named. An operator and an IT services firm [announced a partnership for cloud resources hosted and operated in Tunisia](https://techafricanews.com/2026/10/06/tunisias-orange-and-focus-partner-to-expand-local-cloud-services/); no capacity is stated.
+
+## Uganda
+
+A former head of the communications regulator wrote that [the information technology authority's strategic plan provides for a third national data centre, with a primary site at Entebbe and disaster recovery at Jinja, guided by a market study launched in 2025](https://www.newvision.co.ug/category/blogs/plan-now-for-infrastructure-to-power-ai-NV_242203_102026). The centre had been removed from the World Bank project in 2025, and no financing or timetable is stated.

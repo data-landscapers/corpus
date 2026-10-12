@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 553e9f4f9da3
+record: 4ab1d0651318
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -117,6 +117,8 @@ One sector shows what the exchange is for. The housing minister said that [quali
 
 The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors. The digital transformation agency [trained 25 technicians from nine public bodies on the X-Road data-exchange layer, led by Estonian experts](https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/).
 
+A regional trade facilitation agency [awarded a US$174,000 contract to build the Mozambique Transport and Trade Observatory for the Beira Corridor, a platform integrating port, road, rail and customs data, to be hosted in Mozambican data centres and piloted on the Beira-Machipanda route](https://techdisruptormedia.com/featured/csm-tech-bags-tma-mandate-to-build-digital-trade-observatory-for-mozambiques-beira-corridor/).
+
 ## Nigeria
 
 The education repository put figures against its institution count. It now holds [907 enrolled institutions — 259 universities and 163 polytechnics among them — past 400,000 theses and dissertations with 115,000 credentials verified](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), reported on 7 September. [Submissions run 409,456 undergraduate against 1,563 postgraduate](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), a ratio of 262 to one, so what is being built is a record of first degrees.
@@ -159,9 +161,11 @@ The first service the repository holds that names agency-to-agency links went li
 
 The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published. The central bank [signed a cooperation agreement with IFC on the credit reporting system](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing).
 
+The deputy communications minister [called on parcel and express courier providers to register and connect their tracking systems to the national tracking and information-exchange systems, commending those already linking to the Communication Monitoring System the regulator oversees](https://www.mawasiliano.go.tz/news/serikali-yawataka-wasafirishaji-kuunganisha-mifumo-ya-ufuatiliaji-wa-vifurushi-2).
+
 ## Togo
 
-The shared layer it would fit into is now visible, and it is a draft: the enterprise-architecture guide defines a common interoperability framework over four levels, and its own [version page](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html) still records version 1.0, status *Brouillon*, with an empty revision log. This is still a single authority's window rather than a piece of a shared layer; the reason has changed from an absent framework to an unadopted one.
+The state's enterprise-architecture guide defines a common interoperability framework over four levels, and its [version page](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html) records version 1.0, status *Brouillon*, with an empty revision log.
 
 ## Tunisia
 

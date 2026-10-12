@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 3314db7690c8
+record: a57661463c8f
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -169,7 +169,7 @@ On 23 September the data-protection authority [signed a cooperation agreement wi
 
 ## Tunisia
 
-An international telehealth conference opened in Tunis on 29 September with representatives of more than 30 countries, and the health minister [announced a Tunis Declaration on digital health for adoption at its close](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No text is held.
+The health ministry [presented a Tunis Declaration on digital health at an international telehealth conference in Tunis, committing to health-data protection under national law, cybersecurity and interoperable systems on open standards](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155020-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D9%88%D9%86%D8%B3-%D9%84%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84); no signatory list or full text is held. Tunisia [hosted the African Telecommunications Union's spectrum management conference on 7 September and, from 8 September, four days of African preparatory talks for the 2027 World Radiocommunication Conference](https://atuuat.africa/african-delegations-seek-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/).
 
 ## Uganda
 

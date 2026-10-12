@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 3cc70b996a45
+record: 2faf18d35f9a
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -107,6 +107,8 @@ The lands ministry [announced a fresh outage of the Ardhisasa land platform on 2
 
 No national address register exists. The communications regulator [visited Kenya's regulator in September to benchmark its national addressing system and legal framework](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/).
 
+Government reported that [a World Bank urban and land team expressed interest in supporting a nationwide digital address system](https://www.gov.ls/development/lesotho-government-is-poised-to-benefit-significantly-from-world-bank-as-its-on-a-vital-mission-to-tackle-youth-unemployment-through-innovative-digital-public-works-programs/); no commitment or amount is stated.
+
 ## Liberia
 
 The central bank and the banking institute then [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). No technical route, agreement or date is given for the links, and no registration count has been published since launch.
@@ -181,7 +183,7 @@ The lands ministry [inspected a National Land Data Infrastructure project buildi
 
 ## Tunisia
 
-The tax platform widened. From September [TEJ adds real-time filing status, delegated access, supplier tax-standing checks for public enterprises and all withholding-tax certificates](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/).
+From September [the tax administration's TEJ platform adds real-time filing status, delegated access, supplier tax-standing checks for public enterprises and all withholding-tax certificates](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/).
 
 ## Uganda
 
@@ -190,6 +192,8 @@ A sectoral register was added beside them. The trade, industry and cooperatives 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
 The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
+
+The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html).
 
 ## Zambia
 

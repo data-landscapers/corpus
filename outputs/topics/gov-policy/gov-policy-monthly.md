@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 46aacc395c05
+record: 01f91f36ef82
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -163,7 +163,7 @@ A banker's review published on 21 September [finds no implementation programmes,
 
 ## Togo
 
-A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it. The social protection programme's first component is paying [more than 700,000 people by mobile money on CFA 3.5bn of initial funding](https://sahellibertynews.com/2026/09/14/togo-when-prime-minister-faure-gnassingbe-makes-social-protection-the-cornerstone-of-inclusion-and-resilience/). The figure is the target identified, not households paid.
+On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it. The social protection programme's first component is paying [more than 700,000 people by mobile money on CFA 3.5bn of initial funding](https://sahellibertynews.com/2026/09/14/togo-when-prime-minister-faure-gnassingbe-makes-social-protection-the-cornerstone-of-inclusion-and-resilience/). The figure is the target identified, not households paid.
 
 ## Tunisia
 
@@ -177,6 +177,10 @@ The revenue authority [began implementing a compliance risk management strategy 
 
 The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
 
+The technology and youth ministries [are developing a framework for local content creators to earn from digital platforms, engaging Meta, TikTok and Google and compiling a national database of creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn), after the President made it a priority at the opening of the 14th National Assembly.
+
 ## Zimbabwe
 
 The ICT minister said on 18 September 2026 that [a Postal and Courier Services Policy is being drafted](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy). No draft or date is published. The ICT minister [told the regulator to consider a unit to oversee operators' commercial arrangements and enforce active infrastructure sharing](https://www.heraldonline.co.zw/ict-minister-mavetera-directs-potraz-to-establish-unit-to-police-operator-deals/).
+
+On World Post Day the ICT minister [gave her ministry, the regulator and the postal operator 90 days to produce a costed Postal and Courier Sector Transformation Implementation Plan to 2030, with quarterly progress reports](https://www.heraldonline.co.zw/government-gives-postal-sector-90-days-for-transformation-plan/).

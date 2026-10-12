@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: digital.rural
 places: CMR; TCD; CIV; EGY; KEN; LBY; MWI; MUS; NGA; RWA; SEN; TGO; TUN; ZMB; ZWE
-record: d0f00cd324d2
+record: 45aedc87b496
 ---
 
 # Rural digital data capture: monthly update, September – October 2026
@@ -61,11 +61,11 @@ The online civil-status certificate platform has left its pilot: by August it [w
 
 ## Togo
 
-Togo's agricultural digital work is now being copied. Chad [drew on the Togolese experience of deploying agricultural digital solutions](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise). The account is the host government's own. What the record held does not carry is a measure of what those solutions have achieved in Togo, which is what would make the visit worth making.
+[A four-member Chadian delegation visited Lome on 28 August to study three agricultural platforms built under the West Africa food system resilience programme](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad) — a hydro-agrometeorological information system, an alerting service and an advisory service — which [produced and distributed more than 80,000 agrometeorological and climate bulletins in 2024](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad). The government's own account is that [Chad drew on the Togolese experience of deploying agricultural digital solutions](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise). No reach figure later than 2024 is published.
 
 ## Tunisia
 
-Two records of rural service digitisation carry the same date, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
+A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation), recorded on 3 September, sets out the digitalisation of the first-line care information system for basic health centres: diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither page carries a publication date.
 
 ## Zambia
 

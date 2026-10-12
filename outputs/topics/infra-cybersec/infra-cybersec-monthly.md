@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 2744d88a00a9
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: b8c2bb0e3270
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The women and early-childhood ministry [banned the transmission of official corr
 ## Comoros
 
 Cybersecurity cooperation moved outside the usual partners. A Russian embassy delegation visiting from 8 to 12 September [took up with the telecommunications and digital economy minister a memorandum on information security the two governments had already initialled, covering professional training, skills-building and the fight against cybercrime](https://alwatwan.net/politique/comores-russie-i-une-coop%C3%A9ration-bilat%C3%A9rale-appel%C3%A9e-%C3%A0-%C2%ABfranchir-un-nouveau-cap%C2%BB.html), with the Comorian side proposing a further document on training Comorian trainers. No signature date, text or funding is published, and the same visit prepared the opening of a Russian embassy in Moroni.
+
+## Equatorial Guinea
+
+The Vice-President [named the alleged members of a network leaking official documents of the Presidency of the Government, alleging that a registry official extracted several years of administrative files and handed over a hard drive on the pretext of a project to digitise the Presidency's archives](https://realequatorialguinea.com/destacado/politica/el-vicepresidente-revela-nombres-vinculados-a-una-presunta-masiva-filtracion-de-documentos-oficiales-de-guinea-ecuatorial/). The account is the government's own, and no judicial finding is on file.
 
 ## Eswatini
 
@@ -99,6 +103,8 @@ Figures presented at a government workshop on 7 October put [reported security i
 
 [The minister said on 7 October 2026 that a national network of response teams now has teams in government, the cyber defence unit, the research network, the regulator, the telecoms sector and four provinces, with more being set up](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/).
 
+The communications minister [put cyber incidents recorded in 2025 at about 39,600 and said the national cybersecurity strategy for 2026 to 2030 is still being updated](https://clubofmozambique.com/news/mozambique-government-updating-national-cybersecurity-strategy).
+
 ## Namibia
 
 A private initiative opened alongside it. A Namibian technology company [launched the Global Cybersecurity Initiative in Windhoek, a pan-African platform presented as connecting businesses, governments and innovators for commercial partnership rather than as an exhibition, opening across Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa with a stated target of 52 African countries by 2029](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/). No government party, funding, governance arrangement or membership figure is published, and the [US$4bn a year its chairman gave as Africa's cybercrime losses](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/) comes without a source.
@@ -145,7 +151,7 @@ The cybersecurity agency [issued a call for expressions of interest on 27 August
 
 ## Tunisia
 
-The administration was then given a baseline to meet. Circular n. 5 of 2 September requires [encrypted connections across official sites and platforms, mandatory renewal of security certificates, two-factor verification for administrator access, protection against traffic-saturation attacks and hosting on servers approved by the state](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/); it [bans the use of messaging apps and social media for exchanging official documents and requires regular audits, immediate reporting of incidents to the national cybersecurity agency and an end to the sharing of credentials between colleagues](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/). It binds the administration rather than the wider economy, and no compliance deadline, audit schedule, budget or list of approved hosting providers accompanies it.
+Circular n. 5 of 2 September requires [encrypted connections across official sites and platforms, mandatory renewal of security certificates, two-factor verification for administrator access, protection against traffic-saturation attacks and hosting on servers approved by the state](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/); it [bans the use of messaging apps and social media for exchanging official documents and requires regular audits, immediate reporting of incidents to the national cybersecurity agency and an end to the sharing of credentials between colleagues](https://www.lapresse.tn/2026/09/05/cybersecurite-le-grand-tournant-pour-ladministration-2/). It binds the administration rather than the wider economy, and no compliance deadline, audit schedule, budget or list of approved hosting providers accompanies it.
 
 ## Uganda
 

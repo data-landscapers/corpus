@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d73b57a5bdd4
+record: ebaaf108c8e5
 ---
 
 # AI: monthly update, September – October 2026
@@ -179,7 +179,7 @@ On a study visit to Helsinki reported on 29 September, the ICT Commission's head
 
 ## Togo
 
-The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated. The local-language AI pilot [opened paid public contributions of voice and text with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia). A [public-service assistant reachable by web, mobile and voice was strongly prioritised among uses for country-hosted compute, owned by the digital ministry with the state digital agency and the AI laboratory, its procedures and data still to be prepared](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No build or date is stated.
+The United Nations Development Programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated. The local-language AI pilot [opened paid public contributions of voice and text with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia). A [public-service assistant reachable by web, mobile and voice was strongly prioritised among uses for country-hosted compute, owned by the digital ministry with the state digital agency and the AI laboratory, its procedures and data still to be prepared](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No build or date is stated.
 
 ## Tunisia
 
@@ -194,6 +194,8 @@ Mbarara University of Science and Technology [leads the data-pipeline and machin
 ## Zambia
 
 UNDP [published lessons on 17 September from AI compute it has installed with public institutions in six countries, Zambia among them](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). The lead use here is AI analysis of critical-minerals data with the mines ministry and the environmental agency, with data access still to be confirmed.
+
+The technology ministry [is piloting Njila.ai, an artificial-intelligence career-guidance platform in the technical and vocational training system under a World Bank-backed skills project, expected to reach more than 17,000 young people](https://techafricanews.com/2026/10/12/zambia-ai-career-guidance-platform-youth-skills-gap/).
 
 ## Zimbabwe
 

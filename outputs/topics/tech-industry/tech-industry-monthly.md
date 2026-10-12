@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: tech.industry
 places: DZA; AGO; CAF; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: e2adea4048ba
+record: 1450775fc312
 ---
 
 # ICT Industry: monthly update, September – October 2026
@@ -64,6 +64,8 @@ A French insurance-technology company [acquired Tanel, a Senegalese health-techn
 ## South Africa
 
 Online retail [crossed 10 per cent of national retail turnover in June 2026 and is forecast at ZAR 159 billion for the year](https://www.worldwideworx.com/onlineretailsa2026/), on the study publisher's own account; the same study [reports growth in cross-border e-commerce significantly slowed by the crackdown on low-value imports](https://www.itweb.co.za/article/shein-temu-forced-to-rethink-sa-e-commerce-playbook/Pero3qZ365PvQb6m). Two fibre network operators [confirmed merger talks, reported on 18 September](https://www.africaninsider.com/business/south-africa-could-soon-get-a-new-fibre-giant-as-rivals-plot-major-merger/); nothing is finalised. A bank's mobile virtual network [reported 1.02 million subscriber identities and R3bn of gross revenue](https://techcabal.com/2026/09/18/sashin-sookroo-fnb-connect-vision/). The largest domestic operator [lifted its effective interest in the Kenyan incumbent from 35 to 55 per cent on 30 June 2026, through a state share sale a Kenyan court has since voided](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/).
+
+The largest bank by assets [signed a subscription agreement to invest in a Nigerian digital financial platform, to close with or shortly after that platform's proposed New York listing](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa); no amount is stated.
 
 ## Tanzania
 

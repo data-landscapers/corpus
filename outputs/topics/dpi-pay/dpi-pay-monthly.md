@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bea4022b3881
+record: 94dd612cef98
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -249,9 +249,9 @@ The state operator took its card into a stadium. The African Development Bank an
 
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 
-Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
+[Digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
 
-Online tax filing reached the smallest taxpayers. The revenue office [launched e-TPU on 17 September, letting small and micro enterprises, artisans and traders declare and pay the single business tax from a phone without visiting a tax centre](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html). No uptake figure has been published yet.
+The revenue office [launched e-TPU on 17 September, letting small and micro enterprises, artisans and traders declare and pay the single business tax from a phone without visiting a tax centre](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html). No uptake figure has been published yet.
 
 ## Tunisia
 

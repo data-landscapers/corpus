@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: finance.mou
 places: CAF; COD; MAR; MOZ; NER; NGA; RWA; TZA
-record: b0dea77bdad0
+record: 159989a380a3
 ---
 
 # MoUs and other agreements: monthly update, September – October 2026
@@ -36,6 +36,8 @@ The Algerian state operator [signed conventions in Niamey on 8 September for a s
 ## Nigeria
 
 The one memorandum signed in the window is domestic: the technology development agency and the national chambers of commerce [signed an agreement on small-business digital adoption on the sidelines of GITEX Nigeria, covering a shared enterprise platform, capacity building and the national digital conference](https://punchng.com/nitda-naccima-deepen-push-for-msmes-digital-adoption/), with no sum or deliverable attached.
+
+The central bank [signed a memorandum of understanding in Singapore with the Global Finance & Technology Network, setting a framework for cooperation between the two countries' financial-innovation sectors](https://www.thestar.ng/cbn-singapores-gftn-sign-mou-to-boost-financial-innovation/). The signing date is not stated.
 
 ## Rwanda
 

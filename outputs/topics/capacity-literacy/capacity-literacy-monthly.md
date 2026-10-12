@@ -1,17 +1,21 @@
 ---
 title: Literacy — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: capacity.literacy
-places: TCD; COM; EGY; GHA; KEN; MDG; MOZ; NER; RWA; SEN; SLE; TZA; TGO; UGA
-record: 297406c2e4b1
+places: CPV; TCD; COM; EGY; GHA; KEN; MDG; MOZ; NER; RWA; SEN; SLE; TZA; TGO; UGA
+record: 58bc2d479151
 ---
 
 # Literacy: monthly update, September – October 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Cape Verde
+
+The economy and digital transition minister [said his ministry will implement a national digital literacy programme, which already has a manual financed by the World Bank and is to advance through protocols with the public university](https://unicv.edu.cv/pt/fct/arquivo-fct/6037-uni-cv-assinala-dia-mundial-dos-correios-com-debate-sobre-comercio-eletronico). No start date, budget or target is stated.
 
 ## Chad
 
@@ -69,7 +73,7 @@ The national service said on 18 September that [its patriotism and digital patri
 
 ## Togo
 
-The staffing has moved ahead of the estate. Separately, a development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
+A development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
 
 ## Uganda
 

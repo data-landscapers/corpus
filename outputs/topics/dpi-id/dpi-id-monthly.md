@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: fb1de1e1af37
+record: e4f56c62ff37
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -179,11 +179,13 @@ The state [has a policy, draft regulations and a presidential commitment for a p
 
 In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The transport department told Parliament [a Presidency-led working group is exploring digital driving licences within the government's digital identity framework](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences). The transport department briefed Parliament on [draft regulations extending light-vehicle licence cards from five to ten years, citing breakdowns of the card printing machine](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences).
 
-[The transport department plans to amend the road traffic regulations so that traffic register number certificates and driving licences no longer serve as identification, after a 2023 check matched only 29,653 of 1,072,258 traffic register numbers to the immigration system](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/).
+[The transport department plans to amend the road traffic regulations so that traffic register number certificates and driving licences no longer serve as identification, after a 2023 check matched only 29,653 of 1,072,258 traffic register numbers to the immigration system](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/). The minister said [300,000 dormant numbers had already been blocked and that about 8,000 holders had come forward to be verified by Home Affairs](https://www.enca.com/news-top-stories/department-scrap-use-drivers-licences-id).
 
 ## Sudan
 
 A first bank [went live on the national digital identity link on 26 September 2026](https://www.suna.sd/posts/bnk-am-drman-alotny-aol-bnk-ytyh-thdyth-byanat-alaamlaaa-rkmya-bastkhdam-sodabas), letting customers inside and outside the country update their data through its digital channels; the remaining banks are to join one by one.
+
+The prime minister of the TASIS-backed administration [announced plans on 11 October 2026 for a national smart identity card for banking, judicial and administrative transactions in territory outside the Port Sudan authorities' control](https://thesudantimes.com/sudan/tasis-outlines-governance-plans-for-24-million-sudanese/). No issuer, technology or date is stated, and the administration's population figures are unverified.
 
 ## Tanzania
 
@@ -193,13 +195,15 @@ On 16 September the Prime Minister [directed the identity authority to drop the 
 
 On International Identity Day the registration authority [said it will link the national identity to nine services, up from four, naming birth certificates, health insurance, the taxpayer number, driving licences and blood group](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047). It gave no timetable.
 
+The home affairs minister said [6,308 identity cards printed for Zanzibar residents remained uncollected, and that government was considering fines for late collection](https://ippmedia.co.tz/the-guardian/news/local-news/read/6308-nida-cards-remain-uncollected-in-zanzibar-2026-10-12-135944).
+
 ## Togo
 
-More than six million people [have been registered for the unique identification number and biometric identity card; enrolment in the Centrale region closed on 26 September and Kara, the last region, follows from October to December 2026](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/). A campaign [is issuing free nationality certificates to 4,200 schoolgirls, 300 of them in the first week](https://www.republiquetogolaise.tg/services-publics/1409-12277-citoyennete-4200-eleves-filles-bientot-dotees-de-certificats-de-nationalite).
+More than six million people [have been registered for the unique identification number and biometric identity card; enrolment in the Centrale region closed on 26 September and Kara, the last region, follows from October to December 2026](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/). A campaign [is issuing free nationality certificates to 4,200 schoolgirls, 300 of them in the first week](https://www.republiquetogolaise.tg/services-publics/1409-12277-citoyennete-4200-eleves-filles-bientot-dotees-de-certificats-de-nationalite). The identity directorate reported [241,617 applications registered on the online nationality-certificate platform and 179,690 processed](https://atop.tg/citoyennete-300-eleves-filles-recoivent-gratuitement-leur-certificat-de-nationalite/), about a quarter of files still pending; no launch date for the platform is given.
 
 ## Tunisia
 
-The mobile identity spread to another ministry. An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
+An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
 
 On 29 September the health minister [set a target of a unique health identifier and a digital medical record for every citizen before the end of 2026](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No coverage figure accompanied the target. The Sahloul university hospital [reported 180,000 health identifiers unified under the national health identifier, first among public hospitals](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/).
 

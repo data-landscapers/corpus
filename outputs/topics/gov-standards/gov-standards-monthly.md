@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: gov.standards
 places: BEN; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: faac9e3ea921
+record: 5cacff00facb
 ---
 
 # Standards: monthly update, September – October 2026
@@ -34,6 +34,8 @@ The standards bureau's position was restated from both ends this month. Its dire
 The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
 
 On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
+
+The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published.
 
 ## Kenya
 
@@ -93,13 +95,13 @@ Zanzibar's government [told its House of Representatives on 9 September that a g
 
 ## Togo
 
-The standards machinery came into view too: the [national standards agency is a full member body](https://www.iso.org/member/2143.html) of the international standards organisation; under the food-system resilience programme it drew up [46 national standards and the accreditation committee 31 certification programmes](https://agriculture.gouv.tg/fsrp-togo-46-normes-nationales-et-31-programmes-de-certification-pour-renforcer-la-qualite-et-la-competitivite-des-produits-agroalimentaires/) in August — drawn up and disseminated, the ministry says, not homologated.
+Under the food-system resilience programme the national standards agency drew up [46 national standards and the accreditation committee 31 certification programmes](https://agriculture.gouv.tg/fsrp-togo-46-normes-nationales-et-31-programmes-de-certification-pour-renforcer-la-qualite-et-la-competitivite-des-produits-agroalimentaires/) in August — drawn up and disseminated, the ministry says, not homologated. The telecoms regulator is [drafting rules requiring at least 95 per cent nationwide compliance with quality-of-service standards, with penalties](https://www.togofirst.com/en/telecom/2709-20179-togo-s-mobile-quality-results-show-yas-ahead-nationally-mat-leading-on-4g); no draft or date is published.
 
 ## Tunisia
 
-Tunisia's standards work this month was as host. Its national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
+Tunisia's national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
 
-The hosting gate now has a count behind it: the cybersecurity agency's [list of 17 September carries six N-Cloud entries](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/), the label public bodies must use for sensitive data. The count comes from a business outlet's reading of the list, not from the list itself.
+The cybersecurity agency's [list of 17 September carries six N-Cloud entries](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/), the label required of providers hosting public bodies' services to citizens and firms, on a business outlet's reading of the list.
 
 ## Zambia
 

@@ -1,15 +1,15 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 69e4c5d05e26
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ce95d7c3f308
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ The Senate [unanimously adopted the access to information bill on 29 September 2
 ## Cameroon
 
 The telecommunications regulator [gave operators until 30 September 2026 to file identification forms for a public directory of licensed operators](https://techafricanews.com/2026/09/17/cameroon-trb-updates-telecom-operators-directory-transparency-3/); nothing is yet published. A policy institute's brief of 4 September [argues the 2010 cybercrime law is outdated, citing cyberattacks up 156% between 2020 and 2023 and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/).
+
+## Central African Republic
+
+The statistics institute reported that [the bill replacing the statistics law of 16 July 2001 had passed technical validation and strategic review and awaits the commission that examines draft official texts](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
 
 ## Chad
 
@@ -166,6 +170,8 @@ Parliament's justice committee [agreed on 23 September that the department may p
 ## Tanzania
 
 The [Citizen Budget 2026/27, published on 22 September, lists the digital service tax on foreign digital service providers as raised from 2% to 3%](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). Its effective date and statutory clause are not stated.
+
+A legal update drew attention to [regulations in force since 1 July 2026 that make proof of a digital payment facility, such as Lipa Namba or TANQR, a condition of every new or renewed business licence](https://fbattorneys.co.tz/digital-payments-now-a-business-licensing-requirement/); the [Government Notice was published on 30 June 2026](https://fbattorneys.co.tz/wp-content/uploads/2026/10/The-Business-Licensing-Amendment-Regulations-2026.pdf-stamped.pdf).
 
 ## Togo
 

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-12
+period: 2026-09-01 to 2026-10-12
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 80aedea61da0
+record: 2ad9bca0ef94
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -29,6 +29,8 @@ The national cable company [began deploying new optical equipment across its Sou
 
 On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed. The state fibre operator [announced the launch of its internet exchange point for local traffic](https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ); no member count is given.
 
+The communications minister said [the Universal Access and Service Fund's broadband expansion project has deployed 12 mobile broadband and voice sites along the Trans-Kalahari Highway, a P34.5 million investment, with further coverage through infrastructure sharing due by the end of the next financial year](https://itweb.africa/article/botswana-invests-in-highway-connectivity/8OKdWqDXOgQqbznQ).
+
 ## Burkina Faso
 
 [The minister put 3,140 public buildings on the national administration network on 8 October 2026](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/), [against 2,332 in the state ICT agency's 2020 report](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf). [The minister said on 8 October 2026 that 750 villages with no network will be connected by end-2026 and 750 more by 2028, on FCFA 25bn mobilised by the State, under a target of no white zones by 2030](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/).
@@ -51,6 +53,8 @@ The national operator and a European exchange operator [signed a non-binding let
 
 The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
 
+The digital-economy minister and his Congolese counterpart [agreed in Moscow on 8 October 2026 on the need to carry out a fibre interconnection with the Democratic Republic of Congo, which the ministry says would reach the submarine cable landing at Moanda; no timetable or financing was announced](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
+
 ## Chad
 
 The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique). [The minister told German, European and cooperation-agency representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/).
@@ -70,6 +74,8 @@ On 7 September the Djiboutian, Ethiopian and Sudanese operators [presented the H
 ## DR Congo
 
 A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
+
+The posts and telecommunications minister [presented the commercial launch of 5G to the Council of Ministers on 9 October 2026, starting in urban areas, with no operator, spectrum assignment, licence fee or date stated](https://7sur7.cd/2026/10/11/rdc-le-gouvernement-annonce-le-lancement-commercial-de-la-5g); he had [said in late September that government was working toward availability before the end of 2026](https://www.wearetech.africa/fr/fils/actualites/telecom/rdc-la-5g-en-preparation-pres-de-7-congolais-sur-10-restent-hors-ligne). The digital-economy minister and his Central African counterpart [agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, with no timetable or financing](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
 
 ## Egypt
 
@@ -159,6 +165,8 @@ The Senegalese and Malian state fibre operators [inaugurated the interconnection
 
 A satellite broadband operator [lists Mauritania among sixteen African markets it aims to launch in during 2026](https://maurinews.info/news-reports/95535/), after about two years seeking a licence; the authorities' conditions concern security guarantees and control over data, and an application with a local partner is pending.
 
+The regulator [published on 7 October 2026 its re-inspection of mobile service quality, run from 13 February to 22 March after the operators' deadline to comply had expired, finding persistent breaches of licence obligations by all three operators in voice and mobile data](https://www.are.mr/pdfs/rapport_qos_mars_vf_2026.pdf). No sanction is recorded.
+
 ## Mauritius
 
 [The regulator opened a call for applications for a mobile number portability licence](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369); no launch date is given.
@@ -222,6 +230,8 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
 On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set. An operator [announced more than R500m of network investment in the Western Cape this financial year](https://techafricanews.com/2026/10/06/vodacom-western-cape-invests-r500-million-to-expand-5g-and-digital-connectivity/), naming townships. A costed national roadmap did reach the public: a development bank and planning commission study [puts universal household broadband at R108-142bn in 2025 real terms, on a 0.76 square-kilometre hexagonal-grid mapping exercise](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf). A costing, not an appropriation. That company [turned a group net profit of R47.3 million against a R1.63 billion loss a year earlier](https://www.itweb.co.za/article/lesaka-turns-first-profit-since-its-net-1-rebrand/Olx4z7kaLGoq56km), and the state signal distributor [cut its net loss to R60 million from R246 million](https://www.itweb.co.za/article/sentech-trims-losses-but-remains-in-the-red/lLn147mQ8p57J6Aa). The satellite operator said [it has applied for licences to bring a direct-to-device service to South Africa with mobile operators, probably from around 2028](https://www.itweb.co.za/article/starlink-rival-maps-out-sa-strategy-beyond-satellite-broadband/rW1xL75nD9bMRk6m). The regulator's chairperson said [the authority has developed a draft satellite licensing framework](https://www.connectingafrica.com/regulation/regulators-must-know-when-not-to-regulate-icasa-chairperson).
+
+The Auditor-General's briefing on the 2025/26 audits was reported as finding [2,076 of about 7,800 sites on the state IT agency's network running below 10Mbps and 294 government facilities still on copper](https://applesandoranges.co.za/news/south-africa-government-sites-slow-internet-copper-497bc9/). One of the appellants against the Cape Town data-centre approval wrote that [the appeal went before the city's Planning Appeals Advisory Panel on 12 October, after which the mayor has 90 days to decide](https://www.dailymaverick.co.za/article/2026-10-12-data-centres/).
 
 ## South Sudan
 
