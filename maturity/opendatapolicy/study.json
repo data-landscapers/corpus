@@ -1,0 +1,152 @@
+{
+  "id": "opendatapolicy",
+  "study_file": "maturity-study-opendatapolicy.md",
+  "subjects": [
+    "gov.policy",
+    "data.open"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--open-data-policy"
+  ],
+  "carry": [
+    "gov.policy--open-data-policy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "open data policy",
+    "open data strategy",
+    "open data framework",
+    "open data law",
+    "open data bill",
+    "open data act",
+    "open data decree",
+    "open data directive",
+    "open data regulation",
+    "open data guidelines",
+    "open data action plan",
+    "open data roadmap",
+    "open data initiative",
+    "open data programme",
+    "open data program",
+    "open data licence",
+    "open data license",
+    "open data charter",
+    "open data portal",
+    "open data platform",
+    "open data readiness assessment",
+    "open government data",
+    "national open data",
+    "government open data",
+    "policy on open data",
+    "strategy on open data",
+    "open by default",
+    "politique d'ouverture des données",
+    "politique nationale d'ouverture des données",
+    "politique de données ouvertes",
+    "politique nationale de données ouvertes",
+    "politique des données ouvertes",
+    "politique open data",
+    "politique nationale open data",
+    "politique d'open data",
+    "politique nationale d'open data",
+    "stratégie open data",
+    "stratégie nationale open data",
+    "stratégie d'open data",
+    "stratégie d'ouverture des données",
+    "stratégie nationale d'ouverture des données",
+    "stratégie de données ouvertes",
+    "stratégie nationale de données ouvertes",
+    "stratégie nationale des données ouvertes",
+    "ouverture des données publiques",
+    "données publiques ouvertes",
+    "données ouvertes du gouvernement",
+    "portail open data",
+    "portail national open data",
+    "portail de données ouvertes",
+    "portail des données ouvertes",
+    "portail national de données ouvertes",
+    "portail national des données ouvertes",
+    "plateforme open data",
+    "plateforme de données ouvertes",
+    "plateforme des données ouvertes",
+    "plateforme nationale de données ouvertes",
+    "décret open data",
+    "licence ouverte",
+    "política de dados abertos",
+    "política nacional de dados abertos",
+    "estratégia de dados abertos",
+    "estratégia nacional de dados abertos",
+    "portal de dados abertos",
+    "portal nacional de dados abertos",
+    "dados abertos governamentais",
+    "dados governamentais abertos",
+    "política de datos abiertos",
+    "estrategia de datos abiertos",
+    "portal de datos abiertos",
+    "سياسة البيانات المفتوحة",
+    "استراتيجية البيانات المفتوحة",
+    "السياسة الوطنية للبيانات المفتوحة",
+    "الاستراتيجية الوطنية للبيانات المفتوحة",
+    "منصة البيانات المفتوحة",
+    "بوابة البيانات المفتوحة",
+    "المنصة الوطنية للبيانات المفتوحة",
+    "البوابة الوطنية للبيانات المفتوحة",
+    "البيانات الحكومية المفتوحة",
+    "البيانات العمومية المفتوحة"
+  ],
+  "sub_indicators": [
+    {
+      "key": "policy",
+      "label": "Open data policy",
+      "subject": "gov.policy",
+      "text": "Open data policy: national open data policy",
+      "indicator_id": "gov.policy--open-data-policy-national-open-data-policy",
+      "class": "policy"
+    }
+  ],
+  "classes": [
+    "policy",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Policy adopted",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "adopted",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Portal run and data published",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "published",
+        "portal"
+      ],
+      "values": [
+        "published",
+        "portal",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
