@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-10-10
+compiled: 2026-10-12
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 188
+sources_cited: 190
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -56,6 +56,8 @@ Physical reach is the part that has moved. Eastern Congo was tied into the East 
 Institutional reach has not. Congolese identity [cannot yet be checked across borders through a shared system](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries): the country is among the 16 SADC states that a federated eKYC framework presented in August 2025 aims to cover, following a cross-border verification pilot between South Africa and Lesotho. Cross-border remittances into the country [run mainly over the counter through international providers partnered with banks, mobile money operators being barred from cross-border remittance, and the country has yet to join the East African Payment System](https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-DRC-April2025.pdf) (2025). On 18 September 2026 the central bank [signed accession to the Pan-African Payment and Settlement System and the East African central banks' memorandum on currency convertibility](https://actualite.cd/2026/09/21/eac-papss-ia-la-bcc-accelere-lintegration-de-la-rdc-dans-lecosysteme-financier-africain).
 
 Engagement with regional bodies is at the level of attendance and reporting. Outcomes from the African Telecommunications Union plenipotentiary summit held at Abuja on 20-25 July 2026 were [put before the Council of Ministers the following month](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de), and the [francophone regulators' network FRATEL held a seminar in DR Congo in May 2026](https://actualite.cd/2026/05/08/helios-towers-engage-la-reflexion-sur-le-partage-dinfrastructures-et-lamelioration-de-la).
+
+A further land route is at the stage of intent: the digital-economy minister and his Central African counterpart [agreed in Moscow on 8 October 2026 on the need to carry out a fibre interconnection between the two countries, with no timetable or financing announced](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
 
 ### Standards
 <!-- gov.standards -->
@@ -128,6 +130,8 @@ The east also gained a land route to the sea that month: [Paratus lit its Goma-t
 The country had [7,000 km of fibre deployed in August 2026, which the state digital transformation programme is to take above 18,500 km, with 145 territoires to connect by 2030](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de). The universal service fund, [unfunded for years after its 2020 creation](https://actualite.cd/2025/02/19/kinshasa-des-jeunes-et-membres-de-internet-society-outilles-sur-le-bien-fonde-du-fonds), [signed its first subsidy conventions on 8 August 2026 with Orange, Vodacom, Africell and Airtel, covering 40 rural and peri-urban localities and roughly 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). The largest announced build is [a memorandum with China's Genew Technologies for about 2,100 km of fibre along the Congo River](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river). The government [plans to add 11,600 km through four 20-year concessions let by international tender](https://theppppost.com/congo-fibre-concession-programme-11600km-ppp/) (September 2026).
 
 Satellite has gone from illegal to licensed to sold as a mobile service. [ARPTC granted Starlink an internet service provider licence in May 2025, reversing its own March 2024 position that its terminals were illegal](https://actualite.cd/2025/05/02/rdc-starlink-obtient-une-licence-officielle-pour-operer-comme-fournisseur-dacces); it is [resold into the interior, from an office opened at Kindu in April 2026](https://actualite.cd/2026/04/03/maniema-somaf-group-ouvre-un-bureau-kindu-et-mise-sur-starlink-pour-resorber-le-deficit); and in August 2026 Airtel and Starlink [commercially launched satellite-to-mobile service in DR Congo, which the two companies call the first commercial deployment of Starlink Mobile in Africa](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc) — a compatible handset and a clear view of the sky, no additional equipment, and a free 30-day trial on registration, with no standing tariff or coverage map published. The state incumbent SCPT, meanwhile, [could on its finances pay salaries only every four months, and says it has brought the cycle to every two to two and a half months (2026)](https://rdc-monde.com/scpt-ce-que-lon-ne-dit-pas-sur-les-efforts-de-redressement-en-cours/).
+
+The next generation is announced before the last is used: the posts and telecommunications minister [presented the commercial launch of 5G to the Council of Ministers on 9 October 2026, starting in urban areas, with no operator, spectrum assignment, licence fee or date stated](https://7sur7.cd/2026/10/11/rdc-le-gouvernement-annonce-le-lancement-commercial-de-la-5g).
 
 ### Data Storage
 <!-- infra.store -->
