@@ -2,8 +2,8 @@
 type: design-note
 reader: cc
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
-last_reviewed: 2026-09-28
-status: built and deployed 2026-09-16; E3 outstanding — Monday 2026-09-21, check `cron_status` first, then release the draft by hand
+last_reviewed: 2026-10-12
+status: built and deployed 2026-09-16; the 2026-10-12 confirmation-header fix is built and awaits Bill's paste-and-deploy, then one `POST /api/alerts/run`
 ---
 
 # Catalogue alerts
@@ -108,7 +108,9 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 
 - **`workers/alerts/worker.js`** — `cron_status` records what the Worker *decided* and not what it *read*, which is why this took a dashboard hunt. **Every** `cron_status` write now carries **`send_mode_env`**, the raw `String(env.SEND_MODE || "")` (`statusRecord`, in the pure half) — every write and not only `started` and `email-created` as first specified, because the key is overwritten and a run that skips or fails would lose it. **It is a variable, not a secret** — no rule here is bent by recording it. `test_alerts_worker.py` asserts that an unset `SEND_MODE` records the empty string rather than omitting the key.
 - **The operating rule, for the knobs section above**: after editing a variable in the dashboard, check **Deployments** shows an active version dated after the edit, and that traffic is not split across versions — a cron runs on one version, and it need not be the one the Settings screen is showing you.
-- **What the deployed Worker read, 2026-10-05 16:27 UTC**: `send_mode_env: "about_to_send"`, thirteen plain characters, on a run that skipped on the `sent:` key. That rules out an invisible character and a variable on the wrong Worker, and leaves the saved-but-undeployed variable, which this deploy made live. It is not proved — nothing recorded what the 05:00 version held — so Monday 2026-10-12 is the confirmation: `mode: about_to_send` beside the same `send_mode_env`.
+- **What the deployed Worker read, 2026-10-05 16:27 UTC**: `send_mode_env: "about_to_send"`, thirteen plain characters — so the cause was the saved-but-undeployed variable, which that deploy made live.
 - **The check that costs nothing**: on any Monday the alert did not arrive, read `cron_status` first. `mode` against `send_mode_env` separates *Cloudflare did not give the Worker the variable* from *the Worker ignored it*, which were indistinguishable on 2026-10-05.
+
+**The Monday Buttondown refused — 2026-10-12, fix built the same day.** `cron_status` read `stage: failed, error: emails 400-sending_requires_confirmation` beside `send_mode_env: about_to_send`: the variable was live, which settles 2026-10-05, and the first unattended send met Buttondown's API version 2026-04-01, which refuses an API-created `about_to_send` without the header `X-Buttondown-Live-Dangerously: true`. `emailHeaders` (pure half, under test) now sends it on a send and not on a draft. Nothing was created and `last_sent_through` stayed at 2026-10-04, so `POST /api/alerts/run` after the deploy sends the week whole. **`logs/.cloudflare-kv.json` reads the `alerts` namespace too** — the token is account-wide KV read, so `cron_status` needs no dashboard.
 
 **Not in this version**: report editions as alert items; a monthly pass pruning `def:` entries whose tag has no active subscriber and clearing stale `orphan:` keys; a monthly cadence if readers ask for one.

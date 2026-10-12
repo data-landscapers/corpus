@@ -393,6 +393,9 @@ check("SEND_MODE about_to_send sends",
       "about_to_send")
 check("anything else is a draft",
       js('buildEmail([], {monday:"2026-09-21", body:"B", sendMode:"whatever"}).status'), "draft")
+check("a send carries Buttondown's confirmation header",
+      js('emailHeaders({status: "about_to_send"})'), {"X-Buttondown-Live-Dangerously": "true"})
+check("a draft carries no confirmation header", js('emailHeaders({status: "draft"})'), {})
 check("cron_status records the SEND_MODE it read, as it came",
       js('statusRecord("T", " about_to_send", {stage: "started"})'),
       {"at": "T", "send_mode_env": " about_to_send", "stage": "started"})

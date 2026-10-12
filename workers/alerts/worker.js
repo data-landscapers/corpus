@@ -434,6 +434,17 @@ function buildEmail(sections, o) {
 }
 
 /**
+ * The extra headers `POST /v1/emails` needs for this email.
+ *
+ * **Buttondown refuses an API-created `about_to_send` without `X-Buttondown-Live-Dangerously`**
+ * (API version 2026-04-01): 400 `sending_requires_confirmation`, which is what stopped the
+ * first unattended Monday, 2026-10-12. A draft needs nothing, and carries nothing.
+ */
+function emailHeaders(email) {
+  return email.status === "about_to_send" ? { "X-Buttondown-Live-Dangerously": "true" } : {};
+}
+
+/**
  * The send window, or a reason not to send.
  *
  * The day after `last_sent_through` to yesterday, capped at 21 days; the last 7 on a first run.
@@ -1143,7 +1154,9 @@ async function runCron(env) {
 
   const body = renderDigest(sections, { siteBase: site(env) });
   const email = buildEmail(sections, { monday: today, body, sendMode: env.SEND_MODE });
-  const res = await bd(env, "/emails", { method: "POST", body: email });
+  const res = await bd(env, "/emails", {
+    method: "POST", body: email, headers: emailHeaders(email),
+  });
   if (!res.ok) { throw new Error(`emails ${await refusal(res, true)}`); }
   const made = await res.json();
 
