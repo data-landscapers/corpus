@@ -1,0 +1,155 @@
+{
+  "id": "datalocalisation",
+  "study_file": "maturity-study-datalocalisation.md",
+  "subjects": [
+    "gov.policy",
+    "gov.protect",
+    "infra.store",
+    "geopol.sovereignty"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--data-localisation-policies"
+  ],
+  "carry": [
+    "gov.policy--data-localisation-policies"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "data localisation",
+    "data localization",
+    "localisation of data",
+    "localization of data",
+    "data residency",
+    "data residence requirement",
+    "local data storage",
+    "local storage of data",
+    "local hosting requirement",
+    "local hosting of data",
+    "in-country data storage",
+    "in-country hosting",
+    "store data locally",
+    "stored locally",
+    "hosted locally",
+    "store data in the country",
+    "stored in the country",
+    "stored within the country",
+    "hosted in the country",
+    "hosted within the country",
+    "data must be stored",
+    "data must be hosted",
+    "data to be stored in",
+    "data to be hosted in",
+    "host data locally",
+    "host their data locally",
+    "host their data in",
+    "store their data in",
+    "data repatriation",
+    "repatriate data",
+    "repatriation of data",
+    "onshore data",
+    "data onshoring",
+    "localisation requirement",
+    "localization requirement",
+    "localisation rule",
+    "localization rule",
+    "localisation law",
+    "localization law",
+    "localisation policy",
+    "localization policy",
+    "localisation des données",
+    "localisation de données",
+    "résidence des données",
+    "hébergement local des données",
+    "hébergement des données sur le territoire",
+    "hébergées sur le territoire national",
+    "hébergés sur le territoire national",
+    "hébergement sur le territoire national",
+    "stockées sur le territoire national",
+    "stockage des données sur le territoire",
+    "stockage local des données",
+    "données hébergées localement",
+    "héberger leurs données",
+    "héberger les données au",
+    "héberger les données en",
+    "rapatriement des données",
+    "rapatrier les données",
+    "obligation d'hébergement",
+    "obligation de localisation",
+    "localização de dados",
+    "localização dos dados",
+    "residência de dados",
+    "residência dos dados",
+    "armazenamento local de dados",
+    "armazenamento de dados no país",
+    "dados armazenados no país",
+    "alojamento de dados no país",
+    "alojados em território nacional",
+    "armazenados em território nacional",
+    "repatriamento de dados",
+    "localización de datos",
+    "residencia de datos",
+    "almacenamiento local de datos",
+    "alojados en territorio nacional",
+    "توطين البيانات",
+    "توطين المعطيات",
+    "تخزين البيانات محليا",
+    "تخزين البيانات داخل",
+    "استضافة البيانات داخل",
+    "إقامة البيانات"
+  ],
+  "sub_indicators": [
+    {
+      "key": "rule",
+      "label": "Data localisation rule",
+      "subject": "gov.policy",
+      "text": "Data localisation policies: localisation rule",
+      "indicator_id": "gov.policy--data-localisation-policies-localisation-rule",
+      "class": "rule"
+    }
+  ],
+  "classes": [
+    "rule",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Rule in force",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-force",
+        "ended",
+        "draft"
+      ],
+      "values": [
+        "in-force",
+        "ended",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Enforcer named and rule applied",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "applied",
+        "enforcer"
+      ],
+      "values": [
+        "applied",
+        "enforcer",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
