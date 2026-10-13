@@ -575,6 +575,8 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
                 body_class="mat-report-page", sheets=("maturity.css",))
 
 
+METHOD_CHAPTER = "Method"
+
 METHOD_INTRO = """## The scale
 
 Each studied indicator places each of the 54 countries on one five-stage scale. The stages are ordinal: 4 is above 3, not twice 2. The assessment is not a score or a ranking, and nothing is averaged.
@@ -616,32 +618,51 @@ def norm_statement(norm: str) -> str:
 
 
 def method_page(data: dict, studies: list[dict]) -> str:
+    """The country report's order *(Bill, 2026-10-13)*: a bar of every chapter, and each chapter
+    opens on a bar of its topics. The method itself is the first chapter; an indicator's anchor is
+    its id, which the map and the country reports link to."""
     scale = "| Stage | Label | Meaning |\n|---|---|---|\n" + "\n".join(
         f'| {s["n"]} | {s["label"]} | {s["desc"]} |' for s in STAGES)
-    blocks = [md(METHOD_INTRO.format(scale=scale))]
-    toc = []
-    for s in studies:
-        for sub in s["sub_indicators"]:
-            iid = sub["indicator_id"]
+    intro = sections(METHOD_INTRO.format(scale=scale), "## ")
+    subs = {sub["indicator_id"]: (s, sub) for s in studies for sub in s["sub_indicators"]}
+    chapters = {}
+    for t in data["topics"]:
+        chapters.setdefault(t["group"], []).append(t)
+    parts = [toc("Chapters", [(METHOD_CHAPTER, f"chapter-{slug(METHOD_CHAPTER)}")]
+                 + [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
+                    for c, ts in chapters.items()]),
+             f'    <h2 class="mat-report__chapter" id="chapter-{slug(METHOD_CHAPTER)}">{METHOD_CHAPTER}</h2>',
+             toc("Topics", [(h, f"topic-{slug(h)}") for h, _ in intro])]
+    for h, text in intro:
+        parts.append(f'    <h3 class="mat-report__topic" id="topic-{slug(h)}">{html.escape(h)}</h3>\n{md(text)}')
+    for t in data["topics"]:
+        studied = [i for i in t["indicators"] if i["studied"] and i["id"] in subs]
+        if not studied:
+            continue
+        first = next(o for o in chapters[t["group"]] if o["studied"])
+        if t is first:
+            parts.append(f'    <h2 class="mat-report__chapter" id="chapter-{slug(t["group"])}">'
+                         f'{html.escape(t["group"])}</h2>')
+            parts.append(toc("Topics", [(o["name"], f"topic-{slug(o['name'])}" if o["studied"] else None)
+                                        for o in chapters[t["group"]]]))
+        parts.append(f'    <h3 class="mat-report__topic" id="topic-{slug(t["name"])}">{html.escape(t["name"])}</h3>')
+        for i in studied:
+            iid = i["id"]
+            s, sub = subs[iid]
             p = s["issued"] / f"{iid}.md"
             text = p.read_text(encoding="utf-8") if p.exists() else ""
             secs = dict(sections(text, "## "))
-            toc.append((iid, sub["text"]))
-            blocks.append(f'<section class="mat-method__ind" id="{iid}">\n<h2>{html.escape(sub["text"])}</h2>\n'
-                          + md("### The norm\n\n" + norm_statement(secs.get("The norm", "Not yet written."))
-                               + "\n\n### The ladder\n\n" + criteria_table(sub))
-                          + "\n</section>")
-    strip = ('<nav class="article-toc" aria-label="Indicators">\n'
-             + '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'.join(
-                 f'<a href="#{i}">{html.escape(t)}</a>' for i, t in toc) + "\n</nav>\n")
+            parts.append(f'<section class="mat-method__ind" id="{iid}">\n<h4>{html.escape(sub["text"])}</h4>\n'
+                         + md("##### The norm\n\n" + norm_statement(secs.get("The norm", "Not yet written."))
+                              + "\n\n##### The ladder\n\n" + criteria_table(sub))
+                         + "\n</section>")
     body = f"""  <div class="container">
     <header class="article-header">
       <p class="mat-report__kicker"><a href="../../maturity/">Maturity Assessment</a></p>
       <h1 class="article-header__title">Maturity Assessment: methodology</h1>
     </header>
     <article class="article-body mat-method">
-{strip}
-{chr(10).join(blocks)}
+{chr(10).join(parts)}
     </article>
   </div>"""
     return page(title="Methodology — Maturity Assessment",

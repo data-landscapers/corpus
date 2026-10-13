@@ -279,7 +279,7 @@
 .mat-report__chapter { margin-top: 2.2rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
 .article-toc + .mat-report__chapter { margin-top: 0; padding-top: 0; border-top: none; }
 .mat-report__topic { margin-top: 1.6rem; font-size: 1.2rem; }
-.mat-report .mat-toc__off {
+.mat-report .mat-toc__off, .mat-method .mat-toc__off {
   font-family: var(--mono);
   font-size: .72rem;
   font-weight: 500;
@@ -296,6 +296,7 @@
 
 /* ---------- the methodology page ---------- */
 
-.mat-method__ind { scroll-margin-top: calc(var(--header-h) + 3rem); }
-.mat-method__ind:target h2 { color: var(--accent); }
+.mat-method__ind { scroll-margin-top: calc(var(--header-h) + 3rem); margin-top: 1.4rem; }
+.mat-method__ind h4 { font-size: 1.05rem; }
+.mat-method__ind:target h4 { color: var(--accent); }
 .mat-method td:first-child { white-space: nowrap; }

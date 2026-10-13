@@ -88,6 +88,13 @@ def main() -> int:
     check("the methodology ladder is Stage and Criteria only",
           page.count("<th>Criteria</th>") == len(data["indicators"]) and "<th>Tiers</th>" not in page)
     check("the norm prints its statement and not the argument", "It does not measure" not in page)
+    check("the methodology page opens on a bar of every chapter, and each chapter on a bar of its topics",
+          page.count('aria-label="Chapters"') == 1
+          and page.count('class="mat-report__chapter"') == page.count('aria-label="Topics"')
+          == 1 + len({t["group"] for t in data["topics"] if t["studied"]}))
+    check("every studied indicator has its section, and every link in a bar lands on an id",
+          all(f'id="{i}"' in page for i in data["indicators"])
+          and all(f'id="{a}"' in page for a in ms.re.findall(r'<a href="#((?:chapter|topic)-[^"]+)"', page)))
 
     report = ms.country_page(iso, "X", data, {})
     groups = list(dict.fromkeys(t["group"] for t in data["topics"]))
