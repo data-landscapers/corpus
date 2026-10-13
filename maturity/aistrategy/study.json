@@ -97,6 +97,7 @@
       "subject": "gov.policy",
       "text": "AI strategy: national AI strategy",
       "indicator_id": "gov.policy--ai-strategy-national-ai-strategy",
+      "norm_short": "The African Union's Continental AI Strategy (2024) says member states must develop national AI strategies, with strategies and governance structures due in its first phase, to 2026.",
       "class": "strategy",
       "criteria": [
         "A source from the past three years says the country has no national AI strategy and none is being written.",

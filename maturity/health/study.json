@@ -21,6 +21,7 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural health clinics: HMIS",
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-hmis",
+      "norm_short": "Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.",
       "class": "hmis",
       "criteria_of": "373e9f6b46cf",
       "criteria": [
@@ -37,6 +38,7 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural health clinics: EMR",
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-emr",
+      "norm_short": "Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.",
       "class": "emr",
       "criteria_of": "68551e02eaa7",
       "criteria": [

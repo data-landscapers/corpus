@@ -54,6 +54,7 @@
       "subject": "gov.legislate",
       "text": "Cybersecurity legislation: cybercrime and cybersecurity law",
       "indicator_id": "gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law",
+      "norm_short": "The Malabo Convention commits each party to legal measures against cybercrime: Article 25 on legislation and Articles 29 to 31 on the offences. It sets no test of whether a law is used.",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no cybercrime or cybersecurity law and no bill for one.",

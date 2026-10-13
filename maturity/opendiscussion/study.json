@@ -93,6 +93,7 @@
       "subject": "gov.discourse",
       "text": "Open discussion of government policy: freedom to discuss policy online and in the press",
       "indicator_id": "gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press",
+      "norm_short": "The African Commission's 2019 Declaration of Principles asks states not to disrupt access to the internet (Principle 38) and to repeal sedition, insult and false-news crimes (Principle 22). The African Charter on Democracy, Elections and Governance commits its parties to freedom of the press.",
       "class": "discussion",
       "criteria": [
         "In the past twelve months the government, a regulator or the security forces cut the internet or blocked a social media service, messaging service or news site, anywhere in the country; or a source from the past three years says no independent newspaper, broadcaster or news site is allowed to work.",

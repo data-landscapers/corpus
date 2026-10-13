@@ -94,6 +94,7 @@
       "subject": "gov.discourse",
       "text": "Non-governmental contribution to national policy: consultation on digital law and policy",
       "indicator_id": "gov.discourse--non-governmental-contribution-to-national-policy-consultation-on-digital-law-and-policy",
+      "norm_short": "The African Charter on Democracy, Elections and Governance commits its parties to dialogue between government, civil society and the private sector. The Malabo Convention, Article 24, asks each party to draw up its cybersecurity policy with stakeholders. Neither says how.",
       "class": "consultation",
       "criteria": [
         "A source from the past three years says a named digital law or policy was made without consulting people outside government, or that they were refused a part in it, and none says they were asked.",

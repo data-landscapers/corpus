@@ -95,6 +95,7 @@
       "subject": "digital.localgov",
       "text": "Digitalisation of local government records: revenue records",
       "indicator_id": "digital.localgov--digitalisation-of-local-government-records-revenue-records",
+      "norm_short": "The African Union's Digital Transformation Strategy asks states to \"establish electronic government registers or digitalise existing ones\" and to let organisations \"reuse core registers\". Its decentralisation charter, Article 16, covers local government's technology.",
       "class": "revenue",
       "criteria_of": "37c754650688",
       "criteria": [

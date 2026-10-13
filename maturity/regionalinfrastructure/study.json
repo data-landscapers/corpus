@@ -93,6 +93,7 @@
       "subject": "gov.regional",
       "text": "Shared regional infrastructure: digital links and facilities shared with other African countries",
       "indicator_id": "gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries",
+      "norm_short": "The African Union's Programme for Infrastructure Development in Africa and its Digital Transformation Strategy ask states to join their networks across borders, give landlocked countries a route to the sea cables and share exchange points and data centres.",
       "class": "shared",
       "criteria": [
         "A source from the past three years says the country has no digital link with a neighbour, or stands outside the shared links of its region, and none is on record.",

@@ -110,6 +110,7 @@
       "subject": "digital.localgov",
       "text": "ICT infrastructure for local government: office connection",
       "indicator_id": "digital.localgov--ict-infrastructure-for-local-government-office-connection",
+      "norm_short": "The African Union's decentralisation charter (2014), Article 16(2): local governments \"shall be provided with the required human, financial and technological resources\", and ICT \"shall be made accessible and effectively used\".",
       "class": "connection",
       "criteria_of": "d2a3451b4ec7",
       "criteria": [

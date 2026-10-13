@@ -68,6 +68,7 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural primary schools: EMIS",
       "indicator_id": "digital.rural--digitalisation-of-rural-primary-schools-emis",
+      "norm_short": "The African Union's Digital Education Strategy (2022): a move from aggregate annual school statistics (EMIS 1.0) to individual-level data on unique identifiers (EMIS 2.0) in at least half of member states by 2027.",
       "class": "emis",
       "criteria_of": "6c603ecd98dc",
       "criteria": [

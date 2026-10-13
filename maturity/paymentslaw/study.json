@@ -168,6 +168,7 @@
       "subject": "gov.legislate",
       "text": "Digital payments legislation: payments law",
       "indicator_id": "gov.legislate--digital-payments-legislation-payments-law",
+      "norm_short": "The AfCFTA Digital Trade Protocol, Article 15, and its Annex on Cross-Border Digital Payments commit each party to interoperable payment systems. The Malabo Convention, Article 7, commits each to state-approved electronic payment methods.",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no payments law or e-money rules and no draft of either.",

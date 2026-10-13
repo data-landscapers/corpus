@@ -161,6 +161,7 @@
       "subject": "gov.legislate",
       "text": "AI legislation / regulations: AI law or binding rule",
       "indicator_id": "gov.legislate--ai-legislation-regulations-ai-law-or-binding-rule",
+      "norm_short": "The African Union's Continental AI Strategy (2024) asks states to review and amend existing laws and put an enabling framework in place, with independent institutions to oversee it. It sets no date and requires no AI act.",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no law or regulation on AI and no draft of one.",

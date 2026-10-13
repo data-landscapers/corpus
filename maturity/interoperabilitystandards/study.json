@@ -95,6 +95,7 @@
       "subject": "gov.standards",
       "text": "National interoperability standards: technical standards for government systems",
       "indicator_id": "gov.standards--national-interoperability-standards-technical-standards-for-government-systems",
+      "norm_short": "The African Union's Digital Transformation Strategy asks for technical standards, built on open standards, for checking identity in dealings between government, business and citizens. Its interoperability framework names international ones.",
       "class": "standards",
       "criteria": [
         "A source from the past three years says the government has no technical standards for its systems to exchange data and none are being written.",

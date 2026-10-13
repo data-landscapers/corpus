@@ -205,6 +205,7 @@
       "subject": "gov.legislate",
       "text": "E-commerce legislation: e-commerce law",
       "indicator_id": "gov.legislate--e-commerce-legislation-e-commerce-law",
+      "norm_short": "The Malabo Convention, Chapter I, sets rules for electronic commerce, contracts and advertising. The AfCFTA Digital Trade Protocol commits each party to a legal framework for electronic transactions (Article 16) and to protecting those who buy online (Article 27).",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no law on electronic transactions or e-commerce and no draft of one.",

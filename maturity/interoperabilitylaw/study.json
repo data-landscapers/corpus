@@ -177,6 +177,7 @@
       "subject": "gov.legislate",
       "text": "Legislation enabling data interoperability: data sharing law",
       "indicator_id": "gov.legislate--legislation-enabling-data-interoperability-data-sharing-law",
+      "norm_short": "The African Union's Digital Transformation Strategy asks for an interoperability framework with implementing acts, and the AfCFTA Digital Trade Protocol, Article 19, for mutual recognition of electronic authentication. No African Union instrument requires a data sharing law.",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no law or decree on public bodies sharing data with each other and no draft of one.",

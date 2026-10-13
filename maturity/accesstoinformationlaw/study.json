@@ -169,6 +169,7 @@
       "subject": "gov.legislate",
       "text": "Access to information legislation: access to information law",
       "indicator_id": "gov.legislate--access-to-information-legislation-access-to-information-law",
+      "norm_short": "The African Commission's 2019 Declaration of Principles sets out a right of access to information, a duty to publish and an independent oversight body set up by law. Its 2013 Model Law on Access to Information is the template.",
       "class": "law",
       "criteria": [
         "A source from the past three years says the country has no access to information law and no draft of one. A right of access written in the constitution alone is not a law.",

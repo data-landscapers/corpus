@@ -82,6 +82,7 @@
       "subject": "gov.standards",
       "text": "Adoption of international standards: international standards for information technology and data",
       "indicator_id": "gov.standards--adoption-of-international-standards-international-standards-for-information-technology-and-data",
+      "norm_short": "The AfCFTA annex on technical barriers to trade, Article 6(2), commits its parties to adopt or adapt international standards, and the African Union's Digital Transformation Strategy asks for rules in line with international norms. Neither names the standards.",
       "class": "adoption",
       "criteria": [
         "A source from the past three years says the country belongs to no international standards organisation.",

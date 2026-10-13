@@ -59,6 +59,7 @@ OUT = SITE / "maturity"
 METHOD_OUT = SITE / "methodology" / "maturity"
 STUDIES = ROOT / "maturity"
 ISSUED = ROOT / "outputs" / "maturity"
+NORM_SHORT_WORDS = 45   # what three lines of the map's criteria heading hold
 PREVIEW = ROOT / "maturity" / "preview-downloads"
 # africa-dpi's, copied 2026-10-09; Western Sahara is in it. `lookups/AFRICA-GEOJSON-FROM` names the
 # commit and `lint-shared-assets.py` compares the bytes.
@@ -238,11 +239,10 @@ def build_data(studies, indicators, countries) -> dict:
             # The sidebar's ladder is the methodology page's: the criteria sentences (Bill, 2026-10-09).
             lines = [dict(n=n, text=text) for n, text in enumerate(sub.get("criteria", []), 1)]
             topic = next((t["name"] for t in topics if any(i["id"] == iid for i in t["indicators"])), "")
-            # The norm closes the sidebar's criteria, as the methodology page prints it (Bill, 2026-10-13).
-            page = s["issued"] / f"{iid}.md"
-            norm = dict(sections(page.read_text(encoding="utf-8"), "## ")).get("The norm", "") if page.exists() else ""
+            # The sidebar's norm is `norm_short`, written by hand for the map; the methodology page
+            # prints the study's own, at its own length (Bill, 2026-10-13).
             inds[iid] = dict(label=sub["text"], short_label=sub["label"], topic=topic, study=s["id"],
-                             ladder=lines, norm=md(norm_statement(norm)) if norm.strip() else "")
+                             ladder=lines, norm=md(sub.get("norm_short", "")))
             cells[iid], changes[iid] = {}, recent_moves(s["history"], iid, date.today())
         bodies = {}
         for r in s["rows"]:
@@ -383,6 +383,12 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
                     out.append(f"{iid}: {page.name} has no norm")
                 if [c[0][:1] for c in ladder(page.read_text(encoding="utf-8"))[1]] != list("12345"):
                     out.append(f"{iid}: {page.name}'s ladder does not read as rungs 1 to 5")
+            short = sub.get("norm_short", "")
+            if not short.strip():
+                out.append(f"{iid}: study.json holds no `norm_short` for the map's criteria box")
+            elif len(short.split()) > NORM_SHORT_WORDS:
+                out.append(f"{iid}: `norm_short` is {len(short.split())} words; the map's heading holds "
+                           f"{NORM_SHORT_WORDS}")
             if len(sub.get("criteria", [])) != 5:
                 out.append(f"{iid}: study.json holds no five `criteria` for the methodology page")
             elif page.exists() and sub.get("criteria_of") != ladder_digest(

@@ -75,6 +75,7 @@
       "subject": "gov.protect",
       "text": "Data protection authority: supervisory authority",
       "indicator_id": "gov.protect--data-protection-authority-supervisory-authority",
+      "norm_short": "The Malabo Convention, Articles 11 and 12, commits each party to an independent authority with stated duties and powers. The African Union's Data Policy Framework asks for authorities that are \"independent, funded, and effective\".",
       "class": "authority",
       "criteria": [
         "A source from the past three years says the country has no data protection authority, and no law in force names one.",
