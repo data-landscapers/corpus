@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-10-gimac-renouvelle-certification-pci-dss-v4-0-1",
+  "facts": [],
+  "systems": [
+    {"system": "GIMAC card-payment processing infrastructure", "country_label": "PCI DSS v4.0.1 certificate issued March 2026 by DATAPROTECT; a certificate", "class": "other", "platform": "", "owner": "GIMAC", "tiers": ""}
+  ],
+  "note": "No fact: a company's PCI DSS certificate for a regional payment processor; no ISO or IEC standard, membership, requirement or committee seat."
+}

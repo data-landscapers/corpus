@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-21-somalia-national-cybersecurity-risk-management-framework",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Cybersecurity Risk Management Framework",
+      "country_label": "framework issued by MoCT/NCA, June 2026, guided by ISO/IEC 27000 and 27005; critical-infrastructure operators must run its risk assessments and report yearly to the NCA",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Communications and Technology; National Communications Authority",
+      "tiers": "federal"
+    }
+  ],
+  "note": "Framework adopts ISO/IEC 27000 and 27005 to guide governance but the document does not say public bodies must comply with or be certified to them; operators must follow the framework's own process, so modelled-on, not a requirement."
+}

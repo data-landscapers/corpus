@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-30-prnigeria-nitda-software-quality-assurance-framework",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Software Quality Assurance Framework",
+      "country_label": "NITDA framework: independent testing and certification of government software before go-live; OWASP-based secure coding, WCAG 2.1 AA",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": "federal government"
+    }
+  ],
+  "note": "Names OWASP and WCAG, not ISO/IEC/ITU standards; no standards-body membership, adoption, requirement or committee seat stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-pilot-project-for-electronic-reporting-of-serious-adverse-events-vigiflow-module",
+  "facts": [],
+  "systems": [
+    {"system": "VigiFlow", "country_label": "WHO-UMC pharmacovigilance e-reporting portal used by SAHPRA for a serious-adverse-event pilot; a system, not a standard", "class": "other", "platform": "WHO-UMC VigiFlow", "owner": "WHO-UMC (SAHPRA runs the pilot)", "tiers": "clinical-trial sponsors, CROs, investigators"}
+  ],
+  "note": "Regulator pilot invitation for e-reporting through VigiFlow; names no ISO/IEC standard, membership or requirement."
+}

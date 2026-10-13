@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-inm-gb-operacionalizacao-do-cap-sistemas-de-alerta",
+  "facts": [],
+  "systems": [
+    {"system": "Common Alerting Protocol (CAP)", "country_label": "international alert-messaging standard operationalised by the national meteorological institute (INM-GB) in May 2026", "class": "other", "platform": "Google Public Alerts", "owner": "INM-GB", "tiers": "national"}
+  ],
+  "note": "Meteorological institute operationalises CAP; no ISO/IEC/ITU standard adopted by the standards body, no membership, no binding requirement and no named committee seat stated."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "international",
+   "stage": "3",
+   "standing": "adopted",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-001",
+   "gaps": "No source held names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.",
+   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
+  }
+ ]
+}

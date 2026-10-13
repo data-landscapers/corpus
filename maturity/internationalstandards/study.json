@@ -82,7 +82,15 @@
       "subject": "gov.standards",
       "text": "Adoption of international standards: international standards for information technology and data",
       "indicator_id": "gov.standards--adoption-of-international-standards-international-standards-for-information-technology-and-data",
-      "class": "adoption"
+      "class": "adoption",
+      "criteria": [
+        "A source from the past three years says the country belongs to no international standards organisation.",
+        "The country's standards body is a member of ISO, the International Organization for Standardization, or of IEC, its counterpart for electrical technology. Full, correspondent and subscriber members all count. Membership of the African or a regional standards organisation does not.",
+        "The country has adopted an international standard on information technology or data as a national standard: a named ISO, IEC or ITU standard on information technology, information security, software or data. A count of adopted standards that names none, a draft, and a standard in another field do not count.",
+        "Public bodies must meet a named international standard: a law, decree, regulation, directive or circular names an international standard on information technology or data and requires ministries, agencies or government systems to meet it. A rule for one sector, a text modelled on a standard, and a system built to one do not count.",
+        "The country has taken part in writing international standards on information technology in the past three years: a dated source names the standards body or a public body as a participating member, chair or secretariat of an ISO or IEC committee on information technology or data. An observer seat does not count."
+      ],
+      "criteria_of": "545e455e79e3"
     }
   ],
   "classes": [

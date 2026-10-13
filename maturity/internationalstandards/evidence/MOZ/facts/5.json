@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-mozambique-incm-public-imei-database",
+  "facts": [],
+  "systems": [
+    {"system": "Public IMEI database", "country_label": "public IMEI lookup built on GSMA records; a system built to an industry registry, not an ISO/IEC/ITU standard", "class": "other", "platform": "GSMA IMEI database", "owner": "INCM", "tiers": ""}
+  ],
+  "note": "News of INCM IMEI lookup; refers to 'recognised standards' only in general; no ISO/IEC membership, adopted standard, requirement or committee."
+}

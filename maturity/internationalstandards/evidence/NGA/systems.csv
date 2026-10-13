@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,National Software Quality Assurance Framework,"NITDA framework: independent testing and certification of government software before go-live; OWASP-based secure coding, WCAG 2.1 AA",other,,NITDA,federal government,2026-07-30-prnigeria-nitda-software-quality-assurance-framework
+NGA,ICAO Public Key Directory integration (biometric passport),Nigeria Immigration Service passport CSCA certificates in the ICAO PKD,other,ICAO PKD,Nigeria Immigration Service,federal,2026-07-16-nigeria-icao-pkd-biometric-passport
+NGA,Baseline Standards for Automated AML Solutions,CBN rule for financial institutions,other,,Central Bank of Nigeria,,2026-03-12-cbn-automated-aml-baseline-standards
+NGA,ISO 20022 payment messaging migration,CBN circular of 2025-08-25 requiring payment operators to use ISO 20022 messages,other,ISO 20022,Central Bank of Nigeria,banks and payment operators,2025-08-27-cbn-pos-geotag-iso20022

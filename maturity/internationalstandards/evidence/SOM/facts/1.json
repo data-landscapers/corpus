@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-29-iso-somali-bureau-of-standards-member-record",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "standing",
+      "value": "member",
+      "fact": "ISO's member register lists the Somali Bureau of Standards as a member body of ISO, the full class of membership, with participating and observing seats on technical committees the page does not name; the page carries no date, so its published date 2026-08-29 is used.",
+      "as_of": "2026-08-29",
+      "date_precision": "day",
+      "system": "Somali Bureau of Standards (SoBS)",
+      "class": "adoption"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Somali Bureau of Standards (SoBS)",
+      "country_label": "Somali Bureau of Standards (SoBS)",
+      "class": "adoption",
+      "platform": "",
+      "owner": "Somali Bureau of Standards (SoBS)",
+      "tiers": ""
+    }
+  ],
+  "note": "Carried from the qualitystandards study's reading of this document, matched to this study's questions from the fact's own text."
+}

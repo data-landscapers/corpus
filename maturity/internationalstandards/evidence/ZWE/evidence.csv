@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZWE-001,ZWE,international,standing,adopted,"The Standards Association of Zimbabwe's accreditations page lists ZWS ISO/IEC 27001:2022, on information security management systems, as a Zimbabwe Standard; the page's content is updated to February 2026, which is used as the date.",2026-02,month,Standards Association of Zimbabwe (SAZ),adoption,2026-02-01-zwe-saz-accreditations-iso27001,https://www.saz.org.zw/accreditations-2/

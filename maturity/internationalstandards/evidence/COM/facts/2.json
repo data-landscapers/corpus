@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-08-cctld-km-transfer-comores-telecom-to-anaden-alwatwan",
+  "facts": [],
+  "systems": [
+    {"system": "ccTLD .km registry", "country_label": "Cctld.km, transferred from Comores Télécom to ANADEN", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""},
+    {"system": "Data Center de l'Administration publique", "country_label": "Public administration data centre, planned primary host of Dns.km", "class": "other", "platform": "", "owner": "ANADEN and Comores Câble", "tiers": ""}
+  ],
+  "note": "Domain-registry transfer story; 'standards internationaux de résilience numérique' is a descriptor naming no standard, no membership, no requirement."
+}

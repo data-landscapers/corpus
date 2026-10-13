@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Congo Internet Exchange (ACIX)", "country_label": "internet exchange point operated by DE-CIX for Internet pour Tous, now at OADC Texaf Kinshasa FIH1", "class": "other", "platform": "DE-CIX-as-a-Service", "owner": "Internet pour Tous (operated by DE-CIX)", "tiers": ""}
+  ],
+  "note": "Article on the ACIX internet exchange expanding to a second Kinshasa data centre; no ISO/IEC/ITU membership, adoption, requirement or committee role stated."
+}

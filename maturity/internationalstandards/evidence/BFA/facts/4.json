@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-25-arcep-decision-attribution-oid-anssi",
+  "facts": [],
+  "systems": [
+    {"system": "OID sub-arc allocated to ANSSI", "country_label": "Sous Arc OID", "class": "other", "platform": "", "owner": "ARCEP / ANSSI", "tiers": ""}
+  ],
+  "note": "Decision allocates an object-identifier sub-arc to the national cybersecurity agency; names no international standard, membership or requirement."
+}

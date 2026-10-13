@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-12-cctld-km-transfer-anaden-registry-lagazette",
+  "facts": [],
+  "systems": [
+    {"system": "ccTLD .km registry", "country_label": "Gestion du ccTLD .km, transferred from Comores Télécom to ANADEN", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""},
+    {"system": "Data Center de l'Administration Publique", "country_label": "Public administration data centre, said to give a secondary redundancy centre to international standards", "class": "other", "platform": "", "owner": "ANADEN and Comores Câble", "tiers": ""}
+  ],
+  "note": "Domain-registry transfer story; 'standards internationaux' appears only as a descriptor of a redundancy centre, naming no standard, no membership, no requirement."
+}

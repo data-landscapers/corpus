@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-04-iso-atn-agence-togolaise-de-normalisation-member-body",
+  "facts": [
+    {"sub_indicator": "international", "aspect": "standing", "value": "member",
+     "fact": "ISO's own member page lists the Agence Togolaise de Normalisation (ATN) with membership class 'Member body' (full); the page is undated, so the row's published date 2026-09-04 is used as as_of.",
+     "as_of": "2026-09-04", "date_precision": "day", "system": "Agence Togolaise de Normalisation", "class": "adoption"}
+  ],
+  "systems": [],
+  "note": "ATN is a full ISO member body; its TC and PDC participation is Observing Member only, so no 'writes' fact."
+}

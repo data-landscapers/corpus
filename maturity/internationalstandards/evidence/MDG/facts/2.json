@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-01-madagascar-digital-readiness-assessment-undp",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "standing",
+      "value": "member",
+      "fact": "The UNDP Digital Readiness Assessment states that the Bureau des Normes de Madagascar, the national standards body, is a correspondent member of ISO; the report gives no date for the membership, so its published date, December 2025, is used.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Bureau des Normes de Madagascar",
+      "class": "adoption"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Bureau des Normes de Madagascar",
+      "country_label": "Bureau des Normes de Madagascar",
+      "class": "adoption",
+      "platform": "",
+      "owner": "Bureau des Normes de Madagascar",
+      "tiers": ""
+    }
+  ],
+  "note": "Carried from the qualitystandards study's reading of this document, matched to this study's questions from the fact's own text."
+}

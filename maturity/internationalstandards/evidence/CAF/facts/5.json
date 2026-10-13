@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-19-imf-car-egdds-implementation",
+  "facts": [],
+  "systems": [
+    {"system": "National Summary Data Page (NSDP)", "country_label": "National Summary Data Page", "class": "other", "platform": "", "owner": "ICASEES with BEAC and Ministry of Finance and Budget", "tiers": "national"}
+  ],
+  "note": "IMF e-GDDS is an IMF statistical dissemination standard, not an ISO/IEC/ITU standard on IT or data; no membership, adopted standard, requirement or committee."
+}

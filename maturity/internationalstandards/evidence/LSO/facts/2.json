@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Modular Open Source Identity Platform (MOSIP)", "country_label": "open-source identity platform for Lesotho's national digital identity, not an international standard", "class": "other", "platform": "MOSIP", "owner": "MICSTI", "tiers": "government and private-sector services"}
+  ],
+  "note": "Work plan between MICSTI and UNICEF for digital ID on MOSIP; names no ISO/IEC membership, adopted standard, mandate or committee."
+}

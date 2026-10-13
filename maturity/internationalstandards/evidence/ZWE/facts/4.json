@@ -1,0 +1,23 @@
+{
+  "slug": "2025-03-01-zwe-saz-standards-catalogue",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "country_label": "Standards Association of Zimbabwe (SAZ)",
+      "class": "other",
+      "platform": "",
+      "owner": "Standards Association of Zimbabwe (SAZ)",
+      "tiers": ""
+    },
+    {
+      "system": "ARSO adoptions",
+      "country_label": "ARSO adoptions (regional standards body section of the catalogue)",
+      "class": "other",
+      "platform": "",
+      "owner": "African Organisation for Standardisation",
+      "tiers": ""
+    }
+  ],
+  "note": "The passages hold the foreword and table of contents: sections for ZWS ISO, IEC and ARSO adoptions are listed by page only, with no named IT or data standard and no membership statement, so no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2022-08-23-sonatel-label-et-certifications-datacenter-uptime-iso-27001",
+  "facts": [],
+  "systems": [
+    {"system": "ISO 27001 certification (Sonatel)", "country_label": "Sonatel information security management certificate", "class": "other", "platform": "", "owner": "Sonatel", "tiers": ""},
+    {"system": "Uptime Institute Tier Certification TCCD/TCCF", "country_label": "Sonatel data centre tier certificate", "class": "other", "platform": "", "owner": "Sonatel", "tiers": ""}
+  ],
+  "note": "Company page on Sonatel's own ISO certificates (27001, 9001, 14001, 50001, 45001) and data centre tier certification; a certificate places nothing and no standards body or public rule is named."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv",
+  "facts": [],
+  "systems": [
+    {"system": "TM Forum MODaaS certification framework (GB1087)", "country_label": "industry certification framework for AI model operations, co-chaired by Mauritius Telecom; not an ISO, IEC or ITU standard", "class": "other", "platform": "", "owner": "TM Forum", "tiers": ""},
+    {"system": "Mauritius AI Registry", "country_label": "discovery layer for sovereign AI resources (models, agents, skills), part of Mauritius Telecom's sovereign AI programme", "class": "other", "platform": "", "owner": "Mauritius Telecom", "tiers": ""}
+  ],
+  "note": "Mauritius Telecom co-chairs an industry (TM Forum) certification collaboration; no ISO or IEC membership, committee seat, adopted standard or government requirement is stated."
+}

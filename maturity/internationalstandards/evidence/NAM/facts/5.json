@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-19-namibia-electronic-signature-regulations-gazette-8814",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Signature Regulations (Government Notice No. 335 of 2025)", "country_label": "regulations under the Electronic Transactions Act, 2019, defining international standards ITU-T X.509 (2019) and ISO/IEC 9594-8:2020/Cor 2:2024 for electronic signatures; the captured text states no requirement on public bodies to comply", "class": "other", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}
+  ],
+  "note": "Names ITU-T X.509 and ISO/IEC 9594-8 only in a definition of 'international standards'; the captured excerpt (regs 1-4) holds no requirement that ministries or government systems comply, no adoption by a standards body, and no ISO/IEC membership."
+}

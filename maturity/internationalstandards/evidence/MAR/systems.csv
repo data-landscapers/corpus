@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Biometric passport decree (ICAO-aligned chip),Biometric passport,other,,DGSN,,2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework
+MAR,CI-SIS Morocco / MOHIM Lab,CI-SIS Morocco,other,HL7 FHIR,"CIeS, Mohammed V University with Ministry of Health",national,2026-05-14-mohim-project-interoperability-digital-health-africa
+MAR,DNSSI v2.0 (Circulaire 2/2023),Directive Nationale de la Sécurité des Systèmes d'Information,other,,DGSSI,"state administrations, public enterprises, local authorities, vital-importance infrastructure",2023-01-12-dgssi-circulaire-02-2023-directive-nationale-securite-si-v2

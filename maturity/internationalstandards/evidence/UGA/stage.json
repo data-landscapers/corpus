@@ -1,0 +1,16 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "international",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "required",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-001",
+   "gaps": "No source from the last three years naming the standards body or a public body as a participating member, chair or secretariat of an ISO or IEC committee on information technology or data is held.",
+   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
+  }
+ ]
+}

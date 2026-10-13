@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-dco-gambia-digital-trade-acceleration-report",
+  "facts": [],
+  "systems": [
+    {"system": "ISO/IEC 27001/27002 (Information Security Management System)", "country_label": "standard the National Cybersecurity Strategy and Action Plan 2022-2026 suggests government agencies adopt; a plan, not a requirement", "class": "other", "platform": "", "owner": "International Organization for Standardization", "tiers": "government agencies"}
+  ],
+  "note": "No fact: it says Gambia (not the standards body, no class) is an ISO member, lists ISO standards with no national adoption, and only a strategy suggesting ISO 27001/02 in agencies; no instrument, no committee seat."
+}

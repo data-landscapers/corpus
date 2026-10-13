@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-15-sca-icao-pkd-certificate-deposit",
+  "facts": [],
+  "systems": [
+    {"system": "ICAO Public Key Directory country signing certificate", "country_label": "Sudan's sovereign e-passport signing certificate deposited in the ICAO PKD", "class": "other", "platform": "", "owner": "Sudanese Cybersecurity Authority", "tiers": ""}
+  ],
+  "note": "Held an e-passport certificate deposit with ICAO (a certificate and a system built to an aviation standard); it names no standards body membership, adopted standard, government requirement or committee seat, so no fact."
+}

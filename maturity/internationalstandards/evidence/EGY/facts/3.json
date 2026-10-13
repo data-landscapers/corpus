@@ -1,0 +1,8 @@
+{
+  "slug": "2022-06-28-safqa-agricultural-bank-of-egypt-tier-iii-data-centre-raya-it",
+  "facts": [],
+  "systems": [
+    {"system": "Agricultural Bank of Egypt data centre, Dokki", "country_label": "Tier 3 data centre with Uptime Institute design certification (a certificate; not an adopted standard or a rule)", "class": "other", "platform": "", "owner": "Agricultural Bank of Egypt", "tiers": ""}
+  ],
+  "note": "Holds a bank data centre designed to Uptime Tier 3 and certified by the Uptime Institute; no standards-body membership, adopted standard, requirement or committee seat is stated."
+}

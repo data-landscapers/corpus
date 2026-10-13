@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-29-eswatini-swasa-it-standards-catalogue",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The standards body's information-technology catalogue lists ISO 15836:2009 (Dublin Core metadata element set), ISO 15489-1:2001 and ISO 16175-1:2010 (records management) as SZNS national standards; the catalogue is undated, so the retrieval-date proxy 2026-08-29 is used.",
+      "as_of": "2026-08-29",
+      "date_precision": "day",
+      "system": "Eswatini Standards Authority",
+      "class": "adoption"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-14-mohim-project-interoperability-digital-health-africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CI-SIS Morocco / MOHIM Lab",
+      "country_label": "CI-SIS Morocco",
+      "class": "other",
+      "platform": "HL7 FHIR",
+      "owner": "CIeS, Mohammed V University with Ministry of Health",
+      "tiers": "national"
+    }
+  ],
+  "note": "MOHIM health interoperability framework (CI-SIS) profiling HL7 FHIR, DICOM, SNOMED with IHE Catalyst; none are ISO/IEC/ITU standards adopted by a standards body, no requirement or committee seat named."
+}

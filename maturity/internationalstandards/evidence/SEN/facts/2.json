@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-asn-catalogue-normes-senegalaises-2025",
+  "facts": [
+    {"sub_indicator": "international", "aspect": "standing", "value": "member", "fact": "The Association Sénégalaise de Normalisation (ASN) says in its 2025 catalogue that it holds all ISO standards as the national member organisation of ISO; the class of membership is not given, and the catalogue is undated beyond its 2025 year, so the published year is used.", "as_of": "2025", "date_precision": "year", "system": "Association Sénégalaise de Normalisation (ASN)", "class": "adoption"}
+  ],
+  "systems": [
+    {"system": "ASN mirror committee ISO/IEC JTC1 Technologies de l'information", "country_label": "Comité miroir ISO/IEC JTC1", "class": "other", "platform": "", "owner": "ASN", "tiers": ""},
+    {"system": "NS ECOSTAND", "country_label": "ECOWAS harmonised standards adopted as national standards under C/REG.14/12/12", "class": "other", "platform": "", "owner": "ECOWAS / ASN", "tiers": ""}
+  ],
+  "note": "Gives membership only; the JTC1 mirror committee is not stated as participating membership, no named IT/data ISO/IEC standard is listed as adopted in the captured part, and the 789 national standards are a count."
+}

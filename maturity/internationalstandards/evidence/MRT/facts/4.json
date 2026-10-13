@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-01-mauritanie-strategie-nationale-transition-ipv6",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie nationale de transition IPv6", "country_label": "Stratégie nationale de transition vers le protocole IPv6", "class": "other", "platform": "IPv6", "owner": "MTNIMA", "tiers": "government agencies, education, critical infrastructure"}
+  ],
+  "note": "A strategy to mandate IPv6 (an internet protocol, not a named ISO/IEC/ITU standard) in government; no ISO/IEC membership, adoption, requirement instrument or committee seat stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-22-cniapge-culmina-primera-fase-informatizacion-administracion-publica",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center", "country_label": "national data centre built by CNIAPGE, described as required and recognised internationally; no standard named", "class": "other", "platform": "", "owner": "CNIAPGE", "tiers": "Presidency and most ministries connected"}
+  ],
+  "note": "Describes five e-government laws and an 'internationally recognised' data centre but names no ISO, IEC or ITU standard, no standards-body membership and no committee."
+}

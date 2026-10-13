@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-02-bon-ipn-namclear-instant-payments-pact-techafricanews",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Namibia Interbank Settlement System (NISS)",
+      "country_label": "NISS clearing and settlement system",
+      "class": "other",
+      "platform": "",
+      "owner": "Bank of Namibia",
+      "tiers": ""
+    }
+  ],
+  "note": "Instant-payments declaration of intent; names no international standard or standards body."
+}

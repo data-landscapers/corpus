@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-21-lesahel-editorial-passeports-biometriques-aes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric passport",
+      "country_label": "AES biometric passport",
+      "class": "other",
+      "platform": "",
+      "owner": "Confederation of Sahel States",
+      "tiers": ""
+    }
+  ],
+  "note": "Passport said to conform to ICAO specifications; not an IT/data standard adopted nationally."
+}

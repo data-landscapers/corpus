@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-15-nita-u-nisf-2026",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "use",
+      "value": "required",
+      "fact": "NITA-U's National Information Security Policy 2026, which says it defines mandatory policy requirements for ministries, departments, agencies and local governments, says cloud, interface, artificial intelligence and industrial control technologies must be deployed and managed in compliance with ISO/IEC 27001:2022, and that organisations must apply ISA/IEC 62443 to industrial control systems; the document gives no exact day, so NITA-U's 15 July 2026 launch date is used.",
+      "as_of": "2026-07-15",
+      "date_precision": "day",
+      "system": "National Information Security Policy (NISP) 2026",
+      "class": "adoption"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Information Security Framework (NISF) 2026",
+      "country_label": "NITA-U policy and security standards SS1-SS7 that align to ISO/IEC 27001/27002 and other standards; not itself a national adoption of one",
+      "class": "other",
+      "platform": "",
+      "owner": "NITA-U",
+      "tiers": "MDAs, local governments, critical information infrastructure operators"
+    }
+  ],
+  "note": "Policy aligned to ISO/IEC 27001/27002/27005/27035 and others; alignment, 'informed by' and cloud-provider examples (ISO/IEC 27017/27018) place nothing. The one fact is the 'must apply ISA/IEC 62443' line, a policy rather than a law or regulation: parent to confirm it counts as stage 4. No membership or adopted-standard statement."
+}

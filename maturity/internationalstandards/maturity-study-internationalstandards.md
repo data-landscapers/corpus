@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-internationalstandards.md — the thirty-third maturity study: international standards for information technology and data, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill's word on the questions; nothing run
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: internationalstandards
@@ -69,24 +69,31 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 
 ## 5. What the run reads
 
-- **Carried, nothing opened**: the 36 facts in 19 countries that the national standards study holds naming ISO membership or an international standard adopted as a national one, matched to the questions from their own text. The 106 documents that study read are not read again unless a question turns on one.
+- **Carried, nothing opened**: the national standards study's facts naming ISO membership or an adopted international standard, matched from their own text. Its 106 documents are not read again unless a question turns on one.
 - **Read**: **58 news stories about international standards that no study has read**, in 30 countries; and the 99 stories and 12 texts the current cells cite.
 - **Not read**: the long texts and reports, 1,658 of them, and the news that mentions the subject in passing. **No web search and no handover to OSINT.**
 
-**Many countries will be without evidence.** Question 1 is answered by ISO's own register, which is held for about ten countries; the 39 the row leaves unplaced are mostly unplaced for want of it. The update's search is where that is filled.
-
 ## 6. Token ceiling
 
-**30 million.** The run checks after every fan-out and stops at it. The national standards study read 221 documents for 35 million; this one reads 169.
+**30 million.** The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: carry, then one fan-out over the documents of §5.
-- [ ] **D3. Stage** as at 2026-09-30; the parent reads every fact that would set stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 12 facts carried by their own text; then 61 drafters in one fan-out over the 169 documents of §5, for five more. 17 facts in 15 countries.
+- [x] **D3. Staged** as at 2026-09-30: 4: 1, 3: 6, 2: 8, none at 1 or 5, and 39 without evidence; no correction; agreement 14 of 15, every staged cell drawn.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
 
+**Decided in the run**:
+
+- **Stage 4**: Uganda, on its 2026 information security policy, which says it is mandatory for ministries and agencies and requires compliance with ISO/IEC 27001:2022. It is a policy, not a law or decree; held strictly, Uganda has no evidence.
+- **Stage 3**: Algeria, the Gambia, Mauritius, Sudan, Eswatini and Zimbabwe, each on a named national standard carrying an ISO number. **The second stager split on Algeria**: its 2026 programme lists `NA ISO/IEC 14651 (NA 13037)` under revisions, read by the parent as an existing adoption.
+- **Stage 2**: eight countries, on ISO's register or a source quoting it.
+- **Of the row's 13 at stage 2**, Burundi, Seychelles, Tunisia and Zambia are without evidence.
+- **39 countries are without evidence**, Kenya, Nigeria, South Africa and Egypt among them: nothing held names their body as an ISO member.
+- **No source names a committee**: question 4 is unanswered everywhere.
+- **Tokens: about 28 million at the map**, ceiling 30 million, step 1 included.
 ## Boundary
 
 Nothing here writes to `C:\OSINT` or to `raw/`.

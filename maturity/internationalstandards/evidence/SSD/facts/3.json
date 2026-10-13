@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-nca-ew4all-common-alerting-protocol",
+  "facts": [],
+  "systems": [
+    {"system": "Common Alerting Protocol (CAP)", "country_label": "Common Alerting Protocol, being adopted by the NCA for standardised multi-channel alert dissemination under EW4ALL", "class": "other", "platform": "", "owner": "National Communication Authority", "tiers": ""}
+  ],
+  "note": "Communications regulator describes adopting CAP for alerts under an ITU-led programme; it is not the standards body adopting a named standard as a national standard, and no number is given."
+}

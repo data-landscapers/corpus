@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-15-nita-u-nisf-2026-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Information Security Framework (NISF) 2026",
+      "country_label": "Updated National Information Security Framework (NISF) 2026",
+      "class": "other",
+      "platform": "",
+      "owner": "NITA-U",
+      "tiers": "MDAs"
+    }
+  ],
+  "note": "Launch release says the framework aligns with current international best practices but names no standard; no fact."
+}

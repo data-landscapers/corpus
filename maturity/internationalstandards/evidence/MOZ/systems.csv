@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,Base de dados pública para consulta de IMEI,"public IMEI lookup built on GSMA data; a system built to an industry registry, not an ISO/IEC/ITU standard",other,GSMA IMEI database,INCM,,2026-08-04-incm-comunicado-plataforma-consulta-imei
+MOZ,Public IMEI database,"public IMEI lookup built on GSMA records; a system built to an industry registry, not an ISO/IEC/ITU standard",other,GSMA IMEI database,INCM,,2026-08-04-mozambique-incm-public-imei-database

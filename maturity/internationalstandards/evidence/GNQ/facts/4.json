@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-16-pamfp-asistencia-tecnica-supervision-centro-datos-sitio-respaldo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "TIA-942 data centre standard",
+      "country_label": "norma TIA-942",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "Ministry of Finance principal data centre and backup site (tender requirement on the works)"
+    },
+    {
+      "system": "SMSI",
+      "country_label": "Sistema de Gestión de Seguridad Informática",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Finance (PAMFP mission)",
+      "tiers": "Ministry of Finance, tax directorate"
+    }
+  ],
+  "note": "Tender for supervision of data centre works to the TIA-942 standard (not ISO/IEC/ITU) and a planned information security management system; a tender term, not a rule on public bodies, and no named ISO standard; no fact."
+}

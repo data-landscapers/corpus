@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-27-cbn-pos-geotag-iso20022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ISO 20022 payment messaging migration",
+      "country_label": "CBN circular of 2025-08-25 requiring payment operators to use ISO 20022 messages",
+      "class": "other",
+      "platform": "ISO 20022",
+      "owner": "Central Bank of Nigeria",
+      "tiers": "banks and payment operators"
+    }
+  ],
+  "note": "ISO 20022 is a sector rule for banks and payment operators, not a rule for government systems; no standards-body fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-14-cbs-sba-iso-20022-transition-notice",
+  "facts": [],
+  "systems": [
+    {"system": "ISO 20022 payment messaging", "country_label": "Payments moved from SWIFT MT to the ISO 20022 message format from 22 November 2025, per a joint Central Bank of Seychelles and Seychelles Bankers Association notice", "class": "other", "platform": "SWIFT network", "owner": "Central Bank of Seychelles; commercial banks", "tiers": "central bank and commercial banks"}
+  ],
+  "note": "Payments moved to the ISO 20022 message format is a system built to a standard and a sector rule for banks; it names no membership, adopted national standard, public-body requirement or committee seat."
+}

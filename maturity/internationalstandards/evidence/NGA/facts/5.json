@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-nigeria-icao-pkd-biometric-passport",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ICAO Public Key Directory integration (biometric passport)",
+      "country_label": "Nigeria Immigration Service passport CSCA certificates in the ICAO PKD",
+      "class": "other",
+      "platform": "ICAO PKD",
+      "owner": "Nigeria Immigration Service",
+      "tiers": "federal"
+    }
+  ],
+  "note": "ICAO passport system; a system built to an international standard places nothing."
+}

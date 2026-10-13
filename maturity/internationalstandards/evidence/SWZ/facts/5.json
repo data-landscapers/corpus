@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-20-ezulwini-national-addressing-pilot",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Addressing Standards pilot (Ezulwini)",
+      "country_label": "National Addressing Standards",
+      "class": "other",
+      "platform": "",
+      "owner": "Ezulwini Municipality",
+      "tiers": "municipal"
+    }
+  ],
+  "note": "Municipal pilot of the addressing standards; names no international standard, membership or requirement."
+}

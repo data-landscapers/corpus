@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-01-dza-ianor-projet-programme-national-normalisation-2026",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "IANOR's draft national standardisation programme for 2026 lists, under revisions, the national standard NA ISO/IEC 14651 (NA 13037), on information technology string comparison and collation, to be brought up to ISO/IEC 14651:2025; the programme's publication date, February 2026, is its only date.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Institut Algérien de Normalisation (IANOR)",
+      "class": "adoption"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Institut Algérien de Normalisation (IANOR)",
+      "country_label": "Institut Algérien de Normalisation (IANOR)",
+      "class": "adoption",
+      "platform": "",
+      "owner": "Institut Algérien de Normalisation (IANOR)",
+      "tiers": ""
+    }
+  ],
+  "note": "Carried from the qualitystandards study's reading of this document, matched to this study's questions from the fact's own text."
+}

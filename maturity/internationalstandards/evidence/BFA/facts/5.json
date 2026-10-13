@@ -1,0 +1,8 @@
+{
+  "slug": "2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration",
+  "facts": [],
+  "systems": [
+    {"system": "Referentiel general d'interoperabilite (RGI)", "country_label": "RGI, adopted by Prime Ministerial arrete of 23 May 2018", "class": "other", "platform": "", "owner": "Ministry of digital economy / DGTIC", "tiers": "directions in charge of information systems of public administrations"}
+  ],
+  "note": "Interoperability framework is a national normative document; the official speaks of aligning with international referentials but names no ISO, IEC or ITU standard."
+}

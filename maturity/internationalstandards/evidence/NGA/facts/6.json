@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-12-cbn-automated-aml-baseline-standards",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Baseline Standards for Automated AML Solutions",
+      "country_label": "CBN rule for financial institutions",
+      "class": "other",
+      "platform": "",
+      "owner": "Central Bank of Nigeria",
+      "tiers": ""
+    }
+  ],
+  "note": "Sector rule for banks and no named ISO/IEC/ITU standard; no fact."
+}

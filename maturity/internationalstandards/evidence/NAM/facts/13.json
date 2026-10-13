@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-29-namibia-instant-payments-namqr-open-banking",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Namibia Interbank Settlement System (NISS)",
+      "country_label": "NISS, migrated to the ISO 20022 messaging standard",
+      "class": "other",
+      "platform": "",
+      "owner": "Bank of Namibia",
+      "tiers": ""
+    },
+    {
+      "system": "NamQR",
+      "country_label": "national QR payment standard, finalised",
+      "class": "other",
+      "platform": "",
+      "owner": "Payments Association of Namibia",
+      "tiers": ""
+    }
+  ],
+  "note": "Payments system moved to ISO 20022 format: a system built to a standard places nothing; no standards body membership, adoption, mandate or committee."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric passport decree (ICAO-aligned chip)",
+      "country_label": "Biometric passport",
+      "class": "other",
+      "platform": "",
+      "owner": "DGSN",
+      "tiers": ""
+    }
+  ],
+  "note": "Passport decree aligned with ICAO standards (aviation specification); no ISO/IEC/ITU IT standard, no membership."
+}

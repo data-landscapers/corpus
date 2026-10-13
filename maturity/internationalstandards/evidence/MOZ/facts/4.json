@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-incm-comunicado-plataforma-consulta-imei",
+  "facts": [],
+  "systems": [
+    {"system": "Base de dados pública para consulta de IMEI", "country_label": "public IMEI lookup built on GSMA data; a system built to an industry registry, not an ISO/IEC/ITU standard", "class": "other", "platform": "GSMA IMEI database", "owner": "INCM", "tiers": ""}
+  ],
+  "note": "INCM IMEI lookup notice; GSMA is not ISO/IEC and no standards membership, adoption, requirement or committee is stated."
+}

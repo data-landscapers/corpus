@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-iso-member-profile-gambia-standards-bureau",
+  "facts": [
+    {
+      "sub_indicator": "international",
+      "aspect": "standing",
+      "value": "member",
+      "fact": "ISO's member register lists The Gambia Standards Bureau as a correspondent member of ISO, with participating and observing seats on technical committees the page does not name; the page carries no date, so its published date 2026-09-03 is used.",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "The Gambia Standards Bureau (TGSB)",
+      "class": "adoption"
+    }
+  ],
+  "systems": [
+    {
+      "system": "The Gambia Standards Bureau (TGSB)",
+      "country_label": "The Gambia Standards Bureau (TGSB)",
+      "class": "adoption",
+      "platform": "",
+      "owner": "The Gambia Standards Bureau (TGSB)",
+      "tiers": ""
+    }
+  ],
+  "note": "Carried from the qualitystandards study's reading of this document, matched to this study's questions from the fact's own text."
+}

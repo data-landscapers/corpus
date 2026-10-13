@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-12-dgssi-circulaire-02-2023-directive-nationale-securite-si-v2",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DNSSI v2.0 (Circulaire 2/2023)",
+      "country_label": "Directive Nationale de la Sécurité des Systèmes d'Information",
+      "class": "other",
+      "platform": "",
+      "owner": "DGSSI",
+      "tiers": "state administrations, public enterprises, local authorities, vital-importance infrastructure"
+    }
+  ],
+  "note": "Circular 2/2023 promulgating DNSSI v2.0 binds public bodies, but the directive is only structured on ISO 27002 domains (modelled on, not a requirement to comply with or certify to the standard); no membership or adoption stated."
+}

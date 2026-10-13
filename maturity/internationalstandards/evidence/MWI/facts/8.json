@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+  "facts": [],
+  "systems": [
+    {"system": "NRIS", "country_label": "National Registration and Identification System; biometric ID system listing ISO/IEC 19794 and 19785 data formats it supports", "class": "other", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+  ],
+  "note": "Lists ISO/IEC biometric formats the NRB identity system supports and says the plan aligns with international standards; no standards body adoption, ISO/IEC membership, government requirement or committee role is stated."
+}
