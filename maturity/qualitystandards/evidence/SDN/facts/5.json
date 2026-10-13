@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-26-ssmo-eisali-baldna-integration",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Sudanese Standards and Metrology Organization (SSMO) is reported operating in Khartoum and piloting electronic payment of standards certification fees; the article does not say what law set it up and names no IT or data standard.", "as_of": "2026-07-26", "date_precision": "day", "system": "Sudanese Standards and Metrology Organization", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Eisali", "country_label": "إيصالي", "class": "other", "platform": "", "owner": "Ministry of Finance with Ministry of Digital Transformation and Communications", "tiers": "SSMO"},
+    {"system": "Baladna platform", "country_label": "بلدنا", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": "SSMO"}
+  ],
+  "note": "Standards certification is mentioned only as a fee type, with no IT or data standard and no certifier or certified organisation named, so no certification fact; payment systems are class other."
+}

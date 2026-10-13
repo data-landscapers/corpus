@@ -98,7 +98,15 @@
       "subject": "gov.standards",
       "text": "National quality standards: national standards for information technology and data",
       "indicator_id": "gov.standards--national-quality-standards-national-standards-for-information-technology-and-data",
-      "class": "body"
+      "class": "body",
+      "criteria": [
+        "A source from the past three years says the country has no national standards body.",
+        "A national standards body exists: a body set up by a law or decree to write or adopt national standards. One announced and not yet created does not count.",
+        "The body has issued a national standard on information technology or data: a named standard on information technology, information security, software or data, issued or adopted as a national standard. A national quality policy, telecoms quality-of-service rules and quality management standards do not count.",
+        "An organisation can be certified against such a standard in the country: the standards body, or a certifier accredited in the country, offers certification against it or has certified an organisation. A certificate from a certifier abroad does not count.",
+        "A public body has been certified in the past three years: a dated source names a ministry, agency or state-owned body certified against such a standard by the standards body or a certifier accredited in the country. How good the standards are is not judged."
+      ],
+      "criteria_of": "bb80a789a9fe"
     }
   ],
   "classes": [
@@ -108,7 +116,7 @@
   "aspects": [
     {
       "key": "standing",
-      "name": "Standards body and its standards for information technology or data",
+      "name": "Standards body and its standards",
       "role": "coverage",
       "defer": [
         "none"
@@ -125,7 +133,7 @@
     },
     {
       "key": "certification",
-      "name": "Certification offered and a public body certified",
+      "name": "Certification",
       "role": "coverage",
       "defer": [
         "none"

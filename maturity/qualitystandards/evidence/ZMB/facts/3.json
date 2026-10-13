@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-zambia-dzap-data-protection-compliance-system",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Data Protection Compliance Management System (DPCMS)", "country_label": "Digital Data Protection Compliance Management System", "class": "other", "platform": "", "owner": "Data Protection Commission of Zambia (procured by Smart Zambia Institute under DZAP)", "tiers": "national"}
+  ],
+  "note": "A tender requiring ISO/IEC 27001 compliance of a system to be built; no national standards body, national IT standard or certification is stated, so class other and no fact."
+}

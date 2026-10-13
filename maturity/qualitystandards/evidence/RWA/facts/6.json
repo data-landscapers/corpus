@@ -1,0 +1,12 @@
+{
+  "slug": "2013-06-28-rwanda-law-50-2013-standards-board",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "Law N° 50/2013 of 28 June 2013 establishes the Rwanda Standards Board (RSB) with legal personality and autonomy, and gives it the mission to establish and publish national standards, defined as RSB-approved standards whose compliance is not mandatory; it names no information technology or data standard.",
+     "as_of": "2013-06-28", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "Ikigo cy'Igihugu Gitsura Ubuziranenge (RSB)", "class": "body", "platform": "", "owner": "Government of Rwanda; supervising organ set by Prime Minister's Order", "tiers": "national"}
+  ],
+  "note": "General product and quality-service certification mandate (Article 4, 7) names no IT or data standard, so no certification fact."
+}

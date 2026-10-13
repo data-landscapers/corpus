@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "SMTD data centre", "country_label": "Centre de données de la Société malienne de transmission et de diffusion (SMTD)", "class": "other", "platform": "", "owner": "SMTD (state telecoms infrastructure company)", "tiers": "government"},
+    {"system": "AGETIC data centre", "country_label": "Centre de données de l'AGETIC", "class": "other", "platform": "", "owner": "AGETIC (government agency under MCENMA)", "tiers": "government"}
+  ],
+  "note": "Only ISO 27001 certification of the SMTD data centre as a project under way, no certifier named, and a recommendation that the PKI data centre conform to ISO 27001 and Tier III; no national standard, standards body or completed certification stated, so no fact."
+}

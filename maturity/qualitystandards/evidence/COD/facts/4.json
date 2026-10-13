@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-cod-ouragan-enquete-arptc-regulateur",
+  "facts": [],
+  "systems": [
+    {"system": "ARPTC equipment type approval (homologation)", "country_label": "homologation des équipements", "class": "other", "platform": "", "owner": "ARPTC (telecoms regulator)", "tiers": ""}
+  ],
+  "note": "Telecom regulator's quality-of-service oversight and equipment approval only; names no national standards body, no national IT or data standard and no certification: class other."
+}

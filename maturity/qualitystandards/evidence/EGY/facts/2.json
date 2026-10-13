@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-eos-al-muwasafat-al-tarif-bil-muwasafat-al-duwaliyya-wal-ajnabiyya",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "EOS states that Ministerial Decision 102 of 2022 lets an international or foreign standard (ISO, IEC, EN and others) stand where no Egyptian standard exists, and that EOS sells such standards and lists the latest Egyptian and foreign issues; the page names no information technology or data standard, and is undated, so the year is taken from the decision.",
+     "as_of": "2022", "date_precision": "year", "system": "Egyptian Organization for Standardization and Quality (EOS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Egyptian Organization for Standardization and Quality (EOS)", "country_label": "الهيئة المصرية العامة للمواصفات والجودة", "class": "body", "platform": "", "owner": "State", "tiers": ""}
+  ],
+  "note": "General product-standards adoption rule; no IT or data standard and no certification named, so no published or certification fact."
+}

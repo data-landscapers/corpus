@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-22-mtn-nigeria-iso-27001-isms-certificate-lagos-data-centres",
+  "facts": [],
+  "systems": [
+    {"system": "MTN Nigeria ISO 27001:2013 information security management system certificate (ISMS/R234/0006)", "country_label": "ISO 27001 ISMS certificate of registration, MTN Nigeria Communications Limited, Ojota and Ikoyi data centres, Lagos", "class": "other", "platform": "", "owner": "MTN Nigeria Communications Limited", "tiers": ""}
+  ],
+  "note": "The certificate was issued by Certification Partner Global, a Dubai-based certifier, against an international standard, and names no Nigerian standards body or in-country accredited certifier; a certificate from a certifier abroad is not a fact, so it is recorded as a system of class other."
+}

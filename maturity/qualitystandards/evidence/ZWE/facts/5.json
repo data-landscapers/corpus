@@ -1,0 +1,34 @@
+{
+  "slug": "2021-01-01-zwe-national-quality-policy-2021-2025",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "The Ministry of Industry and Commerce's National Quality Policy 2021-2025 states that a standards body exists, the Standards Association of Zimbabwe (SAZ), which develops national standards, but that it is not rooted in enabling legislation (no legislation on standardisation) and that Government will legislate and rebrand it as the Standards Institute Zimbabwe; the document gives its own published date (2021) and names no IT or data standard.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "country_label": "Standards Association of Zimbabwe",
+      "class": "body",
+      "platform": "",
+      "owner": "SAZ (to be rebranded Standards Institute Zimbabwe under the policy)",
+      "tiers": "national"
+    },
+    {
+      "system": "Standards Institute Zimbabwe (SIZ)",
+      "country_label": "Standards Institute Zimbabwe",
+      "class": "body",
+      "platform": "",
+      "owner": "Government of Zimbabwe, proposed by the Ministry of Industry and Commerce; not yet established per the policy",
+      "tiers": "national"
+    }
+  ],
+  "note": "Certification: the policy says SAZ provides testing and certification services and some SAZ laboratories are SADCAS-accredited to ISO 17025, and names ISO 9001/14001/22000 and a 1% company certification rate, none IT or data and no certifier named for any IT standard, so no certification fact; quality policy, ISO 9001 and non-IT certification are class other."
+}

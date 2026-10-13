@@ -1,0 +1,10 @@
+{
+  "slug": "2001-11-08-eswatini-standards-and-quality-act-2003",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Standards and Quality Act (Act 10 of 2003), assented to on 8 November 2001 with commencement to be proclaimed by the Minister, establishes the Eswatini Standards Authority as a body corporate with power to draft, issue, amend and withdraw Eswatini standards.", "as_of": "2001-11-08", "date_precision": "day", "system": "Eswatini Standards Authority", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Eswatini Standards Authority", "country_label": "Eswatini Standards Authority (SWASA/ESWASA)", "class": "body", "platform": "", "owner": "Government of Eswatini (Ministry responsible for Standards and Quality assurance)", "tiers": "national"}
+  ],
+  "note": "The Act names no IT or data standard and no certification against one; its certification marks and licences cover commodities generally."
+}

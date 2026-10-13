@@ -1,0 +1,34 @@
+{
+  "slug": "2026-04-09-msb-certification-mark-regulations-2026",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "The Mauritius Standards Bureau Act establishes the Mauritius Standards Bureau and a Standards Council, and the Minister made the Certification Mark Regulations 2026 (GN No. 46 of 2026) under section 33 of that Act on the Council's recommendation.",
+      "as_of": "2026-04-09",
+      "date_precision": "day",
+      "system": "Mauritius Standards Bureau",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Mauritius Standards Bureau",
+      "country_label": "Mauritius Standards Bureau (MSB)",
+      "class": "body",
+      "platform": "",
+      "owner": "Government of Mauritius, under the Mauritius Standards Bureau Act",
+      "tiers": ""
+    },
+    {
+      "system": "Mauricert (MSB certification mark scheme)",
+      "country_label": "Mauricert",
+      "class": "other",
+      "platform": "",
+      "owner": "Mauritius Standards Bureau",
+      "tiers": ""
+    }
+  ],
+  "note": "Certification mark regulations cover commodities and processes against Mauritian standards generally and name no IT or data standard, so no certification fact and no published fact; quality-plan certification is class other."
+}

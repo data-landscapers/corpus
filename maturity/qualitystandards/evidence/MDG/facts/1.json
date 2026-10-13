@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-bnm-presentation-generale",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Bureau des Normes de Madagascar (BNM), the national standards body (Organisme National de Normalisation), was created by decree no. 98-944 of 4 November 1998 and is now governed by decree no. 2014-1570 of 30 September 2014; the document names no information technology or data standard.", "as_of": "1998-11-04", "date_precision": "day", "system": "Bureau des Normes de Madagascar (BNM)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Bureau des Normes de Madagascar (BNM)", "country_label": "Organisme National de Normalisation", "class": "body", "platform": "", "owner": "Ministry of Commerce (technical oversight), Ministry of Finance (budget oversight)", "tiers": "national"}
+  ],
+  "note": "The BNM has a certification department, but the document names no certification against an IT or data standard and no certified organisation, so no certification fact."
+}

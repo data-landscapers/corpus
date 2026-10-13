@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-06-rsb-mutual-recognition-arrangements-aconoq-saz-2026",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Rwanda Standards Board (RSB) signed mutual recognition arrangements with Congo's ACONOQ and the Standards Association of Zimbabwe in Kigali on 6 March 2026, acting as Rwanda's national standards body.", "as_of": "2026-03-06", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "RSB", "class": "body", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "Certification: 32 companies with 78 food products certified under the ARSO African Conformity Assessment Programme, none on IT or data, so no certification fact."
+}

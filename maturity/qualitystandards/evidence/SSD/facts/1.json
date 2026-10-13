@@ -1,0 +1,10 @@
+{
+  "slug": "2012-01-01-national-bureau-of-standards-act",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The National Bureau of Standards Act, 2012 establishes the National Bureau of Standards as a body corporate (s.5) with the function of formulating, adopting and endorsing standard specifications as South Sudan standards (s.8), though the captured text names no standard on information technology, software or data; the Act gives no date beyond 2012, so the year is the document's published date.", "as_of": "2012", "date_precision": "year", "system": "National Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "National Bureau of Standards", "country_label": "National Bureau of Standards (SSNBS)", "class": "body", "platform": "", "owner": "National government ministry responsible for commerce and industry", "tiers": "national"}
+  ],
+  "note": "No certification fact: the Act gives the Bureau accreditation, conformity-assessment and certification-mark powers (ss.8, 18-22) but the captured text (excerpt, truncated at s.33) names no certification against an IT or data standard and no certified organisation."
+}

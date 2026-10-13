@@ -1,0 +1,36 @@
+{
+  "slug": "2026-02-01-zwe-saz-accreditations-iso27001",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "published",
+      "fact": "The Standards Association of Zimbabwe's accreditations page lists ZWS ISO/IEC 27001:2022 (information security management systems) as a Zimbabwe standard (ZWS) with a certification scheme; the page does not state the body's legal basis, and its own date is 2023-03-06 with content updated to February 2026, so February 2026 is the stated event date.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "class": "body"
+    },
+    {
+      "sub_indicator": "standards",
+      "aspect": "certification",
+      "value": "offered",
+      "fact": "SAZ Certification Services, the certifier, states its ZWS ISO/IEC 27001:2022 (ISMS) certification scheme was accredited to ISO/IEC 17021-1:2015 by the Southern African Development Community Accreditation Services (SADCAS) in February 2026; the page names no certified organisation.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Standards Association of Zimbabwe (SAZ)",
+      "country_label": "Standards Association of Zimbabwe; SAZ Certification Services",
+      "class": "body",
+      "platform": "",
+      "owner": "Standards Association of Zimbabwe",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

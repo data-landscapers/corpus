@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-01-cabo-verde-igqpi-lista-de-normas-cabo-verdianas",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Instituto de Gestão da Qualidade e da Propriedade Intelectual (IGQPI) publishes the Lista de Normas Cabo-verdianas, a catalogue of national standards (NCV 001:2015 to NCV 025:2023), updated March 2024; the document does not state the law that set the body up.", "as_of": "2024-03", "date_precision": "month", "system": "IGQPI", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "none", "fact": "The IGQPI catalogue of 25 national standards lists 21 agricultural, fisheries and food product standards (2015-2016) and four tourism standards (2020-2023), and holds no standard on information technology, information security, software or data.", "as_of": "2024-03", "date_precision": "month", "system": "IGQPI", "class": "body"}
+  ],
+  "systems": [
+    {"system": "IGQPI", "country_label": "Instituto de Gestão da Qualidade e da Propriedade Intelectual", "class": "body", "platform": "", "owner": "IGQPI", "tiers": ""}
+  ],
+  "note": "Document states no certification and no certifier."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-17-sabs-standards-matters-gazette-54520",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Notice 3890 of 2026 states that the Board of the South African Bureau of Standards acts under the Standards Act, 2008 (Act No. 8 of 2008), which sets the norm for developing South African National Standards.", "as_of": "2026-04-17", "date_precision": "day", "system": "South African Bureau of Standards", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "Notice 3890 of 2026 lists SANS 19784-1:2026 Ed 2 (Information technology - Biometric application programming interface, Part 1: BioAPI specification) among standards revised under section 24(1)(a) of the Standards Act; the document gives its date as the gazette notice, 2026-04-17.", "as_of": "2026-04-17", "date_precision": "day", "system": "South African Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "South African Bureau of Standards", "country_label": "SABS", "class": "body", "platform": "", "owner": "South African Bureau of Standards (Board acting under the Standards Act, 2008)", "tiers": "national"}
+  ],
+  "note": "Certification: the notice names SATS 17021-8:2026 (management systems certification competence, sustainable development in communities), which is not an IT or data standard, and names no certifier of an IT or data standard, so no certification fact."
+}

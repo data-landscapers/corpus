@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-13-iniq-disponibiliza-catalogo-de-normas-2026",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "INIQ, Angola's national quality infrastructure institute, made its 2026 Catalogue of Norms available on 9 March 2026 with 140 new national standards (Normas Angolanas) in the annual update, homologated by INIQ after technical committee work and public consultation, but the document names no standard on information technology, security, software or data.",
+     "as_of": "2026-03-09", "date_precision": "day", "system": "INIQ - Instituto Nacional das Infra-Estruturas da Qualidade", "class": "body"}
+  ],
+  "systems": [
+    {"system": "INIQ - Instituto Nacional das Infra-Estruturas da Qualidade", "country_label": "Instituto Nacional das Infra-Estruturas da Qualidade", "class": "body", "platform": "", "owner": "Angolan state", "tiers": "national"},
+    {"system": "Catálogo de Normas 2026", "country_label": "Catálogo de Normas, versão 2026", "class": "body", "platform": "iniq.gov.ao", "owner": "INIQ", "tiers": "national"}
+  ],
+  "note": "The catalogue is said to cover circular economy, construction, food, quality management, safety, occupational health and vehicle safety plus 'technology suppliers', none a named IT or data standard, so no published or none fact; standards are voluntary unless made mandatory by law."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-31-nosi-relatorio-de-gestao-e-contas-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Praia data centre Uptime Institute Tier III certification", "country_label": "Praia data centre", "class": "other", "platform": "", "owner": "NOSi, E.P.E.", "tiers": ""}
+  ],
+  "note": "No fact: the only certification named is Uptime Institute Tier III for the Praia data centre, a certifier abroad and not a national IT or data standard (class other); no standards body, national standard or in-country certifier is stated."
+}

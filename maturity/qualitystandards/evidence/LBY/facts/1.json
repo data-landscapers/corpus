@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-03-lncsm-supreme-committee-adopts-2026-plan-and-standards",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "On 3 February 2026 the Supreme Committee of the National Centre for Standardization and Metrology, meeting at the Ministry of Planning, adopted the Centre's 2026 plan and a number of Libyan standards, none named as information technology or data standards.",
+     "as_of": "2026-02-03", "date_precision": "day", "system": "National Centre for Standardization and Metrology", "class": "body"}
+  ],
+  "systems": [
+    {"system": "National Centre for Standardization and Metrology", "country_label": "المركز الوطني للمواصفات والمعايير القياسية", "class": "body", "platform": "", "owner": "Ministry of Planning (committee seat)", "tiers": "national"}
+  ],
+  "note": "Adopted standards are unnamed; the Libyan Quality Mark licensing regulation, halal meat and GMO rules are non-IT and not facts."
+}

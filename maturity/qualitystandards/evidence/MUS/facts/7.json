@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-16-energy-efficiency-refrigerating-appliances-regulations-2026",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Energy Efficiency (Refrigerating Appliances) Regulations 2026, in operation from 1 May 2026, name the Mauritius Standards Bureau as a body established under the Mauritius Standards Bureau Act, which the regulations use to verify appliance compliance with the energy performance standards; the document names no IT or data standard.",
+     "as_of": "2026-05-01", "date_precision": "day", "system": "Mauritius Standards Bureau", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Mauritius Standards Bureau", "country_label": "Mauritius Standards Bureau", "class": "body", "platform": "", "owner": "Government of Mauritius (statutory body under the Mauritius Standards Bureau Act)", "tiers": "national"},
+    {"system": "Mauritius Accreditation Service", "country_label": "Mauritius Accreditation Service", "class": "other", "platform": "", "owner": "Established under the Mauritius Accreditation Service Act", "tiers": "national"}
+  ],
+  "note": "Energy-efficiency product standards and MSB test-report verification are non-IT; the Mauritius Accreditation Service is an accreditation body, class other; no certification against an IT or data standard is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-baldna-platform-gov-plt-product-page",
+  "facts": [],
+  "systems": [
+    {"system": "Baldna ministry/institution platform (GOV-PLT)", "country_label": "منصة بلدنا", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": "23 institutions, including the Sudanese Standards and Metrology Organization"}
+  ],
+  "note": "Product page lists the standards organisation as one of 23 institutions on a government platform; it states nothing about standards or certification, so no fact."
+}

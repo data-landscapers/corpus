@@ -1,0 +1,12 @@
+{
+  "slug": "2016-05-13-decret-2016-357-statuts-abnorm",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "Decree 2016-357 of 13 May 2016 approves the statutes of ABNORM, a public administrative establishment created by decree 2012-821 under law 011-2007 on standardisation, certification, accreditation and quality, charged with drawing up and issuing national standards; the document names no information technology or data standard and states nothing on whether its catalogue holds one.",
+     "as_of": "2016-05-13", "date_precision": "day", "system": "ABNORM", "class": "body"}
+  ],
+  "systems": [
+    {"system": "ABNORM", "country_label": "Agence Burkinabe de Normalisation, de la Metrologie et de la Qualite (A.B.NOR.M)", "class": "body", "platform": "", "owner": "State (public administrative establishment, under the Ministry of Commerce, Industry and Crafts)", "tiers": ""}
+  ],
+  "note": "Statutes give ABNORM general power to certify products, systems and persons against national or international standards; no IT or data standard and no named certification or certified organisation, so no certification fact."
+}

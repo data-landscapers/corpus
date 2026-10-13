@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-zabs-rsb-technical-cooperation-agreement",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Zambia Bureau of Standards and the Rwanda Standards Board signed a technical cooperation agreement on standardisation and conformity assessment at the 32nd ARSO General Assembly in Mombasa, the document treating RSB as a national standards body.", "as_of": "2026-09-03", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "RSB", "class": "body", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "No IT or data standard and no certification named; the as_of is the document's published date."
+}

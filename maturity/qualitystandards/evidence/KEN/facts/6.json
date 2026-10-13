@@ -1,0 +1,34 @@
+{
+  "slug": "2020-01-13-icta-government-data-centre-standard-2019",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "The ICT Authority's Government Data Centre Standard (ICTA.2.002:2019) says the Kenya Bureau of Standards (KEBS) is the source of information on valid national and international standards and took part in developing the ICTA standards under a memorandum of understanding; the document gives no date for KEBS's creation or its legal basis, and its date is the document's board approval.",
+      "as_of": "2020-01-13",
+      "date_precision": "day",
+      "system": "Kenya Bureau of Standards (KEBS)",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kenya Bureau of Standards (KEBS)",
+      "country_label": "Kenya Bureau of Standards",
+      "class": "body",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Government ICT Standards, Data Centre Standard ICTA.2.002:2019",
+      "country_label": "Government Data Centre Standard",
+      "class": "other",
+      "platform": "",
+      "owner": "ICT Authority (state corporation)",
+      "tiers": "central government, county governments, constitutional commissions, state corporations"
+    }
+  ],
+  "note": "ICTA's standard is a government-set technical standard for public bodies, not issued as a national standard by KEBS (class other); ICTA's own compliance certificate to agencies is not from the standards body or an accredited certifier, so no certification fact; ISO 27001/2 is only cited as guidance."
+}

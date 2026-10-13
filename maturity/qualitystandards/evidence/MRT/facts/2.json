@@ -1,0 +1,13 @@
+{
+  "slug": "2023-10-15-mauritanie-decret-2023-113-conseil-national-normalisation-comite-accreditation-jo-1543",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Decree 2023-113 of 7 September 2023 (Journal Officiel no. 1543, 15 October 2023) states that the Office National de Normalisation et de Métrologie was instituted by decree 2023-080 of 9 May 2023, and gives it the secretariat of the new national standardisation council and the accreditation cell; the document names no national standard on information technology or data.", "as_of": "2023-05-09", "date_precision": "day", "system": "Office National de Normalisation et de Métrologie", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Decree 2023-113 of 7 September 2023 creates the Conseil National de Normalisation et de Promotion de la Qualité, an advisory body under the industry minister, under articles 2 and 15 of law 2010-003 of 14 January 2010 on standardisation and quality promotion.", "as_of": "2023-09-07", "date_precision": "day", "system": "Conseil National de Normalisation et de Promotion de la Qualité", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Office National de Normalisation et de Métrologie", "country_label": "Office National de Normalisation et de Métrologie", "class": "body", "platform": "", "owner": "Ministry of Commerce, Industry, Handicrafts and Tourism (industry minister has tutelage over the council and committee)", "tiers": "national"},
+    {"system": "Conseil National de Normalisation et de Promotion de la Qualité", "country_label": "Conseil National de Normalisation et de Promotion de la Qualité", "class": "body", "platform": "", "owner": "Ministry in charge of industry", "tiers": "national"},
+    {"system": "Comité Mauritanien d'Accréditation", "country_label": "Comité Mauritanien d'Accréditation", "class": "other", "platform": "", "owner": "Ministry in charge of industry", "tiers": "national"}
+  ],
+  "note": "No certification fact: the decree sets accreditation of conformity assessment bodies (ISO/IEC 17011) via the Office's accreditation cell, which is not certification against an IT or data standard and names no certifier; the accreditation committee is class other."
+}

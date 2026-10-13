@@ -1,0 +1,11 @@
+{
+  "slug": "2021-04-20-decreto-presidencial-95-21-fusao-ianorq-iaac-instituto-nacional-das-infra-estruturas-da-qualidade",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Presidential Decree 95/21 of 20 April 2021 merged the Angolan standardisation institute IANORQ and the accreditation institute IAAC into the National Institute of Quality Infrastructure (INIQ), a public institute whose remit includes coordinating national standardisation, developing and publishing the national body of standards and homologating Angolan standards; the document names no national standard on information technology or data.", "as_of": "2021-04-20", "date_precision": "day", "system": "Instituto Nacional das Infra-Estruturas da Qualidade (INIQ)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Instituto Nacional das Infra-Estruturas da Qualidade (INIQ)", "country_label": "INIQ", "class": "body", "platform": "", "owner": "Ministry responsible for industry and commerce (superintendence)", "tiers": ""},
+    {"system": "Sistema Nacional de Gestão de Regulamentos Técnicos (SINGERT)", "country_label": "SINGERT", "class": "other", "platform": "digital platform", "owner": "INIQ", "tiers": ""}
+  ],
+  "note": "INIQ is a public certification and accreditation body for conformity generally, but the decree names no IT or data standard and no certification against one, so no certification fact; technical-regulation platform SINGERT is other."
+}

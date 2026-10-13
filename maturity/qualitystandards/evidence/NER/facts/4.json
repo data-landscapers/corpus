@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-29-arcep-continuous-mobile-network-monitoring-platform-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme de contrôle continu des réseaux mobiles", "country_label": "Plateforme de contrôle continu des réseaux mobiles", "class": "other", "platform": "TRAFSCAN, QUALCOP, NETFIX (INFOCOM INTERNATIONAL, Tunisia)", "owner": "ARCEP Niger", "tiers": "national regulator; data shared with Direction Générale des Impôts under a memorandum"}
+  ],
+  "note": "Telecom network monitoring platform (class other); no standards body, IT/data standard or certifier named."
+}

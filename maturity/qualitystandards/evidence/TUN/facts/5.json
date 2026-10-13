@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-25-tunisie-innorpi-officiel-normalisation-441",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "INNORPI, the Institut National de la Normalisation et de la Propriete Industrielle, issued standardization bulletin no. 441 on 25 May 2026 opening a two-month public enquiry on draft Tunisian standards under law 38-2009 and decree 2011-1083; the drafts (measurement, quality management, electrical and fibre-optic cable standards) include no information technology, information security, software or data standard.", "as_of": "2026-05-25", "date_precision": "day", "system": "INNORPI", "class": "body"}
+  ],
+  "systems": [
+    {"system": "INNORPI", "country_label": "Institut National de la Normalisation et de la Propriete Industrielle", "class": "body", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Not recorded as published or none: one enquiry bulletin is not the catalogue, and its fibre-optic cable and measurement standards are not IT or data standards; no certification stated."
+}

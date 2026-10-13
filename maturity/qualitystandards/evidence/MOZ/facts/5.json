@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-09-incm-relatorio-defesa-consumidor-servicos-comunicacoes-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AccUtilis",
+      "country_label": "AccUtilis",
+      "class": "other",
+      "platform": "",
+      "owner": "Tmcel",
+      "tiers": ""
+    },
+    {
+      "system": "Clarity/SAP",
+      "country_label": "Clarity/SAP",
+      "class": "other",
+      "platform": "SAP",
+      "owner": "MultiChoice",
+      "tiers": ""
+    }
+  ],
+  "note": "Telecom consumer-protection and quality-of-service report; no national standards body, IT standard or certification stated; operator complaint systems are class other."
+}

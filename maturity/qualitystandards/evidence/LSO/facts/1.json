@@ -1,0 +1,13 @@
+{
+  "slug": "2020-09-16-lesotho-lsi-operationalisation-address",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Minister of Trade and Industry said on 16 September 2020 that the Lesotho Standards Institution, created by the LSI Act published in 2014, was now operational as Lesotho's national standards body, with a mandate to develop and publish national standards; the document names no national standard on information technology or data.",
+     "as_of": "2020-09-16", "date_precision": "day",
+     "system": "Lesotho Standards Institution", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Lesotho Standards Institution", "country_label": "Lesotho Standards Institution (LSI)", "class": "body", "platform": "", "owner": "Ministry of Trade and Industry (sponsoring ministry)", "tiers": ""}
+  ],
+  "note": "No certification fact: certification and inspection are named only as part of LSI's mandate, with no certifier, standard or certificate stated."
+}

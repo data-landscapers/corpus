@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-senapiq-stp-servico-nacional-propriedade-intelectual-e-qualidade",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "SENAPIQ-STP's own site describes it as a public institute with administrative, financial, technical and asset autonomy under the ministry responsible for industry (Ministry of Economy and Finance), whose functions include proposing policy on standardisation, certification, accreditation and metrology; it cites no law or decree and no standard, and carries no date, so its published year 2026 is used.", "as_of": "2026", "date_precision": "year", "system": "SENAPIQ-STP", "class": "body"}
+  ],
+  "systems": [
+    {"system": "SENAPIQ-STP", "country_label": "Servico Nacional da Propriedade Intelectual e Qualidade", "class": "body", "platform": "", "owner": "Ministry of Economy and Finance (supervising ministry)", "tiers": ""}
+  ],
+  "note": "The site names no national standard and no certifier or certificate."
+}

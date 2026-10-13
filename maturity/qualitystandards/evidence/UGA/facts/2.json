@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-16-unbs-compulsory-standards-notice",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "A notice approved 16 December 2025 by the Chair and Secretary of the National Standards Council cites the Uganda National Bureau of Standards Act, 1983 (Cap. 210) as the law under which the Council proposes 15 standards for compulsory declaration; all 15 are on cosmetics, paints, toys, chemicals, paper, appliances and cables, none on information technology or data.",
+     "as_of": "2025-12-16", "date_precision": "day", "system": "Uganda National Bureau of Standards", "class": "body"}
+  ],
+  "systems": [],
+  "note": "No published or certification fact: none of the 15 listed Uganda Standards concerns information technology, security, software or data."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-tbs-compulsory-standards-list-october-2025",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Tanzania Bureau of Standards (TBS) published its list of new and revised compulsory Tanzania Standards as of October 2025, enforceable under the Standards Act, Cap. 130 (R.E. 2023), which shows a national standards body exists in law; the captured entries are on batteries, conductors, fasteners, wire and similar goods and name no standard on information technology, security, software or data, and the document says its list continues beyond the capture (published 2025-10, used as the date).",
+     "as_of": "2025-10", "date_precision": "month",
+     "system": "Tanzania Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Tanzania Bureau of Standards", "country_label": "TBS", "class": "body", "platform": "", "owner": "Tanzania Bureau of Standards", "tiers": ""}
+  ],
+  "note": "No certification fact: the document is a list of compulsory standards and names no certifier; no IT or data standard appears in the captured entries (excerpt only)."
+}

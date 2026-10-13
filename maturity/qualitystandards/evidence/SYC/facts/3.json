@@ -1,0 +1,10 @@
+{
+  "slug": "2014-03-31-seychelles-bureau-of-standards-act-2014",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "SeyLII's record of the Seychelles Bureau of Standards Act, 2014 (Act 2 of 2014) shows it repealing the earlier Bureau of Standards Act, commenced 16 June 2014 and amended in 2016 and 2021; only the citation and history page is captured, not the Act's text.", "as_of": "2014-06-16", "date_precision": "day", "system": "Seychelles Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Seychelles Bureau of Standards", "country_label": "Seychelles Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Seychelles", "tiers": ""}
+  ],
+  "note": "Citation page only; no IT or data standard and no certification stated."
+}

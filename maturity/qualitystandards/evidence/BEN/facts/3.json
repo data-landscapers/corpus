@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-anm-marque-nationale-conformite-nb",
+  "facts": [],
+  "systems": [
+    {"system": "Marque nationale de conformité NB", "country_label": "NB mark", "class": "other", "platform": "", "owner": "ANM", "tiers": "national"}
+  ],
+  "note": "The NB conformity mark covers imported electrical equipment, not IT or data standards; class other."
+}

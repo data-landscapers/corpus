@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-10-eswatini-eswasa-ers-iso9001-certification",
+  "facts": [],
+  "systems": [
+    {"system": "SZNS ISO 9001 certification of the Eswatini Revenue Service", "country_label": "SZNS ISO 9001", "class": "other", "platform": "", "owner": "Eswatini Standards Authority", "tiers": ""}
+  ],
+  "note": "ESWASA announced the Eswatini Revenue Service certified to SZNS ISO 9001, a quality-management standard, not an IT or data standard, so class other and no fact."
+}

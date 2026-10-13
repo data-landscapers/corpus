@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-thepoint-iso-secretary-general-visits-gambia-tgsb",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Point reports the TGSB Director General saying the Bureau was established under the Gambia Standards Bureau Act in 2010 and now has more than 70 staff after absorbing the former Weights and Measures Department; the article is dated 2026-07-01 and the establishment date is the event.",
+     "as_of": "2010", "date_precision": "year", "system": "The Gambia Standards Bureau (TGSB)", "class": "body"}
+  ],
+  "systems": [],
+  "note": "The Director General's claim of about 500 standards developed, harmonised and adopted names none on information technology or data, so it is no fact on published; no certification is mentioned; the Legal Metrology Act 2025, ARSO membership and organic standards are non-IT and not facts."
+}

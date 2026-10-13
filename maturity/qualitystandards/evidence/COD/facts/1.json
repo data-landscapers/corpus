@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-03-oadc-texaf-kinshasa-iso-pci-dss-certifications-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "OADC Texaf - Kinshasa ISO 27001, ISO 22301 and PCI DSS certifications", "country_label": "OADC Texaf - Kinshasa", "class": "other", "platform": "", "owner": "Open Access Data Centres (OADC) Texaf", "tiers": ""}
+  ],
+  "note": "A private data centre's ISO 27001, ISO 22301 and PCI DSS certificates; the document names no certifier and no national standards body, so no fact (class other)."
+}

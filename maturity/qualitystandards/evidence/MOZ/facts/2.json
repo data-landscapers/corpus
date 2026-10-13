@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-07-importacao-arroz-alimentos-veiculos-novas-regras-conformidade",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "The Ministry of Economy and the Instituto Nacional de Normalizacao e Qualidade (INNOQ, IP) announced on 7 May 2026 that a Certificate of Conformity under the Conformity Assessment Programme of Decree 8/2022 becomes mandatory from 1 June 2026 for listed imports (rice, fortified foods, used vehicles, tyres, construction steel); the document states no IT or data standard.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "INNOQ",
+      "class": "body"
+    }
+  ],
+  "systems": [],
+  "note": "Body fact only; the conformity certificates are for food, vehicles and construction goods (non-IT), issued abroad via Intertek, so nothing on certification."
+}

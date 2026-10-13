@@ -1,0 +1,17 @@
+{
+  "slug": "2022-03-14-decreto-8-2022-regulamento-normalizacao-avaliacao-conformidade",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "Decree 8/2022 of 14 March 2022 (Council of Ministers) approves the Regulation on Standardisation and Conformity Assessment and gives the Instituto Nacional de Normalizacao e Qualidade (INNOQ, IP) the job of coordinating standardisation, implementing Mozambican Technical Standards and certifying management systems, products, services and people against them; the passages shown name no IT or data standard.",
+      "as_of": "2022-03-14",
+      "date_precision": "day",
+      "system": "INNOQ",
+      "class": "body"
+    }
+  ],
+  "systems": [],
+  "note": "Body fact only; the passages name no IT, information security or data standard, and no certification actually performed."
+}

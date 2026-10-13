@@ -1,0 +1,11 @@
+{
+  "slug": "1995-01-01-botswana-standards-act",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Standards Act (Act 16 of 1995, commenced 1 August 1996) establishes the Botswana Bureau of Standards as a body corporate and a Standards Council, and charges the Bureau with preparing and publishing Botswana Standards; it names no information technology or data standard.", "as_of": "1996-08-01", "date_precision": "day", "system": "Botswana Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Botswana Bureau of Standards", "country_label": "Botswana Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Botswana (statutory body corporate)", "tiers": "national"},
+    {"system": "Standards Council", "country_label": "Standards Council", "class": "body", "platform": "", "owner": "Minister-appointed council supervising the Bureau", "tiers": "national"}
+  ],
+  "note": "Statute is not IT-specific; its standards marks licensing and recognition of inspection agencies for product and quality system certification are general quality infrastructure, so no certification fact is recorded."
+}

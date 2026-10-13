@@ -1,0 +1,12 @@
+{
+  "slug": "1990-05-15-libya-law-5-of-1990-standards-and-metrology",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "Law 5 of 1990, issued 15 May 1990, creates the National Centre for Standardization and Metrology, charged with quality control and with preparing, adopting and supervising standards, and makes the standards it adopts binding nationwide.",
+     "as_of": "1990-05-15", "date_precision": "day", "system": "National Centre for Standardization and Metrology", "class": "body"}
+  ],
+  "systems": [
+    {"system": "National Centre for Standardization and Metrology", "country_label": "المركز الوطني للمواصفات والمعايير القياسية", "class": "body", "platform": "", "owner": "Established by Law 5 of 1990; organised by decision of the General People's Committee on the planning committee's proposal", "tiers": "national"}
+  ],
+  "note": ""
+}

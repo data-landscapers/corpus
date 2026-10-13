@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-01-eos-7982-1-2025-electricity-metering-data-exchange-dlms-cosem",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published",
+     "fact": "The Egyptian Organization for Standardization and Quality (EOS) register lists Egyptian Standard 7982-1/2025, an adoption of IEC 62056-1-0/2014 on electricity metering data exchange (DLMS/COSEM), endorsed 1 October 2025, not obligatory, with ICS code 35.110 among its classes; the page does not state the law that set up the body.",
+     "as_of": "2025-10", "date_precision": "month", "system": "Egyptian Organization for Standardization and Quality (EOS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Egyptian Organization for Standardization and Quality (EOS)", "country_label": "EOS", "class": "body", "platform": "", "owner": "EOS", "tiers": "national"}
+  ],
+  "note": "No certification fact: the document is a standard register entry and names no certifier or certified organisation. The standard is a metering data-exchange standard, so whether it counts as IT or data is the parent's call."
+}

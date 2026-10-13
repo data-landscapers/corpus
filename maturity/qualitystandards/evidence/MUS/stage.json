@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "standards",
+   "stage": "5",
+   "standing": "published",
+   "certification": "public-body",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-004;MUS-002",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-qualitystandards.py."
+  }
+ ]
+}

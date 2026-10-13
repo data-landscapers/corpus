@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-13-ppda-iso27001-certification",
+  "facts": [],
+  "systems": [
+    {"system": "ISO/IEC 27001:2022 certification of PPDA", "country_label": "ISO Certification", "class": "other", "platform": "", "owner": "Public Procurement and Disposal of Public Assets Authority (PPDA)", "tiers": "central government agency"}
+  ],
+  "note": "PPDA certified to ISO/IEC 27001:2022 (reported 2026-06-13, first of ten UDAP agencies) but the document names no certifier, so it is not recorded as a certification fact; it also names no national standard."
+}

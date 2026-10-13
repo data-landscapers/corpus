@@ -1,0 +1,10 @@
+{
+  "slug": "2014-03-31-seychelles-bureau-of-standards-act-2014-full-text",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Seychelles Bureau of Standards Act, 2014 (Act 2 of 2014, assented 28 March 2014, repealing the 1987 Act) establishes the Seychelles Bureau of Standards as a body corporate (s.3) with the function of preparing draft standards and declaring them Seychelles Standards by Gazette notice (s.4(b), s.14); the Act commences on a date the Minister appoints by Gazette notice, which this text does not give.", "as_of": "2014-03-28", "date_precision": "day", "system": "Seychelles Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Seychelles Bureau of Standards", "country_label": "Seychelles Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Seychelles (body corporate under the Minister responsible for Industry)", "tiers": "national"}
+  ],
+  "note": "No standard on information technology or data is named, so no published fact; the Bureau's power to assess and certify manufacturing, process or management systems (s.4(e)) and to authorise a Standard Mark (s.20) names no IT or data standard and no certified organisation, so no certification fact."
+}

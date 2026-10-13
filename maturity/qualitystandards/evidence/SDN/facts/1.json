@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-29-ssmo-national-standards-catalogue",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Sudanese Standards and Metrology Organization (SSMO) publishes an online catalogue of adopted Sudanese Standards, each with its number and year and its ISO equivalent where there is one; the page carries no date, so the retrieval date 2026-08-29 is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "الهيئة السودانية للمواصفات والمقاييس (SSMO)", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "SSMO's catalogue lists item 40, an information technology standard on yield of toner cartridges for monochrome printers, Sudanese Standard 4469:2018, equivalent to ISO 19752:2017.", "as_of": "2018", "date_precision": "year", "system": "الهيئة السودانية للمواصفات والمقاييس (SSMO)", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "SSMO's catalogue lists item 16, 'the digital repository', Sudanese Standard 6392:2019, and item 49, an information and documentation standard on open systems interconnection application protocol, Sudanese Standard 1841-2:2016 (ISO 10161-2:2014).", "as_of": "2019", "date_precision": "year", "system": "الهيئة السودانية للمواصفات والمقاييس (SSMO)", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "SSMO's catalogue lists item 10, records metadata management part 1, Sudanese Standard 1633-1:2015 (ISO 23081-1:2006), and item 31, financial card message characteristics part 3, Sudanese Standard 6422-3:2020 (ISO 8583-3:1998).", "as_of": "2015", "date_precision": "year", "system": "الهيئة السودانية للمواصفات والمقاييس (SSMO)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "الهيئة السودانية للمواصفات والمقاييس (SSMO)", "country_label": "Sudanese Standards and Metrology Organization", "class": "body", "platform": "online standards catalogue", "owner": "SSMO", "tiers": "national"}
+  ],
+  "note": "The captured table is truncated at 74 items; it names no certification and no certifier, so there is no certification fact."
+}

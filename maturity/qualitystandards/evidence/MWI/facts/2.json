@@ -1,0 +1,8 @@
+{
+  "slug": "2012-07-27-malawi-bureau-of-standards-act",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Malawi Bureau of Standards Act, No. 14 of 2012 (assented 12 July 2012, published 27 July 2012), establishes the Malawi Bureau of Standards as a body corporate with the object of preparing and issuing standards, under a Malawi Standards Board; the captured text names no standard on information technology or data.", "as_of": "2012-07-12", "date_precision": "day", "system": "Malawi Bureau of Standards", "class": "body"}
+  ],
+  "systems": [],
+  "note": "Excerpt only: sections on the standards themselves were not captured, so no published-standard fact; the Bureau's power to assess quality systems and administer certification (s.4) names no IT or data standard."
+}

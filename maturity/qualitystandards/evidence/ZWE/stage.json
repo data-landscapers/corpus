@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "standards",
+   "stage": "4",
+   "standing": "published",
+   "certification": "offered",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002;ZWE-001",
+   "gaps": "No source from the last three years naming a public body certified against a national standard on information technology or data, by the standards body or a certifier accredited in the country, is held.",
+   "note": "Counted from the four questions by study-ladder-qualitystandards.py."
+  }
+ ]
+}

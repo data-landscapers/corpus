@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-12-von-ncc-8526-telecom-sites-call-masking",
+  "facts": [],
+  "systems": [
+    {"system": "Device Management System (DMS)", "country_label": "Device Management System", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"}
+  ],
+  "note": "No fact: NCC board communique on sites, call masking and the telecom Device Management System for type approval; telecom regulator type approval is class other, and no standards body or IT standard is stated."
+}

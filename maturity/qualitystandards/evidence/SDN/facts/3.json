@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-15-sdn-alradar-white-nile-electronic-collection-eysali",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Sudanese Standards and Metrology Organization (SSMO) is reported operating, with a director general and a White Nile State branch that launched electronic fee collection through the Eysali system; the article does not say what law set it up and names no IT or data standard.", "as_of": "2026-09-15", "date_precision": "day", "system": "Sudanese Standards and Metrology Organization", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Eysali (Eisali)", "country_label": "إيصالي", "class": "other", "platform": "", "owner": "", "tiers": "SSMO White Nile branch"}
+  ],
+  "note": "Eysali is a payment-collection system, class other; no standard or certification is stated, so no certification fact."
+}

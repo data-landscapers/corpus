@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-31-dataxion-tier-iv-certifications",
+  "facts": [],
+  "systems": [
+    {"system": "DataXion datacenter certifications (ISO 27001:22, PCI DSS v4.0, Uptime Tier IV, APSAD R7 and R13)", "country_label": "DataXion", "class": "other", "platform": "", "owner": "DataXion", "tiers": ""}
+  ],
+  "note": "Private operator's own claims; the document names no certifier for ISO 27001 (Uptime Institute, PCI and APSAD are not the standards body or an in-country certifier), so no certification fact (class other)."
+}

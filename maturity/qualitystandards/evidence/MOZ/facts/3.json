@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-18-ins-certificacao-iso-9001-innoq",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "The Instituto Nacional de Normalizacao e Qualidade (INNOQ) is named as the national body that awarded an ISO 9001:2015 certificate to the National Institute of Health's finance area on 16 March 2026; the document names no IT or data standard.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "INNOQ",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ISO 9001:2015 quality management system, INS finance area",
+      "country_label": "ISO 9001:2015 certification",
+      "class": "other",
+      "platform": "",
+      "owner": "Instituto Nacional de Saude (INS), certified by INNOQ",
+      "tiers": ""
+    }
+  ],
+  "note": "Certification is ISO 9001 quality management (also ISO 15189 and ISO 17043 for the laboratory, certifier not named), not an IT or data standard, so no certification fact; recorded as other."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2022-08-05-liberia-act-establishing-liberia-standards-authority",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Legislature of Liberia enacted an Act to amend the Executive Law and establish the Liberia Standards Authority, which carries the preamble citing ECOWAS quality infrastructure and WTO TBT obligations; the capture holds only the preamble, so it names no national standard on information technology or data. The document gives no date of enactment, so the published date 2022-08-05 is used.",
+     "as_of": "2022-08-05", "date_precision": "day", "system": "Liberia Standards Authority", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Liberia Standards Authority", "country_label": "Liberia Standards Authority", "class": "body", "platform": "", "owner": "Government of Liberia, established by Act of the Legislature", "tiers": ""},
+    {"system": "Liberia National Quality Policy", "country_label": "Liberia National Quality Policy", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Excerpt only (preamble and enacting clause): no standard and no certification stated; the Liberia National Quality Policy is a quality policy, so class other and not a fact."
+}

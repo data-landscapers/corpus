@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,ARCEP e-services platform,Plateforme d'ARCEP,other,,ARCEP Niger,operators and applicants,2026-08-10-niger-arcep-site-capture
+NER,Plateforme de contrôle continu des réseaux mobiles,Plateforme de contrôle continu des réseaux mobiles,other,"TRAFSCAN, QUALCOP, NETFIX (INFOCOM INTERNATIONAL, Tunisia)",ARCEP Niger,national regulator; data shared with Direction Générale des Impôts under a memorandum,2026-01-29-arcep-continuous-mobile-network-monitoring-platform-lesahel
+NER,Plateforme Nationale de Contrôle des Réseaux Mobiles,Plateforme Nationale de Contrôle des Réseaux Mobiles,other,supplied by INFOCOM INTERNATIONAL (Tunisia),ARCEP Niger,national regulator; mobile operator 2G/3G/4G cores,2026-01-28-niger-arcep-inauguration-plateforme-controle-continu-anp

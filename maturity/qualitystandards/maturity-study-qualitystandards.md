@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-qualitystandards.md — the thirty-second maturity study: national standards for information technology and data, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill's word on the questions; nothing run
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: qualitystandards
@@ -81,10 +81,22 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: carry by text, then the reading of §5.
-- [ ] **D3. Stage** as at 2026-09-30, with the parent's corrections and the agreement check.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 96 calls in one fan-out over the 221 documents of §5; 100 facts in 40 countries. Nothing was carried without reading: the cells' sources were read as documents.
+- [x] **D3. Staged** as at 2026-09-30: 5: 1, 4: 1, 3: 6, 2: 32, none at 1, and 14 without evidence; one fact revalued by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Mauritius, whose standards bureau's register lists six public bodies certified against the national information security standard at the end of 2025. **Stage 4**: Zimbabwe, whose standards association was accredited in February 2026 to certify against the same standard.
+- **Stage 3**: Algeria, Egypt, the Gambia, Sudan, Eswatini and South Africa, each on a named national standard; Egypt's is on metering data and Eswatini's on address data.
+- **Zimbabwe's association rests on no law**, by the 2021 quality policy's own account. The later yes answers question 1; held strictly, the cell would be unplaced.
+- **Zambia is stage 2**: its bureau says it has standards on information technology and names none.
+- **Tanzania is stage 2**: the one source naming a standard on information technology is dated after the as-at.
+- **Four countries the row has at stage 3 are at 2**: Angola and Rwanda on a catalogue or gazette that names no such standard, Burundi on its quality policy, Lesotho on telecoms rules.
+- **Fourteen countries are without evidence**, Nigeria, Morocco, Ethiopia, Senegal and Côte d'Ivoire among them: nothing held names their standards body.
+- **A fact dated by year or month after the as-at counts where its source was published by it**, as the stager brief has it; this places São Tomé and Príncipe.
+- **Tokens: about 35 million at the map**, ceiling 30 million, step 1 included. The one reading fan-out took 28 million. **The summaries were written by the parent.**
 
 ## Boundary
 

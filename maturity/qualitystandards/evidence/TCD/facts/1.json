@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-atnor-adoption-de-normes-tchadiennes-comites-techniques",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "ATNOR's own site describes it as a public administrative establishment under the Ministry of Commerce and Industry that prepares and manages Chad's national standards, and records its technical committees adopting draft Chadian standards (NTD) on 31 July, 5 August (ten international quality-management standards as drafts) and 7 August 2026; none is on information technology or data.", "as_of": "2026-08-07", "date_precision": "day", "system": "Agence Tchadienne de Normalisation (ATNOR)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Agence Tchadienne de Normalisation (ATNOR)", "country_label": "ATNOR", "class": "body", "platform": "", "owner": "Ministry of Commerce and Industry (supervising ministry)", "tiers": "national"}
+  ],
+  "note": "No certification fact: the page names certification only as a general service for products and services, with no IT or data standard and no certified organisation; the adopted standards are drafts on quality management, electrotechnics and petroleum products."
+}

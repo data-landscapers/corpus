@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-nga-thisday-dms-implementation-timeline-stakeholders",
+  "facts": [],
+  "systems": [
+    {"system": "Device Management System (DMS)", "country_label": "Device Management System", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"}
+  ],
+  "note": "No fact: importers' steps list SONCAP only as a name among customs steps, with no statement about a standards body, an IT standard or certification; DMS is NCC telecom type approval (class other)."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-niger-arcep-site-capture",
+  "facts": [],
+  "systems": [
+    {"system": "ARCEP e-services platform", "country_label": "Plateforme d'ARCEP", "class": "other", "platform": "", "owner": "ARCEP Niger", "tiers": "operators and applicants"}
+  ],
+  "note": "Telecom regulator homepage; quality-of-service and homologation items are telecom regulation, not a national standards body or IT/data standard."
+}

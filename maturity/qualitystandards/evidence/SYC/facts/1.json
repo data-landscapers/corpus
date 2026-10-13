@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-29-gazette-64-sbs-board-appointment",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Official Gazette General Notice No. 985 of 2025 records the President appointing an eight-member Board of the Seychelles Bureau of Standards for three years from 1 August 2025, under section 5 of the Seychelles Bureau of Standards Act 2014 as last amended by Act 16 of 2021; the notice names no standard.", "as_of": "2025-09-18", "date_precision": "day", "system": "Seychelles Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Seychelles Bureau of Standards", "country_label": "Seychelles Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Seychelles", "tiers": ""}
+  ],
+  "note": "Board appointment notice dated 18 September 2025 (effective 1 August 2025); it states a body exists but no IT or data standard and no certification."
+}

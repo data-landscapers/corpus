@@ -1,0 +1,10 @@
+{
+  "slug": "2005-12-30-namibia-standards-act-18-of-2005",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Standards Act, 2005 (Act No. 18 of 2005), signed 23 December 2005 and gazetted 30 December 2005, establishes the Namibian Standards Institution as the national institution for the promotion, issue and maintenance of standards, with a governing Namibian Standards Council.", "as_of": "2005-12-23", "date_precision": "day", "system": "Namibian Standards Institution", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Namibian Standards Institution", "country_label": "NSI", "class": "body", "platform": "", "owner": "Namibian Standards Council, under the Minister responsible for trade and industry", "tiers": "national"}
+  ],
+  "note": "The Act gives the NSI a power to certify and issue marks of conformity but names no IT or data standard and no certification actually offered or issued against one, so no certification fact; the document names no certifier beyond the NSI's statutory power."
+}

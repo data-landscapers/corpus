@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-15-namibia-nsi-national-standardisation-strategy-launch",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Namibia Standards Institution leads the national standardisation strategy; its chief executive says it has published 235 standards since its establishment in 2008 and the national stock is 275, with a target of 1,267 within three years, but the article names no standard on information technology or data.", "as_of": "2025-10-15", "date_precision": "day", "system": "Namibia Standards Institution", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Namibia Standards Institution", "country_label": "NSI", "class": "body", "platform": "", "owner": "Namibia Standards Institution", "tiers": "national"}
+  ],
+  "note": "No IT or data standard and no certification named; the document gives no as_of other than its published date, 2025-10-15, used for the stated stock."
+}

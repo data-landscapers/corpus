@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-telanon-bgfi-bank-sao-tome-primeiro-banco-certificado-iso-9001",
+  "facts": [],
+  "systems": [
+    {"system": "ISO 9001:2015 certification of BGFI Bank Sao Tome", "country_label": "certificação ISO 9001:2015", "class": "other", "platform": "", "owner": "Bureau Veritas (certifier, abroad)", "tiers": "BGFI Bank Sao Tome (private bank)"}
+  ],
+  "note": "ISO 9001 quality management certificate for a private bank, issued by Bureau Veritas, a certifier the document does not place in the country; not an IT or data standard, so no fact."
+}

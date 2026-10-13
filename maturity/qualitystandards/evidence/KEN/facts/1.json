@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-28-thecoast-kenya-arso-headquarters-common-certificate",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Kenya Bureau of Standards (KEBS), led by director general Esther Ngari and overseen by a National Standards Council chaired by Dr Chris Wamalwa, was in operation in August 2026; the article does not say what law set it up and names no IT or data standard.", "as_of": "2026-08-28", "date_precision": "day", "system": "Kenya Bureau of Standards (KEBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Kenya Bureau of Standards (KEBS)", "country_label": "Kenya Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "ARSO common certificate (One Standard, One Test, One Certificate)", "country_label": "", "class": "other", "platform": "", "owner": "African Organisation for Standardisation (ARSO)", "tiers": ""}
+  ],
+  "note": "No fact on certification: the ARSO common certificate for products is continental and non-IT, and no certifier in Kenya or IT or data standard is named."
+}

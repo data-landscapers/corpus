@@ -1,0 +1,8 @@
+{
+  "slug": "1998-02-21-dza-jo-1998-011-decret-98-69-creation-ianor",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Executive decree 98-69 of 21 February 1998 created the Algerian Institute of Standardisation (IANOR), a public industrial and commercial establishment under the industry ministry, charged with drawing up, publishing and disseminating Algerian standards and with adopting conformity marks and authorising their use.", "as_of": "1998-02-21", "date_precision": "day", "system": "IANOR", "class": "body"}
+  ],
+  "systems": [],
+  "note": "Decree names no IT or data standard and no certification against one (conformity marks only, no certifier or standard named), so only the body fact is recorded."
+}

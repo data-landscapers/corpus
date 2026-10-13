@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-iso-member-profile-gambia-standards-bureau",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ISO's member register entry lists The Gambia Standards Bureau (TGSB) as the country's ISO Correspondent member, whose purpose is to standardize methods, processes and products, with standards development and sales among its services; the page carries no date, so its published date 2026-09-03 is used, and it names no law and no standard on information technology or data.",
+     "as_of": "2026-09-03", "date_precision": "day", "system": "The Gambia Standards Bureau (TGSB)", "class": "body"}
+  ],
+  "systems": [],
+  "note": "No fact on certification: the page lists inspection, testing and certification as a service but names no IT or data standard and no certifier or certified body."
+}

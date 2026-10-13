@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-11-nga-vanguard-ncc-type-approval-device-management-system",
+  "facts": [],
+  "systems": [
+    {"system": "Device Management System (DMS)", "country_label": "Device Management System", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"},
+    {"system": "Central Equipment Identity Register (CEIR)", "country_label": "Central Equipment Identity Register", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"}
+  ],
+  "note": "No fact: NCC telecom equipment type approval and IMEI register; telecom regulator rules are class other, and no national standards body or IT standard is stated."
+}

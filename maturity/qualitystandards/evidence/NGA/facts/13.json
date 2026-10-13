@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-nitda-national-digital-infrastructure-assurance-framework-2026",
+  "facts": [],
+  "systems": [
+    {"system": "NDIAF Assurance Certification", "country_label": "NDIAF Assurance Certification", "class": "other", "platform": "Digital Regulatory Platform (DRP)", "owner": "NITDA", "tiers": "certified providers (integrated digital infrastructure, cloud infrastructure, cloud service, service integration); public institutions as users"}
+  ],
+  "note": "No fact: NITDA's own regulatory certification of cloud providers, not certification by a standards body or an in-country accredited certifier; the passages only list international standards (ISO/IEC 27001, 20000 and others) it accepts as evidence, and name no national standard or certifier."
+}

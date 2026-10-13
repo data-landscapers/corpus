@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-01-dza-ianor-projet-programme-national-normalisation-2026",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "IANOR's draft 2026 national standardisation programme lists ISO/IEC 14651:2025 (information technology, string comparison and collation) as a revision of existing national standard NA 13037, proposed by CNIG; the document gives the programme's publication date, 2026-02-01, as its only date.", "as_of": "2026-02", "date_precision": "month", "system": "NA 13037 (ISO/IEC 14651)", "class": "body"}
+  ],
+  "systems": [],
+  "note": "Draft programme; the other entries read (library statistics, records management, sampling) are not IT or data standards in the passages seen, and no certification is stated."
+}

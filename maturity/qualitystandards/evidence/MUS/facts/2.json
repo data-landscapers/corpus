@@ -1,0 +1,46 @@
+{
+  "slug": "2025-12-31-msb-isms-registered-firms-list",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "published",
+      "fact": "The MSB register of its National Information Security Management System Certification Scheme lists certificates against MS ISO/IEC 27001:2022, the Mauritian-standard designation of the information security standard.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Mauritius Standards Bureau",
+      "class": "body"
+    },
+    {
+      "sub_indicator": "standards",
+      "aspect": "certification",
+      "value": "offered",
+      "fact": "The Mauritius Standards Bureau certifies organisations under its National ISMS Certification Scheme; its register as at 31 December 2025 lists ten certificates against MS ISO/IEC 27001:2022, all marked as accredited, issued by the MSB (certifier: Mauritius Standards Bureau).",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Mauritius Standards Bureau",
+      "class": "body"
+    },
+    {
+      "sub_indicator": "standards",
+      "aspect": "certification",
+      "value": "public-body",
+      "fact": "The MSB register lists certificates against MS ISO/IEC 27001:2022 held by the Passport and Immigration Office, CERT-MU, the Mauritius Revenue Authority, the Central Information Systems Division of the ICT ministry, the Police IT Unit and the National Sanctions Secretariat, all valid at 31 December 2025, with certificates issued 2025 (certifier: Mauritius Standards Bureau).",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Mauritius Standards Bureau",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Mauritius Standards Bureau",
+      "country_label": "Mauritius Standards Bureau (MSB)",
+      "class": "body",
+      "platform": "",
+      "owner": "Government of Mauritius, under the Mauritius Standards Bureau Act",
+      "tiers": ""
+    }
+  ],
+  "note": "Private-sector entries (BDO Solutions, Emtel, Maureva) support offered; Mauritius Telecom data centres also listed."
+}

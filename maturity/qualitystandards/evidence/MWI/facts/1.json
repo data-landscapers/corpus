@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-14-sadcas-mbs-qms-certification-accreditation",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "A SADCAS accreditation certificate dated 14 December 2025 describes the Malawi Bureau of Standards as established by the Malawi Bureau of Standards Act (Cap 51:02); it names no national standard on information technology or data.", "as_of": "2025-12-14", "date_precision": "day", "system": "Malawi Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Malawi Bureau of Standards, Quality Management Systems Certification (QMS-CERT-003)", "country_label": "MBS QMS certification", "class": "other", "platform": "", "owner": "Malawi Bureau of Standards", "tiers": ""}
+  ],
+  "note": "No certification fact: SADCAS accredits MBS to certify quality management systems only (ISO/IEC 17021-1 and -3; scope food, rubber and plastics, transport and storage), not against an IT or data standard."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-28-iso-member-anm-benin",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ISO's member record states that the Agence nationale de Normalisation, de Métrologie et du Contrôle Qualité (ANM) was established by Order 2017-031 of 23 January 2017 as a public institution under the Ministry of Industry, with the mandate to manage the national standardization system and implement the national certification system; it names no national standard on information technology or data.",
+     "as_of": "2017-01-23", "date_precision": "day", "system": "Agence nationale de Normalisation, de Métrologie et du Contrôle Qualité (ANM)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de Normalisation, de Métrologie et du Contrôle Qualité (ANM)", "country_label": "ANM", "class": "body", "platform": "", "owner": "Ministry of Industry (supervising ministry)", "tiers": "national"}
+  ],
+  "note": ""
+}

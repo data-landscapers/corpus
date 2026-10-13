@@ -1,0 +1,10 @@
+{
+  "slug": "2012-03-19-mali-ordonnance-2012-016-creation-amanorm",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Ordonnance n°2012-016/P-RM of 19 March 2012 creates the Agence Malienne de Normalisation et de Promotion de la Qualité (AMANORM) as a public administrative body with legal personality and financial autonomy, charged with implementing national policy on standardisation and quality promotion and with creating and managing the national conformity mark; it names no national standard on information technology or data.", "as_of": "2012-03-19", "date_precision": "day", "system": "AMANORM", "class": "body"}
+  ],
+  "systems": [
+    {"system": "AMANORM", "country_label": "Agence Malienne de Normalisation et de Promotion de la Qualité", "class": "body", "platform": "", "owner": "State (public administrative body, under the minister of industry, investment and trade)", "tiers": "national"}
+  ],
+  "note": "Standards body created by ordinance; the ordinance names no IT or data standard and no certification against one (its certification and conformity-mark duties are general), so no fact on published or certification."
+}

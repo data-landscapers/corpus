@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-tgsb-standards-catalogue-2022",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Gambia Standards Bureau was established by an Act of Parliament in 2010 (TGSB Act 2010) to develop and publish national standards in all sectors, and also to provide conformity assessment and metrology services, according to the bureau's own 2022 catalogue.",
+     "as_of": "2010", "date_precision": "year", "system": "The Gambia Standards Bureau (TGSB)", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published",
+     "fact": "The bureau's 2022 catalogue of national standards lists GAMS ISO/IEC 27001:2005, Information Technology - Security Techniques - Information Security Management Systems - Requirements (ICS 35.030, 41 pages), as a Gambian Standard adopted from ISO; the catalogue's abbreviations define GAMS ISO as adopted ISO standards, and the catalogue is dated 2022 on its cover.",
+     "as_of": "2022", "date_precision": "year", "system": "The Gambia Standards Bureau (TGSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "The Gambia Standards Bureau (TGSB)", "country_label": "The Gambia Standards Bureau", "class": "body", "platform": "", "owner": "Government of The Gambia (statutory body under the TGSB Act 2010; appointed WTO TBT Enquiry Point in 2014 by the Ministry of Trade, Industry, Regional Integration and Employment)", "tiers": "national"}
+  ],
+  "note": "No certification fact: the catalogue lists product certification and system certification among the bureau's services but names no certificate issued against an IT or data standard, no certifier accredited in the country and no certified organisation; ISO 9001, ISO 14001 and other non-IT entries are class other and place nothing."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-nashat-al-hayaa-al-misriyya-al-amma-lil-muwasafat-wal-jawda",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The Egyptian Organization for Standardization and Quality states that it is the sole official body in Egypt for preparing and issuing Egyptian standards, set up by Presidential Decree 2 of 1957 and renamed by Presidential Decree 83 of 2005; the page is undated, and the year is that of the latest decision it records, 2024. Written by the parent: the drafter's file for this document was overwritten.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Egyptian Organization for Standardization and Quality (EOS)",
+   "class": "body"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egyptian Organization for Standardization and Quality (EOS)",
+   "country_label": "EOS",
+   "class": "body",
+   "platform": "",
+   "owner": "EOS",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

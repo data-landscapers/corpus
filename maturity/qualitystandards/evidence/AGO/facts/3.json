@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-29-decreto-executivo-691-25-regulamento-tecnico-de-entrega-de-dados",
+  "facts": [],
+  "systems": [
+    {"system": "Gabinete de Gestão e Arquivo de Dados (GAD) / ANPG data management system", "country_label": "GAD da ANPG", "class": "other", "platform": "", "owner": "ANPG (Agência Nacional de Petróleo, Gás e Biocombustíveis)", "tiers": "petroleum associates and credentialed service companies deliver data to it"}
+  ],
+  "note": "Sector data-delivery regulation of the petroleum ministry; adopts international industry formats (SEG, API) but names no national standards body, national IT or data standard, or certification, so it is other and places nothing."
+}

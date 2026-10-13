@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-09-iso-arso-kigali-agreement",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "ISO states that the Rwanda Standards Board is a government institution created in 2002 that has developed and published more than 4,130 standards, covering food, engineering, service, water, chemistry and consumer products, with no IT or data standard named; the statement is in a document published 9 October 2025.", "as_of": "2025-10-09", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "RSB", "class": "body", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "RSB's testing and certification services are mentioned generally; no IT or data certification and no certifier named for one."
+}

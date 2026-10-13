@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-05-abnorm-convention-oid",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ABNORM, the Agence Burkinabe de Normalisation, de la Metrologie et de la Qualite, signed a framework convention with the telecoms regulator ARCEP on 4 February 2026 on managing Object Identifiers, naming ARCEP's Executive Secretary the national registration authority; the document names no standard issued and does not itself state the body's legal basis.",
+     "as_of": "2026-02-04", "date_precision": "day", "system": "ABNORM", "class": "body"}
+  ],
+  "systems": [
+    {"system": "ABNORM", "country_label": "Agence Burkinabe de Normalisation, de la Metrologie et de la Qualite", "class": "body", "platform": "", "owner": "State", "tiers": ""},
+    {"system": "National OID registry and portal", "country_label": "registre national et portail OID", "class": "other", "platform": "", "owner": "ARCEP (registration authority)", "tiers": "public and private actors"}
+  ],
+  "note": "The OID convention sets up an identifier registration regime, not a named national IT standard, so no published fact; OID registry is class other."
+}

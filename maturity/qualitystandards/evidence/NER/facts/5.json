@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28-niger-arcep-inauguration-plateforme-controle-continu-anp",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme Nationale de Contrôle des Réseaux Mobiles", "country_label": "Plateforme Nationale de Contrôle des Réseaux Mobiles", "class": "other", "platform": "supplied by INFOCOM INTERNATIONAL (Tunisia)", "owner": "ARCEP Niger", "tiers": "national regulator; mobile operator 2G/3G/4G cores"}
+  ],
+  "note": "Telecom network monitoring platform (class other); no standards body, IT/data standard or certifier named."
+}

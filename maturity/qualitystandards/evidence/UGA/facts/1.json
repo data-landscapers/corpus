@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-06-mtic-unbs-efficiency-directive",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Ministry of Trade, Industry and Cooperatives describes the Uganda National Bureau of Standards (UNBS) as the national standards body, overseen by a 10th National Standards Council, and says the Council reported 551 new standards developed in FY2025/26 (none identified as information technology or data).",
+     "as_of": "2026-08-06", "date_precision": "day", "system": "Uganda National Bureau of Standards (UNBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Quality Mark product certification (UNBS)", "country_label": "Quality Mark", "class": "other", "platform": "", "owner": "Uganda National Bureau of Standards", "tiers": "enterprises, SMEs"}
+  ],
+  "note": "No certification fact: the UNBS certification stated (enterprises certified rose from 501 to 1,270; Quality Mark) is product certification and the document names no information technology or data standard."
+}

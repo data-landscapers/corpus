@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-02-amanorm-14eme-session-conseil-administration-budget-2026",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "Le Rônier reports that the 14th ordinary board session of AMANORM, Mali's standards and quality promotion agency, met on 29 January 2026 under the Ministry of Industry and Commerce's secretary-general and adopted a 2026 budget of 243,306,303 FCFA against 318,369,036 FCFA in 2025.",
+     "as_of": "2026-01-29", "date_precision": "day", "system": "AMANORM", "class": "body"}
+  ],
+  "systems": [
+    {"system": "AMANORM", "country_label": "Agence Malienne de Normalisation et de Promotion de la Qualité", "class": "body", "platform": "", "owner": "Ministry of Industry and Commerce (supervising ministry)", "tiers": "national"}
+  ],
+  "note": "Budget and governance story only: no named IT or data standard and no certification stated; calls on firms to follow national and international standards without naming any."
+}

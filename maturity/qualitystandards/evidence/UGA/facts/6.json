@@ -1,0 +1,16 @@
+{
+  "slug": "2025-09-01-unbs-annual-report-fy2024-25",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The report says the Uganda National Bureau of Standards is a statutory body under the Ministry of Trade, Industry and Cooperatives, established by the UNBS Act Cap 210, operational since 1989, governed by a National Standards Council that declares national standards, and holding 4,862 national standards at the end of FY2024/25 (Services and Management 773, none named as IT or data); the document dates the stated position to FY2024/25 (ended June 2025).",
+     "as_of": "2025-06", "date_precision": "month",
+     "system": "Uganda National Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Uganda National Bureau of Standards", "country_label": "UNBS", "class": "body", "platform": "", "owner": "Ministry of Trade, Industry and Cooperatives (parent ministry)", "tiers": "national"},
+    {"system": "CIMS (Certification Information Management System)", "country_label": "CIMS", "class": "other", "platform": "", "owner": "UNBS", "tiers": "national"},
+    {"system": "LIMS (Laboratory Information Management System)", "country_label": "LIMS", "class": "other", "platform": "", "owner": "UNBS", "tiers": "national"},
+    {"system": "UNBS E-Portal", "country_label": "E-Portal", "class": "other", "platform": "", "owner": "UNBS", "tiers": "national"}
+  ],
+  "note": "No national standard on IT, security, software or data is named (only sector totals), and system certification covers quality, security, environment and food safety management with no IT standard or certified public body named; ISO 9001 certification of UNBS itself, SANAS (South Africa) accreditation of its labs, and the absence of a quorate National Standards Council (no standards approved in the year) are not facts for these aspects."
+}

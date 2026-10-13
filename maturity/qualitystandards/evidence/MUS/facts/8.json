@@ -1,0 +1,18 @@
+{
+  "slug": "2022-06-30-msb-annual-report-2021-2022",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Mauritius Standards Bureau annual report 2021/2022 states the Bureau became a corporate body under the Mauritius Standards Bureau Act 1993, in effect from 16 July 1993, with the object of preparing, framing, amending and revising standards, and developing Mauritian Standards (MS).",
+     "as_of": "1993-07-16", "date_precision": "day", "system": "Mauritius Standards Bureau", "class": "body"},
+    {"sub_indicator": "standards", "aspect": "certification", "value": "offered",
+     "fact": "The Bureau's own Quality Assurance Unit, as third-party certification body, ran the National Information Security Management System Certification Scheme (ISO/IEC 27001) under its National Management Systems Certification Scheme Regulations 2008, and in 2021/2022 maintained certification of eight organisations to ISO/IEC 27001; the report names none of the eight, and says the scheme is accredited by MAURITAS for information security management systems.",
+     "as_of": "2022-06-30", "date_precision": "day", "system": "National Information Security Management System Certification Scheme", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Mauritius Standards Bureau", "country_label": "Mauritius Standards Bureau", "class": "body", "platform": "", "owner": "Government of Mauritius (statutory body under the Mauritius Standards Bureau Act 1993, under the Ministry of Industrial Development, SMEs and Cooperatives)", "tiers": "national"},
+    {"system": "National Information Security Management System Certification Scheme", "country_label": "National Information Security Management System Certification Scheme (NISMSCS)", "class": "body", "platform": "", "owner": "Mauritius Standards Bureau, Quality Assurance Unit", "tiers": "national; eight certified organisations, none named"},
+    {"system": "MAURITAS", "country_label": "Mauritius Accreditation Service (MAURITAS)", "class": "other", "platform": "", "owner": "Mauritius Accreditation Service", "tiers": "national"},
+    {"system": "National Quality Management System Certification Scheme", "country_label": "National Quality Management System Certification Scheme (NQMSCS), MS ISO 9001:2015", "class": "other", "platform": "", "owner": "Mauritius Standards Bureau", "tiers": "73 firms registered"}
+  ],
+  "note": "No national standard on IT or data is named: the standards the report names are energy and climate ones (MS ISO 50005, MS ISO 14091), non-IT; ISO 9001 and the other schemes are class other; no public body is named as certified."
+}

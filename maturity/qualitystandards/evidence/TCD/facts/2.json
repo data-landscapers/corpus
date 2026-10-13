@@ -1,0 +1,12 @@
+{
+  "slug": "2014-01-01-atnor-la-loi-relative-a-la-normalisation",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "ATNOR's page on the standardisation law says the law creates the national standardisation structures, including the Agence Tchadienne de Normalisation, charged with preparing, publishing and issuing Chadian standards and with adopting international standards as national ones; the page carries no date, so the 2014 published date is used.", "as_of": "2014", "date_precision": "year", "system": "Agence Tchadienne de Normalisation (ATNOR)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Agence Tchadienne de Normalisation (ATNOR)", "country_label": "ATNOR", "class": "body", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Conseil National de la Qualité (CONAQ)", "country_label": "CONAQ", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Comité Interministériel de Règlementation (CNIR)", "country_label": "CNIR", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "No certification fact; the national quality policy, CONAQ and CNIR (technical regulations, SPS) are class other and no IT or data standard is named."
+}

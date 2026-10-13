@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03-st-digital-iso-27001-certification",
+  "facts": [],
+  "systems": [
+    {"system": "ST DIGITAL ISO 27001 certificate", "country_label": "ISO 27001", "class": "other", "platform": "", "owner": "ST DIGITAL (private operator)", "tiers": ""}
+  ],
+  "note": "A private operator's ISO 27001 certificate; the document names no certifier, only 'an accredited certification body', and no Beninese certifier, so no fact (class other)."
+}

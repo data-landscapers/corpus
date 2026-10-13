@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-ssnbs-internet-data-billing-framework",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The South Sudan National Bureau of Standards (SSNBS) is described as operating, with a technical manager speaking for it at the World Metrology Day event on 2026-05-20; the article does not say what law or decree set it up.", "as_of": "2026-05-20", "date_precision": "day", "system": "South Sudan National Bureau of Standards (SSNBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "South Sudan National Bureau of Standards (SSNBS)", "country_label": "SSNBS", "class": "body", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The metrology framework for mobile-data billing is a planned regulatory initiative with no timeline, not a national IT or data standard issued; no certification is mentioned."
+}

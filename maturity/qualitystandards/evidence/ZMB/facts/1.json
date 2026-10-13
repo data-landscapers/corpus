@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-zabs-rsb-technical-cooperation-agreement",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Zambia Monitor reports the Zambia Bureau of Standards (ZABS), described as a national standards body, signed a technical cooperation agreement with the Rwanda Standards Board on standardisation, conformity assessment and quality assurance at the 32nd ARSO General Assembly in Mombasa; the report names no IT or data standard and does not say how ZABS was established.", "as_of": "2026-09-03", "date_precision": "day", "system": "Zambia Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Zambia Bureau of Standards (ZABS)", "country_label": "Zambia Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Zambia (Ministry of Commerce, Trade and Industry named as the technical-regulations ministry)", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "standards",
+   "stage": "3",
+   "standing": "published",
+   "certification": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-003;SDN-002;SDN-005",
+   "gaps": "No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.",
+   "note": "Counted from the four questions by study-ladder-qualitystandards.py."
+  }
+ ]
+}

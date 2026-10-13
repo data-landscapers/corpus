@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-iso-senapiq-stp-correspondent-member-sao-tome",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "ISO's member directory lists SENAPIQ STP (Service National de la Propriete Intellectuelle et de la Qualite) in Sao Tome and Principe as a correspondent member; the page names no law or decree and no standard, and carries no date, so its published year 2026 is used.", "as_of": "2026", "date_precision": "year", "system": "SENAPIQ-STP", "class": "body"}
+  ],
+  "systems": [
+    {"system": "SENAPIQ-STP", "country_label": "Service National de la Propriete Intellectuelle et de la Qualite", "class": "body", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

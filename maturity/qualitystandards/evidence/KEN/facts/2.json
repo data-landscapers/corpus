@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-27-scienceforafrica-foundation-arso-gfgp-standard-revised",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The release says the Kenya Bureau of Standards has existed since 1974 and provides standards development, metrology, conformity assessment, training and certification services; it names no IT or data standard issued by it and no law.", "as_of": "1974", "date_precision": "year", "system": "Kenya Bureau of Standards (KEBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Kenya Bureau of Standards (KEBS)", "country_label": "Kenya Bureau of Standards", "class": "body", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Good Financial Grant Practice Standard (ARS 1651:2026)", "country_label": "", "class": "other", "platform": "", "owner": "African Organisation for Standardisation (ARSO); certification scheme hosted by Science for Africa Foundation", "tiers": ""}
+  ],
+  "note": "No certification fact: GFGP is an ARSO continental grant-governance standard, not a Kenyan national IT or data standard; KEBS certification services are mentioned generically and no certifier, IT standard or public body is named."
+}

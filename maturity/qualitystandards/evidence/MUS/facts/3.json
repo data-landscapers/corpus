@@ -1,0 +1,34 @@
+{
+  "slug": "2019-11-26-emtel-iso-9001-27001-certification",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "certification",
+      "value": "offered",
+      "fact": "Emtel states its data centre was first certified by the Mauritius Standards Bureau against MS ISO/IEC 27001 in 2013 and upgraded to the 2013 version in 2015 (certifier: Mauritius Standards Bureau); the document carries no date of its own and its published date, 2019-11-26, is derived from its posting path, so the event dates are 2013 and 2015.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "Mauritius Standards Bureau",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Mauritius Standards Bureau",
+      "country_label": "Mauritius Standards Bureau (MSB)",
+      "class": "body",
+      "platform": "",
+      "owner": "Government of Mauritius, under the Mauritius Standards Bureau Act",
+      "tiers": ""
+    },
+    {
+      "system": "ISO 9001:2015 quality management certificate (MS ISO 9001:2015)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Emtel Ltd",
+      "tiers": ""
+    }
+  ],
+  "note": "ISO 9001 quality management certification, Emtel's 2003 BSI certificate and the business excellence award are not facts; BSI is a certifier abroad."
+}

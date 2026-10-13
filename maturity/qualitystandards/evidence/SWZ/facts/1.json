@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-22-eswatini-19-new-national-standards",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "General Notice No. 79 of 2025, under the Standards and Quality Act, 2023 (Act No. 16 of 2023), designated 19 new Eswatini National Standards, including the National Addressing Standard Part 1 (SZNS ISO 19160-1:2015) and Part 2 (SZNS ISO 19160-2:2022) on address classes and assigning and maintaining addresses; the article names no standards body and gives the publication date as the date.", "as_of": "2025-08-22", "date_precision": "day", "system": "Eswatini National Standards (SZNS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Eswatini National Standards (SZNS)", "country_label": "Eswatini National Standards", "class": "body", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Document names no standards body and no certifier; the other designated standards (electricity, fuel, LPG, climate adaptation) are non-IT and give nothing."
+}

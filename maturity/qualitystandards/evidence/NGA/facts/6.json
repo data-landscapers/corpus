@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-09-vanguard-ncc-device-management-system-user-data-privacy",
+  "facts": [],
+  "systems": [
+    {"system": "Device Management System (DMS)", "country_label": "Device Management System", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"},
+    {"system": "Central Equipment Identity Register (CEIR)", "country_label": "Central Equipment Identity Register", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"}
+  ],
+  "note": "No fact: NCC privacy statement on its type-approval Device Management System (class other); no national standards body or IT standard is stated."
+}

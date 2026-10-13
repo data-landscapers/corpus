@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-lncsm-libya-tunisia-mutual-recognition-task-force-20th-meeting",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Libyan national standards centre reports that Tunisia's delegation at the 20th Libya-Tunisia working group on mutual recognition of conformity certificates was headed by the Institut national de la normalisation et de la propriete industrielle (INNORPI), which it treats as Tunisia's national standards institute; the document does not mention the law that set it up or any IT standard.", "as_of": "2025-12-18", "date_precision": "day", "system": "INNORPI", "class": "body"}
+  ],
+  "systems": [
+    {"system": "INNORPI", "country_label": "Institut National de la Normalisation et de la Propriete Industrielle", "class": "body", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No certification fact: the mutual-recognition programme covers conformity certificates and marks in general, names no IT or data standard and no certifier."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-07-decret-attributions-organisation-ignm",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "A presidential decree read on national television on 7 January 2023 fixes the attributions, organisation and operation of the Institut Guinéen de Normalisation et de Métrologie (IGNM), a public administrative body under the industry and finance ministries, charged with drafting national standards or adopting foreign or international ones and publishing them; the document names no information technology or data standard.",
+     "as_of": "2023-01-07", "date_precision": "day", "system": "Institut Guinéen de Normalisation et de Métrologie (IGNM)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Institut Guinéen de Normalisation et de Métrologie (IGNM)", "country_label": "IGNM", "class": "body", "platform": "", "owner": "Ministry in charge of industry (technical supervision); ministry of finance (financial supervision)", "tiers": ""},
+    {"system": "National conformity mark NG", "country_label": "marque nationale de conformité aux normes NG", "class": "other", "platform": "", "owner": "IGNM", "tiers": ""}
+  ],
+  "note": "No certification fact: the decree gives the IGNM the power to run the NG conformity mark and certify products, goods and services, but names no certifier offering certification against an IT or data standard and no certified organisation; NG mark is product certification, class other."
+}

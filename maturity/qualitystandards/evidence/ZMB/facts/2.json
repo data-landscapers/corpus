@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-zabs-standards-development",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "ZABS states on its own site that it develops, publishes, maintains or withdraws Zambian National Standards, has developed standards in sectors including Information Communication Technology, and counts 6,500+ Zambian National Standards and 50+ international standards adopted as ZS; the page has no date, so the published date 2026-08-29 is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "Zambia Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Zambia Bureau of Standards (ZABS)", "country_label": "Zambia Bureau of Standards", "class": "body", "platform": "", "owner": "ZABS", "tiers": "national"}
+  ],
+  "note": "The page lists product and systems certification generically, not against an IT or data standard, and names no certifier for one, so no certification fact."
+}

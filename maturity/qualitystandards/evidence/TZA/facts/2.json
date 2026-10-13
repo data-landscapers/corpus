@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-09-tza-dailynews-tcra-digital-inclusion-pwds-assistive-tech",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published",
+     "fact": "TCRA's Director General said the Tanzania Bureau of Standards (TBS) has newly introduced a Tanzania Standard on accessibility of communications and ICT products and services for persons with disabilities; the document gives no standard number or issue date (published 2026-10-09, used as the date).",
+     "as_of": "2026-10-09", "date_precision": "day",
+     "system": "Tanzania Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Tanzania Bureau of Standards", "country_label": "TBS", "class": "body", "platform": "", "owner": "Tanzania Bureau of Standards", "tiers": ""}
+  ],
+  "note": "No certification fact: TBS 'recognised' TCRA's website for implementing the accessibility standard, which is recognition, not certification, and no certifier or certificate is named."
+}

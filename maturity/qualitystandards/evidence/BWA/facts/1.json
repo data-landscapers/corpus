@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-21-bobs-school-uniform-quality-standards",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Botswana's Minister of Trade and Entrepreneurship told Parliament that the Botswana Bureau of Standards (BOBS) developed national quality standards on school uniforms, which are voluntary; the document gives no date for the body's creation and names no IT or data standard, so it is dated by its publication date.", "as_of": "2025-11-21", "date_precision": "day", "system": "Botswana Bureau of Standards (BOBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Botswana Bureau of Standards (BOBS)", "country_label": "Botswana Bureau of Standards", "class": "body", "platform": "", "owner": "Ministry of Trade and Entrepreneurship (minister answered for it)", "tiers": "national"},
+    {"system": "National Quality Policy", "country_label": "National Quality Policy", "class": "other", "platform": "", "owner": "Ministry of Trade and Entrepreneurship", "tiers": "national"}
+  ],
+  "note": "The school uniform standard is a non-IT standard and the National Quality Policy is a quality policy, so neither is a published or certification fact; no certification is mentioned."
+}

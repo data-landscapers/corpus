@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-27-iso-member-record-iniq-angola-correspondent-member",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ISO's member register records INIQ, the National Institute of Quality Infrastructure, as Angola's body for the Angolan Quality System, a public-law institute under its Organic Statute approved by Presidential Decree 95/21 of April 2021, offering elaboration and sale of technical standards and holding correspondent membership of ISO.",
+     "as_of": "2021-04", "date_precision": "month", "system": "INIQ - Instituto Nacional das Infra-Estruturas da Qualidade", "class": "body"}
+  ],
+  "systems": [
+    {"system": "INIQ - Instituto Nacional das Infra-Estruturas da Qualidade", "country_label": "Instituto Nacional das Infra-Estruturas da Qualidade / Sistema Angolano da Qualidade (SAQ)", "class": "body", "platform": "", "owner": "Angolan state (public-law institute)", "tiers": "national"}
+  ],
+  "note": "The page lists certification of products, services, processes and people in a management system, with no IT or data standard named, so no certification fact; correspondent ISO membership belongs to the international standards row."
+}

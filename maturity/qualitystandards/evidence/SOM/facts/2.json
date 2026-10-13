@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-19-nca-cybersecurity-risk-management-compliance-frameworks-published",
+  "facts": [],
+  "systems": [
+    {"system": "National Cybersecurity Compliance Framework", "country_label": "National Cybersecurity Compliance Framework", "class": "other", "platform": "", "owner": "National Communications Authority (NCA)", "tiers": "public- and private-sector critical infrastructure organisations"},
+    {"system": "National Cybersecurity Risk Management Framework", "country_label": "National Cybersecurity Risk Management Framework", "class": "other", "platform": "", "owner": "National Communications Authority (NCA)", "tiers": "critical infrastructure"}
+  ],
+  "note": "Regulator-issued cybersecurity frameworks (the post cites ISO/IEC 27001 only in the linked PDFs), not national standards issued by a standards body, and no certifier is named; recorded as other."
+}

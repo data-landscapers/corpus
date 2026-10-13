@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-15-namibia-nsi-food-products-food-safety-standards-adopted",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Namibian Standards Institution (NSI) notice of 2026-06-15 states that four standards (chilled seafood, dates, laundry process management, refrigerating-appliance energy performance) were officially developed as NAMS, Namibian Standards, and are on sale through the NSI; the notice does not mention a law or decree setting up the body.", "as_of": "2026-06-15", "date_precision": "day", "system": "Namibian Standards Institution (NSI)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Namibian Standards Institution (NSI)", "country_label": "NSI", "class": "body", "platform": "", "owner": "NSI", "tiers": "national"}
+  ],
+  "note": "All four adopted NAMS are non-IT (food, laundry, appliance energy), so no published fact; no certifier or certification against an IT or data standard is named."
+}

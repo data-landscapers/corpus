@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-thisday-ncc-device-management-system-type-approval",
+  "facts": [],
+  "systems": [
+    {"system": "Device Management System (DMS)", "country_label": "Device Management System", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"},
+    {"system": "Central Equipment Identity Register (CEIR)", "country_label": "Central Equipment Identity Register", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "national"}
+  ],
+  "note": "No fact: NCC type approval under section 132(2) of the Nigerian Communications Act 2003 is telecom regulation (class other); no national standards body or IT standard is stated."
+}

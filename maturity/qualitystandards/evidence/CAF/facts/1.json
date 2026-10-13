@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-23-worldbank-p174620-procurement-plan-arcep-spectrum",
+  "facts": [],
+  "systems": [
+    {"system": "Software and platforms for infrastructure GIS mapping, statistical data collection and processing, and quality-of-service (QOS) monitoring for ARCEP", "country_label": "Logiciels et plateformes SIG / collecte de données / suivi QOS (ARCEP)", "class": "other", "platform": "", "owner": "ARCEP", "tiers": ""},
+    {"system": "Radio-frequency spectrum monitoring equipment and upgrade of the existing spectrum management system for ARCEP", "country_label": "Système de gestion du spectre (ARCEP)", "class": "other", "platform": "", "owner": "ARCEP", "tiers": ""}
+  ],
+  "note": "No fact: the plan concerns telecom regulator QoS monitoring and spectrum software procurement, not a national standards body, IT standards or certification; QoS items are class other."
+}

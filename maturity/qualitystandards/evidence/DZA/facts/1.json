@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-echorouk-conseil-gouvernement-telecoms-medias-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "GEOLAB", "country_label": "GEOLAB", "class": "other", "platform": "", "owner": "national accreditation, conformity and certification network project (government)", "tiers": ""}
+  ],
+  "note": "Council of Government reviewed progress on a planned national accreditation, conformity and certification network built on testing labs and the GEOLAB platform; it names no standards body, no IT or data standard and no certifier, so it is not a fact (class other)."
+}

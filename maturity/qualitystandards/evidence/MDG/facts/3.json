@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-01-madagascar-digital-readiness-assessment-undp",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The UNDP Digital Readiness Assessment states that Madagascar has a national standards body, the Bureau des Normes de Madagascar, a correspondent member of ISO, and that public information shows no specific programme on AI or data-governance standards; the report gives no date for the body's creation, so its published date is used.",
+     "as_of": "2025-12", "date_precision": "month",
+     "system": "Bureau des Normes de Madagascar", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Bureau des Normes de Madagascar", "country_label": "Bureau des Normes de Madagascar", "class": "body", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Certification: the report says most data centres meet only local rules or custom standards, with no ISO 27001 or SSAE 16 certification, and names no certifier; its ISO 27001 mentions are recommendations, so no certification fact. Proposals to mandate the Bureau to adopt data and AI standards and to launch a Digital Trust label are recommendations, not facts."
+}

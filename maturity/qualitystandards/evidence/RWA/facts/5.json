@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-20-rwanda-official-gazette-rsb-national-standards-2025-11-20",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The Official Gazette special issue of 20 November 2025 carries a notice in which the Rwanda Standards Board (RSB), established under Law N° 50/2013, publishes a list of standards as National Standards; the passages read do not show the list or name any information technology or data standard.",
+     "as_of": "2025-11-20", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "Rwanda Standards Board / Ikigo cy'Igihugu Gitsura Ubuziranenge", "class": "body", "platform": "", "owner": "Government of Rwanda", "tiers": "national"}
+  ],
+  "note": "Passages show the notice header only; the standards listed are not in the text, so no published IT or data standard and no certification fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-gogla-ghana-country-brief",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "The GOGLA country brief states that the Ghana Standards Authority (GSA) is the national standards body in Ghana; it gives no date for this, so the document's published date of 2024-01-01 is used.",
+     "as_of": "2024-01-01", "date_precision": "day", "system": "Ghana Standards Authority", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Ghana Standards Authority", "country_label": "Ghana Standards Authority (GSA)", "class": "body", "platform": "", "owner": "Ghana Standards Authority", "tiers": ""}
+  ],
+  "note": "The GSA standards catalogue is said to list quality standards for solar devices only, which is not an IT or data standard; the Energy Commission product certification requirement concerns solar products, so nothing on published or certification."
+}

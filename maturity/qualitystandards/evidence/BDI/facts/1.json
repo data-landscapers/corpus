@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-protocole-occ-bbn-normalisation-controle-qualite-certification",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "Bankable reports that the Bureau burundais de normalisation et de contrôle de la qualité (BBN) signed a memorandum with the Congolese Office congolais de contrôle in Bujumbura on 29 August 2025 on cooperation in standardisation, quality control and certification, so a national standards body exists; the article names no IT or data standard.", "as_of": "2025-08-29", "date_precision": "day", "system": "Bureau burundais de normalisation et de contrôle de la qualité (BBN)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Bureau burundais de normalisation et de contrôle de la qualité (BBN)", "country_label": "BBN", "class": "body", "platform": "", "owner": "Burundi", "tiers": ""}
+  ],
+  "note": "Names the standards body; no IT or data standard and no certifier named, so no certification fact."
+}

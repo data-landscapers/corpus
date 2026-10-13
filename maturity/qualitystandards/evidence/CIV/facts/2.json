@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-cote-divoire-anssi-1200-certified-experts",
+  "facts": [],
+  "systems": [
+    {"system": "RGSSI (Référentiel général de sécurité des systèmes d'information)", "country_label": "RGSSI", "class": "other", "platform": "", "owner": "ANSSI-CI", "tiers": "administrations, enterprises, critical infrastructure operators"}
+  ],
+  "note": "No fact: the document concerns ANSSI, the national cybersecurity authority, and certificates for 88 individual RGSSI auditors; it names no national standards body, no national IT standard and no organisation certified by a standards body or accredited certifier."
+}

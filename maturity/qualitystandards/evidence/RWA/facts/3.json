@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-koica-rwa-sisic-standardisation-ict-2024-strengthening-rwanda-industrial-standardisation-ict-capacity",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "KOICA committed a US$8 million grant for 2024-2028 to the Rwanda Standards Board to advance industrial standardisation with ICT tools, launched on 28 June 2024; the document names no IT or data standard.", "as_of": "2024-06-28", "date_precision": "day", "system": "Rwanda Standards Board (RSB)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Rwanda Standards Board (RSB)", "country_label": "RSB", "class": "body", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "ICT tools for standards compliance are a project, not a national IT standard or certification."
+}

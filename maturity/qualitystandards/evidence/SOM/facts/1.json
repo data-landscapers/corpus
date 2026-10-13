@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-29-iso-somali-bureau-of-standards-member-record",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ISO's member record states the Somali Bureau of Standards is a national standards body established by an Act of parliament (the Somali Standards and Quality Control law, Lr27) and operational since early 2020; the record gives no date, so the published date 2026-08-29 is used for the state of affairs.",
+     "as_of": "2026-08-29", "date_precision": "day", "system": "Somali Bureau of Standards (SoBS)", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Somali Bureau of Standards (SoBS)", "country_label": "Somali Bureau of Standards", "class": "body", "platform": "", "owner": "Federal Republic of Somalia, board of ministry, Chamber of Commerce and agency representatives", "tiers": "national"}
+  ],
+  "note": "No fact on certification: the bureau's mandate lists quality certificates and marks for goods and food, not certification against an IT or data standard, and names no certifier; no national IT or data standard is named."
+}

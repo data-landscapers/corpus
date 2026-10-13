@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-03-cabo-verde-mf-enapor-certificacao-iso-9001-jornadas-portuarias",
+  "facts": [],
+  "systems": [
+    {"system": "ISO 9001 certification of ENAPOR", "country_label": "certificação na norma ISO 9001", "class": "other", "platform": "", "owner": "ENAPOR (state port operator)", "tiers": ""},
+    {"system": "ISO 27001 certification of ENAPOR (targeted for 2026)", "country_label": "certificação na ISO 27001", "class": "other", "platform": "", "owner": "ENAPOR (state port operator)", "tiers": ""}
+  ],
+  "note": "No fact: ENAPOR's ISO 9001 (quality management, 2025) is not IT or data and its ISO 27001 is only targeted for 2026; the document names no certifier, no national standards body and no national standard."
+}

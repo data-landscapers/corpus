@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-16-bobs-standards-annual-work-programme-2026-27",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body", "fact": "The Botswana Bureau of Standards (BOBS) publishes a Standardization Annual Work Programme for national standards-development projects, Issue 341 covering 1 April 2026 to 31 March 2027, updated 16 April 2026; the page names no information technology or data standard.", "as_of": "2026-04-16", "date_precision": "day", "system": "Botswana Bureau of Standards", "class": "body"}
+  ],
+  "systems": [
+    {"system": "Botswana Bureau of Standards", "country_label": "BOBS", "class": "body", "platform": "", "owner": "Botswana Bureau of Standards", "tiers": "national"}
+  ],
+  "note": "Index page only; the work-programme PDFs were not captured, so no IT or data standard and no certification is stated."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-03-iso-amanorm-profil-membre-mali",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "body",
+     "fact": "ISO's member record names AMANORM (Agence Malienne de Normalisation et de Promotion de la Qualité) as Mali's national standards body, an ISO full member body; the page carries no event date, so the published date 2026-09-03 is used.",
+     "as_of": "2026-09-03", "date_precision": "day", "system": "AMANORM", "class": "body"}
+  ],
+  "systems": [
+    {"system": "AMANORM", "country_label": "Agence Malienne de Normalisation et de Promotion de la Qualité", "class": "body", "platform": "", "owner": "State agency under national law", "tiers": "national"}
+  ],
+  "note": "No named IT or data standard and no certification against one is stated; the agency only supports firms toward certification, names no certifier, and has no standards catalogue listed."
+}

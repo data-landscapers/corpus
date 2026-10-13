@@ -1,0 +1,26 @@
+{
+  "slug": "1995-09-20-proclamation-75-eritrean-standards-institution",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "body",
+      "fact": "Proclamation No. 75 of 1995 establishes the Eritrean Standards Institution as an autonomous body with legal personality, the sole national organ for standardization, quality assurance and metrology, with power to prepare compulsory Eritrean Standards; the abstract names no information technology or data standard.",
+      "as_of": "1995-09-20",
+      "date_precision": "day",
+      "system": "Eritrean Standards Institution",
+      "class": "body"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eritrean Standards Institution",
+      "country_label": "Eritrean Standards Institution (ESI)",
+      "class": "body",
+      "platform": "",
+      "owner": "Government of Eritrea",
+      "tiers": "national"
+    }
+  ],
+  "note": "No certification fact: the document says the Institution certifies import and export products and affixes a standards mark, but names no IT or data standard and no certified organisation or certifier."
+}
