@@ -12,7 +12,7 @@
   "infra.connect--mobile-affordability"
  ],
  "carry_studies": [],
- "token_ceiling": 25000000,
+ "token_ceiling": 30000000,
  "terms": [
   "data prices",
   "data price",
@@ -97,10 +97,10 @@
  ],
  "aspects": [
   {
-   "key": "share",
-   "name": "Price of a month of mobile data as a share of average monthly income, with its year",
+   "key": "cost",
+   "name": "Price of 5 GB of mobile data for a month, as a stated share of average monthly income or as a stated price, with its year",
    "role": "coverage",
-   "pattern": "(basket|statement):\\d{1,3}(\\.\\d+)?"
+   "pattern": "(share:\\d{1,3}(\\.\\d+)?|price:[A-Z]{3}:\\d+(\\.\\d+)?:\\d+(\\.\\d+)?)"
   }
  ],
  "flags": []

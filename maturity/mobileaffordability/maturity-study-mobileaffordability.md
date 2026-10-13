@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-mobileaffordability.md — the fortieth maturity study: what a month of mobile data costs against income, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill's word on the questions
+status: prepared 2026-10-13, and redrawn the same day on Bill's ruling that any documented figure counts equally; waits for his word on the questions
 ---
 
 # Maturity study: mobileaffordability
@@ -14,7 +14,7 @@ status: prepared 2026-10-13; waits for Bill's word on the questions
 
 **How much of an average month's income a month of mobile data costs: a tenth, a twentieth, 2 per cent, or 1 per cent.**
 
-**The figure** is the price of the cheapest 30-day plan of at least 5 GB from the country's largest operator, as a share of average monthly income (gross national income per person, divided by 12), as the International Telecommunication Union publishes it for each country each year.
+**The figure** is the price of 5 GB of mobile data for a month, as a share of average monthly income (gross national income per person, divided by 12). **Any dated, documented figure counts, and none outranks another** *(Bill, 2026-10-13)*: a regulator's or government's, an operator's published tariff, a research body's, a news story's, the International Telecommunication Union's.
 
 The study redraws `infra.connect--mobile-affordability`, which as at 2026-08-31 puts 23 countries at stage 1, ten at stage 2, eight at stage 3 and 12 at stage 4, with none at stage 5 and one unplaced. It touches no other row.
 
@@ -22,7 +22,7 @@ The study redraws `infra.connect--mobile-affordability`, which as at 2026-08-31 
 |---|---|---|
 | The price of mobile data against income | Mobile affordability: the price of mobile data against income | `infra.connect--mobile-affordability-the-price-of-mobile-data-against-income` |
 
-Anything else the evidence names is `other`, noted and never staged: a price per gigabyte, in any currency; an operator's tariff, price cut or price rise; a price floor or cap set by the regulator; the Union's older 2 GB basket, which is a different basket; another body's ranking or price comparison; the price of a handset; taxes on data, airtime or phones; zero-rated sites; what people say they spend.
+Anything else the evidence names is `other`, noted and never staged: a price cut or rise that gives no price; a promotional, night-only, daily or weekly bundle; a price floor or cap set by the regulator; a ranking with no price; fixed broadband; the price of a handset; taxes on data, airtime or phones; zero-rated sites; what people say they spend.
 
 ## 2. The questions
 
@@ -47,16 +47,17 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: 2 per cent or less |
 | 5 Leading | Yes to all four: 1 per cent or less |
 
-- **The figures Corpus already holds answer all four questions for 51 countries before anything is read**, each on a figure for 2025: stage 1 for nine, stage 2 for 16, stage 3 for 14, stage 4 for nine, and stage 5 for Algeria, Libya and Mauritius.
-- **Three countries have no figure in the window**: Eritrea has none at all, Equatorial Guinea's latest is for 2022 and Zimbabwe's for 2023. They are unplaced unless a story read in the run gives one.
-- **The two lower lines are 10 and 5 per cent, where the row as it stands uses 6 and 4.** On the held figures that moves 12 countries from stage 1 to stage 2 and six from stage 2 to stage 3. Kept at 6 and 4, the count would be 21, ten, eight, nine and three.
+- **A figure is either of two things**: a stated share of income for a month of mobile data, or a stated price that Corpus sets against income.
+- **A price is brought to 5 GB for a month**: a 30-day plan of 5 GB or more as priced; a smaller 30-day plan, or a price per gigabyte, multiplied up to 5 GB.
+- **Income is the World Bank's figure per person for the latest year held**, in the currency of the price. The run adds it to `reference/denominators.csv`.
+- **The newest figure sets the stage, whatever its source.** A figure dated only to a year counts as mid-year. A rise is a rise.
+- **Before anything is read, the Union's figures for 2025 place 51 countries**: stage 1 for nine, stage 2 for 16, stage 3 for 14, stage 4 for nine, and stage 5 for Algeria, Libya and Mauritius. A newer figure from a story replaces any of them.
+- **Three countries start unplaced**: Eritrea holds no figure, Equatorial Guinea's latest is for 2022 and Zimbabwe's for 2023.
+- **The two lower lines are 10 and 5 per cent, where the row as it stands uses 6 and 4.** On the Union's figures that moves 12 countries from stage 1 to stage 2 and six from stage 2 to stage 3.
 - **The two upper lines are unchanged**: 2 per cent is the international target, and 1 per cent is half of it.
 - **Stage 5 no longer asks for a second test.** The row as it stands also asks that a gigabyte cost no more than USD 10; that is dropped, so one figure sets the stage.
-- **A figure the Union did not publish is used only where a government or regulator states it for the same plan**: at least 5 GB, 30 days, as a share of income per person, with its year. Nothing is worked out from a tariff by Corpus.
-- **A rise is a rise**: the latest figure sets the stage, whatever an earlier one said.
-- **A price per gigabyte, a tariff change and a price floor are noted and never used**, even for a country with nothing else.
 
-`study.json` holds this as one aspect, `share`, each fact carrying `basket:` for the Union's figure or `statement:` for a government's, its per cent and its year; the ladder counts the lines the latest figure is at or under.
+`study.json` holds this as one aspect, `cost`, each fact carrying its year and either `share:` and a per cent, or `price:` with its currency, amount and gigabytes, as `price:XOF:2500:5`. The ladder turns a price into a share and counts the lines the newest figure is at or under. The source is on the fact's row, not in its value.
 
 ## 4. The norm
 
@@ -64,19 +65,19 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 
 ## 5. What the run reads
 
-- **Carried, nothing opened**: the International Telecommunication Union's price figures in `reference/measures.csv`, for all four questions, by a carry script written in the run on the pattern of `scripts/study-internet-carry.py`.
-- **Read**: **54 news stories about the price of data that no study has read**, in 30 countries, Eritrea and Zimbabwe among them. None covers Equatorial Guinea.
+- **Carried, nothing opened**: the International Telecommunication Union's price figures in `reference/measures.csv`, by a carry script written in the run on the pattern of `scripts/study-internet-carry.py`.
+- **Read**: **165 news stories that no study has read**, in 51 countries, all three unplaced ones among them: 54 about the price of data, and 111 more that the current cells cite for this row.
 - **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
-**25 million.** The mobile-phone study read 28 stories and came to 12.5 million, the internet-use study 130 and 21.0 million; this one reads 54, and its summaries are again written by script from the figures. The run checks after every fan-out and stops at it.
+**30 million.** The internet-use study read 130 stories and came to 21.0 million; this one reads 165, and its summaries are again written by script from the figures. The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-13.
 - [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry and read**: the held series, then one fan-out of drafters over the 54 stories.
+- [ ] **D2. Carry and read**: income per person into `reference/denominators.csv`, the held series, then one fan-out of drafters over the 165 stories.
 - [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
 - [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
 
