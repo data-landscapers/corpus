@@ -1,0 +1,85 @@
+{
+ "id": "internetusage",
+ "study_file": "maturity-study-internetusage.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--internet-usage"
+ ],
+ "carry": [
+  "infra.connect--internet-usage"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 25000000,
+ "terms": [
+  "internet use",
+  "internet usage",
+  "internet users",
+  "internet user",
+  "internet penetration",
+  "use the internet",
+  "uses the internet",
+  "used the internet",
+  "using the internet",
+  "people online",
+  "population online",
+  "utilisateurs d'internet",
+  "utilisateurs d’internet",
+  "usagers d'internet",
+  "usagers d’internet",
+  "internautes",
+  "utilisent internet",
+  "utilise internet",
+  "utilisation d'internet",
+  "utilisation d’internet",
+  "pénétration d'internet",
+  "pénétration d’internet",
+  "pénétration de l'internet",
+  "pénétration de l’internet",
+  "utilizadores de internet",
+  "utilizadores da internet",
+  "usuários de internet",
+  "usuários da internet",
+  "internautas",
+  "utilizam a internet",
+  "usam a internet",
+  "utilização da internet",
+  "penetração da internet",
+  "penetração de internet",
+  "مستخدمي الإنترنت",
+  "مستخدمو الإنترنت",
+  "مستخدمي الانترنت",
+  "مستخدمو الانترنت",
+  "يستخدمون الإنترنت",
+  "يستخدمون الانترنت",
+  "استخدام الإنترنت",
+  "استخدام الانترنت",
+  "انتشار الإنترنت",
+  "انتشار الانترنت"
+ ],
+ "sub_indicators": [
+  {
+   "key": "use",
+   "label": "People who use the internet",
+   "subject": "infra.connect",
+   "text": "Internet usage: people who use the internet",
+   "indicator_id": "infra.connect--internet-usage-people-who-use-the-internet",
+   "class": "use"
+  }
+ ],
+ "classes": [
+  "use",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "users",
+   "name": "Share of people who use the internet, with its year",
+   "role": "coverage",
+   "pattern": "(survey|estimate):\\d{1,3}(\\.\\d+)?"
+  }
+ ],
+ "flags": []
+}
