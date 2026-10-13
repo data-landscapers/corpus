@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-pidg-cod-eastcastle-2023-eastcastle-drc-telecom-tower-platform",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "PIDG's Emerging Africa Infrastructure Fund (EAIF) committed a USD 30 million commercial loan to Eastcastle Infrastructure, a DRC telecom tower platform, with activity start in June 2023; the document later records a 2026 refinancing of the same exposure, not an additional one.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Eastcastle DRC Telecom Tower Platform",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eastcastle Infrastructure",
+   "country_label": "Eastcastle DRC Telecom Tower Platform",
+   "class": "private",
+   "platform": "",
+   "owner": "Eastcastle Infrastructure",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

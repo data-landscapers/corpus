@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-20-yas-comoros-ifc-25m-loan-techafricanews",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "IFC (the World Bank Group's private-sector lender, not a Comorian body) agreed in June 2025 to lend EUR 25 million to Yas Comoros, an AXIAN Telecom subsidiary, for 5G, FTTH, FTTO and inter-island connectivity.", "as_of": "2025-06-20", "date_precision": "day", "system": "IFC EUR 25m loan to Yas Comoros", "class": "private"},
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "IFC lent EUR 13 million to Yas Comoros in 2019 for its initial network rollout after it won the second telecom licence; the document says the loan was fully repaid in June 2025.", "as_of": "2019", "date_precision": "year", "system": "IFC EUR 13m loan to Yas Comoros (2019)", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

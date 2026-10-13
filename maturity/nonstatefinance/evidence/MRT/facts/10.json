@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-08-eib-mrt-003-nouakchott-data-centre-loan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott National Data Centre",
+   "country_label": "Centre national d'hebergement de donnees",
+   "class": "other",
+   "platform": "",
+   "owner": "International Mauritania Telecom (IMT/GIE), state via Mauripost with the three telecom operators",
+   "tiers": "national"
+  }
+ ],
+ "note": "EUR 15m EIB loan to the Mauritanian state for the national data centre; money to government, not a private business."
+}

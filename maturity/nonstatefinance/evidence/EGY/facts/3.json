@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-partech-synapse-analytics-record",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Partech Africa committed USD 13 million (Equity, Completed) to Synapse Analytics, starting 2026: Partech - Synapse Analytics Series A, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Partech - Synapse Analytics Series A, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

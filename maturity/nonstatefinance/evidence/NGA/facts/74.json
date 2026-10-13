@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-09-zaf-techcentral-287154",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Standard Bank Group (South Africa), through Stanbic Africa Holdings, signed a subscription agreement on 9 October 2026 to buy shares in OPay, the Nigeria-focused fintech, for up to US$200 million, subject to OPay's US listing going ahead and regulatory approval; Nigeria produced 89.5% of OPay's revenue in H1 2026 and the amount is not split by country.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Standard Bank investment in OPay",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "SoftBank Vision Fund 2 (Japan) led a US$400 million round in OPay in 2021, which valued the Nigeria-focused fintech at US$2 billion, as Reuters reported at the time per this document.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "OPay 2021 funding round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Two deals with amounts; the OPay payments product itself is not a system in the study's field."
+}

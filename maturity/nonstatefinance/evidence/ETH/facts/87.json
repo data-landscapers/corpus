@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-fmo-eth-coop-bank-digital-lending-2024-cooperative-bank-of-oromia-digital-lending",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: FMO committed USD 15.7 million (Commercial Loan, Active) to Cooperative Bank Of Oromia, starting 2024: Cooperative Bank Of Oromia Digital Lending App And Mobile Banking Ethiopia.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cooperative Bank Of Oromia Digital Lending App And Mobile Banking Ethiopia",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

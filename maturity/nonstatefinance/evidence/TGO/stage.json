@@ -1,0 +1,17 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "private",
+   "stage": "3",
+   "money": "committed",
+   "home": "",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-004;TGO-001",
+   "gaps": "No source from 2024 on names an amount put in by a bank, pension fund, insurer, investor or company of the country itself, or raised on the country's own market.",
+   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
+  }
+ ]
+}

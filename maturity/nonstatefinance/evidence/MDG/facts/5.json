@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-11-eib-100m-axian-telecom-4g-5g-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The European Investment Bank (EIB Global, European Union) announced a $100 million financing to AXIAN Telecom for 4G and 5G rollout, of which $40 million goes to Madagascar and $60 million to Tanzania; the document is dated 11 April 2025 and reports an announcement of 10 April 2025.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "EIB financing to AXIAN Telecom for 4G/5G",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yas",
+   "country_label": "Yas",
+   "class": "private",
+   "platform": "",
+   "owner": "AXIAN Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

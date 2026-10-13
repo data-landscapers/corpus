@@ -1,0 +1,8 @@
+{
+  "slug": "2015-01-01-cdb-zwe-001-china-development-bank-and-zte-corporation",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "China Development Bank and ZTE Corporation (both China) provided a US$300 million loan to Econet Wireless Zimbabwe, channelled from a US$500 million group facility, for ICT market consolidation and new services, per Econet Wireless Zimbabwe's CEO; the split between the two lenders is not given.", "as_of": "2015-12-04", "date_precision": "day", "system": "Econet Wireless Zimbabwe CDB/ZTE loan", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

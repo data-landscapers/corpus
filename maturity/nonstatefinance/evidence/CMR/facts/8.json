@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-28-douala-port-5g-innovendi-agreement-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Douala port 4G/5G smart port network",
+   "country_label": "PAD-INNOVENDI smart port",
+   "class": "other",
+   "platform": "4G/5G, IoT, edge cloud",
+   "owner": "INNOVENDI for Port Authority of Douala",
+   "tiers": "national"
+  }
+ ],
+ "note": "Innovendi to fund the deployment upfront but no amount stated, so no fact."
+}

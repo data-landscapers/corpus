@@ -1,0 +1,17 @@
+{
+ "slug": "2018-01-01-deg-eth-m-birr-mobile-money-2018-deg-equity-investment-in-m-birr-mobile",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "DEG (German development finance institution) committed EUR 4 million (about USD 4.73 million) in equity to M-BIRR, the Ethiopian mobile money operator, in 2018, with co-investors EIB and Finnfund.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "DEG equity investment in M-BIRR",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

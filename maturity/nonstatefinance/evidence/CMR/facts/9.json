@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-mtn-cameroon-cmr-2025-network-capex-pledge-bw03",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "MTN Cameroon says it is investing US$225 million over three years in its own operations in Cameroon, particularly its fintech division and national network coverage; the financier is the company itself (MTN, a private telecoms operator), no separate recipient, and the document gives 2025 as the year, taken from its published date.",
+     "as_of": "2025", "date_precision": "year", "system": "MTN Cameroon three-year investment pledge", "class": "private"}
+  ],
+  "systems": [],
+  "note": "Camusat/Aktivco infrastructure partnership is an MoU with no sum: not a fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-africa50-gha-zeepay-2023-zeepay-ghana-series-a5-equity-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Africa50 (a pan-African infrastructure investor) co-led a USD 14 million Series A.5 equity round into Zeepay Ghana Ltd, a Ghana-incorporated mobile-money remittance settlement company, with Oikocredit putting in USD 5 million and Injaro Ghana Venture Capital Fund, Verdant Capital Hybrid Fund and Investisseurs & Partenaires also investing; the round closed in April 2024 and Africa50's own ticket is imputed, not disclosed.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Zeepay Ghana Series A.5 equity round",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zeepay",
+   "country_label": "Zeepay Ghana",
+   "class": "private",
+   "platform": "",
+   "owner": "Zeepay Ghana Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-bii-sen-001-wave-mobile-money-debt-investment-mobile",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: British International Investment committed USD 32 million (Commercial Loan, Active) to Wave Mobile Money S.A., starting 2025: Wave Mobile Money — Debt Investment (Mobile Money Platform West Africa).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Wave Mobile Money — Debt Investment (Mobile Money Platform West Africa)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-27-african-vc-h1-2026-concentration-early-stage-thinning",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "TechCabal reports Morocco's startups attracted more than USD 25 million in total funding in the first half of 2026, an aggregate across deals with no financier or recipient named.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Startup funding in Morocco, H1 2026",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "One aggregate amount for MAR; the document names no individual deal."
+}

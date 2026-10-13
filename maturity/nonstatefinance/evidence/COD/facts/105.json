@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-31-helios-towers-cod-2026-drc-telecom-tower-investment-bw10",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Helios Towers — DRC telecom tower infrastructure investment, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

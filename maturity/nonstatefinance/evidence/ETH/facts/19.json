@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ifc-eth-003-safaricom-ethiopia-ifc-second-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: International Finance Corporation (IFC) committed USD 200 million (Commercial Loan, Active) to Safaricom Telecommunications Ethiopia Private Limited Company (STEP), starting 2024: Safaricom Ethiopia — IFC Second Debt Facility (2024).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Safaricom Ethiopia — IFC Second Debt Facility (2024)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

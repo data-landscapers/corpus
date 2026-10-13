@@ -1,0 +1,36 @@
+{
+ "slug": "2023-01-01-proparco-civ-anka-ext-2023-anka-pre-series-a-extension-round-e-commerce",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Proparco (France, AFD Group) committed an estimated USD 1 million of equity to ANKA, an Ivorian e-commerce SaaS platform, in its USD 5 million pre-Series A extension round; the document gives the date as 2023 only (published date used for the year).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ANKA pre-Series A extension 2023",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "IFC (World Bank Group) led ANKA's USD 5 million pre-Series A extension round in 2023 with USD 3.4 million, alongside Proparco and Bpifrance; the document gives the date as 2023 only.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ANKA pre-Series A extension 2023",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANKA pre-Series A extension 2023",
+   "country_label": "ANKA (formerly Afrikrea)",
+   "class": "private",
+   "platform": "",
+   "owner": "ANKA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

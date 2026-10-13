@@ -1,0 +1,31 @@
+{
+ "slug": "2026-08-02-techtrends-african-corporate-venture-capital-banks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "HabariPay",
+   "country_label": "NGA",
+   "class": "private",
+   "platform": "",
+   "owner": "GTCO (GTBank group)",
+   "tiers": ""
+  },
+  {
+   "system": "Hydrogen",
+   "country_label": "NGA",
+   "class": "private",
+   "platform": "",
+   "owner": "Access Holdings",
+   "tiers": ""
+  },
+  {
+   "system": "Zest",
+   "country_label": "NGA",
+   "class": "private",
+   "platform": "",
+   "owner": "Stanbic IBTC",
+   "tiers": ""
+  }
+ ],
+ "note": "Bank-owned fintech subsidiaries and CBN holding-company rules are named with no amount for NGA; the figures are continent-wide. No fact."
+}

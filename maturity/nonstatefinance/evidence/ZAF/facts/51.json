@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-28-actis-led-consortium-completes-acquisition-of-leading-south-african-tower-platfo",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Actis (a global investor, Luxembourg dateline) leading a consortium with South African Mineworkers Investment Company and Royal Bafokeng Holdings completed the acquisition of Swiftnet's tower portfolio of over 4,000 sites from Telkom for an enterprise value of about US$370 million (ZAR6.75 billion), per Actis; the consortium holds 70% and Royal Bafokeng 30%.", "as_of": "2025-03-28", "date_precision": "day", "system": "Swiftnet tower acquisition", "class": "private"}
+  ],
+  "systems": [
+    {"system": "Swiftnet", "country_label": "Swiftnet", "class": "private", "platform": "", "owner": "Actis-led consortium (70%), Royal Bafokeng Holdings (30%)", "tiers": ""}
+  ],
+  "note": ""
+}

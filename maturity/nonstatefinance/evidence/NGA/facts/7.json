@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-17-terra-industries-seed-round-52-million",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Terra Industries, a Nigerian defence-technology startup, closed an additional USD 18 million, taking its seed round to USD 52 million; new investors were Norleo Space Investments and angel Grant Gordon, joining existing investors 8VC, Silent Ventures, Nova Global, Belief Capital and SV Angel (TechCabal; the article does not give the investors' home countries).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Terra Industries seed round, USD 52 million",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Terra Industries, a Nigerian defence-technology startup, raised USD 11.75 million in January 2026, which TechCabal calls the largest funding round in African defence tech; the article names no investor and no home country for them.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Terra Industries January 2026 round",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Terra Industries, a Nigerian defence-technology startup, raised a USD 22 million follow-on round led by Lux Capital one month after its January 2026 round; the article does not give the investors' home countries.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Terra Industries follow-on round led by Lux Capital",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Memorandum with DICON for a joint venture has no amount: other, no fact. Ghana factory and London office are not NGA money."
+}

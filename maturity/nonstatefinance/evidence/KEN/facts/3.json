@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-ntsa-ppp-smart-driving-licences-public-notice",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "NTSA's notice says the smart driving licence PPP with KCB Bank Kenya and the Pesa Print Consortium is estimated at Kshs 42 billion in the first 2-3 years, funded exclusively by private debt and equity, with Cabinet approving the Project Agreement on 15 December 2025 (signature itself is not stated; notice published 2026-02, month inferred).",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "NTSA Smart Driving Licences PPP",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Driving Licence (e-DL) and instant fines PPP",
+   "country_label": "Smart Driving Licences",
+   "class": "other",
+   "platform": "",
+   "owner": "National Transport and Safety Authority; private party KCB Bank Kenya / Pesa Print Consortium",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

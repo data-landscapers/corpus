@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-cod-zoom-eco-vodacom-670-millions",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Vodacom Congo, the operator itself, says it spends on average USD 140 million a year on its network in the DRC and plans a long-term programme of USD 670 million, as stated at the Vodacom Impact Forum on 8 October 2026; the document does not say where the financier is from.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Vodacom Congo network investment programme",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Congo",
+   "country_label": "Vodacom Congo",
+   "class": "private",
+   "platform": "",
+   "owner": "Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

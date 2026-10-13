@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-vilcap-africa-ecosystem-catalysts-ghana-500k",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Village Capital's Africa Ecosystem Catalysts Facility, a USD 4 million pilot funded by Dutch lender FMO and the Netherlands Enterprise Agency, announced USD 500,000 of new investment across three Ghanaian startups (Built Financial Technologies, GrowForMe, SAYeTECH), bringing its Ghana total to USD 850,000 across five companies; no amount per startup is given.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Africa Ecosystem Catalysts Facility",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Ecosystem Catalysts Facility",
+   "country_label": "Africa Ecosystem Catalysts Facility",
+   "class": "private",
+   "platform": "",
+   "owner": "Village Capital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-deg-zaf-naked-insurance-seriesb2-2025-deg-equity-investment-in-naked-insurtech",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: DEG committed USD 4 million (Equity, Active) to Naked Insurance (Naked Financial Technology Pty Ltd), starting 2025: DEG Equity Investment in Naked Insurtech South Africa Series B2 (2025).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DEG Equity Investment in Naked Insurtech South Africa Series B2 (2025)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

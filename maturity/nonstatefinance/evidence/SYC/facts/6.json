@@ -1,0 +1,17 @@
+{
+ "slug": "2019-01-01-tdb-syc-cws-acquisition-2019-cable-wireless-seychelles-acquisition-financing",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Trade and Development Bank (TDB) committed US$50 million of its own balance sheet in 2019 to CWS Investment Ltd, a group of Seychellois entrepreneurs, within a US$70 million syndicated loan (with Absa and ABC Banking Corporation of Mauritius) to acquire Cable & Wireless Seychelles from Liberty Latin America.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "CWS acquisition financing",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

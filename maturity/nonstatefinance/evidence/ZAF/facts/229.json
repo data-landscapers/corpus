@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-31-iati-xm-dac-41114-output-01006034-scaling-up-dime-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: United Nations Development Programme (UNDP) committed USD 1 million (Grant, Approved) to a private digital beneficiary, starting 2026: Scaling up DIME.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Scaling up DIME",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

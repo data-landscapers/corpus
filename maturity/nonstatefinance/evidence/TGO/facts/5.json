@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ifc-tgo-001-axian-togo-togocom-telecom-expansion-loan",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: International Finance Corporation (IFC) committed USD 54 million (Commercial Loan, Active) to Togocom (Axian Group subsidiary), starting 2024: Axian Togo / Togocom Telecom Expansion Loan.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Axian Togo / Togocom Telecom Expansion Loan",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-sysroad-gmb-2026-gamtel-broadband-ppp-bw07",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "SYSROAD SA HOLDING entered a US$50 million public-private partnership with GAMTEL to upgrade the national broadband backbone from 40Gbps to 800Gbps; the record notes GAMTEL's release puts the signing ceremony on 24 December 2025 and does not name SYSROAD's home country.",
+   "as_of": "2025-12-24",
+   "date_precision": "day",
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "A signed US$50 million public-private partnership in which private holding SYSROAD SA HOLDING upgrades the national broadband backbone of state operator GAMTEL, with a signing ceremony on 24 December 2025 per GAMTEL's release as cited in the record.",
+   "as_of": "2025-12-24",
+   "date_precision": "day",
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "country_label": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private",
+   "platform": "",
+   "owner": "GAMTEL and SYSROAD SA HOLDING",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

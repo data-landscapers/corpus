@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-31-scancom-plc-mtn-ghana-h1-2026-financial-report",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Scancom PLC (MTN Ghana) reports it invested GHS 1.9 billion (GHS 1,944.9 million) in ex-lease capital expenditure on its network and digital platforms in the first half of 2026, total capex GHS 2,100.4 million, a fall of 36.3% on a year earlier; the company is MTN Group's Ghana operator.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MTN Ghana network and platform capex",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "MoMo",
+   "class": "private",
+   "platform": "",
+   "owner": "MMFL (Mobile Money Financial Services), separated from Scancom PLC in Q1 2026",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

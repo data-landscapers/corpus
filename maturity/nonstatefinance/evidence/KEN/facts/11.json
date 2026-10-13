@@ -1,0 +1,12 @@
+{
+  "slug": "2018-01-01-tlcom-ken-twiga-2018-tlcom-capital-co-lead-equity-investment-in",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "TLcom Capital committed up to US$4 million to Twiga Foods, a Kenya-based mobile food-distribution platform, as co-lead of a US$10 million Series B alongside IFC and DOB Equity; the document does not give TLcom's home country, and dates the deal 2018.",
+     "as_of": "2018", "date_precision": "year", "system": "Twiga Foods Series B", "class": "private"}
+  ],
+  "systems": [
+    {"system": "Twiga Foods", "country_label": "Twiga Foods", "class": "private", "platform": "mobile-based food distribution platform", "owner": "Twiga Foods", "tiers": ""}
+  ],
+  "note": ""
+}

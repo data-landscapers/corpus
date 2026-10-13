@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-tra-vodacom-tanzania-10th-agm",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Vodacom Tanzania Plc, a private telecom operator, says it raised its own capital expenditure 85.1% to TZS 323.9 billion in the financial year ended 31 March 2026, covering 444 new 4G and 25 new 5G sites and IT and digital platforms; the document does not give the financier's origin.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Vodacom Tanzania network and digital investment, FY2026",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "M-PESA",
+   "class": "",
+   "platform": "",
+   "owner": "Vodacom Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

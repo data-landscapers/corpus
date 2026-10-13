@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-21-huawei-egy-cloud-2024-cairo-cloud-region",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Huawei committed USD 300 million (Self Funded, Active) to a private digital beneficiary, starting 2024: Huawei — Huawei Cloud Cairo Region investment, 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Huawei — Huawei Cloud Cairo Region investment, 2024",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

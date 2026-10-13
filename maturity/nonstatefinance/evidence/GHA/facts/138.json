@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-uncdf-gha-fido-phase2-2026-msme-digital-finance",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: UN Capital Development Fund (UNCDF) committed USD 0.2 million (Grant, Active) to FIDO Microcredits Limited, starting 2026: UNCDF grant to FIDO Microcredits for phase two of MSME digital financial services (Ghana).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "UNCDF grant to FIDO Microcredits for phase two of MSME digital financial services (Ghana)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

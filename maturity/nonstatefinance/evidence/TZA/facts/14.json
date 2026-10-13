@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-nala-raises-50m-payment-rails",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Liquidity, a platform backed by Japan's MUFG through Mars Growth Capital, extended a US$25 million credit facility, expandable to US$50 million, to Tanzanian fintech NALA, announced 28 May 2026.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "NALA credit facility (Liquidity / Mars Growth Capital, MUFG)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NALA",
+   "country_label": "NALA",
+   "class": "private",
+   "platform": "",
+   "owner": "NALA (Tanzanian fintech)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

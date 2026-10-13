@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-15-ninety-one-open-access-data-centres-2025-local-currency-loan",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Ninety One committed USD 15 million (Commercial Loan, Approved) to Open Access Data Centres (OADC), a WIOCC subsidiary, starting 2025: Ninety One — Open Access Data Centres local-currency loan for a new South African data centre, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ninety One — Open Access Data Centres local-currency loan for a new South African data centre, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  },
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Ninety One committed USD 15 million (Commercial Loan, Approved) to Open Access Data Centres (OADC), a WIOCC subsidiary, starting 2025: Ninety One — Open Access Data Centres local-currency loan for a new South African data centre, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ninety One — Open Access Data Centres local-currency loan for a new South African data centre, 2025",
+   "class": "private",
+   "aspect": "home",
+   "value": "raised"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2017-01-01-proparco-reg-tide-africa-i-2017-tide-africa-fund-i-venture-capital",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Proparco, a French development finance subsidiary of AFD Group, committed USD 5m (EUR 4.3m) in equity to TLcom Capital's TIDE Africa Fund I, a venture fund the document says is Mauritius-registered and invests in Sub-Saharan African start-ups.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "TIDE Africa Fund I",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-gha-ifc-absa-complete-farmer-agricultural-finance",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "IFC, with BIFT, is providing Complete Farmer, a Ghanaian agritech company whose platform connects farmers with buyers and financiers, a US$2.4 million convertible loan plus US$660,000 in advisory and grant support, announced by IFC on 16 September 2026; IFC is a multilateral development finance institution (World Bank Group).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "IFC convertible loan to Complete Farmer",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Complete Farmer platform",
+   "country_label": "Complete Farmer",
+   "class": "private",
+   "platform": "",
+   "owner": "Complete Farmer",
+   "tiers": "smallholder farmers, financial institutions, buyers"
+  }
+ ],
+ "note": "Absa Bank Ghana US$50m unfunded risk participation (up to US$200m lending to cocoa Licensed Buying Companies) is not a digital business, so no fact."
+}

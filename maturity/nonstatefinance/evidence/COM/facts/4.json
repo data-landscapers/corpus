@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ifc-com-2025-yas-comoros-broadband-bw03",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: International Finance Corporation (IFC) committed USD 27 million (Commercial Loan, Approved) to Yas Comoros (AXIAN Telecom subsidiary), starting 2025: IFC — Yas Comoros broadband (Comoros), 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IFC — Yas Comoros broadband (Comoros), 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

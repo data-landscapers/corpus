@@ -1,0 +1,27 @@
+{
+ "slug": "2015-01-01-bii-zmb-001-ihs-zambia-equity-investment-telecoms-tower",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "British International Investment (BII, UK development finance institution) made a US$40M equity investment in IHS Zambia Limited, an independent telecoms tower operator with over 1,700 towers in Zambia, in October 2015; exited by March 2021.",
+   "as_of": "2015-10",
+   "date_precision": "month",
+   "system": "IHS Zambia equity investment 1",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "British International Investment (BII, UK development finance institution) made a second US$25.5M equity investment in IHS Zambia Limited, a tower operator in Zambia, in July 2017; exited by March 2021.",
+   "as_of": "2017-07",
+   "date_precision": "month",
+   "system": "IHS Zambia equity investment 2",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

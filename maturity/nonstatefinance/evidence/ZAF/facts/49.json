@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-24-frogfoot-fibre-rollout-capital-itweb",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Incoming investors, led by the DNI Consortium with Metier Capital Growth Fund III partnerships and EM-Three Investment Holdings (all South African), subscribed for new shares in Frogfoot and Vox/Hypa, with RMB as adviser and funder; no subscription amount is stated, and the R8.4 billion is an implied combined after-debt equity value; the date is not stated, so the published date 2026-08-24 is used.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Frogfoot and Vox share subscription",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Frogfoot",
+   "country_label": "Frogfoot",
+   "class": "private",
+   "platform": "",
+   "owner": "Vivica Group",
+   "tiers": ""
+  },
+  {
+   "system": "Hypa Fibre",
+   "country_label": "Hypa",
+   "class": "private",
+   "platform": "",
+   "owner": "Vox",
+   "tiers": ""
+  }
+ ],
+ "note": "No money committed fact: the document states no amount subscribed, only a valuation."
+}

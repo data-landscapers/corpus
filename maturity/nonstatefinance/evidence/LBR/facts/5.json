@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Austrian company OeSD International (called Austrian State Printing House) is party to a signed public-private partnership for Liberia's national ID and civil registration upgrade, described as about US$54 million, still needing parliamentary approval; NIR says so; as_of is the 2026-09-14 publication date, as no signing date is given.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "OeSD International national ID concession",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "Austrian company OeSD International (called Austrian State Printing House) is party to a signed public-private partnership for Liberia's national ID and civil registration upgrade, described as about US$54 million, still needing parliamentary approval; NIR says so; as_of is the 2026-09-14 publication date, as no signing date is given.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "OeSD International national ID concession",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID and civil registration system (OeSD concession)",
+   "country_label": "National Identification Registry system",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

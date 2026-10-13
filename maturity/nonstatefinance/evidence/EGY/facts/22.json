@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-08-blnk-37m-raise-consumer-lending-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Egyptian fintech Blnk raised a US$12.5m Series A equity round led by Algebra Ventures, with SANAD Fund for MSME, Endeavor Catalyst and existing investor Emirates International Investment Company; the document does not give the investors' home countries and is dated 2026-06-08.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Blnk Series A",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Blnk secured US$24.6m in local-currency debt facilities from banks and non-bank financial institutions including National Bank of Egypt, Suez Canal Bank and Bank Al Baraka Egypt, all lenders operating in Egypt; the document is dated 2026-06-08.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Blnk local-currency debt facilities",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Blnk raised US$24.6m in local-currency debt from Egyptian banks and non-bank financial institutions, including National Bank of Egypt, Suez Canal Bank and Bank Al Baraka Egypt; the document is dated 2026-06-08.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Blnk local-currency debt facilities",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mobile Network Expansion (MNE)",
+   "country_label": "Mobile Network Expansion",
+   "class": "other",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "national"
+  }
+ ],
+ "note": "Syndicated loan went to CAMTEL, a state-owned operator, so class other and no fact."
+}

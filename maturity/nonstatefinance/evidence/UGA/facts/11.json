@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-15-ugandan-startups-raise-usd-19m-in-2024",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Watu Credit Uganda, a two- and three-wheeler asset-finance company, raised a USD 15m five-year debt facility in January 2024 from Gateway Partners through Alpen Capital's Africa Credit Opportunities Fund, the first tranche of a USD 50m mandate; the document does not say where the financier is from.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Watu Credit debt facility",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Ugandan e-bike start-up Gogo Electric raised USD 1.6m from the EU-backed Electrification Financing Initiative (ElectriFI); the document lists it among 2024 raises and gives no month.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Gogo Electric ElectriFI investment",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Rexial, a Ugandan direct-debit payments start-up, raised a USD 420,000 seed round in September 2024; the document does not name the investors.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Rexial seed round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Deal-level facts for three named raises; the USD 19m 2024 total and undisclosed rounds (eMaisha Pay, Power Up, Level Africa) have no amount per deal."
+}

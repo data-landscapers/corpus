@@ -1,0 +1,17 @@
+{
+ "slug": "2018-01-01-partech-nga-tradedepot-2018-partech-africa-series-a-equity-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Partech Africa led a USD 3 million Series A equity round in TradeDepot, a Nigeria-based retail SaaS platform; the document gives the year only and does not say where Partech is from.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "partech-nga-tradedepot-2018",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

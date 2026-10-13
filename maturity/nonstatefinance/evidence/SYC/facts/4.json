@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-dabafinance-fusepay-preseed",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Daba Finance reports Fusepay, a Seychelles-founded fintech, closed a $350,000 pre-seed round in August 2025 backed by Hustle Fund, Everywhere Ventures, First Check Ventures, Startup Istanbul and an angel investor; the document does not say where the investors are based.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Fusepay pre-seed round",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fusepay (FuseCheq, Fusepay Bridge)",
+   "country_label": "Fusepay",
+   "class": "private",
+   "platform": "",
+   "owner": "Fusepay",
+   "tiers": "businesses, billers"
+  }
+ ],
+ "note": ""
+}

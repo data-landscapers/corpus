@@ -1,0 +1,17 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "private",
+   "stage": "no evidence",
+   "money": "",
+   "home": "",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names private money put into a digital business in the country, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
+  }
+ ]
+}

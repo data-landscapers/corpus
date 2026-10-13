@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-06-microsoft-zaf-azure-microsoft-south-africa-datacentres-zar-204bn",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Microsoft committed USD 1122 million (Self Funded, Completed) to Microsoft Azure South Africa, starting 2025: Microsoft Azure South Africa — ZAR 20.4bn spent on the first enterprise datacentres (disclosed 2025).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Microsoft Azure South Africa — ZAR 20.4bn spent on the first enterprise datacentres (disclosed 2025)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-equinix-zaf-2026-south-africa-data-centre-expansion-bw10",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Equinix committed USD 438 million (Self Funded, Active) to a private digital beneficiary, starting 2026: Equinix — South Africa data centre expansion, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Equinix — South Africa data centre expansion, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

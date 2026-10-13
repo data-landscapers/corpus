@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-connectingafrica-moove-250m-series-c",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Moove, a Nigerian mobility fintech, secured USD 250 million in Series C funding at a USD 2.1 billion valuation, which this article says was led by Tiger Global with Uber, Mubadala, BlackRock and Prosus Ventures participating; the article's own lead-investor claim is marked superseded in its record (the company's release names Mubadala as lead), and it names no investor home countries. The round funds autonomous vehicles, AI and expansion into new markets.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Moove Series C",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

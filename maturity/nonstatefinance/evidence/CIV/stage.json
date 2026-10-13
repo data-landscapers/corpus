@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "private",
+   "stage": "2",
+   "money": "committed",
+   "home": "",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-011",
+   "gaps": "Every amount held from 2024 on was signed or started in the same year.",
+   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
+  }
+ ]
+}

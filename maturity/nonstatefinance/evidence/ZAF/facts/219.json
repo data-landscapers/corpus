@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-adc-zaf-rmb-expansion-2024-africa-data-centres-south-africa-20mw",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Africa Data Centres committed USD 110 million (Commercial Loan, Active) to Africa Data Centres (South Africa) (Pty) Ltd, starting 2024: Africa Data Centres South Africa — 20MW Hyperscale Expansion (RMB ZAR2bn Facility, 2024).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Data Centres South Africa — 20MW Hyperscale Expansion (RMB ZAR2bn Facility, 2024)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  },
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Africa Data Centres committed USD 110 million (Commercial Loan, Active) to Africa Data Centres (South Africa) (Pty) Ltd, starting 2024: Africa Data Centres South Africa — 20MW Hyperscale Expansion (RMB ZAR2bn Facility, 2024).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Data Centres South Africa — 20MW Hyperscale Expansion (RMB ZAR2bn Facility, 2024)",
+   "class": "private",
+   "aspect": "home",
+   "value": "raised"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

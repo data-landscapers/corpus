@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-pafen-onatel-couverture-reseau-connectivite-milieu-rural",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ONATEL rural coverage contract (PAFEN)",
+   "country_label": "PAFEN-ONATEL",
+   "class": "other",
+   "platform": "",
+   "owner": "ONATEL Burundi (state telecoms operator)",
+   "tiers": ""
+  }
+ ],
+ "note": "USD 5.9m contract is government project money to a state-owned operator; no private money."
+}

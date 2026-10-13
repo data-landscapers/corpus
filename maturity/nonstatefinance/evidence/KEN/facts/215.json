@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-24-uncdf-ken-coopbank-digiken-guarantee-2026-digital-business-loan-portfolio-guarantee",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: UN Capital Development Fund (UNCDF) committed USD 0.9 million (Guarantee, Active) to Co-operative Bank of Kenya, starting 2026: UNCDF loan portfolio guarantee to Co-operative Bank of Kenya for digital businesses under DigiKen (Kenya).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "UNCDF loan portfolio guarantee to Co-operative Bank of Kenya for digital businesses under DigiKen (Kenya)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

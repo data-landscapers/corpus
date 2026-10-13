@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-bii-zaf-002-too-much-wifi-debt-investment-wireless",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: British International Investment committed USD 4 million (Commercial Loan, Active) to Too Much Wifi (Pty) Ltd, starting 2024: Too Much Wifi — Debt Investment (Wireless Broadband ISP).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Too Much Wifi — Debt Investment (Wireless Broadband ISP)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

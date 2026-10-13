@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-trident-digital-tech-cod-2025-rdc-pass-digital-id-ppp-bw13",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "The Congolese government signed a 20-year public-private partnership in June 2025 with Singapore-based Trident Digital Tech (via Trident Digital Tech DRC Africa SAS) for the RDC-PASS national digital ID platform, which the Ministry of Planning costs at US$97.1 million and the document's deal record lists Trident as financier; the text itself states the cost estimate, not Trident's own contribution.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "RDC-PASS",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "RDC-PASS",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of DR Congo (Ministry of Posts, Telecommunications and New ICTs)",
+   "tiers": "national"
+  }
+ ],
+ "note": "One state-brought fact; no money-committed fact because the amount is the ministry's cost estimate and the recipient is the state."
+}

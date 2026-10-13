@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-22-techcabal-tanzania-regulator-reveals-kcbs-stake-in-pesapal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Pesapal",
+   "country_label": "Pesapal",
+   "class": "other",
+   "platform": "",
+   "owner": "Pesapal Limited; KCB Group to take 22.23% (proposed)",
+   "tiers": ""
+  },
+  {
+   "system": "Riverbank Solutions",
+   "country_label": "Riverbank Solutions",
+   "class": "other",
+   "platform": "",
+   "owner": "KCB Group (75%)",
+   "tiers": ""
+  }
+ ],
+ "note": "KCB stake in Pesapal is unsigned/under review with no amount; the KES 2 billion Riverbank purchase is background with no date given, so no fact."
+}

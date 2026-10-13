@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-05-zaf-proparco-invests-us20m-frogfoot-vox-hypa-fibre",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Proparco, the French development finance institution, is investing US$20 million in the South African fibre and connectivity businesses Frogfoot, Vox and Hypa, alongside a Metier-led consortium of BII, BIO, DEG, Ke Nako Capital, Nedbank and Standard Bank; the release gives no signature date, so the year is its publication date (2026-10-05).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Proparco investment in Frogfoot, Vox and Hypa",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Proparco investment in Frogfoot, Vox and Hypa",
+   "country_label": "South Africa",
+   "class": "private",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No home fact: Nedbank, Standard Bank and Ke Nako are named but no amount is given for any of them."
+}

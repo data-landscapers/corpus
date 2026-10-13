@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-21-swz-positivenews-mps-back-digital-loans",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IBRD loan to EPTC under the Digital Eswatini Project (US$26m, government-guaranteed)",
+   "country_label": "IBRD loan to EPTC under the Digital Eswatini Project (US$26m, government-guaranteed)",
+   "class": "other",
+   "platform": "",
+   "owner": "EPTC (state-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Eswatini IBRD loan and IDA credit (US$19.3m, US$19.7m)",
+   "country_label": "Digital Eswatini IBRD loan and IDA credit (US$19.3m, US$19.7m)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": "World Bank loans to a state-owned operator and to the government are money to state bodies, class other."
+}

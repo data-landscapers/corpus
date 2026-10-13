@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-jica-nga-startup-social-env-2026-project-for-the-development-of-supporting",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: JICA committed USD 10.6 million (Grant, Active) to Nigeria Sovereign Investment Authority (NSIA), starting 2026: Project for the Development of Supporting Environment for Startups Addressing Social Challenges (Nigeria).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Project for the Development of Supporting Environment for Startups Addressing Social Challenges (Nigeria)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

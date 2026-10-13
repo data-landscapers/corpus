@@ -1,0 +1,17 @@
+{
+ "slug": "2015-01-01-bii-nga-001-int-towers-nigeria-equity-investment-telecoms",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "British International Investment (United Kingdom) invested USD 20 million in equity in INT Towers Limited, an IHS Towers subsidiary owning over 9,100 telecoms towers in Nigeria, in February 2015; the investment was exited by September 2019.",
+   "as_of": "2015-02",
+   "date_precision": "year",
+   "system": "bii-nga-001",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

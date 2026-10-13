@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-19-trident-launches-rdc-pass-sovereign-digital-identity-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "RDC-PASS",
+   "class": "other",
+   "platform": "",
+   "owner": "Tridentity Digital Tech DRC Africa SAS (Trident Digital Tech Holdings), under a 20-year PPP with the Government",
+   "tiers": "national"
+  }
+ ],
+ "note": "20-year PPP for RDC-PASS activated June 2026; only a project value of about USD 97.1M is given, not an amount the private partner puts in, so no fact."
+}

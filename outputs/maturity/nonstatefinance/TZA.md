@@ -1,0 +1,13 @@
+# Tanzania
+
+## Private money for digital businesses
+
+**Private money put into a digital business, with its year.** In 2024 [Norrsken22 put $8 million into NALA's Series A](<https://techcrunch.com/2024/07/09/nala-series-a/>), [British International Investment lent $20 million to Helios Towers' Tanzanian arm](<https://www.bii.co.uk/en/news-insight/news/toa-tanzania-secures-30-million-investment-from-british-international-investment-to-expand-telecom-infrastructure-and-enhance-connectivity-in-tanzania/>) and [bought $20 million of a Helios Towers bond](<https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-COH-03877777-F383601-01>), and [InfraCo Africa put $2 million into Mawingu](<https://pidg.org/mawingu-raises-15-million-to-acquire-habari-and-expand-its-network-in-east-africa/>). In 2025 [MIGA guaranteed $40 million for Airtel Money Tanzania](<https://www.miga.org/press-release/miga-boost-mobile-money-services-tanzania>), [Wingu Africa put $50 million into a data centre](<https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-shift-gathers-pace-with-50-million-data-centre-4970620>) and [Axian Telecom paid $5 million for GOfiber](<https://www.axian-telecom.com/ac-content/uploads/2025/06/AXIAN-Telecom-Q1-2025-Unaudited-Condensed-Consolidated-Financial-Statements.pdf>). In 2026 [Liquidity extended NALA a $25 million credit facility](<https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/>) and [Vodacom Group put $28 million into the M-Pesa platform](<https://www.vodacom.com/news-article.php?articleID=16796>).
+
+**Money raised inside the country.** [Vodacom Tanzania raised its capital spending 85.1% to TZS 323.9 billion](<https://www.telecomreviewafrica.com/articles/telecom-operators/29096-vodacom-tanzanias-10th-agm-highlights-27-7m-customers-and-85-network-investment-growth/>) in the year to March 2026.
+
+**Private money the government brought into a public digital project.** [The regulator disclosed KCB's 22.23% stake in Pesapal](<https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/>) in September 2026.
+
+***Noted, not assessed***. [Tanzania digital-infrastructure investment envelope](<https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031>), TZS 7,000 billion to 2031; [Tanzania Instant Payment System](<https://www.gatesfoundation.org/about/committed-grants/2023/06/inv-007459>).
+
+***Not held***. No amount from 2024 on is held from a bank, pension fund, insurer, investor or company of Tanzania, or raised on its own market.

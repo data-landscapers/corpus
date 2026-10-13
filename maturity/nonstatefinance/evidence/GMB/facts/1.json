@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-24-gamtel-sysroad-50m-broadband-ppp",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "GAMTEL, the national telecoms operator, signed a US$50 million public-private partnership agreement with SYSROAD SA HOLDING, a Senegal-based systems integrator, to upgrade the national backbone from 40Gbps to 800Gbps; the release does not say how the amount is split or who puts it up.", "as_of": "2025-12-24", "date_precision": "day", "system": "GAMTEL-SYSROAD PPP", "class": "private"}
+  ],
+  "systems": [
+    {"system": "GAMTEL-SYSROAD PPP", "country_label": "Gamtel and Syroad Project", "class": "private", "platform": "", "owner": "GAMTEL with SYSROAD SA HOLDING", "tiers": "national"}
+  ],
+  "note": ""
+}

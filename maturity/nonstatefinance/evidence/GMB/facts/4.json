@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-gamtel-ycell-share-investment-modernization-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Financier YCELL Co. Ltd. (a company; its home country is not stated here) committed GMD 6.1 billion to modernise the network of GAMCEL, the state mobile operator, under a Share Investment and Network Modernization Agreement that also gives it an 80% equity stake. The report of 2026-07-10 says it was signed the day before.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "GAMCEL-YCELL Share Investment and Network Modernization Agreement",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAMCEL-YCELL Share Investment and Network Modernization Agreement",
+   "country_label": "GAMCEL-YCELL Share Investment and Network Modernization Agreement",
+   "class": "private",
+   "platform": "",
+   "owner": "YCELL Co. Ltd. (80%) and government (20%)",
+   "tiers": ""
+  }
+ ],
+ "note": "State-sale privatisation with 80% to a private investor; not recorded as a public-private partnership, concession or joint venture, so no state=brought fact."
+}

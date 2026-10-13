@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-fmo-hub2-2024-connekt4-equity-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: FMO committed USD 3 million (Equity, Approved) to Hub2 / Connekt 4 SAS, starting 2024: FMO — Hub2 (Connekt 4 SAS), 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "FMO — Hub2 (Connekt 4 SAS), 2024",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

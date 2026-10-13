@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-cardinalstone-nomba-record",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: CardinalStone Finance committed USD 3 million (Commercial Loan, Completed) to Nomba, starting 2026: CardinalStone Finance — Nomba cross-border payments debt facility, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CardinalStone Finance — Nomba cross-border payments debt facility, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

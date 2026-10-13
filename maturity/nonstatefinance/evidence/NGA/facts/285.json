@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-equinix-nga-lg3-2025-equinix-lg3-lagos-new-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Equinix committed USD 100 million (Self Funded, Active) to Equinix Nigeria, starting 2025: Equinix LG3 Lagos New Data Centre — $22 Million Investment.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Equinix LG3 Lagos New Data Centre — $22 Million Investment",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

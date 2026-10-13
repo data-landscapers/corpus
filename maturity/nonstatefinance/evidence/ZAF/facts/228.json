@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-oakvale-invest-tennsa-2026",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Oakvale Invest committed USD 0.061 million (Equity, Completed) to Tennsa, starting 2026: Oakvale Invest — Tennsa, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Oakvale Invest — Tennsa, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

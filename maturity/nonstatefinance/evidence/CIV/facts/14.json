@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-17-wb-civ-004-rapid-ci-padci-phase-1",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "The World Bank appraisal (18 September 2025) puts RAPID-CI phase 1 at USD 160 million: USD 150 million IDA credit plus USD 10 million private capital mobilised, and it expects USD 310 million of private capital enabling in phase 1, the government being anchor client.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "RAPID-CI / PADCI phase 1",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAPID-CI / PADCI phase 1 (World Bank P180059)",
+   "country_label": "Projet d'acceleration digitale en Cote d'Ivoire (PADCI)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": "IDA loan to the state (USD 150 million, signed 17 October 2025) is money to the government, so no money/committed fact; the USD 10 million private capital is the state/brought fact."
+}

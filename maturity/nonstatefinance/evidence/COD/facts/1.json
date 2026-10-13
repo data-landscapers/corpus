@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-29-cod-actualitecd-onip-identification-nationale-ppp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ONIP national identification PPP",
+   "country_label": "Identification nationale de la population",
+   "class": "other",
+   "platform": "",
+   "owner": "ONIP",
+   "tiers": "national"
+  }
+ ],
+ "note": "PPP for national identification announced 2026-05-29 with partner unnamed and no amount; a plan with no amount is class other."
+}

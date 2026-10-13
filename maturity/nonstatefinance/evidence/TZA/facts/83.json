@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Wingu Africa committed USD 50 million (Self Funded, Active) to a private digital beneficiary, starting 2025: Wingu Africa — Tanzania (Mbezi) data centre Phase II, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Wingu Africa — Tanzania (Mbezi) data centre Phase II, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

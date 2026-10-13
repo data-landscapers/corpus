@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,private,money,coverage,committed,2026-03-03,BDI-001,,
+BDI,private,home,coverage,,,,,nothing held
+BDI,private,state,coverage,brought,2026-03-03,BDI-002,,

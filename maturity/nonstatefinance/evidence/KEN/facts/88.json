@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-airtel-africa-ken-2025-nxtra-tatu-city-data-centre-bw05",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Airtel Africa committed USD 147 million (Self Funded, Active) to Nxtra data centre, Tatu City, starting 2025: Airtel Africa (Nxtra) — Kenya 44MW data centre, Tatu City, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Airtel Africa (Nxtra) — Kenya 44MW data centre, Tatu City, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

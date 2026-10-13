@@ -1,0 +1,13 @@
+# South Africa
+
+## Private money for digital businesses
+
+**Private money put into a digital business, with its year.** An Actis-led consortium completed the purchase of the [Swiftnet tower platform](<https://www.act.is/2025/03/28/actis-led-consortium-completes-acquisition-of-leading-south-african-tower-platform-swiftnet/>) from Telkom in 2025 for about US$370 million. Microsoft committed [US$329 million](<https://africa.businessinsider.com/local/markets/microsoft-picks-south-africa-for-dollar329-million-expansion-in-cloud-infrastructure/34f0ktg>) to Azure South Africa and Equinix [US$438 million](<https://africa.businessinsider.com/local/markets/us-data-centre-firm-equinix-is-investing-dollar438-million-in-south-africa/j390t94>) to data centres, both in 2026. Teraco secured an [R8 billion syndicated loan](<https://www.engineeringnews.co.za/article/teraco-building-40-mw-jb7-expansion-to-isando-campus-2024-11-13>) in 2024. Proparco is investing [US$20 million](<https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south>) in Frogfoot, Vox and Hypa, and Quona Capital led an [US$8.4 million Series A](<https://www.itweb.co.za/article/jem-raises-84m-to-expand-ai-powered-platform/DZQ58MV8mZjvzXy2>) in Jem, both in 2026.
+
+**Money raised inside the country.** South African investors, led by the Public Investment Corporation, put together the [R300 million first close](<https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/>) of Mamor Capital Ventures' fund in 2026. The DNI Consortium holds [34.8% of Frogfoot and Vox](<https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r>) after a 2026 capital raise valuing them at R14.4 billion.
+
+**Private money the government brought into a public digital project.** The Technology Innovation Agency and the Small Enterprise Development and Finance Agency joined the same [Mamor first close](<https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/>), a private fund, in 2026.
+
+***Noted, not assessed***. [Mamor Capital Ventures first fund](<https://www.itweb.co.za/article/mamor-capital-raises-r300m-for-sa-tech-start-ups/KPNG878NLWgq4mwD>); [Yellow Series C](<https://www.weetracker.com/2026/08/21/yellow-series-c-funding-convergence-partners-africa/>).
+
+***Not held***. No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project. Nor is there a state fund that private investors have paid into.

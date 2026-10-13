@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-actis-zaf-swiftnet-2024-actis-led-consortium-acquisition-of-swiftnet-telecom",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Actis committed USD 355 million (Equity, Active) to Swiftnet (Towerco Bidco), starting 2024: Actis-led consortium acquisition of Swiftnet telecom tower platform from Telkom South Africa.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Actis-led consortium acquisition of Swiftnet telecom tower platform from Telkom South Africa",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

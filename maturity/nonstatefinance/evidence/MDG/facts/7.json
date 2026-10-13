@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-31-afdb-press-release-axian-telecom-loan-approval",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The African Development Bank, a development finance institution, approved in January 2025 a $160 million senior corporate loan to AXIAN Telecom (Mauritius-headquartered) across nine countries, of which over $10 million is dedicated to 22,000 women entrepreneurs in Madagascar through the MVola platform; AfDB's own release of 31 January 2025.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "AfDB senior corporate loan to AXIAN Telecom (MVola women entrepreneurs component)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "MVola",
+   "class": "other",
+   "platform": "",
+   "owner": "AXIAN Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

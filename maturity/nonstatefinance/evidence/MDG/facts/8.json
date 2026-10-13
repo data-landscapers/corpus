@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-miga-mdg-airtel-mobile-money-2022-airtel-mobile-money-madagascar-digital-financial",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "MIGA, the World Bank Group's multilateral guarantee agency, committed a US$5,130,000 political risk guarantee in 2022 covering The Rise Fund II Aurora (TPG private equity) equity investment in Airtel Mobile Commerce's Airtel Money mobile money business in Madagascar, as part of a US$200 million programme across 12 countries.",
+     "as_of": "2022", "date_precision": "year",
+     "system": "Airtel Mobile Money Madagascar guarantee", "class": "private"}
+  ],
+  "systems": [
+    {"system": "Airtel Money", "country_label": "Airtel Money", "class": "private", "platform": "", "owner": "Airtel Mobile Commerce B.V. subsidiary", "tiers": ""}
+  ],
+  "note": ""
+}

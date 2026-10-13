@@ -1,0 +1,17 @@
+{
+ "slug": "2019-01-01-visa-nga-interswitch-equity-2019-visa-equity-investment-in-interswitch-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Visa Inc. (United States) took a roughly 20% equity stake in Interswitch Group, a Nigerian digital payments company, for about USD 200 million, valuing it at USD 1 billion; the amount is an estimate and the document gives only the year.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "visa-nga-interswitch-equity-2019",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2016-03-31-sudan-launches-etrading-system-with-afdb-support",
+  "facts": [],
+  "systems": [
+    {"system": "Khartoum Stock Exchange e-trading system", "country_label": "online trading system", "class": "other", "platform": "", "owner": "Government of Sudan, financed by the African Development Bank", "tiers": "federal"}
+  ],
+  "note": "AfDB's $34.8m PFM funding goes to the government, not a private digital business."
+}

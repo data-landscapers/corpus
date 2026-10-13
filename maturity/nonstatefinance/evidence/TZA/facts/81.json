@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-bii-tza-001-helios-towers-toa-tanzania-debt-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: British International Investment committed USD 20 million (Commercial Loan, Active) to Helios Towers PLC / TowerCo of Africa Tanzania (TOA Tanzania), starting 2024: Helios Towers / TOA Tanzania — Debt Investment (Telecom Tower Infrastructure).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Helios Towers / TOA Tanzania — Debt Investment (Telecom Tower Infrastructure)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

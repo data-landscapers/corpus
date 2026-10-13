@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-11-ago-novojornal-exim-bank-usa-africell-emprestimo-tecnologia",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: EXIM Bank (Export-Import Bank of the United States) committed USD 100 million (Buyer's Credit, Approved) to Africell, starting 2026: EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões de dólares à Africell para investimento em tecnologia em Angola.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões de dólares à Africell para investimento em tecnologia em Angola",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

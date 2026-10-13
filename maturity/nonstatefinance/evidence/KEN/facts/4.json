@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ifc-ken-001-ihs-kenya-tower-infrastructure-ifc-equity",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: International Finance Corporation (IFC) committed USD 11 million (Equity, Active) to IHS Kenya Ltd (IHS Towers subsidiary), starting 2024: IHS Kenya Tower Infrastructure — IFC Equity Investment.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IHS Kenya Tower Infrastructure — IFC Equity Investment",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

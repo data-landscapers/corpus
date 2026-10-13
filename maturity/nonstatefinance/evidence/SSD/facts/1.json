@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-19-south-sudan-eu-backed-green-telecom-expansion",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "Finnfund, the Finnish development finance institution, made a follow-on investment of USD 5 million in Communication & Renewable Energy Infrastructure (CREI), bringing its total in the company to USD 10 million, to finance solar-hybrid power for over 500 MTN South Sudan telecom sites; the document gives no signing date, so the date is its publication date (19 February 2026).",
+     "as_of": "2026-02-19", "date_precision": "day",
+     "system": "Finnfund follow-on investment in CREI, South Sudan solar-hybrid telecom sites", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

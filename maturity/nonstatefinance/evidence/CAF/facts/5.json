@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-18-greenline-socatel-privatisation-mou-greenline",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Greenline Technologies' own announcement of 2025-09-18 states that Greenline Technologies, a US company headquartered in Ohio, announces an initial investment of USD 150 million in the takeover and modernisation of the CAF state telecom operator SOCATEL, including a Tier 3 data centre, under a memorandum signed in September 2025.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Greenline Technologies - SOCATEL takeover",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOCATEL",
+   "country_label": "SOCATEL",
+   "class": "other",
+   "platform": "",
+   "owner": "State (national telecom operator, Greenline Technologies to take over)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-telecel-group-gha-2026-huawei-network-modernisation",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Telecel Group, operator of Telecel Ghana, signed a MoU with Huawei Ghana under which it commits US$200 million over three years to network expansion, broadband densification and digital infrastructure at Telecel Ghana; the document gives the year only, not the financier's origin.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Telecel Ghana US$200m network modernisation",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

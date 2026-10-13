@@ -1,0 +1,54 @@
+{
+ "slug": "2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The World Bank ICR says the private partners Portugal Telecom and CST (Companhia Sao Tomense de Telecomunicacoes) were to finance US$11.9 million of the ACE submarine cable participation through the STP-Cabo SARL special purpose vehicle, beside the US$13.1 million IDA grant; the ACE consortium is Orange-led and Portugal Telecom is Portuguese.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "STP-Cabo SARL (ACE cable participation)",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "The ICR describes the ACE cable participation as a public-private partnership structured through the STP-Cabo SPV, in which the private partners Portugal Telecom and CST put in US$11.9 million alongside the government's IDA-financed share, with the grant effective in July 2011.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "STP-Cabo SARL (ACE cable participation)",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "The ICR says CST, the Sao Tomean telecoms operator, secured about US$5 million of its share of the US$18.75 million STP-Cabo funding from debt and its own funds or cash flow; the document does not name the lender.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "STP-Cabo SARL (ACE cable participation)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STP-Cabo SARL (ACE cable participation)",
+   "country_label": "STP-Cabo",
+   "class": "private",
+   "platform": "",
+   "owner": "Government of STP, CST and Portugal Telecom shareholders; UNITEL from 2013",
+   "tiers": ""
+  },
+  {
+   "system": "UNITEL purchase of the state's 24.5% STP-Cabo stake and second licence",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "UNITEL International Holdings",
+   "tiers": ""
+  }
+ ],
+ "note": "UNITEL's 2013 US$8 million (US$6.36 million for shares, US$1.62 million licence) went to the government, so it is class other; Baharicom's US$5 million philanthropic offer was withdrawn."
+}

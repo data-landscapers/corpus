@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-miga-gnb-orange-bissau-2025-orange-bissau-sa-telecoms-operator-guarantee",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: MIGA committed USD 25 million (Guarantee, Active) to Orange Bissau S.A., starting 2025: Orange Bissau S.A. – Telecoms Operator Guarantee (Sonatel equity).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Orange Bissau S.A. – Telecoms Operator Guarantee (Sonatel equity)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

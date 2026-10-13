@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-07-south-africa-moment-fintech-22m-series-a",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "South African fintech Moment raised US$22 million in a Series A led by AlphaCode Venture Partners, with General Catalyst, MultiChoice and Canal+ also investing; the document does not say where the financiers are from.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Moment Series A",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moment",
+   "country_label": "Moment",
+   "class": "private",
+   "platform": "payment collection platform",
+   "owner": "Moment",
+   "tiers": ""
+  }
+ ],
+ "note": "Deal dated by document publication (2026-08-07) as no signing date is given."
+}

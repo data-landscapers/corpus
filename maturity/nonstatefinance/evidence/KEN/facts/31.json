@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-09-cloud9-chpter-acquisition-related-party-transaction",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "TechCabal reports that Kenyan conversational-commerce startup Chpter raised a USD 1.2 million pre-seed round in 2024 from investors including Ventures Platform, Future Africa, Launch Africa and Techstars; the investors' home countries are not stated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Chpter pre-seed round",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "The Cloud9 all-stock acquisition of Chpter has no amount, so it is no fact."
+}

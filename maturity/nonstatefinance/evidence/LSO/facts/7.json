@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Convalt Energy, a US company, signed a binding Memorandum of Agreement with Lesotho's Ministry of Energy on 4 June 2026 for Project Kobong, a hydropower and AI data centre project valued at about US$6.2 billion (98 billion maloti), expected to be the largest foreign direct investment in Lesotho's history.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "Project Kobong",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project Kobong",
+   "country_label": "Project Kobong",
+   "class": "private",
+   "platform": "",
+   "owner": "Convalt Energy (US)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

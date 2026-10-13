@@ -1,0 +1,67 @@
+{
+ "slug": "2025-12-19-egypt-startup-ecosystem-2025-charter-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Proptech platform Nawy secured $75 million in total financing in May 2025: a $52 million Series A equity round led by Partech and Shorooq, described as international VC firms (TechCabal).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nawy $75m financing",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Nawy received a $24 million debt facility from the National Bank of Egypt and Banque Misr, part of its May 2025 $75 million financing, per TechCabal.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nawy $24m debt facility",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Egyptian banks, the National Bank of Egypt and Banque Misr, provided Nawy a $24 million debt facility in May 2025 to finance its mortgage offering, per TechCabal.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nawy $24m debt facility",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Wealthtech platform Thndr raised $15.7 million in May 2025 in a round led by Prosus Ventures (TechCabal).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Thndr $15.7m round",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "MoneyFellows, a digital rotating-savings platform, closed a $13 million pre-Series C round in May 2025 (TechCabal; investors not named).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "MoneyFellows $13m pre-Series C",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Automotive technology company Sylndr secured a $15.7 million Series A equity round in May 2025 (TechCabal; investors not named).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Sylndr $15.7m Series A",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Egypt Startup Charter and its EGP 50bn fund are government pledges (other); Rology undisclosed amount; InfiniLink is an acquisition exit with no named investment amount."
+}

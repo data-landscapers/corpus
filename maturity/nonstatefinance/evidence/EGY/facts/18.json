@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-egy-menastartupdigest-yomo-digital-bank-300m",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Commercial International Bank Egypt (CIB), a private Egyptian bank, says it plans to invest up to US$300m in its Yomo digital bank's platform, technology and operations in Egypt, per Yomo's CEO, after preliminary central bank approval; the report is dated 2026-09-14 and gives no start date.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Yomo digital bank",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Yomo",
+   "country_label": "Yomo digital bank",
+   "class": "other",
+   "platform": "",
+   "owner": "Commercial International Bank Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

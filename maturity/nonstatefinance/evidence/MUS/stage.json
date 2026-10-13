@@ -1,0 +1,17 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "private",
+   "stage": "unplaced",
+   "money": "",
+   "home": "",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No source dated from 2024 names an amount of private money put into a digital business in the country.",
+   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
+  }
+ ]
+}

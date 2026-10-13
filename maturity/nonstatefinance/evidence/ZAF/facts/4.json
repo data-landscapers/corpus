@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-alphacode-venture-partners-moment-2026-moment-series-a",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "AlphaCode Venture Partners led a US$22 million Series A round in the payments firm Moment, with General Catalyst, MultiChoice and Canal+ also investing; the round total is given, not each investor's share, the document describes Moment as pan-African and its record places the deal in South Africa, and financier origins are not stated.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Moment Series A (AlphaCode Venture Partners)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moment Series A (AlphaCode Venture Partners)",
+   "country_label": "South Africa",
+   "class": "private",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No home fact: no amount from a South African investor is separated out."
+}

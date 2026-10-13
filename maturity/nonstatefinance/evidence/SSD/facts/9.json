@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-finnfund-ssd-crei-2024-crei-south-sudan-telecom-energy-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Finnfund committed USD 5 million (Mezzanine, Active) to Communication and Renewable Energy Infrastructure (CREI), starting 2024: CREI South Sudan Telecom Energy Infrastructure.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CREI South Sudan Telecom Energy Infrastructure",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

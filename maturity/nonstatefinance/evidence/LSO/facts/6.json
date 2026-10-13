@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-14-lesotho-tribune-m98bn-kobong-hydropower-ai-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Convalt Energy, a US company, signed a binding agreement with Lesotho's Ministry of Energy on 4 June 2026 for Project Kobong, a hydropower and AI data centre development valued at M98 billion (about US$6.2 billion) and called the largest foreign investment commitment in Lesotho's history; construction is targeted for 2029 subject to feasibility.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "Project Kobong",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project Kobong",
+   "country_label": "Project Kobong",
+   "class": "private",
+   "platform": "",
+   "owner": "Convalt Energy (US)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

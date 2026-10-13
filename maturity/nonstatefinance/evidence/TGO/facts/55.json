@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-bgk-tgo-2026-cyber-defense-africa-financing",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: BGK committed USD 28 million (Commercial Loan, Approved) to Cyber Defense Africa, starting 2026: BGK — Cyber Defense Africa, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "BGK — Cyber Defense Africa, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

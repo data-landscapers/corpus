@@ -1,0 +1,10 @@
+{
+  "slug": "2023-01-01-bii-nga-005-cre-venture-capital-fund-iii-lp",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "British International Investment (UK development finance institution) committed USD 8 million in equity as a limited partner to CRE Venture Capital Fund III A LP, an early-stage fund investing in Nigerian fintech, digital health and logistics tech businesses, in August 2023, alongside IFC and FMO.",
+     "as_of": "2023-08", "date_precision": "month", "system": "CRE Venture Capital Fund III A LP", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

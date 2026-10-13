@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-ghana-seevcash-visa-card",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The Stellar Community Fund (Stellar Development Foundation, United States) gave USD 333,000 in funding to Ghanaian remittance fintech Seevcash; the source dates only its own publication, 2026-09-07, not the award.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Seevcash funding from Stellar Community Fund",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seevcash",
+   "country_label": "Seevcash",
+   "class": "private",
+   "platform": "",
+   "owner": "Seevcash",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

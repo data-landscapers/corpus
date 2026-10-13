@@ -1,0 +1,37 @@
+{
+ "slug": "2026-03-30-bfa-asset-management-kimbo-fund-angola-startups",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "BFA Asset Management, the Luanda-based asset-management spin-off of Banco de Fomento Angola, invested $1.2 million from its Kimbo Fund in Anda, an Angolan motorcycle-taxi mobility start-up, announced in March 2026 (TechCabal interview).",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Kimbo Fund investment in Anda",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "The $1.2 million put into Anda came from BFA Asset Management of Luanda, an Angolan firm spun off from Banco de Fomento Angola, so the financier is from Angola itself; announced March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Kimbo Fund investment in Anda",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Anda has raised $3.4 million in total from Breega, Speedinvest and 4DX Ventures, venture investors from outside Angola by their names; the article gives no date for the rounds, so its published date is used.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "Anda venture funding",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "FSDEA's $5 million to the Kimbo Fund (2024) is a sovereign wealth fund's money and FoodCare is not a digital business, so neither is a fact."
+}

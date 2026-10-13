@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-sida-17618-zamstats-isk-review",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Sida committed USD 0.0109 million (Grant, Completed) to PricewaterhouseCoopers Zambia, starting 2025: Zamstats Internal Control Review.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Zamstats Internal Control Review",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

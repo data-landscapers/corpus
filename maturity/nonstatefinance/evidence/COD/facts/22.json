@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-anapi-helios-towers-investissement-actualite",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Helios Towers DRC signed an investment agreement with the national investment promotion agency ANAPI on 31 March 2026 for more than USD 100 million in shared telecom towers, which the company itself says it is investing; the document does not say where the company is from.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Helios Towers DRC investment agreement",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Helios Towers DRC",
+   "country_label": "Helios Towers RDC",
+   "class": "private",
+   "platform": "",
+   "owner": "Helios Towers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

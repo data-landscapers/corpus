@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "IFC (World Bank Group, Washington-based) signed on 2025-12-10 a sustainability-linked loan of about $10.4 million equivalent in rand to OADC PropCo South Africa, WIOCC's data-centre property subsidiary, part of a wider $70 million IFC package (the $50 million equity and the $10 million tranche are not tied to ZAF).",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "IFC WIOCC VI Debt (project 51154), South Africa tranche",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Only the rand tranche to OADC PropCo South Africa carries an ZAF-specific amount; the rest of the package and the $577 million plan are multi-country."
+}

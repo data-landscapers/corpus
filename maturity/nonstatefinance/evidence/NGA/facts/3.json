@@ -1,0 +1,34 @@
+{
+  "slug": "2026-10-11-world-bank-nga-2026-private-capital-mobilization-bridge",
+  "facts": [
+    {
+      "sub_indicator": "private",
+      "aspect": "money",
+      "value": "committed",
+      "fact": "The World Bank Group says IFC was anchor investor in a $1.2 billion bond issued by IHS Towers, a Nigerian tower company, mobilising more than $1.1 billion from private investors; the document gives no date for the issue, so as_of is its publication date, 2026-10-11, and the deal's own year is not stated.",
+      "as_of": "2026-10-11",
+      "date_precision": "day",
+      "system": "IHS Towers $1.2 billion bond",
+      "class": "private"
+    }
+  ],
+  "systems": [
+    {
+      "system": "IHS Towers $1.2 billion bond",
+      "country_label": "IHS Towers bond",
+      "class": "private",
+      "platform": "",
+      "owner": "IHS Towers",
+      "tiers": ""
+    },
+    {
+      "system": "BRIDGE",
+      "country_label": "Building Resilient Digital Infrastructure for Growth (BRIDGE) Project",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Nigeria with World Bank",
+      "tiers": ""
+    }
+  ],
+  "note": "BRIDGE ($156m to $1.1bn) and FINCLUDE ($1.89bn) are mobilisation targets, not signed deals; AGROW, Dangote and Indorama are not digital businesses."
+}

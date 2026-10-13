@@ -1,0 +1,120 @@
+{
+ "slug": "2026-05-27-cdc-ci-capital-1-2m-ivorian-ventures",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "CDC-CI Capital, the investment arm of Cote d'Ivoire's public deposit and consignment fund, put CFA720 million (USD 1.2 million) in seed grants into eight local start-ups, announced 2026-05-27 (Launch Base Africa); named tech recipients are Ecole Pay and ADES (CFA100 million each) and Flot (CFA65 million), and the fund is largely financed by the World Bank.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CDC-CI Capital seed programme 2026",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "CDC-CI Capital, the investment arm of Cote d'Ivoire's public deposit and consignment fund, put CFA720 million (USD 1.2 million) in seed grants into eight local start-ups, announced 2026-05-27 (Launch Base Africa); named tech recipients are Ecole Pay and ADES (CFA100 million each) and Flot (CFA65 million), and the fund is largely financed by the World Bank. The financier is Ivorian.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CDC-CI Capital seed programme 2026",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, committed CFA800 million to the fintech Djamo in July 2025, per Launch Base Africa.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - Djamo investment 2025",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, committed CFA800 million to the fintech Djamo in July 2025, per Launch Base Africa. The financier is Ivorian.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - Djamo investment 2025",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, put CFA800 million in convertible bonds into the payments platform Julaya in October 2025, per Launch Base Africa.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - Julaya convertible bonds 2025",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, put CFA800 million in convertible bonds into the payments platform Julaya in October 2025, per Launch Base Africa. The financier is Ivorian.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - Julaya convertible bonds 2025",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, closed a CFA350 million equity investment in the e-health company ADES in October 2025, per Launch Base Africa.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - ADES equity 2025",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "CDC-CI Capital, an Ivorian public-fund investment arm, closed a CFA350 million equity investment in the e-health company ADES in October 2025, per Launch Base Africa. The financier is Ivorian.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "CDC-CI Capital - ADES equity 2025",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CDC-CI Capital seed programme 2026",
+   "country_label": "CDC-CI Capital seed programme 2026",
+   "class": "private",
+   "platform": "",
+   "owner": "CDC-CI Capital",
+   "tiers": ""
+  },
+  {
+   "system": "CDC-CI Capital - Djamo investment 2025",
+   "country_label": "CDC-CI Capital - Djamo investment 2025",
+   "class": "private",
+   "platform": "",
+   "owner": "CDC-CI Capital",
+   "tiers": ""
+  },
+  {
+   "system": "CDC-CI Capital - Julaya convertible bonds 2025",
+   "country_label": "CDC-CI Capital - Julaya convertible bonds 2025",
+   "class": "private",
+   "platform": "",
+   "owner": "CDC-CI Capital",
+   "tiers": ""
+  },
+  {
+   "system": "CDC-CI Capital - ADES equity 2025",
+   "country_label": "CDC-CI Capital - ADES equity 2025",
+   "class": "private",
+   "platform": "",
+   "owner": "CDC-CI Capital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

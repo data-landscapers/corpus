@@ -1,0 +1,17 @@
+{
+ "slug": "2023-01-01-ifc-eth-001-safaricom-ethiopia-ifc-equity-investment-global",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The International Finance Corporation (IFC, Washington-based development finance institution) committed USD 157.4 million in equity to Global Partnership for Ethiopia B.V., the holding entity of Safaricom Ethiopia, in 2023, a 7.25% stake (IFC press release; start 2023-08).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "IFC equity investment in Global Partnership for Ethiopia",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

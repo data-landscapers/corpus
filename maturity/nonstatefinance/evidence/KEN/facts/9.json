@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-01-partech-ken-kyosk-2022-partech-africa-series-a-equity-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Partech Africa led a USD 23 million Series A round in Kyosk, a Kenya-based B2B e-commerce platform serving small retailers, with Quona Capital also investing; the document gives June 2022 for the round.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "Kyosk Series A",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

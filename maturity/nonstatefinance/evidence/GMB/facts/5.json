@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-05-gamtel-sysroad-50m-ppp-broadband-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "GAMTEL entered a US$50 million public-private partnership with SYSROAD SA HOLDING to upgrade the national broadband backbone from 40Gbps to 800Gbps; the document gives no signing date, so its published date of 2026-01-05 is used, and it calls the deal a model of African collaboration without naming SYSROAD's home country.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "A signed US$50 million public-private partnership between state operator GAMTEL and SYSROAD SA HOLDING for the national broadband network, with the private partner financing the upgrade; no signing date is given, so the published date of 2026-01-05 is used.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAMTEL-SYSROAD broadband PPP",
+   "country_label": "GAMTEL-SYSROAD broadband PPP",
+   "class": "private",
+   "platform": "",
+   "owner": "GAMTEL and SYSROAD SA HOLDING",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-google-zaf-2025-google-cloud-region-johannesburg-bw03",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Google (Alphabet) committed USD 140 million (Self Funded, Active) to Google South Africa, starting 2025: Google — South Africa cloud region (Johannesburg), 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Google — South Africa cloud region (Johannesburg), 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-nonstatefinance.md — the thirty-seventh maturity study: private money for digital businesses, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill's word on the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: nonstatefinance
@@ -75,10 +75,19 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Carry and read**: the finance tables, then the drafters in one fan-out.
-- [ ] **D3. Stage** as at 2026-09-30; the parent reads every fact that sets stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Carried and read**: 85 facts from the finance tables in 24 countries; 174 drafters in one fan-out over 648 listings. 260 facts in 39 countries after the parent's reading.
+- [x] **D3. Staged** as at 2026-09-30: 4: 4, 3: 11, 2: 20, none at 1 or 5, 4 unplaced, 15 without evidence; agreement 18 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 4**: Egypt, Namibia, Nigeria and South Africa. **No country reaches stage 5**: the four with a signed partnership, Burundi, The Gambia, Liberia and Niger, have nothing raised at home.
+- **Namibia's stage 4 rests on a fact the parent added**: RMB Namibia's N$405 million loan to Telecom Namibia, March 2026, which a drafter had filed as money to the state. §3 counts a private lender's money into a state-owned operator. The second stager, reading before it was added, had stage 2.
+- **Côte d'Ivoire is stage 2**: every 2025 and 2026 amount held is from CDC-CI Capital, a public fund's investment arm, which is the state's money.
+- **Removed by the parent, 15 rows over ten facts** (`corrections.csv`): a memorandum in the Central African Republic, which leaves it without evidence; partnerships approved and not signed in Kenya, and signed with no private amount in DR Congo; a World Bank expectation in Côte d'Ivoire; two grants in the tables that went to a state body and an audit firm.
+- **A merge after a removal files the removed row again under a new number.** Five were removed twice; `corrections.csv` says which.
+- **Tokens: 89.0 million at the map**, ceiling 90 million, step 1 included.
 
 ## Boundary
 

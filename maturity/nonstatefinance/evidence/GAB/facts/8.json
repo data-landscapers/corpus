@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-miga-gab-airtel-mobile-money-2022-airtel-mobile-money-gabon-digital-financial",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "MIGA, the World Bank Group's multilateral guarantee agency, committed a US$27.63 million political risk guarantee in 2022 (approved December 2021) covering The Rise Fund II Aurora (TPG private equity fund) equity investment in the Airtel Money mobile money business in Gabon.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Airtel Mobile Money Gabon – Digital Financial Services Guarantee",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Airtel Money",
+   "class": "private",
+   "platform": "",
+   "owner": "Airtel Mobile Commerce B.V. subsidiary",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

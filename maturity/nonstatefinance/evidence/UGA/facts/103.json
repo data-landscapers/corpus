@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-bio-uga-towerco-2024-towerco-of-africa-uganda-rural-telecom",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Belgian Investment Company for Developing Countries committed USD 12 million (Commercial Loan, Active) to a private digital beneficiary, starting 2024: TowerCo Of Africa Uganda — Rural Telecom Tower Expansion Loan.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "TowerCo Of Africa Uganda — Rural Telecom Tower Expansion Loan",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

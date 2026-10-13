@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-14-dni-r2-1bn-digital-economy-investment-itweb",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "DNI, a privately owned South African investment company, announced investments exceeding R2.1 billion in Frogfoot, Vox and Hypa, Mission Mobile and KnowRoaming; the commitment date is not stated, so the published date 2026-09-14 is used.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "DNI digital economy investments (Frogfoot, Vox/Hypa, Mission Mobile, KnowRoaming)",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "The DNI Consortium (DNI, Sabvest Capital, Masimong Group Holdings and Draper Gain International), South African investors, jointly hold 34.8% of Frogfoot and Vox after a capital raise valuing them at R14.4 billion; the date is not stated, so the published date 2026-09-14 is used.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Frogfoot and Vox capital raise",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Frogfoot",
+   "country_label": "Frogfoot",
+   "class": "private",
+   "platform": "",
+   "owner": "Vivica Group",
+   "tiers": ""
+  },
+  {
+   "system": "Vox",
+   "country_label": "Vox",
+   "class": "private",
+   "platform": "",
+   "owner": "Vivica Group",
+   "tiers": ""
+  },
+  {
+   "system": "Mission Mobile",
+   "country_label": "Mission Mobile",
+   "class": "private",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

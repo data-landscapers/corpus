@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-24-mwi-digmap-internet-connectivity-to-over-500-mdas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PPP Connectivity initiative (GWAN)",
+   "country_label": "Government Wide Area Network",
+   "class": "other",
+   "platform": "",
+   "owner": "PPPC; Ministry of Information and Digitalization; contractors Bengol.Net, DataCom/Luna Technologies JV, Inq. Digital",
+   "tiers": "central government, hospitals, schools"
+  }
+ ],
+ "note": "No fact: three firms contracted under a 5-lot, 10-year PPP, but no amount stated and the funding named is the World Bank's."
+}

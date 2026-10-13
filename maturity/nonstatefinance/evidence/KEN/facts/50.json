@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-white-case-advises-ebrd-on-eur270-million-axian-telecom-senior-loan-financing",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "EBRD (a multilateral development bank) signed a senior loan to Axian Telecom group that includes a local-currency facility of up to EUR 20 million equivalent in Kenyan shillings, the only amount the document names for Kenya, to support fibre modernisation there, per White & Case.", "as_of": "2026-07-09", "date_precision": "day", "system": "EBRD Axian Telecom senior loan", "class": "private"}
+  ],
+  "systems": [
+    {"system": "Axian Telecom", "country_label": "Axian Telecom", "class": "private", "platform": "", "owner": "Axian Telecom group", "tiers": ""}
+  ],
+  "note": ""
+}

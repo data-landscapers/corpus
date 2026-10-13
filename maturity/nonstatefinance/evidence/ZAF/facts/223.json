@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-06-microsoft-zaf-azure-expansion-2025-microsoft-azure-south-africa-zar-54b",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Microsoft committed USD 295 million (Self Funded, Approved) to Microsoft Azure South Africa, starting 2025: Microsoft Azure South Africa — ZAR 5.4B AI and Cloud Expansion 2025-2027.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Microsoft Azure South Africa — ZAR 5.4B AI and Cloud Expansion 2025-2027",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

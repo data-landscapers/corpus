@@ -1,0 +1,37 @@
+{
+ "slug": "2021-12-01-worldbank-botswana-early-stage-finance-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Ponatshego, an online marketplace incubated by Tsoga Africa, secured P250,000 (USD 22,000) from members of Angel Network Botswana in May 2021, per the World Bank.",
+   "as_of": "2021-05",
+   "date_precision": "month",
+   "system": "Ponatshego angel investment",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Ponatshego's P250,000 (USD 22,000) investment in May 2021 came from members of Angel Network Botswana, a Botswana investor network, per the World Bank.",
+   "as_of": "2021-05",
+   "date_precision": "month",
+   "system": "Ponatshego angel investment",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Insurtech Alpha Direct, based in Gaborone, has raised USD 3.2 million in total, starting with seed capital from an American investor and followed by further capital, per the World Bank; no date is given, so the report's December 2021 publication date is used.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "Alpha Direct funding",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

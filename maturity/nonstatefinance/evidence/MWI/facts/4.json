@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-28-mwi-pppc-e-govt-sensitize-mwanza-mdas-on-ppp-connectivity-initiative",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PPP Connectivity initiative (GWAN)",
+   "country_label": "Government Wide Area Network",
+   "class": "other",
+   "platform": "",
+   "owner": "PPPC; Department of E-Government",
+   "tiers": "central government, district councils"
+  }
+ ],
+ "note": "No fact: a 10-year PPP connectivity arrangement is described with World Bank funding and no private amount."
+}

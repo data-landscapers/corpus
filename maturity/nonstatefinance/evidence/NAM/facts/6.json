@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-04-paratus-launches-namibia-first-private-mobile-network-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Paratus Group says it invested a further N$600 million (US$33.7 million) in the last year in its new private mobile network in Namibia, one-third of it for a digital technology stack, on top of N$1.42 billion (US$79.8 million) invested in network infrastructure since 2018; the year is taken from the 2025-09-04 publication date.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Paratus Namibia private mobile network",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Namibia private mobile network",
+   "country_label": "Paratus private mobile network",
+   "class": "private",
+   "platform": "LTE and 5G; Cerillion digital stack, Nokia mobile network",
+   "owner": "Paratus Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

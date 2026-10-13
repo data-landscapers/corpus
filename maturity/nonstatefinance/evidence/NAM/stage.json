@@ -1,0 +1,17 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "private",
+   "stage": "4",
+   "money": "committed",
+   "home": "raised",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-004;NAM-003;NAM-001",
+   "gaps": "No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.",
+   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
+  }
+ ]
+}

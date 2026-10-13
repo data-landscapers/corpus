@@ -1,0 +1,47 @@
+{
+ "slug": "2026-08-25-thriveagric-commercial-paper-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "ThriveAgric, a Y Combinator-backed Nigerian agritech start-up, raised N5.3 billion (US$3.93 million) from unnamed institutional investors in Series 1 of a commercial paper programme of up to N50 billion, announced 25 August 2026 with Anchoria Advisory Services as lead issuing house.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "ThriveAgric commercial paper Series 1",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "ThriveAgric raised N5.3 billion in Series 1 of a commercial paper programme approved by Nigeria's SEC, its first use of Nigeria's debt capital market, from institutional investors the document does not name.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "ThriveAgric commercial paper Series 1",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "ThriveAgric received US$56.4 million in debt funding in 2022 from local commercial banks and institutional investors, including a US$1.75 million co-investment grant from the USAID-funded West Africa Trade & Investment Hub (US), per this document.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ThriveAgric 2022 debt funding",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "ThriveAgric's US$56.4 million debt funding in 2022 came in part from local commercial banks, per this document.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ThriveAgric 2022 debt funding",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "No digital-system entries; ThriveAgric is the recipient."
+}

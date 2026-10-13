@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-fourdx-civ-cinetpay-2021-4dx-ventures-seed-equity-investment-in",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "4DX Ventures (pan-African venture fund) and Flutterwave invested a USD 2.4 million seed round in CinetPay, an Ivorian-based payments platform active in nine markets; the per-investor split is not given and the document gives the date as 2021 only.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "CinetPay seed round 2021",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CinetPay seed round 2021",
+   "country_label": "CinetPay",
+   "class": "private",
+   "platform": "",
+   "owner": "CinetPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

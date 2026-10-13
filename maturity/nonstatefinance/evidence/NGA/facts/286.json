@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-15-eaif-wiocc-group-2025-senior-loan-nigeria-ftth",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Emerging Africa Infrastructure Fund (EAIF) committed USD 15 million (Commercial Loan, Approved) to West Indian Ocean Cable Company (WIOCC), starting 2025: EAIF — WIOCC senior secured loan for Nigerian fibre-to-the-home, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "EAIF — WIOCC senior secured loan for Nigerian fibre-to-the-home, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

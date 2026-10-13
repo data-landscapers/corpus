@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-norleo-space-investments-terra-industries-2026-seed-round",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Norleo Space Investments committed USD 52 million (Equity, Completed) to Terra Industries, starting 2026: Terra Industries — Seed Round Close, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Terra Industries — Seed Round Close, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

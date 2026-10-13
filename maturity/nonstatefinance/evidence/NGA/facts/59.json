@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-moneycentral-nsia-kasi-cloud-metrowaves-delays",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Kasi Cloud, a Nigerian company, is stated by MoneyCentral citing various sources to have planned a US$250 million investment in its first Lekki, Lagos data centre campus (LOS1), which broke ground on 19 April 2022; the document says LOS1 was not operational by mid-2025.",
+   "as_of": "2022-04-19",
+   "date_precision": "day",
+   "system": "Kasi Cloud LOS1 data centre campus",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kasi Cloud LOS1 data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Kasi Cloud Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "NSIA equity (US$6m in 2024) and loans to Kasi Cloud come from a state sovereign fund, so state money and class other, not facts."
+}

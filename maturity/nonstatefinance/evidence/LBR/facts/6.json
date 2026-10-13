@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-lbr-nir-oesd-digital-id-concession",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Austria-based OeSD International GmbH is to finance about US$54.7 million of nationwide ID enrolment and infrastructure in Liberia under a Build, Operate and Transfer concession with the Government that NIR says is signed but awaits legislative ratification; as_of is the 2026-09-08 publication date, as no signing date is given.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "OeSD International national ID concession",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "Austria-based OeSD International GmbH is to finance about US$54.7 million of nationwide ID enrolment and infrastructure in Liberia under a Build, Operate and Transfer concession with the Government that NIR says is signed but awaits legislative ratification; as_of is the 2026-09-08 publication date, as no signing date is given.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "OeSD International national ID concession",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID and civil registration system (OeSD concession)",
+   "country_label": "National Identification Registry system",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

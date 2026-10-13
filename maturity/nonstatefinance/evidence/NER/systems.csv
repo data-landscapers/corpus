@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,"ETC Services Centres (community connectivity, SD-WAN, Wi-Fi hotspots)",ETC Services Centres,other,SD-WAN and Wi-Fi access points,Emergency Telecommunications Cluster,,2026-06-15-ericsson-luxembourg-sweden-sahel-digital-connectivity
+NER,iPayMoney,iPayMoney,other,digital payment aggregation platform,i-Futur (Niger fintech),"public universities (Maradi, Agadez, Niamey)",2025-10-12-niger-uncdf-ipaymoney-universites

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-08-worldbank-padhi01184-digital-eswatini-project",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Eswatini Project (P508948)", "country_label": "Digital Eswatini Project", "class": "other", "platform": "", "owner": "World Bank lending to the Kingdom of Eswatini and EPTC (US$65m)", "tiers": "national"},
+    {"system": "EPTC loan (sub-component 1.1)", "country_label": "EPTC Stabilization and reform", "class": "other", "platform": "", "owner": "Eswatini Post and Telecommunications Corporation (state-owned)", "tiers": "national"},
+    {"system": "online.gov.sz e-gov portal", "country_label": "e-service portal", "class": "other", "platform": "", "owner": "Ministry of ICT", "tiers": "national"}
+  ],
+  "note": "Only public money: World Bank loans to the government and to state-owned EPTC; private capital is an expected spillover with no amount, so no counted deal."
+}

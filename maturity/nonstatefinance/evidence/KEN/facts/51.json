@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-iati-xm-dac-903-sii-52548-atlas-tower-kenya-debt",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "IFC (a development finance institution) committed US$25 million of a US$30 million multi-currency debt package to Atlas Tower Kenya Limited, a private mobile tower company, to build new towers and green power; the commitment is dated 2026-06-18 in the IATI record.", "as_of": "2026-06-18", "date_precision": "day", "system": "ATK Debt II", "class": "private"}
+  ],
+  "systems": [
+    {"system": "Atlas Tower Kenya", "country_label": "Atlas Tower Kenya", "class": "private", "platform": "", "owner": "Atlas Tower Kenya Limited", "tiers": ""}
+  ],
+  "note": ""
+}

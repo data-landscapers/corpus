@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-17-telecoms-fdi-highest-since-2019",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "MTN Nigeria, the listed operator (a subsidiary of the South African MTN Group), more than tripled its capital expenditure to N757.4 billion ($527.08 million) in the first nine months of 2025, as the article reports; no financier other than the company itself is named.", "as_of": "2025", "date_precision": "year", "system": "MTN Nigeria network capex 2025", "class": "private"},
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Airtel Nigeria, part of the Indian-headquartered Airtel Africa group, invested $166 million between Q2 and Q4 2025, as the article reports.", "as_of": "2025", "date_precision": "year", "system": "Airtel Nigeria investment Q2-Q4 2025", "class": "private"},
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Airtel Nigeria announced a further $120 million investment in a 38-megawatt hyperscale data centre at Eko Atlantic, Lagos, scheduled to open in 2026; the year of the announcement is not given, so the 2026-02-17 publication year is used.", "as_of": "2026", "date_precision": "year", "system": "Airtel Eko Atlantic data centre", "class": "private"}
+  ],
+  "systems": [],
+  "note": "The $392.91 million nine-month 2025 telecoms FDI total (NBS capital importation) is an aggregate, not a named deal, so no fact."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-03-setic-pafen-lumitel-connectivite-4g-milieu-rural",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "SETIC says Viettel Burundi (Lumitel, a subsidiary of Vietnam's Viettel group) signed a USD 10 million contract with the PAFEN project to extend rural 4G, 56 per cent (about USD 5.6 million) financed by Lumitel itself; the page has no date, so its published date (proxy) is used.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "PAFEN-Lumitel rural 4G contract",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "The government of Burundi through PAFEN co-finances 44 per cent of the USD 10 million rural 4G contract with Lumitel, which puts in 56 per cent (about USD 5.6 million); the page has no date, so its published date (proxy) is used.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "PAFEN-Lumitel rural 4G contract",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAFEN-Lumitel rural 4G contract",
+   "country_label": "Lumitel / PAFEN 4G rural",
+   "class": "private",
+   "platform": "",
+   "owner": "Viettel Burundi (Lumitel); PAFEN/SETIC",
+   "tiers": "rural"
+  }
+ ],
+ "note": ""
+}

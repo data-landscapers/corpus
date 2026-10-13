@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-helios-towers-150-million-senegal-digital-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Helios Towers (tower operator) announced a plan to invest $150 million of its own money in Senegal to expand telecoms infrastructure and network coverage, outlined to President Faye; the document gives the month through its publication date, July 2026, and does not give the company's home country.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Helios Towers Senegal $150m expansion",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Helios Towers Senegal $150m expansion",
+   "country_label": "Helios Towers expansion",
+   "class": "private",
+   "platform": "",
+   "owner": "Helios Towers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

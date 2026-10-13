@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WIOCC Open Access Data Centres",
+   "country_label": "WIOCC / OADC",
+   "class": "private",
+   "platform": "data centres and fibre",
+   "owner": "WIOCC Holding Company Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "IFC USD 30m equity (2022) covers DRC, Nigeria and South Africa together; no amount named for COD, and it predates 2024, so no fact."
+}

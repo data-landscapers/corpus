@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-paratus-nam-2025-namibia-private-mobile-network-bw05",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Paratus Group committed USD 34 million (Self Funded, Active) to Paratus Namibia, starting 2025: Paratus — Namibia private mobile network, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Paratus — Namibia private mobile network, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-30-safaricom-ethiopia-funding-ifc-standard-bank",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Safaricom (Kenya) raised its funding contribution to its Ethiopian unit, Safaricom Telecommunications Ethiopia, by Sh1.4 billion in the quarter to June 2026, taking its total to Sh159.6 billion (USD 1.234 billion); the type of funding is not broken down (Business Daily, 2026-07-30).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Safaricom Ethiopia funding contribution 2026",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "No fact for the Standard Bank and IFC foreign-currency debt (USD 246 million): no signing year stated."
+}

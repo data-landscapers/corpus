@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-vodacom-tza-mpesa-upgrade-2026-vodacom-tanzania-m-pesa-platform-modernisation-fintech",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Vodacom Group committed USD 28 million (Self Funded, Completed) to Vodacom Tanzania PLC, starting 2026: Vodacom Tanzania M-Pesa Platform Modernisation — Fintech 2.0.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Vodacom Tanzania M-Pesa Platform Modernisation — Fintech 2.0",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

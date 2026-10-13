@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ifc-zaf-003-liquid-intelligent-technologies-term-loan-2",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: International Finance Corporation (IFC) committed USD 58 million (Commercial Loan, Active) to Liquid Intelligent Technologies South Africa (Pty) Ltd, starting 2024: Liquid Intelligent Technologies Term Loan 2 — South Africa (ZAR).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Liquid Intelligent Technologies Term Loan 2 — South Africa (ZAR)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

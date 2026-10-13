@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-12-south-africa-equinix-joburg-data-centre-expansion",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Equinix, a US-headquartered digital infrastructure company, entered South Africa in 2024 with a $160 million investment in its Johannesburg 1 data centre.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Equinix JN1 Johannesburg data centre",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Equinix has earmarked a R7.5 billion budget for expansion in South Africa, including land bought in Johannesburg and Cape Town, with no development yet underway on the new sites; the date is not stated, so the published date 2026-08-12 is used.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Equinix South Africa R7.5bn expansion budget",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Johannesburg 1 (JN1)",
+   "country_label": "JN1",
+   "class": "private",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

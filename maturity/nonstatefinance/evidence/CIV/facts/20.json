@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-exim-bank-usa-civ-2026-cybastion-sovereign-data-centre-bw15",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cybastion sovereign national data centre and government digitisation platform",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Cybastion (US) for the Government of Cote d'Ivoire",
+   "tiers": "national"
+  }
+ ],
+ "note": "USD 170m EXIM-financed project is for the Ivorian government: money to the state, not a private digital business."
+}

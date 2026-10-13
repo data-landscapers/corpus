@@ -1,0 +1,17 @@
+{
+ "slug": "2022-01-01-tdb-syc-cws-refinancing-2022-cable-wireless-seychelles-debt-refinancing-and",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Trade and Development Bank (TDB, a development bank) committed US$50 million in 2022 to Cable & Wireless Seychelles, a private telecom operator, to refinance debt (about US$48.1 million per its 2023 report) and fund digital transformation, including a US$5 million convertible note; the year is from the document's published date.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "CWS debt refinancing and digital transformation facility",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

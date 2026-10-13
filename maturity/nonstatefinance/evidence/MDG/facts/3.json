@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-04-ecofinagency-afdb-axian-women-digital-finance",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "The African Development Bank, a development finance institution, approved in January 2025 a $160 million senior corporate loan to AXIAN Telecom (Mauritius-headquartered) across nine countries, of which over $10 million is dedicated to 22,000 women entrepreneurs in Madagascar through the MVola platform; the article gives January 2025 as the approval date.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "AfDB senior corporate loan to AXIAN Telecom (MVola women entrepreneurs component)",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mixx and MVola mobile money platforms",
+   "country_label": "Mixx and MVola mobile money platforms",
+   "class": "other",
+   "platform": "",
+   "owner": "AXIAN",
+   "tiers": ""
+  },
+  {
+   "system": "AfDB/We-Fi digital finance programme for women-led businesses",
+   "country_label": "AfDB/We-Fi digital finance programme for women-led businesses",
+   "class": "other",
+   "platform": "",
+   "owner": "African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

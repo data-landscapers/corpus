@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-27-cdc-ci-civ-2026-startup-seed-programme",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Caisse des Dépôts et Consignations de Côte d'Ivoire (CDC-CI) committed USD 0.6 million (Grant, Active) to *unspecified*, starting 2026: CDC-CI Capital — Ivorian startup seed programme, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CDC-CI Capital — Ivorian startup seed programme, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

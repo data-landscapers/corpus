@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-02-techcabal-sa-startup-funding-recovery",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Mamor Capital Ventures, a South African venture firm, reached a R300 million (US$18.8 million) first close for its first fund, with the Public Investment Corporation as anchor investor and commitments from the High Impact Seed Fund of Funds, the Technology Innovation Agency and the Small Enterprise Development and Finance Agency; the fund targets South African technology businesses (TechCabal, 2026-09-02).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Mamor Capital Ventures first fund",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "South African investors put the R300 million first close of Mamor Capital Ventures' fund together, led by the Public Investment Corporation, which the article calls South Africa's largest asset manager (TechCabal, 2026-09-02).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Mamor Capital Ventures first fund",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Zimi Charge (R50m, DBSA-led, 2026) and Keyo Ventures (R35m) are EV-charging and green-economy finance, not digital businesses, so no fact; Disrupt Africa totals are aggregates, not deals."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-mtn-gha-fibre-home-2026-record",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: MTN Group committed USD 1100 million (Self Funded, Approved) to MTN Ghana (Scancom PLC) / Ghana, starting 2026: MTN Ghana US$1.1 billion three-year Ghana capital-investment programme (2026–2028).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "MTN Ghana US$1.1 billion three-year Ghana capital-investment programme (2026–2028)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

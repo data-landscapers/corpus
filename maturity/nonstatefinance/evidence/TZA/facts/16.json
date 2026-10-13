@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-20-iati-gb-coh-03877777-f383601-01-hta-group-helios-towers-bond",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: British International Investment committed USD 20 million (Bond, Active) to HTA Group, Ltd (bond issuing entity for Helios Towers Plc), starting 2024: HTA Group, Ltd (Helios Towers bond) — BII US$20m bond ticket, 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "HTA Group, Ltd (Helios Towers bond) — BII US$20m bond ticket, 2024",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

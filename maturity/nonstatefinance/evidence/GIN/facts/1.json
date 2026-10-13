@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-miga-gin-orange-guinea-2024-orange-guinea-telecoms-operator-guarantee-sonatel",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: MIGA committed USD 373 million (Guarantee, Active) to Orange Guinee SA, starting 2024: Orange Guinea – Telecoms Operator Guarantee (Sonatel equity).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Guinea – Telecoms Operator Guarantee (Sonatel equity)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

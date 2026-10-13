@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-miga-gin-orange-finance-mobile-guinea-2024-orange-finances-mobiles-guinee-sa-mobile",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: MIGA committed USD 27 million (Guarantee, Active) to Orange Finances Mobiles Guinee SA, starting 2024: Orange Finances Mobiles Guinee SA – Mobile Money Guarantee (Sonatel equity).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Finances Mobiles Guinee SA – Mobile Money Guarantee (Sonatel equity)",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

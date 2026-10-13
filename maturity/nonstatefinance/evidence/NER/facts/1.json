@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-28-worldbank-niger-smart-villages-isr-private-investment",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "The World Bank's status report for the Smart Villages project (P167543) says operators awarded rural connectivity contracts had put in US$7,522,666 of private sector investment by 30 June 2024, against a closing target of US$25 million for December 2025; the financiers are unnamed telecom operators and the deal's signing year is not given, so the date is the measurement date.", "as_of": "2024-06-30", "date_precision": "day", "system": "Smart Villages for rural growth and digital inclusion (P167543)", "class": "private"},
+    {"sub_indicator": "private", "aspect": "state", "value": "brought", "fact": "The World Bank's status report says the Smart Villages project (P167543) raised US$7,522,666 of private sector investment from operators awarded rural connectivity contracts, as of 30 June 2024, against a US$25 million target.", "as_of": "2024-06-30", "date_precision": "day", "system": "Smart Villages for rural growth and digital inclusion (P167543)", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

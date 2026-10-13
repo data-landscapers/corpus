@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-hassan-allam-egy-2026-data-centre-license-bw13",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Hassan Allam committed USD 400 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Hassan Allam Digital Infrastructure — Egypt data-centre licence and investment, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Hassan Allam Digital Infrastructure — Egypt data-centre licence and investment, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  },
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Hassan Allam committed USD 400 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Hassan Allam Digital Infrastructure — Egypt data-centre licence and investment, 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Hassan Allam Digital Infrastructure — Egypt data-centre licence and investment, 2026",
+   "class": "private",
+   "aspect": "home",
+   "value": "raised"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

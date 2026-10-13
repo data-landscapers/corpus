@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-swedfund-nga-moniepoint-2025-moniepoint-digital-payments-equity-investment",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Swedfund committed USD 10 million (Equity, Active) to Moniepoint Inc., starting 2025: Moniepoint Digital Payments Equity Investment.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Moniepoint Digital Payments Equity Investment",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

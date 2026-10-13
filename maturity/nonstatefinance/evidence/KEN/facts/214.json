@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-dfc-ken-mkopa-2024-m-kopa-kenya-dfc-51m-digital-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: US International Development Finance Corporation (DFC) committed USD 25.5 million (Commercial Loan, Active) to M-KOPA Kenya Limited, starting 2024: M-KOPA Kenya — DFC $51M Digital Connectivity Loan.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "M-KOPA Kenya — DFC $51M Digital Connectivity Loan",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

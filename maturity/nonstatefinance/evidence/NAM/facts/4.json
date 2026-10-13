@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-25-namibia-rmb-telecom-405m-social-loan",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Telecom Namibia social loan, 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "RMB Namibia, a bank in Namibia, announced on 25 March 2026 a seven-year N$405 million social loan to Telecom Namibia, the state-owned operator, for network modernisation and broadband expansion (NAMPA). Added by the parent: a private lender's money into a state-owned operator counts."
+  },
+  {
+   "sub_indicator": "private",
+   "as_of": "2026-03-25",
+   "date_precision": "day",
+   "system": "Telecom Namibia social loan, 2026",
+   "class": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "RMB Namibia, a bank in Namibia, announced on 25 March 2026 a seven-year N$405 million social loan to Telecom Namibia, the state-owned operator, for network modernisation and broadband expansion (NAMPA). Added by the parent: a private lender's money into a state-owned operator counts."
+  }
+ ],
+ "systems": [],
+ "note": "facts added by the parent on reading the document; the drafter had filed the loan as other"
+}

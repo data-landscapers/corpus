@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-lesotho-approves-kobong-hydropower-ai-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Convalt Energy, a US company, whose CEO Hari Achuthan says the Kobong hydropower and AI data centre project involves about US$6.2 billion (M100 billion) of capital investment in Lesotho, launched on 31 July 2026 after a binding agreement signed 4 June 2026.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "Project Kobong",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project Kobong",
+   "country_label": "Project Kobong",
+   "class": "private",
+   "platform": "",
+   "owner": "Convalt Energy (US)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

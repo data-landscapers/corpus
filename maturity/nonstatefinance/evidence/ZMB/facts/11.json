@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01-ifc-zmb-001-ihs-zambia-ifc-loan-covid-relief",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "IFC (International Finance Corporation, a development finance institution) committed a US$75 million senior loan to IHS Zambia Ltd, the tower operator and IHS Towers subsidiary, under its Real Sector Emergency COVID Facility; the record dates the commitment and start to 2021 (actual start 2021-03-03).",
+     "as_of": "2021", "date_precision": "year", "system": "IFC IHS Zambia COVID loan (ifc-zmb-001)", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

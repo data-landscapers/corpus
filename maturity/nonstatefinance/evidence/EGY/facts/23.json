@@ -1,0 +1,13 @@
+{
+ "slug": "2026-04-20-fawry-1bn-fintech-profile-techcabal",
+ "facts": [
+  {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Fawry, an Egyptian listed private fintech, raised its stake in software provider Codezone to 51% for EGP 31.3 million (USD 603,270) in Q1 2025, per TechCabal; the financier is Egyptian.", "as_of": "2025", "date_precision": "year", "system": "Fawry - Codezone 51% stake, 2025", "class": "private"},
+  {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Fawry says it invested EGP 565.6 million (USD 10.9 million) in new PoS devices in 2025, its own spending in Egypt, per TechCabal.", "as_of": "2025", "date_precision": "year", "system": "Fawry - PoS device investment, 2025", "class": "private"},
+  {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "In May 2025 Fawry signed a securitisation transfer agreement with Egypt's Capital for Securitisation Company for a first issuance of its microloans valued at EGP 497.5 million (USD 9.6 million), sold to institutional investors, per TechCabal.", "as_of": "2025-05", "date_precision": "month", "system": "Fawry - Capital for Securitisation first issuance, 2025", "class": "private"},
+  {"sub_indicator": "private", "aspect": "home", "value": "raised", "fact": "Fawry raised EGP 497.5 million (USD 9.6 million) in Egypt in May 2025 by securitising microloans through Capital for Securitisation Company, the first part of a planned EGP 8 billion three-year programme, per TechCabal.", "as_of": "2025-05", "date_precision": "month", "system": "Fawry - Capital for Securitisation first issuance, 2025", "class": "private"}
+ ],
+ "systems": [
+  {"system": "Fawry", "country_label": "Fawry", "class": "private", "platform": "", "owner": "Fawry (listed on the Egyptian Exchange)", "tiers": ""}
+ ],
+ "note": ""
+}

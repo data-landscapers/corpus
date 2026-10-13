@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-24-noki-noki-seed-funding",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Uma Ventures, a Hong Kong-based venture capital firm, led a USD 3m seed round for Noki Noki, a Brazzaville-based delivery platform, reported by Trendtype on 2024-06-24 (the round date is taken as the publication date).",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Noki Noki seed round",
+   "class": "private"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Noki Noki",
+   "country_label": "",
+   "class": "private",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

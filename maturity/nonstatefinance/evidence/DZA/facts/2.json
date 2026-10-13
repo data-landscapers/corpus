@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-01-tell-group-volz-2025-volz-funding-round",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Tell Group committed USD 5 million (Equity, Approved) to VOLZ, starting 2025: Tell Group, GIBA — VOLZ travel-tech funding round, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Tell Group, GIBA — VOLZ travel-tech funding round, 2025",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  },
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Tell Group committed USD 5 million (Equity, Approved) to VOLZ, starting 2025: Tell Group, GIBA — VOLZ travel-tech funding round, 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Tell Group, GIBA — VOLZ travel-tech funding round, 2025",
+   "class": "private",
+   "aspect": "home",
+   "value": "raised"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

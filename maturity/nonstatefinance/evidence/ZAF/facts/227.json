@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-microsoft-zaf-azure-expansion-2026-microsoft-south-africa-329m-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "fact": "Finance tables: Microsoft committed USD 329 million (Self Funded, Approved) to Microsoft Azure South Africa, starting 2026: Microsoft South Africa — $329M Data Centre and AI Expansion 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Microsoft South Africa — $329M Data Centre and AI Expansion 2026",
+   "class": "private",
+   "aspect": "money",
+   "value": "committed"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/non-state-finance; no document opened"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-16-volz-raises-5-million--techcabal",
+  "facts": [
+    {"sub_indicator": "private", "aspect": "money", "value": "committed",
+     "fact": "A group of private investors led by Tell Group, a financial services company, with Groupe Industriel Babahoum Algerie (GIBA, Algerian conglomerate) taking part, put 600 million dinars (about USD 5 million) into the Algerian travel-tech start-up VOLZ in a funding round announced in December 2025, per TechCabal.",
+     "as_of": "2025-12", "date_precision": "month", "system": "VOLZ funding round 2025", "class": "private"},
+    {"sub_indicator": "private", "aspect": "home", "value": "raised",
+     "fact": "The VOLZ round of 600 million dinars (about USD 5 million) was raised in dinars from Algerian investors led by Tell Group and including GIBA, which TechCabal calls the largest Algerian start-up round in dinars and a win for local capital formation.",
+     "as_of": "2025-12", "date_precision": "month", "system": "VOLZ funding round 2025", "class": "private"}
+  ],
+  "systems": [],
+  "note": ""
+}

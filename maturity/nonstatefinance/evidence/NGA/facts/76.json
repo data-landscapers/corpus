@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-01-dimension-data-nigeria-fibre-bond",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Dimension Data Limited, a Lagos fibre and connectivity provider, raised N4.05 billion (about US$2.9 million) from high-net-worth investors, unnamed, in the first tranche of a N20 billion bond programme, closed at a signing ceremony on 27 July 2026 with Pathway Advisors as lead issuing house.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Dimension Data Series 1 bond",
+   "class": "private"
+  },
+  {
+   "sub_indicator": "private",
+   "aspect": "home",
+   "value": "raised",
+   "fact": "Dimension Data Limited funded its Nigerian fibre expansion through the domestic capital market, the document says, with N4.05 billion raised from high-net-worth investors in a naira bond in July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Dimension Data Series 1 bond",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": "Deal recorded; no information system named."
+}

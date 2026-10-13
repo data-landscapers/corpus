@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-03-disrupt-africa-african-tech-startups-funding-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "money",
+   "value": "committed",
+   "fact": "Disrupt Africa reports that eight Ghanaian startups secured a combined US$41,225,000 of funding in 2025, up from US$9,715,000 in 2024, of which US$11.5 million went to fintech; this is an aggregate with no named deal, financier or recipient.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ghana startup funding 2025 (aggregate, eight startups)",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
