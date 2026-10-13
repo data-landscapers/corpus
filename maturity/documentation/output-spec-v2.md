@@ -88,7 +88,10 @@ The sidebar button is on desktop too, so double-click is a shortcut, not the onl
 - the stage, number and label;
 - **Last assessed**: the date the stage was last set or confirmed (`assessed_on`);
 - **Stage last moved**: the month the stage last changed on evidence. A change from a re-read or a rubric correction (`reassessed = 1`) does not count as a move; it is shown here as *Reassessed {month}* when it is the latest change *(Bill: reassessments are handled here, not in the changes box)*;
-- then the short summary, then as much of the long summary as fits, ending in **View in country report**.
+- **View in country report**, a button under the stage at the right of the heading;
+- then the short summary, then as much of the long summary as fits.
+
+**Both boxes' buttons are in their headings, right-justified and alike** *(Bill, 2026-10-13)*: the country's under its stage, the criteria's beside *Criteria*.
 
 Before a click it says *Select a country.*, large and centred in its box *(Bill, 2026-10-13)*.
 

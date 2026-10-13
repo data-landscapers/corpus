@@ -204,7 +204,12 @@
   background: #fff;
   border-bottom: 1px solid var(--rule);
 }
-.mat-side__head .mat-side__meta { margin: .35rem 0 0; }
+.mat-side__head .mat-side__meta { margin: 0; }
+/* Each box's button is in its heading, at the right: the country's under its stage, the criteria's
+   beside the label (Bill, 2026-10-13). */
+.mat-side__row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .4rem .75rem; }
+.mat-side__name + .mat-side__row { margin-top: .4rem; }
+.mat-side__row .mat-btn { flex: 0 0 auto; margin-left: auto; padding: .2rem .55rem; font-size: .74rem; white-space: nowrap; }
 .mat-side h2 { font-family: var(--display); font-size: 1rem; margin: 0; line-height: 1.3; }
 .mat-side__kicker {
   margin: 0 0 .2rem;
@@ -223,7 +228,7 @@
   display: grid;
   grid-template-columns: auto auto 1fr;
   gap: .45rem .5rem;
-  margin: 0 0 .9rem;
+  margin: 0;
   padding: 0;
   list-style: none;
 }

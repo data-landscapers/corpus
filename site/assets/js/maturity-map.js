@@ -283,9 +283,10 @@
     }).join("");
     $("mat-side-indicator").innerHTML =
       /* The dropdowns already name the indicator, so the box says only what it holds. */
-      '<div class="mat-side__head"><h2 class="mat-side__kicker">Criteria</h2></div>' +
-      '<ul class="mat-ladder">' + lad + "</ul>" +
-      '<a class="mat-btn" href="../methodology/maturity/#' + esc(state.indicator) + '">Methodology for this indicator</a>';
+      '<div class="mat-side__head"><div class="mat-side__row"><h2 class="mat-side__kicker">Criteria</h2>' +
+      '<a class="mat-btn mat-btn--primary" href="../methodology/maturity/#' + esc(state.indicator) +
+      '">Methodology for this indicator</a></div></div>' +
+      '<ul class="mat-ladder">' + lad + "</ul>";
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
     /* After launch the button is a link to the selected indicator's dated edition. */
     var file = data.launched && data.downloads[state.indicator], one = $("mat-dl-one");
@@ -302,12 +303,12 @@
       '<div class="mat-side__head"><div class="mat-side__name"><h2>' + esc(data.countries[iso] || iso) + "</h2>" +
       '<span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' +
       esc(stageText(c)) + "</span></div>" +
-      '<p class="mat-side__meta"><span><b>Last assessed</b> ' + esc(c.assessed || "—") + "</span>" +
-      "<span><b>Stage last moved</b> " + esc(moved) + "</span></p></div>" +
-      '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
-      '<div class="mat-side__long">' + (c.summary || "") + "</div>" +
+      '<div class="mat-side__row"><p class="mat-side__meta"><span><b>Last assessed</b> ' + esc(c.assessed || "—") + "</span>" +
+      "<span><b>Stage last moved</b> " + esc(moved) + "</span></p>" +
       '<a class="mat-btn mat-btn--primary" href="countries/' + iso.toLowerCase() + "/#" + esc(state.indicator) +
-      '">View in country report</a>';
+      '">View in country report</a></div></div>' +
+      '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
+      '<div class="mat-side__long">' + (c.summary || "") + "</div>";
     box.scrollTop = 0;
   }
 

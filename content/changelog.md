@@ -1,5 +1,6 @@
 ## 13 October 2026
 
+- On the Maturity Assessment map, each side panel's button has moved from the foot of the panel into its heading. The country report and the indicator's methodology are now one click away without scrolling.
 - Seventy-four Maturity Assessment cells that had no stage now have one, after 220 newly found sources were read; most are older laws, strategies and project documents. They are marked as reassessed, not as movement.
 - The Maturity Assessment methodology page is reordered by chapter and topic, as the country reports are. It opens on a bar of chapters, each chapter opens on a bar of its topics, and links to an indicator still land on it.
 
