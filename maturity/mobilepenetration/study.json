@@ -1,0 +1,87 @@
+{
+ "id": "mobilepenetration",
+ "study_file": "maturity-study-mobilepenetration.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--mobile-penetration"
+ ],
+ "carry": [
+  "infra.connect--mobile-penetration"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 25000000,
+ "terms": [
+  "mobile phone ownership",
+  "mobile ownership",
+  "phone ownership",
+  "handset ownership",
+  "own a mobile phone",
+  "owns a mobile phone",
+  "owned a mobile phone",
+  "owning a mobile phone",
+  "own a mobile",
+  "own a phone",
+  "own mobile phones",
+  "mobile penetration",
+  "mobile phone penetration",
+  "SIM penetration",
+  "unique mobile subscribers",
+  "unique subscribers",
+  "possèdent un téléphone",
+  "possède un téléphone",
+  "possession d'un téléphone",
+  "possession de téléphone",
+  "disposent d'un téléphone",
+  "dispose d'un téléphone",
+  "pénétration mobile",
+  "pénétration du mobile",
+  "pénétration de la téléphonie mobile",
+  "abonnés uniques",
+  "possuem telemóvel",
+  "possui telemóvel",
+  "posse de telemóvel",
+  "têm telemóvel",
+  "penetração móvel",
+  "penetração de telemóveis",
+  "penetração da telefonia móvel",
+  "يمتلكون هاتف",
+  "يملكون هاتف",
+  "امتلاك الهاتف",
+  "امتلاك هاتف",
+  "انتشار الهاتف المحمول",
+  "انتشار الهاتف النقال",
+  "انتشار الهاتف الجوال"
+ ],
+ "sub_indicators": [
+  {
+   "key": "ownership",
+   "label": "People who own a mobile phone",
+   "subject": "infra.connect",
+   "text": "Mobile penetration: people who own a mobile phone",
+   "indicator_id": "infra.connect--mobile-penetration-people-who-own-a-mobile-phone",
+   "class": "ownership"
+  }
+ ],
+ "classes": [
+  "ownership",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "owners",
+   "name": "Share of people who own a mobile phone, with its year",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "figure"
+   ],
+   "values": [
+    "figure"
+   ]
+  }
+ ],
+ "flags": []
+}
