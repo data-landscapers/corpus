@@ -1,5 +1,6 @@
 ## 13 October 2026
 
+- The Maturity Assessment map's criteria panel now ends with the indicator's norm. It is the same statement the methodology page gives.
 - The Maturity Assessment map now sets its text smaller on laptop-sized screens. More of each country's assessment and of the criteria shows without scrolling.
 - On the Maturity Assessment map, each side panel's button has moved from the foot of the panel into its heading. The country report and the indicator's methodology are now one click away without scrolling.
 - Seventy-four Maturity Assessment cells that had no stage now have one, after 220 newly found sources were read; most are older laws, strategies and project documents. They are marked as reassessed, not as movement.

@@ -77,7 +77,7 @@ The sidebar button is on desktop too, so double-click is a shortcut, not the onl
 
 **The country is the top box and the criteria the bottom** *(Bill, 2026-10-13)*. The country has the height the criteria leave, and the criteria never more than half.
 
-**Bottom box: the indicator.** The scale criteria for the selected indicator, being its ladder (the methodology page's criteria sentences, one per stage), and a button to the indicator's bookmark on the methodology page. **Its heading is always *Criteria*** *(Bill, 2026-10-09)*: the dropdowns already name the topic and the indicator. The criteria start on one line, where the longest stage label ends.
+**Bottom box: the indicator.** The scale criteria for the selected indicator, being its ladder (the methodology page's criteria sentences, one per stage), and a button to the indicator's bookmark on the methodology page. **Its heading is always *Criteria*** *(Bill, 2026-10-09)*: the dropdowns already name the topic and the indicator. The criteria start on one line, where the longest stage label ends. **The norm closes the box** *(Bill, 2026-10-13)*: the statement the methodology page prints, under the last criterion.
 
 **Top box: the country.** The heading is the country's name with its stage at the right of the same line, and no *Country* label above it *(Bill, 2026-10-09)*.
 

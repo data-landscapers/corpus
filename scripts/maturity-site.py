@@ -238,8 +238,11 @@ def build_data(studies, indicators, countries) -> dict:
             # The sidebar's ladder is the methodology page's: the criteria sentences (Bill, 2026-10-09).
             lines = [dict(n=n, text=text) for n, text in enumerate(sub.get("criteria", []), 1)]
             topic = next((t["name"] for t in topics if any(i["id"] == iid for i in t["indicators"])), "")
+            # The norm closes the sidebar's criteria, as the methodology page prints it (Bill, 2026-10-13).
+            page = s["issued"] / f"{iid}.md"
+            norm = dict(sections(page.read_text(encoding="utf-8"), "## ")).get("The norm", "") if page.exists() else ""
             inds[iid] = dict(label=sub["text"], short_label=sub["label"], topic=topic, study=s["id"],
-                             ladder=lines)
+                             ladder=lines, norm=md(norm_statement(norm)) if norm.strip() else "")
             cells[iid], changes[iid] = {}, recent_moves(s["history"], iid, date.today())
         bodies = {}
         for r in s["rows"]:

@@ -286,7 +286,8 @@
       '<div class="mat-side__head"><div class="mat-side__row"><h2 class="mat-side__kicker">Criteria</h2>' +
       '<a class="mat-btn mat-btn--primary" href="../methodology/maturity/#' + esc(state.indicator) +
       '">Methodology for this indicator</a></div></div>' +
-      '<ul class="mat-ladder">' + lad + "</ul>";
+      '<ul class="mat-ladder">' + lad + "</ul>" +
+      (ind.norm ? '<div class="mat-norm"><h3 class="mat-side__kicker">The norm</h3>' + ind.norm + "</div>" : "");
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
     /* After launch the button is a link to the selected indicator's dated edition. */
     var file = data.launched && data.downloads[state.indicator], one = $("mat-dl-one");

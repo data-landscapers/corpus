@@ -234,6 +234,9 @@
 }
 .mat-ladder li { display: contents; color: var(--ink-light); }
 .mat-ladder b { color: var(--ink); white-space: nowrap; }
+.mat-norm { margin-top: .8rem; padding-top: .6rem; border-top: 1px solid var(--rule); color: var(--ink-light); }
+.mat-norm p { margin: 0; }
+.mat-norm a { color: var(--link); }
 #mat-side-country { scroll-margin-top: calc(var(--header-h) + 3.5rem); }
 .mat-side section.is-empty { display: flex; align-items: center; justify-content: center; min-height: 8rem; padding: 1rem; }
 .mat-side__empty { margin: 0; font-family: var(--display); font-size: 1.5rem; color: var(--ink-faint); text-align: center; }
