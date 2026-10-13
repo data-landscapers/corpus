@@ -1,0 +1,142 @@
+{
+  "id": "interoperabilitystandards",
+  "study_file": "maturity-study-interoperabilitystandards.md",
+  "subjects": [
+    "gov.standards",
+    "dpi.exchange"
+  ],
+  "stage_topic": "gov.standards",
+  "redraws": [
+    "gov.standards--national-interoperability-standards"
+  ],
+  "carry": [
+    "gov.standards--national-interoperability-standards"
+  ],
+  "carry_studies": [
+    "interoperability"
+  ],
+  "token_ceiling": 30000000,
+  "terms": [
+    "interoperability standard",
+    "interoperability standards",
+    "interoperability specification",
+    "interoperability specifications",
+    "standards for interoperability",
+    "standards catalogue",
+    "standards catalog",
+    "catalogue of standards",
+    "technical standards catalogue",
+    "e-government standards",
+    "e-government standard",
+    "eGovernment standards",
+    "e-governance standards",
+    "digital government standards",
+    "government ICT standards",
+    "government ICT standard",
+    "government IT standards",
+    "public service ICT standards",
+    "ICT standards for government",
+    "standards for government systems",
+    "standards for government ICT",
+    "government data standards",
+    "national data standards",
+    "data exchange standard",
+    "data exchange standards",
+    "data sharing standards",
+    "data interoperability standards",
+    "data standards for government",
+    "metadata standard",
+    "metadata standards",
+    "government API standard",
+    "government API standards",
+    "API standards",
+    "minimum interoperability standards",
+    "technical reference model",
+    "standards reference model",
+    "technical standards for e-government",
+    "technical standards and specifications",
+    "standards compliance audit",
+    "standards compliance assessment",
+    "compliance with ICT standards",
+    "e-GIF",
+    "eGIF",
+    "normes d'interopérabilité",
+    "norme d'interopérabilité",
+    "standards d'interopérabilité",
+    "référentiel général d'interopérabilité",
+    "référentiel d'interopérabilité",
+    "référentiel national d'interopérabilité",
+    "référentiels d'interopérabilité",
+    "RGI",
+    "référentiel technique",
+    "référentiels techniques",
+    "référentiel des normes",
+    "référentiel de normes",
+    "normes techniques de l'administration électronique",
+    "normes et standards des systèmes d'information",
+    "normes des systèmes d'information de l'État",
+    "normes d'échange de données",
+    "standards d'échange de données",
+    "normas de interoperabilidade",
+    "padrões de interoperabilidade",
+    "normas técnicas de interoperabilidade",
+    "normas de troca de dados",
+    "normas de interoperabilidad",
+    "estándares de interoperabilidad",
+    "معايير التشغيل البيني",
+    "معايير الترابط البيني",
+    "معايير تبادل البيانات",
+    "معايير الحكومة الإلكترونية"
+  ],
+  "sub_indicators": [
+    {
+      "key": "standards",
+      "label": "Technical standards for government systems",
+      "subject": "gov.standards",
+      "text": "National interoperability standards: technical standards for government systems",
+      "indicator_id": "gov.standards--national-interoperability-standards-technical-standards-for-government-systems",
+      "class": "standards"
+    }
+  ],
+  "classes": [
+    "standards",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Standards published",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "published",
+        "draft"
+      ],
+      "values": [
+        "published",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Standards required and checked",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "checked",
+        "required"
+      ],
+      "values": [
+        "checked",
+        "required",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
