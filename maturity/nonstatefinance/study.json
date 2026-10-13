@@ -1,0 +1,128 @@
+{
+ "id": "nonstatefinance",
+ "study_file": "maturity-study-nonstatefinance.md",
+ "subjects": [
+  "finance.new"
+ ],
+ "stage_topic": "finance.new",
+ "redraws": [
+  "finance.new--mobilisation-of-non-state-finance"
+ ],
+ "carry": [
+  "finance.new--mobilisation-of-non-state-finance"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 90000000,
+ "terms": [
+  "private investment",
+  "private sector investment",
+  "private-sector investment",
+  "private capital",
+  "private finance",
+  "private financing",
+  "equity investment",
+  "funding round",
+  "Series A",
+  "Series B",
+  "Series C",
+  "seed round",
+  "venture capital",
+  "private equity",
+  "syndicated loan",
+  "bond issue",
+  "corporate bond",
+  "blended finance",
+  "loan guarantee",
+  "partial credit guarantee",
+  "investissement privé",
+  "investissements privés",
+  "capitaux privés",
+  "financement privé",
+  "levée de fonds",
+  "capital-risque",
+  "capital-investissement",
+  "prêt syndiqué",
+  "emprunt obligataire",
+  "financement mixte",
+  "investimento privado",
+  "capital privado",
+  "financiamento privado",
+  "capital de risco",
+  "ronda de financiamento",
+  "ronda de investimento",
+  "empréstimo obrigacionista",
+  "inversión privada",
+  "استثمار خاص",
+  "الاستثمار الخاص",
+  "استثمارات خاصة",
+  "رأس المال المخاطر",
+  "رأس المال الجريء",
+  "جولة تمويل",
+  "جولة تمويلية",
+  "جولة استثمارية",
+  "public-private partnership",
+  "public private partnership",
+  "partenariat public-privé",
+  "partenariat public privé",
+  "parceria público-privada",
+  "asociación público-privada",
+  "الشراكة بين القطاعين العام والخاص",
+  "شراكة بين القطاعين العام والخاص"
+ ],
+ "sub_indicators": [
+  {
+   "key": "private",
+   "label": "Private money for digital businesses",
+   "subject": "finance.new",
+   "text": "Mobilisation of non-state finance: private money for digital businesses",
+   "indicator_id": "finance.new--mobilisation-of-non-state-finance-private-money-for-digital-businesses",
+   "class": "private"
+  }
+ ],
+ "classes": [
+  "private",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "money",
+   "name": "Private money put into a digital business, with its year",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "committed"
+   ],
+   "values": [
+    "committed",
+    "none"
+   ]
+  },
+  {
+   "key": "home",
+   "name": "Money raised inside the country",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "raised"
+   ],
+   "values": [
+    "raised"
+   ]
+  },
+  {
+   "key": "state",
+   "name": "Private money the government brought into a public digital project",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "brought"
+   ],
+   "values": [
+    "brought"
+   ]
+  }
+ ],
+ "flags": []
+}
