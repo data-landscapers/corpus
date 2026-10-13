@@ -1,0 +1,129 @@
+{
+  "id": "internationalstandards",
+  "study_file": "maturity-study-internationalstandards.md",
+  "subjects": [
+    "gov.standards"
+  ],
+  "stage_topic": "gov.standards",
+  "redraws": [
+    "gov.standards--adoption-of-international-standards"
+  ],
+  "carry": [
+    "gov.standards--adoption-of-international-standards"
+  ],
+  "carry_studies": [
+    "qualitystandards"
+  ],
+  "token_ceiling": 30000000,
+  "terms": [
+    "international standard",
+    "international standards",
+    "International Organization for Standardization",
+    "International Organisation for Standardisation",
+    "International Organisation for Standardization",
+    "International Standards Organisation",
+    "International Standards Organization",
+    "International Electrotechnical Commission",
+    "ISO member",
+    "ISO members",
+    "ISO membership",
+    "member of ISO",
+    "member body",
+    "correspondent member",
+    "subscriber member",
+    "ISO/IEC",
+    "ISO 27001",
+    "ISO 27002",
+    "JTC 1",
+    "mirror committee",
+    "mirror committees",
+    "African Organisation for Standardisation",
+    "African Organization for Standardization",
+    "ARSO",
+    "harmonised standards",
+    "harmonized standards",
+    "norme internationale",
+    "normes internationales",
+    "Organisation internationale de normalisation",
+    "Commission électrotechnique internationale",
+    "membre de l'ISO",
+    "membre correspondant",
+    "comité membre",
+    "comité miroir",
+    "comités miroirs",
+    "ISO/CEI",
+    "Organisation africaine de normalisation",
+    "normes harmonisées",
+    "norma internacional",
+    "normas internacionais",
+    "Organização Internacional de Normalização",
+    "Organização Internacional de Padronização",
+    "Comissão Eletrotécnica Internacional",
+    "membro da ISO",
+    "membro correspondente",
+    "Organização Africana de Normalização",
+    "normas harmonizadas",
+    "normas internacionales",
+    "Organización Internacional de Normalización",
+    "miembro de ISO",
+    "المواصفات الدولية",
+    "المعايير الدولية",
+    "المنظمة الدولية للتوحيد القياسي",
+    "المنظمة الدولية للمعايير",
+    "الأيزو",
+    "الآيزو",
+    "الايزو",
+    "المنظمة الأفريقية للتقييس"
+  ],
+  "sub_indicators": [
+    {
+      "key": "international",
+      "label": "International standards for information technology and data",
+      "subject": "gov.standards",
+      "text": "Adoption of international standards: international standards for information technology and data",
+      "indicator_id": "gov.standards--adoption-of-international-standards-international-standards-for-information-technology-and-data",
+      "class": "adoption"
+    }
+  ],
+  "classes": [
+    "adoption",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Membership and adoption",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "member"
+      ],
+      "values": [
+        "adopted",
+        "member",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Requirement and standard-setting",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "writes",
+        "required"
+      ],
+      "values": [
+        "writes",
+        "required",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
