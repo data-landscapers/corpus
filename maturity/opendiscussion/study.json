@@ -1,0 +1,150 @@
+{
+  "id": "opendiscussion",
+  "study_file": "maturity-study-opendiscussion.md",
+  "subjects": [
+    "gov.discourse"
+  ],
+  "stage_topic": "gov.discourse",
+  "redraws": [
+    "gov.discourse--open-discussion-of-government-policy"
+  ],
+  "carry": [
+    "gov.discourse--open-discussion-of-government-policy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "internet shutdown",
+    "internet shutdowns",
+    "internet blackout",
+    "internet blackouts",
+    "internet disruption",
+    "internet disruptions",
+    "shut down the internet",
+    "shutting down the internet",
+    "social media ban",
+    "social media blackout",
+    "social media shutdown",
+    "social media restrictions",
+    "blocked access to",
+    "restricted access to",
+    "KeepItOn",
+    "NetBlocks",
+    "freedom of expression",
+    "press freedom",
+    "media freedom",
+    "freedom of the press",
+    "journalist arrested",
+    "journalists arrested",
+    "journalist detained",
+    "journalists detained",
+    "journalist jailed",
+    "blogger arrested",
+    "false news",
+    "false information",
+    "criminal defamation",
+    "criminal libel",
+    "seditious libel",
+    "insulting the president",
+    "coupure d'internet",
+    "coupures d'internet",
+    "coupure internet",
+    "coupure de l'internet",
+    "restriction d'internet",
+    "suspension des réseaux sociaux",
+    "blocage des réseaux sociaux",
+    "liberté d'expression",
+    "liberté de la presse",
+    "liberté de presse",
+    "journaliste arrêté",
+    "journalistes arrêtés",
+    "journaliste interpellé",
+    "fausses nouvelles",
+    "fausses informations",
+    "délit de presse",
+    "délits de presse",
+    "outrage au chef de l'État",
+    "corte da internet",
+    "corte de internet",
+    "bloqueio da internet",
+    "liberdade de expressão",
+    "liberdade de imprensa",
+    "jornalista detido",
+    "jornalistas detidos",
+    "notícias falsas",
+    "informações falsas",
+    "libertad de expresión",
+    "libertad de prensa",
+    "قطع الإنترنت",
+    "قطع الانترنت",
+    "حجب مواقع",
+    "حجب المواقع",
+    "حرية التعبير",
+    "حرية الصحافة",
+    "أخبار كاذبة",
+    "أخبار زائفة",
+    "اعتقال صحفي",
+    "توقيف صحفي"
+  ],
+  "sub_indicators": [
+    {
+      "key": "discussion",
+      "label": "Freedom to discuss policy online and in the press",
+      "subject": "gov.discourse",
+      "text": "Open discussion of government policy: freedom to discuss policy online and in the press",
+      "indicator_id": "gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press",
+      "class": "discussion"
+    }
+  ],
+  "classes": [
+    "discussion",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "debate",
+      "name": "Public criticism of government policy",
+      "role": "coverage",
+      "defer": [],
+      "prefer": [
+        "silenced",
+        "criticised"
+      ],
+      "values": [
+        "criticised",
+        "silenced"
+      ]
+    },
+    {
+      "key": "connection",
+      "name": "Cuts and blocks, and a bar on them",
+      "role": "coverage",
+      "defer": [],
+      "prefer": [
+        "cut",
+        "barred"
+      ],
+      "values": [
+        "cut",
+        "barred"
+      ]
+    },
+    {
+      "key": "penalty",
+      "name": "Punishment for speech, and its removal",
+      "role": "coverage",
+      "defer": [],
+      "prefer": [
+        "punished",
+        "repealed",
+        "unpunished"
+      ],
+      "values": [
+        "punished",
+        "unpunished",
+        "repealed"
+      ]
+    }
+  ],
+  "flags": []
+}
