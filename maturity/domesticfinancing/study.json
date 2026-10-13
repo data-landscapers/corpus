@@ -97,7 +97,18 @@
     "FADCOM",
     "FAUS",
     "fonds spécial de télécommunications",
-    "universal access fund levy"
+    "universal access fund levy",
+    "financing digital transformation",
+    "financing of digital transformation",
+    "funding digital transformation",
+    "funding of digital transformation",
+    "domestic financing",
+    "financement du numérique",
+    "financement de la transformation numérique",
+    "financement de la transformation digitale",
+    "financiamento da transformação digital",
+    "financiación de la transformación digital",
+    "تمويل التحول الرقمي"
   ],
   "sub_indicators": [
     {
@@ -116,34 +127,38 @@
   "aspects": [
     {
       "key": "budget",
-      "name": "Money in the state budget",
+      "name": "Money in the state budget, its direction and what was spent",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
         "spent",
+        "fell",
+        "rose",
         "allocated"
       ],
       "values": [
         "spent",
+        "rose",
+        "fell",
         "allocated",
         "none"
       ]
     },
     {
-      "key": "fund",
-      "name": "A fund or levy in law, and its accounts",
+      "key": "commitment",
+      "name": "A commitment to pay at home, and the act that follows it",
       "role": "coverage",
       "defer": [],
       "prefer": [
         "abolished",
-        "accounted",
-        "established"
+        "acted",
+        "stated"
       ],
       "values": [
-        "accounted",
-        "established",
+        "acted",
+        "stated",
         "abolished"
       ]
     }
