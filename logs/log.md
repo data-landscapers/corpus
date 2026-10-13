@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-13 06:36 · **MATURITY-STUDY** · unclocked · ecommercelaw, step 1: four questions prepared for `gov.legislate--e-commerce-legislation`; 108 unread stories about an electronic transactions, e-commerce or electronic signature law covering 37 countries, 155 cited by the current cells, ceiling 50M. Nothing run; waits for Bill.
 2026-10-12 21:13 · **RENDER** · 14m · 251 documents, home, countries, catalogue, finance, datasets, methodology rendered; 0 editions pruned, 797 objects to R2; deployed — ok
 2026-10-12 20:59 · **REVIEW** · <1m · XCA: status 0 sections revised, progress 0 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-12 20:59 · **REVIEW** · 2m · XAF: status 0 sections revised, progress 2 blocks, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT — ok
@@ -557,19 +558,7 @@ title: Corpus process log
 2026-09-13 03:45 · **NOTES** · 12m · closed 27: lint-staged-queue gains a flat check for bodies transliterated at capture; both undelivered new-queue batches clean
 2026-09-13 01:28 · **RENDER** · 15m · 251 reports (0 failed), home, 62 place pages, topics, progress, catalogue 21,220, finance, methodology rendered; 4 editions pruned, R2 8,445 verified; deployed — ok
 2026-09-13 01:13 · **BUILD** · 53m · catalogue 21,220, finance 1,997 deals, 55 units and 450 sources read, 75 rows minted and 60 moved across 48 ledgers, KEN LBR GIN baselines revised, scope 408 in and 6 XGL unverified, register 77, bulletin 1 item — ok
-2026-09-11 20:42 · **RENDER** · 32m · 'the base' becomes 'the repository' in site prose: 8,930 replacements, 251 documents rendered, 191 new editions, pages rebuilt; deployed — ok
-2026-09-11 19:29 · **BUILD** · unclocked · held baseline rows set: 31 of 35 region-ledger rows given position_start and movement from their held raw document (25 No change, 6 Advanced, 4 skipped); six region progress reports re-rendered, checks G-M pass
 2026-09-11 18:15 · **FILLER** · unclocked · regions baseline filler (XWA XEA XCA XSA XNA): 61 rows, 31 staged (29 files, new-queue regions-baseline, undelivered), 25 held, 5 nil; notes-for-osint 137
-2026-09-11 17:45 · **FILLER** · unclocked · XAF baseline filler: 58 rows, 36 staged (34 files, new-queue XAF baseline, undelivered), 10 held, 12 nil; notes-for-osint 136
-2026-09-11 17:18 · **RENDER** · 6m · progress keys redefine Movement (98 reports), region Baseline not held boxed both columns, lookups tables from CSVs with downloads, Metadata buttons to lookups; deployed
-2026-09-11 16:15 · **RENDER** · unclocked · region progress rebuilt in progress-report words, bulletin picker deduped, finance instrument filter, progress colophon; 6 new region editions — ok
-2026-09-11 11:25 · **RENDER** · 11m · 251 documents rendered (44 editions cut, 0 failed), home, countries, regions, topics, progress, catalogue, finance, methodology; 1,611 objects to R2, 0 pruned; deployed — ok
-2026-09-11 11:14 · **BUILD** · 13m · catalogue 20,822, finance 1,983 deals, 6 units and 18 sources read, 1 row moved and 2 minted, MOZ baseline revised, scope 12 in and 3 XGL unverified, register 77, XNA still under band, bulletin 93 items — ok
-2026-09-11 10:01 · **FIX** · unclocked · deploy workflow: per-attempt artifact so re-runs work, 20-min deploy wait, self-deploys on edit (1622472); run 34581869065 succeeded, live bulletin now 10 September
-2026-09-11 09:53 · **FIX** · unclocked · bulletin window today-only from 18:00 (4408c62); live site stale: Pages deploy of c087cb2 failed, RENDER now checks the run before logging deployed (5d10aac); re-run awaits Bill
-2026-09-11 00:33 · **BUILD** · unclocked · trigger read the wrong watermark from the workroot and reported a built close as ready — same guard as rebuild.py added, defect fix
-2026-09-11 00:26 · **RENDER** · 13m · 251 documents, home, 62 place pages, catalogue 20,807, finance 1,425 deals, R2 2,587 objects, 1 bulletin edition pruned, deployed — ok
-2026-09-11 00:12 · **BUILD** · 1h15m · catalogue 20,807, finance 1,983 deals, 43 units and 222 sources read, 53 rows moved and 90 minted, XWA back inside its band, bulletin 92 items — ok
 2026-09-10 16:31 · **DOC** · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically
 2026-09-09 15:10 · **METHODOLOGY** · 35m · Process inventory reviewed against the week: r2-sync row added, region.py and methodology.py added to the publishing row, title index named beside the names index, deploy row now describes two hosts. Intersections 599 -> 1,049, monthly intake 2,000 -> 5,000
 2026-09-09 14:38 · **CATALOGUE** · 40m · url_note out of the download too - a lint's working note in a column of facts about the document; downloads carry ten columns. Whole-catalogue CSV now says 'Downloading, please wait' and swallows a second click
