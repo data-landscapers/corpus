@@ -1,0 +1,152 @@
+{
+  "id": "domesticfinancing",
+  "study_file": "maturity-study-domesticfinancing.md",
+  "subjects": [
+    "finance.budget"
+  ],
+  "stage_topic": "finance.budget",
+  "redraws": [
+    "finance.budget--sustainable-domestic-financing-of-digital-transformation"
+  ],
+  "carry": [
+    "finance.budget--sustainable-domestic-financing-of-digital-transformation"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "universal service fund",
+    "universal service funds",
+    "universal access fund",
+    "universal service and access fund",
+    "universal access and service fund",
+    "universal service provision fund",
+    "universal service levy",
+    "universal access levy",
+    "universal service obligation fund",
+    "digital development fund",
+    "ICT development fund",
+    "ICT fund",
+    "digital sovereignty fund",
+    "digital fund",
+    "innovation fund levy",
+    "telecommunications development fund",
+    "rural communications development fund",
+    "ICT budget",
+    "ICT ministry budget",
+    "digital budget",
+    "budget for digital",
+    "budget of the ministry of ICT",
+    "budget of the ministry of digital",
+    "fonds de service universel",
+    "fonds du service universel",
+    "fonds d'accès universel",
+    "fonds d'accès et de service universel",
+    "fonds de l'accès universel",
+    "fonds de développement du service universel",
+    "fonds de développement des télécommunications",
+    "fonds de développement du numérique",
+    "fonds de développement de l'économie numérique",
+    "fonds de souveraineté numérique",
+    "fonds spécial des télécommunications",
+    "fonds du numérique",
+    "redevance de service universel",
+    "contribution au service universel",
+    "budget du ministère du numérique",
+    "budget du ministère de l'économie numérique",
+    "budget du ministère de la transition numérique",
+    "budget du ministère des postes",
+    "budget du numérique",
+    "fundo de serviço universal",
+    "fundo do serviço universal",
+    "fundo de acesso universal",
+    "fundo do serviço de acesso universal",
+    "fundo de desenvolvimento das comunicações",
+    "fundo de apoio ao desenvolvimento das comunicações",
+    "taxa de serviço universal",
+    "orçamento das telecomunicações",
+    "orçamento do ministério das telecomunicações",
+    "fondo de servicio universal",
+    "fondo de acceso universal",
+    "صندوق الخدمة الشاملة",
+    "صندوق الخدمة الأساسية",
+    "صندوق الخدمة العامة",
+    "صندوق النفاذ الشامل",
+    "صندوق تنمية الاتصالات",
+    "ميزانية وزارة الاتصالات",
+    "ميزانية وزارة الرقمنة",
+    "ميزانية وزارة الانتقال الرقمي",
+    "universal service",
+    "service universel",
+    "serviço universal",
+    "servicio universal",
+    "الخدمة الشاملة",
+    "GIFEC",
+    "Ghana Investment Fund for Electronic Communications",
+    "UCSAF",
+    "Universal Communications Service Access Fund",
+    "UCUSAF",
+    "USPF",
+    "FDSUT",
+    "ANSUT",
+    "FSUT",
+    "FSAU",
+    "USAASA",
+    "AGEFAU",
+    "FSU-TIC",
+    "FDTIC",
+    "FADCOM",
+    "FAUS",
+    "fonds spécial de télécommunications",
+    "universal access fund levy"
+  ],
+  "sub_indicators": [
+    {
+      "key": "financing",
+      "label": "The state's own money for digital programmes",
+      "subject": "finance.budget",
+      "text": "Sustainable domestic financing of digital transformation: the state's own money for digital programmes",
+      "indicator_id": "finance.budget--sustainable-domestic-financing-of-digital-transformation-the-states-own-money-for-digital-programmes",
+      "class": "financing"
+    }
+  ],
+  "classes": [
+    "financing",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "budget",
+      "name": "Money in the state budget",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "spent",
+        "allocated"
+      ],
+      "values": [
+        "spent",
+        "allocated",
+        "none"
+      ]
+    },
+    {
+      "key": "fund",
+      "name": "A fund or levy in law, and its accounts",
+      "role": "coverage",
+      "defer": [],
+      "prefer": [
+        "abolished",
+        "accounted",
+        "established"
+      ],
+      "values": [
+        "accounted",
+        "established",
+        "abolished"
+      ]
+    }
+  ],
+  "flags": []
+}
