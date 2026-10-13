@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "1",
+   "accepted": "none",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-002;ERI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

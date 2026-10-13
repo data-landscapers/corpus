@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-xwa-tribuneonlineng-ecowas-enbic-biometric-id",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAS National Biometric Identity Card (ENBIC)", "country_label": "ENBIC", "class": "other", "platform": "online application with biometric capture at an NIS office", "owner": "Nigeria Immigration Service; ECOWAS Commission", "tiers": ""}
+  ],
+  "note": "Card tied to the ECOWAS Protocol on Free Movement, not a digital legal text; no fact for this study."
+}

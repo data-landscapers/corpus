@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-10-hcc-decision-01-hcc-d1-malabo-convention",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified",
+     "fact": "The Haute Cour Constitutionnelle ruled on 10 July 2024 that the African Union Convention on Cybersecurity and Personal Data Protection (Malabo Convention) and law n°2024-004 authorising its ratification, adopted by the Assemblée Nationale on 20 June and the Sénat on 21 June 2024, conform to the Constitution.",
+     "as_of": "2024-07-10", "date_precision": "day", "system": "Convention de l'Union Africaine sur la Cybersécurité et la Protection des Données à Caractère Personnel (Convention de Malabo)", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

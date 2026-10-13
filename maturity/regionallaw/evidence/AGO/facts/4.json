@@ -1,0 +1,10 @@
+{
+  "slug": "2019-07-09-resolucao-33-19-convencao-da-uniao-africana-sobre-ciberseguranca-e-proteccao-de-dados-pessoais",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "AngoLEX carries Angola's Resolução n.º 33/19 of 2019-07-09 on the African Union Convention on Cyber Security and Personal Data Protection, with the Convention's articles on electronic transactions and personal data; the passages read do not themselves use the word approval, and the document's date is used as the date.", "as_of": "2019-07", "date_precision": "month", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convenção da União Africana sobre Cibersegurança e Protecção de Dados Pessoais", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

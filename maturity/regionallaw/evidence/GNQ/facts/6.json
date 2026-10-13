@@ -1,0 +1,10 @@
+{
+  "slug": "2022-05-23-data-protection-factsheet-equatorial-guinea",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none",
+     "fact": "The Data Protection Africa fact sheet by ALT Advisory lists the Malabo Convention as 'No' under Equatorial Guinea's international commitments; the page was last updated 24 June 2022 and the date is taken from that.",
+     "as_of": "2022-06-24", "date_precision": "day", "system": "Malabo Convention", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

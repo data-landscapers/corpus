@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified",
+     "fact": "The African Union Commission's status list of 02/02/2026 records Niger as having ratified or acceded to the Malabo Convention on 22/02/2022 and deposited the instrument on 16/03/2022, with no signature date shown.",
+     "as_of": "2022-03-16", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

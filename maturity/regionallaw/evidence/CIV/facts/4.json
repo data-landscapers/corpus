@@ -1,0 +1,27 @@
+{
+  "slug": "2022-05-23-data-protection-africa-cote-divoire-factsheet",
+  "facts": [
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "ratified",
+      "fact": "ALT Advisory's Data Protection Africa fact sheet for Cote d'Ivoire lists the Malabo Convention as ratified; it gives no ratification date, so the page's last-updated date of 23 May 2022 is used.",
+      "as_of": "2022-05-23",
+      "date_precision": "day",
+      "system": "Malabo Convention",
+      "class": "harmonisation"
+    },
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "signed",
+      "fact": "The same fact sheet lists the ECOWAS Supplementary Act on Personal Data Protection as signed by Cote d'Ivoire, with no date given, so the page's last-updated date of 23 May 2022 is used.",
+      "as_of": "2022-05-23",
+      "date_precision": "day",
+      "system": "ECOWAS Supplementary Act on Personal Data Protection",
+      "class": "harmonisation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

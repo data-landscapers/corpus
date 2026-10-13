@@ -1,0 +1,16 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "1",
+   "accepted": "none",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-002;UGA-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

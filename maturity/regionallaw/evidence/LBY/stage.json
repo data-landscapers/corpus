@@ -1,0 +1,16 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "1",
+   "accepted": "none",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

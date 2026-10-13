@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified",
+     "fact": "The African Union Commission's status list dated 2 February 2026 records Senegal as having ratified the AU Convention on Cyber Security and Personal Data Protection on 3 August 2016 and deposited the instrument on 16 August 2016, with no signature date shown; 20 of 55 states had deposited.",
+     "as_of": "2016-08-03", "date_precision": "day",
+     "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

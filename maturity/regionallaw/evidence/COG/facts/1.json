@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union Commission's status list dated 2 February 2026 records Congo as having signed the African Union Convention on Cyber Security and Personal Data Protection on 12 June 2015.", "as_of": "2015-06-12", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The African Union Commission's status list dated 2 February 2026 records Congo as having ratified or acceded to the Malabo Convention on 24 September 2020 and deposited the instrument on 23 October 2020.", "as_of": "2020-10-23", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

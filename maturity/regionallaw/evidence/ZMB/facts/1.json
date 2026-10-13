@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-08-au-convention-cyber-security-personal-data-protection-ratification-status",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The African Union's treaty status list of 8 July 2024 records Zambia as having ratified the Convention on Cyber Security and Personal Data Protection on 15 December 2020 and deposited its instrument on 24 March 2021.", "as_of": "2020-12-15", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union's treaty status list of 8 July 2024 records Zambia as having signed the Convention on Cyber Security and Personal Data Protection on 29 January 2016.", "as_of": "2016-01-29", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

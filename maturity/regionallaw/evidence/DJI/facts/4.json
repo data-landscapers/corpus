@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-12 Djibouti advances bill to create National Cybersecurity Authority",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "Ecofin Agency reports that Djibouti had already ratified the African Union Malabo Convention in November 2023.", "as_of": "2023-11", "date_precision": "month", "system": "Malabo Convention", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Malabo Convention", "country_label": "AU Convention on Cyber Security and Personal Data Protection (Malabo Convention)", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "UN Convention on Cybercrime", "country_label": "UN Convention on Cybercrime", "class": "other", "platform": "", "owner": "United Nations", "tiers": ""}
+  ],
+  "note": ""
+}

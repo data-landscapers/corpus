@@ -1,0 +1,17 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "none",
+      "fact": "The African Union Commission's status list of 02/02/2026 shows Malawi with no date of signature, ratification/accession or deposit for the Malabo Convention (21 signatures and 20 deposits across 55 states).",
+      "as_of": "2026-02-02",
+      "date_precision": "day",
+      "system": "African Union Convention on Cyber Security and Personal Data Protection",
+      "class": "harmonisation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

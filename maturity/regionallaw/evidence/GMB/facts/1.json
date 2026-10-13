@@ -1,0 +1,11 @@
+{
+  "slug": "2022-12-02-mocde-gambia-signs-au-convention-cyber-security-personal-data-protection",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The Ministry of Communications and Digital Economy states that The Gambia signed the African Union Convention on Cyber Security and Personal Data Protection at the African Union Commission in Addis Ababa on 2 December 2022, the Minister signing for the country and joining 14 other signatory states.", "as_of": "2022-12-02", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The Minister reiterated the Government's commitment to ratify the Convention after signature to pave the way for domestication; the statement reports no ratification (the AU Legal Counsel's deputy urged The Gambia to ratify, domesticate and implement it). The page carries no publication date, so the event date is used.", "as_of": "2022-12-02", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convention on Cyber Security and Personal Data Protection", "class": "harmonisation", "platform": "", "owner": "African Union Commission", "tiers": ""}
+  ],
+  "note": ""
+}

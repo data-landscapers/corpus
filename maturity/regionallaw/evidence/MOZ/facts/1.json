@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+  "facts": [
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "ratified",
+      "fact": "The UNECA/GIZ/AU Commission inception report states that Mozambique ratified the African Union Convention on Cybersecurity and Data Protection (Malabo Convention) in 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "African Union Convention on Cybersecurity and Data Protection (Malabo Convention)",
+      "class": "harmonisation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "African Union Convention on Cybersecurity and Data Protection (Malabo Convention)",
+      "country_label": "Malabo Convention",
+      "class": "harmonisation",
+      "platform": "",
+      "owner": "African Union",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

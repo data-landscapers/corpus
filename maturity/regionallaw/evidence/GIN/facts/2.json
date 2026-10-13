@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified",
+     "fact": "The African Union Commission status list of 2 February 2026 records Guinea with ratification/accession on 31 July 2018 and deposit on 16 October 2018, and no date of signature, for the Malabo Convention.",
+     "as_of": "2018-10-16", "date_precision": "day",
+     "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

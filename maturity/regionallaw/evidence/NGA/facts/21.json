@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-ecowas-enbic-biometric-card-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAS National Biometric Identity Card (ENBIC)", "country_label": "ENBIC", "class": "other", "platform": "online NIS portal; biometric chip card", "owner": "ECOWAS Commission; Nigeria Immigration Service", "tiers": "border immigration officials of member states"}
+  ],
+  "note": "ENBIC rollout under the ECOWAS free movement protocol and a stated December mutual-acceptance intent; no digital legal text named and intent is not a yes."
+}

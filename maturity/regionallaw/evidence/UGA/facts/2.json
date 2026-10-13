@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-12-uganda-police-cybersecurity-glass-house-malabo",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none",
+     "fact": "Uganda Police forensic services director Andrew Mubiru said on 2026-08-12 that Uganda has not ratified the Malabo Convention, and that solution providers ask about ratification when Uganda seeks forensic tools.",
+     "as_of": "2026-08-12", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "effect", "value": "none",
+     "fact": "Mubiru said Uganda needs to domesticate the Malabo Convention, so it has not been taken into national law; the article is dated 2026-08-12 and gives no other date for this.",
+     "as_of": "2026-08-12", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

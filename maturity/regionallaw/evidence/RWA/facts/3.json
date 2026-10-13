@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union Commission status list of 02/02/2026 records Rwanda as having signed the Malabo Convention on 16/04/2019.", "as_of": "2019-04-16", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The African Union Commission status list of 02/02/2026 records Rwanda as having ratified the Malabo Convention on 14/11/2019 and deposited the instrument on 21/11/2019.", "as_of": "2019-11-21", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

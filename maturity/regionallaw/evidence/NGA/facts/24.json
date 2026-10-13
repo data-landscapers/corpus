@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAS National Biometric Identity Card (ENBIC)", "country_label": "ENBIC", "class": "other", "platform": "biometric chip card, ICAO Doc 9303 machine-readable, ICAO Public Key Directory", "owner": "Nigeria Immigration Service; ECOWAS Commission", "tiers": "border systems of ECOWAS member states"}
+  ],
+  "note": "ENBIC launch rests on ECOWAS free movement decisions, a non-digital shared law; no African digital legal text named."
+}

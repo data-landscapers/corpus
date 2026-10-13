@@ -1,0 +1,10 @@
+{
+  "slug": "2020-03-17-cabo-verde-boletim-oficial-resolucao-153-ix-2020-adesao-convencao-malabo",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The Boletim Oficial of 17 March 2020 lists Resolution 153/IX/2020 of the National Assembly, which approves for accession the African Union Convention on Cyber Security and Personal Data Protection; the document gives no approval date, so its publication date is used.", "as_of": "2020-03-17", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convenção da União Africana sobre Cibersegurança e Proteção de Dados Pessoais", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

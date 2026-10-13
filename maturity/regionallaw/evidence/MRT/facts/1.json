@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-19-xaf-notreafrik-malabo-convention-ratifications",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "NotreAfrik says the Malabo Convention reached its 15-ratification threshold and entered into force on 8 June 2023, thirty days after Mauritania's ratification, so Mauritania had ratified by about May 2023; the article gives no exact date for it.", "as_of": "2023-05", "date_precision": "month", "system": "Convention de Malabo", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Convention de Malabo", "country_label": "Convention de Malabo sur la cybersécurité et la protection des données personnelles", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

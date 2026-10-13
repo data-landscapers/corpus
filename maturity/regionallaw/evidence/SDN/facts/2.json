@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-19-sudan-scps-privacy-gap-intro",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The Sudanese Center for Policy Studies says Sudan is already a signatory to the African Union's Malabo Convention (undated in the source; article published 2026-07-19).", "as_of": "2026-07-19", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "effect", "value": "none", "fact": "The article says Sudan has yet to enact or implement the Convention: no privacy law, a 2018 draft data protection bill never enacted, and domestication still to do; the November 2025 decree authorities had issued no binding rules as of mid-2026.", "as_of": "2026-07-19", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

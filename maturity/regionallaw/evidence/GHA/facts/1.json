@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The article reports that the Bank of Ghana and the National Bank of Rwanda signed a licence passporting memorandum in February 2025, which it presents among regulators' licence passporting initiatives.", "as_of": "2025-02", "date_precision": "month", "system": "Ghana-Rwanda licence passporting memorandum", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Ghana-Rwanda licence passporting memorandum", "country_label": "licence passporting memorandum", "class": "harmonisation", "platform": "", "owner": "Bank of Ghana; National Bank of Rwanda", "tiers": ""}
+  ],
+  "note": ""
+}

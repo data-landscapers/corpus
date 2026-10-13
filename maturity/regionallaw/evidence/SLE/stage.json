@@ -1,0 +1,16 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "2",
+   "accepted": "signed",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-001",
+   "gaps": "No source held dates a ratification or accession.",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union Commission's status list of 02/02/2026 records Ghana as having signed the African Union Convention on Cyber Security and Personal Data Protection on 04/07/2017.", "as_of": "2017-07-04", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The African Union Commission's status list of 02/02/2026 records Ghana as having ratified the African Union Convention on Cyber Security and Personal Data Protection on 13/05/2019, with the instrument deposited on 03/06/2019.", "as_of": "2019-05-13", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

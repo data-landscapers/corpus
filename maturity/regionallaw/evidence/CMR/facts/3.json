@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-30-cemac-gimac-norme-qr-code-interoperable",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed",
+     "fact": "The article says the CEMAC interoperable QR-code payment standard was validated by the UMAC Ministerial Committee in April 2026 and launched by GIMAC on 29 July 2026 for the six CEMAC states including Cameroon; it names no ratification step.",
+     "as_of": "2026-04", "date_precision": "month", "system": "CEMAC interoperable QR Code standard", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "CEMAC interoperable QR Code standard", "country_label": "norme QR Code interopérable de la CEMAC", "class": "harmonisation", "platform": "", "owner": "GIMAC; validated by the UMAC Ministerial Committee", "tiers": "banks, microfinance institutions, mobile-money wallets, payment institutions"},
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "", "platform": "", "owner": "GIMAC", "tiers": "banks, mobile money, microfinance"}
+  ],
+  "note": ""
+}

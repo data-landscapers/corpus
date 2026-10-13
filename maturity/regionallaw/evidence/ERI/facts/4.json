@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-tralac-afcfta-legal-texts-policy-documents",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none", "fact": "tralac states that, of the 55 AU member states, only Eritrea has yet to sign the consolidated text of the AfCFTA Agreement, which it says covers digital trade among other matters; 49 countries had signed and deposited ratification by July 2026. The page gives no date for the statement beyond its 'last updated: July 2026', so the published month is used.", "as_of": "2026-07", "date_precision": "month", "system": "AfCFTA Agreement", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Agreement", "country_label": "Agreement Establishing the African Continental Free Trade Area", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-24-bdi-burundi-sets-data-as-a-strategic-digital-public-good",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none", "fact": "Participants in the Paradigm Initiative and Dukingire Isi Yacu workshop in Bujumbura on 18-19 February 2026 called on the Government of Burundi to ratify the Malabo Convention, which the article treats as not yet ratified.", "as_of": "2026-02", "date_precision": "month", "system": "Malabo Convention", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "effect", "value": "none", "fact": "The article says experts at the February 2026 workshop found gaps and non-compliance with the Malabo Convention in Burundi's new personal data protection law (adopted 15 January 2026, promulgated 10 March 2026) and in the 2022 cybercrime law, although a government delegate described the data law as aligned with regional and international standards.", "as_of": "2026-02", "date_precision": "month", "system": "Malabo Convention", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Malabo Convention", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

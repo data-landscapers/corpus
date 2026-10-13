@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-26-bank-of-ghana-press-release-ghana-rwanda-mou-licence-passporting",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The Bank of Ghana's press release states that it and the National Bank of Rwanda signed a memorandum of understanding on 25 February 2025 at the Inclusive Fintech Forum in Rwanda to introduce a licence passporting framework and cross-border payment interoperability for regulated fintechs licensed by either central bank.", "as_of": "2025-02-25", "date_precision": "day", "system": "Ghana-Rwanda licence passporting MoU", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Ghana-Rwanda licence passporting MoU", "country_label": "licence passporting framework", "class": "harmonisation", "platform": "", "owner": "Bank of Ghana; National Bank of Rwanda", "tiers": "regulated fintechs licensed by either central bank"}
+  ],
+  "note": ""
+}

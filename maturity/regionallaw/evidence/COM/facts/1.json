@@ -1,0 +1,17 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed",
+     "fact": "The African Union Commission's status list of 02/02/2026 records Comoros as having signed the Convention on Cyber Security and Personal Data Protection on 29/01/2018, with no ratification or accession date and no deposit date.",
+     "as_of": "2018-01-29", "date_precision": "day",
+     "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none",
+     "fact": "As at 02/02/2026 the African Union Commission's list shows no ratification, accession or deposit by Comoros of the Convention, which entered into force on 8 June 2023 after the 15th ratification.",
+     "as_of": "2026-02-02", "date_precision": "day",
+     "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convention de l'Union africaine sur la cybersécurité et la protection des données à caractère personnel", "class": "harmonisation", "platform": "", "owner": "African Union Commission (depositary list)", "tiers": ""}
+  ],
+  "note": ""
+}

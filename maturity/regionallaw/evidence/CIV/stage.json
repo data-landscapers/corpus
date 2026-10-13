@@ -1,0 +1,16 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "3",
+   "accepted": "ratified",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-001;CIV-002",
+   "gaps": "No source held says a national law or rule was passed to give effect to a shared text.",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

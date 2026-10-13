@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-regionallaw.md — the twenty-eighth maturity study: African digital law taken into national law, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: regionallaw
@@ -58,7 +58,10 @@ Asked in order. Each is answered with a date and a link.
 - **A national law that a source says is modelled on a shared text is a yes to question 3.** One that a source says falls short of it, or needs amending to match it, is not.
 - **What a text covers and whom it binds is taken from what a source says of it**, never from reading its text for the purpose.
 - **How good the national law is, or how well it matches, is not judged.** A reported criticism is noted.
-- **Changes from the row as it stands.** It has no fixed ladder: 49 cells carry a remark and no stage.
+- **A blank line for the country in the African Union's register of a treaty is a dated statement that it has not signed** *(added in the run)*.
+- **A national law that a source calls inspired by a model law, in part, is not a yes to question 3** *(added in the run, for Lesotho)*. The question asks for a source saying the law was passed to give effect to the shared text.
+- **A ratification a dated source reports stands where the register shows none** *(added in the run, for Djibouti and Gabon)*; the summary names the difference.
+- **A year alone, in the as-at's own year, stands for the as-at** *(added in the run)*.
 
 `study.json` holds this as two aspects: `accepted` (`ratified`, `signed`, `none`) for questions 1 and 2, and `effect` (`in-use`, `in-law`, `none`) for 3 and 4.
 
@@ -68,10 +71,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 ## 5. What the run reads
 
-- **Read first**: **195 news stories about shared African digital law filed to a country**, covering 53 countries: 73 distinct stories, one of them the African Union's list of who has signed and ratified the Malabo Convention, which is filed to 53. No study has read them. The Central African Republic has none.
-- **Then, for every country those leave short of an answer**: the news stories its current cell cites, 75 across 38 countries.
-- **Then, only for a country still short of an answer**: one call of the regional stories that name it, from 56 stories shared across countries.
-- **Not read**: treaties, directives, laws and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Read**: the 195 news stories about shared African digital law filed to a country; then, for the 32 countries left at stage 1, stage 2 or without evidence, the stories their current cells cite.
+- **Not read**: the regional stories that name a country; long texts. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -80,10 +81,20 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 89 calls in two fan-outs, 108 facts.
+- [x] **D3. Staged** as at 2026-09-30: none at 5 or 4, 3: 23, 2: 10, 1: 20, none unplaced, one without evidence; one row removed (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Nearly every stage rests on one text**: the African Union's register of the Malabo Convention, dated 2 February 2026.
+- **No country reaches stage 4 or 5.** No story read reports a national law passed to give effect to a shared text.
+- **Djibouti and Gabon are stage 3** on a reported ratification, **Equatorial Guinea** on its parliament's vote of March 2026, **Lesotho** after the removed row.
+- **Cameroon is stage 2**: nothing says its regulator has applied the Central African payments regulation of April 2026.
+- **The Central African Republic is without evidence.**
+- **The 20 at stage 1 include Kenya, Egypt, Morocco, Ethiopia and Tanzania.** No story read names a community text that binds them.
+- **Tokens: about 35 million at the map**, ceiling 40 million, step 1 included.
 
 ## Boundary
 

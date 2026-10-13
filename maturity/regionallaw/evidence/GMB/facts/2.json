@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union Commission's status list dated 2 February 2026 records The Gambia as having signed the Convention on 2 December 2022, with no date of ratification or accession and no date of deposit; the list counts 21 signatures and 20 deposits among 55 states.", "as_of": "2026-02-02", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convention on Cyber Security and Personal Data Protection", "class": "harmonisation", "platform": "", "owner": "African Union Commission", "tiers": ""}
+  ],
+  "note": ""
+}

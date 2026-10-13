@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-gabonreview-beac-qr-code-interoperable-cemac",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed",
+     "fact": "GabonReview reports the BEAC launched the interoperable QR Code for the CEMAC on 29 July 2026 in Douala, following adoption of CEMAC/UMAC regulation No. 02/26 of 8 April 2026, a community text covering the six member states including Cameroon.",
+     "as_of": "2026-04-08", "date_precision": "day", "system": "CEMAC interoperable QR Code (Règlement N°02/26/CEMAC/UMAC/COREFNOFI)", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "CEMAC interoperable QR Code (Règlement N°02/26/CEMAC/UMAC/COREFNOFI)", "country_label": "QR Code de paiements interopérables de la Cemac", "class": "harmonisation", "platform": "EMVCo standards", "owner": "BEAC; operations routed and cleared via GIMAC", "tiers": "banks, microfinance institutions, payment institutions"}
+  ],
+  "note": ""
+}

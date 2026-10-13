@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "harmonisation",
+   "stage": "1",
+   "accepted": "none",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-regionallaw.py."
+  }
+ ]
+}

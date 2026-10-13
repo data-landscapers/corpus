@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none",
+     "fact": "The African Union Commission's status list dated 2 February 2026 records Tanzania (no. 50) with no date of signature, ratification or accession, and no deposit, for the Malabo Convention; the list totals 21 signatures and 20 ratifications among 55 states.",
+     "as_of": "2026-02-02", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

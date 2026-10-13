@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The African Union Commission's status list of 02/02/2026 records Sao Tome and Principe as having signed the Malabo Convention on 29/01/2016.", "as_of": "2016-01-29", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "The African Union Commission's status list of 02/02/2026 records Sao Tome and Principe as having ratified the Malabo Convention on 25/09/2023 and deposited the instrument on 15/02/2024.", "as_of": "2024-02-15", "date_precision": "day", "system": "African Union Convention on Cyber Security and Personal Data Protection", "class": "harmonisation"}
+  ],
+  "systems": [],
+  "note": ""
+}

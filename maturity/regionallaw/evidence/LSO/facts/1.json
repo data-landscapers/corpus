@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-31-lesotho-outdated-data-protection-act-no-commissioner-no-teeth",
+  "facts": [
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "Z. Mayet and Associates state that Lesotho signed the African Union Malabo Convention on 30 November 2023.", "as_of": "2023-11-30", "date_precision": "day", "system": "Malabo Convention (AU Convention on Cyber Security and Personal Data Protection)", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "accepted", "value": "signed", "fact": "The firm states Lesotho has not yet ratified the Convention per the AU status list last updated 8 July 2024.", "as_of": "2024-07-08", "date_precision": "day", "system": "Malabo Convention (AU Convention on Cyber Security and Personal Data Protection)", "class": "harmonisation"},
+    {"sub_indicator": "harmonisation", "aspect": "effect", "value": "in-law", "fact": "The firm describes the cross-border transfer rules of Lesotho's Data Protection Act No. 5 of 2012 as SADC-model-inspired; the Act's year is used as the date, the article being from 2025-10-31.", "as_of": "2012", "date_precision": "year", "system": "SADC Data Protection Model Law", "class": "harmonisation"}
+  ],
+  "systems": [
+    {"system": "Malabo Convention (AU Convention on Cyber Security and Personal Data Protection)", "country_label": "Malabo Convention", "class": "harmonisation", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "SADC Data Protection Model Law", "country_label": "SADC-model", "class": "harmonisation", "platform": "", "owner": "SADC", "tiers": ""}
+  ],
+  "note": ""
+}

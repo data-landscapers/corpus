@@ -1,0 +1,36 @@
+{
+  "slug": "2026-02-02-au-malabo-convention-status-list",
+  "facts": [
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "signed",
+      "fact": "The African Union status list of 02/02/2026 records Mozambique as having signed the Convention on Cyber Security and Personal Data Protection on 29 June 2018.",
+      "as_of": "2018-06-29",
+      "date_precision": "day",
+      "system": "African Union Convention on Cyber Security and Personal Data Protection",
+      "class": "harmonisation"
+    },
+    {
+      "sub_indicator": "harmonisation",
+      "aspect": "accepted",
+      "value": "ratified",
+      "fact": "The African Union status list of 02/02/2026 records Mozambique's ratification of the Convention on 2 December 2019 and the instrument deposited on 21 January 2020.",
+      "as_of": "2019-12-02",
+      "date_precision": "day",
+      "system": "African Union Convention on Cyber Security and Personal Data Protection",
+      "class": "harmonisation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "African Union Convention on Cyber Security and Personal Data Protection",
+      "country_label": "Malabo Convention",
+      "class": "harmonisation",
+      "platform": "",
+      "owner": "African Union",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}
