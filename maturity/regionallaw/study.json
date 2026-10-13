@@ -1,0 +1,150 @@
+{
+  "id": "regionallaw",
+  "study_file": "maturity-study-regionallaw.md",
+  "subjects": [
+    "gov.regional"
+  ],
+  "stage_topic": "gov.regional",
+  "redraws": [
+    "gov.regional--regional-legal-harmonisation"
+  ],
+  "carry": [
+    "gov.regional--regional-legal-harmonisation"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "Malabo Convention",
+    "Convention de Malabo",
+    "Convenção de Malabo",
+    "Convention on Cyber Security and Personal Data Protection",
+    "Convention on Cybersecurity and Personal Data Protection",
+    "Convention sur la cybersécurité et la protection des données",
+    "Convention sur la cyber sécurité et la protection des données",
+    "Convenção sobre Cibersegurança e Protecção de Dados",
+    "Convenção sobre Cibersegurança e Proteção de Dados",
+    "Protocol on Digital Trade",
+    "Digital Trade Protocol",
+    "Protocole sur le commerce numérique",
+    "Protocolo sobre Comércio Digital",
+    "legal harmonisation",
+    "legal harmonization",
+    "harmonisation of laws",
+    "harmonization of laws",
+    "harmonisation of legislation",
+    "harmonization of legislation",
+    "harmonise laws",
+    "harmonize laws",
+    "harmonised legal framework",
+    "harmonized legal framework",
+    "harmonised regulatory framework",
+    "harmonized regulatory framework",
+    "regulatory harmonisation",
+    "regulatory harmonization",
+    "harmonisation of regulations",
+    "harmonization of regulations",
+    "harmonisation des législations",
+    "harmonisation des lois",
+    "harmonisation juridique",
+    "harmonisation réglementaire",
+    "harmonisation des cadres juridiques",
+    "harmonisation des cadres réglementaires",
+    "harmonisation du cadre juridique",
+    "harmonização legislativa",
+    "harmonização jurídica",
+    "harmonização regulatória",
+    "harmonização das leis",
+    "model law",
+    "loi type",
+    "loi modèle",
+    "lei modelo",
+    "HIPSSA",
+    "Supplementary Act",
+    "Acte additionnel",
+    "Acto Adicional",
+    "Legal Framework for Cyberlaws",
+    "transposition of the directive",
+    "transpose the directive",
+    "transposition de la directive",
+    "transposer la directive",
+    "transposition des directives",
+    "transposição da directiva",
+    "transposição da diretiva",
+    "UEMOA directive",
+    "WAEMU directive",
+    "directive de l'UEMOA",
+    "directive UEMOA",
+    "CEMAC directive",
+    "directive CEMAC",
+    "directive de la CEMAC",
+    "règlement CEMAC",
+    "règlement de la CEMAC",
+    "CEMAC regulation",
+    "ECOWAS directive",
+    "directive de la CEDEAO",
+    "licence passporting",
+    "license passporting",
+    "mutual recognition of licences",
+    "mutual recognition of licenses",
+    "mutual recognition of electronic signatures",
+    "reconnaissance mutuelle des signatures",
+    "اتفاقية مالابو",
+    "اتفاقية الاتحاد الأفريقي لأمن الفضاء الإلكتروني",
+    "اتفاقية الاتحاد الإفريقي لأمن الفضاء الإلكتروني",
+    "بروتوكول التجارة الرقمية",
+    "مواءمة التشريعات",
+    "تنسيق التشريعات",
+    "توحيد التشريعات"
+  ],
+  "sub_indicators": [
+    {
+      "key": "harmonisation",
+      "label": "Regional digital law taken into national law",
+      "subject": "gov.regional",
+      "text": "Regional legal harmonisation: regional digital law taken into national law",
+      "indicator_id": "gov.regional--regional-legal-harmonisation-regional-digital-law-taken-into-national-law",
+      "class": "harmonisation"
+    }
+  ],
+  "classes": [
+    "harmonisation",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "accepted",
+      "name": "African digital law signed and ratified",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "ratified",
+        "signed"
+      ],
+      "values": [
+        "ratified",
+        "signed",
+        "none"
+      ]
+    },
+    {
+      "key": "effect",
+      "name": "Taken into national law and applied across a border",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-use",
+        "in-law"
+      ],
+      "values": [
+        "in-use",
+        "in-law",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
