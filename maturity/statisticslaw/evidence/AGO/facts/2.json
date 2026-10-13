@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-29-ago-angop-ine-public-consultation-statistics-law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Angop reports that INE opened a public consultation on 29 September 2026, to 2 October, on a proposed revision of the Lei do Sistema Estatístico Nacional, with the draft documents posted on the INE portal.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional (2011)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional",
+   "country_label": "Lei do Sistema Estatístico Nacional",
+   "class": "law",
+   "platform": "",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  },
+  {
+   "system": "Estratégia nacional de desenvolvimento da estatística",
+   "country_label": "Estratégia nacional de desenvolvimento da estatística",
+   "class": "other",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

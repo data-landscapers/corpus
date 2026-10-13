@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-statisticslaw.md — the twenty-fifth maturity study: the law on official statistics, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: statisticslaw
@@ -77,10 +77,23 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: the 52 stories and what the current cells cite, 80 calls; newest news for 31 countries short of an answer; two countries read by the parent. 168 facts held.
+- [x] **D3. Staged**: seven at stage 5, eight at 4, 38 at 3, one at 2, none unplaced, as at 2026-09-30; two facts removed and three added by the parent (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Angola, Burkina Faso, Côte d'Ivoire and Gabon (a decree under the law since 2023), Botswana (board constituted under the Act, 2023/24), Togo (council sat June 2026), Zambia (release calendar the Act requires).
+- **What the current cells cite was read for every country, laws included**, in the same fan-out as the 52 stories: for 25 countries the law's own text is the one source held.
+- **A decree adopted by cabinet counts as made** (Côte d'Ivoire), as in the e-commerce study.
+- **Orders for a population census are not rules under the law** (Kenya, stage 3). **Data-sharing agreements signed "in line with the Act" are not the law applied** (Ghana, stage 3).
+- **A decree that only cites the law among its bases is not a rule under it** (Benin, Djibouti).
+- **An amendment to the law is not a rule under it** (Mauritius, South Africa).
+- **Djibouti and Mauritania, unplaced before, hold a law**: Djibouti's of 2011 through decrees citing it, Mauritania's of 2005 with a 2006 council decree. **Equatorial Guinea**: Law 3/2020, from its statistics strategy.
+- **Passed and not shown as promulgated**: Ethiopia and Morocco stay on their old laws; Niger's draft ordonnance likewise.
+- **The summaries were written by the parent.** A country with one fact says so in its second paragraph to reach the word floor.
+- **Tokens: 37 million at the map**, step 1 included, ceiling 40 million.
 
 ## Boundary
 

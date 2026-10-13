@@ -1,0 +1,14 @@
+{
+  "slug": "2023-09-01-gbos-national-strategy-development-of-statistics-nsds-iii-2024-2028",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "GBoS's NSDS III says the 2005 Statistics Act governs statistical activities in The Gambia, provides for the national statistical system and establishes GBoS as its supervisory authority; the strategy was published 2023-09.", "as_of": "2005", "date_precision": "year", "system": "Statistics Act 2005", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "NSDS III says the Statistics Act is under revision with stakeholder inputs, and plans to review the 2019 Statistics Bill, advocate for its enactment and adopt a new statistics law by 2026; strategy published 2023-09.", "as_of": "2019", "date_precision": "year", "system": "Statistics Bill 2019", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act 2005", "country_label": "Statistics Act 2005", "class": "law", "platform": "", "owner": "Gambia Bureau of Statistics (supervisory authority)", "tiers": ""},
+    {"system": "Statistics Bill 2019", "country_label": "2019 statistics bill", "class": "law", "platform": "", "owner": "GBoS", "tiers": ""},
+    {"system": "NSDS III 2024-28", "country_label": "National Strategy for the Development of Statistics III", "class": "other", "platform": "", "owner": "GBoS", "tiers": ""},
+    {"system": "National Statistics Council", "country_label": "National Statistics Council", "class": "other", "platform": "", "owner": "National statistical system", "tiers": ""}
+  ],
+  "note": ""
+}

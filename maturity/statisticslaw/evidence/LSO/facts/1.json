@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-27-lesotho-eu-backs-new-statistics-bill-sundayexpress",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Sunday Express reports a media workshop on the proposed Statistics Bill, at which the Bureau of Statistics director and officials described its content and said it is expected to be enacted before the end of 2026; the date is the article's published date, the workshop having been held the Friday before.", "as_of": "2026-06-27", "date_precision": "day", "system": "Statistics Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Bill", "country_label": "proposed Statistics Bill", "class": "law", "platform": "", "owner": "Bureau of Statistics", "tiers": ""},
+    {"system": "Strengthening the National Statistical System for an Equitable Lesotho", "country_label": "Equitable Lesotho Project", "class": "other", "platform": "", "owner": "EU, implemented by Expertise France", "tiers": ""}
+  ],
+  "note": ""
+}

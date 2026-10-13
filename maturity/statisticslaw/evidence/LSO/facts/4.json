@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-lesotho-bos-about-nsds",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bureau of Statistics' own About page lists the Statistics Act 2001 first among its current strategic documents and says the 1965 act it followed gave no coordination role; the page carries no date, so the capture date is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "Statistics Act 2001", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Development of Statistics 2022/23-2026/27", "country_label": "NSDS", "class": "other", "platform": "", "owner": "Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

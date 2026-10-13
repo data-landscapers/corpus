@@ -1,0 +1,11 @@
+{
+  "slug": "1996-07-05-lei-7-96-sistema-estatistico-nacional",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Lei n.º 7/96 of 5 July 1996, by which the Assembleia da República created the Sistema Estatístico Nacional (SEN); the capture is an excerpt of the opening chapters.", "as_of": "1996-07-05", "date_precision": "day", "system": "Lei n.º 7/96 de 5 de Julho (Sistema Estatístico Nacional)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Lei n.º 7/96 de 5 de Julho (Sistema Estatístico Nacional)", "country_label": "Lei n.º 7/96", "class": "law", "platform": "", "owner": "Assembleia da República", "tiers": ""},
+    {"system": "Sistema Estatístico Nacional (SEN)", "country_label": "SEN", "class": "other", "platform": "", "owner": "Conselho Superior de Estatística; INE; Banco de Moçambique; CCRGP", "tiers": ""}
+  ],
+  "note": ""
+}

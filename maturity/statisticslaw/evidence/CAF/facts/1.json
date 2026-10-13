@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-10-caf-icasees-evaluation-mi-parcours-snds2",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "ICASEES reports that the bill to replace Law No. 01.008 of 16 July 2001 on the regulation of statistical activities has passed technical validation and strategic review and is before the Commission for official draft texts; the document gives no date for these steps, so the publication date of 2026-10-10 is used.", "as_of": "2026-10-10", "date_precision": "day", "system": "Projet de loi remplaçant la loi n° 01.008 du 16 juillet 2001 relative à la réglementation des activités statistiques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de développement de la statistique 2 (SNDS2), 2024-2028", "country_label": "SNDS2", "class": "other", "platform": "", "owner": "ICASEES", "tiers": ""}
+  ],
+  "note": ""
+}

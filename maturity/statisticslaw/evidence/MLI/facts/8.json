@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The manual cites article 1 of the 'Loi régissant les statistiques publiques' as laying down the principles on which statistical quality rests, treating it as the governing law; the document gives no year for the law, and is dated December 2025.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Loi régissant les statistiques publiques",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Manuel d'harmonisation des méthodologies des opérations de collecte",
+      "country_label": "Manuel d'harmonisation",
+      "class": "other",
+      "platform": "",
+      "owner": "INSTAT",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

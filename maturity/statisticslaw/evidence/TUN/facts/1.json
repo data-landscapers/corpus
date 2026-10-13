@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-05-diwanfm-tunisie-projet-loi-statistique-snds-2026-2030",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The acting president of the National Statistics Council says the ministry is preparing a new statistics bill as a comprehensive revision of the current statistics law, which dates from 1999 (Diwan FM, 5 June 2026; the 1999 law is the one in force, dated here to its year).",
+     "as_of": "1999", "date_precision": "year", "system": "Loi n° 99-32 du 13 avril 1999 relative au système national de la statistique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 99-32 du 13 avril 1999 relative au système national de la statistique", "country_label": "Loi de 1999 sur la statistique", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Stratégie nationale de développement de la statistique 2026-2030", "country_label": "", "class": "other", "platform": "", "owner": "National Statistics Council", "tiers": ""}
+  ],
+  "note": "The new bill is described as being prepared and about to be put forward, not published or tabled, so no draft fact."
+}

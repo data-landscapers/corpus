@@ -1,0 +1,16 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "3",
+   "standing": "in-force",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-001;DJI-002",
+   "gaps": "No source held names a decree, regulation or order made under the law.",
+   "note": "Counted from the four questions by study-ladder-statisticslaw.py."
+  }
+ ]
+}

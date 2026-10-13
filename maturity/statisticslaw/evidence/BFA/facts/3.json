@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-insd-plan-strategique-2026-2030",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The INSD strategic plan says the statistics law in force is Loi n°036-2021/AN of 6 December 2021 on the organisation and regulation of statistical activities, which governs the national statistical system and makes the INSD the central statistics body.", "as_of": "2021-12-06", "date_precision": "day", "system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The plan says decree No. 2025-1095/PF/PRIM/MEF of 26 August 2025, on the attributions, organisation and operation of the national statistical system, was adopted in application of the 2021 statistics law.", "as_of": "2025-08-26", "date_precision": "day", "system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "country_label": "Loi 036", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plan stratégique 2026-2030 de l'INSD", "country_label": "", "class": "other", "platform": "", "owner": "INSD", "tiers": ""},
+    {"system": "Décret n°2025-1095/PF/PRIM/MEF portant attributions, organisation et fonctionnement du Système statistique national", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

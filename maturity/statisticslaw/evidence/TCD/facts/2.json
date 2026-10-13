@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-02-inseed-anad-politique-dacces-microdonnees",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "INSEED's national data archive access policy requires users to comply with articles 4 to 10 of Loi N°26/PR/2019 of 11 June 2019 on the organisation and regulation of statistical activities in Chad, which oblige anyone handling individual data collected by the national statistical system to keep respondents anonymous (the page carries no date of its own; its published date is a retrieval proxy).", "as_of": "2019-06-11", "date_precision": "day", "system": "Loi N°26/PR/2019 du 11 juin 2019 portant organisation et règlementation des activités statistiques au Tchad", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Archive Nationale des Données du Tchad (ANAD)", "country_label": "ANAD", "class": "other", "platform": "", "owner": "INSEED", "tiers": "national"}
+  ],
+  "note": ""
+}

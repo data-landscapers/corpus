@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-17-statistics-botswana-annual-report-2023-24",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Statistics Botswana's annual report says the body is established under the Statistics Act of 2009 and is guided by it in carrying out its mandate.", "as_of": "2009", "date_precision": "year", "system": "Statistics Act of 2009", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The annual report says the Statistics Botswana Board is constituted in conformity with section 6 of the Statistics Act, with nine members appointed by the Minister and the Statistician General ex-officio, in the year to 31 March 2024.", "as_of": "2024-03-31", "date_precision": "day", "system": "Statistics Act of 2009", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Statistical System", "country_label": "National Statistical System (NSS)", "class": "other", "platform": "", "owner": "Statistics Botswana", "tiers": ""},
+    {"system": "Botswana Strategy for the Development of Statistics II", "country_label": "BSDS II", "class": "other", "platform": "", "owner": "Statistics Botswana", "tiers": ""}
+  ],
+  "note": ""
+}

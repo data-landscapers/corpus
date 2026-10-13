@@ -1,0 +1,10 @@
+{
+  "slug": "2010-12-01-bwa-statistics-act-2009",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Botswana's Statistics Act (Cap. 17:01, Act No. 15 of 2009), which establishes Statistics Botswana and the National Statistical System and states a commencement date of 1 December 2010.", "as_of": "2010-12-01", "date_precision": "day", "system": "Statistics Act (Cap. 17:01), Act No. 15 of 2009", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Statistical System", "country_label": "National Statistical System", "class": "other", "platform": "", "owner": "Statistics Botswana", "tiers": ""}
+  ],
+  "note": ""
+}

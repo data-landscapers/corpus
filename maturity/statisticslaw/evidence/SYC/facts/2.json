@@ -1,0 +1,10 @@
+{
+  "slug": "2010-07-09-seychelles-national-bureau-of-statistics-act-2010",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of the National Bureau of Statistics Act, 2010 (Act No. 14 of 2010), which establishes the National Bureau of Statistics as the principal statistics agency and repeals the National Statistics Bureau Act 2005; it was assented to on 9 July 2010 and published in the Official Gazette supplement of 19 July 2010.", "as_of": "2010-07-09", "date_precision": "day", "system": "National Bureau of Statistics Act, 2010 (Act No. 14 of 2010)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Bureau of Statistics", "country_label": "National Bureau of Statistics", "class": "other", "platform": "", "owner": "Government of Seychelles", "tiers": ""}
+  ],
+  "note": ""
+}

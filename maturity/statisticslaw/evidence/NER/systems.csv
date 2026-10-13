@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Loi n° 2004-011 du 30 mars 2004 portant sur l'organisation de l'activité statistique,Loi n° 2004-011,law,,République du Niger,,2004-03-30-loi-2004-011-organisation-activite-statistique
+NER,Système Statistique National,Système Statistique National,other,,République du Niger,,2004-03-30-loi-2004-011-organisation-activite-statistique
+NER,Institut National de la Statistique,INS,other,,Ministre en charge des Finances (tutelle),,2004-03-30-loi-2004-011-organisation-activite-statistique
+NER,Conseil National de la Statistique,Conseil National de la Statistique,other,,Ministre en charge des Finances (président),,2004-03-30-loi-2004-011-organisation-activite-statistique

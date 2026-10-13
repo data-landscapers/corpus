@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01-mauritanie-snds-strategie-nationale-decennale-developpement-statistique-2021-2030",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The national statistics strategy lists law no. 2005-017 of 27 January 2005 on public statistics, the 'statistics law', as the main text governing public statistical activity, and says the law had not been revised.", "as_of": "2005-01-27", "date_precision": "day", "system": "Loi n° 2005-017 relative à la statistique publique (2005)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Decree no. 2006-024 of 17 April 2006 sets the organisation and operating rules of the National Statistical Council, created in application of the statistics law.", "as_of": "2006-04-17", "date_precision": "day", "system": "Loi n° 2005-017 relative à la statistique publique (2005)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Order no. 1012/MEF/08 of 30 March 2008 appointed the members of the National Statistical Council, the body created under the statistics law.", "as_of": "2008-03-30", "date_precision": "day", "system": "Loi n° 2005-017 relative à la statistique publique (2005)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

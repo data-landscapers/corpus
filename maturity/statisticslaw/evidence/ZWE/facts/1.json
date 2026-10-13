@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-22-zimstat-outdated-laws-hinder-delivery-of-statistics",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ZimStat's spokesperson said the existing Census and Statistics Act is regarded as outdated and does not adequately support an effective national statistical system or big-data and administrative-data sharing; the Act is in force (no date of the Act given, so the article's published date is used).", "as_of": "2025-10-22", "date_precision": "day", "system": "Census and Statistics Act", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Reach not recorded: the article says the 2025 MICS7 survey will be conducted under the Act's authority, which is a survey carried out, not a dated act of the law applied."
+}

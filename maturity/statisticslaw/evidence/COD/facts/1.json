@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-12-cod-acp-tshisekedi-ordonnance-loi-activite-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The ACP reports that the President signed the ordonnance-loi organising statistical activity, as read from the minutes of the 98th Council of Ministers; no signing date is given, so the publication date is used.", "as_of": "2026-09-12", "date_precision": "day", "system": "Ordonnance-loi portant organisation de l'activité statistique en RDC (2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Ordonnance-loi portant organisation de l'activité statistique en RDC", "country_label": "Ordonnance-loi portant organisation de l'activité statistique", "class": "law", "platform": "", "owner": "Presidency; Council of Ministers", "tiers": ""},
+    {"system": "Institut national de la statistique (INS)", "country_label": "INS", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

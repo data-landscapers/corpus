@@ -1,0 +1,14 @@
+{
+  "slug": "1999-04-21-statistics-act-6-of-1999-2",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "This document is the text of the Statistics Act, 1999 (Act 6 of 1999), published in Government Gazette 19957 on 21 April 1999 after presidential assent; it repeals the Statistics Act, 1976 and the earlier homeland statistics Acts.",
+     "as_of": "1999-04-21", "date_precision": "day",
+     "system": "Statistics Act, 1999 (Act 6 of 1999)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics South Africa", "country_label": "Statistics South Africa", "class": "other", "platform": "", "owner": "Statistician-General", "tiers": ""},
+    {"system": "South African Statistics Council", "country_label": "South African Statistics Council", "class": "other", "platform": "", "owner": "Minister", "tiers": ""}
+  ],
+  "note": ""
+}

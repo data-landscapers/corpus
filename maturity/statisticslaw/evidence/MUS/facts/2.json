@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-19-budget-annex-2026-27-statistics-act-independence",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Budget Annex 2026-2027 refers to the governance, quality assurance, oversight and confidentiality safeguards 'provided under the Statistics Act' and says the Act will be amended on public sector debt statistics and on prior approval of the Statistics Board; the document is dated by its published date.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Statistics Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics Act 2000",
+   "country_label": "Statistics Act",
+   "class": "law",
+   "platform": "",
+   "owner": "Statistics Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "Announced amendments only; no dated act under the law."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-04-inseed-cns-13e-session-orientations",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "INSEED states that the National Statistics Council was created by law no. 2011-014 of 3 June 2011 on the organisation of statistical activity in Togo, which remains the basis of the council in 2026.", "as_of": "2011-06-03", "date_precision": "day", "system": "Loi n° 2011-014 du 3 juin 2011 portant organisation de l'activité statistique au Togo", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "INSEED states that the council was made operational by decree no. 2012-262/PR of 7 November 2012 on the composition and functioning of the National Statistics Council.", "as_of": "2012-11-07", "date_precision": "day", "system": "Loi n° 2011-014 du 3 juin 2011 portant organisation de l'activité statistique au Togo", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "INSEED reports that the National Statistics Council, the body the 2011 law sets up, held its 13th ordinary session on 30 June 2026 under its president and adopted the 2023 and 2024 national statistical activity reports.", "as_of": "2026-06-30", "date_precision": "day", "system": "Loi n° 2011-014 du 3 juin 2011 portant organisation de l'activité statistique au Togo", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

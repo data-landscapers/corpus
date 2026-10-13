@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-17-statafric-seychelles-peer-review-report",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The AU/STATAFRIC peer review report on Seychelles' statistical system, published 17 October 2025 (review held 12-16 May 2025), recommends accelerating adoption of the new Statistics Bill to modernise the legal framework; no date for the bill is given, so the publication date is used.",
+     "as_of": "2025-10-17", "date_precision": "day", "system": "Statistics Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Development of Statistics (NSDS) 2023-2027", "country_label": "NSDS 2023-2027", "class": "other", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-25-zimstat-national-statistical-system",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ZIMSTAT states that official statistics in Zimbabwe are carried out on the basis of the Census and Statistics Act from 2007, which sets up the Zimbabwe National Statistics Agency and its Board (no event date given, so the page's published date is used).", "as_of": "2025-03-25", "date_precision": "day", "system": "Census and Statistics Act (2007)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Page also says the Act is not fully in line with international practice and the African Charter on Statistics is unsigned; both class other, no fact."
+}

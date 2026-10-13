@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-13-direction-generale-de-la-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Economy page says the Head of State promulgated loi n°015/2014 instituting and organising the National Statistical System, while noting that the 1983 ministry-organisation decree still defines the statistics directorate's missions; the page gives no promulgation date, so the year comes from the law's number.", "as_of": "2014", "date_precision": "year", "system": "Loi n°015/2014 portant institution et organisation du Système Statistique National", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Direction Générale de la Statistique (Institut National de la Statistique)", "country_label": "DGS / INS", "class": "other", "platform": "", "owner": "Ministère de l'Économie et des Participations", "tiers": ""}
+  ],
+  "note": ""
+}

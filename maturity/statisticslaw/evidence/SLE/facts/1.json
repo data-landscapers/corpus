@@ -1,0 +1,10 @@
+{
+  "slug": "2002-11-07-sierra-leone-statistics-act-2002",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of the Statistics Act, 2002, published in the Sierra Leone Gazette Acts Supplement of 7 November 2002 and recorded as passed in Parliament on 12 September 2002; it establishes Statistics Sierra Leone as a body corporate and repeals the Statistics Act 1963.", "as_of": "2002", "date_precision": "year", "system": "The Statistics Act, 2002", "class": "law"}
+  ],
+  "systems": [
+    {"system": "The Statistics Act, 2002", "country_label": "Statistics Act, 2002", "class": "law", "platform": "", "owner": "Parliament of Sierra Leone", "tiers": ""}
+  ],
+  "note": ""
+}

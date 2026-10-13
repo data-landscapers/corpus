@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-23-parliament-atc-109-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "A parliamentary committee report of 23 June 2026 records Stats SA briefing it on 28 April 2026 on its proposed amendment of the Statistics Act (No. 6 of 1999), so the 1999 Act is the law in force, and lists rolling out amendments under Act No. 29 of 2024 as a 2026 priority.",
+     "as_of": "1999", "date_precision": "year",
+     "system": "Statistics Act 6 of 1999", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act 6 of 1999", "country_label": "Statistics Act (No. 6 of 1999)", "class": "law", "platform": "", "owner": "Parliament of South Africa", "tiers": "national"},
+    {"system": "Statistics Amendment Act 29 of 2024", "country_label": "Statistics Act No.29 of 2024", "class": "law", "platform": "", "owner": "Parliament of South Africa", "tiers": "national"},
+    {"system": "National Strategy for Developmental Statistics", "country_label": "National Strategy for Developmental Statistics", "class": "other", "platform": "", "owner": "Stats SA", "tiers": "national"}
+  ],
+  "note": "Regulations and about 20 MoUs are said to be under development for the amendments: no dated rule made and no dated act under the law, so no reach fact."
+}

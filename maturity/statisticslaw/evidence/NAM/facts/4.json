@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-24-nsa-national-statistics-system-standards-package",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Namibia Statistics Agency's National Statistics System document repository lists the Statistics Act 2011 among its documents.", "as_of": "2011", "date_precision": "year", "system": "Statistics Act 2011", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act 2011", "country_label": "Statistics Act 2011", "class": "law", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": "The listing body does not itself tie the five 24 September 2025 standards to the Act (only the page's editorial note does), so no reach fact is recorded."
+}

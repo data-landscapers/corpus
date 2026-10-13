@@ -1,0 +1,17 @@
+{
+  "slug": "2004-07-01-liberia-national-statistics-and-geo-information-act-2004",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The document is the text of Liberia's National Statistics and Geo-Information Act, an Act adding Chapter 50A to the New Executive Law, which establishes LISGIS as an autonomous agency; it is marked approved 22 July 2004.",
+      "as_of": "2004-07-22",
+      "date_precision": "day",
+      "system": "National Statistics and Geo-Information Act (2004)",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

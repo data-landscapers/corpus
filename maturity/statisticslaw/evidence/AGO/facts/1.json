@@ -1,0 +1,10 @@
+{
+  "slug": "2011-01-14-lei-3-11-lei-do-sistema-estatistico-nacional",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Angola's Lei n.º 3/11 of 14 January 2011, the Lei do Sistema Estatístico Nacional, passed by the Assembleia Nacional and published in the Diário da República I Série n.º 9 on that date; it replaces the 1996 statistics law (Lei n.º 15/96) and sets up the national statistical system.", "as_of": "2011-01-14", "date_precision": "day", "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional (2011)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional (2011)", "country_label": "Lei do Sistema Estatístico Nacional", "class": "law", "platform": "", "owner": "Assembleia Nacional", "tiers": ""}
+  ],
+  "note": ""
+}

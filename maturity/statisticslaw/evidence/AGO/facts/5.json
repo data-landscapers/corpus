@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-10-decreto-presidencial-43-26-estatuto-organico-do-ine",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "Decreto Presidencial n.º 43/26 of 10 March 2026 is the organic statute of INE, setting it up as central executive body of the national statistical system under the Lei do Sistema de Estatística Nacional and revoking the 2017 statute.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional (2011)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional",
+   "country_label": "Lei do Sistema Estatístico Nacional",
+   "class": "law",
+   "platform": "",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  },
+  {
+   "system": "Conselho Nacional de Estatística",
+   "country_label": "Conselho Nacional de Estatística",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

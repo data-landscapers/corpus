@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-29-ghana-statistical-service-statistical-service-act",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Ghana Statistical Service's own page reproduces the operative text of the Statistical Service Act (Act 1003) as the governing law; the page is undated, so the year is the Act's, 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Statistical Service Act, 2019 (Act 1003)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Statistical Service Act, 2019 (Act 1003)",
+      "country_label": "Statistical Service Act, 2019 (Act 1003)",
+      "class": "law",
+      "platform": "",
+      "owner": "Ghana Statistical Service",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

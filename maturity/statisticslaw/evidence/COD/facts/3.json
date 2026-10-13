@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-12-cod-opinioninfo-ratification-cadre-activite-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The Council of Ministers (98th meeting, 11 September 2026) validated a bill authorising ratification of the ordonnance-loi organising statistical activity, submitted by the Plan minister; the document gives no promulgation or commencement date for the ordonnance-loi itself.",
+     "as_of": "2026-09-11", "date_precision": "day",
+     "system": "Ordonnance-loi portant organisation de l'activité statistique (2026)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Only the ratification bill is dated; the ordonnance-loi's own in-force date and any rules or acts under it are not stated, so no in-force or reach fact."
+}

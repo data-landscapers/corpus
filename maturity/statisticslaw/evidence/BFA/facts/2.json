@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The SDS5 states Burkina Faso adopted a new statistics law, Loi n°036-2021/AN of 6 December 2021 on the organisation and regulation of statistical activities, and uses it as the framework defining the national statistical system's mission.", "as_of": "2021-12-06", "date_precision": "day", "system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The SDS5 says three application decrees of the 2021 statistics law are available, while texts on the statistics development fund are still awaited; the decrees are undated here, so the document's own date (December 2025) is used.", "as_of": "2025-12", "date_precision": "month", "system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The SDS5 evaluation of 2021-2024 says the organs of the national statistics council worked satisfactorily, including granting statistical visas, which the 2021 law requires for surveys; the period is 2021-2024 and no single date is given.", "as_of": "2024", "date_precision": "year", "system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n°036-2021/AN portant organisation et réglementation des activités statistiques (2021)", "country_label": "Burkina Faso statistics law", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Schéma directeur de la statistique 2026-2030 (SDS5)", "country_label": "SDS5", "class": "other", "platform": "", "owner": "Conseil national de la statistique", "tiers": ""},
+    {"system": "Décret n°2007-741/PRES/PM/MEF portant organisation et réglementation des activités statistiques", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-10-house-passes-statistics-bill-third-reading",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "NALTF reports the House of Representatives passed the Statistics Bill, 2025 (HB.2491) at third reading on 10 December 2025, a bill to repeal the Statistics Act No. 9 of 2007.", "as_of": "2025-12-10", "date_precision": "day", "system": "Statistics Bill, 2025 (HB.2491)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "NALTF refers to the existing Statistics Act, No. 9, 2007, which the Bill would repeal.", "as_of": "2007", "date_precision": "year", "system": "Statistics Act, 2007", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

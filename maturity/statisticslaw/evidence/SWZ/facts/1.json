@@ -1,0 +1,11 @@
+{
+  "slug": "1967-10-27-eswatini-statistics-act-1967",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of the Statistics Act, 1967 (Act 14 of 1967), consolidated at 1 December 1998 and stated to be the latest version, which commenced on 27 October 1967.", "as_of": "1967-10-27", "date_precision": "day", "system": "Statistics Act, 1967", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act, 1967", "country_label": "Statistics Act, 1967 (Act 14 of 1967)", "class": "law", "platform": "", "owner": "Prime Minister's office", "tiers": ""},
+    {"system": "Central Statistical Office", "country_label": "Central Statistical Office", "class": "other", "platform": "", "owner": "Prime Minister's office", "tiers": ""}
+  ],
+  "note": ""
+}

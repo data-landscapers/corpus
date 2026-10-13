@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-18-civ-conseil-des-ministres-decrets-application-loi-systeme-statistique-national",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Council of Ministers communiqué of 18 June 2025 names law 2020-950 of 7 December 2020, amending and completing law 2013-537 of 30 July 2013 on the organisation of the National Statistical System, as the law its decrees apply.",
+   "as_of": "2020-12-07",
+   "date_precision": "day",
+   "system": "Loi n°2013-537 du 30 juillet 2013 portant organisation du Système Statistique National, as amended by loi n°2020-950",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "On 18 June 2025 the Council of Ministers adopted three decrees applying the statistics law: on the visa for surveys and censuses by bodies of the National Statistical System, on the pricing of statistical products and services, and on passing administrative files to the system's administrations for statistical use.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "Loi n°2013-537 du 30 juillet 2013 portant organisation du Système Statistique National, as amended by loi n°2020-950",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2013-537 du 30 juillet 2013 portant organisation du Système Statistique National, as amended by loi n°2020-950",
+   "country_label": "loi portant organisation du Système Statistique National",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Read whole by the parent: the passages file did not carry the statistics paragraph."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2004-03-30-loi-2004-011-organisation-activite-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Niger's Loi n° 2004-011 of 30 March 2004 on the organisation of statistical activity, which creates the Institut National de la Statistique and the national statistical system; it states it was adopted by the National Assembly and promulgated by the President.", "as_of": "2004-03-30", "date_precision": "day", "system": "Loi n° 2004-011 du 30 mars 2004 portant sur l'organisation de l'activité statistique et créant l'Institut National de la Statistique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2004-011 du 30 mars 2004 portant sur l'organisation de l'activité statistique", "country_label": "Loi n° 2004-011", "class": "law", "platform": "", "owner": "République du Niger", "tiers": ""},
+    {"system": "Système Statistique National", "country_label": "Système Statistique National", "class": "other", "platform": "", "owner": "République du Niger", "tiers": ""},
+    {"system": "Institut National de la Statistique", "country_label": "INS", "class": "other", "platform": "", "owner": "Ministre en charge des Finances (tutelle)", "tiers": ""},
+    {"system": "Conseil National de la Statistique", "country_label": "Conseil National de la Statistique", "class": "other", "platform": "", "owner": "Ministre en charge des Finances (président)", "tiers": ""}
+  ],
+  "note": ""
+}

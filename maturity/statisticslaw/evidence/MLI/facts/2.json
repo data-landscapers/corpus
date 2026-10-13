@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-mali-instat-microdata-catalogue",
+  "facts": [],
+  "systems": [
+    {"system": "Catalogue de données (NADA)", "country_label": "INSTAT microdata catalogue", "class": "other", "platform": "NADA", "owner": "INSTAT", "tiers": ""}
+  ],
+  "note": "A microdata catalogue listing; it says nothing about a statistics law."
+}

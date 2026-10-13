@@ -1,0 +1,46 @@
+{
+  "slug": "2020-03-01-instat-mali-schema-directeur-statistique-2020-2024",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The strategy says the statistics law of 24 February 2016 gave the national statistical system a legal framework suited to and in line with the African Charter on Statistics.",
+      "as_of": "2016-02-24",
+      "date_precision": "day",
+      "system": "Loi n°2016-005 du 24 février 2016 régissant les Statistiques publiques",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The strategy says the implementing decrees of the statistics law were taken in 2016.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Loi n°2016-005 du 24 février 2016 régissant les Statistiques publiques",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "applied",
+      "fact": "The strategy says the order appointing the members of the National Statistics Council, the coordination body set up under the statistics law, was taken only in 2018, which delayed putting the body in place.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Loi n°2016-005 du 24 février 2016 régissant les Statistiques publiques",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Schéma Directeur de la Statistique 2020-2024",
+      "country_label": "SDS 2020-2024",
+      "class": "other",
+      "platform": "",
+      "owner": "Conseil national de la statistique",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

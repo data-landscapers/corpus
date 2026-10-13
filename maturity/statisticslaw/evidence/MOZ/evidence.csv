@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,law,standing,in-force,"The document is the text of Lei n.º 7/96 of 5 July 1996, by which the Assembleia da República created the Sistema Estatístico Nacional (SEN); the capture is an excerpt of the opening chapters.",1996-07-05,day,Lei n.º 7/96 de 5 de Julho (Sistema Estatístico Nacional),law,1996-07-05-lei-7-96-sistema-estatistico-nacional,https://ieda.gov.mz/poema/EST-S1/EST-S1-Lei_7_96_de_5_de_Julho.pdf

@@ -1,0 +1,10 @@
+{
+  "slug": "2000-01-01-statistics-act-2000-consolidated",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of the Statistics Act (Act 38 of 2000), in its consolidated version as amended in 2011, which commenced on 2 April 2001 and makes Statistics Mauritius the central statistical authority.", "as_of": "2001-04-02", "date_precision": "day", "system": "Statistics Act (Act 38 of 2000)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act (Act 38 of 2000)", "country_label": "Statistics Act", "class": "law", "platform": "", "owner": "Government of Mauritius", "tiers": ""}
+  ],
+  "note": ""
+}

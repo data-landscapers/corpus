@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-10-imf-mauritius-rosc-data-module",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The IMF Data ROSC says the Statistics Act gives Statistics Mauritius its legal mandate (Articles 3, 10 and 22) and that the authorities report most recommended amendments already made through the Finance Act 2025.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Statistics Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics Act 2000",
+   "country_label": "Statistics Act",
+   "class": "law",
+   "platform": "",
+   "owner": "Statistics Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "Mission of September 2025; amendments through the Finance Act 2025 are amendments, not rules or applications."
+}

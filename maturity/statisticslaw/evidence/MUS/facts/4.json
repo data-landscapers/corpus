@@ -1,0 +1,34 @@
+{
+ "slug": "2021-03-01-strategy-for-official-statistics-2020-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Statistics Mauritius says it operates under the Statistics Act 2000, which sets its mandate to collect, compile and disseminate statistics and to coordinate producers; the document gives March 2021 as its date.",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "Statistics Act 2000",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Statistics Act 2000",
+   "country_label": "Statistics Act",
+   "class": "law",
+   "platform": "",
+   "owner": "Statistics Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "Strategy for Official Statistics 2020-2025",
+   "country_label": "Strategy for Official Statistics 2020-2025",
+   "class": "other",
+   "platform": "",
+   "owner": "Statistics Mauritius",
+   "tiers": ""
+  }
+ ],
+ "note": "A strategy is not applied under the law; it plans a review of the Act."
+}

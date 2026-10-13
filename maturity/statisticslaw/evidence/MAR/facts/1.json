@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-02-conseil-gouvernement-approuve-loi-systeme-statistique-national",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Conseil de gouvernement approved draft law n° 046.26 on the national statistical system on 2 July 2026, presented by the Interior Minister, setting a new legal framework for the system; no parliamentary adoption is stated.",
+      "as_of": "2026-07-02",
+      "date_precision": "day",
+      "system": "Projet de loi n° 046.26 relatif au Système statistique national",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

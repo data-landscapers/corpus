@@ -1,0 +1,17 @@
+{
+ "slug": "2006-09-08-kenya-statistics-act-2006",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The document is the text of Kenya's Statistics Act (Cap. 112), assented to on 23 August 2006 and commenced on 1 February 2007, establishing the Kenya National Bureau of Statistics; this version is the consolidated revision to 31 December 2022.",
+   "as_of": "2006-08-23",
+   "date_precision": "day",
+   "system": "Statistics Act, 2006 (Cap. 112)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "One fact removed by the parent: see corrections.csv."
+}

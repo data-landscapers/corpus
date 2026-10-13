@@ -1,0 +1,15 @@
+{
+  "slug": "2018-04-18-loi-2018-004-activites-statistiques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document is the text of Loi n° 2018-004 on the organisation and regulation of statistical activities (the 'loi statistique'), adopted by the Senate on 2 March 2018 and the National Assembly on 12 March 2018, validated by the High Constitutional Court and promulgated on 18 April 2018.",
+     "as_of": "2018-04-18", "date_precision": "day",
+     "system": "Loi n° 2018-004 relative à l'organisation et à la réglementation des activités statistiques (2018)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 67-026 du 18 décembre 1967 sur l'obligation et le secret en matière de statistique", "country_label": "Loi n° 67-026", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Stratégie Nationale pour le Développement de la Statistique", "country_label": "SNDS", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Système Statistique National", "country_label": "Système Statistique National", "class": "other", "platform": "", "owner": "INSTAT", "tiers": ""}
+  ],
+  "note": ""
+}

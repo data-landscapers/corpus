@@ -1,0 +1,10 @@
+{
+  "slug": "1968-08-05-morocco-decret-royal-370-67-etudes-statistiques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This is the text of Royal Decree-Law no. 370-67 of 5 August 1968 on statistical studies, published in Bulletin Officiel no. 2911 of 14 August 1968 and in force from 15 August 1968.", "as_of": "1968-08-05", "date_precision": "day", "system": "Décret Royal portant loi n° 370-67 du 5 août 1968 relatif aux études statistiques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Comité de Coordination des Etudes Statistiques (CO.CO.E.S.)", "country_label": "CO.CO.E.S.", "class": "other", "platform": "", "owner": "Prime Minister", "tiers": ""}
+  ],
+  "note": ""
+}

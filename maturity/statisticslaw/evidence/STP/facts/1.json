@@ -1,0 +1,10 @@
+{
+  "slug": "1998-08-31-sao-tome-lei-5-98-bases-do-sistema-estatistico-nacional",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of Lei n.º 5/98, Bases do Sistema Estatístico Nacional, passed by the Assembleia Nacional on 12 August 1998 and promulgated on 31 August 1998, which Article 18 brings into force immediately.", "as_of": "1998-08-31", "date_precision": "day", "system": "Lei n.º 5/98 Bases do Sistema Estatístico Nacional (1998)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Sistema Estatístico Nacional (SEN)", "country_label": "Sistema Estatístico Nacional", "class": "other", "platform": "", "owner": "Ministro responsável pelo Planeamento (tutela)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2021-05-20-loi-1-08-organisation-systeme-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of Burundi's Loi n°1/08 of 20 May 2021, which modifies the statistics law of 25 September 2007 on the organisation of the national statistical system and enters into force on the day of its promulgation.", "as_of": "2021-05-20", "date_precision": "day", "system": "Loi n°1/08 du 20/05/2021 portant modification de la loi n°1/17 du 25 septembre 2007 portant Organisation du Système Statistique au Burundi", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n°1/17 du 25 septembre 2007 portant Organisation du Système Statistique au Burundi", "country_label": "Loi n°1/17 du 25/09/2007", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Système Statistique National (SSN)", "country_label": "Système Statistique National", "class": "other", "platform": "", "owner": "Ministre ayant les statistiques dans ses attributions", "tiers": "national, ministries, public and parapublic bodies"},
+    {"system": "Comité National de l'Information Statistique (CNIS)", "country_label": "CNIS", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Comité Technique de l'Information Statistique (CTIS)", "country_label": "CTIS", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

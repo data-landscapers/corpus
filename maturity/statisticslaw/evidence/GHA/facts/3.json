@@ -1,0 +1,26 @@
+{
+  "slug": "2019-09-27-statistical-service-act-2019",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "This is the text of the Statistical Service Act, 2019 (Act 1003), assented to 24 September 2019 and commenced 27 September 2019.",
+      "as_of": "2019-09-27",
+      "date_precision": "day",
+      "system": "Statistical Service Act, 2019 (Act 1003)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Statistical Service Act, 2019 (Act 1003)",
+      "country_label": "Statistical Service Act, 2019 (Act 1003)",
+      "class": "law",
+      "platform": "",
+      "owner": "Ghana Statistical Service",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

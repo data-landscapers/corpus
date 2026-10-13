@@ -1,0 +1,11 @@
+{
+  "slug": "2023-07-01-second-national-strategy-for-development-of-statistics-2023-2027",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Minister's foreword says the Census and Statistics Act of 1955 and the Agricultural Statistics Act of 1964 were repealed and replaced by Statistics Act No. 13 of 2018, which reconstituted the Central Statistics Office as the Zambia Statistics Agency.", "as_of": "2018", "date_precision": "year", "system": "Statistics Act No. 13 of 2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The foreword says operationalisation of the Act has started with the appointment of the Board of Directors and the Statistician General and the establishment of a National Statistical Coordinating Committee of fifteen ministries; the document gives no date for these, so its July 2023 publication date is used.", "as_of": "2023-07", "date_precision": "month", "system": "Statistics Act No. 13 of 2018", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Second National Strategy for the Development of Statistics (NSDS2) 2023-2027", "country_label": "NSDS2", "class": "other", "platform": "", "owner": "Ministry of Finance and National Planning; Zambia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

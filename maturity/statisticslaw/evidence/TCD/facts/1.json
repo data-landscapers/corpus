@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-inseed-tchad-textes-reglementaires-loi-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "INSEED's regulatory-texts page names Loi N°026/PR/2019 on the organisation and regulation of statistical activities in Chad as the statistics law, which makes INSEED the central body of the national statistical system, and lists the law as dated June 2019.", "as_of": "2019-06", "date_precision": "month", "system": "Loi N°026/PR/2019 portant organisation et règlementation des activités statistiques au Tchad", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The same page lists three decrees dated July 2019 setting out the attributions, organisation and operation of the National Statistics Council, INSEED and the National Statistics Development Fund, alongside an undated decree on the CSS and CPS.", "as_of": "2019-07", "date_precision": "month", "system": "Loi N°026/PR/2019 portant organisation et règlementation des activités statistiques au Tchad", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Système Statistique National", "country_label": "Système Statistique National (SSN)", "class": "other", "platform": "", "owner": "INSEED as central body", "tiers": ""},
+    {"system": "INSEED", "country_label": "Institut National de la Statistique, des Études Économiques et Démographiques", "class": "other", "platform": "", "owner": "Ministry of Finance, Budget, Economy, Plan and International Cooperation", "tiers": ""},
+    {"system": "Fonds National de Développement de la Statistique", "country_label": "FNDS", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Conseil National de la Statistique", "country_label": "CNS", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Ecole Nationale de la Statistique et d'Economie Appliquée", "country_label": "ENSEA", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

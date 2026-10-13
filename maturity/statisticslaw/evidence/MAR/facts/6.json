@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-28-morocco-loi-047-26-haut-commissariat-au-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n° 047.26 relative au Haut-Commissariat au Plan (dahir n° 1.26.70 du 28 juillet 2026)", "country_label": "Loi HCP", "class": "other", "platform": "", "owner": "Haut-Commissariat au Plan", "tiers": ""},
+    {"system": "Conseil national de la l'information statistique", "country_label": "المجلس الوطني للمعلومة الإحصائية", "class": "other", "platform": "", "owner": "Provided for in the legislation on the national statistical system", "tiers": ""}
+  ],
+  "note": "This is the HCP law (promulgated 28 July 2026), not the statistics law; it refers to separate legislation on the national statistical system without naming it, so no fact is recorded."
+}

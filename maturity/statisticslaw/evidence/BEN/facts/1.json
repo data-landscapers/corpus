@@ -1,0 +1,10 @@
+{
+  "slug": "2022-06-27-loi-2022-07-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Loi n° 2022-07 of 27 June 2022 on the organisation and regulation of statistical activities in Benin, adopted by the National Assembly on 2 June 2022 and promulgated by the President.", "as_of": "2022-06-27", "date_precision": "day", "system": "Loi n° 2022-07 du 27 juin 2022 portant organisation et réglementation des activités statistiques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2022-07 du 27 juin 2022 portant organisation et réglementation des activités statistiques", "country_label": "Loi statistique", "class": "law", "platform": "", "owner": "National Assembly / Presidency of the Republic", "tiers": ""}
+  ],
+  "note": ""
+}

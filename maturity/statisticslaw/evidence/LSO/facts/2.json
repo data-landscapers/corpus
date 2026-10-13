@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-12-lesotho-nss-peer-review-report",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The STATAFRIC peer review says the Statistics Act 2001 established the Bureau of Statistics and the national statistical system and the National Statistical Council, and treats it as the current Act that needs modernising.", "as_of": "2001", "date_precision": "year", "system": "Statistics Act 2001", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The peer review team, on a mission of 25-29 August 2025, was told the Office of Parliamentary Counsel was drafting the fourth Statistics Bill, with no details given.", "as_of": "2025-08", "date_precision": "month", "system": "Statistics Bill (fourth)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Development of Statistics 2022/23-2026/27", "country_label": "NSDS II", "class": "other", "platform": "", "owner": "Bureau of Statistics", "tiers": ""},
+    {"system": "National Statistical Council", "country_label": "National Statistical Council", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

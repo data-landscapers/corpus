@@ -1,0 +1,9 @@
+{
+  "slug": "2007-09-10-ine-guine-bissau-lei-6-2007-sistema-estatistico-nacional",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Lei n.º 6/2007 of 10 September, the Lei de Bases do Sistema Estatístico Nacional, enacted by the Assembleia Nacional Popular, setting up the national statistical system with its Conselho Superior de Estatística and the Instituto Nacional de Estatística.", "as_of": "2007-09-10", "date_precision": "day", "system": "Lei n.º 6/2007 (Lei de Bases do Sistema Estatístico Nacional)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The INE's compilation of the law, by its title and catalogue note, also carries Decreto n.º 4/2023 of 31 March 2023, the regulation of the 2007 statistics law; the captured text breaks off before it.", "as_of": "2023-03-31", "date_precision": "day", "system": "Decreto n.º 4/2023 (regulation of Lei n.º 6/2007)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

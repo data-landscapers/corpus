@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-ine-resultados-definitivos-do-rgph-2024",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INE cites the accessibility principle of Lei n.º 3/11 of 14 January, Lei do Sistema Estatístico Nacional, as the basis for publishing the 2024 census results and 10% of microdata, treating it as the current law (release dated 20 November 2025).",
+   "as_of": "2011-01-14",
+   "date_precision": "day",
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional (2011)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 3/11, Lei do Sistema Estatístico Nacional",
+   "country_label": "Lei do Sistema Estatístico Nacional",
+   "class": "law",
+   "platform": "",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  }
+ ],
+ "note": "Document gives no application of the law beyond citing a principle; census is not applied."
+}

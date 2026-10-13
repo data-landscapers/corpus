@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-23-agp-gabon-revision-cadre-legal-systeme-statistique-national",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The state news agency reports that loi n°15/2014 of 7 January 2015 instituting and organising the national statistical system, as modified by loi n°016/2022 of 6 September 2022, is the legislation currently in force.", "as_of": "2015", "date_precision": "year", "system": "Loi n°15/2014 du 7 janvier 2015 instituant et organisant le Système statistique national (2015)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Minister of Planning and Prospective presented to the Council of Ministers on 22 May 2026 a bill amending ten articles of the statistics law (articles 2, 8, 9, 10, 12, 17, 22, 26, 27 and 35) to conform it to the Constitution of 19 December 2024; it was a bill before cabinet, not enacted.", "as_of": "2026-05-22", "date_precision": "day", "system": "Projet de loi portant modification de certaines dispositions de la loi n°15/2014 instituant et organisant le Système statistique national (2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Système statistique national", "country_label": "Système statistique national", "class": "other", "platform": "", "owner": "Ministère de la Planification et de la Prospective", "tiers": ""}
+  ],
+  "note": ""
+}

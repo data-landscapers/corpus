@@ -1,0 +1,11 @@
+{
+  "slug": "2022-04-01-namibia-statistics-agency-strategic-plan-2022-2027",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The agency's strategic plan cites section 7(3)(b) of the Statistics Act as the basis on which it may pursue improved access to and use of spatial data and services; the plan gives no year for the Act, so this is dated to the plan's period start (April 2022).", "as_of": "2022-04", "date_precision": "month", "system": "Statistics Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act", "country_label": "Statistics Act", "class": "law", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""},
+    {"system": "Namibia Statistics Agency Strategic Plan 2022/2023-2026/2027", "country_label": "NSA Strategic Plan", "class": "other", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

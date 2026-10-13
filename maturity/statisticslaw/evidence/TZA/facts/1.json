@@ -1,0 +1,12 @@
+{
+  "slug": "2019-11-30-statistics-act-cap351-re2019",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document is the text of the Statistics Act, Chapter 351 (Revised Edition 2019, originally Act No. 9 of 2015, commenced 2 November 2015 by GN 491 of 2015), which continues the National Bureau of Statistics and sets up its Governing Board and the coordination of the National Statistical System.",
+     "as_of": "2015-11-02", "date_precision": "day", "system": "Statistics Act, Cap. 351 (Act No. 9 of 2015)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act, Cap. 351 (Act No. 9 of 2015)", "country_label": "The Statistics Act", "class": "law", "platform": "", "owner": "Government of Tanzania (Attorney General's revised edition)", "tiers": ""}
+  ],
+  "note": ""
+}

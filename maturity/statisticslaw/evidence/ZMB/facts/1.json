@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-zamstats-national-statistical-release-calendar-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The 2026 release calendar cites Statistics Act No 13 of 2018 as the law under which the Zambia Statistics Agency acts.", "as_of": "2018", "date_precision": "year", "system": "Statistics Act No. 13 of 2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The Zambia Statistics Agency issued the National Statistical Release Calendar for 2026 on 2025-12-01, which the document says Section 27(1) of the Act requires it to prepare.", "as_of": "2025-12-01", "date_precision": "day", "system": "Statistics Act No. 13 of 2018", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Statistical Release Calendar (NSRC) 2026", "country_label": "National Statistical Release Calendar", "class": "other", "platform": "", "owner": "Zambia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

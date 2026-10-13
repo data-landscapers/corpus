@@ -1,0 +1,13 @@
+{
+  "slug": "2013-07-19-malawi-national-statistics-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document is the text of Malawi's National Statistics Act (Chapter 27:01), which it says commenced on 19 July 2013 and which establishes the National Statistical Office and the National Statistical System.",
+     "as_of": "2013-07-19", "date_precision": "day",
+     "system": "National Statistics Act, 2013", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Statistics Act, 2013", "country_label": "National Statistics Act (Chapter 27:01)", "class": "law", "platform": "", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-16-zamstats-launches-national-data-science-hub",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "At the 2025-09-15 hub launch the Minister of Finance and National Planning cited Statistics Act No. 13 of 2018 as a policy framework the hub aligns with.", "as_of": "2018", "date_precision": "year", "system": "Statistics Act No. 13 of 2018", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Data Science Training Hub", "country_label": "National Data Science Training Hub", "class": "other", "platform": "", "owner": "Zambia Statistics Agency", "tiers": ""}
+  ],
+  "note": "No act under the law is tied to it: the hub launch only aligns with the Act."
+}

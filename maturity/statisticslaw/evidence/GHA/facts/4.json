@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-12-gss-25-mdas-sign-data-sharing-agreements",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Statistical Service Act, 2019 (Act 1003)",
+   "country_label": "Statistical Service Act, 2019 (Act 1003)",
+   "class": "law",
+   "platform": "",
+   "owner": "Ghana Statistical Service",
+   "tiers": ""
+  },
+  {
+   "system": "National Strategy for the Development of Statistics (NSDS III)",
+   "country_label": "NSDS III",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": "One fact removed by the parent: see corrections.csv."
+}

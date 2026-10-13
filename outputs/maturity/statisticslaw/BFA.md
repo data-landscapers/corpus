@@ -1,0 +1,11 @@
+# Burkina Faso
+
+## Statistics law
+
+**Law in force.** Burkina Faso's statistics law is [Loi n°036-2021/AN of 6 December 2021 on the organisation and regulation of statistical activities](<https://www.insd.bf/sites/default/files/2022-05/loi_036_statistiques.pdf>), which repealed the statistics law of 2007. The statistics institute's [strategic plan for 2026 to 2030](<https://www.insd.bf/sites/default/files/2026-04/Plan%20strat%C3%A9gique_2026-2030%20de%20l%27INSD_0.pdf>) says it governs the national statistical system and makes the institute the central statistics body, and the [statistics master plan](<https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf>) uses it as the frame for the system's mission.
+
+**Rules made under the law and the law applied.** Rules have been made under the law and its bodies have worked. [Decree 2025-1095 of 26 August 2025, on the attributions, organisation and operation of the national statistical system, was adopted in application of the law](<https://www.insd.bf/sites/default/files/2026-04/Plan%20strat%C3%A9gique_2026-2030%20de%20l%27INSD_0.pdf>), and it [sets up the national statistics council with a chair, a bureau and members](<https://www.insd.bf/Coordination-statistiques/cns>). The master plan of December 2025 says [three application decrees are available, with texts on the statistics development fund still awaited](<https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf>), and that from 2021 to 2024 [the council's organs worked, granting the statistical visas the law requires for surveys](<https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf>).
+
+***Noted, not assessed***. [Schéma directeur de la statistique 2026-2030 (SDS5)](<https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf>); [Décret n°2007-741/PRES/PM/MEF portant organisation et réglementation des activités statistiques](<https://www.insd.bf/sites/default/files/2026-04/%5BSDS5-BF%5D_SDS-2026-2030.pdf>); [Plan stratégique 2026-2030 de l'INSD](<https://www.insd.bf/sites/default/files/2026-04/Plan%20strat%C3%A9gique_2026-2030%20de%20l%27INSD_0.pdf>).
+
+***Not held***. The texts on the statistics development fund were still awaited in December 2025.

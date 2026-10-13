@@ -1,0 +1,11 @@
+{
+  "slug": "2020-02-24-somalia-national-statistics-law-24",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Somali National Bureau of Statistics says the enactment of Law No. 24, the National Statistics Law of the Federal Republic of Somalia, mandated the Bureau's establishment and repealed Statistical Law No. 35 of 1970; the page gives no date, so this is dated to the document's published date, 2020-02-24.", "as_of": "2020-02-24", "date_precision": "day", "system": "National Statistics Law No. 24 (2020)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Statistical System", "country_label": "National Statistical System (NSS)", "class": "other", "platform": "", "owner": "Somali National Bureau of Statistics", "tiers": "federal government and federal member states"},
+    {"system": "Statistical Law No. 35 of 1970", "country_label": "Somalia Statistical Law number 35 of 1970", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The page describes the Board and Director General as governed by the law but dates no appointment, rule or other act, so no reach fact."
+}

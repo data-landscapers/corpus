@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-29-cod-ordonnance-loi-statistique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Council of Ministers adopted draft ordonnances-lois organising statistical activity on 28 August 2026, presented as the country's first legislation on the subject, to be taken under the Article 129 habilitation voted by the National Assembly on 24 July 2026.", "as_of": "2026-08-28", "date_precision": "day", "system": "Projet d'ordonnance-loi portant organisation de l'activité statistique en RDC (2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet d'ordonnance-loi portant organisation de l'activité statistique en RDC", "country_label": "projets d'ordonnance-loi portant organisation de l'activité statistique", "class": "law", "platform": "", "owner": "Ministry of Planning; Council of Ministers", "tiers": ""},
+    {"system": "Institut national de la statistique (INS)", "country_label": "INS", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

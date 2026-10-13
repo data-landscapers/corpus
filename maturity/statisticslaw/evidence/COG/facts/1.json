@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-snds-2022-2026-republique-du-congo",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The national statistics strategy 2022-2026 states that statistical activity in Congo is governed by statistics law no. 36-2018 of 5 October 2018 on official statistics.", "as_of": "2018-10-05", "date_precision": "day", "system": "Loi n° 36-2018 sur la statistique officielle (2018)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

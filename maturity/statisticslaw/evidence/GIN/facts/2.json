@@ -1,0 +1,11 @@
+{
+  "slug": "2016-01-01-ins-loi-statistique-et-textes-application",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the INS compendium reproducing the text of Law L/2014/019/AN on the organisation and regulation of statistical activities, which the arrêtés in it cite as of 8 July 2014 and which repeals the 1995 law.", "as_of": "2014-07-08", "date_precision": "day", "system": "Loi L/2014/019/AN portant organisation et réglementation des activités statistiques (2014)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The compendium reproduces the decree made under the law on the attributions, organisation and operation of the Conseil national de la statistique, which the later arrêtés date to 5 August 2015.", "as_of": "2015-08-05", "date_precision": "day", "system": "Loi L/2014/019/AN portant organisation et réglementation des activités statistiques (2014)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The compendium reproduces a 2015 decree on managing the financial resources of the national statistical programme and ministerial arrêtés on the specialised commissions and on administrations' transmission of data to the statistical system, all made under the law and undated in the text beyond 2015; the document's published date is used.", "as_of": "2015", "date_precision": "year", "system": "Loi L/2014/019/AN portant organisation et réglementation des activités statistiques (2014)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The compendium reproduces a Prime Minister's arrêté naming the members of the Conseil national de la statistique under the law, with the Prime Minister as president; it post-dates the 5 August 2015 decree and carries no day in the text.", "as_of": "2015", "date_precision": "year", "system": "Loi L/2014/019/AN portant organisation et réglementation des activités statistiques (2014)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

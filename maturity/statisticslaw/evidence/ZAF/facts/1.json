@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-11-stats-sa-2025-26-q3-report-portfolio-committee",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Deputy Minister in The Presidency told the Portfolio Committee that the Statistics Amendment Act, No. 29 of 2024, was proclaimed for implementation on 1 October 2025, strengthening coordination of statistical production across government.",
+     "as_of": "2025-10-01", "date_precision": "day",
+     "system": "Statistics Amendment Act 29 of 2024", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Amendment Act 29 of 2024", "country_label": "Statistics Amendment Act, No. 29 of 2024", "class": "law", "platform": "", "owner": "Statistics South Africa", "tiers": ""}
+  ],
+  "note": "Only the commencement of the amendment act is stated; no rule made or act done under the law is dated, so no reach fact."
+}

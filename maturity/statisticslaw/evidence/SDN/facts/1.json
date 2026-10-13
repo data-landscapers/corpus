@@ -1,0 +1,10 @@
+{
+  "slug": "2021-12-21-sudan-national-gender-statistics-assessment-unwomen",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The UN Women and Central Bureau of Statistics assessment (fieldwork March-July 2021, published 2021-12-21) treats Sudan's Statistics Act of 2003 as the current statistics law, calling it outdated and silent on gender statistics.", "as_of": "2003", "date_precision": "year", "system": "Statistics Act 2003", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Development of Statistics (NSDS)", "country_label": "NSDS", "class": "other", "platform": "", "owner": "Central Bureau of Statistics", "tiers": ""}
+  ],
+  "note": "No rules made under or acts applied under the Act are stated; the NSDS and a new NSDS under development are class other."
+}

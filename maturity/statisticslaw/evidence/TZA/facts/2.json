@@ -1,0 +1,10 @@
+{
+  "slug": "2023-01-01-tanzania-statistics-act-cap351",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document is the text of the Statistics Act, Cap. 351 (Revised Edition 2023), Act No. 9 of 2015, which continues the National Bureau of Statistics and sets up its Board; it gives its commencement as 2 November 2015.",
+     "as_of": "2015-11-02", "date_precision": "day", "system": "The Statistics Act, 2015 (Cap. 351)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

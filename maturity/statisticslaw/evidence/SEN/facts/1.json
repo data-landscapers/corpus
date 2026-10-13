@@ -1,0 +1,10 @@
+{
+  "slug": "2022-04-11-afristat-textes-regissant-les-systemes-statistiques-nationaux",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "AFRISTAT's inventory lists Senegal's law no. 2012-03 of 3 January 2012, modifying and completing law no. 2004-21 of 21 July 2004 on the organisation of statistical activities, as the country's statistics law text.", "as_of": "2012-01-03", "date_precision": "day", "system": "Loi n° 2004-21 portant organisation des activités statistiques, modifiée par la loi n° 2012-03", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "AFRISTAT's inventory lists arrêtés 007426 and 007427 MEPC/ANSD of 4 March 2020 on the statistical visa for censuses and surveys, the first taken under article 11-ter of the 2004 law as amended in 2012.", "as_of": "2020-03-04", "date_precision": "day", "system": "Loi n° 2004-21 portant organisation des activités statistiques, modifiée par la loi n° 2012-03", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "AFRISTAT's inventory lists décret n° 2248 of 23 May 2005 setting the organisation and operating rules of the Conseil national de la statistique and the Comité technique des programmes statistiques.", "as_of": "2005-05-23", "date_precision": "day", "system": "Loi n° 2004-21 portant organisation des activités statistiques, modifiée par la loi n° 2012-03", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Regional inventory of texts; no act is stated as applied under the law."
+}

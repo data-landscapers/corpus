@@ -1,0 +1,11 @@
+# DR Congo
+
+## Statistics law
+
+**Law in force.** The Democratic Republic of the Congo made its first statistics law in 2026. A bill had been [drafted in December 2024 by the National Institute of Statistics](<https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil>). On 28 August 2026 [the Council of Ministers adopted a draft ordonnance-loi organising statistical activity](<https://beto.cd/ordonnance-loi-statistique-rdc-recensement-habilitation/>), under powers the National Assembly voted on 24 July 2026, and the state news agency reported on 12 September 2026 that [the President had signed it](<https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/>). On 11 September [the Council validated a bill to have parliament ratify the ordonnance-loi](<https://www.opinion-info.cd/politique/2026/09/12/rdc-le-gouvernement-adopte-le-projet-de-loi-autorisant-la-ratification-du>).
+
+**Rules made under the law and the law applied.** The nearest held fact is the ratification step. [The Council of Ministers of 11 September 2026 validated the bill authorising ratification of the ordonnance-loi](<https://www.opinion-info.cd/politique/2026/09/12/rdc-le-gouvernement-adopte-le-projet-de-loi-autorisant-la-ratification-du>), submitted by the planning minister. The ordonnance-loi was three weeks old at the end of September 2026.
+
+***Noted, not assessed***. [Institut national de la statistique (INS)](<https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/>); [African Charter on Statistics (ratification authorised 2025)](<https://actualite.cd/2025/09/04/rdc-ua-felix-tshisekedi-autorise-la-ratification-de-la-charte-africaine-de-la>); [Stratégie nationale de l'état civil (2020)](<https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil>).
+
+***Not held***. No source held names a decree, regulation or order made under the law. The date the ordonnance-loi takes effect is not held.

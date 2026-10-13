@@ -1,0 +1,17 @@
+{
+  "slug": "2024-12-20-statistics-amendment-act-29-of-2024",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "This document is the text of the Statistics Amendment Act, 2024 (Act 29 of 2024), which amends the Statistics Act, 1999; the President assented on 10 December 2024 and it was published in Government Gazette 51805 on 20 December 2024.",
+     "as_of": "2024-12-20", "date_precision": "day",
+     "system": "Statistics Amendment Act, 2024 (Act 29 of 2024)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Statistics Act, 1999 (Act 6 of 1999)", "country_label": "Statistics Act", "class": "law", "platform": "", "owner": "Parliament of South Africa; administered by Statistics South Africa", "tiers": ""},
+    {"system": "National Statistics System (NSS)", "country_label": "National Statistics System", "class": "other", "platform": "", "owner": "Statistician-General, Statistics South Africa", "tiers": "organs of state and other entities that produce statistics"},
+    {"system": "National Strategy for the Development of Statistics", "country_label": "National Strategy for the Development of Statistics", "class": "other", "platform": "", "owner": "Statistician-General", "tiers": ""},
+    {"system": "South African Statistical Quality Assessment Framework (SASQAF)", "country_label": "SASQAF", "class": "other", "platform": "", "owner": "Statistician-General", "tiers": ""},
+    {"system": "African Charter on Statistics", "country_label": "African Charter on Statistics", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Only a law-text fact is recorded; the Act empowers the Minister to make regulations (new section 20A) but names no regulation made, and the captured text is truncated."
+}
