@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-07-nca-mandatory-eservice-platform-circular",
+  "facts": [],
+  "systems": [
+    {"system": "National e-Service Platform", "country_label": "National e-Service Platform (nca.eservices.gov.ss)", "class": "other", "platform": "", "owner": "National Communication Authority; Government of South Sudan", "tiers": "NCA licensees"}
+  ],
+  "note": "Circular mandates licensees use the e-service platform for payments and services; an exchange platform, with no technical standards stated."
+}

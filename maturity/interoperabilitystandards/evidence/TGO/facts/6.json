@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-agence-togo-digital-mandate-platforms",
+  "facts": [],
+  "systems": [
+    {"system": "National Portal for Digitalized Administrative Procedures (GNDAD)", "country_label": "service-public.gouv.tg", "class": "other", "platform": "", "owner": "Agence Togo Digital", "tiers": "national"},
+    {"system": "Gouv Check", "country_label": "Gouv Check", "class": "other", "platform": "mobile application", "owner": "Agence Togo Digital", "tiers": "national"},
+    {"system": "e-Services platform", "country_label": "e-Services", "class": "other", "platform": "", "owner": "Agence Togo Digital", "tiers": "national"}
+  ],
+  "note": "ATD's page states a mandate to define and promote standards for digitalisation and offers enterprise-architecture and IT master-plan reference frameworks, but says nothing of what technical standards cover or any standards list; a mandate gives no fact."
+}

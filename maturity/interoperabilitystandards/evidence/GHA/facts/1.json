@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-ghana-egovernment-interoperability-framework-egif",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "draft", "fact": "NITA's eGovernment Interoperability Framework version 2.0, labelled a draft for stakeholder review, sets eGIF standards for government systems across technical annexes on data, network, service-oriented architecture, channels, business process, security and applications interoperability; the captured text carries no printed date, so 2022 is the published-date proxy.", "as_of": "2022", "date_precision": "year", "system": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0", "country_label": "eGIF", "class": "standards", "platform": "", "owner": "NITA", "tiers": "MDAs"},
+    {"system": "Government of Ghana Enterprise Architecture (GGEA)", "country_label": "GGEA", "class": "other", "platform": "", "owner": "NITA", "tiers": "MDAs"}
+  ],
+  "note": "No fact on use: the document says eGIF compliance review will gate project funding, which is a text describing itself, not a law or a named body checked against the standards."
+}

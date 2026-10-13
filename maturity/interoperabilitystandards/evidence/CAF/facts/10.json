@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-19-imf-car-egdds-implementation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Summary Data Page (NSDP)",
+   "country_label": "NSDP",
+   "class": "",
+   "platform": "",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": "IMF e-GDDS data dissemination for macro statistics; sector-specific, not government system exchange standards."
+}

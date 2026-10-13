@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-31-sierra-leone-mocti-enterprise-architecture-training",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Enterprise Architecture Framework",
+   "country_label": "Government Enterprise Architecture Framework",
+   "class": "other",
+   "platform": "",
+   "owner": "MoCTI",
+   "tiers": "MDAs"
+  }
+ ],
+ "note": "Framework described as a national guide for digital integration; document does not say it sets data formats, codes, interfaces or protocols; Digital Service Standards only named as a training topic."
+}

@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Education Management Information System (EMIS),EMIS,other,,Ministry of Education,national,2026-06-09-au-iped-supports-burundi-strengthening-education-data
+BDI,DHIS2,DHIS2,other,DHIS2,Ministry of Public Health and the Fight against AIDS,national,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,SIDAInfo,SIDAInfo,other,,Ministry of Public Health and the Fight against AIDS,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,OpenClinic,OpenClinic,other,OpenClinic,Ministry of Public Health and the Fight against AIDS,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir

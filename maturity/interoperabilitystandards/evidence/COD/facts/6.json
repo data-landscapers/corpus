@@ -1,0 +1,17 @@
+{
+  "slug": "2022-04-16-cod-kt-adoption-normes-standards-numerique-secteur-public",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The government adopted the draft digital norms and standards for the public sector on 15 April 2022, in five books including a common data-reference architecture framework and the general interoperability framework, with legal force still to be given by ministerial order.",
+      "as_of": "2022-04-15",
+      "date_precision": "day",
+      "system": "Normes et standards du numérique applicable au secteur public",
+      "class": "standards"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

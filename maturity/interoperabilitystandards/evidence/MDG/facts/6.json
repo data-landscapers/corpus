@@ -1,0 +1,9 @@
+{
+  "slug": "2022-11-14-ugd-cadre-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "Orinasa", "country_label": "Orinasa", "class": "other", "platform": "", "owner": "UGD", "tiers": "EDBM, DGI, MINJUS, INSTAT"},
+    {"system": "X-ROAD Security Server", "country_label": "X-ROAD SS", "class": "", "platform": "X-Road", "owner": "", "tiers": ""}
+  ],
+  "note": "Page text (excerpt, cut in section 1.2) gives the framework's aims, principles and scope but no technical standards (formats, codes, interfaces, protocols); it lists 'Norme et standard de l'interopérabilité' only as a reference document, without saying it is published or compulsory."
+}

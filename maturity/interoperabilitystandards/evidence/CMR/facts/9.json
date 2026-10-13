@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-cameroon-cemac-interoperable-qr-payment-and-data-protection",
+  "facts": [],
+  "systems": [
+    {"system": "CEMAC interoperable payment QR Code", "country_label": "QR Code de paiement interoperable", "class": "other", "platform": "", "owner": "CORENOFI / UMAC, with GIMAC as technical operator", "tiers": ""}
+  ],
+  "note": "The standard described is a regional payment QR code (CEMAC regulation 02/26 of April 2026), a payments-only standard, not technical standards for government systems to exchange data."
+}

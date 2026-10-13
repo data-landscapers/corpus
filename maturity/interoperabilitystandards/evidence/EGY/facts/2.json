@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-03-eta-education-return-receipt-v1-2-data-structure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ETA eReceipt (Egyptian Tax Authority)",
+      "country_label": "eReceipt",
+      "class": "other",
+      "platform": "",
+      "owner": "Egyptian Tax Authority",
+      "tiers": "national"
+    }
+  ],
+  "note": "Data structure spec for one tax document type (education return receipt) sent by taxpayers' POS to the tax authority; one function (tax receipts), not government-wide standards for systems to exchange data."
+}

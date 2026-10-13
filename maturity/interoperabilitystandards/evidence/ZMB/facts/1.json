@@ -1,0 +1,12 @@
+{
+  "slug": "2019-02-01-zambia-egovernment-interoperability-standard",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published",
+     "fact": "The e-Government Division (Smart Zambia Institute) issued the Public Service ICT Electronic Government Interoperability Standard, 1st Edition, version 1.0 (F), in February 2019, to enable exchange of data between government information systems of different public bodies; the captured text sets principles and names data and technical interoperability guidelines in scope, and shows no formats or protocols (excerpt ends at section 5.10).",
+     "as_of": "2019-02", "date_precision": "month", "system": "Public Service ICT Electronic Government Interoperability Standard", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "Public Service ICT Electronic Government Interoperability Standard", "country_label": "e-Government Interoperability Standard (eGIF)", "class": "standards", "platform": "", "owner": "Electronic Government Division / Smart Zambia Institute", "tiers": "All ministries, provinces and spending agencies"}
+  ],
+  "note": "Foreword says the Division enforces the standard with annual MPSA audits and compliance certificates, but names no audited body, no count and no law, and a text calling itself compulsory is not an instrument; no use fact."
+}

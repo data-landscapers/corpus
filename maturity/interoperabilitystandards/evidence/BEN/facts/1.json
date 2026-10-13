@@ -1,0 +1,12 @@
+{
+  "slug": "2020-03-18-benin-cadre-interoperabilite-xroad-bj",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "Benin's Cadre d'interopérabilité, a 32-page framework published by ASIN and instituted by décret n° 2020-209 of 18 March 2020, sets recommendations and referenced technical standards for interoperable government information systems (W3C SOAP/WSDL/XML/XSL/SVG/WCAG 2.0/CSS2/PNG, ISO 10918 JPEG, ISO/IEC 26300 ODF, MPEG4, RFC 1952, RFC 2306) and a catalogue of interoperability solutions; the PDF carries no publication date, so the decree date is a floor.", "as_of": "2020-03-18", "date_precision": "day", "system": "Cadre d'interopérabilité du Bénin (CdI)", "class": "standards"},
+    {"sub_indicator": "standards", "aspect": "use", "value": "required", "fact": "The document says public and private administrations providing a public service must observe the Cadre's principles and recommendations, which cover the referenced technical standards, and that it is instituted by décret n° 2020-209 of 18 March 2020; the decree text itself is not held, so the compulsion rests on this statement.", "as_of": "2020-03-18", "date_precision": "day", "system": "Cadre d'interopérabilité du Bénin (CdI)", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "XROAD BJ", "country_label": "Plateforme nationale d'interopérabilité XROAD BJ", "class": "other", "platform": "X-Road", "owner": "ASIN", "tiers": ""},
+    {"system": "Catalogue of interoperability solutions (CatIS)", "country_label": "CatIS", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

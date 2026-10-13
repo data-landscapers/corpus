@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-07-sudan-cbos-nips-rfp-v5",
+  "facts": [],
+  "systems": [
+    {"system": "National Instant Payment System (NIPS)", "country_label": "NIPS", "class": "other", "platform": "commercial off-the-shelf real-time settlement solution to be procured", "owner": "Central Bank of Sudan", "tiers": "commercial banks, credit unions and payment services institutions"}
+  ],
+  "note": "A central bank request for proposals for a payment system (ISO 20022 messaging, standardised APIs); standards for one function (payments), not government-wide technical standards for systems to exchange data."
+}

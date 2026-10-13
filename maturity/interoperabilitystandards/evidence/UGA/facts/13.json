@@ -1,0 +1,6 @@
+{
+  "slug": "2025-06-19-nita-u-ugpass",
+  "facts": [],
+  "systems": [{"system":"UGPass","country_label":"UGPass","class":"other","platform":"Qualified Certificate Authority, National Authentication Provider, PKI","owner":"NITA-U","tiers":"individuals, businesses, government entities"}],
+  "note": "No fact: a signature and authentication service page; compliance with e-signature law is a single function, not exchange standards."
+}

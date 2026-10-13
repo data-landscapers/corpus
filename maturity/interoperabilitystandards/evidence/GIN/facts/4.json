@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-ande-cadre-et-referentiels",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published",
+     "fact": "ANDE's 'Cadre et Référentiels' page lists, among four referentials it publishes for state information systems, 'Normes Procédures Règles d'Interopérabilité des SI' version 0.2.2, standards and rules for the interoperability of government information systems; the page gives no description of what they cover, and the date is the page's 2026 footer year (document published date, year precision).",
+     "as_of": "2026", "date_precision": "year", "system": "Normes Procédures Règles d'Interopérabilité des SI v0.2.2", "class": "standards"}
+  ],
+  "systems": [],
+  "note": "No fact on use: the page names no law making the standards compulsory and no body tested or audited against them. The other three referentials (government domain registration, data security, source code management) are not exchange standards."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-developing-digital-services-nam-x",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nam-X",
+      "country_label": "Nam-X",
+      "class": "other",
+      "platform": "",
+      "owner": "Office of the Prime Minister",
+      "tiers": "public sector"
+    }
+  ],
+  "note": "Project page on building two digital services for the Nam-X platform; says nothing of technical standards, so no fact."
+}

@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,Kenya Health Enterprise Architecture Blueprint 2025,Kenya Health Enterprise Architecture Blueprint 2025,other,,Ministry of Health,,2026-08-21-kenya-hmis-data-collection-data-use-kenya-foundation
+KEN,Digital Health Solutions Standards and Guidelines 2025,Digital Health Solutions Standards and Guidelines 2025,other,,Ministry of Health,,2026-08-21-kenya-hmis-data-collection-data-use-kenya-foundation
+KEN,Kenya Core FHIR Implementation Guide,Kenya Core Implementation Guide,other,HL7 FHIR 4.0.1,Digital Health Agency,,2026-08-17-digital-health-kenya-core-fhir-implementation-guide-v1
+KEN,Kenya Patient Summary FHIR Implementation Guide,Kenya Patient Summary (KPS),other,HL7 FHIR 4.0.1,Digital Health Agency,,2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "DHIS2", "owner": "Ministry of Public Health and the Fight against AIDS", "tiers": "national"},
+    {"system": "SIDAInfo", "country_label": "SIDAInfo", "class": "other", "platform": "", "owner": "Ministry of Public Health and the Fight against AIDS", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "OpenClinic", "class": "other", "platform": "OpenClinic", "owner": "Ministry of Public Health and the Fight against AIDS", "tiers": ""}
+  ],
+  "note": "Health-sector standards only (HL7 FHIR defined at a 7-10 April 2026 health workshop); no government-wide technical standards."
+}

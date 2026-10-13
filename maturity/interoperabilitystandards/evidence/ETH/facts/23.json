@@ -1,0 +1,10 @@
+{
+  "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+  "facts": [],
+  "systems": [
+    {"system": "Ethiopian eGovernment Interoperability Framework (EeGIF)", "country_label": "EeGIF", "class": "other", "platform": "", "owner": "Ministry of Innovation and Technology (MInT)", "tiers": ""},
+    {"system": "Ethiopian National Enterprise Architecture Framework (ENEAF)", "country_label": "ENEAF", "class": "other", "platform": "", "owner": "Ministry of Innovation and Technology (MInT)", "tiers": ""},
+    {"system": "E-Services Portal", "country_label": "E-Services Portal", "class": "other", "platform": "Perago (vendor)", "owner": "Ministry of Innovation and Technology (MInT)", "tiers": "eight ministries and public departments onboarded"}
+  ],
+  "note": "Calls the EeGIF and ENEAF approved and says the portal deviates from the EeGIF, but never says what standards they set; no checking against standards is stated."
+}

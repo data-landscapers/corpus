@@ -1,0 +1,8 @@
+{
+  "slug": "2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Comum de Comunicação de Dados do Governo e de Interoperabilidade (Plataforma Tecnológica de Interoperabilidade)", "country_label": "Plataforma de Interoperabilidade de Governo Electrónico", "class": "other", "platform": "", "owner": "INAGE manages it; INTIC specifies it", "tiers": "all public administration institutions (central and local State bodies, local authorities)"}
+  ],
+  "note": "Decree 67/2017 defines the interoperability framework as principles, standards, guidelines and architectures and tasks INTIC with proposing standards and a reference architecture, but names no set of technical standards (formats, codes, interfaces) and states none exists or is published; a mandate to write standards gives no fact, and the platform's functional specifications are an exchange platform's, so nothing for standing or use."
+}

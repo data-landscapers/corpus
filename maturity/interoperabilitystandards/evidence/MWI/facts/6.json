@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-17-ilo-malawi-labour-market-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "Labour Market Information System (LMIS)", "country_label": "LMIS", "class": "other", "platform": "", "owner": "Ministry of Labour, Skills and Innovation", "tiers": "central (MoLSI, TEVETA, NSO, e-Government Directorate)"}
+  ],
+  "note": "The ILO workshop (13-16 April 2026) trains six bodies in SDMX for one sector's labour market data system; sector-specific standard and an exchange platform, not government-wide technical standards, so no fact."
+}

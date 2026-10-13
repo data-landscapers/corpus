@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "standards",
+   "stage": "no evidence",
+   "standing": "",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names technical standards for government systems to exchange data, or says there are none.",
+   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
+  }
+ ]
+}

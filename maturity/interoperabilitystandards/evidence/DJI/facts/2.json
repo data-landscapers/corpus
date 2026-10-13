@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-cadre-interoperabilite-djibouti-cid",
+  "facts": [],
+  "systems": [
+    {"system": "Cadre d'Interopérabilité de Djibouti (CID)", "country_label": "Cadre d'Interopérabilité de Djibouti", "class": "other", "platform": "", "owner": "ANSIE", "tiers": "public administration bodies"},
+    {"system": "Plateforme d'échange de données sécurisée", "country_label": "Plateforme d'échange de données sécurisée", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Catalogue de solutions interopérables", "country_label": "Catalogue de solutions interopérables", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plateforme d'identité numérique", "country_label": "Plateforme d'identité numérique", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Infrastructure de données ouvertes", "country_label": "Infrastructure de données ouvertes", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The captured text (contents, executive summary, start of introduction) says the framework sets principles, four interoperability layers and a conceptual model, and lists a section on norms and specifications only in the contents; no captured sentence says it sets technical standards (formats, codes, interfaces, protocols), and sections 3-7 are not captured."
+}

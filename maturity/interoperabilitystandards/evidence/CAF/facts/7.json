@@ -1,0 +1,31 @@
+{
+ "slug": "2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGMAT",
+   "country_label": "SIGMAT",
+   "class": "",
+   "platform": "",
+   "owner": "CEMAC customs",
+   "tiers": "national customs"
+  },
+  {
+   "system": "SYDONIA World",
+   "country_label": "SYDONIA World",
+   "class": "",
+   "platform": "ASYCUDA World",
+   "owner": "Customs",
+   "tiers": "national customs"
+  },
+  {
+   "system": "CAMCIS",
+   "country_label": "CAMCIS",
+   "class": "",
+   "platform": "",
+   "owner": "Cameroon customs",
+   "tiers": ""
+  }
+ ],
+ "note": "Customs transit system interconnection (SIGMAT); single-function, no government-wide technical standards stated."
+}

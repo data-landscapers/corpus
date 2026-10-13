@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Hubiye",
+      "country_label": "Hubiye",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": ""
+    },
+    {
+      "system": "e-Aqoonsi",
+      "country_label": "e-Aqoonsi",
+      "class": "other",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": ""
+    }
+  ],
+  "note": "Mentions a lack of standardization in interoperability as a hurdle, undated and not a statement that no standards exist or are being written; no fact."
+}

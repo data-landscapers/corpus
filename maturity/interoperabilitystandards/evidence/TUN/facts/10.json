@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-25-tun-telehealth-connect-2026-preview",
+  "facts": [],
+  "systems": [
+    {"system": "National health identifier", "country_label": "national health identifier", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Sahetna", "country_label": "Sahetna", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "News preview of a health-sector conference; interoperability appears only as a topic, no government-wide technical standards or their use are stated."
+}

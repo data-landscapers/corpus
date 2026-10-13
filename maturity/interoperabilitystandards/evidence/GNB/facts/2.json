@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-31-gnb-decreto-27-2025-regulamento-nacional-interoperabilidade",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "WARDIP reports that Decreto n.º 27/2025, the National Regulation on Interoperability of Digital Systems and Platforms of public and private services, was published in the Boletim Oficial on 31 October 2025, and lists among its objectives to establish technical standards for developing interoperable digital solutions and to harmonise communication between systems; the page gives no list or content of the standards.", "as_of": "2025-10-31", "date_precision": "day", "system": "Regulamento Nacional de Interoperabilidade de Sistemas e Plataformas Digitais (Decreto n.º 27/2025)", "class": "standards"}
+  ],
+  "systems": [],
+  "note": "No fact on use: the page does not say the standards are compulsory for public bodies' systems nor that any system was checked against them."
+}

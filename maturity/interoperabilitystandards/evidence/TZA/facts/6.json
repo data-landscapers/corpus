@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states",
+  "facts": [],
+  "systems": [
+    {"system": "GovESB", "country_label": "Government Enterprise Service Bus", "class": "other", "platform": "", "owner": "e-Government Authority", "tiers": "ministries"},
+    {"system": "HCIMS", "country_label": "Human Capital Information Management System", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Ajira Portal", "country_label": "Ajira Portal", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "NeST", "country_label": "NeST", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "GePG", "country_label": "GePG", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Director General urges institutions to align with 'national standards' without saying what they cover or that any are published or compulsory; no fact."
+}

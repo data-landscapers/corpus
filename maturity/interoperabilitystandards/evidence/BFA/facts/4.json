@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-02-burkina-decret-plateformes-numeriques-administration-publique",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "use",
+   "value": "required",
+   "fact": "The decree on the public administration's digital platforms, held in a capture dated 2 August 2024, makes a favourable opinion a condition of putting a platform into service, and the file for it includes a check that the platform respects the interoperability referential, which the decree says is adopted by order of the Prime Minister; the capture date is used, the passages giving no signing date.",
+   "as_of": "2024-08-02",
+   "date_precision": "day",
+   "system": "Référentiel d'interopérabilité",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": "fact added by the parent on reading the passages: the decree requires respect of the referential the 2018 order adopted"
+}

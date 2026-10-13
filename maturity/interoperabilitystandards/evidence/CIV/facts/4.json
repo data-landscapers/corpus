@@ -1,0 +1,11 @@
+{
+  "slug": "2021-12-22-civ-decret-2021-913-referentiel-interoperabilite",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "Decree 2021-913 of 22 December 2021 adopts the Referentiel General d'Interoperabilite (RGI), annexed to it, a list of reference standards for e-administration systems covering technical protocols (IP, TCP, HTTP, SMTP, SOAP/REST web services), data formats and encodings (XML, JSON, XSD, PDF/A, UTF-8, geospatial formats), pivot data formats, and semantic key terms.", "as_of": "2021-12-22", "date_precision": "day", "system": "Referentiel General d'Interoperabilite (RGI)", "class": "standards"},
+    {"sub_indicator": "standards", "aspect": "use", "value": "required", "fact": "Article 3 of Decree 2021-913 states that public bodies are bound to conform to the RGI, making its technical, syntactic and semantic interoperability standards compulsory for their information systems.", "as_of": "2021-12-22", "date_precision": "day", "system": "Referentiel General d'Interoperabilite (RGI)", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "Referentiel General d'Interoperabilite (RGI)", "country_label": "Referentiel General d'Interoperabilite", "class": "standards", "platform": "", "owner": "Ministry of Digital Economy (now Digital Transition) and Ministry of Civil Service and Modernisation of Administration", "tiers": "all public bodies (organismes publics); internal and external exchanges of the administration"}
+  ],
+  "note": ""
+}

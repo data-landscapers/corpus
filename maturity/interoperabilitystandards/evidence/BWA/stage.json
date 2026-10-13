@@ -1,0 +1,16 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "standards",
+   "stage": "2",
+   "standing": "draft",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-001",
+   "gaps": "No source held says the standards have been published.",
+   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2017-11-01-e-government-security-architecture-standards",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Security Architecture - Standards and Technical Guidelines (eGA/EXT/ISA/001)", "country_label": "e-Government Security Architecture", "class": "other", "platform": "", "owner": "e-Government Agency (eGA)", "tiers": "all Public Institutions and third parties"}
+  ],
+  "note": "A security standard (ten ICT security domains) for one function; its Technical Reference Model mention does not state data-exchange standards, so no fact."
+}

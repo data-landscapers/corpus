@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-interoperable-birth-registration-digital-id-plans",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration and national ID linkage", "country_label": "unified digital civil registration integrated with the national ID system", "class": "other", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "national; health facilities to notify births"}
+  ],
+  "note": "Plan to digitize and link civil registration with national ID; sets no technical standards for government systems to exchange data, and is a sector/function plan."
+}

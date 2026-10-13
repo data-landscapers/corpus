@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Exchange Hub (eGIF, launched 2009)", "country_label": "eGIF hub", "class": "other", "platform": "", "owner": "Ministry of Communications", "tiers": ""},
+    {"system": "Ghana.gov", "country_label": "Ghana.gov", "class": "other", "platform": "", "owner": "", "tiers": "MDAs"}
+  ],
+  "note": "Describes a stalled data exchange hub and payments portal; says nothing of what technical standards cover."
+}

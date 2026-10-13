@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-30-eta-sap-tax-automation-cairo-first",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SAP tax work automation system",
+      "country_label": "SAP tax work automation system",
+      "class": "other",
+      "platform": "SAP",
+      "owner": "Egyptian Tax Authority",
+      "tiers": "Cairo First region and ten offices"
+    }
+  ],
+  "note": "Rollout of a tax back-office system; no standards stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-02-cybernetica-uxp-interoperability-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "UXP (Unified eXchange Platform)", "country_label": "plateforme d'interoperabilite", "class": "other", "platform": "Cybernetica UXP", "owner": "SNDI, commissioned by the Ministry of Digital Transition and Digitalization (MTND)", "tiers": "government institutions, and public-private exchange"}
+  ],
+  "note": "Reports a contract for a data exchange platform (UXP); says nothing of technical standards, so no fact."
+}

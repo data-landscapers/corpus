@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,plateforme d'interopérabilité,Plateforme nationale d'interopérabilité,other,,opérateur d'interopérabilité (public body under the telecom-technologies ministry),structures (public and private bodies with a public-service mission),2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite
+TUN,G-cloud / N-cloud labels,"G-cloud, N-cloud",,,ministry of communication technologies,,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
+TUN,plateforme d'interopérabilité,national interoperability platform,other,,,G-cloud providers must connect to it,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
+TUN,National health identifier,national health identifier,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,Sahetna,Sahetna,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview

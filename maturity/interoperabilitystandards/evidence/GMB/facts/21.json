@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+  "facts": [],
+  "systems": [
+    {"system": "national enterprise architecture framework", "country_label": "National enterprise architecture framework", "class": "other", "platform": "", "owner": "Gambia ICT Agency (GICTA)", "tiers": "government systems"}
+  ],
+  "note": "Statement says GICTA's enterprise architecture framework ensures interoperability through open standards, but names no data formats, codes, interfaces or standards list, and no law or checking; so no standing or use fact."
+}

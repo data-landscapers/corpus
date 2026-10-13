@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-dial-digital-transformation-in-sierra-leone",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Enterprise Architecture Blueprint",
+   "country_label": "Enterprise Architecture Blueprint",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Sierra Leone (developed with DIAL)",
+   "tiers": "government departments"
+  }
+ ],
+ "note": "Enterprise Architecture Blueprint is said to guide how government develops ICT systems; no statement that it sets technical standards for data exchange."
+}

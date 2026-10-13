@@ -1,0 +1,171 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,Education Management Information System (EMIS),EMIS,other,,Ministry of Education,national,2026-06-09-au-iped-supports-burundi-strengthening-education-data
+BDI,DHIS2,DHIS2,other,DHIS2,Ministry of Public Health and the Fight against AIDS,national,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,SIDAInfo,SIDAInfo,other,,Ministry of Public Health and the Fight against AIDS,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BDI,OpenClinic,OpenClinic,other,OpenClinic,Ministry of Public Health and the Fight against AIDS,,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir
+BEN,XROAD BJ,Plateforme nationale d'interopérabilité XROAD BJ,other,X-Road,ASIN,,2020-03-18-benin-cadre-interoperabilite-xroad-bj
+BEN,Catalogue of interoperability solutions (CatIS),CatIS,other,,,,2020-03-18-benin-cadre-interoperabilite-xroad-bj
+CAF,SIGMAT,SIGMAT,,,CEMAC customs,national customs,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
+CAF,SYDONIA World,SYDONIA World,,ASYCUDA World,Customs,national customs,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
+CAF,CAMCIS,CAMCIS,,,Cameroon customs,,2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia
+CAF,NADA,NADA,,,ICASEES,,2026-03-24-icasees-atelier-politique-diffusion-donnees
+CAF,REDATAM,REDATAM,,,ICASEES,,2026-03-24-icasees-atelier-politique-diffusion-donnees
+CAF,National Summary Data Page (NSDP),NSDP,,,ICASEES,,2025-05-19-imf-car-egdds-implementation
+CIV,Referentiel General d'Interoperabilite (RGI),Referentiel General d'Interoperabilite,standards,,Ministry of Digital Economy (now Digital Transition) and Ministry of Civil Service and Modernisation of Administration,all public bodies (organismes publics); internal and external exchanges of the administration,2021-12-22-civ-decret-2021-913-referentiel-interoperabilite
+CIV,UXP (Unified eXchange Platform),plateforme d'interoperabilite,other,Cybernetica UXP,"SNDI, commissioned by the Ministry of Digital Transition and Digitalization (MTND)","government institutions, and public-private exchange",2025-10-02-cybernetica-uxp-interoperability-biometricupdate
+CIV,Plateforme d'interoperabilite de l'administration publique (UXP),plateforme d'interoperabilite de l'administration publique,other,Cybernetica UXP (inspired by X-Road),"SNDI, for the Ministry of Digital Transition and Digitalization",national: 12 administrations and public institutions in the first phase,2025-09-25-plateforme-interoperabilite-administration-fratmat
+CMR,CEMAC interoperable payment QR Code,QR Code de paiement interoperable,other,,"CORENOFI / UMAC, with GIMAC as technical operator",,2026-08-06-cameroon-cemac-interoperable-qr-payment-and-data-protection
+COD,Architecture d'Entreprise en santé numérique,Architecture d'Entreprise en santé numérique,other,,ANICNS,,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,Registre National des SIH Homologués,Registre National des SIH Homologués,other,,ANICNS,"public, private and faith-based health facilities",2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COG,GIMACPAY,GIMACPAY,other,,GIMAC,"banks, microfinance institutions, mobile-money operators",2026-07-30-cemac-gimac-norme-qr-code-interoperable
+CPV,Autentika,Autentika,other,,IMIJ (Justice Ministry),civil registration and national identity,2026-05-19-crvs-id-reforms-birth-registration-biometricupdate
+DJI,Cadre d'Interopérabilité de Djibouti (CID),Cadre d'Interopérabilité de Djibouti,other,,ANSIE,public administration bodies,2022-01-01-cadre-interoperabilite-djibouti-cid
+DJI,Plateforme d'échange de données sécurisée,Plateforme d'échange de données sécurisée,other,,,,2022-01-01-cadre-interoperabilite-djibouti-cid
+DJI,Catalogue de solutions interopérables,Catalogue de solutions interopérables,other,,,,2022-01-01-cadre-interoperabilite-djibouti-cid
+DJI,Plateforme d'identité numérique,Plateforme d'identité numérique,other,,,,2022-01-01-cadre-interoperabilite-djibouti-cid
+DJI,Infrastructure de données ouvertes,Infrastructure de données ouvertes,other,,,,2022-01-01-cadre-interoperabilite-djibouti-cid
+DZA,dispositif national de gouvernance des donnees,dispositif national de gouvernance des donnees,other,,Haut commissariat a la numerisation,"central government institutions and administrations, and bodies and enterprises charged with a public service",2025-12-30-joradp-decret-25-320-gouvernance-donnees
+DZA,systeme national d'interoperabilite,systeme national d'interoperabilite,other,"secure national interconnection network, separate from the internet",Haut commissariat a la numerisation,public institutions and administrations; public-service bodies and enterprises where integrated,2025-12-30-joradp-decret-25-320-gouvernance-donnees
+EGY,ETA eReceipt (Egyptian Tax Authority),eReceipt,other,,Egyptian Tax Authority,national,2026-08-03-eta-education-return-receipt-v1-2-data-structure
+EGY,SAP tax work automation system,SAP tax work automation system,other,SAP,Egyptian Tax Authority,Cairo First region and ten offices,2025-09-30-eta-sap-tax-automation-cairo-first
+ETH,EA-2019-Ethiopian Government Interoperability Framework,Ethiopian Government Interoperability Framework (EeGIF),other,,Ministry of Innovation and Technology (MInT),,2019-01-01-ea-2019-ethiopian-government-interoperability-framework
+ETH,ESL all-in-one self-service platform,ESL platform,other,,Ethiopian Shipping and Logistics,national,2026-09-13-eth-capital-digital-logistics-overhaul-regional-trade
+ETH,EDR digital freight booking portal,EDR portal,other,,Ethio-Djibouti Railway Share Company,national,2026-09-13-eth-capital-digital-logistics-overhaul-regional-trade
+ETH,Fayda,Fayda digital ID,other,TECH5 biometrics,National ID Program (NIDP),national; banks,2025-05-22-ethiopia-fayda-digital-id-90-million-2027
+ETH,Ethiopian eGovernment Interoperability Framework (EeGIF),EeGIF,other,,Ministry of Innovation and Technology (MInT),,2023-02-01-mint-assessment-provision-e-government-services
+ETH,Ethiopian National Enterprise Architecture Framework (ENEAF),ENEAF,other,,Ministry of Innovation and Technology (MInT),,2023-02-01-mint-assessment-provision-e-government-services
+ETH,E-Services Portal,E-Services Portal,other,Perago (vendor),Ministry of Innovation and Technology (MInT),eight ministries and public departments onboarded,2023-02-01-mint-assessment-provision-e-government-services
+GHA,Ghana eGovernment Interoperability Framework (eGIF) Version 2.0,eGIF,standards,,NITA,MDAs,2022-01-01-ghana-egovernment-interoperability-framework-egif
+GHA,Government of Ghana Enterprise Architecture (GGEA),GGEA,other,,NITA,MDAs,2022-01-01-ghana-egovernment-interoperability-framework-egif
+GHA,National Data Exchange Hub,National Data Exchange Hub,other,,"Ministry of Communication, Digital Technology and Innovations",institutions,2026-07-31-govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth
+GHA,"National Data Exchange Hub (eGIF, launched 2009)",eGIF hub,other,,Ministry of Communications,,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
+GHA,Ghana.gov,Ghana.gov,other,,,MDAs,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)
+GIN,"WURI foundational ID (fID) system, Guinea",WURI-Guinea,other,,Government of Guinea with World Bank/ECOWAS WURI program,,2025-05-02-wuri-guinea-implementation-status-results-report
+GIN,PISCES X,PISCES X,other,,Police nationale (donated by US embassy),airport border control,2024-11-22-guinee-pisces-x-frontieres
+GIN,MIDAS,MIDAS,other,IOM,IOM,six border posts planned,2024-11-22-guinee-pisces-x-frontieres
+GIN,SAFIG 2,SAFIG 2,other,supplied by IKA,Direction Generale des Impots,central tax administration,2024-03-14-dgi-safig2-ministere-budget
+GIN,eTax Guinee,eTax,other,IKA,Ministere du Budget,,2024-03-14-dgi-safig2-ministere-budget
+GMB,national enterprise architecture framework,National enterprise architecture framework,other,,Gambia ICT Agency (GICTA),government systems,2026-04-01-gambia-mocde-cstd29-statement-ai
+GNQ,GALE eClinics,Estaciones Digitales de Telemedicina (eClinics),other,19Labs GALE with Starlink,Ministerio de Sanidad e Infraestructuras Sanitarias (proposal by 19Labs),"national; remote health centres, 4 continental and 4 insular",2026-07-21-alianzas-estrategicas-ee-uu-sistema-nacional-salud
+KEN,Kenya Health Enterprise Architecture Blueprint 2025,Kenya Health Enterprise Architecture Blueprint 2025,other,,Ministry of Health,,2026-08-21-kenya-hmis-data-collection-data-use-kenya-foundation
+KEN,Digital Health Solutions Standards and Guidelines 2025,Digital Health Solutions Standards and Guidelines 2025,other,,Ministry of Health,,2026-08-21-kenya-hmis-data-collection-data-use-kenya-foundation
+KEN,Kenya Core FHIR Implementation Guide,Kenya Core Implementation Guide,other,HL7 FHIR 4.0.1,Digital Health Agency,,2026-08-17-digital-health-kenya-core-fhir-implementation-guide-v1
+KEN,Kenya Patient Summary FHIR Implementation Guide,Kenya Patient Summary (KPS),other,HL7 FHIR 4.0.1,Digital Health Agency,,2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide
+LBY,National Information System,National Information System,,,General Information Authority; High Technical Committee,ministries' Information and Documentation Centres,2026-09-06-libya-gia-national-information-system-committee
+LBY,LYPay Instant Payment System,LYPay,other,REST APIs,Central Bank of Libya,banks and approved financial institutions,2025-06-11-cbl-lypay-instant-payment-system-devportal
+LBY,Nawa,Nawa,other,open-source Government Service Bus prototype,"General Information Authority hackathon team, with Libyan Digital Innovation Lab and Expertise France (EU E-NABLE)","central: Tax Authority, Commercial Registry, Central Bank of Libya, Customs Authority",2026-06-30-lby-cjos-nawa-interoperability-platform
+LSO,DHIS2 (national platform),national DHIS2 platform,other,DHIS2,Ministry of Health,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,LEAD,LEAD,other,,EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,Infolink,Infolink,other,,EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,LEMIS,Lesotho Education Management Information System,other,DHIS2,Ministry of Education and Training,"national, district, school",2026-05-11-lesotho-lemis-dhis2-education-data-system
+LSO,digital identity cards,digital identity cards,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+MAR,Système national intégré d'information sanitaire,Système national intégré d'information sanitaire (projet de loi 52.26),other,,future agency for health digitisation,public and private health establishments,2026-07-23-morocco-draft-law-52-26-digital-health-shared-record-unique-id
+MAR,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,,AfCFTA Secretariat with national implementation forums,national,2026-05-26-nigeria-kenya-morocco-afcfta-adapt
+MAR,Marketplace nationale du Cloud,Marketplace nationale du Cloud,other,,"piloted by the digital transition ministry, operated by ADD",public sector,2025-11-01-ausim-livre-blanc-cloud-au-maroc
+MAR,Plateforme de Données Nationales,Plateforme de Données Nationales,other,data lake,digital transition ministry,,2025-11-01-ausim-livre-blanc-cloud-au-maroc
+MDG,Orinasa,Orinasa,other,,UGD,"EDBM, DGI, MINJUS, INSTAT",2022-11-14-ugd-cadre-interoperabilite
+MDG,X-ROAD Security Server,X-ROAD SS,,X-Road,,,2022-11-14-ugd-cadre-interoperabilite
+MDG,Orinasa,Orinasa,other,,UGD,"EDBM, DGI, MINJUS, INSTAT",2022-11-01-ugd-cadre-interoperabilite-v1.0.2
+MDG,X-ROAD Security Server,X-ROAD SS,,X-Road,,,2022-11-01-ugd-cadre-interoperabilite-v1.0.2
+MLI,Interconnexion des systemes informatiques douaniers Mali-Cote d'Ivoire,interconnexion des systemes douaniers,other,,Direction generale des Douanes,national customs,2026-08-13-mali-customs-interconnection-cote-divoire-pilot
+MLI,Single window,single-window system,other,,,,2026-08-07-mali-trade-facilitation-customs-interconnection
+MOZ,Plataforma Comum de Comunicação de Dados do Governo e de Interoperabilidade (Plataforma Tecnológica de Interoperabilidade),Plataforma de Interoperabilidade de Governo Electrónico,other,,INAGE manages it; INTIC specifies it,"all public administration institutions (central and local State bodies, local authorities)",2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017
+MUS,Digital Service Framework,Digital Service Framework (DSF),other,,Ministries/Departments (no lead institution named),"all digital services developed, procured or maintained by ministries and departments",2026-09-01-gis-mauritius-digital-service-framework
+MWI,Labour Market Information System (LMIS),LMIS,other,,"Ministry of Labour, Skills and Innovation","central (MoLSI, TEVETA, NSO, e-Government Directorate)",2026-04-17-ilo-malawi-labour-market-information-system
+MWI,central bank-led eKYC platform (building or operating),,other,,central bank,,2026-06-18-finmark-trust-cross-border-dpi-sadc
+NAM,Nam-X,Nam-X,other,Cybernetica UXP (Unified eXchange Platform),"Office of the Prime Minister, Department of Public Service e-Government Management",national,2024-01-01-namibia-governmental-interoperability-framework-nam-x
+NAM,NamX,NamX,other,,,inter-ministry,2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)
+NAM,Nam-X,Nam-X,other,,Office of the Prime Minister,public sector,2025-01-01-developing-digital-services-nam-x
+NAM,Nam-X (X-Road based UXP),Nam-X,other,"Cybernetica UXP, based on Estonian X-Road",,,2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia
+NER,Registre National de la Population (RNP),RNP,other,,Ministere de l'Interieur (MISPAT),,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,Ministere de l'Interieur (MISPAT),,2026-08-20-lesahel-tillaberi-etat-civil-identification
+NER,Registre National de la Population (RNP),RNP,other,,Ministere de l'Interieur (MISPAT),,2026-08-17-niger-dosso-civil-status-tour-aneri-decrees
+NER,Registre National de la Population (RNP),RNP,other,,Ministere de l'Interieur (MISPAT),,2026-08-12-niger-tahoua-campagne-identite-legale-rnp
+NER,Registre National de la Population (RNP),RNP,other,,Ministere de l'Interieur (MISPAT),,2026-08-11-niger-population-registry-legal-texts-tour
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,ANEI (Agence Nationale de l'Enregistrement et de l'Identification des personnes physiques),national; first enrolment phase in the five arrondissements of Niamey,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National d'Etat Civil (RNEC),Registre National d'Etat Civil,other,new digital civil-event management platform,"Direction Generale de l'etat civil, des migrations et des refugies",communes and declaration centres,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NER,Registre National des Nationalites (RNN),Registre National des Nationalites,other,,Ministere de la Justice,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
+NGA,Nigeria Government Enterprise Architecture (NGEA),NGEA,other,,NITDA (hosted by Galaxy Backbone),"federal: NIMC, Customs, Immigration, NITDA pilots",2026-03-27-nitda-takes-over-ngea-koica
+NGA,Nigeria Government Enterprise Architecture (NGEA),NGEA,other,,NITDA (hosted by Galaxy Backbone),"federal: NIMC, Customs, Immigration, NITDA pilots",2026-04-07 NITDA Assumes Control Of NGEA Infrastructure
+NGA,Nigerian Digital Trustmark Initiative,Digital Trustmark,other,,NITDA,,2025-10-10-nitda-digital-trustmark-initiative
+NGA,ADAPT (Africa Digital Access and Public Infrastructure for Trade),ADAPT,other,,AfCFTA Secretariat,national (Nigeria pilot),2026-05-26-nigeria-kenya-morocco-afcfta-adapt
+RWA,Data Sharing Technology Platform,Data Sharing Platform,other,,RISA,government institutions,2025-10-27 Introduction to the Rwanda National Data Sharing Policy
+RWA,National Data Sharing Platform,Data Sharing Platform (DSP),other,,RISA,government agencies and private actors,2025-09-27-data-sharing-platform-2026-newtimes
+RWA,Data Sharing Platform,Data Sharing Platform,other,,Rwanda Information Society Authority (RISA),public institutions,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Shared Government Data Hub,Shared Government Data Hub,other,,Rwanda Information Society Authority (RISA),,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Data Interoperability Platform,Data Interoperability Platform,other,,,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+SDN,National Switch (المحول القومي),المحول القومي,other,,Central Bank of Sudan via Electronic Banking Services (EBS),national; Bank of Omdurman connected 2026-08-06,2026-08-06-suna-central-bank-launches-national-payment-switch-services
+SDN,National Instant Payment System (NIPS),National Instant Payment System,other,,Central Bank of Sudan,,2026-04-20-cbos-nips-national-instant-payment-system-tender
+SDN,National Instant Payment System (NIPS),NIPS,other,commercial off-the-shelf real-time settlement solution to be procured,Central Bank of Sudan,"commercial banks, credit unions and payment services institutions",2026-04-07-sudan-cbos-nips-rfp-v5
+SLE,Enterprise Architecture Blueprint,Enterprise Architecture Blueprint,other,,Government of Sierra Leone (developed with DIAL),government departments,2026-01-01-dial-digital-transformation-in-sierra-leone
+SLE,Government Service Bus (GSB),Government Service Bus,other,,,"central government; city councils (Bo, Koidu) to conform",2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,Government Enterprise Architecture Framework,Government Enterprise Architecture Framework,other,,MoCTI,MDAs,2025-10-31-sierra-leone-mocti-enterprise-architecture-training
+SOM,High School Certificate System (HSC),High School Certificate System,other,GovStack building blocks,Government of Somalia (MOECHE),national,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,eAqoonsi / NIRA digital ID,eAqoonsi NIRA ID,other,,NIRA,national,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,SomaliPay and GovPay,SomaliPay / GovPay,other,,,national,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,MOECHE Examination System,MOECHE Examination System,other,,MOECHE,national,2026-05-29-somalia-govstack-high-school-certificate-system
+SOM,SOMCAS,SOMCAS,,,,,2026-08-03-somalia-trade-facilitation-digital-systems
+SOM,SOMLITS,SOMLITS,,,,,2026-08-03-somalia-trade-facilitation-digital-systems
+SOM,Trade Information Portal,Trade Information Portal,other,,,,2026-08-03-somalia-trade-facilitation-digital-systems
+SOM,National Single Window,National Single Window,other,,,planned,2026-08-03-somalia-trade-facilitation-digital-systems
+SOM,EVC Plus,EVC Plus,other,,Hormuud Telecom,,2025-08-20-hormuud-evc-plus-gsma-recertification
+SOM,Hubiye,Hubiye,other,,NIRA,,2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system
+SOM,e-Aqoonsi,e-Aqoonsi,other,,NIRA,,2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system
+SSD,Civil registration and national ID linkage,unified digital civil registration integrated with the national ID system,other,,"Directorate of Civil Registry, Nationality, Passport and Immigration",national; health facilities to notify births,2026-07-31-interoperable-birth-registration-digital-id-plans
+SSD,National e-Service Platform,National e-Service Platform (nca.eservices.gov.ss),other,,National Communication Authority; Government of South Sudan,NCA licensees,2026-04-07-nca-mandatory-eservice-platform-circular
+STP,SEP 2.0 (Sistema de Emissao de Passaporte),SEP 2.0,other,,Servico de Migracao e Fronteiras,national,2026-04-15-stp-lanca-sistema-emissao-passaportes-sep-2-0
+STP,Janela Unica Portuaria,Janela Unica Portuaria,other,,,,2026-01-25-salto-tecnologico-comercio-externo-janela-unica-asyfive
+STP,Janela Unica do Comercio Externo,Janela Unica do Comercio Externo,other,,,,2026-01-25-salto-tecnologico-comercio-externo-janela-unica-asyfive
+STP,ASYFIVE,ASYFIVE,other,UN customs system (replaces CUDA/CYDONIA),Customs (Autoridade Geral Aduaneira),national,2026-01-25-salto-tecnologico-comercio-externo-janela-unica-asyfive
+STP,Plataforma de Interoperabilidade,Plataforma de Interoperabilidade,other,,,,2023-12-15-ager-sao-tome-estrategia-nacional-ciberseguranca-2024-2028
+SWZ,National Payment Switch,National Payment Switch,other,,,,"2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank"
+TGO,SIAMU-INAM,SIAMU-INAM,other,,INAM,,2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam
+TGO,SIAMU,SIAMU (CNSS),other,,CNSS,,2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam
+TGO,INAM information system (amu.inam.tg),amu.inam.tg,other,,INAM,,2026-04-22-togo-lancement-carte-a-puce-amu-systeme-information-inam
+TGO,National Portal for Digitalized Administrative Procedures (GNDAD),service-public.gouv.tg,other,,Agence Togo Digital,national,2025-01-01-agence-togo-digital-mandate-platforms
+TGO,Gouv Check,Gouv Check,other,mobile application,Agence Togo Digital,national,2025-01-01-agence-togo-digital-mandate-platforms
+TGO,e-Services platform,e-Services,other,,Agence Togo Digital,national,2025-01-01-agence-togo-digital-mandate-platforms
+TUN,plateforme d'interopérabilité,Plateforme nationale d'interopérabilité,other,,opérateur d'interopérabilité (public body under the telecom-technologies ministry),structures (public and private bodies with a public-service mission),2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite
+TUN,G-cloud / N-cloud labels,"G-cloud, N-cloud",,,ministry of communication technologies,,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
+TUN,plateforme d'interopérabilité,national interoperability platform,other,,,G-cloud providers must connect to it,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
+TUN,National health identifier,national health identifier,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TUN,Sahetna,Sahetna,other,,Ministry of Health,,2026-09-25-tun-telehealth-connect-2026-preview
+TZA,e-Government Interoperability Framework (e-GIF),e-GIF,standards,,e-Government Agency (eGA),Public Institutions,2016-02-01-e-government-interoperability-framework
+TZA,e-Government Security Architecture - Standards and Technical Guidelines (eGA/EXT/ISA/001),e-Government Security Architecture,other,,e-Government Agency (eGA),all Public Institutions and third parties,2017-11-01-e-government-security-architecture-standards
+TZA,GovESB,Government Enterprise Service Bus,other,,e-Government Authority,ministries,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,HCIMS,Human Capital Information Management System,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,Ajira Portal,Ajira Portal,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,NeST,NeST,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,GePG,GePG,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
+TZA,GovESB,GovESB,other,,e-Government Authority (e-GA),ministries and public institutions,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb
+UGA,Government Enterprise Architecture (renewed),GEA,other,,NITA-U,government,2026-05-27-ega-uganda-renewed-digital-government-frameworks
+UGA,"e-Government Interoperability Framework (e-GIF, renewed)",e-GIF,other,,NITA-U,government,2026-05-27-ega-uganda-renewed-digital-government-frameworks
+UGA,UGHub,UGHub,other,,NITA-U,national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,UGPass,UGPass,other,,NITA-U,national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,UGPass,UGPass,other,,NITA-U,public sector,2025-08-28-nita-u-ugpass-ceo-breakfast
+UGA,UGPass,UGPass,other,"Qualified Certificate Authority, National Authentication Provider, PKI",NITA-U,"individuals, businesses, government entities",2025-06-19-nita-u-ugpass
+UGA,UGHub,UGHub,other,,NITA-U,135 entities on the platform,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGPass,UGPass,other,"OpenID Connect, OAuth",NITA-U,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,Electronic Government Procurement (e-GP) System,e-GP,other,,"Ministry of Finance, Planning and Economic Development with PPDA","36 government entities, 100 more being trained",2026-08-03-accounting-officers-trained-as-uganda-expands-electronic-procurement-system
+UGA,National Information Security Framework (NISF) 2026,NISF,other,,Ministry of ICT and National Guidance with NITA-U,government institutions,2026-07-16-uganda-updated-national-information-security-framework
+UGA,Ndaga Muntu national ID registry,Ndaga Muntu,other,MOSIP,NIRA,,2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits
+UGA,Uganda National Land Information System (UgNLIS),UgNLIS,other,,"Ministry of Lands, Housing and Urban Development",22 Ministry Zonal Offices,2024-01-01-uganda-national-land-information-system
+UGA,UgHub,UgHub,other,,NITA-U,"MDAs including URA and the Judiciary, planned link to UgNLIS",2024-01-01-uganda-national-land-information-system
+ZAF,Minimum Interoperability Standards,Minimum Interoperability Standards,standards,,,,2026-07-31-sa-operation-vulindlela-q1-2026-progress-report
+ZAF,Government-Wide Enterprise Architecture,Government-Wide Enterprise Architecture,other,,,,2026-07-31-sa-operation-vulindlela-q1-2026-progress-report
+ZAF,MzansiXchange,MzansiXchange,other,,National Treasury,national,2026-07-31-sa-operation-vulindlela-q1-2026-progress-report
+ZAF,MyMzansi,MyMzansi,other,,,,2026-07-31-sa-operation-vulindlela-q1-2026-progress-report
+ZMB,Public Service ICT Electronic Government Interoperability Standard,e-Government Interoperability Standard (eGIF),standards,,Electronic Government Division / Smart Zambia Institute,"All ministries, provinces and spending agencies",2019-02-01-zambia-egovernment-interoperability-standard
+ZMB,National Public Key Infrastructure (NPKI),National Public Key Infrastructure,other,Altron Security build,ZICTA,,2026-09-09-itweb-africa-zambia-digital-trust-infrastructure
+ZMB,National Public Key Infrastructure (NPKI),National Public Key Infrastructure,other,,ZICTA as National Root Certification Authority,,2026-09-07-zambia-npki-digital-trust
+ZWE,Ndarama ERP,Ndarama Enterprise Resource Planning system,other,,"Ministry of ICT, Postal and Courier Services","whole public sector (finance, HR, supply chain, asset management)",2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold
+ZWE,National Interoperability Platform,secure interoperability platform for CRVS-Health,other,,Civil Registry Department,national,2026-07-18-zwe-crvs-health-integration-egmrg-presentation
+ZWE,National Population Register,National Population Register,,,Civil Registry Department,,2026-07-18-zwe-crvs-health-integration-egmrg-presentation
+ZWE,TaRMS,Tax and Revenue Management System,other,,ZIMRA,national,2025-12-01-zimra-public-notice-63-tarms-fdms-integration
+ZWE,FDMS,Fiscalisation Data Management System,other,,ZIMRA,national,2025-12-01-zimra-public-notice-63-tarms-fdms-integration
+ZWE,TaRMS,Tax and Revenue Management System,other,,ZIMRA,national,2024-09-13-zimra-public-notice-69-tarms-release-3
+ZWE,Enterprise Bus,Enterprise Bus,,,,,2024-09-13-zimra-public-notice-69-tarms-release-3
+ZWE,ASYCUDA,ASYCUDA,,,,,2024-09-13-zimra-public-notice-69-tarms-release-3
+ZWE,FDMS,Fiscalisation Data Management System,other,,ZIMRA,national,2024-09-13-zimra-public-notice-69-tarms-release-3
+ZWE,Impilo,Impilo EHR,other,,Ministry of Health and Child Care,"provincial, facility",2025-11-14-ehr-impilo-coverage-matabeleland-south

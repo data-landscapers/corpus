@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-16-rdc-homologation-sih-anicns-congoquotidien",
+  "facts": [],
+  "systems": [
+    {"system": "Architecture d'Entreprise en santé numérique", "country_label": "Architecture d'Entreprise en santé numérique", "class": "other", "platform": "", "owner": "ANICNS", "tiers": ""},
+    {"system": "Registre National des SIH Homologués", "country_label": "Registre National des SIH Homologués", "class": "other", "platform": "", "owner": "ANICNS", "tiers": "public, private and faith-based health facilities"}
+  ],
+  "note": "Standards named (FHIR, DICOM, API REST) cover hospital information systems in the health sector only; one-sector standards give no fact."
+}

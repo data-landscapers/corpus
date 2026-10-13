@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (national platform)", "country_label": "national DHIS2 platform", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "LEAD", "country_label": "LEAD", "class": "other", "platform": "", "owner": "EpiC Lesotho project", "tiers": ""},
+    {"system": "Infolink", "country_label": "Infolink", "class": "other", "platform": "", "owner": "EpiC Lesotho project", "tiers": ""}
+  ],
+  "note": "A health-project consultancy RFP; it asks for knowledge of data exchange standards and alignment with national guidelines and standards but names no government technical standards set."
+}

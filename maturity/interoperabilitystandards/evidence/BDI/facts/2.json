@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-09-au-iped-supports-burundi-strengthening-education-data",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "national"}
+  ],
+  "note": "Sector standards only: AU EMIS Norms and Standards for education data, self-assessment workshop 9-11 June 2026; no government-wide technical standards for exchange."
+}

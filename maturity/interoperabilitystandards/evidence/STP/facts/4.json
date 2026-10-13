@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-25-salto-tecnologico-comercio-externo-janela-unica-asyfive",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Janela Unica Portuaria",
+   "country_label": "Janela Unica Portuaria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Janela Unica do Comercio Externo",
+   "country_label": "Janela Unica do Comercio Externo",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ASYFIVE",
+   "country_label": "ASYFIVE",
+   "class": "other",
+   "platform": "UN customs system (replaces CUDA/CYDONIA)",
+   "owner": "Customs (Autoridade Geral Aduaneira)",
+   "tiers": "national"
+  }
+ ],
+ "note": "Single-window platforms and customs system; alignment with international trade norms mentioned only generally, no data-exchange standards set."
+}

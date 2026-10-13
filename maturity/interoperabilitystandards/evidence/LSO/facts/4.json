@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-11-lesotho-lemis-dhis2-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "LEMIS", "country_label": "Lesotho Education Management Information System", "class": "other", "platform": "DHIS2", "owner": "Ministry of Education and Training", "tiers": "national, district, school"}
+  ],
+  "note": "Metadata standards are mentioned only as a governance item the education ministry is working on for one sector system (LEMIS); sector-only and no government-wide technical standards, so no fact."
+}

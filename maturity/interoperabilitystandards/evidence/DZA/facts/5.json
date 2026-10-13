@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-30-joradp-decret-25-320-gouvernance-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "dispositif national de gouvernance des donnees", "country_label": "dispositif national de gouvernance des donnees", "class": "other", "platform": "", "owner": "Haut commissariat a la numerisation", "tiers": "central government institutions and administrations, and bodies and enterprises charged with a public service"},
+    {"system": "systeme national d'interoperabilite", "country_label": "systeme national d'interoperabilite", "class": "other", "platform": "secure national interconnection network, separate from the internet", "owner": "Haut commissariat a la numerisation", "tiers": "public institutions and administrations; public-service bodies and enterprises where integrated"}
+  ],
+  "note": "Decree 25-320 (2025-12-30) sets up a data governance scheme with a data classification referentiel and a data source cataloguing referentiel (to be drawn up and published by the High Commission, not yet published) and an exchange system; no technical exchange standards (formats, codes, interfaces, protocols) are stated, and the two referentiels cover classification and cataloguing, so no fact."
+}

@@ -95,7 +95,15 @@
       "subject": "gov.standards",
       "text": "National interoperability standards: technical standards for government systems",
       "indicator_id": "gov.standards--national-interoperability-standards-technical-standards-for-government-systems",
-      "class": "standards"
+      "class": "standards",
+      "criteria": [
+        "A source from the past three years says the government has no technical standards for its systems to exchange data and none are being written.",
+        "Standards are being written: a named set of technical standards for government systems to exchange data is being drafted or is out for consultation. An unapproved edition counts here. A mandate or a stated intention to write standards does not.",
+        "Standards are published: the government, the agency responsible or the standards body has issued the data formats, codes, interfaces or protocols its systems must use. An interoperability framework counts only where a source says it sets technical standards. Standards for one sector or one function do not count.",
+        "Public bodies are required to use the standards: a law, decree, regulation or circular makes them compulsory for the systems public bodies build or buy. A text that says of itself that it is compulsory does not count.",
+        "A system has been checked against the standards in the past three years: a dated source names a public body, system or product tested, audited or certified against them, or gives a count. How good the standards are is not judged."
+      ],
+      "criteria_of": "ff9ebeeddb54"
     }
   ],
   "classes": [

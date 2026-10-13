@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-20-hormuud-evc-plus-gsma-recertification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EVC Plus",
+      "country_label": "EVC Plus",
+      "class": "other",
+      "platform": "",
+      "owner": "Hormuud Telecom",
+      "tiers": ""
+    }
+  ],
+  "note": "GSMA mobile money certification is a payments-function standard on a private platform, not government system exchange standards."
+}

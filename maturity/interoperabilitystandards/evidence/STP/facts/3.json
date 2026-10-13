@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-15-stp-lanca-sistema-emissao-passaportes-sep-2-0",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SEP 2.0 (Sistema de Emissao de Passaporte)",
+   "country_label": "SEP 2.0",
+   "class": "other",
+   "platform": "",
+   "owner": "Servico de Migracao e Fronteiras",
+   "tiers": "national"
+  }
+ ],
+ "note": "Passport issuing system launch; states no technical standards for government data exchange."
+}

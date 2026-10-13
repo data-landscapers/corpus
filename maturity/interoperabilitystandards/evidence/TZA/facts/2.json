@@ -1,0 +1,10 @@
+{
+  "slug": "2016-02-01-e-government-interoperability-framework",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "The e-Government Agency issued version 1.0 of the e-Government Interoperability Framework - Standards and Technical Guidelines (eGA/EXT/GIF/001) in February 2016, setting nine technical standards areas for government systems to exchange data: interconnection, data integration (character encoding, data exchange formats, data modelling language), access, collaboration, application design and development, application integration, system standards, metadata and security.", "as_of": "2016-02", "date_precision": "month", "system": "e-Government Interoperability Framework (e-GIF)", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF", "class": "standards", "platform": "", "owner": "e-Government Agency (eGA)", "tiers": "Public Institutions"}
+  ],
+  "note": "Excerpt ends before section 3 (implementation, review and enforcement); nothing on compulsion by law or on checking is stated in the captured text."
+}

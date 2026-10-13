@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister",
+  "facts": [],
+  "systems": [
+    {"system": "Data Sharing Platform", "country_label": "Data Sharing Platform", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority (RISA)", "tiers": "public institutions"},
+    {"system": "Shared Government Data Hub", "country_label": "Shared Government Data Hub", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority (RISA)", "tiers": ""},
+    {"system": "Data Interoperability Platform", "country_label": "Data Interoperability Platform", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Article names a data sharing policy (May 2025) and exchange platforms but states no technical standards (formats, codes, interfaces) for government systems, nor their use."
+}

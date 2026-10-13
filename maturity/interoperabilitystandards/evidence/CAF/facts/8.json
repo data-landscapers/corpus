@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-24-icasees-atelier-politique-diffusion-donnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NADA",
+   "country_label": "NADA",
+   "class": "",
+   "platform": "",
+   "owner": "ICASEES",
+   "tiers": ""
+  },
+  {
+   "system": "REDATAM",
+   "country_label": "REDATAM",
+   "class": "",
+   "platform": "",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft statistical data dissemination policy of one agency (ICASEES); not a government exchange standards document, and contents not stated."
+}

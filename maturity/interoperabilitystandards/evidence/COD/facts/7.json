@@ -1,0 +1,17 @@
+{
+  "slug": "2022-02-04-cod-medd-atelier-referentiels-numeriques-interoperabilite",
+  "facts": [
+    {
+      "sub_indicator": "standards",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A ministry workshop on 2-3 February 2022 validated five books of public-sector digital standards, including a data-reference architecture framework and a general interoperability framework meant to give real-time interoperability of public information systems, still to be tidied and promulgated.",
+      "as_of": "2022-02-03",
+      "date_precision": "day",
+      "system": "Référentiels numériques du secteur public",
+      "class": "standards"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

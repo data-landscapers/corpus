@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LBY-001,LBY,standards,standing,none,"The paper's abstract says Libyan government institutions lack unified interoperability standards across their fragmented information systems; no date is given for the statement, so the paper's published date of 2026-06-30 is used.",2026-06-30,day,,standards,2026-06-30-lby-cjos-nawa-interoperability-platform,https://cjos.histr.edu.ly/index.php/journal/en/article/view/2167

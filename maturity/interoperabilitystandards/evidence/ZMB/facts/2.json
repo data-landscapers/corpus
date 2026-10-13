@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-itweb-africa-zambia-digital-trust-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Key Infrastructure (NPKI)", "country_label": "National Public Key Infrastructure", "class": "other", "platform": "Altron Security build", "owner": "ZICTA", "tiers": ""}
+  ],
+  "note": "Reports a national PKI launch for identity and signatures; a single-function matter, no technical standards for government data exchange stated."
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "2026-05-27-ega-uganda-renewed-digital-government-frameworks",
+  "facts": [],
+  "systems": [{"system":"Government Enterprise Architecture (renewed)","country_label":"GEA","class":"other","platform":"","owner":"NITA-U","tiers":"government"},{"system":"e-Government Interoperability Framework (e-GIF, renewed)","country_label":"e-GIF","class":"other","platform":"","owner":"NITA-U","tiers":"government"}],
+  "note": "No fact: renewed GEA and e-GIF delivered (2026-05-27) and said to support standardised data exchange, but the document does not say it sets technical standards (formats, codes, interfaces, protocols)."
+}

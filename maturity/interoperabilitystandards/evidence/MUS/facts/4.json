@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-gis-mauritius-digital-service-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Service Framework", "country_label": "Digital Service Framework (DSF)", "class": "other", "platform": "", "owner": "Ministries/Departments (no lead institution named)", "tiers": "all digital services developed, procured or maintained by ministries and departments"}
+  ],
+  "note": "Communique of 2026-09-01 says a Digital Service Framework will be developed with principles and standards including interoperability; a framework still to be written, with no standards for data exchange stated, so no fact."
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)",
+  "facts": [],
+  "systems": [{"system":"UGHub","country_label":"UGHub","class":"other","platform":"","owner":"NITA-U","tiers":"135 entities on the platform"},{"system":"UGPass","country_label":"UGPass","class":"other","platform":"OpenID Connect, OAuth","owner":"NITA-U","tiers":""}],
+  "note": "No fact: companion page describes an exchange platform and identity authentication; no government exchange standards stated."
+}

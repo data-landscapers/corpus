@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-05-prioritizes-data-governance-digital-sovereignty-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "INTIC chairman Lourino Chemane said Mozambique has completed a thorough review of the Electronic Government Systems Interoperability Regulation, which sets standards for integrating and managing public information systems; the report is dated 2025-12-05 and gives no other date.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Electronic Government Systems Interoperability Regulation",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": "carried from interoperability by its own text; no document opened"
+}

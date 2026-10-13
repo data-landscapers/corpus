@@ -1,0 +1,17 @@
+{
+ "slug": "2023-01-01-kenya-gea-gif-interoperability-framework",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ICT Authority's 2nd Edition Government Enterprise Architecture and Government Interoperability Framework sets out a framework for standardised data exchange between government agencies (interoperability charter, data, technical and metadata standards), but its approval date and document history are blank and its scope section says it is to be adopted by the entire government, ministries, counties and agencies; the document gives no date for the events and is dated by its 2023 publication year.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Government Enterprise Architecture (GEA) and Government Interoperability Framework (GIF)",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": "carried from interoperability by its own text; no document opened"
+}

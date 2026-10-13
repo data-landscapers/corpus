@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LBY,National Information System,National Information System,,,General Information Authority; High Technical Committee,ministries' Information and Documentation Centres,2026-09-06-libya-gia-national-information-system-committee
+LBY,LYPay Instant Payment System,LYPay,other,REST APIs,Central Bank of Libya,banks and approved financial institutions,2025-06-11-cbl-lypay-instant-payment-system-devportal
+LBY,Nawa,Nawa,other,open-source Government Service Bus prototype,"General Information Authority hackathon team, with Libyan Digital Innovation Lab and Expertise France (EU E-NABLE)","central: Tax Authority, Commercial Registry, Central Bank of Libya, Customs Authority",2026-06-30-lby-cjos-nawa-interoperability-platform

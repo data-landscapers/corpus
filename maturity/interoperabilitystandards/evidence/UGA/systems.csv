@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,Government Enterprise Architecture (renewed),GEA,other,,NITA-U,government,2026-05-27-ega-uganda-renewed-digital-government-frameworks
+UGA,"e-Government Interoperability Framework (e-GIF, renewed)",e-GIF,other,,NITA-U,government,2026-05-27-ega-uganda-renewed-digital-government-frameworks
+UGA,UGHub,UGHub,other,,NITA-U,national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,UGPass,UGPass,other,,NITA-U,national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",national,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
+UGA,UGPass,UGPass,other,,NITA-U,public sector,2025-08-28-nita-u-ugpass-ceo-breakfast
+UGA,UGPass,UGPass,other,"Qualified Certificate Authority, National Authentication Provider, PKI",NITA-U,"individuals, businesses, government entities",2025-06-19-nita-u-ugpass
+UGA,UGHub,UGHub,other,,NITA-U,135 entities on the platform,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,UGPass,UGPass,other,"OpenID Connect, OAuth",NITA-U,,2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)
+UGA,Electronic Government Procurement (e-GP) System,e-GP,other,,"Ministry of Finance, Planning and Economic Development with PPDA","36 government entities, 100 more being trained",2026-08-03-accounting-officers-trained-as-uganda-expands-electronic-procurement-system
+UGA,National Information Security Framework (NISF) 2026,NISF,other,,Ministry of ICT and National Guidance with NITA-U,government institutions,2026-07-16-uganda-updated-national-information-security-framework
+UGA,Ndaga Muntu national ID registry,Ndaga Muntu,other,MOSIP,NIRA,,2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits
+UGA,Uganda National Land Information System (UgNLIS),UgNLIS,other,,"Ministry of Lands, Housing and Urban Development",22 Ministry Zonal Offices,2024-01-01-uganda-national-land-information-system
+UGA,UgHub,UgHub,other,,NITA-U,"MDAs including URA and the Judiciary, planned link to UgNLIS",2024-01-01-uganda-national-land-information-system

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NamX",
+      "country_label": "NamX",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "inter-ministry"
+    }
+  ],
+  "note": "Names NamX as a data-exchange platform for inter-ministry sharing and notes interoperability gaps in identity; says nothing of technical standards for government systems, so no fact."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-24-moz-ecofinagency-unified-digital-platform",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Ecofin Agency reports that Mozambique is currently revising the 2017 interoperability framework to strengthen technical standards, data-exchange governance, data protection and cybersecurity.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "Interoperability regulatory framework (2017)",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": "carried from interoperability by its own text; no document opened"
+}

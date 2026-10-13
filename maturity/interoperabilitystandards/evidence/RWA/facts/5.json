@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-27 Introduction to the Rwanda National Data Sharing Policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Sharing Technology Platform",
+   "country_label": "Data Sharing Platform",
+   "class": "other",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": "government institutions"
+  }
+ ],
+ "note": "Policy tasks NISR's future Data Governance Unit with adopting national data standards; a mandate to adopt, no standards named as written or published."
+}

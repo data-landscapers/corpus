@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-25-plateforme-interoperabilite-administration-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'interoperabilite de l'administration publique (UXP)", "country_label": "plateforme d'interoperabilite de l'administration publique", "class": "other", "platform": "Cybernetica UXP (inspired by X-Road)", "owner": "SNDI, for the Ministry of Digital Transition and Digitalization", "tiers": "national: 12 administrations and public institutions in the first phase"}
+  ],
+  "note": "Reports the launch of an exchange platform; says nothing of technical standards, so no fact."
+}

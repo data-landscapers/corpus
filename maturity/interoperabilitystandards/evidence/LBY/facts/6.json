@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-30-lby-cjos-nawa-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "none",
+     "fact": "The paper's abstract says Libyan government institutions lack unified interoperability standards across their fragmented information systems; no date is given for the statement, so the paper's published date of 2026-06-30 is used.",
+     "as_of": "2026-06-30", "date_precision": "day", "system": "", "class": "standards"}
+  ],
+  "systems": [
+    {"system": "Nawa", "country_label": "Nawa", "class": "other", "platform": "open-source Government Service Bus prototype", "owner": "General Information Authority hackathon team, with Libyan Digital Innovation Lab and Expertise France (EU E-NABLE)", "tiers": "central: Tax Authority, Commercial Registry, Central Bank of Libya, Customs Authority"}
+  ],
+  "note": ""
+}

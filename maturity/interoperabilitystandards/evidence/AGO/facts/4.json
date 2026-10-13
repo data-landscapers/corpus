@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-09-tdr-implementacao-da-interoperabilidade-da-administracao-publica",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "IMA's terms of reference say a seven-month study with 25 public institutions produced the Framework and Roadmap of Interoperability, with organisational, semantic, technical and infrastructure guidelines and a phased roadmap; the document gives no adoption instrument. Dated by the document's publication date, 2026-02-09.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Quadro e Roteiro de Interoperabilidade da Administração Pública",
+   "class": "standards"
+  },
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The same study found only 27% of systems interconnected across the 25 institutions, mostly point-to-point, with fragmented governance and no common standards; the document names no decree making the framework compulsory. Dated by the document's publication date, 2026-02-09.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Quadro e Roteiro de Interoperabilidade da Administração Pública",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": "carried from interoperability by its own text; no document opened"
+}

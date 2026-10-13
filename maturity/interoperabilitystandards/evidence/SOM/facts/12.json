@@ -1,0 +1,39 @@
+{
+  "slug": "2026-08-03-somalia-trade-facilitation-digital-systems",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SOMCAS",
+      "country_label": "SOMCAS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SOMLITS",
+      "country_label": "SOMLITS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Trade Information Portal",
+      "country_label": "Trade Information Portal",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Single Window",
+      "country_label": "National Single Window",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned"
+    }
+  ],
+  "note": "Trade systems named and a wish that they connect; no technical standards for data exchange stated."
+}

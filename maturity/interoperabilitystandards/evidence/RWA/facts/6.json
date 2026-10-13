@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-27-data-sharing-platform-2026-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Sharing Platform",
+   "country_label": "Data Sharing Platform (DSP)",
+   "class": "other",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": "government agencies and private actors"
+  }
+ ],
+ "note": "Platform to be built on APIs, metadata structures and standard data formats; an exchange platform under construction, no standards set named as drafted or published."
+}

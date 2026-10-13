@@ -1,0 +1,8 @@
+{
+  "slug": "2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "The Referentiel general d'interoperabilite (RGI), adopted by Prime Minister's arrete of 23 May 2018, is described as a normative collection of protocols (communication rules, voice and file exchange protocols) ensuring compatibility between public administrations' information systems; a training seminar on it was held 15-17 October 2019.", "as_of": "2018-05-23", "date_precision": "day", "system": "Referentiel general d'interoperabilite (RGI)", "class": "standards"}
+  ],
+  "systems": [],
+  "note": ""
+}

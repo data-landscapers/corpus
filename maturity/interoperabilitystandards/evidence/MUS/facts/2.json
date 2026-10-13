@@ -1,0 +1,8 @@
+{
+  "slug": "2002-11-01 Mauritius e-Government Interoperability Framework v1.0",
+  "facts": [
+    {"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "Version 1.0 of the Mauritius e-Government Interoperability Framework, dated November 2002, sets technical standards and specifications for interoperability across government information systems and for data exchange between public agencies.", "as_of": "2002-11", "date_precision": "month", "system": "Mauritius e-Government Interoperability Framework v1.0", "class": "standards"}
+  ],
+  "systems": [],
+  "note": ""
+}

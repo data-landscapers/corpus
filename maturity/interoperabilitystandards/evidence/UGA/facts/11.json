@@ -1,0 +1,6 @@
+{
+  "slug": "2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature",
+  "facts": [],
+  "systems": [{"system":"UGHub","country_label":"UGHub","class":"other","platform":"","owner":"NITA-U","tiers":"national"},{"system":"UGPass","country_label":"UGPass","class":"other","platform":"","owner":"NITA-U","tiers":"national"},{"system":"National Land Information System","country_label":"National Land Information System","class":"other","platform":"","owner":"Ministry of Lands, Housing and Urban Development","tiers":"national"}],
+  "note": "No fact: describes an exchange platform and a signature service; says nothing of technical standards."
+}

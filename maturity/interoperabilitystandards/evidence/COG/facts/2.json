@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimac-norme-qr-code-interoperable",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC", "tiers": "banks, microfinance institutions, mobile-money operators"}
+  ],
+  "note": "The CEMAC QR-code standard is a payments-function standard, not a standard for government systems to exchange data, so no standards fact."
+}

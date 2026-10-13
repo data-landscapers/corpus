@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-07-zambia-npki-digital-trust",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Key Infrastructure (NPKI)", "country_label": "National Public Key Infrastructure", "class": "other", "platform": "", "owner": "ZICTA as National Root Certification Authority", "tiers": ""}
+  ],
+  "note": "Reports the NPKI launch; only says government will harmonise standards with regional and international frameworks, an intention, not standards for government data exchange."
+}
