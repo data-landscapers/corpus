@@ -296,6 +296,12 @@ DENOMINATORS = {
     "gdp": ("gdp-current-usd", "wdi-gdp", "US$", "official", lambda iso: wdi("NY.GDP.MKTP.CD", iso)),
     "population": ("population", "wdi-population", "persons", "official",
                    lambda iso: wdi("SP.POP.TOTL", iso)),
+    # Income per person, for a stated price of mobile data (maturity-study-mobileaffordability.md
+    # §3): in local currency, so no exchange rate is needed, and in dollars for a price given in them.
+    "gni-lcu": ("gni-per-capita-lcu", "wdi-gni-pcap-cn", "local currency", "official",
+                lambda iso: wdi("NY.GNP.PCAP.CN", iso)),
+    "gni-usd": ("gni-per-capita-usd", "wdi-gni-pcap-cd", "US$", "official",
+                lambda iso: wdi("NY.GNP.PCAP.CD", iso)),
 }
 
 

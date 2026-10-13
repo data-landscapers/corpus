@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNQ-001,GNQ,price,cost,share:25.72,"The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Equatorial Guinea cost 25.72 per cent of average monthly income in 2022, on the International Telecommunication Union's price figures.",2022,year,"ITU data-only mobile broadband basket, 5 GB",price,ref:itu-price-basket-5gb-gni@2025-12-10,https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx

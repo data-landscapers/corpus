@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-sao-tome-cst-tarifarios-movel",
+  "facts": [],
+  "systems": [
+    {"system": "TURBINHO MENSAL", "country_label": "500 min/SMS for 30 days at 150 Dbs; no data volume stated", "class": "other", "platform": "", "owner": "CST", "tiers": ""},
+    {"system": "TURBINHO SEMANAL", "country_label": "120 min/SMS for 7 days at 50 Dbs", "class": "other", "platform": "", "owner": "CST", "tiers": ""},
+    {"system": "TURBINHO DIARIO", "country_label": "20 min/SMS for 24h at 10 Dbs", "class": "other", "platform": "", "owner": "CST", "tiers": ""}
+  ],
+  "note": "Passages show only CST's voice/SMS Turbinho bundles; no mobile data plan with a stated gigabyte size or price, and no share of income."
+}

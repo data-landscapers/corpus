@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-09-guinea-urges-orange-improve-service-coverage",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:5.16",
+     "fact": "Ecofin Agency reports that the ITU puts a standard 5 GB mobile data plan in Guinea at 5.16% of monthly GNI per capita in 2025, against the ITU's 2% affordability benchmark; the ITU computed it. The article gives no day for the figure, so as_of is the year.",
+     "as_of": "2025", "date_precision": "year", "system": "ITU mobile data price basket (5 GB)", "class": "price"}
+  ],
+  "systems": [],
+  "note": ""
+}

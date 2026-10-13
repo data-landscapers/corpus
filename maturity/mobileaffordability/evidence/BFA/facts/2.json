@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:0.2", "fact": "Internet Society Pulse figures cited by the Internet Society show a person in Burkina Faso needing 0.2% of average income in 2025 for a low-consumption mobile broadband package of at least 3G and a minimum of 1 GB.", "as_of": "2025", "date_precision": "year", "system": "Internet Society Pulse average Internet cost", "class": "price"},
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:13", "fact": "Internet Society Pulse figures cited by the Internet Society show a person in Burkina Faso needing 13% of average income in 2020 for a low-consumption mobile broadband package of at least 3G and a minimum of 1 GB.", "as_of": "2020", "date_precision": "year", "system": "Internet Society Pulse average Internet cost", "class": "price"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-eritel-faqs",
+  "facts": [],
+  "systems": [
+    {"system": "Dial-Up Tariff (fixed internet)", "country_label": "316 NKF per month", "class": "other", "platform": "", "owner": "Eritel", "tiers": ""},
+    {"system": "ADSL line rent (fixed)", "country_label": "475 NKF (128 Mbps) to 3,062 NKF (2048 Mbps)", "class": "other", "platform": "", "owner": "Eritel", "tiers": ""},
+    {"system": "Mobile prepaid recharge cards", "country_label": "110 NKF and 330 NKF denominations", "class": "other", "platform": "", "owner": "Eritel", "tiers": ""}
+  ],
+  "note": "Fixed internet and prepaid card denominations only; no mobile data plan or per-GB price."
+}

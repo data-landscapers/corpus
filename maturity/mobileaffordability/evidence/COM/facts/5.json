@@ -1,0 +1,47 @@
+{
+ "slug": "ref:itu-price-basket-5gb-gni@2025-12-10",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:15.55",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Comoros cost 15.55 per cent of average monthly income in 2022, on the International Telecommunication Union's price figures.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:8.61",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Comoros cost 8.61 per cent of average monthly income in 2023, on the International Telecommunication Union's price figures.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:8.29",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Comoros cost 8.29 per cent of average monthly income in 2024, on the International Telecommunication Union's price figures.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:7.36",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Comoros cost 7.36 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

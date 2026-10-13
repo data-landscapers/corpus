@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-21-nation-kenya-ict-bill-solution-looking-for-a-problem",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Broadband Strategy 2025-2030 target",
+   "country_label": "Fixed broadband cost from 13.4% to 2% of household income (fixed, a target)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a fixed broadband target and no mobile data price or income share."
+}

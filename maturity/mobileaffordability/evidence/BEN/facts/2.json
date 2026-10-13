@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-08-internet-benin-acces-qualite-cout",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:XOF:995:1", "fact": "ARCEP's director general is reported as saying that operator offers reached 995 FCFA per gigabyte in 2023 (from about 4,000 FCFA a gigabyte on average in 2016), a per-gigabyte offer price rather than a monthly plan; the year 2023 is the date of the price and no month is given.", "as_of": "2023", "date_precision": "year", "system": "ARCEP-reported operator price per GB", "class": "price"}
+  ],
+  "systems": [],
+  "note": "The article's USD gigabyte figures (27.22 USD in 2019, 3.62 USD two years later) are internally inconsistent with its FCFA equivalents and are not recorded."
+}

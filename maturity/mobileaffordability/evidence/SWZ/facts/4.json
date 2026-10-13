@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-31 Eswatini's Digital Transformation Crucial to Unlocking Growth, Jobs, and Economic Resilience",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:3.47", "fact": "The World Bank press release on the Eswatini Economic Update says the high cost of data takes up 3.47% of GNI per capita, above what is considered affordable in the region; basket size not stated, and no figure date given so the release's published date is used.", "as_of": "2025-07-31", "date_precision": "day", "system": "Cost of data as share of GNI per capita", "class": "price"}
+  ],
+  "systems": [],
+  "note": ""
+}

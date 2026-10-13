@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-18-tunisie-internet-abordabilite",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:1.53",
+     "fact": "Tunisia's national telecoms authority (INT), using ITU data, reports that the monthly high-consumption basket (140 minutes of calls, 20 SMS and 5 GB of data, so a mixed voice, SMS and data basket and not data alone) costs 1.53% of monthly GNI per capita; no date for the figure is given, so as_of is the article's published date.",
+     "as_of": "2026-07-18", "date_precision": "day", "system": "INT/ITU high-consumption basket (5 GB)", "class": "price"}
+  ],
+  "systems": [
+    {"system": "INT/ITU high-consumption basket (140 min, 20 SMS, 5 GB): nominal price", "country_label": "TND 16.8 (about USD 5.31) a month", "class": "other", "platform": "", "owner": "Instance nationale des telecommunications", "tiers": ""}
+  ],
+  "note": ""
+}

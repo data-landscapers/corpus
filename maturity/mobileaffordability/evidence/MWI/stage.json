@@ -1,0 +1,15 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "share:8.45",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-004",
+   "gaps": "The newest figure, 8.45 per cent for 2025, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

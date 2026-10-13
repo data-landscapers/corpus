@@ -1,0 +1,15 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "4",
+   "cost": "share:1.56",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-004",
+   "gaps": "The newest figure, 1.56 per cent for 2025, is above 1 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

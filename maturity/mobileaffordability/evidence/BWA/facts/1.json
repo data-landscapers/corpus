@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-18-btc-reduces-data-prices-following-regulator-approval",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:BWP:99:8", "fact": "BTC's cheapest monthly data bundle of 5 GB or more is 8 GB for P99 (plan price, not per-GB), in tariffs approved by BOCRA with immediate effect; the article's date is used as no other is given.", "as_of": "2026-02-18", "date_precision": "day", "system": "BTC monthly data bundles", "class": "price"}
+  ],
+  "systems": [
+    {"system": "BTC one-day bundles", "country_label": "100MB P2; 300MB P5; 1.5GB P10", "class": "other", "platform": "", "owner": "BTC", "tiers": ""},
+    {"system": "BTC three-day bundle", "country_label": "3GB P25", "class": "other", "platform": "", "owner": "BTC", "tiers": ""},
+    {"system": "BTC 30-day large bundles", "country_label": "30GB P199; 50GB P269; 100GB P349", "class": "other", "platform": "", "owner": "BTC", "tiers": ""}
+  ],
+  "note": ""
+}

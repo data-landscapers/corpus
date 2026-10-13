@@ -1,0 +1,15 @@
+{
+ "iso3": "CAF",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "1",
+   "cost": "share:53.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CAF-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-06-benin-arcep-tarifs-internet-interview-fraternite",
+  "facts": [],
+  "systems": [
+    {"system": "service plus (low-speed bonus after data is used up)", "country_label": "kept only on offers from 15,000 FCFA; previously from 19,000 FCFA, then 5,000/10,000/15,000 FCFA", "class": "other", "platform": "", "owner": "MTN, Moov (ARCEP-approved catalogues)", "tiers": ""},
+    {"system": "24h, 48h and weekly app bundles", "country_label": "new from 4 August 2026, no prices given", "class": "other", "platform": "", "owner": "MTN, Moov", "tiers": ""}
+  ],
+  "note": "ARCEP interview on the August 2026 catalogue revision gives no price or share-of-income figure for a monthly data plan."
+}

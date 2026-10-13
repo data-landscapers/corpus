@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-22-presidence-internet-reduction-du-prix-actee-par-le-pcmt",
+  "facts": [],
+  "systems": [
+    {"system": "Cost of internet for a minimum-wage (SMIG) earner", "country_label": "17.8% of salary in 2020; target band 8 to 2%", "class": "other", "platform": "", "owner": "Presidence de la Republique", "tiers": ""},
+    {"system": "30% cut in all internet offers (Airtel, Moov)", "country_label": "30% cut instructed 29 Dec 2021, reported up to 60-78% on some segments; no resulting price", "class": "other", "platform": "", "owner": "Airtel Tchad; Moov Tchad", "tiers": ""}
+  ],
+  "note": "Share is of the minimum wage, not average income or GNI, and is not tied to a mobile data basket; price cuts give no resulting price."
+}

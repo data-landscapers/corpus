@@ -1,0 +1,15 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "share:5.74",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-004",
+   "gaps": "The newest figure, 5.74 per cent for 2025, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

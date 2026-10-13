@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-21-malawi-targets-smartphone-tax-relief",
+  "facts": [],
+  "systems": [
+    {"system": "surtax on internet services", "country_label": "10%", "class": "other", "platform": "", "owner": "Government of Malawi", "tiers": ""},
+    {"system": "VAT on smartphones", "country_label": "17.5%", "class": "other", "platform": "", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": "Article gives taxes and a usage target; no data price or share of income."
+}

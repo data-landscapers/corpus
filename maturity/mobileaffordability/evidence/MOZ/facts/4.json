@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-mozambique-national-broadband-map-incm-portal",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:2.67", "fact": "The article, citing the latest World Bank Digital Acceleration Project implementation report, says the cost of a standard mobile data package in Mozambique, as a percentage of monthly GNI per capita, fell from 9.4% in 2022 to 2.67% in March 2026; the GB size of the basket is not stated.", "as_of": "2026-03", "date_precision": "month", "system": "World Bank Digital Acceleration Project implementation report", "class": "price"}
+  ],
+  "systems": [
+    {"system": "Portal Nacional de Banda Larga e Planeamento de Cobertura", "country_label": "INCM GIS coverage portal (2G to 5G by operator); no prices", "class": "other", "platform": "Esri and Cellular Expert", "owner": "INCM", "tiers": ""}
+  ],
+  "note": ""
+}

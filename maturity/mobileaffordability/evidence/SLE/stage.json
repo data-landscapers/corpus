@@ -1,0 +1,15 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "share:6.13",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004",
+   "gaps": "The newest figure, 6.13 per cent for 2025, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

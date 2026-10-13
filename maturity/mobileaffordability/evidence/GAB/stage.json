@@ -1,0 +1,15 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "3",
+   "cost": "share:2.65",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GAB-004",
+   "gaps": "The newest figure, 2.65 per cent for 2025, is above 2 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

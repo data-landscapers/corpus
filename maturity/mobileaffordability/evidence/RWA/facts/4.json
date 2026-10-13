@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-gsma-mobile-sector-taxation-rwanda-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Excise duty on mobile services", "country_label": "12% from June 2025, 14% from June 2026, 15% from June 2027 (GSMA Mobile Sector Taxation brief, June 2026)", "class": "other", "platform": "", "owner": "Government of Rwanda", "tiers": ""},
+    {"system": "VAT on mobile phones and ICT equipment", "country_label": "18%", "class": "other", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "Tax and operator fiscal burden brief; no data price or income-share figure."
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "ref:itu-price-basket-5gb-gni@2025-12-10",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:4.15",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Cote d'Ivoire cost 4.15 per cent of average monthly income in 2022, on the International Telecommunication Union's price figures.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:3.43",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Cote d'Ivoire cost 3.43 per cent of average monthly income in 2023, on the International Telecommunication Union's price figures.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:3.02",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Cote d'Ivoire cost 3.02 per cent of average monthly income in 2024, on the International Telecommunication Union's price figures.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:3.04",
+   "fact": "The cheapest 30-day mobile data plan of at least 5 GB from the largest operator in Cote d'Ivoire cost 3.04 per cent of average monthly income in 2025, on the International Telecommunication Union's price figures.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU data-only mobile broadband basket, 5 GB",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

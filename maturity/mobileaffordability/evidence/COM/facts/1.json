@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-15-comores-telecom-nouvelles-offres",
+  "facts": [],
+  "systems": [
+    {"system": "Furaha Net basic fibre offer", "country_label": "fibre basic offer cut from 32,500 to 30,000 francs (fixed fibre, not mobile data)", "class": "other", "platform": "", "owner": "Comores Telecom", "tiers": ""},
+    {"system": "Furaha Net classic fibre offer", "country_label": "850 GB instead of 800 GB (fixed fibre, not mobile data)", "class": "other", "platform": "", "owner": "Comores Telecom", "tiers": ""},
+    {"system": "eSIM", "country_label": "5,000 francs to switch from a physical SIM; 10,000 francs for a new one (SIM fee, not data)", "class": "other", "platform": "", "owner": "Comores Telecom", "tiers": ""}
+  ],
+  "note": "No mobile data plan price or income share stated; only fixed-fibre prices and eSIM fees."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-06-burkina-faso-tightens-telecom-regulations-affordability",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:8.8", "fact": "The ITU is cited as showing monthly mobile internet spending in Burkina Faso at 8.8% of GNI per capita in 2025; the document does not state the basket size, and gives the African average as 5.32% and the global average as 1.38%.", "as_of": "2025", "date_precision": "year", "system": "ITU mobile internet price as share of GNI per capita", "class": "price"}
+  ],
+  "systems": [
+    {"system": "ARCEP minimum one-month validity for 1-GB data bundles", "country_label": "minimum one-month validity for 1 GB bundles (regulator rule, enforceable from Dec 2025)", "class": "other", "platform": "", "owner": "ARCEP", "tiers": ""},
+    {"system": "Orange Burkina Faso and ONATEL standard mobile internet plans", "country_label": "average prices down 28% to 45% for plans of at least one month's validity (ARCEP, no resulting price given)", "class": "other", "platform": "", "owner": "Orange Burkina Faso; ONATEL", "tiers": ""}
+  ],
+  "note": ""
+}

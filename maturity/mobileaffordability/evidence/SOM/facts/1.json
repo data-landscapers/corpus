@@ -1,0 +1,5 @@
+{"slug":"2026-08-29-somalia-mobile-data-prices-smartphone-financing","facts":[
+{"sub_indicator":"price","aspect":"cost","value":"price:USD:0.5:1","fact":"Radio Dalsan reports Hormuud Telecom says its average customer pays about USD 0.50 for 1 GB of data plus 40 minutes of calls; an average per-gigabyte price, described as typical daily spend, not a monthly plan.","as_of":"2026-08-29","date_precision":"day","system":"Hormuud Telecom average 1 GB price","class":"price"},
+{"sub_indicator":"price","aspect":"cost","value":"price:USD:50:220","fact":"Radio Dalsan reports Somtel prices a 220 GB monthly prepaid bundle at USD 50 (about USD 0.23 per GB), stated as on its Somaliland network; a plan price. No date given, so the published date is used.","as_of":"2026-08-29","date_precision":"day","system":"Somtel 220 GB monthly bundle","class":"price"}],
+"systems":[{"system":"Hormuud 7 GB weekly bundle with smartphone financing","country_label":"7 GB and 280 minutes weekly, USD 18 to 36 a month by repayment term","class":"other","platform":"","owner":"Hormuud Telecom","tiers":""}],
+"note":""}

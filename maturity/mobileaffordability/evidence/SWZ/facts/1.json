@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-28-digital-eswatini-project-pid",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:3.4", "fact": "The World Bank's Digital Eswatini concept-stage PID states Eswatini residents paid on average 3.4 per cent of GNI per capita per month for the cheapest 2 GB of mobile broadband data, above the 2 per cent global benchmark; this is the 2 GB basket, no date given so the document's published date is used.", "as_of": "2025-06-28", "date_precision": "day", "system": "Cheapest 2 GB mobile broadband data basket", "class": "price"}
+  ],
+  "systems": [
+    {"system": "ICT price basket for fixed broadband", "country_label": "19.06 percent of GNI per capita per month (average)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-bocra-approves-reduced-data-prices-orange-botswana",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:BWP:99:8", "fact": "BOCRA's schedule lists Orange Botswana's cheapest 30-day data plan of 5 GB or more as 8 GB for P99 (plan price), after the price cut following the May 2025 pricing and costing study; the document gives no day, so the year in its filename (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "Orange Botswana 30-day data plans", "class": "price"}
+  ],
+  "systems": [
+    {"system": "Orange 1-day to 14-day bundles", "country_label": "e.g. 1 day 1.5GB P10; 7 days 4GB P50; 14 days 8GB P80", "class": "other", "platform": "", "owner": "Orange Botswana", "tiers": ""}
+  ],
+  "note": "Table 2 also lists BTC 30-day 5GB at P112 and Mascom 30-day 6.5GB at P120; not recorded, being dearer than Orange's 8GB at P99."
+}

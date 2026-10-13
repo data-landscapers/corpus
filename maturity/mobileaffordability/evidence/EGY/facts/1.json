@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-06-ntra-egypt-digital-inclusion-packages-price-adjustment",
+  "facts": [],
+  "systems": [
+    {"system": "New lowest mobile package (digital inclusion)", "country_label": "EGP 5, replacing a lowest package of about EGP 13; no data size or validity stated", "class": "other", "platform": "", "owner": "NTRA-directed operators", "tiers": ""},
+    {"system": "Price increase on some packages", "country_label": "9 to 15 per cent including taxes; no resulting price stated", "class": "other", "platform": "", "owner": "NTRA-approved operators", "tiers": ""},
+    {"system": "Free government and educational websites after data runs out", "country_label": "zero-rated, fixed and mobile", "class": "other", "platform": "", "owner": "NTRA", "tiers": ""},
+    {"system": "New fixed internet package", "country_label": "EGP 150, replacing the lowest at EGP 210 (fixed)", "class": "other", "platform": "", "owner": "NTRA-directed operators", "tiers": ""}
+  ],
+  "note": "No mobile data plan of a stated size or per-GB price and no share of income; the EGP 5 mobile package has no stated data size or validity."
+}

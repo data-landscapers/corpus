@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-07-inacom-promocao-e-medicao-da-conectividade-universal-e-significativa-angola",
+  "facts": [],
+  "systems": [
+    {"system": "INACOM low-use basket with data (70 min + 20 SMS + 500 MB)", "country_label": "1.56% of GDP per capita in 2024 (1.80% 2022, 1.73% 2023)", "class": "other", "platform": "", "owner": "INACOM", "tiers": ""},
+    {"system": "INACOM low-use voice basket (70 min + 20 SMS)", "country_label": "1.07% of GDP per capita in 2024 (1.80% in 2022)", "class": "other", "platform": "", "owner": "INACOM", "tiers": ""}
+  ],
+  "note": "Affordability is given only as voice-plus-500 MB low-use baskets against GDP per capita; no 5 GB or data-only basket, no data plan price."
+}

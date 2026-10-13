@@ -1,0 +1,15 @@
+{
+ "iso3": "ZMB",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "3",
+   "cost": "share:3.18",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZMB-004",
+   "gaps": "The newest figure, 3.18 per cent for 2025, is above 2 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

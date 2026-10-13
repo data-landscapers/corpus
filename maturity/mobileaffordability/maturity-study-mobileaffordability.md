@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-mobileaffordability.md — the fortieth maturity study: what a month of mobile data costs against income, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13, and redrawn the same day on Bill's ruling that any documented figure counts equally; waits for his word on the questions
+status: run 2026-10-13 on Bill's word, with his ruling that any documented figure counts equally; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: mobileaffordability
@@ -76,10 +76,22 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that access
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-13.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry and read**: income per person into `reference/denominators.csv`, the held series, then one fan-out of drafters over the 165 stories.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13, with his ruling that any documented figure counts equally.
+- [x] **D2. Carried and read**: income per person for 54 countries into `reference/denominators.csv`; 205 figures for 53 countries from the held series; 60 drafters in one fan-out over the 165 stories. 230 facts after the parent's reading, 25 of them from stories.
+- [x] **D3. Staged** as at 2026-09-30: 5: 3, 4: 10, 3: 13, 2: 16, 1: 9, two unplaced, one without evidence; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **The stories moved one country: Angola, from stage 3 to stage 4.** Africell's 7 GB 30-day plan at 5,000 kwanza, on its tariff page of October 2025, comes to 1.89 per cent; the Union's figure for 2025, from the largest operator, is 3.05.
+- **A story's price sets the stage in five more countries and moves none**: Botswana (1.17, stage 4), Libya (0.68, stage 5), Sudan (5.97, stage 2), Tanzania (3.81, stage 3) and Uganda (7.5, stage 2).
+- **Removed by the parent, nine rows** (`corrections.csv`), four of which would have moved a country: Morocco's 12 GB plan sold with 12 hours of calls (to stage 3); Mozambique's 2.67 per cent for March 2026, from a World Bank project report, for a smaller basket of unstated size (to stage 3); Somalia's 220 GB bundle, Somaliland's alone (to stage 1); Tanzania's pay-as-you-go rate, paid by 0.1 per cent of users (to stage 1). A plan sold with voice is not a data plan.
+- **A stated share whose basket is not given cannot be brought to 5 GB and is not used**: Mozambique's and Eswatini's two. One for a named smaller basket is multiplied up: Burkina Faso's and Eswatini's, four rows revalued, none setting a stage.
+- **Of two figures for one date the dearer stands.** It decides Burkina Faso, where a 1 GB figure of 0.2 per cent for 2025 would otherwise have set stage 5 against the Union's 8.8.
+- **A price is set against income only in the country's own currency or US dollars, and only where income is held for 2023 or later.** South Sudan's USD 23.70 a gigabyte is printed and sets nothing: its latest income figure is for 2015.
+- **Eritrea is *No evidence*; Equatorial Guinea and Zimbabwe are unplaced** on figures for 2022 and 2023. No story gave any of the three a price.
+- **The series is cited as data**, under `ref:itu-price-basket-5gb-gni@2025-12-10`; the World Bank's income figures are named and not linked, being no held record. **A script wrote the summaries**, `scripts/study-affordability-write.py`; no writer was called.
+- **Tokens: 22.5 million at the map**, ceiling 30 million, step 1 included.
 
 ## Boundary
 

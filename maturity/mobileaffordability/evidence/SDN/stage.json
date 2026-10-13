@@ -1,0 +1,15 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "price:SDG:12500:5",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-001",
+   "gaps": "The newest figure, 5.97 per cent for 2026, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

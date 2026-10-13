@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-22-pura-mobile-data-d75-per-gigabyte-decision-thepoint",
+  "facts": [],
+  "systems": [
+    {"system": "PURA mobile data price ceiling", "country_label": "GMD 75 per GB, set by PURA, effective 1 Jan 2026 (regulator ceiling; article also calls it a set price)", "class": "other", "platform": "", "owner": "PURA", "tiers": ""},
+    {"system": "PURA data rollover rule", "country_label": "unused data rolls over if the consumer resubscribes within 30 days, from 1 Jan 2026", "class": "other", "platform": "", "owner": "PURA", "tiers": ""}
+  ],
+  "note": "The only price figure is a regulator-set cap of GMD 75/GB, not a retail offer or a share of income; no operator plan or income share stated."
+}

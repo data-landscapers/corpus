@@ -1,0 +1,15 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "5",
+   "cost": "share:0.49",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-004",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

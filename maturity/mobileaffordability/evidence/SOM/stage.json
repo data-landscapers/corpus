@@ -1,0 +1,15 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "3",
+   "cost": "share:4",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-007",
+   "gaps": "The newest figure, 4 per cent for 2025, is above 2 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

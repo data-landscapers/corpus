@@ -1,0 +1,15 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "5",
+   "cost": "share:0.54",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-004",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

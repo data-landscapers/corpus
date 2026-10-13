@@ -1,0 +1,15 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "5",
+   "cost": "price:LYD:20:6",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2026-09-03-almadar-aljadid-mobile-internet-packages-tariff",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:LYD:20:6",
+     "fact": "Almadar Aljadid's published retail tariff lists its cheapest monthly plan of 5 GB or more as Net 6, a 6 GB plan valid 30 days at 20 Libyan dinars; the page carries no date, so as_of is the retrieval/published date 2026-09-03.",
+     "as_of": "2026-09-03", "date_precision": "day", "system": "Almadar Aljadid Net 6 (6 GB, 30 days)", "class": "price"}
+  ],
+  "systems": [
+    {"system": "Net 1 / Net 2 weekly bundles", "country_label": "1 GB 7 days 5 LYD; 2 GB 7 days 8 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Net 500 / Net 250 / Net 100mb / Net 20mb short bundles", "country_label": "500 MB 3 days 3 LYD; 250 MB 3 days 2 LYD; 100 MB 1 day 1 LYD; 50 MB 1 day 0.5 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "VoLTE packages", "country_label": "6 GB 30 days 25 LYD up to 300 GB 60 days 205 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Hissati Maak family sharing", "country_label": "70 GB plus 300 min for 3 members 90 LYD up to 250 GB for 5 members 250 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Elite packages", "country_label": "120 GB 30 days 100 LYD; 200 GB 60 days 150 LYD; 300 GB 60 days 200 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Hourly packages", "country_label": "1 hour 2 LYD; 2 hours 3 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Social packages", "country_label": "daily 1 GB 1 LYD; weekly 3 GB 5 LYD; monthly 10 GB 20 LYD", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""},
+    {"system": "Bajouk pay-as-you-go", "country_label": "25 dirhams per megabyte", "class": "other", "platform": "", "owner": "Almadar Aljadid", "tiers": ""}
+  ],
+  "note": ""
+}

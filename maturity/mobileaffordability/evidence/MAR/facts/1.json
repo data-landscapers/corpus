@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:MAD:120:12",
+     "fact": "Maroc Telecom's half-year report says it launched in June 2026 the 'Forfait Liberte', a monthly plan of 12 GB of data plus 12 hours of calls at 120 DH a month (plan price, bundled with voice; launch month used as the date).",
+     "as_of": "2026-06", "date_precision": "month", "system": "Forfait Liberté", "class": "price"}
+  ],
+  "systems": [
+    {"system": "E-SIM Visiteurs 45 Go", "country_label": "200 DH, 45 GB, 30 days (tourist eSIM)", "class": "other", "platform": "", "owner": "Maroc Telecom", "tiers": ""},
+    {"system": "Pass TOD AFCON", "country_label": "50 DH, cut to 30 DH from the quarter-finals (TV streaming pass)", "class": "other", "platform": "", "owner": "Maroc Telecom", "tiers": ""}
+  ],
+  "note": ""
+}

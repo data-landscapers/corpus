@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-17-arpce-congo-rapport-2024-marche-internet-mobile",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:XAF:700:1",
+     "fact": "ARPCE's 2024 report gives a weighted average mobile internet tariff of 0.70 FCFA per megabyte for 2024 (about 700 FCFA per gigabyte at 1,000 MB), an average per-gigabyte price across all technologies and both operators (MTN, Airtel), not a retail plan; the 4G-specific weighted tariff is 2.15 FCFA per MB.",
+     "as_of": "2024", "date_precision": "year", "system": "Weighted average mobile internet tariff (ARPCE)", "class": "price"}
+  ],
+  "systems": [
+    {"system": "Weighted 4G/LTE mobile internet tariff", "country_label": "2.15 FCFA per MB in 2024 (ARPCE weighted 4G tariff)", "class": "other", "platform": "", "owner": "ARPCE", "tiers": ""}
+  ],
+  "note": "Per-MB figure converted to per-GB by unit only (x1000); the document states 0.70 FCFA/Mo, not a per-gigabyte or income-share figure. Document gives no publication date; published date 2025-06-17 is an embedded PDF stamp."
+}

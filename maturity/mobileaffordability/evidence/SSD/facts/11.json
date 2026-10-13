@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-27-editorial-high-mobile-data-cost-onecitizendaily",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "price:USD:23.7:1",
+     "fact": "One Citizen Daily's editorial says, citing unnamed recent figures, that 1 GB of mobile data in South Sudan costs about US$23.70, a per-gigabyte price with no operator or plan named; as_of is the document's published date as none is given.",
+     "as_of": "2025-11-27", "date_precision": "day", "system": "mobile data price per gigabyte", "class": "price"}
+  ],
+  "systems": [],
+  "note": ""
+}

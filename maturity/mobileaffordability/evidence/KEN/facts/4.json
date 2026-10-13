@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-kenya-isps-warn-internet-meter-number-surveillance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fixed broadband monthly packages (Safaricom, Zuku, Poa, Liquid)",
+   "country_label": "Safaricom KES 3,000 for 15 Mbps; Zuku KES 3,000 for 40 Mbps; Poa KES 1,500 for 20 Mbps; Liquid KES 2,800 for 20 Mbps",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only fixed broadband prices; no mobile data price."
+}

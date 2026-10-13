@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-17-starlink-commercial-launch-affordability-agenceecofin",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:53.7",
+     "fact": "The article cites the ITU as estimating that 5 GB of mobile internet cost about 53.7% of GNI per capita in the Central African Republic in 2025 (5 GB basket, computed by ITU).",
+     "as_of": "2025", "date_precision": "year", "system": "ITU 5 GB mobile data price basket", "class": "price"}
+  ],
+  "systems": [
+    {"system": "Starlink satellite internet monthly subscription", "country_label": "33,000 FCFA (57.76 USD) a month plus 19% VAT; standard kit 240,000 FCFA, Mini kit 123,000 FCFA", "class": "other", "platform": "", "owner": "Starlink (SpaceX), distributed by DEVEA Centrafrique", "tiers": ""},
+    {"system": "ITU fixed internet price basket", "country_label": "about 76.6% of GNI per capita in 2025", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": ""
+}

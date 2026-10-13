@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-tan-satellite-internet-layer-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Kenya capped plan",
+   "country_label": "USD 10 a month, about 5.5% of monthly GNI per capita (satellite, not mobile data)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Kenya figure is for a satellite plan, not mobile data."
+}

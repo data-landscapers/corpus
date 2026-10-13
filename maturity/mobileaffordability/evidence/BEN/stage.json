@@ -1,0 +1,15 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "share:6.89",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-005",
+   "gaps": "The newest figure, 6.89 per cent for 2025, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

@@ -88,7 +88,16 @@
    "subject": "infra.connect",
    "text": "Mobile affordability: the price of mobile data against income",
    "indicator_id": "infra.connect--mobile-affordability-the-price-of-mobile-data-against-income",
-   "class": "price"
+   "class": "price",
+   "norm_short": "The African Union's Digital Transformation Strategy asks that access cost no more than one US cent a megabyte by 2030. The Broadband Commission's target, carried by the International Telecommunication Union, is entry-level broadband under 2 per cent of monthly income per person.",
+   "criteria": [
+    "The newest figure, for 2024 or later, puts 5 GB of mobile data for a month above 10 per cent of average monthly income.",
+    "5 GB of mobile data for a month costs 10 per cent of average monthly income or less, on the newest figure for 2024 or later. Any dated, documented figure counts: a stated share of income, or a stated price set against World Bank income per person.",
+    "It costs 5 per cent or less.",
+    "It costs 2 per cent or less, the international target.",
+    "It costs 1 per cent or less. Promotional, daily and weekly bundles, plans sold with voice, and price floors are never used at any stage."
+   ],
+   "criteria_of": "e72e41d4a225"
   }
  ],
  "classes": [
@@ -98,7 +107,7 @@
  "aspects": [
   {
    "key": "cost",
-   "name": "Price of 5 GB of mobile data for a month, as a stated share of average monthly income or as a stated price, with its year",
+   "name": "Cost of a month of mobile data against income, with its year",
    "role": "coverage",
    "pattern": "(share:\\d{1,3}(\\.\\d+)?|price:[A-Z]{3}:\\d+(\\.\\d+)?:\\d+(\\.\\d+)?)"
   }

@@ -1,0 +1,84 @@
+{
+ "slug": "2023-04-28-arcep-togo-baisse-forfaits-internet-mobile",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:1685:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 1685 FCFA for Moov Africa Togo in the entry-level (bundles under 500 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Moov Africa Togo",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:2105:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 2105 FCFA for Togo Cellulaire in the entry-level (bundles under 500 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Togo Cellulaire",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:540:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 540 FCFA for Moov Africa Togo in the mid-range (bundles 500 to 5,000 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Moov Africa Togo",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:1060:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 1060 FCFA for Togo Cellulaire in the mid-range (bundles 500 to 5,000 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Togo Cellulaire",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:250:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 250 FCFA for Moov Africa Togo in the top-range (bundles over 5,000 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Moov Africa Togo",
+   "class": "price"
+  },
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "price:XOF:325:1",
+   "fact": "ARCEP Togo's comparative analysis gives an average price per gigabyte of 325 FCFA for Togo Cellulaire in the top-range (bundles over 5,000 FCFA) range; this is an average per-gigabyte price across bundles, not a single plan.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "Togo Cellulaire",
+   "class": "price"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Africa Togo mobile data offers",
+   "country_label": "400 MB at 500 FCFA (validity not stated)",
+   "class": "other",
+   "platform": "",
+   "owner": "Moov Africa Togo",
+   "tiers": ""
+  },
+  {
+   "system": "Togo Cellulaire mobile data offers",
+   "country_label": "6 GB at 5,000 FCFA and 20 GB at 10,000 FCFA (validity not stated)",
+   "class": "other",
+   "platform": "",
+   "owner": "Togo Cellulaire",
+   "tiers": ""
+  }
+ ],
+ "note": "Average per-GB prices as of April 2023 (as_of is the analysis period end; document dated 2023-04-28). Plans with no stated validity not recorded as monthly plans. No share of income stated in the document body."
+}

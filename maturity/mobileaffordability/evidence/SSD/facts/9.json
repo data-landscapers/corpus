@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-25-nca-telecom-tariff-adjustment-radiotamazuj",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tariff exchange rate adjustment, phase one",
+   "country_label": "about 70 SSP per minute added to baseline voice tariff; 4,526 SSP/USD old rate vs about 27,000 market",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a voice-minute adjustment and exchange rates; no data price or income share."
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "1",
+   "cost": "share:11.81",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

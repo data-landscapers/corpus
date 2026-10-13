@@ -1,0 +1,15 @@
+{
+ "iso3": "TUN",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "4",
+   "cost": "share:1.36",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TUN-005",
+   "gaps": "The newest figure, 1.36 per cent for 2025, is above 1 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

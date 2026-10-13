@@ -1,0 +1,15 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "1",
+   "cost": "share:13.86",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

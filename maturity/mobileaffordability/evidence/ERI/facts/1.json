@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-itu-measuring-digital-development-ldc-focus-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Fixed broadband basket (ITU)", "country_label": "35% of GNI per capita (stated only in a bracketed capture note, fixed broadband)", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": "Body captures only front matter; the Eritrea mobile-broadband 85% of GNI per capita figure appears only in the OSINT front-matter note and a bracketed capture note, not in the document text, so no fact is recorded (basket size not stated)."
+}

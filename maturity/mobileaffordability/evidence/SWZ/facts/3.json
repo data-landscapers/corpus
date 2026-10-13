@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-04-the-absent-agenda-eswatini-digital-imperative",
+  "facts": [
+    {"sub_indicator": "price", "aspect": "cost", "value": "share:3.47", "fact": "A column in Independent News states data costs consume 3.47% of gross national income per capita in Eswatini, above regional affordability thresholds, citing the World Bank's July 2025 Economic Update; basket size not stated, and no figure date given so the column's published date is used.", "as_of": "2026-01-04", "date_precision": "day", "system": "Cost of data as share of GNI per capita", "class": "price"}
+  ],
+  "systems": [],
+  "note": ""
+}

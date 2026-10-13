@@ -839,6 +839,1679 @@ ZWE,gdp-current-usd,wdi-gdp,4.07576e+10,US$,2022,2026-07-13,official
 ZWE,gdp-current-usd,wdi-gdp,3.58718e+10,US$,2023,2026-07-13,official
 ZWE,gdp-current-usd,wdi-gdp,4.1522e+10,US$,2024,2026-07-13,official
 ZWE,gdp-current-usd,wdi-gdp,5.12156e+10,US$,2025,2026-07-13,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,345059,local currency,2010,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,449359,local currency,2011,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,504884,local currency,2012,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,530667,local currency,2013,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,563154,local currency,2014,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,536194,local currency,2015,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,623597,local currency,2016,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,737558,local currency,2017,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,869537,local currency,2018,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,988178,local currency,2019,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,1.05815e+06,local currency,2020,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,1.41234e+06,local currency,2021,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,1.68633e+06,local currency,2022,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,1.94849e+06,local currency,2023,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,2.56987e+06,local currency,2024,2026-10-08,official
+AGO,gni-per-capita-lcu,wdi-gni-pcap-cn,3.17744e+06,local currency,2025,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,265311,local currency,2010,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,287865,local currency,2011,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,332429,local currency,2012,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,365471,local currency,2013,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,385484,local currency,2014,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,399946,local currency,2015,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,431148,local currency,2016,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,495531,local currency,2017,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,493227,local currency,2018,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,500313,local currency,2019,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,559898,local currency,2020,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,624321,local currency,2021,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,716362,local currency,2022,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,857355,local currency,2023,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,1.03458e+06,local currency,2024,2026-10-08,official
+BDI,gni-per-capita-lcu,wdi-gni-pcap-cn,1.24459e+06,local currency,2025,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,478852,local currency,2010,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,498524,local currency,2011,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,543797,local currency,2012,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,574150,local currency,2013,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,591953,local currency,2014,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,589225,local currency,2015,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,596933,local currency,2016,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,611045,local currency,2017,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,637260,local currency,2018,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,659301,local currency,2019,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,683932,local currency,2020,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,723507,local currency,2021,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,783197,local currency,2022,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,838024,local currency,2023,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,891864,local currency,2024,2026-10-08,official
+BEN,gni-per-capita-lcu,wdi-gni-pcap-cn,953995,local currency,2025,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,299986,local currency,2010,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,327875,local currency,2011,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,364016,local currency,2012,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,365098,local currency,2013,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,361255,local currency,2014,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,355566,local currency,2015,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,375817,local currency,2016,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,396281,local currency,2017,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,418194,local currency,2018,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,428393,local currency,2019,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,458403,local currency,2020,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,467524,local currency,2021,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,482603,local currency,2022,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,501706,local currency,2023,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,560751,local currency,2024,2026-10-08,official
+BFA,gni-per-capita-lcu,wdi-gni-pcap-cn,628558,local currency,2025,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,40590,local currency,2010,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,49520.9,local currency,2011,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,49612.9,local currency,2012,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,53442.3,local currency,2013,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,61981.8,local currency,2014,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,60117.5,local currency,2015,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,67277.5,local currency,2016,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,67279.8,local currency,2017,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,68533.1,local currency,2018,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,73101.6,local currency,2019,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,72557.2,local currency,2020,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,85736.1,local currency,2021,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,96259.8,local currency,2022,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,103802,local currency,2023,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,101999,local currency,2024,2026-10-08,official
+BWA,gni-per-capita-lcu,wdi-gni-pcap-cn,101272,local currency,2025,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,237016,local currency,2010,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,252678,local currency,2011,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,279187,local currency,2012,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,181574,local currency,2013,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,204471,local currency,2014,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,219263,local currency,2015,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,232305,local currency,2016,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,263822,local currency,2017,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,271737,local currency,2018,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,282726,local currency,2019,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,281320,local currency,2020,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,291600,local currency,2021,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,307025,local currency,2022,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,318628,local currency,2023,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,331811,local currency,2024,2026-10-08,official
+CAF,gni-per-capita-lcu,wdi-gni-pcap-cn,342236,local currency,2025,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,527964,local currency,2010,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,500843,local currency,2011,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,564068,local currency,2012,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,616076,local currency,2013,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,964945,local currency,2014,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.0493e+06,local currency,2015,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.07924e+06,local currency,2016,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.10715e+06,local currency,2017,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.15064e+06,local currency,2018,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.21992e+06,local currency,2019,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.21787e+06,local currency,2020,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.32006e+06,local currency,2021,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.40828e+06,local currency,2022,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.51281e+06,local currency,2023,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.58149e+06,local currency,2024,2026-10-08,official
+CIV,gni-per-capita-lcu,wdi-gni-pcap-cn,1.67643e+06,local currency,2025,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,685365,local currency,2010,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,706394,local currency,2011,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,728933,local currency,2012,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,764151,local currency,2013,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,799126,local currency,2014,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,825217,local currency,2015,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,840277,local currency,2016,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,852780,local currency,2017,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,878505,local currency,2018,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,891938,local currency,2019,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,876937,local currency,2020,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,912302,local currency,2021,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,976109,local currency,2022,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,1.02286e+06,local currency,2023,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,1.08659e+06,local currency,2024,2026-10-08,official
+CMR,gni-per-capita-lcu,wdi-gni-pcap-cn,1.12985e+06,local currency,2025,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,307210,local currency,2010,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,325698,local currency,2011,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,356995,local currency,2012,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,389233,local currency,2013,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,416724,local currency,2014,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,427236,local currency,2015,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,455002,local currency,2016,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,613187,local currency,2017,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,810042,local currency,2018,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,780590,local currency,2019,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,875981,local currency,2020,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,1.1457e+06,local currency,2021,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,1.31135e+06,local currency,2022,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,1.56528e+06,local currency,2023,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,1.89498e+06,local currency,2024,2026-10-08,official
+COD,gni-per-capita-lcu,wdi-gni-pcap-cn,2.0796e+06,local currency,2025,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.35517e+06,local currency,2010,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.44038e+06,local currency,2011,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.80255e+06,local currency,2012,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.78432e+06,local currency,2013,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.80422e+06,local currency,2014,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.43454e+06,local currency,2015,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.19604e+06,local currency,2016,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.11508e+06,local currency,2017,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.41321e+06,local currency,2018,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.31109e+06,local currency,2019,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.1412e+06,local currency,2020,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.23994e+06,local currency,2021,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.45734e+06,local currency,2022,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.34863e+06,local currency,2023,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.35758e+06,local currency,2024,2026-10-08,official
+COG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.31033e+06,local currency,2025,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,514070,local currency,2010,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,540851,local currency,2011,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,569792,local currency,2012,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,594027,local currency,2013,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,600675,local currency,2014,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,592513,local currency,2015,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,610202,local currency,2016,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,623006,local currency,2017,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,645228,local currency,2018,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,670814,local currency,2019,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,660957,local currency,2020,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,663626,local currency,2021,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,720305,local currency,2022,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,788307,local currency,2023,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,849190,local currency,2024,2026-10-08,official
+COM,gni-per-capita-lcu,wdi-gni-pcap-cn,901810,local currency,2025,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,286144,local currency,2010,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,305931,local currency,2011,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,309983,local currency,2012,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,318571,local currency,2013,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,315929,local currency,2014,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,327953,local currency,2015,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,348210,local currency,2016,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,369129,local currency,2017,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,392700,local currency,2018,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,423361,local currency,2019,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,335356,local currency,2020,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,365094,local currency,2021,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,447694,local currency,2022,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,481959,local currency,2023,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,517984,local currency,2024,2026-10-08,official
+CPV,gni-per-capita-lcu,wdi-gni-pcap-cn,559911,local currency,2025,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,218933,local currency,2010,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,233803,local currency,2011,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,253924,local currency,2012,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,363916,local currency,2013,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,389393,local currency,2014,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,417584,local currency,2015,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,432457,local currency,2016,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,444102,local currency,2017,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,459488,local currency,2018,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,488906,local currency,2019,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,489746,local currency,2020,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,528204,local currency,2021,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,567437,local currency,2022,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,616802,local currency,2023,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,649022,local currency,2024,2026-10-08,official
+DJI,gni-per-capita-lcu,wdi-gni-pcap-cn,711081,local currency,2025,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,365274,local currency,2010,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,428079,local currency,2011,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,463336,local currency,2012,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,466829,local currency,2013,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,481894,local currency,2014,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,462073,local currency,2015,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,481151,local currency,2016,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,499592,local currency,2017,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,522252,local currency,2018,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,522544,local currency,2019,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,466718,local currency,2020,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,550952,local currency,2021,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,687916,local currency,2022,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,718992,local currency,2023,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,756623,local currency,2024,2026-10-08,official
+DZA,gni-per-capita-lcu,wdi-gni-pcap-cn,781300,local currency,2025,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,13257.9,local currency,2010,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,14665.8,local currency,2011,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,17559.1,local currency,2012,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,19013.5,local currency,2013,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,21320.7,local currency,2014,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,24113.1,local currency,2015,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,26297.1,local currency,2016,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,34607.4,local currency,2017,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,43097.3,local currency,2018,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,50232.6,local currency,2019,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,54618.2,local currency,2020,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,58297.9,local currency,2021,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,67335.4,local currency,2022,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,84787.4,local currency,2023,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,113919,local currency,2024,2026-10-08,official
+EGY,gni-per-capita-lcu,wdi-gni-pcap-cn,146574,local currency,2025,2026-10-08,official
+ERI,gni-per-capita-lcu,wdi-gni-pcap-cn,8195.41,local currency,2010,2026-10-08,official
+ERI,gni-per-capita-lcu,wdi-gni-pcap-cn,10467.7,local currency,2011,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,4246.61,local currency,2010,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,5517.54,local currency,2011,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,7783.68,local currency,2012,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,8786.97,local currency,2013,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,10462.3,local currency,2014,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,12445.6,local currency,2015,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,14645.8,local currency,2016,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,16613.1,local currency,2017,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,19440.7,local currency,2018,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,23105.8,local currency,2019,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,28217.4,local currency,2020,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,35358.6,local currency,2021,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,48882.9,local currency,2022,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,67597.2,local currency,2023,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,89095.7,local currency,2024,2026-10-08,official
+ETH,gni-per-capita-lcu,wdi-gni-pcap-cn,111231,local currency,2025,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,3.59167e+06,local currency,2010,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.15486e+06,local currency,2011,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.27294e+06,local currency,2012,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.10262e+06,local currency,2013,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.30671e+06,local currency,2014,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,3.82037e+06,local currency,2015,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,3.87136e+06,local currency,2016,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,3.76799e+06,local currency,2017,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.04617e+06,local currency,2018,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.10675e+06,local currency,2019,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,3.64274e+06,local currency,2020,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.26785e+06,local currency,2021,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.66886e+06,local currency,2022,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.34754e+06,local currency,2023,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.77889e+06,local currency,2024,2026-10-08,official
+GAB,gni-per-capita-lcu,wdi-gni-pcap-cn,4.68832e+06,local currency,2025,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,1777.36,local currency,2010,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,2220.98,local currency,2011,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,2674.11,local currency,2012,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,4418.62,local currency,2013,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,5363.17,local currency,2014,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,6203.21,local currency,2015,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,7186.73,local currency,2016,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,8326.23,local currency,2017,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,9618.85,local currency,2018,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,10937.1,local currency,2019,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,11694.9,local currency,2020,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,13415.5,local currency,2021,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,17251.7,local currency,2022,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,24934.5,local currency,2023,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,32178.9,local currency,2024,2026-10-08,official
+GHA,gni-per-capita-lcu,wdi-gni-pcap-cn,38398.2,local currency,2025,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,3.73236e+06,local currency,2010,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,4.1558e+06,local currency,2011,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,4.80754e+06,local currency,2012,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,4.92016e+06,local currency,2013,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,5.23706e+06,local currency,2014,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,5.50319e+06,local currency,2015,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,6.30912e+06,local currency,2016,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,7.53886e+06,local currency,2017,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,8.28087e+06,local currency,2018,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,9.39133e+06,local currency,2019,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,9.97359e+06,local currency,2020,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.11516e+07,local currency,2021,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.19069e+07,local currency,2022,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.20971e+07,local currency,2023,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.31663e+07,local currency,2024,2026-10-08,official
+GIN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.55272e+07,local currency,2025,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,22003.7,local currency,2010,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,20462.3,local currency,2011,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,21756.6,local currency,2012,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,23004.2,local currency,2013,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,23146,local currency,2014,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,25702.6,local currency,2015,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,27666.2,local currency,2016,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,29384.1,local currency,2017,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,32938.3,local currency,2018,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,36344.1,local currency,2019,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,36547.5,local currency,2020,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,39925.5,local currency,2021,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,45280.2,local currency,2022,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,53418.6,local currency,2023,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,58235.7,local currency,2024,2026-10-08,official
+GMB,gni-per-capita-lcu,wdi-gni-pcap-cn,65074,local currency,2025,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,296240,local currency,2010,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,333658,local currency,2011,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,314226,local currency,2012,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,320825,local currency,2013,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,332529,local currency,2014,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,389834,local currency,2015,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,408474,local currency,2016,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,459175,local currency,2017,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,434317,local currency,2018,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,483197,local currency,2019,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,494745,local currency,2020,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,518372,local currency,2021,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,552801,local currency,2022,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,588332,local currency,2023,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,610141,local currency,2024,2026-10-08,official
+GNB,gni-per-capita-lcu,wdi-gni-pcap-cn,659420,local currency,2025,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.98572e+06,local currency,2010,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,5.16493e+06,local currency,2011,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,6.05993e+06,local currency,2012,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,6.08366e+06,local currency,2013,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,6.20861e+06,local currency,2014,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,4.60031e+06,local currency,2015,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.58255e+06,local currency,2016,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,4.21026e+06,local currency,2017,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.96614e+06,local currency,2018,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.1727e+06,local currency,2019,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.20326e+06,local currency,2020,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.57892e+06,local currency,2021,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.52107e+06,local currency,2022,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.76608e+06,local currency,2023,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.78037e+06,local currency,2024,2026-10-08,official
+GNQ,gni-per-capita-lcu,wdi-gni-pcap-cn,3.48561e+06,local currency,2025,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,75907.4,local currency,2010,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,87156.3,local currency,2011,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,96661.7,local currency,2012,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,104329,local currency,2013,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,115660,local currency,2014,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,131760,local currency,2015,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,155620,local currency,2016,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,169153,local currency,2017,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,183230,local currency,2018,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,196748,local currency,2019,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,203824,local currency,2020,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,222852,local currency,2021,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,244823,local currency,2022,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,266742,local currency,2023,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,281133,local currency,2024,2026-10-08,official
+KEN,gni-per-capita-lcu,wdi-gni-pcap-cn,300727,local currency,2025,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,448.053,local currency,2010,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,538.512,local currency,2011,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,578.463,local currency,2012,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,643.3,local currency,2013,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,633.757,local currency,2014,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,632.497,local currency,2015,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,655.525,local currency,2016,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,636.804,local currency,2017,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,603.826,local currency,2018,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,588.025,local currency,2019,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,560.832,local currency,2020,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,627.358,local currency,2021,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,683.407,local currency,2022,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,738.566,local currency,2023,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,788.572,local currency,2024,2026-10-08,official
+LBR,gni-per-capita-lcu,wdi-gni-pcap-cn,851.817,local currency,2025,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,14690.2,local currency,2010,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,9306.78,local currency,2011,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,18500.6,local currency,2012,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,15115.3,local currency,2013,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,11473.2,local currency,2014,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,10563.2,local currency,2015,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,10621,local currency,2016,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,14155.8,local currency,2017,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,15480.4,local currency,2018,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,14299.2,local currency,2019,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,9391.38,local currency,2020,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,21942.4,local currency,2021,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,28897.9,local currency,2022,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,30441.1,local currency,2023,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,33678.2,local currency,2024,2026-10-08,official
+LBY,gni-per-capita-lcu,wdi-gni-pcap-cn,35504.2,local currency,2025,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,10531.3,local currency,2010,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,11135.3,local currency,2011,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,11676.7,local currency,2012,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,12757.1,local currency,2013,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,14189.4,local currency,2014,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,15999.2,local currency,2015,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,16575.1,local currency,2016,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,16183.1,local currency,2017,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,18441,local currency,2018,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,18467.2,local currency,2019,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,17975.9,local currency,2020,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,18385.8,local currency,2021,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,20228.5,local currency,2022,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,20784.8,local currency,2023,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,22770.6,local currency,2024,2026-10-08,official
+LSO,gni-per-capita-lcu,wdi-gni-pcap-cn,23856.1,local currency,2025,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,25495,local currency,2010,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,26297.7,local currency,2011,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,26795.4,local currency,2012,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,28050.9,local currency,2013,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,28299.1,local currency,2014,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,30245,local currency,2015,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,30376.8,local currency,2016,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,31457.7,local currency,2017,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,32372.8,local currency,2018,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,33229.5,local currency,2019,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,30739.3,local currency,2020,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,33560.5,local currency,2021,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,34674.5,local currency,2022,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,38048,local currency,2023,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,40678.8,local currency,2024,2026-10-08,official
+MAR,gni-per-capita-lcu,wdi-gni-pcap-cn,43091,local currency,2025,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,923601,local currency,2010,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.00624e+06,local currency,2011,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.04852e+06,local currency,2012,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.09847e+06,local currency,2013,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.19196e+06,local currency,2014,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.26296e+06,local currency,2015,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.39248e+06,local currency,2016,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.49154e+06,local currency,2017,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.62069e+06,local currency,2018,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.75019e+06,local currency,2019,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.65719e+06,local currency,2020,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,1.81815e+06,local currency,2021,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,2.01498e+06,local currency,2022,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,2.22649e+06,local currency,2023,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,2.42231e+06,local currency,2024,2026-10-08,official
+MDG,gni-per-capita-lcu,wdi-gni-pcap-cn,2.65159e+06,local currency,2025,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,381411,local currency,2010,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,428938,local currency,2011,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,431615,local currency,2012,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,433220,local currency,2013,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,457496,local currency,2014,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,486102,local currency,2015,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,505458,local currency,2016,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,521881,local currency,2017,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,539573,local currency,2018,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,550136,local currency,2019,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,529090,local currency,2020,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,549266,local currency,2021,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,588205,local currency,2022,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,608704,local currency,2023,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,644932,local currency,2024,2026-10-08,official
+MLI,gni-per-capita-lcu,wdi-gni-pcap-cn,674707,local currency,2025,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,16319.3,local currency,2010,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,17655.2,local currency,2011,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,19367,local currency,2012,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,20596.2,local currency,2013,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,21611.8,local currency,2014,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,23959.8,local currency,2015,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,27295.5,local currency,2016,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,29087.3,local currency,2017,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,30622.9,local currency,2018,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,31889.8,local currency,2019,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,31476,local currency,2020,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,32679.4,local currency,2021,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,34143.1,local currency,2022,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,36249.9,local currency,2023,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,37342.1,local currency,2024,2026-10-08,official
+MOZ,gni-per-capita-lcu,wdi-gni-pcap-cn,36508.6,local currency,2025,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,45236.8,local currency,2010,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,53043.1,local currency,2011,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,53580.9,local currency,2012,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,56579.8,local currency,2013,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,49868.5,local currency,2014,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,49007.4,local currency,2015,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,54168.4,local currency,2016,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,56986.5,local currency,2017,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,61153.6,local currency,2018,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,64045.1,local currency,2019,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,65928.4,local currency,2020,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,69130.4,local currency,2021,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,71971.1,local currency,2022,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,77995.2,local currency,2023,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,82796.3,local currency,2024,2026-10-08,official
+MRT,gni-per-capita-lcu,wdi-gni-pcap-cn,86998.5,local currency,2025,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,247814,local currency,2010,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,262982,local currency,2011,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,293409,local currency,2012,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,315890,local currency,2013,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,334393,local currency,2014,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,352822,local currency,2015,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,373714,local currency,2016,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,399889,local currency,2017,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,424331,local currency,2018,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,433538,local currency,2019,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,390731,local currency,2020,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,421658,local currency,2021,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,503445,local currency,2022,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,573562,local currency,2023,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,613575,local currency,2024,2026-10-08,official
+MUS,gni-per-capita-lcu,wdi-gni-pcap-cn,656646,local currency,2025,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,101714,local currency,2010,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,118249,local currency,2011,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,136980,local currency,2012,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,177497,local currency,2013,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,220877,local currency,2014,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,263163,local currency,2015,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,322522,local currency,2016,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,353621,local currency,2017,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,377789,local currency,2018,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,422637,local currency,2019,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,438967,local currency,2020,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,482649,local currency,2021,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,556197,local currency,2022,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,724935,local currency,2023,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,893122,local currency,2024,2026-10-08,official
+MWI,gni-per-capita-lcu,wdi-gni-pcap-cn,1.16294e+06,local currency,2025,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,37648.2,local currency,2010,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,40850.6,local currency,2011,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,46742.9,local currency,2012,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,51994.4,local currency,2013,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,57979.4,local currency,2014,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,61401.4,local currency,2015,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,63384.3,local currency,2016,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,67200.3,local currency,2017,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,67659.4,local currency,2018,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,66691.1,local currency,2019,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,63589.5,local currency,2020,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,62753.4,local currency,2021,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,68000.1,local currency,2022,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,74388.4,local currency,2023,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,79916.3,local currency,2024,2026-10-08,official
+NAM,gni-per-capita-lcu,wdi-gni-pcap-cn,81963.9,local currency,2025,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,247674,local currency,2010,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,255903,local currency,2011,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,278984,local currency,2012,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,283391,local currency,2013,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,291680,local currency,2014,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,301304,local currency,2015,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,305868,local currency,2016,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,318833,local currency,2017,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,334689,local currency,2018,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,332190,local currency,2019,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,326173,local currency,2020,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,332676,local currency,2021,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,377219,local currency,2022,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,388452,local currency,2023,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,434720,local currency,2024,2026-10-08,official
+NER,gni-per-capita-lcu,wdi-gni-pcap-cn,444622,local currency,2025,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,310151,local currency,2010,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,347973,local currency,2011,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,390915,local currency,2012,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,425312,local currency,2013,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,468695,local currency,2014,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,486304,local currency,2015,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,516713,local currency,2016,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,561022,local currency,2017,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,613075,local currency,2018,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,965597,local currency,2019,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,990368,local currency,2020,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.09768e+06,local currency,2021,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.20915e+06,local currency,2022,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.34707e+06,local currency,2023,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.56642e+06,local currency,2024,2026-10-08,official
+NGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.80077e+06,local currency,2025,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,339167,local currency,2010,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,382962,local currency,2011,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,422806,local currency,2012,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,441987,local currency,2013,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,476856,local currency,2014,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,512356,local currency,2015,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,552069,local currency,2016,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,604677,local currency,2017,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,641688,local currency,2018,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,717290,local currency,2019,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,742726,local currency,2020,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,819945,local currency,2021,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.01929e+06,local currency,2022,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.20799e+06,local currency,2023,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.36555e+06,local currency,2024,2026-10-08,official
+RWA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.56984e+06,local currency,2025,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,3518.76,local currency,2010,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,4716.07,local currency,2011,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,5786.36,local currency,2012,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,7771.01,local currency,2013,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,11134.1,local currency,2014,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,12506.9,local currency,2015,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,15183.2,local currency,2016,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,19484.8,local currency,2017,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,28085.1,local currency,2018,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,40801.6,local currency,2019,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,82164.9,local currency,2020,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,267572,local currency,2021,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,570130,local currency,2022,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,528338,local currency,2023,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.49044e+06,local currency,2024,2026-10-08,official
+SDN,gni-per-capita-lcu,wdi-gni-pcap-cn,2.51089e+06,local currency,2025,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,625421,local currency,2010,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,637565,local currency,2011,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,665868,local currency,2012,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,669869,local currency,2013,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,677534,local currency,2014,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,704235,local currency,2015,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,730851,local currency,2016,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,764623,local currency,2017,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,785843,local currency,2018,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,815075,local currency,2019,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,820677,local currency,2020,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,864853,local currency,2021,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,950186,local currency,2022,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,991265,local currency,2023,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,994992,local currency,2024,2026-10-08,official
+SEN,gni-per-capita-lcu,wdi-gni-pcap-cn,1.06161e+06,local currency,2025,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,2693.75,local currency,2010,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,3161.87,local currency,2011,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,3951.98,local currency,2012,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,4559.97,local currency,2013,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,4806.25,local currency,2014,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,4814.96,local currency,2015,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,5227.61,local currency,2016,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,5654.11,local currency,2017,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,6637.26,local currency,2018,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,7520.76,local currency,2019,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,8276.28,local currency,2020,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,9150.41,local currency,2021,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,11969.2,local currency,2022,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,16020.2,local currency,2023,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,18070.3,local currency,2024,2026-10-08,official
+SLE,gni-per-capita-lcu,wdi-gni-pcap-cn,19045.9,local currency,2025,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,6.78796e+06,local currency,2010,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,6.99316e+06,local currency,2011,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,7.8865e+06,local currency,2012,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,7.53827e+06,local currency,2013,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,8.64091e+06,local currency,2014,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,9.87041e+06,local currency,2015,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.05825e+07,local currency,2016,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.17512e+07,local currency,2017,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.21519e+07,local currency,2018,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.34759e+07,local currency,2019,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.32912e+07,local currency,2020,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.42381e+07,local currency,2021,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.532e+07,local currency,2022,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.65456e+07,local currency,2023,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.80607e+07,local currency,2024,2026-10-08,official
+SOM,gni-per-capita-lcu,wdi-gni-pcap-cn,1.98255e+07,local currency,2025,2026-10-08,official
+SSD,gni-per-capita-lcu,wdi-gni-pcap-cn,2484.07,local currency,2011,2026-10-08,official
+SSD,gni-per-capita-lcu,wdi-gni-pcap-cn,3150.19,local currency,2012,2026-10-08,official
+SSD,gni-per-capita-lcu,wdi-gni-pcap-cn,4600.41,local currency,2013,2026-10-08,official
+SSD,gni-per-capita-lcu,wdi-gni-pcap-cn,3138.82,local currency,2014,2026-10-08,official
+SSD,gni-per-capita-lcu,wdi-gni-pcap-cn,3414.46,local currency,2015,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,19376.1,local currency,2010,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,21616,local currency,2011,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,23168.9,local currency,2012,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,26005,local currency,2013,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,28467.1,local currency,2014,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,29241.1,local currency,2015,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,32280.9,local currency,2016,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,34052.2,local currency,2017,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,38347.2,local currency,2018,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,42623.9,local currency,2019,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,47436.2,local currency,2020,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,49553.8,local currency,2021,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,66500.2,local currency,2022,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,74606.6,local currency,2023,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,81197.5,local currency,2024,2026-10-08,official
+STP,gni-per-capita-lcu,wdi-gni-pcap-cn,95906.2,local currency,2025,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,27229.8,local currency,2010,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,28779.8,local currency,2011,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,32379.9,local currency,2012,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,36450.5,local currency,2013,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,39138.9,local currency,2014,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,41810.9,local currency,2015,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,45007.1,local currency,2016,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,47963.2,local currency,2017,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,48970.7,local currency,2018,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,50649.5,local currency,2019,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,51755.2,local currency,2020,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,54455.6,local currency,2021,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,58659.8,local currency,2022,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,64687.7,local currency,2023,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,62548.4,local currency,2024,2026-10-08,official
+SWZ,gni-per-capita-lcu,wdi-gni-pcap-cn,66815.2,local currency,2025,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,124716,local currency,2010,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,139510,local currency,2011,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,168577,local currency,2012,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,166563,local currency,2013,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,181361,local currency,2014,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,192284,local currency,2015,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,205298,local currency,2016,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,222489,local currency,2017,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,244280,local currency,2018,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,257885,local currency,2019,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,238579,local currency,2020,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,241837,local currency,2021,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,230557,local currency,2022,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,245139,local currency,2023,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,258571,local currency,2024,2026-10-08,official
+SYC,gni-per-capita-lcu,wdi-gni-pcap-cn,279050,local currency,2025,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,550662,local currency,2010,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,604779,local currency,2011,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,679887,local currency,2012,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,623156,local currency,2013,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,610387,local currency,2014,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,574262,local currency,2015,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,503431,local currency,2016,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,491284,local currency,2017,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,521285,local currency,2018,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,522498,local currency,2019,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,497368,local currency,2020,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,522429,local currency,2021,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,577178,local currency,2022,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,540986,local currency,2023,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,572751,local currency,2024,2026-10-08,official
+TCD,gni-per-capita-lcu,wdi-gni-pcap-cn,567980,local currency,2025,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,369418,local currency,2010,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,410043,local currency,2011,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,415853,local currency,2012,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,439281,local currency,2013,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,458302,local currency,2014,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,492942,local currency,2015,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,503223,local currency,2016,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,506773,local currency,2017,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,524938,local currency,2018,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,539402,local currency,2019,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,556424,local currency,2020,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,598141,local currency,2021,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,669278,local currency,2022,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,719355,local currency,2023,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,769351,local currency,2024,2026-10-08,official
+TGO,gni-per-capita-lcu,wdi-gni-pcap-cn,807073,local currency,2025,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,5868.55,local currency,2010,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,5943.94,local currency,2011,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,6441.69,local currency,2012,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,6798.79,local currency,2013,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,7313.36,local currency,2014,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,7672.79,local currency,2015,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,8086.98,local currency,2016,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,8549.87,local currency,2017,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,9369.99,local currency,2018,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,10085.3,local currency,2019,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,9652.03,local currency,2020,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,10632.5,local currency,2021,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,11202.8,local currency,2022,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,11948.3,local currency,2023,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,12756.5,local currency,2024,2026-10-08,official
+TUN,gni-per-capita-lcu,wdi-gni-pcap-cn,13616.9,local currency,2025,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.00943e+06,local currency,2010,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.18519e+06,local currency,2011,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.33528e+06,local currency,2012,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.51589e+06,local currency,2013,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.6722e+06,local currency,2014,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.84023e+06,local currency,2015,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.03488e+06,local currency,2016,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.16053e+06,local currency,2017,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.29012e+06,local currency,2018,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.39269e+06,local currency,2019,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.51445e+06,local currency,2020,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.62013e+06,local currency,2021,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.72981e+06,local currency,2022,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.86161e+06,local currency,2023,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.02447e+06,local currency,2024,2026-10-08,official
+TZA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.27402e+06,local currency,2025,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.64305e+06,local currency,2010,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.91151e+06,local currency,2011,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,1.99054e+06,local currency,2012,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.0732e+06,local currency,2013,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.22213e+06,local currency,2014,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.39283e+06,local currency,2015,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.54607e+06,local currency,2016,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.63739e+06,local currency,2017,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.81717e+06,local currency,2018,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,2.9903e+06,local currency,2019,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.07779e+06,local currency,2020,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.15974e+06,local currency,2021,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.36667e+06,local currency,2022,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.66622e+06,local currency,2023,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,3.96046e+06,local currency,2024,2026-10-08,official
+UGA,gni-per-capita-lcu,wdi-gni-pcap-cn,4.3334e+06,local currency,2025,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,57238.3,local currency,2010,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,61311.4,local currency,2011,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,64649.8,local currency,2012,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,69041.5,local currency,2013,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,72513.1,local currency,2014,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,76150.2,local currency,2015,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,80992.6,local currency,2016,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,85666.4,local currency,2017,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,88946.3,local currency,2018,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,92045.5,local currency,2019,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,90322.8,local currency,2020,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,98992.1,local currency,2021,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,104654,local currency,2022,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,109834,local currency,2023,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,112611,local currency,2024,2026-10-08,official
+ZAF,gni-per-capita-lcu,wdi-gni-pcap-cn,115762,local currency,2025,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,6492.92,local currency,2010,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,7508.48,local currency,2011,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,8653.05,local currency,2012,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,9424.65,local currency,2013,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,10295.8,local currency,2014,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,10962.5,local currency,2015,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,12381.5,local currency,2016,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,13494.2,local currency,2017,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,15073,local currency,2018,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,15954.4,local currency,2019,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,16711.2,local currency,2020,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,20819.2,local currency,2021,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,23154.6,local currency,2022,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,25269.6,local currency,2023,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,27686.3,local currency,2024,2026-10-08,official
+ZMB,gni-per-capita-lcu,wdi-gni-pcap-cn,30170.4,local currency,2025,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.3426,local currency,2010,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.3893,local currency,2011,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.4709,local currency,2012,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.519,local currency,2013,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.522,local currency,2014,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.5398,local currency,2015,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,0.5146,local currency,2016,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,1.6622,local currency,2017,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,1.8144,local currency,2018,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,8.3971,local currency,2019,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,52.1261,local currency,2020,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,115.769,local currency,2021,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,452.311,local currency,2022,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,4093.86,local currency,2023,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,48954.8,local currency,2024,2026-10-08,official
+ZWE,gni-per-capita-lcu,wdi-gni-pcap-cn,94934.4,local currency,2025,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,3780,US$,2010,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,3960,US$,2011,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,4750,US$,2012,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,5330,US$,2013,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,5430,US$,2014,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,4450,US$,2015,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2960,US$,2016,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2440,US$,2017,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2300,US$,2018,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2460,US$,2019,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2000,US$,2020,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,1960,US$,2021,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2290,US$,2022,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2650,US$,2023,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2850,US$,2024,2026-10-08,official
+AGO,gni-per-capita-usd,wdi-gni-pcap-cd,2860,US$,2025,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,200,US$,2010,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,220,US$,2011,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,230,US$,2012,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2013,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2014,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2015,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2016,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2017,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,250,US$,2018,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,250,US$,2019,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2020,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,250,US$,2021,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,280,US$,2022,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,280,US$,2023,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,250,US$,2024,2026-10-08,official
+BDI,gni-per-capita-usd,wdi-gni-pcap-cd,240,US$,2025,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1020,US$,2010,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1030,US$,2011,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1050,US$,2012,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1140,US$,2013,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1180,US$,2014,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1100,US$,2015,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1040,US$,2016,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1020,US$,2017,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2018,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1170,US$,2019,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1190,US$,2020,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1280,US$,2021,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1360,US$,2022,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1390,US$,2023,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1430,US$,2024,2026-10-08,official
+BEN,gni-per-capita-usd,wdi-gni-pcap-cd,1600,US$,2025,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,630,US$,2010,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2011,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2012,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,750,US$,2013,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,730,US$,2014,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2015,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2016,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2017,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,730,US$,2018,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,750,US$,2019,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,780,US$,2020,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,820,US$,2021,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,840,US$,2022,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,840,US$,2023,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2024,2026-10-08,official
+BFA,gni-per-capita-usd,wdi-gni-pcap-cd,980,US$,2025,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,5370,US$,2010,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6500,US$,2011,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6680,US$,2012,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6950,US$,2013,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6990,US$,2014,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6140,US$,2015,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6060,US$,2016,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6210,US$,2017,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6680,US$,2018,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,7100,US$,2019,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,6600,US$,2020,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,7440,US$,2021,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,7690,US$,2022,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,8150,US$,2023,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,7610,US$,2024,2026-10-08,official
+BWA,gni-per-capita-usd,wdi-gni-pcap-cd,7390,US$,2025,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2010,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2011,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,540,US$,2012,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,360,US$,2013,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,380,US$,2014,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,390,US$,2015,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,400,US$,2016,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,420,US$,2017,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,470,US$,2018,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2019,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,490,US$,2020,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2021,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2022,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,530,US$,2023,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2024,2026-10-08,official
+CAF,gni-per-capita-usd,wdi-gni-pcap-cd,560,US$,2025,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2010,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1020,US$,2011,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1140,US$,2012,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1240,US$,2013,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1860,US$,2014,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1880,US$,2015,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1880,US$,2016,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,1870,US$,2017,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2010,US$,2018,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2120,US$,2019,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2120,US$,2020,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2300,US$,2021,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2440,US$,2022,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2510,US$,2023,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2520,US$,2024,2026-10-08,official
+CIV,gni-per-capita-usd,wdi-gni-pcap-cd,2780,US$,2025,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1450,US$,2010,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1470,US$,2011,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1470,US$,2012,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1530,US$,2013,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1570,US$,2014,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1530,US$,2015,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1470,US$,2016,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1410,US$,2017,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1520,US$,2018,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1560,US$,2019,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1540,US$,2020,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1610,US$,2021,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1660,US$,2022,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1680,US$,2023,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1690,US$,2024,2026-10-08,official
+CMR,gni-per-capita-usd,wdi-gni-pcap-cd,1860,US$,2025,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,320,US$,2010,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,320,US$,2011,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,370,US$,2012,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,420,US$,2013,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2014,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,460,US$,2015,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,460,US$,2016,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,440,US$,2017,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,460,US$,2018,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,460,US$,2019,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,480,US$,2020,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,530,US$,2021,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,610,US$,2022,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2023,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2024,2026-10-08,official
+COD,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2025,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2640,US$,2010,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2580,US$,2011,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,3330,US$,2012,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,3560,US$,2013,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,3800,US$,2014,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,3080,US$,2015,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2260,US$,2016,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,1740,US$,2017,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2070,US$,2018,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2180,US$,2019,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2230,US$,2020,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2040,US$,2021,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2170,US$,2022,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2310,US$,2023,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2270,US$,2024,2026-10-08,official
+COG,gni-per-capita-usd,wdi-gni-pcap-cd,2280,US$,2025,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1450,US$,2010,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1490,US$,2011,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1510,US$,2012,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1590,US$,2013,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1590,US$,2014,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1480,US$,2015,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1410,US$,2016,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1380,US$,2017,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1490,US$,2018,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1530,US$,2019,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1530,US$,2020,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1590,US$,2021,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1630,US$,2022,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1670,US$,2023,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1730,US$,2024,2026-10-08,official
+COM,gni-per-capita-usd,wdi-gni-pcap-cd,1950,US$,2025,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3600,US$,2010,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3760,US$,2011,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3730,US$,2012,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3840,US$,2013,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3750,US$,2014,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3620,US$,2015,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3580,US$,2016,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3620,US$,2017,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,4040,US$,2018,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,4420,US$,2019,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3510,US$,2020,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,3870,US$,2021,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,4550,US$,2022,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,4740,US$,2023,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,4940,US$,2024,2026-10-08,official
+CPV,gni-per-capita-usd,wdi-gni-pcap-cd,5590,US$,2025,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2280,US$,2015,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2370,US$,2016,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2450,US$,2017,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2600,US$,2018,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2780,US$,2019,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2780,US$,2020,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,2990,US$,2021,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,3310,US$,2022,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,3500,US$,2023,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,3640,US$,2024,2026-10-08,official
+DJI,gni-per-capita-usd,wdi-gni-pcap-cd,3960,US$,2025,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4870,US$,2010,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5050,US$,2011,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5630,US$,2012,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5970,US$,2013,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,6030,US$,2014,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5390,US$,2015,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4920,US$,2016,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4440,US$,2017,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4450,US$,2018,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4480,US$,2019,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4020,US$,2020,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4120,US$,2021,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4430,US$,2022,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,4950,US$,2023,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5370,US$,2024,2026-10-08,official
+DZA,gni-per-capita-usd,wdi-gni-pcap-cd,5850,US$,2025,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2200,US$,2010,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2380,US$,2011,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2630,US$,2012,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2810,US$,2013,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3000,US$,2014,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3100,US$,2015,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3200,US$,2016,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2880,US$,2017,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2710,US$,2018,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2640,US$,2019,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,2960,US$,2020,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3470,US$,2021,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,4040,US$,2022,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3840,US$,2023,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3510,US$,2024,2026-10-08,official
+EGY,gni-per-capita-usd,wdi-gni-pcap-cd,3260,US$,2025,2026-10-08,official
+ERI,gni-per-capita-usd,wdi-gni-pcap-cd,550,US$,2010,2026-10-08,official
+ERI,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2011,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,370,US$,2010,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,380,US$,2011,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,400,US$,2012,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2013,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,530,US$,2014,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2015,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2016,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2017,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,730,US$,2018,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,790,US$,2019,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,820,US$,2020,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,880,US$,2021,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2022,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,1030,US$,2023,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,1100,US$,2024,2026-10-08,official
+ETH,gni-per-capita-usd,wdi-gni-pcap-cd,1110,US$,2025,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7420,US$,2010,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7680,US$,2011,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,8610,US$,2012,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,8870,US$,2013,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,8880,US$,2014,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7610,US$,2015,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7180,US$,2016,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,6240,US$,2017,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,6690,US$,2018,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7040,US$,2019,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,6820,US$,2020,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7000,US$,2021,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7150,US$,2022,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7660,US$,2023,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,7870,US$,2024,2026-10-08,official
+GAB,gni-per-capita-usd,wdi-gni-pcap-cd,8090,US$,2025,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1200,US$,2010,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1350,US$,2011,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1490,US$,2012,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1790,US$,2013,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1830,US$,2014,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1880,US$,2015,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1760,US$,2016,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,1830,US$,2017,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2060,US$,2018,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2170,US$,2019,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2120,US$,2020,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2250,US$,2021,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2270,US$,2022,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2310,US$,2023,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2260,US$,2024,2026-10-08,official
+GHA,gni-per-capita-usd,wdi-gni-pcap-cd,2630,US$,2025,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2010,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2011,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2012,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2013,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,730,US$,2014,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,740,US$,2015,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,760,US$,2016,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,800,US$,2017,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,860,US$,2018,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2019,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1030,US$,2020,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2021,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1280,US$,2022,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1340,US$,2023,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1440,US$,2024,2026-10-08,official
+GIN,gni-per-capita-usd,wdi-gni-pcap-cd,1730,US$,2025,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2010,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2011,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2012,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2013,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2014,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,590,US$,2015,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,590,US$,2016,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2017,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2018,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2019,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2020,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,760,US$,2021,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2022,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,870,US$,2023,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,880,US$,2024,2026-10-08,official
+GMB,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2025,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2010,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2011,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,630,US$,2012,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2013,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2014,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2015,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2016,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2017,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,750,US$,2018,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2019,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,860,US$,2020,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,910,US$,2021,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2022,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2023,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,980,US$,2024,2026-10-08,official
+GNB,gni-per-capita-usd,wdi-gni-pcap-cd,1090,US$,2025,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,7920,US$,2010,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,9030,US$,2011,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,11430,US$,2012,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,12400,US$,2013,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,12620,US$,2014,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,9920,US$,2015,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6970,US$,2016,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6630,US$,2017,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6270,US$,2018,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,5570,US$,2019,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6140,US$,2020,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,5980,US$,2021,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,5210,US$,2022,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6230,US$,2023,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,6050,US$,2024,2026-10-08,official
+GNQ,gni-per-capita-usd,wdi-gni-pcap-cd,5890,US$,2025,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2010,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1010,US$,2011,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1060,US$,2012,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1130,US$,2013,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1250,US$,2014,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1320,US$,2015,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1490,US$,2016,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1540,US$,2017,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1720,US$,2018,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1880,US$,2019,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,1910,US$,2020,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,2070,US$,2021,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,2170,US$,2022,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,2110,US$,2023,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,2070,US$,2024,2026-10-08,official
+KEN,gni-per-capita-usd,wdi-gni-pcap-cd,2200,US$,2025,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,440,US$,2010,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2011,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,540,US$,2012,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,610,US$,2013,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2014,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2015,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,610,US$,2016,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2017,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2018,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2019,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2020,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,630,US$,2021,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2022,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2023,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,750,US$,2024,2026-10-08,official
+LBR,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2025,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,11550,US$,2010,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,6080,US$,2011,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,13310,US$,2012,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,11960,US$,2013,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,9130,US$,2014,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,8370,US$,2015,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,7670,US$,2016,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,9760,US$,2017,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,11000,US$,2018,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,10100,US$,2019,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,7000,US$,2020,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,6950,US$,2021,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,6010,US$,2022,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,6160,US$,2023,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,6790,US$,2024,2026-10-08,official
+LBY,gni-per-capita-usd,wdi-gni-pcap-cd,7250,US$,2025,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2010,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1350,US$,2011,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1490,US$,2012,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1440,US$,2013,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1330,US$,2014,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1280,US$,2015,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1240,US$,2016,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1160,US$,2017,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1250,US$,2018,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1290,US$,2019,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1170,US$,2020,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1190,US$,2021,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2022,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1260,US$,2023,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1240,US$,2024,2026-10-08,official
+LSO,gni-per-capita-usd,wdi-gni-pcap-cd,1280,US$,2025,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3190,US$,2010,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3260,US$,2011,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3230,US$,2012,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3350,US$,2013,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3330,US$,2014,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3300,US$,2015,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3150,US$,2016,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3160,US$,2017,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3380,US$,2018,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3510,US$,2019,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3260,US$,2020,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3630,US$,2021,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3700,US$,2022,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3780,US$,2023,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,3840,US$,2024,2026-10-08,official
+MAR,gni-per-capita-usd,wdi-gni-pcap-cd,4360,US$,2025,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2010,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,460,US$,2011,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,470,US$,2012,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,490,US$,2013,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2014,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,470,US$,2015,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2016,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2017,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,480,US$,2018,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2019,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2020,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,470,US$,2021,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2022,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2023,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2024,2026-10-08,official
+MDG,gni-per-capita-usd,wdi-gni-pcap-cd,560,US$,2025,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,780,US$,2010,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2011,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2012,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,880,US$,2013,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,910,US$,2014,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2015,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,870,US$,2016,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,860,US$,2017,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2018,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2019,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2020,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2021,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,1000,US$,2022,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,1010,US$,2023,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,1030,US$,2024,2026-10-08,official
+MLI,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2025,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,550,US$,2010,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2011,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,630,US$,2012,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,690,US$,2013,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2014,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2015,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,550,US$,2016,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,480,US$,2017,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,470,US$,2018,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2019,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,480,US$,2020,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,490,US$,2021,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2022,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,540,US$,2023,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,550,US$,2024,2026-10-08,official
+MOZ,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2025,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1550,US$,2010,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1640,US$,2011,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1800,US$,2012,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1890,US$,2013,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1790,US$,2014,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1680,US$,2015,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1550,US$,2016,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1560,US$,2017,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1680,US$,2018,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1720,US$,2019,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1720,US$,2020,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,1810,US$,2021,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,2010,US$,2022,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,2140,US$,2023,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,2110,US$,2024,2026-10-08,official
+MRT,gni-per-capita-usd,wdi-gni-pcap-cd,2210,US$,2025,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,8210,US$,2010,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,8530,US$,2011,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,9700,US$,2012,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10360,US$,2013,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10720,US$,2014,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10660,US$,2015,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10650,US$,2016,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,11020,US$,2017,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,12190,US$,2018,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,12710,US$,2019,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10780,US$,2020,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,10900,US$,2021,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,11810,US$,2022,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,12530,US$,2023,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,12960,US$,2024,2026-10-08,official
+MUS,gni-per-capita-usd,wdi-gni-pcap-cd,14040,US$,2025,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2010,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2011,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2012,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,590,US$,2013,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,530,US$,2014,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2015,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,490,US$,2016,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,480,US$,2017,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,490,US$,2018,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,540,US$,2019,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,560,US$,2020,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2021,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,610,US$,2022,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2023,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2024,2026-10-08,official
+MWI,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2025,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4520,US$,2010,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,5160,US$,2011,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,5730,US$,2012,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,5900,US$,2013,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,5690,US$,2014,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,5180,US$,2015,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4580,US$,2016,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4430,US$,2017,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4670,US$,2018,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4870,US$,2019,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4240,US$,2020,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4140,US$,2021,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4280,US$,2022,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4310,US$,2023,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4290,US$,2024,2026-10-08,official
+NAM,gni-per-capita-usd,wdi-gni-pcap-cd,4340,US$,2025,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2010,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2011,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,550,US$,2012,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2013,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,590,US$,2014,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,560,US$,2015,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2016,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2017,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,580,US$,2018,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2019,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2020,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,580,US$,2021,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,650,US$,2022,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,640,US$,2023,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,670,US$,2024,2026-10-08,official
+NER,gni-per-capita-usd,wdi-gni-pcap-cd,750,US$,2025,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2050,US$,2010,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2100,US$,2011,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2360,US$,2012,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2600,US$,2013,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2870,US$,2014,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2760,US$,2015,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2370,US$,2016,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2020,US$,2017,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,1950,US$,2018,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2260,US$,2019,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2460,US$,2020,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2860,US$,2021,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2940,US$,2022,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,2590,US$,2023,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,1710,US$,2024,2026-10-08,official
+NGA,gni-per-capita-usd,wdi-gni-pcap-cd,1360,US$,2025,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,580,US$,2010,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,630,US$,2011,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2012,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,700,US$,2013,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2014,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2015,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2016,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2017,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,760,US$,2018,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,820,US$,2019,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,780,US$,2020,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2021,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2022,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,1030,US$,2023,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,1070,US$,2024,2026-10-08,official
+RWA,gni-per-capita-usd,wdi-gni-pcap-cd,1150,US$,2025,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1230,US$,2010,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1250,US$,2011,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2012,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1060,US$,2013,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1130,US$,2014,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1180,US$,2015,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1140,US$,2016,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,1010,US$,2017,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,810,US$,2018,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2019,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2020,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2021,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2022,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,660,US$,2023,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2024,2026-10-08,official
+SDN,gni-per-capita-usd,wdi-gni-pcap-cd,900,US$,2025,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1340,US$,2010,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1310,US$,2011,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1320,US$,2012,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1350,US$,2013,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1370,US$,2014,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1320,US$,2015,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2016,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2017,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1390,US$,2018,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1430,US$,2019,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1430,US$,2020,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1540,US$,2021,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1590,US$,2022,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1620,US$,2023,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1630,US$,2024,2026-10-08,official
+SEN,gni-per-capita-usd,wdi-gni-pcap-cd,1780,US$,2025,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,690,US$,2010,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,710,US$,2011,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2012,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2013,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2014,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,950,US$,2015,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2016,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,840,US$,2017,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2018,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2019,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,840,US$,2020,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2021,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,920,US$,2022,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,870,US$,2023,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,820,US$,2024,2026-10-08,official
+SLE,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2025,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,290,US$,2010,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,250,US$,2011,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,280,US$,2012,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,340,US$,2013,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,410,US$,2014,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,440,US$,2015,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,450,US$,2016,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2017,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,510,US$,2018,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,520,US$,2019,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,500,US$,2020,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,540,US$,2021,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,570,US$,2022,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,600,US$,2023,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,620,US$,2024,2026-10-08,official
+SOM,gni-per-capita-usd,wdi-gni-pcap-cd,640,US$,2025,2026-10-08,official
+SSD,gni-per-capita-usd,wdi-gni-pcap-cd,770,US$,2011,2026-10-08,official
+SSD,gni-per-capita-usd,wdi-gni-pcap-cd,800,US$,2012,2026-10-08,official
+SSD,gni-per-capita-usd,wdi-gni-pcap-cd,1080,US$,2013,2026-10-08,official
+SSD,gni-per-capita-usd,wdi-gni-pcap-cd,1170,US$,2014,2026-10-08,official
+SSD,gni-per-capita-usd,wdi-gni-pcap-cd,1050,US$,2015,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1090,US$,2010,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1140,US$,2011,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1170,US$,2012,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1330,US$,2013,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1440,US$,2014,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1400,US$,2015,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1420,US$,2016,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1440,US$,2017,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1660,US$,2018,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,1810,US$,2019,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,2030,US$,2020,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,2220,US$,2021,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,2820,US$,2022,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,2810,US$,2023,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,2910,US$,2024,2026-10-08,official
+STP,gni-per-capita-usd,wdi-gni-pcap-cd,3800,US$,2025,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3260,US$,2010,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3620,US$,2011,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,4010,US$,2012,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,4120,US$,2013,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3890,US$,2014,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3540,US$,2015,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3270,US$,2016,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3290,US$,2017,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3460,US$,2018,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3680,US$,2019,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3430,US$,2020,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3620,US$,2021,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3650,US$,2022,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3750,US$,2023,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3440,US$,2024,2026-10-08,official
+SWZ,gni-per-capita-usd,wdi-gni-pcap-cd,3730,US$,2025,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,10160,US$,2010,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,11150,US$,2011,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,12540,US$,2012,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,12350,US$,2013,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,13340,US$,2014,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,14750,US$,2015,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,15630,US$,2016,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,16180,US$,2017,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,17620,US$,2018,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,18700,US$,2019,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,15400,US$,2020,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,14890,US$,2021,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,14390,US$,2022,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,16340,US$,2023,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,17700,US$,2024,2026-10-08,official
+SYC,gni-per-capita-usd,wdi-gni-pcap-cd,19200,US$,2025,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1150,US$,2010,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1190,US$,2011,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1310,US$,2012,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1310,US$,2013,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1260,US$,2014,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,1130,US$,2015,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,940,US$,2016,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2017,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2018,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2019,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2020,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2021,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,920,US$,2022,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,910,US$,2023,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2024,2026-10-08,official
+TCD,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2025,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,790,US$,2010,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2011,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,840,US$,2012,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,890,US$,2013,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,910,US$,2014,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,910,US$,2015,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,870,US$,2016,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2017,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,920,US$,2018,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,950,US$,2019,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2020,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,1040,US$,2021,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,1130,US$,2022,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,1190,US$,2023,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,1220,US$,2024,2026-10-08,official
+TGO,gni-per-capita-usd,wdi-gni-pcap-cd,1350,US$,2025,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4140,US$,2010,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4060,US$,2011,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4250,US$,2012,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4300,US$,2013,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4310,US$,2014,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4130,US$,2015,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3930,US$,2016,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3700,US$,2017,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3700,US$,2018,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3590,US$,2019,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3270,US$,2020,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3640,US$,2021,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3890,US$,2022,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3850,US$,2023,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,3880,US$,2024,2026-10-08,official
+TUN,gni-per-capita-usd,wdi-gni-pcap-cd,4300,US$,2025,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,720,US$,2010,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,760,US$,2011,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,810,US$,2012,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,880,US$,2013,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2014,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2015,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2016,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2017,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1010,US$,2018,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1050,US$,2019,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1060,US$,2020,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1130,US$,2021,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1210,US$,2022,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1220,US$,2023,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1210,US$,2024,2026-10-08,official
+TZA,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2025,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,680,US$,2010,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,860,US$,2011,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2012,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,810,US$,2013,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,830,US$,2014,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,850,US$,2015,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,810,US$,2016,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,760,US$,2017,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,770,US$,2018,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,810,US$,2019,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,820,US$,2020,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,860,US$,2021,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,930,US$,2022,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,970,US$,2023,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,1010,US$,2024,2026-10-08,official
+UGA,gni-per-capita-usd,wdi-gni-pcap-cd,1120,US$,2025,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6730,US$,2010,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,7620,US$,2011,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,8220,US$,2012,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,7930,US$,2013,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,7230,US$,2014,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6450,US$,2015,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,5880,US$,2016,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,5850,US$,2017,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6250,US$,2018,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6570,US$,2019,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,5930,US$,2020,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6320,US$,2021,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6530,US$,2022,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6490,US$,2023,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6110,US$,2024,2026-10-08,official
+ZAF,gni-per-capita-usd,wdi-gni-pcap-cd,6270,US$,2025,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1310,US$,2010,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1380,US$,2011,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1640,US$,2012,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1710,US$,2013,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1740,US$,2014,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1530,US$,2015,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1320,US$,2016,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1260,US$,2017,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1390,US$,2018,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1380,US$,2019,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1110,US$,2020,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1050,US$,2021,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1170,US$,2022,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2023,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1190,US$,2024,2026-10-08,official
+ZMB,gni-per-capita-usd,wdi-gni-pcap-cd,1200,US$,2025,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,640,US$,2010,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,960,US$,2011,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1150,US$,2012,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1220,US$,2013,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1270,US$,2014,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1330,US$,2015,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1240,US$,2016,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1680,US$,2017,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2140,US$,2018,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2430,US$,2019,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,1980,US$,2020,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2330,US$,2021,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2580,US$,2022,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2550,US$,2023,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2400,US$,2024,2026-10-08,official
+ZWE,gni-per-capita-usd,wdi-gni-pcap-cd,2660,US$,2025,2026-10-08,official
 AGO,population,wdi-population,2.32948e+07,persons,2010,2026-07-13,official
 AGO,population,wdi-population,2.42184e+07,persons,2011,2026-07-13,official
 AGO,population,wdi-population,2.51774e+07,persons,2012,2026-07-13,official

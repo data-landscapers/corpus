@@ -1,0 +1,15 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "unplaced",
+   "cost": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2024 or later is held for what a month of mobile data costs against income.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

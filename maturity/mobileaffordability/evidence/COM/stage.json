@@ -1,0 +1,15 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "2",
+   "cost": "share:7.36",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-004",
+   "gaps": "The newest figure, 7.36 per cent for 2025, is above 5 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

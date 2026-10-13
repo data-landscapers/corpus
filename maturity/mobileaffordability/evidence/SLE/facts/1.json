@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-21-sierra-leone-parliament-hearing-data-bundle-orange-africell-natca",
+  "facts": [],
+  "systems": [
+    {"system": "Le 60 (1MBPS) bundle", "country_label": "Le 60 for 1 Mbps; promotion withdrawn, not a regulated tariff", "class": "other", "platform": "", "owner": "Africell and Orange Sierra Leone", "tiers": ""},
+    {"system": "Africell two-day and three-day Mbps bundles", "country_label": "no price stated", "class": "other", "platform": "", "owner": "Africell Sierra Leone", "tiers": ""},
+    {"system": "Orange unlimited midnight browsing", "country_label": "NLe5, night-only", "class": "other", "platform": "", "owner": "Orange Sierra Leone", "tiers": ""}
+  ],
+  "note": "No monthly data plan price or income share stated; only a withdrawn promotion, short and night bundles, and a parliamentary resolution."
+}

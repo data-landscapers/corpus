@@ -1,0 +1,15 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "1",
+   "cost": "share:12.49",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}

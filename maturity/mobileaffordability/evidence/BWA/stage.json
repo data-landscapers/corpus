@@ -1,0 +1,15 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "price",
+   "stage": "4",
+   "cost": "price:BWP:99:8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-001",
+   "gaps": "The newest figure, 1.17 per cent for 2026, is above 1 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobileaffordability.py."
+  }
+ ]
+}
