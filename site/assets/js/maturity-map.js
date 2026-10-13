@@ -285,9 +285,12 @@
       /* The dropdowns already name the indicator, so the box says only what it holds. */
       '<div class="mat-side__head"><div class="mat-side__row"><h2 class="mat-side__kicker">Criteria</h2>' +
       '<a class="mat-btn mat-btn--primary" href="../methodology/maturity/#' + esc(state.indicator) +
-      '">Methodology for this indicator</a></div></div>' +
-      '<ul class="mat-ladder">' + lad + "</ul>" +
-      (ind.norm ? '<div class="mat-norm"><h3 class="mat-side__kicker">The norm</h3>' + ind.norm + "</div>" : "");
+      '">Methodology for this indicator</a></div>' +
+      /* The norm, cut to three lines by the stylesheet; the whole of it is on the methodology page. */
+      (ind.norm ? '<div class="mat-norm">' + ind.norm + "</div>" : "") + "</div>" +
+      '<ul class="mat-ladder">' + lad + "</ul>";
+    var norm = document.querySelector("#mat-side-indicator .mat-norm");
+    if (norm) norm.title = norm.textContent;
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
     /* After launch the button is a link to the selected indicator's dated edition. */
     var file = data.launched && data.downloads[state.indicator], one = $("mat-dl-one");

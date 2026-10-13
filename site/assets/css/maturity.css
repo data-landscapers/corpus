@@ -234,8 +234,10 @@
 }
 .mat-ladder li { display: contents; color: var(--ink-light); }
 .mat-ladder b { color: var(--ink); white-space: nowrap; }
-.mat-norm { margin-top: .8rem; padding-top: .6rem; border-top: 1px solid var(--rule); color: var(--ink-light); }
-.mat-norm p { margin: 0; }
+/* The norm sits in the criteria's heading, three lines at most (Bill, 2026-10-13). */
+.mat-norm { margin-top: .4rem; color: var(--ink-light); }
+.mat-norm p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; line-clamp: 3; overflow: hidden; margin: 0; }
+.mat-norm p + p { display: none; }
 .mat-norm a { color: var(--link); }
 #mat-side-country { scroll-margin-top: calc(var(--header-h) + 3.5rem); }
 .mat-side section.is-empty { display: flex; align-items: center; justify-content: center; min-height: 8rem; padding: 1rem; }
