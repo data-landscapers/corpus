@@ -1,17 +1,21 @@
 ---
 title: China activities — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: geopol.china
-places: DJI; EGY; GMB
-record: 5e9af2e5452d
+places: BWA; DJI; EGY; GMB
+record: 2c43de136b04
 ---
 
 # China activities: monthly update, September – October 2026
 
-*3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Botswana
+
+[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm).
 
 ## Djibouti
 

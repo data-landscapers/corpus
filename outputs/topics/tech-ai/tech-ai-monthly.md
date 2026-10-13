@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0161e0108987
+places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0f01935c11be
 ---
 
 # AI: monthly update, September – October 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The strategy went looking for money. The finance and budget minister carried its
 ## Chad
 
 [A pre-validation workshop for the National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, the strategy aimed at health, agriculture, education and public services](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/).
+
+## Comoros
+
+[The UNESCO readiness assessment was presented in Riyadh: it places the Comoros at an emerging stage, finds no national strategy, no AI-specific legal instrument and no independent ethics body, and sets 23 recommendations to 2030](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html).
 
 ## Cote d'Ivoire
 
@@ -131,7 +135,7 @@ The national rail operator [tendered a MAD 1.08 million study to design a nation
 
 ## Namibia
 
-The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated.
+The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated. [The ICT minister announced that Cabinet had directed the Office of the Prime Minister and her ministry to develop an internal policy on civil servants' use of AI](https://economist.com.na/government-directs-ai-policy-for-civil-servants-as-ict-summit-opens-in-ongwediva/); no timeline or draft is stated.
 
 ## Nigeria
 
@@ -185,7 +189,7 @@ The United Nations Development Programme's country office [sought an internation
 
 ## Tunisia
 
-At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record. A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A). Customs said [the share of declarations sent to the red channel fell from 4.7% in 2025 to 2.6% in 2026, with artificial intelligence in the risk analysis since May](https://www.lapresse.tn/2026/10/06/douane-tunisienne-le-circuit-rouge-recule-fortement-en-2026/). [Customs said on 9 October 2026 that artificial intelligence integrated into its risk-management and selectivity system, built in-house, should enter operation at the end of November 2026](https://fr.allafrica.com/stories/202610090629.html).
+At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record. A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A). Customs said [the share of declarations sent to the red channel fell from 4.7% in 2025 to 2.6% in 2026, with artificial intelligence in the risk analysis since May](https://www.lapresse.tn/2026/10/06/douane-tunisienne-le-circuit-rouge-recule-fortement-en-2026/). [Customs said on 9 October 2026 that artificial intelligence integrated into its risk-management and selectivity system, built in-house, should enter operation at the end of November 2026](https://fr.allafrica.com/stories/202610090629.html). [The customs spokesman said first trials of AI risk targeting had improved targeting quality by 20 to 25%, with the new customs information system due by end-2027](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/).
 
 ## Uganda
 

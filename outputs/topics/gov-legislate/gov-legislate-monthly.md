@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4f6e95528937
+record: 64cebf28da4f
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -15,11 +15,11 @@ record: 4f6e95528937
 
 ## Algeria
 
-The high commission for digitalisation says [a digitalisation law covering data, digital services, electronic exchange, system security and the responsibilities attached to them is in the final stages of study](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/); no draft, sponsor or timetable is published.
+The high commission for digitalisation says [a digitalisation law covering data, digital services, electronic exchange, system security and the responsibilities attached to them is in the final stages of study](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/); no draft, sponsor or timetable is published. [The draft 2027 finance law proposes a 10% tax reduction, to the end of 2028, for small taxpayers who take at least half their receipts electronically](https://lechodalgerie.dz/projet-de-loi-de-finances-2027-des-avantages-fiscaux-pour-booster-le-e-paiement/), and [would make non-resident digital platforms register with the tax authority and remit VAT quarterly](https://algerian-business.com/tva-plateformes-numeriques-algerie-plf-2027/).
 
 ## Angola
 
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/).
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/). [The telecommunications ministry said a national commission would be formed to create, within 180 days, the conditions to implement the National Cybersecurity Centre](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/).
 
 ## Benin
 
@@ -109,7 +109,7 @@ A Bissau law professor told an ECOWAS Court conference in Dakar on 22 September 
 
 ## Kenya
 
-The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice. [Regulations for non-deposit-taking credit providers were gazetted, revoking the 2022 digital credit rules](https://new.kenyalaw.org/akn/ke/act/ln/2026/191/eng@2026-09-29/source.pdf), with separate consent for personal data and human review of AI lending decisions.
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice. [Regulations for non-deposit-taking credit providers were gazetted, revoking the 2022 digital credit rules](https://new.kenyalaw.org/akn/ke/act/ln/2026/191/eng@2026-09-29/source.pdf), with separate consent for personal data and human review of AI lending decisions. [The Senate finance and budget committee reviewed the draft Statistics Bill 2026 with the statistics bureau, senators questioning the independence of the proposed Kenya Statistics Authority](https://peopledaily.digital/news/senators-push-bill-to-transform-knbs-into-kenya-statistics-authority).
 
 ## Lesotho
 

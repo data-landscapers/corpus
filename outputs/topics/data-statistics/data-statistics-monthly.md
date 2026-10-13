@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: ae1e5c7a3668
+record: 7fda5c6d3420
 ---
 
 # National statistics: monthly update, September – October 2026
@@ -107,13 +107,13 @@ The same announcement records that Kigali [hosts the UN regional hub for big dat
 
 ## Senegal
 
-An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
+An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them. [The statistics agency said it is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/).
 
 ## Sierra Leone
 
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
-The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/).
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/). [The statistics office said the census budget had risen from an initial US$7 million to nearly US$60 million after the cartographic mapping](https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/), [as the 50-day countdown to the first fully digital enumeration opened](https://www.thesierraleonetelegraph.com/sierra-leone-counts-down-to-first-fully-digital-census/).
 
 ## South Africa
 

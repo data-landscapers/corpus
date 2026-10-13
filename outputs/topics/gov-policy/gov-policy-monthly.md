@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 5e14e7b8ea4c
+record: 0edc1125f615
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -91,7 +91,7 @@ The higher education ministry [validated a draft science, technology and innovat
 
 ## Ghana
 
-The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published. [The health ministry and health service, with two United Nations agencies, were reported reviewing the Digital Health Policy and Strategy 2023-2027 to incorporate AI, centred on surveillance joining routine health data with climate data](https://www.afro.who.int/countries/ghana/news/who-and-undp-support-ghana-integrate-artificial-intelligence-digital-health-strategy).
 
 ## Guinea-Bissau
 
@@ -99,7 +99,7 @@ The strategy's implementation plan is in preparation with a United Nations unive
 
 ## Kenya
 
-Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
+Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published. [The ICT Cabinet Secretary gazetted the Access to Information Policy, 2026 under Gazette Notice No. 15992, requiring proactive disclosure, set timelines for answers and written reasons for refusals](https://peopledaily.digital/news/cs-kabogo-gazettes-new-policy-to-boost-public-access-to-government-information).
 
 ## Liberia
 
@@ -123,7 +123,7 @@ The Digital Transformation Operational Plan 2026-2029 [was under appraisal at th
 
 The plan in force is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
-The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October. A proposed [Internet for All strategy with targets to 2030 was presented in Maputo, where only 15% of the population was said to afford mobile data](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/).
+The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October. A proposed [Internet for All strategy with targets to 2030 was presented in Maputo, where only 15% of the population was said to afford mobile data](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/). [The government approved a Public Finance Management Strategy for 2026-2035 that slates automation, systems integration and AI for treasury, debt and state-asset management, with all major processes through the state financial system by 2035](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/); the approval date is not stated.
 
 ## Nigeria
 

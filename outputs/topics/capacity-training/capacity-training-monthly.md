@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 10e53442fa84
+record: a1b2b52fc676
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -75,7 +75,7 @@ The coders programme is to reach first-year degrees: the minister [said 12 unive
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
-Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/).
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/). [The ministry said it was addressing training and infrastructure problems raised by beneficiaries after a monitoring exercise](https://techafricanews.com/2026/10/13/ghana-one-million-coders-programme-training-challenges/); [at one university 195 of 1,447 enrolled students had completed the course, as a further 2,000 laptops were handed over](https://gna.org.gh/2026/10/govt-committed-to-expanding-digital-infrastructure-and-inclusion-sam-george/).
 
 ## Guinea
 
@@ -85,7 +85,7 @@ The state digitalisation agency [put the feasibility study for a national digita
 
 A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
 
-The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
+The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/). [A hub commissioned in Uasin Gishu took the network to 391 equipped sites and 23,387 devices, with 67 of 253 TVET institutions still awaiting equipment](https://techafricanews.com/2026/10/13/kenya-commissions-jitume-ict-hub-uasin-gishu-391-sites/). [The Kenya School of Government launched its eLearning and Information Technology Institute as 1,239 public officers graduated from a UNESCO-Oxford programme on AI and digital transformation in government](https://techafricanews.com/2026/10/13/kenya-ksg-digital-institute-1239-public-officers-ai-training/).
 
 ## Lesotho
 

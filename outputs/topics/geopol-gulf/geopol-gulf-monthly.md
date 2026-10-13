@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: geopol.gulf
 places: AGO; EGY; GMB
-record: e02c525dde0f
+record: 65100fd4127a
 ---
 
 # Gulf/UAE activities: monthly update, September – October 2026

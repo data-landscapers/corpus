@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 2faf18d35f9a
+record: c10c21778aef
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -179,7 +179,7 @@ The companies commission [launched on 29 September a disclosure module giving la
 
 ## Tanzania
 
-The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
+The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated. [The deputy trade minister said five of the seven modules of the business registry's upgraded online services system were operational and directed completion of the rest](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/govt-launches-business-law-reforms-to-drive-investment-tech-innovation-2026-10-12-115945).
 
 ## Tunisia
 
@@ -193,7 +193,7 @@ The country's other identifier-bearing register went the other way. Parliament's
 
 The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
 
-The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html).
+The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html). [A former works minister told Parliament's physical infrastructure committee that the digital number plate rollout went ahead without a preliminary feasibility study](https://www.monitor.co.ug/uganda/news/national/how-ignored-warnings-missing-feasibility-studies-plagued-uganda-s-digital-plates-project-5630898).
 
 ## Zambia
 
@@ -201,4 +201,4 @@ One district office in Muchinga Province [reported registering more than 3,000 c
 
 ## Zimbabwe
 
-The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/).
+The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/). [The small-enterprise development corporation said a national MSME database had reached minimum-viable-product stage, with integration talks under way with the revenue authority and the procurement regulator](https://www.263chat.com/gvt-moves-to-create-national-database-for-small-businesses/).

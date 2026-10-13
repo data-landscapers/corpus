@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8399ab09b808
+record: 351df2691e93
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -31,7 +31,7 @@ The Constitutional Court is preparing its own systems for the 2027 elections: on
 
 ## Benin
 
-[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss.
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss. [The government launched a presidential National Administrative Simplification Prize, inviting proposals for simpler and digitised procedures and data sharing between administrations, with submissions open from 29 October to 12 November 2026](https://prix-simplification.gouv.bj/communique).
 
 ## Botswana
 
@@ -55,7 +55,7 @@ The presidency [adopted a locally built messaging application as a channel for c
 
 ## Chad
 
-The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record.
+The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record. [The freight bureau signed a convention with a mobile-money operator to let road-freight users pay the compulsory waybill and the axle tax by mobile phone](https://www.atpe.td/tchad-le-bnft-et-moov-money-digitalisent-le-paiement-des-taxes-du-fret-terrestre/).
 
 ## Cote d'Ivoire
 
@@ -107,7 +107,7 @@ State logistics followed on 4 September, when the shipping and logistics company
 
 ## Gabon
 
-The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/). The postal company [presented an application hosted in Gabon that combines payments, public services such as birth-certificate requests, postal services and insurance, its app-store launch still to come](https://www.gabonreview.com/poste-s-a-akiba-le-numerique-et-la-logistique-au-coeur-de-la-relance/).
+The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/). The postal company [presented an application hosted in Gabon that combines payments, public services such as birth-certificate requests, postal services and insurance, its app-store launch still to come](https://www.gabonreview.com/poste-s-a-akiba-le-numerique-et-la-logistique-au-coeur-de-la-relance/). [The civil-service ministry reviewed technical preparations for an integrated human resources management system, a single register of state employees interoperable with payroll, budget and national identification, and named the procurement tender as the next step](https://fonction-publique.gouv.ga/2-actualites/3402-acceleration-des-preparatifs-de-mise-en-oeuvre-du-systeme-integre-de-gestion-des-ressources-humaines/).
 
 ## Gambia
 
@@ -223,7 +223,7 @@ A second single-window model was announced alongside the one already operating. 
 
 ## Sierra Leone
 
-The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself.
+The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself. [Ministries, departments and agencies were shown VISION-SL, a platform to hold ministerial performance contracts, targets and quarterly progress reports in one system](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/); it awaits validation and testing.
 
 ## South Africa
 
@@ -277,4 +277,4 @@ The Public Service Management Division said on 23 September that [a digital plat
 
 ## Zimbabwe
 
-The ICT minister [set a 2030 deadline on 18 September 2026 for turning more than 250 post offices into technology-driven service centres](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy), under a three-phase plan; no cost or site schedule is published.
+The ICT minister [set a 2030 deadline on 18 September 2026 for turning more than 250 post offices into technology-driven service centres](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy), under a three-phase plan; no cost or site schedule is published. [Police said logistics for the Electronic Traffic Management System were being finalised, the system being integrated with the Central Vehicle Registry and the Civil Registry to identify offenders](https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/).

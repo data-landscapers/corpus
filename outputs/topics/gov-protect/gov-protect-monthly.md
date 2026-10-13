@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: gov.protect
 places: AGO; BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e83f26429f54
+record: f72cc8490477
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -49,7 +49,7 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
-On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated.
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/).
 
 ## Kenya
 
@@ -103,11 +103,11 @@ The consultation acquired a political timetable on 10 September, when the educat
 
 The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
 
-A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held.
+A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held. [After Ghana's rejection of a similar compact, an opposition campaign demanded publication of the memorandum's full text and doctors faulted the clause on continued use of specimens and data after termination](https://trustradio.com.ng/en/nigeria-us-health-deal-under-scrutiny); the health ministry did not respond.
 
 ## Senegal
 
-The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
+The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008. [Majority deputies filed a proposal for a parliamentary commission of inquiry into the health cooperation agreement with the United States and its implications for Senegalese personal data](https://www.rts.sn/actualite/detail/a-la-une/assemblee-nationale-quatre-textes-gouvernementaux-et-cinq-propositions-denquete-a-louverture-de-la-session-ordinaire-2026-2027); the Bureau is to rule on admissibility.
 
 ## Seychelles
 

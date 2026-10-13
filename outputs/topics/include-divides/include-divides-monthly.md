@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: include.divides
 places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: 4cb599f941ac
+record: cc1a936e110e
 ---
 
 # Digital divides: monthly update, September – October 2026
@@ -27,7 +27,7 @@ The ICT development agency [inaugurated a community multimedia centre at Moundou
 
 ## DR Congo
 
-For the school year that opened on 1 September, the education and health ministries [provide distance teaching by worksheets and radio and television broadcasts in the 18 educational sub-divisions classed as high Ebola risk](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires), designed so that families need neither internet access nor digital equipment.
+For the school year that opened on 1 September, the education and health ministries [provide distance teaching by worksheets and radio and television broadcasts in the 18 educational sub-divisions classed as high Ebola risk](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires), designed so that families need neither internet access nor digital equipment. [The posts and telecommunications ministry presented solar-powered microsites to the universal service fund and four mobile operators, with 50 pilot sites planned, each said to cover a 4 to 5 km radius at a quarter of the cost of a conventional mast](https://www.agenceecofin.com/actualites-numerique/1310-142368-connectivite-la-rdc-explore-des-solutions-abordables-pour-etendre-le-reseau).
 
 ## Egypt
 

@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: a57661463c8f
+record: 5183b7bdd7b9
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -127,7 +127,7 @@ The UN Economic and Social Commission for Western Asia and the minister for digi
 
 ## Mozambique
 
-[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/).
+[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/). [The digital agency was reported leading a 14-member multi-agency technical mission to Ethiopia to prepare the implementation of a national digital identity](https://mznews.co.mz/atdi-mjcr-dnic-senami-e-inatro-preparam-implementacao-da-identidade-digital-em-mocambique/); the mission's dates are not stated.
 
 ## Namibia
 
@@ -151,7 +151,7 @@ The country was [selected on 21 September to host the seventh UN World Data Foru
 
 ## Somalia
 
-A 15-member delegation's ten-day mission to Pakistan [closed with a roundtable in Islamabad on 16 September 2026 that set three working groups on identity, data exchange and financial inclusion](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/), with an action matrix of 30-, 60- and 90-day steps.
+A 15-member delegation's ten-day mission to Pakistan [closed with a roundtable in Islamabad on 16 September 2026 that set three working groups on identity, data exchange and financial inclusion](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/), with an action matrix of 30-, 60- and 90-day steps. No instrument, budget or outcome of the first step is published.
 
 ## South Africa
 

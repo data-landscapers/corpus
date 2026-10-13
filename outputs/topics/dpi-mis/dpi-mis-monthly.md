@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b48dd6cefa2b
+record: ee6b9cf7e90d
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -157,7 +157,7 @@ The Gates Foundation and MTN's group foundation [announced a maternal health pro
 
 The statistics bureau, the ILO and UNICEF [opened a three-day dialogue on 22 September to introduce a Social Protection Management Information System and agree regular sharing of administrative data the ILO calls fragmented and inconsistent](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/), after pilots in four states under an EU-funded programme; no outcome is yet reported.
 
-Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number.
+Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number. [Kwara State's governor approved electronic medical records across state-owned hospitals, with health-worker training from November 2026 after a six-hospital pilot](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/).
 
 ## Rwanda
 
@@ -165,7 +165,7 @@ The judiciary set technology as a priority for the year ahead. At the launch of 
 
 ## Senegal
 
-The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass).
+The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass). [A technical workshop in Fatick finalised preparations to roll out the communal land information system, agreeing a protocol for migrating communal land data, with the platform still in preproduction](https://www.seneplus.com/article/gestion-des-terres-le-senegal-mise-sur-la-numerisation-des-donnees-communales).
 
 ## Sierra Leone
 
@@ -173,7 +173,7 @@ Government bodies and partners [held a workshop on 17-18 September 2026 on a sha
 
 ## Somalia
 
-The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects.
+The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects. No indicator set, first report or public view of the system is published.
 
 ## South Africa
 
@@ -193,7 +193,7 @@ Community health work is being tied to the payment rail. Local government's ICT 
 
 The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
 
-A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated.
+A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated. [The health ministry said 222 public health facilities are connected to an integrated electronic medical records system introduced in October 2025, naming unreliable connectivity, power and incomplete interoperability as obstacles](https://www.thecitizen.co.tz/tanzania/news/national/government-connects-222-public-health-facilities-to-digital-records-system-5630008).
 
 ## Togo
 

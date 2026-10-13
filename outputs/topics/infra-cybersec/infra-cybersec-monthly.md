@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: b8c2bb0e3270
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: 78b18063aecb
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The women and early-childhood ministry [banned the transmission of official corr
 ## Comoros
 
 Cybersecurity cooperation moved outside the usual partners. A Russian embassy delegation visiting from 8 to 12 September [took up with the telecommunications and digital economy minister a memorandum on information security the two governments had already initialled, covering professional training, skills-building and the fight against cybercrime](https://alwatwan.net/politique/comores-russie-i-une-coop%C3%A9ration-bilat%C3%A9rale-appel%C3%A9e-%C3%A0-%C2%ABfranchir-un-nouveau-cap%C2%BB.html), with the Comorian side proposing a further document on training Comorian trainers. No signature date, text or funding is published, and the same visit prepared the opening of a Russian embassy in Moroni.
+
+## Cote d'Ivoire
+
+[The national information-systems security agency announced a first national cyber-crisis simulation, CYBER.EX, for 28 and 29 October 2026 in Abidjan](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber).
 
 ## Equatorial Guinea
 
