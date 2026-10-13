@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-19-lbr-smartnewsliberia-cybercrime-act-free-speech",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Smart News Liberia reports the arrest of an unnamed person accused of creating a manipulated video of Vice President Koung at Brussels Airport, after which the Executive Protection Service director warned such material could be prosecuted under the Cybercrime Act; the document gives no arrest date, so the publication date is used.", "as_of": "2026-09-19", "date_precision": "day", "system": "Unnamed person accused over manipulated video of the Vice President", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Act of 2025", "country_label": "Cybercrime Act of 2025", "class": "discussion", "platform": "", "owner": "Government of Liberia", "tiers": ""}
+  ],
+  "note": "Opinion piece on the law's reach; the arrest is the same event as in documents 6 and 7, and the document gives no date for it."
+}

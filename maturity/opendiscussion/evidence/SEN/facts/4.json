@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-cipesa-mozambique-internet-shutdown-african-courts",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says shutdowns were imposed in Senegal during the 2023 unrest, and a court (not named as ECOWAS in the passage) found they violated freedom of expression and access to information; who ordered them is not stated.", "as_of": "2023", "date_precision": "year", "system": "internet", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The court ruling on Senegal is a regional court's and the document does not say the government acted on it, so no barred fact. Mozambique, Zimbabwe, Togo, Nigeria and Guinea content is not SEN."
+}

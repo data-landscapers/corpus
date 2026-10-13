@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-30-tunisie-rsf-world-press-freedom-index-2026",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "RSF reports that on 15 July 2026 journalist and columnist Haythem El Mekki was sentenced to one year in prison over a post denouncing conditions in a hospital morgue.", "as_of": "2026-07-15", "date_precision": "day", "system": "Haythem El Mekki", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "RSF says that in 2024 over ten journalists in Tunisia were targeted by legal proceedings for doing their jobs, among them Mourad Zeghidi, held since 11 May 2024.", "as_of": "2024", "date_precision": "year", "system": "journalists targeted by legal proceedings", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "RSF says the radio station Diwan FM keeps a balanced, critical approach to the political news cycle; no named policy is given and no date, so the document's publication date 2026-04-30 is used.", "as_of": "2026-04-30", "date_precision": "day", "system": "Diwan FM", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "RSF says the National Union of Tunisian Journalists (SNJT) protested the presidential palace no longer receiving journalists since 2019; no date for the protest is given, so the publication date 2026-04-30 is used.", "as_of": "2026-04-30", "date_precision": "day", "system": "Carthage palace press access", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "RSF World Press Freedom Index 2026", "country_label": "Tunisia 137/180, score 40.43", "class": "other", "platform": "", "owner": "RSF", "tiers": ""},
+    {"system": "Decree-Law 54 of September 2022", "country_label": "Decree-Law 54", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Convictions of Zied El Heni and Khaoula Boukrim are named only in a headline, and Zeghidi's detention gives no statement: no fact."
+}

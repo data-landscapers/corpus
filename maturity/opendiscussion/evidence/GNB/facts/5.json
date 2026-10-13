@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-27-mfwa-guinea-bissau-military-takeover-media-suspension",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "On 26 November 2025, the day the military seized power, citizens reported widespread restrictions on Facebook, YouTube, TikTok and Instagram, which the Media Foundation for West Africa (MFWA) says the military imposed; the source gives no end date.",
+     "as_of": "2025-11-26", "date_precision": "day", "system": "Facebook, YouTube, TikTok and Instagram", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Radio stations were ordered off air and journalists out of their premises by the military on 26 November 2025, but the source does not say it was for what was said or published, so no penalty fact."
+}

@@ -1,0 +1,39 @@
+{
+ "slug": "2026-09-26-gin-mediaguinee-hac-bans-four-web-tv",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fewndaare TV",
+   "country_label": "Fewndaare TV",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Global TV",
+   "country_label": "Global TV",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Kimanbourou TV",
+   "country_label": "Kimanbourou TV",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "BTV",
+   "country_label": "BTV",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Four web TVs banned for lacking authorisation; no speech named, a licensing matter, so no fact."
+}

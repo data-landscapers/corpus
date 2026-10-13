@@ -1,0 +1,13 @@
+{
+  "slug": "2024-08-20-sudan-starlink-lifeline-or-war-facilitator",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Global Voices says the RSF seized Khartoum ISPs in February 2024 and imposed a telecommunications blackout, that civil society organisations confirmed the blackout in the Darfur region was ordered by the SAF, and that two of three main ISPs restored service from Port Sudan after one and three weeks while Khartoum and al-Gezira stayed down.",
+     "as_of": "2024-02", "date_precision": "month", "system": "Telecommunications blackout of February 2024", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Global Voices reports that the Wall Street Journal claimed the SAF asked an internet company to shut down devices operating in RSF-controlled areas; the document gives no date, so its published date is used.",
+     "as_of": "2024-08-20", "date_precision": "day", "system": "Internet devices in RSF-controlled areas", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The TPRA decision to block Starlink device imports and the Starlink usage fees are licensing or import controls, not a cut or a punishment for speech, so no fact."
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "2025-11-12-freedom-on-the-net-2025-sudan",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "A court handed down a four-year prison sentence in February 2025 to a man convicted of insulting and defaming state leaders, per a Sudan News Agency post of 10 February 2025 cited by Freedom House.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "Four-year sentence for insulting and defaming state leaders",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Sudanese military arrested journalist after he criticised a governor over the water crisis, per a CPJ report of 24 July 2024 cited by Freedom House.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "Journalist arrested for criticising a governor on the water crisis",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Journalist Abdul Jalil Mohammed Abdul Jalil was arrested for exposing corruption in the Hajj pilgrimage, per a Sudan Barq report of 26 May 2025 cited by Freedom House.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Abdul Jalil Mohammed Abdul Jalil",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Freedom on the Net 2025 score",
+      "country_label": "Freedom on the Net 2025: Sudan 27 of 100, not free",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No cut fact: the year-long Wad Madani blackout lifted January 2025 and the Khartoum outage are tied to the RSF takeover and fighting, not to an order of government, regulator or security forces; score is other."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-01-27-parecer-da-oaa-sobre-as-propostas-de-lei-de-ciberseguranca-e-contra-as-informacoes-falsas",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Ordem dos Advogados de Angola, the bar association, told the National Assembly president on 27 January 2026 that the cybersecurity bill and the bill against false information threaten free expression and need integral reformulation, citing disproportionate sanctions of 2 to 10 years' prison for executives.",
+      "as_of": "2026-01-27",
+      "date_precision": "day",
+      "system": "Proposta de Lei contra as Informações Falsas / Proposta de Lei sobre Cibersegurança",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lei n.º 6/26 contra Informações Falsas na Internet",
+      "country_label": "Lei contra as Informações Falsas na Internet",
+      "class": "other",
+      "platform": "",
+      "owner": "Assembleia Nacional",
+      "tiers": ""
+    },
+    {
+      "system": "Proposta de Lei sobre Cibersegurança",
+      "country_label": "Lei da Cibersegurança",
+      "class": "other",
+      "platform": "",
+      "owner": "Executivo / Assembleia Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

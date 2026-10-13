@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-19-gha-myjoyonline-jollof-case-rights-barker-vormawor",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Senior nursing officer Salomey Awiti Bafoh was arrested on 13 September 2026 at Hansua near Techiman and charged at the Adentan Circuit Court with abetment of publishing and circulating false news under sections 20(1) and 208 of the Criminal Offences Act, 1960 (Act 29), for allegedly helping redistribute videos from the UK-based 'Ghana Jollof' TikTok account; she pleaded not guilty, was denied bail and remanded to 30 September, and the allegations are not proven.", "as_of": "2026-09-13", "date_precision": "day", "system": "Salomey Awiti Bafoh", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Democracy Hub, a Ghanaian civil-society group, through its adviser Oliver Barker-Vormawor, criticised on JoyNews on 19 September 2026 the police detention, the denial of bail and the evidence-gathering in the prosecution of Salomey Awiti Bafoh, and said the Ghana Bar Association had also raised concerns about arrests connected to communications.", "as_of": "2026-09-19", "date_precision": "day", "system": "Democracy Hub", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

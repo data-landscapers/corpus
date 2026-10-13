@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says Zimbabwe experienced network degradation during its 2023 elections; the document does not say who ordered it, where, or when it ended.", "as_of": "2023", "date_precision": "year", "system": "2023 election network degradation", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Offences of false information, cyberbullying, incitement, insulting the President, sovereignty and national interest", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Says journalists and critics in Zimbabwe face arrest generally, with no person, date or case named, so no penalty fact; the Uganda shutdown is not ZWE. The UPR submission by ZLHR and partners is itself civil-society criticism but of no named policy, bill or decision."
+}

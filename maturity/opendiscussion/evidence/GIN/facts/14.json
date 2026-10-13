@@ -1,0 +1,27 @@
+{
+  "slug": "2026-08-07-guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "Jeune Afrique reports Facebook, TikTok and YouTube have been inaccessible in Guinea since 28 July 2026, with difficulties on WhatsApp; VPN users get through, which it reads as a deliberate block, and neither the government nor the regulator ARPT has answered; it names no order and gives no end date.",
+      "as_of": "2026-07-28",
+      "date_precision": "day",
+      "system": "Facebook, TikTok, YouTube and WhatsApp access",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Union pour la defense des consommateurs de Guinee and the Association des blogueurs de Guinee (Ablogui) demand an immediate return of access to all social networks, citing freedom of expression and the right to information; dated by the document's publication (2026-08-07), no earlier date given.",
+      "as_of": "2026-08-07",
+      "date_precision": "day",
+      "system": "Social media restriction of 28 July 2026",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": "The 2021-era three-month digital cut owned by a government spokesman is mentioned without a date, so no fact; the army communique on disinformation is not a fact on these aspects."
+}

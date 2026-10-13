@@ -1,0 +1,20 @@
+{
+  "slug": "2025-01-24-social-media-shutdown-cpj",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "On 22 January 2025 the National Communication Authority directed all internet service providers to block access to all social media accounts for 30 to 90 days after unrest over footage of killings in Sudan; Zain and MTN told users Facebook and TikTok were no longer accessible, and CPJ's sources said both were unreachable without a VPN on 23 January; the regulator's director general said on 23 January it might be lifted within 72 hours.",
+      "as_of": "2025-01-22",
+      "date_precision": "day",
+      "system": "Facebook and TikTok (social media block ordered by the National Communication Authority)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {"system": "Facebook", "country_label": "Facebook", "class": "discussion", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TikTok", "country_label": "TikTok", "class": "discussion", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

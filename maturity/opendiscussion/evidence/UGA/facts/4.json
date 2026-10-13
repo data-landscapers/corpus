@@ -1,0 +1,27 @@
+{
+  "slug": "2025-12-05-govt-signals-social-media-clampdown-elections",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "The document says that in January 2021, just before the general election, the government ordered a block on Facebook, Twitter, Instagram, WhatsApp and other social media and messaging apps, followed by a complete internet blackout; all platforms except Facebook were reopened when service returned days later.",
+      "as_of": "2021-01",
+      "date_precision": "month",
+      "system": "2021 election internet blackout and social media block",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "The document says Facebook remained officially restricted in Uganda as of 2024, though many users reach it through VPNs.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Facebook restriction",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": "The December 2025 signal of possible social media restrictions is a warning, not a cut, so no fact for it."
+}

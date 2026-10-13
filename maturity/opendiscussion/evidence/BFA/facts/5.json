@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-14-sahel-mfwa-cybercrime-laws-press-freedom",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The MFWA report, as relayed by The Nation, cites the suspension of international broadcasters in Burkina Faso (with Mali and Niger) over alleged bias; no date or outlet named, and the report spans six years, so as_of is the document's published date.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "suspension of international broadcasters",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "The MFWA report cites the suspension of critical media outlets in Burkina Faso (with Guinea); no date or outlet named, and the report spans six years, so as_of is the document's published date.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "suspension of critical media outlets",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Abducted journalists conscripted to conflict zones are cited for BFA without date, name or authority, so no fact; cybercrime-law criticism is a law with no BFA person charged (other)."
+}

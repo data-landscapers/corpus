@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-21-lbr-newdawn-koung-seeks-release-ai-image-suspect",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The New Dawn reports that police confirmed over the weekend before 21 September 2026 the arrest of Jerry Nyantee Wrotto under the Cybercrime Act for allegedly creating and sharing AI-generated images and videos of Vice President Koung; the Vice President asked for his immediate release and no court had ruled on the conduct.", "as_of": "2026-09", "date_precision": "month", "system": "Jerry Nyantee Wrotto", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Act of 2025", "country_label": "Cybercrime Act", "class": "discussion", "platform": "", "owner": "Government of Liberia (signed by President Boakai on 2026-08-19)", "tiers": ""}
+  ],
+  "note": "Criticism of the arrest comes from individuals (a former minister, a lawyer), not a named paper, party, body or group, so no debate fact."
+}

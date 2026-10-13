@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-24-kenya-gachagua-iebc-election-tech-tender-nation",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "Rigathi Gachagua, leader of the Democracy for Citizens Party, told reporters at Wamunyoro in Kenya on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for one company; the commission is a public body, and he also attacked the Ruto administration's taxation and security record.",
+      "as_of": "2026-08-24",
+      "date_precision": "day",
+      "system": "Democracy for Citizens Party",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": "One criticism fact; whether the IEBC tender counts as a government decision is for the parent to judge."
+}

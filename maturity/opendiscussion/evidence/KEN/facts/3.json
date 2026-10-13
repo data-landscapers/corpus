@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Access Now counts three internet shutdowns in Kenya in 2025, including an exam-time block of Telegram, the third year running, which is now being litigated; who ordered it and its dates are not given.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "Telegram", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

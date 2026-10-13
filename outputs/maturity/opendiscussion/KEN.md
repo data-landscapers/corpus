@@ -1,0 +1,13 @@
+# Kenya
+
+## Freedom to discuss policy online and in the press
+
+**Public criticism of government policy.** The Bloggers Association of Kenya [returned to court in 2025 to challenge the amendment to the Computer Misuse and Cybercrimes Act](<https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/>). On 4 September 2026 the Consumer Federation of Kenya [won a High Court order quashing the Attorney-General's opinion clearing the Digital Superhighway tenders](<https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184>), and on 24 August 2026 an opposition leader [said the electoral commission's contract specifications were tailor-made for one company](<https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838>).
+
+**Cuts and blocks, and a bar on them.** Access Now [counts three internet shutdowns in Kenya in 2025](<https://www.accessnow.org/internet-shutdowns-2025/>), including an exam-time block of Telegram, the third year running, now being litigated. KICTANet's network [ran its first rapid-response protocol during a 2024 Telegram shutdown](<https://www.kictanet.or.ke/kensafespace-advocacy-goals-communications-strategy/>). No held source gives a law or court ruling that bars cuts.
+
+**Punishment for speech, and its removal.** Kenya's Court of Appeal [struck down the sections of the Computer Misuse and Cybercrimes Act on false publication](<https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/>); the sections [carried fines up to KSh 5 million and up to ten years in prison](<https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne>), and the National Assembly has appealed to the Supreme Court. Neither article gives the ruling's date.
+
+***Noted, not assessed***. [Ibrahim Index of African Governance, Media Freedom indicator](<https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ke.pdf>); [the Joint Framework for Digital Platform Governance, proposed by the Communications Authority with UNESCO](<https://www.unesco.org/en/articles/kenya-charts-path-towards-coordinated-digital-platform-governance>); [the Computer Misuse and Cyber Crimes Act 2018](<https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf>).
+
+***Not held***. No law, ruling of the country's own court or undertaking given in court in the last three years bars the government from cutting the internet.

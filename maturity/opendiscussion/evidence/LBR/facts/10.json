@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-31-smartnewsliberia-lta-revenue-disclosure-pressure",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "Smart News Liberia reports that the Center for Transparency and Accountability in Liberia and other civil society groups, with journalists, press the Liberia Telecommunications Authority chairman to disclose revenue from the International Gateway Monitoring System, which he has refused to do; as_of is the document's published date.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "LTA refusal to disclose International Gateway Monitoring System revenue",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "International Gateway Monitoring System",
+      "country_label": "International Gateway Monitoring System",
+      "class": "other",
+      "platform": "",
+      "owner": "Liberia Telecommunications Authority (temporary management)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

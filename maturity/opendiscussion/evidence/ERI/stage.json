@@ -1,0 +1,17 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "1",
+   "debate": "silenced",
+   "connection": "",
+   "penalty": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

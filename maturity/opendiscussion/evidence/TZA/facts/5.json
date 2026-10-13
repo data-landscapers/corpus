@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-21-kimambi-v-meta-complaint-san-mateo",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The complaint filed 21 August 2026 states that the Tanzanian government shut down the internet nationwide around the 29 October 2025 election and protests; this is the plaintiff's allegation, with no end date given.", "as_of": "2025-10", "date_precision": "month", "system": "nationwide internet shutdown", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The complaint states that in the lead-up to the October 2025 election Tanzanian authorities blocked the platforms where Tanzanians could still speak freely, without naming them; this is the plaintiff's allegation.", "as_of": "2025-10", "date_precision": "month", "system": "blocked online platforms before the 2025 election", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The complaint states that in the lead-up to the October 2025 election the leader of the opposition was jailed on capital charges for calling for electoral reforms; this is the plaintiff's allegation, and no law is named.", "as_of": "2025", "date_precision": "year", "system": "opposition leader jailed on capital charges", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Meta account suspensions (Instagram)", "country_label": "", "class": "other", "platform": "", "owner": "Meta", "tiers": ""}
+  ],
+  "note": "Abductions of critics and the Attorney General's vow to arrest the plaintiff are not arrests or charges for speech; the account takedown is a takedown request (other). Complaint text is an excerpt (introduction only)."
+}

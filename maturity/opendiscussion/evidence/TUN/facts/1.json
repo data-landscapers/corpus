@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-tunisie-nawaat-decret-54-article-86-haythem-el-mekki",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The Sfax Court of Appeal sentenced journalist Haythem El Mekki to one year in prison on 15 July 2026, requalifying the case from Decree-Law 54 to Article 86 of the Telecommunications Code, over a social-media post on the situation at a Sfax hospital (complaint by the hospital); a first-instance court had dismissed it.", "as_of": "2026-07-15", "date_precision": "day", "system": "Haythem El Mekki", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Lawyer and commentator Sonia Dahmani was arrested in May 2024 and later convicted several times for remarks made on broadcast programmes, per Nawaat.", "as_of": "2024-05", "date_precision": "month", "system": "Sonia Dahmani", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Journalists Borhen Bsaies and Mourad Zeghidi were sentenced to one year in prison, reduced to eight months, for statements under Decree-Law 54; the document gives no date for the sentence, so the document's publication date 2026-07-16 is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "Borhen Bsaies and Mourad Zeghidi", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Abir Moussi, president of the Free Destourian Party, was sentenced to two years in prison for spreading false news about the electoral authority; the document gives no date for the sentence, so the document's publication date 2026-07-16 is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "Abir Moussi", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The National Union of Tunisian Journalists (SNJT), with Human Rights Watch, Amnesty International and RSF, denounced Decree-Law 2022-54 as a tool of repression, and the SNJT called for the annulment of the El Mekki judgment; the SNJT is inside the country; the criticism is reported in the document dated 2026-07-16.", "as_of": "2026-07-16", "date_precision": "day", "system": "Decree-Law 2022-54", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Decree-Law 2022-54", "country_label": "décret-loi n° 2022-54", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Telecommunications Code Article 86", "country_label": "article 86 du code des télécommunications", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-chad-amet-online-media-regulation-response",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Association des Medias en Ligne du Tchad (AMET) said in a communique of 5 August 2026 that the regulator HAMA's suspension of applications to create new media must respect press freedom and citizens' right to pluralistic information, while backing action against fake pages.", "as_of": "2026-08-05", "date_precision": "day", "system": "HAMA suspension of applications to create new media", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "HAMA suspension of applications to create new media", "country_label": "suspension des demandes de creation de nouveaux medias", "class": "other", "platform": "", "owner": "HAMA", "tiers": ""}
+  ],
+  "note": ""
+}

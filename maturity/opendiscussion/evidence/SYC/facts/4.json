@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-11-seychelles-afrobarometer-media-oversight-access-information",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RSF World Press Freedom Index 2026",
+      "country_label": "RSF World Press Freedom Index",
+      "class": "other",
+      "platform": "",
+      "owner": "Reporters Without Borders",
+      "tiers": ""
+    },
+    {
+      "system": "Seychelles Broadcasting Corporation Act amendment, June 2026",
+      "country_label": "SBC Act amendment",
+      "class": "other",
+      "platform": "",
+      "owner": "Parliament of Seychelles",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: critics of the June 2026 SBC Act amendment are not named as inside-country groups; the 2025 expulsion of an editor (CIVICUS, undated) is not arrest, charge, conviction, jailing or closure; the 2022 press-conference bar is not punishment; the RSF rank is an index score."
+}

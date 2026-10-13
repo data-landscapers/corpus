@@ -1,0 +1,16 @@
+{
+  "slug": "2026-08-05-keepiton-government-of-zambia-must-uphold-human-rights-and-ensure-unrestricted-internet-access",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Access Now says Zambian authorities reportedly blocked WhatsApp, Facebook, Twitter and Instagram during the 12 August 2021 elections, and the block was lifted after civil society challenged the order in court.",
+     "as_of": "2021-08-12", "date_precision": "day", "system": "Social media and messaging block of 12 August 2021", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "barred",
+     "fact": "Access Now says that after the 2021 block the regulator ZICTA entered a consent judgment undertaking not to act outside its authority to interrupt internet access and to give the reason for any future interruption within 36 hours; the letter urges the government to honour it. The document gives no date for the judgment, so its published date is used as when the undertaking stood.",
+     "as_of": "2026-08-05", "date_precision": "day", "system": "ZICTA consent judgment", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cyber Crimes Act", "country_label": "Cybercrimes Act", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Act 2025", "country_label": "Cybersecurity Act", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Undated or disputed items give no fact: the 2016 disruptions, the 2020 two-day shutdown whose cause the government put down to rain, undated blocking of media websites, and unnamed arrests for criticism; the joint letter is Access Now's, so no in-country criticism fact is taken."
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2026-07-28-kictanet-kensafespace-ends-digital-rights-network",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed",
+     "fact": "Two sections of Kenya's Computer Misuse and Cybercrimes Act that criminalised false publication, with fines up to five million shillings or two years in prison, were struck down as unconstitutional by the Court of Appeal in a case brought by the Bloggers Association of Kenya; the ruling's date is not given, so the article's publication date is used.",
+     "as_of": "2026-07-28", "date_precision": "day",
+     "system": "Computer Misuse and Cybercrimes Act, false publication sections", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "barred",
+     "fact": "During the court challenge to the 2025 amendment of the Act, the coalition secured a conservatory order blocking the government from shutting down the internet entirely; the exact date is not given, only 2025, and the case has not had a full hearing.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "Conservatory order against an internet shutdown", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "The Bloggers Association of Kenya returned to court in 2025 to challenge the amendment to the Computer Misuse and Cybercrimes Act, and its lawyer said government and policymakers have tried to turn civil defamation into criminal defamation.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "Computer Misuse and Cybercrimes Act, 2025 amendment", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The 2025 rulings on the committee's power to shut websites without judicial oversight and on the suicide-speech provision are not a listed speech offence or a cut, so no fact."
+}

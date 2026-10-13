@@ -1,0 +1,27 @@
+{
+  "slug": "2026-08-04-guinee-bany-sidibe-denonce-restrictions-reseaux-sociaux-degradation-internet",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "Consumer union president Bany Sidibe says Facebook, TikTok, YouTube and WhatsApp have been restricted and national bandwidth sharply reduced for some time, attributes it to decisions of the public authorities, and says operators told him they were compelled to comply; he says it is not a total internet cut.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Social media restrictions and reduced bandwidth",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Union pour la defense des consommateurs, through its president Bany Sidibe, publicly denounces the social media restrictions as a state decision harming consumers' right to information and asks the authorities, including the National Assembly, to restore access.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Social media restrictions and reduced bandwidth",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

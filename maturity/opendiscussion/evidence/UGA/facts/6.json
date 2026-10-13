@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-26 The cost of Uganda's internet shutdown",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Uganda Communications Commission ordered the internet shut down nationwide on the evening of 13 January 2026, two days before the presidential election; the blackout lasted four days and access was restored a day after the Electoral Commission declared the winner, though State House, Parliament, security services, banks and hospitals stayed online.", "as_of": "2026-01-13", "date_precision": "day", "system": "Internet (nationwide shutdown, January 2026)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "After the internet was restored, social media and messaging apps stayed blocked, reachable only by VPN more than a week later, and the UCC Executive Director said they remained restricted to safeguard public order; date is the article's published date, 2026-01-26.", "as_of": "2026-01-26", "date_precision": "day", "system": "Social media and messaging apps", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Uganda Law Society condemned the UCC's internet shutdown, its vice president saying no state of emergency had been declared so the order was illegal, null, void and unconstitutional; the statement is undated, so the article's published date is used.", "as_of": "2026-01-26", "date_precision": "day", "system": "UCC internet shutdown order", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The president of the Uganda Medical Association wrote on 22 January 2026 that the internet and mobile money disruptions had created significant obstacles for the medical community.", "as_of": "2026-01-22", "date_precision": "day", "system": "UCC internet shutdown order", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Internet shutdown order (UCC, January 2026)", "country_label": "Internet shutdown", "class": "discussion", "platform": "", "owner": "Uganda Communications Commission", "tiers": "national; applied through MTN Uganda and Airtel Uganda"}
+  ],
+  "note": "A lawsuit by two lawyers against UCC, the operators and the Attorney General is filed but undecided, so no barred fact."
+}

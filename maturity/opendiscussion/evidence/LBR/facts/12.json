@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-04-lta-revenue-secrecy-raises-transparency-questions",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Liberian Observer reports that the Center for Transparency and Accountability in Liberia's executive director said nothing about resources generated should be secret, criticising the Liberia Telecommunications Authority chairman's refusal on 30 July 2026 to disclose its annual revenue; as_of is the document's published date.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "LTA refusal to disclose annual revenue",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

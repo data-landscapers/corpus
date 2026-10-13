@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-18-ucc-press-briefing-restoration-of-public-internet-access",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "In a briefing on 18 January 2026 the UCC executive director said general public internet access, including news websites, was restored from midnight, while social media platforms and messaging/OTT applications remained restricted under the directive to all licensed mobile network operators and internet service providers, after a suspension recommended by the Inter-Agency Security Committee.", "as_of": "2026-01-18", "date_precision": "day", "system": "Social media and OTT messaging block, Uganda", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

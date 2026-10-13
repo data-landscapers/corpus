@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-25-afrobarometer-ad1223-zambians-media-freedom",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed",
+     "fact": "Afrobarometer says Zambia repealed the offence of criminally defaming the president since 2021, citing National Assembly sources; the dispatch gives no repeal date, so its published date is used.",
+     "as_of": "2026-08-25", "date_precision": "day", "system": "Criminal defamation of the president", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cyber Crimes Act", "country_label": "Cyber Crimes Act", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Act 2025", "country_label": "Cyber Security Act", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "World Press Freedom Index 2026 rank", "country_label": "Zambia 77th of 180", "class": "other", "platform": "", "owner": "Reporters Without Borders", "tiers": ""}
+  ],
+  "note": "Survey results, the index rank, the access-to-information act and the February 2022 ruling that the Post closure was illegal give no fact in this study's values; undated mentions of harassment and detention of journalists name no one."
+}

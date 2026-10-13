@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-26-ucc-public-notice-full-restoration-of-internet-services",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Uganda Communications Commission announced that internet services were fully restored across the country, without the previously imposed restrictions, ending the period of limited access; the notice carries no printed date and the date is the publisher's upload date.", "as_of": "2026-01-26", "date_precision": "day", "system": "Nationwide internet restrictions after the January 2026 election (social media and OTT block)", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

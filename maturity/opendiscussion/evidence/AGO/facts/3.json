@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-angola-false-information-law-in-force-civil-society",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Jaime Domingos, a jurist and member of the civic movement Mudei, said the false-information law's definition is unclear and was created to deter citizens from taking part in public life, and several NGOs plan a court challenge with the bar association; no event date is given, so the document's published date is used.", "as_of": "2026-08-10", "date_precision": "day", "system": "Lei contra as informacoes falsas na internet", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Lei contra as informacoes falsas na internet", "country_label": "loi contre les fausses informations sur internet", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

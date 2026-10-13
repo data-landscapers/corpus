@@ -1,0 +1,31 @@
+{
+  "slug": "2026-09-15-ner-modernghana-media-adjustment-regulation-control",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says Niger's media regulator ONC suspended nine French-language outlets (including AFP, TV5 Monde, Jeune Afrique, Mediapart and TF1 Info) in a single order in May 2026, citing threats to public order, national unity and the stability of republican institutions.",
+     "as_of": "2026-05", "date_precision": "month", "system": "ONC suspension of nine French-language media outlets", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says investigative editor Ali Soumana of Le Courrier was jailed in September 2025 after a complaint from the Prime Minister over a customs-fraud report (defamation complaint).",
+     "as_of": "2025-09", "date_precision": "month", "system": "Ali Soumana (Le Courrier)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says the BBC was suspended in Niger in December 2024; the document gives no reason for the suspension.",
+     "as_of": "2024-12", "date_precision": "month", "system": "BBC suspension", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says Soumana Maiga of L'Enquêteur was arrested in April 2024 and charged with harming national defence after his paper reported on Russian listening equipment allegedly installed on state buildings.",
+     "as_of": "2024-04", "date_precision": "month", "system": "Soumana Maiga (L'Enquêteur)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says the Ministry of the Interior forced the Maison de la Presse, the umbrella body of journalists' associations, to shut down in January 2024 after it spoke out against post-coup press violations.",
+     "as_of": "2024-01", "date_precision": "month", "system": "Maison de la Presse", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says Samira Sabou was detained incommunicado for eight days in September 2023 over reporting deemed likely to disturb public order.",
+     "as_of": "2023-09", "date_precision": "month", "system": "Samira Sabou", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "ModernGhana says the signals of RFI and France 24 were cut within a week of the July 2023 coup; the document gives no reason.",
+     "as_of": "2023-07", "date_precision": "month", "system": "RFI and France 24 signals", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "RSF World Press Freedom Index 2026", "country_label": "", "class": "other", "platform": "", "owner": "Reporters Without Borders", "tiers": ""},
+    {"system": "Council of Ministers media framework of 2026-09-10 (foreign correspondent accreditation; identification of online publishers)", "country_label": "", "class": "other", "platform": "", "owner": "Council of Ministers", "tiers": ""}
+  ],
+  "note": "Moussa Kaka's disappearance since 2026-08-31 is not an arrest and gives no fact; the September 2026 accreditation and identification ordinance is a licence-type rule (other)."
+}

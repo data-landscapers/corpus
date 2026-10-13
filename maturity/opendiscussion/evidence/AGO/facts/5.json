@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-06-angola-lei-informacoes-falsas-diario-republica",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "UNITA, the largest opposition party, voted against the false-information bill in the National Assembly (105 for, 72 against), saying through deputy Mihaela Webba that it persecutes journalists and threatens public debate; the vote was in May 2026, no day given.", "as_of": "2026-05", "date_precision": "month", "system": "Lei Contra Informacoes Falsas na Internet", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Lei Contra Informacoes Falsas na Internet (Lei n.o 6/26)", "country_label": "Lei n.o 6/26, Diario da Republica I Serie n.o 146, 4 August 2026", "class": "other", "platform": "", "owner": "Executive; National Assembly", "tiers": ""}
+  ],
+  "note": ""
+}

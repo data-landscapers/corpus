@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-18-govt-restores-partial-internet-social-media-blocked",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "New Vision reports the UCC executive director said the government shut down internet access before, during and after the general election on the recommendation of the Interagency Security Committee, and that from midnight 17 January 2026 general internet was restored but social media platforms and OTT messaging apps stayed restricted, with a warning that users bypassing the block by VPN could have devices blocked.", "as_of": "2026-01-18", "date_precision": "day", "system": "Social media and OTT messaging block, Uganda", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

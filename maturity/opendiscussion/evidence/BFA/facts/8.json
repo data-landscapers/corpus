@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-11-bfa-cnpnz-droits-numeriques-2024-cil-aucun-rapport",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Centre national de presse Norbert Zongo's digital-rights report says that in 2024 the suspension of certain international media continued to cover their online access, and the online platforms of RFI, France 24, Jeune Afrique and Le Monde, among others, remained inaccessible in Burkina Faso; the document does not name the ordering body or an end date.", "as_of": "2024", "date_precision": "year", "system": "Online platforms of RFI, France 24, Jeune Afrique and Le Monde", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Loi organique N°041-2023/ALT (CSC powers over social media users with at least 5,000 followers)", "country_label": "loi organique 041-2023/ALT", "class": "other", "platform": "", "owner": "Conseil supérieur de la communication (CSC)", "tiers": ""}
+  ],
+  "note": "The 2023 organic law extending CSC regulation to social-media users above 5,000 followers is a speech rule with no one reported charged in this passage, so it gives no fact."
+}

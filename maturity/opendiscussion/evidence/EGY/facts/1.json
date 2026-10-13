@@ -1,0 +1,25 @@
+{
+  "slug": "2025-11-12-freedom-on-the-net-2025-egypt",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Freedom House reports the news site Cairo 24 was blocked in Egypt in November 2024 with no explanation from authorities, within a wider blocking of news websites by the Supreme Council for Media Regulation.",
+     "as_of": "2024-11", "date_precision": "month", "system": "Cairo 24", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Freedom House reports the Brussels-based independent Egyptian outlet Zawia3 was blocked in Egypt in February 2025, within a wider blocking of news websites by the Supreme Council for Media Regulation.",
+     "as_of": "2025-02", "date_precision": "month", "system": "Zawia3", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Freedom House reports a long-standing ban on Voice over Internet Protocol services such as WhatsApp or Viber calling had not been lifted by the end of its coverage period, despite a late-2024 announcement by the telecom regulator NTRA of plans to lift it, and several VoIP services remained inaccessible; the document gives no date for this beyond its publication (2025-11-12).",
+     "as_of": "2025-11-12", "date_precision": "day", "system": "VoIP services ban (WhatsApp, Viber calling)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "Freedom House, citing Amnesty International and Human Rights Watch, reports more than 100 people were arbitrarily detained in June and July 2024 after using social media to call for protests over power cuts and rising prices.",
+     "as_of": "2024-07", "date_precision": "month", "system": "Detention of people who used social media to call for protests", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "Freedom House reports that in September 2024 authorities added two years to the five-year prison sentence of the prodemocracy blogger Alaa Abdel Fattah days before his scheduled release, as an example of internet users arrested for their online activity.",
+     "as_of": "2024-09", "date_precision": "month", "system": "Alaa Abdel Fattah", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Freedom on the Net 2025 scores (A 14/25, B 9/35, C 5/40)", "country_label": "", "class": "other", "platform": "", "owner": "Freedom House", "tiers": ""},
+    {"system": "Refusal of licence to Fakartany by the Supreme Council for Media Regulation (October 2024)", "country_label": "", "class": "other", "platform": "", "owner": "Supreme Council for Media Regulation", "tiers": ""}
+  ],
+  "note": "No debate fact: no named in-country outlet or group is stated criticising a named policy. Ashraf Omar (Al-Manassa cartoonist, arrested July 2024) gives no fact because the document does not say what he said or published. Alaa Abdel Fattah's September 2025 pardon is a release, not a penalty. Power outages and the Fakartany licence refusal are not cuts by order or are class other."
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2024-09-19-sudan-internet-in-conflict-timep",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "TIMEP says military actors imposed a weeks-long internet blackout during the June 2019 Khartoum massacre; the document gives no day, so the month is used.",
+     "as_of": "2019-06", "date_precision": "month", "system": "Internet blackout during June 2019 Khartoum massacre", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "TIMEP says the authorities imposed at least four internet disruptions during the 30 June 2022 protests demanding a return to civilian rule.",
+     "as_of": "2022-06-30", "date_precision": "day", "system": "Internet disruptions during 30 June 2022 protests", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "TIMEP says that hours after the war began on 15 April 2023 MTN Sudan cut internet services at the request of the government telecommunications regulator, a 60 percent drop in traffic across the country.",
+     "as_of": "2023-04-15", "date_precision": "day", "system": "MTN Sudan internet service", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "TIMEP says a month-long countrywide internet blackout began in February 2024 after the RSF seized ISP data centres in Khartoum, that connectivity began to recover in early March, and that the RSF reportedly refused restoration in areas it controls; it says both RSF and SAF use shutdowns as a tool of control, and no government order for this blackout is stated.",
+     "as_of": "2024-02", "date_precision": "month", "system": "Countrywide internet blackout of February 2024 (MTN, Zain Sudan, Sudani)", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Arrests and confiscation of Starlink users are for unauthorised equipment, not speech, so no penalty fact; the 23 April 2023 Sudatel and Zain outages are put down to a data-centre occupation, not an order, so no fact."
+}

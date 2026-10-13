@@ -1,0 +1,64 @@
+{
+  "slug": "2026-08-20-ipi-mali-cybercrime-provisions-target-journalists",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Journalist Abdrahamane Keita of Le Temoin was detained on 9 June 2026 over comments on the security situation in northern Mali made on a live media programme, and charged with undermining national unity and the credibility of the state and disseminating false information, says IPI.",
+      "as_of": "2026-06-09",
+      "date_precision": "day",
+      "system": "Abdrahamane Keita (Le Temoin)",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Journalist Chahana Takiou, editor of 22 Septembre, was sentenced on 3 August 2026 to 12 months in prison, six suspended, and fined, for undermining the credibility of the state; he had been arrested in June 2026 by the National Cybercrime Unit after criticising its use against journalists at the Pan-African Media Forum in Bamako, says IPI.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Chahana Takiou (22 Septembre)",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Radio and television commentator Mohamed Youssouf Bathily (Ras Bath) was arrested in March 2023 after public comments about the death in custody of a former prime minister and has been in detention since, says IPI.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Mohamed Youssouf Bathily (Ras Bath)",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "The trial of Mohamed Youssouf Bathily (Ras Bath) began on 10 August 2026 on charges of criminal association and undermining the credibility of the state through information and communication technologies, says IPI.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Mohamed Youssouf Bathily (Ras Bath)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Penal Code amendment of December 2024 (provisions of the 2019 cybercrime law)",
+      "country_label": "Code penal",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Pole national de lutte contre la cybercriminalite",
+      "country_label": "Pole national de lutte contre la cybercriminalite",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "December 2024 penal code amendment is not a repeal; no fact. Keita 31 August trial date postponement is not a fact."
+}

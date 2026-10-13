@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-ner-gouv-conseil-ministres-presse-electronique-correspondants",
+  "facts": [],
+  "systems": [
+    {"system": "Projet d'ordonnance relative à la presse électronique", "country_label": "ordonnance relative à la presse électronique", "class": "other", "platform": "", "owner": "Government of Niger / ONC", "tiers": ""},
+    {"system": "Projet de décret sur le correspondant de presse et l'accréditation des organes de presse étrangers", "country_label": "décret d'accréditation des médias étrangers", "class": "other", "platform": "", "owner": "Government of Niger / ONC", "tiers": ""}
+  ],
+  "note": "Council of Ministers adopted draft online-press ordinance and foreign-press accreditation decree: licence/regulation rules, class other; no cut, punishment, repeal or named critic is stated."
+}

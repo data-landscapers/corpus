@@ -93,7 +93,15 @@
       "subject": "gov.discourse",
       "text": "Open discussion of government policy: freedom to discuss policy online and in the press",
       "indicator_id": "gov.discourse--open-discussion-of-government-policy-freedom-to-discuss-policy-online-and-in-the-press",
-      "class": "discussion"
+      "class": "discussion",
+      "criteria": [
+        "In the past twelve months the government, a regulator or the security forces cut the internet or blocked a social media service, messaging service or news site, anywhere in the country; or a source from the past three years says no independent newspaper, broadcaster or news site is allowed to work.",
+        "In the past three years a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and no cut is on record in the past twelve months.",
+        "A source says the country went the past twelve months with no one arrested, charged or jailed, and no outlet suspended or closed, for what was said or published. One such arrest or closure in the twelve months holds a country at stage 2.",
+        "In the past three years parliament repealed, or a court of the country struck down, an offence of criminal defamation, false news, sedition or insulting the head of state.",
+        "In the past three years a law, a ruling of the country's own court that a cut was unlawful, or an undertaking given in court barred the government from cutting the internet."
+      ],
+      "criteria_of": "2bd2d9219b31"
     }
   ],
   "classes": [

@@ -1,0 +1,17 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "2",
+   "debate": "criticised",
+   "connection": "",
+   "penalty": "punished",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-014;NGA-013",
+   "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

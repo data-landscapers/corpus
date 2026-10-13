@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-10-csec-coalition-engages-parliamentarians-education-financing",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Civil Society Education Coalition (CSEC) with ActionAid Malawi, Oxfam in Malawi, FAWEMA and Sightsavers told parliamentary committees the government's proposed K1.3 trillion 2026/27 education budget falls short of the 20 percent UNESCO benchmark, and ActionAid criticised the cut to early childhood development funding in it.",
+      "as_of": "2026-03-09",
+      "date_precision": "day",
+      "system": "2026/27 national budget education allocation",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-isoc-pulse-uganda-january-2026-shutdown-record",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Uganda Communications Commission ordered a temporary suspension of internet access nationwide (broadband and mobile) from 13 January 2026, ahead of the 15 January general election, with exemptions for critical infrastructure such as the UIXP; the record gives the end as 17 January 2026 20:00 UTC, a duration of 4 days 5 hours.", "as_of": "2026-01-13", "date_precision": "day", "system": "National internet access (broadband and mobile), January 2026 election shutdown", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The 1 January 2026 Starlink disablement is stated as following a UCC request, not an order, so no fact is taken; the 2021 shutdown is mentioned only as history without a date of its own."
+}

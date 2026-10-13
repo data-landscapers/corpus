@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-17-zambia-misa-regional-media-digital-rights-statement",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed",
+     "fact": "MISA Regional says Zambia repealed the offence of criminal defamation of the president, though defamation stays criminal under other Penal Code provisions; the statement gives no date for the repeal, so the document's published date is used.",
+     "as_of": "2026-08-17", "date_precision": "day", "system": "Criminal defamation of the president", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cyber Crimes Act", "country_label": "Cyber Crimes Act (CCA)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Act 2025", "country_label": "Cyber Security Act", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "ZNBC journalist McPherson Mukuka's two-week detention under the Cyber Crimes Act was for allegedly recording a private conversation, not for what was said or published, so no fact; MISA Regional is a regional body, and the claimed state-media bias and election-day attacks are not criticism or punishment facts."
+}

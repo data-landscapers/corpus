@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-08-mwi-nyasatimes-macra-social-media-monitoring-oversight",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "Digital Governance Associates Malawi, a civil society group, questioned Hashcom's technical capacity and called for transparency over MACRA's $1.5 million social media monitoring contract, in a letter to the ombudsman, the human rights commission and the PPDA; civil society groups also challenged the procurement's legality and called for its suspension.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "MACRA social media monitoring contract with Hashcom Ghana Limited",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MACRA social media monitoring system (Hashcom)",
+      "country_label": "social media monitoring system",
+      "class": "other",
+      "platform": "",
+      "owner": "MACRA",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

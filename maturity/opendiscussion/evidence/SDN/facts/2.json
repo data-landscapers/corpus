@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-17-weeklyvision-sudan-journalist-detained-cybercrime-act",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "The Sudanese Journalists Syndicate condemned the detention of journalist Gurashi Awad as an infringement of press freedom and called for the immediate repeal of the 2007 Cybercrime Act, which it described as restrictive of fundamental liberties.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "Cybercrime Act 2007",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cybercrime Act 2007",
+      "country_label": "Cybercrime Act 2007",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No penalty fact: journalist Gurashi Awad was arrested on 2026-08-13 on an intelligence officer's cybercrime complaint, but the document does not say what he published or said."
+}

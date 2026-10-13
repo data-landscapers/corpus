@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-19-gha-myjoyonline-jollof-case-section-208-selective",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Senior nursing officer Salomey Awiti Baffoe was arrested and remanded over alleged links to UK-based TikTok user 'Ghana Jollof', accused by the CID of circulating false information (Section 208, Criminal and Other Offences Act); the document gives no arrest date, so as_of is its published date, and does not quote what she posted.", "as_of": "2026-09-19", "date_precision": "day", "system": "Salomey Awiti Baffoe", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Assin South MP Rev. John Ntim Fordjour (New Patriotic Party, as the document's entities list) said on JoyNews' Newsfile on 19 September 2026 that Section 208 is applied selectively against government critics and criticised the CID's press conference on the arrest of Salomey Awiti Baffoe.", "as_of": "2026-09-19", "date_precision": "day", "system": "Section 208 of the Criminal and Other Offences Act (enforcement by the CID)", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Section 208, Criminal and Other Offences Act (false publication)", "country_label": "Section 208 of the Criminal and Other Offences Act", "class": "other", "platform": "", "owner": "Ghana Police Service CID", "tiers": ""}
+  ],
+  "note": "Criticiser is an individual opposition MP, not a named party statement; parent to judge if it meets 'party'."
+}

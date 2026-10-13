@@ -1,0 +1,17 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "2",
+   "debate": "criticised",
+   "connection": "",
+   "penalty": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-002",
+   "gaps": "No source says the country went the last twelve months with no one punished for what they said or published.",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

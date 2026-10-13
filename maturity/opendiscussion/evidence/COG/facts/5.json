@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23-unesco-evaluation-developpement-internet-republique-du-congo-roam-x",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The UNESCO ROAM-X assessment says access to the internet and to social networks was restricted nationwide during the presidential election of 21 March 2021, citing NetBlocks; it does not say who ordered the cut or when it ended.", "as_of": "2021-03-21", "date_precision": "day", "system": "Internet and social networks, election day 2021", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Intimidation and detention of defenders and journalists, and censorship by authorities and Conseil Supérieur de la Liberté de Communication decisions, are stated without date, name or reason, so give no fact; the absence of an access-to-information law and the cybercrime and data-protection laws are other."
+}

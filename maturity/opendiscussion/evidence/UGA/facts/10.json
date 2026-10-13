@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "During the January 2026 general elections the government imposed an internet shutdown lasting almost five days.", "as_of": "2026-01", "date_precision": "month", "system": "Internet (nationwide shutdown, January 2026)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The document says Uganda disrupted digital communications in the 2021 elections, a similar measure to those of 2016 and January 2026; no detail given, and the year is the election year.", "as_of": "2021", "date_precision": "year", "system": "Digital communications (2021 election)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The document says Uganda disrupted digital communications in the 2016 elections; no detail given, and the year is the election year.", "as_of": "2016", "date_precision": "year", "system": "Digital communications (2016 election)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed", "fact": "The document says Ugandan courts have registered decisions annulling criminal defamation offences, alongside provisions of the Computer Misuse (Amendment) Act 2022; it gives no date or case, so the published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Criminal defamation offences (annulled by Ugandan courts)", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Computer Misuse (Amendment) Act, 2022", "country_label": "Computer Misuse (Amendment) Act, 2022", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Arrests and prosecutions of journalists and activists are stated in general terms with no named person or date, so no punished fact."
+}

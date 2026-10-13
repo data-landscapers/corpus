@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-cipesa-mozambique-internet-shutdown-african-courts",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says Togo had a three-day internet shutdown during the 2017 protests, which the ECOWAS Community Court of Justice later found violated freedom of expression because national law did not authorise it, and it ordered compensation to the applicants.", "as_of": "2017", "date_precision": "year", "system": "Togo three-day internet shutdown during the 2017 protests", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The ECOWAS Court is a regional court, not Togo's own, so no barred fact; ruling date not given. Other countries' cases not recorded."
+}

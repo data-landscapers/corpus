@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-21-lei-contra-fake-news-aprovada-definitivamente",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "UNITA, the main opposition party, voted against the bill against false information on the internet in the National Assembly on 21 May 2026, saying it opens room to criminalise journalists and users and threatens public debate; MPLA, PRS and PHA passed it with 105 votes.",
+      "as_of": "2026-05-21",
+      "date_precision": "day",
+      "system": "Lei contra Informações Falsas na Internet (bill)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lei n.º 6/26 contra Informações Falsas na Internet",
+      "country_label": "Lei contra as Informações Falsas na Internet",
+      "class": "other",
+      "platform": "",
+      "owner": "Assembleia Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

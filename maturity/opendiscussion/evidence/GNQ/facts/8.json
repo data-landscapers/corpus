@@ -1,0 +1,60 @@
+{
+  "slug": "2026-09-16-gnq-seneweb-coupure-facebook-tiktok",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "AFP reported that since 2026-09-02 internet bandwidth in Equatorial Guinea was limited and Facebook and TikTok were inaccessible without a VPN, with WhatsApp and Instagram working only in limited form; the source does not say who ordered it and the information minister did not answer AFP; the report is dated 2026-09-16 and gives no end date.",
+      "as_of": "2026-09-02",
+      "date_precision": "day",
+      "system": "Facebook and TikTok",
+      "class": "discussion"
+    },
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "AFP reported that the author of a viral video accusing the vice-president of corruption was arrested by the authorities; the source gives no arrest date, so the report's published date 2026-09-16 is used, and it names neither the person nor the law.",
+      "as_of": "2026-09-16",
+      "date_precision": "day",
+      "system": "Author of the viral video accusing the vice-president",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Facebook",
+      "country_label": "Facebook",
+      "class": "discussion",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "TikTok",
+      "country_label": "TikTok",
+      "class": "discussion",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "WhatsApp",
+      "country_label": "WhatsApp",
+      "class": "discussion",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Instagram",
+      "country_label": "Instagram",
+      "class": "discussion",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

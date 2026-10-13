@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-08-eacj-reference-56-2025-internet-shutdown",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Legal & Human Rights Centre alleges in a case filed at the East African Court of Justice on 8 December 2025 that the Tanzanian government carried out a total nationwide internet shutdown from 29 October to 4 November 2025, cutting mobile data, websites and online platforms; this is the applicant's allegation, no judgment is recorded.", "as_of": "2025-10-29", "date_precision": "day", "system": "Nationwide internet shutdown, 29 October to 4 November 2025", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "No judgment or verdict is given, so nothing for connection:barred."
+}

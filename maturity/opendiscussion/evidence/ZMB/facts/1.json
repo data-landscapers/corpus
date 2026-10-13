@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-28-zambia-no-internet-shutdowns-developmentmusings",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "The author names internet disruptions around the 12 August 2021 elections as part of Zambia's history, without saying what was cut, who ordered it or when it ended.",
+     "as_of": "2021-08-12", "date_precision": "day", "system": "Internet disruption of 12 August 2021 elections", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The 2026 election saw no shutdown, but there is no value for an absence of cuts; the cancelled RightsCon 2026 is not a cut."
+}

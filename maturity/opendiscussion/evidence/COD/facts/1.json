@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Access Now's #KeepItOn report on 2025 lists a shutdown in the DRC at Goma, in the M23 conflict area, among the year's recorded shutdowns; the document does not say who ordered it, when in 2025 it began or whether it ended.",
+     "as_of": "2025", "date_precision": "year", "system": "Internet shutdown at Goma", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

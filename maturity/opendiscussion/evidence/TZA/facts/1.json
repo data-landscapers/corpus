@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now (#KeepItOn) reports a five-day nationwide internet blackout in Tanzania during the disputed 29 October 2025 election; the document does not name who ordered it, and gives no end date beyond the five days.", "as_of": "2025-10-29", "date_precision": "day", "system": "Nationwide internet blackout, October 2025 election", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Access Now (#KeepItOn) counts 8 internet shutdowns in Tanzania in 2025, the highest of any African country in its report, of which the document describes only the election-time blackout.", "as_of": "2025", "date_precision": "year", "system": "Tanzania internet shutdowns, 2025 (8 counted)", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Document also says the ACHPR condemned Tanzania's shutdown and that satellite (Starlink) orders occurred in Tanzania, undated and without detail; no fact taken."
+}

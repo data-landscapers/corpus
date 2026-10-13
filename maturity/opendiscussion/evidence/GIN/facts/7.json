@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-14-sahel-mfwa-cybercrime-laws-press-freedom",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The Media Foundation for West Africa report, as reported by The Nation, cites the suspension of critical media outlets in Guinea (and Burkina Faso) as a restriction; no outlet, date or law is named, so the document's publication date is used.", "as_of": "2026-08-14", "date_precision": "day", "system": "critical media outlets in Guinea", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Three Guinean journalists/activists (Habib Marouane Camara, Fonike Mengue, Mamadou Billo Bah) are cited as cases of detention or enforced disappearance, but the document gives no date and does not say what they said, so no fact; the document's calls to end shutdowns and social media blocking are general to the four countries and name no Guinean cut."
+}

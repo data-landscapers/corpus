@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-punchng-sowore-serap-dss-withdraw-charges",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The Department of State Services is prosecuting activist and presidential candidate Omoyele Sowore under the Cybercrimes Act for describing President Tinubu as a criminal, and its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election; the charge date is not given.", "as_of": "2026-08-30", "date_precision": "day", "system": "Prosecution of Omoyele Sowore under the Cybercrimes Act", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "SERAP, a Nigerian rights group, and Sowore's lawyer Adeyinka Olumide-Fusika publicly demanded on 31 August 2026 that the DSS withdraw its charges against Sowore, calling the prosecution an unacceptable use of criminal law against a critic.", "as_of": "2026-08-31", "date_precision": "day", "system": "DSS prosecution of Omoyele Sowore", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The 2022 ECOWAS Court judgment on section 24 of the Cybercrimes Act is a regional ruling with no stated government action, so no repealed fact."
+}

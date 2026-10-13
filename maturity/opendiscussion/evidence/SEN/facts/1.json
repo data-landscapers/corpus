@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-sen-paradigm-initiative-conseil-constitutionnel-cnrm-ruling",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Association of Online Press Publishers and Professionals (APPEL), a Senegalese professional body, with Paradigm Initiative, backed 23 MPs' constitutional challenge lodged on 10 March 2026 against the media regulator law (CNRM law) over risks of administrative censorship; the document is Paradigm Initiative's account.", "as_of": "2026-03-10", "date_precision": "day", "system": "CNRM law (Law No. 07/2026, promulgated as 2026-09)", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "CNRM law (Law No. 07/2026, promulgated as 2026-09)", "country_label": "Conseil national de Régulation des Médias law", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Council decision of 7 April 2026 struck closure powers of a regulator (not an offence of defamation, false news, sedition or insulting the head of state), so no repealed fact; no cut or punishment reported."
+}

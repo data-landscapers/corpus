@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-10-govt-ordered-table-directives-pre-election-shutdown",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "The UCC ordered operators and ISPs to suspend public internet access, new SIM sales and outbound roaming ahead of the 15 January 2026 polls; the document says the blackout paralysed social media, web browsing and mobile money (Airtel mobile money was hit), and that a National Security Council directive reached the UCC executive director.",
+      "as_of": "2026-01-13",
+      "date_precision": "day",
+      "system": "Public internet access suspension (UCC directive)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": "Parliament's Public Accounts Committee demanding the directives is a committee of the state, not a named paper, party, body or group, so no debate fact."
+}

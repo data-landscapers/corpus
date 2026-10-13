@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-03-lessor-journaliste-chahana-takiou-condamne-pole-cybercriminalite",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "The national cybercrime unit sentenced journalist Chahana Takiou, founder-publisher of 22 septembre, to 12 months in prison with 6 suspended for undermining the State's credit through the judicial institution, after he said at the Pan-African Media Forum in June 2026 that journalists should be tried under the press-offence law rather than the cybercrime law.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Chahana Takiou (22 septembre)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Pole national de lutte contre la cybercriminalite",
+      "country_label": "Pole national de lutte contre la cybercriminalite",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

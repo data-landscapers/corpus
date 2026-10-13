@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-13-ucc-directive-suspension-of-internet-services",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "The Uganda Communications Commission ordered all licensed mobile network operators and internet service providers to suspend internet services from 18:00 local time on 13 January 2026, two days before the presidential poll; the record cites external measurement putting the loss at 4 days 5 hours, ending 20:00 UTC on 17 January.",
+     "as_of": "2026-01-13", "date_precision": "day",
+     "system": "UCC directive to suspend internet services", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The order is a scanned PDF with no text layer; the date and terms come from the record's description of it and its summary."
+}

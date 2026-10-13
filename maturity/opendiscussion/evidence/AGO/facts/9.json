@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "debate",
+      "value": "criticised",
+      "fact": "UNITA abstained with 75 deputies on 23 January 2026 when the National Assembly approved the cybersecurity bill in general, saying such laws are used to silence citizens and fearing internet cuts on election and protest days; opposition parties and civil society are also said to see the bill as a control architecture.",
+      "as_of": "2026-01-23",
+      "date_precision": "day",
+      "system": "Proposta de Lei de Cibersegurança",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Proposta de Lei sobre Cibersegurança",
+      "country_label": "Lei da Cibersegurança",
+      "class": "other",
+      "platform": "",
+      "owner": "Executivo / Assembleia Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": "UNITA's fear of a cut in Angola is not a cut; the cuts it names are in Tanzania, Kenya and Uganda, not AGO."
+}

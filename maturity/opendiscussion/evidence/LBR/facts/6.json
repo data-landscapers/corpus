@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-21-lbr-frontpageafrica-cybercrime-act-first-trial-koung-case",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "FrontPage Africa reports that Jerry Nyantee Wrotto was arrested in September 2026 (days before the 21 September report, exact date not given) and held for allegedly posting AI-generated nude images and a video of Vice President Koung claiming he was screened at Brussels Airport, under the Cybercrime Act of 2025 (cyber-harassment/cyberbullying); the Vice President asked for his release and the document gives no release or court outcome.", "as_of": "2026-09", "date_precision": "month", "system": "Jerry Nyantee Wrotto", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Press Union of Liberia, through its president Julius Kanubah, warned that reopening the 2019 KAK Act through the proposed 2026 draft Protection from Gender-Based Online Abuse and Harassment Act could erode protections won by journalists and citizens, and argued online harassment should be handled under the Cybercrime Act instead; the document gives no month.", "as_of": "2026", "date_precision": "year", "system": "Protection from Gender-Based Online Abuse and Harassment Act (draft)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed", "fact": "The document states that the 2019 Kamara Abdullah Kamara (KAK) Act decriminalized speech offences such as sedition and criminal libel against the President; it is given as background, with no month and no statement of who passed it.", "as_of": "2019", "date_precision": "year", "system": "Kamara Abdullah Kamara (KAK) Act", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Act of 2025", "country_label": "Cybercrime Act of 2025", "class": "discussion", "platform": "", "owner": "Government of Liberia (signed by President Boakai)", "tiers": ""},
+    {"system": "Kamara Abdullah Kamara (KAK) Act", "country_label": "KAK Act", "class": "discussion", "platform": "", "owner": "Government of Liberia", "tiers": ""}
+  ],
+  "note": "Not recorded: former minister Tweah's, EPS director Gaye's and prosecutor Wonlue's statements are individuals', not a named paper, party, body or group; the February 2026 Supreme Court 'Prophet Key' contempt ruling is stated without any penalty or outcome."
+}

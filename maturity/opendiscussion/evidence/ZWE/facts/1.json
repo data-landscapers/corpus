@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "MISA Zimbabwe, a media-freedom body inside the country, published an analysis criticising the Zimbabwe National AI Strategy 2026-2030, including its proposed National Reality Check Platform for truth-verification, as lacking legal safeguards for freedom of expression.", "as_of": "2026-06-23", "date_precision": "day", "system": "Zimbabwe National AI Strategy 2026-2030", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Section 164C of the Cyber and Data Protection Act (false data messages)", "country_label": "Section 164C", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Says s164C has been used against journalists but names no person, date or case, so no penalty fact."
+}

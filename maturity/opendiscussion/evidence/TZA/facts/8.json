@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-09-tanzania-getting-online-digital-economy-igp-report",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The Internet Governance Project says Tanzania's framework of content licensing, VPN registration and internet shutdowns cost an estimated US$250 million in losses during the 2025 election period alone.", "as_of": "2025", "date_precision": "year", "system": "internet shutdowns in the 2025 election period", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Online content licensing", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "VPN registration", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Think-tank analysis; the shutdown is stated without who ordered it, which area or when it ended."
+}

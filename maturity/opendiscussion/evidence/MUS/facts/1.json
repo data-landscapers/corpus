@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-10-mus-lexpress-ramtohul-discipline-reseaux-sociaux-meta",
+  "facts": [],
+  "systems": [
+    {"system": "takedown agreement with CERT-MU and Meta (planned)", "country_label": "takedown agreement", "class": "other", "platform": "", "owner": "CERT-MU", "tiers": ""},
+    {"system": "banned-word list for Meta platforms (planned)", "country_label": "liste de mots non publiables", "class": "other", "platform": "Meta", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": "Minister's interview on takedown requests and moderation with Meta (class other); no criticism, cut, bar, arrest or repeal stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-rsf-world-press-freedom-index-senegal",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "RSF says that in early 2024 restrictions such as internet shutdowns undermined the right to inform in Senegal; who ordered them and how long they lasted are not stated.", "as_of": "2024", "date_precision": "year", "system": "internet", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Index rank and score are other. Arrests of two journalists and two TV channels taken off air (29 Oct 2025), and Walfadjri suspension (early 2024): document does not say what was said or published, so no penalty fact. Registration procedure criticism is by unnamed industry members."
+}

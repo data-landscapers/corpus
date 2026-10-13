@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Maroc Telecom's half-year report lists, for February 2026 in Gabon, the implementation of temporary restrictions on certain internet uses; it does not say who ordered them or when they ended.", "as_of": "2026-02", "date_precision": "month", "system": "temporary restrictions on certain internet uses", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Other facts in the report concern other countries or non-speech topics."
+}

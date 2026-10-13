@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "connection",
+      "value": "cut",
+      "fact": "Access Now's #KeepItOn report describes Uganda's January 2026 blackout as a cut of internet and social media.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "January 2026 internet and social media blackout",
+      "class": "discussion"
+    }
+  ],
+  "systems": [],
+  "note": "The ACHPR condemning Tanzania and Uganda is a regional body's statement, not a bar on cuts; no fact."
+}

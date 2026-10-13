@@ -1,0 +1,17 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "2",
+   "debate": "criticised",
+   "connection": "",
+   "penalty": "punished",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-004;LBR-002;LBR-003",
+   "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

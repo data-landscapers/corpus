@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-06-tcra-suspends-jamiiforums-licence",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "The Tanzania Communications Regulatory Authority suspended the online content licence of Vapper Tech Limited (JamiiForums) for 90 days from 6 September 2025 over content it called misleading and insulting to the Government and the President, under the Online Content Regulations 2020, 2022 and 2025; it did not disclose the specific content.", "as_of": "2025-09-06", "date_precision": "day", "system": "JamiiForums", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The TCRA notice states it blocked access to the JamiiForums platform when it suspended the licence on 6 September 2025, for 90 days.", "as_of": "2025-09-06", "date_precision": "day", "system": "JamiiForums", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Online Content Regulations 2020 (amended 2022, 2025)", "country_label": "Online Content Regulations", "class": "other", "platform": "", "owner": "TCRA", "tiers": ""}
+  ],
+  "note": ""
+}

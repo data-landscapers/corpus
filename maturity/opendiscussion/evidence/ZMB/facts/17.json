@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-15-zambia-eu-eom-preliminary-statement-digital-systems",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "The EU election observation mission says the August 2026 elections took place amid arrests for online speech offences, mostly arising from criticism of the president, with the police and army issuing public warnings against unlawful posts; no date for the arrests is given, so the statement's published date of 2026-08-15 is used.",
+     "as_of": "2026-08-15", "date_precision": "day", "system": "arrests for online speech offences", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cyber Security Act 2025", "country_label": "Cyber Security Act 2025", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The pending court case on the 2025 Cyber Security Act is not a repeal or strike-down, so no fact; no cut of internet or services is stated."
+}

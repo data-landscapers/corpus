@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-tcd-toumaiwebmedias-lac-citoyen-connectivite-internet",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "A citizen's open letter to the president, reported 2026-09-10, says internet connectivity in Chad's Lac province has been heavily limited for nearly two years on security grounds and was still limited at that date; the source does not name the body that ordered it and gives no end date. As_of is the report's published date.", "as_of": "2026-09-10", "date_precision": "day", "system": "Internet connectivity in Lac province", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The author is a private citizen, not a named paper, party or group, so no debate fact."
+}

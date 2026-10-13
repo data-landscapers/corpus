@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "1",
+   "debate": "",
+   "connection": "cut",
+   "penalty": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TZA-006;TZA-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

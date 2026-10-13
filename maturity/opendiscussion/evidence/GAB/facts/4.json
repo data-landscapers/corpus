@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-26-gabonactu-apsad-libertes-civiques-numeriques-rapport-plaidoyer",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The civil-society group APSAD presented a report in Libreville finding no transparent mechanism for restricting social media, self-censorship among public-debate actors and rules short of international standards, and urged an end to blanket social-media suspensions and a more independent HAC.", "as_of": "2026-07-25", "date_precision": "day", "system": "APSAD report on civic and digital freedoms", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "The document describes a temporary suspension of social networks in Gabon and slowed internet speed that hampers journalists, content creators and digital firms, with mass VPN use needed to reach platforms; no ordering body or start date is given beyond the HAC context.", "as_of": "2026-07-25", "date_precision": "day", "system": "social-media suspension", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

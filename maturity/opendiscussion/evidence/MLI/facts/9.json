@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-14-mli-maliweb-abdrahamane-keita-cybercriminalite-condamne",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "Mali's specialised cybercrime tribunal sentenced journalist Abdrahamane Keita, publication director of Le Temoin, to two years in prison and 1 million CFA francs damages for a remark about Kidal on a TV programme on 4 June 2026, on charges of regionalist remarks, undermining the State's credit and national unity, and spreading false information through an information system; he had been detained since June and the defence intends to appeal.",
+      "as_of": "2026-09-14",
+      "date_precision": "day",
+      "system": "Abdrahamane Keita (Le Temoin)",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Pole national de lutte contre la cybercriminalite",
+      "country_label": "Pole national de lutte contre la cybercriminalite",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

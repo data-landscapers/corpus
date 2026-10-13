@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-14-zambia-ccmg-post-election-assessment-zambia-monitor",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "The Christian Churches Monitoring Group, a Zambian church election monitor, said at a Lusaka media briefing that the adoption of the Mixed Member Proportional system, the increase in constituencies and the 2026 delimitation were done with insufficient consultation, too close to the election, and undermined equal representation.",
+     "as_of": "2026-08-14", "date_precision": "day", "system": "2026 delimitation and Mixed Member Proportional electoral system", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "The Christian Churches Monitoring Group said the Electoral Commission of Zambia refused it a copy of the voters register, making independent verification impossible, and said the Commission should have consulted parties and civil society before suspending the announcement of results.",
+     "as_of": "2026-08-14", "date_precision": "day", "system": "Electoral Commission of Zambia refusal to share the voters register", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The online-only accreditation system is named but is an election system, not of this class; no cut or penalty stated."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-22-kictanet-kensafespace-advocacy-goals-communications-strategy",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "KICTANet's KenSafeSpace network says it ran its first rapid-response protocol during a 2024 Telegram shutdown in Kenya; the document does not say who ordered it or when it ended.",
+     "as_of": "2024", "date_precision": "year", "system": "Telegram", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "The document says network members issued joint statements and gathered evidence during the internet shutdowns of June 2024 in Kenya; it does not say who ordered them or where.",
+     "as_of": "2024-06", "date_precision": "month", "system": "Internet shutdowns of June 2024", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "The document names the KenSafeSpace civil-society network as pushing back against the ICT Practitioners Bill; no date is given, so the document's published date is used.",
+     "as_of": "2026-07-22", "date_precision": "day", "system": "ICT Practitioners Bill", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

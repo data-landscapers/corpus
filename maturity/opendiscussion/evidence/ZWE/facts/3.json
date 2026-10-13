@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-cipesa-mozambique-internet-shutdown-african-courts",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA says an internet shutdown was ordered in Zimbabwe in January 2019 amid nationwide fuel-price protests, by the state security minister through an intercept directive to mobile network operators, and was later restored; end date not given.", "as_of": "2019-01", "date_precision": "month", "system": "January 2019 internet shutdown", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "barred", "fact": "CIPESA says Zimbabwe's High Court ruled in January 2019 that the state security minister had no authority under the Interception of Communications Act to order an internet shutdown or issue an intercept directive to mobile network operators.", "as_of": "2019-01", "date_precision": "month", "system": "High Court ruling on the 2019 internet shutdown", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Mozambique, Togo, Nigeria, Guinea and Senegal items are other countries and give no ZWE fact."
+}

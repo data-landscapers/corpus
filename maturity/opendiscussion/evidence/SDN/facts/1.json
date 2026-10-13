@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-18-sudantimes-cybercrime-law-anti-war-prosecutions",
+  "facts": [
+    {
+      "sub_indicator": "discussion",
+      "aspect": "penalty",
+      "value": "punished",
+      "fact": "A criminal court in El Obeid, North Kordofan, sentenced pharmacist Ahmed Suleiman Ahmed Al-Waqi to six years in prison (three under Article 51 of the Criminal Act, two under Article 19 and one under Article 24 of the Cybercrime Law) after private phone conversations in which he said the war should end were found; the source is dated 2026-08-18 and gives the day of sentencing as Sunday.",
+      "as_of": "2026-08-16",
+      "date_precision": "day",
+      "system": "Ahmed Suleiman Ahmed Al-Waqi, Criminal Act Article 51 and Cybercrime Law Articles 19 and 24",
+      "class": "discussion"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Criminal Act Article 51",
+      "country_label": "Criminal Act Article 51",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Cybercrime Law",
+      "country_label": "Cybercrime Law",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No debate fact: the Central Committee of Sudanese Pharmacists questioned a court ruling and a phone search, not a named government policy, bill or decision."
+}

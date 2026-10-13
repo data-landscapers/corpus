@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-newvision-csos-digital-violations-hiv-services",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "A nationwide internet shutdown in January 2026 ahead of the general elections lasted nearly 100 hours; authorities said it was to prevent misinformation and electoral violence.", "as_of": "2026-01", "date_precision": "month", "system": "Internet (nationwide shutdown, January 2026)", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "At a briefing in Kampala on 27 February 2026, UGANET and other civil society organisations criticised blanket internet shutdowns and the January shutdown's effect on HIV services, and urged the government and regulators to prevent them and strengthen legal safeguards.", "as_of": "2026-02-27", "date_precision": "day", "system": "January 2026 internet shutdown", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

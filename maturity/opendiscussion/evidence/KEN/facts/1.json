@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-wearetech-kenya-online-misinformation-sanctions",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed",
+     "fact": "Kenya's Court of Appeal invalidated sections 22 and 23 of the 2018 Computer Misuse and Cybercrimes Act, which made publishing false or misleading data and knowingly spreading false information offences with fines up to KSh 5 million and up to ten years in prison; the ruling's date is not given, so the article's publication date is used, and the National Assembly has appealed to the Supreme Court.",
+     "as_of": "2026-08-31", "date_precision": "day",
+     "system": "Computer Misuse and Cybercrimes Act 2018, sections 22 and 23", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

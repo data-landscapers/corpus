@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-10-cipesa-mozambique-internet-shutdown-african-courts",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "barred",
+     "fact": "CIPESA reports that in July 2026 Mozambique's Constitutional Council declared 18 provisions of Decree 48/2025 unconstitutional, including regulator powers to suspend telecommunications services, holding such powers need parliamentary legislation; the ruling was not about an actual shutdown, which the document says was not recently imposed.",
+     "as_of": "2026-07", "date_precision": "month",
+     "system": "Constitutional Council ruling on Decree 48/2025", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Telecommunications Traffic Control Regulation (Decree 48/2025)", "country_label": "Regulamento de Controlo de Tráfego de Telecomunicações", "class": "other", "platform": "", "owner": "National Communications Institute of Mozambique (INCM)", "tiers": ""}
+  ],
+  "note": "Document is regional; only the Mozambique ruling is recorded. No cut in Mozambique, arrest or repeal is stated."
+}

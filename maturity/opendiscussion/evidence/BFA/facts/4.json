@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-24-burkina-sidwaya-lutte-desinformation-reseaux-sociaux",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Brigade centrale de lutte contre la cybercriminalite (BCLCC)",
+   "country_label": "BCLCC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Security",
+   "tiers": "national"
+  },
+  {
+   "system": "Conseil superieur de la communication (CSC)",
+   "country_label": "CSC",
+   "class": "other",
+   "platform": "",
+   "owner": "State regulator",
+   "tiers": "national"
+  }
+ ],
+ "note": "Speaker says social media misuse has led to unspecified 'interpellations'; no person, speech or date stated, so no fact."
+}

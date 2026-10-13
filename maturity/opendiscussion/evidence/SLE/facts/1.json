@@ -1,0 +1,10 @@
+{
+  "slug": "2020-06-25-sierra-leone-public-order-amendment-act-2020",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "repealed", "fact": "The Public Order (Amendment) Act, 2020, as printed in the Sierra Leone Gazette of 25 June 2020 (date used as the document gives no other), amends the Public Order Act 1965 by repealing Part V, which dealt with defamatory and seditious libel.", "as_of": "2020-06-25", "date_precision": "day", "system": "Public Order Act 1965, Part V (defamatory and seditious libel)", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Public Order Act 1965, Part V (defamatory and seditious libel)", "country_label": "Public Order Act 1965, Part V", "class": "discussion", "platform": "", "owner": "Parliament of Sierra Leone", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-27-congo-fidh-passport-defender-ondele-kanga",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "Police in plain clothes arrested human rights defender Ghislain Ondele Kanga of the platform Congo Droit et Justice pour Tous et par Tous at his home on 30 May 2026 and took him to the intelligence service (CID) in Brazzaville; he was referred to the prosecutor 56 days later, charged reportedly with false dissemination and declaration of an unauthorised demonstration under ordonnance 62-3 of 1962 and law 19/60 on associations, and held in pre-trial detention in Brazzaville after a campaign on social media denouncing difficulty in getting a passport.", "as_of": "2026-05-30", "date_precision": "day", "system": "Ghislain Ondele Kanga", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Congolese civil-society platform Congo Droit et Justice pour Tous et par Tous ran a campaign, including through members' social media, denouncing the difficulty citizens have in obtaining a passport, and announced a press conference for 29 May 2026 on the causes of the passport problem.", "as_of": "2026-05-29", "date_precision": "day", "system": "Congo Droit et Justice pour Tous et par Tous (CDJT)", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

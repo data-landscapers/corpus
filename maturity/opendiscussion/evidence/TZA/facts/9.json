@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-05 Safeguarding Tanzania's information integrity",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "The Research ICT Africa report says Tanzania's information flows during the 2025 electoral cycle faced state-led internet shutdowns; it names no service, area, date or ordering body, so the year 2025 is the event date given.",
+     "as_of": "2025", "date_precision": "year", "system": "2025 election-period internet shutdowns", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Report is otherwise general (censorship, media capture, disinformation) with no named critic, arrest or closure, so no debate or penalty fact."
+}

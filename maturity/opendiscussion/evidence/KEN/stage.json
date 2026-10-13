@@ -1,0 +1,17 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "discussion",
+   "stage": "4",
+   "debate": "criticised",
+   "connection": "",
+   "penalty": "repealed",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-001;KEN-002",
+   "gaps": "No law, ruling of the country's own court or undertaking given in court in the last three years bars the government from cutting the internet.",
+   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
+  }
+ ]
+}

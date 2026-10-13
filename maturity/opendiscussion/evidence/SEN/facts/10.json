@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-10-sen-loi-2026-09-conseil-national-regulation-medias",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Loi n° 2026-09 (CNRM)",
+      "country_label": "Conseil national de Régulation des Médias",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": ""
+    },
+    {
+      "system": "Décision n° 2/C/2026",
+      "country_label": "Conseil constitutionnel decision of 7 April 2026",
+      "class": "other",
+      "platform": "",
+      "owner": "Conseil constitutionnel",
+      "tiers": ""
+    }
+  ],
+  "note": "Statute creating a media regulator with suspension and ISP-blocking powers, none stated used; the Constitutional Council struck out closure sanctions, which are not an offence of defamation, false news, sedition or insulting the head of state, and no cut or arrest is stated."
+}

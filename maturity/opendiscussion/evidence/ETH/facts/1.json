@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-26-eth-wardheernews-tigray-communications-blackout",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "WardheerNews reported on 26 September 2026 that internet and telephone services were severely disrupted across Tigray as fighting resumed: Ethio Telecom services were completely down, Safaricom partly working, and NetBlocks confirmed a regional disruption; who ordered it is contested (Reuters sources blamed Tigray's ruling authorities, a source close to the TPLF blamed the federal government), no end date or start date is given, and the date used is the document's publication date.",
+     "as_of": "2026-09-26", "date_precision": "day", "system": "Tigray internet and telephone services", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Ethio Telecom network", "country_label": "Ethio Telecom", "class": "", "platform": "", "owner": "Ethio Telecom (state-owned)", "tiers": ""},
+    {"system": "Safaricom Ethiopia network", "country_label": "Safaricom", "class": "", "platform": "", "owner": "Safaricom Ethiopia", "tiers": ""}
+  ],
+  "note": ""
+}

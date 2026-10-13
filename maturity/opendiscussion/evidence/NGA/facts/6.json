@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-cipesa-mozambique-internet-shutdown-african-courts",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "CIPESA states that the Nigerian government suspended Twitter for seven months and that the ECOWAS court found the suspension violated freedom of expression, access to information and media freedom; the document gives no date for the suspension, so as_of is the document's published date and the cut itself is an earlier, ended one.", "as_of": "2026-09-10", "date_precision": "day", "system": "Twitter", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "Other countries' cases (Mozambique, Zimbabwe, Togo, Guinea, Senegal) and the continental count are not NGA; the Twitter suspension is undated in this document."
+}

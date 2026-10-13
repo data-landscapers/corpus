@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Access Now's #KeepItOn report counts 4 internet shutdowns in Cameroon in 2025, one of which was a cross-border cut that hit the Central African Republic via the WACS cable; the document does not say who ordered them or when they ended.",
+     "as_of": "2025", "date_precision": "year", "system": "Internet shutdowns in Cameroon, 2025", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

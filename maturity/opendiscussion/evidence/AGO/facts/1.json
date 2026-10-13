@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-22-novojornal-jornalistas-advertem-lei-inibir-jornalismo-cidadania",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Leaders of the Sindicato dos Jornalistas Angolanos, the Comissao de Carteira e Etica and the Forum das Mulheres Jornalistas called the penalties of the new Law Against False Information on the Internet excessive and inhibiting, warning of a chilling effect on free debate; no event date is given, so the document's published date is used.", "as_of": "2026-08-22", "date_precision": "day", "system": "Lei Contra as Informacoes Falsas na Internet", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Lei Contra as Informacoes Falsas na Internet", "country_label": "lei das fake news", "class": "other", "platform": "", "owner": "Executive; National Assembly", "tiers": ""}
+  ],
+  "note": ""
+}

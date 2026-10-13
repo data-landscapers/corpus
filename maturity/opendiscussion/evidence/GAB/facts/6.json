@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-13-gabon-social-media-suspension",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Gabonreview reports that the HAC's decision no. 0002/HAC/2026 suspended social media in Gabon until further notice and that, five months on (by 2026-07-13), it was still in force, with mass VPN use.", "as_of": "2026-07-13", "date_precision": "day", "system": "HAC decision n°0002/HAC/2026", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Nine civil-society organisations, including ROLBG, SOS Prisonniers, Tournons la Page Gabon and the Ligue nationale des droits humains, met in Libreville on 11 July and called the HAC suspension unconstitutional and disproportionate, demanding its repeal.", "as_of": "2026-07-11", "date_precision": "day", "system": "HAC decision n°0002/HAC/2026", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-16-lejour-cybercrime-laws-threaten-freedoms",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut",
+     "fact": "Le Jour reports that on 23 October 2025, during the presidential election, Cameroon had internet restrictions that blocked a blogger's access to Facebook and publishing, described as a government decision; no end date is given.",
+     "as_of": "2025-10-23", "date_precision": "day", "system": "Facebook access restriction during the 2025 presidential election", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "Civic Watch Cameroon's head and other participants at a 8-9 June 2026 Yaounde workshop on the 2010 cybercrime law (law n°2010/012) said it contains provisions limiting free expression, and legal experts and civil society called the October 2025 election-time internet restrictions a rights violation.",
+     "as_of": "2026-06-08", "date_precision": "day", "system": "Law n°2010/012 of 21 December 2010 on cybercrime and the October 2025 internet restrictions", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Law n°2010/012 of 21 December 2010 on cybercrime", "country_label": "loi relative à la cybercriminalité", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

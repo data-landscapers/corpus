@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-12-coupure-internet-lac-internet-society",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Internet access in Lac province has been cut since 28 October 2024, still off at the Internet Society Chad communique of 11 February 2025, with security reasons mentioned as possible; the source does not name who ordered it or give an end date.", "as_of": "2024-10-28", "date_precision": "day", "system": "Internet access in Lac province", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "Internet Society Chad, a civil-society chapter, publicly called on the authorities in a communique of 11 February 2025 to restore access in Lac province and said alternatives to a total cut exist.", "as_of": "2025-02-11", "date_precision": "day", "system": "Cut of internet access in Lac province", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-unesco-upr46-eritrea-freedom-of-information",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "silenced", "fact": "UNESCO states that the Ministry of Information runs all television, radio and newspapers in Eritrea and that privately owned outlets effectively ceased to exist after a government ban in 2001; the document is dated 2026-01 and states the position as continuing.", "as_of": "2001", "date_precision": "year", "system": "Government ban on privately owned media", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "1996 Press Proclamation", "country_label": "Press Proclamation", "class": "other", "platform": "", "owner": "Government of Eritrea", "tiers": ""},
+    {"system": "Penal Code Article 154 (false information discrediting state bodies)", "country_label": "Penal Code", "class": "other", "platform": "", "owner": "Government of Eritrea", "tiers": ""}
+  ],
+  "note": "Speech laws (Press Proclamation, Penal Code arts 154, 195, 301) are other with no one charged under them stated; Dawit Isaak's imprisonment since 2001 is not stated to be for anything said, so no penalty fact."
+}

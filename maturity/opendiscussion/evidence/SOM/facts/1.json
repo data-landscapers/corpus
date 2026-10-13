@@ -1,0 +1,21 @@
+{
+  "slug": "2025-10-28-somalia-upr-joint-submission-access-to-information",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "On 18 March 2025 armed police stormed the Risaala Media station in Mogadishu, took it off-air and arrested five named journalists without a court warrant, after it was first to report the bombing of the president's convoy; the document gives no law.",
+     "as_of": "2025-03-18", "date_precision": "day", "system": "Risaala Media", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "penalty", "value": "punished",
+     "fact": "On 18 March 2025 Mogadishu police rounded up 19 journalists who came to report on the bombing of the president's convoy, took them to Hamar Jajab police station, confiscated their equipment and deleted their footage before releasing them.",
+     "as_of": "2025-03-18", "date_precision": "day", "system": "Journalists detained at the Mogadishu bombing scene", "class": "discussion"},
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised",
+     "fact": "Defenders Coalition Somalia, a Somali civil-society group, with DefendDefenders, criticised in a joint UN review submission the Official Information Bill approved by the Council of Ministers in March 2024, for broad confidentiality and national-security exemptions, no independent oversight and drafting in secrecy; the document is dated 28 October 2025.",
+     "as_of": "2025-10-28", "date_precision": "day", "system": "Official Information Bill", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Official Information Bill", "country_label": "Official Information Bill", "class": "other", "platform": "", "owner": "Council of Ministers; House of the People", "tiers": ""},
+    {"system": "Somalia Media Law 2020", "country_label": "Media Law", "class": "other", "platform": "", "owner": "Ministry of Information", "tiers": ""},
+    {"system": "Penal Code 1964", "country_label": "Penal Code", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Anti-Terrorism Law", "country_label": "Anti-Terrorism Law", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact from the 6 March 2025 media directive (threat, no one punished), the SJS count of 46 arrests and raided outlets Jan-Apr 2025 (no speech or dates stated per case), SJS bank-account freezes, Meta page restrictions (not a government order), the undated Penal Code prosecutions, or the RSF rank; no cut or bar on cuts stated."
+}

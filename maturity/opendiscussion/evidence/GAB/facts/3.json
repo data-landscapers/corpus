@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-06-gab-gabonmailinfos-porte-parole-vpn-suspension-reseaux-sociaux",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "Gabon Mail Infos reports that the social-media suspension imposed by the HAC (the communications regulator) in February 2026 is still in force nine months on, as of the article's publication date (the document gives no other date).", "as_of": "2026-10-06", "date_precision": "day", "system": "HAC social-media suspension", "class": "discussion"}
+  ],
+  "systems": [],
+  "note": "The presidential spokesman's admitted VPN use and unnamed critics (entrepreneurs, lawyers, civil society, politicians) give no debate fact: no named critic body."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-17-gin-africaguinee-hac-france-24-interdiction-arpt-blocage",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Guinea's HAC revoked France 24's national broadcasting authorisation and withdrew its correspondents' press accreditations with immediate effect, citing the channel's refusal to withdraw incriminated remarks, an 'offence' to President Doumbouya.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "France 24",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The HAC ordered the telecoms regulator ARPT to block without delay all France 24 digital access points (websites, streaming feeds, apps) in Guinea, and Canal+ Guinée to cut the channel's signal.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "France 24",
+   "class": "discussion"
+  }
+ ],
+ "systems": [
+  {
+   "system": "France 24",
+   "country_label": "France 24",
+   "class": "discussion",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

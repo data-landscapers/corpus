@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-itweb-co-za-iec-election-disinformation-code",
+  "facts": [],
+  "systems": [
+    {"system": "Real411", "country_label": "Real411", "class": "other", "platform": "", "owner": "", "tiers": "designated by the Electoral Commission for reporting suspected election disinformation under its code"}
+  ],
+  "note": "Electoral Commission disinformation code with sanctions under the Municipal Electoral Act: a speech rule with no one reported charged or punished, so class other and no fact."
+}

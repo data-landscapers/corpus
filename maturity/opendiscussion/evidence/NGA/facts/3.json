@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-24-serap-nge-cybercrimes-act-suspension",
+  "facts": [
+    {"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "At a Lagos press briefing the Socio-Economic Rights and Accountability Project and the Nigerian Guild of Editors called for enforcement of the Cybercrimes Act, Section 24, to be suspended, saying authorities use it against journalists, bloggers and critics; the date is the article's publication date, as it gives none for the briefing.", "as_of": "2026-08-24", "date_precision": "day", "system": "Cybercrimes Act, Section 24", "class": "discussion"}
+  ],
+  "systems": [
+    {"system": "Cybercrimes Act, Section 24", "country_label": "Cybercrimes Act (amended 2024)", "class": "discussion", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No punished fact: arrests, a closure of northern media outlets and ICIR detentions are mentioned without a date or a named person, and the CJID count is dated inconsistently."
+}
