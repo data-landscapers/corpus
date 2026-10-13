@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-zmb-parliament-ministerial-statement-smart-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "Zambia National Data Centre (ZNDC)", "country_label": "Zambia National Data Centre", "class": "other", "platform": "Tier 3 data centre with a backup site and a disaster recovery site", "owner": "Smart Zambia Institute", "tiers": "Government and private sector ICT hosting; banks and mobile providers use it at a fee"},
+    {"system": "Government Wide Area Network", "country_label": "Government WAN", "class": "other", "platform": "", "owner": "Smart Zambia Institute", "tiers": "87 government departments and institutions"}
+  ],
+  "note": "The 2019 statement describes a Tier 3 national data centre that consolidated government hosting and 52 websites deployed to it, but states no hosting or cloud policy or rule; a data centre alone is not a policy, so no fact."
+}

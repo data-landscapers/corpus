@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-29-gab-presidence-data-center-national-aninf",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center national de l'ANINF", "country_label": "Data Center national", "class": "other", "platform": "", "owner": "ANINF (Agence Nationale des Infrastructures Numériques et des Fréquences), built under a convention with the Cybastion group", "tiers": "public data processing and protection, per the Presidency"}
+  ],
+  "note": "A national data centre convention signed 2025-06-29; no hosting or cloud policy, rule or move is stated (only a passing reference to a national digital sovereignty policy)."
+}

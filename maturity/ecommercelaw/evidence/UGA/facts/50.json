@@ -1,0 +1,9 @@
+{
+  "slug": "2011-03-18-uga-ulii-electronic-transactions-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Electronic Transactions Act (Act 8 of 2011, now Chapter 99), assented to on 17 February 2011 and commenced on 15 April 2011, gives data messages, electronic signatures and electronic contracts legal effect and sets consumer rules for online sellers.", "as_of": "2011-04-15", "date_precision": "day", "system": "Electronic Transactions Act (Chapter 99)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Act's section 35 empowers the Minister to make regulations by statutory instrument, and section 32(2) and section 23 provide for procedures and public-body requirements to be prescribed; this document, in its 2011 version, states no regulation made.", "as_of": "2011-03-18", "date_precision": "day", "system": "Electronic Transactions Act (Chapter 99)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

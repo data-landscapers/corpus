@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-01-lby-annir-draft-personal-data-protection-law",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "A working group led by the Annir Initiative with Internet Society Libya published an informal draft Personal Data Protection Law for public consultation, marked unofficial and not a government bill; its published date is used as no other is given.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Draft Personal Data Protection Law (law no. ___ of 2026)",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "In March 2026 a civil-society consultation draft of a Libyan personal data protection law was published; the document does not say the government has taken it up.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Draft Personal Data Protection Law (law no. ___ of 2026)",
+      "class": "general"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

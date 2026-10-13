@@ -1,0 +1,36 @@
+{
+ "slug": "2009-10-27-cod-regulation-afrique-document-politique-sectorielle",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "On 23 October 2009 the minister of Posts, Telephones and Telecommunications presented the sector policy document at a workshop that the World Bank director described as finalising the strategy; the article says the sector is about to have the document.",
+   "as_of": "2009-10-23",
+   "date_precision": "day",
+   "system": "Document de politique sectorielle des télécommunications et des TIC",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The policy sets targets for 2015 of 33 million fixed and mobile lines (40% teledensity against about 10%) and at least 5% internet access against 1%, per the minister; no cost of the plan is given.",
+   "as_of": "2009-10-23",
+   "date_precision": "day",
+   "system": "Document de politique sectorielle des télécommunications et des TIC",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Document de politique sectorielle des télécommunications et des TIC",
+   "country_label": "Document de politique sectorielle des télécommunications",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère des Postes, Téléphones et Télécommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

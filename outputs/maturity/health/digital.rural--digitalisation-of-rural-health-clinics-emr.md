@@ -25,9 +25,9 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 13 |
-| 2 Nascent | 32 |
+| 2 Nascent | 33 |
 | 1 Absent | 2 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 0 |
 
 ## Countries
@@ -269,6 +269,12 @@ Electronic health records are at an early pilot stage (government compact, Decem
 - CIPIT's 2025 continental report states that Egypt has deployed AI-driven electronic health record systems, using large biomedical language models to assist record-keeping, diagnostics and treatment planning in public hospitals, citing an arXiv paper; it gives no count of hospitals, does not distinguish the hospital tier and gives no date, so the document's published date is used ([source, 2025-06-25](https://aiconference.cipit.org/documents/the-state-of-ai-in-africa-report.pdf)).
 - The Egypt Healthcare Authority said on 19 August 2024 that it runs a unified electronic medical record for patients in the governorates where the Universal Health Insurance System applies, with nearly 4.5 million electronic health files created, 42 million electronic prescriptions issued and electronic referral from primary healthcare units and centres to higher levels; its primary healthcare centres and units there are fully digitised and its hospitals work on a fully computerised system. The hospital tier is not distinguished and the statement covers only those governorates ([source, 2024-08-19](https://eha.gov.eg/en/news/highlights-transformation/)).
 
+### Equatorial Guinea: 2 Nascent
+
+One hospital in Bata had an electronic patient record in 2018, by its vendor's account; whether it still runs is not known.
+
+- Vannin Group, the vendor, states it deployed Greencube in 2018 as the unified electronic health record platform of Hospital Nuevo INSESO in Bata (85 beds, 600 active users, 60,000 patient records); the page names a hospital and no tier, and is a vendor case study dated by year only ([source, 2018](https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea)).
+
 ### Ethiopia: 2 Nascent
 
 More than 70 facilities had electronic patient records by December 2024, 10 of them paperless; a national pilot is due in 2026.
@@ -447,7 +453,7 @@ The patient record runs only at pilot sites, in 1% of the 102 health centres (Oc
 
 ### Seychelles: 2 Nascent
 
-A ministry system that includes electronic medical records has run since the end of 2021 (reported January 2024); who uses it is not known.
+A ministry system with electronic medical records has run since the end of 2021; whether clinics record on it or on paper is not known.
 
 - Seychelles Nation, from a Ministry of Health press release, reports at the ministry's digital health visioning meeting of 22 January 2024 that the Electronic Health Information System has been operational since the end of 2021 and that the ministry is now trying to link it with laboratories and X-ray so doctors get results on their computers ([source, 2024-01-22](https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation)).
 - Seychelles Nation reports the health minister saying on 17 October 2023 that the Ministry of Health is investing in an Electronic Health Information System encompassing Electronic Medical Records, to be accessible to all health professionals throughout the system, is building its capacity to use it, and is working with the ICT department on the security of citizens' health information ([source, 2023-10-17](https://www.nation.sc/articles/19775/digital-maturity-of-seychelles-health-sector-in-the-spotlight--by-sunny-esparon-)).
@@ -517,12 +523,6 @@ A 2024 report describes patient follow-up on paper without saying where; no elec
 
 Not established: Two rows, neither able to set a rung: DJI-003 is from the excluded compilation, and DJI-014 is a general 2024 statement of paper follow-up that names no tier and no system. No row names an EMR at any tier, and none states that patient records are on paper at every tier.
 
-### Equatorial Guinea: Unplaced
-
-Only tracking tools for vaccination and HIV follow-up are held (2025); nothing describes patient records, electronic or paper, so no stage is set.
-
-Not established: The only EMR rows (GNQ-003, GNQ-004, GNQ-005) come from the excluded source, Africa we have a data problem, and set nothing; no admitted source states either a patient record system or the paper position. systems.csv holds only noted classes on the patient side: DHIS2 trackers for routine vaccination and HIV follow-up.
-
 ### Eritrea: Unplaced
 
 Only a patient-tracking programme is held; no electronic patient record is named and nothing says records are on paper, so no stage is set.
@@ -537,6 +537,6 @@ Not established: Three of the four rows (GNB-003, GNB-004, GNB-005) come from th
 
 ### South Sudan: Unplaced
 
-Only an HIV treatment register at five sites is held; nothing shows general patient records, electronic or paper, so no stage is set.
+An electronic record tried at two hospitals in 2019 never reached routine use; nothing else shows patient records, so no stage is set.
 
-Not established: The one EMR row, SSD-005, is from the excluded source and sets nothing, so neither a system in use nor a dated statement of paper records at every tier is held. systems.csv holds only a noted class, the OpenMRS ART E-register at five sites (tracker), plus an unnamed and unclassified 22.4% of facilities with facility-wide electronic systems.
+Not established: The Bahmni EMR deployed at Juba Teaching Hospital and Nimule Hospital in 2019 did not reach routine clinical use or scale and was not accepted for wider use (SSD-042, SSD-043), so no tier is held as using an EMR; its donor finance is dated 2019, outside the 36 months. SSD-005 is from the excluded source and sets nothing, so no dated statement of paper records at every tier is held either. systems.csv otherwise holds a noted class, the OpenMRS ART E-register at five sites (tracker), and an unnamed, unclassified 22.4% of facilities with facility-wide electronic systems.

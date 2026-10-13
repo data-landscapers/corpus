@@ -1,0 +1,8 @@
+{
+  "slug": "2022-04-11-cmr-armp-minedub-sifempe-phase4-tender",
+  "facts": [],
+  "systems": [
+    {"system": "Suivi Informatisé du Fonctionnement des Ecoles et des Mouvements du Personnel Enseignant (SIFEMPE)", "country_label": "SIFEMPE", "class": "single-function", "platform": "application software; a mobile platform to be developed in phase 4", "owner": "Ministry of Basic Education (MINEDUB)", "tiers": "public nursery and primary schools; teaching staff movements"}
+  ],
+  "note": "The tender covers computer equipment and a mobile platform for tracking school functioning and teacher movements; it states no learner record, so SIFEMPE is single-function and gives no fact."
+}

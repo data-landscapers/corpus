@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-19-eth-cioafrica-national-cloud-18-24-months",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Cloud",
+      "country_label": "National Cloud",
+      "class": "other",
+      "platform": "planned",
+      "owner": "Government of Ethiopia",
+      "tiers": "sectors incl. agriculture, trade, investment, media; operational in an estimated 18-24 months (May 2026)"
+    },
+    {
+      "system": "Telecloud",
+      "country_label": "Telecloud",
+      "class": "other",
+      "platform": "cloud-computing service launched October 2022",
+      "owner": "Ethio Telecom",
+      "tiers": "public and private institutions"
+    }
+  ],
+  "note": "A national cloud project and an operator cloud are described; no hosting or cloud policy is stated."
+}

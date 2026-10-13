@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BWA,Lekgetho Live,Lekgetho Live - Tax Management & Revenue Collection System,central,,Botswana Unified Revenue Service (BURS),national tax administration (GTMI data year 2022),2025-01-01-botswana-govtech-digital-identity-index
 BWA,PayRates,PayRates,web,online platform,"GoSmartValue (developer), with Access Bank Botswana and Gaborone City Council",Gaborone City Council,2024-06-14-bwa-access-bank-gaborone-city-council-gosmartvalue-launch-property-rate-pa
+BWA,PayRates,PayRates,web,GoSmartValue,Gaborone City Council with Access Bank Botswana and GoSmartValue,Gaborone City Council,2024-06-27-bwa-thevoicebw-gcc-payrates-rates-digitisation
+BWA,FNB app (Public Recipient),FNB App,web,FNB app and planned payment gateway,"First National Bank Botswana, with Lobatse Town Council",Lobatse Town Council,2026-02-25-bwa-bopa-lobatse-council-app-rates-collection
+BWA,Palapye valuation roll platform (valuation software),Palapye.thevalua.com,survey,valuation software,Palapye District Council,Palapye District Council,2026-08-28-bwa-mmegi-palapye-draft-valuation-roll

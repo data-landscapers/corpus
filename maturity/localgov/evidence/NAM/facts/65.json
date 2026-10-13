@@ -1,0 +1,8 @@
+{
+  "slug": "2016-10-01-nam-telecomnamibia-annual-report-2015-16",
+  "facts": [],
+  "systems": [
+    {"system": "Government core network", "country_label": "Government core network", "class": "backbone", "platform": "", "owner": "Telecom Namibia", "tiers": "central government offices, ministries and agencies; 14 regional capitals"}
+  ],
+  "note": "The government core network (20 points of presence, 14 regional capitals, last-mile fibre to selected government offices, ministries and agencies) is not said to reach any local government office: class backbone, no fact."
+}

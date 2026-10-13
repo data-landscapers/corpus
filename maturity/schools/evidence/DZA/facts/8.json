@@ -1,0 +1,36 @@
+{
+  "slug": "2025-04-30-dza-fildalgerie-inscription-1ap-systeme-information",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "enrolment",
+      "fact": "The ministry announced that first-year primary enrolment for 2025-26 would be done exclusively through the parents' space of the ministry's information system, from 4 to 31 May 2025, with children in preparatory classes already on the platform enrolled automatically.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P",
+      "fact": "First-year primary enrolment for 2025-26 runs through the ministry's information system, from 4 to 31 May 2025.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "country_label": "Système d'information du secteur de l'Éducation nationale (espace parents, awlyaa.education.dz)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary (first-year enrolment), preparatory classes"
+    }
+  ],
+  "note": ""
+}

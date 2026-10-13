@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-22-gab-allafrica-aninf-souverainete-numerique",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ANINF is drawing up a national interoperability framework (cadre national d'interopérabilité) under the Gabon Digital programme, as reported on the document's published date; interoperability of public systems is listed among remaining challenges.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "Cadre national d'interopérabilité",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "country_label": "RAG",
+      "class": "other",
+      "platform": "",
+      "owner": "ANINF",
+      "tiers": "public administrations"
+    }
+  ],
+  "note": ""
+}

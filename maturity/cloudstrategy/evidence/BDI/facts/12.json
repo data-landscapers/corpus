@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-11-bdi-dba-strategie-gouvernance-donnees-validee",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie nationale de Gouvernance des Données (SNGD)", "country_label": "Stratégie nationale de Gouvernance des Données", "class": "other", "platform": "", "owner": "Ministère des Finances et de l'Économie numérique", "tiers": "national"},
+    {"system": "national sovereign data centres (planned)", "country_label": "data centers nationaux souverains", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The data governance strategy, validated 7 November 2025, lists sovereign national data centres for local hosting only as a planned component; it states no hosting or cloud rule for public bodies."
+}

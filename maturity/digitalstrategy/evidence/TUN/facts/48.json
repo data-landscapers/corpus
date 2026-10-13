@@ -1,0 +1,56 @@
+{
+  "slug": "2018-10-01-tun-ancs-strategie-tunisie-digitale-2020",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2020",
+      "fact": "The ministry's October 2018 presentation sets the Stratégie Tunisie Digitale 2020 targets for 2020 (100% of homes connected, 13,500 MTND digital value added, 5,000 MTND digital exports) after a five-year plan started in 2015.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "Stratégie Tunisie Digitale 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The presentation lists an implementation plan with dated 2018 and 2020 targets per axis (infrastructure, e-government, e-business, Smart Tunisia) and a selection of named projects; it states no costs.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "Stratégie Tunisie Digitale 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "The ministry's 'Réalisations et objectifs' table gives 2014-2017 outturns against the strategy's targets for digital value added, digital exports, jobs created, connected homes and mobile broadband penetration (e.g. 44.5% of homes connected in 2017 against 100% for 2020), with several 2017 values marked ND; it covers some axes only.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "Stratégie Tunisie Digitale 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The presentation's governance chart gives the CSEN (Conseil stratégique de l'économie numérique) the validation of the strategy, arbitration and recommendations to support implementation, above a steering committee and per-programme project offices in the ministries.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "Stratégie Tunisie Digitale 2020",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Stratégie Tunisie Digitale 2020",
+      "country_label": "Stratégie Tunisie Digitale 2020 (Plan National Stratégique)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies and Digital Economy; CSEN",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

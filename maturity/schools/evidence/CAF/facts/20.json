@@ -1,0 +1,8 @@
+{
+  "slug": "2023-08-01-caf-gpe-pacte-partenariat",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information pour la gestion de l'éducation (SIGE)", "country_label": "SIGE", "class": "census", "platform": "", "owner": "Ministry of National Education; supported by external partners", "tiers": "central to school level; supports an annual statistical yearbook (the compact says capacity is missing from the centre down to the school)"}
+  ],
+  "note": "The compact describes the SIGE only as producing the annual statistical yearbook, funded externally with no permanent mechanism, so it is a census; it states nothing on school-level learner records, so no fact for the emis class."
+}

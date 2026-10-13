@@ -1,0 +1,15 @@
+{
+  "slug": "2009-10-28-sle-mic-national-ict-policy-2009",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The title page of the National ICT Policy of Sierra Leone says it was approved by Government on 28 October 2009.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full 63-page policy text is held, published by the Ministry of Information and Communications and hosted on the Cyber Policy Portal; the document's published date is 2009-10-28.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2014", "fact": "The policy sets a 5-year implementation timeline, with a Gantt chart of priority ICT solutions over 2010-2014.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "Section C sets out ten implementation plans and section 5 lists priority ICT solutions with accountable stakeholders and dated deadlines (for example fibre landing by 2011, an internet exchange point by Q3 2009), with no costs stated in the text read.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The policy says the Ministry of Information and Communications mandated its preparation and will be responsible for its regular review and update, with NATCOM and others named as accountable stakeholders.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The part of the policy read states no domestic budget line for its implementation; it anticipates support from the private sector, the donor community and citizens.", "as_of": "2009-10-28", "date_precision": "day", "system": "National ICT Policy of Sierra Leone", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy of Sierra Leone", "country_label": "National ICT Policy of Sierra Leone (Approved by Government on 28 October 2009)", "class": "sector", "platform": "", "owner": "Ministry of Information and Communications", "tiers": "national; prepared by the National ICT Task Force"}
+  ],
+  "note": ""
+}

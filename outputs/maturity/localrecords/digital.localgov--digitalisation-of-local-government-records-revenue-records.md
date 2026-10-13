@@ -24,11 +24,11 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 14 |
-| 2 Nascent | 20 |
+| 3 Established | 15 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 16 |
+| Unplaced | 2 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -136,6 +136,15 @@ The capital registers its taxpayers digitally and one commune outside it began i
 - Le Sahel quotes the City of Niamey's delegated administrator saying 50 field agents with mobile devices had geolocated over 2,000 taxpayers, and that municipal tax payments through Al Izza and Nita were integrated with real-time revenue tracking and an automated audit of each transaction; the article is dated 2025-01-29 and gives the launch as a Monday ([source, 2025-01](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/)).
 - Le Sahel reports the platform launched in the City of Niamey only; it names no other commune ([source, 2025-01](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/)).
 
+### Nigeria: 3 Established
+
+Two local government areas in one state registered payers digitally from 2017; how many record across the country is not known.
+
+*Register survey.*
+
+- The article describes an app in which LGA revenue agents register payers, businesses and vehicles and collect and print receipts, on a taxpayers' database, in Oredo and Egor LGAs, Edo State ([source, 2017-03](https://www.akamai.university/uploads/1/2/7/7/127725089/pjst19_2_242.pdf)).
+- The authors say 2 of Edo State's 18 LGAs (Oredo and Egor) use the automated collection system, introduced in March 2017; the text elsewhere says 19 LGAs ([source, 2017-03](https://www.akamai.university/uploads/1/2/7/7/127725089/pjst19_2_242.pdf)).
+
 ### Somalia: 3 Established
 
 Four Puntland local governments kept a digital register of payers and payments in 2022; the share of all local governments is not known.
@@ -192,6 +201,13 @@ Twelve of 77 communes were selected in 2019 for cash-desk software that records 
 - The PAACOL project (started 2017, three years) selected 12 communes of Benin's 77 to be equipped with single cash windows for non-tax revenue during 2019/2020; the page is undated, so its 2019-09-19 publication date is used ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
 - The cash desk is equipped with software that records each payment, networked so information is shared with the communal actors concerned; no register of payers is described ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
 - The software is networked within the commune among its actors; no link to a national system is stated ([source, 2019-09-19](https://www.ancb.bj/index.php/projet/paacol.html)).
+
+### Cameroon: 2 Nascent
+
+A platform for traders to register and pay local tax was presented in 2023 for two councils; whether any council uses it is not known.
+
+- AIMF reports that FEICOM presented Inform'All City on 21 March 2023, a platform on which informal traders register and pay their local tax, against a site the commune assigns them, so that councils collect remotely ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
+- AIMF reports that Inform'All City is to be deployed first in the councils of Yaoundé II and Douala III, the political and economic capitals, with no wider count given ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
 
 ### Cape Verde: 2 Nascent
 
@@ -274,6 +290,23 @@ A pilot revenue database was planned in June 2023 for two city corporations; whe
 
 - The June 2023 terms of reference plan a pilot GIS-based revenue collection database and a digital payment system in two city corporations, Monrovia and Paynesville, within a 36-month advisor contract; it describes no local government as recording on such a system yet ([source, 2023-06](https://www.emansion.gov.lr/sites/default/files/documents/REOI%20-%20REVENUE%20and%20PFM%20ADVISOR.pdf)).
 
+### Libya: 2 Nascent
+
+A 2024 ministry programme signed by 27 municipalities includes electronic collection; how many municipalities use its local revenue system is not known.
+
+- The Ministry of Local Government of the Government of National Unity runs the National Programme for Activating Local Revenues, under which 27 municipalities signed a sponsorship document on 10 June 2024; its projects include an electronic collection system and a database of municipal economic activities ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
+- The programme director said it targets both municipalities where the local revenue system is already activated and those where it is not and still needs activating; no count of either group is given, and the 27 signatories are not said to be using the system ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
+
+### Madagascar: 2 Nascent
+
+One commune outside the capital was handed property-tax software in 2021; whether it or any other commune records payers digitally since is not known.
+
+*Centrally collected.*
+
+- UNDP states the G-IFPB software, fed by a 2019 taxpayer census, was handed over on 2021-09-13 to manage collection of the built-property tax in Toamasina ([source, 2021-09-13](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
+- The software was installed at the Commune Urbaine de Toamasina and at the Direction Régionale des Impôts Atsinanana, per UNDP ([source, 2021-09-13](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
+- Only Toamasina commune uses G-IFPB; UNDP says staff were trained to replicate the process in the city's other arrondissements, and communes later equipped may use it ([source, 2021-09](https://www.undp.org/fr/madagascar/communiques/g-ifpb-le-logiciel-de-gestion-de-limpot-foncier-sur-la-propriete-batie-operationnel-toamasina)).
+
 ### Mali: 2 Nascent
 
 Communes tested tax registers in 2023 and Koutiala began a pilot in March 2026; whether any uses one as routine is not known.
@@ -341,6 +374,15 @@ A digital revenue system was launched for Juba City Council in September 2026; t
 - Access Radio reports on 8 October 2026 that the Central Equatoria State Government launched a Digital Revenue Collection System and e-Services for Juba City Council in September 2026, and that the council's first executive meeting under its caretaker mayor put the move from manual to digital revenue collection at the centre of its priorities ([source, 2026-09](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
 - The report of 8 October 2026 names only Juba City Council, the capital's council, and describes the move from manual revenue collection to a digital system as a transition the council is still to make ([source, 2026-10-08](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
 
+### Sudan: 2 Nascent
+
+One locality began electronic collection as a model site in May 2026; whether it keeps a register of payers is not known.
+
+*Advancing.*
+
+- The Sennar state finance ministry launched Isali electronic collection on 12 May 2026 at the transport and petroleum department and Sinja locality, with collectors, auditors and accountants equipped and trained; no register of payers is stated ([source, 2026-05-12](https://almndranews.com/88116/)).
+- Sinja locality was one of two model sites in Sennar State launched on 12 May 2026, and the state finance director general said all state institutions would be covered at the start of the second half of 2026 ([source, 2026-05-12](https://almndranews.com/88116/)).
+
 ### Togo: 2 Nascent
 
 One commune, Lacs 1, started a project to digitalise municipal tax registration in 2021; whether it went into use is not known.
@@ -373,14 +415,6 @@ In 2020 local authorities could not levy taxes and none collected its own; how r
 
 Not established: The two rows, on 2020 fiscal data, say local authorities are not empowered to levy taxes and none of the nine collects its own; that is no revenue to record, not a dated statement that records are kept on paper, and no system is said to be prepared. Nothing is dated since 2020, and no system is listed.
 
-### Madagascar: Unplaced
-
-Nothing dated by 30 September 2026 shows a commune keeping its revenue record digitally, so no stage is set.
-
-*Centrally collected.*
-
-Not established: All three rows (MDG-001 to MDG-003) are dated 7 October 2026, after the as-at of 30 September 2026, so none sets anything. They describe one commune, Antananarivo, launching a market register that day; nothing is held on any commune at the as-at.
-
 ### Botswana: No evidence
 
 One city council has an online rates payment channel (2024); whether any council keeps a digital record is not known, so no stage is set.
@@ -394,12 +428,6 @@ State tax services run tax billing and collection (2021); whether any collectivi
 *Centrally collected.*
 
 Not established: No evidence row is held on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.
-
-### Cameroon: No evidence
-
-A local authority digitalisation programme sought financing in June 2026; whether any commune keeps digital revenue records is not known, so no stage is set.
-
-Not established: No evidence row is held on local government revenue records. What is held instead is DIGI-CoR, an enabling programme for the decentralised local authorities still seeking financing in June 2026; SIGIT, the central tax directorate's system, unclassified, whose offices include the Centres de Fiscalité Locale et des Particuliers; and a planned digital land register for the Communauté urbaine de Douala. Whether any commune keeps a digital revenue record is not established.
 
 ### Comoros: No evidence
 
@@ -439,25 +467,11 @@ Nothing is held on local governments' revenue records, digital or paper, and no 
 
 Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
 
-### Libya: No evidence
-
-The ministry gave 21 municipalities access to a local revenues system in October 2025; what it records is not known, so no stage is set.
-
-Not established: No evidence row is held on local government revenue records. systems.csv does name a local revenues system of the Ministry of Local Government, unclassified: launched about May 2022 with six municipalities present, and 21 municipalities of the second cohort of mayors given access and training in October 2025. What it records, where the record is held and how many municipalities enter data are not established; correspondence and employment systems are also named.
-
 ### Mauritius: No evidence
 
 Permit and document systems run in local authorities (2024); whether any council keeps a digital revenue record is not known, so no stage is set.
 
 Not established: No evidence row is held on local government revenue records. What is held instead is the Mauritius Revenue Authority's national Tax Payer Portal, a central system not stated as collecting any council revenue; the National Electronic Licensing System for permits through the local authorities; I-Council, a document and project system in 12 local authorities; and a cashier system of the Judiciary. Whether any council keeps a digital revenue register or receipt record is not established.
-
-### Nigeria: No evidence
-
-Only one state's revenue system is named (2024); local government areas' own digital revenue records are not known, so no stage is set.
-
-*Register survey.*
-
-Not established: No evidence row is held on local government revenue records. Only a state-level revenue system is named, the Anambra State IGR portal, under a 2024 law merging state and local government levies into one demand notice. Also held are federal and state land information programmes and a local addressing database fed by local government areas, classed as a survey. Whether any local government area keeps its own digital revenue record is not established.
 
 ### Rwanda: No evidence
 
@@ -478,9 +492,3 @@ Not established: No evidence row is held on local government revenue records, an
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
 Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
-
-### Sudan: No evidence
-
-State electronic collection reached a fourth state in April 2025; whether any locality records revenue digitally is not known, so no stage is set.
-
-Not established: No evidence row is held on local government revenue records. What is held instead is the federal electronic collection system (Eysali, earlier E15), unclassified and with no local government named, and state-level systems: Isali launched in Gedaref in April 2025 and pending in Khartoum State, where localities are named among the bodies to apply it, plus Khartoum's state portal and the Baladna platform. Whether any locality records its own revenue digitally is not established.

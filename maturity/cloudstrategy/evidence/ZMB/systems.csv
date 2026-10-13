@@ -2,3 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,National AI data centre,national AI data centre,other,Huawei cloud and AI infrastructure,Smart Zambia Institute with Huawei Technologies Zambia (co-investment under a planned MoU),government systems; AI-powered public services across all 25 ministries,2026-05-26-zambia-huawei-national-ai-data-centre-mou-ovp
 ZMB,Paratus,Paratus,other,,Paratus,,2026-06-11 Can Africa supply it's own digital infrastructure
 ZMB,INFRATEL,INFRATEL,other,,INFRATEL,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+ZMB,Zambia National Data Centre (ZNDC),Zambia National Data Centre,other,Tier 3 data centre with a backup site and a disaster recovery site,Smart Zambia Institute,Government and private sector ICT hosting; banks and mobile providers use it at a fee,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
+ZMB,Government Wide Area Network,Government WAN,other,,Smart Zambia Institute,87 government departments and institutions,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
+ZMB,Government Service Bus,Government Service Bus,other,,Electronic Government Division,all public bodies must integrate their services with it,2023-10-06-zmb-gazette-si-43-egovernment-general-regulations
+ZMB,Government Wide Area Network,Government Wide Area Network,other,,Electronic Government Division,"public bodies, for their e-government services where applicable",2023-10-06-zmb-gazette-si-43-egovernment-general-regulations

@@ -1,0 +1,11 @@
+{
+  "slug": "2007-09-01-mus-mitt-national-ict-policy-2007-11",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Information Technology and Telecommunications issued the National ICT Policy 2007-11 in September 2007, with a foreword by the Minister calling it the first comprehensive ICT Policy; its cover page also carries the header 2nd Version, 3 August 2007.", "as_of": "2007-09", "date_precision": "month", "system": "National ICT Policy 2007-11", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full text of the National ICT Policy 2007-11 is held on the Ministry's official site (mitci.govmu.org), uploaded there in 2025; the document itself is dated September 2007.", "as_of": "2007-09", "date_precision": "month", "system": "National ICT Policy 2007-11", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2011", "fact": "The policy is titled 2007-11 and its foreword refers to the coming five years.", "as_of": "2007-09", "date_precision": "month", "system": "National ICT Policy 2007-11", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The policy says its implementation depends on a National ICT Strategic Plan (NICTSP) setting out the programmes and projects for the next five years; the policy itself gives no costs and the plan is not in this document.", "as_of": "2007-09", "date_precision": "month", "system": "National ICT Policy 2007-11", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government interoperability framework, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No framework or draft is on record, and no source dated in the last three years says the government has neither.",
+      "note": "Counted from the four questions by study-ladder-interoperability.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

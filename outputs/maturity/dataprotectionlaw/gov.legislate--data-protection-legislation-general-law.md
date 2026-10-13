@@ -25,8 +25,8 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo 
 | 3 Established | 31 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
-| Unplaced | 0 |
-| No evidence | 1 |
+| Unplaced | 1 |
+| No evidence | 0 |
 
 ## Countries
 
@@ -541,8 +541,8 @@ Eritrea has no data protection law as of 2026 and no supervisory authority; whet
 - Law Lab Africa states that no comprehensive data protection law is in force in Eritrea, as of a verification pass on 1 August 2026 ([source, 2026-08-01](https://research.lawlab.africa/eritrea/)).
 - The Horn of Africa Initiative Digital Policy Matrix update (June 2025, World Bank team) states that Eritrea remains at a nascent stage without data protection legislation, unlike Kenya, Somalia and Ethiopia which have enacted frameworks ([source, 2025-06](https://hoainitiative.org/sites/default/files/2025-09/25th%20HoAI%20Ministerial%20-%20Background%20Paper%20on%20Digital%20Integration%20Update.pdf)).
 
-### Libya: No evidence
+### Libya: Unplaced
 
-Whether Libya has a general data protection law, or one in preparation, is not known, so no stage is set.
+A civil-society group published an unofficial draft data protection law in 2026; no government bill or law is known, so no stage is set.
 
-Not established: evidence.csv for LBY holds a header row and no evidence rows; profile.csv is absent and systems.csv is empty. The only fact files (facts/1.json, facts/2.json) record no fact on any aspect.
+Not established: A civil-society group published an unofficial draft data protection law for comment in March 2026. No source held says the government has a bill or a law.

@@ -1,21 +1,22 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "sector",
-   "stage": "unplaced",
-   "governance": "",
-   "standing": "",
-   "text": "",
-   "period": "to:2030",
-   "plan": "",
-   "reporting": "",
-   "last12": "",
-   "cap": "",
-   "flags": "under the national strategy",
-   "stage_sources": "EGY-001",
-   "gaps": "The one row gives the ICT 2030 Strategy's period and nothing else: no source states that it was adopted, is in drafting or was announced, and the ministry web page presenting it is not its text. Governance, delivery plan, reporting and the last twelve months are not held.",
-   "note": "ICT 2030 Strategy: its period runs to 2030, but its standing is not on record, so no rung can be set. Stage 2 needs a standing of announced or beyond, and stage 3 an adopted policy with a public text."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2017",
+      "plan": "actions",
+      "reporting": "activity",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "EGY-003;EGY-004;EGY-006",
+      "gaps": "The National ICT Strategy 2013-2017 ended in 2017 and no row shows a sector policy adopted or in preparation after it. The ICT 2030 Strategy (EGY-001) has a period and nothing else: no source states that it was adopted, is in drafting or was announced, and the ministry web page presenting it is not its text, so it is neither in force nor a successor in preparation. The mandated ministry, the targets and the claimed pace of implementation all date from 2013, outside the 36 months, and nothing is held on finance or the last twelve months.",
+      "note": "National ICT Strategy 2013-2017: the one sector policy on record as adopted, dated April 2013 with its text on the ministry's site, and its period ended in 2017, so it is lapsed and places nothing. Stage 2 needs a successor with a standing of announced or beyond, and the ICT 2030 Strategy has none on record.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

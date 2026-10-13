@@ -25,10 +25,10 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 5 |
-| 2 Nascent | 16 |
+| 2 Nascent | 18 |
 | 1 Absent | 8 |
-| Unplaced | 7 |
-| No evidence | 17 |
+| Unplaced | 6 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -173,6 +173,14 @@ A police information system launched in June 2025 runs in Nouakchott's commissar
 - The report says the system was put to work on 19 June 2025 for, among others, central commissioners and heads of judicial police sections in the commissariats, who register in a database held by the central office for collecting police information, to which police centres are being linked ([source, 2025-06-19](https://mourassiloun.com/node/36165)).
 - The director of the central office gave the stages of linking as 27 National Police centres and 7 National Gendarmerie centres (plus 2 customs centres, not counted here), with no total of stations; the report separately puts the rollout across Nouakchott's commissariats at 90 per cent complete ([source, 2025-06-19](https://mourassiloun.com/node/36165)).
 
+### Namibia: 2 Nascent
+
+The police have had a digital case system since 2010; in 2022 not all units had it, and which stations enter reports is not known.
+
+- The Namibian Police Force's E-Policing eco-system, launched in 2010 per the minister, comprises 16 databases including case docket management, as reported by New Era on 11 July 2016; the article does not say stations enter cases in it ([source, 2016-07](https://neweralive.na/certificate-conduct-issued-weeks/)).
+- The IST-Africa paper (May 2022) says e-policing in Namibia records, stores and shares police information electronically, and that officers at Okahandja police station see storing the occurrence book electronically as duplication of data ([source, 2022-05](https://www.researchgate.net/publication/360748631_Leveraging_Technology_to_Enhance_Effective_Electronic_Policing_in_Developing_Countries)).
+- The paper says implementation is immature because not all units of the Namibian Police have been introduced to the system, and gives no count of stations ([source, 2022-05](https://www.researchgate.net/publication/360748631_Leveraging_Technology_to_Enhance_Effective_Electronic_Policing_in_Developing_Countries)).
+
 ### Niger: 2 Nascent
 
 In 2019 a team of eight in Niamey entered cases into the police database; whether any station outside the capital records digitally is not known.
@@ -202,6 +210,12 @@ A digital case file system was installed and central stations in 23 regions conn
 - The Minister for Home Affairs told Parliament, tabling the 2024/25 estimates, that the ministry has installed a digital case file management information system, to be connected with the criminal justice institutions ([source, 2024-05](https://dailynews.co.tz/state-allocates-40-5bn-for-installation-of-abis-strengthening-ict/)).
 - The minister said that by April 2024 the Central Police Stations in 23 regions had been connected to the national broadband backbone and linked to the Office of the Director of Public Prosecutions, with police stations in other regions still being connected to the system; the article gives no total of stations ([source, 2024-04](https://dailynews.co.tz/state-allocates-40-5bn-for-installation-of-abis-strengthening-ict/)).
 - The minister described the 23 regional Central Police Stations as connected over the national broadband backbone and linked to the Director of Public Prosecutions' office, and other stations as being connected to the system; the article does not say that the case file is entered at the station when the case is opened ([source, 2024-04](https://dailynews.co.tz/state-allocates-40-5bn-for-installation-of-abis-strengthening-ict/)).
+
+### Togo: 2 Nascent
+
+Police said in April 2026 all police and gendarmerie stations have the regional police information tool; whether any enters reports in it is not known.
+
+- A police divisional commissioner said on 14 April 2026 that all commissariats and gendarmerie brigades in Togo have the SIPAO tool; this is a statement by the police, with no count of stations given ([source, 2026-04-14](https://togoenlive.tg/sipao-reflexions-a-lome-sur-lappropriation-et-la-perennisation-aux-niveaux-national-et-regional)).
 
 ### Uganda: 2 Nascent
 
@@ -311,19 +325,13 @@ Not established: The only system held, BEMA, is a vendor's design presented at a
 
 Ten police and gendarmerie units in Greater Conakry were equipped in 2021; whether any enters records is not known, so no stage is set.
 
-Not established: Every usable fact is dated 31 March 2021: ten police and gendarmerie units of Greater Conakry equipped with the SIPAO kit, with no total of units and no statement that any was entering records, and the digitising of procès-verbaux stated as an intention (C is that intention, not a record made). Nothing dated inside 36 months of the as-at shows preparation, a pilot or a system running, and governance (ministry as owner, a 2021 budget line) falls outside its window. The paper-only statements come from the excluded source (GIN-001 to GIN-003), so no dated statement of absence is held.
+Not established: The newest usable facts are dated 31 March 2021: ten police and gendarmerie units of Greater Conakry equipped with the SIPAO kit, with no total of units and no statement that any was entering records, and the digitising of procès-verbaux stated as an intention (C is that intention, not a record made). The decree of 13 May 2019 (GIN-008, GIN-009) creates the centre, the system and its budget allocation; it is a law, which places nothing, and it names no station. Nothing dated inside 36 months of the as-at shows preparation, a pilot or a system running, and governance (ministry as owner, a budget allocation in 2019 and a budget line in 2021) falls outside its window. The paper-only statements come from the excluded source (GIN-001 to GIN-003), so no dated statement of absence is held.
 
 ### Lesotho: Unplaced
 
 An inspection begun in 2023 found posts without stationery keeping registers by hand; what other stations do is not known, so no stage is set.
 
 Not established: The one usable fact, from the Ombudsman's inspection begun in July 2023 and so older than three years, shows five named posts keeping registers and forms by hand; it does not say that stations record on paper only, nor what the other inspected stations do. No records system for stations is named in any evidence row, and nothing is held on governance, the records made, the stations or the last twelve months. The two rows stating paper recording nationwide are from the excluded source.
-
-### Namibia: Unplaced
-
-A 2022 study of one region found stations recording by hand; the rest of the country is not known, so no stage is set.
-
-Not established: The statement of absence is from 2022 and from one region, Omusati, on 8 officers interviewed; nothing newer is held and nothing national. The force's E-Policing system, launched in 2014, is named in systems.csv with no source outside the excluded essay saying what it does or which stations use it, so it places nothing. No governance fact, no station count and nothing in the last twelve months. Parent ruling: the absence rests on a 2022 study of traffic-offence records in one region (Omusati), which is one function in one region and does not carry the country.
 
 ### Senegal: Unplaced
 
@@ -418,12 +426,6 @@ Not established: The only rows held are from a source the study excludes. No hel
 ### Sao Tome and Principe: No evidence
 
 A police crime-statistics system was being put in place in 2024; how stations record reports is not known, so no stage is set.
-
-Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
-
-### Togo: No evidence
-
-A national police information centre opened in Lomé in 2022; how stations record reports is not known, so no stage is set.
 
 Not established: The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.
 

@@ -1,0 +1,74 @@
+{
+ "slug": "2019-12-26-mar-anrt-note-orientations-generales-telecoms-horizon-2023",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Note d'orientations générales for the telecommunications sector to 2023 states that the ANRT board of directors examined and adopted it on 26 December 2019, and that the Government is implementing it.",
+   "as_of": "2019-12-26",
+   "date_precision": "day",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "text",
+   "value": "public",
+   "fact": "The 9-page note is served as a PDF on the ANRT website under the head of government's letterhead.",
+   "as_of": "2019-12-26",
+   "date_precision": "day",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2023",
+   "fact": "The note sets the sector's general orientations to the horizon of 2023, with targets for 2023 (MAD 35 billion turnover, 33 million Internet subscribers, 2 Mb/s coverage for the whole population).",
+   "as_of": "2019-12-26",
+   "date_precision": "day",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The note assigns ANRT to pilot the infrastructure-sharing model, strengthen service quality and apply the new regulatory measures.",
+   "as_of": "2019-12-26",
+   "date_precision": "day",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The note sets targets and dated actions with no costs, including a 5G study in 2020, a new coverage programme by 2024 and research-fund mobilisation from 2021 at the latest.",
+   "as_of": "2019-12-26",
+   "date_precision": "day",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "country_label": "Note d'orientations générales (NOG) 2023",
+   "class": "sector",
+   "platform": "",
+   "owner": "Government / ANRT",
+   "tiers": "national"
+  },
+  {
+   "system": "PNHD",
+   "country_label": "Programme National de Généralisation du Haut Débit",
+   "class": "programme",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

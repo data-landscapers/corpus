@@ -1,0 +1,15 @@
+{
+  "slug": "2011-07-08-ken-capitalfm-opendata-portal-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Kenya Open Government Data Portal (opendata.go.ke)",
+      "country_label": "Kenya Open Government Data Portal",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Kenya (Ministry of Information and Communications; Planning ministry as main data source)",
+      "tiers": "national"
+    }
+  ],
+  "note": "Portal launched by the President on 2011-07-08; the President only said the government will enact legislation, a stated intention with no policy or drafting."
+}

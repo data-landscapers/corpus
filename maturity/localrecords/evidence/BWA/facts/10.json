@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-25-bwa-bopa-lobatse-council-app-rates-collection",
+  "facts": [],
+  "systems": [
+    {"system": "FNB app (Public Recipient)", "country_label": "FNB App", "class": "web", "platform": "FNB app and planned payment gateway", "owner": "First National Bank Botswana, with Lobatse Town Council", "tiers": "Lobatse Town Council"}
+  ],
+  "note": "Bank app lets owners pay rates to the council; no council-kept payer register is stated, so web class and no fact."
+}

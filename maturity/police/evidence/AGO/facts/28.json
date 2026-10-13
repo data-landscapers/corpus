@@ -1,0 +1,39 @@
+{
+  "slug": "2024-09-26-ago-pti-policia-prometti-piis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PIIS (plataforma integrada de informações policiais e serviços)",
+      "country_label": "PIIS",
+      "class": "",
+      "platform": "",
+      "owner": "Direcção de Telecomunicações e Tecnologias de Informação, Polícia Nacional",
+      "tiers": ""
+    },
+    {
+      "system": "sistema integrado de gestão",
+      "country_label": "sistema integrado de gestão",
+      "class": "",
+      "platform": "PIIS",
+      "owner": "Polícia Nacional",
+      "tiers": ""
+    },
+    {
+      "system": "PROMETTI private network (MPLS)",
+      "country_label": "PROMETTI",
+      "class": "enabling",
+      "platform": "MPLS",
+      "owner": "Polícia Nacional",
+      "tiers": "general command, central bodies, provincial commands"
+    },
+    {
+      "system": "Video surveillance cameras, Luanda",
+      "country_label": "câmaras de vídeo vigilância",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Polícia Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": "PIIS integrates several systems and an integrated management system is in production, but the article does not say stations enter reports or cases in it."
+}

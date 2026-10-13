@@ -22,11 +22,11 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 |---|---|
 | 5 Leading | 5 |
 | 4 Operating | 8 |
-| 3 Established | 21 |
+| 3 Established | 22 |
 | 2 Nascent | 11 |
 | 1 Absent | 4 |
 | Unplaced | 3 |
-| No evidence | 2 |
+| No evidence | 1 |
 
 ## Countries
 
@@ -150,6 +150,12 @@ Cabo Verde has an operating data protection commission in 2025, but no published
 
 - Techhive Advisory reports that the head of Cabo Verde's data protection authority was among the DPA heads of 61 countries who signed the Global Privacy Assembly enforcement group's joint statement on AI-generated imagery on 23 February 2026 ([source, 2026-02-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
 - The CNPD, headed by president Faustino Varela, held an international conference on personal data protection in the AI era for its 10th anniversary, with the Prime Minister opening it ([source, 2025-03-19](https://expressodasilhas.cv/pais/2025/03/19/presidente-da-cnpd-defende-dialogo-entre-os-ecossistemas-de-governanca-de-dados-para-equilibrar-regulacao-da-ia/96153)).
+
+### Chad: 3 Established
+
+Chad's data protection directorate had its director and deputy appointed by decree in June 2026; no rulings or figures are known.
+
+- Decree 2011/PR/2026 of 1 June 2026 appoints a director (replacing a predecessor) and a deputy director of ANSICE's Direction du contrôle et de la protection des données personnelles; the document does not say a law names ANSICE as the authority ([source, 2026-06-01](https://www.alwihdainfo.com/tchad-nomination/)).
 
 ### Congo: 3 Established
 
@@ -394,12 +400,6 @@ Not established: No law held names an authority, and no source dated in the last
 A 2022 factsheet says Sudan has no data protection authority; nothing more recent is known, so no stage is set.
 
 Not established: No law held names an authority, and no source dated in the last three years says the country has none.
-
-### Chad: No evidence
-
-Chad: nothing is known about a data protection authority, so no stage is set.
-
-Not established: Nothing held names a data protection authority or says there is none.
 
 ### Libya: No evidence
 

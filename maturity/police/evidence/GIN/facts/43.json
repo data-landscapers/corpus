@@ -1,0 +1,36 @@
+{
+  "slug": "2019-05-13-gin-guineelex-decret-credpol-sipg",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Decree D/2019/132 of 13 May 2019 creates CREDPOL within the Ministry of Security and Civil Protection to run the national police information system SIPG, whose offence-processing component is fed by designated police and gendarmerie officers.",
+      "as_of": "2019-05-13",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Guinée (SIPG)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Article 9 of the decree gives CREDPOL an annual budget allocation entered in the national budget.",
+      "as_of": "2019-05-13",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Guinée (SIPG)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système d'Information Policière en Guinée (SIPG)",
+      "country_label": "SIPG",
+      "class": "record",
+      "platform": "",
+      "owner": "CREDPOL, under the Ministry of Security and Civil Protection",
+      "tiers": "national police, gendarmerie, customs, nature conservators, justice; terminals in the services, no station named"
+    }
+  ],
+  "note": "Decree creating the system; it states no live use, no station entry and no share of stations, so no records, made or stations fact. Other SIPG files (stolen vehicles, wanted persons) are identification/exchange."
+}

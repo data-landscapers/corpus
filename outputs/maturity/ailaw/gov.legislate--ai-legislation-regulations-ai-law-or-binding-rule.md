@@ -22,11 +22,11 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 6 |
-| 2 Nascent | 6 |
-| 1 Absent | 9 |
+| 3 Established | 7 |
+| 2 Nascent | 9 |
+| 1 Absent | 14 |
 | Unplaced | 0 |
-| No evidence | 33 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -35,6 +35,12 @@ The African Union's Continental AI Strategy, adopted in 2024, asks member states
 A media code in force since February 2026 requires AI-generated content to be labelled; there is no law on AI itself.
 
 - The CNPA states that the new Code de l'information et de la communication, adopted by Loi n°25-021/AU of 26 December 2025 and promulgated by Décret n°26-023/PR of 2 February 2026, requires explicit labelling of any content generated or heavily modified by AI (article 231), with CNPA sanctions up to 1,000,000 KMF ([source, 2026-02-02](https://www.cnpa-comores.org/un-nouveau-souffle-pour-le-cnpa/)).
+
+### Egypt: 3 Established
+
+A 2024 financial regulator decree on robo-advisors is in force; a general AI law is still a draft in 2026.
+
+- The guide says FRA Board Decree No. 57 of 2024, regulating robo-advisors for investment, is AI-specific and requires client suitability assessments and a right to discontinue automated transactions ([source, 2024](https://www.legal500.com/guides/chapter/egypt-artificial-intelligence/?export-pdf=)).
 
 ### Gabon: 3 Established
 
@@ -73,6 +79,12 @@ A draft AI law was out for public consultation in 2026; no rule on AI is in forc
 - The MINTTICS public consultation portal lists the Proposta de Lei Sobre a Inteligencia Artificial as a document under consultation and records 18 contributions from companies, 18 from specialists and 5 from the general public; the portal is undated, so the capture date of 2026-08-27 is used ([source, 2026-08-27](https://consultapublica.minttics.gov.ao/)).
 - TechHive Advisory reviews a draft Artificial Intelligence law introduced in Angola, a comprehensive framework for the development, supply and use of AI with a risk-based approach and extraterritorial reach; the document gives no date for the draft, so its published date of 2025-12-29 is used ([source, 2025-12-29](https://www.techhiveadvisory.africa/insights/review-of-angolas-proposed-law-on-artificial-intelligence)).
 
+### Congo: 2 Nascent
+
+A bill adopted in April 2026 sets an ethical framework for AI in research; whether it is in force is not known.
+
+- The Congolese National Assembly adopted on 8 April 2026 a bill on the orientation and development of scientific research that introduces an ethical framework for AI and institutes a national committee to oversee responsible AI use; the report does not say it is in force ([source, 2026-04-08](https://www.aci.cg/congo-recherche-scientifique-une-nouvelle-loi-pour-structurer-le-secteur-et-encadrer-lia/)).
+
 ### Equatorial Guinea: 2 Nascent
 
 A ministry was revising a preliminary draft of an AI law in 2025; no rule on AI is in force.
@@ -98,12 +110,36 @@ A law on AI in education was almost ready for cabinet in September 2026; no rule
 
 - Education and Culture Minister Samaria Tovela said on 2026-09-16 that the law to regulate the use of artificial intelligence in education, covering all institutions from primary school to higher education, is almost ready and will go to the Council of Ministers for approval before the end of 2026 ([source, 2026-09-16](https://integritymagazine.co.mz/arquivos/69322)).
 
+### Seychelles: 2 Nascent
+
+A private member's draft bill covering AI was presented to Assembly members in 2024; no rule on AI is known to be in force.
+
+- A private member's draft Pro-Human Technology Bill, covering AI in employment and education among other technologies, was presented to National Assembly members at a seminar on 6 March 2024; the Speaker said it was still far from reaching the Assembly, and it is expected to go to an Assembly working group ([source, 2024-03](https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill)).
+
 ### Sudan: 2 Nascent
 
 The Council of Ministers discussed a draft data and AI law in August 2026; no rule on AI is in force.
 
 - On 2026-08-11 the Justice Ministry's undersecretary said the ministry is preparing, with the digital transformation ministry, three draft laws for 2026, one of them a Data and Artificial Intelligence Regulation Law; no text or enactment is reported ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
 - On 2026-08-06 the Council of Ministers discussed the digital transformation ministry's draft Data and Artificial Intelligence Law and directed that it be studied further before approval by the interim parliament, a joint sitting of the Sovereignty and Ministers councils ([source, 2026-08-06](https://sudantribune.net/article/317108)).
+
+### Tunisia: 2 Nascent
+
+A draft data protection law including AI use was before a committee in February 2026; no rule on AI is known in force.
+
+- Organic law proposal 095/2025 on personal data protection, 132 articles in 6 chapters and including regulation of AI use, was heard before the Assembly's Rights and Freedoms Committee on 17 February 2026 ([source, 2026-02-17](https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/)).
+
+### Chad: 1 Absent
+
+In April 2026 a minister said Chad's digital texts cannot regulate AI and set up a committee; no draft law is known.
+
+- On 27 April 2026 the telecoms minister said existing digital texts no longer allow AI to be regulated, and installed a 34-member committee with 45 days to propose updated texts; no draft text on AI is named, and the article describes the current legal vacuum on AI ([source, 2026-04-27](https://www.digitalbusiness.africa/tchad-le-gouvernement-accelere-la-refonte-du-cadre-juridique-du-numerique-pour-encadrer-lia-et-renforcer-la-souverainete-digitale/)).
+
+### DR Congo: 1 Absent
+
+No hard law on AI and no draft were named in 2024; soft law prevailed. Whether a draft exists since is not known.
+
+- A law-faculty dean writing on droitnumerique.cd says the DRC has not yet developed its hard law on AI and that soft law still largely prevails; the article names no draft law, and no date is given for the statement so the published date 2024-08-23 is used ([source, 2024-08-23](https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/)).
 
 ### Djibouti: 1 Absent
 
@@ -122,6 +158,12 @@ A review of June 2026 says Eritrea has no AI law and no AI-specific legislation;
 An assessment of June 2026 says The Gambia has no legislation on AI and none proposed.
 
 - The Oxford Institute of Technology and Justice assessment states that as at June 2026 there is no dedicated legislation regulating the use of AI in The Gambia and no proposed legislation on AI ([source, 2026-06](https://www.techandjustice.bsg.ox.ac.uk/thegambia-3447303d-c9d6-4476-963c-02898588dc35)).
+
+### Guinea: 1 Absent
+
+A ministry official said in October 2025 that Guinea has no AI law or framework; whether a draft is under way is not known.
+
+- The secretary-general of the Ministry of Posts, Telecommunications and Digital Economy said at the opening of an AI diagnostic workshop that Guinea lacks a legislative and regulatory framework on AI and has not yet adopted a specific AI law ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 
 ### Namibia: 1 Absent
 
@@ -143,6 +185,12 @@ UNESCO's 2026 profile and the minister both say the country has no AI-specific l
 - UNESCO's country profile states São Tomé and Príncipe has no AI-specific laws or regulations governing the development, use or deployment of AI (undated in the document, so as_of is its published date, 2026-01-22) ([source, 2026-01-22](https://www.unesco.org/ethics-ai/en/saotomeeprincipe)).
 - The UNESCO readiness assessment, in the preface by the Minister of Education, states that Sao Tome and Principe has no laws or regulations specific to the development, use and deployment of AI; the document gives no date for this statement, so its published date (2025) is used ([source, 2025](https://unesdoc.unesco.org/ark:/48223/pf0000394953)).
 
+### Senegal: 1 Absent
+
+A July 2024 diagnostic found no AI-specific legal text in Senegal; whether a draft has appeared since is not known.
+
+- An IPAR diagnostic of four West African countries says there is as yet no legal text specific to AI at continental, regional or national level, and that of the target countries only Benin has a framework suited to regulating AI; the document's published date is used as no event date is given ([source, 2024-07](https://ipar.sn/wp-content/uploads/2026/07/L7_Rapport-diagnostic-du-cadre-politique-juridique-ethique-relatif-a-lIA-technologies-emergentes_Version-Finale.pdf)).
+
 ### Sierra Leone: 1 Absent
 
 The justice minister said in September 2026 that no specific AI legislation has been enacted; no draft is named.
@@ -162,6 +210,12 @@ A review of September 2026 says Uganda has no AI laws in place; a 2025 governmen
 
 - CIPIT (Strathmore University) states that Uganda has no AI laws in place and uses data protection laws in place of a dedicated framework; no event date is given, so the document's published date is used ([source, 2026-09-15](https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/)).
 - The Ministry of ICT and National Guidance and ITU assessment lists a lack of AI policy, legal and regulatory framework among its major findings and recommends Uganda develop one; the document gives only its year, 2025, as its date ([source, 2025](https://www.itu.int/dms_pub/itu-d/opb/uga/D-UGA-NAAILA-2025-PDF-E.pdf)).
+
+### Zimbabwe: 1 Absent
+
+An analyst wrote in July 2026 that Zimbabwe has no AI law and no draft; whether one has been introduced since is not known.
+
+- African Law Matters analyst Tashinga Magaya writes that the National AI Strategy is not a law, that the proposed regulator has no enabling Act, and that the Cyber and Data Protection Act is the law that applies to AI today, so no AI-specific rule is in force and she urges that a draft AI Act be introduced within twelve to eighteen months ([source, 2026-07-27](https://www.africanlawmatters.com/blog/strategy-without-statute-reading-zimbabwes-national-ai-strategy)).
 
 ### Algeria: No evidence
 
@@ -211,31 +265,7 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
-### Chad: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Congo: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Cote d'Ivoire: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### DR Congo: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Egypt: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
@@ -248,12 +278,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Ethiopia: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Guinea: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
@@ -313,18 +337,6 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
-### Senegal: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Seychelles: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Somalia: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
@@ -343,19 +355,7 @@ Nothing held names a law or binding rule on AI, or a draft of one, or says there
 
 Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
 
-### Tunisia: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
 ### Zambia: No evidence
-
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
-
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
-
-### Zimbabwe: No evidence
 
 Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-25-rwa-newtimes-districts-revenues-tripled",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RRA district revenue collection",
+      "country_label": "RRA collection on behalf of districts",
+      "class": "central",
+      "platform": "",
+      "owner": "Rwanda Revenue Authority",
+      "tiers": "30 districts and City of Kigali"
+    }
+  ],
+  "note": "RRA collects district own revenue (Rwf105.9bn in 2024/25) centrally; class central, no fact. Digital systems are mentioned without description of a local-government record."
+}

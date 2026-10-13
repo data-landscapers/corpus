@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-06-gnq-ahoraeg-malabo-terminal-pago-ofivege",
+  "facts": [],
+  "systems": [
+    {"system": "terminal de pago electrónico (VISA and GIMAC cards) at OFIVEGE-Baney", "country_label": "terminal de pago electrónico", "class": "web", "platform": "card payment terminal", "owner": "OFIVEGE (vehicle-documents office); device supplied by the Ayuntamiento de Malabo", "tiers": "OFIVEGE office at Baney; Malabo council supplied the device"}
+  ],
+  "note": "A card terminal for administrative fees at a vehicle-documents office, supplied by the Malabo council; no council payer register or record is stated, so it is a payment channel (web) and gives no fact."
+}

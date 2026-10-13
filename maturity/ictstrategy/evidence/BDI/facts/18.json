@@ -1,0 +1,13 @@
+{
+  "slug": "2021-06-04-bdi-abp-retraite-evaluation-pndtic",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "ABP reports that public-sector ICT focal points met from 31 May to 2 June 2021 to review progress in applying the national ICT development policy PNDTIC 2010-2025, treating it as the policy in force.", "as_of": "2021-06", "date_precision": "month", "system": "PNDTIC 2010-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "The report names the policy as PNDTIC 2010-2025 and says it is to be implemented effectively by 2025, with universal ICT access as the 2025 vision.", "as_of": "2021-06", "date_precision": "month", "system": "PNDTIC 2010-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The focal points' retreat found achievements in infrastructure, applications, skills, planning and governance but gives no figures against the policy's targets, and says more effort is needed by 2025.", "as_of": "2021-06", "date_precision": "month", "system": "PNDTIC 2010-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The retreat stressed the ministry in charge of ICT as key to coordinating the stakeholders and to monitoring and evaluating the PNDTIC, and asked that ICT cells be set up in all institutions.", "as_of": "2021-06", "date_precision": "month", "system": "PNDTIC 2010-2025", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "PNDTIC 2010-2025", "country_label": "Politique nationale de développement des TIC (PNDTIC 2010-2025)", "class": "sector", "platform": "", "owner": "Ministry in charge of ICT", "tiers": "national"}
+  ],
+  "note": ""
+}

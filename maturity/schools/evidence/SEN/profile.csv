@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,emis,governance,qualifier,,,,,nothing held
-SEN,emis,levels,coverage,,,,,nothing held
-SEN,emis,kept,coverage,paper,2025-12,SEN-003,,
-SEN,emis,last12,qualifier,,,,,nothing held
+SEN,emis,governance,qualifier,owner:ministry;plan:current,2025-10-03,SEN-007;SEN-008,,not stated: finance
+SEN,emis,levels,coverage,P;S,2025-10-03,SEN-005,,
+SEN,emis,kept,coverage,routine,2025-10-03,SEN-004,SEN-003=paper,
+SEN,emis,last12,qualifier,advancing,2025-10-03,SEN-006,,
 SEN,emis,schools,coverage,,,,,nothing held

@@ -1,0 +1,52 @@
+{
+  "slug": "2025-11-01-mwi-csea-advancing-open-data-governance-malawi",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "A CSEA policy brief of November 2025 finds that Malawi's open data vision is spread across other instruments, with no dedicated open data implementation framework and no central authority to enforce open standards.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Malawi open data framework",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "none",
+      "fact": "The same brief states that no centralised open data portal or standardised framework currently exists, and that most government datasets stay in PDF reports; it proposes a unified portal.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Malawi central open data portal",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Transformation Strategy 2021-2026",
+      "country_label": "Digital Transformation Strategy",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalisation",
+      "tiers": "national"
+    },
+    {
+      "system": "National ICT Policy (2013)",
+      "country_label": "National ICT Policy",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Malawi OGP National Action Plan 2025-2028",
+      "country_label": "NAP 2025-2028",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

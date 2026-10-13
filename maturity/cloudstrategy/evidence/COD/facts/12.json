@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-01-cod-ptn-tdr-hebergement-donnees-publiques",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Digital Transformation Project terms of reference (March 2026) say the government, helped by UNECA and GIZ, is developing a national data hosting strategy, under way mainly at central level, and seek consultants to define the hosting approach (for example cloud-first or cloud-appropriate) and propose hosting and cloud decrees and directives.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Stratégie nationale d'hébergement des données",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "none",
+      "fact": "The terms of reference (March 2026) say public-sector data hosting is fragmented, heterogeneous and insufficiently pooled, with no coherent national framework for classification, governance and pooling, and that norms on sovereign hosting remain embryonic or inoperative.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Wiocc data centre",
+      "country_label": "centre de données Wiocc",
+      "class": "other",
+      "platform": "open-access model",
+      "owner": "Private (Wiocc)",
+      "tiers": "private market"
+    },
+    {
+      "system": "Raxio data centre",
+      "country_label": "centre Raxio",
+      "class": "other",
+      "platform": "Tier III, about 400 racks",
+      "owner": "Private (Raxio)",
+      "tiers": "private market"
+    }
+  ],
+  "note": ""
+}

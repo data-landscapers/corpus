@@ -1,0 +1,36 @@
+{
+  "slug": "2022-05-01-nam-researchgate-e-policing-okahandja",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The IST-Africa paper (May 2022) says e-policing in Namibia records, stores and shares police information electronically, and that officers at Okahandja police station see storing the occurrence book electronically as duplication of data.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "E-policing",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "The paper says implementation is immature because not all units of the Namibian Police have been introduced to the system, and gives no count of stations.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "E-policing",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-policing",
+      "country_label": "E-policing",
+      "class": "record",
+      "platform": "",
+      "owner": "Namibian Police Force, Ministry of Home Affairs, Immigration, Safety and Security",
+      "tiers": "Okahandja police station surveyed (60 officers); not all units introduced"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-04-28-tcd-dba-comite-refonte-cadre-juridique-numerique-ia",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "On 27 April 2026 the telecoms minister said existing digital texts no longer allow AI to be regulated, and installed a 34-member committee with 45 days to propose updated texts; no draft text on AI is named, and the article describes the current legal vacuum on AI.",
+      "as_of": "2026-04-27",
+      "date_precision": "day",
+      "system": "",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

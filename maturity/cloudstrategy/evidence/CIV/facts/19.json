@@ -1,0 +1,13 @@
+{
+  "slug": "2021-06-14-civ-ansut-politique-hebergement-cloud",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The ANSUT document 'Politique d'hébergement des données dans le cloud', version 1.0 dated 14 June 2021, was approved on 17 June 2021 by ANSUT's Directeur de l'Exploitation and sets the procedure for ministries and institutions to host applications in the cloud; no end or replacement is stated.", "as_of": "2021-06-17", "date_precision": "day", "system": "Politique d'hébergement des données dans le cloud", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The same document names the hosting: Microsoft Azure public cloud coupled with the eGOUV data centre, provided by ANSUT under the state's licence contract, to which ministries and institutions apply by official letter to ANSUT's Director General; it says they 'can' benefit and states no obligation or count of bodies moved.", "as_of": "2021-06-17", "date_precision": "day", "system": "Politique d'hébergement des données dans le cloud", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Politique d'hébergement des données dans le cloud", "country_label": "Politique d'hébergement des données dans le cloud", "class": "policy", "platform": "", "owner": "ANSUT / Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national: ministries, institutions, public administration"},
+    {"system": "Microsoft Azure public cloud via eGOUV licence contract", "country_label": "cloud public Microsoft Azure (eGOUV)", "class": "other", "platform": "Microsoft Azure", "owner": "ANSUT", "tiers": "national: ministries, institutions, public administration"},
+    {"system": "Datacenter eGOUV", "country_label": "Datacenter eGOUV", "class": "other", "platform": "", "owner": "ANSUT", "tiers": "national"}
+  ],
+  "note": ""
+}

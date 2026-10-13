@@ -1,0 +1,12 @@
+{
+  "slug": "2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda 2021 du numérique et de la digitalisation", "country_label": "Agenda 2021 du numérique et de la digitalisation", "class": "", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation", "tiers": "national"},
+    {"system": "PAG 2016-2021", "country_label": "Programme d'Action du Gouvernement 2016-2021", "class": "development-plan", "platform": "", "owner": "Government of Benin", "tiers": "national"},
+    {"system": "Stratégie Nationale de Sécurité Numérique", "country_label": "Stratégie Nationale de Sécurité Numérique (plan d'actions 2020-2022)", "class": "subsector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Code du Numérique", "country_label": "Code du Numérique", "class": "law", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Portail National des Services Publics", "country_label": "Portail National des Services Publics (service-public.bj)", "class": "government", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation", "tiers": "national"}
+  ],
+  "note": "Ministry scorecard of the PAG 2016-2021 and a 2021 work list; it states no ICT sector policy, its standing, period, plan or reporting against one."
+}

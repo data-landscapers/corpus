@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,sector,governance,qualifier,,,,,nothing held
-NER,sector,standing,coverage,adopted,2013-04-12,NER-001;NER-008,,nothing dated since 2023-09-28
+NER,sector,standing,coverage,adopted,2013-04-12,NER-001;NER-008;NER-013,NER-014=announced,nothing dated since 2023-09-28
 NER,sector,text,coverage,,,,,nothing held
 NER,sector,period,coverage,to:2020,2013-04-12,NER-002;NER-009,,nothing dated since 2023-09-28
 NER,sector,plan,coverage,actions,2013-04-12,NER-010,,nothing dated since 2023-09-28

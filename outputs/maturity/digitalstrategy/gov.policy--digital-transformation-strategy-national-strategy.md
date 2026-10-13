@@ -25,9 +25,9 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 18 |
-| 2 Nascent | 27 |
+| 2 Nascent | 29 |
 | 1 Absent | 2 |
-| Unplaced | 5 |
+| Unplaced | 3 |
 | No evidence | 2 |
 
 ## Countries
@@ -301,6 +301,12 @@ DR Congo validated a national digital plan in 2019, now past its period, and a 2
 - UNESCO states that public actors, technical and financial partners and experts met in Kinshasa on 4 August 2026 and validated the Politique sectorielle de l'économie numérique (PSEN), which with the AI strategy will set the country's orientations to 2030, at the end of a process led by the government through the digital economy ministry ([source, 2026-08-04](https://www.unesco.org/fr/articles/la-rdc-se-dote-dune-strategie-nationale-pour-une-intelligence-artificielle-ethique-et-inclusive)).
 - At a ceremony in Kinshasa on 4 August 2026 the digital economy minister presented the PSEN for government validation, and said it would go to the Council of Ministers in the coming days for adoption under national procedures ([source, 2026-08-04](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/)).
 
+### Djibouti: 2 Nascent
+
+Djibouti's cabinet heard a digital economy roadmap in March 2023; whether it was adopted is not known.
+
+- The government spokesperson's record of the fourth Council of Ministers session, chaired by President Guelleh, says the minister delegate for the digital economy gave a communication on the 'Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique', built on four pillars (smart administration, digital economy, smart trades, smart civil society) with structuring projects identified; it records no adoption or approval, and the month is the document's published month (the session date is inferred, late March 2023) ([source, 2023-03](https://diplomatie.gouv.dj/Articles/DetailArticles/821)).
+
 ### Egypt: 2 Nascent
 
 Egypt's Digital Egypt strategy, running from 2016, is listed as adopted in 2025, but its text, plan and recent progress are not known.
@@ -327,6 +333,14 @@ Ethiopia's Council of Ministers approved Digital Ethiopia 2030 in November 2025,
 
 - The Council of Ministers, on the Office of the Prime Minister's account, unanimously approved the Digital Ethiopia 2030 Strategy on 29 November 2025 and mandated its immediate implementation from the date of endorsement ([source, 2025-11-29](https://www.ena.et/web/eng/w/eng_7816242)).
 - Prime Minister Abiy Ahmed officially launched Digital Ethiopia 2030, described by the Ethiopian News Agency as a comprehensive national blueprint building on the Homegrown Economic Reform Agenda ([source, 2025-12-20](https://www.ena.et/web/eng/w/eng_7967007)).
+
+### Gabon: 2 Nascent
+
+Gabon's minister presented a national digitalisation strategy in April 2026 after the 2020-2025 plan ended; whether it has been adopted is not known.
+
+*Advancing.*
+
+- Gabonreview reports that at a meeting with state IT directors on 3 April 2026 the digital economy minister presented the main orientations of the national digitalisation strategy, built on five axes (regulatory framework, infrastructure, public services, local skills, data governance), and that sector master plans are still to be drawn up; it states no adoption or text ([source, 2026-04-03](https://www.gabonreview.com/transformation-numerique-de-letat-mark-alexandre-doumba-appelle-a-rompre-avec-les-initiatives-dispersees/)).
 
 ### Libya: 2 Nascent
 
@@ -481,23 +495,6 @@ Chad has a 2020 to 2030 digital transformation strategy, but its adoption and pu
 
 Not established: No row on this instrument says it was approved, adopted, launched or drafted; sources only name it as existing, with period 2020-2030, and text public is not stated, so standing is not established. The World Bank (2023) both cites the strategy and says there is no comprehensive national digital strategy (TCD-003), and recommends adopting 'Chad Digital Strategy Horizon 2030' (TCD-004, drafting), which may be the same document but is a different named instrument. Tchad Connexion 2030 (national development plan and economic strategy) is also held. Needed for stage 3: a source word of adoption and a public text; no reporting row.
 
-### Djibouti: Unplaced
-
-A national digital strategy was still to be written in October 2025, but later mentions leave its status not known, so no stage is set.
-
-Not established: DJI-001 (7 Oct 2025) records the elaboration of a national digital strategy as a challenge still open, but systems.csv shows later mentions of a Smart Nation strategy, a 'stratégie numérique' presented at WSIS 2026 and a decision to update the Smart Nation Strategy (World Bank, 10 Feb 2026), none described or dated as adopted, drafting or launched, so absence cannot be claimed as stage 1 and no rung above is set. Other national instruments (AI strategy, Digital Code, Vision 2035) are thematic, directive or development-plan and set nothing.
-
-### Gabon: Unplaced
-
-Gabon's national digital plan covered 2020 to 2025 and has ended; a successor is not known, so no stage is set.
-
-*Lapsed.*
-
-- The ITU repository lists the Gabon Digital Development Strategy (SGDN) / 'Gabon-Digital' as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year ([source, 2025](https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies)).
-- The repository gives the time frame of the Gabon Digital Development Strategy (SGDN) / 'Gabon-Digital' as 2020 - 2025 ([source, 2025](https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies)).
-
-Not established: The strategy's period ended in 2025, before 2026, and no successor is on record in a dated evidence row. The nearest candidates are systems.csv lines only: a 'stratégie de l'économie numérique' said by UNESCO to be under preparation in June 2025, and later references to a 'stratégie nationale de transformation numérique' with no act, content or period; none is described as a national successor, so stage 2 for lapsed-with-successor is not reached. Adoption rests on a general ITU repository listing naming no act; no text, plan or reporting row is held. The donor finance row (GAB-005, AfDB, Nov 2020) is outside the 36-month window.
-
 ### Seychelles: Unplaced
 
 In 2026 Seychelles gave two bodies the lead on its digital strategy, but its standing is not known, so no stage is set.
@@ -515,7 +512,7 @@ Tunisia's National Digital Strategy 2021-2025 ended in 2025 and no named success
 - The report gives the National Digital Strategy 2021-2025 a stated period of 2021-2025, which includes the report's date of 2024-07-24; it neither links nor quotes the text from an official site. Text public: not stated ([source, 2024-07-24](https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/54140/54140-board-report.pdf)).
 - The article says the Digital Strategy 2021-2025 'translated vision into delivery', citing by 2025 nearly 80% of the population as internet users and 4G coverage near 95%, measured against no target of the strategy itself and with no published progress report named ([source, 2025](https://www.telecomreviewafrica.com/articles/features/28394-whats-behind-north-africas-digital-generation-tunisia/)).
 
-Not established: Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. Also holds rows for the predecessor Plan national stratégique Tunisie Digitale 2020 (extended to 2025), whose body row (TUN-008) is not carried to this instrument; no text, plan or governance rows for the 2021-2025 strategy.
+Not established: Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. The rows for the predecessor Tunisie Digitale 2020 (extended to 2025), including its 2018 targets, results table and governance chart (TUN-035 to TUN-038) and its body row (TUN-008), are not carried to this instrument; that plan has ended too, and its results were published in 2018, outside any window. No text, plan or governance rows for the 2021-2025 strategy.
 
 ### Angola: No evidence
 

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-16-tcd-ialtchad-data-center-national-hebergement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre de données national (data center national)",
+      "country_label": "data center national",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère des Télécommunications, de l'Économie Numérique et de la Digitalisation de l'Administration with ADETIC",
+      "tiers": "ministries (existing systems to be hosted)"
+    }
+  ],
+  "note": "A national data centre awaited, with a survey of ministries' LANs to host existing systems; the Prime Minister's circular cited asks ministries to identify digital needs and is not stated as a hosting rule."
+}

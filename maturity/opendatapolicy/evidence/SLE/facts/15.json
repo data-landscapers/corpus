@@ -1,0 +1,54 @@
+{
+  "slug": "2016-01-01-sle-worldbank-open-data-readiness-assessment",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "Vice President Victor Bockarie Foh formally launched the national open data portal opendata.gov.sl on 2015-05-15, fulfilling a June 2014 OGP commitment; the World Bank assessment says its strategy, governance and management were not yet set.",
+      "as_of": "2015-05-15",
+      "date_precision": "day",
+      "system": "opendata.gov.sl",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "published",
+      "fact": "The World Bank readiness assessment of November 2015 says few datasets had been uploaded to the portal since launch, and names only the NERC Ebola care facilities list as released under an open licence (CC-BY).",
+      "as_of": "2015-11",
+      "date_precision": "month",
+      "system": "opendata.gov.sl",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank assessment of November 2015 says the strategy, governance and project management of the open data initiative were still in flux, and it recommends introducing open data provisions in the policy and legal framework; it names no open data policy.",
+      "as_of": "2015-11",
+      "date_precision": "month",
+      "system": "Sierra Leone Open Data Initiative",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "opendata.gov.sl",
+      "country_label": "national Open Data Portal",
+      "class": "policy",
+      "platform": "",
+      "owner": "Government of Sierra Leone (Open Government Initiative, Ministry of Information and Communications)",
+      "tiers": "national"
+    },
+    {
+      "system": "Open Data Council",
+      "country_label": "Open Data Council",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information and Communications / Right to Access Information Commission",
+      "tiers": "national"
+    }
+  ],
+  "note": "Document is 2016-dated by inference; mission held 9-20 November 2015, so facts carry 2015 dates. Body cut at the fetch cap; read to its end."
+}

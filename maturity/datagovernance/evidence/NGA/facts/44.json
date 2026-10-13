@@ -1,0 +1,27 @@
+{
+  "slug": "2023-07-19-nga-leadership-nitda-national-data-strategy-twg",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Permanent Secretary of the Federal Ministry of Communications and Digital Economy said on 19 July 2023 that the government had officially launched the National Data Strategy, built on seven pillars; the article also says it was launched in March of the previous year, so the event date used is the article's.",
+      "as_of": "2023-07-19",
+      "date_precision": "day",
+      "system": "National Data Strategy (NDS)",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "body",
+      "fact": "NITDA's Director-General inaugurated a Technical Working Group on 19 July 2023 for the implementation of the National Data Strategy, to recommend how regulatory agencies implement it.",
+      "as_of": "2023-07-19",
+      "date_precision": "day",
+      "system": "National Data Strategy (NDS)",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

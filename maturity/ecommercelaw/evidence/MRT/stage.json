@@ -1,16 +1,17 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a law on electronic transactions or e-commerce or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002",
+      "gaps": "No source held names a decree, regulation or order made under the law.",
+      "note": "Counted from the four questions by study-ladder-ecommercelaw.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

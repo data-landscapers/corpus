@@ -22,10 +22,10 @@ The Malabo Convention's third chapter commits each party to legal measures again
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 10 |
-| 3 Established | 36 |
+| 3 Established | 37 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 1 |
 
 ## Countries
@@ -189,6 +189,12 @@ A 2018 law on information technology crimes is in force; two bills in April 2026
 
 - An MP's bill of 22 April 2026 to amend Law 175 of 2018 on combating information technology crimes treats that law as the current law, whose provisions it would tighten ([source, 2026-04-22](https://www.elwatannews.com/news/details/8270615)).
 - A separate MP bill, referred to committees by the House speaker, amends Law 175 of 2018 on combating information technology crimes, which the sponsor calls the current law with penalties too weak ([source, 2026-04-22](https://www.elbalad.news/6945377)).
+
+### Eritrea: 3 Established
+
+Eritrea's Penal Code, read in 2020, covers computer offences in place of a cybercrime act; no use of it is known.
+
+- The Council of Europe cybercrime office's legal profile, version of 5 May 2020, maps Eritrea's Penal Code (Art. 374 unauthorized use of a computer, covering access, interception, data and system interference, and Art. 298 violation of privacy) to the Budapest Convention's offence articles as its domestic equivalent, and lists Eritrea as not a signatory; it gives no separate cybercrime act ([source, 2020-05-05](https://rm.coe.int/octocom-legal-profile-eritrea/16809efad6)).
 
 ### Eswatini: 3 Established
 
@@ -379,12 +385,6 @@ Cybersecurity and cybercrime bills have moved through parliament since 2025; no 
 
 - The Senate held first reading of a six-chapter, 33-article cybersecurity bill on 29 August 2026; it still needs second and third readings before final approval ([source, 2026-08-29](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills)).
 - The article says parliament approved the Cybersecurity Law in January 2026 and that a cybercrime bill was approved in August 2025; it states neither as in force ([source, 2026-01](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center)).
-
-### Eritrea: Unplaced
-
-No cybercrime or cybersecurity law or bill is known for Eritrea, and no use of one is known.
-
-Not established: No law or bill is on record, and no source dated in the last three years says the country has neither.
 
 ### Guinea-Bissau: No evidence
 

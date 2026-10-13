@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-18-ago-lexao-decreto-executivo-424-25-avaliacao",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "Decreto Executivo 424/25 of the Ministry of Education (18 June 2025) lists a 'Plataforma Informatica de Gestao de Dados de Alunos', defined as the tool that records the pupil's essential information, among the instruments for recording assessment results in primary (art. 23) and secondary general education (art. 26); it gives no usage figure and does not say schools already use it.",
+      "as_of": "2025-06-18",
+      "date_precision": "day",
+      "system": "Plataforma Informatica de Gestao de Dados de Alunos",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plataforma Informatica de Gestao de Dados de Alunos",
+      "country_label": "Plataforma de Gestao de Dados dos Alunos",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministerio da Educacao (decree issuer; models of the recording instruments are approved by the minister)",
+      "tiers": "primary, secondary general and adult education (arts. 23, 26, 28)"
+    }
+  ],
+  "note": "Regulation on assessment of learning; names the student data platform as a results-recording instrument but states no usage, coverage or schedule."
+}

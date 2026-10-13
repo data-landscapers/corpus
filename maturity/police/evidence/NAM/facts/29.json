@@ -1,0 +1,44 @@
+{
+  "slug": "2016-07-11-nam-newera-certificate-conduct-e-policing",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Namibian Police Force's E-Policing eco-system, launched in 2010 per the minister, comprises 16 databases including case docket management, as reported by New Era on 11 July 2016; the article does not say stations enter cases in it.",
+      "as_of": "2016-07",
+      "date_precision": "month",
+      "system": "E-Policing eco-system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Safety and Security launched the E-Policing eco-system in 2010 at a cost of N$22 million, said the minister on 8 July 2016.",
+      "as_of": "2016-07",
+      "date_precision": "month",
+      "system": "E-Policing eco-system",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-Policing eco-system",
+      "country_label": "E-Policing eco-system",
+      "class": "record",
+      "platform": "",
+      "owner": "Ministry of Safety and Security / Namibian Police Force",
+      "tiers": "16 databases incl. case docket, crime statistics, criminal records, mortuary; stations not stated"
+    },
+    {
+      "system": "NamPol Automated Biometric Identification System (N-ABIS)",
+      "country_label": "N-ABIS",
+      "class": "identification",
+      "platform": "AFIS and automated facial recognition",
+      "owner": "Ministry of Safety and Security / Namibian Police Force",
+      "tiers": "operational in Windhoek only at launch; countrywide roll-out planned by end 2016"
+    }
+  ],
+  "note": "N-ABIS is identification and gives no fact; facts are taken from the description of the wider E-Policing eco-system."
+}

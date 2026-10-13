@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "TASDJIL", "country_label": "TASDJIL", "class": "other", "platform": "SMS-based, solar-powered, needs no internet connection", "owner": "ANATS", "tiers": ""},
+    {"system": "ANATS", "country_label": "Agence Nationale des Titres Sécurisés", "class": "", "platform": "", "owner": "Ministry in charge of security", "tiers": ""}
+  ],
+  "note": "Lists the 2016 ANATS ordinance and the 2020 civil-status ordinance and its 2022 decree, but states no identity number, register or card set up by a law, so no fact on the identity law."
+}

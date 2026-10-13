@@ -1,0 +1,10 @@
+{"slug":"2013-01-01-sdn-escwa-national-profile-information-society-2013","facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"The ESCWA profile reports that an ICT strategy exists in Sudan, adopted in 2007 as the information society strategy within the 2007-2031 quarter-century plan, after the 2001-2006 national strategy for the information industry.","as_of":"2007","date_precision":"year","system":"information society strategy (2007-2011, 2012-2016)","class":"sector"},
+{"sub_indicator":"sector","aspect":"period","value":"to:2016","fact":"The profile says five-year information society strategy plans for 2007-2011 and then 2012-2016 were adopted; the current one runs to 2016 (document dated 2013-01-01).","as_of":"2012","date_precision":"year","system":"information society strategy (2007-2011, 2012-2016)","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"body:mandated","fact":"The profile names the National Council for Strategic Planning as the government agency in charge of the ICT strategy (document dated 2013-01-01).","as_of":"2013","date_precision":"year","system":"information society strategy (2007-2011, 2012-2016)","class":"sector"},
+{"sub_indicator":"sector","aspect":"reporting","value":"activity","fact":"The profile rates the pace of implementation of the ICT strategy as 'Good', citing no targets or published report (document dated 2013-01-01).","as_of":"2013","date_precision":"year","system":"information society strategy (2007-2011, 2012-2016)","class":"sector"}
+],"systems":[
+{"system":"information society strategy (2007-2011, 2012-2016)","country_label":"information society strategy","class":"sector","platform":"","owner":"National Council for Strategic Planning","tiers":"national"},
+{"system":"quarter century plan (2007-2031)","country_label":"quarter century plan","class":"development-plan","platform":"","owner":"","tiers":"national"},
+{"system":"national strategy for information industry (2001-2006)","country_label":"national strategy for information industry","class":"sector","platform":"","owner":"","tiers":"national"}
+],"note":""}

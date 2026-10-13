@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-05-lby-gia-circular-1-2024-data-protection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "General Information Authority (GIA)",
+   "country_label": "الهيئة العامة للمعلومات",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Libya",
+   "tiers": "public and private bodies running personal-data services"
+  }
+ ],
+ "note": "Circular 1 of 2024-09-05 has the GIA head require prior GIA permission for service projects built on personal or biometric data, under Law 4 of 1990 on the National Information System; it names no data protection authority and does not call the GIA one."
+}

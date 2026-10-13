@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-03-sdn-sudanspost-white-nile-esali-e-collection",
+  "facts": [],
+  "systems": [
+    {"system": "Isali", "country_label": "Isali electronic payment and collection system (إيصالي)", "class": "upper-tier", "platform": "", "owner": "Federal Ministry of Finance, General Directorate of Electronic Collection and Payment; White Nile State Ministry of Finance", "tiers": "White Nile State ministries (eighth state to complete rollout, per the federal directorate head, Dec 2025); localities and federal units scheduled next, not yet live"}
+  ],
+  "note": "Isali is live in White Nile state ministries; localities are only on a work schedule, so no local government record is stated."
+}

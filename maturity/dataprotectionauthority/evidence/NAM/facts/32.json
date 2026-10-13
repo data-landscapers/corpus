@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-29-nam-technews-namibia-data-protection-bill-good-or-bad",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Two named analysts writing in personal capacity say the draft Data Protection Bill proposes a dedicated supervisory authority to investigate complaints, enforce compliance and impose penalties, and that Namibia still lacks a comprehensive data protection framework; a bill, no body is stated as constituted.",
+   "as_of": "2025-04-29",
+   "date_precision": "day",
+   "system": "Data Protection Supervisory Authority (proposed in the Data Protection Bill)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Supervisory Authority (proposed in the Data Protection Bill)",
+   "country_label": "Data Protection Supervisory Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

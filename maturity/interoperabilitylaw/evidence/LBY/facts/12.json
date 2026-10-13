@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-lby-cjos-nawa-interoperability-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Nawa", "country_label": "Nawa", "class": "other", "platform": "Government Service Bus, open-source technologies", "owner": "General Information Authority and Libyan Digital Innovation Lab, with Expertise France (EU E-NABLE project)", "tiers": "national: Tax Authority, Commercial Registry, Central Bank of Libya, Customs Authority"}
+  ],
+  "note": "Abstract of a proof-of-concept hackathon platform (prize January 2025); it says interoperability needs legislative modernization but states nothing about an existing or draft law."
+}

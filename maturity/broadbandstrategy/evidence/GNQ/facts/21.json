@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-12-gnq-oipge-plan-nacional-telecom-banco-mundial",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "On 11 December 2025 the Ministry of Transport and Telecommunications presented to the World Bank a proposal for the Plan Nacional de Telecomunicaciones para la Transformacion Digital, which includes a competitive network ensuring 100% coverage before 2030; the article describes it as a plan still to be designed with World Bank technical assistance.",
+      "as_of": "2025-12-11",
+      "date_precision": "day",
+      "system": "Plan Nacional de Telecomunicaciones para la Transformación Digital",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan Nacional de Telecomunicaciones para la Transformación Digital",
+      "country_label": "Plan Nacional de Telecomunicaciones para la Transformación Digital",
+      "class": "plan",
+      "platform": "",
+      "owner": "Ministerio de Transportes y Telecomunicaciones",
+      "tiers": ""
+    }
+  ],
+  "note": "Funding talks are for non-reimbursable technical assistance with no agreement stated, so no delivery fact."
+}

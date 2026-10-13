@@ -1,0 +1,17 @@
+{
+  "slug": "2022-04-16-cod-kt-adoption-normes-standards-numerique-secteur-public",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The government adopted the draft digital norms and standards for the public sector on 15 April 2022, in five books including the Référentiel Général d'Interopérabilité; the minister said legal fixing would follow by ministerial order (arrêté), which the article does not report as issued.",
+      "as_of": "2022-04-15",
+      "date_precision": "day",
+      "system": "Référentiel Général d'Interopérabilité",
+      "class": "framework"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

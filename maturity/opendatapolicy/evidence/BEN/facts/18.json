@@ -1,0 +1,8 @@
+{
+  "slug": "2022-08-08-ben-expertisefrance-open-data-change-project",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Expertise France's project page says a technical assistance project, running from 1 January 2022 to 15 September 2024 (status ended), supports the national agency ASSI in setting up Benin's open data initiative, with a first axis of putting in place an open data regulation; it reports no adopted policy.", "as_of": "2022-01-01", "date_precision": "day", "system": "Benin open data initiative", "class": "policy"}
+  ],
+  "systems": [],
+  "note": ""
+}

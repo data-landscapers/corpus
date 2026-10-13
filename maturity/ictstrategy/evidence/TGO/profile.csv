@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TGO,sector,governance,qualifier,body:mandated,2017-10-20,TGO-003,,nothing dated since 2023-09-28
-TGO,sector,standing,coverage,adopted,2017-10-20,TGO-001,,nothing dated since 2023-09-28
+TGO,sector,standing,coverage,adopted,2017-10-20,TGO-001,TGO-004=drafting,nothing dated since 2023-09-28
 TGO,sector,text,coverage,,,,,nothing held
-TGO,sector,period,coverage,to:2022,2017-10-20,TGO-002,,nothing dated since 2023-09-28
+TGO,sector,period,coverage,to:2022,2021-09-20,TGO-002;TGO-005;TGO-007,,nothing dated since 2023-09-28
 TGO,sector,plan,coverage,,,,,nothing held
-TGO,sector,reporting,coverage,,,,,nothing held
+TGO,sector,reporting,coverage,activity,2017-08-30,TGO-006,,nothing dated since 2023-09-28
 TGO,sector,last12,qualifier,,,,,nothing held

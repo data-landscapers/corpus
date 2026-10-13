@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,Mauritius Mobile ID,Mauritius Mobile ID (mID),other,,,,2024-01-01 National Identity Card (Mobile ID) Regulations 2024 (Mauritius)
+MUS,InfoHighway,InfoHighway,other,,"Ministry of Information Technology, Communication and Innovation","national: Bank of Mauritius, Registrar of Civil Status, Mauritius Police Force",2022-04-15-mus-bom-central-kyc-mous-infohighway
+MUS,Central KYC,Central KYC,other,,Bank of Mauritius,national,2022-04-15-mus-bom-central-kyc-mous-infohighway

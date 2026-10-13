@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-12-tcd-mpntic-missions-attributions-psdnp",
+  "facts": [],
+  "systems": [
+    {"system": "Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP)", "country_label": "Plan stratégique de développement du numérique et des postes (PSDNP) 2020-2030", "class": "national", "platform": "", "owner": "Ministère des Télécommunications, de l'Economie Numérique et de la Digitalisation", "tiers": "national"}
+  ],
+  "note": "The page lists the ministry's remit and says it implements the PSDNP 2020-2030, which instruments.csv classes national, not sector; no sector-class fact."
+}

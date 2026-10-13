@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08-cmr-parec-plateforme-sige-sectoriel",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme sectorielle intégrée du Système d'Information pour la Gestion de l'Éducation (SIGE)", "country_label": "SIGE sectoriel", "class": "census", "platform": "web platform at sige-sectoriel.cm", "owner": "hosted by the Institut National de la Statistique (INS); ministry-led under the 2021-2030 SIGE strategic plan, with UNESCO support through PAREC", "tiers": "central; centralises statistics of all education and training sub-sectors"}
+  ],
+  "note": "The page describes a platform that centralises and publishes sector statistics, launched 8 May 2025; it states no school-level entry during the year, so it is a census-class platform and gives no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-31-zmb-moe-gpe-partnership-compact-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Education administrative data system (source of the annual school census report)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Enhanced EMIS (planned upgrade and automation under the Compact, Annex 2 not in the captured text)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "teachers, schools, districts, provinces, headquarters (planned real-time data users)"},
+    {"system": "Integrated platform to host learning, teacher management and other education monitoring data (planned, building on ZEEP)", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "TMIS", "country_label": "Teacher Management Information System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No emis-class fact: the only operating system described is the manual administrative data collection behind the annual school census report (census class); the enhanced EMIS is planned and described without any per-learner school entry, and Annex 2 is missing from the capture."
+}

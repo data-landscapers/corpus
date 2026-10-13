@@ -1,16 +1,17 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "no evidence",
-   "standing": "",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a data protection authority or says there is none.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "no evidence",
+      "standing": "",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held names a data protection authority or says there is none.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

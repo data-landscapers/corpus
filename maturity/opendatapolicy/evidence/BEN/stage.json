@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names an open data policy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-opendatapolicy.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-002",
+      "gaps": "No source held says an open data policy is adopted and still running.",
+      "note": "Counted from the four questions by study-ladder-opendatapolicy.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

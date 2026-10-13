@@ -5,7 +5,7 @@ GNQ,hmis,digitised,coverage,national,2025,GNQ-015,GNQ-017=facility;GNQ-018=distr
 GNQ,hmis,last12,qualifier,advancing,2025-11-25,GNQ-009;GNQ-014;GNQ-021,,
 GNQ,hmis,clinics,coverage,pilot,2025-06,GNQ-006;GNQ-016,,
 GNQ,emr,governance,qualifier,,,,,nothing held
-GNQ,emr,tiers,coverage,,,,,nothing held
+GNQ,emr,tiers,coverage,T2,2018,GNQ-030,,nothing dated since 2023-09-28
 GNQ,emr,digitised,coverage,,,,,nothing held
 GNQ,emr,last12,qualifier,,,,,nothing held
 GNQ,emr,clinics,coverage,,,,,nothing held

@@ -1,0 +1,46 @@
+{
+  "slug": "2017-04-17-dza-algeriepatriotique-systeme-information-education",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The minister announced on 17 April 2017 the official launch of the education ministry's information system, to run first as an experiment in the third term of 2016-17 before nationwide generalisation in 2017-18.",
+      "as_of": "2017-04-17",
+      "date_precision": "day",
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The ministry's secretary-general said the system will give each pupil a national identity number across the whole schooling, with daily management of absences, SMS to parents on absences and electronic report cards.",
+      "as_of": "2017-04-17",
+      "date_precision": "day",
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The system is the Ministry of National Education's own information system, announced by the minister.",
+      "as_of": "2017-04-17",
+      "date_precision": "day",
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'information du ministère de l'Éducation nationale",
+      "country_label": "Système d'information du secteur de l'éducation",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary, middle and secondary named for staffing needs; not stated for pupil records"
+    }
+  ],
+  "note": ""
+}

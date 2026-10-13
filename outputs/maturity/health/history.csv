@@ -10,3 +10,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-11,GHA,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,3,3,GHA-009;GHA-010;GHA-022;GHA-036;GHA-042,"Whole reassessment: last twelve months cleared, the only dated event being of December 2023; stage 3 stands"
 2026-10-11,KEN,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,3,3,KEN-035;KEN-036,"Whole reassessment: last twelve months cleared, no dated event inside the window; stage 3 stands"
 2026-10-11,TZA,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,3,3,TZA-023;TZA-044,"Whole reassessment: the advancing flag rested on an event of 1 October 2025, now outside twelve months, and is cleared; stage 3 stands"
+2026-10-13,BEN,digital.rural--digitalisation-of-rural-health-clinics-emr,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,GNQ,digital.rural--digitalisation-of-rural-health-clinics-emr,review,unplaced,2,GNQ-030,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SSD,digital.rural--digitalisation-of-rural-health-clinics-emr,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,SYC,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
+2026-10-13,TUN,digital.rural--digitalisation-of-rural-health-clinics-hmis,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.

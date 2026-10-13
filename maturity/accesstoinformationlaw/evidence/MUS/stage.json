@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names an access to information law or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "1",
+      "standing": "none",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

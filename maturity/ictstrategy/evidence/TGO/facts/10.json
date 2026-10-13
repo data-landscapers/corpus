@@ -1,0 +1,22 @@
+{
+  "slug": "2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting",
+     "fact": "On 30 August 2017 the Minister of Posts and Digital Economy told a stakeholder workshop that the new sector policy for 2018-2022 was being drawn up and that the digital-economy sector policy declaration was open to stakeholder input.",
+     "as_of": "2017-08-30", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022",
+     "fact": "The sector policy being drafted covers the four years 2018 to 2022, with the objective that no Togolese be more than 5 km from a broadband internet access point.",
+     "as_of": "2017-08-30", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity",
+     "fact": "The minister claimed the previous sector declaration's four axes were delivered over the past five years, citing E-gouv fibre linking 560 public buildings in the capital, an internet exchange point under WARCIP Togo and VAT removed on IT equipment from January 2017, with no result measured against stated targets.",
+     "as_of": "2017-08-30", "date_precision": "day",
+     "system": "déclaration de politique sectorielle précédente", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "country_label": "lettre de politique du secteur de l'économie numérique / politique sectorielle 2018-2022", "class": "sector", "platform": "", "owner": "Ministère des Postes et de l'Économie Numérique", "tiers": "national"},
+    {"system": "déclaration de politique sectorielle précédente", "country_label": "déclaration de politique sectorielle passée", "class": "sector", "platform": "", "owner": "Ministère des Postes et de l'Économie Numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

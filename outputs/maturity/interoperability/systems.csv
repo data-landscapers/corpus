@@ -138,6 +138,7 @@ GAB,Système national d'identité digitale (SNID),SNID,other,,Ministry of the In
 GAB,Centre national d'état civil (CNEC),CNEC,other,,Ministry of the Interior,,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,interoperability platform,interoperability platform,other,,ANINF (e-Gabon / Gabon Digital programmes),ministries,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
 GAB,Ogooué application,Ogooué,,,"Ministry of Housing, Habitat, Urbanism and Cadastre",,2026-05-06-agp-gabon-foncier-digitalisation-cadastre-application-ogooue
+GAB,Réseau de l'Administration Gabonaise (RAG),RAG,other,,ANINF,public administrations,2025-12-22-gab-allafrica-aninf-souverainete-numerique
 GHA,Ghana eGovernment Interoperability Framework (eGIF) Version 2.0,eGIF,framework,,NITA,MDAs at all levels of government,2022-01-01-ghana-egovernment-interoperability-framework-egif
 GHA,Government of Ghana Enterprise Architecture (GGEA),GGEA,other,,NITA,MDAs,2022-01-01-ghana-egovernment-interoperability-framework-egif
 GIN,Normes Procédures Règles d'Interopérabilité des SI v0.2.2,Règles d'Interopérabilité des SI,framework,,ANDE (Agence Nationale de Digitalisation de l'État),,2026-01-01-ande-cadre-et-referentiels
@@ -210,6 +211,7 @@ LSO,X-Road,X-Road,other,X-Road,"MICSTI (Ministry of Information, Communications,
 LSO,India Stack,India Stack,other,India Stack,MICSTI with India's Ministry of Electronics and Information Technology (MoU),,2025-07-29-lesotho-india-dpi-mou-publiceye
 LSO,Lesotho National Single Window (LNSW),Lesotho National Single Window,other,,Revenue Services Lesotho,central; 12 agencies connected,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
 LSO,Whole-of-government e-payment gateway,whole-of-government e-payment gateway,other,,Central Bank of Lesotho,,2026-09-27-lso-ppd-forum-lnsw-reforms-stalled
+LSO,Lesotho Government Data Network (LGDN),LGDN,other,,Government of Lesotho,"ministries, departments, agencies and district government offices",2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030
 MAR,e-government interoperability platform,Plateforme d'interoperabilite (ADD),other,built by Minsait; described as an open IoT system with Big Data capabilities,Agency for Digital Development (ADD),"public administrations, agencies and institutions; Single Social Register (RSU), MASSAR school management system and some social programs operational on it",2022-09-07-morocco-e-government-interoperability-platform
 MAR,Move to Cloud,Move to Cloud,other,,,public administrations,2026-09-10-leseco-maroc-ia-2030-phase-operationnelle
 MAR,Marketplace souveraine,Marketplace souveraine,other,,Ministry of Digital Transition and Administration Reform,,2026-09-10-leseco-maroc-ia-2030-phase-operationnelle
@@ -295,6 +297,7 @@ NER,Centre national de cyber-sécurité (CNAC),CNAC (SOC and CERT),other,,,,2025
 NER,Point d'échange internet national (IXP),IXP national,other,,,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
 NER,Guichet Unique du Commerce Extérieur (GUCE Niger),GUCE Niger,other,Webb Fontaine Single Window,State of Niger; Webb Fontaine Niger as technical partner,"Chamber of Commerce; Ministries of Commerce, Health, Livestock, Agriculture, Finance",2024-03-01-interview-niger-single-window-ali-karim-alio
 NER,Système d'identification de base (f-ID) / WURI-Niger,système d'identification de base (f-ID),other,,WURI-Niger project,,2024-01-01-lesahel-wuri-niger-presentation-projet
+NER,Référentiel Général d'Interopérabilité (RGI),Référentiel Général d'Interopérabilité (RGI),framework,,"Government of Niger (instituted by Loi 2019-03 of 30 April 2019, Art. 35)",administration information systems,2019-04-30-mcnti-loi-2019-03-transactions-electroniques
 NGA,Nigeria Government Enterprise Architecture (NGEA),NGEA,framework,,NITDA (hosted by Galaxy Backbone Limited; built with KOICA),"federal; pilots at NIMC, Nigeria Customs Service, Nigeria Immigration Service and NITDA",2026-03-27-nitda-takes-over-ngea-koica
 NGA,Draft technical standards for DPI (NITDA),Technical Standards for Deployment of Nigeria's Digital Public Infrastructure,other,,NITDA,government-wide,2025-04-15-nitda-draft-dpi-technical-standards
 NGA,Nigerian Digital Public Infrastructure Centre (Ng-DPIC),Ng-DPIC,other,,NITDA,,2025-04-15-nitda-draft-dpi-technical-standards
@@ -381,6 +384,8 @@ SWZ,OpenFn data flows CMIS to DHIS2,,other,OpenFn,Ministry of Health HMIS Unit,,
 SWZ,FHIR-based health information exchange on OpenHIM Platform with Master Patient Index,,other,OpenHIM; FHIR,"Eswatini health IT teams, with Jembi and DataFI",health facilities,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
 SWZ,Population Registry,Population Registry,,,,national,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
 SWZ,ERS Fiscalization Solution,Fiscalization Solution,,,Eswatini Revenue Service,retail sector,2025-10-29-ers-intensifies-drive-close-tax-gap
+SWZ,Government interoperability framework (GIF),GIF,framework,,Ministry of ICT,,2024-01-01-swz-iom-migration-digital-maturity-assessment
+SWZ,Data-sharing platform hosted by RSTP,data-sharing platform,other,RSTP,,,2024-01-01-swz-iom-migration-digital-maturity-assessment
 SYC,Seychelles Spatial Data Sharing Policy (SSDSP 2020),Seychelles Spatial Data Sharing Policy,other,"OGC WMS/WFS, ISO 19115 metadata","Centre for Geographic Information Services, Ministry of Lands and Housing","ministries, departments, agencies and autonomous bodies holding spatial data",2020-01-01-seychelles-spatial-data-sharing-policy
 SYC,e-invoicing system,e-invoicing,other,,Seychelles Revenue Commission,,2026-07-25-seychelles-src-final-stage-e-invoicing-procurement
 SYC,electronic Certificate of Origin (e-CO),e-CO,other,COMESA,Seychelles Revenue Commission,customs,2026-07-04-comesa-seychelles-eco-launch

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-04-30-mcnti-loi-2019-03-transactions-electroniques",
+  "facts": [],
+  "systems": [
+    {"system": "Référentiel Général d'Interopérabilité (RGI)", "country_label": "Référentiel Général d'Interopérabilité (RGI)", "class": "framework", "platform": "", "owner": "Government of Niger (instituted by Loi 2019-03 of 30 April 2019, Art. 35)", "tiers": "administration information systems"}
+  ],
+  "note": "Art. 35 institutes the RGI but leaves its drafting, approval and publication to a later decree; no text, drafting or compulsion is stated, so no fact (mandate to write is not a framework being written)."
+}

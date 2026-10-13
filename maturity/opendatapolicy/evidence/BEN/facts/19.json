@@ -1,0 +1,19 @@
+{
+  "slug": "2022-12-23-worldbank-odra-benin",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The World Bank open data readiness assessment, written for the Government of Benin, says the draft access to information bill and its Open Data decree were under discussion within the government, with no clear date for sending them to parliament and little progress in over 12 months; it names adoption of the bill and decree as the first priority.",
+     "as_of": "2022-12-23", "date_precision": "day",
+     "system": "projet de décret Open Data (avec le projet de loi d'accès à l'information)", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "none",
+     "fact": "The assessment says the national open data portal, built on CKAN and developed by the digital agency ASIN in 2021, was being finalised and was due to be officially launched in 2023; it reports no data published on it and says no open data licence or law yet exists.",
+     "as_of": "2022-12-23", "date_precision": "day",
+     "system": "Portail national de données ouvertes", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "projet de décret Open Data (avec le projet de loi d'accès à l'information)", "country_label": "décret Open Data", "class": "policy", "platform": "", "owner": "BAI and Ministry of Digital Affairs (MND), per the action plan", "tiers": "national"},
+    {"system": "Portail national de données ouvertes", "country_label": "portail national de données ouvertes", "class": "policy", "platform": "CKAN", "owner": "ASIN/SID, attached to the Presidency", "tiers": "national"},
+    {"system": "Portail Open Data du Bénin hébergé par la BAD", "country_label": "portail Open Data de la BAD", "class": "other", "platform": "African Development Bank Open Data for Africa", "owner": "INStaD (statistics institute)", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,sector,governance,qualifier,body:mandated;finance:not-stated,2025,SDN-005;SDN-006,SDN-002=body:mandated,
-SDN,sector,standing,coverage,adopted,2025,SDN-001;SDN-003,,
+SDN,sector,governance,qualifier,body:mandated;finance:not-stated,2025,SDN-005;SDN-006,SDN-010=body:mandated;SDN-002=body:mandated,
+SDN,sector,standing,coverage,adopted,2025,SDN-001;SDN-003;SDN-008,,
 SDN,sector,text,coverage,,,,,nothing held
-SDN,sector,period,coverage,to:2025,2025,SDN-004,,
+SDN,sector,period,coverage,to:2025,2025,SDN-004,SDN-009=to:2016,
 SDN,sector,plan,coverage,,,,,nothing held
-SDN,sector,reporting,coverage,none,2025,SDN-007,,
+SDN,sector,reporting,coverage,activity,2013,SDN-011,SDN-007=none,
 SDN,sector,last12,qualifier,,,,,nothing held

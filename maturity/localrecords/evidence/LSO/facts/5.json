@@ -1,0 +1,8 @@
+{
+  "slug": "2014-02-01-lso-molg-national-decentralisation-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Financial Management System (IFMIS)", "country_label": "IFMIS", "class": "accounts", "platform": "", "owner": "Government of Lesotho (Treasury, under the Public Financial Management reform)", "tiers": "central government; extension to local government operations planned"}
+  ],
+  "note": "A 2014 policy: says financial management in local councils is manual and local revenue is hardly collected, but states nothing on revenue records or any revenue system; IFMIS extension is accounts class."
+}

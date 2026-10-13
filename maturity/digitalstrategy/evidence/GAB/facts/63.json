@@ -1,0 +1,36 @@
+{
+  "slug": "2026-04-06-gab-gabonreview-strategie-nationale-digitalisation",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Gabonreview reports that at a meeting with state IT directors on 3 April 2026 the digital economy minister presented the main orientations of the national digitalisation strategy, built on five axes (regulatory framework, infrastructure, public services, local skills, data governance), and that sector master plans are still to be drawn up; it states no adoption or text.",
+      "as_of": "2026-04-03",
+      "date_precision": "day",
+      "system": "stratégie nationale de digitalisation",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 3 April 2026 the digital economy minister presented the five-axis national digitalisation strategy to state IT directors and announced a permanent consultation framework with them and progressive sector master plans.",
+      "as_of": "2026-04-03",
+      "date_precision": "day",
+      "system": "stratégie nationale de digitalisation",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "stratégie nationale de digitalisation",
+      "country_label": "stratégie nationale de digitalisation",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique, de la Digitalisation et de l'Innovation",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. [Digital Mauritius 2030](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>).
 
-***Not held***. No ICT or telecommunications sector policy is on record as adopted, drafted or announced. A National ICT Policy is named in one source with no date or standing.
+***Not held***. The National ICT Policy 2007-11, issued in September 2007, ended in 2011, and no successor sector policy is held as adopted or in preparation. The National ICT Strategic Plan it relies on, any report against it and any event in the twelve months to 30 September 2026 are not held.

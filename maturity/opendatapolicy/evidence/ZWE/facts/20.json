@@ -1,0 +1,11 @@
+{
+  "slug": "2022-08-12-zwe-frma-feasibility-open-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "none", "fact": "A peer-reviewed feasibility study by Josiline Chigwada (Chinhoyi University of Technology) finds from web content analysis that Zimbabwe has no open data policy in place and is not an Open Government Partnership member, and recommends that a national policy be crafted and enacted; the document gives no finding date, so the 2022-08-12 publication date is used.", "as_of": "2022-08-12", "date_precision": "day", "system": "national open data policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Zimbabwe data portal on Open Data for Africa", "country_label": "Zimbabwe Data Portal", "class": "other", "platform": "Open Data for Africa", "owner": "African Development Bank", "tiers": "national"},
+    {"system": "Zimbabwe Open Data Initiative (ZODI)", "country_label": "Zimbabwe Open Data Initiative", "class": "other", "platform": "", "owner": "Institute of Data Science Management, Data Management Society and Pan African Business Council", "tiers": ""}
+  ],
+  "note": ""
+}

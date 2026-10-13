@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-tcd-alwihda-nominations-direction-generale-ansice",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Decree 2011/PR/2026 of 1 June 2026 appoints a director (replacing a predecessor) and a deputy director of ANSICE's Direction du contrôle et de la protection des données personnelles; the document does not say a law names ANSICE as the authority.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "Agence Nationale de Sécurité Informatique et de Certification Electronique",
+   "class": "authority",
+   "platform": "",
+   "owner": "Presidency of Chad (appointments by decree)",
+   "tiers": "national; directorates for personal data control and protection, digital trust and information systems security"
+  }
+ ],
+ "note": ""
+}

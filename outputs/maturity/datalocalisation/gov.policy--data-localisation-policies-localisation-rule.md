@@ -21,12 +21,12 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
-| 3 Established | 11 |
+| 4 Operating | 10 |
+| 3 Established | 13 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 30 |
+| No evidence | 26 |
 
 ## Countries
 
@@ -50,6 +50,13 @@ A 2003 central bank notice requires data centres to be in Mozambique, and a 2025
 
 - The report presents Notice 4/GGBM/2003 as a Banco de Moçambique notice on data handling, so the central bank that issued it for the institutions it licenses is the body behind the rule; it names no inspection or penalty ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
 - The UNECA/GIZ/AU inception report says Banco de Moçambique Notice 4/GGBM/2003 requires data centres to be located in Mozambique, with replicas abroad allowed only with prior approval; it gives no repeal, and no date other than the 2003 notice and the report's publication of 2025-06-19 ([source, 2025-06-19](https://www.uneca.org/eca-events/sites/default/files/resources/documents/TICID/data-governance-framework-mozambique/en_project_inception_report_mozambique_data_governance_framework.pdf)).
+
+### Namibia: 4 Operating
+
+Since 2008 Namibia's central bank requires banks to keep core banking systems in the country and may sanction breaches; no recent case is known.
+
+- The determination, issued by the Bank of Namibia under section 71(3) of the Banking Institutions Act 1998 for the banking institutions it authorises, says that on non-compliance the Bank may pursue any remedial measure under that Act, and it refers to dispensations already granted to individual institutions ([source, 2008-08-11](https://www.lac.org.na/laws/2008/4109.pdf)).
+- The Bank of Namibia's Determination on Localization of Core Banking Systems (BID 19), signed 5 August 2008 and effective 11 August 2008, requires all authorised banking institutions to locate and maintain their core banking systems, where accounting and other banking records are kept, in Namibia ([source, 2008-08-11](https://www.lac.org.na/laws/2008/4109.pdf)).
 
 ### Nigeria: 4 Operating
 
@@ -79,6 +86,13 @@ A 2022 decree-law bars Tunisia's credit information companies from keeping their
 
 - Under the same decree-law the Banque centrale de Tunisie licenses credit information companies, and its governor may fine one 10,000 to 50,000 dinars, suspend it for three months or withdraw its licence after formal notice (article 29) ([source, 2022-01-04](https://legislation-securite.tn/latest-laws/decret-loi-n-2022-2-du-4-janvier-2022-portant-organisation-de-lactivite-du-renseignement-de-credit/)).
 - Article 21 of decree-law 2022-2 of 4 January 2022 bars credit information companies from transferring their databases, or setting up sites to protect the data given to them, outside Tunisia, and bars them from hosting credit information in the cloud ([source, 2022-01-04](https://legislation-securite.tn/latest-laws/decret-loi-n-2022-2-du-4-janvier-2022-portant-organisation-de-lactivite-du-renseignement-de-credit/)).
+
+### Zambia: 4 Operating
+
+Zambia's 2021 Data Protection Act requires sensitive personal data to stay in the country, enforced by a commissioner since 2023; no recent case is known.
+
+- The paper says the Data Protection Commission, established in 2023 under the Act and reporting to the Minister of Technology and Science, enforces the Act, and quotes Section 70 as letting personal data leave Zambia only with the approval of the data subject and the Data Protection Commissioner ([source, 2023](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Data-Policies-and-Regulations/Examining-Sensitive-Personal-Data-Protection-and-Data-Sovereignty-in-Zambia.pdf)).
+- The D4D Hub research paper states that Zambia's Data Protection Act No. 3 of 2021 requires sensitive personal data (health records, biometrics, religious beliefs, political opinions) to be stored within the country, quoting Section 70 that sensitive personal data can only be stored in Zambia and other personal data goes on servers in the Republic unless transfer is approved ([source, 2021](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Data-Policies-and-Regulations/Examining-Sensitive-Personal-Data-Protection-and-Data-Sovereignty-in-Zambia.pdf)).
 
 ### Zimbabwe: 4 Operating
 
@@ -111,6 +125,12 @@ An official said in 2025 that DR Congo's law requires all public administration 
 
 - A government official quoted in the ministry's own report of 24 July 2025 says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa-Gombe; the law's date is not given and the as_of is the statement date ([source, 2025-07-24](https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/)).
 
+### Djibouti: 3 Established
+
+Since 2020 a decree requires the national register of persons' data to be stored in Djibouti; no body is known to enforce it.
+
+- Article 9 of Decree 2020-146/PR/MI, issued after the Council of Ministers of 7 July 2020 and published 13 July 2020, states that the processed data of the National Register of Natural Persons (RNPP) are stored only on national territory; the document gives the publication date and no separate entry-into-force date ([source, 2020-07-13](https://www.journalofficiel.dj/texte-juridique/decret-n2020-146-pr-mi-portant-modalites-dacces-dexploitation-et-de-communication-du-registre-national-des-personnes-physiques/)).
+
 ### Egypt: 3 Established
 
 Egypt's Cloud First Policy, in force since August 2024, requires secret data to be hosted only in Egypt; the enforcer is not known.
@@ -134,6 +154,12 @@ Gabon's 2023 cybersecurity law requires confidential or sensitive data to be hos
 Kenya's cloud policy guidelines, reported in August 2026, require top secret state data to be held in Kenya; the enforcer is not known.
 
 - Implementation guidelines of the 2025 Kenya Cloud Policy, published by the Ministry of ICT and the Digital Economy, require top secret State data to be held in a data centre within Kenya and bar State entities from hosting data in their own server rooms without Cloud Adoption Committee authorisation, with 24 months to migrate; date is the article's published date ([source, 2026-08-06](https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208)).
+
+### Malawi: 3 Established
+
+A 2022 UN profile says Malawi requires local storage of health data only, naming no law; who enforces it is not known.
+
+- The UN Economic Commission for Africa's digital trade regulatory profile of Malawi states that Malawi has local storage requirements only for health-related data, naming no instrument; the document gives no date of its own, so the 2022 publication date is used (its data covers 2014-2021) ([source, 2022](https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Malawi-%20ENG.pdf)).
 
 ### Morocco: 3 Established
 
@@ -233,12 +259,6 @@ Nothing held says Congo has a rule keeping data in the country, or says it has n
 
 Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
 
-### Djibouti: No evidence
-
-Nothing held says Djibouti has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
-
 ### Equatorial Guinea: No evidence
 
 Nothing held says Equatorial Guinea has a rule keeping data in the country, or says it has none, so no stage is set.
@@ -281,12 +301,6 @@ Nothing held says Madagascar has a rule keeping data in the country, or says it 
 
 Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
 
-### Malawi: No evidence
-
-Nothing held says Malawi has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
-
 ### Mali: No evidence
 
 Nothing held says Mali has a rule keeping data in the country, or says it has none, so no stage is set.
@@ -302,12 +316,6 @@ Not established: Nothing held names a rule that data must be kept in the country
 ### Mauritius: No evidence
 
 Nothing held says Mauritius has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
-
-### Namibia: No evidence
-
-Nothing held says Namibia has a rule keeping data in the country, or says it has none, so no stage is set.
 
 Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
 
@@ -356,11 +364,5 @@ Not established: Nothing held names a rule that data must be kept in the country
 ### Uganda: No evidence
 
 Nothing held says Uganda has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
-
-### Zambia: No evidence
-
-Nothing held says Zambia has a rule keeping data in the country, or says it has none, so no stage is set.
 
 Not established: Nothing held names a rule that data must be kept in the country, or says there is none.

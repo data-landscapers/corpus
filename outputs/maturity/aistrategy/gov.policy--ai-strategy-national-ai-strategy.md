@@ -24,9 +24,9 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 | 4 Operating | 7 |
 | 3 Established | 8 |
 | 2 Nascent | 24 |
-| 1 Absent | 2 |
+| 1 Absent | 4 |
 | Unplaced | 0 |
-| No evidence | 12 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -286,6 +286,12 @@ Uganda was finalising a national AI strategy in 2026, due by the end of the fina
 
 - Nile Post reported that Uganda is developing an AI strategy, per Science, Technology and Innovation minister Jonard Asiimwe, and that it must be able to adapt to new technologies; no adoption is stated ([source, 2026-09-10](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says)).
 
+### Comoros: 1 Absent
+
+Comoros had no national AI strategy as of September 2026, and drafting one was still to start; any body or funding is not known.
+
+- Al-watwan, reporting the UNESCO RAM 2.0 readiness report presented in September 2026, says Comoros has no national strategy dedicated to artificial intelligence, and that drafting one is the first step still to be taken ([source, 2026-09](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html)).
+
 ### Eritrea: 1 Absent
 
 Eritrea had no national AI strategy or policy in 2026, and nothing held says one is being written.
@@ -299,15 +305,15 @@ Sao Tome and Principe had no national AI strategy in 2026, by UNESCO's readiness
 - UNESCO's country profile, drawn from the completed Readiness Assessment, states São Tomé and Príncipe currently has no national AI strategy; no date is given for the statement, so the document's published date of 2026-01-22 is used ([source, 2026-01-22](https://www.unesco.org/ethics-ai/en/saotomeeprincipe)).
 - The minister of education's preface to UNESCO's readiness report states the country has no national AI strategy; the report gives no month, so its published year of 2025 is used ([source, 2025](https://unesdoc.unesco.org/ark:/48223/pf0000394953)).
 
+### Somalia: 1 Absent
+
+Somalia had no officially adopted national AI strategy as of May 2026; whether one is being drafted is not known.
+
+- Ecofin Agency, citing an analysis published in May 2026, says Somalia has no officially adopted national AI strategy and no AI law; the as_of date is that analysis's month ([source, 2026-05](https://www.ecofinagency.com/news-digital/1707-57474-somalia-launches-university-ai-center-to-tackle-local-development-challenges)).
+
 ### Chad: No evidence
 
 Nothing held says Chad has a national AI strategy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national AI strategy, or says there is none.
-
-### Comoros: No evidence
-
-Nothing held says Comoros has a national AI strategy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a national AI strategy, or says there is none.
 
@@ -350,12 +356,6 @@ Not established: Nothing held names a national AI strategy, or says there is non
 ### Seychelles: No evidence
 
 Nothing held says Seychelles has a national AI strategy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national AI strategy, or says there is none.
-
-### Somalia: No evidence
-
-Nothing held says Somalia has a national AI strategy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a national AI strategy, or says there is none.
 

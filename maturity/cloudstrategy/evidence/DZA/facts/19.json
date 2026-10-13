@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-10-dza-ecotimes-gouvernance-donnees-centres-cloud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IRIES sovereign network",
+      "country_label": "réseau souverain IRIES",
+      "class": "other",
+      "platform": "closed network outside the internet",
+      "owner": "High Commission for Digitalisation",
+      "tiers": "more than 55 state sectors, institutions and bodies interconnected (Feb 2026)"
+    }
+  ],
+  "note": "Reports a data governance decree and data centres, cloud accounts and a closed state network in place; no hosting or cloud policy is stated."
+}

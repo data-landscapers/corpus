@@ -1,16 +1,17 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "no evidence",
-   "standing": "",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a data protection authority or says there is none.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

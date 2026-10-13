@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-01-stp-gpe-programa-educacao-integrada-scg",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "SIGE; sistema de informação do MECCES", "class": "", "platform": "", "owner": "MECCES (education ministry)", "tiers": "schools send data; national, district, school and community dashboards planned"},
+    {"system": "EMIS (revitalisation under PEREQT)", "country_label": "EMIS", "class": "", "platform": "", "owner": "education ministry, under the PEREQT project", "tiers": ""},
+    {"system": "Data Must Speak education dashboards", "country_label": "Os dados devem falar (DMS)", "class": "single-function", "platform": "", "owner": "UNICEF with the ministry; GPE-financed", "tiers": "national, district, school, community; basic and secondary"},
+    {"system": "Integrated digital M&E platform for pedagogical supervision", "country_label": "plataforma digital integrada de M&A", "class": "single-function", "platform": "", "owner": "education ministry, UNICEF-supported", "tiers": "primary and secondary schools"}
+  ],
+  "note": "Programme document, 2026-02 (date inferred, excerpt); says many schools do not use the system for lack of computers or internet or difficulty with SIGE, and that the EMIS is being revitalised, but never says what SIGE or the EMIS holds or who enters it, so no class and no fact."
+}

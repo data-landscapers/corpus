@@ -1,0 +1,11 @@
+{
+  "slug": "2017-07-11-ner-anp-reunion-tic-presidence-niger-2-0",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The news agency ANP reports that President Issoufou on 10 July 2017 instructed an update of the sector policy dating from 2012 (politique sectorielle datant de 2012), which implies a sector policy in place since 2012; the report gives no more on its adoption.", "as_of": "2012", "date_precision": "year", "system": "politique sectorielle 2012", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "announced", "fact": "ANP reports that on 10 July 2017 President Issoufou instructed that the sector policy dating from 2012 be updated; no draft is mentioned.", "as_of": "2017-07-10", "date_precision": "day", "system": "politique sectorielle 2012", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Plan Stratégique Niger 2.0", "country_label": "Plan Stratégique Niger 2.0", "class": "national", "platform": "", "owner": "Haut-Commissariat à l'Informatique et aux NTIC", "tiers": ""}
+  ],
+  "note": ""
+}

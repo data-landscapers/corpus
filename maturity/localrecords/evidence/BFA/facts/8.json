@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-01-bfa-luxdev-appui-cadastre-fiscal-ouaga-bobo",
+  "facts": [],
+  "systems": [
+    {"system": "Application de gestion électronique des documents (cadastre)", "country_label": "application de gestion électronique des documents", "class": "documents", "platform": "", "owner": "Direction générale des impôts, with LuxDev", "tiers": "Service du cadastre et des travaux fonciers, Ouagadougou and Bobo-Dioulasso"}
+  ],
+  "note": "Cadastral archive digitisation at the national tax directorate in two cities; no local government revenue record, payer register or payment stated."
+}

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,sector,governance,qualifier,,,,,nothing held
-COD,sector,standing,coverage,adopted,2009-07,COD-015,,nothing dated since 2023-09-28
+COD,sector,standing,coverage,adopted,2009,COD-015;COD-017,COD-018=drafting,nothing dated since 2023-09-28
 COD,sector,text,coverage,,,,,nothing held
 COD,sector,period,coverage,to:2014,2014,COD-016,,nothing dated since 2023-09-28
-COD,sector,plan,coverage,,,,,nothing held
+COD,sector,plan,coverage,actions,2009-10-23,COD-019,,nothing dated since 2023-09-28
 COD,sector,reporting,coverage,,,,,nothing held
 COD,sector,last12,qualifier,,,,,nothing held

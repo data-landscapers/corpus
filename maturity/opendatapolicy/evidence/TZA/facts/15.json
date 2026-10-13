@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-tza-teiti-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "TEITI Open Data Policy", "country_label": "TEITI's Open Data Policy", "class": "other", "platform": "", "owner": "Tanzania Extractive Industries Transparency Initiative, Ministry of Minerals", "tiers": "sector"}
+  ],
+  "note": "A March 2023 open data policy for one agency's extractives data only, not a national policy, so class other and no fact."
+}

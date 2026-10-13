@@ -1,0 +1,23 @@
+{
+  "slug": "2024-07-03-tun-unicef-cims-data-centre-evax",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EVAX",
+      "country_label": "EVAX",
+      "class": "tracker",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "système d'information hospitalier",
+      "country_label": "système d'information hospitalier",
+      "class": "",
+      "platform": "",
+      "owner": "Centre Informatique du Ministère de la Santé",
+      "tiers": ""
+    }
+  ],
+  "note": "No HMIS or EMR fact: the release covers the ministry data centre upgrade and the EVAX national vaccination system (a tracker), and names the hospital information system without saying what it does."
+}

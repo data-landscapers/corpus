@@ -1,0 +1,27 @@
+{
+  "slug": "2018-01-30-mrt-ami-assemblee-adopte-loi-transactions-electroniques",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "AMI reports the National Assembly adopted on 30 January 2018 the 102-article bill on electronic transactions (electronic writing equal to paper, e-commerce provider liability, a national certification authority); the report does not say it was promulgated.",
+      "as_of": "2018-01-30",
+      "date_precision": "day",
+      "system": "Projet de loi portant sur les transactions électroniques",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The minister told the Assembly that before this bill the law covered banking operations and some aspects of e-commerce under ordinance No. 2006-031 of 23 August 2006 on payment instruments and e-commerce operations, with implementing texts; AMI reports this on 2018-01-30.",
+      "as_of": "2006-08-23",
+      "date_precision": "day",
+      "system": "Ordonnance n° 2006-031 relative aux instruments de paiement et aux opérations du commerce électronique",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,6 +1,20 @@
 {
   "iso3": "GNB",
   "cells": [
-    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "", "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "The only three evidence rows (GNB-001 to GNB-003) come from the excluded source and set nothing. No admissible row describes a record per learner that schools add to during the year, and no admissible dated statement says primary schools keep learner records on paper only.", "note": "systems.csv holds only noted classes: SIGE and SIGE 2.0, StatEduc, the yearbook and school mapping as census, and the GEMS and Kobo inspection forms as single-function. A census sets no rung, and stage 1 needs an admissible paper statement that is not held."}
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "governance": "",
+      "levels": "P;S",
+      "kept": "keyed-elsewhere",
+      "last12": "",
+      "schools": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-004;GNB-005;GNB-006",
+      "gaps": "Every admissible row is from 2017/18: a pilot in Gabu region alone, with learner records collected school by school and keyed at a regional hub, no entry by the schools themselves and no count of schools. Nothing says whether the pilot continued or was extended. Owner (partner) and finance (donor) are held only from 2018, outside the 36 months, so governance is empty; nothing in the last twelve months. GNB-001 to GNB-003 are from the excluded source and set nothing.",
+      "note": "A pilot of a system holding a record per learner, in one region's basic and secondary schools, is stage 2. Stage 3 needs the system past its pilot and live in some primary schools, and the only source calls it a pilot.",
+      "as_at": "2026-10-13"
+    }
   ]
 }

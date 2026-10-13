@@ -1,0 +1,17 @@
+{
+  "slug": "2019-04-30-mcnti-loi-2019-03-transactions-electroniques",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Loi n° 2019-03 of 30 April 2019 on electronic transactions, adopted by the National Assembly and promulgated by the President, governs electronic commerce, electronic contracts, electronic signatures and trust service providers in Niger, and was to be published in the Journal Officiel (Art. 55).",
+      "as_of": "2019-04-30",
+      "date_precision": "day",
+      "system": "Loi n° 2019-03 portant sur les transactions électroniques",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Text creates the national certification authority ANCE (Art. 17) and says decrees in Council of Ministers will set the application rules (Arts. 16, 53); it names no decree made, no licence granted and no penalty applied, so no reach fact."
+}

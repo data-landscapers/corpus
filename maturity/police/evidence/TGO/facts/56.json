@@ -1,0 +1,36 @@
+{
+  "slug": "2026-04-14-tgo-togoenlive-sipao-appropriation-perennisation",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "equipped:100%",
+      "fact": "A police divisional commissioner said on 14 April 2026 that all commissariats and gendarmerie brigades in Togo have the SIPAO tool; this is a statement by the police, with no count of stations given.",
+      "as_of": "2026-04-14",
+      "date_precision": "day",
+      "system": "SIPAO",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "SIPAO is an ECOWAS programme implemented by INTERPOL with EU funding; it was handed to ECOWAS and national authorities on 8 April 2025 after EU funding ended.",
+      "as_of": "2025-04-08",
+      "date_precision": "day",
+      "system": "SIPAO",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIPAO (West African Police Information System)",
+      "country_label": "SIPAO",
+      "class": "record",
+      "platform": "",
+      "owner": "ECOWAS, implemented by INTERPOL; Togo's Police Information Centre (CIPT)",
+      "tiers": "all commissariats and gendarmerie brigades said to have the tool; police archives of procès-verbaux digitised"
+    }
+  ],
+  "note": ""
+}

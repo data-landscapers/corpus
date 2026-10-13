@@ -1,3 +1,5 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-12,KEN,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,no evidence,4,KEN-002;KEN-001,"Kabata (2024) arrived: the Registration of Persons Act, Cap 107, as amended in 2018, sets up the population register and a unique number; first evidence for Kenya, stage 4"
 2026-10-12,KEN,gov.legislate--legislation-covering-digital-id-national-identity-law,fact,4,2,KEN-001,Bill's ruling: NIIMS runs on an executive order with no identity law behind it; the 2018 omnibus amendment to the 1947 Act is not that law
+2026-10-13,MOZ,gov.legislate--legislation-covering-digital-id-national-identity-law,review,no evidence,2,MOZ-001,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
+2026-10-13,TCD,gov.legislate--legislation-covering-digital-id-national-identity-law,review,no evidence,4,TCD-002;TCD-001,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.

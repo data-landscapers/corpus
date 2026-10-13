@@ -1,0 +1,13 @@
+{
+  "slug": "2018-03-21-tgo-arcep-decret-2018-062-transactions-electroniques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree 2018-062/PR of 21 March 2018 is made in application of Law 2017-007 of 22 June 2017 on electronic transactions, which the decree cites as the law governing electronic contracts, written records, electronic signatures and online selling in Togo.", "as_of": "2018-03-21", "date_precision": "day", "system": "Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Decree 2018-062/PR, adopted by the Council of Ministers on 21 March 2018 (105 articles), regulates electronic transactions and services under Law 2017-007: formalities for e-commerce sellers (Art. 6), electronic signatures and qualified certificates, trust service providers and the accreditation procedure.", "as_of": "2018-03-21", "date_precision": "day", "system": "Décret n° 2018-062/PR portant réglementation des transactions et services électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The decree gives the certification authority's missions, including accrediting trust service providers, to the ministry in charge of electronic communications, which delegates them to ARCEP (Art. 84), and sets accreditation for three years and fines of 100,000 to 10,000,000 CFA francs for non-compliant accredited providers; it names no provider accredited.", "as_of": "2018-03-21", "date_precision": "day", "system": "Décret n° 2018-062/PR portant réglementation des transactions et services électroniques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques", "country_label": "Loi sur les transactions électroniques", "class": "law", "platform": "", "owner": "Republic of Togo", "tiers": ""},
+    {"system": "Décret n° 2018-062/PR portant réglementation des transactions et services électroniques", "country_label": "Décret 2018-062", "class": "law", "platform": "", "owner": "Presidency; ARCEP as delegated certification authority", "tiers": ""}
+  ],
+  "note": ""
+}

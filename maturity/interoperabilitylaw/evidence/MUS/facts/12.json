@@ -1,0 +1,11 @@
+{
+  "slug": "2022-04-15-mus-bom-central-kyc-mous-infohighway",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Mauritius Governor said on 15 April 2022 that legislative amendments to the Civil Status Act enable the Bank to share information retrieved from the Central Population Database with Central KYC participants; the amendment is undated in the speech (document date used), is limited to the Central KYC purpose, and the speech says only that it enables sharing.", "as_of": "2022-04-15", "date_precision": "day", "system": "Civil Status Act amendment", "class": "law"}
+  ],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "other", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national: Bank of Mauritius, Registrar of Civil Status, Mauritius Police Force"},
+    {"system": "Central KYC", "country_label": "Central KYC", "class": "other", "platform": "", "owner": "Bank of Mauritius", "tiers": "national"}
+  ],
+  "note": ""
+}

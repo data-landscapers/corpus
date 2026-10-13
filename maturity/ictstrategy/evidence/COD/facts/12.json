@@ -1,0 +1,26 @@
+{
+ "slug": "2009-01-01-cod-copirep-politique-sectorielle-telecoms",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "COPIREP states that the telecommunications sector policy document was approved by the Government; the page gives no approval date, so the date is the document's published year, 2009.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "Politique sectorielle des télécommunications",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politique sectorielle des télécommunications",
+   "country_label": "Politique sectorielle des télécommunications",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère des Postes et Télécommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

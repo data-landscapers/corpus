@@ -18,17 +18,18 @@
     },
     {
       "sub_indicator": "emr",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "",
-      "tiers": "",
+      "tiers": "T2",
       "digitised": "",
       "last12": "",
       "clinics": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The only EMR rows (GNQ-003, GNQ-004, GNQ-005) come from the excluded source, Africa we have a data problem, and set nothing; no admitted source states either a patient record system or the paper position. systems.csv holds only noted classes on the patient side: DHIS2 trackers for routine vaccination and HIV follow-up.",
-      "note": "Stage 1 is a claim and needs a dated statement that patient records are on paper at every tier; the only such statements are from the excluded source. Nothing admitted describes a general-care patient record at any facility, so no rung can be set."
+      "stage_sources": "GNQ-030",
+      "gaps": "The one admitted row (GNQ-030) is the vendor's own case study, dated 2018 by year only: nothing since shows the record at Hospital Nuevo INSESO still in use, the source names a hospital and no tier, and no other facility is held. Where the record is entered, any use in primary clinics, and the owner, plan and finance inside 36 months are not held; GNQ-003 to GNQ-005 are from the excluded source and set nothing.",
+      "note": "One hospital with an electronic health record in use, on 600 active users and 60,000 patient records in 2018, is stage 2's some hospitals and no more. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and one facility does not carry the country.",
+      "as_at": "2026-10-13"
     }
   ]
 }

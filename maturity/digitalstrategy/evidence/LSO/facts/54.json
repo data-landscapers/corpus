@@ -1,0 +1,64 @@
+{
+  "slug": "2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The strategy's own text, dated 2024, is held on the government site (gov.ls download 'lesotho-national-digital-transformation-strategy-2024-2030'); the text says the Government of Lesotho 'has laid out' it and that it implements the National Digital Policy 2024.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The text sets its vision for 2030 and names itself Agenda 2030 (file title 2024-2030), while giving its full time horizon as approximately 5 years.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The text sets initiatives by priority with start windows (very high within about 12 months of operationalisation, high within 18-24 months, medium within 3-5 years) and lists an Implementation Plan section; the passages read state no cost.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The text makes the Chief Digital Office/Secretariat in the ICT ministry (MICSTI), under the Chief Digital Officer, accountable for developing the strategy and its implementation plans and for its overall monitoring and evaluation, with ministries reporting progress to it.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "country_label": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information, Communication, Science, Technology and Innovation (MICSTI)",
+      "tiers": ""
+    },
+    {
+      "system": "National Digital Policy 2024",
+      "country_label": "National Digital Policy 2024",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Lesotho",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

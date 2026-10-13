@@ -1,0 +1,27 @@
+{
+  "slug": "2025-01-01-zmb-d4dhub-sensitive-data-sovereignty",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The D4D Hub research paper states that Zambia's Data Protection Act No. 3 of 2021 requires sensitive personal data (health records, biometrics, religious beliefs, political opinions) to be stored within the country, quoting Section 70 that sensitive personal data can only be stored in Zambia and other personal data goes on servers in the Republic unless transfer is approved.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Data Protection Act, No. 3 of 2021 (Section 70)",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "enforcer",
+      "fact": "The paper says the Data Protection Commission, established in 2023 under the Act and reporting to the Minister of Technology and Science, enforces the Act, and quotes Section 70 as letting personal data leave Zambia only with the approval of the data subject and the Data Protection Commissioner.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Data Protection Act, No. 3 of 2021 (Section 70)",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

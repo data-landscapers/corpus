@@ -28,10 +28,25 @@ BDI,Burundi Broadband Strategy 2018-2025,Stratégie Burundi Large Bande 2018-202
 BDI,Politique Nationale de Développement des TIC 2010-2025,Politique Nationale de Développement des TIC au Burundi 2010-2025,sector,,,,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,PNDIS II,Plan National de Développement de l'Informatique de Santé 2020-2024,institution-plan,,Ministère de la Santé Publique et de la Lutte contre le SIDA,,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,PND 2018-2027,Plan National de Développement du Burundi 2018-2027,development-plan,,,,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
+BDI,PNDTIC 2010-2025,Politique nationale de développement des TIC (PNDTIC 2010-2025),sector,,Ministry in charge of ICT,national,2021-06-04-bdi-abp-retraite-evaluation-pndtic
 BEN,Portail National des Services Publics,Portail National des Services Publics,government,,,national; municipal (Sèmè Podji),2024-01-01-tun-territoires-numeriques-responsables-inclusifs-synthese-du-cycle-de-web
+BEN,Agenda 2021 du numérique et de la digitalisation,Agenda 2021 du numérique et de la digitalisation,,,Ministère du Numérique et de la Digitalisation,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,PAG 2016-2021,Programme d'Action du Gouvernement 2016-2021,development-plan,,Government of Benin,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,Stratégie Nationale de Sécurité Numérique,Stratégie Nationale de Sécurité Numérique (plan d'actions 2020-2022),subsector,,,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,Code du Numérique,Code du Numérique,law,,,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,Portail National des Services Publics,Portail National des Services Publics (service-public.bj),government,,Ministère du Numérique et de la Digitalisation,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
 BFA,Burkina Faso's national digital transformation strategy,national digital transformation strategy,national,,Government of Burkina Faso,,2021-01-01-undp-bfa-inclusive-digital-2021-transformation-digitale-inclusive-pour-accelerer-les
 BFA,Burkina Faso Digital Transformation Project (P177022),Burkina Faso Digital Transformation Project,programme,,"Ministry of Economy, Finance and Development (borrower); Ministry of Digital Transition, Posts and Electronic Communications (implementing)",,2022-04-07-worldbank-pid-burkina-faso-digital-transformation-project
 BFA,Lettre de politique sectorielle 2006-2010,politique sectorielle 2006-2010,sector,,,national,2019-01-01-bfa-medias-sociaux-et-promotion-de-l-artisanat-au-burkina-faso-cas-du-vill
+BFA,Cyber Stratégie nationale,"Cyber Stratégie nationale (stratégie d'opérationnalisation du plan NICI, 2004)",sector,,Government of Burkina Faso,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,Politique sectorielle assortie d'un plan d'actions,politique sectorielle assortie d'un plan d'actions,sector,,MDENP,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,Politique nationale de développement de l'économie numérique,politique nationale de développement de l'économie numérique,national,,MDENP,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,Stratégie de développement de l'accès universel large bande,stratégie de développement de l'accès universel large bande,subsector,,MDENP,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,SCADD,Stratégie de Croissance Accélérée et de Développement Durable 2011-2015,development-plan,,Government of Burkina Faso,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,RESINA,Réseau informatique national de l'administration,government,,Government of Burkina Faso,national,2014-05-01-bfa-mdenp-rapport-smsi10
+BFA,Politique sectorielle de l'Economie numérique et des Postes 2016-2020,Politique sectorielle de l'Economie numérique et des Postes (mise à jour 2016-2020),sector,,MDENP,national,2017-03-01-bfa-burkina-ntic-audit-cadre-juridique-numerique
+BFA,Cyber Stratégie nationale,Cyberstratégie nationale,sector,,,national,2017-03-01-bfa-burkina-ntic-audit-cadre-juridique-numerique
+BFA,SCADD,Stratégie de croissance accélérée et de développement durable,development-plan,,,national,2017-03-01-bfa-burkina-ntic-audit-cadre-juridique-numerique
 BWA,National Information and Communications Technology Policy (Maitlamo),Maitlamo,sector,,"Ministry of Communications, Science and Technology",,2007-08-01-bwa-maitlamo-national-ict-policy
 BWA,National Broadband Strategy,National Broadband Strategy (NBS),subsector,,Ministry of Transport and Communications,,2018-06-01-bwa-national-broadband-strategy
 BWA,National Information and Communications Technology Policy (Maitlamo),National ICT Policy of 2007 (Maitlamo),,,,,2018-06-01-bwa-national-broadband-strategy
@@ -52,6 +67,8 @@ COD,Politique sectorielle de l'économie numérique (PSEN),PSEN 2026-2030,sector
 COD,Politique sectorielle de l'économie numérique (PSEN),PSEN 2026-2030,sector,,Ministère de l'Économie numérique,,2026-07-24-drc-psen-2026-2030-expert-validation
 COD,Document de Politique Sectorielle (DPS),Document de Politique Sectorielle: Stratégie de développement du secteur des Télécommunications et des TIC de la RDC,sector,,"Ministère des Postes, Téléphones et Télécommunications",,2019-09-01-rdc-plan-national-numerique-horizon-2025
 COD,Plan National du Numérique - Horizon 2025,Plan National du Numérique - Horizon 2025,national,,Cabinet du Chef de l'État (Cadre de Concertation),,2019-09-01-rdc-plan-national-numerique-horizon-2025
+COD,Politique sectorielle des télécommunications,Politique sectorielle des télécommunications,sector,,Ministère des Postes et Télécommunications,,2009-01-01-cod-copirep-politique-sectorielle-telecoms
+COD,Document de politique sectorielle des télécommunications et des TIC,Document de politique sectorielle des télécommunications,sector,,"Ministère des Postes, Téléphones et Télécommunications",,2009-10-27-cod-regulation-afrique-document-politique-sectorielle
 COG,National Digital Development Plan (PNDN),Plan National de Développement du Numérique,national,,"Government of Congo, Ministry of Posts & Telecommunications",,2025-01-01-gab-repository-of-national-digital-skills-strategies
 COG,Vision Congo Digital 2025 Strategy,Vision Congo Digital 2025,,,Government of Congo,,2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document
 COG,Congo Digital Acceleration Project (P175592),Congo Digital Acceleration Project,programme,,"World Bank financed (US$100 million loan), Government of Congo",,2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document
@@ -67,6 +84,9 @@ DJI,MENFOP's ICT strategy,ICT strategy of the education ministry (MENFOP),instit
 DJI,"One Child, One Tablet","One Child, One Tablet",programme,,Government of Djibouti (presidential initiative),,2019-09-09-djibouti-expanding-opportunities-learning-project-pad
 DJI,Schéma Stratégique Intégré (SSI),Schéma Stratégique Intégré (SSI),sector,,"Government of Djibouti (page of the Ministry of Communication, in charge of Posts and Telecommunications)",,2026-06-01-dji-mcpt-telecommunication-tic-et-postes
 DJI,integrated ICT Sector Strategic Plan (2014-2024),integrated ICT Sector Strategic Plan (2014-2024),sector,,,,2023-01-01-dji-afdb-country-strategy-paper-2023-2027
+DJI,Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action,Stratégie Nationale de Développement des TIC,sector,,Ministère chargé des TIC,,2003-08-03-dji-jo-loi-22-an-03-politique-nationale-tic
+DJI,Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024,Schéma Stratégique Intégré du secteur des TIC,sector,,Ministère chargé des TIC; Commission nationale présidée par le Premier Ministre,,2015-02-25-dji-jo-loi-80-an-14-ssi-secteur-tic
+DJI,Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action,Stratégie Nationale de Développement des TIC,sector,,Ministère chargé des TIC,,2015-02-25-dji-jo-loi-80-an-14-ssi-secteur-tic
 DZA,National Digital Transformation Strategy,National Digital Transformation Strategy,national,,High Commission for Digitization,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 DZA,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024),Plan d'action du secteur / feuille de route,sector,,Ministry of Post and Telecommunications,,2023-11-15-dza-indjazat-interview-bibi-triki-bilan
 DZA,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024),Plan d'action du secteur / feuille de route,sector,,Ministry of Post and Telecommunications,,2022-05-25-dza-lapatrienews-interview-bibi-triki-mpt
@@ -74,6 +94,7 @@ EGY,Digital Egypt Strategy,Digital Egypt Strategy,national,,Ministry of Communic
 EGY,Egypt Vision 2030,Egypt Vision 2030,,,Ministry of Communications and Information Technology,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 EGY,ICT Strategy: Building the Future of Education in Egypt,ICT Strategy for the future of education,institution-plan,,Ministry of Education and Technical Education (MoETE),pre-university education,2023-09-01-egypt-education-sector-plan-2023-2027
 EGY,Arab ICT Strategy,Arab ICT Strategy,regional,,"Arab Telecommunications and Information Council of Ministers (ATICM), League of Arab States",,2023-06-30-egy-mcit-achievements-in-10-years
+EGY,National ICT Strategy 2013-2017,National ICT strategy 2013-2017 'Towards Economic and Social Reform: ICT for Comprehensive and Sustainable Development',sector,,Ministry of Communications and Information Technology,,2013-11-01-egy-escwa-national-profile-information-society
 ETH,Digital Ethiopia 2025,Digital Ethiopia 2025,national,,Ministry of Innovation & Technology,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 ETH,Digital Ethiopia 2025,Digital Ethiopia 2025,national,,Office of the Prime Minister,,2023-09-01-ethiopia-digital-education-strategy-2023-2028
 ETH,National ICT Strategy for HEIs and TVETs 2021-2030,National ICT Strategy for Higher Education and TVET,subsector,,Ministry of Science and Higher Education,,2023-09-01-ethiopia-digital-education-strategy-2023-2028
@@ -114,6 +135,7 @@ GHA,"One Teacher, One Laptop programme","One Teacher, One Laptop",programme,,,,2
 GHA,National Artificial Intelligence Strategy,"Ghana's National Artificial Intelligence Strategy, October 2022",subsector,,,national,2026-07-23-cipesa-politics-of-ai-governance-regulation
 GHA,Ghana ICT for Accelerated Development (ICT4AD) Policy,ICT4AD Policy,sector,,Government of Ghana; Ministry of Communications and Technology,,2003-01-01-gha-the-ghana-ict-for-accelerated-development-ict4ad-policy
 GHA,Ghana Information and Communications Technology Directorate (GICTeD),GICTeD,,,Ministry of Communications and Technology,,2003-01-01-gha-the-ghana-ict-for-accelerated-development-ict4ad-policy
+GHA,National Telecommunications Policy,"National Telecommunications Policy (Ministry of Communications, 2005)",sector,,Ministry of Communications,national,2005-01-10-gha-moc-national-telecommunications-policy
 GIN,Politique et stratégie nationales de développement des TIC (2010),Politique et stratégie nationales de développement des TIC,sector,,"Ministère des Postes, des Télécommunications et des nouvelles Technologies de l'Information",national,2023-05-18-unesco-peer-guinee-technologie
 GIN,Plan de développement de l'infrastructure nationale d'information et de communication 2001-2004,plan de développement de l'infrastructure nationale d'information et de communication,sector,,,national,2023-05-18-unesco-peer-guinee-technologie
 GIN,Vision 2040 pour une Guinée émergente et prospère,Vision 2040,development-plan,,,national,2023-05-18-unesco-peer-guinee-technologie
@@ -208,6 +230,14 @@ LSO,ICT Policy for Lesotho,ICT Policy for Lesotho,sector,,"Ministry of Communica
 LSO,Lesotho Telecommunications Policy 1999,Lesotho Telecommunications Policy of 1999,sector,,,national,2005-03-04-lso-ict-policy-for-lesotho
 MAR,Digital Morocco 2030,Digital Morocco 2030,national,,Ministry of Digital Transition and Administration Reform,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 MAR,Digital Morocco 2030,Digital Morocco 2030,national,,,,2026-03-31 Africa we have a data problem
+MAR,Note d'orientations générales du secteur des télécommunications à horizon 2023,Note d'orientations générales (NOG) 2023,sector,,Government / ANRT,national,2019-12-26-mar-anrt-note-orientations-generales-telecoms-horizon-2023
+MAR,PNHD,Programme National de Généralisation du Haut Débit,programme,,,,2019-12-26-mar-anrt-note-orientations-generales-telecoms-horizon-2023
+MAR,Note d'orientations générales du secteur des télécommunications à horizon 2023,Note d'orientations générales du secteur des télécommunications à horizon 2023,sector,,ANRT,national,2023-01-01-mar-anrt-dates-cles
+MAR,Note d'orientations générales à horizon 2018,Note d'orientations générales à horizon 2018,sector,,ANRT,national,2023-01-01-mar-anrt-dates-cles
+MAR,Note d'orientations générales à horizon 2013,Note d'orientations générales à horizon 2013,sector,,ANRT,national,2023-01-01-mar-anrt-dates-cles
+MAR,Note d'orientations générales 2004-2008,Note d'orientations générales 2004-2008,sector,,ANRT,national,2023-01-01-mar-anrt-dates-cles
+MAR,Plan national de développement du haut et très haut débit,Plan national de développement du haut et très haut débit (2012),subsector,,,,2023-01-01-mar-anrt-dates-cles
+MAR,PNHD,PNHD,programme,,,,2023-01-01-mar-anrt-dates-cles
 MDG,"Digital and Energy Connectivity for Inclusion in Madagascar (DECIM, P178701)",DECIM,programme,,Ministere de l'Economie et des Finances (borrower); Ministre de l'Energie et des Hydrocarbures and the digital development ministry (implementing),national,2022-06-09-mdg-decim-pid-concept-stage-pidc33769
 MDG,Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement,Politique nationale de developpement des TIC,sector,,"MPTDN, with UNDP support",national,2022-03-01-jica-etude-de-base-numerisation-services-publics-pays-africains
 MDG,PROGIDY,PROGIDY,government,,,national,2022-03-01-jica-etude-de-base-numerisation-services-publics-pays-africains
@@ -293,6 +323,7 @@ NAM,National ICT Policy / Broadband Policy,National ICT Policy / Broadband Polic
 NER,Document de politique sectorielle des télécommunications et des TIC (2013-2020),Document de politique sectorielle des télécommunications et des TIC,sector,,Government of Niger (decree 2013-158),,2020-12-01-ner-mfwa-etude-politiques-internet-reseaux-sociaux
 NER,Niger Numérique 2021-2030,Politique Numérique du Niger 2021-2030,sector,,"Ministry of Posts, Telecommunications and Digital Economy",,2020-12-01-ner-mfwa-etude-politiques-internet-reseaux-sociaux
 NER,Plan stratégique Niger 2.0,Niger 2.0,national,,ANSI (Agence Nationale pour la Société de l'Information),,2020-12-01-ner-mfwa-etude-politiques-internet-reseaux-sociaux
+NER,Plan Stratégique Niger 2.0,Plan Stratégique Niger 2.0,national,,Haut-Commissariat à l'Informatique et aux NTIC,,2017-07-11-ner-anp-reunion-tic-presidence-niger-2-0
 NGA,National Sovereign Cloud Initiative,National Sovereign Cloud Initiative,subsector,,NITDA; Galaxy Backbone Limited,federal,2026-08-10-nigeria-sovereign-cloud-localisation-nitda-galaxy-backbone
 NGA,Cloud First Policy (2019),Cloud First Policy,subsector,,NITDA,government institutions,2026-08-10-nigeria-sovereign-cloud-localisation-nitda-galaxy-backbone
 NGA,National Cloud Computing Guideline,National Cloud Computing Guideline,subsector,,NITDA,,2026-08-04-nigeria-sovereign-cloud-regulatory-frameworks-signed
@@ -329,6 +360,9 @@ RWA,Artificial Intelligence policy,AI policy,subsector,,,,2024-11-22-rwa-backwar
 SDN,national ICT strategy,Sudanese national ICT strategy,sector,,high-level ministerial committee,national,2007-06-01-sudan-infodev-ict-education-survey
 SDN,National ICT Strategy 2021-2025,National ICT Strategy 2021-2025,sector,,National Information Center (NIC),national,2025-01-01-gab-repository-of-national-digital-skills-strategies
 SDN,ICT strategy for e-learning,ICT strategy for e-learning in Sudan,subsector,,,,2009-12-14-sudan-escwa-information-society-profile
+SDN,"information society strategy (2007-2011, 2012-2016)",information society strategy,sector,,National Council for Strategic Planning,national,2013-01-01-sdn-escwa-national-profile-information-society-2013
+SDN,quarter century plan (2007-2031),quarter century plan,development-plan,,,national,2013-01-01-sdn-escwa-national-profile-information-society-2013
+SDN,national strategy for information industry (2001-2006),national strategy for information industry,sector,,,national,2013-01-01-sdn-escwa-national-profile-information-society-2013
 SLE,National ICT Policy of Sierra Leone (2009),National ICT Policy,sector,,,,2026-04-01-sierra-leone-mbsse-national-digital-learning-strategy-2025-2030
 SLE,National Innovation and Digital Strategy (2019),National Innovation and Digital Strategy,national,,DSTI,,2026-04-01-sierra-leone-mbsse-national-digital-learning-strategy-2025-2030
 SLE,National ICT policy (2017),National ICT policy,sector,,,,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
@@ -349,6 +383,7 @@ SLE,Sierra Leone National Innovation & Digital Strategy 2019-2029,National Innov
 SLE,"ICT Policy (developed 2009, updated 2017 with cybersecurity and e-government frameworks)",ICT Policy,sector,,Ministry of Information and Communication,,2019-11-01-sierra-leone-national-innovation-and-digital-strategy-2019-2029
 SLE,National Digital Development Policy (NDDP),National Digital Development Policy,national,,Ministry of Information and Communications,"national; the report says cabinet approved it recently, and the Minister called it the anchor of the digital transformation agenda",2023-05-01-sle-workshop-summary-and-takeaways-sierra-leone-workshop-2-4-may-2023
 SLE,National Digital Development Strategy (NDDS),National Digital Development Strategy,national,,Ministry of Information and Communications,national; presented by the ministry's Acting Director of Communications at the workshop,2023-05-01-sle-workshop-summary-and-takeaways-sierra-leone-workshop-2-4-may-2023
+SLE,National ICT Policy of Sierra Leone,National ICT Policy of Sierra Leone (Approved by Government on 28 October 2009),sector,,Ministry of Information and Communications,national; prepared by the National ICT Task Force,2009-10-28-sle-mic-national-ict-policy-2009
 SOM,National ICT Policy and Strategy,National ICT Policy and Strategy (2019-2024),sector,,Ministry of Communications and Technology,federal,2025-11-11-som-request-for-expressions-of-interest-national-ict-policy-and-strategy-f
 SOM,Digital Transformation Strategy 2025-2030,Digital Transformation Strategy 2025-2030,national,,Ministry of Communications and Technology,federal,2025-10-16-somalia-internet-users-10-7-million
 SOM,Digital Transformation Strategy 2025-2030,Digital Transformation Strategy 2025-2030,national,,"Ministry of Communications and Technology, with ITU",federal,2025-10-13 Somalia moves to finalize Digital Transformation Strategy 2025-2030 with ITU support
@@ -394,13 +429,22 @@ TCD,Plan Tchad Numérique 2017-2021,Plan Tchad Numérique 2017-2021,sector,,ADET
 TCD,Plan Stratégique de Développement du Numérique et des Postes,PSDNP 2020-2030,sector,,,,2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report
 TCD,Strategic Plan for Digital and Postal Development 2020-2030 (PSDNP),Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP),national,,"Ministry of Communications, Digital Economy and Administration Digitalization",,2024-06-11-tcd-chad-seeks-uneca-collaboration-to-boost-digital-transformation
 TCD,Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP),Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP),national,,Ministry of Posts and Digital Economy,,2020-07-17-tcd-le-tchad-aura-besoin-de-1-452-milliards-de-francs-cfa-pour-financer-so
+TCD,Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP),Plan stratégique de développement du numérique et des postes (PSDNP) 2020-2030,national,,"Ministère des Télécommunications, de l'Economie Numérique et de la Digitalisation",national,2025-06-12-tcd-mpntic-missions-attributions-psdnp
 TGO,Togo Digital Strategy 2025,Togo Digital Strategy 2025,national,,Government of Togo,national,2021-04-29-worldbank-pad3530-warcip-togo-additional-financing
 TGO,déclaration de politique du secteur de l'économie numérique 2018-2022,déclaration de politique du secteur de l'économie numérique pour la période 2018-2022,sector,,Ministère des postes et de l'économie numérique,national,2017-10-20-tgo-au-conseil-des-ministres-vendredi-le-gouvernement-a-examine-et-adopte
 TGO,déclaration de politique sectorielle 2011-2015,précédente déclaration de politique sectorielle 2011-2015,sector,,,national,2017-10-20-tgo-au-conseil-des-ministres-vendredi-le-gouvernement-a-examine-et-adopte
+TGO,déclaration de politique du secteur de l'économie numérique 2018-2022,lettre de politique du secteur de l'économie numérique / politique sectorielle 2018-2022,sector,,Ministère des Postes et de l'Économie Numérique,national,2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022
+TGO,déclaration de politique sectorielle précédente,déclaration de politique sectorielle passée,sector,,Ministère des Postes et de l'Économie Numérique,national,2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022
+TGO,déclaration de politique du secteur de l'économie numérique 2018-2022,Déclaration de politique du secteur de l'économie numérique pour la période 2018-2022,sector,,,national,2021-09-20-tgo-arcep-plan-strategique-2021-2023
+TGO,Plan stratégique ARCEP 2021-2023,Plan stratégique 2021 - 2023,institution-plan,,ARCEP Togo,national,2021-09-20-tgo-arcep-plan-strategique-2021-2023
+TGO,Feuille de route gouvernementale 2020-2025,feuille de route gouvernementale 2020-2025,development-plan,,,national,2021-09-20-tgo-arcep-plan-strategique-2021-2023
 TUN,المشروع السنوي للأداء لمهمة تكنولوجيات الاتصال لسنة 2025,Annual performance project (PAP) 2025 of the Communication Technologies mission,institution-plan,,Ministry of Communication Technologies,,2025-03-01-tunisie-pap-mission-technologies-communication-2025
 TUN,National Digital Strategic Plan; Digital Tunisia,National Digital Strategic Plan; Digital Tunisia,national,,Ministry of Communication Technologies,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 TUN,Project Hannibal,Project Hannibal (Tunisie Telecom Sector and Corporate Transformation Programme),programme,,Tunisie Telecom; EBRD loan up to EUR 190 million with EU first-loss cover and EUR 11 million grant,,2024-07-24-ebrd-board-report-project-hannibal-tunisie-telecom
 TUN,Tunisie Digitale 2025,Tunisie Digitale 2025,national,,,,2026-03-31 Africa we have a data problem
+TUN,Plan Stratégique National Tunisie Numérique 2016-2020,Plan Stratégique National «Tunisie Numérique 2016-2020» / «Tunisie digitale 2020»,national,,Ministère des Technologies de la Communication et de l'Economie Numérique,,2020-01-01-tun-mtc-rapport-annuel-performance-2019
+TUN,Code numérique,nouveau projet du code numérique (approved by the Council of Ministers on 11 December 2019),law,,Ministère des Technologies de la Communication et de l'Economie Numérique,,2020-01-01-tun-mtc-rapport-annuel-performance-2019
+TUN,Stratégie nationale de la sécurité cybernétique 2020-2025,stratégie nationale de la sécurité cybernétique 2020-2025,subsector,,Ministère des Technologies de la Communication et de l'Economie Numérique,,2020-01-01-tun-mtc-rapport-annuel-performance-2019
 TZA,ICT POLICY GUIDELINE 2016,ICT Policy Guideline 2016,,,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
 TZA,TANZANIA DIGITAL HEALTH STRATEGY 2019 - 2024,Tanzania Digital Health Strategy 2019-2024,subsector,,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
 TZA,National ICT Policy (2003),National ICT Policy 2003,sector,,,,2026-08-10-tanzania-experts-urge-digital-trust

@@ -1,0 +1,47 @@
+{
+  "slug": "2020-10-21-ken-dlapiper-electronic-signatures",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "DLA Piper Africa (IKM Advocates) states that the Business Laws (Amendment) Act, 2020 came into force on 18 March 2020 and allows advanced electronic signatures in place of wet-ink signatures in nearly all legal documents, amending among others the Law of Contract Act.",
+      "as_of": "2020-03-18",
+      "date_precision": "day",
+      "system": "Business Laws (Amendment) Act, 2020",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The article states that valid advanced electronic signatures are issued by certification service providers licensed under the Kenya Information and Communications (Electronic Certification and Domain Name Administration) Regulations 2020; it gives no making date, so the article date of 2020-10-21 is the latest it is known to exist.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Kenya Information and Communications (Electronic Certification and Domain Name Administration) Regulations 2020",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "applied",
+      "fact": "The article states that as at October 2020 only two certification service providers were licensed by the Communications Authority of Kenya, and neither had yet started issuing advanced electronic signatures.",
+      "as_of": "2020-10-21",
+      "date_precision": "day",
+      "system": "Certification service provider licensing under the 2020 Regulations",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "applied",
+      "fact": "The article states that the Communications Authority issued a public notice on 1 September 2020 requiring all foreign electronic certification providers to apply for recognition within 30 days.",
+      "as_of": "2020-09-01",
+      "date_precision": "day",
+      "system": "Recognition of foreign certification providers under the 2020 Regulations",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

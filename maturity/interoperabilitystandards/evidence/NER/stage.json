@@ -1,16 +1,17 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names technical standards for government systems to exchange data, or says there are none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "no evidence",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held names technical standards for government systems to exchange data, or says there are none.",
+      "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

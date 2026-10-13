@@ -1,0 +1,15 @@
+{
+  "slug": "2016-04-06-mus-dcgp-online-payment-trade-fees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Local Authorities portal (la.govmu.org) e-payment of trade fees",
+      "country_label": "Portal of the Local Authorities of Mauritius",
+      "class": "web",
+      "platform": "web portal",
+      "owner": "Local authorities; notice by District Council of Grand Port",
+      "tiers": "District council"
+    }
+  ],
+  "note": "Notice of a payment channel for trade fees with registration by paper form; it states no register of payers or record kept by the council, so class web and no fact."
+}

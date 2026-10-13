@@ -21,11 +21,11 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 | Stage | Countries |
 |---|---|
 | 5 Leading | 12 |
-| 4 Operating | 27 |
+| 4 Operating | 28 |
 | 3 Established | 12 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 1 |
 
 ## Countries
@@ -230,6 +230,14 @@ The Gambia's 2011 mobile money regulation authorises providers that are not bank
 - The Mobile Money Regulation, 2011 provides for retail transfers by persons not licensed as banks or financial institutions and sets authorisation by the central bank for such payment service providers (limited liability companies registered in The Gambia, core capital of GMD 10 million plus a GMD 5 million security deposit) ([source, 2011-10-15](https://www.cbg.gm/downloads-file/b2064e61-f37b-11e9-876c-02e599c15748)).
 - The Central Bank of The Gambia's pricing policy, approved 11 July 2013 and effective 1 December 2013, states that the Electronic Payments System Act 2013 defines the establishment and operation of the electronic payments system and the rights and obligations of participants; the date is the document's approval date, as it gives no enactment date ([source, 2013-07-11](https://www.cbg.gm/downloads-file/448bc45a-06e7-11ea-876c-02e599c15748)).
 
+### Guinea: 4 Operating
+
+Central bank decisions from 2015 license non-bank e-money companies; as of 2026 no rule is known requiring providers to connect to a switch.
+
+- Decision D/2015/008/CAM of 3 June 2015 sets the minimum share capital of e-money establishments in Guinea at GNF 2 billion, to be held in Guinean francs and employed in Guinea ([source, 2015-06-03](https://www.bcrg-guinee.org/wp-content/uploads/2025/03/Recueil-des-textes-legaux-et-reglementaires-regissant-lactivite-bancaire-et-financiere-%E2%80%93-Dec-201.pdf)).
+- Decision D/2015/003/CAM requires e-money establishments, which it places in the category of financial establishments (not banks) and constitutes as Guinean limited companies, to obtain a licence from the BCRG's Comite des agrements, with a decision due within 90 days of a complete file ([source, 2015-03-31](https://www.bcrg-guinee.org/wp-content/uploads/2025/03/Recueil-des-textes-legaux-et-reglementaires-regissant-lactivite-bancaire-et-financiere-%E2%80%93-Dec-201.pdf)).
+- The BCRG's Comite des agrements issued Decision D/2015/003/CAM of 31 March 2015 on e-money issuance and e-money establishments (EME), binding from its date of signature and published in the Journal Officiel, as reproduced in the BCRG's December 2017 compendium of banking texts ([source, 2015-03-31](https://www.bcrg-guinee.org/wp-content/uploads/2025/03/Recueil-des-textes-legaux-et-reglementaires-regissant-lactivite-bancaire-et-financiere-%E2%80%93-Dec-201.pdf)).
+
 ### Kenya: 4 Operating
 
 Kenya's 2011 payment system act and 2014 regulations authorise mobile money operators; a replacement bill was published for comment in September 2026.
@@ -417,12 +425,6 @@ South Sudan's central bank was validating a draft National Payment System Bill i
 
 - The Bank of South Sudan governor urged swift passage of the Draft National Payment System Bill, drafted in 2025, which would set licensing frameworks as the regulatory foundation for mobile money and electronic banking; reported 17 August 2026 ([source, 2026-08-17](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1)).
 - The Bank of South Sudan governor called for faster progress on the Draft National Payment System Bill, 2025, at the close of a five-day validation workshop in Juba on 10-14 August 2026, with the bill not yet passed ([source, 2026-08-14](https://techafricanews.com/2026/08/17/south-sudan-pushes-digital-payments-as-central-bank-calls-for-faster-payment-bill/)).
-
-### Guinea: Unplaced
-
-Guinea's central bank said in 2026 that joining its payment platform is optional; no payments law or draft is recorded, so no stage is set.
-
-Not established: No law, rules or draft is on record, and no source dated in the last three years says the country has none.
 
 ### Eritrea: No evidence
 

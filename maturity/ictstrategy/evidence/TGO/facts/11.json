@@ -1,0 +1,15 @@
+{
+  "slug": "2021-09-20-tgo-arcep-plan-strategique-2021-2023",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022",
+     "fact": "The regulator's 2021-2023 strategic plan, dated 20 September 2021 from its file name, says it is anchored in the Declaration of policy of the digital-economy sector for 2018-2022, and in the 2020-2025 government roadmap.",
+     "as_of": "2021-09-20", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "country_label": "Déclaration de politique du secteur de l'économie numérique pour la période 2018-2022", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Plan stratégique ARCEP 2021-2023", "country_label": "Plan stratégique 2021 - 2023", "class": "institution-plan", "platform": "", "owner": "ARCEP Togo", "tiers": "national"},
+    {"system": "Feuille de route gouvernementale 2020-2025", "country_label": "feuille de route gouvernementale 2020-2025", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names an access to information law or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-003;ETH-001",
+      "gaps": "No source held names rules made under the law or says its oversight body is set up.",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

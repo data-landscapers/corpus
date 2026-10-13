@@ -1,0 +1,56 @@
+{
+  "slug": "2023-06-20-syc-sna-public-health-digitisation-nearly-complete",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "Seychelles News Agency reports the Health Care Agency chief executive saying that since October 2022 doctors in the clinics enter patient information in the electronic medical records.",
+      "as_of": "2022-10",
+      "date_precision": "month",
+      "system": "electronic health system (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "Seychelles News Agency reports, on 20 June 2023, that doctors enter information in the electronic medical records in clinics, with outpatients the current focus, and that laboratory results, pharmacy and sick notes are to be linked in later phases; records are not yet linked between clinics.",
+      "as_of": "2023-06-20",
+      "date_precision": "day",
+      "system": "electronic health system (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The Health Care Agency chief executive says all doctors have the capacity to use EMR but some still use handwritten notes and the agency is training clinic by clinic; no count or share of clinics is given.",
+      "as_of": "2023-06-20",
+      "date_precision": "day",
+      "system": "electronic health system (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The article says the software is funded through a line of credit from the Indian government of around USD 4 million, under a December 2019 contract with Manorama Infosolutions.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "electronic health system (EMR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic health system (health management information system)",
+      "country_label": "electronic health system",
+      "class": "emr",
+      "platform": "Manorama Infosolutions software",
+      "owner": "Health Care Agency",
+      "tiers": "Reception at all government hospitals and clinics since March 2021; electronic medical records in clinics since October 2022"
+    }
+  ],
+  "note": ""
+}

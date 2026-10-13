@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-ailaw.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-002",
+      "gaps": "No source held says a law on AI itself, applying across sectors, is in force.",
+      "note": "Counted from the four questions by study-ladder-ailaw.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

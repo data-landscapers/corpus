@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 22 |
+| 4 Operating | 23 |
 | 3 Established | 8 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 10 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -106,6 +106,13 @@ Cabo Verde's 2013 law and 2014 decree-law set up an electronic identity card; th
 
 - The page presents the CNI, created by Decreto-Lei n.º 19/2014, as an electronic polycarbonate card whose chip holds a digital certificate and identification, authentication and digital-signature applications, part of the Sistema Nacional de Identificação e Autenticação Civil ([source, 2014-03-17](https://sniac.cv/cartao-nacional-de-identificacao/)).
 - The SNIAC reference page states that the Cartao Nacional de Identificacao was created by Decreto-Lei n.º 19/2014 of 17 March, an ordinary decree-law that also governs its issue, replacement, use and cancellation; the card was launched on 23 January 2018 ([source, 2014-03-17](https://sniac.cv/cartao-nacional-de-identificacao/)).
+
+### Chad: 4 Operating
+
+A 2020 ordinance, ratified by law, sets up a biometric population register and unique national number; rules made since 2023 are not known.
+
+- UNHCR states that under Ordinance 002/PR/2020 (article 8) the RNBP holds biographic and biometric data and the NNI of everyone on the territory, article 2 obliges every resident or visitor to register, and article 10 makes the NNI unique, unintelligible and non-sequential ([source, 2020-02-14](https://www.refworld.org/sites/default/files/2026-05/tchad_etude_de_cas_inclusion_systeme_didentite_fr_avril_2026.pdf)).
+- UNHCR states that Ordinance 002/PR/2020 of 14 February 2020 on civil status, ratified by Law 006/PR/2020 of 29 May 2020, sets up the integrated population and secure titles system (SIGPTS) run by ANATS, which issues a unique national identification number (NNI) through the national biometric population register (RNBP) ([source, 2020-05-29](https://www.refworld.org/sites/default/files/2026-05/tchad_etude_de_cas_inclusion_systeme_didentite_fr_avril_2026.pdf)).
 
 ### Comoros: 4 Operating
 
@@ -323,6 +330,12 @@ Madagascar's parliament passed an identification law in July 2025 and the consti
 
 - The High Constitutional Court ruled on 26 August 2025 that law no. 2025-019 on the identification of natural persons, adopted by the National Assembly on 3 July and the Senate on 4 July 2025, conforms to the Constitution; the President had referred it on 28 July 2025 for review before promulgation, and the decision does not state that it was promulgated ([source, 2025-08-26](https://www.hcc.gov.mg/?p=9621)).
 
+### Mozambique: 2 Nascent
+
+A civil identification and identity card bill passed first reading in March 2022; whether it became law is not known.
+
+- Mozambique's Assembly of the Republic approved in first reading, by consensus, on 16 March 2022 the Council of Ministers' bill setting the legal regime for civil identification and the national citizen identity card (Bilhete de Identidade), to replace colonial-era legislation; the item does not say the bill was later promulgated ([source, 2022-03-16](https://www.parlamento.mz/?p=1695)).
+
 ### Niger: 2 Nascent
 
 Niger's cabinet adopted a draft ordinance in April 2026 adding a unique identifier and biometrics to its registers. Whether it was signed is not known.
@@ -344,12 +357,6 @@ Sierra Leone validated a draft civil registration and identification bill in Nov
 ### Central African Republic: No evidence
 
 Nothing held names a national identity law or bill for the Central African Republic, or says there is none, so no stage is set.
-
-Not established: Nothing held names a national identity law or bill, or says there is none.
-
-### Chad: No evidence
-
-Nothing held names a national identity law or bill for Chad, or says there is none, so no stage is set.
 
 Not established: Nothing held names a national identity law or bill, or says there is none.
 
@@ -392,11 +399,5 @@ Not established: Nothing held names a national identity law or bill, or says the
 ### Guinea-Bissau: No evidence
 
 Nothing held names a national identity law or bill for Guinea-Bissau, or says there is none, so no stage is set.
-
-Not established: Nothing held names a national identity law or bill, or says there is none.
-
-### Mozambique: No evidence
-
-Nothing held names a national identity law or bill for Mozambique, or says there is none, so no stage is set.
 
 Not established: Nothing held names a national identity law or bill, or says there is none.

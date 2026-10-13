@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,sector,governance,qualifier,body:mandated;finance:not-stated,2004-01,MUS-005;MUS-006,,nothing dated since 2023-09-28
+MUS,sector,standing,coverage,adopted,2007-09,MUS-001;MUS-007,,nothing dated since 2023-09-28
+MUS,sector,text,coverage,public,2007-09,MUS-002;MUS-008,,nothing dated since 2023-09-28
+MUS,sector,period,coverage,to:2011,2007-09,MUS-009,MUS-003=open,nothing dated since 2023-09-28
+MUS,sector,plan,coverage,actions,2007-09,MUS-004;MUS-010,,nothing dated since 2023-09-28
+MUS,sector,reporting,coverage,,,,,nothing held
+MUS,sector,last12,qualifier,,,,,nothing held

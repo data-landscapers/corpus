@@ -21,12 +21,12 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
+| 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 19 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 25 |
+| No evidence | 22 |
 
 ## Countries
 
@@ -37,6 +37,13 @@ Algeria set up a national data governance framework by decree in December 2025 a
 - At the 9 February 2026 launch the High Commissioner for Digitalisation installed the national commission charged with following the framework's implementation, made up of representatives of all ministries and national bodies; the High Commission for Digitalisation is named as its author ([source, 2026-02-09](https://www.maghrebinfo.dz/2026/02/09/un-socle-fondamental-pour-ledification-dun-etat-moderne-apte-a-anticiper-les-defis-futurs/)).
 - The decree names the High Commission for Digitalisation to draw up and update the two references and run the interoperability system, the national council for information systems security to rule on the framework's operation, the personal data protection authority to check compliance of cataloguing and classification, and the information systems security agency to set data security levels ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
 - The roundup reports that Algeria gazetted the National Data Governance Framework, a public tool with a unified mechanism for organising, managing and exchanging data among public institutions; it gives no event date, so the update's published date of 2026-06-23 is used (it covers January and February 2026) ([source, 2026-06-23](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
+
+### Nigeria: 4 Operating
+
+Nigeria launched a national data policy in 2023 and set up a working group for its data strategy; rules issued under them are not known.
+
+- NITDA's Director-General inaugurated a Technical Working Group on 19 July 2023 for the implementation of the National Data Strategy, to recommend how regulatory agencies implement it ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
+- The Permanent Secretary of the Federal Ministry of Communications and Digital Economy said on 19 July 2023 that the government had officially launched the National Data Strategy, built on seven pillars; the article also says it was launched in March of the previous year, so the event date used is the article's ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
 
 ### Rwanda: 4 Operating
 
@@ -179,6 +186,12 @@ Liberia's national data governance policy was a draft in March 2026, to be publi
 
 - The Ministry of Posts and Telecommunications' National Data Governance Policy carries a cover reading draft, a Document Control version of Final dated March 2026, and a closing line that it will be published upon approval; the text records no approval or launch by the government ([source, 2026-03](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 
+### Morocco: 2 Nascent
+
+Morocco committed to a national data policy in 2018 to 2020; a 2024 article says none is formalised and no data committee exists.
+
+- Morocco's Open Government Partnership commitment page, undated and filed at 2020 by inference, lists setting up a national data policy as part of an August 2018 to August 2020 commitment, with drafting of the public-data strategy and regulation (May to October 2019) shown as in progress at 90%; as_of is the last milestone, March 2020 ([source, 2020-03](https://www.gouvernement-ouvert.ma/engagements.php?engagement=4&lang=fr)).
+
 ### Mozambique: 2 Nascent
 
 Mozambique's draft national data governance policy and strategy were validated in December 2025; the minister said in July 2026 they were not yet approved.
@@ -190,6 +203,12 @@ Mozambique's draft national data governance policy and strategy were validated i
 São Tomé and Príncipe had a data strategy and data governance policy in design in July 2025; nothing held says either is approved.
 
 - INIC published version 1 (July 2025) of the design of the 2025-2030 data strategy and data governance policy, prepared by a consultant under a technical-assistance contract; it lists 'data governance policy approved' as a future indicator and says no data governance policy yet exists ([source, 2025-07](https://inic.gov.st/viewdoc.php?id=27)).
+
+### Somalia: 2 Nascent
+
+Somalia validated a national data policy framework in 2026; whether the government has adopted it is not known.
+
+- A GIZ African Union post says Somalia validated a National Data Policy Framework, covering collection, management, sharing, classification, retention and data sovereignty, under the AU-GIZ Data Governance in Africa Initiative; it states validation only, not adoption, and does not date the validation, so the post date of 2026-03-13 is used ([source, 2026-03-13](https://www.linkedin.com/feed/update/urn:li:activity:7438141176852996097)).
 
 ### Tanzania: 2 Nascent
 
@@ -293,12 +312,6 @@ Nothing held says Mauritania has a national data policy, or says it has none, so
 
 Not established: Nothing held names a national data policy, or says there is none.
 
-### Morocco: No evidence
-
-Nothing held says Morocco has a national data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national data policy, or says there is none.
-
 ### Namibia: No evidence
 
 Nothing held says Namibia has a national data policy, or says it has none, so no stage is set.
@@ -311,21 +324,9 @@ Nothing held says Niger has a national data policy, or says it has none, so no s
 
 Not established: Nothing held names a national data policy, or says there is none.
 
-### Nigeria: No evidence
-
-Nothing held says Nigeria has a national data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national data policy, or says there is none.
-
 ### Seychelles: No evidence
 
 Nothing held says Seychelles has a national data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national data policy, or says there is none.
-
-### Somalia: No evidence
-
-Nothing held says Somalia has a national data policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a national data policy, or says there is none.
 

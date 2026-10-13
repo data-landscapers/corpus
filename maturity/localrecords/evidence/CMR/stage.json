@@ -1,6 +1,20 @@
 {
   "iso3": "CMR",
   "cells": [
-    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is DIGI-CoR, an enabling programme for the decentralised local authorities still seeking financing in June 2026; SIGIT, the central tax directorate's system, unclassified, whose offices include the Centres de Fiscalité Locale et des Particuliers; and a planned digital land register for the Communauté urbaine de Douala. Whether any commune keeps a digital revenue record is not established.", "note": "No row on the sub-indicator, so no rung can be set. No system held is of class survey or central, so neither flag is set."}
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "register",
+      "held": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001;CMR-002",
+      "gaps": "Whether Inform'All City was ever deployed is not established: the one source, of March 2023, says it was presented and is to be deployed first in the councils of Yaoundé II and Douala III, both in the two capitals. Where the record is held is not stated. Nothing is dated since, so governance and the last twelve months hold nothing.",
+      "note": "A platform presented and to be deployed first in two councils is a system being prepared. Stage 3 needs it past its pilot and live in councils outside the capital, and no fact says any council uses it.",
+      "as_at": "2026-10-13"
+    }
   ]
 }

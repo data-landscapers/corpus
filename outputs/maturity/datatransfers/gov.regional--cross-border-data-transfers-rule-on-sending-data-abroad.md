@@ -180,9 +180,10 @@ Nigeria's 2023 data protection law sets rules on sending personal data abroad; w
 
 ### Sao Tome and Principe: 3 Established
 
-A 2016 law restricts sending personal data abroad, in force as of 2022; whether the authority has published ways to comply is not known.
+A 2016 law limits sending personal data abroad to places with adequate protection, in force as of 2022; published ways to comply are not known.
 
 - ALT Advisory's factsheet says Law No. 03/2016 restricts, under Articles 19 and 20, sending personal data outside the national territory, permitted only where the receiving legal system ensures an adequate level of protection, otherwise by notification to the ANPDP with the person's unequivocal authorisation or with ANPDP authorisation backed by contractual clauses; it lists the law as in place with the authority operational; the page gives no date for the rule, so the page's last-updated date of 24 June 2022 is used ([source, 2022-06-24](https://dataprotection.africa/sao-tome-and-principe/)).
+- Law No. 03/2016, passed by the National Assembly on 15 February 2016 and promulgated by the President on 18 March 2016, allows personal data to be sent outside the national territory only where the receiving legal system ensures an adequate level of protection (Article 19, the ANPDP deciding adequacy), with exceptions on notification to the ANPDP for unequivocal consent or contractual necessity and by ANPDP authorisation backed by contractual clauses (Article 20), and fines of 45 to 90 million dobras for breaching Articles 19 and 20 (Article 32); the text says it enters into force 'under the legal terms' and gives no date, so the promulgation date is used ([source, 2016-03-18](https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf)).
 
 ### Senegal: 3 Established
 

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-05-dza-elwatan-centre-national-services-numeriques",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Digital Services Centre, Mohammadia",
+      "country_label": "Centre national algérien des services numériques",
+      "class": "other",
+      "platform": "two active-active national data centres, Huawei-led consortium; cloud platforms; second centre planned at Blida",
+      "owner": "High Commission for Digitalisation",
+      "tiers": ""
+    }
+  ],
+  "note": "Reports a data centre inaugurated and a national cloud planned; no hosting or cloud policy is stated, so no fact for this sub-indicator."
+}

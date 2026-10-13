@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-01-eri-moe-basic-education-statistics-2023-24",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annual school census and Basic Education Statistics abstract",
+      "country_label": "Basic Education Statistics (questionnaires 7, 8 and 9)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, Department of Research and Human Resource Development",
+      "tiers": "pre-primary, elementary, middle, secondary"
+    }
+  ],
+  "note": "The document describes an annual census by questionnaire (November data returned by April); no system holding per-learner records entered during the year, so no fact for an emis system."
+}

@@ -3,19 +3,20 @@
   "cells": [
     {
       "sub_indicator": "sector",
-      "stage": "unplaced",
+      "stage": "3",
       "governance": "body:mandated;finance:not-stated",
       "standing": "adopted",
       "text": "public",
-      "period": "to:2022",
+      "period": "open",
       "plan": "actions",
       "reporting": "",
       "last12": "",
       "cap": "",
-      "flags": "lapsed;under the national strategy",
-      "stage_sources": "GHA-005;GHA-006;GHA-007",
-      "gaps": "No sector policy succeeding the 2003 policy is on record as adopted or in preparation, and no report against the policy's targets is held. The policy's own text gives it a life of fifteen to twenty years and rolling plans ending 2022 (GHA-007), while a 2025 report still treats it as in force and calls it outdated (GHA-002) and instruments.csv gives it no period end; finance is not stated and nothing is dated in the last twelve months.",
-      "note": "ICT for Accelerated Development (ICT4AD) Policy: adopted in 2003 with a public text, but its stated period ended in 2022 and no successor sector policy is in preparation, so it is lapsed and places nothing. The national digital strategy held is a noted class and does not count as its successor."
+      "flags": "dated",
+      "stage_sources": "GHA-010;GHA-011;GHA-012",
+      "gaps": "No report against the policy's targets is held, its actions carry no cost and finance is not stated. The policy states no end date, though its universal-access targets fell due in 2010, and a report of October 2025 treats it as in force and calls it outdated (GHA-002). The older ICT for Accelerated Development Policy of 2003 gave itself rolling plans ending 2022 and is read as the earlier instrument; no successor to either is on record as adopted or in preparation, and nothing is dated as an event in the last twelve months.",
+      "note": "National Telecommunications Policy: released as final by the Ministry of Communications on 10 January 2005, the newest adopted sector policy, with its text public and no end date, so it stands as an open policy in force. An open policy stops at stage 3, and no report against its targets is held for stage 4.",
+      "as_at": "2026-10-13"
     }
   ]
 }

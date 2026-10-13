@@ -1,6 +1,20 @@
 {
   "iso3": "LBY",
   "cells": [
-    {"sub_indicator": "general", "stage": "no evidence", "authority": "", "standing": "", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "evidence.csv for LBY holds a header row and no evidence rows; profile.csv is absent and systems.csv is empty. The only fact files (facts/1.json, facts/2.json) record no fact on any aspect.", "note": "No evidence row exists on the sub-indicator, so no rung can be tested."}
+    {
+      "sub_indicator": "general",
+      "stage": "unplaced",
+      "authority": "",
+      "standing": "",
+      "regulations": "",
+      "application": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "A civil-society group published an unofficial draft data protection law for comment in March 2026. No source held says the government has a bill or a law.",
+      "note": "Reassessed on notes-for-corpus 80: the only rows are an unofficial civil-society draft, which is not a government bill, so no rung is reached.",
+      "as_at": "2026-10-13"
+    }
   ]
 }

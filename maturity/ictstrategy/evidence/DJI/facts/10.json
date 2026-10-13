@@ -1,0 +1,46 @@
+{
+ "slug": "2003-08-03-dji-jo-loi-22-an-03-politique-nationale-tic",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Law 22/AN/03/5ème L of 3 August 2003 approves the national ICT development strategy and its action plan as the national policy.",
+   "as_of": "2003-08-03",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2013",
+   "fact": "The law gives the strategy and action plan a ten-year period, 2003 to 2013.",
+   "as_of": "2003-08-03",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The law creates a National Council for guidance and follow-up of the strategy and makes the ministry in charge of ICT responsible for coordination and follow-up.",
+   "as_of": "2003-08-03",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "country_label": "Stratégie Nationale de Développement des TIC",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère chargé des TIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

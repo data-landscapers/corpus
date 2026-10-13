@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-04-sen-lesoleil-planete-3-lancement",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The education minister launched PLANETE 3 on 3 October 2025; its teacher module lets teachers enter absences and produce report cards, while students and parents follow marks and absences and school heads supervise.", "as_of": "2025-10-03", "date_precision": "day", "system": "PLANETE 3", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The system coordinator said PLANETE 3 now covers all cycles from preschool to secondary, preschool and elementary having long been left out of computerisation.", "as_of": "2025-10-03", "date_precision": "day", "system": "PLANETE 3", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The ministry officially launched the new version PLANETE 3 on 3 October 2025, with a mobile app for pupils and parents, online school-fee payment and dashboards at school, inspectorate, central and ministry level.", "as_of": "2025-10-03", "date_precision": "day", "system": "PLANETE 3", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "PLANETE 3 is run by the ministry's informatisation system unit, whose coordinator presented it at the launch chaired by the minister.", "as_of": "2025-10-03", "date_precision": "day", "system": "PLANETE 3", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "The minister placed PLANETE 3 within the Stratégie du Numérique pour l'Éducation 2025-2029.", "as_of": "2025-10-03", "date_precision": "day", "system": "PLANETE 3", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "PLANETE 3", "country_label": "PLANETE 3 (Paquet de Logiciels Académiques Normalisés pour les Établissements et Écoles); PLANETE Mobile app for pupils and parents", "class": "emis", "platform": "", "owner": "Ministry of National Education, informatisation system unit; UNICEF supported a tutoring module", "tiers": "schools, academy inspectorates, central directorate, ministry; preschool to secondary"}
+  ],
+  "note": ""
+}

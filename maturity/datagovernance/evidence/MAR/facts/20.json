@@ -1,0 +1,17 @@
+{
+  "slug": "2020-01-01-mar-ogp-open-data-commitment-national-data-policy",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "Morocco's Open Government Partnership commitment page, undated and filed at 2020 by inference, lists setting up a national data policy as part of an August 2018 to August 2020 commitment, with drafting of the public-data strategy and regulation (May to October 2019) shown as in progress at 90%; as_of is the last milestone, March 2020.",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "politique nationale de la donnée",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

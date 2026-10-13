@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "record",
-      "stage": "no evidence",
-      "governance": "",
+      "stage": "2",
+      "governance": "owner:partner",
       "records": "",
       "made": "",
       "last12": "",
-      "stations": "",
+      "stations": "equipped:100%",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.",
-      "note": "No evidence row on station records from an admissible source."
+      "stage_sources": "TGO-003",
+      "gaps": "No fact says any commissariat or brigade enters reports or cases in SIPAO, which records, or how: the police statement of 14 April 2026 is that all stations have the tool, a share equipped and not a share recording, and it gives no count of stations. No plan or source of finance is held, and the statement is not a dated event of advance in the last twelve months. TGO-001 and TGO-002 are from the excluded source and set nothing.",
+      "note": "All commissariats and gendarmerie brigades were said on 14 April 2026 to have the SIPAO tool, inside 36 months of the as-at, which is preparation. Stage 3 needs a record system live in stations, and no fact says a station enters a report or a case in it.",
+      "as_at": "2026-10-13"
     }
   ]
 }

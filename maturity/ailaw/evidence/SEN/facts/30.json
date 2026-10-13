@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-01-sen-ipar-diagnostic-cadre-juridique-ia",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "An IPAR diagnostic of four West African countries says there is as yet no legal text specific to AI at continental, regional or national level, and that of the target countries only Benin has a framework suited to regulating AI; the document's published date is used as no event date is given.", "as_of": "2024-07", "date_precision": "month", "system": "AI legal framework", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

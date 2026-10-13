@@ -1,16 +1,17 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national data policy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source held says a national data policy is adopted and still running.",
+      "note": "Counted from the four questions by study-ladder-datagovernance.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

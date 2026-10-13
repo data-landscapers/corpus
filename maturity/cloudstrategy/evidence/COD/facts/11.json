@@ -1,0 +1,26 @@
+{
+  "slug": "2023-11-08-cod-ciomag-premier-datacenter-national",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "CIO Mag, 8 November 2023, says the inauguration of the national datacenter came a year after the Council of Ministers adopted a draft decree on the management of national datacenters; the article does not say the decree was later issued, and its date is given only as a year before the article.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Projet de décret portant gestion des datacenters nationaux",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National datacenter, Kinshasa",
+      "country_label": "premier datacenter national",
+      "class": "other",
+      "platform": "Huawei-built; 54 servers, 1,278 TB",
+      "owner": "Government (Primature)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

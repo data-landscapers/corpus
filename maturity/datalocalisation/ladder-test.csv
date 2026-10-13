@@ -11,7 +11,7 @@ COD,3,in-force,,COD-001
 COG,no evidence,,,
 COM,no evidence,,,
 CPV,no evidence,,,
-DJI,no evidence,,,
+DJI,3,in-force,,DJI-001
 DZA,3,in-force,,DZA-001
 EGY,3,in-force,,EGY-001
 ERI,unplaced,,,
@@ -32,8 +32,8 @@ MLI,no evidence,,,
 MOZ,4,in-force,enforcer,MOZ-002;MOZ-001
 MRT,no evidence,,,
 MUS,no evidence,,,
-MWI,no evidence,,,
-NAM,no evidence,,,
+MWI,3,in-force,,MWI-001
+NAM,4,in-force,enforcer,NAM-002;NAM-001
 NER,no evidence,,,
 NGA,4,in-force,enforcer,NGA-011;NGA-017;NGA-009
 RWA,4,in-force,enforcer,RWA-002;RWA-001
@@ -51,5 +51,5 @@ TUN,4,in-force,enforcer,TUN-002;TUN-001
 TZA,4,in-force,enforcer,TZA-002;TZA-001
 UGA,no evidence,,,
 ZAF,3,in-force,,ZAF-001
-ZMB,no evidence,,,
+ZMB,4,in-force,enforcer,ZMB-002;ZMB-001
 ZWE,4,in-force,enforcer,ZWE-002;ZWE-001

@@ -552,9 +552,9 @@ The national reporting system was introduced in all districts in 2024-2025; who 
 
 ### Seychelles: Unplaced
 
-The 2022 health plan describes data capture as mainly paper-based, with digital work stalled; nothing shows digital reporting, so no stage is set.
+Sources disagree on whether health data is captured on paper or electronically (2022 to 2025); nothing shows digital reporting, so no stage is set.
 
-Not established: No row gives the tiers reporting digitally or the primary clinics entering their own reports. The one coverage fact (SYC-004) says capture is primarily paper-based and the eHIS work begun in 2020 has stalled, which is neither a dated statement of no digital entry at any level nor a contracted rollout; it carries the plan's published year, not a date of its own. The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.
+Not established: No row gives the tiers reporting digitally or the primary clinics entering their own reports. Sources disagree, unreconciled, on whether health data is captured on paper or electronically: the ministry's plan (SYC-004, 2022) and WHO (SYC-017, January 2025) say mainly paper-based, against a June 2023 report of clinic doctors entering records electronically (SYC-013, SYC-014), so digitised is left empty. On the plan, the NHSP 2022-2026 names the eHIS and covers the as-at (SYC-005, SYC-011) while WHO says a digital health policy and e-Health strategic plan are still to be developed (SYC-018). The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.
 
 ### Tunisia: No evidence
 

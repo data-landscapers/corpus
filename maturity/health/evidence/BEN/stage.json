@@ -27,7 +27,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "The only two rows (BEN-003, BEN-004) come from the excluded source, Africa we have a data problem, and set nothing. No admitted row states a tier, a place of digitisation or a clinic count for an EMR, and none gives the dated statement of paper at every tier that stage 1 needs; systems.csv holds a digital health booklet only as a pledge.",
-      "note": "Rows exist, so the cell is unplaced and not no evidence. Stage 1 is a claim and the one statement of the paper position is from the excluded source."
+      "note": "Rows exist, so the cell is unplaced and not no evidence. Stage 1 is a claim and the one statement of the paper position is from the excluded source.",
+      "as_at": "2026-10-13"
     }
   ]
 }

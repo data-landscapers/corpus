@@ -9,7 +9,7 @@ CIV,4,in-force,rules,CIV-002;CIV-004;CIV-007
 CMR,4,in-force,rules,CMR-004;CMR-001
 COD,4,in-force,rules,COD-005;COD-008;COD-004
 COG,3,in-force,,COG-001;COG-003
-COM,unplaced,,,
+COM,3,in-force,,COM-005
 CPV,3,in-force,,CPV-001
 DJI,2,draft,,DJI-001;DJI-002
 DZA,3,in-force,,DZA-004;DZA-001
@@ -22,7 +22,7 @@ GIN,4,in-force,rules,GIN-002;GIN-004;GIN-001
 GMB,2,draft,,GMB-001
 GNB,2,draft,,GNB-001;GNB-002
 GNQ,3,in-force,,GNQ-001
-KEN,no evidence,,,
+KEN,4,in-force,rules,KEN-005;KEN-002;KEN-004
 LBR,3,in-force,,LBR-001
 LBY,3,in-force,,LBY-001
 LSO,2,draft,,LSO-001;LSO-003
@@ -30,7 +30,7 @@ MAR,5,in-force,applied,MAR-006;MAR-007;MAR-005;MAR-004
 MDG,3,in-force,,MDG-004;MDG-001
 MLI,3,in-force,,MLI-001;MLI-002
 MOZ,5,in-force,applied,MOZ-009;MOZ-002;MOZ-001
-MRT,no evidence,,,
+MRT,3,in-force,,MRT-002
 MUS,3,in-force,,MUS-003;MUS-002
 MWI,3,in-force,,MWI-001
 NAM,5,in-force,applied,NAM-003;NAM-012;NAM-015;NAM-002
@@ -38,7 +38,7 @@ NER,3,in-force,,NER-001
 NGA,2,draft,,NGA-004
 RWA,3,in-force,,RWA-001
 SDN,3,in-force,,SDN-001
-SEN,no evidence,,,
+SEN,4,in-force,rules,SEN-002;SEN-001
 SLE,3,in-force,,SLE-005;SLE-001
 SOM,2,draft,,SOM-001
 SSD,no evidence,,,
@@ -46,10 +46,10 @@ STP,3,in-force,,STP-001
 SWZ,3,in-force,,SWZ-001
 SYC,3,in-force,,SYC-001
 TCD,3,in-force,,TCD-002;TCD-001
-TGO,no evidence,,,
+TGO,4,in-force,rules,TGO-002;TGO-003
 TUN,3,in-force,,TUN-001;TUN-002
 TZA,3,in-force,,TZA-001
-UGA,no evidence,,,
+UGA,4,in-force,rules,UGA-003;UGA-004
 ZAF,5,in-force,applied,ZAF-002;ZAF-001
 ZMB,5,in-force,applied,ZMB-003;ZMB-004
 ZWE,1,none,,ZWE-002

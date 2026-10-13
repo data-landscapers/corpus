@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ETH,own cloud infrastructure (built under Digital Ethiopia 2025),Ethiopia's own cloud infrastructure,,,INSA,,2025-12-21 PM Abiy launches Digital Ethiopia 2030 strategy
 ETH,Gotera Cloud (G-Cloud),Gotera Cloud (G-Cloud),other,,Information Network Security Administration (INSA),"e-government, local institutions, digital finance and other sectors",2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud
+ETH,National Cloud,National Cloud,other,planned,Government of Ethiopia,"sectors incl. agriculture, trade, investment, media; operational in an estimated 18-24 months (May 2026)",2026-05-19-eth-cioafrica-national-cloud-18-24-months
+ETH,Telecloud,Telecloud,other,cloud-computing service launched October 2022,Ethio Telecom,public and private institutions,2026-05-19-eth-cioafrica-national-cloud-18-24-months

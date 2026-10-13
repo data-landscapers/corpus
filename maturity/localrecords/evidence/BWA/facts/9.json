@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-27-bwa-thevoicebw-gcc-payrates-rates-digitisation",
+  "facts": [],
+  "systems": [
+    {"system": "PayRates", "country_label": "PayRates", "class": "web", "platform": "GoSmartValue", "owner": "Gaborone City Council with Access Bank Botswana and GoSmartValue", "tiers": "Gaborone City Council"}
+  ],
+  "note": "PayRates is a payment platform for property rates (reminders, online payment history); the document does not say the council's own staff keep a payer register in it, so web class and no fact."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The 2024 strategy cites the absence of an overarching digital government architecture, gaps in interoperability, and says a digital government interoperability framework should be defined and implemented, listing it as a very high priority action led by MICSTI; no framework is reported as existing or in drafting.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lesotho Government Data Network (LGDN)",
+      "country_label": "LGDN",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Lesotho",
+      "tiers": "ministries, departments, agencies and district government offices"
+    }
+  ],
+  "note": ""
+}

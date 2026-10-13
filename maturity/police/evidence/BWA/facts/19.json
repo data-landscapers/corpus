@@ -1,0 +1,23 @@
+{
+  "slug": "2010-08-19-bwa-sundaystandard-afis-delivered-police",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AFIS",
+      "country_label": "Automated Finger Print System",
+      "class": "identification",
+      "platform": "Morpho",
+      "owner": "Botswana Police Service, Criminal Records Bureau",
+      "tiers": "67 installations at police stations, 17 of them live scans"
+    },
+    {
+      "system": "crime and criminal recording system",
+      "country_label": "crime and criminal recording system",
+      "class": "",
+      "platform": "",
+      "owner": "Botswana Police Service",
+      "tiers": ""
+    }
+  ],
+  "note": "Fingerprint system only; the crime recording system is named as a system to be interfaced, with no description of station entry."
+}

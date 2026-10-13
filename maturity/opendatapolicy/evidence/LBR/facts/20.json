@@ -1,0 +1,34 @@
+{
+  "slug": "2020-01-01-lbr-ogp-lr0036-open-data-citizen-portal",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "The OGP page for commitment LR0036, citing the IRM report on interviews and a site visit in October 2018, says the national data portal (eLiberia) was live but not formally launched, with links to ministry and agency sites and an unpopulated data repository page; the document ties it to no open data policy.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "eLiberia national data portal",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eLiberia national data portal",
+      "country_label": "national data portal",
+      "class": "policy",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": "national"
+    },
+    {
+      "system": "Open Data/Citizen Navigation Portal (OGP commitment LR0036)",
+      "country_label": "LR0036",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications (lead)",
+      "tiers": "national"
+    }
+  ],
+  "note": "The commitment to build an open data platform is an OGP action-plan item (2017-2019) that the IRM rates not started; it states no open data policy, so no standing fact."
+}

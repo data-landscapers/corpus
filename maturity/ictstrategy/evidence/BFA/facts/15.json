@@ -1,0 +1,18 @@
+{
+  "slug": "2014-05-01-bfa-mdenp-rapport-smsi10",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ministry's May 2014 WSIS+10 report says the government gave itself a national policy in 2004, the Cyber Stratégie nationale, now with ten years of implementation and the main reference framework for the information society.", "as_of": "2004", "date_precision": "year", "system": "Cyber Stratégie nationale", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The report claims ten years of implementation of the Cyber Stratégie nationale along three axes (legal and institutional environment, infrastructure and services, awareness), measured against WSIS commitments and not against the strategy's own targets.", "as_of": "2014-05", "date_precision": "month", "system": "Cyber Stratégie nationale", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The report lists steering bodies created for the cyber strategy: the COPSI strategic orientation council, the information society observatory and sectoral steering committees, plus the ANPTIC agency to follow major ICT projects.", "as_of": "2014-05", "date_precision": "month", "system": "Cyber Stratégie nationale", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The report says a sector policy with an action plan for its implementation was in preparation (en cours d'élaboration) in May 2014, alongside a digital economy policy and a universal broadband access strategy.", "as_of": "2014-05", "date_precision": "month", "system": "Politique sectorielle assortie d'un plan d'actions", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Cyber Stratégie nationale", "country_label": "Cyber Stratégie nationale (stratégie d'opérationnalisation du plan NICI, 2004)", "class": "sector", "platform": "", "owner": "Government of Burkina Faso", "tiers": "national"},
+    {"system": "Politique sectorielle assortie d'un plan d'actions", "country_label": "politique sectorielle assortie d'un plan d'actions", "class": "sector", "platform": "", "owner": "MDENP", "tiers": "national"},
+    {"system": "Politique nationale de développement de l'économie numérique", "country_label": "politique nationale de développement de l'économie numérique", "class": "national", "platform": "", "owner": "MDENP", "tiers": "national"},
+    {"system": "Stratégie de développement de l'accès universel large bande", "country_label": "stratégie de développement de l'accès universel large bande", "class": "subsector", "platform": "", "owner": "MDENP", "tiers": "national"},
+    {"system": "SCADD", "country_label": "Stratégie de Croissance Accélérée et de Développement Durable 2011-2015", "class": "development-plan", "platform": "", "owner": "Government of Burkina Faso", "tiers": "national"},
+    {"system": "RESINA", "country_label": "Réseau informatique national de l'administration", "class": "government", "platform": "", "owner": "Government of Burkina Faso", "tiers": "national"}
+  ],
+  "note": ""
+}

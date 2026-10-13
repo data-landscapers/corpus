@@ -1,0 +1,68 @@
+{
+  "slug": "2024-01-01-dza-itu-men-plateforme-numerique-education",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The ministry presentation says its digital platform manages pupils' schooling for 11,709,830 pupils, including marks, averages, teachers' observations and orientation, with accounts for school staff, teachers and parents; the document is undated and is dated here to 2024 from its published date.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Plateforme numérique du Ministère de l'Éducation Nationale",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The ministry states it designed and built the platform itself.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Plateforme numérique du Ministère de l'Éducation Nationale",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plateforme numérique du Ministère de l'Éducation Nationale",
+      "country_label": "Plate forme numérique du Ministère de l'Éducation Nationale",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "school pedagogical staff, teachers, parents"
+    },
+    {
+      "system": "MAKTABATI",
+      "country_label": "MAKTABATI",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary"
+    },
+    {
+      "system": "ANCHITATI",
+      "country_label": "ANCHITATI",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary years 3 to 5"
+    },
+    {
+      "system": "Tablets in 5,000 digital primary schools",
+      "country_label": "écoles numériques",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary"
+    },
+    {
+      "system": "School interconnection network (fibre and ALCOMSAT-1)",
+      "country_label": "Projet d'interconnexion de 30000 établissements scolaires",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "all schools"
+    }
+  ],
+  "note": ""
+}

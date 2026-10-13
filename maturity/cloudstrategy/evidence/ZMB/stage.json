@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government hosting or cloud policy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001",
+      "gaps": "No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.",
+      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

@@ -6,16 +6,17 @@
       "stage": "unplaced",
       "governance": "",
       "standing": "adopted",
-      "text": "",
-      "period": "to:2010",
+      "text": "public",
+      "period": "to:2020",
       "plan": "",
       "reporting": "",
       "last12": "",
       "cap": "",
       "flags": "lapsed;under the national strategy",
-      "stage_sources": "BFA-001;BFA-002",
-      "gaps": "The only sector policy on record ended in 2010 and no successor sector policy is on record as announced, drafted, validated or adopted. Nothing is held on its text, delivery plan, reporting, mandated body or finance, and no fact is dated inside the twelve or thirty-six months to the as-at.",
-      "note": "Lettre de politique sectorielle 2006-2010: adopted in 2006 with a period that ended in 2010, so it is expired, and with no sector policy in preparation it sets no rung. A national digital strategy is held and is not a successor, so the cell is unplaced, lapsed and under the national strategy rather than stage 2."
+      "stage_sources": "BFA-007;BFA-008;BFA-009",
+      "gaps": "The newest sector policy on record ended in 2020 and no sector policy is on record as announced, drafted, validated or adopted since. The sector policy with an action plan in drafting in May 2014 (BFA-006) predates the policy published in September 2015 and is read as its preparation, not as a successor. Nothing is held on a delivery plan, reporting or finance for the 2016-2020 policy; the steering bodies and the claimed implementation of 2014 belong to the Cyber Stratégie nationale of 2004, and no fact is dated inside the twelve or thirty-six months to the as-at.",
+      "note": "Politique sectorielle de l'Economie numérique et des Postes 2016-2020: published by the ministry in September 2015, the newest adopted sector policy, with a period that ended in 2020 and no sector policy in preparation after it, so it sets no rung. A national digital strategy is held and is not a successor, so the cell is unplaced, lapsed and under the national strategy rather than stage 2.",
+      "as_at": "2026-10-13"
     }
   ]
 }

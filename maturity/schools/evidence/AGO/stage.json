@@ -1,9 +1,20 @@
 {
   "iso3": "AGO",
   "cells": [
-    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "",
-     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
-     "gaps": "The only evidence row, AGO-001, is from the source the study excludes and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no admissible fact on any system holding a record per learner; systems.csv holds only census-class and unclassified systems.",
-     "note": "Not stage 1, because the one statement of paper records comes from the excluded source. Not stage 2, because no admissible row shows an EMIS for primary schools prepared, piloted or running in secondary schools."}
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "AGO-001 is from the source the study excludes and sets nothing. AGO-002, a decree of 18 June 2025, lists a pupil data platform among the instruments for recording assessment results in primary and secondary general education, but gives no usage figure and does not say the platform is built, piloted or used by any school, so no level is in use on the evidence. No admissible dated statement that primary schools keep learner records on paper.",
+      "note": "Not stage 2: a decree that lists the platform as an instrument is not a dated act of preparation (staff trained, equipment delivered, agreement signed) or a pilot, read conservatively. Not stage 1, because the one statement of paper records comes from the excluded source.",
+      "as_at": "2026-10-13"
+    }
   ]
 }

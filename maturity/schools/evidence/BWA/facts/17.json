@@ -1,0 +1,9 @@
+{
+  "slug": "2014-01-01-bwa-adea-sadc-emis-peer-review",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census (ACQ form), Botswana EMIS", "country_label": "Annual School Census / EMIS unit, Ministry of Education and Skills Development", "class": "census", "platform": "CS Pro and Excel for data entry (2012); earlier IMPS", "owner": "Ministry of Education and Skills Development (EMIS unit), with Statistics Botswana publishing", "tiers": "primary, secondary, ECD, TVET and teacher training colleges return an annual form; no EMIS staff in regions or districts"},
+    {"system": "OSET software", "country_label": "Out of School Education Training data programme", "class": "single-function", "platform": "ministry-developed programme", "owner": "Ministry of Education and Skills Development", "tiers": "out-of-school education and training"}
+  ],
+  "note": "2013 peer review describes an annual census form per school keyed at the ministry (census class); it states no school-level entry during the year and no paper-only statement for primary schools, so no emis-class fact."
+}

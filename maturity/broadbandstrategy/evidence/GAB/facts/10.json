@@ -1,0 +1,8 @@
+{
+  "slug": "2016-07-04-gab-dba-strategie-nationale-haut-debit",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "Gabon's digital economy ministry announced in July 2016 that it wants a national broadband promotion strategy and a costed operational plan in the coming months, and had launched a broadband study to prepare them; no strategy was yet adopted.", "as_of": "2016-07-04", "date_precision": "day", "system": "Stratégie nationale de promotion du Haut débit", "class": "plan"}
+  ],
+  "systems": [],
+  "note": ""
+}

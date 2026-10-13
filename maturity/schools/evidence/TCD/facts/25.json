@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-07-tcd-gpe-itap-evaluation-facteurs-favorables",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (Système d'information pour la gestion de l'éducation)", "country_label": "SIGE", "class": "census", "platform": "", "owner": "MENPC (Ministère de l'Éducation nationale et de la Promotion civique)", "tiers": "all levels except higher education, including technical and vocational; annual yearbooks, with no yearbook for 2017/2018 and 2018/2019 because no school survey was run"}
+  ],
+  "note": "SIGE is described only as in place since 2014 and producing annual statistical yearbooks from a school survey; no entry by schools between survey days is stated, so it is census class and gives no emis fact."
+}

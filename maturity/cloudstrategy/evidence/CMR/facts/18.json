@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-13-cmr-armp-ami-etude-datacenter-national",
+  "facts": [],
+  "systems": [
+    {"system": "Datacenter National Public (planned, main and backup sites)", "country_label": "Datacenter National Public", "class": "other", "platform": "", "owner": "Ministère des Mines, de l'Industrie et du Développement Technologique (MINMIDT)", "tiers": "national"},
+    {"system": "CSIRT/SOC/PKI platform (planned)", "country_label": "plateforme CSIRT/SOC/PKI", "class": "other", "platform": "", "owner": "MINMIDT", "tiers": "national"}
+  ],
+  "note": "A call for consultants for a feasibility study of a national data centre, dated 6 May 2024; it states no hosting or cloud policy."
+}

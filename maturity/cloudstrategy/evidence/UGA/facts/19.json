@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-uga-nita-statistical-abstract-2023",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "government entities (95 entities served in FY2022/23)"}
+  ],
+  "note": "Statistical abstract (figures to FY2022/23) reports 264 applications for 95 entities hosted in the National Data Centre but states no hosting or cloud policy and does not tie the hosting to one, so it gives no fact of class policy."
+}

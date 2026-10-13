@@ -1,7 +1,7 @@
 iso3,stage,standing,delivery,stage_sources
 AGO,3,adopted,,AGO-002;AGO-003
 BDI,3,adopted,,BDI-001
-BEN,no evidence,,,
+BEN,3,adopted,,BEN-002;BEN-001
 BFA,3,adopted,,BFA-001;BFA-003
 BWA,3,adopted,,BWA-001
 CAF,3,adopted,,CAF-001
@@ -13,22 +13,22 @@ COM,no evidence,,,
 CPV,3,adopted,,CPV-001
 DJI,3,adopted,,DJI-001
 DZA,3,adopted,,DZA-001;DZA-002
-EGY,no evidence,,,
+EGY,3,adopted,,EGY-001
 ERI,unplaced,,,
 ETH,no evidence,,,
-GAB,no evidence,,,
-GHA,no evidence,,,
+GAB,2,draft,,GAB-001
+GHA,3,adopted,,GHA-001
 GIN,no evidence,,,
 GMB,2,ended,,GMB-002;GMB-001
 GNB,2,draft,,GNB-002
-GNQ,no evidence,,,
+GNQ,2,draft,,GNQ-002
 KEN,4,adopted,funded,KEN-002;KEN-004;KEN-001
 LBR,no evidence,,,
 LBY,no evidence,,,
 LSO,3,adopted,,LSO-001
 MAR,3,adopted,,MAR-001;MAR-002
 MDG,no evidence,,,
-MLI,no evidence,,,
+MLI,2,draft,,MLI-003
 MOZ,2,draft,,MOZ-004
 MRT,2,draft,,MRT-001
 MUS,2,ended,,MUS-001
@@ -38,7 +38,7 @@ NER,no evidence,,,
 NGA,2,draft,,NGA-002;NGA-001
 RWA,3,adopted,,RWA-001
 SDN,no evidence,,,
-SEN,no evidence,,,
+SEN,2,draft,,SEN-001
 SLE,3,adopted,,SLE-001
 SOM,no evidence,,,
 SSD,3,adopted,,SSD-001

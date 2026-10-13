@@ -1,0 +1,37 @@
+{
+  "slug": "2026-01-01-egy-legal500-egypt-artificial-intelligence-guide",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A Legal 500 guide by a law firm says the Government is preparing a draft AI law with the House of Representatives' Communications and IT Committee, and elsewhere calls it the draft currently before Parliament; the guide gives only its 2026 imprint, so 2026 is used.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Draft AI law",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The guide says FRA Board Decree No. 57 of 2024, regulating robo-advisors for investment, is AI-specific and requires client suitability assessments and a right to discontinue automated transactions.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "FRA Board Decree No. 57 of 2024",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "none",
+      "fact": "The guide states that no binding AI-specific statute is in force in Egypt; its date is the guide's 2026 imprint.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

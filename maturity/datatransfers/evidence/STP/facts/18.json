@@ -1,0 +1,13 @@
+{
+  "slug": "2016-05-10-sao-tome-lei-03-2016-proteccao-dados-pessoais",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force",
+     "fact": "Law No. 03/2016, passed by the National Assembly on 15 February 2016 and promulgated by the President on 18 March 2016, allows personal data to be sent outside the national territory only where the receiving legal system ensures an adequate level of protection (Article 19, the ANPDP deciding adequacy), with exceptions on notification to the ANPDP for unequivocal consent or contractual necessity and by ANPDP authorisation backed by contractual clauses (Article 20), and fines of 45 to 90 million dobras for breaching Articles 19 and 20 (Article 32); the text says it enters into force 'under the legal terms' and gives no date, so the promulgation date is used.",
+     "as_of": "2016-03-18", "date_precision": "day",
+     "system": "Law No. 03/2016 on the Protection of Personal Data", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Law No. 03/2016 on the Protection of Personal Data", "country_label": "Lei n.º 03/2016 — Protecção de Dados Pessoais", "class": "rule", "platform": "", "owner": "ANPDP (Agência Nacional de Protecção de Dados Pessoais)", "tiers": ""}
+  ],
+  "note": ""
+}

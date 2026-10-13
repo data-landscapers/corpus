@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Whether Libya has a general data protection law, enacted or in preparation, and whether a supervisory authority exists. No regulation, decision or event in the twelve months to 30 September 2026 is recorded.
+***Not held***. A civil-society group published an unofficial draft data protection law for comment in March 2026. No source held says the government has a bill or a law.

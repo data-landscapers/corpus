@@ -1,0 +1,13 @@
+{
+  "slug": "2024-06-10-lby-alwasat-27-municipalities-local-revenue-programme",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Local Government of the Government of National Unity runs the National Programme for Activating Local Revenues, under which 27 municipalities signed a sponsorship document on 10 June 2024; its projects include an electronic collection system and a database of municipal economic activities.", "as_of": "2024-06-10", "date_precision": "day", "system": "نظام الإيرادات المحلية (local revenue system) / منظومة الجباية الإلكترونية", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The ministry's national programme sets out an action plan for municipalities to activate and grow local revenue, with projects on economic-activity revenue, electronic collection, revenue regulations and a forum; 27 municipalities committed to implement it on 10 June 2024.", "as_of": "2024-06-10", "date_precision": "day", "system": "نظام الإيرادات المحلية (local revenue system) / منظومة الجباية الإلكترونية", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "not-published", "fact": "The programme director said it targets both municipalities where the local revenue system is already activated and those where it is not and still needs activating; no count of either group is given, and the 27 signatories are not said to be using the system.", "as_of": "2024-06-10", "date_precision": "day", "system": "نظام الإيرادات المحلية (local revenue system)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "نظام الإيرادات المحلية (local revenue system)", "country_label": "نظام الإيرادات المحلية", "class": "revenue", "platform": "", "owner": "Ministry of Local Government", "tiers": "municipalities; activated in some, not in others, no count given"},
+    {"system": "منظومة الجباية الإلكترونية (electronic collection system, programme project)", "country_label": "منظومة الجباية الإلكترونية", "class": "revenue", "platform": "", "owner": "Ministry of Local Government (National Programme for Activating Local Revenues)", "tiers": "27 signatory municipalities in the programme"}
+  ],
+  "note": ""
+}

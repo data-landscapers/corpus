@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-09-cmr-dgb-cenadi-etude-datacenters",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "none", "fact": "The finance ministry's account of the CENADI data centre study says the study was prompted in part by the absence of a consolidated national strategy on digital infrastructure and by excessive reliance on foreign data centres to host sensitive data; the document gives no event date, so its publication date is used, and it speaks of digital infrastructure strategy, not hosting policy by name.", "as_of": "2025-07-09", "date_precision": "day", "system": "CENADI study 'Datacenter au Cameroun : Compétitivité et viabilité'", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "CENADI study 'Datacenter au Cameroun : Compétitivité et viabilité'", "country_label": "étude Datacenter au Cameroun", "class": "other", "platform": "", "owner": "CENADI", "tiers": "national"}
+  ],
+  "note": ""
+}

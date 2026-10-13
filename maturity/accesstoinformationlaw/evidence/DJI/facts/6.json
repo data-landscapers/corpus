@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-01-dji-maeci-conseil-ministres-code-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Council of Ministers, chaired by the head of state, examined and approved the draft law on the Digital Code, whose Book VII provides a general right of access to administrative documents and public information with rules on how it is exercised; the report is undated, published 2023-06-01 and the session is inferred to be early June 2023.", "as_of": "2023-06", "date_precision": "month", "system": "Projet de loi portant Code du Numérique (Livre VII)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi portant Code du Numérique", "country_label": "Code du Numérique", "class": "law", "platform": "", "owner": "Ministère délégué chargé de l'Économie numérique et de l'Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

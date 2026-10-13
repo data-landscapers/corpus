@@ -1,0 +1,9 @@
+{
+  "slug": "2013-09-30-uga-moict-electronic-transactions-regulations-si-42",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Minister responsible for ICT made the Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42) on 10 September 2013 under section 35 of the Electronic Transactions Act, 2011, gazetted 30 September 2013, covering authenticity of data messages, seller and service provider disclosures, commercial communications and provider liability.", "as_of": "2013-09-10", "date_precision": "day", "system": "Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Regulations are made under the Electronic Transactions Act, 2011 (Act No. 8 of 2011), and set offences with fines up to six currency points for sellers failing to give the required information and for unsolicited commercial communications; the document gives no commencement date other than its 2013 making.", "as_of": "2013-09-10", "date_precision": "day", "system": "Electronic Transactions Act (Chapter 99)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

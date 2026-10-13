@@ -1,0 +1,11 @@
+{
+  "slug": "2016-07-01-stp-telanon-ministerio-educacao-lancou-sige",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "In July 2016 the education ministry launched SIGE, whose first phase puts library, statistics, secretariat, desk and parts of finance in one database, with a single enrolment that pupils only confirm each year; pupils and parents are to see marks online.", "as_of": "2016-07-01", "date_precision": "day", "system": "SIGE (Sistema Integrado de Gestão Escolar)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "SIGE was launched by the Ministry of Education, Science and Culture, and the minister explained it at the ceremony.", "as_of": "2016-07-01", "date_precision": "day", "system": "SIGE (Sistema Integrado de Gestão Escolar)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIGE (Sistema Integrado de Gestão Escolar)", "country_label": "SIGE", "class": "emis", "platform": "", "owner": "Ministry of Education, Science and Culture", "tiers": "schools: library, statistics, secretariat, desks, parts of finance; pupils and parents via web"}
+  ],
+  "note": ""
+}

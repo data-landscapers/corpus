@@ -14,8 +14,9 @@
       "cap": "",
       "flags": "lapsed",
       "stage_sources": "TUN-003;TUN-001;TUN-004;TUN-002",
-      "gaps": "Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. Also holds rows for the predecessor Plan national stratégique Tunisie Digitale 2020 (extended to 2025), whose body row (TUN-008) is not carried to this instrument; no text, plan or governance rows for the 2021-2025 strategy.",
-      "note": "Strategy 2021-2025 (Stratégie nationale du numérique) is adopted but its period ended before 2026 with no successor on record, so the cell is unplaced and lapsed."
+      "gaps": "Stratégie nationale du numérique 2021-2025 ended in 2025 and no successor strategy is on record: TUN-001 gives only a 'broader national vision for 2026-2030', not a named strategy in preparation. The rows for the predecessor Tunisie Digitale 2020 (extended to 2025), including its 2018 targets, results table and governance chart (TUN-035 to TUN-038) and its body row (TUN-008), are not carried to this instrument; that plan has ended too, and its results were published in 2018, outside any window. No text, plan or governance rows for the 2021-2025 strategy.",
+      "note": "Strategy 2021-2025 (Stratégie nationale du numérique) is adopted but its period ended before 2026 with no successor on record, so the cell is unplaced and lapsed.",
+      "as_at": "2026-10-13"
     }
   ]
 }

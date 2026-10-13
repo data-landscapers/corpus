@@ -1,0 +1,14 @@
+{
+  "slug": "2018-07-04-gnb-fec-firkidja-di-skola-gabu-sige",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "keyed-elsewhere", "fact": "In the 2017/18 school year, teams from the ministry and the NGO FEC collected learner, teacher and class records school by school in Gabu region and keyed them into the pilot platform at a regional hub, with ministry statisticians to monitor each school term; the document describes no entry by the schools themselves.", "as_of": "2018", "date_precision": "year", "system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The system is described as a pilot covering the basic and secondary schools of Gabu region active in 2017/18, with no figure for schools in the country and a hope that it will be extended to the whole territory.", "as_of": "2018", "date_precision": "year", "system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The pilot covers basic and secondary education schools of Gabu region in 2017/18.", "as_of": "2018", "date_precision": "year", "system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:partner", "fact": "The pilot is developed by the Gabu regional government and the NGO FEC with ministry units (GEPASE, the inspectorate, the regional directorate), and the platform was built by a consortium of the CPLP training institute and Codevision.", "as_of": "2018", "date_precision": "year", "system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "The pilot is financed by the European Union.", "as_of": "2018", "date_precision": "year", "system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Firkidja di Skola (Sistema Piloto de Informação de Gestão da Educação)", "country_label": "Firkidja di Skola; Sistema de Informação de Gestão de Dados de Educação", "class": "emis", "platform": "platform built by a CPLP training institute and Codevision consortium", "owner": "Gabu regional government and FEC, with GEPASE, the inspectorate and the regional education directorate; EU-financed", "tiers": "Gabu region basic and secondary schools; data to GEPASE"}
+  ],
+  "note": ""
+}

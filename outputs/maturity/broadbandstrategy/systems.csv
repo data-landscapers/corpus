@@ -17,9 +17,16 @@ BFA,Schéma directeur d'aménagement numérique (SDAN),SDAN,plan,,"Ministère de
 BFA,Schéma directeur d'aménagement numérique (SDAN),SDAN,plan,,"Ministère de la Transition digitale, des Postes et des Communications électroniques",national,2025-10-26-observatoire-amenagement-numerique-lance
 BWA,National Broadband Strategy,National Broadband Strategy (NBS),plan,,Ministry of Transport and Communications,national,2018-06-01-bwa-national-broadband-strategy
 CAF,Plan National de Développement 2024-2028,Plan National de Développement 2024-2028,plan,,Government of the Central African Republic,,2025-09-04-caf-ambition28-investment-program-launch
+CIV,Réseau National Haut Débit (RNHD),RNHD,other,national fibre optic backbone,"ANSUT (delegated project owner), ministry in charge of digital economy","mobile operators, internet providers, public administrations",2024-09-10-civ-sikafinance-ansut-relance-rnhd
+CIV,Réseau National Haut Débit (RNHD),RNHD,other,fibre optic backbone financed by the universal service fund,Ministère de la Transition Numérique et de la Digitalisation,,2025-11-01-civ-itu-wtdc25-ministerial-statement
 COD,national strategy to expand mobile coverage (FDSU),National strategy for mobile and broadband connectivity,plan,,FDSU,national,2026-08-14-dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas
 COD,National Connectivity Strategy 2026-2035,National Connectivity Strategy 2026-2035,plan,,FDSU,national,2026-08-13-drc-fdsu-connectivity-strategy-operator-subsidies
 COD,Stratégie Nationale pour la Connectivité Universelle,Stratégie Nationale pour la Connectivité Universelle,plan,,FDSU,national,2026-08-13-drc-fdsu-connectivity-strategy-scoring-framework
+COG,Congo Digital 2025,stratégie nationale de transformation numérique « Congo Digital 2025 »,,,Government of Congo,national,2024-06-24-cog-convergenceafrique-patn-admin-connectivity
+COG,Projet d'accélération de la transformation numérique (PATN),PATN,other,,"Ministry of Posts, Telecommunications and Digital Economy; financed by the World Bank (USD 100 million)",national,2024-06-24-cog-convergenceafrique-patn-admin-connectivity
+COG,Projet d'Accélération de la Transformation Numérique (PATN),PATN,other,,"Ministry of Posts, Telecommunications and Digital Economy",national,2025-01-22-cog-lanouvellerepublique-ibombo-feuille-de-route-2025
+COG,Projet d'Accélération de la Transformation Numérique (PATN),PATN,other,,"Ministry of Posts, Telecommunications and Digital Economy",national,2025-03-13-cog-patn-ptba-2025-workplan-budget
+COG,Vision Congo Digital 2030,stratégie « Vision Congo Digital 2030 »,,,"Ministry of Posts, Telecommunications and Digital Economy",national,2025-03-13-cog-patn-ptba-2025-workplan-budget
 CPV,Estratégia Nacional para a Implementação da Tecnologia 5G,National 5G Strategy,plan,,Ministry of Digital Economy / DGTED,national,2026-02-16-national-5g-strategy-digital-nation-techafricanews
 CPV,Estratégia Nacional para a Implementação da Tecnologia 5G,National 5G Strategy,plan,,Ministry of Digital Economy / DGTED,national,2025-09-11-national-5g-strategy-hub-2030-techafricanews
 CPV,Estratégia Nacional para a Implementação da Tecnologia 5G,National 5G Strategy,plan,,Ministry of Digital Economy / DGTED,national,2025-09-10-cpv-estrategia-nacional-5g-hub-digital-regional-2030
@@ -29,6 +36,8 @@ DZA,Tout Fibre strategy,استراتيجية الكل فايبر,plan,,Ministry 
 DZA,national infrastructure and innovation agenda (fibre by 2027),,plan,,Ministry of Post and Telecommunications,,2025-11-18-itu-wtdc25-algerie-declaration
 DZA,fixed internet generalisation strategy,Widespread access to Fixed Internet,plan,,Ministry of Post and Telecommunications; Algerie Telecom operates the network under Art. 29 of law 18-04,,2025-07-09-mpt-generalisation-internet-fixe
 EGY,National Spectrum Strategy 2026-2030,National Spectrum Strategy,other,,,,2026-02-10-egypt-3-5b-spectrum-deal-5g-connectingafrica
+EGY,eMisr National Broadband Plan,eMisr National Broadband Plan,plan,,"Ministry of Communications and Information Technology, through the NTRA",national,2011-11-17-egy-mcit-emisr-national-broadband-plan
+GHA,National Broadband Policy and Implementation Strategy,National Broadband Policy and Implementation Strategy,plan,,Ministry of Communications,,2012-10-01-gha-moc-national-broadband-policy-strategy
 GMB,The Gambia National Broadband Strategy 2020-2024,Gambia Broadband Strategic Plan 2020-2024 (GBSP 2020-2024),plan,,Ministry of Information and Communication Infrastructure (MOICI),national,2020-06-01-gambia-moici-national-broadband-strategy-2020-2024
 GNB,Plano Estratégico do Fundo de Acesso e Serviços Universais 2026-2031,Plano Estratégico da FASU 2026-2031,plan,,"ARN (Autoridade Reguladora Nacional), with WARDIP and consultancy Salience",national,2025-11-24-arn-guine-bissau-plano-estrategico-fasu-2026-2031
 GNB,Estratégia Nacional para a Transformação Digital (ENTD.GW),"ENTD.GW, adopted January 2025",,,Government of Guinea-Bissau,national,2025-11-24-arn-guine-bissau-plano-estrategico-fasu-2026-2031
@@ -36,10 +45,12 @@ GNB,National Digital Transformation Strategy (ENTD.GW),ENTD.GW,other,,"Governmen
 GNB,National Digital Transformation Strategy (ENTD.GW),ENTD.GW,other,,"Ministry of Transportation, Telecommunication and Digital Economy, with UNDP and UNU-EGOV",,2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP
 GNB,National Digital Transformation Strategy (ENTD.GW),ENTD.GW,other,,"Ministry of Transportation, Telecommunication and Digital Economy, with UNDP",,2025-01-29 Guinea-Bissau launches ENTD.GW national digital transformation strategy (ANG)
 GNQ,"plan de acción julio-diciembre 2026 del Ministerio de Transportes, Telecomunicaciones y Aviación Civil",plan semestral,plan,,"Ministerio de Transportes, Telecomunicaciones y Aviación Civil",national,2026-07-15-guinea-ecuatorial-plan-semestral-transportes-cobertura-85-por-ciento
+GNQ,Plan Nacional de Telecomunicaciones para la Transformación Digital,Plan Nacional de Telecomunicaciones para la Transformación Digital,plan,,Ministerio de Transportes y Telecomunicaciones,,2025-12-12-gnq-oipge-plan-nacional-telecom-banco-mundial
 KEN,Digital Superhighway,Digital Superhighway,plan,,Government of Kenya,national,2026-09-04-kenya-digital-superhighway-implementation-coordination
 KEN,Digital Superhighway,Digital Superhighway,plan,,Government of Kenya,national,2026-09-02-nation-africa-ruto-fibre-optic-network-plan-falters
 KEN,Digital Superhighway,Digital Superhighway,plan,,Government of Kenya,national,2026-06-11-businessdaily-ict-allocation-fy2026-27
 KEN,Kenya Digital Economy Acceleration Project,Kenya Digital Economy Acceleration Project,other,,Government of Kenya,national,2026-06-11-businessdaily-ict-allocation-fy2026-27
+LBY,National Strategy for the Communications and Informatics Sector 2023-2027,National Strategy for the Communications and Informatics Sector 2023-2027,plan,,General Authority for Communications and Informatics,,2023-05-03-lby-libyaherald-national-ict-strategy-2023-2027
 LSO,Broadband Infrastructure Sharing Policy,Broadband Infrastructure Sharing Policy,plan,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-06-12-three-digital-policies-signed-lestimes
 LSO,Broadband and Shared Infrastructure Policy and Implementation Plan,Broadband and Shared Infrastructure Policy,plan,,"Ministry of Information, Communications, Science, Technology and Innovation; drafted by Norway Registers Development AS for UNDP",,2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft
 MAR,المخطط الوطني للصبيب العالي,National high-speed (broadband) plan,plan,,,,2026-10-05-mar-anfaspress-khayf-allah-digitisation-bureaucracy

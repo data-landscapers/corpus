@@ -1,0 +1,18 @@
+{
+  "slug": "2026-04-01-tcd-unhcr-refugees-national-digital-id-system",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "UNHCR states that Ordinance 002/PR/2020 of 14 February 2020 on civil status, ratified by Law 006/PR/2020 of 29 May 2020, sets up the integrated population and secure titles system (SIGPTS) run by ANATS, which issues a unique national identification number (NNI) through the national biometric population register (RNBP).",
+     "as_of": "2020-05-29", "date_precision": "day", "system": "SIGPTS / RNBP", "class": "law"},
+    {"sub_indicator": "law", "aspect": "cover", "value": "digital",
+     "fact": "UNHCR states that under Ordinance 002/PR/2020 (article 8) the RNBP holds biographic and biometric data and the NNI of everyone on the territory, article 2 obliges every resident or visitor to register, and article 10 makes the NNI unique, unintelligible and non-sequential.",
+     "as_of": "2020-02-14", "date_precision": "day", "system": "SIGPTS / RNBP", "class": "law"}
+  ],
+  "systems": [
+    {"system": "SIGPTS", "country_label": "Système intégré de gestion des populations et des titres sécurisés", "class": "other", "platform": "", "owner": "ANATS", "tiers": "national; refugee pilot at N'Djamena and Abéché"},
+    {"system": "RNBP", "country_label": "Registre national biométrique des populations", "class": "other", "platform": "", "owner": "ANATS", "tiers": ""},
+    {"system": "TASDJIL", "country_label": "Tasdjil", "class": "other", "platform": "application built with UNICEF and Technidev", "owner": "ANATS", "tiers": "health-centre one-stop counters"},
+    {"system": "PRIMES", "country_label": "PRIMES", "class": "other", "platform": "", "owner": "CNARR and UNHCR", "tiers": ""}
+  ],
+  "note": ""
+}

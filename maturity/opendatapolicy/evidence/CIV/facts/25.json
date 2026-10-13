@@ -1,0 +1,26 @@
+{
+  "slug": "2020-01-01-civ-ogp-ci0024-open-data-commitment",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The OGP IRM review of commitment CI0024 (2018-2020 plan) says the commitment does not introduce legal requirements, civil society reported a lack of consistent regulation on open data, and the IRM recommends developing an Open Data Act; the page has no date so its published year 2020 is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Open data regulation",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "data.gouv.ci",
+      "country_label": "Open Data Cote d'Ivoire portal",
+      "class": "other",
+      "platform": "",
+      "owner": "Government Centre for Information and Communication (CICG)",
+      "tiers": "national ministries; about 50 datasets added by the petroleum and renewable energies ministry"
+    }
+  ],
+  "note": ""
+}

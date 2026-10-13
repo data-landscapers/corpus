@@ -1,0 +1,11 @@
+{
+  "slug": "2016-07-29-zaf-dpsa-public-service-regulations-2016",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Public Service Regulations, 2016 (GNR.877), made by the Minister for the Public Service and Administration under section 41 of the Public Service Act, took effect on 1 August 2016 and are consolidated to 11 April 2019; the held text lists regulation 97, Minimum interoperability standards, in Chapter 6 but only as a table-of-contents entry, with the regulation's text not held.",
+     "as_of": "2016-08-01", "date_precision": "day",
+     "system": "Public Service Regulations, 2016", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

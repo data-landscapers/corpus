@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-gnb-maisafrika-lei-integridade-digital",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Mais Afrika reports that Guinea-Bissau's National Transition Council approved the Digital Integrity Law against false online content, which sets up a Digital Verification Commission to refer content linked to crime to the Public Prosecutor; the article does not say it has been promulgated or is in force, and gives its date as the publication date, 21 May 2026.", "as_of": "2026-05-21", "date_precision": "day", "system": "Lei da Integridade Digital", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Lei da Integridade Digital", "country_label": "Lei da Integridade Digital", "class": "law", "platform": "", "owner": "Conselho Nacional de Transição", "tiers": ""}
+  ],
+  "note": ""
+}

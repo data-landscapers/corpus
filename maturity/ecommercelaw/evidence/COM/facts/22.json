@@ -1,0 +1,27 @@
+{
+  "slug": "2024-01-01-com-uneca-dtri-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The UNECA Digital Trade Regulatory Integration profile states that the Comoros does not have a law on electronic transactions and has no consumer protection framework or UNCITRAL-based legislation for online transactions; it is undated, so its published date of 2024 is used (data covers 2005-2023).",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "No law on electronic transactions",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The same profile states that the 2021 law on cyber security and the fight against cybercrime fills gaps in electronic transactions, notably legal recognition of electronic signatures with the same effect as handwritten ones; it also calls an Electronic Signature Act adopted, in its conclusion.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Law on cyber security and the fight against cybercrime (Law No. 21-012/AU)",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-22-lby-smex-libya-ai-strategy-built-without-participation",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "SMEX reports that Libya's National AI Strategy (adopted 1 June 2026) concedes the Data Protection and Privacy Law remains in draft, with adoption targeted for 2026 under Pillar 2; as_of is the article's publication date.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "SMEX states that Libya currently has no functioning data protection authority; as_of is the article's publication date.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

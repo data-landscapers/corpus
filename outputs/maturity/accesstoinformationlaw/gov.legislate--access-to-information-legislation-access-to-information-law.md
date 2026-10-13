@@ -22,11 +22,11 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 11 |
-| 3 Established | 11 |
-| 2 Nascent | 11 |
-| 1 Absent | 4 |
+| 3 Established | 12 |
+| 2 Nascent | 14 |
+| 1 Absent | 5 |
 | Unplaced | 1 |
-| No evidence | 8 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -197,6 +197,13 @@ Cabo Verde's 2022 law on access to administrative documents is in force; rules m
 
 - This document is the text of Lei n.º 10/X/2022 on access to and reuse of administrative documents, approved 8 April 2022, promulgated 9 May 2022 and published 16 May 2022, which gives everyone a right to consult, copy and be informed of administrative documents held by public bodies and takes effect 180 days after publication ([source, 2022-05-09](https://boe.incv.cv/Bulletins/Download/4230)).
 
+### Ethiopia: 3 Established
+
+Ethiopia has had a mass media and access to information proclamation since 2008; its Ombudsman oversight is reported ineffective, and application is not known.
+
+- The document lists the Mass Media and Access to Information Proclamation No. 590/2008 among Ethiopia's laws and says the Ethiopian Institution of the Ombudsman was designated the organ responsible for implementing freedom of information, and that studies find it ineffective for lack of resources to evaluate public bodies; no date is given, so the document's published date is used ([source, 2023-06-01](https://www.cardeth.org/sites/default/files/New%20Media%20Legislations%20and%20their%20Implementations%20in%20Ethiopia.pdf)).
+- Proclamation No. 590/2008 on Freedom of the Mass Media and Access to Information, dated 4 December 2008, is proclaimed under Article 55(1) of the Constitution; its preamble affirms individuals' right to access information held by public bodies and a legal obligation on public officials to facilitate it (only the preamble is in the captured text) ([source, 2008-12-04](https://justice.gov.et/en/law/a-proclamation-to-provide-for-freedom-of-the-mass-media-and-access-to-information/)).
+
 ### Guinea: 3 Established
 
 Guinea's 2020 law on access to public information is in force; whether its commission has been appointed is not known.
@@ -241,6 +248,12 @@ Tanzania's 2016 Access to Information Act has been in force since July 2017; rul
 
 - The document is the text of Tanzania's Access to Information Act, 2016 (Chapter 149), assented to on 23 September 2016, gazetted on 30 September 2016 and commenced on 1 July 2017 by the Access to Information (Date of Commencement) Notice, 2017; it gives every citizen a right to request information from public bodies and applies to Mainland Tanzania only ([source, 2016](https://tanzlii.org/akn/tz/act/2016/6/eng@2016-09-30)).
 
+### Benin: 2 Nascent
+
+Benin was drafting an access to information law as of December 2022, with no adoption timetable; nothing held says it is in force or applied.
+
+- The World Bank open data readiness assessment says the government, through the BAI presidential reform office, is drafting a new access to information law (an avant-projet with an Open Data section and decree) that has been under discussion in government for nearly two years, with no adoption timetable and no civil society involvement ([source, 2022-12](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
+
 ### Burundi: 2 Nascent
 
 Burundi's Senate adopted an access to public information bill on 29 September 2026; whether it has been promulgated is not known.
@@ -260,6 +273,12 @@ Cameroon's draft law on access to public information was validated by a workshop
 DR Congo's National Assembly took up an access to information bill in March 2026; it is still a bill.
 
 - The National Assembly declared receivable on 27 March 2026 a private member's bill on access to information and transparency of public life, sent to a joint committee with ten days to report; the document says the constitutional right of access is left without a legal framework ([source, 2026-03-27](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de)).
+
+### Djibouti: 2 Nascent
+
+Djibouti's Council of Ministers approved a draft Digital Code with a right of access to information in 2023; whether it passed is not known.
+
+- The Council of Ministers, chaired by the head of state, examined and approved the draft law on the Digital Code, whose Book VII provides a general right of access to administrative documents and public information with rules on how it is exercised; the report is undated, published 2023-06-01 and the session is inferred to be early June 2023 ([source, 2023-06](https://diplomatie.gouv.dj/Articles/DetailArticles/850)).
 
 ### Egypt: 2 Nascent
 
@@ -306,6 +325,13 @@ Mauritania's government bill on access to public information has been under disc
 
 - RSF reports that a government-drafted bill on access to and use of public information has been under discussion since April 2026 and has yet to go through parliamentary review ([source, 2026-06-23](https://rsf.org/fr/mauritanie-rsf-salue-le-projet-de-loi-sur-l-acces-et-l-utilisation-de-l-information-publique)).
 
+### Sao Tome and Principe: 2 Nascent
+
+Sao Tome and Principe had a draft access law before the National Assembly in 2018, still not adopted in 2021; later status is not known.
+
+- STP Digital reported on 1 December 2021 that civil society organisations were calling during the Quinzena da Cidadania (15-30 November 2021) for the draft access law to be adopted, which says it was not yet adopted ([source, 2021-11](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
+- A draft Lei de Acesso aos Documentos e Informações Administrativas, written by a national consultant under the Pro PALOP project, was submitted to the President of the National Assembly by civil society organisations (CIP-STP, FONG-STP, PDHEG, Wêbeto) in 2018, according to STP Digital ([source, 2018](https://stpdigital.net/sociedade/lei-de-acesso-a-documentos-e-informacoes-administrativas)).
+
 ### Somalia: 2 Nascent
 
 Somalia's cabinet approved an access to information bill in 2024; in September 2025 it still awaited the Lower House.
@@ -337,6 +363,12 @@ Gabon has no access to information law and no draft, by a UNESCO statement of De
 
 - UNESCO's contribution to the 42nd Universal Periodic Review states that Gabon has no access to information law and encourages it to adopt one; no draft is named. The document gives no event date, so its published date is used ([source, 2025-12-01](https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR42_GAB_F_Main.pdf)).
 
+### Mauritius: 1 Absent
+
+Mauritius had no access to information law as of February 2026, only promises of one; no bill is known.
+
+- A Le Defi Media blog of 14 February 2026 says successive Mauritian political parties have promised Freedom of Information and failed to deliver, and that Senior Counsel Rama Valayden urges the government to introduce it; no law or bill is mentioned, and his 2022 draft is a constitutional amendment to section 12 ([source, 2026-02-14](https://defimedia.info/blog-enough-promises-rama-valayden-urges-action-freedom-information-unveils-proposed-constitutional)).
+
 ### Chad: Unplaced
 
 Chad had no freedom of information law in January 2023; nothing newer is held, so no stage is set.
@@ -349,44 +381,14 @@ Nothing held says whether Algeria has an access to information law or a draft of
 
 Not established: Nothing held names an access to information law or a draft of one, or says there is none.
 
-### Benin: No evidence
-
-Nothing held says whether Benin has an access to information law or a draft of one, so no stage is set.
-
-Not established: Nothing held names an access to information law or a draft of one, or says there is none.
-
 ### Central African Republic: No evidence
 
 Nothing held says whether Central African Republic has an access to information law or a draft of one, so no stage is set.
 
 Not established: Nothing held names an access to information law or a draft of one, or says there is none.
 
-### Djibouti: No evidence
-
-Nothing held says whether Djibouti has an access to information law or a draft of one, so no stage is set.
-
-Not established: Nothing held names an access to information law or a draft of one, or says there is none.
-
 ### Eswatini: No evidence
 
 Nothing held says whether Eswatini has an access to information law or a draft of one, so no stage is set.
-
-Not established: Nothing held names an access to information law or a draft of one, or says there is none.
-
-### Ethiopia: No evidence
-
-Nothing held says whether Ethiopia has an access to information law or a draft of one, so no stage is set.
-
-Not established: Nothing held names an access to information law or a draft of one, or says there is none.
-
-### Mauritius: No evidence
-
-Nothing held says whether Mauritius has an access to information law or a draft of one, so no stage is set.
-
-Not established: Nothing held names an access to information law or a draft of one, or says there is none.
-
-### Sao Tome and Principe: No evidence
-
-Nothing held says whether Sao Tome and Principe has an access to information law or a draft of one, so no stage is set.
 
 Not established: Nothing held names an access to information law or a draft of one, or says there is none.

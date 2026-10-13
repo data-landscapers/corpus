@@ -23,10 +23,10 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 5 |
-| 2 Nascent | 8 |
-| 1 Absent | 0 |
-| Unplaced | 7 |
-| No evidence | 33 |
+| 2 Nascent | 10 |
+| 1 Absent | 1 |
+| Unplaced | 8 |
+| No evidence | 29 |
 
 ## Countries
 
@@ -67,6 +67,12 @@ Rwanda's data sharing policy, in place in 2026, makes government data open by de
 Tunisia's 2021 decree makes public data open by default; whether the national portal it provides for is at work is not known.
 
 - Government decree no. 2021-3 of 6 January 2021, issued by the Head of Government after deliberation of the Council of Ministers, organises the publication of public data under the open-by-default principle for public bodies; the document states no end or replacement ([source, 2021-01-06](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2021-3-du-6-janvier-2021-relatif-aux-donnees-publiques-ouvertes/)).
+
+### Benin: 2 Nascent
+
+Benin had a draft open data decree under discussion in December 2022 and no portal data published; no adopted policy is known.
+
+- The World Bank open data readiness assessment, written for the Government of Benin, says the draft access to information bill and its Open Data decree were under discussion within the government, with no clear date for sending them to parliament and little progress in over 12 months; it names adoption of the bill and decree as the first priority ([source, 2022-12-23](https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf)).
 
 ### Botswana: 2 Nascent
 
@@ -110,11 +116,23 @@ Mozambique's draft data governance policy of 2025 would require ministries to pu
 
 - Zero Draft 2 of the National Data Governance Policy and Implementation Strategy, drafted as a Council of Ministers Resolution with number and approval date left blank, has an open data section requiring all ministries, agencies and parastatals to proactively release non-sensitive datasets; the document has no face date, so its published date (2025-11, an upload-folder proxy) is used ([source, 2025-11](https://intic.gov.mz/wp-content/uploads/2025/11/Mozambique-Zero-Draft-2-Data-Governance-Policy-1.pdf)).
 
+### Tanzania: 2 Nascent
+
+Tanzania's open data policy was still a draft in June 2017, when its portal held 163 datasets; whether it was adopted is not known.
+
+- The World Bank's SOGDAT year 3 report (period February 2016 to June 2017) says the National Open Data Policy was drafted by the Open Data Task Force in 2016, consulted on in April 2016, handed to the Ministry of Finance for submission to Cabinet in December 2016 and presented to the Permanent Secretary of Finance in February 2017, but by June 2017 it had not been officially adopted ([source, 2017-06](https://documents1.worldbank.org/curated/en/933101529919350715/txt/SOGDAT-Year-3-Report.txt)).
+
 ### Uganda: 2 Nascent
 
 Uganda's ICT ministry had a draft open data policy in 2022; whether it has been adopted is not known.
 
 - The Ministry of ICT and National Guidance's Q4 FY2021/22 vote report lists under its software industry output that a Draft Open Data Policy was disseminated to staff ([source, 2022-06](https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/2021-2022_QuarterlyReport_Q4_020_MinistryofICTandNationalGuidance_05082022195509.pdf)).
+
+### Malawi: 1 Absent
+
+A November 2025 brief finds Malawi has no open data framework; a portal launched in September 2025, but who publishes on it is not known.
+
+- A CSEA policy brief of November 2025 finds that Malawi's open data vision is spread across other instruments, with no dedicated open data implementation framework and no central authority to enforce open standards ([source, 2025-11](https://cpanel.cseaafrica.org/images/posts/62181895.pdf)).
 
 ### Cote d'Ivoire: Unplaced
 
@@ -134,9 +152,9 @@ Nothing held says Eswatini has an open data policy; a 2024 assessment says it ha
 
 Not established: No policy or draft is on record, and no source dated in the last three years says the country has neither.
 
-### Malawi: Unplaced
+### Liberia: Unplaced
 
-Malawi launched an open data portal in 2025 with no open data policy on record, so no stage is set.
+Liberia's national data portal was live but not formally launched in 2018; no open data policy is known, so no stage is set.
 
 Not established: A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.
 
@@ -158,6 +176,12 @@ Togo launched an open data portal in 2024 with no open data policy on record, so
 
 Not established: A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.
 
+### Zimbabwe: Unplaced
+
+Nothing held says Zimbabwe has an open data policy, or says it has none, so no stage is set.
+
+Not established: No policy or draft is on record, and no source dated in the last three years says the country has neither.
+
 ### Algeria: No evidence
 
 Nothing held says Algeria has an open data policy, or says it has none, so no stage is set.
@@ -167,12 +191,6 @@ Not established: Nothing held names an open data policy, or says there is none.
 ### Angola: No evidence
 
 Nothing held says Angola has an open data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names an open data policy, or says there is none.
-
-### Benin: No evidence
-
-Nothing held says Benin has an open data policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names an open data policy, or says there is none.
 
@@ -266,12 +284,6 @@ Nothing held says Lesotho has an open data policy, or says it has none, so no st
 
 Not established: Nothing held names an open data policy, or says there is none.
 
-### Liberia: No evidence
-
-Nothing held says Liberia has an open data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names an open data policy, or says there is none.
-
 ### Madagascar: No evidence
 
 Nothing held says Madagascar has an open data policy, or says it has none, so no stage is set.
@@ -338,20 +350,8 @@ Nothing held says Sudan has an open data policy, or says it has none, so no stag
 
 Not established: Nothing held names an open data policy, or says there is none.
 
-### Tanzania: No evidence
-
-Nothing held says Tanzania has an open data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names an open data policy, or says there is none.
-
 ### Zambia: No evidence
 
 Nothing held says Zambia has an open data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names an open data policy, or says there is none.
-
-### Zimbabwe: No evidence
-
-Nothing held says Zimbabwe has an open data policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names an open data policy, or says there is none.

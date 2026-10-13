@@ -1,0 +1,64 @@
+{
+  "slug": "2026-08-10-egy-ahram-student-monitoring-platform-sprix",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The ministry said the platform will start in several education departments in 2026/2027 before gradual national expansion; no school count is given.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Nationwide student-monitoring platform (SPRIX)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The platform is to give teachers digital tools to record attendance and absences and to monitor each student's performance and assessment results, with the ministry receiving updated data daily.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Nationwide student-monitoring platform (SPRIX)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The education ministry signed an agreement with the Japanese company SPRIX on 10 August 2026 (announced that day) for a nationwide attendance, performance and assessment platform, starting in 2026/2027.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Nationwide student-monitoring platform (SPRIX)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Education and Technical Education signed the agreement and says the platform is part of its integrated national digital system for managing and monitoring education.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Nationwide student-monitoring platform (SPRIX)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nationwide student-monitoring platform (SPRIX)",
+      "country_label": "Student-monitoring platform",
+      "class": "emis",
+      "platform": "SPRIX (Japan)",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "not stated"
+    },
+    {
+      "system": "QUREO",
+      "country_label": "QUREO",
+      "class": "learning",
+      "platform": "QUREO",
+      "owner": "",
+      "tiers": "first-year secondary"
+    }
+  ],
+  "note": ""
+}

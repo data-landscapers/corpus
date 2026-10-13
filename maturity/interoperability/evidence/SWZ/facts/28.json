@@ -1,0 +1,34 @@
+{
+  "slug": "2024-01-01-swz-iom-migration-digital-maturity-assessment",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The IOM assessment (mission October 2022) says Eswatini has processes in place for a government interoperability framework (GIF) and recommends concrete steps on the submitted GIF proposal and its timely approval by the cabinet, so it was a submitted proposal and not yet adopted.",
+      "as_of": "2022-10",
+      "date_precision": "month",
+      "system": "Government interoperability framework (GIF)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government interoperability framework (GIF)",
+      "country_label": "GIF",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": ""
+    },
+    {
+      "system": "Data-sharing platform hosted by RSTP",
+      "country_label": "data-sharing platform",
+      "class": "other",
+      "platform": "RSTP",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

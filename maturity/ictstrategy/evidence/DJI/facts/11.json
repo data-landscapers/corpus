@@ -1,0 +1,64 @@
+{
+ "slug": "2015-02-25-dji-jo-loi-80-an-14-ssi-secteur-tic",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Law 80/AN/14/7ème L, published 25 February 2015, approves the ICT sector policy orientation note, the Integrated Strategic Scheme and its action plan, and repeals the 2003 law.",
+   "as_of": "2015-02-25",
+   "date_precision": "day",
+   "system": "Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "The law defines the national ICT strategy in the Scheme for ten years, 2014 to 2024.",
+   "as_of": "2015-02-25",
+   "date_precision": "day",
+   "system": "Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The law creates a national commission chaired by the Prime Minister to follow implementation and evaluate results, and a management-by-objective unit in the ICT ministry for 2014-2024.",
+   "as_of": "2015-02-25",
+   "date_precision": "day",
+   "system": "Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Law 80/AN/14 annuls and replaces the 2003 ICT policy law 22/AN/03, ending the 2003-2013 strategy's standing.",
+   "as_of": "2015-02-25",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024",
+   "country_label": "Schéma Stratégique Intégré du secteur des TIC",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère chargé des TIC; Commission nationale présidée par le Premier Ministre",
+   "tiers": ""
+  },
+  {
+   "system": "Stratégie Nationale de Développement des TIC 2003-2013 et Plan d'Action",
+   "country_label": "Stratégie Nationale de Développement des TIC",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère chargé des TIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

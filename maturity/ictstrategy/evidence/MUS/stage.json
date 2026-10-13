@@ -5,17 +5,18 @@
       "sub_indicator": "sector",
       "stage": "unplaced",
       "governance": "",
-      "standing": "",
-      "text": "",
-      "period": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2011",
       "plan": "",
       "reporting": "",
       "last12": "",
       "cap": "",
-      "flags": "under the national strategy",
-      "stage_sources": "",
-      "gaps": "evidence.csv holds no row for MUS and instruments.csv names no instrument for it, so no sector policy is established as adopted, drafted or announced. systems.csv logs a National ICT Policy by name only, with no class, date or standing.",
-      "note": "No instrument: no sector policy is on record to stage. The country holds a national digital strategy (digitalstrategy stage 3) and no sector policy in force, which section 4 leaves unplaced and flagged."
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "MUS-007;MUS-009",
+      "gaps": "The National ICT Policy 2007-11 ended in 2011 and no row records a successor sector policy adopted or in preparation. MUS-010 is valued actions, but its fact says the programmes sit in a separate National ICT Strategic Plan that is not held and the policy gives no costs, so no delivery plan is read. The older NTP-2004 (MUS-001 to MUS-006) states no period; the cell is staged on the newest adopted policy and not on a mix. No reporting is held, the only governance facts are the 2004 policy's, and nothing is dated in the last twelve months.",
+      "note": "National ICT Policy 2007-11: the newest adopted sector policy, text public, its period ended in 2011 with no successor sector policy on record, so the cell is unplaced and lapsed rather than stage 2 or 3. Digital Mauritius 2030 is held, a noted class that places nothing.",
+      "as_at": "2026-10-13"
     }
   ]
 }

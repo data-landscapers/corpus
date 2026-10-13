@@ -21,12 +21,12 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 6 |
-| 3 Established | 8 |
+| 4 Operating | 8 |
+| 3 Established | 12 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 32 |
+| No evidence | 26 |
 
 ## Countries
 
@@ -43,6 +43,13 @@ A 2025 act tells public bodies not to collect what another body already holds; n
 
 - Digital Services Act, 2025 (Act No. 22 of 2025, an act) states that a public or private body shall avoid collecting information already held by another public or private body (s.16(4)) and that citizens and businesses are to give the same information only once, shared and reused as necessary (s.5(m)), with administrative penalties of up to P500,000 for non-compliance with Authority directions (s.34); the text says nothing of any order or regulation yet made under it ([source, 2025-10-17](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf)).
 - Digital Services Act, 2025 (Act No. 22 of 2025, an act of parliament) was passed by the National Assembly on 14 August 2025 and assented on 17 October 2025; it provides for public bodies exchanging data through an Information Gateway (s.22), a Framework for Secure Exchange of Information (s.12) and data retrieval between bodies (s.16), and its own text gives commencement as by Ministerial Order in the Gazette, with no commencement date stated in this document ([source, 2025-10-17](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf)).
+
+### Cape Verde: 4 Operating
+
+A 2020 government resolution requires state bodies to share data; whether any regulation or application has followed is not known.
+
+- Measure g of Resolution 54/2020 establishes that public administration services and bodies must share, among themselves, the public data and documents needed for a given process or service, subject to personal data protection rules; measure r orders measures to operationalise the once-only principle, with the citizen's consent; no application is reported ([source, 2020-03-27](https://nosi.cv/documents/20121/3048284/Medidas%20de%20Acelera%C3%A7%C3%A3o%20Transforma%C3%A7%C3%A3o%20Digital%20na%20AP%20%282020%29.pdf/c556d060-0549-84e6-f11d-9eaee3e3f9d3)).
+- Council of Ministers Resolution 54/2020, approved 19 March 2020 and published in Boletim Oficial no. 37 of 27 March 2020, took effect the day after publication and applies to all direct and indirect State administration services; it is a government resolution, not a law, and orders (measure e) that a legal diploma on interoperability of public administration information systems be drafted and approved, with an interoperability framework (measure f) ([source, 2020-03-27](https://nosi.cv/documents/20121/3048284/Medidas%20de%20Acelera%C3%A7%C3%A3o%20Transforma%C3%A7%C3%A3o%20Digital%20na%20AP%20%282020%29.pdf/c556d060-0549-84e6-f11d-9eaee3e3f9d3)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -65,6 +72,13 @@ A 2017 decree obliges public bodies to share data and use one exchange platform;
 
 - Decree no. 67/2017 (decree) Article 11 obliges public administration entities to share the data they hold and reuse data held by other state entities, Article 12 obliges them to reuse citizen data already supplied via the interoperability platform, and Article 17 obliges them to use the single interoperability platform ([source, 2017-12-01](https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf)).
 - INTIC's chairman said Mozambique has made progress including a thorough review of the Electronic Government Systems Interoperability Regulation, which sets standards for integrating and managing public information systems; the report names no decree number or year, and does not say the regulation covers data exchange or obliges bodies to share (a regulation, under review; as_of is the report's published date) ([source, 2025-12-05](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/)).
+
+### Niger: 4 Operating
+
+A 2019 electronic transactions law lets administrations exchange data and sets a framework they must use; later use under it is not known.
+
+- Art. 33 of Niger's Loi 2019-03 of 30 April 2019 exempts an applicant from supplying a supporting document when the administration can obtain it directly from the administration or services concerned, replacing it with a sworn declaration; Art. 35 has the RGI data directories, norms and standards 'qui doivent etre utilises par l'administration' ([source, 2019-04-30](https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/)).
+- Niger's Loi 2019-03 of 30 April 2019 on electronic transactions, promulgated and published in the Journal Officiel (Art. 55), has a Title VII on electronic administration: Art. 29 lets administrations exchange information, documents and acts electronically, and Art. 35 institutes a General Interoperability Framework (RGI) for administrative information systems, to be set by decree ([source, 2019-04-30](https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/)).
 
 ### Tunisia: 4 Operating
 
@@ -91,6 +105,12 @@ A 2018 order of the Prime Minister sets interoperability rules for public admini
 
 - Burkina 24 reports that the Referentiel general d'interoperabilite (RGI), a normative document fixing the rules that make the information systems of the different public administrations compatible, was adopted by an order (arrete) of the Prime Minister dated 23 May 2018, and was the subject of a training seminar for IT directorates on 15-17 October 2019; it is an arrete, not an act or decree, and some of its communication protocols are described as mandatory and others as recommended ([source, 2018-05-23](https://burkina24.com/2019/10/15/burkina-un-referentiel-pour-moderniser-ladministration-publique/)).
 
+### Guinea: 3 Established
+
+A 2019 arrêté between the health and territorial administration ministries covers vaccination and birth certificates; whether any wider law requires sharing is not known.
+
+- UNICEF Guinea lists a government-authored interoperability arrete between the Ministry of Health and the Ministry of Territorial Administration and Decentralisation (MATD), for promoting vaccination and obtaining birth certificates; the page gives only the month of publication (May 2019, used as the date) and no text, and the scope is health and civil registration only ([source, 2019-05](https://www.unicef.org/guinea/rapports/larr%C3%AAt%C3%A9-dinterop%C3%A9rabilit%C3%A9-entre-le-minist%C3%A8re-de-la-sant%C3%A9-et-le-matd)).
+
 ### Guinea-Bissau: 3 Established
 
 A decree of October 2025 approved a national interoperability regulation; whether it requires public bodies to share data is not known.
@@ -104,17 +124,35 @@ A 2022 decree governs electronic exchanges between administrative authorities; w
 
 - Decree (Premier Ministre) n° 2022-009 on electronic exchanges between users and administrative authorities and between administrative authorities, published in Journal Officiel n° 1505 after the Council of Ministers heard it on 3 November 2021, applies to any information exchanged electronically between administrative authorities and sets a security reference (RGS) their information systems must meet; the document gives only the year 2022 from the decree number, and its text is an excerpt that stops inside Article 4 ([source, 2022](https://mtnima.gov.mr/sites/default/files/2024-02/D%C3%A9cret%20n%C2%B02022-009%20Relatif%20aux%20%C3%A9changes%20%C3%A9lectroniques%20entre%20les%20usagers%20et%20les%20autorit%C3%A9s%20administratives%20et%20entre%20les%20autorit%C3%A9s%20administratives_%5BJ.O%20n%C2%B01505%5D.pdf)).
 
+### Mauritius: 3 Established
+
+A 2022 Civil Status Act amendment lets the Bank of Mauritius share population data for Central KYC; any wider sharing law is not known.
+
+- The Bank of Mauritius Governor said on 15 April 2022 that legislative amendments to the Civil Status Act enable the Bank to share information retrieved from the Central Population Database with Central KYC participants; the amendment is undated in the speech (document date used), is limited to the Central KYC purpose, and the speech says only that it enables sharing ([source, 2022-04-15](https://www.bom.mu/sites/default/files/opening_remarks_governor_harvesh_seegolam_signing_of_mous_15_april_2022.pdf)).
+
 ### Sao Tome and Principe: 3 Established
 
 A 2024 law is cited as the national framework for interoperability; whether it requires public bodies to share data is not known.
 
 - The IBA country chapter says STP has recently tackled data sharing and governance in public institutions through the National Framework for Interoperability, which it cites as Law 1/2024 (an act); year taken from the law's number, the chapter itself being dated only 2024 ([source, 2024](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe)).
 
+### South Africa: 3 Established
+
+Public service regulations in force since 2016 list a rule on minimum interoperability standards; whether any law requires public bodies to share data is unknown.
+
+- The Public Service Regulations, 2016 (GNR.877), made by the Minister for the Public Service and Administration under section 41 of the Public Service Act, took effect on 1 August 2016 and are consolidated to 11 April 2019; the held text lists regulation 97, Minimum interoperability standards, in Chapter 6 but only as a table-of-contents entry, with the regulation's text not held ([source, 2016-08-01](https://www.dpsa.gov.za/dpsa2g/documents/acts&regulations/regulations2016/PUBLIC%20service%20regulations%2016%20April%202019.pdf)).
+
 ### Tanzania: 3 Established
 
 The 2019 e-government act has a section on data sharing and exchange; whether it requires public institutions to share is not known.
 
 - The e-Government Act (Cap. 273, Act No. 10 of 2019, an act of parliament) commenced on 19 September 2019 (GN No. 964 of 2019) and applies to all public institutions; its Part VIII, Electronic Government Data Management, has a section 48 headed Data sharing and exchange and it defines interoperability as systems exchanging data, though the section text is not held and the date is the Act's commencement ([source, 2019-09-19](https://oagmis.oag.go.tz/portal/acts/revised/559/download)).
+
+### Uganda: 3 Established
+
+Regulations in force since 2015 bind public bodies to inter-operable systems and the shared backbone; whether they require data sharing is not known.
+
+- The National Information Technology Authority-Uganda (E-Government) Regulations, 2015 (S.I. 2015 No. 27), made by the ICT Minister on 4 May 2015 and gazetted on 10 June 2015, bind all public bodies and provide for inter-operable systems, a national data centre, mandatory use of the shared government backbone and e-government infrastructure (reg. 10), and information sharing in e-government services (reg. 13, which says public and private bodies may share) ([source, 2015-06-10](https://pmlawhub.com/wp-content/uploads/2026/01/NITA-U-E-Government-Regulations-2015-SI-No.-27-of-2015.pdf)).
 
 ### Zambia: 3 Established
 
@@ -177,12 +215,6 @@ A draft decree to govern the interoperability platform was due to be presented i
 ### Burundi: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for Burundi, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
-### Cape Verde: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Cape Verde, or a draft, so no stage is set.
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
@@ -252,12 +284,6 @@ Nothing held names a law or decree on public bodies sharing data for Gambia, or 
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
-### Guinea: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Guinea, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
 ### Kenya: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for Kenya, or a draft, so no stage is set.
@@ -282,21 +308,9 @@ Nothing held names a law or decree on public bodies sharing data for Mali, or a 
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
-### Mauritius: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Mauritius, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
 ### Namibia: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for Namibia, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
-### Niger: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Niger, or a draft, so no stage is set.
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
@@ -330,12 +344,6 @@ Nothing held names a law or decree on public bodies sharing data for Somalia, or
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
-### South Africa: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for South Africa, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
 ### South Sudan: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for South Sudan, or a draft, so no stage is set.
@@ -351,12 +359,6 @@ Not established: Nothing held names a law, decree or regulation on public bodies
 ### Togo: No evidence
 
 Nothing held names a law or decree on public bodies sharing data for Togo, or a draft, so no stage is set.
-
-Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
-### Uganda: No evidence
-
-Nothing held names a law or decree on public bodies sharing data for Uganda, or a draft, so no stage is set.
 
 Not established: Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 

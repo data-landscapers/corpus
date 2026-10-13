@@ -1,0 +1,17 @@
+{
+  "slug": "2026-04-10-cog-aci-loi-recherche-scientifique-encadrer-ia",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Congolese National Assembly adopted on 8 April 2026 a bill on the orientation and development of scientific research that introduces an ethical framework for AI and institutes a national committee to oversee responsible AI use; the report does not say it is in force.",
+      "as_of": "2026-04-08",
+      "date_precision": "day",
+      "system": "Bill on orientation and development of scientific research",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

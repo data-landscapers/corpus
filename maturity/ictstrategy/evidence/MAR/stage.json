@@ -5,17 +5,18 @@
       "sub_indicator": "sector",
       "stage": "unplaced",
       "governance": "",
-      "standing": "",
-      "text": "",
-      "period": "",
-      "plan": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2023",
+      "plan": "actions",
       "reporting": "",
       "last12": "",
       "cap": "",
-      "flags": "under the national strategy",
-      "stage_sources": "",
-      "gaps": "evidence.csv holds no row and instruments.csv names no instrument for MAR, so no sector policy is on record as adopted, in preparation or expired. The only instrument logged (systems.csv) is Digital Morocco 2030, class national, which is noted and places nothing.",
-      "note": "No sector instrument: none is named in instruments.csv; the one held is Digital Morocco 2030, the national digital strategy (digitalstrategy stage 2). A noted class never places a country, so the cell is unplaced under the national strategy rather than stage 1, which needs a dated statement of absence and no national strategy held."
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "MAR-001;MAR-003",
+      "gaps": "The note's period ended in 2023, before the as-at, and no row records a successor sector note announced, in drafting or validated. MAR-006 puts the adoption in 2020 against the note's own 26 December 2019. No report against its targets is held, the one governance fact (MAR-004, 2019) is outside the 36 months, no finance is stated and nothing is dated in the last twelve months.",
+      "note": "Note d'orientations générales du secteur des télécommunications à horizon 2023: adopted on 26 December 2019 with its text public, but its period ended in 2023 with no successor sector policy in preparation, so stage 2 is not met and the cell is unplaced and lapsed. Digital Morocco 2030 is held, a noted class that places nothing.",
+      "as_at": "2026-10-13"
     }
   ]
 }

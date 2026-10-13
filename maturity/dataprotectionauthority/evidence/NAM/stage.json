@@ -1,16 +1,17 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "unplaced",
-   "standing": "",
-   "rulings": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No law held names an authority, and no source dated in the last three years says the country has none. An authority is named only in draft bills of 2020 and 2022.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "unplaced",
+      "standing": "",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No law held names an authority, and no source dated in the last three years says the country has none. An authority is named only in draft bills of 2020 and 2022.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

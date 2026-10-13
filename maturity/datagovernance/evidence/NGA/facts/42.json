@@ -1,0 +1,17 @@
+{
+  "slug": "2022-11-01-nga-nitda-draft-national-data-strategy",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "NITDA's National Data Strategy to 2030 is marked Draft 2022 and carries a ministerial directive from the Minister of Communications and Digital Economy; its timetable has the governance structure and a strategy implementation committee still to be established from November and December 2022; the month is inferred from the upload path.",
+      "as_of": "2022-11",
+      "date_precision": "month",
+      "system": "National Data Strategy (NDS) (Draft)",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

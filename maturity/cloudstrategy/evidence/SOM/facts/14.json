@@ -1,0 +1,15 @@
+{
+  "slug": "2023-11-15-som-nca-national-data-center-construction",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Center",
+      "country_label": "National Data Center, Mogadishu",
+      "class": "other",
+      "platform": "",
+      "owner": "Federal Ministry of Communications and Technology with the National Communications Authority",
+      "tiers": "government ICT services (planned)"
+    }
+  ],
+  "note": "Construction start of a national data centre in 2023-11-15 with no hosting or cloud policy stated; a data centre alone places nothing."
+}

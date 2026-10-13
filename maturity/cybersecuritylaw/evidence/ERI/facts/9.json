@@ -1,0 +1,10 @@
+{
+  "slug": "2020-05-05-eri-coe-octopus-cybercrime-legal-profile",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Council of Europe cybercrime office's legal profile, version of 5 May 2020, maps Eritrea's Penal Code (Art. 374 unauthorized use of a computer, covering access, interception, data and system interference, and Art. 298 violation of privacy) to the Budapest Convention's offence articles as its domestic equivalent, and lists Eritrea as not a signatory; it gives no separate cybercrime act.", "as_of": "2020-05-05", "date_precision": "day", "system": "Penal Code of Eritrea", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Penal Code of Eritrea", "country_label": "Penal Code", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

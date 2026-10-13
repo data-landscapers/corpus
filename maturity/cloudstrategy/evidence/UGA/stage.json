@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government hosting or cloud policy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "named",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-004;UGA-003",
+      "gaps": "No source from the last three years naming or counting public bodies that have moved onto the named hosting is held.",
+      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

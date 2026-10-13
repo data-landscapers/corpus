@@ -1,0 +1,66 @@
+{
+  "slug": "2018-11-01-nga-pjst-edo-automated-revenue-collection",
+  "facts": [
+    {
+      "sub_indicator": "revenue",
+      "aspect": "recorded",
+      "value": "register",
+      "fact": "The article describes an app in which LGA revenue agents register payers, businesses and vehicles and collect and print receipts, on a taxpayers' database, in Oredo and Egor LGAs, Edo State.",
+      "as_of": "2017-03",
+      "date_precision": "month",
+      "system": "Edo automated revenue collection app",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "authorities",
+      "value": "count:2",
+      "fact": "The authors say 2 of Edo State's 18 LGAs (Oredo and Egor) use the automated collection system, introduced in March 2017; the text elsewhere says 19 LGAs.",
+      "as_of": "2017-03",
+      "date_precision": "month",
+      "system": "Edo automated revenue collection app",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "held",
+      "value": "paper",
+      "fact": "The authors say that before the app, Edo State revenue from drivers, traders and others was collected on manual receipts with no data of collection.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Manual receipt books",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "recorded",
+      "value": "none",
+      "fact": "The authors say Edo State previously had no actual data of revenue collection from bus drivers, tricycle operators, traders and shop owners and no comprehensive taxpayer database.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Manual receipt books",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Edo State government, with the local councils, introduced the system under the Edo Jobs Initiative.",
+      "as_of": "2017-03",
+      "date_precision": "month",
+      "system": "Edo automated revenue collection app",
+      "class": "revenue"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Edo automated revenue collection app",
+      "country_label": "Revenue Collection Automation App",
+      "class": "revenue",
+      "platform": "database application working on and off line on laptops",
+      "owner": "Edo State government (Edo Jobs Initiative) with the LGAs",
+      "tiers": "Oredo and Egor LGAs"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2023-06-01-eth-card-new-media-legislations-implementation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The media law working group prepared a draft Access to Information Proclamation, consulted stakeholders and submitted it to the Ministry of Justice; the document says it is not yet passed, not under deliberation, and, per a Ministry of Justice expert (interview 2023-03-01), not among the government's legislative priorities.",
+     "as_of": "2023-03", "date_precision": "month", "system": "Draft Access to Information Proclamation", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document lists the Mass Media and Access to Information Proclamation No. 590/2008 among Ethiopia's laws and says the Ethiopian Institution of the Ombudsman was designated the organ responsible for implementing freedom of information, and that studies find it ineffective for lack of resources to evaluate public bodies; no date is given, so the document's published date is used.",
+     "as_of": "2023-06-01", "date_precision": "day", "system": "Mass Media and Access to Information Proclamation No. 590/2008", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

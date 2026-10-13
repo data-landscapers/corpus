@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-13-som-giz-au-somalia-validates-national-data-policy",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A GIZ African Union post says Somalia validated a National Data Policy Framework, covering collection, management, sharing, classification, retention and data sovereignty, under the AU-GIZ Data Governance in Africa Initiative; it states validation only, not adoption, and does not date the validation, so the post date of 2026-03-13 is used.",
+      "as_of": "2026-03-13",
+      "date_precision": "day",
+      "system": "National Data Policy Framework",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

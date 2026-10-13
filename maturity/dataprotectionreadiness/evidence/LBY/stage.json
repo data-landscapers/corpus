@@ -1,18 +1,19 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "no evidence",
-   "law": "",
-   "treaty": "none",
-   "authority": "",
-   "practice": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a data protection law is in force.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "no evidence",
+      "law": "",
+      "treaty": "none",
+      "authority": "",
+      "practice": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held says whether a data protection law is in force.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

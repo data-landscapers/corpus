@@ -1,0 +1,10 @@
+{
+  "slug": "2020-01-01-tun-mtc-rapport-annuel-performance-2019",
+  "facts": [],
+  "systems": [
+    {"system": "Plan Stratégique National Tunisie Numérique 2016-2020", "country_label": "Plan Stratégique National «Tunisie Numérique 2016-2020» / «Tunisie digitale 2020»", "class": "national", "platform": "", "owner": "Ministère des Technologies de la Communication et de l'Economie Numérique", "tiers": ""},
+    {"system": "Code numérique", "country_label": "nouveau projet du code numérique (approved by the Council of Ministers on 11 December 2019)", "class": "law", "platform": "", "owner": "Ministère des Technologies de la Communication et de l'Economie Numérique", "tiers": ""},
+    {"system": "Stratégie nationale de la sécurité cybernétique 2020-2025", "country_label": "stratégie nationale de la sécurité cybernétique 2020-2025", "class": "subsector", "platform": "", "owner": "Ministère des Technologies de la Communication et de l'Economie Numérique", "tiers": ""}
+  ],
+  "note": "The 2019 annual performance report describes the national strategic plan Tunisie Numérique 2016-2020 (class national, staged on digitalstrategy); no sector-class policy is stated."
+}

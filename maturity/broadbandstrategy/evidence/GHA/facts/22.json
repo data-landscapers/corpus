@@ -1,0 +1,26 @@
+{
+  "slug": "2012-10-01-gha-moc-national-broadband-policy-strategy",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Ministry of Communications issued the National Broadband Policy and Implementation Strategy as Final Version 1.0 in October 2012, setting targets of 40% household and 40% national broadband penetration by 2015 and 90% by 2020; the passages do not state a cabinet adoption date, so the document's published date is used.",
+      "as_of": "2012-10",
+      "date_precision": "month",
+      "system": "National Broadband Policy and Implementation Strategy",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Broadband Policy and Implementation Strategy",
+      "country_label": "National Broadband Policy and Implementation Strategy",
+      "class": "plan",
+      "platform": "",
+      "owner": "Ministry of Communications",
+      "tiers": ""
+    }
+  ],
+  "note": "No money or progress figures stated for the plan; only a listed challenge of low budgetary allocation to ICT infrastructure."
+}

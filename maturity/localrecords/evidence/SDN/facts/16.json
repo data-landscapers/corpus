@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-12-sdn-almndra-sennar-esali-e-collection-launch",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The Sennar state finance ministry launched Isali electronic collection on 12 May 2026 at the transport and petroleum department and Sinja locality, with collectors, auditors and accountants equipped and trained; no register of payers is stated.", "as_of": "2026-05-12", "date_precision": "day", "system": "Isali", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Sinja locality was one of two model sites in Sennar State launched on 12 May 2026, and the state finance director general said all state institutions would be covered at the start of the second half of 2026.", "as_of": "2026-05-12", "date_precision": "day", "system": "Isali", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Sennar State launched Isali electronic collection on 12 May 2026 after preparation from January 2026, in stages of networking, account opening and training.", "as_of": "2026-05-12", "date_precision": "day", "system": "Isali", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "Isali in Sennar is run by the state finance ministry's unified collection department, described by the governor as a national programme covering all Sudanese states.", "as_of": "2026-05-12", "date_precision": "day", "system": "Isali", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Isali", "country_label": "Isali electronic collection and payment (إيصالي)", "class": "revenue", "platform": "", "owner": "Sennar State Ministry of Finance and Economic Planning, Unified Collection Department", "tiers": "state transport and petroleum department and Sinja locality at launch on 12 May 2026; targeted at all state ministries and localities"}
+  ],
+  "note": ""
+}

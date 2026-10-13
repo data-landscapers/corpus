@@ -29,7 +29,7 @@ LSO,4,in-force,digital,LSO-002;LSO-001
 MAR,4,in-force,digital,MAR-002;MAR-001
 MDG,2,bill,,MDG-001
 MLI,4,in-force,digital,MLI-006;MLI-001
-MOZ,no evidence,,,
+MOZ,2,bill,,MOZ-001
 MRT,4,in-force,digital,MRT-002;MRT-001
 MUS,5,in-force,applied,MUS-003;MUS-004;MUS-001
 MWI,3,in-force,,MWI-001;MWI-002
@@ -45,7 +45,7 @@ SSD,5,in-force,applied,SSD-003;SSD-002;SSD-001
 STP,2,bill,,STP-001
 SWZ,no evidence,,,
 SYC,3,in-force,,SYC-001
-TCD,no evidence,,,
+TCD,4,in-force,digital,TCD-002;TCD-001
 TGO,4,in-force,digital,TGO-003;TGO-005;TGO-001
 TUN,4,in-force,digital,TUN-004;TUN-001
 TZA,3,in-force,,TZA-001

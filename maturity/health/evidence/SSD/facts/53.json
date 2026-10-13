@@ -1,0 +1,13 @@
+{
+ "slug": "2026-03-01-ssd-icap-art-e-register",
+ "facts": [
+  {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2", "fact": "ICAP states a 2019 PEPFAR-supported EMR on the Bahmni platform was deployed at Juba Teaching Hospital and Nimule Hospital but did not reach routine clinical use or scale, with unreliable power and internet, no data-entry clerks and no production link to national DHIS2.", "as_of": "2019", "date_precision": "year", "system": "Bahmni EMR", "class": "emr"},
+  {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "ICAP states the 2019 Bahmni-based EMR initiative was PEPFAR-supported, and that its workflow design did not fully align with national HMIS requirements so it was not accepted for wider use.", "as_of": "2019", "date_precision": "year", "system": "Bahmni EMR", "class": "emr"}
+ ],
+ "systems": [
+  {"system": "Bahmni EMR", "country_label": "EMR", "class": "emr", "platform": "Bahmni", "owner": "PEPFAR-supported initiative", "tiers": "Juba Teaching Hospital; Nimule Hospital"},
+  {"system": "ART E-register", "country_label": "ART E-register", "class": "tracker", "platform": "OpenMRS 3.x", "owner": "ICAP at Columbia University with the Ministry of Health; development partner IntelliSOFT Consulting; funded by PEPFAR through CDC", "tiers": "four hospitals and one primary health care centre (Munuki PHCC), in three states; no expansion planned in FY26"},
+  {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health, with HISP South Sudan", "tiers": ""}
+ ],
+ "note": "The ART E-register is a one-programme HIV tracker, so it gives no fact; facts come from the 2019 Bahmni EMR only."
+}

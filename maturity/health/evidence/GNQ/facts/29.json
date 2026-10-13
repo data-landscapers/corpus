@@ -1,0 +1,10 @@
+{
+ "slug": "2018-01-01-gnq-vannin-inseso-bata-ehr",
+ "facts": [
+  {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Vannin Group, the vendor, states it deployed Greencube in 2018 as the unified electronic health record platform of Hospital Nuevo INSESO in Bata (85 beds, 600 active users, 60,000 patient records); the page names a hospital and no tier, and is a vendor case study dated by year only.", "as_of": "2018", "date_precision": "year", "system": "Greencube", "class": "emr"}
+ ],
+ "systems": [
+  {"system": "Greencube", "country_label": "Greencube", "class": "emr", "platform": "Greencube (Vannin Group)", "owner": "Hospital Nuevo INSESO (vendor Vannin Group)", "tiers": "hospital in Bata; tier not named"}
+ ],
+ "note": ""
+}

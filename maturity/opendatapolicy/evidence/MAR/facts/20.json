@@ -1,0 +1,44 @@
+{
+  "slug": "2021-12-13-mar-add-nouveau-portail-donnees-ouvertes",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "portal",
+      "fact": "The Agence de Développement du Digital (ADD) launched the new version of the national open data portal on 2021-12-13, in Arabic and French, as part of implementing the Open Data action plan and Morocco's open government commitments.",
+      "as_of": "2021-12-13",
+      "date_precision": "day",
+      "system": "Portail national des données ouvertes (data.gov.ma)",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "published",
+      "fact": "On the relaunch the ADD reports about 43% more datasets published and 31% more bodies producing open data, giving no absolute counts; the portal gives access to data from several public bodies.",
+      "as_of": "2021-12-13",
+      "date_precision": "day",
+      "system": "Portail national des données ouvertes (data.gov.ma)",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Portail national des données ouvertes (data.gov.ma)",
+      "country_label": "Portail national des données ouvertes",
+      "class": "policy",
+      "platform": "",
+      "owner": "Agence de Développement du Digital (ADD), with World Bank support",
+      "tiers": "national"
+    },
+    {
+      "system": "Plan d'actions Open Data",
+      "country_label": "plan d'actions Open Data",
+      "class": "other",
+      "platform": "",
+      "owner": "ADD, with a national Open Data steering committee",
+      "tiers": "national"
+    }
+  ],
+  "note": "The document names an Open Data action plan but gives no adoption date or instrument, so no standing fact."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2024-05-03-bdi-developmentaid-pafen-egouv-strategie-interoperabilite",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A World Bank-financed PAFEN notice of 3 May 2024 seeks a consultancy to develop a Government Interoperability Framework (Cadre d'Interopérabilité du Gouvernement) and an interoperability strategy setting standards and protocols, in phase 2 after phase 1 deliverables are validated; the notice states no drafting had begun.",
+      "as_of": "2024-05-03",
+      "date_precision": "day",
+      "system": "Cadre d'Interopérabilité du Gouvernement",
+      "class": "framework"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

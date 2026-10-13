@@ -1,0 +1,26 @@
+{
+  "slug": "2023-12-01-ken-ogp-ke0034-open-data-for-development",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The OGP page for commitment KE0034 (Kenya Action Plan 2023-2027) says the KODI portal has been offline for some years for lack of a legal framework, and that no legal mandate requires publishing budget data; it lists an open data guidebook (2025) as a planned milestone only.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "Kenya Open Data Initiative legal framework",
+      "class": "policy"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kenya Open Data Initiative (KODI) portal, opendata.go.ke",
+      "country_label": "KODI",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Kenya; no institution named as its home",
+      "tiers": "national; offline"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2020-07-13-dji-journalofficiel-decret-2020-146-rnpp",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Article 9 of Decree 2020-146/PR/MI, issued after the Council of Ministers of 7 July 2020 and published 13 July 2020, states that the processed data of the National Register of Natural Persons (RNPP) are stored only on national territory; the document gives the publication date and no separate entry-into-force date.", "as_of": "2020-07-13", "date_precision": "day", "system": "Decree 2020-146/PR/MI, Article 9 (RNPP data stored only on national territory)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "other", "platform": "relational database", "owner": "Direction Generale de la Population et de la Famille (DGPF), with ANSIE for development and security", "tiers": "public authorities, public and private bodies under Djiboutian law, their subcontractors"}
+  ],
+  "note": ""
+}

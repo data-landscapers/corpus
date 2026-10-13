@@ -21,12 +21,12 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 8 |
-| 2 Nascent | 4 |
+| 4 Operating | 5 |
+| 3 Established | 10 |
+| 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 35 |
+| No evidence | 31 |
 
 ## Countries
 
@@ -60,6 +60,19 @@ Tunisia's 2024 Cloud First circular sets hosting tiers and a list of labelled pr
 - The article says the national cybersecurity agency (ANCS) published a list of labelled providers on 17 September 2026 with six N-Cloud entries, the providers public bodies are directed to ([source, 2026-09-17](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)).
 - The circular sets four hosting tiers: sensitive internal systems go in a private cloud or national or sectoral government cloud centres, shared G2G systems in government cloud centres, and citizen and business e-services in the body's private cloud, government cloud centres or providers holding the N-Cloud label, with G-Cloud labelled providers as the fallback for the first two tiers ([source, 2024-07-22](https://legislation-securite.tn/latest-laws/circulaire-n-16-du-22-juillet-2024-portant-sur-la-generalisation-de-ladoption-par-les-structures-publiques-des-solutions-de-cloud-computing-pour-lhebergement-des-logiciels-de/)).
 - The article says a Cloud First doctrine of 2024 reinforced the 2023 orientation of public systems and services towards labelled cloud providers, and that a circular of 2 September 2026 tightens hosting requirements for public bodies ([source, 2024](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/)).
+
+### Uganda: 4 Operating
+
+Cloud-first guidelines from October 2018 require ministries and agencies to host classified information in the government data centre; how many have moved is not known.
+
+- The guidelines require all ministries, departments, agencies and local governments to host information assets classed Official, Secret and Top Secret in the Government Cloud (the National Data Center run by NITA-U), to use it when procuring new ICT, and to migrate existing classified services to it at contract expiry or refresh, with offshore exceptions approved by NITA-U ([source, 2018-10](https://oldsite.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf)).
+- NITA-U issued the National Guidelines on Cloud Computing for Government in October 2018 (version CPG1), requiring all ministries, departments, agencies and local governments to adhere to 'Cloud First' for IT-enabled services; the document gives no end date ([source, 2018-10](https://oldsite.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf)).
+
+### Cote d'Ivoire: 3 Established
+
+A cloud hosting procedure for ministries and institutions was approved in June 2021; where public bodies must host is not known.
+
+- The ANSUT document 'Politique d'hébergement des données dans le cloud', version 1.0 dated 14 June 2021, was approved on 17 June 2021 by ANSUT's Directeur de l'Exploitation and sets the procedure for ministries and institutions to host applications in the cloud; no end or replacement is stated ([source, 2021-06-17](https://www.telecom.gouv.ci/new/uploads/publications/174558607847.pdf)).
 
 ### Egypt: 3 Established
 
@@ -114,11 +127,23 @@ Tanzania approved hosting standards for public institutions in February 2026; th
 
 - The e-Government Authority's Data Center Standards and Guidelines for Public Institutions (eGA/EXT/IRA/003, version 2.0) was approved by its Board Chairperson on 18 February 2026, issued under s.49 of the e-Government Act No. 10 of 2019, to guide public institutions on where to host Government ICT applications; s.25(b)(ii) of the Act requires them to host systems in a Government approved hosting environment ([source, 2026-02-18](https://www.ega.go.tz/uploads/standarddocuments/sw-1773257204-FINAL%20Reviewed_Data%20Center%20Standards%20and%20Guidelines%20for%20Public%20Institutions-18.2.2026.pdf)).
 
+### Zambia: 3 Established
+
+A 2023 regulation requires public bodies to store personal data in Zambia; which hosting they must use is not known.
+
+- Statutory Instrument No. 43 of 2023, made under the Electronic Government Act 2021 and gazetted 6 October 2023, requires every public body to store the personal data it processes on infrastructure domiciled in Zambia (regulation 8), unless the Electronic Government Division and the Data Protection Commissioner authorise storage abroad ([source, 2023-10-06](https://media.zambialii.org/media/legislation/40749/source_file/a0f9a9fca1dadc67/zm-act-si-2023-43-publication-document.pdf)).
+
 ### Angola: 2 Nascent
 
 Angola has a hosting policy being written and none in force, so where public bodies must host is not known.
 
 - The Instituto de Modernizacao Administrativa's terms of reference (document 01/IMA/2026, version 1.2 of 9 March 2026, under the PADA project) procure a five-month consultancy to structure, draft and consolidate the Politica Nacional de Gestao e Hospedagem de Dados Publicos and its implementing regulation, including hosting rules by data category (on-premises, government or sovereign cloud, hybrid, conditions for public cloud) and residency rules ([source, 2026-03-09](https://c2a.portais.gov.ao/uploads/TDR_Contratacao_de_Servico_de_Consultoria_Apoio_Estrategico_e_Juridico_a810d7f256.pdf)).
+
+### DR Congo: 2 Nascent
+
+A national data hosting strategy was being developed in March 2026, and no adopted policy is known; where public bodies must host is not known.
+
+- The Digital Transformation Project terms of reference (March 2026) say the government, helped by UNECA and GIZ, is developing a national data hosting strategy, under way mainly at central level, and seek consultants to define the hosting approach (for example cloud-first or cloud-appropriate) and propose hosting and cloud decrees and directives ([source, 2026-03](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf)).
 
 ### Ghana: 2 Nascent
 
@@ -207,18 +232,6 @@ Not established: Nothing held names a government hosting or cloud policy, or say
 ### Congo: No evidence
 
 Nothing held says Congo has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Cote d'Ivoire: No evidence
-
-Nothing held says Cote d'Ivoire has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### DR Congo: No evidence
-
-Nothing held says DR Congo has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a government hosting or cloud policy, or says there is none.
 
@@ -345,18 +358,6 @@ Not established: Nothing held names a government hosting or cloud policy, or say
 ### Togo: No evidence
 
 Nothing held says Togo has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Uganda: No evidence
-
-Nothing held says Uganda has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Zambia: No evidence
-
-Nothing held says Zambia has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a government hosting or cloud policy, or says there is none.
 

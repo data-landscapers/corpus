@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "",
-      "recorded": "",
-      "held": "",
+      "recorded": "register",
+      "held": "local",
       "last12": "",
-      "authorities": "",
+      "authorities": "pilot",
       "cap": "",
       "flags": "centrally collected",
-      "stage_sources": "",
-      "gaps": "All three rows (MDG-001 to MDG-003) are dated 7 October 2026, after the as-at of 30 September 2026, so none sets anything. They describe one commune, Antananarivo, launching a market register that day; nothing is held on any commune at the as-at.",
-      "note": "The country has rows and none is dated by the as-at, so no rung can be set. Had the launch fallen inside, a single commune launching would have read as stage 2 at most."
+      "stage_sources": "MDG-004;MDG-005;MDG-006",
+      "gaps": "The one source inside the as-at, of September 2021, reports the property-tax software handed over that day in one commune, Toamasina, with staff trained to replicate it; nothing says the commune went on to bill from it or that any other commune was equipped. Nothing is dated between then and the as-at, so governance and the last twelve months hold nothing; the partner ownership of 2021 falls outside the 36 months. Rows MDG-001 to MDG-003 are dated 7 October 2026, after the as-at, and set nothing.",
+      "note": "Software handed over in one commune, on the day of the handover, is read as a pilot. Stage 3 needs a system past its pilot and live in communes outside the capital, and no fact shows routine use after the handover.",
+      "as_at": "2026-10-13"
     }
   ]
 }

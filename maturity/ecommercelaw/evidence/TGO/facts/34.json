@@ -1,0 +1,10 @@
+{
+  "slug": "2023-07-19-tgo-jo-loi-2023-012-transactions-electroniques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law 2023-012 of 19 July 2023, promulgated and published in Journal officiel no. 55 bis, amends Law 2017-007 of 22 June 2017 on electronic transactions, redefining its terms and adding rules on electronic seals, digital safes, 20-year retention of electronic copies and signatures, and a penalty for usurping the status of trust service provider.", "as_of": "2023-07-19", "date_precision": "day", "system": "Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2017-007 du 22 juin 2017 relative aux transactions électroniques", "country_label": "Loi sur les transactions électroniques", "class": "law", "platform": "", "owner": "Republic of Togo", "tiers": ""}
+  ],
+  "note": ""
+}

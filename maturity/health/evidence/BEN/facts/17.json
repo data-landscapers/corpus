@@ -1,0 +1,9 @@
+{
+ "slug": "2023-04-26-ben-lameteo-systeme-integre-information-hopitaux",
+ "facts": [],
+ "systems": [
+  {"system": "Système intégré d'information, de gestion de l'archivage et de la communication en imagerie médicale", "country_label": "Système intégré d'information, de gestion de l'archivage et de la communication en imagerie médicale", "class": "single-function", "platform": "", "owner": "Ministry of Health (contracts approved by the Council of Ministers, 26 April 2023)", "tiers": "T1;T2 (Cotonou, Borgou and Ouémé university and departmental hospitals)"},
+  {"system": "Système d'Information hospitalier", "country_label": "Système d'Information hospitalier", "class": "", "platform": "", "owner": "", "tiers": ""}
+ ],
+ "note": "Medical-imaging archiving system contracted for three hospitals is single-function; the hospital information system is named with no description of what it holds."
+}

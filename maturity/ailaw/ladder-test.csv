@@ -7,18 +7,18 @@ BWA,no evidence,,,
 CAF,no evidence,,,
 CIV,no evidence,,,
 CMR,no evidence,,,
-COD,no evidence,,,
-COG,no evidence,,,
+COD,1,none,,COD-001
+COG,2,draft,,COG-001
 COM,3,in-force,,COM-001
 CPV,no evidence,,,
 DJI,1,none,,DJI-001
 DZA,no evidence,,,
-EGY,no evidence,,,
+EGY,3,in-force,,EGY-002
 ERI,1,none,,ERI-001
 ETH,no evidence,,,
 GAB,3,in-force,,GAB-001
 GHA,2,draft,,GHA-002
-GIN,no evidence,,,
+GIN,1,none,,GIN-002
 GMB,1,none,,GMB-001
 GNB,no evidence,,,
 GNQ,2,draft,,GNQ-001
@@ -38,18 +38,18 @@ NER,no evidence,,,
 NGA,3,in-force,,NGA-004
 RWA,1,none,,RWA-001
 SDN,2,draft,,SDN-001;SDN-002
-SEN,no evidence,,,
+SEN,1,none,,SEN-001
 SLE,1,none,,SLE-001
 SOM,no evidence,,,
 SSD,no evidence,,,
 STP,1,none,,STP-001;STP-003
 SWZ,no evidence,,,
-SYC,no evidence,,,
-TCD,no evidence,,,
+SYC,2,draft,,SYC-001
+TCD,1,none,,TCD-001
 TGO,no evidence,,,
-TUN,no evidence,,,
+TUN,2,draft,,TUN-002
 TZA,3,in-force,,TZA-003
 UGA,1,none,,UGA-001;UGA-002
 ZAF,1,none,,ZAF-001;ZAF-002
 ZMB,no evidence,,,
-ZWE,no evidence,,,
+ZWE,1,none,,ZWE-001

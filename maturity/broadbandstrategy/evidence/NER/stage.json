@@ -1,16 +1,17 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "plan",
-   "stage": "no evidence",
-   "standing": "",
-   "delivery": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a national broadband plan, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "plan",
+      "stage": "no evidence",
+      "standing": "",
+      "delivery": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held names a national broadband plan, or says there is none.",
+      "note": "Counted from the four questions by study-ladder-broadbandstrategy.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

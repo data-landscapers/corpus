@@ -1,0 +1,26 @@
+{
+ "slug": "2016-05-10-sao-tome-lei-03-2016-proteccao-dados-pessoais",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Lei n.º 03/2016 on personal data protection, passed by the National Assembly on 15 February 2016 and promulgated on 18 March 2016, was published in Diário da República n.º 39 on 10 May 2016 and enters into force under the legal terms (no commencement date given); as_of is the publication date.",
+   "as_of": "2016-05-10",
+   "date_precision": "day",
+   "system": "Lei n.º 03/2016 — Protecção de Dados Pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Protecção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "other",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

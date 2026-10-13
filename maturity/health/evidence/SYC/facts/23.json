@@ -1,0 +1,37 @@
+{
+  "slug": "2025-01-01-syc-who-afro-country-cooperation-strategy-2024-2030",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The WHO Country Cooperation Strategy states that Seychelles collects routine data through various units and that data capture is mainly paper-based; it gives no date for the statement, so the document's published date (January 2025, month inferred) is used.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "routine health data collection",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The WHO Country Cooperation Strategy says Seychelles needs to develop a digital health policy and an e-Health strategic plan and to establish a consolidated architecture; dated by the document's published date (January 2025).",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "routine health data collection",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The WHO Country Cooperation Strategy says Seychelles needs to develop a digital health policy and an e-Health strategic plan; dated by the document's published date (January 2025).",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "health information systems",
+      "class": "emr"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

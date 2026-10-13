@@ -6,14 +6,15 @@
       "stage": "unplaced",
       "governance": "plan:current",
       "tiers": "",
-      "digitised": "paper",
+      "digitised": "",
       "last12": "",
       "clinics": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "No row gives the tiers reporting digitally or the primary clinics entering their own reports. The one coverage fact (SYC-004) says capture is primarily paper-based and the eHIS work begun in 2020 has stalled, which is neither a dated statement of no digital entry at any level nor a contracted rollout; it carries the plan's published year, not a date of its own. The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.",
-      "note": "Stage 1 needs a dated statement of no digital entry at any level, and 'primarily paper-based' is not that. Stage 2 needs hospitals or some districts reporting digitally or a rollout contracted, and no row shows either."
+      "gaps": "No row gives the tiers reporting digitally or the primary clinics entering their own reports. Sources disagree, unreconciled, on whether health data is captured on paper or electronically: the ministry's plan (SYC-004, 2022) and WHO (SYC-017, January 2025) say mainly paper-based, against a June 2023 report of clinic doctors entering records electronically (SYC-013, SYC-014), so digitised is left empty. On the plan, the NHSP 2022-2026 names the eHIS and covers the as-at (SYC-005, SYC-011) while WHO says a digital health policy and e-Health strategic plan are still to be developed (SYC-018). The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.",
+      "note": "Stage 1 needs a dated statement of no digital entry at any level, and 'mainly paper-based' is not that. Stage 2 needs hospitals or some districts reporting digitally or a rollout contracted, and no row shows either.",
+      "as_at": "2026-10-13"
     },
     {
       "sub_indicator": "emr",
@@ -22,12 +23,12 @@
       "tiers": "",
       "digitised": "",
       "last12": "",
-      "clinics": "",
+      "clinics": "not-published",
       "cap": "",
       "flags": "",
       "stage_sources": "SYC-007;SYC-008",
-      "gaps": "No coverage row from an admitted source: the tiers using the eHIS, where the record is entered and the primary clinics using it are not established, and the three rows that give them (SYC-001 to SYC-003) are from the excluded source and set nothing. The rung rests on the text of two governance rows, a ministry system encompassing electronic medical records and operational since the end of 2021. Finance is not stated and nothing is dated inside the last twelve months.",
-      "note": "A national system in the ministry's hands and operational meets stage 2's 'a national system procured'. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts using it, and no admitted row says which facilities do."
+      "gaps": "Sources disagree, unreconciled, on whether records are captured on paper or electronically: a June 2023 report has clinic doctors entering patient information in the EMR since October 2022 (SYC-013, SYC-014), while the ministry's 2022 plan and WHO in January 2025 call data capture mainly paper-based (SYC-004, SYC-017). They agree on a ministry system operational since the end of 2021 with paper still in use, so tiers and digitised are left empty and no count or share of clinics is given (SYC-015). On the plan, the NHSP 2022-2026 names the eHIS and covers the as-at (SYC-009) while WHO says an e-Health strategic plan is still to be developed (SYC-019). The one finance fact is dated December 2019, outside the 36 months; nothing is dated inside the last twelve months, and SYC-001 to SYC-003 are from the excluded source and set nothing.",
+      "note": "A national system in the ministry's hands and operational meets stage 2's 'a national system procured'. Stage 3 needs primary clinics in some districts using it, which one 2023 report says and a later source's paper position leaves unsettled, so the cell takes the rung below."
     }
   ]
 }

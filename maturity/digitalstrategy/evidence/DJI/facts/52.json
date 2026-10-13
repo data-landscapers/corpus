@@ -1,0 +1,34 @@
+{
+  "slug": "2023-03-01-dji-maeci-conseil-ministres-smart-nation-roadmap",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The government spokesperson's record of the fourth Council of Ministers session, chaired by President Guelleh, says the minister delegate for the digital economy gave a communication on the 'Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique', built on four pillars (smart administration, digital economy, smart trades, smart civil society) with structuring projects identified; it records no adoption or approval, and the month is the document's published month (the session date is inferred, late March 2023).",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique",
+      "country_label": "Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère délégué chargé de l'Economie Numérique et de l'Innovation",
+      "tiers": ""
+    },
+    {
+      "system": "Code du Numérique (draft, Books I-II)",
+      "country_label": "Projet de Code du Numérique",
+      "class": "directive",
+      "platform": "",
+      "owner": "Ministère délégué chargé de l'Economie Numérique et de l'Innovation",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

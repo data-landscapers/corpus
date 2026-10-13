@@ -1,0 +1,8 @@
+{
+  "slug": "2010-01-01-nga-nimc-harmonization-integration-policy",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "NIMS", "class": "other", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "federal identity databases of stakeholder agencies"}
+  ],
+  "note": "An undated (about 2010) NIMC policy for harmonising identity databases, not a law, decree or regulation, and about identity data only; it cites the NIMC Act 2007 but states nothing on a law for public bodies sharing data, so no fact."
+}

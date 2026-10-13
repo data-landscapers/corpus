@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government interoperability framework, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002",
+      "gaps": "No source held says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.",
+      "note": "Counted from the four questions by study-ladder-interoperability.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

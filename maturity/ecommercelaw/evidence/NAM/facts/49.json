@@ -1,0 +1,27 @@
+{
+ "slug": "2019-11-29-namibia-electronic-transactions-act-gazette-7068",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Legal Assistance Centre's annotated text says the Electronic Transactions Act 4 of 2019 (GG 7068), signed by the President on 7 November 2019, was brought into force on 16 March 2020 by GN 75/2020 (GG 7142), except section 20 (electronic signatures), Chapter 4 (consumer protection) and Chapter 5 (accreditation of security services).",
+   "as_of": "2020-03-16",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The annotated text says section 20 (recognised electronic signatures) and Chapter 5 (accreditation of security products and services by the Communications Regulatory Authority of Namibia) of the Electronic Transactions Act 4 of 2019 were brought into force on 15 June 2026 by GN 182/2026 (GG 8949); the chapter on online consumer protection (Chapter 4) is annotated as not yet in force.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

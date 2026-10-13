@@ -1,0 +1,66 @@
+{
+  "slug": "2021-09-13-mdg-undp-g-ifpb-toamasina-property-tax-software",
+  "facts": [
+    {
+      "sub_indicator": "revenue",
+      "aspect": "recorded",
+      "value": "register",
+      "fact": "UNDP states the G-IFPB software, fed by a 2019 taxpayer census, was handed over on 2021-09-13 to manage collection of the built-property tax in Toamasina.",
+      "as_of": "2021-09-13",
+      "date_precision": "day",
+      "system": "G-IFPB",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "held",
+      "value": "local",
+      "fact": "The software was installed at the Commune Urbaine de Toamasina and at the Direction Régionale des Impôts Atsinanana, per UNDP.",
+      "as_of": "2021-09-13",
+      "date_precision": "day",
+      "system": "G-IFPB",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "authorities",
+      "value": "pilot",
+      "fact": "Only Toamasina commune uses G-IFPB; UNDP says staff were trained to replicate the process in the city's other arrondissements, and communes later equipped may use it.",
+      "as_of": "2021-09",
+      "date_precision": "month",
+      "system": "G-IFPB",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "UNDP, through its GBCI project with the Ministry of Economy and Finance, supported and developed the software and installed it.",
+      "as_of": "2021-09-13",
+      "date_precision": "day",
+      "system": "G-IFPB",
+      "class": "revenue"
+    },
+    {
+      "sub_indicator": "revenue",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "UNDP reports the software's operational launch and official handover in Toamasina on 2021-09-13 (outside the last twelve months of the study date).",
+      "as_of": "2021-09-13",
+      "date_precision": "day",
+      "system": "G-IFPB",
+      "class": "revenue"
+    }
+  ],
+  "systems": [
+    {
+      "system": "G-IFPB",
+      "country_label": "G-IFPB (logiciel de gestion de l'impôt foncier sur la propriété bâtie)",
+      "class": "revenue",
+      "platform": "software; also built for the land tax (IFT)",
+      "owner": "Commune Urbaine de Toamasina and Direction Régionale des Impôts Atsinanana, with UNDP support",
+      "tiers": "Commune urbaine (Toamasina) and regional tax office"
+    }
+  ],
+  "note": ""
+}

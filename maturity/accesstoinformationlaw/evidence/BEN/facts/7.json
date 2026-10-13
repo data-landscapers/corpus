@@ -1,0 +1,13 @@
+{
+  "slug": "2022-12-23-worldbank-odra-benin",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The World Bank open data readiness assessment says the government, through the BAI presidential reform office, is drafting a new access to information law (an avant-projet with an Open Data section and decree) that has been under discussion in government for nearly two years, with no adoption timetable and no civil society involvement.", "as_of": "2022-12", "date_precision": "month", "system": "Projet de loi d'accès à l'information", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The assessment says the current Beninese legislation on access to information (Loi n° 2015-07, with articles 84 and 90 limiting access rights) exists but is extremely limited, with no request procedure, no designated contact point and no annual report on requests, and that its implementation is very weak.", "as_of": "2022-12", "date_precision": "month", "system": "Loi n° 2015-07 portant Code de l'information et de la communication", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The assessment says the HAAC does not appear to have undertaken any initiative to promote access to information, that civil society organisations found the right little known and little used, and that their test letters to administrations were generally ignored.", "as_of": "2022-12", "date_precision": "month", "system": "Loi n° 2015-07 portant Code de l'information et de la communication", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi d'accès à l'information", "country_label": "Projet de loi d'accès à l'information", "class": "law", "platform": "", "owner": "BAI (Bureau d'Analyse et d'Investigation), Presidency", "tiers": ""},
+    {"system": "Loi n° 2015-07 portant Code de l'information et de la communication", "country_label": "Loi n° 2015-07", "class": "law", "platform": "", "owner": "HAAC named as the body concerned", "tiers": ""}
+  ],
+  "note": ""
+}

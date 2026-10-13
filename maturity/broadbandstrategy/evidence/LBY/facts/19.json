@@ -1,0 +1,26 @@
+{
+  "slug": "2023-05-03-lby-libyaherald-national-ict-strategy-2023-2027",
+  "facts": [
+    {
+      "sub_indicator": "plan",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Prime Minister Abd Alhameed Aldabaiba approved the National Strategy for the Communications and Informatics sector 2023-2027, which aims at communications for all at fair prices; the article states no broadband targets and gives no approval date apart from its own publication date of 2023-05-03.",
+      "as_of": "2023-05-03",
+      "date_precision": "day",
+      "system": "National Strategy for the Communications and Informatics Sector 2023-2027",
+      "class": "plan"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Strategy for the Communications and Informatics Sector 2023-2027",
+      "country_label": "National Strategy for the Communications and Informatics Sector 2023-2027",
+      "class": "plan",
+      "platform": "",
+      "owner": "General Authority for Communications and Informatics",
+      "tiers": ""
+    }
+  ],
+  "note": "No funding or progress figures stated."
+}

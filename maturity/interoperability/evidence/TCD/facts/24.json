@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-28-tcd-hacettepe-e-gouvernement-administration-tchad",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none",
+     "fact": "A 2019 Hacettepe University master's thesis, quoting the Plan Tchad Numerique 2017-2021, states that no normative framework for harmonising the State's information systems existed to date, and that over 80% of the government IT services surveyed had no normative procedures or directives; the document gives no date for the statement beyond its 2019 publication, which is used here.",
+     "as_of": "2019", "date_precision": "year", "system": "", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "Only the absence of a normative framework for State information systems is stated; the rest is e-government theory and a list of planned portals."
+}

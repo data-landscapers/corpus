@@ -1,6 +1,6 @@
 # Digitalisation of rural primary schools: EMIS
 
-*As at 2026-09-30.*
+*As at 2026-10-13.*
 
 ## The norm
 
@@ -24,13 +24,21 @@ The African Union's Digital Education Strategy (2022), fourth objective: a move 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 19 |
-| 2 Nascent | 16 |
+| 3 Established | 20 |
+| 2 Nascent | 20 |
 | 1 Absent | 2 |
-| Unplaced | 15 |
-| No evidence | 2 |
+| Unplaced | 11 |
+| No evidence | 1 |
 
 ## Countries
+
+### Algeria: 3 Established
+
+Marks for 11.7 million pupils were on the ministry's platform in 2024, level not named; how many primary schools enter them is not known.
+
+- The ministry presentation says its digital platform manages pupils' schooling for 11,709,830 pupils, including marks, averages, teachers' observations and orientation, with accounts for school staff, teachers and parents; the document is undated and is dated here to 2024 from its published date ([source, 2024](https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2024/MeaningfulConnectivity/Presentations/Session4/Pr%C3%A9sentation_MrKhelladi_Ministere%20de%20l'Education%20Nationale%20Algerie.pdf)).
+- The ministry announced that first-year primary enrolment for 2025-26 would be done exclusively through the parents' space of the ministry's information system, from 4 to 31 May 2025, with children in preparatory classes already on the platform enrolled automatically ([source, 2025-05](https://fildalgerie.dz/education-nationale-linscription-en-1ere-annee-primaire-se-fera-via-lespace-parents-du-systeme-dinformation-a-partir-du-4-mai/)).
+- First-year primary enrolment for 2025-26 runs through the ministry's information system, from 4 to 31 May 2025 ([source, 2025-05](https://fildalgerie.dz/education-nationale-linscription-en-1ere-annee-primaire-se-fera-via-lespace-parents-du-systeme-dinformation-a-partir-du-4-mai/)).
 
 ### Benin: 3 Established
 
@@ -264,6 +272,15 @@ Ministry staff, not schools, registered pupils by app in a 20-primary-school pil
 - The April 2026 EDUSER pilot was run in 20 primary schools of Kasai province, per SERNIE's director ([source, 2026-04](https://corusinternational.org/fr/blog/2026/case-scaling-education-data-drc)).
 - SERNIE teams registered 8,634 learners (4,509 girls, 4,125 boys) in 20 primary schools of Kasai province in a three-week EDUSER pilot in April 2026, described by SERNIE's director as only a pilot phase; no national total of schools is given ([source, 2026-04](https://corusinternational.org/fr/blog/2026/case-scaling-education-data-drc)).
 
+### Egypt: 2 Nascent
+
+The ministry signed for a nationwide attendance and results platform in August 2026; whether any school uses it is not known.
+
+*Advancing.*
+
+- The education ministry signed an agreement with the Japanese company SPRIX on 10 August 2026 (announced that day) for a nationwide attendance, performance and assessment platform, starting in 2026/2027 ([source, 2026-08-10](https://english.ahram.org.eg/NewsContent/1/2/574335/Egypt/Society/Egypt-to-roll-out-nationwide-studentmonitoring-pla.aspx)).
+- The ministry said the platform will start in several education departments in 2026/2027 before gradual national expansion; no school count is given ([source, 2026-08-10](https://english.ahram.org.eg/NewsContent/1/2/574335/Egypt/Society/Egypt-to-roll-out-nationwide-studentmonitoring-pla.aspx)).
+
 ### Ethiopia: 2 Nascent
 
 The ministry's web-based system, with a number for each pupil, was piloted by June 2025; whether any primary school uses it is not known.
@@ -272,6 +289,14 @@ The ministry's web-based system, with a number for each pupil, was piloted by Ju
 
 - UNICEF, the grant agent, reports that by June 2025 the digitisation of EMIS had been finalised and piloted, with no count of pilot schools given; deployment to 4,500 primary schools in 156 weredas, with 4,500 computers, was planned for July 2025 to June 2026 and had not begun ([source, 2025-06](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2025-10-annual-progress-report-system-transformation-gea-grant-ethiopia.pdf)).
 - HISP states that the DHIS2-Ed project works directly with schools in four regions (SER, SWEPR, Oromia, Benishangul Gumuz) and lists developing tools to collect learning outcomes and student attendance as an activity still to be done; it gives no number of schools and calls the work neither a pilot nor a rollout ([source, 2025-11](https://education.dhis2.org/using-data-to-power-teaching-at-the-right-level-in-ethiopia/)).
+
+### Guinea-Bissau: 2 Nascent
+
+Pupil records from one region's schools were entered at a regional office in a 2017/18 pilot; whether it continued is not known.
+
+- In the 2017/18 school year, teams from the ministry and the NGO FEC collected learner, teacher and class records school by school in Gabu region and keyed them into the pilot platform at a regional hub, with ministry statisticians to monitor each school term; the document describes no entry by the schools themselves ([source, 2018](https://www.fecongd.org/2018/07/04/reportagem-fec-reforco-da-gestao-de-dados-educativos-na-regiao-de-gabu/)).
+- The system is described as a pilot covering the basic and secondary schools of Gabu region active in 2017/18, with no figure for schools in the country and a hope that it will be extended to the whole territory ([source, 2018](https://www.fecongd.org/2018/07/04/reportagem-fec-reforco-da-gestao-de-dados-educativos-na-regiao-de-gabu/)).
+- The pilot covers basic and secondary education schools of Gabu region in 2017/18 ([source, 2018](https://www.fecongd.org/2018/07/04/reportagem-fec-reforco-da-gestao-de-dados-educativos-na-regiao-de-gabu/)).
 
 ### Lesotho: 2 Nascent
 
@@ -330,6 +355,22 @@ A national learner number was launched in 2026 and issued first to examination c
 - The Federal Ministry of Education states that it has launched the nationwide Learner Identification Number, a digital system giving every student a permanent identity, and that in the first phase over 1.9 million candidates registered for the 2026 WAEC and NECO examinations have been issued numbers; the launch is undated, so the document's published date is used ([source, 2026-04-09](https://fmino.gov.ng/fg-launches-first-ever-nationwide-learner-identification-number-to-transform-education-system/)).
 - Lagos State's Office of Education Quality Assurance said on 4 September 2026 that from 14 September 2026 every public and private school must obtain each learner's residents' registration (LASRRA) number at admission and enter it in its admission and school records, as part of establishing a verifiable database of learners across the state; unique learner PINs are still to be devised ([source, 2026-09-14](https://www.vanguardngr.com/2026/09/2026-27-session-lagos-makes-lasrra-number-compulsory-for-school-admission/)).
 
+### Sao Tome and Principe: 2 Nascent
+
+The ministry launched a system with one enrolment per pupil in 2016, level not named; whether schools use it is not known.
+
+- In July 2016 the education ministry launched SIGE, whose first phase puts library, statistics, secretariat, desk and parts of finance in one database, with a single enrolment that pupils only confirm each year; pupils and parents are to see marks online ([source, 2016-07-01](https://www.telanon.info/sociedade/2016/07/01/22182/ministerio-da-educacao-lancou-sige/)).
+
+### Senegal: 2 Nascent
+
+A system for teachers to enter absences and report cards was launched in October 2025; how many schools use it is not known.
+
+*Advancing.*
+
+- The education minister launched PLANETE 3 on 3 October 2025; its teacher module lets teachers enter absences and produce report cards, while students and parents follow marks and absences and school heads supervise ([source, 2025-10-03](https://lesoleil.sn/actualites/education/plateforme-planete-3-une-innovation-numerique-pour-une-meilleure-gestion-de-lecole/)).
+- The system coordinator said PLANETE 3 now covers all cycles from preschool to secondary, preschool and elementary having long been left out of computerisation ([source, 2025-10-03](https://lesoleil.sn/actualites/education/plateforme-planete-3-une-innovation-numerique-pour-une-meilleure-gestion-de-lecole/)).
+- The ministry officially launched the new version PLANETE 3 on 3 October 2025, with a mobile app for pupils and parents, online school-fee payment and dashboards at school, inspectorate, central and ministry level ([source, 2025-10-03](https://lesoleil.sn/actualites/education/plateforme-planete-3-une-innovation-numerique-pour-une-meilleure-gestion-de-lecole/)).
+
 ### Seychelles: 2 Nascent
 
 The ministry trained school leadership teams on its pupil record platform in 2026; whether any school enters attendance or results is not known.
@@ -382,17 +423,11 @@ Schools kept each pupil's record in paper registers made by hand in 2026; whethe
 
 - The Unlocking Data Initiative's policy brief says cohort tracking, which gives each pupil a Learner Identification Number on entry to school, rests on paper records and several manual registers (class attendance and performance, master enrolment, admission) that schools now make themselves, and it recommends digitising the cohort tracking data; no date is given, so the brief's publication month is used ([source, 2026-05](https://www.gpekix.org/sites/default/files/2026-07/Saddick%20et%20al.%20-%202026%20-%20From%20Data%20Collection%20to%20Data%20Use%20Strengthening%20decision-making%20at%20subnational%20levels%20in%20Malawi.pdf)).
 
-### Algeria: Unplaced
-
-It is not known whether primary schools keep pupil records on paper or in a system, so no stage is set.
-
-Not established: The one evidence row, DZA-001, is from the source the study excludes and sets nothing, so no aspect is held. Nothing admissible says whether primary schools keep learner records on paper or in a system, at which levels, or in how many schools.
-
 ### Angola: Unplaced
 
-Schools answered a twice-yearly school count questionnaire in 2021/22; whether any primary school keeps a per-pupil record is not known, so no stage is set.
+A 2025 decree names a pupil data platform for recording results; whether any school uses it is not known, so no stage is set.
 
-Not established: The only evidence row, AGO-001, is from the source the study excludes and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no admissible fact on any system holding a record per learner; systems.csv holds only census-class and unclassified systems.
+Not established: AGO-001 is from the source the study excludes and sets nothing. AGO-002, a decree of 18 June 2025, lists a pupil data platform among the instruments for recording assessment results in primary and secondary general education, but gives no usage figure and does not say the platform is built, piloted or used by any school, so no level is in use on the evidence. No admissible dated statement that primary schools keep learner records on paper.
 
 ### Botswana: Unplaced
 
@@ -424,12 +459,6 @@ Schools filled the yearly school count on paper in 2021; how primary schools kee
 
 Not established: The one admissible row says the yearly school questionnaire is filled on paper and keyed centrally (2021); that is the census, and nothing held states how primary schools keep learner records.
 
-### Egypt: Unplaced
-
-The ministry's 2023-2027 plan is to build a per-pupil record; whether primary schools use one is not known, so no stage is set.
-
-Not established: No admissible row on any coverage aspect: nothing says at which levels a learner-record system is in use, how the record is kept or how many primary schools enter data. EGY-001 is from the excluded source and sets nothing; finance is not stated; owner:ministry is dated September 2023, at the edge of the 36-month window; no dated event in the twelve months to the as-at.
-
 ### Equatorial Guinea: Unplaced
 
 Schools return a yearly count by questionnaire (2026); whether any keeps a per-pupil record is not known, so no stage is set.
@@ -442,23 +471,11 @@ A digital platform for the yearly school count was built by 2026; how schools ke
 
 Not established: The only evidence row, ERI-001, is from the excluded source and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no row on any system holding a record per learner.
 
-### Guinea-Bissau: Unplaced
-
-The yearly school count ran on a new platform in 2025; whether schools keep a per-pupil record is not known, so no stage is set.
-
-Not established: The only three evidence rows (GNB-001 to GNB-003) come from the excluded source and set nothing. No admissible row describes a record per learner that schools add to during the year, and no admissible dated statement says primary schools keep learner records on paper only.
-
 ### Niger: Unplaced
 
 School heads filled printed forms for the yearly school count in 2025; how schools keep pupils' records is not known, so no stage is set.
 
 Not established: The only evidence row, NER-001, is from the excluded source and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no row on a system holding a record per learner.
-
-### Senegal: Unplaced
-
-A December 2025 brief describes paper-based school data collection; whether primary schools keep a per-pupil record is not known, so no stage is set.
-
-Not established: SEN-001 and SEN-002 are from the source the study excludes and set nothing. The one admissible row, SEN-003 (2025-12, dated by publication), speaks of paper-based education data collection and isolated digital files at school and sub-national level generally: it does not name learner records, primary schools or paper only. No admissible fact on any system holding a record per learner; systems.csv holds census-class, noted and unclassified systems (PLANETE 3.0 and EDUSTAT undescribed or future).
 
 ### Sudan: Unplaced
 
@@ -477,9 +494,3 @@ Not established: The one evidence row (ZMB-001) is from the excluded source and 
 A system launched in 2024 gathers school data by online survey; how schools keep each pupil's record is not known, so no stage is set.
 
 Not established: evidence.csv holds no row for the country. systems.csv lists only census-class, single-function and unclassified systems, none shown to hold a record per learner that schools add to during the year.
-
-### Sao Tome and Principe: No evidence
-
-Schools sent data to the ministry's school-management system in 2023; whether primary schools keep a per-pupil record is not known, so no stage is set.
-
-Not established: evidence.csv holds no row for the country. systems.csv names SIGE several times, as a census where it is classified and otherwise unclassified, with a relaunch in a first group of schools still at tender in January 2025; none of it is an evidence row.

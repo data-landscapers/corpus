@@ -1,23 +1,23 @@
 iso3,sub_indicator,rung,instrument,standing,period,text,plan,reporting,governance,flags,stopped_by
 AGO,sector,2,Livro Branco das TIC 2023-2027,adopted,to:2027,,,,,,"adopted, and no public text is held"
-BDI,sector,unplaced,Politique nationale de développement des TIC (PNDTIC) 2010-2025,adopted,to:2025,public,,activity,body:mandated;finance:donor,lapsed,its period has ended and no sector policy is on record as its successor
+BDI,sector,unplaced,PNDTIC 2010-2025,adopted,to:2025,,,activity,body:mandated,lapsed,its period has ended and no sector policy is on record as its successor
 BEN,sector,unplaced,Déclaration de politique sectorielle de l'économie numérique,adopted,to:2021,public,actions,,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
-BFA,sector,unplaced,Lettre de politique sectorielle 2006-2010,adopted,to:2010,,,,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
+BFA,sector,2,Politique sectorielle assortie d'un plan d'actions,drafting,,,,,,lapsed,"drafting, not adopted"
 BWA,sector,3,National ICT Policy (Maitlamo),adopted,,public,,,body:mandated,dated,no stated period: an open policy stops at stage 3
 CAF,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
 CIV,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
 CMR,sector,unplaced,"Stratégie sectorielle des postes, télécommunications et TIC 2005",validated,to:2015,,actions,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
-COD,sector,unplaced,Document de politique sectorielle 2009,adopted,to:2014,,,,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
+COD,sector,2,Politique sectorielle des télécommunications,adopted,,,,,,,"adopted, and no public text is held"
 COG,sector,2,National ICT Policy,adopted,,,,,body:mandated,,"adopted, and no public text is held"
 COM,sector,2,Politique sectorielle des télécommunications et du numérique,adopted,,,,,,,"adopted, and no public text is held"
 CPV,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
-DJI,sector,unplaced,Schéma stratégique intégré (SSI) 2014-2024,adopted,to:2024,,,,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
+DJI,sector,unplaced,Schéma Stratégique Intégré (SSI) du secteur des TIC 2014-2024,adopted,to:2024,,,,body:mandated,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
 DZA,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
-EGY,sector,unplaced,ICT 2030 Strategy,,to:2030,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
+EGY,sector,unplaced,National ICT Strategy 2013-2017,adopted,to:2017,public,actions,activity,body:mandated,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
 ERI,sector,1,No ICT sector policy,,,,,,,,a dated statement that there is none
 ETH,sector,2,National ICT Policy and Strategy 2016,adopted,,,,,body:mandated;finance:donor,,"adopted, and no public text is held"
 GAB,sector,2,Politique nationale des TIC,adopted,,,,,,,"adopted, and no public text is held"
-GHA,sector,unplaced,ICT for Accelerated Development (ICT4AD) Policy,adopted,to:2022,public,actions,,body:mandated,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
+GHA,sector,3,National Telecommunications Policy,adopted,open,public,actions,,body:mandated,dated,no stated period: an open policy stops at stage 3
 GIN,sector,2,Lettre de politique sectorielle du numérique,announced,,,,,,lapsed,"announced, not adopted"
 GMB,sector,2,ICT4D Policy Statement 2018-2028,adopted,to:2028,,,,,,"adopted, and no public text is held"
 GNB,sector,2,ICT strategy (preliminary report),drafting,,,,,,,"drafting, not adopted"
@@ -26,12 +26,12 @@ KEN,sector,3,National ICT Policy 2019,adopted,,public,,,body:mandated,,no stated
 LBR,sector,2,National ICT Policy 2025-2030,drafting,to:2030,public,actions,,body:mandated;finance:not-stated,lapsed,"drafting, not adopted"
 LBY,sector,2,National Telecommunications and Informatics Strategy 2023-2027,adopted,to:2027,,,activity,body:mandated,advancing,"adopted, and no public text is held"
 LSO,sector,3,Lesotho Communications Policy 2008,adopted,open,public,,,body:mandated;finance:not-stated,dated,no stated period: an open policy stops at stage 3
-MAR,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
+MAR,sector,unplaced,Note d'orientations générales du secteur des télécommunications à horizon 2023,adopted,to:2023,public,actions,,body:mandated,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
 MDG,sector,2,Politique nationale des TIC pour le développement 2004,adopted,,,actions,results,,,"adopted, and no public text is held"
 MLI,sector,2,Politique nationale des TIC 2005,adopted,,,,,,,"adopted, and no public text is held"
 MOZ,sector,3,Política para a Sociedade da Informação 2018,adopted,open,public,actions,,body:mandated;finance:not-stated,,no stated period: an open policy stops at stage 3
 MRT,sector,2,Déclaration de politique sectorielle 2013,adopted,,,,,,,"adopted, and no public text is held"
-MUS,sector,unplaced,,,,,,,,under the national strategy,no sector policy in force; the national digital strategy is staged on its own row
+MUS,sector,unplaced,National ICT Policy 2007-11,adopted,to:2011,public,actions,,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor
 MWI,sector,3,National ICT Policy 2013,adopted,,public,actions,,body:mandated,dated,no stated period: an open policy stops at stage 3
 NAM,sector,2,National ICT Policy 2026,adopted,,,,,body:mandated,advancing,"adopted, and no public text is held"
 NER,sector,unplaced,Document de politique sectorielle des télécommunications et des TIC 2013-2020,adopted,to:2020,,actions,activity,,lapsed;under the national strategy,its period has ended and no sector policy is on record as its successor

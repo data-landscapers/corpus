@@ -1,7 +1,7 @@
 iso3,stage,standing,use,stage_sources
 AGO,no evidence,,,
 BDI,no evidence,,,
-BEN,no evidence,,,
+BEN,2,draft,,BEN-002
 BFA,no evidence,,,
 BWA,2,draft,,BWA-001
 CAF,no evidence,,,
@@ -23,7 +23,7 @@ GMB,3,adopted,,GMB-001
 GNB,no evidence,,,
 GNQ,no evidence,,,
 KEN,no evidence,,,
-LBR,no evidence,,,
+LBR,unplaced,,,
 LBY,2,draft,,LBY-002
 LSO,no evidence,,,
 MAR,unplaced,,,
@@ -32,7 +32,7 @@ MLI,no evidence,,,
 MOZ,2,draft,,MOZ-001
 MRT,2,draft,,MRT-001
 MUS,3,adopted,,MUS-001
-MWI,unplaced,,,
+MWI,1,none,,MWI-002
 NAM,no evidence,,,
 NER,no evidence,,,
 NGA,4,adopted,portal,NGA-002;NGA-001
@@ -48,8 +48,8 @@ SYC,no evidence,,,
 TCD,no evidence,,,
 TGO,unplaced,,,
 TUN,3,adopted,,TUN-002
-TZA,no evidence,,,
+TZA,2,draft,,TZA-001
 UGA,2,draft,,UGA-001
 ZAF,no evidence,,,
 ZMB,no evidence,,,
-ZWE,no evidence,,,
+ZWE,unplaced,,,

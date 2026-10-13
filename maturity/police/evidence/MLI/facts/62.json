@@ -1,0 +1,15 @@
+{
+  "slug": "2015-09-23-mli-bamada-cndc-operationnel",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS-SIPAO",
+      "country_label": "SIPAO / WAPIS",
+      "class": "",
+      "platform": "police software developed by INTERPOL's WAPIS team",
+      "owner": "Centre national de documentation criminelle (CNDC), Ministry of Security and Civil Protection",
+      "tiers": "national centre; police, gendarmerie, customs, water and forests services as data sources"
+    }
+  ],
+  "note": "CNDC inaugurated about 18 September 2015 as national police data centre, funded by the EU; the article does not say stations enter reports or cases in the system."
+}

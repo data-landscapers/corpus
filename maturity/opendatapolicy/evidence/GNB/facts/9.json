@@ -1,0 +1,15 @@
+{
+  "slug": "2024-06-14-gnb-ine-egdds-portal-dados-abertos",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portal de dados aberto da Guine-Bissau (ODP)",
+      "country_label": "Portal de dados aberto da Guine-Bissau, ODP",
+      "class": "other",
+      "platform": "African Development Bank Africa Information Highway, SDMX",
+      "owner": "African Development Bank; hosts the INE National Summary Data Page",
+      "tiers": "national"
+    }
+  ],
+  "note": "Statistics dissemination (e-GDDS) page on a bank-run portal, launched 2024-06-14; no open data policy stated."
+}

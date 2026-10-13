@@ -1,0 +1,9 @@
+{
+  "slug": "2020-03-27-cpv-bo-resolucao-54-2020-transformacao-digital-ap",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Council of Ministers Resolution 54/2020, approved 19 March 2020 and published in Boletim Oficial no. 37 of 27 March 2020, took effect the day after publication and applies to all direct and indirect State administration services; it is a government resolution, not a law, and orders (measure e) that a legal diploma on interoperability of public administration information systems be drafted and approved, with an interoperability framework (measure f).", "as_of": "2020-03-27", "date_precision": "day", "system": "Resolução nº 54/2020", "class": "law"},
+    {"sub_indicator": "law", "aspect": "duty", "value": "required", "fact": "Measure g of Resolution 54/2020 establishes that public administration services and bodies must share, among themselves, the public data and documents needed for a given process or service, subject to personal data protection rules; measure r orders measures to operationalise the once-only principle, with the citizen's consent; no application is reported.", "as_of": "2020-03-27", "date_precision": "day", "system": "Resolução nº 54/2020", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

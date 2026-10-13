@@ -1,0 +1,8 @@
+{
+  "slug": "2019-05-01-gin-unicef-arrete-interoperabilite-sante-matd",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "UNICEF Guinea lists a government-authored interoperability arrete between the Ministry of Health and the Ministry of Territorial Administration and Decentralisation (MATD), for promoting vaccination and obtaining birth certificates; the page gives only the month of publication (May 2019, used as the date) and no text, and the scope is health and civil registration only.", "as_of": "2019-05", "date_precision": "month", "system": "", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

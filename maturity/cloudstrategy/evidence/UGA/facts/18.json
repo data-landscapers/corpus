@@ -1,0 +1,11 @@
+{
+  "slug": "2018-10-01-uga-nita-national-cloud-computing-guidelines",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "NITA-U issued the National Guidelines on Cloud Computing for Government in October 2018 (version CPG1), requiring all ministries, departments, agencies and local governments to adhere to 'Cloud First' for IT-enabled services; the document gives no end date.", "as_of": "2018-10", "date_precision": "month", "system": "National Guidelines on Cloud Computing for Government, Ministries, Departments and Agencies", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The guidelines require all ministries, departments, agencies and local governments to host information assets classed Official, Secret and Top Secret in the Government Cloud (the National Data Center run by NITA-U), to use it when procuring new ICT, and to migrate existing classified services to it at contract expiry or refresh, with offshore exceptions approved by NITA-U.", "as_of": "2018-10", "date_precision": "month", "system": "National Guidelines on Cloud Computing for Government, Ministries, Departments and Agencies", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Government Cloud (National Data Center)", "country_label": "Government Cloud / U-Cloud", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "ministries, departments, agencies and local governments"}
+  ],
+  "note": ""
+}

@@ -1,6 +1,20 @@
 {
   "iso3": "LBY",
   "cells": [
-    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. systems.csv does name a local revenues system of the Ministry of Local Government, unclassified: launched about May 2022 with six municipalities present, and 21 municipalities of the second cohort of mayors given access and training in October 2025. What it records, where the record is held and how many municipalities enter data are not established; correspondence and employment systems are also named.", "note": "No row on the sub-indicator, so no rung can be set. The local revenues system is named in systems.csv only, without a classified fact to stage from."}
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001;LBY-003",
+      "gaps": "The programme director said in June 2024 that the local revenue system is already activated in some municipalities and not in others; no count is given, none is named, and the 27 signatories are not said to use it, so use outside the capital is not established. What the system records and where the record is held are not stated. The electronic collection system is a project of the programme, with no launch held. The plan's period is not given. systems.csv names 21 municipalities given access and training in October 2025, with no evidence row behind it.",
+      "note": "An electronic collection system is a project of a ministry programme, which is preparation. Stage 3 needs a system live in municipalities outside the capital, and the one statement of activation counts and names none.",
+      "as_at": "2026-10-13"
+    }
   ]
 }

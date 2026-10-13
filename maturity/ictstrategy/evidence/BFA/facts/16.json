@@ -1,0 +1,14 @@
+{
+  "slug": "2017-03-01-bfa-burkina-ntic-audit-cadre-juridique-numerique",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The March 2017 legal audit says the digital economy ministry (MDENP) published in September 2015 an updated sector policy for 2016-2020, the Politique sectorielle de l'Economie numérique et des Postes.", "as_of": "2015-09", "date_precision": "month", "system": "Politique sectorielle de l'Economie numérique et des Postes 2016-2020", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2020", "fact": "The audit gives the updated sector policy's period as 2016-2020, with a vision to 2025.", "as_of": "2015-09", "date_precision": "month", "system": "Politique sectorielle de l'Economie numérique et des Postes 2016-2020", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The audit says the ministry published the updated sector policy in September 2015.", "as_of": "2015-09", "date_precision": "month", "system": "Politique sectorielle de l'Economie numérique et des Postes 2016-2020", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politique sectorielle de l'Economie numérique et des Postes 2016-2020", "country_label": "Politique sectorielle de l'Economie numérique et des Postes (mise à jour 2016-2020)", "class": "sector", "platform": "", "owner": "MDENP", "tiers": "national"},
+    {"system": "Cyber Stratégie nationale", "country_label": "Cyberstratégie nationale", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "SCADD", "country_label": "Stratégie de croissance accélérée et de développement durable", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

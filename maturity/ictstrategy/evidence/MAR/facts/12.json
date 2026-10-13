@@ -1,0 +1,126 @@
+{
+ "slug": "2023-01-01-mar-anrt-dates-cles",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ANRT's timeline lists the adoption of the Note d'Orientations Générales 2023 under 2020, whereas the note itself gives 26 December 2019; the page is undated, filed at 2023.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ANRT's timeline lists the adoption of the Note d'Orientations Générales for the sector to the horizon of 2018 in 2015.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Note d'orientations générales à horizon 2018",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2018",
+   "fact": "ANRT's timeline lists the 2015 Note d'Orientations Générales as covering the sector to the horizon of 2018.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Note d'orientations générales à horizon 2018",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ANRT's timeline lists the adoption of the note d'orientations générales for the sector to the horizon of 2013 in 2010.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "Note d'orientations générales à horizon 2013",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2013",
+   "fact": "ANRT's timeline lists the 2010 note d'orientations générales as covering the sector to the horizon of 2013.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "Note d'orientations générales à horizon 2013",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ANRT's timeline lists the adoption of the note d'orientations générales for liberalising the sector for 2004-2008 in 2004.",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "Note d'orientations générales 2004-2008",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2008",
+   "fact": "ANRT's timeline lists the 2004 note d'orientations générales as covering 2004-2008.",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "Note d'orientations générales 2004-2008",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "country_label": "Note d'orientations générales du secteur des télécommunications à horizon 2023",
+   "class": "sector",
+   "platform": "",
+   "owner": "ANRT",
+   "tiers": "national"
+  },
+  {
+   "system": "Note d'orientations générales à horizon 2018",
+   "country_label": "Note d'orientations générales à horizon 2018",
+   "class": "sector",
+   "platform": "",
+   "owner": "ANRT",
+   "tiers": "national"
+  },
+  {
+   "system": "Note d'orientations générales à horizon 2013",
+   "country_label": "Note d'orientations générales à horizon 2013",
+   "class": "sector",
+   "platform": "",
+   "owner": "ANRT",
+   "tiers": "national"
+  },
+  {
+   "system": "Note d'orientations générales 2004-2008",
+   "country_label": "Note d'orientations générales 2004-2008",
+   "class": "sector",
+   "platform": "",
+   "owner": "ANRT",
+   "tiers": "national"
+  },
+  {
+   "system": "Plan national de développement du haut et très haut débit",
+   "country_label": "Plan national de développement du haut et très haut débit (2012)",
+   "class": "subsector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PNHD",
+   "country_label": "PNHD",
+   "class": "programme",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

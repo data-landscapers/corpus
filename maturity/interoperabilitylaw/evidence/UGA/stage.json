@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "duty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "duty": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No source held says the law in force requires public bodies to share data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds.",
+      "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py.",
+      "as_at": "2026-10-13"
+    }
+  ]
 }

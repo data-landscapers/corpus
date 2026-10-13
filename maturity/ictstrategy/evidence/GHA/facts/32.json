@@ -1,0 +1,66 @@
+{
+ "slug": "2005-01-10-gha-moc-national-telecommunications-policy",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of Communications released the National Telecommunications Policy (MOC/POL-TEL-0001, version 1.0) with status FINAL and document date 10/01/2005, read as 10 January 2005.",
+   "as_of": "2005-01-10",
+   "date_precision": "day",
+   "system": "National Telecommunications Policy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "text",
+   "value": "public",
+   "fact": "The full 33-page policy text is hosted on the National Communications Authority website; the document gives no separate publication date, so the document date is used.",
+   "as_of": "2005-01-10",
+   "date_precision": "day",
+   "system": "National Telecommunications Policy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "open",
+   "fact": "The policy states no end date for itself, though its universal-access targets fall due by 2010; it provides for periodic Ministry review and amendment.",
+   "as_of": "2005-01-10",
+   "date_precision": "day",
+   "system": "National Telecommunications Policy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The policy makes the Ministry of Communications responsible for defining and reviewing telecommunications policy and monitoring progress, and the National Communications Authority responsible for regulating the sector and implementing the policy.",
+   "as_of": "2005-01-10",
+   "date_precision": "day",
+   "system": "National Telecommunications Policy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The policy sets dated actions and targets with no costs, such as NCA gateway criteria within 90 days of adoption, a structural separation proceeding by end 2005, and 25% penetration (10% rural) and universal access by 2010.",
+   "as_of": "2005-01-10",
+   "date_precision": "day",
+   "system": "National Telecommunications Policy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Telecommunications Policy",
+   "country_label": "National Telecommunications Policy (Ministry of Communications, 2005)",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Communications",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

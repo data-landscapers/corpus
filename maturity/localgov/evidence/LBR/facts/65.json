@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-lbr-mfdp-great-csc-ict-infrastructure-tor",
+  "facts": [],
+  "systems": [
+    {"system": "e-Liberia Portal", "country_label": "e-Liberia Portal", "class": "web", "platform": "", "owner": "Government of Liberia (e-Liberia enhancement consultancy, GREAT Project)", "tiers": "County Service Centers (central ministries' deconcentrated offices) to be given access to online transactional services"}
+  ],
+  "note": "The document concerns County Service Centers, which are deconcentrated offices of central ministries (class central, out of scope); it states no connection at a local government's own office."
+}

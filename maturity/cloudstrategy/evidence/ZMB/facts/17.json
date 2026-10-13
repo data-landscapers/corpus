@@ -1,0 +1,11 @@
+{
+  "slug": "2023-10-06-zmb-gazette-si-43-egovernment-general-regulations",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Statutory Instrument No. 43 of 2023, made under the Electronic Government Act 2021 and gazetted 6 October 2023, requires every public body to store the personal data it processes on infrastructure domiciled in Zambia (regulation 8), unless the Electronic Government Division and the Data Protection Commissioner authorise storage abroad.", "as_of": "2023-10-06", "date_precision": "day", "system": "Electronic Government (General) Regulations, 2023", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "Government Service Bus", "country_label": "Government Service Bus", "class": "other", "platform": "", "owner": "Electronic Government Division", "tiers": "all public bodies must integrate their services with it"},
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "other", "platform": "", "owner": "Electronic Government Division", "tiers": "public bodies, for their e-government services where applicable"}
+  ],
+  "note": ""
+}

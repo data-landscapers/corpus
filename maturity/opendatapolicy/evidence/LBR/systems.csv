@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LBR,LISGIS microdata catalogue (microdata.lisgislr.org),Liberia,other,,Liberia Institute of Statistics and Geo-Information Services (LISGIS),,2026-02-01-liberia-lisgis-wen-survey-2024-public-use-dataset
+LBR,eLiberia national data portal,national data portal,policy,,Ministry of Posts and Telecommunications,national,2020-01-01-lbr-ogp-lr0036-open-data-citizen-portal
+LBR,Open Data/Citizen Navigation Portal (OGP commitment LR0036),LR0036,other,,Ministry of Posts and Telecommunications (lead),national,2020-01-01-lbr-ogp-lr0036-open-data-citizen-portal

@@ -1,0 +1,18 @@
+{
+  "slug": "2018-06-25-tza-worldbank-sogdat-year3-open-data-policy",
+  "facts": [
+    {"sub_indicator": "policy", "aspect": "standing", "value": "draft",
+     "fact": "The World Bank's SOGDAT year 3 report (period February 2016 to June 2017) says the National Open Data Policy was drafted by the Open Data Task Force in 2016, consulted on in April 2016, handed to the Ministry of Finance for submission to Cabinet in December 2016 and presented to the Permanent Secretary of Finance in February 2017, but by June 2017 it had not been officially adopted.",
+     "as_of": "2017-06", "date_precision": "month",
+     "system": "National Open Data Policy", "class": "policy"},
+    {"sub_indicator": "policy", "aspect": "use", "value": "published",
+     "fact": "The report says the national open data portal opendata.go.tz, launched in September 2015 and managed by the eGovernment Agency, held 163 datasets (755 resources) from 11 institutions in 4 sectors by June 2017, double the year before, under the Chief Secretary's January 2015 circular as the interim directive.",
+     "as_of": "2017-06", "date_precision": "month",
+     "system": "National Open Data Policy", "class": "policy"}
+  ],
+  "systems": [
+    {"system": "National Open Data Policy", "country_label": "Takwimu Huria", "class": "policy", "platform": "", "owner": "Open Data Task Force (National Bureau of Statistics chairing, eGovernment Agency, National Archives), reporting to the Ministry of Finance", "tiers": "national"},
+    {"system": "Tanzania Open Data Portal", "country_label": "opendata.go.tz", "class": "other", "platform": "", "owner": "eGovernment Agency, coordinated by the National Bureau of Statistics", "tiers": "national"}
+  ],
+  "note": ""
+}

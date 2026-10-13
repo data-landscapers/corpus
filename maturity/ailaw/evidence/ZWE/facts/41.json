@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-27-zwe-africanlawmatters-strategy-without-statute-ai",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "African Law Matters analyst Tashinga Magaya writes that the National AI Strategy is not a law, that the proposed regulator has no enabling Act, and that the Cyber and Data Protection Act is the law that applies to AI today, so no AI-specific rule is in force and she urges that a draft AI Act be introduced within twelve to eighteen months.", "as_of": "2026-07-27", "date_precision": "day", "system": "Zimbabwe AI legislation", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The article states that no AI act exists in Zimbabwe, that the National Digital Regulatory Committee named in the strategy has no enabling legislation, and that a draft AI Act is still to be introduced to Parliament; as_of is the article's published date.", "as_of": "2026-07-27", "date_precision": "day", "system": "Zimbabwe AI legislation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy 2026-2030", "country_label": "National Artificial Intelligence Strategy 2026-2030", "class": "other", "platform": "", "owner": "Cabinet; launched by the President on 13 March 2026", "tiers": "national"},
+    {"system": "Cyber and Data Protection Act [Chapter 12:07]", "country_label": "Cyber and Data Protection Act [Chapter 12:07]", "class": "other", "platform": "", "owner": "POTRAZ as Data Protection Authority", "tiers": "national"},
+    {"system": "National Digital Regulatory Committee", "country_label": "National Digital Regulatory Committee", "class": "other", "platform": "", "owner": "proposed in the AI Strategy, no enabling Act", "tiers": "national"}
+  ],
+  "note": ""
+}

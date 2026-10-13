@@ -1,0 +1,17 @@
+{
+  "slug": "2022-02-04-cod-medd-atelier-referentiels-numeriques-interoperabilite",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Ministry of Digital held a workshop on 2-3 February 2022 that analysed and validated five books of public-sector digital standards, Book 5 being the Référentiel Général d'Interopérabilité, with a restricted commission to finalise the texts before promulgation.",
+      "as_of": "2022-02-03",
+      "date_precision": "day",
+      "system": "Référentiel Général d'Interopérabilité",
+      "class": "framework"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

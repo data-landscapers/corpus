@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information et de gestion de l'éducation (SIGE) and annual school census (recensement annuel scolaire)", "country_label": "SIGE", "class": "census", "platform": "", "owner": "Ministry of National Education, with UNESCO technical support", "tiers": "all establishments, through the 2022 statistical campaign covering 2020/21 and 2021/22"}
+  ],
+  "note": "The page is the yearbook's introduction: an annual school census and the yearbook built on it, which is the census class; no school-level learner record is described, so no fact for the emis class."
+}

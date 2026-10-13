@@ -3,17 +3,18 @@
   "cells": [
     {
       "sub_indicator": "record",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "",
-      "records": "none",
-      "made": "paper",
+      "records": "O;C",
+      "made": "",
       "last12": "",
-      "stations": "",
+      "stations": "not-published",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The statement of absence is from 2022 and from one region, Omusati, on 8 officers interviewed; nothing newer is held and nothing national. The force's E-Policing system, launched in 2014, is named in systems.csv with no source outside the excluded essay saying what it does or which stations use it, so it places nothing. No governance fact, no station count and nothing in the last twelve months. Parent ruling: the absence rests on a 2022 study of traffic-offence records in one region (Omusati), which is one function in one region and does not carry the country.",
-      "note": "Parent ruling: the absence rests on a 2022 study of traffic-offence records in one region (Omusati), which is one function in one region and does not carry the country."
+      "stage_sources": "NAM-005;NAM-007;NAM-008",
+      "gaps": "No fact says the system is past a pilot or names stations entering reports or cases in it: the 2016 fact lists a case docket database without saying stations enter cases, and the May 2022 paper surveys one station, Okahandja, says not all units have been introduced and gives no count. The sources disagree: a 2022 study of one region, Omusati, found officers recording by hand and no digital record system there (NAM-003, NAM-004); it covers one region and does not carry the country, so how the record is made nationally is not established and no rural gap is flagged without a figure. The ministry's ownership is dated 2016, outside the 36-month window; no plan, finance or event in the last twelve months is held, and nothing is dated after 2022. NAM-001 and NAM-002 are from the excluded source and set nothing.",
+      "note": "The force's e-policing system holds a case docket database (2016) and records police information electronically (May 2022), with one station surveyed and not all units introduced; the source does not call it live in stations, so it is read as a pilot. Stage 3 needs it past its pilot and live in some stations outside the capital, which no fact states.",
+      "as_at": "2026-10-13"
     }
   ]
 }

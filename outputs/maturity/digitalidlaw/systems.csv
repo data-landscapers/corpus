@@ -159,6 +159,7 @@ MOZ,National mobile digital ID and e-signature infrastructure (EDGE),mobile digi
 MOZ,National mobile digital identity and electronic signature infrastructure (EDGE),mobile digital identity,other,"mobile app, starter card, virtual card",ATDI,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
 MOZ,National Population Registry,National Population Registry,,,National Directorate of Civil Identification,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
 MOZ,Sistema de Identidade Civil Electrónica,Sistema Electrónico de Identificação Civil,other,,"Direcção Nacional de Identificação Civil, Ministério do Interior",,2023-03-01-dnic-civil-identification-system
+MOZ,Bilhete de Identidade,"Bilhete de Identidade (biometric identity card, Decree 11/2008 of 29 April)",other,,Council of Ministers,,2022-03-16-moz-parlamento-ar-aprova-lei-identificacao-civil
 MRT,Registre National Biométrique des Populations,Registre National Biométrique des Populations,other,,structure named in article 6 of the 2011 Civil Status Code,Centres d'Accueil des Citoyens,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques
 MUS,Mauritius National Identity Card (MNIC 3.0) / Mauritius National Identity Scheme,Mauritius National Identity Card,other,"smart card with chip, 1D and 2D barcode",Mauritius National Identity Card Unit,"citizens; agencies such as the Passport and Immigration Office, banks and Mauritius Post read card data",2024-02-19-mauritius-national-identity-card-unit
 MUS,MauPass,MauPass,other,National Authentication Framework,Government of Mauritius,citizens accessing government services online,2024-02-19-mauritius-national-identity-card-unit
@@ -273,6 +274,12 @@ TCD,National biometric registry,national biometric registry,other,,ANATS (Nation
 TCD,Integrated Population and Secure Documents Management System (SIGPTS),SIGPTS,other,Idemia,ANATS,national,2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr
 TCD,National Biometric Population Register,National Biometric Population Register,other,Idemia,ANATS,national,2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr
 TCD,registre national biométrique,registre national biométrique,other,,Agence nationale des titres sécurisés (ANATS),national,2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants
+TCD,TASDJIL,TASDJIL,other,"SMS-based, solar-powered, needs no internet connection",ANATS,,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil
+TCD,ANATS,Agence Nationale des Titres Sécurisés,,,Ministry in charge of security,,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil
+TCD,SIGPTS,Système intégré de gestion des populations et des titres sécurisés,other,,ANATS,national; refugee pilot at N'Djamena and Abéché,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
+TCD,RNBP,Registre national biométrique des populations,other,,ANATS,,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
+TCD,TASDJIL,Tasdjil,other,application built with UNICEF and Technidev,ANATS,health-centre one-stop counters,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
+TCD,PRIMES,PRIMES,other,,CNARR and UNHCR,,2026-04-01-tcd-unhcr-refugees-national-digital-id-system
 TGO,Numéro d'identification unique (NIU),NIU,other,,ANID,,2022-09-09-togo-decret-2022-094-niu-modalites-inscription
 TGO,Numéro d'identification unique (NIU),NIU,other,,Agence nationale d'identification (ANID),"administration; banking, insurance, water, electricity and electronic communications service providers; health sector; employers",2022-06-24-togo-loi-2022-010-identification-biometrique-jo
 TGO,Base de données centrale,base de données centrale,other,,Agence nationale d'identification (ANID),,2022-06-24-togo-loi-2022-010-identification-biometrique-jo

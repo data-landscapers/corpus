@@ -69,3 +69,6 @@ SSD,Master health facility list,master health facility list with GPS coordinates
 SSD,HSF platform,Health Service Functionality (HSF) dashboard,,web-based dashboard,WHO,"aggregates data from the Ministry of Health, donors and partners; no facility tier stated",2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori
 SSD,Ona mobile app,,,Ona,UNICEF,collects real-time data from health facilities; tiers not stated,2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori
 SSD,Supply chain call center,,,telephone call centre,Chemonics,facilities Chemonics supports; tiers not stated,2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori
+SSD,Bahmni EMR,EMR,emr,Bahmni,PEPFAR-supported initiative,Juba Teaching Hospital; Nimule Hospital,2026-03-01-ssd-icap-art-e-register
+SSD,ART E-register,ART E-register,tracker,OpenMRS 3.x,ICAP at Columbia University with the Ministry of Health; development partner IntelliSOFT Consulting; funded by PEPFAR through CDC,"four hospitals and one primary health care centre (Munuki PHCC), in three states; no expansion planned in FY26",2026-03-01-ssd-icap-art-e-register
+SSD,DHIS2,DHIS2,,DHIS2,"Ministry of Health, with HISP South Sudan",,2026-03-01-ssd-icap-art-e-register

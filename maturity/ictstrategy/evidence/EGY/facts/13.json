@@ -1,0 +1,15 @@
+{
+  "slug": "2013-11-01-egy-escwa-national-profile-information-society",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ESCWA profile says Egypt's ICT strategy exists, with the latest edition the National ICT Strategy 2013-2017 dated April 2013, run by the Ministry of Communications and Information Technology.", "as_of": "2013-04", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2017", "fact": "The profile gives the strategy's period as 2013-2017, with its targets set to the 2017/2018 financial year.", "as_of": "2013-04", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The profile names the Ministry of Communications and Information Technology as the government agency in charge, to implement the strategy's programmes with partners.", "as_of": "2013-04", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The profile footnotes the strategy to a publication page on the MCIT website (mcit.gov.eg).", "as_of": "2013-04", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The profile lists seven pillars of programmes and measurable targets by financial year, such as 100% broadband connection by 2017/2018 and ICT exports of 28 billion EGP in 2017/2018, with an estimated 45 billion EGP of investment for connectivity but no costed plan.", "as_of": "2013-04", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The profile rates the strategy's pace of implementation as excellent, without giving progress against its targets.", "as_of": "2013-11", "date_precision": "month", "system": "National ICT Strategy 2013-2017", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Strategy 2013-2017", "country_label": "National ICT strategy 2013-2017 'Towards Economic and Social Reform: ICT for Comprehensive and Sustainable Development'", "class": "sector", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -18,6 +18,16 @@
 
 ## EMR
 
+**Governance, planning, finance.** Vannin Group, the vendor, states that [it deployed Greencube, its name for the product, at Hospital Nuevo INSESO in Bata in 2018](<https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea>).
+
+**Tiers in use.** The vendor describes Greencube as [the unified electronic health record platform of Hospital Nuevo INSESO, a hospital of 85 beds in Bata](<https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea>), in a case study dated 2018.
+
+**Where data is digitised.** Vannin Group counts [600 active users of its Greencube platform at Hospital Nuevo INSESO](<https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea>), in 2018, on what it calls a unified electronic health record platform.
+
+**Last twelve months.** Vannin Group dates [the deployment of its platform at Hospital Nuevo INSESO in Bata to 2018](<https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea>), when it counted 600 active users and 60,000 patient records there.
+
+**Primary clinics doing the digital input.** Vannin Group reports [60,000 patient records held on its Greencube platform at Hospital Nuevo INSESO, the one hospital it names](<https://vanningroup.com/case-studies/hospital-nuevo-inseso-bata-equatorial-guinea>), in 2018, at a hospital of 85 beds.
+
 ***Noted, not assessed***. Trackers: the [DHIS2 individual register and follow-up of routine vaccination](<https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial>) and the [DHIS2 follow-up of HIV patients](<https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial>). Single-function: the [DHIS2 data on health workforce availability and qualification](<https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial>), the [DHIS2 inventory control in medicine dispensaries](<https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial>), the [DHIS2 malaria eLMIS of the Bioko Island Malaria Elimination Project](<https://dhis2.org/equatorial-guinea-malaria-lmis/>) and the [Sistema Nacional de Vigilancia Epidemiológica](<https://guineasalud.org/archivos/Protocolos/0567FolletoPlanEstrategicoSNIS_0303.pdf>), as the ministry names it. Enabling: the [Data Center at the ministry's Malabo headquarters](<https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial>) and the proposed [GALE digital health pilot of eClinics telemedicine stations](<https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_explora_alianzas_estrategicas_en_ee_uu_para_reforzar_proteger_y_modernizar_su_sistema_nacional_de_salud>).
 
-***Not held***. No electronic medical record is named at any tier, and no statement that patient records are on paper at every tier is held. On the patient side only programme trackers for routine vaccination and HIV follow-up are held.
+***Not held***. Nothing dated after 2018 shows the record at the hospital in Bata still in use, and no other facility keeping electronic patient records is held. Who owns and pays for the system, where the record is entered and any use in primary clinics are not held.

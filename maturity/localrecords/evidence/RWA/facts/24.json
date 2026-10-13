@@ -1,0 +1,15 @@
+{
+  "slug": "2015-01-01-rwa-rra-local-government-revenue-online",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RRA local government revenues management software",
+      "country_label": "District revenues online service",
+      "class": "central",
+      "platform": "RRA online services",
+      "owner": "Rwanda Revenue Authority",
+      "tiers": "Districts and decentralised entities"
+    }
+  ],
+  "note": "Rwanda Revenue Authority collects and records district taxes and fees in its own system, so class central; no fact for this sub-indicator. Page undated; 2015 is its published date; it says RRA began collecting in 2013."
+}

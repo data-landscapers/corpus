@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-01-mus-mitci-annual-report-2023-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Government Online Centre data centre", "country_label": "GOC", "class": "other", "platform": "", "owner": "Government Online Centre, under MITCI", "tiers": "Ministries, Departments and parastatal bodies"},
+    {"system": "g-Cloud", "country_label": "Government Cloud Infrastructure (g-Cloud)", "class": "other", "platform": "IaaS and PaaS", "owner": "Government Online Centre, under MITCI", "tiers": "Ministries, Departments and parastatal bodies"}
+  ],
+  "note": "FY2023-24 report describes the GOC data centre and g-Cloud hosting e-Government applications, but states no hosting or cloud policy requiring their use and counts no bodies moved."
+}

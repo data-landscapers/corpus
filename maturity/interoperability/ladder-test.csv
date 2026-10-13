@@ -1,13 +1,13 @@
 iso3,stage,standing,use,stage_sources
 AGO,2,draft,,AGO-002
-BDI,no evidence,,,
+BDI,2,draft,,BDI-001
 BEN,3,adopted,,BEN-001;BEN-002
 BFA,3,adopted,,BFA-001
 BWA,2,draft,,BWA-001
 CAF,no evidence,,,
 CIV,3,adopted,,CIV-001
 CMR,2,draft,,CMR-001
-COD,no evidence,,,
+COD,3,adopted,,COD-002
 COG,2,draft,,COG-001
 COM,no evidence,,,
 CPV,no evidence,,,
@@ -16,7 +16,7 @@ DZA,4,adopted,required,DZA-005;DZA-003
 EGY,no evidence,,,
 ERI,unplaced,,,
 ETH,3,adopted,,ETH-003;ETH-002
-GAB,unplaced,,,
+GAB,2,draft,,GAB-003
 GHA,3,adopted,,GHA-002
 GIN,unplaced,,,
 GMB,2,draft,,GMB-001
@@ -43,9 +43,9 @@ SLE,2,draft,,SLE-001
 SOM,1,none,,SOM-001
 SSD,no evidence,,,
 STP,2,draft,,STP-002
-SWZ,no evidence,,,
+SWZ,2,draft,,SWZ-002
 SYC,no evidence,,,
-TCD,no evidence,,,
+TCD,unplaced,,,
 TGO,2,draft,,TGO-001
 TUN,3,adopted,,TUN-001;TUN-002
 TZA,3,adopted,,TZA-001

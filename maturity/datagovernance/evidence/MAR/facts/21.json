@@ -1,0 +1,27 @@
+{
+  "slug": "2024-12-01-mar-ijafame-gouvernance-donnees-administration",
+  "facts": [
+    {
+      "sub_indicator": "policy",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "Kassimi and Salam's article, published December 2024 (no more precise date given for the finding), states the Moroccan government has not yet formalised a specific public data governance policy and that there is no unified national data governance strategy.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "national data governance policy",
+      "class": "policy"
+    },
+    {
+      "sub_indicator": "policy",
+      "aspect": "use",
+      "value": "none",
+      "fact": "The same article, published December 2024 (no more precise date given for the finding), states that there is no national data committee or regional data committees, and few administrations have a dedicated data governance unit.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "national data governance policy",
+      "class": "policy"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

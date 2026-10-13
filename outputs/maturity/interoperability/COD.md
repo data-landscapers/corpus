@@ -2,6 +2,10 @@
 
 ## Government interoperability framework
 
+**Framework adopted.** The Ministry of Digital held a [workshop on 2-3 February 2022](<https://medd.gouv.cd/atelier-sur-lelaboration-et-adoption-des-referentiels-numeriques-du-secteur-public-en-rdc/>) that analysed and validated five books of public-sector digital standards, Book 5 being the Référentiel Général d'Interopérabilité. The government [adopted the draft digital norms and standards for the public sector on 15 April 2022](<https://kt.cd/2022/04/16/adoption-du-projet-des-normes-et-standards-du-numerique-applicable-au-secteur-public/>), in the same five books, including that referential.
+
+**Required and followed.** On the [adoption of 15 April 2022](<https://kt.cd/2022/04/16/adoption-du-projet-des-normes-et-standards-du-numerique-applicable-au-secteur-public/>), the minister said the norms would be given legal force by ministerial order (arrêté), and the article does not report one as issued. The February 2022 workshop provided for a restricted commission to [finalise the texts of the five books](<https://medd.gouv.cd/atelier-sur-lelaboration-et-adoption-des-referentiels-numeriques-du-secteur-public-en-rdc/>) before promulgation. The government therefore adopted the draft norms, the Référentiel Général d'Interopérabilité among them, while the legal fixing was still to follow.
+
 ***Noted, not assessed***. [data-sharing platform](<https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project>); [DRCPass](<https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project>); [Fichier Général de la Population](<https://actualite.cd/2026/06/12/assemblee-nationale-venance-eyanga-et-patrick-namazihana-deposent-une-proposition-de-loi>); [Africa Congo Internet Exchange (ACIX)](<https://itweb.africa/article/distributed-exchange-boosts-drc-connectivity/4r1ly7R9GkLvpmda>); [Biometric civil service registry (ENCORE)](<https://www.biometricupdate.com/202507/dr-congo-fights-public-service-waste-with-biometric-id-registry>).
 
-***Not held***. Nothing held names a government interoperability framework, or says there is none.
+***Not held***. Nothing held shows a decree, law, regulation or order making the framework compulsory and naming the body that enforces it.
