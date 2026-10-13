@@ -1,0 +1,145 @@
+{
+  "id": "qualitystandards",
+  "study_file": "maturity-study-qualitystandards.md",
+  "subjects": [
+    "gov.standards"
+  ],
+  "stage_topic": "gov.standards",
+  "redraws": [
+    "gov.standards--national-quality-standards"
+  ],
+  "carry": [
+    "gov.standards--national-quality-standards"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 30000000,
+  "terms": [
+    "national standards body",
+    "national standards bodies",
+    "bureau of standards",
+    "standards bureau",
+    "standards authority",
+    "standards board",
+    "standards institution",
+    "standards institute",
+    "standards organisation",
+    "standards organization",
+    "standards association",
+    "standards and metrology",
+    "standardisation and metrology",
+    "standardization and metrology",
+    "standards council",
+    "standards act",
+    "national standard",
+    "national standards",
+    "standards catalogue",
+    "standards catalog",
+    "catalogue of standards",
+    "compulsory standard",
+    "compulsory standards",
+    "national quality policy",
+    "quality infrastructure",
+    "certification body",
+    "certification bodies",
+    "accredited certification",
+    "certification mark",
+    "ISO/IEC 27001",
+    "ISO 27001",
+    "ISO/IEC 20000",
+    "ISO/IEC 25012",
+    "ISO 8000",
+    "organisme national de normalisation",
+    "organisme de normalisation",
+    "agence de normalisation",
+    "agence nationale de normalisation",
+    "institut de normalisation",
+    "institut national de normalisation",
+    "bureau de normalisation",
+    "bureau des normes",
+    "office de normalisation",
+    "conseil national de normalisation",
+    "normalisation et de la métrologie",
+    "normalisation et métrologie",
+    "norme nationale",
+    "normes nationales",
+    "catalogue des normes",
+    "politique nationale de la qualité",
+    "politique nationale qualité",
+    "infrastructure qualité",
+    "infrastructure de la qualité",
+    "organisme de certification",
+    "organismes de certification",
+    "instituto de normalização",
+    "instituto nacional de normalização",
+    "organismo nacional de normalização",
+    "normalização e qualidade",
+    "norma nacional",
+    "normas nacionais",
+    "catálogo de normas",
+    "política nacional da qualidade",
+    "infraestrutura da qualidade",
+    "infra-estrutura da qualidade",
+    "organismo de certificação",
+    "organismo nacional de normalización",
+    "normalización y calidad",
+    "política nacional de calidad",
+    "هيئة المواصفات",
+    "المواصفات والمقاييس",
+    "المواصفات والجودة",
+    "المواصفات القياسية",
+    "مواصفة قياسية",
+    "التقييس",
+    "السياسة الوطنية للجودة"
+  ],
+  "sub_indicators": [
+    {
+      "key": "standards",
+      "label": "National standards for information technology and data",
+      "subject": "gov.standards",
+      "text": "National quality standards: national standards for information technology and data",
+      "indicator_id": "gov.standards--national-quality-standards-national-standards-for-information-technology-and-data",
+      "class": "body"
+    }
+  ],
+  "classes": [
+    "body",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Standards body and its standards for information technology or data",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "published",
+        "body"
+      ],
+      "values": [
+        "published",
+        "body",
+        "none"
+      ]
+    },
+    {
+      "key": "certification",
+      "name": "Certification offered and a public body certified",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "public-body",
+        "offered"
+      ],
+      "values": [
+        "public-body",
+        "offered",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
