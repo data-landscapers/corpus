@@ -14,7 +14,7 @@ status: prepared 2026-10-13; waits for Bill to confirm the questions
 
 **How many of a country's people use the internet: a quarter, half, four in five, or nearly everyone.**
 
-**The figure** is the share of the whole population who used the internet in the last three months, as the International Telecommunication Union publishes it for each country, or as a national household survey or census gives it.
+**The figure** is the share of the whole population who used the internet in the last three months, as the International Telecommunication Union publishes it for each country, or as a national household survey or census gives it. **A government press statement that gives the share of people who use the internet counts as a survey** *(Bill, 2026-10-13)*.
 
 The study redraws `infra.connect--internet-usage`, which as at 2026-08-31 puts 15 countries at stage 1, 19 at stage 2, 17 at stage 3 and three at stage 4, with none at stage 5 and none unplaced. It touches no other row.
 
@@ -51,7 +51,7 @@ Asked in order. Each is answered with a date and a link.
 - **Three countries have no figure in the window**: Eritrea's latest is for 2020, South Sudan's for 2019 and Sudan's for 2017. They are *No evidence* unless a story read in the run gives one.
 - **The two lower lines are a quarter and a half, where the row as it stands uses 27 and 53 per cent**, thirds of the way to 80. On the held figures that moves Sierra Leone (25.1) and Lesotho (51.8) up a stage and no other country.
 - **An estimate by the International Telecommunication Union counts.** It is the latest figure for 45 of the 51; the summary says where a figure is an estimate and not a survey.
-- **A national survey or census figure for 2024 or later, where one is held, is used in place of an estimate**, and the newest survey in place of an older one.
+- **A national survey or census figure for 2024 or later, where one is held, is used in place of an estimate**, and the newest survey in place of an older one. A government press statement's figure is a survey figure where it is a share of people; one that counts subscriptions or lines is not.
 - **A fall is a fall**: the latest figure sets the stage, whatever an earlier one said.
 - **A regulator's or operator's count, DataReportal's figure, and a figure for adults only are noted and never used**, even for a country with nothing else. South Sudan's current cell rests on the regulator's count.
 
