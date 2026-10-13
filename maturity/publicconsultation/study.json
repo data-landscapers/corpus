@@ -1,0 +1,141 @@
+{
+  "id": "publicconsultation",
+  "study_file": "maturity-study-publicconsultation.md",
+  "subjects": [
+    "gov.discourse"
+  ],
+  "stage_topic": "gov.discourse",
+  "redraws": [
+    "gov.discourse--non-governmental-contribution-to-national-policy"
+  ],
+  "carry": [
+    "gov.discourse--non-governmental-contribution-to-national-policy"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 60000000,
+  "terms": [
+    "public consultation",
+    "public consultations",
+    "stakeholder consultation",
+    "stakeholder consultations",
+    "consultation paper",
+    "consultation document",
+    "consultation report",
+    "consultative paper",
+    "call for comments",
+    "call for input",
+    "call for inputs",
+    "call for submissions",
+    "invites comments",
+    "invited comments",
+    "public comment",
+    "public comments",
+    "written submissions",
+    "public hearing",
+    "public hearings",
+    "public participation",
+    "validation workshop",
+    "stakeholder validation",
+    "stakeholder engagement",
+    "multi-stakeholder",
+    "multistakeholder",
+    "advisory council",
+    "consultative council",
+    "consultative committee",
+    "consultative forum",
+    "Open Government Partnership",
+    "Internet Governance Forum",
+    "consultation publique",
+    "consultations publiques",
+    "consultation nationale",
+    "consultation des parties prenantes",
+    "appel à commentaires",
+    "appel à contributions",
+    "avis du public",
+    "audience publique",
+    "audiences publiques",
+    "atelier de validation",
+    "atelier national de validation",
+    "cadre de concertation",
+    "participation citoyenne",
+    "multipartite",
+    "multi-acteurs",
+    "conseil consultatif",
+    "comité consultatif",
+    "Partenariat pour un gouvernement ouvert",
+    "Forum sur la gouvernance de l'internet",
+    "consulta pública",
+    "consultas públicas",
+    "auscultação pública",
+    "audição pública",
+    "audiência pública",
+    "participação pública",
+    "conselho consultivo",
+    "Parceria para Governo Aberto",
+    "Fórum de Governação da Internet",
+    "audiencia pública",
+    "consejo consultivo",
+    "استشارة عمومية",
+    "الاستشارة العمومية",
+    "استشارة عامة",
+    "مشاورات عامة",
+    "التشاور العمومي",
+    "جلسة استماع",
+    "جلسات استماع",
+    "مجلس استشاري",
+    "المجلس الاستشاري",
+    "شراكة الحكومة المفتوحة",
+    "منتدى حوكمة الإنترنت"
+  ],
+  "sub_indicators": [
+    {
+      "key": "consultation",
+      "label": "Consultation on digital law and policy",
+      "subject": "gov.discourse",
+      "text": "Non-governmental contribution to national policy: consultation on digital law and policy",
+      "indicator_id": "gov.discourse--non-governmental-contribution-to-national-policy-consultation-on-digital-law-and-policy",
+      "class": "consultation"
+    }
+  ],
+  "classes": [
+    "consultation",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "hearing",
+      "name": "Consultation and what was published of it",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "answered",
+        "held"
+      ],
+      "values": [
+        "answered",
+        "held",
+        "none"
+      ]
+    },
+    {
+      "key": "standing",
+      "name": "Required consultation and standing body",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "body",
+        "required"
+      ],
+      "values": [
+        "body",
+        "required",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
