@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-26-credito-suplementar-275-milhoes-usd-mat-bdcm",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "A supplementary credit of USD 275 million in the OGE2026 was opened by the President for the Ministry of Territorial Administration, to fund the Action Plan for updating the Citizens' Database (BDCM, proof of life); the ministry had about Kz 209.2 billion budgeted.",
+      "as_of": "2026-02-26",
+      "date_precision": "day",
+      "system": "Plano de Acção para a Actualização da Base de Dados dos Cidadãos Maiores (OGE 2026 supplementary credit)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Base de Dados dos Cidadãos Maiores (BDCM)",
+      "country_label": "BDCM",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministério da Administração do Território",
+      "tiers": "national"
+    }
+  ],
+  "note": "Same story as 9; the date is the article's 26 Feb 2026, the decree's own date not being stated. The doubling is of the territorial ministry's allocation, so no rose fact."
+}

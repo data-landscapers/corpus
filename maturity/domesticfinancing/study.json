@@ -115,9 +115,17 @@
       "key": "financing",
       "label": "The state's own money for digital programmes",
       "subject": "finance.budget",
-      "text": "Sustainable domestic financing of digital transformation: the state's own money for digital programmes",
-      "indicator_id": "finance.budget--sustainable-domestic-financing-of-digital-transformation-the-states-own-money-for-digital-programmes",
-      "class": "financing"
+      "text": "Sustainable domestic financing of digital transformation: state money for digital programmes",
+      "indicator_id": "finance.budget--sustainable-domestic-financing-of-digital-transformation-state-money-for-digital-programmes",
+      "class": "financing",
+      "criteria": [
+        "A source from the past three years says the state budget gives no money to digital programmes, or that they are paid for wholly by donors and lenders.",
+        "In the past three years the state budget gave money to a digital ministry, a digital agency or a named digital programme. A line paid wholly by a loan or grant does not count.",
+        "That money was higher in the latest budget than in the one before, in the country's own currency and not adjusted for inflation. Lower or the same holds a country at stage 2, whatever else it has.",
+        "In the past three years a fund, levy or tax assigned by law to digital programmes was created, collected money or paid for a project, or the government put state money to a digital programme it had said the country must pay for itself. A fund abolished, or held only in an old law, does not count.",
+        "A budget execution report, settlement law, audited accounts or the fund's own account gives what was actually spent, for a year from 2024."
+      ],
+      "criteria_of": "9d21b17f6f94"
     }
   ],
   "classes": [

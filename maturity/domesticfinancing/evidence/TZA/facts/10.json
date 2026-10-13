@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-30-tz-hotuba-bajeti-mawasiliano-2026-27",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "The minister's budget speech says 1,653 of the 9,124 towers built by private operators to March 2026 were built in partnership with government through the Universal Communications Service Access Fund (UCSAF).",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "UCSAF",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF",
+   "country_label": "Universal Communications Service Access Fund (Mfuko wa Mawasiliano kwa Wote)",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Rural Communications Project Phase 10",
+   "country_label": "Mradi wa Mawasiliano Vijijini Awamu ya 10",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of ICT / UCSAF",
+   "tiers": ""
+  }
+ ],
+ "note": "Passages exclude the budget paragraphs 57-60; the 2026/27 amounts are not in this file. Contracts for 287 towers under Phase 10 are undated and the source of funds is not named, so no fact."
+}

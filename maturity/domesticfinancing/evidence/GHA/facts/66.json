@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-gha-pbb-2026-mocd-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 1,668,447,220 GHS to 35 digital line(s). Dated by the budget document.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 10 digital line(s) held in both years total 258,438,014 GHS for 2026 against 42,313,121 for 2025, +510.8 per cent; 35 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

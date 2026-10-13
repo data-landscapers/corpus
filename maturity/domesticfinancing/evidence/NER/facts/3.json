@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-31-ner-lfi-2026-josp-cahiers-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 11,615,369,252 XOF to 100 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 8 digital line(s) held in both years total 841,593,044 XOF for 2026 against 523,743,522 for 2025, +60.7 per cent; 100 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

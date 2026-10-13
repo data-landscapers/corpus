@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-26-ago-2026-mat-bdcm-prova-de-vida",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "A supplementary credit of USD 275 million in the OGE2026 was opened by the President for the Ministry of Territorial Administration, to fund the Action Plan for updating the Citizens' Database (BDCM, proof of life); the ministry had about Kz 209.2 billion budgeted.",
+      "as_of": "2026-02-26",
+      "date_precision": "day",
+      "system": "Plano de Acção para a Actualização da Base de Dados dos Cidadãos Maiores (OGE 2026 supplementary credit)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Base de Dados dos Cidadãos Maiores (BDCM)",
+      "country_label": "BDCM",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministério da Administração do Território",
+      "tiers": "national"
+    }
+  ],
+  "note": "Amount is a registry-update credit, not a digital ministry's budget; the funding source is unstated. Doubling refers to the territorial ministry's allocation, so no rose fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-namibia-national-data-centre-639m-ict-budget",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Ministry of Information and Communication Technology's 2026/27 budget is N$639.2 million (N$625.7 million operational, N$13.6 million development projects), as presented by its Acting Executive Director; no event date given, so the published date is used.", "as_of": "2026-08-06", "date_precision": "day", "system": "MICT budget 2026/27", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "No prior-year figure given, so no rose or fell fact."
+}

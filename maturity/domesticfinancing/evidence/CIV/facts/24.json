@@ -1,0 +1,11 @@
+{
+  "slug": "2023-12-18-civ-2024-356-22126",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2024 finance law (Loi n° 2023-1000 of 18 December 2023) appropriates FCFA 17,935,498,592 to programme 22126 'Economie numérique et poste' of the Ministry of Digital Transition and Digitalisation, a recurrent line met from the general domestic budget.", "as_of": "2023-12-18", "date_precision": "day", "system": "Programme 22126 Economie numérique et poste, Ministry of Digital Transition and Digitalisation, FY2024 budget", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The 2024 settlement law records FCFA 23,434,278,284 spent in 2024 on programme 22126 of the Ministry's own budget line, 99.99% of a revised FCFA 23,437,413,869 and 130.66% of the FCFA 17,935,498,592 voted; the ministry's line only, no fund collections given.", "as_of": "2024", "date_precision": "year", "system": "Programme 22126 Economie numérique et poste, Ministry of Digital Transition and Digitalisation, FY2024 outturn", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Programme 22126 Economie numérique et poste", "country_label": "Programme 22126, section 356", "class": "financing", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national"}
+  ],
+  "note": ""
+}

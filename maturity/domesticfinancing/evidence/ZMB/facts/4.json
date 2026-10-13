@@ -1,0 +1,17 @@
+{
+  "slug": "2025-08-08-zmb-supplementary-appropriation-2025-act-9-companion",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Supplementary Appropriation (2025) Act (Act No. 9, assented 8 August 2025) adds, per its catalogue line, K162m for Smart Zambia e-government and K194.3m for ICT development for 2025; the schedule figures themselves are not on the page.",
+      "as_of": "2025-08-08",
+      "date_precision": "day",
+      "system": "Smart Zambia e-government and ICT development programmes, 2025 supplementary appropriation",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Companion page; supplementary amounts only, figures from catalogue line, no comparison or spending."
+}

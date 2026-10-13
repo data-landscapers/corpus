@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-24-budget-2026-zero-cash-zero-papier-fen",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFIP", "country_label": "Systeme integre de gestion des finances publiques", "class": "other", "platform": "", "owner": "State public finance administration", "tiers": "central state; territorial anchoring of budget management"},
+    {"system": "FEN", "country_label": "Facturation electronique normalisee", "class": "other", "platform": "", "owner": "Tax administration", "tiers": ""}
+  ],
+  "note": "The 2026 budget story covers zero-cash, e-invoicing and SIGFIP reform and gives no digital budget amount, fund, levy or own-resource commitment."
+}

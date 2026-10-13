@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-23-cmr-2025-45-132",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2025 finance law appropriates FCFA 1,037,044,000 for programme 132 Sécurisation de l'écosystème national du numérique under the Ministry of Posts and Telecommunications, financed from domestic revenue; the July 2025 ordinance left it unchanged.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Programme 132 Sécurisation de l'écosystème national du numérique, 2025 budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme 132 Sécurisation de l'écosystème national du numérique, 2025 budget",
+   "country_label": "Sécurisation de l'écosystème national du numérique",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": "national"
+  }
+ ],
+ "note": "Only one budget year given; no comparison, no spent figure."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-18-civ-loi-de-finances-2024-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 55,081,627,174 XOF is published as actually spent on digital lines for Exercice 2024. Dated by the document that gives the figure.",
+   "as_of": "2023-12-18",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

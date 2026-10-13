@@ -1,0 +1,40 @@
+{
+  "slug": "2026-02-25-zaf-2026-vote-30-p4-digital-postal-access",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 Estimates of National Expenditure appropriate R767.2m for 2026/27 to Vote 30's Digital Communication, Access and Services programme (Digital and Postal Access and Services subprogramme); R595.5m of it is the Post Office postal universal-service subsidy and R146.0m goes to the universal service and access bodies.",
+      "as_of": "2026-02-25",
+      "date_precision": "day",
+      "system": "Vote 30 Digital and Postal Access and Services, 2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The same subprogramme rises from R742.9m (2025/26 adjusted) to R767.2m (2026/27), and to R801.1m and R833.3m in the two years after; the line includes the R595.5m postal subsidy.",
+      "as_of": "2026-02-25",
+      "date_precision": "day",
+      "system": "Vote 30 Digital and Postal Access and Services, 2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026/27 estimates name a transfer of R57.209m to the Universal Service and Access Fund and R88.793m to the Universal Service and Access Agency of South Africa, from the National Revenue Fund; the fund's broadcasting digital migration window is appropriated nil for 2026/27 and across the MTEF, against R59.4m in 2022/23.",
+      "as_of": "2026-02-25",
+      "date_precision": "day",
+      "system": "Universal Service and Access Fund, 2026/27 transfer",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {"system": "Universal Service and Access Fund", "country_label": "Universal Service and Access Fund (USAF)", "class": "financing", "platform": "", "owner": "Universal Service and Access Agency of South Africa", "tiers": "national"},
+    {"system": "Universal Service and Access Agency of South Africa", "country_label": "USAASA", "class": "financing", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"}
+  ],
+  "note": ""
+}

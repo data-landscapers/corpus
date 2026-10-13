@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-01-gha-2026-026-02602",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Appropriation (No. 2) Act, 2025 (Act 1163) appropriates GHS 100,000,000 for the ICT Capacity Development programme (02602) of the Ministry of Communication, Digital Technology and Innovations for 2026, wholly from domestic revenue (goods and services 60m, capital 40m).",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "ICT Capacity Development programme (02602), Ministry of Communication, Digital Technology and Innovations, 2026 budget",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ICT Capacity Development programme (02602)",
+      "country_label": "ICT Capacity Development",
+      "class": "financing",
+      "platform": "",
+      "owner": "Ministry of Communication, Digital Technology and Innovations",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

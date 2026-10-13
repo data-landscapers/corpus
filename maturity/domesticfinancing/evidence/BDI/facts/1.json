@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-01-bdi-2026-fsu-connectivite-institutions",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Fonds de Service Universel des TIC's revised procurement plan for FY2026/27 (1 July 2026 to 30 June 2027) lists seven IP-transit connectivity lines for health facilities, secondary schools and community telecentres totalling BIF 11,400,288,125; the document is the fund's plan, published by the finance ministry, not the state budget law.", "as_of": "2026-07", "date_precision": "month", "system": "Fonds de Service Universel des TIC (FSU), IP-transit connectivity lines, FY2026/27", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Fonds de Service Universel des TIC, funded by a 1% levy on operators' turnover, is shown paying for projects in its revised FY2026/27 plan: IP-transit connectivity for 25 then 75 public health facilities, 25 then 75 public secondary schools and community telecentres, BIF 11.4 billion in all; the document does not cite the decree that set the fund up.", "as_of": "2026-07", "date_precision": "month", "system": "Fonds de Service Universel des TIC (FSU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fonds de Service Universel des TIC (FSU)", "country_label": "FSU-TIC", "class": "financing", "platform": "", "owner": "Burundi state (levy fund, 1% of operators' turnover)", "tiers": "health facilities, secondary schools, community telecentres"}
+  ],
+  "note": ""
+}

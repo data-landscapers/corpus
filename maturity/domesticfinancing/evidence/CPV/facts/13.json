@@ -1,0 +1,47 @@
+{
+ "slug": "2025-09-30-cpv-conta-geral-do-estado-2024-source",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The 2024 final account (Conta Geral do Estado, unaudited) shows the Ministério da Economia Digital spent CVE 489,920,474 of a reprogrammed CVE 1,483,485,681 (33.0%), with investment at zero of CVE 553,090,000; the ministry's own line, not a fund's.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Ministério da Economia Digital, 2024 budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The initial 2024 budget for the Ministério da Economia Digital was CVE 1,390,965,632 (Mapa III).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Ministério da Economia Digital, 2024 budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The 2024 account (Mapa VII) shows the Cabo Verde Plataforma Digital e da Inovação programme spent CVE 834,053,385 of CVE 1,932,225,900 (43.2%), of which CVE 368,439,563 from the treasury; the programme's own line.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cabo Verde Plataforma Digital e da Inovação programme, 2024",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The 2024 account (Mapa VII) shows the Sistema de Informação para o Desenvolvimento Sustentável programme spent CVE 486,453,051 of CVE 4,974,474,263 (9.8%), of which CVE 243,405,114 from the treasury; scope as a digital line is partial.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Sistema de Informação para o Desenvolvimento Sustentável programme, 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "The 2024 account is unaudited per the document."
+}

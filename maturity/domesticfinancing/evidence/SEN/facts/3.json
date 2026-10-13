@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-03-fdsut-programme-acces-numerique-universel-panu",
+  "facts": [],
+  "systems": [
+    {"system": "PANU (Programme d'Accès Numérique Universel)", "country_label": "PANU", "class": "financing", "platform": "", "owner": "FDSUT", "tiers": ""},
+    {"system": "FDSUT (Fonds de développement du service universel des télécommunications)", "country_label": "FDSUT", "class": "financing", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The FDSUT page sets PANU targets to 2028 but states no amount, source of money or payment; no fact."
+}

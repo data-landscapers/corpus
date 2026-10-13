@@ -1,0 +1,11 @@
+# Tanzania
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The Prime Minister said the government [allocated more than 132 billion shillings in 2026/27 to the National Identification Authority for development projects](<https://dailynews.co.tz/unclaimed-ids-law-in-offing/>). The Ministry of Communication and Information Technology's [2026/27 proposal of 222,589,451,000 shillings is 23.6 per cent below the 291,533,139,000 approved for 2025/26](<https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf>), with domestic development money unchanged at 98,480,905,000. The [digital lines held for both years total 429,376,230,416 shillings for 2026/27 against 398,020,452,091 for 2025/26](<https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf>), 7.9 per cent higher. [545,314,926,071 shillings is published as spent on digital lines for 2024/25](<https://www.mof.go.tz/uploads/documents/en-1724654990-Vol%20IV%20Development%20Expenditure%20As%20Passed%202024_25-2.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** The Universal Communications Service Access Fund [paid 71 billion of the 126 billion shillings cost of the 758-tower rural project](<https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/>). Its chief executive said on 5 October 2026 that it [will build 250 school computer laboratories this financial year and has paid for 2,166 towers](<https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools>).
+
+***Noted, not assessed***. [The National ICT Broadband Backbone](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [ICT startup financing via NMB Bank](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [the 758-tower project](<https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/>).
+
+***Not held***. The ministry's own budget was lower in the latest year than the one before; nothing held shows it rose.

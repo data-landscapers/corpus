@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-06-gnq-lpge-2024-ley-3-2023-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 5,132,000,000 XAF is published as actually spent on digital lines for Ejercicio 2024. Dated by the document that gives the figure.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "State budget, Ejercicio 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

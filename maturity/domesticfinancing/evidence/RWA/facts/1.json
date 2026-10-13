@@ -1,0 +1,10 @@
+{
+  "slug": "2020-07-01-rwa-uaf-2020-universal-access-fund",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "RURA's annual report 2020-2021 shows Rwanda's Universal Access and Service Fund, set up by Presidential Order n. 05/01 of 15/03/2004 and paid for by public operators' contributions, collected Frw 5,301,355,698 and spent Frw 3,828,837,334 in FY2020/21, 91% of it on telecommunications towers in underserved areas.", "as_of": "2021-06-30", "date_precision": "day", "system": "Universal Access and Service Fund (UAF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access and Service Fund (UAF)", "country_label": "Universal Access and Service Fund", "class": "financing", "platform": "", "owner": "Rwanda Utilities Regulatory Authority (RURA)", "tiers": ""}
+  ],
+  "note": "Budget (Frw 6,372,536,516) and spent figures are for FY2020/21, before 2024, so no allocated or spent fact; the fund's own account gives both collections and spending."
+}

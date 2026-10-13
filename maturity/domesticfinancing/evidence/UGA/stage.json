@@ -1,0 +1,16 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "5",
+   "budget": "spent",
+   "commitment": "acted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-011;UGA-002;UGA-003;UGA-010",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

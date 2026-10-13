@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-24-mtn-ucusaf-contribution",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "UCC says licensed operators must pay 2% of annual gross revenue into the Uganda Communications Universal Service and Access Fund (UCUSAF), and on 23 June 2026 MTN Uganda handed UCC a cheque for UGX 54.27 billion, up from UGX 50.55 billion in 2025; UCC says half goes to the Consolidated Fund and the balance retained by UCC supports UCUSAF; the document gives no spending figure and does not name the Act's section.",
+     "as_of": "2026-06-23", "date_precision": "day", "system": "Uganda Communications Universal Service and Access Fund (UCUSAF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Uganda Communications Universal Service and Access Fund (UCUSAF)", "country_label": "UCUSAF", "class": "financing", "platform": "", "owner": "Uganda Communications Commission", "tiers": ""}
+  ],
+  "note": ""
+}

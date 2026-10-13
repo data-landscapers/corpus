@@ -1,0 +1,27 @@
+{
+  "slug": "2025-12-19-civ-2026-356-23237",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 finance law appropriates FCFA 33,000,000,000 for programme 23237 Appui au Développement des nouvelles technologies en zones rurales of the Ministry of Digital Transition and Digitalisation (section 356), own-source funding.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "Programme 23237, FY2026",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "Programme 23237 is a compte d'affectation spécial funded by an earmarked levy on telecom operators; the 2026 finance law appropriates FCFA 33,000,000,000 to rural technology support. The FY2025 programme was titled as a tax for digital development; the enabling law is not named.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "Telecom operators' levy, programme 23237",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "The page does not state whether the funding mechanism changed with the 2026 renaming; no rose or fell fact as FY2025 amount is not given."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-ago-2025-minttics-expansao-modernizacao-comunicacoes",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The state budget (OGE) 2025 sets Kz 229.3 billion (about USD 248.8 million) for the programme 'Expansao e Modernizacao das Comunicacoes' of the telecommunications and ICT ministry (MINTTICS); the record dates the budget to 2025-01 as the source gives no enactment date.", "as_of": "2025-01", "date_precision": "month", "system": "Programa Expansao e Modernizacao das Comunicacoes, OGE 2025", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The OGE 2026 proposal puts the same programme at Kz 159.2 billion (about USD 172.6 million), including Kz 107.8 billion for 4G expansion and Kz 70.5 billion for the cybersecurity index; the document gives no date for the proposal and is published 2025-01-01 by its record, as_of is the budget year 2026.", "as_of": "2026", "date_precision": "year", "system": "Programa Expansao e Modernizacao das Comunicacoes, OGE 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The programme falls 30.5% from Kz 229.3 billion in the 2025 budget to Kz 159.2 billion in the 2026 budget (OGE 2026 proposal), as the source reports.", "as_of": "2026", "date_precision": "year", "system": "Programa Expansao e Modernizacao das Comunicacoes, OGE 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The document's notes report, from the same source, the programme at Kz 7.4 billion in the 2024 budget and Kz 229.3 billion in the 2025 budget, a rise between those two budget years; the 2024 figure is a single comparative clause.", "as_of": "2025", "date_precision": "year", "system": "Programa Expansao e Modernizacao das Comunicacoes, OGE 2025", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Programa Expansao e Modernizacao das Comunicacoes", "country_label": "Programa de Expansao e Modernizacao das Comunicacoes", "class": "financing", "platform": "", "owner": "Ministerio das Telecomunicacoes, Tecnologias de Informacao e Comunicacao Social (MINTTICS)", "tiers": "national"}
+  ],
+  "note": "Funding source of the line is unstated; the record flags a possible overlap with China Eximbank-financed broadband but no source says the line is wholly loan-paid, so it stays allocated."
+}

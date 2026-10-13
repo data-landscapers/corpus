@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-09-ben-note-de-presentation-plfr-2026",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 budget execution table in the PLFR note gives programme 111 Numerique credits (CP) of 12,372,151,413 FCFA and programme 100 Pilotage et soutien aux services du MND credits of 2,184,235,167 FCFA; the 111 capital line includes a 6,500,000,000 FCFA external loan tranche, so the line is part-paid by a loan.", "as_of": "2026-04-30", "date_precision": "day", "system": "Programme 111 Numerique and Programme 100, Ministry of Digital (MND) budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "Budget execution to 30 April 2026 shows programme 111 Numerique had ordonnance 77,247,968 FCFA of 12,372,151,413 FCFA (0.62%) and programme 100 had ordonnance 439,474,918 FCFA of 2,184,235,167 FCFA (20.12%); these are ordered payments, not paid amounts, and the ministry's line only.", "as_of": "2026-04-30", "date_precision": "day", "system": "Programme 111 Numerique and Programme 100, Ministry of Digital (MND) execution 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Section 035 proposed increase (+11.7%) compares the same year's initial and proposed credits, so no rose fact; a bill not yet passed at this date."
+}

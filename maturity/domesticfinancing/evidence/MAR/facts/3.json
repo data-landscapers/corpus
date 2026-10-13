@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-16-mar-lf-2026-loi-50-25-bo-7465-bis-ar-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 2,263,927,000 MAD to 4 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 4 digital line(s) held in both years total 2,263,927,000 MAD for 2026 against 2,463,927,000 for 2025, -8.1 per cent; 4 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-12-16",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

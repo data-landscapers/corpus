@@ -1,0 +1,10 @@
+{
+  "slug": "2015-09-01-liberia-lta-universal-access-fund-regulations-reg-0006",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Liberia Telecommunications Authority issued Regulations LTA-REG-0006 on 10 September 2015, under sections 22 and 23 of the Telecommunications Act 2007, creating the Universal Access Fund with a bank account and a board, and setting licensee contributions at 0.5 per cent of annual gross revenues for its first year; this is the creating regulation, with no collections or payments stated.", "as_of": "2015-09-10", "date_precision": "day", "system": "Universal Access Fund", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access Fund", "country_label": "Universal Access Fund", "class": "financing", "platform": "escrow bank account", "owner": "Liberia Telecommunications Authority", "tiers": ""}
+  ],
+  "note": "The regulations also allow national budget allocations as extraordinary contributions and require annual legislative approval of the fund budget and audited accounts, but state no amount, year, or spending, so no budget fact."
+}

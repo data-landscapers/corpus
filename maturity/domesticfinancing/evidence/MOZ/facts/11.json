@@ -1,0 +1,26 @@
+{
+  "slug": "2025-05-16-mocambique-decreto-11-2025-regulamento-fundo-servico-acesso-universal",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "Decree 11/2025 of 16 May 2025 (Council of Ministers, approved 22 April 2025) approves a new regulation of the Universal Access Service Fund (FSAU), repealing Decree 62/2017, and fixes the levy at 1% of each licensed telecom operator's prior-year gross revenue, with the money applied to rural infrastructure (up to 55%), digital inclusion, broadcasting, running costs and innovation; it also assigns 60% of fines under the regulation to the fund and names state budget allocations as a revenue source, but states no amount collected or paid out.",
+      "as_of": "2025-05-16",
+      "date_precision": "day",
+      "system": "Fundo do Serviço de Acesso Universal (FSAU)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fundo do Serviço de Acesso Universal (FSAU)",
+      "country_label": "Fundo do Serviço de Acesso Universal",
+      "class": "financing",
+      "platform": "",
+      "owner": "INCM, the communications regulator (autonomous fund under its board)",
+      "tiers": ""
+    }
+  ],
+  "note": "Decree gives no budget amount, no collected or spent figure and no rise or fall; a rule that state budget allocations may be a fund revenue is not an amount, so no allocated fact."
+}

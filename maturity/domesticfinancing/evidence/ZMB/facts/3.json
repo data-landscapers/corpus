@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-23-zmb-appropriation-act-2025-act-28-companion",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Appropriation Act, 2025 (Act No. 28, assented 23 December 2025) authorises expenditure for 2026; its catalogue line gives Smart Zambia e-government K1.15bn, ICT development K566.8m and legal identity K325.5m, the schedule figures themselves not being on the page.",
+      "as_of": "2025-12-23",
+      "date_precision": "day",
+      "system": "Smart Zambia e-government and ICT development programmes, 2026 appropriation",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Companion page; figures come only from its catalogue line, no prior-year figure in this document so no rose or fell, no spending."
+}

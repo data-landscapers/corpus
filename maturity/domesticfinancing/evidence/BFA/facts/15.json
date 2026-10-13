@@ -1,0 +1,17 @@
+{
+  "slug": "2024-12-23-bfa-2025-31-095",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi n°042-2024/ALT of 23 December 2024 (2025 finance law) appropriates 1,245,357,000 F CFA of domestic payment credits (1,000,000,000 capital, 245,357,000 recurrent) to programme 095, Développement d'infrastructures de communications électroniques, of the Ministry of Digital Transition, covering the government backbone, broadband access and the PACTDIGITAL project; counterpart funding is excluded from the figure.",
+      "as_of": "2024-12-23",
+      "date_precision": "day",
+      "system": "Programme 095 Développement d'infrastructures de communications électroniques, budget 2025",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

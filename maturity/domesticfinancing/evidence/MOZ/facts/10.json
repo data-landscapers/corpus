@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-mocambique-lei-13-2026-seguranca-cibernetica-lei-14-2026-crimes-ciberneticos",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "Lei n.º 13/2026 (Boletim da República of 1 July 2026) creates the Cyber Security Fund at articles 67-71, funded by a flat 1% of prior-year gross revenue of licensed cybersecurity service providers plus state appropriations and donations; operating rules are not yet made, and no collection or payment is stated.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Fundo de Segurança Cibernética",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fundo de Segurança Cibernética",
+   "country_label": "Fundo de Segurança Cibernética",
+   "class": "financing",
+   "platform": "",
+   "owner": "Autoridade Nacional de Segurança Cibernética",
+   "tiers": "national"
+  }
+ ],
+ "note": "Fund assigned by law to cybersecurity, a digital programme; created but not yet shown collecting or paying."
+}

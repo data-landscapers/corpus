@@ -1,0 +1,17 @@
+{
+  "slug": "2026-01-01-sen-2026-digital-ministry-investment",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Senegal's 2026 Digital Ministry budget was set at CFA 81.06bn, of which CFA 58.2bn (about 60%) goes to investment in digital and telecom projects; the document gives no date for the event, so its published date 2026-01 is used.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Digital Ministry budget 2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-31-cpv-lei-35-x-2023-orcamento-do-estado-2024-source",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Lei n.º 35/X/2023 (state budget 2024) sets the vote of the Ministério da Economia Digital at CVE 1,390,965,632, 1.62% of state expenditure of CVE 85,948,752,206.", "as_of": "2023-12-31", "date_precision": "day", "system": "Ministério da Economia Digital vote, budget year 2024", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Mapa VII of the 2024 budget law gives the programme Cabo Verde Plataforma Digital e da Inovação CVE 550,184,541 from the Treasury and CVE 18,000,000 from other national sources (CVE 568,184,541 of the state's own money) within a total of CVE 1,828,303,885, the rest being a CVE 1,239,119,344 external loan and a CVE 21,000,000 grant.", "as_of": "2023-12-31", "date_precision": "day", "system": "Cabo Verde Plataforma Digital e da Inovação, budget year 2024", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Part-loan-funded programme line counts as allocated because CVE 568m is domestic; CNPD and Modernização do Estado lines not taken as digital programmes; document says the FY2024 law carries no universal-service table."
+}

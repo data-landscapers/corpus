@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-27-bfa-2026-31-136",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (loi n°021-2025/ALT of 27 December 2025) appropriates XOF 1,916,611,000 in domestic payment credits to programme 136, Digital transformation and ecosystem, of the digital ministry (MTD-PCE), covering e-government, the WURI identity programme, the ANSSI and digital entrepreneurship; the figure is a floor, as counterpart funding is not apportioned.", "as_of": "2025-12-27", "date_precision": "day", "system": "MTD-PCE programme 136, Transformation et écosystème numérique, budget year 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Programme WURI", "country_label": "Programme WURI", "class": "", "platform": "", "owner": "MTD-PCE", "tiers": "national"}
+  ],
+  "note": "Only one budget year (2026) is given, so no rose or fell fact."
+}

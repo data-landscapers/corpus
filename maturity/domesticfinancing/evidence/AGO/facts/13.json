@@ -1,0 +1,44 @@
+{
+  "slug": "2025-11-06-ago-oge-2026-ciberseguranca-32bn",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The proposed OGE 2026 sets Kz 32.3bn (about USD 35m) for the programme to improve Angola's Global Cybersecurity Index position, within the Kz 159.2bn communications programme; proposal stage, not yet enacted.",
+      "as_of": "2025-11-06",
+      "date_precision": "day",
+      "system": "Programa de melhoria da posição no Índice Global de Cibersegurança (proposta OGE 2026)",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The cybersecurity programme is cut 54%, from Kz 70.5bn in the 2025 budget to Kz 32.3bn in the proposed 2026 budget.",
+      "as_of": "2025-11-06",
+      "date_precision": "day",
+      "system": "Programa de melhoria da posição no Índice Global de Cibersegurança (proposta OGE 2026)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Programa de melhoria da posição no Índice Global de Cibersegurança",
+      "country_label": "melhoria da posição no Índice Global de Cibersegurança",
+      "class": "financing",
+      "platform": "",
+      "owner": "MINTTICS (within the communications programme)",
+      "tiers": "national"
+    },
+    {
+      "system": "Programa Expansão e Modernização das Comunicações",
+      "country_label": "Programa de Expansão e Modernização das Comunicações",
+      "class": "financing",
+      "platform": "",
+      "owner": "MINTTICS (budget from Ministério das Finanças)",
+      "tiers": "national"
+    }
+  ],
+  "note": "Figures are from the budget proposal, not the enacted law."
+}

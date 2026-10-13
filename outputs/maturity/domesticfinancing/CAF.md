@@ -1,0 +1,11 @@
+# Central African Republic
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The digital lines held for both years total [4,384,800,000 CFA francs for 2026 against 3,804,800,000 for 2025, up 15.2 per cent](<http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf>). The 2026 budget holds [51 digital lines worth 5,881,925,000 CFA francs](<http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf>). The 2026 draft proposes [300,000,000 CFA francs from domestic financing for urban optical fibre loops](<http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf>), and the 2025 finance bill carried [1,400,000,000 CFA francs of domestic money in support of the regulator ARCEP](<http://www.finances.gouv.cf/sites/default/files/2024-12/3-%20PLF2025%2004%2012%202024.pdf>). It also proposes [118 million CFA francs, financed domestically, for six months of 2024 salary arrears at the state's digital development agency](<http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** The nearest held fact is the 2026 budget's [51 digital lines, 5,881,925,000 CFA francs in all](<http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf>).
+
+***Noted, not assessed***. [The universal service fund (Fonds de service universel)](<https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026>); [the ARCEP 2026 draft budget](<https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026>); [the SydoniaWorld customs software line](<http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf>).
+
+***Not held***. No fund, levy or assigned tax is shown created, collecting or paying, and no pledge to pay for digital programmes at home is shown with an act following it.

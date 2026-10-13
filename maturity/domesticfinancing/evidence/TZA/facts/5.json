@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The article reports that the UCSAF tower project launched in April 2026 covers all 26 mainland regions with construction in about 1,400 villages across 688 wards, and that Airtel Tanzania signed a Phase 10 agreement with the fund to extend rural coverage.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "UCSAF",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Universal Communications Service Access Fund (UCSAF)",
+      "country_label": "Mfuko wa Mawasiliano kwa Wote (UCSAF)",
+      "class": "financing",
+      "platform": "",
+      "owner": "Government of Tanzania (Ministry of Communication and Information Technology)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

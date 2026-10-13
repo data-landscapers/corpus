@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-08-lbr-national-budget-fy2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for FY2026 gives 12,464,422 USD to 14 digital line(s). Dated by the budget document.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "State budget, FY2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

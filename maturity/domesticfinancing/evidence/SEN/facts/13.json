@@ -1,0 +1,27 @@
+{
+  "slug": "2024-01-01-sen-2024-mctn-economie-numerique",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2024 finance law (Loi 2023-18 of 15 December 2023) gave the digital economy sector of the Ministry of Communication, Telecommunications and Digital CFA 16.1bn, within a CFA 42.7bn ministry envelope.",
+      "as_of": "2023-12-15",
+      "date_precision": "day",
+      "system": "MCTN secteur Économie Numérique, LFI 2024",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The digital economy sector's budget rose 93.2% from CFA 16.1bn in 2024 to CFA 31.1bn in 2025, per committee reporting of 17 December 2024.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "MCTN secteur Économie Numérique, budget 2025",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "3",
+   "budget": "spent",
+   "commitment": "abolished",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-004;MRT-003",
+   "gaps": "The fund or levy that paid for digital programmes was abolished, repealed or moved to the general treasury, and nothing held replaces it.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

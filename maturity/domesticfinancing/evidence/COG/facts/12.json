@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-30-cog-2025-cst-fonction-bancaire-tresor",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Loi n° 47-2024 of 30 December 2024 sets a ceiling of XAF 2,810,000,000 for 2025 on special Treasury account n° 14, the fund for operationalising the Treasury's banking function, which finances the action plan for the Treasury's digital platform run by or for the state systems agency ACSI.", "as_of": "2024-12-30", "date_precision": "day", "system": "Fonds pour l'opérationnalisation de la fonction bancaire du Trésor public, 2025 budget", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "The account was created by Loi n° 39-2023; no collection or payment is shown, so no acted fact; the document gives no prior-year comparison."
+}

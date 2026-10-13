@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-23-cmr-2025-37-026",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2025 finance law appropriates FCFA 1,567,500,000 for programme 026 Modernisation du cadastre (national digital cadastre) under the Ministry of State Property, Surveys and Land Tenure, financed from domestic revenue; the bill figure is the same.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Programme 026 Modernisation du cadastre, 2025 budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme 026 Modernisation du cadastre, 2025 budget",
+   "country_label": "Modernisation du cadastre",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of State Property, Surveys and Land Tenure",
+   "tiers": "national"
+  }
+ ],
+ "note": "Only one year given; no comparison, no spent figure."
+}

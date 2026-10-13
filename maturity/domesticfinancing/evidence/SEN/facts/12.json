@@ -1,0 +1,37 @@
+{
+  "slug": "2024-12-20-digitalbusinessafrica-mctn-budget-2025-vs-2024",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Assembly finance committee adopted a 2025 budget of CFA 31.1bn for the digital sector of the Ministry of Communication, Telecommunications and Digital on 17 December 2024.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "MCTN secteur du numérique, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The digital sector's budget rose 93.2% from CFA 16.1bn in 2024 to CFA 31.1bn in 2025.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "MCTN secteur du numérique, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The whole ministry's budget rose 36.8% from CFA 42.7bn in 2024 to CFA 58.4bn in 2025.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "MCTN budget 2025",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

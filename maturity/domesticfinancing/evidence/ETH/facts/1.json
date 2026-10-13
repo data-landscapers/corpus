@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-07-eth-2026-144",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026/27 (EFY 2019) federal budget proclamation workbook appropriates ETB 6,293,131,040 to the Artificial Intelligence Institution (recurrent 693,131,040, capital 5,600,000,000), all from the treasury.",
+      "as_of": "2026-07-07",
+      "date_precision": "day",
+      "system": "Artificial Intelligence Institution budget 2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The same workbook appropriates ETB 5,000,000,000 to the project Artificial Intelligence University Construction, entirely from treasury with no loan or assistance.",
+      "as_of": "2026-07-07",
+      "date_precision": "day",
+      "system": "Artificial Intelligence University Construction project 2026/27",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Artificial Intelligence Institution",
+      "country_label": "Artificial Intelligence Institution",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": "national"
+    }
+  ],
+  "note": "Document also gives EFY 2017 capital (ETB 400m) but not for consecutive years, so no rose/fell fact."
+}

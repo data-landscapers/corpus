@@ -1,0 +1,16 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "2",
+   "budget": "spent",
+   "commitment": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-001;GNQ-002",
+   "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

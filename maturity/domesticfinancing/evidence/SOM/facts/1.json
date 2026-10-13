@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-29-som-sharciga-miisaaniyadda-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 6,247,842 USD to 13 digital line(s). Dated by the budget document.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 2 digital line(s) held in both years total 2,312,240 USD for 2026 against 2,187,720 for 2025, +5.7 per cent; 13 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

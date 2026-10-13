@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-18-civ-2025-356-23237",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2025 finance law (Loi de Finances 2024-1109 of 18 December 2024) appropriates FCFA 35,300,000,000 to programme 23237, the levy for developing new technologies in rural areas (ANSUT), in the digital ministry's section 356 for budget year 2025.", "as_of": "2024-12-18", "date_precision": "day", "system": "Programme 23237 Taxe pour le Développement des nouvelles technologies en zones rurales (ANSUT), FY2025", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The programme is an earmarked special account (compte d'affectation spéciale) funded by a levy on telecom operators and assigned to rural digital development; the 2025 finance law appropriates FCFA 35.3 billion to it as its own programme for the first year (in 2024 it sat inside programme 23209 with the regulation levy). The document shows an appropriation, not money collected or a project paid.", "as_of": "2024-12-18", "date_precision": "day", "system": "Taxe pour le Développement des nouvelles technologies en zones rurales (ANSUT)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Taxe pour le Développement des nouvelles technologies en zones rurales (ANSUT)", "country_label": "Programme 23237", "class": "financing", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation / ANSUT", "tiers": "national"}
+  ],
+  "note": ""
+}

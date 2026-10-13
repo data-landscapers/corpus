@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-06-cran-integrated-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "CRAN's report for the year to 31 March 2024 records a commitment of N$115 million over three years from the Government of Namibia to build towers in unserved areas under the universal service regulations.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund (Namibia)",
+   "country_label": "Universal Service Fund (Namibia)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": "Fund was not yet operational (operationalisation a 2025 focus); no act or statement of own-resource payment, no figures spent."
+}

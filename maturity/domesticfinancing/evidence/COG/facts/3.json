@@ -1,0 +1,26 @@
+{
+  "slug": "2023-12-29-cog-2024-cst-fasuce",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2024 finance law (Loi n° 39-2023 of 29 December 2023 (2024 finance law), special account no. 9) appropriates FCFA 1,000,000,000 to the special treasury account for the universal access and service fund for electronic communications, all as transfer spending. The account is fed by contributions to the universal electronic-communications service fund and pays for coverage of uncovered zones.",
+      "as_of": "2023-12-29",
+      "date_precision": "day",
+      "system": "Fonds pour l'accès et le service universel des communications électroniques (2024 budget)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fonds pour l'accès et le service universel des communications électroniques",
+      "country_label": "FASUCE",
+      "class": "financing",
+      "platform": "",
+      "owner": "Government of Congo (special treasury account)",
+      "tiers": ""
+    }
+  ],
+  "note": "Only one budget year is given, so no rose or fell; an appropriation is not a collected or spent amount, so no acted or spent fact."
+}

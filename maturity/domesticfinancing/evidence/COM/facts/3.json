@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-16-com-2026-09-0902",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (decree 26-003/PR of 16 January 2026) appropriates KMF 114 001 360 to the Secrétariat Général (service 09 0902) of the Ministry of Posts, Telecommunications and Digital Economy, including a KMF 50 000 000 investment line paid by the state with no donor share.", "as_of": "2026-01-16", "date_precision": "day", "system": "Ministère des Postes, des Télécommunications et de l'Économie Numérique, Secrétariat Général budget, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The service rose from KMF 17 546 005 in the 2025 rectificative finance law to KMF 114 001 360 in the 2026 finance law (budget years 2025 and 2026), about 6.5 times; the document says the digital spend in the service is not separable.", "as_of": "2026-01-16", "date_precision": "day", "system": "Ministère des Postes, des Télécommunications et de l'Économie Numérique, Secrétariat Général budget, 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

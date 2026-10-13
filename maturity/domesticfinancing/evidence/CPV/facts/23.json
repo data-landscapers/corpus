@@ -1,0 +1,10 @@
+{
+  "slug": "2023-09-29-cpv-anexo-informativo-oe-2024-receitas-consignadas-source",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Anexo Informativo tabled with the 2024 budget bill (receitas consignadas, framework law 55/IX/2019 art. 36 h) assigns the operators' contribution and the radio-spectrum charge to the universal-service fund FUSI, with counterpart spending of CVE 122,073,633 for 2024, a proposed-stage figure not reprinted in the enacted law.", "as_of": "2023-09-29", "date_precision": "day", "system": "Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação Civil (SNIAC)", "country_label": "SNIAC", "class": "other", "platform": "", "owner": "Ministério da Justiça", "tiers": "national"}
+  ],
+  "note": "FUSI figure is proposed-stage for 2024; the document does not name the decree setting up the fund; SNIAC (identity fee) and Casa do Cidadão (service fee) are earmarked fees for other systems and give no fact."
+}

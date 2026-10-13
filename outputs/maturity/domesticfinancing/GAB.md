@@ -1,0 +1,11 @@
+# Gabon
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** In the 2026 budget, the digital lines held for both years total [25,152,318,272 CFA francs for 2026 against 22,855,429,916 for 2025](<https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf>), a rise of 10.0 per cent, from a budget document dated 17 July 2026. The Ministry of Digital Economy, Digitalization and Innovation's own budget, as the minister presented it to the National Transition Assembly in October 2025, [rises from 32 billion CFA francs in 2025 to 82 billion in 2026](<https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul>), an increase of 156.2 per cent. The 10 lines held for both years sit within a wider set: in all, [the 2026 budget gives 30,511,992,244 CFA francs to 14 digital lines](<https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** The nearest held fact is the budget itself, which names no fund, levy or assigned tax for digital programmes: it lists [14 digital lines for 2026, 30,511,992,244 CFA francs in all](<https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf>), and the ministry's 82 billion CFA francs is [the figure the minister presented for 2026](<https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul>).
+
+***Noted, not assessed***. [the special universal service fund for electronic communications, fed by telecom operators and run by Arcep Gabon, named in a 2024 article](<https://www.gabonreview.com/fracture-numerique-au-gabon-plus-de-117-000-habitants-nont-pas-acces-a-internet-en-2024/>).
+
+***Not held***. Nothing held shows the government saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying. Nothing held gives what was spent.

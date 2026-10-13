@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-31-government-declares-telecom-infrastructure-vandalism-economic-sabotage",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "ATC Uganda handed over Shs20.9 billion, its statutory 2% of gross annual revenue per the minister, to the Uganda Communications Commission for UCUSAF, which finances communication services in underserved areas; no event date is given, so the document's published date is used.",
+     "as_of": "2026-07-31", "date_precision": "day", "system": "UCUSAF (Uganda Communications Universal Service and Access Fund)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "UCUSAF", "country_label": "Uganda Communications Universal Service and Access Fund", "class": "financing", "platform": "", "owner": "Uganda Communications Commission", "tiers": ""}
+  ],
+  "note": ""
+}

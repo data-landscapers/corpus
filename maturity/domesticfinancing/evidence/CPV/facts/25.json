@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-31-lei-oe-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 2,483,446,867 CVE to 9 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 8 digital line(s) held in both years total 2,149,551,552 CVE for 2026 against 6,680,534,274 for 2025, -67.8 per cent; 9 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

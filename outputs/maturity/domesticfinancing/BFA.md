@@ -1,0 +1,11 @@
+# Burkina Faso
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The digital ministry's [2026 annual work plan is budgeted at 61 billion CFA francs](<https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/>), but the [digital lines held for both years total 6,174,786,000 francs for 2026 against 6,947,413,000 for 2025](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf>), a fall of 11.1%. The [execution report to 31 December 2025 shows the ministry's domestic investment ordered for payment at 2,094,406,682 francs](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/05/rapport-sur-la-situation-dexecution-du-budget-et-de-la-tresorerie-de-letat-exercice-2025-au-31-decembre.pdf>). For 2024 the [infrastructure programme shows 272,081,258 francs spent, 19.6% of the 1,387,136,000 voted](<https://budgetouvert.wordpress.com/wp-content/uploads/2024/07/loi-de-finances-2024-2026-vf2.pdf>). On 16 April 2026 the [Council of Ministers authorised 9,113,100,000 francs of procurement for the ministry's specific projects, financed by the 2026 state budget](<https://burkina24.com/2026/04/16/compte-rendu-du-conseil-des-ministres-du-jeudi-16-avril-2026/>).
+
+**A commitment to pay at home, and the act that follows it.** The [2026 finance law appropriates 1,187,169,000 francs in domestic payment credits to the electronic communications infrastructure programme](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf>) and [1,916,611,000 francs to the digital transformation and ecosystem programme](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf>).
+
+***Noted, not assessed***. [PactDigital, run by the Ministry of Digital Transition](<https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/>).
+
+***Not held***. The money for digital transformation was lower in the latest budget than in the one before.

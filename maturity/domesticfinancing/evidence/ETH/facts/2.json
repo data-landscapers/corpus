@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-07-eth-2026-161",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026/27 (EFY 2019) federal budget appropriates ETB 1,484,839,300 to the Ministry of Innovation and Technology (recurrent 680,339,300, capital 804,500,000).",
+      "as_of": "2026-07-07",
+      "date_precision": "day",
+      "system": "Ministry of Innovation and Technology budget 2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "spent",
+      "fact": "In FY2024/25 the Ministry of Innovation and Technology was voted ETB 2,754,552,330 and spent ETB 989,820,128, or 35.9%, per the document.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Ministry of Innovation and Technology budget 2024/25",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ethiopian Digital Foundation Project",
+      "country_label": "Ethiopian Digital Foundation Project",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Ethiopia, externally financed",
+      "tiers": "national"
+    }
+  ],
+  "note": "The Digital Foundation Project had zero appropriation in FY2024/25 and was donor/loan financed (spent ETB 7.04bn adjusted budget), so it gives no fact; 2024/25 and 2026/27 votes are not consecutive years, so no rose/fell."
+}

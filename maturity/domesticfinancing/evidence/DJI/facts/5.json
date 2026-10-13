@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-30-djibouti-conseil-des-ministres-30-decembre-2025",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Council of Ministers approved ANSIE's (state digital agency) 2026 budget at 396,120,056 DJF, of which 108.1m DJF is investment (firewalls, archiving, datacentre backup, X-Road support); revenue is mainly the state subvention.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "ANSIE budget, exercice 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "ANSIE's 2026 budget of 396.1m DJF is down 160.6m DJF from 556.7m DJF in 2025, a fall of about 29%, which the record ties to the creation of a separate National Cybersecurity Authority.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "ANSIE budget, exercice 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSIE",
+   "country_label": "ANSIE",
+   "class": "",
+   "platform": "X-Road",
+   "owner": "State of Djibouti",
+   "tiers": ""
+  },
+  {
+   "system": "ARMD ICT observatory (planned 2026)",
+   "country_label": "Observatoire des TIC",
+   "class": "other",
+   "platform": "",
+   "owner": "ARMD",
+   "tiers": ""
+  }
+ ],
+ "note": "ARMD is a multisector regulator; its 2026 budget (258.1m DJF, up from 218.8m) is not a digital agency line and gives no fact."
+}

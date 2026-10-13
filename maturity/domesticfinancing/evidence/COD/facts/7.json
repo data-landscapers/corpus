@@ -1,0 +1,46 @@
+{
+  "slug": "2025-06-28-cod-2025-52",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi de finances rectificative n°25/044 of 28 June 2025 appropriates FC 40,138,356,283 of domestic state money for Section 52, Postes, Telecommunications et NTIC, for budget year 2025 (section total FC 145,650,630,007 less FC 105,512,273,724 external investment); a multi-purpose ministry covering posts, telecoms and ICT.",
+      "as_of": "2025-06-28",
+      "date_precision": "day",
+      "system": "Section 52 PTNTIC, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The document gives Section 52 as FC 132,595,229,324 in 2024 and FC 145,650,630,007 in 2025 (all sources), a rise; the domestic share went from FC 37,082,955,600 to FC 40,138,356,283.",
+      "as_of": "2025-06-28",
+      "date_precision": "day",
+      "system": "Section 52 PTNTIC, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The document states Section 52 falls from FC 145,650,630,007 in 2025 to FC 55,095,958,006 in 2026 (-62%) after the ICT mandate moved to Section 71.",
+      "as_of": "2025-12-29",
+      "date_precision": "day",
+      "system": "Section 52 Postes et Telecommunications, budget 2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Section 52 external investment lines 2025",
+      "country_label": "Acquisition d'equipements divers; Rehabilitation du batiment du SG; Acquisition des vehicules",
+      "class": "other",
+      "platform": "",
+      "owner": "External investment FC 105,512,273,724, financier not named",
+      "tiers": ""
+    }
+  ],
+  "note": "FY2025 is a revised stage; no original 2025 finance law was published, per the document."
+}

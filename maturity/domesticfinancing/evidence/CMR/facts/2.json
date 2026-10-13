@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-26-cmr-2026-45-451",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The tabled 2026 finance bill (proposed, not yet enacted) names FCFA 19,494,457,000 for programme 451 Développement sécurisé et inclusif de l'écosystème national du numérique under the Ministry of Posts and Telecommunications, financed from domestic revenue.",
+   "as_of": "2025-11-26",
+   "date_precision": "day",
+   "system": "Programme 451 Développement sécurisé et inclusif de l'écosystème national du numérique, 2026 budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme 451 Développement sécurisé et inclusif de l'écosystème national du numérique, 2026 budget",
+   "country_label": "Développement sécurisé et inclusif de l'écosystème national du numérique",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": "national"
+  }
+ ],
+ "note": "Proposed bill, not a passed budget; the document gives no prior-year figure for this programme, so no rose or fell."
+}

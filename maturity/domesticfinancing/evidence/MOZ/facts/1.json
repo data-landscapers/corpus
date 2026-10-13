@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-incm-relatorio-regulacao-comunicacoes-2024",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "INCM's 2024 annual regulation report states that each licensed telecom operator pays 1% of its prior-year gross revenue into the Fundo de Serviço de Acesso Universal (FSAU) under the law in force (instrument not named), and that the fund financed Praças Digitais, school computer rooms, Internet nas Escolas, a rural digital-TV pilot and rural mobile network expansion in 2024; the report carries no date, so its reference year is used.",
+     "as_of": "2024", "date_precision": "year", "system": "Fundo de Serviço de Acesso Universal (FSAU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fundo de Serviço de Acesso Universal (FSAU)", "country_label": "FSAU", "class": "financing", "platform": "", "owner": "INCM board (managing entity)", "tiers": "national"}
+  ],
+  "note": "No amount collected or spent is given in the extract, so no spent fact; the document gives no publication date."
+}

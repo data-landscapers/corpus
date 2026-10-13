@@ -1,0 +1,16 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "5",
+   "budget": "spent",
+   "commitment": "acted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-003;MOZ-002;MOZ-001;MOZ-005",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

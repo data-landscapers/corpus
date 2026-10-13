@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-nam-usf-annual-report-2025-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The Universal Service Fund's Integrated Annual Report 2025 carries the Fund's first audited financial statements, for the 18 months to 31 December 2025, per this catalogue page; the amounts collected and spent are not stated on the page.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund (Namibia)",
+   "country_label": "Universal Service Fund (Namibia)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": "Companion page only: it cites the report's audited statements but gives no figures, so no amount, rise or commitment is stated."
+}

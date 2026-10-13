@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-05-gmb-approved-budget-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 661,855,897 GMD to 24 digital line(s). Dated by the budget document.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 20 digital line(s) held in both years total 537,355,897 GMD for 2026 against 511,618,456 for 2025, +5.0 per cent; 24 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

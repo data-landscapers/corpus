@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Universal Service Fund (USF)",
+      "country_label": "Universal Service Fund",
+      "class": "financing",
+      "platform": "",
+      "owner": "MACRA",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Malawi Acceleration Project (DMAP)",
+      "country_label": "DMAP",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": ""
+    }
+  ],
+  "note": "USF resources said to support tower sites but no law, amount or dated payment is given, and funding is called insufficient; DMAP is World Bank IDA financed, so other and no fact."
+}

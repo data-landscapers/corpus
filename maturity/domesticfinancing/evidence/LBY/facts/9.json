@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-lby-hor-draft-unified-general-budget-2025-bill-1-2025-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2025 gives 1,127,365,400 LYD to 36 digital line(s). Dated by the budget document.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 2 digital line(s) held in both years total 1,064,321,200 LYD for 2025 against 1,064,321,200 for 2024, +0.0 per cent; 36 lines are held for 2025. Dated by the budget document.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

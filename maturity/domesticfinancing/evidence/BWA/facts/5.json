@@ -1,0 +1,27 @@
+{
+  "slug": "2026-04-01-bwa-2026-2400-12481",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The FY2026/27 estimates appropriate P251,000,000 (BWP) for the Information and Communications Technology project (12481) of the Ministry of Communications and Innovation, financed from the domestic development fund; the ministry's Committee of Supply speech itemises it, including P13,000,000 for cyber security.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "Ministry of Communications and Innovation ICT project 12481, FY2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The ministry's whole development budget for FY2026/27 is P473,200,000, which the document says is down 11.5% on the FY2025/26 revised figure and 44.6% on the FY2025/26 appropriation.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "Ministry of Communications and Innovation development budget, FY2026/27 vs FY2025/26",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

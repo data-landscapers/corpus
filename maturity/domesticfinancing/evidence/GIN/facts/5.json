@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-31-gin-lfi-2025-loi-l-2024-023-cnt-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2025 gives 347,913,391,946 GNF to 113 digital line(s). Dated by the budget document.",
+   "as_of": "2024-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 4 digital line(s) held in both years total 13,441,441,299 GNF for 2025 against 6,758,097,055 for 2024, +98.9 per cent; 113 lines are held for 2025. Dated by the budget document.",
+   "as_of": "2024-12-31",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

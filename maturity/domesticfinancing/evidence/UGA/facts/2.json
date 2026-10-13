@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-29-uga-ucc-seeks-partner-to-accelerate-local-ict-innovations-under",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "The Uganda Communications Commission re-advertised on 2026-09-29, through UCUSAF, which draws on levies paid by telecom operators, a call for one implementing partner to run Phase III of the National e-Booster Programme planned for FY2026/27; the document does not name the law that sets up the levy.",
+     "as_of": "2026-09-29", "date_precision": "day", "system": "UCUSAF (Uganda Communications Universal Service and Access Fund)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "UCUSAF", "country_label": "Uganda Communications Universal Service and Access Fund", "class": "financing", "platform": "", "owner": "Uganda Communications Commission", "tiers": ""}
+  ],
+  "note": "The e-Booster programme gives no amount, so no allocated fact."
+}

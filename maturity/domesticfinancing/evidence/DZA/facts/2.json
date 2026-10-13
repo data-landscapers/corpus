@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-dza-algerian-business-mobilis-4g-201-sites-27-milliards",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The state pays for the 201-site Mobilis 4G universal service programme, more than DZD 27.3 billion (about USD 204 million per Algérie Eco), through the fund d'appui du service universel (set up by decree 18-247 of 2018 as cited elsewhere), under a cahier des charges approved by arrêté of 4 August 2026; the document says it is not Mobilis's own investment.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+      "country_label": "fonds d'appui du service universel",
+      "class": "financing",
+      "platform": "",
+      "owner": "Commission multisectorielle de gestion du fonds; ARPCE runs the tender",
+      "tiers": ""
+    }
+  ],
+  "note": "The 27.3bn DA is a fund-financed programme amount with no budget year given, so no allocated fact."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-14-stp-oge-2024-despesas-geral-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for Exercício 2024 gives 33,599,219 STN to 24 digital line(s). Dated by the budget document.",
+   "as_of": "2024-02-14",
+   "date_precision": "day",
+   "system": "State budget, Exercício 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

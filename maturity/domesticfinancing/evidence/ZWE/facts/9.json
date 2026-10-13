@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-29-zwe-2026-23-ii",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Appropriation (2026) Act, 2025 appropriates ZiG505,225,000 from the Consolidated Revenue Fund to Programme II, Information Communication Technology Development and Promotion, of Vote 23 (ICT, Postal and Courier Services) for 2026, with no Retention Fund charge; the ministry's two programmes sum to a vote total of ZiG763,517,000.", "as_of": "2025-12-29", "date_precision": "day", "system": "Ministry of ICT, Postal and Courier Services - Vote 23, ICT Development and Promotion, 2026 budget", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The document gives the ICT ministry's Vote 23 budget as ZiG763.5 million for 2026 (Budget Statement para 527) against a ZiG741 million allocation for 2025 (Budget Statement Table 21), so the later year is higher by about 3 percent in nominal ZiG.", "as_of": "2025-11-27", "date_precision": "day", "system": "Ministry of ICT, Postal and Courier Services - Vote 23 budget, 2025 to 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+# Namibia
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** [The digital lines held for both years total 931,625,000 Namibian dollars for 2026/27 against 1,035,870,355 for 2025/26, a fall of 10.1 per cent](<https://economy.com.na/wp-content/uploads/ESTIMATE-OF-REVENUE-AND-EXPENDITURE-2026-2027.pdf>); [35 digital lines in the 2026/27 budget carry 989,443,000](<https://economy.com.na/wp-content/uploads/ESTIMATE-OF-REVENUE-AND-EXPENDITURE-2026-2027.pdf>). The Ministry of Information and Communication Technology [has 639.2 million Namibian dollars for 2026/27](<https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/>). [776,683,722 Namibian dollars is published as spent on digital lines for 2024/25](<https://economy.com.na/wp-content/uploads/Estimates-of-Revenue-Income-Expenditure-01-April-2024-to-31-March-2027.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** [Regulations of 27 September 2024 impose a universal service levy of up to 0.5 per cent of annual turnover on every licensee, payable into the Universal Service Fund](<https://www.lac.org.na/laws/2024/8455.pdf>). [The Fund was launched on 19 March 2025 with three-year seed money from the Ministry, and its first bidding round allocated almost 31 million Namibian dollars of subsidies to MTC for nine sites](<https://www.cran.na/download/cran-iar-2025/>). [On 9 April 2026 Telecom Namibia and the regulator CRAN signed a Phase 2 subsidy of 9,796,650 Namibian dollars for rural network sites](<https://www.telecom.na/media-centre/894-telecom-namibia-and-cran-formally-sign-universal-service-fund-agreement-to-enhance-rural-connectivity>).
+
+***Noted, not assessed***. [CRAN regulatory levies on licensees](<https://www.cran.na/download/cran-iar-2025/>); [the MTC nine-site subsidy](<https://thebrief.com.na/2025/03/govt-backs-universal-service-fund-with-n145-million-in-seed-funding/>); [the School Internet Connectivity Project, run by Telecom Namibia with the Ministry of Education](<https://www.thevillager.com.na/national/2026/poor-network-coverage-leaves-kavango-schools-struggling/>).
+
+***Not held***. Money for digital programmes in the budget was lower in 2026/27 than the year before. What the levy has collected is not stated.

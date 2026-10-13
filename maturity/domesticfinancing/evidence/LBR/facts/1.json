@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-20-liberia-uaf-starlink-installed-vahun-district-lofa",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Universal Access Fund reports it installed Starlink in Vahun District, Lofa County, a project overseen on site by Commissioner Patrick R. Honnah; no cost is given and the document does not name the law that set up the fund or say how the project was paid for.", "as_of": "2025-10-20", "date_precision": "day", "system": "Universal Access Fund", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access Fund", "country_label": "Universal Access Fund", "class": "financing", "platform": "", "owner": "Liberia Telecommunications Authority", "tiers": ""},
+    {"system": "Starlink", "country_label": "Starlink", "class": "other", "platform": "satellite internet", "owner": "", "tiers": "rural district"}
+  ],
+  "note": "Event date is the document's published date (2025-10-20); the install date is not given."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2011-01-01-lca-annual-report-2010-11",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The LCA's 2010/11 annual report says the Universal Access Fund had entered its second year of operation and was expanding access to communications services in remote and rural areas; the law setting it up and amounts collected or paid are not in the captured text, and the year is the report's own, 2010/11.", "as_of": "2011", "date_precision": "year", "system": "Universal Access Fund", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access Fund (UAF)", "country_label": "Universal Access Fund", "class": "financing", "platform": "", "owner": "Lesotho Communications Authority", "tiers": ""}
+  ],
+  "note": ""
+}

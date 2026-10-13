@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-cbl-revenue-expenditure-statement-jan-dec-2025",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The Central Bank of Libya's statement for 1 January to 31 December 2025 gives 41,157,054.743 LYD spent on row 44, the General Authority for Communications and affiliates (28,983,614.952 Chapter 1, 7,073,439.791 Chapter 2, 5,100,000.000 Chapter 3 development); authority's line only, no fund collections given.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "General Authority for Communications and affiliates, state budget execution line",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Spending is the Central Bank of Libya's execution statement line for the communications authority; no fund, levy or commitment stated."
+}

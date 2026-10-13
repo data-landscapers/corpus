@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-31-cog-2026-cst-fasuce",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 finance law (Loi n° 42-2025 of 31 December 2025 (2026 finance law), special account no. 4) appropriates FCFA 1,000,000,000 to the special treasury account for the universal access and service fund for electronic communications, all as transfer spending.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Fonds pour l'accès et le service universel des communications électroniques (2026 budget)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fonds pour l'accès et le service universel des communications électroniques",
+      "country_label": "FASUCE",
+      "class": "financing",
+      "platform": "",
+      "owner": "Government of Congo (special treasury account)",
+      "tiers": ""
+    }
+  ],
+  "note": "Only one budget year is given, so no rose or fell; an appropriation is not a collected or spent amount, so no acted or spent fact."
+}

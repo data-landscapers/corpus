@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-19-lesotho-budget-speech-2025-26",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The Minister of Finance and Development Planning's 2025/26 budget speech of 19 February 2025 allocates M381.1 million to the ICT sector for digital innovation, inclusion and transformation; no prior-year figure and no funding source are given.",
+     "as_of": "2025-02-19", "date_precision": "day",
+     "system": "ICT sector allocation, 2025/26 state budget", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Government Security Operations Centre (GovSOC)", "country_label": "GovSOC", "class": "other", "platform": "", "owner": "Government of Lesotho", "tiers": ""}
+  ],
+  "note": "No rose/fell comparison, no spent figure and no statement that digital must be paid from own resources; the speech gives only the 2025/26 allocation."
+}

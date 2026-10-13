@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-01-bwa-2026-2400-2406",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2026/27 estimates give the Department of Shared Digital Services, under the Ministry of Communications and Innovation, a recurrent estimate of BWP 587,310,850, financed from domestic revenue.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Department of Shared Digital Services recurrent estimate 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The document gives the digital ministry's overall recurrent estimate for FY2026/27 as BWP 949,920,900, down 1.7% on FY2025/26.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Ministry of Communications and Innovation recurrent budget 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Department of Shared Digital Services",
+   "country_label": "Department of Shared Digital Services",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

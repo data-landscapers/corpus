@@ -1,0 +1,19 @@
+{
+  "slug": "2025-12-29-cod-2026-52",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "Loi de finances n°25/060 appropriates FC 53,840,917,417 of domestic state money to section 52 Postes et Télécommunications for 2026 (section total FC 55,095,958,006 less FC 1,255,040,589 external investment); the section is multi-purpose and the NTIC mandate was moved out of it.",
+     "as_of": "2025-12-29", "date_precision": "day", "system": "Section 52 Postes et Télécommunications, budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell",
+     "fact": "Section 52 (formerly Postes, Télécommunications et NTIC) fell from FC 145,650,630,007 in 2025 to FC 55,095,958,006 in 2026 (-62%), largely because the ICT mandate moved to section 71.",
+     "as_of": "2025-12-29", "date_precision": "day", "system": "Section 52 Postes et Télécommunications, budget 2026 against 2025", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "Section 71 Économie numérique (formerly Numérique) is given FC 226,713,223,741 for 2026 in the same finance law, as the document reports.",
+     "as_of": "2025-12-29", "date_precision": "day", "system": "Section 71 Économie numérique, budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose",
+     "fact": "Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), which the document says is substantially a transfer of the ICT mandate from section 52, not new money.",
+     "as_of": "2025-12-29", "date_precision": "day", "system": "Section 71 Économie numérique, budget 2026 against 2025", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Section 71 figures are quoted in the document's notes rather than its tables; combined sections 52 and 71 went from FC 206,278,111,418 (2025) to FC 281,809,181,747 (2026)."
+}

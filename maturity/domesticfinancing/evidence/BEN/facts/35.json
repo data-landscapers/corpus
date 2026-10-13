@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-ben-programme-investissement-public-2026-2028-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for gestion 2026 gives 26,660,865,685 XOF to 48 digital line(s). Dated by the budget document.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "State budget, gestion 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 18 digital line(s) held in both years total 8,219,341,156 XOF for gestion 2026 against 8,333,855,351 for gestion 2025, -1.4 per cent; 48 lines are held for gestion 2026. Dated by the budget document.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "State budget, gestion 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

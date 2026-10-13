@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-26-ben-mnd-budget-2026-quatre-projets-phares",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Minister of Digital Affairs and Digitalisation presented to the parliamentary budget committee a 2026 budget of 27,238,035,553 FCFA for her ministry (9,774,411,267 operating, 17,463,624,286 capital).", "as_of": "2025-11-25", "date_precision": "day", "system": "Ministère du Numérique et de la Digitalisation budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Programme Numérique is allocated 12,372,151,413 FCFA in the proposed 2026 budget, with four flagship projects: broadband phase 2, digital uses and trust, Smart Gouv phase 2, and digital transformation of local authorities.", "as_of": "2025-11-25", "date_precision": "day", "system": "Programme Numérique 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The ministry's 2026 credits of 27,238,035,553 FCFA compare with 29,033,966,192 FCFA in 2025, a fall of 6.18%, which the report attributes to a 12.22% fall in external financing.", "as_of": "2025-11-25", "date_precision": "day", "system": "Ministère du Numérique et de la Digitalisation budget 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Figures are the proposed budget presented to committee; part of the ministry's money is external financing, not stated to be wholly loan-paid."
+}

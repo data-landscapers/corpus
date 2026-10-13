@@ -1,0 +1,10 @@
+{
+  "slug": "2023-10-03-uasf-connectivity-programmes",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Universal Access and Service Fund (UASF) paid for a backbone redundancy project with EPTC, procuring the equipment to connect to the MOTRACO powerline fibre route to Maputo; the page names no law or decree and gives no amounts, and the date is the page's published date.", "as_of": "2023-10-03", "date_precision": "day", "system": "Universal Access and Service Fund (UASF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access and Service Fund (UASF)", "country_label": "Universal Access and Service Fund", "class": "financing", "platform": "", "owner": "ESCCOM", "tiers": ""}
+  ],
+  "note": "Fund paying for projects (backbone, agriculture connectivity); no budget figures; no law cited."
+}

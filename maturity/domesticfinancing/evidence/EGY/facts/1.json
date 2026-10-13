@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-21-egypttelegraph-860m-data-centre-budget",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "A ministry of communications document seen by Bloomberg says Egypt intends to allocate up to USD 860 million a year from the general budget, from FY2026/27 to the end of 2030, for data centres, computing infrastructure, data security and AI use in state companies; the document gives no event date, so the story's published date is used.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "Data centres and computing infrastructure programme, general budget, FY2026/27-2030",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Allocation is stated as an intention ('intends to allocate'); no prior-year figure, so no rose or fell."
+}

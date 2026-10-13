@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-20-lbr-national-budget-fy2025-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 731,376 USD is published as actually spent on digital lines for FY2025. Dated by the document that gives the figure.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "State budget, FY2025",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

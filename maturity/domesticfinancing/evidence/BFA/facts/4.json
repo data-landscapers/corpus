@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-01-bfa-execution-budget-2025-au-31-decembre-companion",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent",
+     "fact": "The Ministry of Finance's FY2025 execution report to 31 December 2025 shows the digital ministry's (section 31) domestic investment adjusted to 2,094,407,522 F CFA from an initial 6,643,398,000 and ordered for payment at 2,094,406,682 F CFA, 100.00 percent (Annexe 5, domestic grain); ministry spending line only, no fund collections given.",
+     "as_of": "2025-12-31", "date_precision": "day",
+     "system": "Section 31 Ministere de la Transition digitale, des Postes et des Communications electroniques - FY2025 domestic investment", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent",
+     "fact": "The same FY2025 report gives section 31 total spending excluding personnel, external financing included, ordered for payment at 10,558,163,647 F CFA of 10,592,516,522 adjusted (99.68 percent); programme 136 Transformation et ecosysteme numerique 4,076,920,936 and programme 095 communications infrastructure 5,800,657,734 F CFA, so this is not a purely domestic figure.",
+     "as_of": "2025-12-31", "date_precision": "day",
+     "system": "Section 31 Ministere de la Transition digitale - FY2025 programmes 095, 096, 097, 136", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

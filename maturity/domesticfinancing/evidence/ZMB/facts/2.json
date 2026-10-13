@@ -1,0 +1,17 @@
+{
+  "slug": "2026-01-01-zmb-2026-govt-digital-infra-qos",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Government approved K255 million (ZMW 255,000,000) for digital infrastructure and Quality of Service upgrades, mainly rural, for 2026; the page gives no approval date, so 2026 is the budget year it assigns and its published date is used.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "K255 million digital infrastructure and QoS upgrade",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Same K255m approval as document 1, restated as a budget-line record; stage unclear, no funding source named."
+}

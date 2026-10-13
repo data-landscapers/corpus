@@ -1,0 +1,11 @@
+# Eswatini
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The budget for 2026/27 [gives 416,824,106 emalangeni to 14 digital lines](<https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf>). The digital lines held for both years [total 408,074,106 emalangeni for 2026/27 against 355,552,868 for 2025/26](<https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf>), a rise of 14.8 per cent. The Budget Estimates for 2024/25 [publish 200,945,813 emalangeni as actually spent on digital lines for that year](<https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** The Universal Access and Service Fund [paid for a backbone redundancy project with EPTC](<https://uasf.esccom.org.sz/programmes/connectivity-programmes/>), procuring equipment to connect to the MOTRACO powerline fibre route to Maputo, on the fund's page of 3 October 2023. ESCCOM's 2018 strategy says the fund [holds money accumulated over eight years from licensee contributions](<https://www.esccom.org.sz/universalservice/Universal_Service_Strategy.pdf>) made under licence conditions, first paid to EPTC and then to ESCCOM.
+
+***Noted, not assessed***. [The Digital Eswatini Project, financed by World Bank loans and credit](<https://projects.worldbank.org/en/projects-operations/project-detail/P508948>); [Government in Your Hand](<https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/>); [the TaxCore electronic invoicing system of the Eswatini Revenue Service](<https://independentnews.co.sz/43305/business/ers-unveils-digital-tax-system-to-crack-down-vat-tax-leakages/>); [the Revenue Service's Fiscalization Solution](<https://eswatinipositivenews.online/ers-intensifies-drive-to-close-e4-4-billion-tax-gap-through-technology-and-collaboration/>); [the Eswatini country project of the IDEA Programme](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>).
+
+***Not held***. Nothing is missing on the four questions: the budget, its direction, what was spent and the fund's payments are all stated above.

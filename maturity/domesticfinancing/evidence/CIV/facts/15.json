@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-14-civ-ansut-politique-hebergement-cloud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "eGOUV Microsoft Azure public cloud hosting",
+      "country_label": "eGOUV cloud",
+      "class": "other",
+      "platform": "Microsoft Azure",
+      "owner": "ANSUT",
+      "tiers": "ministries and institutions"
+    }
+  ],
+  "note": "Hosting procedure; says nothing on budget, fund, levy or spending."
+}

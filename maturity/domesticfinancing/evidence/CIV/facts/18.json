@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-19-civ-2026-322-78010200285",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 finance law (Loi n° 2025-987 of 19 December 2025) appropriates FCFA 4,400,000,000 in section 322 (Finance and Budget) for Microsoft licences and support under the e-GOUV project, funded from domestic revenue.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "e-GOUV Microsoft licences line, FY2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Rise over earlier years is given as a percentage across three unnamed-year span only, so no rose fact."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-15-uga-approved-estimates-2026-27-vol-1-central-government-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 1,022,906,228,000 UGX to 166 digital line(s). Dated by the budget document.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 113 digital line(s) held in both years total 752,380,335,000 UGX for 2026/27 against 861,988,880,000 for 2025/26, -12.7 per cent; 166 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

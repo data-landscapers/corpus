@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-27-maliweb-fonds-acces-universel-captation-agefau",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "An opinion piece by a named analyst says Mali's universal access fund is fed by a legal levy of 1% to 2% of operators' turnover, run by AGEFAU under the Prime Minister's office, and that the fund is collected today with chronic delays and operator arrears; no amount is given, and the date is the document's publication date.",
+     "as_of": "2026-07-27", "date_precision": "day", "system": "Fonds d'accès universel (AGEFAU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fonds d'accès universel (AGEFAU)", "country_label": "Fonds d'accès universel; Agence de Gestion du Fonds d'Accès Universel", "class": "financing", "platform": "", "owner": "AGEFAU, under the Primature", "tiers": ""}
+  ],
+  "note": "The 2012 draw on the fund for military equipment and the dark-fibre argument give no fact on the two aspects; the document is an opinion piece and gives no budget amount."
+}

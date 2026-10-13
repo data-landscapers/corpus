@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-pbb-fy2024-25-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 29,085,287,000 KES is published as actually spent on digital lines for 2024/25. Dated by the document that gives the figure.",
+   "as_of": "2024-06-01",
+   "date_precision": "day",
+   "system": "State budget, 2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

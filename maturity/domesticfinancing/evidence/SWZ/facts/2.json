@@ -1,0 +1,10 @@
+{
+  "slug": "2018-01-01-esccom-uas-regulatory-strategy-broadband-broadcasting",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "ESCCOM's strategy says the Universal Access and Service Fund holds money accumulated over eight years from licensee contributions made under licence conditions, first paid to EPTC then to ESCCOM, and is ready to fund programmes; no law or decree is named in the captured text and the date is the document's published year.", "as_of": "2018", "date_precision": "year", "system": "Universal Access and Service Fund (USOF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access and Service Fund (USOF)", "country_label": "Universal Service Obligations Fund / UAS Fund", "class": "financing", "platform": "", "owner": "ESCCOM", "tiers": ""}
+  ],
+  "note": "Funding section and budget of the strategy were truncated at capture; no amounts or budget-year figures stated."
+}

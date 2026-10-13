@@ -1,0 +1,26 @@
+{
+  "slug": "2023-12-10-cod-2024-52",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi de finances n°23/056 of 10 December 2023 appropriates FC 37,082,955,600 of domestic state money for Section 52, Postes, Telecommunications et NTIC, for budget year 2024 (section total FC 132,595,229,324 less FC 95,512,273,724 World Bank CAB5 external investment); a multi-purpose ministry.",
+      "as_of": "2023-12-10",
+      "date_precision": "day",
+      "system": "Section 52 PTNTIC, budget 2024",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Projet CAB5 cinquième phase",
+      "country_label": "Projet CAB5 cinquième phase",
+      "class": "other",
+      "platform": "",
+      "owner": "World Bank, FC 95,512,273,724 in budget 2024",
+      "tiers": ""
+    }
+  ],
+  "note": "The World Bank CAB5 line is loan-financed and gives no allocated fact; document states no FY2024 outturn for the section."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-26-cmr-2026-37-380",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The tabled 2026 finance bill (proposed, not yet enacted) names FCFA 874,046,000 for programme 380 Modernisation du cadastre (national digital cadastre) under the Ministry of State Property, Surveys and Land Tenure, financed from domestic revenue.",
+   "as_of": "2025-11-26",
+   "date_precision": "day",
+   "system": "Programme 380 Modernisation du cadastre, 2026 budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme 380 Modernisation du cadastre, 2026 budget",
+   "country_label": "Modernisation du cadastre",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of State Property, Surveys and Land Tenure",
+   "tiers": "national"
+  }
+ ],
+ "note": "Proposed bill, not a passed budget; digital status rests on the programme's stated objective of a digital national cadastre."
+}

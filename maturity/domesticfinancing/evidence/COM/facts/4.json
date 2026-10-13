@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-16-com-2026-09-0910",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (decree 26-003/PR of 16 January 2026) appropriates KMF 50 000 000, wholly as a transfer, to the chambre du Numérique (service 09 0910, under the digital ministry).", "as_of": "2026-01-16", "date_precision": "day", "system": "chambre du Numérique budget, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The line fell from KMF 73 000 000 in the 2025 rectificative law to KMF 50 000 000 in the 2026 law (budget years 2025 and 2026), minus 31.5%; the document notes this and another body's line look swapped between the years and cannot tell a real cut from a transcription swap.", "as_of": "2026-01-16", "date_precision": "day", "system": "chambre du Numérique budget, 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "chambre du Numérique", "country_label": "chambre du Numérique", "class": "financing", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie Numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

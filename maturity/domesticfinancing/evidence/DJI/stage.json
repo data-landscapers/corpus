@@ -1,0 +1,16 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "2",
+   "budget": "spent",
+   "commitment": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-005;DJI-003",
+   "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

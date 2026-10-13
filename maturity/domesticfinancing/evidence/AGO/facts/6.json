@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-31-ago-governo-210-milhoes-digitalizacao-administracao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projecto de Aceleração Digital de Angola (PADA)",
+      "country_label": "PADA",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Finance with the World Bank",
+      "tiers": ""
+    },
+    {
+      "system": "Instituto de Modernização Administrativa (IMA)",
+      "country_label": "IMA",
+      "class": "other",
+      "platform": "",
+      "owner": "IMA",
+      "tiers": ""
+    }
+  ],
+  "note": "US$210.91m authorised by presidential decrees is placed under the World Bank-financed PADA, so no allocated fact; the document does not say the state budget pays it."
+}

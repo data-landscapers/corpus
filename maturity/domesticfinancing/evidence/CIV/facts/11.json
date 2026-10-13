@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-10-civ-sikafinance-ansut-relance-rnhd",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Réseau national haut débit (RNHD)",
+      "country_label": "RNHD",
+      "class": "other",
+      "platform": "fibre optic backbone",
+      "owner": "ANSUT",
+      "tiers": ""
+    }
+  ],
+  "note": "ANSUT's own results and fibre progress only; no budget amount, no year-on-year budget line, no spending, no fund or levy assigned to digital programmes."
+}

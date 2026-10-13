@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-mrt-lfi-2026-par-partie-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 1,676,040,009 MRU to 96 digital line(s). Dated by the budget document.",
+   "as_of": "2026-02-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

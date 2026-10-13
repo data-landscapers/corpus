@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-19-mus-estimates-2026-27-pmo-all-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 4,534,960,000 MUR to 117 digital line(s). Dated by the budget document.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 59 digital line(s) held in both years total 2,713,445,000 MUR for 2026/27 against 2,465,710,000 for 2025/26, +10.0 per cent; 117 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

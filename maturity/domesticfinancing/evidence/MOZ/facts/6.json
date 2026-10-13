@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-moz-2026-27a001141",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2026 state budget (final maps, Ministry of Economy and Finance) appropriates MZN 757,832,010 to CEDSIF, the state financial information systems centre: MZN 657,832,010 operating plus MZN 100,000,000 investment, all domestically financed. Date is the document's published month (2026-01).",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "CEDSIF 2026 state budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CEDSIF 2026 state budget",
+   "country_label": "Centro de Desenvolvimento de Sistemas de Informação de Finanças",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": "national"
+  }
+ ],
+ "note": "Fact on allocation only; the document has no prior-year figure and no spending."
+}

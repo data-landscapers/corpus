@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-31-cpv-2026-ciber-seguranca",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 budget law (Lei 69/X/2025) inscribes a new budget unit 'Ciber Seguranca' with CVE 20 million, domestic revenue, the first cybersecurity line in the country's budget.", "as_of": "2025-12-31", "date_precision": "day", "system": "Ciber Seguranca budget unit 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Fact on the cybersecurity unit only; the law names no spending entity."
+}

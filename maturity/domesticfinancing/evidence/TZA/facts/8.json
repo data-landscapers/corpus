@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-30-tza-2026-68",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Fungu 68, Ministry of Communication and Information Technology, was approved TZS 291,533,139,000 for 2025/26, of which development TZS 277,047,483,000 (TZS 98,480,905,000 domestic and TZS 178,566,578,000 external).",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "Fungu 68 budget vote 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fungu 68 budget vote",
+   "country_label": "Ministry of Communication and Information Technology budget vote",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Finance / Ministry of Communication and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "TZS 147.77bn released to March 2026 (50.6%) is a release, not an amount spent, so no spent fact; the document reports no comparison with the prior year."
+}

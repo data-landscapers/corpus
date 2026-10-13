@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-lequotidien-conseil-ministres-fonds-acces-universel",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "abolished", "fact": "The Council of Ministers communiqué of 29 July 2026 approves a draft decree that repeals and replaces decree no. 2020-152 of 19 November 2020 on the running and organisation of the Universal Access Fund for Services, citing shortcomings in defining the fund's object, mobilising, sharing and assigning its resources, and the lack of a clear framework for fitting it into the State's budget and accounts.", "as_of": "2026-07-29", "date_precision": "day", "system": "Universal Access Fund for Services (صندوق النفاذ الشامل إلى الخدمات)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access Fund for Services (صندوق النفاذ الشامل إلى الخدمات)", "country_label": "صندوق النفاذ الشامل إلى الخدمات (FAUS)", "class": "financing", "platform": "", "owner": "State of Mauritania", "tiers": ""}
+  ],
+  "note": "The same Council also approved a EUR 50m Spanish loan for Senegal River basin resilience, which is a lender loan with no digital purpose and gives no fact; the replacement decree's terms are not given."
+}

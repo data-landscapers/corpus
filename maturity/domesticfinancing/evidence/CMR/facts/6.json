@@ -1,0 +1,11 @@
+{
+  "slug": "2023-12-19-cmr-2024-37-026",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The 2024 finance law appropriated XAF 1,203,574,000 (FCFA, stated domestic revenue) to programme 026 Modernisation du cadastre, chapitre 37 (Ministry of Domains, Cadastre and Land Affairs), whose stated objective is a national digital cadastre; the same amount was proposed on 2023-11-30.",
+     "as_of": "2023-12-19", "date_precision": "day",
+     "system": "Modernisation du cadastre (programme 026, chapitre 37), budget year 2024", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Only the 2024 line is given; no prior-year comparison, spent figure, fund or commitment statement in this document."
+}

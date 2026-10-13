@@ -1,0 +1,11 @@
+# Angola
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The [2026 budget sets 159.2 billion kwanza for the communications expansion and modernisation programme, down 30.5% from 229.3 billion in the 2025 budget](<https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/>). The [digital lines held for both years total 9,912,523,594 kwanza for 2026 against 9,854,246,545 for 2025](<https://cms.minfin.gov.ao/api/assets/portal-minfin/c5bb7353-28e6-4b09-9251-b8108ddbf6f9/>). The [4G expansion line falls from 107.8 to 62.7 billion kwanza](<https://pti.ao/governo-corta-quase-50-da-verba-para-o-programa-de-expansao-de-internet-4g/>), and the [cybersecurity programme is cut 54%, from 70.5 to 32.3 billion kwanza in the proposed 2026 budget](<https://pti.ao/oge-2026-executivo-reduz-verba-para-a-melhoria-da-posicao-no-indice-global-de-ciberseguranca/>).
+
+**A commitment to pay at home, and the act that follows it.** The [2026 budget gives 375,466,178,608 kwanza to 52 digital lines](<https://cms.minfin.gov.ao/api/assets/portal-minfin/c5bb7353-28e6-4b09-9251-b8108ddbf6f9/>). A [supplementary credit of 275 million US dollars was opened in the 2026 budget for the Ministry of Territorial Administration's citizens' database plan](<https://www.novojornal.co.ao/economia/detalhe/pr-manda-abrir-credito-adicional-suplementar-de-275-milhoes-usd-no-oge2026-para-o-mat-e-duplica-dotacao-do-ministerio-70083.html>).
+
+***Noted, not assessed***. [Projecto de Aceleração Digital de Angola, run by the Ministry of Finance with the World Bank](<https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/>); [Instituto de Modernização Administrativa](<https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/>); [Base de Dados dos Cidadãos Maiores](<https://www.novojornal.co.ao/economia/detalhe/pr-manda-abrir-credito-adicional-suplementar-de-275-milhoes-usd-no-oge2026-para-o-mat-e-duplica-dotacao-do-ministerio-70083.html>).
+
+***Not held***. The money for digital transformation was lower in the latest budget than in the one before.

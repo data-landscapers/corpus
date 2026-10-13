@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-18-caf-2026-85-8508403160000xxxx08",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The FY2026 draft budget (medium-term expenditure framework) proposes FCFA 118 million, financed domestically, under the digital ministry's section to pay six months of 2024 salary arrears of the ACDD, the state's digital development agency; proposed, not yet passed in this document.",
+      "as_of": "2025-11-18",
+      "date_precision": "day",
+      "system": "ACDD salary arrears line, FY2026 budget",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ACDD",
+      "country_label": "Agence Centrafricaine de Développement du Numérique (ACDD)",
+      "class": "",
+      "platform": "",
+      "owner": "State",
+      "tiers": ""
+    }
+  ],
+  "note": "Draft budget line, domestic financing; no rise or fall stated for this line."
+}

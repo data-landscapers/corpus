@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-27-bfa-2026-31-anssi",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (loi n°021-2025/ALT of 27 December 2025) appropriates XOF 489,236,000 to the ANSSI, the national cybersecurity agency, under programme 136 action 13604 of the digital ministry's section 31, for operating costs and staff.", "as_of": "2025-12-27", "date_precision": "day", "system": "ANSSI (Agence nationale de sécurité des systèmes d'information), budget year 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "The document mentions a FY2024 appropriation under the Primature without giving its amount, so no rose or fell fact."
+}

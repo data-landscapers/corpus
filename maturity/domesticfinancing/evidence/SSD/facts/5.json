@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-01-ssd-draft-budget-book-2025-26-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for FY 2025/26 gives 291,958,444,904 SSP to 15 digital line(s). Dated by the budget document.",
+   "as_of": "2025-11-01",
+   "date_precision": "day",
+   "system": "State budget, FY 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

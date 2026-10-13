@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-27-namibia-gg-8455-gn-559-regulations-prescribing-universal-service-levy",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "Regulations made under section 56(2) of the Communications Act impose a universal service levy on every licensee of up to 0.5 percent of annual turnover, with a N$500 minimum, payable into the Universal Service Fund and effective on gazettal.",
+   "as_of": "2024-09-27",
+   "date_precision": "day",
+   "system": "Universal Service Levy (General Notice 559 of 2024)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Levy (General Notice 559 of 2024)",
+   "country_label": "Universal Service Levy (General Notice 559 of 2024)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  },
+  {
+   "system": "Universal Service Fund (Namibia)",
+   "country_label": "Universal Service Fund (Namibia)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": "The regulations also let the Fund receive government money (the N$115m over three years) but give no amount spent or collected."
+}

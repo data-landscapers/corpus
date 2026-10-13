@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-23-bfa-2025-31-anssi",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2025 finance law appropriates 498,036,000 F CFA to the national cybersecurity agency ANSSI, now inside the digital ministry's programme 136 (action 13604); the agency moved there from the Prime Minister's office.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "ANSSI budget 2025 (MTD-PCE programme 136)",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "No rose/fell fact: the document says the operating budget grew from 2024 but gives no 2024 total."
+}

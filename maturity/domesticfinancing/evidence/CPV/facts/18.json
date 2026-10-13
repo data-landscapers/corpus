@@ -1,0 +1,46 @@
+{
+  "slug": "2024-12-30-cpv-lei-45-x-2024-orcamento-do-estado-2025-source",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Lei n.º 45/X/2024 (Mapa III) appropriates CVE 369,781,930 for the Ministério da Economia Digital for budget year 2025.",
+      "as_of": "2024-12-30",
+      "date_precision": "day",
+      "system": "Ministério da Economia Digital budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The Ministério da Economia Digital vote falls from CVE 1,390,965,632 in 2024 to CVE 369,781,930 in 2025, a cut of 73.4%, with its capital line at zero.",
+      "as_of": "2024-12-30",
+      "date_precision": "day",
+      "system": "Ministério da Economia Digital budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The 2025 budget law's earmarked-revenue annex assigns the operators' communications contribution and the radio-spectrum fee to the Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI), with counterpart expenditure of CVE 122,073,633 appropriated for 2025; the document shows the amount appropriated, not what was collected or paid.",
+      "as_of": "2024-12-30",
+      "date_precision": "day",
+      "system": "FUSI",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)",
+      "country_label": "FUSI",
+      "class": "financing",
+      "platform": "",
+      "owner": "State budget, earmarked operator contribution and spectrum fee",
+      "tiers": "national"
+    }
+  ],
+  "note": "Two programme lines (state modernisation) in the passages are not digital programmes and give no fact."
+}

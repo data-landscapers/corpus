@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-31-cog-2026-cst-urbanisation-si-fp",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (Loi n° 42-2025 of 31 December 2025) sets FCFA 3,500,000,000 for special treasury account no. 10, to modernise and digitise public-finance information systems, fed by customs duties and taxes (FCFA 2,000,000,000 capital, 1,500,000,000 ordinary).", "as_of": "2025-12-31", "date_precision": "day", "system": "Urbanisation des systèmes d'information de gestion des finances publiques, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The account is unchanged at FCFA 3,500,000,000 in 2025 and 2026, so the later year is not higher.", "as_of": "2025-12-31", "date_precision": "day", "system": "Urbanisation des systèmes d'information de gestion des finances publiques, 2025 to 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

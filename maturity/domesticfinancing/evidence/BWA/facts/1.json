@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-01-bwa-uasf-framework",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The UASF framework states the Universal Access and Service Fund Trust was established in April 2014 under section 5(1)(b) of the CRA Act 2012, financed by a levy of up to 1% of annual gross turnover on licensed operators imposed under section 5(1)(c), which BOCRA collects on its behalf; operators above a turnover threshold contribute 1% annually.",
+      "as_of": "2014-04",
+      "date_precision": "month",
+      "system": "Universal Access and Service Fund (UASF)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Universal Access and Service Fund (UASF)",
+      "country_label": "UASF",
+      "class": "financing",
+      "platform": "",
+      "owner": "BOCRA (secretariat); independent Board of Trustees",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

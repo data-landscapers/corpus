@@ -1,0 +1,26 @@
+{
+  "slug": "2024-12-10-caf-2025-30-30-31-00-68-120000-6693-11",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The FY2025 draft budget (PLF 2025) proposes FCFA 115 million, domestically financed, under the finance ministry's section to support the rollout of the SYDONIA World customs system; proposed, not yet passed in this document.",
+      "as_of": "2024-12-10",
+      "date_precision": "day",
+      "system": "Appui au déploiement de SYDONIA World, FY2025 budget",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SYDONIA World",
+      "country_label": "SYDONIA World",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Finance and Budget",
+      "tiers": "national"
+    }
+  ],
+  "note": "Single domestic budget line for a customs IT project."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-23-aden-rtn-sim-terminal-tax-assemblee-nationale",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The tax on new SIM-card digital terminals (RTN), in force since 1 June 2026, was reported by ADEN's director general to the National Assembly's finance committee on 16 July 2026 as operating, with collection mechanism and first results presented; proceeds are to fund connectivity, digital services and digital transformation, within the national strategy for financing digital transformation. No law is named and no yield is given.",
+      "as_of": "2026-06-01",
+      "date_precision": "day",
+      "system": "Taxe sur les nouveaux terminaux numériques à cartes SIM (RTN)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Taxe sur les nouveaux terminaux numériques à cartes SIM (RTN)",
+      "country_label": "RTN",
+      "class": "financing",
+      "platform": "",
+      "owner": "ADEN",
+      "tiers": ""
+    }
+  ],
+  "note": "Earmark is stated by ADEN, not by a named law; no amount collected."
+}

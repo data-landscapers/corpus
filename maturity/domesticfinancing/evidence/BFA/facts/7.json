@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-27-bfa-2026-31-095",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (loi n°021-2025/ALT of 27 December 2025) appropriates XOF 1,187,169,000 in domestic payment credits to programme 095, Development of electronic communications infrastructure, of the digital ministry (MTD-PCE), covering the government backbone, broadband access and the PACTDIGITAL project; the figure is a floor, as counterpart funding is not apportioned.", "as_of": "2025-12-27", "date_precision": "day", "system": "MTD-PCE programme 095, Développement d'infrastructures de communications électroniques, budget year 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Only one budget year (2026) is given, so no rose or fell fact."
+}

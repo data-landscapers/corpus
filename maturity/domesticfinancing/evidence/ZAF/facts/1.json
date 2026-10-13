@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-05-how-much-collected-digital-migration-last-five-years",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Universal Service and Access Fund, funded by mandatory contributions from telecom operators and administered by USAASA, was collecting money: the department's entities collected R249 million in 2021-22 rising to R281 million in 2025-26, R1.2 billion over the five years (The Citizen, citing a parliamentary reply).", "as_of": "2026", "date_precision": "year", "system": "Universal Service and Access Fund (USAF)", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The fund's expenditure is given as R1.08 billion against R1.6 billion in rollover funds, with R567 million of digital migration inventory written off in the last financial year (2025-26); the story gives collections and spending but does not name the year beside the R1.08 billion, so the latest year is taken from context.", "as_of": "2026", "date_precision": "year", "system": "Universal Service and Access Fund (USAF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Service and Access Fund (USAF)", "country_label": "Universal Service and Access Fund", "class": "financing", "platform": "", "owner": "USAASA", "tiers": "national"}
+  ],
+  "note": ""
+}

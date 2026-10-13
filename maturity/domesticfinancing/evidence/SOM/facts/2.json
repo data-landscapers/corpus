@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-15-som-xeerka-qoondaha-miisaaniyadda-2026-bill-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Ministry of Finance's proposed 2026 appropriation bill (posted before parliamentary approval) gives the Data Protection Authority (head 030702) US$170,880 recurrent for 2026.",
+   "as_of": "2025-11-15",
+   "date_precision": "day",
+   "system": "Data Protection Authority budget, 2026 (proposed)",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "The Data Protection Authority's proposed recurrent budget is US$170,880 for 2026 against US$162,060 for 2025; the page also shows a project line of US$1,826,000 for the prior year.",
+   "as_of": "2025-11-15",
+   "date_precision": "day",
+   "system": "Data Protection Authority budget, 2026 (proposed)",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Proposed stage only; the enacted act is catalogued separately. Page holds citation and structure, with only the Data Protection Authority figures."
+}

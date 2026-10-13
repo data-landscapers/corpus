@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Minister of Digital and Digitalisation presented to the National Assembly on 25 November 2025 a 2026 digital budget of CFA27.2 billion: CFA9.7bn operating and CFA17.4bn capital, across three programmes (Piloting and Support CFA2.1bn, Digital Programme CFA12.3bn, Media Programme CFA12.6bn).", "as_of": "2025-11-25", "date_precision": "day", "system": "Ministry of Digital and Digitalisation budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The 2026 digital budget of CFA27.2bn is 6.32% lower than the CFA29.034bn approved for 2025, attributed mainly to a 12.22% fall in external financing.", "as_of": "2025-11-25", "date_precision": "day", "system": "Ministry of Digital and Digitalisation budget 2026 (against 2025)", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "The budget is part funded by external financing, not wholly; the document does not say the rest is domestic by name but the ministry budget counts."
+}

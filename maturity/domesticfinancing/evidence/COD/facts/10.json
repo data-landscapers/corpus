@@ -1,0 +1,17 @@
+{
+  "slug": "2023-12-10-cod-2024-71",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi de finances n°23/056 of 10 December 2023 appropriates FC 87,134,433,991, all domestic with no external investment, for Section 71, Numerique, for budget year 2024.",
+      "as_of": "2023-12-10",
+      "date_precision": "day",
+      "system": "Section 71 Numerique, budget 2024",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "No FY2024 outturn is attributable to this section, per the document."
+}

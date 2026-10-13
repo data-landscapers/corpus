@@ -1,0 +1,10 @@
+{
+  "slug": "2023-09-29-cpv-2024-fusi",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The informative annex to the 2024 State Budget proposal of Cabo Verde (proposed stage, not the enacted law) lists CVE 122,073,633 for the Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI), financed by operator contributions and the radio-spectrum fee.", "as_of": "2023-09-29", "date_precision": "day", "system": "FUSI, budget year 2024", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)", "country_label": "FUSI", "class": "financing", "platform": "", "owner": "State budget earmarked revenue (operator contributions and radio-spectrum fee)", "tiers": ""}
+  ],
+  "note": "Proposed-stage figure only; the enacted 2024 law does not reprint the table. No acted fact: only name and amount are printed."
+}

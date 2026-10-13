@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin",
+  "facts": [],
+  "systems": [
+    {"system": "Fonds de service universel", "country_label": "Fonds de service universel", "class": "financing", "platform": "", "owner": "CDCE (Comité de développement des communications électroniques) manages it; ARCEP selects operators", "tiers": "national"},
+    {"system": "ARCEP 2026 draft budget", "country_label": "projet de budget ARCEP 2026, FCFA 6.2 billion", "class": "other", "platform": "", "owner": "ARCEP", "tiers": "national"}
+  ],
+  "note": "Fund set up by law 18.002 (2018) and decree (Feb 2019), 2% operator levy, but the article says effective implementation is only planned for 2026 and gives no collection or payment, so no acted fact; the ARCEP draft budget is a regulator's budget, not a digital ministry, agency or programme line."
+}

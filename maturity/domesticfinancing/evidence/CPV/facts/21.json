@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-31-cpv-2024-sistema-informacao-desenvolvimento-sustentavel",
+  "facts": [],
+  "systems": [
+    {"system": "Programa Sistema de Informação para o Desenvolvimento Sustentável", "country_label": "Programa Sistema de Informação para o Desenvolvimento Sustentável", "class": "", "platform": "", "owner": "Instituto Nacional de Estatística and the national statistical system", "tiers": "national"}
+  ],
+  "note": "The programme is an official-statistics production programme (document says partial scope, no description of a digital system), so no financing fact is taken; its CVE 253,112,171 domestic appropriation and CVE 243,405,114 executed for 2024 are not tied to a digital programme."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-02-mli-plf-2026-annexe-dppd-pap-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 24,314,962,000 XOF to 103 digital line(s). Dated by the budget document.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 7 digital line(s) held in both years total 10,339,800,000 XOF for 2026 against 9,935,715,000 for 2025, +4.1 per cent; 103 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

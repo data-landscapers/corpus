@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-27-parliament-passes-2026-27-budget",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "Parliament passed the Shs84.3 trillion FY2026/27 budget on 24 April 2026, allocating Shs1.1 trillion to science, technology and innovation including ICT and the creative industry, for innovation, digitisation of government services, internet expansion and business process outsourcing; this is a combined programme, not a digital ministry or agency line, and the document gives no figure for the year before.",
+     "as_of": "2026-04-24", "date_precision": "day", "system": "Science, technology and innovation including ICT and creative industry, FY2026/27 budget", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

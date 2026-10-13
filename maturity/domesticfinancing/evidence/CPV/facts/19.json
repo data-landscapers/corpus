@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-01-cpv-nosi-plano-anual-atividades-orcamento-2024-source",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "NOSi's 2024 plan forecasts CVE 333,345,000 of revenue from protocols with the State, money the document says the buying ministries pay NOSi, the state digital agency, in budget year 2024.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "NOSi, E.P.E. protocols 2024",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NOSi, E.P.E.",
+      "country_label": "Núcleo Operacional da Sociedade de Informação",
+      "class": "other",
+      "platform": "",
+      "owner": "State enterprise",
+      "tiers": "national"
+    }
+  ],
+  "note": "Projetos Financiados CVE 269,638,000 is donor money (World Bank Digital Cabo Verde credit) and gives no fact; the plan is the agency's own, so the state-paid amount is the protocols line only."
+}

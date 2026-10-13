@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-01-bwa-2026-3300-12601",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2026/27 estimates give project 12601 MoHE Computerisation, Ministry of Higher Education, a development estimate of BWP 16,000,000 from the Domestic Development Fund.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "MoHE Computerisation (project 12601) 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Computerisation and ICT lines across seventeen organisations total BWP 895,462,597 in the FY2026/27 estimates, against BWP 251,000,000 for the digital ministry's own ICT project.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Cross-vote computerisation and ICT lines 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

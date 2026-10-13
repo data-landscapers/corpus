@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-15-zambia-approves-k255m-digital-infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Minister Mutati announced that government approved K255 million to upgrade digital infrastructure and Quality of Service, particularly in rural areas; the report does not say whether this is an appropriation, and gives no budget year (2026 inferred from the in-year announcement).",
+      "as_of": "2026-05-15",
+      "date_precision": "day",
+      "system": "K255 million digital infrastructure and QoS upgrade",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Funding source and appropriation stage are not stated; one allocated fact only, no comparison or spending figure."
+}

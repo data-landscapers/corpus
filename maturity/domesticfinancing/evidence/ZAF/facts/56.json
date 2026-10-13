@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-25-zaf-ene-2026-full-estimates-of-national-expenditure-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 13,369,667,000 ZAR to 78 digital line(s). Dated by the budget document.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 62 digital line(s) held in both years total 8,082,167,000 ZAR for 2026/27 against 7,685,596,000 for 2025/26, +5.2 per cent; 78 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

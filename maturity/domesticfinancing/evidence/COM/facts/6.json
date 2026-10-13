@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-19-com-2025-08-0825",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The FY2025 finance law (decree 24-186/PR of 19 December 2024) appropriates KMF 9,128,000 (salaries 6,128,000, goods and services 3,000,000) for the Direction Generale de l'informatique, the state's computing directorate in the finance ministry; the FY2026 volume shows the 2025 rectificative cut it to KMF 0.", "as_of": "2024-12-19", "date_precision": "day", "system": "Direction Generale de l'informatique, budget 2025", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The directorate's appropriation is KMF 9,128,000 in the 2025 law and the same KMF 9,128,000 in the 2024 rectified column (LFR 2024), so the later year is the same; the FY2025 rectificative then revised 2025 to KMF 0.", "as_of": "2024-12-19", "date_precision": "day", "system": "Direction Generale de l'informatique, budget 2025", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Budget line record; the FY2025 original and the 2024 comparator are equal, which the study rule files as fell."
+}

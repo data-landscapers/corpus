@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The document gives the Ministério da Economia Digital's 2025 appropriation as CVE 369,781,930.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ministério da Economia Digital, 2025 budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The Ministério da Economia Digital's appropriation fell 73.4% from CVE 1,390,965,632 in 2024 to CVE 369,781,930 in 2025, per the document; the date is the plan's year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ministério da Economia Digital, 2025 budget",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi, E.P.E.",
+   "country_label": "Núcleo Operacional da Sociedade de Informação",
+   "class": "other",
+   "platform": "",
+   "owner": "State enterprise",
+   "tiers": "national"
+  }
+ ],
+ "note": "NOSi's own revenue forecast (CVE 1,486,249,000, including CVE 333,345,000 of state protocols) is an enterprise's income, not a budget line; donor-funded projects are excluded."
+}

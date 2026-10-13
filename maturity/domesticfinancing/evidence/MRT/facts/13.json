@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-10-mrt-lfi-2024-loi-2024-001-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 1,157,168,883 MRU is published as actually spent on digital lines for 2024. Dated by the document that gives the figure.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "State budget, 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

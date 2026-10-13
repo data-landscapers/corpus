@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-04-kenya-ag-opinion-digital-superhighway-quashed",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The Universal Service Fund, administered by the Communications Authority, funded the Digital Superhighway backbone and metro fibre procurement (tenders expected to cost over Sh15 billion per the petitioner), and a 1 October 2024 Attorney-General advisory was relied on by the CA in processing payments; the document does not name the law assigning the fund, and the High Court quashed the advisory on 2026-09-04 but did not nullify the contracts.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Universal Service Fund",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Universal Service Fund",
+      "country_label": "Universal Service Fund (USF)",
+      "class": "financing",
+      "platform": "",
+      "owner": "Communications Authority of Kenya",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

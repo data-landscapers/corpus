@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-01-nga-appropriation-act-2026-details-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 361,965,613,224 NGN to 1209 digital line(s). Dated by the budget document.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 947 digital line(s) held in both years total 296,213,962,208 NGN for 2026 against 346,601,399,254 for 2025, -14.5 per cent; 1209 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

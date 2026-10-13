@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-sle-2026-135",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The FY2026 Summary of Expenditure Estimates gives the Ministry of Communication, Technology and Innovation (Head 135) a proposed NLe 46,808,900 for 2026, of which the domestic development column is nil and development of NLe 1,062,400 is foreign-funded; this is the tabled estimate, not an enacted appropriation.",
+     "as_of": "2025-12-01", "date_precision": "day",
+     "system": "Ministry of Communication, Technology and Innovation budget, FY2026 (Head 135)", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "No FY2025 figure in the document, so no rose or fell; the NLe 34.84m September 2025 figure is the ministry's own request for the same year."
+}

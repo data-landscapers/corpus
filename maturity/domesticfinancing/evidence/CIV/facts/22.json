@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-18-civ-2025-356-22126",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2025 finance law (Loi n° 2024-1109 of 18 December 2024) appropriates FCFA 19,033,679,859 to programme 22126 'Economie numérique et poste' of the Ministry of Digital Transition and Digitalisation, a recurrent line met from the general domestic budget with no external financing.", "as_of": "2024-12-18", "date_precision": "day", "system": "Programme 22126 Economie numérique et poste, Ministry of Digital Transition and Digitalisation, FY2025 budget", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Programme 22126 Economie numérique et poste", "country_label": "Programme 22126, section 356", "class": "financing", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national"}
+  ],
+  "note": ""
+}

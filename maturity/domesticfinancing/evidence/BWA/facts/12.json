@@ -1,0 +1,46 @@
+{
+ "slug": "2025-03-31-bwa-2025-2400-11631",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2025/26 estimates allocate BWP 369,079,545 to the Ministry of Communications and Innovation's development project 11631 Information and Communications Technology, funded from the Domestic Development Fund (revised in August 2025 to BWP 338,683,428).",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Ministry of Communications and Innovation, project 11631 Information and Communications Technology, FY2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The document gives the project at BWP 369,079,545 for FY2025/26 against BWP 736,601,447 for FY2024/25, a fall of 49.9 percent.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Ministry of Communications and Innovation, project 11631 Information and Communications Technology, FY2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Actual expenditure on project 11631 was BWP 142,712,599 at 5 December 2025, 42.1 percent of the revised BWP 338,683,428; a part-year figure, not a full-year outturn.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Ministry of Communications and Innovation, project 11631 Information and Communications Technology, FY2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information and Communications Technology (project 11631)",
+   "country_label": "Information and Communications Technology (project 11631)",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

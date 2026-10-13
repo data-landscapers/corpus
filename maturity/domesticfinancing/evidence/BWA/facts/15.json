@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-31-bwa-2025-3300-12601",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2025/26 estimates allocate BWP 3,950,000 to the Ministry of Higher Education's development project 12601 MHE Computerisation, funded from the Domestic Development Fund.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Ministry of Higher Education, project 12601 MHE Computerisation, FY2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Actual expenditure on project 12601 was BWP 3,950,000 at 5 December 2025, 100 percent of the appropriation; a part-year cut-off.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Ministry of Higher Education, project 12601 MHE Computerisation, FY2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MHE Computerisation (project 12601)",
+   "country_label": "MHE Computerisation (project 12601)",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Higher Education",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-07-egy-2025-ict-sector-dev-plan",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Minister of Planning told the House of Representatives that EGP 13 billion of public investment is allocated to the ICT sector in the 2025/2026 plan, of which EGP 9 billion is financed from the state's general budget; the document gives no date for the presentation, so its published date is used.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "Communications and Information Technology sector public investment, FY2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

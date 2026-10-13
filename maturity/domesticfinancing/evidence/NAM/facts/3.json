@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-19-thebrief-namibia-universal-service-fund-launch-n145-million-seed-funding",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The government allocated N$145 million over three years as seed funding for the Universal Service Fund, announced by the Minister of ICT at the launch.",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "At the Fund's launch the minister announced the state seed funding, and CRAN had already disbursed a N$31 million subsidy to MTC for nine network sites.",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund (Namibia)",
+   "country_label": "Universal Service Fund (Namibia)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  },
+  {
+   "system": "MTC USF nine-site subsidy",
+   "country_label": "MTC USF nine-site subsidy",
+   "class": "other",
+   "platform": "",
+   "owner": "MTC",
+   "tiers": ""
+  }
+ ],
+ "note": "Figure is N$145m here against N$115m in CRAN's reports; each recorded as stated. The MTC subsidy is a payment out of the Fund, recorded under acted."
+}

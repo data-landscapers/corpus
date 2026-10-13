@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,financing,budget,coverage,spent,2026-04-01,COD-012,COD-002=allocated;COD-004=rose;COD-005=allocated;COD-006=rose;COD-013=rose;COD-016=allocated;COD-017=fell;COD-007=allocated;COD-008=rose;COD-010=allocated;COD-011=fell;COD-014=allocated;COD-015=allocated,
+COD,financing,commitment,coverage,acted,2020-11-05,COD-001,,nothing dated since 2023-09-28

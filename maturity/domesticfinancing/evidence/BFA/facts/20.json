@@ -1,0 +1,27 @@
+{
+ "slug": "2023-12-15-bfa-2024-31-095",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2024 finance law appropriates 1,387,136,000 F CFA in domestic payment credits to programme 095 'Développement d'infrastructures de communications électroniques' of the digital ministry (MTD-PCE), covering the government backbone and broadband access.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "MTD-PCE budget 2024, programme 095 Développement d'infrastructures de communications électroniques",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The ministry's programme 095 line shows 272,081,258 F CFA actually spent for 2024 (19.6% of the 1,387,136,000 voted) in the state execution report to 31 December 2024; the document notes a 79.0% in-year cancellation of credits preceded this.",
+   "as_of": "2025-03-01",
+   "date_precision": "day",
+   "system": "MTD-PCE budget 2024, programme 095 Développement d'infrastructures de communications électroniques",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

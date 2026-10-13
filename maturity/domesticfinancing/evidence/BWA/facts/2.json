@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-01-bocra-newsletter-issue-003",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "commitment",
+      "value": "acted",
+      "fact": "The newsletter reports that two primary-school Digital Centres, each costing P1.59 million, were launched on 28 November 2025 and were implemented by BOCRA through the Universal Access and Service Fund; the document does not name the law behind the fund.",
+      "as_of": "2025-11-28",
+      "date_precision": "day",
+      "system": "Universal Access and Service Fund (UASF)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Universal Access and Service Fund (UASF)",
+      "country_label": "UASF",
+      "class": "financing",
+      "platform": "",
+      "owner": "BOCRA (secretariat); independent Board of Trustees",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

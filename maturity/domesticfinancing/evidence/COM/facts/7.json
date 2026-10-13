@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-19-com-2025-09-0905",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The FY2025 finance law (decree 24-186/PR of 19 December 2024) appropriates KMF 73,000,000, wholly as a transfer (subvention), to the chambre du Numerique under the posts, telecommunications and digital economy ministry; the amount was unchanged by the 2025 rectificative.", "as_of": "2024-12-19", "date_precision": "day", "system": "chambre du Numerique, budget 2025", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "No rose/fell: the record calls the body new in FY2025 yet prints a 73,000,000 comparator for 2024, which is unclear."
+}

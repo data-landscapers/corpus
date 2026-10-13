@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-30-cog-2025-45-118",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Loi n° 47-2024 of 30 December 2024 appropriates XAF 23,093,583,163 for programme 118 Poste, télécommunication et économie numérique (Code 45) of the Ministry of Posts, Telecommunications and the Digital Economy for budget year 2025; posts is inside the programme and not separable.", "as_of": "2024-12-30", "date_precision": "day", "system": "Programme 118 Poste, télécommunication et économie numérique, 2025 budget", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The budget execution report at 31 December 2025 (Annex 4, dated 2026-03-02) gives XAF 3,158,525,582 actually spent on programme 118 against a revised XAF 23,348,037,007, 13.5%; the spending figure excludes personnel but the revised figure includes it, so the rate is a floor; the ministry's line, not a fund.", "as_of": "2025-12-31", "date_precision": "day", "system": "Programme 118 Poste, télécommunication et économie numérique, 2025 budget", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Programme 118 is the ministry's whole operational vote; no prior-year figure is given, so no rose or fell fact."
+}

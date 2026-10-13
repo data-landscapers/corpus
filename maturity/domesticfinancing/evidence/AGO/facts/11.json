@@ -1,0 +1,36 @@
+{
+  "slug": "2026-02-20-ago-oge-2026-comunicacoes-programa-corte",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "OGE 2026 sets Kz 159.2bn (about USD 172.6m) for the Programa de Expansão e Modernização das Comunicações, of which Kz 62.7bn (about USD 68m) is the 4G network expansion, as reported by pti.ao from the MINFIN programme table.",
+      "as_of": "2026-02-20",
+      "date_precision": "day",
+      "system": "Programa Expansão e Modernização das Comunicações (OGE 2026)",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The programme falls 30.5% from Kz 229.3bn in the 2025 budget to Kz 159.2bn in the 2026 budget; the 4G expansion line falls from Kz 107.8bn to Kz 62.7bn (about 42%).",
+      "as_of": "2026-02-20",
+      "date_precision": "day",
+      "system": "Programa Expansão e Modernização das Comunicações (OGE 2026)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Programa Expansão e Modernização das Comunicações",
+      "country_label": "Programa de Expansão e Modernização das Comunicações",
+      "class": "financing",
+      "platform": "",
+      "owner": "MINTTICS (budget from Ministério das Finanças)",
+      "tiers": "national"
+    }
+  ],
+  "note": "As_of is the article's published date; the budget's own enactment date is not given."
+}

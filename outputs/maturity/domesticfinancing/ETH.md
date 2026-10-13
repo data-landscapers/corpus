@@ -1,0 +1,11 @@
+# Ethiopia
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The 2026/27 federal budget gives [35,959,539,563 birr to 125 digital lines](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>). The 73 digital lines held for both years total [21,697,879,134 birr for 2026/27 against 14,643,622,841 for 2025/26](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>), a rise of 48.2%. In 2024/25 the Ministry of Innovation and Technology [was voted 2,754,552,330 birr and spent 989,820,128, or 35.9%](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>). The same budget appropriates [1,484,839,300 birr to the Ministry of Innovation and Technology](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>) and [6,293,131,040 birr to the Artificial Intelligence Institution, 5,600,000,000 of it capital and 693,131,040 recurrent](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
+
+**A commitment to pay at home, and the act that follows it.** The nearest held fact is that the 2026/27 federal budget [gives the Artificial Intelligence Institution its money, all from the treasury](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
+
+***Noted, not assessed***. [The Ethiopian Digital Foundation Project, externally financed](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
+
+***Not held***. No fund, levy or assigned tax is shown created, collecting or paying for digital programmes.

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-23-agefau-11e-session-ordinaire-conseil-administration",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "AGEFAU itself reports that its board adopted a revised 2026 budget of FCFA 27,886,688,000 against FCFA 41,151,471,000 initially, a fall of 32% within the same budget year, with projects spread over 2026 and 2027; this is not a comparison of two budget years.",
+     "as_of": "2026-07-23", "date_precision": "day", "system": "AGEFAU 2026 budget (revised)", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "The fund agency's revised 2026 budget pays for network extension in 162 localities, 80 universal access centres, 100 Wi-Fi huts, school computer rooms and training of 1,000 young people.",
+     "as_of": "2026-07-23", "date_precision": "day", "system": "Fonds d'accès universel (AGEFAU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fonds d'accès universel (AGEFAU)", "country_label": "Agence de Gestion du Fonds d'Accès Universel", "class": "financing", "platform": "", "owner": "AGEFAU, chaired by the Prime Minister", "tiers": ""}
+  ],
+  "note": "The auditor's report is named as examined but no amount is given, so no spent fact."
+}

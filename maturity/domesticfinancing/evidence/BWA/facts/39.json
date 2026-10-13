@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-05-bwa-estimates-of-expenditure-consolidated-development-funds-2024-25-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 1,057,424,684 BWP is published as actually spent on digital lines for 2024/25. Dated by the document that gives the figure.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "State budget, 2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

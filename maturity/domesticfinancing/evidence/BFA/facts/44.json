@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-27-bfa-lf-2026-volume-integral-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for Exercice 2026 gives 15,451,831,000 XOF to 177 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-27",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 43 digital line(s) held in both years total 6,174,786,000 XOF for Exercice 2026 against 6,947,413,000 for Exercice 2025, -11.1 per cent; 177 lines are held for Exercice 2026. Dated by the budget document.",
+   "as_of": "2025-12-27",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

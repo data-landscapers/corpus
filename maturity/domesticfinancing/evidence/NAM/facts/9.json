@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-09-telecom-namibia-cran-usf-phase2-agreement",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "CRAN's Universal Service Fund paid for a project: on 9 April 2026 Telecom Namibia and CRAN signed the Phase 2 agreement, a subsidy of N$9,796,650 to build rural Radio Access Network sites; the document does not name the law that set up the fund.", "as_of": "2026-04-09", "date_precision": "day", "system": "Universal Service Fund", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-01-gha-2026-026-02603-02603003",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 Programme Based Budget Estimates of the Ministry of Communication, Digital Technology and Innovations appropriate GHS 25,346,198 (GHS 21,801,749 from the Government of Ghana plus GHS 3,544,449 internally generated funds) to the Cyber Security Authority sub-programme for budget year 2026.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Cyber Security Authority, Cyber Security and Regulations sub-programme, 2026 budget",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cyber Security Authority, Cyber Security and Regulations sub-programme, 2026 budget",
+      "country_label": "Cyber Security Authority",
+      "class": "financing",
+      "platform": "",
+      "owner": "Ministry of Communication, Digital Technology and Innovations",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

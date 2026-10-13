@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-01-bwa-2024-2400-2406",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The Ministry of Finance's FY2024/25 estimates voted BWP 587,270,280 in recurrent expenditure for the Department of Shared Digital Services (department 2406) of the Ministry of Communications and Innovation, financed from the Domestic Development Fund with no external grant or loan code.",
+     "as_of": "2024-04", "date_precision": "month",
+     "system": "Department of Shared Digital Services, Ministry of Communications and Innovation, FY2024/25 recurrent estimate", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent",
+     "fact": "Actual recurrent expenditure of the Department of Shared Digital Services to 31 March 2025 was BWP 487,118,818, 82.9% of the BWP 587,270,280 originally voted and 87.7% of the BWP 555,644,290 revised figure, as printed in the Ministry of Finance's FY2026/27 estimates volume; the ministry's line only, no fund collections given.",
+     "as_of": "2025-03-31", "date_precision": "day",
+     "system": "Department of Shared Digital Services, Ministry of Communications and Innovation, FY2024/25 actual expenditure", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

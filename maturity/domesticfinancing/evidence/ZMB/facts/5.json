@@ -1,0 +1,17 @@
+{
+  "slug": "2024-12-20-zmb-appropriation-act-2024-act-29-companion",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Appropriation Act, 2024 (Act No. 29, assented 20 December 2024) authorises K217.1bn for 2025; its catalogue line gives Smart Zambia K452.1 million, the schedule itself not being on the page.",
+      "as_of": "2024-12-20",
+      "date_precision": "day",
+      "system": "Smart Zambia programme, 2025 appropriation",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Companion page; figure from catalogue line only, no comparison or spending."
+}

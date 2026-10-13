@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-tza-dailynews-unclaimed-ids-law-in-offing",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Prime Minister said the government allocated more than TZS 132bn in the 2026/27 financial year to the National Identification Authority (NIDA) for development projects, including 31 registration offices, a headquarters building and an ICT service centre.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "NIDA development budget 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national identification system",
+   "country_label": "National Identification Authority (NIDA)",
+   "class": "",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": "156 district offices"
+  }
+ ],
+ "note": "The NIDA amount is a national ID agency's development vote, not a digital ministry or agency by name; the parent may judge whether it counts. Date is the speech day, the day before the 17 Sep report."
+}

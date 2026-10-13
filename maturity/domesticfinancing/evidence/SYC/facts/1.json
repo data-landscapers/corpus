@@ -1,0 +1,10 @@
+{
+  "slug": "2023-04-13-gazette-communications-act-2023",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Communications Act 2023 (Act 3 of 2023), assented 13 April 2023, sets up a universal access and universal service fund in Part XII (s.99) with contributions (s.100), but the capture holds only the section headings, not the text, and the Act commences on a date the Minister appoints by Gazette notice; no collection or payment is shown.", "as_of": "2023-04-13", "date_precision": "day", "system": "Universal access and universal service fund (Communications Act 2023, s.99)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal access and universal service fund", "country_label": "Universal access and universal service fund (Communications Act 2023, Part XII)", "class": "financing", "platform": "", "owner": "Seychelles Communications Regulatory Authority (administers the Act)", "tiers": ""}
+  ],
+  "note": ""
+}

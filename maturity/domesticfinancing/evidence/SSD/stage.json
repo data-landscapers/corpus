@@ -1,0 +1,16 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "2",
+   "budget": "allocated",
+   "commitment": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-002",
+   "gaps": "Nothing held gives the money for digital transformation in two budget years running, so whether it rose is not known.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

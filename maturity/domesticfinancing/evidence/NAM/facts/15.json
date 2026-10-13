@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-01-nam-estimates-revenue-income-expenditure-2026-27-2028-29-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 989,443,000 NAD to 35 digital line(s). Dated by the budget document.",
+   "as_of": "2026-02-01",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 15 digital line(s) held in both years total 931,625,000 NAD for 2026/27 against 1,035,870,355 for 2025/26, -10.1 per cent; 35 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-02-01",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

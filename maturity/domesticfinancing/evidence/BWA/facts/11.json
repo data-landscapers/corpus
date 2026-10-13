@@ -1,0 +1,37 @@
+{
+ "slug": "2025-03-31-bwa-2025-0600-12104",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2025/26 estimates give project 12104 MCWBE Computerisation, Ministry of Child Welfare and Basic Education, a development estimate of BWP 270,000,000 from the Domestic Development Fund; revised later to BWP 38,819,833.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "MCWBE Computerisation (project 12104) 2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The FY2026/27 estimates volume shows actual expenditure of BWP 0 on project 12104 by 5 December 2025, a part-year figure, not an outturn; spending is the ministry's project line, with no collections given.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "MCWBE Computerisation (project 12104) 2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Cross-vote computerisation had spent BWP 65,419,018 of a revised BWP 300,336,741 (21.8%) by 5 December 2025, a part-year figure.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Cross-vote computerisation 2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

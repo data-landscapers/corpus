@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-23-bfa-2025-31-136",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2025 finance law (loi n°042-2024/ALT of 23 December 2024) appropriates 5,845,994,000 F CFA in domestic payment credits to programme 136 'Transformation et écosystème numérique' of the digital ministry (MTD-PCE), of which 4,086,853,000 is a single Microsoft licensing chapter; counterpart funding is excluded, so the figure is a floor.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "MTD-PCE budget 2025, programme 136 Transformation et écosystème numérique",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "No rise/fell: the document gives 2025 only, and no actual spending."
+}

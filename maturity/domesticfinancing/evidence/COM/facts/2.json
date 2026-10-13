@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-16-com-2026-08-0825",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (decree 26-003/PR of 16 January 2026) appropriates KMF 277 128 000 to the Direction Générale de Système d'Information et de Communication (service 08 0825, finance ministry), of which KMF 70 000 000 is investment, funded from domestic revenue.", "as_of": "2026-01-16", "date_precision": "day", "system": "Direction Générale de Système d'Information et de Communication budget, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The same service rose from KMF 0 in the 2025 rectificative finance law to KMF 277 128 000 in the 2026 finance law (budget years 2025 and 2026).", "as_of": "2026-01-16", "date_precision": "day", "system": "Direction Générale de Système d'Information et de Communication budget, 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Direction Générale de Système d'Information et de Communication (service 08 0825)", "country_label": "DG Système d'Information et de Communication", "class": "financing", "platform": "", "owner": "Ministère des Finances, du Budget et du Secteur Bancaire", "tiers": "national"}
+  ],
+  "note": ""
+}

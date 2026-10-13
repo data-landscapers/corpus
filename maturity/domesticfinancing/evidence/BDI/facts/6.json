@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-11-bdi-2026-cni-biometrique",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Finance minister Alain Ndikumana said on 11 June 2026 that BIF 16 billion is provided in the draft 2026-2027 budget bill to finance the biometric national identity card; the bill was proposed and not yet enacted, and the source does not say how much of it is paid by a donor.", "as_of": "2026-06-11", "date_precision": "day", "system": "Carte nationale d'identite biometrique, draft 2026-2027 budget", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Carte nationale d'identite biometrique (CNI)", "country_label": "CNI biometrique", "class": "other", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy", "tiers": "national"}
+  ],
+  "note": ""
+}

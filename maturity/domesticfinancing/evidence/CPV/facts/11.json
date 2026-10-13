@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-31-cpv-2026-sistema-informacao-desenvolvimento-sustentavel",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2026 budget law (Mapa VII) appropriates CVE 290,706,686 to the Sistema de Informação para o Desenvolvimento Sustentável programme, all from the treasury with no external financing in the law; the programme is a national statistical information system, so its scope as a digital line is partial.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Sistema de Informação para o Desenvolvimento Sustentável programme, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The programme's domestic appropriation is CVE 290,706,686 for 2026 against CVE 302,771,454 for 2025, a fall, per the record's own note on the three-year series.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Sistema de Informação para o Desenvolvimento Sustentável programme, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Q1 2026 execution (CVE 60,549,143 at 31 March) is a quarter-year figure, not a spent fact; loans reprogrammed in at Q1 are external and give no fact."
+}

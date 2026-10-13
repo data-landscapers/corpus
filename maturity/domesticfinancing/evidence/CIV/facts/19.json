@@ -1,0 +1,27 @@
+{
+  "slug": "2025-12-19-civ-2026-356-22126",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026 finance law appropriates FCFA 45,991,319,076 for programme 22126 Economie numérique et poste of the Ministry of Digital Transition and Digitalisation (section 356), funded from domestic revenue.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "Programme 22126 Economie numérique et poste, FY2026",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "Programme 22126 rises from FCFA 19,033,679,859 in the 2025 budget to FCFA 45,991,319,076 in the 2026 budget, up 141.6%.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "Programme 22126 Economie numérique et poste, FY2025 to FY2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

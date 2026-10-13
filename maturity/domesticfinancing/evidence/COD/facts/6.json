@@ -1,0 +1,36 @@
+{
+  "slug": "2025-12-29-cod-2026-71",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi de finances n°25/060 of 29 December 2025 appropriates FC 81,698,223,741 of domestic state money for Section 71, Economie Numerique, for budget year 2026 (section total FC 226,713,223,741 less FC 145,015,000,000 external investment).",
+      "as_of": "2025-12-29",
+      "date_precision": "day",
+      "system": "Section 71 Economie Numerique, budget 2026",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The document states Section 71 rose from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), all sources; the domestic share rose from FC 60,627,481,411 to FC 81,698,223,741; the document adds that part of the jump is a transfer of mandate from Section 52.",
+      "as_of": "2025-12-29",
+      "date_precision": "day",
+      "system": "Section 71 Economie Numerique, budget 2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Projet d'appui à la transformation numérique en RDC",
+      "country_label": "Projet d'appui à la transformation numérique en RDC",
+      "class": "other",
+      "platform": "",
+      "owner": "External financing line FC 145,015,000,000, financier not named in the budget; the document matches it to World Bank P180495",
+      "tiers": ""
+    }
+  ],
+  "note": "Section 71 renamed from Numerique to Economie numerique in 2026; the external FC 145,015,000,000 line is excluded from the domestic figure and gives no allocated fact."
+}

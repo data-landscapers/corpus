@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-31-bwa-2025-2400-11637",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2025/26 estimates allocate BWP 477,403,718 to the Ministry of Communications and Innovation's development project 11637 Research and Development, funded from the Domestic Development Fund (revised in August 2025 to BWP 185,786,978).",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Ministry of Communications and Innovation, project 11637 Research and Development, FY2025/26",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Actual expenditure on project 11637 was BWP 42,771,544 at 5 December 2025, 23.0 percent of the revised BWP 185,786,978; a part-year figure, not a full-year outturn.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Ministry of Communications and Innovation, project 11637 Research and Development, FY2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Research and Development (project 11637)",
+   "country_label": "Research and Development (project 11637)",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "No year-on-year comparison given in this document, so no rose or fell fact."
+}

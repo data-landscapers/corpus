@@ -1,0 +1,37 @@
+{
+ "slug": "2026-04-30-lso-budget-estimates-book-2026-27-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 1,046,745,257 LSL to 13 digital line(s). Dated by the budget document.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 11 digital line(s) held in both years total 1,003,814,035 LSL for 2026/27 against 725,488,825 for 2025/26, +38.4 per cent; 13 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 539,710,000 LSL is published as actually spent on digital lines for 2024/25. Dated by the document that gives the figure.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "State budget, 2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

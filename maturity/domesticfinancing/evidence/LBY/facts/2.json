@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-10-lby-cbl-revenue-expenditure-statement-jan-aug-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "The Central Bank of Libya's statement for 1 January to 31 August 2026 gives 25,163,293.89 LYD spent on the General Authority for Communications and affiliates (6,223,414.97 and 15,964,878.92 in Chapter 1, 2,975,000.00 in Chapter 2, nothing in Chapter 3); authority's line only, no fund collections given.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "General Authority for Communications and affiliates, state budget execution line",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Spending is the Central Bank of Libya's execution statement line for the communications authority; no fund, levy or commitment stated."
+}

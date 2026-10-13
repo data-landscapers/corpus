@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-cpv-nosi-plano-atividades-orcamento-2026-source",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "NOSi's 2026 plan forecasts CVE 333,345,000 of revenue from state service protocols (the December 2021 protocol with the digital ministry), unchanged from 2025; the plan also quotes the ministry's own 2026 appropriation as CVE 174,200,533.", "as_of": "2026-01", "date_precision": "month", "system": "NOSi E.P.E. protocolo com o Estado 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The plan's comparison table gives the digital ministry's appropriation as CVE 369,781,930 in 2025 and CVE 174,200,533 in 2026, a fall (and CVE 1,390,965,632 in 2024).", "as_of": "2026-01", "date_precision": "month", "system": "Ministerio da Economia Digital budget 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "NOSi, E.P.E.", "country_label": "Nucleo Operacional da Sociedade de Informacao", "class": "financing", "platform": "", "owner": "State enterprise", "tiers": "national"}
+  ],
+  "note": "Projetos Financiados (CVE 111,581,000 in 2026, down from 234,465,000) is donor-funded and gives no fact; NOSi's trading revenue is its own and is not a budget line."
+}

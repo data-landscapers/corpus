@@ -1,0 +1,10 @@
+{
+  "slug": "2023-11-27-com-2024-09",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Finance law 23-019/AU (adopted 27 November 2023) appropriates KMF 194,457,800 for 2024 to the Ministry of Posts, Telecommunications and Digital Economy, with no capital; the August 2024 rectificative revised it to KMF 682,681,240.", "as_of": "2023-11-27", "date_precision": "day", "system": "Ministry of Posts, Telecommunications and Digital Economy, budget 2024", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The ministry's 2024 appropriation of KMF 194,457,800 is lower than the 2023 rectified figure of KMF 337,232,800 (down KMF 142,775,000, 42.34%), as printed in the law.", "as_of": "2023-11-27", "date_precision": "day", "system": "Ministry of Posts, Telecommunications and Digital Economy, budget 2024", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The FY2024 budget execution report of 14 March 2025 shows the ministry spent KMF 183,586,075 in 2024 (salaries 41,223,675; goods and services 2,362,400; transfers 140,000,000), 94.41% of the original appropriation and 26.89% of the revised KMF 682,681,240.", "as_of": "2025-03-14", "date_precision": "day", "system": "Ministry of Posts, Telecommunications and Digital Economy, execution 2024", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Ministry envelope also covers posts; the execution figures come from the record's stage history of the 2025 report."
+}

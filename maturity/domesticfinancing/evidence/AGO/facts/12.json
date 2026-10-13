@@ -1,0 +1,36 @@
+{
+  "slug": "2026-01-01-ago-2026-minttics-expansao-modernizacao-comunicacoes",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The record gives an appropriation of AOA 159.2bn for the OGE 2026 programme Expansão e Modernização das Comunicações, spending entity MINTTICS, sourced from pti.ao reporting.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Programa Expansão e Modernização das Comunicações (OGE 2026)",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The record gives the programme as down 30.5% on the 2025 budget (Kz 159.2bn in 2026 against Kz 229.3bn in 2025); the 2024 figure was Kz 7.4bn.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Programa Expansão e Modernização das Comunicações (OGE 2026)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Programa Expansão e Modernização das Comunicações",
+      "country_label": "Programa de Expansão e Modernização das Comunicações",
+      "class": "financing",
+      "platform": "",
+      "owner": "MINTTICS (budget from Ministério das Finanças)",
+      "tiers": "national"
+    }
+  ],
+  "note": "As_of is the document's published date (month precision); the document is a reporting-sourced record."
+}

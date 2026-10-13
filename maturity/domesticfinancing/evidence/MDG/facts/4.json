@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-16-mdg-lfr-2026-tome-2-livre-1-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 53,583,872,000 MGA to 95 digital line(s). Dated by the budget document.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 50 digital line(s) held in both years total 9,703,842,000 MGA for 2026 against 9,904,335,000 for 2025, -2.0 per cent; 95 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

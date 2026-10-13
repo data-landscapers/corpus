@@ -1,0 +1,16 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "2",
+   "budget": "spent",
+   "commitment": "acted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-006;CPV-007",
+   "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

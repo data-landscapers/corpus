@@ -1,0 +1,13 @@
+{
+  "slug": "2023-12-18-civ-2024-356-23209",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2024 finance law (Loi n° 2023-1000 of 18 December 2023) appropriates FCFA 36,470,000,000 to programme 23209 'Comptes Spéciaux du Trésor' of the Ministry of Digital Transition and Digitalisation, bundling the ANSUT rural-technology levy account (FCFA 32.3bn voted) and the ARTCI telecoms-regulation levy account (FCFA 4.17bn voted).", "as_of": "2023-12-18", "date_precision": "day", "system": "Programme 23209 Comptes Spéciaux du Trésor (ANSUT rural-technology levy account), FY2024 budget", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "In 2024 an earmarked levy on telecom operators funded the ANSUT rural-technology special account (FCFA 32.3bn voted); collection fell short, so the appropriation was cut by FCFA 8,793,791,458 to FCFA 27,676,208,542, the law or decree creating the levy is not cited.", "as_of": "2024", "date_precision": "year", "system": "ANSUT rural-technology levy (compte d'affectation spéciale), programme 23209", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The 2024 settlement law records FCFA 27,676,208,542 spent in 2024 on programme 23209 (100% of the revised figure, 75.89% of FCFA 36.47bn voted), covering the ANSUT and ARTCI levy accounts together; collections are not stated, only that they fell short by about the FCFA 8.79bn write-down.", "as_of": "2024", "date_precision": "year", "system": "Programme 23209 Comptes Spéciaux du Trésor (ANSUT and ARTCI levy accounts), FY2024 outturn", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "ANSUT rural-technology levy account (programme 23209)", "country_label": "Taxe pour le développement des nouvelles technologies en zones rurales", "class": "financing", "platform": "", "owner": "ANSUT / Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national"},
+    {"system": "ARTCI telecoms-regulation levy account (programme 23209)", "country_label": "ARTCI regulation levy", "class": "other", "platform": "", "owner": "ARTCI", "tiers": "national"}
+  ],
+  "note": ""
+}

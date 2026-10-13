@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-09-guinea-ecuatorial-ley-presupuestos-generales-estado-2026",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for Ejercicio 2026 gives 23,476,749,000 XAF to 113 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "State budget, Ejercicio 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 10 digital line(s) held in both years total 8,528,000,000 XAF for Ejercicio 2026 against 8,668,000,000 for Ejercicio 2025, -1.6 per cent; 113 lines are held for Ejercicio 2026. Dated by the budget document.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "State budget, Ejercicio 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

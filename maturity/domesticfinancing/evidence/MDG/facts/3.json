@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-01-rapport-audit-mndpt-cour-des-comptes",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The Cour des comptes audit says the e-Fokontany project spent 21,541,224,988.66 Ariary over 2022-2025, financed by the MNDPT general budget, the MNDPT annex budget, the FDTIC, the Presidency and PRODIGY; the figure is a four-year total, not a single year, and no split by year is given.", "as_of": "2025", "date_precision": "year", "system": "e-Fokontany", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The audit says expenditure on the e-poketra project from 2022 to 2025 came to 19,661,604,500 Ariary (worded 'dépenses allouées'); a four-year total with no split by year, and the funding source is not stated.", "as_of": "2025", "date_precision": "year", "system": "e-poketra", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The audit says the FDTIC (Fonds de Développement des Télécommunications et des TIC) was created and is managed by the telecoms minister for sector policy, and that it made large expenditures in 2022-2025, including part-financing the e-Fokontany project; the creating law or decree is not named and no amount collected is given.", "as_of": "2025", "date_precision": "year", "system": "FDTIC", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "FDTIC", "country_label": "Fonds de Développement des Télécommunications et des TIC", "class": "financing", "platform": "", "owner": "Ministry of Digital Development, Digital Transformation, Posts and Telecommunications (MNDPT)", "tiers": ""},
+    {"system": "e-Fokontany", "country_label": "e-Fokontany (Karinempokontany QR-code household register)", "class": "financing", "platform": "QR-code household booklet", "owner": "MNDPT", "tiers": "fokontany, districts"},
+    {"system": "e-poketra", "country_label": "e-Poketra", "class": "financing", "platform": "electronic payment cards", "owner": "MNDPT", "tiers": ""},
+    {"system": "Smart Villages", "country_label": "Smart Villages", "class": "", "platform": "", "owner": "MNDPT", "tiers": ""}
+  ],
+  "note": ""
+}

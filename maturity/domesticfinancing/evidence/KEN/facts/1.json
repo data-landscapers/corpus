@@ -1,0 +1,47 @@
+{
+  "slug": "2025-06-12-eastleighvoice-digital-superhighway-fy2025-26-budget",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The National Treasury allocated Sh12.7 billion to the digital superhighway programme in the FY2025/26 budget estimates presented by Treasury CS John Mbadi.",
+      "as_of": "2025-06-12",
+      "date_precision": "day",
+      "system": "Digital superhighway programme, FY2025/26 budget",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The FY2025/26 allocation of Sh12.7 billion for the digital superhighway programme is a 22 per cent reduction from Sh16.3 billion in FY2024/25.",
+      "as_of": "2025-06-12",
+      "date_precision": "day",
+      "system": "Digital superhighway programme, FY2025/26 budget",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The FY2025/26 budget allocates Sh3.1 billion to the Konza Data Centre and Smart City project, down from Sh5.2 billion in FY2024/25.",
+      "as_of": "2025-06-12",
+      "date_precision": "day",
+      "system": "Konza Data Centre and Smart City project, FY2025/26 budget",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The FY2025/26 budget raises funding for the Kenya Digital Economy Acceleration project to Sh3.7 billion from Sh2.8 billion in FY2024/25; the document does not say how the project is financed.",
+      "as_of": "2025-06-12",
+      "date_precision": "day",
+      "system": "Kenya Digital Economy Acceleration project, FY2025/26 budget",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Facts are budget-day reporting of proposed estimates; no commitment statement beyond a general assurance of targeted investments and public-private partnerships."
+}

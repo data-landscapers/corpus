@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-18-plf-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 5,881,925,000 XAF to 51 digital line(s). Dated by the budget document.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 17 digital line(s) held in both years total 4,384,800,000 XAF for 2026 against 3,804,800,000 for 2025, +15.2 per cent; 51 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

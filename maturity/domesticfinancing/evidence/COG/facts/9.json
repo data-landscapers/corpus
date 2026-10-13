@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-31-cog-2026-cst-fonction-bancaire-tresor",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The 2026 finance law (Loi n° 42-2025 of 31 December 2025) sets FCFA 5,968,000,000 for special treasury account no. 8, the fund for the treasury's digital platform, fed by the sale of cargoes and spent as transfers.", "as_of": "2025-12-31", "date_precision": "day", "system": "Fonds pour l'opérationnalisation de la fonction bancaire du Trésor public, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The account's ceiling rises from FCFA 2,810,000,000 in 2025 to FCFA 5,968,000,000 in 2026.", "as_of": "2025-12-31", "date_precision": "day", "system": "Fonds pour l'opérationnalisation de la fonction bancaire du Trésor public, 2025 to 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "plateforme numérique du trésor public", "country_label": "Plateforme numérique du Trésor public", "class": "other", "platform": "", "owner": "Ministère des finances, du budget et du portefeuille public", "tiers": ""}
+  ],
+  "note": ""
+}

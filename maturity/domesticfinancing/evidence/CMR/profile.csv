@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,financing,budget,coverage,spent,2023-11-30,CMR-004,CMR-001=allocated;CMR-005=allocated;CMR-006=rose;CMR-002=allocated;CMR-003=allocated,
+CMR,financing,commitment,coverage,,,,,nothing held

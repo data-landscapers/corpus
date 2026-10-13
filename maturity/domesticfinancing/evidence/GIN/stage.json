@@ -1,0 +1,16 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "4",
+   "budget": "rose",
+   "commitment": "acted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-001;GIN-003",
+   "gaps": "No budget execution report, settlement law, audited accounts or fund account from the last three years gives what was actually spent.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

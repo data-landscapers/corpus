@@ -1,0 +1,26 @@
+{
+  "slug": "2024-12-30-cog-2025-cst-fasuce",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2025 finance law (Loi n° 47-2024 of 30 December 2024 (2025 finance law), special account no. 8) appropriates FCFA 1,000,000,000 to the special treasury account for the universal access and service fund for electronic communications, all as transfer spending. The account is fed by operator contributions to the universal service fund.",
+      "as_of": "2024-12-30",
+      "date_precision": "day",
+      "system": "Fonds pour l'accès et le service universel des communications électroniques (2025 budget)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fonds pour l'accès et le service universel des communications électroniques",
+      "country_label": "FASUCE",
+      "class": "financing",
+      "platform": "",
+      "owner": "Government of Congo (special treasury account)",
+      "tiers": ""
+    }
+  ],
+  "note": "Only one budget year is given, so no rose or fell; an appropriation is not a collected or spent amount, so no acted or spent fact."
+}

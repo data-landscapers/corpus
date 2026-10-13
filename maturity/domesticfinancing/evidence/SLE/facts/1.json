@@ -1,0 +1,13 @@
+{
+  "slug": "2019-10-17-sierra-leone-universal-access-development-fund-regulations-2019",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "Statutory Instrument No. 8 of 2019 (gazetted 17 October 2019) sets up the Universal Access Development Fund under the Telecommunications Act 2006 and charges service providers a universal access and service levy of 0.75 per cent of gross income, to finance universal service programmes and projects; the document gives no collection or payment figures.",
+     "as_of": "2019-10-17", "date_precision": "day",
+     "system": "Universal Access Development Fund (universal access and service levy)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Access Development Fund", "country_label": "Universal Access Development Fund", "class": "financing", "platform": "", "owner": "National Telecommunications Commission; Board of Trustees and Fund Administrator", "tiers": "national"}
+  ],
+  "note": "Dated 2019, so no budget fact; no collections or spending stated."
+}

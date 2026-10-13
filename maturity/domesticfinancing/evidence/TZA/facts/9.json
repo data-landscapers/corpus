@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-30-tza-2027-68",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Fungu 68, Ministry of Communication and Information Technology, was proposed TZS 222,589,451,000 for 2026/27: recurrent TZS 13,146,172,000 and development TZS 209,443,279,000 (TZS 98,480,905,000 domestic, TZS 110,962,374,000 external).",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "Fungu 68 budget vote 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The 2026/27 proposal of TZS 222,589,451,000 is lower than the 2025/26 approved TZS 291,533,139,000 (about 23.6% less); domestic development money is unchanged at TZS 98,480,905,000 and external falls from TZS 178,566,578,000 to TZS 110,962,374,000.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "Fungu 68 budget vote 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fungu 68 budget vote",
+   "country_label": "Ministry of Communication and Information Technology budget vote",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Finance / Ministry of Communication and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "The 2026/27 figure is a proposal to Parliament, not yet passed per this document."
+}

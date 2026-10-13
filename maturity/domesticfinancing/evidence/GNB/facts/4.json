@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-01-mef-guine-bissau-oge-2026",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 129,000,000 XOF to 6 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 3 digital line(s) held in both years total 70,000,000 XOF for 2026 against 130,000,000 for 2025, -46.2 per cent; 6 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-moict-ministerial-policy-statement-fy2026-27",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The Ministry of ICT and National Guidance (Vote 020) policy statement budgets its Programme 11 Digital Transformation at UGX 96.580 billion recurrent plus UGX 46.426 billion development (GoU-funded, external financing zero) for FY2026/27, UGX 143.006 billion in all.",
+     "as_of": "2026", "date_precision": "year",
+     "system": "Programme 11 Digital Transformation, Vote 020 Ministry of ICT and National Guidance, FY2026/27", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose",
+     "fact": "The Ministry of ICT and National Guidance vote total (GoU, excluding arrears) is UGX 144.696 billion for FY2026/27 against an approved UGX 105.963 billion for FY2025/26, which is higher; both figures are the ministry's own and external financing is zero in both years.",
+     "as_of": "2026", "date_precision": "year",
+     "system": "Vote 020 Ministry of ICT and National Guidance budget, FY2025/26 to FY2026/27", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Document gives budget estimates and approved figures only; spending to end December 2025 (UGX 40.566 billion) is a half-year figure for FY2025/26, not a full-year spent amount, so no spent fact. Date is the FY2026/27 budget cycle year since the statement carries no exact day (published 2026-01-01 is a proxy)."
+}

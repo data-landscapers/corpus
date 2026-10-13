@@ -1,0 +1,16 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "2",
+   "budget": "spent",
+   "commitment": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SYC-002;SYC-003",
+   "gaps": "The money for digital transformation was lower in the latest budget than in the one before, or the same.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

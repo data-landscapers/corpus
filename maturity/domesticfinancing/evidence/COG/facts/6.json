@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-17-taxe-nouveaux-terminaux-numeriques-cartes-sim-ldb",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The director general of the digital economy agency ADEN told the National Assembly's finance committee on 16 July 2026 that a tax on newly imported SIM-equipped terminals, set up by the 2026 finance law and in force since 1 June 2026, is paid by importers by bank transfer and is meant to finance the digital ecosystem's structuring projects and connectivity; the article does not name the provision that assigns the yield or give any amount collected.", "as_of": "2026-06-01", "date_precision": "day", "system": "Taxe sur les nouveaux terminaux numériques à cartes SIM", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Assignment of the yield to digital programmes rests on the agency head's account, not on a quoted article of the law; no collected amount given."
+}

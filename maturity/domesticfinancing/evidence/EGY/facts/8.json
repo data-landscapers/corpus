@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-14-egy-budget-2026-27-administrative-apparatus-volume-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 30,512,114,000 EGP to 44 digital line(s). Dated by the budget document.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 39 digital line(s) held in both years total 30,224,315,000 EGP for 2026/27 against 24,302,193,000 for 2025/26, +24.4 per cent; 44 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "2026-04-01-bwa-2026-2400-12482",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The FY2026/27 estimates appropriate P213,700,000 (BWP) for the Research and Development project (12482) of the Ministry of Communications and Innovation, financed from the domestic development fund.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "Ministry of Communications and Innovation Research and Development project 12482, FY2026/27",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The project's FY2026/27 appropriation of P213,700,000 is 55.2% below the FY2025/26 appropriation of P477,403,718.",
+      "as_of": "2026-04",
+      "date_precision": "month",
+      "system": "Ministry of Communications and Innovation Research and Development project 12482, FY2026/27 vs FY2025/26",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

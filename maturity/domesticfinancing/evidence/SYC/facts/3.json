@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-30-gazette-appropriation-act-2026",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 239,570,000 SCR to 25 digital line(s). Dated by the budget document.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 12 digital line(s) held in both years total 84,802,000 SCR for 2026 against 93,076,000 for 2025, -8.9 per cent; 25 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-29-cod-lf-2026-n25-060-vol2-depenses-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for Exercice 2026 gives 543,876,185,623 CDF to 155 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "Budget tables: the 72 digital line(s) held in both years total 314,991,531,596 CDF for Exercice 2026 against 432,043,491,504 for Exercice 2025, -27.1 per cent; 155 lines are held for Exercice 2026. Dated by the budget document.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "State budget, Exercice 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

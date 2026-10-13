@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-19-ago-2025-minjusdh-bilhete-identidade",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "A supplementary credit of USD 218.5m is opened within the 2025 budget for the Plano Estratégico para a Universalização do Bilhete de Identidade, assigned to the Ministry of Justice and Human Rights (Presidential Decree 169/25, signed 8 Sept 2025, published 19 Sept 2025); the funding source is not stated.",
+      "as_of": "2025-09-19",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Universalização do Bilhete de Identidade (OGE 2025)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plano Estratégico para a Universalização do Bilhete de Identidade",
+      "country_label": "Bilhete de Identidade",
+      "class": "financing",
+      "platform": "",
+      "owner": "Ministério da Justiça e dos Direitos Humanos",
+      "tiers": "national"
+    }
+  ],
+  "note": "The programme is a national identity-card rollout, taken as a named digital programme; the source does not say who pays beyond the state budget credit."
+}

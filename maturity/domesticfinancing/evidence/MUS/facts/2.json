@@ -1,0 +1,30 @@
+{
+  "slug": "2026-06-20-budget-2026-2027-ai-training-50000-fintech-lexpress",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026-2027 Budget allocates Rs 25 million to create a National AI Learning Platform with a certification and start-up incubation programme, as reported by L'Express; the date is the article's publication date.",
+      "as_of": "2026-06-20",
+      "date_precision": "day",
+      "system": "National AI Learning Platform (Budget 2026-2027)",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The 2026-2027 Budget gives Rs 13 million to a Cyber Forensic laboratory and the rollout of the Information Security Management System standard in government, as reported by L'Express; the date is the article's publication date.",
+      "as_of": "2026-06-20",
+      "date_precision": "day",
+      "system": "Cyber Forensic laboratory and ISMS rollout (Budget 2026-2027)",
+      "class": "financing"
+    }
+  ],
+  "systems": [
+    {"system": "Investment tax credit for manufacturers investing in AI (15% a year over three years)", "country_label": "investment tax credit", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "Côte-d'Or Special Economic Zone for AI and digital technologies", "country_label": "Special Economic Zone de Côte-d'Or", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Two allocated facts; no prior-year figures, so no rise or fell; the tax credit and preferential electricity tariff are tax breaks (other), and no fund, levy or own-resources statement is made."
+}

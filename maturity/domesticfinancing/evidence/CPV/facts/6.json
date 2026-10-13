@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-15-cpv-conta-provisoria-i-trimestre-2026-source",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Q1 2026 provisional account shows the Ministry of Digital Economy (vote 01.03.02) with an initial appropriation of CVE 174,200,533 for 2026, as voted by the Assembly, at 31 March 2026; the Plataforma Digital e da Inovacao programme is initially appropriated CVE 513,994,724.", "as_of": "2026-03-31", "date_precision": "day", "system": "Ministerio da Economia Digital budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The ministry's initial appropriation fell from CVE 369,781,930 in 2025 to CVE 174,200,533 in 2026 (and from CVE 1,390,965,632 in 2024); the document gives this as an 87.5% fall over two years.", "as_of": "2026-03-31", "date_precision": "day", "system": "Ministerio da Economia Digital budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The ministry's reprogrammed budget rose from CVE 1,472,731,889 in 2025 to CVE 1,614,624,282 in 2026 at 31 March 2026, 9.3 times the initial vote, though most of the 2026 programme increase is loan finance.", "as_of": "2026-03-31", "date_precision": "day", "system": "Ministerio da Economia Digital reprogrammed budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The ministry executed CVE 558,272,390 in 2025 (37.9% of its reprogrammed budget) and CVE 489,920,474 in 2024 (33.0%), per the ministry's line in the provisional account; Q1 2026 execution was CVE 163,063,219 (10.1%), a three-month figure.", "as_of": "2025-12-31", "date_precision": "day", "system": "Ministerio da Economia Digital execution 2025", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Ministerio da Economia Digital budget (vote 01.03.02)", "country_label": "Ministerio da Economia Digital", "class": "financing", "platform": "", "owner": "Ministry of Finance", "tiers": "national"}
+  ],
+  "note": "Loan lines in the digital programmes (CVE 1.45bn into Plataforma Digital) are external finance and give no fact; the PM's July 2026 remark concerns the whole budget, not digital."
+}

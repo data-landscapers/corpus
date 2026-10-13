@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-30-cpv-2025-fusi",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Lei n.º 45/X/2024, the 2025 State Budget law of Cabo Verde, appropriates CVE 122,073,633 for the Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI), financed by operator contributions and the radio-spectrum fee (earmarked revenue table, item 10).", "as_of": "2024-12-30", "date_precision": "day", "system": "FUSI, budget year 2025", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "fell", "fact": "The document notes FUSI's figure is CVE 122,073,633 in 2024 (proposed), 2025 and 2026, unchanged to the escudo, so the 2025 figure is the same as the year before.", "as_of": "2024-12-30", "date_precision": "day", "system": "FUSI, budget years 2024 and 2025", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)", "country_label": "FUSI", "class": "financing", "platform": "", "owner": "State budget earmarked revenue (operator contributions and radio-spectrum fee)", "tiers": ""}
+  ],
+  "note": "No acted fact: the table prints only the fund's name and amount as counterpart expenditure, with no collection or payment for a project and no creating law stated."
+}

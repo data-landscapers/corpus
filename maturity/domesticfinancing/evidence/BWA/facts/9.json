@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-03-finance-ministry-bets-p8-8bn-on-digital-discipline",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Minister of Finance told Parliament he is seeking approval for BWP 486 million for ICT development projects (national payment switch, accounting and budgeting system, fintech sandbox) in the NDP 12 Public Investment Programme; the budget year is not stated and the sum is a request, not an enacted appropriation.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Ministry of Finance ICT development projects, NDP 12 PIP",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The same package seeks BWP 4.13 billion for the Botswana Unified Revenue Service, covering e-VAT invoicing, digital taxation for online services and upgraded border infrastructure; a request, and the digital share is not separated.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "BURS modernisation, NDP 12 PIP",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Event date taken as the Friday before the article's 2025-11-03 date."
+}

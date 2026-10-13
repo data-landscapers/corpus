@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-15-bfa-2024-03-anssi",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The 2024 finance law (loi n°042-2023/ALT of 15 December 2023) appropriates 444,200,000 F CFA to the national cybersecurity agency ANSSI, then under section 03 (Prime Minister's office).",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "ANSSI budget 2024 (section 03 Primature)",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Single budget year given in this document; no rose/fell."
+}

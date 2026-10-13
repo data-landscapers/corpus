@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "A decree signed by President Doumbouya on 21 May 2026 created the Digital Sovereignty Fund (FSN), to be financed primarily by revenue from the new 3% Digital Compliance Fee (RCN) on foreign digital services, to fund technology infrastructure, cybersecurity, training and innovation; the story reports creation, not yet any money collected or paid, and enforcement follows a six-month transition.",
+     "as_of": "2026-05-21", "date_precision": "day", "system": "Digital Sovereignty Fund (FSN)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Digital Sovereignty Fund (FSN)", "country_label": "Fonds de Souveraineté Numérique", "class": "financing", "platform": "", "owner": "State of Guinea (created by presidential decree)", "tiers": ""},
+    {"system": "Digital Compliance Fee (RCN)", "country_label": "Redevance de Conformité Numérique", "class": "financing", "platform": "", "owner": "State of Guinea", "tiers": ""},
+    {"system": "Digital Analysis and Regulation Platform (PARN)", "country_label": "Plateforme d'Analyse et de Régulation Numérique", "class": "other", "platform": "", "owner": "State of Guinea", "tiers": ""}
+  ],
+  "note": "The fee's yield is assigned primarily to the FSN, so the fund counts as a levy-fed fund; no amount, budget line or collection is stated."
+}

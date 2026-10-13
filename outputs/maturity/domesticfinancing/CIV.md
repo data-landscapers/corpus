@@ -1,0 +1,11 @@
+# Côte d'Ivoire
+
+## The state's own money for digital programmes
+
+**Money in the state budget, its direction and what was spent.** The 2024 settlement law records [23,434,278,284 CFA francs spent in 2024 on programme 22126, Economie numérique et poste](<https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf>). The digital ministry's 2026 budget of 83.275 billion CFA francs is [described as a 37% increase](<https://techafricanews.com/2026/03/19/cote-divoire-unveils-83-275bn-fcfa-digital-budget-with-37-increase-for-2026/>), and programme 22126 [rises from 19,033,679,859 CFA francs in 2025 to 45,991,319,076 in 2026](<https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf>). The digital lines held for both years total [148,105,376,640 CFA francs for 2026 against 157,659,408,117 for 2025, down 6.1 per cent](<https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf>).
+
+**A commitment to pay at home, and the act that follows it.** Programme 23237 is an earmarked account [funded by a levy on telecom operators; the 2026 finance law appropriates 33 billion CFA francs to it](<https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf>). In 2024 the levy funded the ANSUT rural-technology account, and [collection fell short, so the 32.3 billion voted was cut to 27,676,208,542 CFA francs](<https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf>).
+
+***Noted, not assessed***. [The national high-speed network (RNHD)](<https://www.sikafinance.com/marches/acceleration-numerique-l-ansut-relance-le-projet-du-reseau-haut-debit-ivoirien_48055>); [the livestock electronic identification system](<https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html>); [eGOUV public cloud hosting on Microsoft Azure](<https://www.telecom.gouv.ci/new/uploads/publications/174558607847.pdf>); [programme 23238, the telecoms regulation levy](<https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf>).
+
+***Not held***. The law that creates the levy is not named in the documents held.

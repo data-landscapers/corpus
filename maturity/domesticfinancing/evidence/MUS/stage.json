@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "financing",
+   "stage": "3",
+   "budget": "spent",
+   "commitment": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-004;MUS-001",
+   "gaps": "No source from the last three years has the government both saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.",
+   "note": "Counted from the four questions by study-ladder-domesticfinancing.py."
+  }
+ ]
+}

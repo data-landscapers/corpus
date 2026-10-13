@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-31-bwa-2025-2400-2406",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2025/26 estimates allocate BWP 594,362,280 in recurrent funding to the Department of Shared Digital Services of the Ministry of Communications and Innovation; recurrent estimates were not revised in the year.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Department of Shared Digital Services recurrent estimate, FY2025/26",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Department of Shared Digital Services",
+   "country_label": "Department of Shared Digital Services",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "No prior-year figure for the department in this document, so no rose or fell fact; the ministry's 68 percent recurrent execution is ministry-wide, not the department's."
+}

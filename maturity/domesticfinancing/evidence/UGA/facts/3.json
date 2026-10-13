@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-atc-uganda-ucusaf-contribution",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "ATC Uganda paid UGX 20.9 billion to the Uganda Communications Commission as its statutory 2% of gross annual revenue under the Uganda Communications Act, 2013, to finance UCUSAF; the UCC Executive Director said half goes to the Consolidated Fund and half is retained by UCC for UCUSAF; no event date is given, so the document's published date is used.",
+     "as_of": "2026-08-05", "date_precision": "day", "system": "UCUSAF (Uganda Communications Universal Service and Access Fund)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "UCUSAF", "country_label": "Uganda Communications Universal Service and Access Fund", "class": "financing", "platform": "", "owner": "Uganda Communications Commission", "tiers": ""}
+  ],
+  "note": "A levy remittance, not a budget document: no budget fact."
+}

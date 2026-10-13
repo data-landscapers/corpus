@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-26-zmb-obb-2026-estimates-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 1,942,946,905 ZMW to 45 digital line(s). Dated by the budget document.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 44 digital line(s) held in both years total 1,792,946,905 ZMW for 2026 against 1,594,453,467 for 2025, +12.4 per cent; 45 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

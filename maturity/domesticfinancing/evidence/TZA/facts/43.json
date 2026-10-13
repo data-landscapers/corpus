@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-27-tza-vol-iv-development-estimates-2026-27-as-passed-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 449,674,631,108 TZS to 136 digital line(s). Dated by the budget document.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 108 digital line(s) held in both years total 429,376,230,416 TZS for 2026/27 against 398,020,452,091 for 2025/26, +7.9 per cent; 136 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

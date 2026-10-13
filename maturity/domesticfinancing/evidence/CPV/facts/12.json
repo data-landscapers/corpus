@@ -1,0 +1,46 @@
+{
+ "slug": "2025-12-31-cpv-lei-69-x-2025-orcamento-do-estado-2026-source",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Mapa III of Law 69/X/2025 appropriates CVE 174,200,533 to the Ministério da Economia Digital for 2026, with investment at zero.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Ministério da Economia Digital, 2026 budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The Ministério da Economia Digital's appropriation falls from CVE 369,781,930 in 2025 to CVE 174,200,533 in 2026 (and from CVE 1,390,965,632 in 2024).",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Ministério da Economia Digital, 2026 budget",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "Law 69/X/2025 earmarks the operators' communications contribution and the radio-spectrum fee to the Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI), with CVE 122,073,633 appropriated for 2026, identical to 2024 and 2025; the document does not give the law that set up the fund or any amount collected or paid out.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação (FUSI)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FUSI - Fundo de Serviço Universal e Desenvolvimento da Sociedade de Informação",
+   "country_label": "FUSI",
+   "class": "financing",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "SNIAC identity-document fees and Casa do Cidadão fees are earmarked but not digital programmes in the document; no fact."
+}

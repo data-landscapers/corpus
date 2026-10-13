@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-01-bwa-2024-2400-11631",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The FY2024/25 estimates allocate BWP 736,601,447 to the Ministry of Communications and Innovation's development project 11631 Information and Communications Technology (departments 2404 and 2406), from the Domestic Development Fund; revised in-year to BWP 266,648,447 per the document's notes.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Ministry of Communications and Innovation, project 11631 Information and Communications Technology, FY2024/25",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information and Communications Technology (project 11631)",
+   "country_label": "Information and Communications Technology (project 11631)",
+   "class": "financing",
+   "platform": "",
+   "owner": "Ministry of Communications and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "No spent figure and no second budget year in this document, so no spent, rose or fell fact."
+}

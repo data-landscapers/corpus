@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-31-cog-2026-45-118",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Loi n° 42-2025 of 31 December 2025 (2026 finance law) appropriates FCFA 30,139,589,283 for Code 45, programme 118 Poste, télécommunication et économie numérique, funded from domestic revenue; the bill had FCFA 30,079,589,283.", "as_of": "2025-12-31", "date_precision": "day", "system": "Programme 118 Poste, télécommunication et économie numérique, 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The record gives the programme at FCFA 23,093,583,163 for 2025 and FCFA 30,139,589,283 for 2026, a rise of 30.5%, against 3.9% for the whole general budget.", "as_of": "2025-12-31", "date_precision": "day", "system": "Programme 118 Poste, télécommunication et économie numérique, 2025 to 2026", "class": "financing"}
+  ],
+  "systems": [],
+  "note": ""
+}

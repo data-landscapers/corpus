@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-30-dji-ansie-budget-previsionnel-2024-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 479,221,862 DJF is published as actually spent on digital lines for exercice 2024. Dated by the document that gives the figure.",
+   "as_of": "2024-01-30",
+   "date_precision": "day",
+   "system": "State budget, exercice 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

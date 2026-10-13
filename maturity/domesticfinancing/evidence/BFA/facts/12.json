@@ -1,0 +1,17 @@
+{
+  "slug": "2025-07-02-bfa-conseil-ministres-mtdpce-marches-5895-millions",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "The Council of Ministers of 2 July 2025 authorised four 2025 digital procurements of the Ministry of Digital Transition (cybersecurity equipment 95 million, supervision centres 4 billion, their works supervision 200 million, RESINA equipment 1.6 billion), totalling 5,895,000,000 F CFA TTC, and states the financing is assured by the State budget.",
+      "as_of": "2025-07-02",
+      "date_precision": "day",
+      "system": "Projets spécifiques 2025 du ministère de la Transition digitale, des Postes et des Communications électroniques",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

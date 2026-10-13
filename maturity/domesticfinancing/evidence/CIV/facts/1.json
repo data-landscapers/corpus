@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-19-83-275bn-fcfa-digital-budget-37-percent-increase-techafricanews",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "TechAfrica News reports the Ministry of Digital Transition and Innovation announced a 2026 budget allocation of 83.275 billion FCFA; no date of passage is given, so the published date is used.", "as_of": "2026-03-19", "date_precision": "day", "system": "Ministry of Digital Transition and Innovation budget 2026", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "rose", "fact": "The 2026 ministry budget of 83.275 billion FCFA is described as a 37% increase; the comparison year is not named (the preceding budget year, 2025, is implied) and the 2025 figure is not given.", "as_of": "2026-03-19", "date_precision": "day", "system": "Ministry of Digital Transition and Innovation budget 2026", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Ministry of Digital Transition and Innovation budget 2026", "country_label": "Budget du ministère de la Transition numérique", "class": "financing", "platform": "", "owner": "Ministry of Digital Transition and Innovation", "tiers": "national"}
+  ],
+  "note": ""
+}

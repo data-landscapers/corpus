@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-01-ken-pbb-fy2026-27-approved-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026/27 gives 46,385,124,335 KES to 49 digital line(s). Dated by the budget document.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 37 digital line(s) held in both years total 43,931,556,738 KES for 2026/27 against 37,618,002,025 for 2025/26, +16.8 per cent; 49 lines are held for 2026/27. Dated by the budget document.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "State budget, 2026/27",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

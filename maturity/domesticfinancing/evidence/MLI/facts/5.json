@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-23-mali-agefau-partenariat-education-emploi-lepays",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted",
+     "fact": "Le Pays reports the AGEFAU director general saying the fund spent nearly FCFA 3.7 billion in 2018-2024 and projects of over FCFA 13.5 billion since 2025, over FCFA 17 billion in all, on school and training-centre access centres, Wi-Fi huts and equipment.",
+     "as_of": "2026-07-22", "date_precision": "day", "system": "Fonds d'accès universel (AGEFAU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fonds d'accès universel (AGEFAU)", "country_label": "Agence de Gestion du Fonds d'Accès universel", "class": "financing", "platform": "", "owner": "AGEFAU", "tiers": ""}
+  ],
+  "note": "The spending is a cumulative figure by period, not a budget-year execution account, so no spent fact."
+}

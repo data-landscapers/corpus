@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-27-ben-rapex-31-decembre-2025-companion",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The finance ministry's FY2025 budget execution report lists the Ministry of Digital Affairs and Digitalisation (035) with an initial 2025 appropriation of 29,033,966,192 FCFA; the remaining digits on the row, including any final or spent figure, are unreadable.", "as_of": "2025", "date_precision": "year", "system": "Ministère du Numérique et de la Digitalisation budget 2025", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Companion page only; the spent amount is not legible, so no spent fact."
+}

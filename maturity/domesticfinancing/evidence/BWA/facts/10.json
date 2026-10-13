@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-31-bwa-ndp12-burs-modernisation-proposed",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Minister of Finance is seeking BWP 4.13 billion under NDP 12 for the Botswana Unified Revenue Service (e-VAT invoicing, digital taxation, border infrastructure); a proposed sum, with no matching appropriation line held and the digital share not separable.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "BURS modernisation, NDP 12 PIP",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "Proposed only; no appropriation or fund in the document."
+}

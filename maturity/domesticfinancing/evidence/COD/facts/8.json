@@ -1,0 +1,47 @@
+{
+  "slug": "2025-06-28-cod-2025-71",
+  "facts": [
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "allocated",
+      "fact": "Loi de finances rectificative n°25/044 of 28 June 2025 appropriates FC 60,627,481,411, all domestic with no external investment, for Section 71, Numerique, for budget year 2025.",
+      "as_of": "2025-06-28",
+      "date_precision": "day",
+      "system": "Section 71 Numerique, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "fell",
+      "fact": "The document gives Section 71 as FC 87,134,433,991 in 2024 and FC 60,627,481,411 in 2025, a fall of about 30%.",
+      "as_of": "2025-06-28",
+      "date_precision": "day",
+      "system": "Section 71 Numerique, budget 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "spent",
+      "fact": "The Situation provisoire de l'exécution du budget au 31 décembre 2025 shows Section 71 paid (paiements) FC 31,358,784,468 against a voted credit of FC 60,627,481,411 (51.7%), with FC 68,278,687,329 ordonnanced; the ministry's line, no collections.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Section 71 Numerique, execution 2025",
+      "class": "financing"
+    },
+    {
+      "sub_indicator": "financing",
+      "aspect": "budget",
+      "value": "rose",
+      "fact": "The document states Section 71 rises from FC 60,627,481,411 in 2025 to FC 226,713,223,741 in 2026 (+274%), partly a transfer of mandate from Section 52.",
+      "as_of": "2025-12-29",
+      "date_precision": "day",
+      "system": "Section 71 Economie Numerique, budget 2026",
+      "class": "financing"
+    }
+  ],
+  "systems": [],
+  "note": "Spent date is that of the execution table (2026-04-01) for year 2025."
+}

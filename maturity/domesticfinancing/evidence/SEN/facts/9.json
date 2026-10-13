@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-22-sen-lfi-2026-loi-2025-19-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 31,915,316,171 XOF to 25 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

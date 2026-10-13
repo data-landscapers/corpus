@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-05-moz-pesoe-2025-mapas-acompanhantes-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Budget tables: 1,819,266,720 MZN is published as actually spent on digital lines for 2025. Dated by the document that gives the figure.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "State budget, 2025",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

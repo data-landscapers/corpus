@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-26-dji-ansie-comptes-financiers-2024-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "spent",
+   "fact": "Law 210/AN/25/9eme L approves the 2024 accounts of ANSIE, the state digital agency: 479.2m DJF of charges against 457.1m DJF of income; the agency's own accounts, covering both income and charges.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "ANSIE budget, exercice 2024",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSIE (Agence Nationale des Systemes d'Information de l'Etat)",
+   "country_label": "ANSIE",
+   "class": "",
+   "platform": "",
+   "owner": "State of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": "Figures are in the page's catalogue summary; the page body holds citation only. Date is promulgation of the law."
+}

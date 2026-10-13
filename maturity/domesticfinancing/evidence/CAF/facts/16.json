@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-10-caf-2025-85-85-88-00-20-120000-6439-11",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated",
+     "fact": "The 2025 finance bill (PLF 2025, 10 December 2024), section 85 (Ministry of Digital Economy, Posts and Telecommunications), carries a domestically financed line of FCFA 1,400,000,000 for support to the regulator ARCEP, unchanged in the 2025 revised budget (collectif).",
+     "as_of": "2024-12-10", "date_precision": "day",
+     "system": "Appui a l'ARCEP, section 85, budget 2025", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Only an allocated fact: the line is a transfer to the regulator inside the digital ministry's section, paid from domestic revenue; no earlier-year figure for this line is given, so no rose or fell, and no spent figure."
+}

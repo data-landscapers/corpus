@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-01-bdi-2025-fsu-villages-numeriques",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Fonds de Service Universel des TIC's revised procurement plan for FY2025/26 (published by the finance ministry) budgets BIF 4,811,751,000 for three pilot Villages Numeriques in Bujumbura, Gitega and Buhumuza; the document is the fund's plan, not the state budget law.", "as_of": "2025-07", "date_precision": "month", "system": "Villages Numeriques pilotes (FSU), FY2025/26", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "The Fonds de Service Universel des TIC, funded by a 1% levy on operators' turnover under decree 100/054 of 29 March 2024 (restructuring decree 100/186 of 16 October 2017), pays for three pilot Villages Numeriques at BIF 4,811,751,000 in its revised FY2025/26 plan, plus six new telecentres and fibre connections.", "as_of": "2025-07", "date_precision": "month", "system": "Fonds de Service Universel des TIC (FSU)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Fonds de Service Universel des TIC (FSU)", "country_label": "FSU-TIC", "class": "financing", "platform": "", "owner": "Burundi state (levy fund, 1% of operators' turnover)", "tiers": "provinces of Bujumbura, Gitega, Buhumuza; telecentres; ISP/ESOP"}
+  ],
+  "note": ""
+}

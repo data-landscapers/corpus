@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-30-zaf-dcdt-oral-reply-no763-usaf-collections-unspent",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "commitment", "value": "acted", "fact": "ICASA collected R1,287,583,749 for the Universal Service and Access Fund over 2021/22 to 2025/26, R281,177,935 in 2025/26 and R251,411,657 in 2024/25, per the Minister's oral reply to question 763; USAASA administers the spending.", "as_of": "2026", "date_precision": "year", "system": "Universal Service and Access Fund (USAF)", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The fund's actual expenditure in 2025/26 was R1,087.904 million against R54.987 million DCDT drawdown and R1,685 million rollover funds, leaving about R652.083 million unspent; both collections and spending are given, the spending figure supplied by USAASA.", "as_of": "2026", "date_precision": "year", "system": "Universal Service and Access Fund (USAF)", "class": "financing"},
+    {"sub_indicator": "financing", "aspect": "budget", "value": "spent", "fact": "The fund's actual expenditure in 2024/25 was R769.092 million against R52.629 million DCDT drawdown and R1,270 million rollover funds, per the Minister's reply; collections for the year were R251.4 million.", "as_of": "2025", "date_precision": "year", "system": "Universal Service and Access Fund (USAF)", "class": "financing"}
+  ],
+  "systems": [
+    {"system": "Universal Service and Access Fund (USAF)", "country_label": "Universal Service and Access Fund", "class": "financing", "platform": "", "owner": "USAASA", "tiers": "national"}
+  ],
+  "note": ""
+}

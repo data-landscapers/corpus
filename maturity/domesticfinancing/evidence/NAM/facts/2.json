@@ -1,0 +1,44 @@
+{
+ "slug": "2025-08-07-cran-integrated-annual-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Ministry of Information and Communication Technology contributed N$115 million over three years towards the Universal Service Fund, per CRAN's report for the year to 31 March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "commitment",
+   "value": "acted",
+   "fact": "The Fund was established under section 56 of the Communications Act with levy regulations finalised, was officially launched on 19 March 2025 with N$115 million from the Ministry over three years, and its first bidding round allocated almost N$31 million of capital subsidies to MTC for nine sites.",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "Universal Service Fund (Namibia)",
+   "class": "financing"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Service Fund (Namibia)",
+   "country_label": "Universal Service Fund (Namibia)",
+   "class": "financing",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  },
+  {
+   "system": "CRAN regulatory levies on licensees",
+   "country_label": "CRAN regulatory levies on licensees",
+   "class": "other",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": "CRAN's own regulatory levy income (N$25.5m loss year) is the regulator's licence income, not assigned to digital programmes: other, no fact. The page gives N$115m, whereas The Brief gives N$145m for the same event."
+}

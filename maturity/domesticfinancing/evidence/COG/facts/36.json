@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-05-cog-jo-3-2026-special-loi-42-2025-loi-de-finances-2026-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2026 gives 40,607,589,283 XAF to 4 digital line(s). Dated by the budget document.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 1 digital line(s) held in both years total 30,139,589,283 XAF for 2026 against 23,093,583,163 for 2025, +30.5 per cent; 4 lines are held for 2026. Dated by the budget document.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "State budget, 2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

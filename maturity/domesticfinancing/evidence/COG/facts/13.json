@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-30-cog-2025-cst-urbanisation-si-fp",
+  "facts": [
+    {"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "Loi n° 47-2024 of 30 December 2024 sets a ceiling of XAF 3,500,000,000 for 2025 (2,000,000,000 capital, 1,500,000,000 recurrent) on special Treasury account n° 18, which finances projects to modernise and digitise the systems of the public-finance revenue agencies.", "as_of": "2024-12-30", "date_precision": "day", "system": "Urbanisation des systèmes d'information de gestion des finances publiques, 2025 budget", "class": "financing"}
+  ],
+  "systems": [],
+  "note": "Account is fed by the redevance informatique (Loi n° 10-2002, reset by Loi n° 33-2003) but the document shows no collection or payment at a stated date, so no acted fact."
+}

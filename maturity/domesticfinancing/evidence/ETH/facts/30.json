@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-09-eth-federal-budget-proclamation-efy2019-part-two-detail-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for 2019 Budget Year gives 35,959,539,563 ETB to 125 digital line(s). Dated by the budget document.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "State budget, 2019 Budget Year",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 73 digital line(s) held in both years total 21,697,879,134 ETB for 2019 Budget Year against 14,643,622,841 for 2018 Budget Year, +48.2 per cent; 125 lines are held for 2019 Budget Year. Dated by the budget document.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "State budget, 2019 Budget Year",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-01-sle-fy2026-detailed-budget-estimates-companion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Budget tables: the budget for FY2026 gives 1,074,150,124 SLE to 45 digital line(s). Dated by the budget document.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "State budget, FY2026",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "rose",
+   "fact": "Budget tables: the 40 digital line(s) held in both years total 1,064,019,424 SLE for FY2026 against 684,090,124 for FY2025, +55.5 per cent; 45 lines are held for FY2026. Dated by the budget document.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "State budget, FY2026",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/budgets; no document opened"
+}

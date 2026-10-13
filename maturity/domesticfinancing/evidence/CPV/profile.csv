@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,financing,budget,coverage,spent,2025-12-31,CPV-009;CPV-012;CPV-021;CPV-033,CPV-006=allocated;CPV-007=fell;CPV-013=allocated;CPV-014=fell;CPV-001=allocated;CPV-002=fell;CPV-010=allocated;CPV-011=fell;CPV-015=allocated;CPV-016=allocated;CPV-017=fell;CPV-018=allocated;CPV-019=fell;CPV-023=allocated;CPV-024=fell;CPV-031=allocated;CPV-032=fell;CPV-022=allocated;CPV-028=allocated;CPV-003=allocated;CPV-004=fell;CPV-025=allocated;CPV-026=fell;CPV-029=allocated;CPV-005=allocated,
+CPV,financing,commitment,coverage,acted,2025-12-31,CPV-020;CPV-027;CPV-030,,
