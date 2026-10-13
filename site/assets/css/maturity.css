@@ -262,6 +262,12 @@
 
 .mat-error { padding: 2rem; color: var(--accent-dk); }
 
+/* A laptop under 16 inches: a screen cannot be measured, so this is the widths such a laptop
+   reports. Every size on the map page is in rem, so the root carries all of it (Bill, 2026-10-13). */
+@media (min-width: 961px) and (max-width: 1600px) {
+  html:has(.mat-wrap) { font-size: 15px; }
+}
+
 @media (max-width: 960px) {
   .mat-body { grid-template-columns: 1fr; }
   .mat-side { height: auto; grid-template-rows: auto auto; }
