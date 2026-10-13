@@ -1,0 +1,15 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:19.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

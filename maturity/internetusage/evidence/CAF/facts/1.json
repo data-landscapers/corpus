@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026",
+  "facts": [],
+  "systems": [
+    {"system": "ARCEP internet penetration rate (taux de pénétration d'internet)", "country_label": "other: 1.56 million internet clients (mobile and fixed wireless), penetration just over 23% of total population, end of first half 2026, derived from operators' subscriber data", "class": "other", "platform": "", "owner": "ARCEP Centrafrique", "tiers": ""}
+  ],
+  "note": "Regulator's penetration rate is computed from operator client (subscription) counts, not a survey of people; recorded as other."
+}

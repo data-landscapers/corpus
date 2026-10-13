@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-gsma-state-of-mobile-internet-connectivity-2026-report",
+  "facts": [],
+  "systems": [
+    {"system": "GSMA Consumer Survey 2025, Senegal mobile internet adoption (adults 18+)", "country_label": "2025: 87% of urban and 75% of rural adults use mobile internet; 73% adoption stage in the user-journey figure (band not readable)", "class": "other", "platform": "", "owner": "GSMA", "tiers": ""}
+  ],
+  "note": "Senegal figures are mobile internet use among adults 18+ from a GSMA survey (mobile internet, adults only, urban/rural bands), so not a whole-country internet-use share."
+}

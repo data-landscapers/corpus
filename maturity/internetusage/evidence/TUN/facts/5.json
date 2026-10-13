@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-24-tunisie-int-enquete-internet-competences-numeriques-2026",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:85.9",
+   "fact": "Radio Express FM, citing the INT Observatory, reports that 85.9% of the INT Observatory's 2026 survey sample say they use the internet; no age range is given and the sampling frame and fieldwork dates are not stated, so as_of is the publication year. The article calls the survey national.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Enquête utilisation d'internet & compétences numériques (INT Observatoire)",
+   "class": "use"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enquête utilisation d'internet & compétences numériques (INT Observatoire)",
+   "country_label": "2026 national survey of internet use and digital skills",
+   "class": "use",
+   "platform": "",
+   "owner": "Observatoire de l'INT (Instance Nationale des Télécommunications)",
+   "tiers": ""
+  },
+  {
+   "system": "Internet mobile (usagers)",
+   "country_label": "70.4% of internet users use mobile internet as main access, 2026 (INT survey)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

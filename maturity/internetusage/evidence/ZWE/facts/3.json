@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-16-zimbabwe-internet-affordability-access-misa",
+  "facts": [],
+  "systems": [
+    {"system": "POTRAZ internet penetration rate", "country_label": "84.55% internet penetration, Q4 2025 (POTRAZ quarterly report)", "class": "other", "platform": "", "owner": "POTRAZ", "tiers": ""},
+    {"system": "DataReportal / GSMA Intelligence / Statista third-party estimate", "country_label": "6.54 million internet users, 38.4% online penetration, end 2025", "class": "other", "platform": "", "owner": "DataReportal", "tiers": ""}
+  ],
+  "note": "POTRAZ 84.55% has no stated basis (regulator subscriber statistics); 38.4% is a DataReportal figure; neither qualifies."
+}

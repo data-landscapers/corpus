@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre",
+  "facts": [],
+  "systems": [
+    {"system": "Internet users (digital penetration)", "country_label": "30.46% digital penetration, 10,078,974 internet users, year not stated (article 2023-05-17)", "class": "other", "platform": "", "owner": "MINTTICS national telecommunications director", "tiers": ""},
+    {"system": "Mobile subscriptions", "country_label": "23,977,537 mobile subscribers, 72.47% penetration, year not stated (article 2023-05-17)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 'internet users' count and 30.46% penetration come from the ministry's telecoms statistics with no stated basis or year, so not taken as a survey figure."
+}

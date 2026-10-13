@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-18-nigeria-deepfake-election-bloomwit-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet users (Bloomwit Africa report)",
+   "country_label": "109 million internet users, about 45.5% of the population (2026)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Share of people stated but no source or basis given and the report's platform statistics read as DataReportal-style; not accepted as survey or ITU/World Bank."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2020-02-01-lesotho-digital-economy-diagnostic-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "3G network coverage", "country_label": "97% of the population covered, 2018", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "4G network coverage", "country_label": "71.4% of the population covered, 2018", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "States only that about two thirds of Basotho are not regularly using the internet, with no figure, year or source for a share of users; no fact."
+}

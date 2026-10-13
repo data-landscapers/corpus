@@ -1,0 +1,15 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:12.6",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

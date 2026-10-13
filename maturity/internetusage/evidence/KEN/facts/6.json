@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-24-kictanet-nyandarua-women-digital-skills",
+  "facts": [],
+  "systems": [
+    {"system": "KNBS internet access by sex", "country_label": "2026 write-up: 37.8% of men and 32.2% of women access the internet nationally (KNBS, year not given); urban 56.5% vs rural 25% internet penetration", "class": "other", "platform": "", "owner": "Kenya National Bureau of Statistics (as cited by KICTANet)", "tiers": ""}
+  ],
+  "note": "No whole-country share: figures are split by sex and by urban/rural, with no total and no year."
+}

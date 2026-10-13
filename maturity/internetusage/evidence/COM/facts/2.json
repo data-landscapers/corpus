@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-anrtic-taux-penetration-internet-comores",
+  "facts": [],
+  "systems": [
+    {"system": "ANRTIC internet penetration rate", "country_label": "Taux de pénétration de l'internet: 28% (ANRTIC, 2021)", "class": "other", "platform": "", "owner": "ANRTIC", "tiers": ""}
+  ],
+  "note": "Regulator's homepage gives 28% internet penetration for 2021 but states no basis (survey or subscriber statistics) and no population counted, so it is not taken as a share of people."
+}

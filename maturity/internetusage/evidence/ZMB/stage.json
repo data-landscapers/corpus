@@ -1,0 +1,15 @@
+{
+ "iso3": "ZMB",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:17.1",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZMB-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

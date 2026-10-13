@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-02-mdg-ecofin-4g-coverage-internet-penetration",
+  "facts": [],
+  "systems": [
+    {"system": "DataReportal 2026 internet penetration", "country_label": "Internet penetration 20.4% (6.71 million internet users), end-2025, re-reported from DataReportal 2026", "class": "other", "platform": "", "owner": "DataReportal", "tiers": ""}
+  ],
+  "note": "Only internet figure is a DataReportal one, which is never a fact; 4G/3G coverage (80%/98%, ARTEC 2024) is network coverage."
+}

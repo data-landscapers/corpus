@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-13-worldbank-it-net-user-zs-madagascar",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:18.68", "fact": "The World Bank's indicator of individuals using the Internet (IT.NET.USER.ZS, underlying source ITU) gives 18.68% of Madagascar's population for 2024, with 2025 not yet populated; no age range is given.", "as_of": "2024", "date_precision": "year", "system": "World Bank IT.NET.USER.ZS", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

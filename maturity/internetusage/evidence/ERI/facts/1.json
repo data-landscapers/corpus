@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-eritrea-digital-watch-country-profile",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:26.59", "fact": "The Digital Watch profile's data table gives 26.59 per cent for individuals using the internet (total), sourced to the ITU, from the most recent year in 2018-2023 without naming the year; no age range is given. The document gives no year for the figure, so its published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "ITU individuals using the internet", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Internet Society estimate of internet users", "country_label": "about 27% of the population uses the internet (Internet Society estimate, year not stated)", "class": "other", "platform": "", "owner": "Internet Society", "tiers": ""},
+    {"system": "ITU households with internet access at home", "country_label": "38.52% of households, 2018-2023", "class": "other", "platform": "", "owner": "ITU", "tiers": ""},
+    {"system": "Social media users (DataReportal)", "country_label": "13.8 thousand, 2024", "class": "other", "platform": "", "owner": "DataReportal", "tiers": ""}
+  ],
+  "note": "The 27% Internet Society figure is not ITU or World Bank and is recorded as other; the 26.59% ITU figure is the fact."
+}

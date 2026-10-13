@@ -1,0 +1,47 @@
+{
+ "slug": "ref:itu-sdg-17-8-1-internet-use@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:45.1",
+   "fact": "45.1 per cent of the population of Lesotho used the internet in 2021, an estimate by the International Telecommunication Union.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:48.1",
+   "fact": "48.1 per cent of the population of Lesotho used the internet in 2022, an estimate by the International Telecommunication Union.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:49",
+   "fact": "49 per cent of the population of Lesotho used the internet in 2023, an estimate by the International Telecommunication Union.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:51.8",
+   "fact": "51.8 per cent of the population of Lesotho used the internet in 2024, an estimate by the International Telecommunication Union.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

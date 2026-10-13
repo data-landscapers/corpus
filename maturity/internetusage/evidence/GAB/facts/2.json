@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-gabon-global-findex-database-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Global Findex Database 2025 (GAB_2024_FINDEX_v02_M)", "country_label": "survey of adults 15+, May-December 2024; catalogue record gives no internet-use figure", "class": "other", "platform": "", "owner": "World Bank / Gallup", "tiers": ""}
+  ],
+  "note": "Catalogue record only: no internet-use share stated, and the survey population is adults 15+."
+}

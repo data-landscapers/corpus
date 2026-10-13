@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-digital-development-dashboard-rwanda",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:34",
+     "fact": "The ITU Digital Development Dashboard gives an ITU estimate of 34% of individuals using the internet in Rwanda in 2022; no age range is given.",
+     "as_of": "2022", "date_precision": "year", "system": "ITU individuals using the internet", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Households with Internet access at home", "country_label": "9% of households with home internet access (2017)", "class": "other", "platform": "", "owner": "International Telecommunication Union", "tiers": ""},
+    {"system": "Active mobile-broadband subscriptions", "country_label": "60 per 100 inhabitants (2022)", "class": "other", "platform": "", "owner": "International Telecommunication Union", "tiers": ""}
+  ],
+  "note": ""
+}

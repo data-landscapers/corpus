@@ -1,0 +1,15 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "users": "survey:55.5",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-001",
+   "gaps": "The latest figure, 55.5 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

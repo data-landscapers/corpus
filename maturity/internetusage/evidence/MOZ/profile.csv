@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,use,users,coverage,estimate:20.5,2024,MOZ-001;MOZ-002;MOZ-006,MOZ-005=estimate:19.9;MOZ-004=estimate:19;MOZ-003=estimate:16.4,

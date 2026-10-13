@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-gsma-pdaa-roadmap-1-billion-connected-africa-2030",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GSMA mobile internet usage gap (continental, Africa)",
+   "country_label": "mobile internet usage gap about 906 million people, almost 60% of Africa's population, 2026; no COD figure",
+   "class": "other",
+   "platform": "",
+   "owner": "GSMA",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional GSMA mobile-internet figure; names DRC only as one of 11 markets studied, gives no DRC share."
+}

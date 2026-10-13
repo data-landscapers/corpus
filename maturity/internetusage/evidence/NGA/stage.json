@@ -1,0 +1,15 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "users": "estimate:41.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-004",
+   "gaps": "The latest figure, 41.2 per cent for 2024, is below 50 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

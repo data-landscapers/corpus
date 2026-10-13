@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-lca-ict-access-use-households-comparative-2016-2023",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:58.4", "fact": "The Lesotho Communications Authority, with the Bureau of Statistics, reports from its nationally representative 2023 household survey that 58.4% of individuals use the internet; no age range is given.", "as_of": "2023", "date_precision": "year", "system": "ICT Access and Use by Households and Individuals Survey", "class": "use"},
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:42.3", "fact": "The Lesotho Communications Authority, with the Bureau of Statistics, reports from its 2019 household survey that 42.3% of individuals use the internet; no age range is given.", "as_of": "2019", "date_precision": "year", "system": "ICT Access and Use by Households and Individuals Survey", "class": "use"},
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:32.5", "fact": "The Lesotho Communications Authority, with the Bureau of Statistics, reports from its 2016 household survey that 32.5% of individuals use the internet; no age range is given.", "as_of": "2016", "date_precision": "year", "system": "ICT Access and Use by Households and Individuals Survey", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Households with internet connection", "country_label": "5.3% of households with internet access, 2023", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:8.6",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "users": "estimate:39.5",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-004",
+   "gaps": "The latest figure, 39.5 per cent for 2024, is below 50 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "ref:itu-sdg-17-8-1-internet-use@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:88.1",
+   "fact": "88.1 per cent of the population of Morocco used the internet in 2021, a survey figure the country reported to the International Telecommunication Union.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:89.9",
+   "fact": "89.9 per cent of the population of Morocco used the internet in 2022, a survey figure the country reported to the International Telecommunication Union.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:91",
+   "fact": "91 per cent of the population of Morocco used the internet in 2023, a survey figure the country reported to the International Telecommunication Union.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:91.2",
+   "fact": "91.2 per cent of the population of Morocco used the internet in 2024, a survey figure the country reported to the International Telecommunication Union.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

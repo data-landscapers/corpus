@@ -1,0 +1,17 @@
+{
+ "slug": "ref:itu-sdg-17-8-1-internet-use@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:6.7",
+   "fact": "6.7 per cent of the population of South Sudan used the internet in 2019, an estimate by the International Telecommunication Union.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "People who use the internet (SDG 17.8.1)",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

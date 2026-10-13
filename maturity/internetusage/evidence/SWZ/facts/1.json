@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-28-digital-eswatini-project-pid",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile internet penetration", "country_label": "mobile internet penetration 50.3% of the population (year not stated; document dated 2025-06)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "4G mobile coverage", "country_label": "4G access limited to 80% of the population (year not stated; document dated 2025-06)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Fixed-broadband penetration", "country_label": "fixed-broadband penetration 1.6% of the population (year not stated; document dated 2025-06)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No share of people using the internet is given: internet use is only said to be 'less than half of the population', with no figure or year; the 50.3% is mobile internet penetration."
+}

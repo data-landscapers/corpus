@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability",
+  "facts": [],
+  "systems": [
+    {"system": "Internet Society Pulse average Internet cost (low-consumption mobile broadband, 1GB)", "country_label": "13% of average income in 2020; 0.2% in 2025 (price of data)", "class": "other", "platform": "", "owner": "Internet Society", "tiers": ""}
+  ],
+  "note": "For Burkina Faso it gives only the price of data and IXP membership; no share of people using the internet."
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "unplaced",
+   "users": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2024 or later is held for the share of the population who use the internet.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

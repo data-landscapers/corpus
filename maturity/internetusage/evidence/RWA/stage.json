@@ -1,0 +1,15 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "users": "estimate:31.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-008",
+   "gaps": "The latest figure, 31.7 per cent for 2024, is below 50 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

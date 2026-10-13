@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-internetusage.md — the thirty-ninth maturity study: people who use the internet, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: internetusage
@@ -74,10 +74,23 @@ The African Union's second ten-year plan for Agenda 2063 asks that 80 per cent o
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry and read**: the held figures, then one fan-out over the 130 stories.
-- [ ] **D3. Stage** as at 2026-09-30, with the second drafter's 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13, with his ruling that a government press statement giving a share of people counts as a survey.
+- [x] **D2. Carried and read**: 204 figures for all 54 countries from the held series; 62 drafters in one fan-out over the 130 stories. 232 facts after the parent's reading, 28 of them from stories.
+- [x] **D3. Staged** as at 2026-09-30: 4: 3, 3: 17, 2: 20, 1: 11, three unplaced, none at 5; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **The stories moved one country: Angola, from stage 2 to stage 3.** Its regulator gave the share of individuals who use the internet as 55.5 per cent for 2024, at an International Telecommunication Union workshop; the Union's estimate is 40.7. It is used under Bill's ruling on government statements.
+- **Removed by the parent, six rows** (`corrections.csv`). Tunisia's regulator gave 85.9 per cent "of the sample" in its 2026 survey, in four records, with no sampling frame or age range: it would have put Tunisia at stage 4, and Tunisia is stage 3 on the estimate of 70. Eritrea's 26.59 per cent names no year and is for 2023 or earlier. Rwanda's 38 per cent "as of mid-2025" is not in the Union's series; Rwanda is stage 2 either way.
+- **Eritrea, South Sudan and Sudan are unplaced, not *No evidence***: their figures for 2020, 2019 and 2017 are carried and set nothing. No story gave a later one.
+- **Sierra Leone is stage 2 on an estimate of 25.1 and Lesotho stage 3 on 51.8.** Lesotho's regulator's survey found 58.4 per cent in 2023, a year outside the window.
+- **Mauritius is stage 3 on a survey figure of 73.3 for 2024**, down from an estimate of 79.5 for 2023: a fall is a fall.
+- **A regulator's "penetration rate" with no stated basis was noted and not used**, in Benin, Burundi, the Central African Republic, the Comoros and others. The Central African Republic's ministers said about 30 per cent, where the estimate is 13.8.
+- **The two figures the series marks suspect, Ghana's for 2020 and 2021, were not carried.** Both are outside the window.
+- **The 37 DataReportal pages were not opened**; where a story quoted DataReportal, the figure is noted.
+- **The series is cited as data**, under `ref:itu-sdg-17-8-1-internet-use@2026-06-30`. **A script wrote the summaries**, `scripts/study-internet-write.py`; no writer was called.
+- **Tokens: 21.0 million at the map**, ceiling 30 million, step 1 excluded: it ran in an earlier session.
 
 ## Boundary
 

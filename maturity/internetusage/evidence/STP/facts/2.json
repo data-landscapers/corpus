@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-22-unesco-sao-tome-ai-ethics-governance-country-profile",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:61", "fact": "The UNESCO AI observatory profile says the ITU reported 61% of the population of Sao Tome and Principe as using the internet in 2023; no age range is given.", "as_of": "2023", "date_precision": "year", "system": "ITU share of population using the internet", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-28-tunisie-ins-flash-tic-usage-internet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Recensement général de la population et de l'habitat 2024 (RGPH), indicateur TIC",
+   "country_label": "76.5% of literate individuals aged 10+ used the internet in the 3 months before the 2024 census (INS)",
+   "class": "other",
+   "platform": "",
+   "owner": "Institut National de la Statistique",
+   "tiers": ""
+  },
+  {
+   "system": "Connexion Internet des ménages",
+   "country_label": "40.4% of households have an internet connection, 2024 (INS)",
+   "class": "other",
+   "platform": "",
+   "owner": "Institut National de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": "INS census figure 76.5% counts literate individuals aged 10+ only, not all individuals, so the basis is not the whole population; recorded as other."
+}

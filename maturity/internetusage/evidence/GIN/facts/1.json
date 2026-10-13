@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-09-guinea-urges-orange-improve-service-coverage",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:33.3",
+     "fact": "Ecofin Agency reports that the International Telecommunication Union estimates internet usage in Guinea at 33.3% in 2024; no age range is given.",
+     "as_of": "2024", "date_precision": "year", "system": "ITU internet usage estimate", "class": "use"}
+  ],
+  "systems": [
+    {"system": "ARPT internet subscriptions", "country_label": "8.3 million internet subscriptions, about 58% of population, end-June 2025 (regulator subscription count; the article says it overstates users)", "class": "other", "platform": "", "owner": "ARPT", "tiers": ""},
+    {"system": "ARPT mobile subscriptions", "country_label": "12.8 million mobile subscribers, 89.1% penetration, end-June 2025", "class": "other", "platform": "", "owner": "ARPT", "tiers": ""}
+  ],
+  "note": ""
+}

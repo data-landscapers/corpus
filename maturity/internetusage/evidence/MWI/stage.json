@@ -1,0 +1,15 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:19",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

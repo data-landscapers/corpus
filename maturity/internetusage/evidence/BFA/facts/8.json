@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-13-isoc-local-peering-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Internet Society Pulse average Internet cost (basic mobile broadband plan)", "country_label": "13% of average income in 2020; 0.2% in 2025 (price of data)", "class": "other", "platform": "", "owner": "Internet Society", "tiers": ""}
+  ],
+  "note": "Its only user-share figures are for Africa as a whole (36%, ITU 2025) and other countries; for Burkina Faso it gives the price of data and IXP membership only."
+}

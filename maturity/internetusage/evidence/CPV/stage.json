@@ -1,0 +1,15 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "users": "estimate:74.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-004",
+   "gaps": "The latest figure, 74.7 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

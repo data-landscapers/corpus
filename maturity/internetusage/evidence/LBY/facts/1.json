@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-gaci-penetration-and-usage-indicators-2024",
+  "facts": [],
+  "systems": [
+    {"system": "GACI penetration and usage indicators dashboard", "country_label": "Internet users 9,058,320 (2024), a count of users from the regulator's statistics, no share of population or basis stated", "class": "other", "platform": "", "owner": "General Authority for Communications and Informatics (GACI)", "tiers": ""}
+  ],
+  "note": "Regulator dashboard gives a count of internet users (9,058,320, 2024), not a share of people, with no stated basis; recorded as other."
+}

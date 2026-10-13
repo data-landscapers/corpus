@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet access/penetration statement (unattributed)",
+   "country_label": "internet penetration below 30%, nearly 80% offline (2024); minister quoted 'internet access remains below 30%'; no exact figure, year or basis",
+   "class": "other",
+   "platform": "",
+   "owner": "Minister of Posts and Telecommunications (quoted)",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile internet penetration",
+   "country_label": "mobile internet penetration 32.2% as of September 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an upper bound ('below 30%') and a mobile internet figure; no stated share of people with year and basis."
+}

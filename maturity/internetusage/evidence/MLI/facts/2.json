@@ -1,0 +1,11 @@
+{
+  "slug": "2023-12-01-itu-digital-development-dashboard-mali",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:33", "fact": "The ITU Digital Development Dashboard gives individuals using the Internet in Mali, total, at 33% for 2022 (ITU estimate); no age range is given for the total.", "as_of": "2022", "date_precision": "year", "system": "ITU World Telecommunication/ICT Indicators Database", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Households with Internet access at home", "country_label": "22% of households (2019)", "class": "other", "platform": "", "owner": "ITU", "tiers": ""},
+    {"system": "Active mobile-broadband subscriptions", "country_label": "58 per 100 inhabitants (2022)", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "1",
+   "users": "estimate:20.5",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

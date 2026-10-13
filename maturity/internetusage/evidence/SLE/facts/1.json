@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-05-sierra-leone-400m-telecom-usage-gap",
+  "facts": [],
+  "systems": [
+    {"system": "DataReportal internet penetration estimate", "country_label": "20.8% of total population, 1.85 million internet users, end of 2025 (DataReportal)", "class": "other", "platform": "", "owner": "DataReportal", "tiers": ""}
+  ],
+  "note": "Only figure for share of people online is DataReportal's (excluded source); minister's '60% usage gap' is a telecom coverage-versus-use gap, not a stated share of people using the internet."
+}

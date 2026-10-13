@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-09-mwi-ecofin-macra-rural-networks-usage-gap",
+  "facts": [],
+  "systems": [
+    {"system": "Unique-user mobile internet penetration", "country_label": "12.5% unique-user mobile internet penetration, 2026 (GSMA figure; mobile internet users only)", "class": "other", "platform": "", "owner": "GSMA", "tiers": ""},
+    {"system": "Share not using the internet", "country_label": "about 90% of population does not use the internet, 2026 (stated by the article alongside GSMA data; no basis or source given)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Figures are GSMA's or unattributed with no stated basis, and the 12.5% counts mobile internet users only; no fact."
+}

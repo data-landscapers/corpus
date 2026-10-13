@@ -1,0 +1,15 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "4",
+   "users": "survey:91.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-005",
+   "gaps": "The latest figure, 91.2 per cent for 2024, is below 95 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

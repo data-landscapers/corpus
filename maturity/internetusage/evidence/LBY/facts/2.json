@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-itu-digital-development-dashboard-libya",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:88", "fact": "The ITU Digital Development Dashboard gives an ITU estimate of 88% of the population using the internet in Libya for 2022 (individuals using the internet, total; no age range given).", "as_of": "2022", "date_precision": "year", "system": "ITU Digital Development Dashboard", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

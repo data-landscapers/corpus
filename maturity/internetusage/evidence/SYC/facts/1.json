@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-14-fred-internet-users-seychelles",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:87.8", "fact": "FRED, mirroring the World Bank World Development Indicators series (individuals using the internet, per 100 people), gives 87.8 per 100 people for Seychelles in 2024; no age range is given.", "as_of": "2024", "date_precision": "year", "system": "Individuals using the Internet (World Bank / FRED ITNETUSERP2SYC)", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

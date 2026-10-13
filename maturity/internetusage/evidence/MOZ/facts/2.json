@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-26-agenceecofin-mozambique-amendes-telecoms-inclusion-numerique",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:20.5",
+     "fact": "Agence Ecofin, citing the ITU, gives Mozambique's internet penetration as an estimated 20.5% of the population in 2024; no age range is given.",
+     "as_of": "2024", "date_precision": "year", "system": "ITU internet use indicator", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-13-sudan-internet-usage-worldbank-itu",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:18.6",
+     "fact": "The World Bank indicator IT.NET.USER.ZS, sourced from the ITU, gives 18.6% of the population (individuals, no age range given) using the internet in Sudan in 2017, the latest non-null year; 2018-2025 are null.",
+     "as_of": "2017", "date_precision": "year", "system": "World Bank IT.NET.USER.ZS (ITU data)", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

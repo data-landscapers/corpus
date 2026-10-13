@@ -1,0 +1,15 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "users": "estimate:45.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-006",
+   "gaps": "The latest figure, 45.8 per cent for 2024, is below 50 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

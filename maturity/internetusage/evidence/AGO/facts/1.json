@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-07-inacom-promocao-e-medicao-da-conectividade-universal-e-significativa-angola",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:55.5", "fact": "INACOM, Angola's communications regulator, reports 55.5% of individuals using the internet in 2024 (indicator HH8); no age range is given.", "as_of": "2024", "date_precision": "year", "system": "Proporção de Indivíduos que usam a Internet (HH8)", "class": "use"},
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:48.8", "fact": "INACOM reports 48.8% of individuals using the internet in 2023 (indicator HH8); no age range is given.", "as_of": "2023", "date_precision": "year", "system": "Proporção de Indivíduos que usam a Internet (HH8)", "class": "use"},
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:42.1", "fact": "INACOM reports 42.1% of individuals using the internet in 2022 (indicator HH8); no age range is given.", "as_of": "2022", "date_precision": "year", "system": "Proporção de Indivíduos que usam a Internet (HH8)", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Broadband subscriptions", "country_label": "12,785,472 broadband subscriptions, 36.40% per 100 inhabitants, 2024", "class": "other", "platform": "", "owner": "INACOM", "tiers": ""},
+    {"system": "Mobile subscriptions", "country_label": "26,407,932 mobile subscriptions, 75.19% penetration, 2024", "class": "other", "platform": "", "owner": "INACOM", "tiers": ""}
+  ],
+  "note": ""
+}

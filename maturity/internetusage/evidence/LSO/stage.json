@@ -1,0 +1,15 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "users": "estimate:51.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-008",
+   "gaps": "The latest figure, 51.8 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

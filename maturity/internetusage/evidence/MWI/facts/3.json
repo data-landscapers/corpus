@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-08-malawi-launches-broadband-mapping-system",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:18", "fact": "The article cites International Telecommunication Union figures that 18% of Malawi's population actively used the internet in 2023; no age range is given.", "as_of": "2023", "date_precision": "year", "system": "ITU individuals using the internet", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Mobile broadband subscriptions", "country_label": "9.4 million mobile broadband subscribers, 47% penetration, Q3 2024 (MACRA)", "class": "other", "platform": "", "owner": "MACRA", "tiers": ""}
+  ],
+  "note": ""
+}

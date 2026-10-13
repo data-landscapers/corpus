@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-01-fact-sheet-on-ict-analytical-report-based-on-kenya-housing-survey-2023-2024",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:35.0",
+     "fact": "The Communications Authority of Kenya and the Kenya National Bureau of Statistics report from the 2023/24 Kenya Housing Survey that 35.0% of individuals nationally use the internet (37.8% of males, 32.2% of females); no age range is given for the national figure, and the age breakdown starts at 3-4 years. The survey year is 2023/24, recorded as 2024.",
+     "as_of": "2024", "date_precision": "year", "system": "Kenya Housing Survey 2023/24 internet usage by individuals", "class": "use"}
+  ],
+  "systems": [
+    {"system": "Kenya Housing Survey 2023/24 internet usage among youths (18-34 years)", "country_label": "58.6% national, 2023/24; youths aged 18-34 only", "class": "other", "platform": "", "owner": "Kenya National Bureau of Statistics; Communications Authority of Kenya", "tiers": ""}
+  ],
+  "note": "Youth 18-34 figure and county figures are group or region figures, not the whole country."
+}

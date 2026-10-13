@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-01-anrt-enquete-tic-menages-individus-2024-2025",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:91.2", "fact": "The regulator ANRT's national household ICT survey (5,760 households, fieldwork January-February 2025) gives 91.2% of individuals aged 5 and over using the internet in 2024 (use in the last three months), up from 74.4% in 2019.", "as_of": "2024", "date_precision": "year", "system": "ANRT household and individual ICT survey 2024-2025", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

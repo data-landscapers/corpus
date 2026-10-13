@@ -1,0 +1,16 @@
+{
+  "slug": "2025-06-12 Rwanda hits 38% internet penetration, but cost still keeps millions offline",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:38",
+     "fact": "TechCabal reports, citing new International Telecommunication Union data, that 38% of Rwanda's population is online as of mid-2025 (5.5 million internet users of an estimated 14.4 million people); no age range is given.",
+     "as_of": "2025", "date_precision": "year", "system": "ITU individuals using the internet", "class": "use"},
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:34",
+     "fact": "TechCabal reports the ITU-sourced share of Rwanda's population online was 34% in 2024, before rising to 38%; no age range is given.",
+     "as_of": "2024", "date_precision": "year", "system": "ITU individuals using the internet", "class": "use"}
+  ],
+  "systems": [
+    {"system": "EICV7 urban/rural internet usage", "country_label": "Internet usage 57% urban and 19% rural (EICV7, National Institute of Statistics of Rwanda); group figures, no national total", "class": "other", "platform": "", "owner": "National Institute of Statistics of Rwanda", "tiers": ""},
+    {"system": "Internet penetration infrastructure", "country_label": "Ministry of ICT official: internet penetration infrastructure has grown to 62% (infrastructure, not people using)", "class": "other", "platform": "", "owner": "Ministry of ICT and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

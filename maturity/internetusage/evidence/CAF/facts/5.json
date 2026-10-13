@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-starlink-beams-into-car-connectingafrica",
+  "facts": [],
+  "systems": [
+    {"system": "DataReportal/Kepios internet users estimate", "country_label": "other: 670,000 internet users, 12% penetration, end 2025 (DataReportal/Kepios)", "class": "other", "platform": "", "owner": "DataReportal / Kepios", "tiers": ""}
+  ],
+  "note": "Only figure is DataReportal/Kepios, which is never a fact."
+}

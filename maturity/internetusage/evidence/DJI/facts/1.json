@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-14-fred-internet-users-djibouti",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "estimate:65.3",
+     "fact": "FRED, reproducing the World Bank indicator sourced from the ITU, gives internet users in Djibouti as 65.3 per 100 people in 2024 (65.2989), for the whole population with no age range given.",
+     "as_of": "2024", "date_precision": "year", "system": "World Bank / ITU internet users indicator (IT.NET.USER.P2)", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

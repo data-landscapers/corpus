@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-20 Democratic Republic of the Congo - eCommerce (US Country Commercial Guide)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet penetration (US ITA guide)",
+   "country_label": "internet penetration under 10%, no year or basis stated; about 20% mobile-broadband subscriptions",
+   "class": "other",
+   "platform": "",
+   "owner": "U.S. International Trade Administration",
+   "tiers": ""
+  }
+ ],
+ "note": "Share of people but basis unstated and a bound only ('under 10%'), at odds with ITU; recorded as other."
+}

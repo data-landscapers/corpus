@@ -1,0 +1,15 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "users": "estimate:25.1",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004",
+   "gaps": "The latest figure, 25.1 per cent for 2024, is below 50 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

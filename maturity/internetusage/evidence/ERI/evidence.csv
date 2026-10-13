@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-002,ERI,use,users,estimate:14.3,"14.3 per cent of the population of Eritrea used the internet in 2020, an estimate by the International Telecommunication Union.",2020,year,People who use the internet (SDG 17.8.1),use,ref:itu-sdg-17-8-1-internet-use@2026-06-30,https://unstats.un.org/sdgs/dataportal

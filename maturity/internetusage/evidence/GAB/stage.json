@@ -1,0 +1,15 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "users": "estimate:68.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GAB-004",
+   "gaps": "The latest figure, 68.7 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-internetusage.py."
+  }
+ ]
+}

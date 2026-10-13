@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-09-bwa-itu-statsbots-ict-data-collection",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "users", "value": "survey:57.5",
+     "fact": "Statistics Botswana's 2024 Household Access and Individual Use of ICTs Survey (nationally representative, household members aged 5 and above, fieldwork June-August 2024) found internet use reaching 57.5%.",
+     "as_of": "2024", "date_precision": "year",
+     "system": "2024 Botswana Household Access and Individual Use of ICTs Survey", "class": "use"}
+  ],
+  "systems": [],
+  "note": ""
+}

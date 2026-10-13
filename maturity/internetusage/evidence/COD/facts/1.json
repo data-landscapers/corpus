@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-01-itu-drc-digital-development-dashboard",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:27",
+   "fact": "The ITU Digital Development Dashboard gives an ITU estimate of 27% of the population using the internet in 2022 (individuals using the internet, total; no age range given).",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU individuals using the Internet",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
