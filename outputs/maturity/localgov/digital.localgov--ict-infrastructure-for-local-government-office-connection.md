@@ -4,7 +4,7 @@
 
 ## The norm
 
-The frame's anchor is the African Union's decentralisation charter of 2014, Article 16(2): local governments "shall be provided with the required human, financial and technological resources", and ICT "shall be made accessible and effectively used". Its reference measure is the United Nations' Local Online Services Index.
+The norm is the African Union's decentralisation charter of 2014, Article 16(2): local governments "shall be provided with the required human, financial and technological resources", and ICT "shall be made accessible and effectively used". Its reference measure is the United Nations' Local Online Services Index.
 
 **Neither measures what the sub-indicator measures.** Article 16 sets a duty and no measure. The Index scores one city's portal, the `web` class. The ladder takes the Charter's two words: *accessible* is the connection and *effectively used* is `systems`. *(Read 2026-10-10.)*
 

@@ -4,7 +4,7 @@
 
 ## The norm
 
-The frame's anchor is the African Union's Digital Transformation Strategy for Africa 2020-2030, which asks states for "national and sectorial digital strategies". **It names the subject and measures nothing.** The old fifth rung, supersession by a national strategy, becomes the flag.
+The norm is the African Union's Digital Transformation Strategy for Africa 2020-2030, which asks states for "national and sectorial digital strategies". **It names the subject and measures nothing.** The old fifth rung, supersession by a national strategy, becomes the flag.
 
 ## The ladder
 

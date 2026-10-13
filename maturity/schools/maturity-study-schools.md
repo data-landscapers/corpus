@@ -86,7 +86,7 @@ Tested and fixed at S3, 2026-10-09 (`ladder-test.csv`): a register still at its 
 
 ## 5. The norm
 
-The African Union's Digital Education Strategy (2022), fourth objective: a move from *EMIS 1.0*, "aggregate statistical data collection for generating annual reports", to *EMIS 2.0*, individual-level data on unique identifiers, in at least half of member states by 2027. Its device and connection targets (20 per cent of students and half of teachers by 2027; half of institutions connected) count `enabling`.
+The African Union's Digital Education Strategy (2022), fourth objective: a move from *EMIS 1.0*, "aggregate statistical data collection for generating annual reports", to *EMIS 2.0*, individual-level data on unique identifiers, in at least half of member states by 2027. Its device and connection targets (20 per cent of students and half of teachers by 2027; half of institutions connected) are noted, not assessed.
 
 **It draws this study's line, and keeps one name for both sides of it.** Its *EMIS 1.0* is the school census, in its own words. Its *EMIS 2.0* is met by a learner register, this ladder's stage 3: it asks for a record per learner, not for a school that uses it during the year. The ladder borrows nothing from it; the 90 per cent line is the health study's. *(Read 2026-10-09: pages 10, 55 to 58.)*
 

@@ -90,7 +90,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 
 ## 5. The norm
 
-The frame's anchor is the African Union's Malabo Convention: Article 8(1) commits each party to a legal framework for personal data, Article 13 sets the principles and Articles 16 to 19 the rights. **It names the subject and measures nothing**: it sets no test of whether a law is applied, and matching its principles is a reading of two texts, not a dated fact. Ratification is the flag.
+The norm is the African Union's Malabo Convention: Article 8(1) commits each party to a legal framework for personal data, Article 13 sets the principles and Articles 16 to 19 the rights. **It names the subject and measures nothing**: it sets no test of whether a law is applied, and matching its principles is a reading of two texts, not a dated fact. Ratification is the flag.
 
 ## 6. What the review reads and the search asks for
 

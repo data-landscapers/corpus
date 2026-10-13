@@ -4,7 +4,7 @@
 
 ## The norm
 
-The frame's anchor is Corpus-defined: the AFRIPOL Statute of 2017 connects national police agencies and says nothing below the national level, and the lookup's search found no AU instrument on local stations.
+The norm is Corpus's own: the AFRIPOL Statute of 2017 connects national police agencies and says nothing below the national level, and no AU instrument on local stations was found.
 
 **No norm measures what the sub-indicator measures.** The ladder borrows nothing; the 90 per cent line is the health study's. The African Commission's Luanda Guidelines (2014), part 4, require arrest and custody registers wherever people are held and name no medium; the custody register is a noted class here. *(Part 4 read 2026-10-10.)*
 

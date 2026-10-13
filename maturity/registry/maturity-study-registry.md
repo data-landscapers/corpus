@@ -88,7 +88,7 @@ Tested at R3: every rung is reached. **Deaths are a stage 5 requirement only** *
 
 ## 5. The norm
 
-The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal identity by 2030, and the 100 per cent of births and 80 per cent of deaths of SDG 17.19.2(b) that the APAI-CRVS papers restate.
+The norm: the AU Digital Transformation Strategy's 99.9 per cent legal identity by 2030, and the 100 per cent of births and 80 per cent of deaths of SDG 17.19.2(b) that the APAI-CRVS papers restate.
 
 **Neither measures what the sub-indicator measures**: both count people and events registered, which a paper office meets. **One programme text does**: the APAI-CRVS costed plan for 2017 to 2021 counts *countries with electronic data capture on the local level*, 5 in 2016 and 40 by 2021. It sets no share of offices, so stage 3 meets it. The ladder borrows nothing; the 90 per cent line is the health study's. *(Read 2026-10-10.)*
 

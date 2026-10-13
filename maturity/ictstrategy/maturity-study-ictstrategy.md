@@ -94,7 +94,7 @@ Staged as at 2026-09-30: 14 at stage 3, 18 at 2, 1 at 1, 21 unplaced. **Rungs 4 
 
 ## 5. The norm
 
-The frame's anchor is the African Union's Digital Transformation Strategy for Africa 2020-2030, which asks states for "national and sectorial digital strategies". **It names the subject and measures nothing.** The old fifth rung, supersession by a national strategy, becomes the flag.
+The norm is the African Union's Digital Transformation Strategy for Africa 2020-2030, which asks states for "national and sectorial digital strategies". **It names the subject and measures nothing.** The old fifth rung, supersession by a national strategy, becomes the flag.
 
 ## 6. What the review reads and the search asks for
 
