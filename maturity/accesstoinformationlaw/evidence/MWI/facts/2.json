@@ -1,0 +1,10 @@
+{
+  "slug": "2017-02-16-malawi-access-to-information-act-2016",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of the Access to Information Act, 2016 (Act 13 of 2017), assented to on 10 February 2017, gazetted 16 February 2017 and commenced on 30 September 2020.", "as_of": "2017-02-10", "date_precision": "day", "system": "Access to Information Act, 2016", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2016", "country_label": "Access to Information Act, 2016 (Act 13 of 2017)", "class": "law", "platform": "", "owner": "Malawi Human Rights Commission (oversight)", "tiers": "public bodies and relevant private bodies"}
+  ],
+  "note": ""
+}

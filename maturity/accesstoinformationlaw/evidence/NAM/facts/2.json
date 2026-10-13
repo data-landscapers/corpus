@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-09-namibia-information-commissioner-appointment-regulations",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy.", "as_of": "2024-12-09", "date_precision": "day", "system": "Access to Information Act, 2022 (Act No. 8 of 2022)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2022 (Act No. 8 of 2022)", "country_label": "Access to Information Act, 2022", "class": "law", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}
+  ],
+  "note": ""
+}

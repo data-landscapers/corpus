@@ -1,0 +1,16 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-001;NAM-002",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

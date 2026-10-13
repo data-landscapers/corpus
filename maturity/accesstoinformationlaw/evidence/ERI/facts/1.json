@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-unesco-upr46-eritrea-freedom-of-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "UNESCO's contribution to Eritrea's 46th Universal Periodic Review states that no freedom of information law has been adopted in Eritrea, names no draft, and recommends that the Government introduce one; the document gives no date for the statement, so its published date (2026-01) is used.", "as_of": "2026-01", "date_precision": "month", "system": "Access to information law (none adopted)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Constitution of Eritrea 1997, Article 19 (right of access to information)", "country_label": "Constitution of Eritrea (1997)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Press Proclamation 1996", "country_label": "Press Proclamation Law (1996)", "class": "other", "platform": "", "owner": "Ministry of Information", "tiers": ""}
+  ],
+  "note": ""
+}

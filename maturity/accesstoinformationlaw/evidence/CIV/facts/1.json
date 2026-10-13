@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-20-civ-fratmat-caidp-referentiel-documents-publics",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The document reports the access-to-information commission Caidp, chaired by Anne-Marie Konan-Payne, as set up and at work in September 2026, starting a national register of public documents with about 200 information officers; the document names no law and no decision or figures of requests.", "as_of": "2026-09-20", "date_precision": "day", "system": "Commission d'accès à l'information d'intérêt public et aux documents publics (Caidp)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Référentiel national des documents publics", "country_label": "Référentiel national des documents publics", "class": "other", "platform": "", "owner": "Caidp", "tiers": "administration, information officers, Caidp, public (terms to be defined)"}
+  ],
+  "note": "No standing fact: the document names no access to information law, in force or draft; the Caidp work on a document register, the information officers network and the JDAIP days are not decisions or figures, so nothing for applied."
+}

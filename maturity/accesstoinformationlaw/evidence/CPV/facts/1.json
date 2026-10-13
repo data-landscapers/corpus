@@ -1,0 +1,26 @@
+{
+  "slug": "2022-05-16-cpv-bo-lei-10-x-2022-acesso-reutilizacao-documentos-administrativos",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "This document is the text of Lei n.º 10/X/2022 on access to and reuse of administrative documents, approved 8 April 2022, promulgated 9 May 2022 and published 16 May 2022, which gives everyone a right to consult, copy and be informed of administrative documents held by public bodies and takes effect 180 days after publication.",
+      "as_of": "2022-05-09",
+      "date_precision": "day",
+      "system": "Lei n.º 10/X/2022, de 16 de maio (acesso e reutilização de documentos administrativos)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lei n.º 10/X/2022, de 16 de maio (acesso e reutilização de documentos administrativos)",
+      "country_label": "Lei de acesso e reutilização de documentos administrativos",
+      "class": "law",
+      "platform": "",
+      "owner": "Assembleia Nacional",
+      "tiers": "all public administration bodies, public enterprises, local authorities, and foundations and associations under public control"
+    }
+  ],
+  "note": "The text names a regulatory decree for fees but no dated rules, oversight commission or decision under the law, so no reach fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-burundi-national-assembly-august-session-access-to-information-bill",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Le Renouveau reports that a bill on access to information was on the programme of the National Assembly's ordinary session opened on 3 August 2026.", "as_of": "2026-08-03", "date_precision": "day", "system": "Bill on access to information", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Bill on access to information", "country_label": "Projet de loi portant accès à l'information", "class": "law", "platform": "", "owner": "National Assembly of Burundi", "tiers": ""}
+  ],
+  "note": ""
+}

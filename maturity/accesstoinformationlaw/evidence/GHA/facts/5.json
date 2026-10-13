@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-gha-2026-082",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Right to Information Commission's whole mandate is access to public information under the Right to Information Act, 2019 (Act 989).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "Appropriation (No. 2) Act, 2025 (Act 1163) votes GHS 20,413,271 to the Right to Information Commission for 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Information Commission",
+   "country_label": "RTI Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

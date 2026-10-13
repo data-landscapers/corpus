@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-28-proposition-loi-acces-information-recevable-actualite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The National Assembly declared receivable on 27 March 2026 a private member's bill on access to information and transparency of public life, sent to a joint committee with ten days to report; the document says the constitutional right of access is left without a legal framework.",
+     "as_of": "2026-03-27", "date_precision": "day",
+     "system": "Proposition de loi relative à l'accès à l'information et à la transparence de la vie publique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Proposition de loi relative à l'accès à l'information et à la transparence de la vie publique", "country_label": "Access to information bill (Djoli)", "class": "law", "platform": "", "owner": "National Assembly (deputy Jacques Djoli)", "tiers": ""},
+    {"system": "Constitution, article 24 (right to information)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

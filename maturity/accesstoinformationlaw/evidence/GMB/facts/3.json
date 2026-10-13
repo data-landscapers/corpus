@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-17-gambia-information-commission-communication-strategy",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "UNFPA names the Access to Information Act, 2021 as a law whose awareness the Information Commission is to raise.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Access to Information Act, 2021",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "UNFPA tenders a communication strategy for the Information Commission of The Gambia, which exists as the Act's oversight body; dated to publication.",
+      "as_of": "2026-08-17",
+      "date_precision": "day",
+      "system": "Access to Information Act, 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Access to Information Act, 2021",
+      "country_label": "Access to Information Act, 2021",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

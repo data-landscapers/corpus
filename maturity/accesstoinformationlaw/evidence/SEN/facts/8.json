@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-rsf-world-press-freedom-index-senegal",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "RSF states that Senegal now has a law on access to information guaranteeing journalists the right to obtain information held by public institutions and certain private bodies performing a public service; the document gives no date for the law, so the page's published date is used.", "as_of": "2026-01-01", "date_precision": "day", "system": "law on access to information", "class": "law"}
+  ],
+  "systems": [
+    {"system": "law on access to information", "country_label": "law on access to information", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Press Code (2017)", "country_label": "Press Code", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "draft",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNB-001",
+   "gaps": "No source held says an access to information law is in force.",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

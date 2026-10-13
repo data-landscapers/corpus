@@ -1,0 +1,10 @@
+{
+  "slug": "2015-01-27-sudan-right-to-access-information-law-2015",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of the Right to Access Information Law of 2015, ratified by the National Assembly on 27 January 2015 and signed by the President on 22 February 2015, effective from signing.", "as_of": "2015-02-22", "date_precision": "day", "system": "Right to Access Information Law of 2015", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Commission for the Right to Access Information", "country_label": "Commission for the Right to Access Information", "class": "other", "platform": "", "owner": "Republic of the Sudan (under the competent minister)", "tiers": "public institutions at all levels of government"}
+  ],
+  "note": ""
+}

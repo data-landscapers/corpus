@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-10-infocom-atia-reform-whitepaper",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Access to Information Act was enacted on 20 July 2018 and is the law the Information Commission's November 2025 whitepaper reviews and proposes to amend.", "as_of": "2018", "date_precision": "year", "system": "Access to Information Act, 2018", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Information Commission, the oversight body under the Act, is reported to have been issuing orders, decisions and directives under Part VII s.63(1) since 2019, which information holders have ignored; no decision or figure of requests is given, so applied is not recorded.", "as_of": "2019", "date_precision": "year", "system": "Access to Information Act, 2018", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2018", "country_label": "Access to Information Act (ATIA)", "class": "law", "platform": "", "owner": "Information Commission of Seychelles", "tiers": ""},
+    {"system": "Data Protection Act, 2023", "country_label": "Data Protection Act", "class": "other", "platform": "", "owner": "Information Commission of Seychelles", "tiers": ""}
+  ],
+  "note": "An amendment drafting scheduled by the Attorney General's Office is not a published draft, so no draft fact."
+}

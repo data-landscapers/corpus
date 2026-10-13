@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-ghana-mdas-betraying-transparency-pledge-rti",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Fourth Estate says Ghana's RTI law was passed in 2019 and requires public institutions to release information, and it counted 21 institutions that failed to release information in 24 requests, January 2025 to July 2026.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Information Commission",
+   "country_label": "RTI Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

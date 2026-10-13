@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-rsf-mauritanie-projet-loi-acces-utilisation-information-publique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "RSF reports that a government-drafted bill on access to and use of public information has been under discussion since April 2026 and has yet to go through parliamentary review.", "as_of": "2026-06-23", "date_precision": "day", "system": "Projet de loi sur l'accès et l'utilisation de l'information publique (2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi sur l'accès et l'utilisation de l'information publique", "country_label": "projet de loi sur l'accès à l'information", "class": "law", "platform": "", "owner": "Government of Mauritania", "tiers": ""}
+  ],
+  "note": ""
+}

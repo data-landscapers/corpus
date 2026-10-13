@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-01-unesco-guine-bissau-validation-projet-loi-acces-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "UNESCO Dakar reports that the inclusive drafting commission met on 17-23 April 2024 and all stakeholders validated the draft law on access to information, with submission to the Ministry of Justice for adoption as the next step and no law yet in force, the constitutional right at article 51 lacking the instruments to make it effective.", "as_of": "2024-04", "date_precision": "month", "system": "Projet de loi sur l'accès à l'information (Guinea-Bissau)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Constitution of Guinea-Bissau, article 51 (freedom of information, right to inform and be informed)", "country_label": "Constituição da Guiné-Bissau, art. 51", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

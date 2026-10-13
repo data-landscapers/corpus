@@ -1,0 +1,44 @@
+{
+  "slug": "2017-01-18-sierra-leone-raic-open-data-programme",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Right to Access Information Commission's open data page lists the Right to Access Information Act 2013 among its documents, and its sibling policy document quotes the Act as giving every person the right to access information held by a public authority.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "Right to Access Information Act, 2013",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The page, dated 18 January 2017, describes the Right to Access Information Commission as in operation, coordinating the open data programme, chairing a 60-member Open Data Council and providing overall management of the open data portal.",
+      "as_of": "2017-01-18",
+      "date_precision": "day",
+      "system": "Right to Access Information Act, 2013",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Open Data Portal for Sierra Leone (www.opendatasl.gov.sl)",
+      "country_label": "Open Data Portal",
+      "class": "other",
+      "platform": "",
+      "owner": "Right to Access Information Commission (management); Ministry of Information and Communications (technical support)",
+      "tiers": ""
+    },
+    {
+      "system": "Open Data Council",
+      "country_label": "Open Data Council",
+      "class": "other",
+      "platform": "",
+      "owner": "Right to Access Information Commission",
+      "tiers": ""
+    }
+  ],
+  "note": "Undated headline 'RAIC Facilitates Access To 28 Information Requests' sits in site navigation; not taken as a dated fact."
+}

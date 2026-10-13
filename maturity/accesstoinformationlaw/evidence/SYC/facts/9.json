@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-12-mofbe-fiti-nmsg-fims-open-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Fisheries Information Management System (FIMS)",
+   "country_label": "FIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Fisheries, Agriculture and Blue Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Fisheries information system and open data only; no access to information law stated."
+}

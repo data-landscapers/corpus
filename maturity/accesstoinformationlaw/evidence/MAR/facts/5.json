@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31-maroc-justice-adhesion-pndai",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Ministry of Justice says requests and complaints are filed and processed under Law No. 31.13 on the right of access to information, which names the bodies covered in its article 2; the document gives no year for the law, so it is dated to its publication.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Law No. 31.13 on the right of access to information",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The Ministry of Justice reports that the Right to Access Information Commission, led by its president, signed a partnership agreement with the minister on 31 March 2026, showing the commission is set up and running the national portal.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Law No. 31.13 on the right of access to information",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "PNDAI National Portal for the Right to Access Information",
+      "country_label": "البوابة الوطنية للحق في الحصول على المعلومات",
+      "class": "other",
+      "platform": "",
+      "owner": "Right to Access Information Commission",
+      "tiers": "national; Supreme Council of the Judiciary, Public Prosecution and Ministry of Justice have joined"
+    }
+  ],
+  "note": "Document gives a law and commission set up; no decision, order or figures, so no applied fact."
+}

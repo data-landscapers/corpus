@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-13-conseil-ministres-adopte-projet-loi-acces-information-publique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Burundi's Council of Ministers adopted the draft law on access to public information on 10 June 2026, with corrections, and it is to go to both chambers of parliament before promulgation; the ministry says there is currently a legal vacuum on access to public information.", "as_of": "2026-06-10", "date_precision": "day", "system": "Projet de loi portant accès à l'information publique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi portant accès à l'information publique", "country_label": "Projet de loi portant accès à l'information publique", "class": "law", "platform": "", "owner": "Ministry of Communication and Media", "tiers": ""}
+  ],
+  "note": ""
+}

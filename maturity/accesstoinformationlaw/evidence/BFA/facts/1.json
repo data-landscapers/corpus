@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-11-bfa-cnpnz-droits-numeriques-2024-cil-aucun-rapport",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Centre national de presse Norbert Zongo's 2024 digital rights report notes the status quo on the law on access to public information and administrative documents, which it says has fallen into oblivion; it names no repeal and no replacement (no date of the event given, so the document's published date, 2025-02-11, is used).", "as_of": "2025-02-11", "date_precision": "day", "system": "loi d'accès à l'information publique et aux documents administratifs", "class": "law"}
+  ],
+  "systems": [
+    {"system": "loi d'accès à l'information publique et aux documents administratifs", "country_label": "loi d'accès à l'information publique et aux documents administratifs", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "loi organique N°041-2023/ALT (Conseil supérieur de la communication)", "country_label": "loi organique N°041-2023/ALT", "class": "other", "platform": "", "owner": "Conseil supérieur de la communication", "tiers": ""}
+  ],
+  "note": "Reach: the document says only that the law has fallen into oblivion; no rules, oversight body or application is stated, so no reach fact."
+}

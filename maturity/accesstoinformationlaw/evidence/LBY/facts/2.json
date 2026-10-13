@@ -1,0 +1,26 @@
+{
+  "slug": "2022-10-08-libya-draft-law-national-information-system",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A Council of Ministers draft bill on the national information system, issued 8 October 2022 over the Prime Minister's signature and marked as a draft (مشروع), gives every citizen a right to request information from public bodies' information units, with refusal reasons, a complaint to the General Information Authority and recourse to the courts; it is not shown as enacted.",
+      "as_of": "2022-10-08",
+      "date_precision": "day",
+      "system": "Draft law on the National Information System (مشروع قانون بشأن النظام الوطني للمعلومات), 2022",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Law No. 4 of 1990 on the National Information and Documentation System (القانون رقم 4 لسنة 1990)",
+      "country_label": "القانون رقم 4 لسنة 1990 بشأن النظام الوطني للمعلومات والتوثيق",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+# Senegal
+
+## Access to information law
+
+**Law in force.** Senegal's law is [Law no. 2025-15 on access to information, adopted by the National Assembly on 26 August 2025, promulgated on 4 September 2025 and published on 25 September 2025](<https://www.archives.sn/api/fichiers/e05027c9-f6f2-4f70-a313-b0ee81cf2c08>). [It is the first law to set how the right of access is exercised](<https://www.vie-publique.sn/docs/e37fee2b-7841-437a-ae96-b7f969b6a9ac/loi-2025-15-accees-a-l-information.pdf>).
+
+**Law put to work and applied.** The law's oversight body has been created. [The Open Government Partnership's review of May 2026 reports that Senegal created the Commission nationale d'accès à l'information under the law](<https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/>), and that [the law carries sanctions for bodies that do not comply](<https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/>). The commission's members being named is not recorded. A decision, order or penalty on a request for information, or figures of requests published by the oversight body, dated in the last three years, is not recorded.
+
+***Noted, not assessed***. [Commission nationale d'accès à l'information (CONAI)](<https://www.opengovpartnership.org/fr/documents/senegal-results-report-2023-2025/>); [Loi n° 2006-19 relative aux archives et aux documents administratifs](<https://www.vie-publique.sn/docs/e37fee2b-7841-437a-ae96-b7f969b6a9ac/loi-2025-15-accees-a-l-information.pdf>); [Loi n° 2008-12 portant sur la protection des données à caractère personnel](<https://www.vie-publique.sn/docs/e37fee2b-7841-437a-ae96-b7f969b6a9ac/loi-2025-15-accees-a-l-information.pdf>); [Loi n° 2012-22 portant Code de transparence dans la gestion des finances publiques](<https://www.vie-publique.sn/docs/e37fee2b-7841-437a-ae96-b7f969b6a9ac/loi-2025-15-accees-a-l-information.pdf>); [Loi n° 2017-27 portant Code de la presse](<https://www.vie-publique.sn/docs/e37fee2b-7841-437a-ae96-b7f969b6a9ac/loi-2025-15-accees-a-l-information.pdf>).
+
+***Not held***. No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.

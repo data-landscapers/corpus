@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-27-session-extraordinaire-sans-projet-loi-information-publique-rfi",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "RFI reports that the access to public information bill (projet de loi n°017/2025) was left off the agenda of the National Assembly's extraordinary session opened on 25 August 2026, although deputies had promised to reinscribe it, so it remains a bill awaiting plenary examination.", "as_of": "2026-08-27", "date_precision": "day", "system": "Projet de loi n°017/2025 sur l'accès à l'information à caractère public", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi n°017/2025 sur l'accès à l'information à caractère public", "country_label": "Loi sur l'accès à l'information publique (bill)", "class": "law", "platform": "", "owner": "National Assembly", "tiers": ""}
+  ],
+  "note": ""
+}

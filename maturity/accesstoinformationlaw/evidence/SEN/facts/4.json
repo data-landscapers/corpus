@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-26-loi-2025-15-relative-acces-a-l-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of Senegal's Loi n° 2025-15 relative à l'Accès à l'Information, the country's access to information law, whose explanatory memorandum says no law fixing how the right of access is exercised existed before it; the document gives no promulgation date, so the year 2025 comes from the law's number and the document's publication date.", "as_of": "2025", "date_precision": "year", "system": "Loi n° 2025-15 relative à l'Accès à l'Information (2025)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2006-19 relative aux archives et aux documents administratifs", "country_label": "Loi n° 2006-19 du 30 juin 2006", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Loi n° 2008-12 portant sur la protection des données à caractère personnel", "country_label": "Loi n° 2008-12 du 25 janvier 2008", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Loi n° 2012-22 portant Code de transparence dans la gestion des finances publiques", "country_label": "Loi n° 2012-22 du 27 décembre 2012", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Loi n° 2017-27 portant Code de la presse", "country_label": "Loi n° 2017-27 du 13 juillet 2017", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

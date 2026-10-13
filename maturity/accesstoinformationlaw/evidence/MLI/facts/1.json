@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-01-evaluation-mise-en-oeuvre-loi-acces-information-mali",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A peer-reviewed article says Mali has no single access to information law yet: the legal framework for the right is spread across several laws, among them Law no. 98-012 on relations between the administration and its users, and the article calls for a specific law; it names no draft and gives no date for this, so the document's publication date (2026-04-01) is used.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Loi n°98-012 relative aux relations entre l'administration et les usagers (1998)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2013-015 sur la protection des données personnelles",
+   "country_label": "Loi n°2013-015",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Loi n°2017-062 sur la société de l'information",
+   "country_label": "Loi n°2017-062",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

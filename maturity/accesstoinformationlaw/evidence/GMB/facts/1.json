@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-07-gambia-gpu-access-to-information-implementation",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Gambia Press Union's Secretary General says the Access to Information Act has been in force for more than a year; the document gives no year of enactment, so it is dated to publication.",
+      "as_of": "2026-08-07",
+      "date_precision": "day",
+      "system": "Access to Information Act",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The Gambia Press Union says it takes part in technical committees alongside the Information Commission, so the Commission is set up and working; dated to publication.",
+      "as_of": "2026-08-07",
+      "date_precision": "day",
+      "system": "Access to Information Act",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Access to Information Act",
+      "country_label": "Access to Information Act",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Unanswered requests and missing information officers are reported with no oversight body or court decision, so no applied fact."
+}

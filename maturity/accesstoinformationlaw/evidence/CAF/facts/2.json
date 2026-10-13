@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-10-caf-icasees-odp-portal-odin-modernisation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Portal (ODP 1.0)",
+      "country_label": "Portail Open Data",
+      "class": "other",
+      "platform": "ODP 1.0",
+      "owner": "ICASEES",
+      "tiers": "national statistics institute"
+    }
+  ],
+  "note": "Open data portal and licence news; says nothing on an access to information law."
+}

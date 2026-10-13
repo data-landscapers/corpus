@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-11-malawi-advances-information-access-law",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article says the Access to Information Act (ATIA), which gives public access to government-held information, became operational in September 2020.", "as_of": "2020-09", "date_precision": "month", "system": "Access to Information Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Malawi Human Rights Commission, the body Section 8 of the Act gives the oversight role (awareness, advice on information management, review of denials), presented its ATIA implementation progress report on 10 October 2025 (article dated 11 October), so it has taken up the job.", "as_of": "2025-10-10", "date_precision": "day", "system": "Access to Information Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The commission's report for April 2024 to March 2025 says information holders processed over 36,000 requests with 11 rejections; the article is dated 11 October 2025 and the report was presented on the Friday before.", "as_of": "2025-10-10", "date_precision": "day", "system": "Access to Information Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act", "country_label": "Access to Information Act (ATIA)", "class": "law", "platform": "", "owner": "Malawi Human Rights Commission (oversight)", "tiers": ""}
+  ],
+  "note": ""
+}

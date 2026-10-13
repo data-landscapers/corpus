@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-28-somalia-upr-joint-submission-access-to-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The joint submission to the UN Universal Periodic Review says the Council of Ministers approved the Official Information Bill in March 2024 and submitted it to the House of the People of the Federal Parliament for consideration; it criticises its broad exemptions and secret drafting.", "as_of": "2024-03", "date_precision": "month", "system": "Official Information Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Official Information Bill", "country_label": "Official Information Bill (OIB)", "class": "law", "platform": "", "owner": "Council of Ministers; House of the People", "tiers": "federal"},
+    {"system": "Somalia Media Law (2020)", "country_label": "Media Law", "class": "other", "platform": "", "owner": "Minister of Information", "tiers": "federal"},
+    {"system": "Anti-Terrorism Law", "country_label": "Somali Anti-Terrorism Law", "class": "other", "platform": "", "owner": "", "tiers": "federal"}
+  ],
+  "note": ""
+}

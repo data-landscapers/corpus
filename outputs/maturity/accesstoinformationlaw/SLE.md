@@ -1,0 +1,11 @@
+# Sierra Leone
+
+## Access to information law
+
+**Law in force.** Sierra Leone's law is [the Right to Access Information Act, 2013, signed by the President on 31 October 2013](<https://raic.gov.sl/images/downloads/Right-access-information-act-2013.pdf>). A replacement is being written: [a Data Protection and Right to Access Information Bill was validated on 7 November 2025](<https://moice.gov.sl/moice-concludes-final-national-validation-of-the-data-protection-and-right-to-access-information-bill-2025/>), and [Cabinet approved repealing the 2013 Act and enacting the new one, announced on 21 April 2026](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>).
+
+**Law put to work and applied.** The Act's oversight body is long set up. [The Right to Access Information Commission presented its sixth annual report to the Minister of Information and Civic Education on 17 November 2025](<https://moice.gov.sl/raic-presents-6th-annual-report-to-minister-chernor-bah-highlighting-significant-progress-in-access-to-information/>), and [it was already at work in January 2017](<https://raic.gov.sl/index.php/programmes/open-data>). The figures in the report are not held. A decision, order or penalty on a request for information, or figures of requests published by the oversight body, dated in the last three years, is not recorded.
+
+***Noted, not assessed***. [Right to Access Information Commission (RAIC)](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>); [Open Data Portal for Sierra Leone (www.opendatasl.gov.sl)](<https://raic.gov.sl/index.php/programmes/open-data>); [Open Data Council](<https://raic.gov.sl/index.php/programmes/open-data>); [SLEITI Open Data Policy](<https://raic.gov.sl/images/downloads/2016-final_sleiti_open_data_policy.pdf>); [Government Online Repository (mining contracts and payments)](<https://raic.gov.sl/images/downloads/2016-final_sleiti_open_data_policy.pdf>).
+
+***Not held***. No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.

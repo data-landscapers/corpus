@@ -1,0 +1,13 @@
+{
+  "slug": "2023-12-26-zambia-access-to-information-act-2023",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The document is the text of Zambia's Access to Information Act, 2023 (Act No. 24 of 2023), assented to on 22 December 2023, giving citizens and residence permit holders a right to information held by public and private bodies, with commencement on a date the Minister appoints by statutory instrument.",
+     "as_of": "2023-12-22", "date_precision": "day",
+     "system": "Access to Information Act, 2023", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2023", "country_label": "Access to Information Act, 2023 (Act No. 24 of 2023)", "class": "law", "platform": "", "owner": "Parliament of Zambia", "tiers": "national"}
+  ],
+  "note": ""
+}

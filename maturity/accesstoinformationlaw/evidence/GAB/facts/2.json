@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-unesco-upr42-gabon-contribution",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "UNESCO's contribution to the 42nd Universal Periodic Review states that Gabon has no access to information law and encourages it to adopt one; no draft is named. The document gives no event date, so its published date is used.", "as_of": "2025-12-01", "date_precision": "day", "system": "Access to information law (none)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Code de la Communication (loi n°019/2016 du 9 août 2016)", "country_label": "Code de la Communication", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

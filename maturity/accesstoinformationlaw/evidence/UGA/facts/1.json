@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-21-uneb-v-laker-examination-scripts-personal-data",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The article reports the Access to Information Act, Cap 95 (ATIA), as the law giving a right of access under its section 4, applied by the High Court in a judgment of 7 August 2026; the article gives no year of enactment, so the judgment date is used.",
+      "as_of": "2026-08-07",
+      "date_precision": "day",
+      "system": "The Access to Information Act, Cap 95",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "applied",
+      "fact": "The High Court of Uganda (Civil Division) on 7 August 2026 allowed UNEB's appeal against a Chief Magistrates Court order, made on a complaint against an information officer's decision under the ATIA, that had compelled release of a candidate's examination scripts, and set aside UGX 12,000,000 damages.",
+      "as_of": "2026-08-07",
+      "date_precision": "day",
+      "system": "The Access to Information Act, Cap 95",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection and Privacy Act, Cap 97",
+      "country_label": "DPPA",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

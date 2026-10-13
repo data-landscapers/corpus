@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-civ-bilan-2011-2025-communication-et-transition-numerique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The government's 2011-2025 record lists the creation of the Commission d'Accès à l'Information d'intérêt public et aux Documents Publics (CAIDP) in 2013 among the communication sector's institutional reinforcements; the document names no law.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Commission d'Accès à l'Information d'intérêt public et aux Documents Publics (CAIDP)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "No standing fact: the document names no access to information law; no decision or figures of requests for applied."
+}

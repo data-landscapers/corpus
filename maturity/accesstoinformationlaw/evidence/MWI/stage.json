@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-006;MWI-002;MWI-004",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

@@ -169,7 +169,15 @@
       "subject": "gov.legislate",
       "text": "Access to information legislation: access to information law",
       "indicator_id": "gov.legislate--access-to-information-legislation-access-to-information-law",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no access to information law and no draft of one. A right of access written in the constitution alone is not a law.",
+        "A bill or draft exists: published, validated, out for consultation, before cabinet or parliament, or passed and not yet promulgated. A law that is only announced, planned or called for does not count.",
+        "An access to information law is in force, however old: an act, ordinance or decree with the force of law that gives a right to ask public bodies for information.",
+        "The law has been put to work: a decree, regulation or order made under it, or its information commission or commissioner set up, or an existing body it names taking up the oversight.",
+        "The law has been applied in the past three years: a decision, order or penalty by the oversight body or a court, published figures of requests or complaints, or a rule made under the law. Training, an awareness campaign or an oversight body merely existing does not reach this stage."
+      ],
+      "criteria_of": "9d94a08f3181"
     }
   ],
   "classes": [

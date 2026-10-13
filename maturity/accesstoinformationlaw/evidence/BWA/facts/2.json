@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-26-bwa-access-to-information-act-2024",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document is the text of the Access to Information Act, Act 16 of 2024, which creates a general right of access to information held by public authorities; it states commencement is on notice, and the document is dated 2024-07-26.", "as_of": "2024", "date_precision": "year", "system": "Access to Information Act, 2024 (Act 16 of 2024)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2024 (Act 16 of 2024)", "country_label": "Access to Information Act", "class": "law", "platform": "", "owner": "Parliament of Botswana", "tiers": ""},
+    {"system": "Information and Data Protection Commission", "country_label": "Information and Data Protection Commission", "class": "other", "platform": "", "owner": "established under the Data Protection Act", "tiers": ""}
+  ],
+  "note": ""
+}

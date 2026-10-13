@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-08-ati-act-applies-to-private-companies-high-court",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article says the Access to Information Act of 2016 was assented to in February 2017, published in the Gazette on 16 February 2017 and became operational on 30 September 2020, giving a right to information held by public and relevant private bodies.", "as_of": "2017-02", "date_precision": "month", "system": "Access to Information Act, 2016", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The article reports that the Malawi Human Rights Commission, which the Act makes its oversight body, issued a notice to the company Mota-Engil to assess whether it had mechanisms to comply with the Act; the High Court on 6 March 2026 found the decision to assess was neither illegal nor unreasonable. The notice itself is undated; the date is the ruling's.", "as_of": "2026-03-06", "date_precision": "day", "system": "Access to Information Act, 2016", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2016", "country_label": "Access to Information Act (ATIA)", "class": "law", "platform": "", "owner": "Malawi Human Rights Commission (oversight)", "tiers": "public bodies and relevant private bodies"}
+  ],
+  "note": "The High Court ruling is on a compliance assessment by the oversight body, not on a request made under the Act, so it is not recorded as applied."
+}

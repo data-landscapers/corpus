@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-04 Review of Seychelles DPA",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "TechHive Advisory states the Information Commission was created under the Access to Information Act, so that Act is in force (no date of the Act is given; dated to the article's publication, 2024-06-04).", "as_of": "2024-06-04", "date_precision": "day", "system": "Access to Information Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "TechHive Advisory states the Information Commission was created under the Access to Information Act, and the 2023 Data Protection Act designates it the data protection authority (dated to the article's publication, 2024-06-04).", "as_of": "2024-06-04", "date_precision": "day", "system": "Access to Information Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act", "country_label": "Access to Information Act", "class": "law", "platform": "", "owner": "Information Commission", "tiers": ""},
+    {"system": "Data Protection Act, 2023", "country_label": "Data Protection Act", "class": "other", "platform": "", "owner": "Information Commission", "tiers": ""}
+  ],
+  "note": ""
+}

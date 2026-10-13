@@ -1,0 +1,17 @@
+{
+  "slug": "2005-07-07-access-to-information-act",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "This document is the text of the Access to Information Act, 2005, assented to on 7 July 2005 and commencing on a day the Minister appoints by statutory instrument; it gives every citizen a right of access to records of public bodies.",
+      "as_of": "2005-07-07",
+      "date_precision": "day",
+      "system": "The Access to Information Act, Cap 95",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-12-sierra-leone-nationwide-consultations-data-protection-bill",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Ministry of Information and Civic Education launched nationwide consultations on the draft Right to Access Information and Data Protection Regulatory Commission Bill, opened at the Miatta Conference Centre, with final validation to follow.",
+      "as_of": "2025-09-12",
+      "date_precision": "day",
+      "system": "Right to Access Information and Data Protection Regulatory Commission Bill",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Right to Access Information and Data Protection Regulatory Commission Bill",
+      "country_label": "Right to Access Information and Data Protection Regulatory Commission Bill",
+      "class": "law",
+      "platform": "",
+      "owner": "Ministry of Information and Civic Education",
+      "tiers": ""
+    }
+  ],
+  "note": "The Information Commissioner of the Right to Access Information Commission spoke at the opening; attendance gives no reach fact."
+}

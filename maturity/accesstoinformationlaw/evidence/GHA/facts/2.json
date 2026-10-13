@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-05-ghana-rti-commission-fines-254-public-institutions",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The RTI Commission acted under section 77(1) of the Right to Information Act, 2019 (Act 989), which requires public institutions to submit annual implementation reports.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The RTI Commission, in a press release of 5 August 2026, imposed administrative penalties of GHS 20,000 each on 254 public institutions for not filing 2025 annual RTI reports; the penalty is for missed reports, not a decision on a request.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Information Commission",
+   "country_label": "RTI Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

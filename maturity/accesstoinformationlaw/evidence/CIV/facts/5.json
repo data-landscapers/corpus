@@ -1,0 +1,26 @@
+{
+ "slug": "2014-01-01-cote-divoire-initiative-ivoirienne-open-data",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The national open data portal page cites law n°2013-867 of 23 December 2013 on access to information of public interest as the law prescribing equal access to public data; the page is undated and the date given is the law's.",
+   "as_of": "2013-12-23",
+   "date_precision": "day",
+   "system": "Loi n°2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gouv.ci",
+   "country_label": "data.gouv.ci / Open Data Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "CICG",
+   "tiers": "public bodies, citizens, private sector, civil society"
+  }
+ ],
+ "note": ""
+}

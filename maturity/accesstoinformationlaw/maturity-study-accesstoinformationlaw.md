@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-accesstoinformationlaw.md — the twenty-sixth maturity study: the access to information law, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: accesstoinformationlaw
@@ -20,7 +20,7 @@ The study redraws `gov.legislate--access-to-information-legislation`, which as a
 |---|---|---|
 | Access to information law | Access to information legislation: access to information law | `gov.legislate--access-to-information-legislation-access-to-information-law` |
 
-Anything else the evidence names is `other`, noted and never staged: a right of access written in the constitution with no law behind it, an open data policy or portal, an open government action plan, a state secrets or classification law, a press, media or broadcasting law, a whistleblower law, an archives law, the data protection law and its authority, a ranking of the law by an outside body, the African Union's model law and the treaties.
+Anything else the evidence names is `other`, noted and never staged: a constitutional right with no law behind it, an open data policy, an open government plan, a state secrets, press, whistleblower or archives law, the data protection law and its authority, a ranking of the law, the model law and the treaties.
 
 ## 2. The questions
 
@@ -55,11 +55,13 @@ Asked in order. Each is answered with a date and a link.
 - **A law promulgated but not yet in effect is a yes to question 2**, and the summary gives the date it starts. One passed by parliament and not yet promulgated is a yes to question 1 only.
 - **A body that also protects personal data counts only for what a source says it did under the access to information law.** A data protection ruling is not a yes to question 4.
 - **A budget voted to the commission shows it is set up**, a yes to question 3 and no more.
+- **A penalty the oversight body imposes under the law is the law applied** *(added in the run, for Ghana)*.
+- **An oversight body reported as existing is a yes to question 3 only**; a rule made under the law in the last three years is a yes to 3 and 4.
 - **Training, an awareness week, a call for applications, or information officers named is not a yes to question 4.** The question asks for a decision, a penalty or published figures.
-- **A request reported as refused or ignored, with no decision by the oversight body or a court, is not a yes to question 4.** It is noted.
+- **A request reported as refused or ignored, with no decision on it, is noted and is not a yes to question 4.**
 - **What the law covers is taken from what a source says of it**, never from reading its text for the purpose.
-- **How good the law is is not judged**, nor whether it matches the model law. A reported criticism is noted.
-- **Changes from the row as it stands.** Its stage 4 asks for procedures, proactive disclosure, an oversight body and requests on record all together, and its stage 5 for the model law met. Neither is a fact one story can state, which is why one country sits above stage 3. Several of its ten unplaced cells lead with something that is not this law.
+- **How good the law is is not judged.** A reported criticism is noted.
+- **Changes from the row as it stands.** Its stages 4 and 5 ask for several things together and for the model law met, which no one story can state.
 
 `study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `reach` (`applied`, `rules`, `none`) for 3 and 4.
 
@@ -69,9 +71,7 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 ## 5. What the run reads
 
-- **Read first**: **74 news stories and short legal notices about an access to information law**, covering 30 countries, 63 of them from the last three years. No study has read them. Twenty-four countries have none.
-- **Then, for every country those leave short of an answer**: the news stories its current cell cites, 66 across 36 countries.
-- **Then, only for a country still short of an answer**: one call of its newest held news that names such a law, from at most 206 stories.
+- **Read**: 74 unread news stories and short legal notices about an access to information law, covering 30 countries; then the 66 news stories the current cells cite; then one call of newest news for a country still short of an answer.
 - **Not read**: the long texts of the laws, codes and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
 
 ## 6. Token ceiling
@@ -81,10 +81,21 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 103 calls in two fan-outs, 136 facts.
+- [x] **D3. Staged** as at 2026-09-30: 5: 8, 4: 11, 3: 11, 2: 11, 1: 4, one unplaced, eight without evidence; six rows revalued (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Malawi (36,000 requests reported), Nigeria and Uganda (court rulings), South Africa (enforcement notice), Ghana (254 institutions fined); Kenya, Namibia and Zambia on rules made in the last three years.
+- **Namibia is stage 5 on regulations for choosing its commissioner**, the Act's start date not held; the summary says so.
+- **A commission reported as existing was valued `rules` and dated to the story**; the ladder script asks for `applied`, and the parent revalued five rows that are a rule made or a penalty.
+- **Mali is stage 3**: its one source says the right sits in several laws and no single law exists.
+- **Tunisia's stalled oversight body is a yes to question 3. South Sudan is stage 4 on its commission alone.**
+- **Chad is unplaced**: its statement of no law is dated January 2023.
+- **Without evidence**: Benin, the Central African Republic, Djibouti, Algeria, Ethiopia, Mauritius, São Tomé and Príncipe, Eswatini. Laws held only as long texts were not opened.
+- **Tokens: about 36 million at the map**, ceiling 45 million.
 
 ## Boundary
 

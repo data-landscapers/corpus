@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-31-itweb-inforeg-alarming-data-breaches",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports that South Africa's Information Regulator has a dual mandate under the Protection of Personal Information Act and the Promotion of Access to Information Act, so the access law is in force; no date is given for the law, so the document's published date is used.", "as_of": "2026-08-31", "date_precision": "day", "system": "Promotion of Access to Information Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ITWeb reports that the Information Regulator, headed by chairperson Pansy Tlakula, is set up and holds the oversight mandate for the Promotion of Access to Information Act, and held a media briefing at its new headquarters in Woodmead on 31 August 2026.", "as_of": "2026-08-31", "date_precision": "day", "system": "Promotion of Access to Information Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Promotion of Access to Information Act", "country_label": "Promotion of Access to Information Act (PAIA)", "class": "law", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Protection of Personal Information Act", "country_label": "POPIA", "class": "other", "platform": "", "owner": "Information Regulator", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2025-11-07-gmb-personal-data-protection-and-privacy-act-2025",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Personal Data Protection and Privacy Act 2025 defines the Information Commission as established under the Access to Information Act, Act No. 10 of 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Access to Information Act, 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Access to Information Act, 2021",
+      "country_label": "Access to Information Act, 2021",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Personal Data Protection and Privacy Act, 2025",
+      "country_label": "Personal Data Protection and Privacy Act, 2025 (Act No. 11 of 2025)",
+      "class": "other",
+      "platform": "",
+      "owner": "Information Commission",
+      "tiers": ""
+    }
+  ],
+  "note": "Data protection act text: only the reference to the Access to Information Act gives a fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-21-dmf-cameroun-loi-egov-acces-information-publique-validation-officielle",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "A national workshop at Ebolowa on 3-14 November 2025, under the World Bank-supported PATNUC project, gave technical validation to the draft law (avant-projet) on access to public information and digital transformation of the administration, now ready for ministerial and institutional finalisation; the report was published 21 January 2026.", "as_of": "2025-11", "date_precision": "month", "system": "Réforme e-Gov sur l'accès à l'information publique et la transformation numérique de l'administration (avant-projet de loi)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Réforme e-Gov sur l'accès à l'information publique et la transformation numérique de l'administration (avant-projet de loi)", "country_label": "loi e-Gov", "class": "law", "platform": "", "owner": "MINPOSTEL / PATNUC", "tiers": "central"},
+    {"system": "Réforme du commerce électronique et des transactions électroniques (avant-projet de loi)", "country_label": "réforme du commerce électronique", "class": "other", "platform": "", "owner": "MINPOSTEL / PATNUC", "tiers": "central"},
+    {"system": "Loi sur la protection des données personnelles (promulguée décembre 2024)", "country_label": "loi sur la protection des données personnelles", "class": "other", "platform": "", "owner": "", "tiers": "central"}
+  ],
+  "note": ""
+}

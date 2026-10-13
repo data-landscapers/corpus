@@ -1,0 +1,34 @@
+{
+  "slug": "2026-04-07 CSEA South Africa Data Governance Snapshot 2026",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The CSEA snapshot states that POPIA and PAIA were amended on 17 April 2025.",
+      "as_of": "2025-04-17",
+      "date_precision": "day",
+      "system": "Promotion of Access to Information Act, 2000",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Promotion of Access to Information Act, 2000",
+      "country_label": "Promotion of Access to Information Act, 2000",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Protection of Personal Information Act (POPIA)",
+      "country_label": "Protection of Personal Information Act (POPIA)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No reach fact: the snapshot states only the amendment date; the data-protection law is not assessed here."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "1",
+   "standing": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

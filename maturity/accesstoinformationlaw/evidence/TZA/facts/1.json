@@ -1,0 +1,26 @@
+{
+  "slug": "2016-09-30-access-to-information-act-2016",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The document is the text of Tanzania's Access to Information Act, 2016 (Chapter 149), assented to on 23 September 2016, gazetted on 30 September 2016 and commenced on 1 July 2017 by the Access to Information (Date of Commencement) Notice, 2017; it gives every citizen a right to request information from public bodies and applies to Mainland Tanzania only.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Access to Information Act, 2016",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Access to Information Act, 2016",
+      "country_label": "Access to Information Act, 2016 (Chapter 149)",
+      "class": "law",
+      "platform": "",
+      "owner": "Parliament of the United Republic of Tanzania; Minister responsible for legal affairs",
+      "tiers": "public authorities and certain private bodies, Mainland Tanzania"
+    }
+  ],
+  "note": ""
+}

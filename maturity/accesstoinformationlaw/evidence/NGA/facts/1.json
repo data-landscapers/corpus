@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-21-foi-act-overrides-other-laws-shippers-council",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Media Rights Agenda reports that the Freedom of Information Act, 2011 is in force and gives a right of access to information held by public bodies, as shown by a Federal High Court judgment enforcing it in 2026; the year 2011 is the Act's year as named in the report.", "as_of": "2011", "date_precision": "year", "system": "Freedom of Information Act, 2011", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "A Federal High Court in Lagos (Justice Aneke) ruled on 24 February 2026, in a suit on a journalist's October 2020 request, that the Nigeria Shippers Council breached the Freedom of Information Act and ordered it to disclose the information or give reasons for withholding it.", "as_of": "2026-02-24", "date_precision": "day", "system": "Freedom of Information Act, 2011", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Freedom of Information Act, 2011", "country_label": "FOI Act", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Nigerian Data Protection Regulations, 2019", "country_label": "NDPR 2019", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

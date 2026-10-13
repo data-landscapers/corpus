@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-08-popia-regulations-amendments",
+  "facts": [],
+  "systems": [
+    {"system": "Promotion of Access to Information Act, 2000 (PAIA)", "country_label": "Promotion of Access to Information Act, 2000", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Protection of Personal Information Act, 2018 (POPIA) Regulations", "country_label": "Regulations relating to the Protection of Personal Information Act", "class": "other", "platform": "", "owner": "Information Regulator", "tiers": ""}
+  ],
+  "note": "The document is about amended POPIA (data protection) regulations; it names PAIA only to say the duty on information officers to prepare PAIA manuals was deleted from those regulations, which states nothing on PAIA's standing or reach."
+}

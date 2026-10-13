@@ -1,0 +1,17 @@
+{
+  "slug": "2023-09-06-empowering-digital-transformation-e-government-south-sudan",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The Minister of Information's 6 September 2023 conference paper lists the Information Commission (IC) as one of six parastatals under the Ministry of Information, Communication Technology and Postal Services.",
+      "as_of": "2023-09-06",
+      "date_precision": "day",
+      "system": "Information Commission",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

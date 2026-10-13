@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-29-caf-nada-new-interface",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NADA RCA",
+      "country_label": "Portail National d'Archivage des Données",
+      "class": "other",
+      "platform": "NADA",
+      "owner": "ICASEES",
+      "tiers": "national statistics institute"
+    }
+  ],
+  "note": "Microdata archive homepage relaunch; says nothing on an access to information law."
+}

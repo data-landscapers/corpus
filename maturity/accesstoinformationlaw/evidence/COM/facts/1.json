@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-01-com-unesco-upr46-no-ati-law",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none",
+     "fact": "UNESCO's contribution to the 46th Universal Periodic Review states that no access to information laws have been adopted in the Comoros and names no draft; the document gives no event date, so this is dated to its publication month, January 2026.",
+     "as_of": "2026-01", "date_precision": "month", "system": "Access to information law", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Constitution (2018), Article 28", "country_label": "Constitution of the Comoros", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Code de l'information et de la communication (loi N°21-011/AU, 2021)", "country_label": "Code de l'information et de la communication en Union des Comores", "class": "other", "platform": "", "owner": "CNPA", "tiers": ""}
+  ],
+  "note": ""
+}

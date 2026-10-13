@@ -1,0 +1,10 @@
+{
+  "slug": "2013-10-31-sierra-leone-right-to-access-information-act-2013",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of the Right to Access Information Act, 2013 (Act No. 2 of 2013), passed in Parliament on 29 October 2013 and signed by the President on 31 October 2013, giving every person a right to access information held by public authorities.", "as_of": "2013", "date_precision": "year", "system": "The Right to Access Information Act, 2013", "class": "law"}
+  ],
+  "systems": [
+    {"system": "The Right to Access Information Act, 2013", "country_label": "Right to Access Information Act 2013 (Act No. 2 of 2013)", "class": "law", "platform": "", "owner": "Parliament of Sierra Leone", "tiers": ""}
+  ],
+  "note": "No reach fact: the text only provides for a Commission and for Regulations; it records none made or appointed."
+}

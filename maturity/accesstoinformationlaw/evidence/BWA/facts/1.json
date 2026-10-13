@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-11-bwa-sona-2025-access-to-information-act-passed",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "President Boko's State-of-the-Nation Address, reported 2025-11-11 as delivered the previous Monday, said Parliament also passed the Access to Information Act; the report does not say it was promulgated or in force.", "as_of": "2025-11", "date_precision": "month", "system": "Access to Information Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act", "country_label": "Access to Information Act", "class": "law", "platform": "", "owner": "Parliament of Botswana", "tiers": ""}
+  ],
+  "note": ""
+}

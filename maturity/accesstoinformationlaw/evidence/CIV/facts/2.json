@@ -1,0 +1,14 @@
+{
+  "slug": "2025-07-25-access-caidp-transparence-acces-information-fratmat",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The CAIDP president recalled law n°2013-867, adopted in 2013, which guarantees every citizen the right of access to public information, and described it as the law the commission now works to apply.", "as_of": "2013", "date_precision": "year", "system": "Loi n°2013-867 relative à l'accès à l'information d'intérêt public", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Commission d'Accès à l'Information d'Intérêt Public et aux Documents Publics (CAIDP) is in place with a named president, who presented the ACCESS CAIDP programme on 25 July 2025; the document gives no date for the commission's own set-up, so its published date is used.", "as_of": "2025-07-25", "date_precision": "day", "system": "Loi n°2013-867 relative à l'accès à l'information d'intérêt public", "class": "law"}
+  ],
+  "systems": [
+    {"system": "ACCESS CAIDP", "country_label": "Programme ACCESS CAIDP", "class": "other", "platform": "", "owner": "CAIDP", "tiers": ""},
+    {"system": "caidp.ci portal", "country_label": "www.caidp.ci", "class": "other", "platform": "", "owner": "CAIDP", "tiers": ""},
+    {"system": "Access A+", "country_label": "Access A+", "class": "other", "platform": "", "owner": "CAIDP", "tiers": "public bodies"},
+    {"system": "ACCESS-RI", "country_label": "ACCESS-RI", "class": "other", "platform": "", "owner": "CAIDP", "tiers": "administrations"}
+  ],
+  "note": ""
+}

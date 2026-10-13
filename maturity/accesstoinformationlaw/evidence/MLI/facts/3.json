@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-instat-mali-atelier-sdmx-migration-odp-2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) 2.0", "country_label": "Open Data Portal (ODP) 2.0", "class": "other", "platform": "ODP 2.0", "owner": "INSTAT, with UEMOA Commission and AfDB support", "tiers": "national statistical system"}
+  ],
+  "note": "Workshop on SDMX and the ODP 2.0 open data portal; says nothing of an access to information law."
+}

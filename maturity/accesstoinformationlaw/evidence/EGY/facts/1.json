@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-journalists-syndicate-submits-foi-bill-to-parliament",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "A Journalists Syndicate-backed freedom of information bill was submitted to the House of Representatives with the signatures of 60 lawmakers, sponsored by MP Maha Abdel Nasser, and would create an Authority for the Protection of Freedom of Information.", "as_of": "2026-08-09", "date_precision": "day", "system": "Freedom of information bill (Journalists Syndicate bill, 2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Article 68 of the Constitution (right to obtain official information)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

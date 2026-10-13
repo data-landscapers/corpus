@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-27-sierra-leone-moice-concludes-nationwide-consultations-bo",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The Ministry of Information and Civic Education says regional consultations in Freetown, Makeni and Bo on the draft Data Protection and Right to Access Information Regulatory Commission Bill have concluded, and the feedback will go into a revised draft for validation before submission to Cabinet and Parliament.",
+      "as_of": "2025-09-27",
+      "date_precision": "day",
+      "system": "Data Protection and Right to Access Information Regulatory Commission Bill",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection and Right to Access Information Regulatory Commission Bill",
+      "country_label": "Data Protection and Right to Access Information Regulatory Commission Bill",
+      "class": "law",
+      "platform": "",
+      "owner": "Ministry of Information and Civic Education",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

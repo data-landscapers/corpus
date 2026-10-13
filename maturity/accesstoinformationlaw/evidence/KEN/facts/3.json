@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-02-state-secrets-whatsapp-bill-nation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Daily Nation reports that the Access to Information Act guarantees the right to information under Article 35 of the Constitution; the document gives no year for it, so the date is the article's publication date.", "as_of": "2026-07-02", "date_precision": "day", "system": "Access to Information Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act", "country_label": "Access to Information Act", "class": "law", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Access to Information (Amendment) Bill", "country_label": "Access to Information (Amendment) Bill", "class": "other", "platform": "", "owner": "National Assembly (sponsor: Deputy Majority Leader)", "tiers": "national"}
+  ],
+  "note": "The amendment bill is a classification and state secrets bill (class other), so it gives no draft fact."
+}

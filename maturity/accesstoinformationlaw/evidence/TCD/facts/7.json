@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-inseed-portails-de-donnees-et-chiffres-cles",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Portal (ODP) du Tchad",
+      "country_label": "Open Data Portal (ODP)",
+      "class": "other",
+      "platform": "",
+      "owner": "INSEED",
+      "tiers": ""
+    }
+  ],
+  "note": "INSEED portal listing; open data portals are class other and the page names no access to information law."
+}

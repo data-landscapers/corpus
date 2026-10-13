@@ -1,0 +1,16 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-002;UGA-001",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-04-baku-obudra-v-ag-constitutional-court-ruling",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Constitutional Court on 4 December 2025 (Petition No. 13 of 2020) held section 1(2)(b) of the ATIA, the exemption for court records before a case concludes, unconstitutional, treating the Act as law in force.",
+      "as_of": "2025-12-04",
+      "date_precision": "day",
+      "system": "The Access to Information Act, Cap 95",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Ruling is a constitutional challenge to a provision, not a decision on a request made under the law, so no reach fact."
+}

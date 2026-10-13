@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-30-bdi-burunditimes-burundi-adopts-right-to-information-law-with-broad-exceptions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Burundi's Senate unanimously adopted a bill establishing a legal right of access to public information in plenary on Tuesday 29 September 2026, according to the Senate's X account; the article says it is not stated whether the bill returns to the National Assembly or goes to the president for promulgation.", "as_of": "2026-09-29", "date_precision": "day", "system": "Bill on access to public information", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Bill on access to public information", "country_label": "Projet de loi portant accès à l'information publique", "class": "law", "platform": "", "owner": "Senate and National Assembly of Burundi", "tiers": ""},
+    {"system": "National Commission on Access to Public Information", "country_label": "Commission nationale d'accès à l'information publique", "class": "other", "platform": "", "owner": "created by Article 50 of the bill, not yet set up", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-25-ati-act-final-stage-operationalising",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Information and Media's permanent secretary says the Access to Information Act came into force on 25 June 2025 after the minister signed a commencement order.", "as_of": "2025-06-25", "date_precision": "day", "system": "Access to Information Act, 2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The permanent secretary says the Access to Information Regulations, 2025 (SI No. 56 of 2025) were signed on 29 August 2025.", "as_of": "2025-08-29", "date_precision": "day", "system": "Access to Information Act, 2023", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The permanent secretary says the Access to Information Guidelines were published on 5 December 2025 through Gazette Notice No. 1624 of 2025; the Act's rules were still being finalised by the Ministry of Justice for the Chief Justice's signature in July 2026.", "as_of": "2025-12-05", "date_precision": "day", "system": "Access to Information Act, 2023", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2023", "country_label": "ATI Act", "class": "law", "platform": "", "owner": "Ministry of Information and Media", "tiers": "public institutions"}
+  ],
+  "note": ""
+}

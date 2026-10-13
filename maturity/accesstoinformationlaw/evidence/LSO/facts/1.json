@@ -1,0 +1,11 @@
+{
+  "slug": "2021-09-01-lesotho-data-use-statistical-capacity-assessment",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The SBC4D/IREX assessment for MCC and LMDA (September 2021) says Lesotho has no real freedom of information law, and that the Access and Receipt of Information Bill of 2000, drafted by the Law Reform Commission, has not been passed by Parliament despite civil society campaigns.", "as_of": "2021-09", "date_precision": "month", "system": "Access and Receipt of Information Bill, 2000", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access and Receipt of Information Bill, 2000", "country_label": "Access and Receipt of Information Bill", "class": "law", "platform": "", "owner": "Law Reform Commission (drafter)", "tiers": ""},
+    {"system": "Lesotho Open Data Initiative (LODI)", "country_label": "LODI", "class": "other", "platform": "", "owner": "civil society", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-11-derniere-ligne-droite-legislative-loi-information-publique-rfi",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "RFI reports that deputies have debated the bill on access to information of a public nature in committee since 8 May 2026, with adoption in plenary expected on 18 May, after several false starts since 2006.", "as_of": "2026-05-08", "date_precision": "day", "system": "Projet de loi sur l'accès à l'information à caractère public", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi sur l'accès à l'information à caractère public", "country_label": "Projet de loi sur l'accès à l'information à caractère public", "class": "law", "platform": "", "owner": "National Assembly", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-01-cipesa-zlhr-palu-draa-zimbabwe-fourth-cycle-upr-submission",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The joint UPR submission says the Freedom of Information Act was operationalised through implementing regulations, citing the Freedom of Information (General) Regulations 2021, SI 229 of 2021; the document is dated July 2026 and the regulations' year is 2021.", "as_of": "2021", "date_precision": "year", "system": "Freedom of Information Act, 2020", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The submission treats the Freedom of Information Act 2020 as law in operation, with regulations made under it, and recommends fully implementing it; the Act is dated 2020 by its citation.", "as_of": "2020", "date_precision": "year", "system": "Freedom of Information Act, 2020", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Freedom of Information Act, 2020", "country_label": "Freedom of Information Act", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Freedom of Information (General) Regulations 2021, SI 229 of 2021", "country_label": "Freedom of Information (General) Regulations", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber and Data Protection Act", "country_label": "Cyber and Data Protection Act", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

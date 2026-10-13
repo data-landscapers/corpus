@@ -1,0 +1,16 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "reach": "rules",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SYC-004;SYC-002;SYC-003",
+   "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
+   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
+  }
+ ]
+}

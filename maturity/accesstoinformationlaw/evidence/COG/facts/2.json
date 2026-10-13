@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-23-unesco-evaluation-developpement-internet-republique-du-congo-roam-x",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The UNESCO ROAM-X assessment (2025) recommends that the government draft and adopt a freedom of information law, and names an access to public information commission as an entity still to be established; it names no draft.", "as_of": "2025", "date_precision": "year", "system": "Freedom of information law (none yet)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "The UNESCO ROAM-X assessment (2025) lists an access to public information commission among the entities still to be established, so no oversight body is reported.", "as_of": "2025", "date_precision": "year", "system": "Freedom of information law (none yet)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

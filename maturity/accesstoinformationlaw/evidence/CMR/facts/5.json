@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "PATNUC's 20 November 2025 explainer describes the e-Gov reform on access to public information and digital transformation of the administration as one of the texts examined at the Ebolowa 2025 workshop, with provisions on default access, proactive publication and appeal routes, and states no promulgation.", "as_of": "2025-11", "date_precision": "month", "system": "Réforme relative à l'accès à l'information publique et à la transformation numérique de l'administration (loi e-Gov)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Réforme relative à l'accès à l'information publique et à la transformation numérique de l'administration (loi e-Gov)", "country_label": "loi e-Gov", "class": "law", "platform": "", "owner": "MINPOSTEL / PATNUC", "tiers": "central"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-myjoyonline-rti-commission-information-integrity-digital-age",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The RTI Commission announced its 2026 RTI Month programme to raise awareness of the Right to Information Act, 2019 (Act 989).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Right to Information Act, 2019 (Act 989)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Information Commission",
+   "country_label": "RTI Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "Awareness programme only; no reach fact."
+}

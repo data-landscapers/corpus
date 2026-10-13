@@ -1,0 +1,34 @@
+{
+  "slug": "2025-12-01-lapresse-inai-paralysie-revision-urgente-legislation",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The Presidency of the Government, answering a deputy's written question, said the access to information body INAI, nine members elected by Parliament for six years, has been working without its president and deputy, which has blocked legally valid meetings and suspended staff allowances.",
+      "as_of": "2025-11-30",
+      "date_precision": "day",
+      "system": "Instance nationale d'accès à l'information (INAI)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Instance nationale d'accès à l'information (INAI)",
+      "country_label": "Instance nationale d'accès à l'information",
+      "class": "law",
+      "platform": "",
+      "owner": "Parliament-elected nine-member council",
+      "tiers": ""
+    },
+    {
+      "system": "Loi n°63 de 2004 sur la protection des données personnelles",
+      "country_label": "Loi n°63 de 2004",
+      "class": "other",
+      "platform": "",
+      "owner": "Instance nationale de protection des données personnelles (INPDP)",
+      "tiers": ""
+    }
+  ],
+  "note": "The text does not name the access to information law or give its status, so no standing fact; the date is the Sunday before the 2025-12-01 publication."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-inseed-anad-politique-dacces-microdonnees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Archive Nationale des Donnees (ANAD)",
+      "country_label": "ANAD",
+      "class": "other",
+      "platform": "",
+      "owner": "INSEED",
+      "tiers": ""
+    }
+  ],
+  "note": "INSEED microdata access policy under the 2019 statistics law is a data-use policy, not an access to information law; no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-05-hrc-access-to-information-guidelines-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Human Rights Commission's 2025 guidelines apply the Access to Information Act, No. 24 of 2023, as the law giving every citizen or residence-permit holder a right to information held by public and private bodies.", "as_of": "2023", "date_precision": "year", "system": "Access to Information Act, 2023 (Act No. 24 of 2023)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Human Rights Commission, named in section 4(1) of the Act as oversight body, issued the Access to Information Guidelines, 2025 (Government Notice No. 1624 of 2025) under section 38(2) of the Act; the document is dated 2025-12-05 (its published date).", "as_of": "2025-12-05", "date_precision": "day", "system": "Access to Information Act, 2023 (Act No. 24 of 2023)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Act, 2023 (Act No. 24 of 2023)", "country_label": "ATI Act", "class": "law", "platform": "", "owner": "Parliament of Zambia; oversight by the Human Rights Commission", "tiers": "all information holders, public and private bodies"}
+  ],
+  "note": ""
+}

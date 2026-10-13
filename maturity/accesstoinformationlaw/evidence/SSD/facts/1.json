@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-04-moictps-usaf-information-commission-budget",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules",
+     "fact": "The Ministry of Information, Communication Technology and Postal Services reported on 4 September 2025 that its leadership estimated a budget for the operations of the Access to Information Commission, which it calls a parastatal facing operating challenges; the amount was not given and the budget is estimated, not voted.",
+     "as_of": "2025-09-04", "date_precision": "day",
+     "system": "Access to Information Commission", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Access to Information Commission", "country_label": "Access to Information Commission (Information Commission)", "class": "law", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": ""}
+  ],
+  "note": "The document names no law, its year or any draft, so no standing fact; the Universal Service and Access Fund is not an access to information system."
+}

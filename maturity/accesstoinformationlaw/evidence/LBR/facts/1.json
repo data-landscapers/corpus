@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-06-liberia-iic-cental-foi-compliance-drive",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article says the Independent Information Commission is enforcing compliance with the country's Freedom of Information Act of 2010 across public bodies.", "as_of": "2010", "date_precision": "year", "system": "Freedom of Information Act of 2010", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The article reports the Independent Information Commission, with an Executive Director and outreach and compliance directors, running a compliance campaign under the Freedom of Information Act from 11 August to 2 September 2026; the document gives no date for the Commission's setting up, so this is dated to its publication on 6 September 2026.", "as_of": "2026-09-06", "date_precision": "day", "system": "Freedom of Information Act of 2010", "class": "law"}
+  ],
+  "systems": [],
+  "note": "The campaign is outreach and training with no decisions or figures of requests or complaints, so no applied fact."
+}

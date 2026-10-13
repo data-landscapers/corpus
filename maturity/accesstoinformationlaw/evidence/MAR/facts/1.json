@@ -1,0 +1,10 @@
+{
+  "slug": "2018-05-03-maroc-loi-31-13-droit-acces-information-bo-6670",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "This document is the text of Loi n° 31-13 on the right of access to information, promulgated by dahir n° 1-18-15 of 22 February 2018 and published in Bulletin officiel n° 6670 of 3 May 2018; Article 30 sets entry into force one year after publication.", "as_of": "2018-02-22", "date_precision": "day", "system": "Loi n° 31-13 relative au droit d'accès à l'information (2018)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Commission du droit d'accès à l'information (CDAI)", "country_label": "Commission du droit d'accès à l'information", "class": "other", "platform": "", "owner": "Created by Article 22 of Loi n° 31-13, chaired by the president of the national data protection control commission", "tiers": ""}
+  ],
+  "note": ""
+}
