@@ -8,7 +8,7 @@ status: prepared 2026-10-13, questions redrawn the same day on Bill's word; wait
 
 # Maturity study: domesticfinancing
 
-*(Commissioned by Bill on 2026-10-13 as `finance.budget--sustainable-domestic-financing-of-digital-transformation`, under `maturity/documentation/maturity-study-method.md`. **Redrawn the same day** *(Bill)*: the first draft turned on a fund in law, which was too narrow; the study looks for a budget that rises year on year, and for a government that says digital transformation must be paid for at home and acts on it.)*
+*(Commissioned by Bill on 2026-10-13 as `finance.budget--sustainable-domestic-financing-of-digital-transformation`, under `maturity/documentation/maturity-study-method.md`. **Redrawn the same day** *(Bill)*: a fund in law was too narrow a test; look for a budget rising year on year, and a commitment to pay at home that is acted on.)*
 
 ## 1. What is assessed
 
@@ -58,7 +58,7 @@ Asked in order. Each is answered with a date and a link.
 - **The rise is not adjusted for inflation, and how much of the money was spent is not judged.**
 - **Where a source gives the digital ministry's budget for both years, that sets question 2**; otherwise the lines the tables hold in both years, added up. A country with no line in both years is not answered.
 - **A budget proposed and not yet passed counts only where no passed budget is held**, and the short summary says so.
-- **Two changes from the row as it stands**: its stages 2 and 3 turn on whether money is given project by project or as a standing programme, which the tables now show is standing nearly everywhere; its stage 5 adds "external finance confined to capital", which is not a fact one source can state.
+- **Dropped from the row as it stands**: project-by-project against standing money, which the tables show is standing nearly everywhere; and "external finance confined to capital", which no one source states.
 
 `study.json` holds this as two aspects: `budget` (`allocated`, `rose`, `fell`, `spent`, `none`) for questions 1, 2 and 4 and stage 1; `commitment` (`stated`, `acted`, `abolished`) for question 3.
 
