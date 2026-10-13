@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: ZWE
-ledger_rows: 35
+ledger_rows: 37
 not_held: 7
-record: c3cb4910b5a8
+record: 97e4ad5ec582
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -88,7 +88,7 @@ The stock exchange [launched InvoiceX, an invoice-discounting marketplace under 
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/).
+The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/). [The small-enterprise development corporation said a national MSME database had reached minimum-viable-product stage, with integration talks under way with the revenue authority and the procurement regulator](https://www.263chat.com/gvt-moves-to-create-national-database-for-small-businesses/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -98,7 +98,7 @@ The health ministry said [its laboratory information management system runs at 1
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The ICT minister [set a 2030 deadline on 18 September 2026 for turning more than 250 post offices into technology-driven service centres](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy), under a three-phase plan; no cost or site schedule is published.
+The ICT minister [set a 2030 deadline on 18 September 2026 for turning more than 250 post offices into technology-driven service centres](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy), under a three-phase plan; no cost or site schedule is published. [Police said logistics for the Electronic Traffic Management System were being finalised, the system being integrated with the Central Vehicle Registry and the Civil Registry to identify offenders](https://www.zimbabwesituation.com/news/electronic-traffic-system-being-finalised/).
 <!-- /narrative -->
 
 ## Digitalisation

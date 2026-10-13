@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: ZMB
 ledger_rows: 41
-not_held: 44
-record: 5b14023d66ff
+not_held: 43
+record: 94a061a5cb9f
 ---
 
 # Zambia: monthly update, September – October 2026

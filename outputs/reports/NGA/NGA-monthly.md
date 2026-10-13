@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: NGA
-ledger_rows: 144
+ledger_rows: 146
 not_held: 9
-record: ba030daeee2a
+record: 2b049fa613e2
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -41,7 +41,7 @@ The consultation acquired a political timetable on 10 September, when the educat
 
 The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
 
-A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held.
+A law firm reported that [the Federal High Court in Lagos held on 17 July 2026 that the data protection commission acted within its powers in designating point-of-sale operators as controllers and processors of major importance](https://ng.andersen.com/federal-high-court-upholds-mandatory-data-protection-registration-for-pos-operators/), so that they must register and pay the prescribed fees. The judgment itself is not held. [After Ghana's rejection of a similar compact, an opposition campaign demanded publication of the memorandum's full text and doctors faulted the clause on continued use of specimens and data after termination](https://trustradio.com.ng/en/nigeria-us-health-deal-under-scrutiny); the health ministry did not respond.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -86,7 +86,7 @@ Rural connectivity was folded into the electrification programme. A rural infras
 
 A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
 
-An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving.
+An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving. [The Lagos deputy governor put state fibre at about 3,000 km, with a further US$22 million invested towards a unified 6,000 km network, and resident identity enrolment at more than 6.4 million](https://realnewsmagazine.net/hamzat-tasks-govt-businesses-on-technology-driven-jobs-inclusive-growth/). [Internet data use reached 11.94 million TB in January to August 2026, about 90% of the whole of 2025, with 1.76 million TB in August](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -156,7 +156,7 @@ The Gates Foundation and MTN's group foundation [announced a maternal health pro
 
 The statistics bureau, the ILO and UNICEF [opened a three-day dialogue on 22 September to introduce a Social Protection Management Information System and agree regular sharing of administrative data the ILO calls fragmented and inconsistent](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/), after pilots in four states under an EU-funded programme; no outcome is yet reported.
 
-Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number.
+Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number. [Kwara State's governor approved electronic medical records across state-owned hospitals, with health-worker training from November 2026 after a six-hospital pilot](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

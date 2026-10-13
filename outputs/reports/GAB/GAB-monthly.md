@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: GAB
-ledger_rows: 46
+ledger_rows: 47
 not_held: 15
-record: dc04b32117ff
+record: f9c581a77079
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -116,7 +116,7 @@ The education ministry's priorities for the new school year restate the delivery
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/). The postal company [presented an application hosted in Gabon that combines payments, public services such as birth-certificate requests, postal services and insurance, its app-store launch still to come](https://www.gabonreview.com/poste-s-a-akiba-le-numerique-et-la-logistique-au-coeur-de-la-relance/).
+The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/). The postal company [presented an application hosted in Gabon that combines payments, public services such as birth-certificate requests, postal services and insurance, its app-store launch still to come](https://www.gabonreview.com/poste-s-a-akiba-le-numerique-et-la-logistique-au-coeur-de-la-relance/). [The civil-service ministry reviewed technical preparations for an integrated human resources management system, a single register of state employees interoperable with payroll, budget and national identification, and named the procurement tender as the next step](https://fonction-publique.gouv.ga/2-actualites/3402-acceleration-des-preparatifs-de-mise-en-oeuvre-du-systeme-integre-de-gestion-des-ressources-humaines/).
 <!-- /narrative -->
 
 ## Technology

@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: ZAF
-ledger_rows: 136
+ledger_rows: 137
 not_held: 21
-record: 68a3918e4688
+record: 03ae38143793
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -74,7 +74,7 @@ A British-funded community network programme launched in August [plans R7m for 2
 
 On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set. An operator [announced more than R500m of network investment in the Western Cape this financial year](https://techafricanews.com/2026/10/06/vodacom-western-cape-invests-r500-million-to-expand-5g-and-digital-connectivity/), naming townships. A costed national roadmap did reach the public: a development bank and planning commission study [puts universal household broadband at R108-142bn in 2025 real terms, on a 0.76 square-kilometre hexagonal-grid mapping exercise](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf). A costing, not an appropriation. That company [turned a group net profit of R47.3 million against a R1.63 billion loss a year earlier](https://www.itweb.co.za/article/lesaka-turns-first-profit-since-its-net-1-rebrand/Olx4z7kaLGoq56km), and the state signal distributor [cut its net loss to R60 million from R246 million](https://www.itweb.co.za/article/sentech-trims-losses-but-remains-in-the-red/lLn147mQ8p57J6Aa). The satellite operator said [it has applied for licences to bring a direct-to-device service to South Africa with mobile operators, probably from around 2028](https://www.itweb.co.za/article/starlink-rival-maps-out-sa-strategy-beyond-satellite-broadband/rW1xL75nD9bMRk6m). The regulator's chairperson said [the authority has developed a draft satellite licensing framework](https://www.connectingafrica.com/regulation/regulators-must-know-when-not-to-regulate-icasa-chairperson).
 
-The Auditor-General's briefing on the 2025/26 audits was reported as finding [2,076 of about 7,800 sites on the state IT agency's network running below 10Mbps and 294 government facilities still on copper](https://applesandoranges.co.za/news/south-africa-government-sites-slow-internet-copper-497bc9/). One of the appellants against the Cape Town data-centre approval wrote that [the appeal went before the city's Planning Appeals Advisory Panel on 12 October, after which the mayor has 90 days to decide](https://www.dailymaverick.co.za/article/2026-10-12-data-centres/).
+The Auditor-General's briefing on the 2025/26 audits was reported as finding [2,076 of about 7,800 sites on the state IT agency's network running below 10Mbps and 294 government facilities still on copper](https://applesandoranges.co.za/news/south-africa-government-sites-slow-internet-copper-497bc9/). One of the appellants against the Cape Town data-centre approval wrote that [the appeal went before the city's Planning Appeals Advisory Panel on 12 October, after which the mayor has 90 days to decide](https://www.dailymaverick.co.za/article/2026-10-12-data-centres/). [An operator said it had completed a 5G-Advanced trial in the upper 6GHz band under a temporary radio licence, reaching 10.35 Gbps peak downloads; the band is not yet licensed commercially](https://itweb.africa/article/mtn-sa-trials-africas-first-5g-u6ghz-network/wbrpOqg2eNgMDLZn).
 <!-- /narrative -->
 ### Data Storage
 

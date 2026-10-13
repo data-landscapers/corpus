@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: TZA
-ledger_rows: 68
+ledger_rows: 70
 not_held: 5
-record: 0a18591846ad
+record: 2de6865b3019
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -115,7 +115,7 @@ The state operator took its card into a stadium. The African Development Bank an
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
+The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated. [The deputy trade minister said five of the seven modules of the business registry's upgraded online services system were operational and directed completion of the rest](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/govt-launches-business-law-reforms-to-drive-investment-tech-innovation-2026-10-12-115945).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -124,7 +124,7 @@ Community health work is being tied to the payment rail. Local government's ICT 
 
 The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
 
-A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated.
+A development partner said [its tool mapping disability care and support services, piloted in Unguja, has been integrated into Zanzibar's Jumuishi management information system](https://www.undp.org/tanzania/stories/beyond-pinpoints-making-disability-services-visible-zanzibar); no integration date is stated. [The health ministry said 222 public health facilities are connected to an integrated electronic medical records system introduced in October 2025, naming unreliable connectivity, power and incomplete interoperability as obstacles](https://www.thecitizen.co.tz/tanzania/news/national/government-connects-222-public-health-facilities-to-digital-records-system-5630008).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

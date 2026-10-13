@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: MOZ
-ledger_rows: 39
+ledger_rows: 41
 not_held: 19
-record: 0e324d1443f4
+record: f08257898113
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -27,7 +27,7 @@ The Digital Transformation Operational Plan 2026-2029 [was under appraisal at th
 
 The plan in force is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
-The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October. A proposed [Internet for All strategy with targets to 2030 was presented in Maputo, where only 15% of the population was said to afford mobile data](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/).
+The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October. A proposed [Internet for All strategy with targets to 2030 was presented in Maputo, where only 15% of the population was said to afford mobile data](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/). [The government approved a Public Finance Management Strategy for 2026-2035 that slates automation, systems integration and AI for treasury, debt and state-asset management, with all major processes through the state financial system by 2035](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/); the approval date is not stated.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -44,7 +44,7 @@ A media freedom organisation told a Maputo round table on 3 September that [the 
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/).
+[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/). [The digital agency was reported leading a 14-member multi-agency technical mission to Ethiopia to prepare the implementation of a national digital identity](https://mznews.co.mz/atdi-mjcr-dnic-senami-e-inatro-preparam-implementacao-da-identidade-digital-em-mocambique/); the mission's dates are not stated.
 <!-- /narrative -->
 ### Standards
 

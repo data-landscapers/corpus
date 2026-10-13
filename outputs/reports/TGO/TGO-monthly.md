@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: TGO
 ledger_rows: 54
-not_held: 21
-record: eac568f5e3a3
+not_held: 20
+record: 3f6d57d9e456
 ---
 
 # Togo: monthly update, September – October 2026

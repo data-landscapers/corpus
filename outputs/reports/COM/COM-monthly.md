@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: COM
-ledger_rows: 8
+ledger_rows: 9
 not_held: 24
-record: aab446881af7
+record: a7f8772970dd
 ---
 
 # Comoros: monthly update, September – October 2026
@@ -50,6 +50,14 @@ An account of the central bank's 2025 annual report, published on 3 September, [
 
 <!-- narrative: dpi--dpi-registry -->
 The government's secretary-general said on 16 September that [the investment agency is deploying an EU-financed platform to put business creation and investment procedures online](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html); the economy minister states an objective of a fully operational system by the end of 2026. The agency, [with a United Nations trade experts' mission and the economy minister, discussed deploying the operational phase of a European Union-financed platform to move business-creation and investment procedures online, adding artificial-intelligence features to simplify the user path; the minister stated an objective of a fully operational system by the end of 2026](https://fr.linkedin.com/posts/anpi-comores_anpicomores-transformationnum%C3%A9rique-cnuced-activity-7476580734892367872-44ph).
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+[The UNESCO readiness assessment was presented in Riyadh: it places the Comoros at an emerging stage, finds no national strategy, no AI-specific legal instrument and no independent ethics body, and sets 23 recommendations to 2030](https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html).
 <!-- /narrative -->
 
 ## Capacity

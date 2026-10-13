@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: BEN
-ledger_rows: 33
+ledger_rows: 34
 not_held: 4
-record: c1b2ff421299
+record: f810c87c8b85
 ---
 
 # Benin: monthly update, September – October 2026
@@ -79,7 +79,7 @@ Customs [now issues the laisser-passer for foreign vehicles wholly online](https
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss.
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss. [The government launched a presidential National Administrative Simplification Prize, inviting proposals for simpler and digitised procedures and data sharing between administrations, with submissions open from 29 October to 12 November 2026](https://prix-simplification.gouv.bj/communique).
 <!-- /narrative -->
 
 ## Technology

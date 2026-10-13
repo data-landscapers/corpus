@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: BWA
-ledger_rows: 15
+ledger_rows: 16
 not_held: 8
-record: 17865ab3932c
+record: b3bda43ff073
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -88,4 +88,12 @@ A US company [announced on 15 September that its AI clinical decision-support pl
 
 <!-- narrative: data--data-statistics -->
 One absence in that system was dated this month. No gambling participation statistics are held as the country moves to lower the legal betting age, while an investigation reports [unregistered betting influencers drawing 4,000 to 15,000 responses to a single betting slip and directing followers to bookmakers through referral links](https://www.thegazette.news/news/weaving-the-slip/). The activity is documented and the population is not counted, which is the gap a statistical strategy would have to close.
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm).
 <!-- /narrative -->

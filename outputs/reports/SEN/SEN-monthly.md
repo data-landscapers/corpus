@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: SEN
-ledger_rows: 53
+ledger_rows: 56
 not_held: 3
-record: 8646cbf0148f
+record: 357dc91db55d
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -39,7 +39,7 @@ On 24 September the head of the interior ministry's file-automation directorate 
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
+The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008. [Majority deputies filed a proposal for a parliamentary commission of inquiry into the health cooperation agreement with the United States and its implications for Senegalese personal data](https://www.rts.sn/actualite/detail/a-la-une/assemblee-nationale-quatre-textes-gouvernementaux-et-cinq-propositions-denquete-a-louverture-de-la-session-ordinaire-2026-2027); the Bureau is to rule on admissibility.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -110,7 +110,7 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass).
+The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass). [A technical workshop in Fatick finalised preparations to roll out the communal land information system, agreeing a protocol for migrating communal land data, with the platform still in preproduction](https://www.seneplus.com/article/gestion-des-terres-le-senegal-mise-sur-la-numerisation-des-donnees-communales).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -180,8 +180,7 @@ The Council of Ministers on 10 September [directed the state digital company to 
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-
-An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
+An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them. [The statistics agency said it is working towards remote access for authorised researchers to the anonymised detailed data now consulted on site in its data-access centres](https://aps.sn/lansd-envisage-de-faciliter-lacces-a-distance-aux-donnees-anonymisees-dg/).
 <!-- /narrative -->
 ### Open data
 

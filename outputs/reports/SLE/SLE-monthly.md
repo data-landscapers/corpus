@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: SLE
-ledger_rows: 28
+ledger_rows: 29
 not_held: 5
-record: 4f421a1fb836
+record: 2d2b446463e3
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -81,7 +81,7 @@ Government bodies and partners [held a workshop on 17-18 September 2026 on a sha
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself.
+The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself. [Ministries, departments and agencies were shown VISION-SL, a platform to hold ministerial performance contracts, targets and quarterly progress reports in one system](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/); it awaits validation and testing.
 <!-- /narrative -->
 
 ## Technology
@@ -133,7 +133,7 @@ The registration authority and the correctional service [registered 100 inmates 
 <!-- narrative: data--data-statistics -->
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
-The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/).
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/). [The statistics office said the census budget had risen from an initial US$7 million to nearly US$60 million after the cartographic mapping](https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/), [as the 50-day countdown to the first fully digital enumeration opened](https://www.thesierraleonetelegraph.com/sierra-leone-counts-down-to-first-fully-digital-census/).
 <!-- /narrative -->
 
 ## Geopolitics

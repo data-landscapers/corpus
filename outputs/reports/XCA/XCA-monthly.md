@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: XCA
-ledger_rows: 11
+ledger_rows: 12
 not_held: 0
-record: 8aeb8a2732c2
+record: e568bf8927fb
 ---
 
 # Central Africa: monthly update, September – October 2026
@@ -25,7 +25,7 @@ CEMAC energy ministers [validated a regulation creating a common energy informat
 <!-- narrative: institutions--gov-regional -->
 The regional data-governance framework closed its consultations. [The Douala sessions ended on 4 September with 27 participants and European Union and German development backing, a framework and an accompanying roadmap due out of them](https://www.uneca.org/stories/eca-and-partners-advance-eccas-regional-data-governance-framework). No draft text, adoption route, member-state commitment or publication date for either is held — which leaves the region with a process and no instrument.
 
-A second account of the same Douala workshop [names the African Union development agency, the UN economic commission and the African Union Commission as engaged alongside the European and German backing, and presents the exercise as a further step in the community's regional digital integration](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/). It adds partners and no text.
+A second account of the same Douala workshop [names the African Union development agency, the UN economic commission and the African Union Commission as engaged alongside the European and German backing, and presents the exercise as a further step in the community's regional digital integration](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/). It adds partners and no text. [Chad's digital ministry and its partners opened the Central Africa Internet Governance Forum in N'Djamena on 13 October 2026](https://tchadinfos.com/2026/10/13/les-travaux-du-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale-lances-a-ndjamena/).
 <!-- /narrative -->
 
 ## Instruments and harmonisation

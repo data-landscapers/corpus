@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: CIV
-ledger_rows: 39
+ledger_rows: 40
 not_held: 10
-record: 572bbab4f119
+record: e08adfc18399
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -59,6 +59,11 @@ The largest operator said [construction works severed several of its cables in a
 The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
 
 A data centre was [installed at the national polytechnic institute in Yamoussoukro to support electronic administration and the storage, processing and security of public data](https://www.ivoirematin.com/fr/news/Societe/administration-electronique-un-data-center-installe-a-linp-hb-de-yamoussoukro_n_125289.html). No capacity, operator or cost is stated.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+[The national information-systems security agency announced a first national cyber-crisis simulation, CYBER.EX, for 28 and 29 October 2026 in Abidjan](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber).
 <!-- /narrative -->
 
 ## DPI

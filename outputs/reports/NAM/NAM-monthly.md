@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, September – October 2026
-compiled: 2026-10-11
-period: 2026-09-01 to 2026-10-11
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: NAM
-ledger_rows: 30
+ledger_rows: 31
 not_held: 9
-record: 35447e0360b2
+record: 95715c35e4cd
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -117,7 +117,7 @@ A university research pilot co-designed with municipalities [fitted 69 pulse rea
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated.
+The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated. [The ICT minister announced that Cabinet had directed the Office of the Prime Minister and her ministry to develop an internal policy on civil servants' use of AI](https://economist.com.na/government-directs-ai-policy-for-civil-servants-as-ict-summit-opens-in-ongwediva/); no timeline or draft is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

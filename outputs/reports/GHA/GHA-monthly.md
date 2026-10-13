@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: GHA
-ledger_rows: 99
+ledger_rows: 100
 not_held: 10
-record: 363f82033176
+record: 8cf7b09b92a4
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The month closed on the ministry's own account of itself, and the honest half of
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published. [The health ministry and health service, with two United Nations agencies, were reported reviewing the Digital Health Policy and Strategy 2023-2027 to incorporate AI, centred on surveillance joining routine health data with climate data](https://www.afro.who.int/countries/ghana/news/who-and-undp-support-ghana-integrate-artificial-intelligence-digital-health-strategy).
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -37,7 +37,7 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
-On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated.
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -203,7 +203,7 @@ The coders programme is to reach first-year degrees: the minister [said 12 unive
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
-Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/).
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/). [The ministry said it was addressing training and infrastructure problems raised by beneficiaries after a monitoring exercise](https://techafricanews.com/2026/10/13/ghana-one-million-coders-programme-training-challenges/); [at one university 195 of 1,447 enrolled students had completed the course, as a further 2,000 laptops were handed over](https://gna.org.gh/2026/10/govt-committed-to-expanding-digital-infrastructure-and-inclusion-sam-george/).
 <!-- /narrative -->
 ### Research institutions
 

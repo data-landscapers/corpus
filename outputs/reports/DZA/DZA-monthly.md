@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: DZA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 6
-record: 788ac1572570
+record: 23416101ef25
 ---
 
 # Algeria: monthly update, September – October 2026
@@ -30,7 +30,7 @@ On 8 September state media described the digital transformation as [resting on d
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The high commission for digitalisation says [a digitalisation law covering data, digital services, electronic exchange, system security and the responsibilities attached to them is in the final stages of study](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/); no draft, sponsor or timetable is published.
+The high commission for digitalisation says [a digitalisation law covering data, digital services, electronic exchange, system security and the responsibilities attached to them is in the final stages of study](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/); no draft, sponsor or timetable is published. [The draft 2027 finance law proposes a 10% tax reduction, to the end of 2028, for small taxpayers who take at least half their receipts electronically](https://lechodalgerie.dz/projet-de-loi-de-finances-2027-des-avantages-fiscaux-pour-booster-le-e-paiement/), and [would make non-resident digital platforms register with the tax authority and remit VAT quarterly](https://algerian-business.com/tva-plateformes-numeriques-algerie-plf-2027/).
 <!-- /narrative -->
 ### Regional collaboration
 

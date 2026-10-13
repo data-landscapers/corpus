@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: COD
-ledger_rows: 54
+ledger_rows: 56
 not_held: 7
-record: 218a77ae60d7
+record: bc0cd1d3dedb
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -56,7 +56,7 @@ An Algerian state electronics firm and its consortium [signed a protocol, report
 <!-- narrative: ict-infrastructure--infra-connect -->
 A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
 
-The posts and telecommunications minister [presented the commercial launch of 5G to the Council of Ministers on 9 October 2026, starting in urban areas, with no operator, spectrum assignment, licence fee or date stated](https://7sur7.cd/2026/10/11/rdc-le-gouvernement-annonce-le-lancement-commercial-de-la-5g); he had [said in late September that government was working toward availability before the end of 2026](https://www.wearetech.africa/fr/fils/actualites/telecom/rdc-la-5g-en-preparation-pres-de-7-congolais-sur-10-restent-hors-ligne). The digital-economy minister and his Central African counterpart [agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, with no timetable or financing](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
+The posts and telecommunications minister [presented the commercial launch of 5G to the Council of Ministers on 9 October 2026, starting in urban areas, with no operator, spectrum assignment, licence fee or date stated](https://7sur7.cd/2026/10/11/rdc-le-gouvernement-annonce-le-lancement-commercial-de-la-5g); he had [said in late September that government was working toward availability before the end of 2026](https://www.wearetech.africa/fr/fils/actualites/telecom/rdc-la-5g-en-preparation-pres-de-7-congolais-sur-10-restent-hors-ligne). The digital-economy minister and his Central African counterpart [agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, with no timetable or financing](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique). [Civil society in Fizi territory and Baraka published a memorandum demanding the reopening of telecommunications networks it says have been cut since 3 July 2026, 102 days](https://congorassure.com/societe/2026/10/13/sud-kivu-la-societe-civile-exige-la-reouverture-des-reseaux-de); the allegations in it are the memorandum's own.
 <!-- /narrative -->
 ### Energy
 
@@ -128,7 +128,7 @@ The World Bank-financed digital transformation project and the TRANSFORME busine
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-For the school year that opened on 1 September, the education and health ministries [provide distance teaching by worksheets and radio and television broadcasts in the 18 educational sub-divisions classed as high Ebola risk](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires), designed so that families need neither internet access nor digital equipment.
+For the school year that opened on 1 September, the education and health ministries [provide distance teaching by worksheets and radio and television broadcasts in the 18 educational sub-divisions classed as high Ebola risk](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires), designed so that families need neither internet access nor digital equipment. [The posts and telecommunications ministry presented solar-powered microsites to the universal service fund and four mobile operators, with 50 pilot sites planned, each said to cover a 4 to 5 km radius at a quarter of the cost of a conventional mast](https://www.agenceecofin.com/actualites-numerique/1310-142368-connectivite-la-rdc-explore-des-solutions-abordables-pour-etendre-le-reseau).
 <!-- /narrative -->
 
 ## Data

@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-13
+period: 2026-09-01 to 2026-10-13
 place: KEN
-ledger_rows: 126
+ledger_rows: 130
 not_held: 7
-record: 38d0d482a267
+record: 14ac5ac9e5e8
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -23,12 +23,12 @@ Kenya [signed the Digital Cooperation Organization's charter as a signatory memb
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
+Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published. [The ICT Cabinet Secretary gazetted the Access to Information Policy, 2026 under Gazette Notice No. 15992, requiring proactive disclosure, set timelines for answers and written reasons for refusals](https://peopledaily.digital/news/cs-kabogo-gazettes-new-policy-to-boost-public-access-to-government-information).
 <!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice. [Regulations for non-deposit-taking credit providers were gazetted, revoking the 2022 digital credit rules](https://new.kenyalaw.org/akn/ke/act/ln/2026/191/eng@2026-09-29/source.pdf), with separate consent for personal data and human review of AI lending decisions.
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice. [Regulations for non-deposit-taking credit providers were gazetted, revoking the 2022 digital credit rules](https://new.kenyalaw.org/akn/ke/act/ln/2026/191/eng@2026-09-29/source.pdf), with separate consent for personal data and human review of AI lending decisions. [The Senate finance and budget committee reviewed the draft Statistics Bill 2026 with the statistics bureau, senators questioning the independence of the proposed Kenya Statistics Authority](https://peopledaily.digital/news/senators-push-bill-to-transform-knbs-into-kenya-statistics-authority).
 <!-- /narrative -->
 ### Data protection
 
@@ -82,7 +82,7 @@ One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre s
 
 The backbone went back to tender. The ICT Authority [issued framework agreements for national backbone links and cross-border and metro links under the World Bank-financed digital economy project](https://techtrendske.co.ke/2026/09/16/kenya-floats-tender-for-national-fibre-backbone-cross-border-links/), each for three years extendable by two, with Treasury putting public-sector fibre at 30,454km in 2026 against 22,486km in 2022. No award is held.
 
-The Communications Authority [called stakeholders to an online validation forum on 30 September to finalise its draft guidelines for commercial internet telephony services](https://techafricanews.com/2026/09/22/kenya-ca-finalise-commercial-internet-telephony-guidelines/), having published the consultation responses and its position on each. The draft text is not held.
+The Communications Authority [called stakeholders to an online validation forum on 30 September to finalise its draft guidelines for commercial internet telephony services](https://techafricanews.com/2026/09/22/kenya-ca-finalise-commercial-internet-telephony-guidelines/), having published the consultation responses and its position on each. The draft text is not held. [The ICT principal secretary told a pre-bid session that KSh 13 billion would go to at least 27,000 km of backbone and cross-border fibre, allocated by multi-round reverse auction; he put fibre added since 2022 at 24,000 km private and 17,000 km public](https://techafricanews.com/2026/10/13/kenya-ksh-13-billion-expand-fibre-network-27000-kilometres/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -199,7 +199,7 @@ At the UN General Assembly Kenya [co-hosted the launch of a 2026-2027 roadmap fo
 <!-- narrative: technology--tech-industry -->
 The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
 
-The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record. A press report of the company's accounts showed [the device financier completing its US$8m acquisition of a Finnish device-locking software company](https://techcabal.com/2026/10/07/m-kopa-acquires-finnish-device-locking/).
+The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record. A press report of the company's accounts showed [the device financier completing its US$8m acquisition of a Finnish device-locking software company](https://techcabal.com/2026/10/07/m-kopa-acquires-finnish-device-locking/). [Staff of the Microsoft Africa Development Centre in Nairobi were told it is being wound down, putting nearly 400 engineering jobs at risk](https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/); the company confirmed only proposed changes, and the ICT Cabinet Secretary agreed a joint action plan with it.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -221,7 +221,7 @@ On 21 September deliveries of 65-inch smart boards, teacher laptops and ICT equi
 <!-- narrative: capacity--capacity-training -->
 A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
 
-The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
+The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/). [A hub commissioned in Uasin Gishu took the network to 391 equipped sites and 23,387 devices, with 67 of 253 TVET institutions still awaiting equipment](https://techafricanews.com/2026/10/13/kenya-commissions-jitume-ict-hub-uasin-gishu-391-sites/). [The Kenya School of Government launched its eLearning and Information Technology Institute as 1,239 public officers graduated from a UNESCO-Oxford programme on AI and digital transformation in government](https://techafricanews.com/2026/10/13/kenya-ksg-digital-institute-1239-public-officers-ai-training/).
 <!-- /narrative -->
 ### Research institutions
 
