@@ -31,7 +31,7 @@ From top to bottom:
 1. The Under construction band.
 2. **Title row**: the page title, with the buttons *Methodology*, *Download this indicator (CSV)* and *Download all (CSV)* on the same row *(Bill)*.
 3. **Control row**: the *Topic* and *Indicator* dropdowns, with no rule beneath *(Bill)*.
-4. **The body**: the map on the left, fitted to the screen and with no blank band beneath it *(Bill)*, and on the right a sidebar split horizontally into two boxes (§6). **The map column is as wide as the map and no wider** *(Bill, 2026-10-13)*: at most 44% of the row, cropped so Cabo Verde and Mauritius sit at its edges, and the sidebar takes the rest.
+4. **The body**: the map on the left, fitted to the screen and with no blank band beneath it *(Bill)*, and on the right a sidebar split horizontally into two boxes (§6). **The map column is as wide as the map and no wider** *(Bill, 2026-10-13)*: at most 44% of the row, cropped so Cabo Verde and Mauritius sit at its edges, and the sidebar takes the rest. **The row ends where the footer starts, so the page does not scroll** *(Bill, 2026-10-13)*: the sidebar has that height and the map what the legend leaves of it, down to a floor of 380 px.
 5. **The legend** directly under the map (§4).
 6. **The changes box** in the whitespace beside the map: the South Atlantic, below São Tomé and Príncipe (§7).
 

@@ -60,7 +60,7 @@
 .mat-wrap {
   max-width: 1440px;
   margin: 0 auto;
-  padding: .75rem 1.25rem 2.5rem;
+  padding: .75rem 1.25rem 1.25rem;
 }
 .mat-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 1rem; margin: .5rem 0 .75rem; }
 .mat-title { font-family: var(--display); font-size: 1.6rem; margin: 0; }
@@ -114,7 +114,7 @@
   margin-top: 1rem;
 }
 
-.mat-mapcol { min-width: 0; }
+.mat-mapcol { min-width: 0; align-self: start; }
 .mat-map {
   position: relative;
   height: 600px;

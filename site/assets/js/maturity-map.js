@@ -34,8 +34,8 @@
     data = res[0]; geo = res[1];
     readHash();
     buildControls();
-    buildMap();
     buildLegend();
+    buildMap();
     window.addEventListener("resize", debounce(buildMap, 150));
     window.addEventListener("hashchange", function () { readHash(); syncControls(); render(); });
     render();
@@ -140,12 +140,20 @@
     var top = box.getBoundingClientRect().top + window.scrollY;
     var ref = d3.geoPath(d3.geoMercator().fitWidth(1000, FRAME)).bounds(FRAME);
     var ratio = (ref[1][1] - ref[0][1]) / 1000;
-    var w;
+    var w, rowH = 0;
     if (narrow) body.style.gridTemplateColumns = "";
     else {
-      var maxH = Math.max(420, window.innerHeight - top - 56);
-      w = Math.round(Math.min(body.clientWidth * MAP_SHARE, (maxH - 16) / ratio + 16));
-      body.style.gridTemplateColumns = w + "px minmax(0, 1fr)";
+      /* The row ends where the footer starts, so the page does not scroll: the sidebar has that
+         whole height, and the map what the legend leaves of it. Twice, because the legend
+         rewraps when the column's width moves. */
+      var foot = document.querySelector(".site-footer"), legend = $("mat-legend");
+      var pad = parseFloat(getComputedStyle(document.querySelector(".mat-wrap")).paddingBottom) || 0;
+      rowH = Math.max(380, window.innerHeight - top - pad - (foot ? foot.offsetHeight : 0));
+      for (var pass = 0; pass < 2; pass++) {
+        var maxH = Math.max(320, rowH - (legend.getBoundingClientRect().bottom - box.getBoundingClientRect().bottom));
+        w = Math.round(Math.min(body.clientWidth * MAP_SHARE, (maxH - 16) / ratio + 16));
+        body.style.gridTemplateColumns = w + "px minmax(0, 1fr)";
+      }
     }
     w = box.clientWidth;
     if (!w) return;
@@ -177,9 +185,8 @@
         .attr("cy", Math.max(10, Math.min(h - 10, c[1] + off[1]))).attr("r", 8);
       wire(circ, iso);
     });
-    /* The sidebar matches the map column on a wide screen. */
     var side = document.querySelector(".mat-side");
-    side.style.height = narrow ? "" : document.querySelector(".mat-mapcol").offsetHeight + "px";
+    side.style.height = narrow ? "" : Math.max(rowH, document.querySelector(".mat-mapcol").offsetHeight) + "px";
     paint();
   }
 
