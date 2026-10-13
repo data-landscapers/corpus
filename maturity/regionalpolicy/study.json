@@ -1,0 +1,175 @@
+{
+  "id": "regionalpolicy",
+  "study_file": "maturity-study-regionalpolicy.md",
+  "subjects": [
+    "gov.regional"
+  ],
+  "stage_topic": "gov.regional",
+  "redraws": [
+    "gov.regional--regional-policy-collaboration"
+  ],
+  "carry": [
+    "gov.regional--regional-policy-collaboration"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 50000000,
+  "terms": [
+    "Smart Africa",
+    "Smart Africa Alliance",
+    "African Telecommunications Union",
+    "ATU",
+    "Union africaine des télécommunications",
+    "União Africana das Telecomunicações",
+    "Specialised Technical Committee on Communication",
+    "Specialized Technical Committee on Communication",
+    "STC-CICT",
+    "Comité technique spécialisé sur la communication",
+    "Digital Transformation Strategy for Africa",
+    "Stratégie de transformation numérique pour l'Afrique",
+    "PRIDA",
+    "Policy and Regulation Initiative for Digital Africa",
+    "One Network Area",
+    "One Africa Network",
+    "single digital market",
+    "digital single market",
+    "marché numérique unique",
+    "marché unique numérique",
+    "mercado único digital",
+    "Protocol on Digital Trade",
+    "Digital Trade Protocol",
+    "Protocole sur le commerce numérique",
+    "regional digital integration",
+    "digital integration programme",
+    "digital integration program",
+    "digital integration project",
+    "intégration numérique régionale",
+    "intégration numérique",
+    "integração digital",
+    "digital cooperation",
+    "digital co-operation",
+    "cooperation in ICT",
+    "ICT cooperation",
+    "cooperation on ICT",
+    "cooperation in the field of ICT",
+    "cooperation in telecommunications",
+    "cooperation on digital transformation",
+    "cooperation in digital transformation",
+    "cooperation on digital",
+    "coopération numérique",
+    "coopération dans le domaine du numérique",
+    "coopération dans le domaine des TIC",
+    "coopération dans le domaine des télécommunications",
+    "coopération en matière de numérique",
+    "coopération en matière de TIC",
+    "cooperação digital",
+    "cooperação no domínio das TIC",
+    "cooperação no domínio das telecomunicações",
+    "cooperação no domínio digital",
+    "free roaming",
+    "roaming agreement",
+    "roaming charges",
+    "accord de roaming",
+    "roaming gratuit",
+    "itinérance gratuite",
+    "ICT ministers",
+    "ministers of ICT",
+    "ministers responsible for ICT",
+    "ministers in charge of ICT",
+    "ministres des TIC",
+    "ministres en charge des TIC",
+    "ministres en charge du numérique",
+    "ministres chargés du numérique",
+    "ministres de l'économie numérique",
+    "council of regulators",
+    "Council of Sahel Regulators",
+    "conseil des régulateurs",
+    "regulators' association",
+    "regulators association",
+    "WATRA",
+    "ARTAO",
+    "West Africa Telecommunications Regulators Assembly",
+    "EACO",
+    "East African Communications Organisation",
+    "CRASA",
+    "Communications Regulators' Association of Southern Africa",
+    "ARTAC",
+    "ARICEA",
+    "ARCTEL",
+    "Network of African Data Protection Authorities",
+    "NADPA",
+    "Réseau africain des autorités de protection des données",
+    "RAPDP",
+    "regional digital strategy",
+    "regional ICT strategy",
+    "stratégie numérique régionale",
+    "ECOWAS ICT",
+    "SADC ICT",
+    "EAC ICT",
+    "COMESA ICT",
+    "IGAD ICT",
+    "ECCAS ICT",
+    "TIC de la CEDEAO",
+    "numérique de la CEDEAO",
+    "numérique de la CEEAC",
+    "numérique de la CEMAC",
+    "numérique de l'UEMOA",
+    "الاتحاد الأفريقي للاتصالات",
+    "الاتحاد الإفريقي للاتصالات",
+    "سمارت أفريكا",
+    "التعاون الرقمي",
+    "التعاون في مجال الرقمنة",
+    "التعاون في مجال الاتصالات",
+    "التعاون في مجال تكنولوجيا المعلومات"
+  ],
+  "sub_indicators": [
+    {
+      "key": "cooperation",
+      "label": "Regional cooperation on digital policy",
+      "subject": "gov.regional",
+      "text": "Regional policy collaboration: regional cooperation on digital policy",
+      "indicator_id": "gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy",
+      "class": "cooperation"
+    }
+  ],
+  "classes": [
+    "cooperation",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "part",
+      "name": "Part taken in regional digital policy",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "active",
+        "member"
+      ],
+      "values": [
+        "active",
+        "member",
+        "none"
+      ]
+    },
+    {
+      "key": "effect",
+      "name": "What was agreed put into effect and in use",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-use",
+        "in-effect"
+      ],
+      "values": [
+        "in-use",
+        "in-effect",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
