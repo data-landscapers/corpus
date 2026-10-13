@@ -487,8 +487,8 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
         <div class="mat-legend" id="mat-legend"></div>
       </div>
       <aside class="mat-side">
-        <section class="mat-side__top" id="mat-side-indicator"></section>
-        <section class="mat-side__bottom" id="mat-side-country" aria-live="polite"></section>
+        <section class="mat-side__top" id="mat-side-country" aria-live="polite"></section>
+        <section class="mat-side__bottom" id="mat-side-indicator"></section>
       </aside>
     </div>
     <div class="mat-tooltip" id="mat-tooltip" role="tooltip" hidden></div>

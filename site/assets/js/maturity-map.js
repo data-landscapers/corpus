@@ -12,6 +12,8 @@
                   SYC: [[55.45, -4.65], [0, 16]], STP: [[6.6, 0.3], [-22, 6]] };
   /* The frame the map is fitted to: the continent and its islands, not Prince Edward or Rodrigues. */
   var FRAME = { type: "MultiPoint", coordinates: [[-25.5, 37.6], [58.5, 37.6], [-25.5, -35.2], [58.5, -35.2]] };
+  /* The most of the row the map may take on a wide screen; the sidebar has the rest. */
+  var MAP_SHARE = 0.44;
   var NOT_ASSESSED = { ESH: true };
   var CLICK_DELAY = 0;
 
@@ -129,18 +131,28 @@
   /* ---------- map ---------- */
 
   function buildMap() {
-    var box = $("mat-map");
-    var w = box.clientWidth;
-    if (!w) return;
+    var box = $("mat-map"), body = document.querySelector(".mat-body");
+    var narrow = window.innerWidth <= 960;
     placeChanges();
-    /* The box takes the map's own height, so there is no blank band under the continent;
-       on a short screen the map is fitted to the height instead and centred. */
+    /* The map column is as wide as the map and no wider, so the islands sit at its edges and the
+       sidebar takes the rest (Bill, 2026-10-13): the width comes from the height the screen
+       leaves, capped at MAP_SHARE of the row. A phone gives the map the full width. */
     var top = box.getBoundingClientRect().top + window.scrollY;
-    var maxH = window.innerWidth <= 960 ? w * 1.2 : Math.max(520, window.innerHeight - top - 56);
+    var ref = d3.geoPath(d3.geoMercator().fitWidth(1000, FRAME)).bounds(FRAME);
+    var ratio = (ref[1][1] - ref[0][1]) / 1000;
+    var w;
+    if (narrow) body.style.gridTemplateColumns = "";
+    else {
+      var maxH = Math.max(420, window.innerHeight - top - 56);
+      w = Math.round(Math.min(body.clientWidth * MAP_SHARE, (maxH - 16) / ratio + 16));
+      body.style.gridTemplateColumns = w + "px minmax(0, 1fr)";
+    }
+    w = box.clientWidth;
+    if (!w) return;
+    /* The box takes the map's own height, so there is no blank band under the continent. */
     var proj = d3.geoMercator().fitWidth(w - 16, FRAME);
     var b = d3.geoPath(proj).bounds(FRAME), h = Math.ceil(b[1][1] - b[0][1]) + 16;
-    if (h > maxH) { h = Math.round(maxH); proj = d3.geoMercator().fitExtent([[8, 8], [w - 8, h - 8]], FRAME); }
-    else proj.translate([proj.translate()[0] + 8, proj.translate()[1] + 8]);
+    proj.translate([proj.translate()[0] + 8, proj.translate()[1] + 8]);
     box.style.height = h + "px";
     d3.select(box).select("svg").remove();
     svg = d3.select(box).insert("svg", ":first-child")
@@ -167,7 +179,7 @@
     });
     /* The sidebar matches the map column on a wide screen. */
     var side = document.querySelector(".mat-side");
-    side.style.height = window.innerWidth <= 960 ? "" : document.querySelector(".mat-mapcol").offsetHeight + "px";
+    side.style.height = narrow ? "" : document.querySelector(".mat-mapcol").offsetHeight + "px";
     paint();
   }
 
@@ -208,7 +220,7 @@
     gCountries.selectAll("path.is-selected").raise();
   }
 
-  /* The changes box sits in the Atlantic on a wide screen and under the sidebar on a narrow one. */
+  /* The changes box sits in the South Atlantic on a wide screen and under the sidebar on a narrow one. */
   function placeChanges() {
     var ch = $("mat-changes"), narrow = window.innerWidth <= 960;
     var home = narrow ? document.querySelector(".mat-side") : $("mat-map");
@@ -275,6 +287,7 @@
 
   function renderCountry() {
     var box = $("mat-side-country"), iso = state.country;
+    box.classList.toggle("is-empty", !iso);
     if (!iso) { box.innerHTML = '<p class="mat-side__empty">Select a country.</p>'; return; }
     var c = cell(iso), s = stageInfo(c);
     var moved = c.reassessed ? "Reassessed " + c.reassessed : (c.moved || "First assessment");

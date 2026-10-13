@@ -31,15 +31,15 @@ From top to bottom:
 1. The Under construction band.
 2. **Title row**: the page title, with the buttons *Methodology*, *Download this indicator (CSV)* and *Download all (CSV)* on the same row *(Bill)*.
 3. **Control row**: the *Topic* and *Indicator* dropdowns, with no rule beneath *(Bill)*.
-4. **The body**: the map on the left, fitted to the screen and with no blank band beneath it *(Bill)*, and on the right a wide sidebar split horizontally into two halves (§6).
+4. **The body**: the map on the left, fitted to the screen and with no blank band beneath it *(Bill)*, and on the right a sidebar split horizontally into two boxes (§6). **The map column is as wide as the map and no wider** *(Bill, 2026-10-13)*: at most 44% of the row, cropped so Cabo Verde and Mauritius sit at its edges, and the sidebar takes the rest.
 5. **The legend** directly under the map (§4).
-6. **The changes box** in the whitespace beside the map; the Atlantic, west of the bulge, is the natural place (§7).
+6. **The changes box** in the whitespace beside the map: the South Atlantic, below São Tomé and Príncipe (§7).
 
 At phone width the sidebar stacks below the map and the changes box below the sidebar.
 
 ## 3. The map
 
-- **All 54 countries, as large as possible.** The geojson is `africa-dpi/africa.geojson`, copied into the site.
+- **All 54 countries.** The geojson is `africa-dpi/africa.geojson`, copied into the site.
 - **Island states get clickable circles** *(Bill)*: Cabo Verde, Comoros, Mauritius, Seychelles and São Tomé and Príncipe each get a circle about 16 px across beside their outline, filled with the stage colour and answering hover, click and double-click exactly as a mainland country does.
 - **Western Sahara is greyed out** *(Bill)*: drawn in the no-evidence grey with no tooltip and no click; it is not one of the 54.
 - **One map per sub-indicator** *(Bill)*: HMIS and EMR are separate options in the Indicator dropdown, each with its own map.
@@ -68,27 +68,29 @@ At phone width the sidebar stacks below the map and the changes box below the si
 | Action | Desktop | Phone |
 |---|---|---|
 | Hover | Tooltip: country, stage number and label, the **short summary** (one sentence, ≤ 25 words, method §8) | — |
-| Click / tap | Selects the country and fills the bottom half of the sidebar | same |
+| Click / tap | Selects the country and fills the top box of the sidebar | same |
 | Double-click | Opens the country report at `#{indicator_id}` | replaced by a **View in country report** button in the sidebar *(Bill)* |
 
 The sidebar button is on desktop too, so double-click is a shortcut, not the only route. A single click is delayed by the double-click interval only if testing shows the sidebar flickering before navigation; otherwise both fire.
 
 ## 6. The sidebar
 
-**Top half: the indicator.** The scale criteria for the selected indicator, being its ladder (the methodology page's criteria sentences, one per stage), and a button to the indicator's bookmark on the methodology page. **Its heading is always *Criteria*** *(Bill, 2026-10-09)*: the dropdowns already name the topic and the indicator. The criteria start on one line, where the longest stage label ends.
+**The country is the top box and the criteria the bottom** *(Bill, 2026-10-13)*. The country has the height the criteria leave, and the criteria never more than half.
 
-**Bottom half: the country.** The heading is the country's name with its stage at the right of the same line, and no *Country* label above it *(Bill, 2026-10-09)*.
+**Bottom box: the indicator.** The scale criteria for the selected indicator, being its ladder (the methodology page's criteria sentences, one per stage), and a button to the indicator's bookmark on the methodology page. **Its heading is always *Criteria*** *(Bill, 2026-10-09)*: the dropdowns already name the topic and the indicator. The criteria start on one line, where the longest stage label ends.
 
-**The two halves are told apart** *(Bill, 2026-10-09)*: each opens on a heading that stays put while its body scrolls beneath it, closed by a rule, with a heavy rule on top of each box; the sidebar type is a step smaller than the page's.
+**Top box: the country.** The heading is the country's name with its stage at the right of the same line, and no *Country* label above it *(Bill, 2026-10-09)*.
 
-**Bottom half: the selected country** *(Bill)*. A summary of the indicator's section in that country's report, as long as the space allows, headed by:
+**The two boxes are told apart** *(Bill, 2026-10-09)*: each opens on a heading that stays put while its body scrolls beneath it, closed by a rule, with a heavy rule on top of each box; the sidebar type is a step smaller than the page's.
+
+**Top box: the selected country** *(Bill)*. A summary of the indicator's section in that country's report, as long as the space allows, headed by:
 
 - the stage, number and label;
 - **Last assessed**: the date the stage was last set or confirmed (`assessed_on`);
 - **Stage last moved**: the month the stage last changed on evidence. A change from a re-read or a rubric correction (`reassessed = 1`) does not count as a move; it is shown here as *Reassessed {month}* when it is the latest change *(Bill: reassessments are handled here, not in the changes box)*;
 - then the short summary, then as much of the long summary as fits, ending in **View in country report**.
 
-Before a click it says *Select a country.*
+Before a click it says *Select a country.*, large and centred in its box *(Bill, 2026-10-13)*.
 
 ## 7. The changes box
 
