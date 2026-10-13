@@ -1,0 +1,138 @@
+{
+  "id": "datatransfers",
+  "study_file": "maturity-study-datatransfers.md",
+  "subjects": [
+    "gov.regional",
+    "gov.protect"
+  ],
+  "stage_topic": "gov.regional",
+  "redraws": [
+    "gov.regional--cross-border-data-transfers"
+  ],
+  "carry": [
+    "gov.regional--cross-border-data-transfers"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 40000000,
+  "terms": [
+    "cross-border data transfer",
+    "cross-border transfer of data",
+    "cross-border transfer of personal data",
+    "cross-border transfers of personal data",
+    "cross-border data flow",
+    "cross-border flow of data",
+    "cross-border flows of data",
+    "cross-border flow of personal data",
+    "cross border data transfer",
+    "cross border transfer of personal data",
+    "cross border data flow",
+    "transborder data flow",
+    "transborder flow of personal data",
+    "transborder transfer",
+    "trans-border data flow",
+    "trans-border flow of personal data",
+    "international data transfer",
+    "international transfer of data",
+    "international transfer of personal data",
+    "international transfers of personal data",
+    "transfer of personal data abroad",
+    "transfer of data abroad",
+    "transfer of personal data outside",
+    "transfer of data outside",
+    "transfer personal data outside",
+    "transfer personal data abroad",
+    "transferring personal data abroad",
+    "transferring personal data outside",
+    "data transfers abroad",
+    "data transfer abroad",
+    "adequacy decision",
+    "adequate level of protection",
+    "standard contractual clauses",
+    "binding corporate rules",
+    "transfert transfrontalier",
+    "transferts transfrontaliers",
+    "transfert transfrontière",
+    "flux transfrontalier de données",
+    "flux transfrontaliers de données",
+    "flux transfrontières de données",
+    "transfert de données à l'étranger",
+    "transfert de données vers l'étranger",
+    "transfert des données à l'étranger",
+    "transfert de données personnelles vers",
+    "transfert de données à caractère personnel vers",
+    "transfert des données à caractère personnel vers",
+    "transfert international de données",
+    "transferts internationaux de données",
+    "transfert de données hors",
+    "niveau de protection adéquat",
+    "niveau de protection suffisant",
+    "clauses contractuelles types",
+    "règles d'entreprise contraignantes",
+    "transferência internacional de dados",
+    "transferências internacionais de dados",
+    "transferência transfronteiriça",
+    "fluxo transfronteiriço de dados",
+    "fluxos transfronteiriços de dados",
+    "transferência de dados para o exterior",
+    "transferência de dados para o estrangeiro",
+    "transferência de dados pessoais para",
+    "transferencia internacional de datos",
+    "نقل البيانات عبر الحدود",
+    "نقل البيانات إلى الخارج",
+    "نقل البيانات الشخصية إلى الخارج",
+    "نقل البيانات الشخصية خارج",
+    "نقل المعطيات إلى الخارج",
+    "نقل المعطيات الشخصية"
+  ],
+  "sub_indicators": [
+    {
+      "key": "rule",
+      "label": "Rule on sending data abroad",
+      "subject": "gov.regional",
+      "text": "Cross-border data transfers: rule on sending data abroad",
+      "indicator_id": "gov.regional--cross-border-data-transfers-rule-on-sending-data-abroad",
+      "class": "rule"
+    }
+  ],
+  "classes": [
+    "rule",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Rule in force",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-force",
+        "draft"
+      ],
+      "values": [
+        "in-force",
+        "draft",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Means of complying published and rule applied",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "applied",
+        "means"
+      ],
+      "values": [
+        "applied",
+        "means",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
