@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Kinshasa hosted the 10th Ordinary Session of ARTAC, the Conference of Central African Telecommunications Regulators, at which member states adopted a resolution mandating free roaming across Central Africa by 30 June 2026; the document gives no session date, so its published date is used.", "as_of": "2026-02-24", "date_precision": "day", "system": "ARTAC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ARTAC (Conference of Central African Telecommunications Regulators)", "country_label": "ARTAC", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Central Africa free roaming", "country_label": "free roaming", "class": "other", "platform": "", "owner": "ARTAC", "tiers": ""}
+  ],
+  "note": ""
+}

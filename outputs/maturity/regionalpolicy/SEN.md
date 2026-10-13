@@ -1,0 +1,11 @@
+# Senegal
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Senegal and The Gambia [signed a memorandum on telecommunications, information technology and the digital economy in Dakar on 12 June 2026](<https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/>). Senegal's regulator [signed a memorandum with The Gambia's to apply the West African roaming regulation in December 2025](<https://pura.gm/pura-and-artp-sign-mou-to-implement-ecowas-roaming-regulation/>) and [roaming agreements with the regulators of Togo and Benin](<https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative>). A [regional data governance workshop was held in Senegal in May 2026](<https://techafricanews.com/2026/05/26/smart-africa-leads-regional-push-for-stronger-data-governance-in-francophone-africa/>).
+
+**What was agreed put into effect and in use.** [Free roaming between Senegal, Togo and Benin took effect on 24 April 2026](<https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative>), with free incoming calls for up to 30 days. [The first steering committee under the memorandum with The Gambia met in Banjul in August 2026](<https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/>) to set a roadmap. Published figures of its use, a decision of a joint body or a review of what was delivered in the last three years are not recorded.
+
+***Noted, not assessed***. [Mali-Senegal backbone interconnection at Kidira](<https://aps.sn/lintegration-numerique-ouest-africaine-au-menu-dune-rencontre-a-dakar/>); [Senegal-Morocco bilateral digital cooperation](<https://lesoleil.sn/actualites/technologie/senegal-maroc-vers-le-renforcement-de-la-cooperation-numerique-entre-les-deux-pays/>); [SADA/WARDIP project framework](<https://techafricanews.com/2026/05/26/smart-africa-leads-regional-push-for-stronger-data-governance-in-francophone-africa/>); [OPTIC-Federation of Services of Mauritania MoU](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-and-mauritania-sign-mou-to-deepen-digital-cooperation>).
+
+***Not held***. No source held gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.

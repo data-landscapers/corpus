@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-23-atlas-network-continental-ai-nigeria-atu",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Nigeria's communications minister addressed the 7th ordinary session of the ATU Conference of Plenipotentiaries in Abuja on 2026-07-23, unveiled the Atlas Network AI initiative there and invited all ATU member states to join it, with no other state named as having joined.", "as_of": "2026-07-23", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU", "tiers": ""},
+    {"system": "Atlas Network", "country_label": "Atlas Network", "class": "other", "platform": "", "owner": "Nigeria's communications ministry", "tiers": ""}
+  ],
+  "note": ""
+}

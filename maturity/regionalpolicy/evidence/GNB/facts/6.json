@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-24-auda-nepad-island-economies-programme-launch",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "AUDA-NEPAD, the African Union's development agency, launched on 24 July 2026 at the STC-TTIM ministerial segment in Abidjan its Programme for African Developing Island Economies, which Guinea-Bissau joins with six other island states; digital transformation is one of its six pillars, and the programme runs on a 2026-2031 roadmap.", "as_of": "2026-07-24", "date_precision": "day", "system": "AUDA-NEPAD Programme for African Developing Island Economies", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AUDA-NEPAD Programme for African Developing Island Economies", "country_label": "", "class": "cooperation", "platform": "", "owner": "AUDA-NEPAD", "tiers": ""},
+    {"system": "Africa Green Transition PPP Fund", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Ministerial Communiqué is named but its content is not held and is not specific to digital policy, so no active fact."
+}

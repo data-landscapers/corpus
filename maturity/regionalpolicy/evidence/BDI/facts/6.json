@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-24-eac-2026-digital-for-development-forum-eu-eac-deep",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EAC press release on its 2026 Digital for Development Forum, which advances the EAC digital transformation agenda, names the Republic of Burundi among the eight EAC Partner States; the as_of is the document's published date, as it gives no date for membership.", "as_of": "2026-06-24", "date_precision": "day", "system": "East African Community", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "East African Community", "country_label": "EAC", "class": "cooperation", "platform": "", "owner": "EAC Secretariat", "tiers": ""},
+    {"system": "EU-EAC DEEP Programme", "country_label": "", "class": "other", "platform": "", "owner": "European Union and Team Europe partners, implemented by GIZ, ESTDEV and Expertise France", "tiers": ""}
+  ],
+  "note": ""
+}

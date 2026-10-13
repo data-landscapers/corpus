@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-26-government-working-to-host-all-data-centres-locally",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Ghana's NITA took part with Smart Africa in a validation workshop in Accra on a regulatory framework for cloud and data centres; the workshop date is not given, so the publication date is used.", "as_of": "2024-06-26", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""}
+  ],
+  "note": ""
+}

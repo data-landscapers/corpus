@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-afcfta-quest-ghana-digital-trade-corridor",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The AfCFTA Secretariat and Quest Ghana signed a joint venture agreement in Accra on 31 August 2026 to establish the AfCFTA Digital Trade Corridor; Seychelles will host the joint venture's headquarters and its finance and trade minister spoke at the signing, but Seychelles is not named as a signatory.", "as_of": "2026-08-31", "date_precision": "day", "system": "AfCFTA Digital Trade Corridor", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Digital Trade Corridor", "country_label": "", "class": "cooperation", "platform": "", "owner": "AfCFTA Secretariat and Quest Ghana (joint venture)", "tiers": ""},
+    {"system": "PAPSS", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-07-swz-independentnews-mict-smart-africa-gender-impact-assessment-tools",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Eswatini's ICT minister said at the opening of a joint ministry and Smart Africa workshop on 7 October 2026 that Eswatini and The Gambia had been selected as the two pilot countries for Smart Africa's gender impact assessment tools for digital policy; the workshop itself was held in Eswatini and the article does not say The Gambia took part in it.",
+     "as_of": "2026-10-07", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "Gender Impact Assessment Tool, Gender Policy Review Tool and Gender Budgeting Tool", "country_label": "", "class": "other", "platform": "", "owner": "Smart Africa", "tiers": "Eswatini and The Gambia as pilot countries"}
+  ],
+  "note": ""
+}

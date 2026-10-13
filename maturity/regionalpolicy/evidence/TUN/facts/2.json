@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-09-atu-tunis-apm27-3-wrc27-common-positions",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Tunisia's National Frequency Agency hosted in Tunis the ATU-coordinated Third African Preparatory Meeting for WRC-27, which opened on 2026-09-08 and ran to 11 September, according to the ATU.", "as_of": "2026-09-08", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Ms Sana Souai Lakhal of Tunisia's National Frequency Agency took over as chairperson of Africa's WRC-27 preparatory process from Kenya's Mohamed Haji at the Tunis meeting, according to the ATU.", "as_of": "2026-09-08", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-techreviewafrica-crasa-legal-policy-committee-ai-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Namibia's regulator CRAN hosted the first Legal and Policy Committee meeting of the Communications Regulators' Association of Southern Africa, held 10 to 12 August 2026, on AI governance, data governance and protection and digital public infrastructure.", "as_of": "2026-08-10", "date_precision": "day", "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""}
+  ],
+  "note": ""
+}

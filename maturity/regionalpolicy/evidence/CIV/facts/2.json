@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-17-atu-africa-innovation-challenge-fifth-edition",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Minister Djibril Ouattara launched the fifth ATU Africa Innovation Challenge in Abidjan on 17 September 2026, during the fourth African preparatory meeting for the ITU Plenipotentiary Conference hosted in Côte d'Ivoire.", "as_of": "2026-09-17", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU", "tiers": ""},
+    {"system": "ATU Africa Innovation Challenge", "country_label": "", "class": "other", "platform": "", "owner": "ATU", "tiers": ""}
+  ],
+  "note": ""
+}

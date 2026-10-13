@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-22-zwe-technomag-africa-data-protection-day-potraz",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "TechnoMag reports POTRAZ, Zimbabwe's data protection authority, holds the role of Second Vice President in the Network of African Data Protection Authorities (34 member authorities) and joined it in marking the first Africa Data Protection Day on 21 September 2026; the document gives no date for the office being won.",
+     "as_of": "2026-09-21", "date_precision": "day", "system": "Network of African Data Protection Authorities", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Network of African Data Protection Authorities", "country_label": "NADPA", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

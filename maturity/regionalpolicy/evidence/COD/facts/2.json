@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The DRC is one of the seven member states of the East African Communications Organisation, and its regulator ARPTC submitted 2024-2025 data to EACO's regional statistics report; no event date is given, so the published date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "East African Communications Organisation", "country_label": "EACO", "class": "cooperation", "platform": "", "owner": "EACO Secretariat, Kigali", "tiers": ""},
+    {"system": "One Network Area roaming framework", "country_label": "ONA", "class": "other", "platform": "", "owner": "EACO", "tiers": "the DRC does not report ONA data"}
+  ],
+  "note": ""
+}

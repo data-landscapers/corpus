@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka",
+  "facts": [],
+  "systems": [
+    {"system": "Niger-Algeria trans-Saharan fibre-optic link", "country_label": "liaison transsaharienne en fibre optique Niger-Algerie", "class": "other", "platform": "", "owner": "Niger MCNTI and Algeria Ministry of Post and Telecommunications", "tiers": ""}
+  ],
+  "note": "A shared cable has its own row; no cooperation fact taken."
+}

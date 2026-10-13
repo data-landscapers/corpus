@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-14-rwa-techreviewafrica-irembo-smart-africa-dpi-workshop",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Rwanda's Irembo platform joined Smart Africa and the Rwanda DPI Centre for a workshop on making digital public infrastructure work across borders, reported 2026-09-14 (no event date given).", "as_of": "2026-09-14", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Irembo", "country_label": "Irembo", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

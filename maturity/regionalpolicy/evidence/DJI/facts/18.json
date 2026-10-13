@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-11-au-16th-psf-djibouti-declaration",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Djibouti hosted the 16th African Union Private Sector Forum on 8-10 December 2025, which adopted the 'Djibouti Declaration' on the digital economy and intra-African trade; the African Union Commission says so (event dated at its close, 10 December).", "as_of": "2025-12-10", "date_precision": "day", "system": "African Union Private Sector Forum", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Union Private Sector Forum", "country_label": "16th AU Private Sector Forum", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

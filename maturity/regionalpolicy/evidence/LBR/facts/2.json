@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-03-liberia-atu-arrears-waiver-voting-rights",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Liberia had US$361,151.36 of arrears to the African Telecommunications Union waived at its 7th Ordinary Session of the Conference of Plenipotentiaries in Abuja, regained full voting rights, took part in adopting the 2026 Abuja Declaration on Meaningful Connectivity and deposited its instrument of ratification of the ATU Constitution and Convention; the document gives no month, so its publication date is used.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "African Telecommunications Union",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

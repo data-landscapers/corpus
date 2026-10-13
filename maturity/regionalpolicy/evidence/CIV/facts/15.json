@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-26-civ-itu-artci-broadband-mapping-training-abidjan",
+  "facts": [],
+  "systems": [
+    {"system": "Africa-BB-Maps", "country_label": "Africa-BB-Maps", "class": "other", "platform": "", "owner": "ITU, funded by the European Union", "tiers": ""},
+    {"system": "ARTAO", "country_label": "Association des regulateurs des telecommunications de l'Afrique de l'Ouest", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 21-25 Sep 2026 training was run by the ITU with ARTCI under an EU-funded ITU initiative; ARTAO representatives attended, but the document does not name Cote d'Ivoire as a member of ARTAO or state any agreement."
+}

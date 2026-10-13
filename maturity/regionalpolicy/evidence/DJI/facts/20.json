@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-02-igad-digital-health-equipment-djibouti",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "IGAD, with EU funding, handed digital health equipment to Djibouti's Ministry of Health on 2 December 2024, as one of the IGAD Member States across which the equipment is distributed.", "as_of": "2024-12-02", "date_precision": "day", "system": "IGAD", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "EU Digital Solutions project (IGAD health surveillance)", "country_label": "Digital Solutions project", "class": "other", "platform": "", "owner": "IGAD with GIZ and the EU", "tiers": "Ministry of Health HMIS/Digital Health/IDSR sections, district health offices, three cross-border facilities"}
+  ],
+  "note": ""
+}

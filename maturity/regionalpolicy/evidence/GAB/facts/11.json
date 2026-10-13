@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-31-gabon-digital-transformation-review",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Gabon's digital ministry committee reviewed the country's preparations to take part in the African Digital Ministers' Council; the document gives no event date, so the published date 2026-07-31 is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "African Digital Ministers' Council", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Digital Ministers' Council", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "International Telecommunication Union governance bodies", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-15-libya-tunisia-audit-ai-digital-roadmap",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Libya's Audit Bureau and Tunisia's Court of Auditors signed and adopted a roadmap in Amman on 2026-08-15 to activate their cooperation agreement, covering development of digital systems, AI and its governance, and audit-technology capacity building (Libya's Audit Bureau, via Libya Observer).", "as_of": "2026-08-15", "date_precision": "day", "system": "Libya-Tunisia audit cooperation roadmap", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ARABOSAI", "country_label": "Arab Organization of Supreme Audit Institutions", "class": "other", "platform": "", "owner": "", "tiers": "venue only: the roadmap was signed on the sidelines of its 50th-anniversary ceremony"}
+  ],
+  "note": "Roadmap between two African state audit institutions, signed on the date given; counted as an agreement between two African governments."
+}

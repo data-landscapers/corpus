@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-13-infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-coop",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Burkina Faso's digital minister and Nigeria's digital minister held their first exchanges on the margins of the 7th ATU Conference of Plenipotentiaries, held in Abuja in July 2026.", "as_of": "2026-07", "date_precision": "month", "system": "African Telecommunications Union (ATU)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union (ATU)", "country_label": "Union africaine des télécommunications", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "BRIDGE", "country_label": "projet BRIDGE", "class": "other", "platform": "", "owner": "Nigeria", "tiers": ""}
+  ],
+  "note": "The 2026-08-12 bilateral meeting with Nigeria was talks on possible cooperation, not a signed agreement."
+}

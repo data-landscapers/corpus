@@ -1,0 +1,16 @@
+{
+  "slug": "2025-11-23-burkina-ghana-mali-niger-harmonisent-frequences",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "On 2025-11-21 in Ouagadougou, Burkina Faso's ARCEP signed an agreement with Ghana's regulator on free roaming between Burkina Faso and Ghana (local tariffs for travellers), in the presence of the digital ministers' delegations; the minister said it will be extended progressively to Mali and Niger.",
+     "as_of": "2025-11-21", "date_precision": "day", "system": "Free roaming agreement Burkina Faso-Ghana", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "On 2025-11-21 in Ouagadougou, ARCEP signed with its Ghana, Mali and Niger counterparts a protocol on border frequency coordination (preferential frequencies, interference prevention, 15 km coordination zones each side of borders).",
+     "as_of": "2025-11-21", "date_precision": "day", "system": "Border frequency coordination protocol Burkina Faso-Ghana-Mali-Niger", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Free roaming agreement Burkina Faso-Ghana", "country_label": "Free Roaming", "class": "cooperation", "platform": "", "owner": "ARCEP Burkina Faso and Ghana's regulator", "tiers": "mobile users of both countries"},
+    {"system": "Border frequency coordination protocol Burkina Faso-Ghana-Mali-Niger", "country_label": "coordination des fréquences", "class": "cooperation", "platform": "", "owner": "regulators of Burkina Faso, Ghana, Mali, Niger", "tiers": "operators in border zones"}
+  ],
+  "note": "No effect fact: the free roaming is described as to come ('va permettre'), not as started."
+}

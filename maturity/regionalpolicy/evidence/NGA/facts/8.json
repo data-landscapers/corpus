@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-atu-tijani-nigeria-cooperation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The Nigerian communications ministry says the Federal Government hosted the Seventh ATU Conference of Plenipotentiaries in Abuja, and that Algeria transferred the chairmanship to Nigeria at the closing ceremony on 24 July 2026.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The ministry says member states adopted the 2026 Abuja Declaration on Meaningful Connectivity for Africa at the conference Nigeria hosted and chaired.", "as_of": "2026-07-24", "date_precision": "day", "system": "2026 Abuja Declaration on Meaningful Connectivity for Africa (African Telecommunications Union)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "African Telecommunications Union", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Rwanda was among the Uganda, Kenya, Rwanda and South Sudan officials at the Northern Corridor Integration Projects implementation clusters meeting in Kampala, a programme covering a single digital market, roaming costs and a joint satellite; the meeting is dated only by the report, 2026-08-24.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Uganda, Kenya, Rwanda and South Sudan opened a joint bank account at Standard Chartered Bank Uganda to fund a feasibility study of a jointly owned communications satellite, with a 30 September 2026 deposit deadline; the date of opening is not given, so the report date 2026-08-24 is used.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

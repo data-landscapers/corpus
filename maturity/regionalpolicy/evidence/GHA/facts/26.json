@@ -1,0 +1,14 @@
+{
+  "slug": "2025-08-21-ghana-burkina-interference-frequences-transfrontalieres",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Ghana's National Communications Authority and Burkina Faso's ARCEP finalised a bilateral frequency coordination agreement on cross-border interference at a meeting in the week before 21 August 2025.", "as_of": "2025-08", "date_precision": "month", "system": "Ghana-Burkina Faso frequency coordination agreement", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Ghana signed a free roaming agreement with Cote d'Ivoire in February 2024, letting citizens of both countries use mobile services without international roaming charges.", "as_of": "2024-02", "date_precision": "month", "system": "Ghana-Cote d'Ivoire free roaming agreement", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Ghana's NCA and Togo's regulatory authority agreed in November 2023 to establish bilateral roaming services between the two countries.", "as_of": "2023-11", "date_precision": "month", "system": "Ghana-Togo bilateral roaming agreement", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "A free roaming initiative between Benin and Ghana took effect on 1 July 2024, per the article.", "as_of": "2024-07-01", "date_precision": "day", "system": "ECOWAS free roaming initiative (Ghana-Benin)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "A free roaming agreement involving Ghana, Togo and Benin was launched in October 2024, per the article.", "as_of": "2024-10", "date_precision": "month", "system": "ECOWAS free roaming initiative (Ghana-Togo-Benin)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ECOWAS free roaming initiative", "country_label": "ECOWAS free roaming", "class": "cooperation", "platform": "", "owner": "ECOWAS; NCA Ghana", "tiers": ""}
+  ],
+  "note": ""
+}

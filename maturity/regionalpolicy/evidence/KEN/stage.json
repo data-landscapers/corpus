@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "cooperation",
+   "stage": "5",
+   "part": "active",
+   "effect": "in-use",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-002;KEN-004",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
+  }
+ ]
+}

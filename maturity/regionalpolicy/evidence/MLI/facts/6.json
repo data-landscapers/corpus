@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-26-mali-accord-aes-coordination-des-frequences",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "active",
+      "fact": "Mali's government records that its minister for communication and digital economy took part in the signing at Ouagadougou of the Alliance des Etats du Sahel (AES) agreement on cross-border radio-frequency coordination, with the ministers of Niger and Burkina Faso.",
+      "as_of": "2025-11-21",
+      "date_precision": "day",
+      "system": "Accord AES de coordination des frequences",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [],
+  "note": "No effect fact: the document states only that parties will turn the accord into action in the coming months, not that it has started."
+}

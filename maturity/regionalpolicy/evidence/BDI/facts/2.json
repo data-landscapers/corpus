@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EACO report lists Burundi among its seven member states, with Burundi's regulator ARCT submitting data; the report gives no date for membership, so its publication date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation (EACO)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-use", "fact": "EACO reports Burundi's inbound One Network Area voice traffic rose 126% in 2025, from 89.6 million to 202.9 million minutes, and outbound rose 82.4% from 12.1 million to 22.1 million, attributing the rise to Burundi's accession to the ONA roaming framework and reduced roaming tariffs.", "as_of": "2025", "date_precision": "year", "system": "EAC One Network Area", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "EAC One Network Area", "country_label": "ONA", "class": "other", "platform": "", "owner": "EAC", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-24-gsma-abuja-declaration-meaningful-connectivity-atlas-umoja",
+  "facts": [],
+  "systems": [
+    {"system": "ATLAS Umoja AI", "country_label": "ATLAS Umoja AI", "class": "other", "platform": "", "owner": "GSMA with ministries of Nigeria, Togo, Kenya, Namibia, Benin and companies", "tiers": "national ministries"},
+    {"system": "Abuja Ministerial Declaration on Meaningful Connectivity for Africa", "country_label": "", "class": "other", "platform": "", "owner": "African Telecommunications Union", "tiers": ""}
+  ],
+  "note": "Togo's ministry joins a GSMA-led AI initiative with companies, and Togo is not named among the Abuja Declaration signatories; no African body's digital policy fact for Togo."
+}

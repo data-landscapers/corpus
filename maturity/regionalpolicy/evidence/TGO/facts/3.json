@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-27-techreviewafrica-senegal-togo-benin-free-roaming",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Tech Review Africa reports that the regulators of Senegal (ARTP), Togo (ARCEP Togo) and Benin (ARCEP Benin) signed agreements for a free roaming arrangement between the three countries, launched in Lomé on 24 April 2026 under ECOWAS regulation C/REG.21/12/17; the signing date is not given, so the launch date is used.", "as_of": "2026-04-24", "date_precision": "day", "system": "Senegal-Togo-Benin free roaming arrangement", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Tech Review Africa reports the free roaming arrangement between Senegal, Togo and Benin took effect on 24 April 2026 in Lomé, with free incoming calls for up to 30 consecutive days and no surcharge on incoming international traffic.", "as_of": "2026-04-24", "date_precision": "day", "system": "Senegal-Togo-Benin free roaming arrangement", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

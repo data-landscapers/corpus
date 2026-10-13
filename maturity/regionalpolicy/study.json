@@ -128,7 +128,15 @@
       "subject": "gov.regional",
       "text": "Regional policy collaboration: regional cooperation on digital policy",
       "indicator_id": "gov.regional--regional-policy-collaboration-regional-cooperation-on-digital-policy",
-      "class": "cooperation"
+      "class": "cooperation",
+      "criteria": [
+        "A source from the past three years says the country is suspended from, has left or stands outside the African bodies that make digital policy, and no agreement is on record.",
+        "The country belongs to an African body that makes digital policy, or takes part in its meetings, and nothing more is on record. Membership of the African Union or a regional community alone does not count.",
+        "In the past three years the country has signed a digital agreement or declaration with another African government or African body, hosted or chaired a meeting of such a body, or won a seat or office in one. Talks, visits and meetings attended do not count.",
+        "Something the country agreed has been put into effect: roaming charges cut with a neighbour, a joint body set up and meeting, a regional guideline adopted as a national rule, or a shared service opened.",
+        "What was put into effect is reported in use in the past three years: published figures of its use, a decision of the joint body, or a review of what the agreement delivered. A launch, a renewal or projects agreed do not reach this stage."
+      ],
+      "criteria_of": "2d76480cd4c8"
     }
   ],
   "classes": [

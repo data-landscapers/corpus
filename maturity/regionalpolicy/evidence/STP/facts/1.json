@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-29-lusophone-countries-in-africa-deepen-digital-cooperation-to-strengthen-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "São Tomé and Príncipe regulators, including the head of its Institute of Innovation and Knowledge, took part in a UNESCO data governance workshop in Maputo, 8 to 10 December 2025, organised with Mozambique's INTIC and Smart Africa, aligned with the Smart Africa Data Governance Blueprint and the African Union Data Policy Framework.", "as_of": "2025-12-08", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UNESCO Data Governance Toolkit", "country_label": "", "class": "other", "platform": "", "owner": "UNESCO", "tiers": ""}
+  ],
+  "note": ""
+}

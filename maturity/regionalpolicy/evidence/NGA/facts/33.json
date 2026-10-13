@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-21-nigeria-rallies-africa-global-telecommunications-atu",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The Nigerian Communications Commission opened the 7th Ordinary Session of the African Telecommunications Union (ATU) Conference Preparatory Committee in Abuja, a meeting of the ATU hosted in Nigeria; the document gives no separate event date, so the published date is used.", "as_of": "2026-07-21", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU Secretariat", "tiers": ""},
+    {"system": "ITU Plenipotentiary Conference (PP-26)", "country_label": "", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": ""
+}

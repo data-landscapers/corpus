@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-12 Djibouti advances bill to create National Cybersecurity Authority",
+  "facts": [],
+  "systems": [
+    {"system": "AU Malabo Convention", "country_label": "Malabo Convention", "class": "other", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "UN Convention on Cybercrime", "country_label": "UN Convention on Cybercrime", "class": "other", "platform": "", "owner": "United Nations", "tiers": ""}
+  ],
+  "note": "Article is about a national bill; the Malabo Convention ratification (Nov 2023) is a cybersecurity instrument with its own row, so no fact; UN convention is global."
+}

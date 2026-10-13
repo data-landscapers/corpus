@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-04-nadpa-africa-data-protection-day-declaration",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "The Fifth Board of the Network of African Data Protection Authorities, comprising the authorities of Cabo Verde, Cote d'Ivoire and Zimbabwe, signed a declaration proclaiming 21 September as Africa Data Protection Day on 3 September 2026, so Cabo Verde holds a seat on the board (a Zimbabwe regulator official says so, LinkedIn, 2026-09-04).",
+     "as_of": "2026-09-03", "date_precision": "day",
+     "system": "Network of African Data Protection Authorities (NADPA-RAPDP)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Network of African Data Protection Authorities (NADPA-RAPDP)", "country_label": "NADPA", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

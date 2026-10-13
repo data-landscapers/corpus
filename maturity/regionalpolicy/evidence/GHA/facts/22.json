@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-28 Building the same road twice",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The document states that Smart Africa announced a pilot of its Smart Africa Data Exchange (SADX) cross-border data exchange system with Benin, Ghana and Rwanda in November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Data Exchange (SADX)", "country_label": "SADX", "class": "other", "platform": "X-Road", "owner": "Smart Africa", "tiers": "pilot with Benin, Ghana, Rwanda"},
+    {"system": "ADAPT", "country_label": "", "class": "other", "platform": "TWIN / IOTA", "owner": "AfCFTA Secretariat", "tiers": "pilot with Kenya, Morocco, Nigeria"}
+  ],
+  "note": ""
+}

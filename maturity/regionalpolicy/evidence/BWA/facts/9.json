@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-13-sadc-puts-spotlight-on-ai-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Botswana was among the delegates (with South Africa, Comoros and Eswatini) at the SADC Regional Workshop on Data Governance in Harare on data policy harmonisation; the article gives no event date, so the published date is used.", "as_of": "2026-08-13", "date_precision": "day", "system": "SADC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

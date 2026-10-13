@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Conseil des regulateurs du Sahel (CRS),Conseil des regulateurs du Sahel,cooperation,,"ARCEP Burkina Faso, AMRTP Mali, ARCEP Niger",national telecoms regulators of the three AES states,2026-09-26-bfa-lefaso-aes-telecom-regulators-sahel-council
+NER,free roaming across the AES,free roaming,other,,,,2026-09-26-bfa-lefaso-aes-telecom-regulators-sahel-council
+NER,Conseil des Regulateurs du Sahel (CRS),Conseil des Regulateurs du Sahel,cooperation,,"ARCEP Burkina Faso, AMRTP Mali, ARCEP Niger",national telecoms regulators of the three AES states,2026-09-23-bfa-lefaso-arcep-aes-convention-regulateurs
+NER,Niger-Algeria trans-Saharan fibre-optic link,liaison transsaharienne en fibre optique Niger-Algerie,other,,Niger MCNTI and Algeria Ministry of Post and Telecommunications,,2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka
+NER,Reseau Africain des Autorites de Protection des Donnees Personnelles (RAPDP),RAPDP,cooperation,,,African data protection authorities,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel
+NER,AES data protection authorities concertation framework,cadre de concertation AES,cooperation,,HAPDP Niger with Burkina Faso and Mali authorities,,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel
+NER,African Union Convention on Cyber Security and Personal Data Protection,Convention de l'Union Africaine sur la cybersecurite et la protection des donnees personnelles,other,,African Union,,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel
+NER,Global Privacy Assembly,Global Privacy Assembly,other,,,,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel

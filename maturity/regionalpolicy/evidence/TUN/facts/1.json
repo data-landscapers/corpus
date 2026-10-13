@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-techreviewafrica-atu-spectrum-policy-wrc27",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The ATU secretary general addressed the 11th Africa Spectrum Management Conference in Tunis, attended by the director general of Tunisia's Agence Nationale des Fréquences, whose discussions feed the ATU's Third African Preparatory Meeting for WRC-27 (the report is dated 2026-09-10 and gives no other date).", "as_of": "2026-09-10", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

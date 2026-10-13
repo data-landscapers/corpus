@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-27-atu-cpl26-abuja-declaration-sg-election-full-record",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The report says the ATU Conference of Plenipotentiaries transferred its chairmanship from Algeria to Nigeria, with Nigeria's communications minister Bosun Tijani assuming it, at the Seventh Ordinary Session hosted by Nigeria in Abuja on 23-24 July 2026.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The report lists Nigeria among the 25 member states elected to the ATU Administrative Council for the coming four-year period, as one of seven West African seats.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union Administrative Council", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The report says Nigeria hosted the Seventh Ordinary Session of the ATU Conference of Plenipotentiaries in Abuja, at which member states adopted the 2026 Abuja Declaration on Meaningful Connectivity for Africa.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "African Telecommunications Union", "tiers": ""}
+  ],
+  "note": ""
+}

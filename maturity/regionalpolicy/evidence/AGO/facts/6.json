@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-crasa-sadc-third-preparatory-meeting-wrc27",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Angola hosted the five-day Third SADC Preparatory Meeting for the ITU World Radiocommunication Conference 2027 in Luanda, which was concluding on 7 August 2026 as SADC members worked on common positions on spectrum, satellite and broadcasting, according to CRASA.", "as_of": "2026-08-07", "date_precision": "day", "system": "SADC (Third Preparatory Meeting for WRC-27)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

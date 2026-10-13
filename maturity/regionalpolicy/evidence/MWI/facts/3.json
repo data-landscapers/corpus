@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-04-research-ict-africa-crasa-lilongwe-declaration-collaborative-regulation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Research ICT Africa says the G5 Regulatory Collaboration Summit, hosted by CRASA and Malawi's regulator MACRA in Lilongwe on 13-15 April 2026, closed with adoption of the Lilongwe Declaration on Collaborative Regulation, which it calls voluntary and non-binding.", "as_of": "2026-04-15", "date_precision": "day", "system": "Lilongwe Declaration on Collaborative Regulation (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""},
+    {"system": "Lilongwe Declaration on Collaborative Regulation", "country_label": "Lilongwe Declaration", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""},
+    {"system": "ITU G5 framework", "country_label": "", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": ""
+}

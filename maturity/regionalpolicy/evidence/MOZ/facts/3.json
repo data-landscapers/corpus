@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-09-moz-mznews-atdi-x-road-training",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road", "country_label": "X-Road", "class": "other", "platform": "X-Road with Security Servers and MISP2", "owner": "ATDI", "tiers": "ATDI, DNIC, SENAMI, Autoridade Tributaria, INAS, Ministry of Defence, ANAMM, DNRN, BAU"}
+  ],
+  "note": "National data-exchange training led by Estonian experts with World Bank support; no African body or agreement."
+}

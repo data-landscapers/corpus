@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-05-west-african-roaming-mou-lbr-gmb-sle",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Telecom Review Africa reports that Liberia, The Gambia and Sierra Leone signed a roaming MoU, with phased benefits scheduled from 2 May 2025 and, for Liberia-Gambia travellers, 1 July 2025; the signing date is not given, so the 2025-02-05 publication date is used.",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "Liberia-Gambia-Sierra Leone roaming MoU",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia-Gambia-Sierra Leone roaming MoU",
+   "country_label": "",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Effect dates are future to the article and nothing says they began, so no effect fact."
+}

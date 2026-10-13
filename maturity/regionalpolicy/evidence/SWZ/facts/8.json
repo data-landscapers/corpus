@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-07-finguard-swz-smart-africa-gender-impact-assessment-framework",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Eswatini is piloting Smart Africa's Gender Impact Assessment Framework as part of cooperation with Smart Africa, chosen as the first country to pilot the tools after it asked for them, with validation workshops led by the ICT ministry and Deputy Prime Minister's Office; the document gives no event date, so its published date is used.",
+     "as_of": "2026-10-07", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Gender Impact Assessment Framework (Gender Impact Assessment Tool, Gender Management Tool, Gender Audit Tool)", "country_label": "", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": "Ministry of ICT; Deputy Prime Minister's Office"}
+  ],
+  "note": ""
+}

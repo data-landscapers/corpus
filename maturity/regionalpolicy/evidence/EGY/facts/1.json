@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-22-egy-ahramonline-technology-diplomacy-africa-digital-cooperation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Egypt's assistant foreign minister for African affairs said on 22 September 2026 that Egypt contributed to developing the African Union's continental AI strategy and continues to take part in efforts to deepen African cooperation on AI and digital integration.", "as_of": "2026-09-22", "date_precision": "day", "system": "African Union continental AI strategy", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Union continental AI strategy", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "African Business Forum, Alamein", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

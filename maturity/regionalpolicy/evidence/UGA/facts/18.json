@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Uganda, which chairs the cluster, hosted in Kampala a Northern Corridor Integration Projects implementation clusters meeting with Kenya, Rwanda and South Sudan at which a joint account for a regional communications satellite feasibility study was reported open; the source gives no meeting date, so the report date 2026-08-24 is used.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Northern Corridor Integration Projects", "country_label": "NCIP", "class": "cooperation", "platform": "", "owner": "Partner states Uganda, Kenya, Rwanda, South Sudan", "tiers": ""},
+    {"system": "Partner-state-owned communications satellite feasibility study", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

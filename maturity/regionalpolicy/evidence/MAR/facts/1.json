@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-25-morocco-elected-african-telecommunications-union-council",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Morocco's ministry of digital transition says the country was elected to the Administrative Council of the African Telecommunications Union for 2027-2031 at the ATU's 26th Conference of Plenipotentiaries in Abuja (meetings 16-24 July 2026); the document gives no election day, so the month is used.",
+     "as_of": "2026-07", "date_precision": "month", "system": "African Telecommunications Union (ATU) Administrative Council", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union (ATU) Administrative Council", "country_label": "Union Africaine des Telecommunications (UAT)", "class": "cooperation", "platform": "", "owner": "African Telecommunications Union", "tiers": "national: ministry of digital transition, ANRT, ADD"},
+    {"system": "D4SD Hub (Digital for Sustainable Development, with UNDP)", "country_label": "Hub D4SD", "class": "other", "platform": "", "owner": "Morocco with UNDP", "tiers": ""}
+  ],
+  "note": ""
+}

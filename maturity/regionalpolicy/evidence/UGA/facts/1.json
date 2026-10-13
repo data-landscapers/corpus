@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-26-uganda-wins-seat-african-telecommunications-union-administrative-council",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Uganda was elected to a four-year seat on the African Telecommunications Union Administrative Council at the ATU Conference of Plenipotentiaries in Abuja, dated 24 July 2026 by the Uganda Communications Commission.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union Administrative Council", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Ugandan delegation took part in the ATU Conference of Plenipotentiaries (CPL-26) in Abuja and spoke on the Union's 2027-2031 Strategic and Financial Plan and Risk Management Framework, per the Uganda Communications Commission.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

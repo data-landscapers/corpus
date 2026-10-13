@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-15-watra-regional-subsea-resilience-plan",
+  "facts": [],
+  "systems": [
+    {"system": "West Africa Telecommunications Regulators Assembly (WATRA)", "country_label": "WATRA", "class": "cooperation", "platform": "", "owner": "WATRA", "tiers": ""},
+    {"system": "International Advisory Body on Submarine Cable Resilience", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Nigeria's minister co-chairs a global advisory body (not an African body) and the article states no Nigerian membership of WATRA; submarine cable resilience has its own row."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-lso-lestimes-first-to-validate-data-value-creation-blueprint",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Lesotho Times reports Lesotho took part in Smart Africa's Data Value Creation Blueprint programme, holding a national validation workshop in Maseru with Smart Africa and GIZ, and a Smart Africa representative said Lesotho joined the programme after other countries (workshop date not given; published date 2026-09-17 used).", "as_of": "2026-09-17", "date_precision": "day", "system": "Smart Africa Data Value Creation Blueprint programme", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Data Value Creation Blueprint programme", "country_label": "Data Value Creation Blueprint", "class": "cooperation", "platform": "", "owner": "Smart Africa; GIZ", "tiers": ""}
+  ],
+  "note": ""
+}

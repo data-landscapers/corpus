@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-24-bmz-data-policy-workshop-antananarivo",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "A data-policy training session held on 24 September 2025 in Antananarivo, part of a multi-day workshop run by Team Europe's Data Governance in Africa Action, brought together over 50 delegates from SADC, SATA, SAPOA and CRASA to discuss joint approaches to regional cooperation, data-sharing agreements and harmonised cross-border regulation.",
+     "as_of": "2025-09-24", "date_precision": "day", "system": "SADC / CRASA regional workshop", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC", "country_label": "Southern African Development Community", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CRASA", "country_label": "Communications Regulators' Association of Southern Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Team Europe Data Governance in Africa Action", "country_label": "", "class": "other", "platform": "", "owner": "Team Europe / GIZ", "tiers": ""}
+  ],
+  "note": "The workshop was organised by a European donor action, not by an African body; recorded as member only, with Madagascar as the host city."
+}

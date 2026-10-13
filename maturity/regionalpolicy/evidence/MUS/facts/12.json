@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-14-cabinet-highlights-sadc-46th-summit",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Mauritius Cabinet record of 14 August 2026 states that Mauritius has been a member of SADC since 1995 and that the Prime Minister will attend the 46th SADC Summit in South Africa on 17 August 2026; the document does not mention digital policy.", "as_of": "2026-08-14", "date_precision": "day", "system": "SADC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Nairobi Convention Biodiversity Protocol", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "International Data Transfer Agreement with University of Bath", "country_label": "", "class": "other", "platform": "", "owner": "Ministry of Education and Human Resource", "tiers": ""}
+  ],
+  "note": ""
+}

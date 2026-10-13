@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-27-arcep-bj-lancement-free-roaming",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "ARCEP Bénin states a bilateral protocol applying the ECOWAS regional roaming regulation was signed in Dakar on 12 December 2025 between Benin and Senegal (and between Togo and Senegal).", "as_of": "2025-12-12", "date_precision": "day", "system": "Benin-Senegal-Togo free roaming protocol", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "ARCEP Bénin, ARCEP Togo and ARTP Senegal officially launched free roaming between the three countries in Lomé on 24 April 2026; data in roaming fell from 10,000 to 2 FCFA per MB and call receipt is free for the first 30 days.", "as_of": "2026-04-24", "date_precision": "day", "system": "Benin-Senegal-Togo free roaming protocol", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Benin-Senegal-Togo free roaming protocol", "country_label": "Free roaming", "class": "cooperation", "platform": "", "owner": "ARCEP Bénin, ARCEP Togo, ARTP Senegal", "tiers": "national"},
+    {"system": "ECOWAS regional roaming regulation", "country_label": "", "class": "cooperation", "platform": "", "owner": "ECOWAS", "tiers": ""}
+  ],
+  "note": ""
+}

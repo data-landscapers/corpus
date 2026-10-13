@@ -1,0 +1,11 @@
+{
+  "slug": "2022-09-08-numerique-gouv-bj-sada-benin-lancement",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "On 2022-09-08 Benin's Minister of Digital Affairs and the Director General of the Smart Africa Alliance signed a memorandum (protocole d'accord) launching the Smart Africa Digital Academy (SADA) in Benin; the ministry calls Benin an active member of the Alliance.", "as_of": "2022-09-08", "date_precision": "day", "system": "Smart Africa Digital Academy (SADA)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "The article of 2022-09-08 states that the first SADA training courses in Benin, on cybersecurity and artificial intelligence, had already started.", "as_of": "2022-09-08", "date_precision": "day", "system": "Smart Africa Digital Academy (SADA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Digital Academy (SADA)", "country_label": "SADA Benin", "class": "cooperation", "platform": "", "owner": "Smart Africa Alliance with Benin's Ministry of Digital Affairs", "tiers": ""}
+  ],
+  "note": ""
+}

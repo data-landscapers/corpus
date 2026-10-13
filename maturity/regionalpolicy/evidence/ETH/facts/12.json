@@ -1,0 +1,36 @@
+{
+  "slug": "2003-12-07-aricea-objectives-achievements-challenges-opportunities",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "active",
+      "fact": "The Ethiopian Telecommunications Agency held the chairmanship of the ARICEA Executive Committee, per ARICEA's own December 2003 presentation (no event date given, so the document's published date is used).",
+      "as_of": "2003-12-07",
+      "date_precision": "day",
+      "system": "ARICEA",
+      "class": "cooperation"
+    },
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "member",
+      "fact": "Ethiopia is listed among COMESA's member states, the body under whose auspices ARICEA was launched and which adopted an ICT policy and model ICT bill in March 2003; dated by the document's published date.",
+      "as_of": "2003-12-07",
+      "date_precision": "day",
+      "system": "COMESA ICT Policy and Regulatory Programme",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ARICEA",
+      "country_label": "Association of Regulators of Information and Communications for Eastern and Southern Africa",
+      "class": "cooperation",
+      "platform": "",
+      "owner": "COMESA (interim secretariat)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

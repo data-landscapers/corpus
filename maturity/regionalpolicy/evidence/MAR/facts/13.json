@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-28 Building the same road twice",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The article says the AfCFTA Secretariat, an African Union body, announced in May 2026 an ADAPT cross-border data-exchange pilot with Kenya, Morocco and Nigeria, naming Morocco as a pilot country; no signing is stated.", "as_of": "2026-05", "date_precision": "month", "system": "AfCFTA Secretariat ADAPT pilot", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ADAPT (Africa Digital Access and Public Infrastructure for Trade)", "country_label": "ADAPT", "class": "cooperation", "platform": "TWIN on IOTA", "owner": "AfCFTA Secretariat", "tiers": "Pilot with Kenya, Morocco and Nigeria"},
+    {"system": "Smart Africa Data Exchange (SADX)", "country_label": "SADX", "class": "other", "platform": "X-Road", "owner": "Smart Africa", "tiers": "Pilot with Benin, Ghana and Rwanda; Morocco not named"}
+  ],
+  "note": ""
+}

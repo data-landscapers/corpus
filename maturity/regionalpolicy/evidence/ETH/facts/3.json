@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-23-eac-igad-eardip-regional-digital-integration-workshop",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "member",
+      "fact": "Ethiopia sent representatives to the EAC and IGAD Regional Coordination Workshop on Accelerating Regional Digital Integration and Connectivity in Nairobi, 22-24 September 2026, as an EARDIP-implementing country.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "EARDIP",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EARDIP",
+      "country_label": "Eastern Africa Regional Digital Integration Project",
+      "class": "cooperation",
+      "platform": "",
+      "owner": "East African Community, financed by the World Bank",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

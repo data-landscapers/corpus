@@ -1,0 +1,42 @@
+{
+  "slug": "2026-08-18-sanews-sadc-borders-gateways-digital-systems",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "active",
+      "fact": "South Africa hosted and chaired the 46th Ordinary SADC Summit in eThekwini, closing it on 17 August 2026 with a chairship priority of One-Stop Border Posts and digitised border systems; the article is dated 18 August.",
+      "as_of": "2026-08-17",
+      "date_precision": "day",
+      "system": "SADC",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Corridor Trip Monitoring System (CTMS)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "SADC and tripartite partners",
+      "tiers": ""
+    },
+    {
+      "system": "Cross-Easy",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Cross-Border Road Transport Agency",
+      "tiers": ""
+    },
+    {
+      "system": "Electronic Travel Authorisation",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Department of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-angola-mozambique-space-and-digital-cooperation-mous",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Angola and Mozambique signed a memorandum of understanding covering communications, ICT, information and meteorology, with technical and institutional cooperation and exchange of expertise, on the sidelines of Mozambique's 5th National Communications Conference in Maputo; the article is dated 23 June 2026 and says Monday.", "as_of": "2026-06-22", "date_precision": "day", "system": "Angola-Mozambique memorandum of understanding on communications and ICT", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Angola-Mozambique memorandum of understanding on space cooperation", "country_label": "", "class": "other", "platform": "", "owner": "MINTTICS Angola; Mozambique Ministry of Communications and Digital Transformation", "tiers": "national"}
+  ],
+  "note": ""
+}

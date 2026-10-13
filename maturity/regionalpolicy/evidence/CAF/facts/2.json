@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-08-ipris-9th-cohort-luxembourg-watra-artac",
+  "facts": [],
+  "systems": [
+    {"system": "iPRIS (ICT Policy and Regulation - Institutional Strengthening)", "country_label": "Central African Republic", "class": "other", "platform": "", "owner": "Stockholm University SPIDER", "tiers": "national regulator"},
+    {"system": "ARTAC", "country_label": "Central African Republic", "class": "cooperation", "platform": "", "owner": "", "tiers": "regional regulators' association"},
+    {"system": "WATRA", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": "regional regulators' association"}
+  ],
+  "note": "CAR regulators attended an iPRIS peer exchange in Luxembourg (6-23 Sep 2026), a Swedish-run project with European regulators, not a meeting of an African body; ARTAC took part but is not said to have convened it."
+}

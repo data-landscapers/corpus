@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-regionalpolicy.md — the twenty-seventh maturity study: the country's part in regional digital policy, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: regionalpolicy
@@ -53,14 +53,15 @@ Asked in order. Each is answered with a date and a link.
 - **A statement that the country stands outside counts for three years**, and gives way to a dated source naming a membership or an agreement.
 - **A suspension from one body is not stage 1** where the country is a member of another or has signed an agreement since. It is named in the summary.
 - **Chairing, hosting or holding office is a yes to question 2 and no more.** It shows an active part, not a thing delivered.
-- **An agreement between two African governments counts as one made in a regional body does.**
 - **An agreement approved by one side only, or awaiting signature, is not a yes to question 2.**
 - **A regional strategy, declaration or guideline that names the country as bound, with no act of the country's own, is a yes to question 1 only.**
 - **A national plan that says it follows a regional one is not a yes to question 3.** The question asks for a dated act that a source ties to what was agreed.
 - **A donor's regional programme counts where an African body runs it**, and then as that body's: joining it is a yes to question 1, a financing agreement signed under it a yes to question 2.
+- **A declaration that lists the country among many signatories, with no act of its own reported, is a yes to question 1 only** *(added in the run, for the Africa Declaration on Artificial Intelligence and its 49 signatories)*.
+- **A body created by signature, its statutes and work programme still to be adopted, is not yet a joint body set up** *(added in the run, for the Council of Sahel Regulators)*. A joint commission that has met is.
+- **Projects agreed by a joint body are a statement of intent, not a decision in use** *(added in the run, for Algeria and Tunisia)*.
+- **A body of countries that share a language is `other`** *(added in the run)*, as the Francophonie is.
 - **What an agreement covers is taken from what a source says of it**, never from reading its text for the purpose.
-- **How much the cooperation has achieved is not judged.** A reported criticism is noted.
-- **Changes from the row as it stands.** Its stage 4 asks for regional rules carried out in more than one area with reporting to the regional body, and its stage 5 for a national strategy stating its alignment, which no one story can state.
 
 `study.json` holds this as two aspects: `part` (`active`, `member`, `none`) for questions 1 and 2, and `effect` (`in-use`, `in-effect`, `none`) for 3 and 4.
 
@@ -70,10 +71,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 
 ## 5. What the run reads
 
-- **Read first**: **353 news stories about regional digital cooperation filed to a country**, covering 52 countries, 247 of the 257 distinct stories from the last three years. No study has read them. Equatorial Guinea and Sudan have none.
-- **Then, for every country those leave short of an answer**: the news stories its current cell cites, 209 across 54 countries.
-- **Then, only for a country still short of an answer**: one call of the regional stories that name it, from 55 stories shared across countries.
-- **Not read**: treaties, strategies, communiqués at length and reports. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Read**: the 353 news stories about regional digital cooperation filed to a country; then, for the 22 countries left at stage 2 or without evidence, the stories their current cells cite and, for the eight with nothing, one call of regional stories.
+- **Not read**: long texts and reports. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -82,10 +81,22 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 127 calls in two fan-outs, 285 facts.
+- [x] **D3. Staged** as at 2026-09-30: 5: 5, 4: 10, 3: 23, 2: 15, none at 1, none unplaced, one without evidence; ten rows revalued or removed and two added (`corrections.csv`); agreement 17 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Burundi, Kenya, Rwanda, Tanzania and Uganda, on the East African regulators' published 2025 figures of calls under the shared roaming area.
+- **Stage 4**: a roaming cut in effect for Benin, Botswana, Ghana, The Gambia, Liberia, Namibia, Senegal and Togo; the joint commission for Algeria and Tunisia.
+- **Burkina Faso, Mali and Niger are stage 3** on the Sahel regulators' convention.
+- **Nigeria is stage 3**: a national forum to plan for the continental digital trade protocol is preparation.
+- **South Africa is stage 2**: hosting the regional community's general summit is not a digital policy meeting.
+- **Egypt and Libya are stage 2**: their Arab roles, and Libya's audit roadmap with Tunisia, are noted.
+- **Eritrea is without evidence.**
+- **The second reading differed** on Algeria, Equatorial Guinea and Sudan.
+- **Tokens: about 43 million at the map**, ceiling 50 million.
 
 ## Boundary
 

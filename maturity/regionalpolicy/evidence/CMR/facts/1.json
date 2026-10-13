@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "A delegation of Cameroon's Telecommunications Regulatory Board, led by its Director General, took part in the 10th Ordinary Session of ARTAC, the Conference of Central African Telecommunications Regulators, held in Kinshasa, which adopted a resolution on free roaming across Central Africa by 30 June 2026; the document names no signature by Cameroon.",
+     "as_of": "2026-02-24", "date_precision": "day", "system": "ARTAC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ARTAC (Conference of Central African Telecommunications Regulators)", "country_label": "ARTAC", "class": "cooperation", "platform": "", "owner": "Central African telecommunications regulators", "tiers": ""}
+  ],
+  "note": ""
+}

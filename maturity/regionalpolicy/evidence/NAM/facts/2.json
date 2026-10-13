@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-06-botswana-and-namibia-to-sign-ict-cooperation-agreement",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Botswana's ministry says Namibia was among the first countries in the region to significantly reduce roaming charges with Botswana; the article gives no date for the reduction, so the published date is used.", "as_of": "2026-08-06", "date_precision": "day", "system": "Namibia-Botswana roaming charge reduction", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Namibia-Botswana ICT cooperation MoU", "country_label": "ICT MoU", "class": "cooperation", "platform": "", "owner": "Namibia MICT and Botswana Ministry of Communications and Innovation", "tiers": ""},
+    {"system": "Namibia-Botswana roaming charge reduction", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The MoU is described as about to be signed; the signing is not stated as done, so no part fact from this document."
+}

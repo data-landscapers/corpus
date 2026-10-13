@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-techafricanews-senegal-gambia-digital-cooperation",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Senegal and the Gambia are stated to have a signed MoU covering telecommunications and digital development; no signing date is given, so the published date is used, and the minister's Banjul visit reviewed its implementation roadmap.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "country_label": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Governments of Senegal and the Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": "The visit itself is not an active part; implementation was still being planned."
+}

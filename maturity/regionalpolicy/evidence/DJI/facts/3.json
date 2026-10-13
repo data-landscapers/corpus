@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-21-unesco-east-africa-data-governance-workshop-nairobi",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "UNESCO states that policymakers and regulators from Djibouti were among eight countries at the East Africa Regional Data Governance Workshop in Nairobi, 9 to 11 June 2026, co-organized by Smart Africa and the East African Community with IGAD.",
+     "as_of": "2026-06-09", "date_precision": "day",
+     "system": "East Africa Regional Data Governance Workshop (Smart Africa, EAC, IGAD)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "East African Community", "country_label": "EAC", "class": "cooperation", "platform": "", "owner": "EAC", "tiers": ""},
+    {"system": "IGAD", "country_label": "IGAD", "class": "cooperation", "platform": "", "owner": "IGAD", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "cooperation",
+   "stage": "5",
+   "part": "active",
+   "effect": "in-use",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-004;BDI-002",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
+  }
+ ]
+}

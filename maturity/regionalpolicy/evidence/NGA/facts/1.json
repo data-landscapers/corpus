@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-17-techafricanews-chad-nigeria-digital-cooperation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Nigeria's and Chad's communications ministers initialled a final communique setting out a digital cooperation framework (telecoms, government digitalisation, AI) after talks in N'Djamena; the source says initialled, not signed.", "as_of": "2026-09-16", "date_precision": "day", "system": "Chad-Nigeria digital cooperation communique", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "BRIDGE project", "country_label": "BRIDGE", "class": "other", "platform": "", "owner": "Nigeria", "tiers": ""},
+    {"system": "African Tongues and Languages at Scale initiative", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

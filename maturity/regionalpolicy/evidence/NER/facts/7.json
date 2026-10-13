@@ -1,0 +1,14 @@
+{
+  "slug": "2025-07-28-hapdp-president-interview-loi-2022-59-lesahel",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Niger's data protection authority HAPDP chairs the African Network of Personal Data Protection Authorities (RAPDP) until 2026, presiding over its monthly bureau meetings and annual general assemblies; the interview gives no election date, so the date is its publication, 2025-07-28.", "as_of": "2025-07-28", "date_precision": "day", "system": "Reseau Africain des Autorites de Protection des Donnees Personnelles (RAPDP)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "HAPDP says a concertation framework was created between it and the data protection authorities of Burkina Faso and Mali within the AES, on its own initiative; the interview gives no date, so the date is its publication, 2025-07-28.", "as_of": "2025-07-28", "date_precision": "day", "system": "AES data protection authorities concertation framework", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Reseau Africain des Autorites de Protection des Donnees Personnelles (RAPDP)", "country_label": "RAPDP", "class": "cooperation", "platform": "", "owner": "", "tiers": "African data protection authorities"},
+    {"system": "AES data protection authorities concertation framework", "country_label": "cadre de concertation AES", "class": "cooperation", "platform": "", "owner": "HAPDP Niger with Burkina Faso and Mali authorities", "tiers": ""},
+    {"system": "African Union Convention on Cyber Security and Personal Data Protection", "country_label": "Convention de l'Union Africaine sur la cybersecurite et la protection des donnees personnelles", "class": "other", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "Global Privacy Assembly", "country_label": "Global Privacy Assembly", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

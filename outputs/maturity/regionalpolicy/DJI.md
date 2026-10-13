@@ -1,0 +1,11 @@
+# Djibouti
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Djibouti [hosted the sixteenth African Union Private Sector Forum on 8 to 10 December 2025, which adopted the Djibouti Declaration on the digital economy and intra-African trade](<https://au.int/en/pressreleases/20251211/16th-psf-concluded-strong-assertion-digital-economy-transformation>). It [joined the Eastern Africa regional digital integration project](<https://www.lanation.dj/transition-numerique-les-parties-prenantes-mobilisees-autour-des-projets-dfn-et-eardip/>), on which [its broadband strategy partly rests](<https://www.adi.dj/article/138742>), and its officials [attended the East Africa regional data governance workshop in Nairobi in June 2026](<https://www.unesco.org/en/articles/strengthening-data-governance-east-africa-regional-workshop-concludes-nairobi>).
+
+**What was agreed put into effect and in use.** The nearest held fact is [the regional integration project](<https://www.lanation.dj/transition-numerique-les-parties-prenantes-mobilisees-autour-des-projets-dfn-et-eardip/>), which is to lay terrestrial fibre along the northern road corridor; the fibre is not reported as built or lit. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [Huawei](<https://adi.dj/article/138901>); [Djibouti-United States digital cooperation](<https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/>); [Eastern Africa Regional Digital Integration Project (EARDIP)](<https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development>); [ITU](<https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development>); [Djibouti-Romania digital cooperation talks](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-la-roumanie-explorent-une-cooperation-numerique-prometteuse>); [Djibouti Fondement Numerique (DFN)](<https://www.adi.dj/article/138742>).
+
+***Not held***. No source held says a thing the country agreed has been put into effect.

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-18-atu-itu-pp26-space-regulation-fournier",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Abidjan hosted the African Telecommunications Union's final African preparatory meeting for the ITU Plenipotentiary Conference 2026, which concluded around 18 September 2026; the article gives no exact meeting date, so the month is used.", "as_of": "2026-09", "date_precision": "month", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU", "tiers": ""},
+    {"system": "ITU Plenipotentiary Conference 2026", "country_label": "", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": ""
+}

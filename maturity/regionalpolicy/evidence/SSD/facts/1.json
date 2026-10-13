@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-12-south-sudan-atu-digital-infrastructure-collaboration",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "South Sudan's ICT minister visited the African Telecommunications Union headquarters in Nairobi and pledged deeper collaboration on digital infrastructure, capacity building and standardisation; ATU welcomed it as collaboration among its member states (a visit and pledge, no agreement signed).", "as_of": "2026-08-12", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

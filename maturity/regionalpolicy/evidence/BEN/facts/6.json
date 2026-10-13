@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-21 Smart Africa - ToR for Benin National Data Strategy",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Smart Africa Secretariat published terms of reference on 2025-11-21 to recruit a consultancy to develop Benin's national data strategy under its Smart Africa-GIZ data governance workstream, which shows Benin taking part in a Smart Africa workstream; the document does not state membership or any signed agreement.", "as_of": "2025-11-21", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa-GIZ Data Governance workstream", "country_label": "", "class": "cooperation", "platform": "", "owner": "Smart Africa Secretariat with GIZ", "tiers": ""}
+  ],
+  "note": ""
+}

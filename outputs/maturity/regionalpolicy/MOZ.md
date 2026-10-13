@@ -1,0 +1,11 @@
+# Mozambique
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Mozambique and Angola [signed a memorandum of understanding on cooperation in communications, information technology, information and meteorology in June 2026](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>). Mozambique [took part in, and held in Maputo, a data governance workshop for Portuguese-speaking African countries on 8 to 10 December 2025](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>). Its regulator [hosted in Maputo on 6 October 2026 a workshop for a committee of the Communications Regulators' Association of Southern Africa](<https://mznews.co.mz/en/incm-acolhe-workshop-sobre-tecnologias-de-satelite/>), after the date of this assessment.
+
+**What was agreed put into effect and in use.** The nearest held fact is [the memorandum with Angola](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>), which provides for technical and institutional cooperation and exchanges; nothing is reported as started under it. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [ANGOSAT-2 / Boane Earth Station](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>); [UNESCO Data Governance Toolkit (Portuguese edition)](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>); [Carta de Maputo (3rd Forum Lusofono da Governacao da Internet)](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>); [X-Road](<https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/>).
+
+***Not held***. No source held says a thing the country agreed has been put into effect.

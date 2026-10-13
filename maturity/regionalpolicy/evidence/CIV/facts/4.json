@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-30-europe-east-africa-dpi-session-estonia-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Minister Ouattara said Côte d'Ivoire is strengthening collaboration within WAEMU, ECOWAS and the Smart Africa Alliance, as reported on 30 May 2026 (the article's date, none given for the statement).", "as_of": "2026-05-30", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Alliance", "country_label": "Smart Africa Alliance", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "ECOWAS", "country_label": "", "class": "cooperation", "platform": "", "owner": "ECOWAS", "tiers": ""},
+    {"system": "WAEMU", "country_label": "", "class": "cooperation", "platform": "", "owner": "WAEMU", "tiers": ""},
+    {"system": "Europe-East Africa DPI session, Tallinn", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

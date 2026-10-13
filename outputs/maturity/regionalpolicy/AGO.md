@@ -1,0 +1,11 @@
+# Angola
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Angola [signed a memorandum of understanding with Mozambique in June 2026](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>) covering communications, information technology, information and meteorology. In August 2026 it [hosted in Luanda the third preparatory meeting of the Southern African Development Community for the 2027 World Radiocommunication Conference](<https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/>), [a five-day meeting of the region's member states](<https://www.linkedin.com/posts/crasa-secretariat-communications-regulators-association-of-southern-africa_sadc-crasa-wrc27-activity-7491456518320721920-81Dp>).
+
+**What was agreed put into effect and in use.** The nearest held fact is [the memorandum with Mozambique](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>), which provides for technical and institutional cooperation and is an agreement, not a thing delivered. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [UNESCO Data Governance Toolkit workshop, Lusophone Africa (Maputo)](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>); [Fórum Lusófono da Governação da Internet](<https://estadonews.net/2026/09/25/forum-lusofono-da-governacao-da-internet-encerra-em-luanda-com-foco-na-cooperacao-digital/>); [Angola-Mozambique memorandum of understanding on space cooperation](<https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity>); [APD-ANPD memorandum of understanding (Angola-Brazil)](<https://www.rapdp.org/en/node/231>); [ITU World Radiocommunication Conference](<https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/>).
+
+***Not held***. No source held says a thing the country agreed has been put into effect.

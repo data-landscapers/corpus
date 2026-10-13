@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-09-au-stc-cict-6th-ordinary-session-libreville",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The African Union announced on 9 October 2026 that the 6th Ordinary Session of its Specialised Technical Committee on Communication and ICT will be held in Libreville, Gabon, on 26-29 October 2026 (a forward notice; the meeting had not yet taken place), with ministers of AU member states attending; no date is given for the event announcement, so the published date is used.", "as_of": "2026-10-09", "date_precision": "day", "system": "African Union Specialised Technical Committee on Communication and ICT", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Union Specialised Technical Committee on Communication and ICT (STC-CICT)", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""},
+    {"system": "African Telecommunications Union", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union specialised institution", "tiers": ""},
+    {"system": "Smart Africa", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

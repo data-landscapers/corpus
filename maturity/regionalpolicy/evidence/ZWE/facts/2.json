@@ -1,0 +1,20 @@
+{
+  "slug": "2026-08-16-zimbabwe-sadc-harare-data-governance-workshop",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Spiked Media reports Zimbabwe's ICT ministry hosted in Harare a three-day workshop on data policy harmonisation for Southern African governments, co-organised by Smart Africa Alliance, UNESCO and the World Bank; the article gives no day for the event and is dated 2026-08-16.",
+     "as_of": "2026-08", "date_precision": "month", "system": "Smart Africa Alliance", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Spiked Media reports Zimbabwe's ICT minister currently chairs Smart Africa's Council of ICT Ministers; no date for taking the chair is given, so the article's publication date is used.",
+     "as_of": "2026-08-16", "date_precision": "day", "system": "Smart Africa Council of ICT Ministers", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Spiked Media states Smart Africa is an alliance of 42 member states and that Zimbabwe was the 26th to join; the date of joining is not given, so the publication date is used.",
+     "as_of": "2026-08-16", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Alliance", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SADC Regional Data Strategy", "country_label": "SADC Regional Data Strategy", "class": "cooperation", "platform": "", "owner": "SADC", "tiers": ""},
+    {"system": "UNESCO Data Governance Toolkit", "country_label": "", "class": "other", "platform": "", "owner": "UNESCO", "tiers": ""}
+  ],
+  "note": ""
+}

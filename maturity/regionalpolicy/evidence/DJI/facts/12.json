@@ -1,0 +1,34 @@
+{
+  "slug": "2026-07-08-adi-djibouti-ambitions-geneve-ia-connectivite",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "member",
+      "fact": "ADI reports that Djibouti's broadband strategy rests on two projects, one being the regional Eastern Africa digital integration project (EARDIP), which aims to make the country a major connection point for the sub-region; the ministers' Geneva remarks were reported 8 July 2026.",
+      "as_of": "2026-07-08",
+      "date_precision": "day",
+      "system": "Eastern Africa Regional Digital Integration Project (EARDIP)",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eastern Africa Regional Digital Integration Project (EARDIP)",
+      "country_label": "projet regional d'integration numerique en Afrique de l'Est (EARDIP)",
+      "class": "cooperation",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Djibouti Fondement Numerique (DFN)",
+      "country_label": "Djibouti Fondement Numerique",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

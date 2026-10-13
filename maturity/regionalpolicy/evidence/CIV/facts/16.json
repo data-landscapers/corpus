@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-15-civ-aip-position-africaine-unie-numerique-pp26",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Cote d'Ivoire's digital minister opened the 4th African preparatory meeting for ITU PP-26 (APM26-4), held in Abidjan under the African Telecommunications Union, and asked ATU member states to back its ITU Council candidacy for 2027-2030; the ATU secretary-general spoke at the meeting.",
+     "as_of": "2026-09-15", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

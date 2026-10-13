@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-24-auda-nepad-island-economies-programme-launch",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "AUDA-NEPAD launched its Programme for African Developing Island Economies on 24 July 2026 at the STC-TTIM ministerial segment in Abidjan, naming Cabo Verde among the seven island states that join it, with digital transformation as one of six pillars on a 2026-2031 roadmap.",
+     "as_of": "2026-07-24", "date_precision": "day",
+     "system": "AUDA-NEPAD Programme for African Developing Island Economies", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AUDA-NEPAD Programme for African Developing Island Economies", "country_label": "", "class": "cooperation", "platform": "", "owner": "AUDA-NEPAD", "tiers": ""}
+  ],
+  "note": ""
+}

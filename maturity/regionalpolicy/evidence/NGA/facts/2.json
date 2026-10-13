@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-05-afcfta-digital-trade-forum-lagos-oduwole-mene",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The second AfCFTA Digital Trade Forum, on implementing the AfCFTA Protocol on Digital Trade, was held in Lagos on 1-2 July 2026 with Nigeria's trade minister and the AfCFTA Secretary-General speaking (event date from the ingest note; the article was published 2026-08-05).", "as_of": "2026-07-01", "date_precision": "day", "system": "AfCFTA Digital Trade Forum", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Nigeria's trade minister says Nigeria is a co-champion of the AfCFTA Protocol on Digital Trade and leads the Digital Trade Regulators' Working Group harmonising market entry and licensing across participating countries; stated at the July 2026 forum, article published 2026-08-05.", "as_of": "2026-07", "date_precision": "month", "system": "AfCFTA Protocol on Digital Trade", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Africa Digital Access and Public Infrastructure for Trade (ADAPT)", "country_label": "ADAPT", "class": "other", "platform": "", "owner": "AfCFTA Secretariat", "tiers": "piloted in Nigeria, Kenya and Morocco"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-25-atu-abuja-declaration-meaningful-connectivity-cpl26-thesun",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Delegates at the ATU Conference of Plenipotentiaries (CPL-26, Abuja, closed 24 July 2026) elected Engr. Kezias Kazuba Mwale of Zambia as the Union's next Secretary-General with 21 of 34 votes in the final round, taking office on 1 January 2027 for four years.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "2026 Abuja Declaration on Meaningful Connectivity", "country_label": "", "class": "other", "platform": "", "owner": "ATU Member States", "tiers": ""}
+  ],
+  "note": ""
+}

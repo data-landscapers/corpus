@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-07-digital-divide-persists-east-africa-tech-integration",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Burundi Times reports that an EAC and IGAD joint workshop on the Eastern Africa Regional Digital Integration Project in Nairobi treated Burundi among the region's countries, rating its data protection systems 'nascent' alongside Somalia, South Sudan and the DRC.", "as_of": "2026-05-07", "date_precision": "day", "system": "Eastern Africa Regional Digital Integration Project (EAC and IGAD)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "country_label": "", "class": "cooperation", "platform": "", "owner": "EAC and IGAD", "tiers": ""}
+  ],
+  "note": ""
+}

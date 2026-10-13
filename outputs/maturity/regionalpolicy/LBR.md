@@ -1,0 +1,11 @@
+# Liberia
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Liberia, Ghana and Sierra Leone [signed their entry into the West African free roaming agreement at a ceremony in Monrovia](<https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/>), reported in February 2026, after [a roaming memorandum with The Gambia and Sierra Leone in 2025](<https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/>). Liberia [had its arrears to the African Telecommunications Union waived in July 2026 and regained full voting rights](<https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/>). It is [one of three countries in the second West Africa regional digital integration programme](<https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access>).
+
+**What was agreed put into effect and in use.** [Liberia and Sierra Leone launched a free roaming arrangement in August 2025](<https://allafrica.com/stories/202609040182.html>), letting subscribers travelling between them communicate at local rates; it has since been extended to other West African countries. Published figures of its use, a decision of a joint body or a review of what was delivered in the last three years are not recorded.
+
+***Noted, not assessed***. [Revenue Collection Dashboard](<https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation>); [E-Procurement platform](<https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/>); [Western Africa Regional Digital Integration Program (WARDIP)](<https://techafricanews.com/2026/03/13/world-bank-launches-137m-initiative-to-expand-broadband-and-digital-jobs-in-west-africa>).
+
+***Not held***. No source held gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.

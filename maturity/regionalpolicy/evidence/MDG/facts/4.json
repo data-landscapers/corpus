@@ -1,0 +1,12 @@
+{
+  "slug": "2020-08-27-national-igf-madagasikara-2020-report",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "In the week of 27 July 2020 the African Union's first online school on Internet governance, run with PRIDA to support countries such as Madagascar, was given to the 17-member organising committee of Madagascar's national Internet Governance Forum; the AU Commission/PRIDA also spoke at the forum's opening and closing on 27-28 August 2020.",
+     "as_of": "2020-07", "date_precision": "month", "system": "PRIDA", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "PRIDA", "country_label": "PRIDA", "class": "cooperation", "platform": "", "owner": "African Union Commission", "tiers": ""}
+  ],
+  "note": ""
+}

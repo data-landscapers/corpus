@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-05-namibia-digital-trade-afcfta-protocol-review",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Namibia held a validation workshop in Windhoek on its AfCFTA Digital Trade Regulatory Assessment against the Protocol on Digital Trade, with AfCFTA Secretariat technical assistance, reported on the published date; no workshop dates or findings are given.", "as_of": "2026-10-05", "date_precision": "day", "system": "AfCFTA Protocol on Digital Trade", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Protocol on Digital Trade", "country_label": "Protocol on Digital Trade", "class": "cooperation", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-14-xaf-aip-apm26-4-abidjan-positions-africaines-pp26-uit",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "A forward notice dated 14 September 2026 says Cote d'Ivoire hosts the 4th and last African preparatory meeting for ITU PP-26 (APM26-4) in Abidjan on 15-17 September 2026, organised under the African Telecommunications Union.",
+     "as_of": "2026-09-15", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

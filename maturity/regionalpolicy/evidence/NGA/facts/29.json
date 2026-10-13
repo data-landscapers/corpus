@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-30-nigeria-inaugurates-adapt-forum-digital-trade-afcfta",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Nigeria was selected with Kenya and Morocco as one of three pilot countries for the AfCFTA secretariat's ADAPT digital trade framework, and is described by the national AfCFTA coordinator as co-champion of the AfCFTA protocol on digital trade; the document is dated 2026-07-30 and the selection date is not given.", "as_of": "2026-07-30", "date_precision": "day", "system": "AfCFTA Africa Digital Access and Public Infrastructure for Trade (ADAPT)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Nigeria's AfCFTA coordination office inaugurated the ADAPT Country Implementation Forum in Abuja 'yesterday' relative to the 2026-07-30 report, tasked with a roadmap and an inventory of regulatory gaps for digital trade.", "as_of": "2026-07-29", "date_precision": "day", "system": "AfCFTA Africa Digital Access and Public Infrastructure for Trade (ADAPT)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Africa Digital Access and Public Infrastructure for Trade (ADAPT)", "country_label": "ADAPT Country Implementation Forum", "class": "cooperation", "platform": "", "owner": "Nigeria AfCFTA Coordination Office; AfCFTA Secretariat with Tony Blair Institute", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-17-natca-guinea-free-roaming",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Sierra Leone's regulator NatCA and Guinea signed a protocol introducing free mobile roaming between the two countries at the 15th Session of the African Council of Regulators (CAR-15), held alongside the Transform Africa 2025 Summit; the source is dated 2025-11-17 and gives no exact signing day.",
+     "as_of": "2025-11", "date_precision": "month", "system": "Sierra Leone-Guinea free roaming protocol (CAR-15 / Smart Africa)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Sierra Leone-Guinea free roaming protocol", "country_label": "", "class": "cooperation", "platform": "", "owner": "NatCA (Sierra Leone) and Guinea's regulator, with mobile operators", "tiers": ""},
+    {"system": "African Council of Regulators (CAR)", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Guinea-Sierra Leone national backbone interconnection agreement (November 2024)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Roaming is expected only once operators activate it; the source gives no activation date, so no effect fact. The photo caption naming Guinea's ARPT head as CAR president is ambiguous and is not recorded as an office."
+}

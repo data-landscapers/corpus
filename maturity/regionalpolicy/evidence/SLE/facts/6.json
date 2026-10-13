@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-05-west-african-roaming-mou-lbr-gmb-sle",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Liberia, The Gambia and Sierra Leone signed a memorandum of understanding on roaming, led by Liberia's telecom authority with Sierra Leone's National Communications Authority and The Gambia's regulator; the document gives no signing date, so the published date 2025-02-05 is used.", "as_of": "2025-02-05", "date_precision": "day", "system": "Liberia-Gambia-Sierra Leone roaming MoU", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Liberia-Gambia-Sierra Leone roaming MoU", "country_label": "Roaming Agreement MoU", "class": "cooperation", "platform": "", "owner": "Liberia Telecommunication Authority, National Communications Authority (Sierra Leone), Public Utilities Regulatory Authority (The Gambia)", "tiers": "national regulators"},
+    {"system": "ECOWAS roaming regulations", "country_label": "", "class": "other", "platform": "", "owner": "ECOWAS", "tiers": ""}
+  ],
+  "note": "Start of the Sierra Leone-Liberia phase is stated as a future date (2 May 2025), so no effect fact."
+}

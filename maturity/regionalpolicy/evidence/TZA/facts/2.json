@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-06-eardip-partner-states-reaffirm-commitment",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EAC Secretariat reports that the 3rd Project Steering Committee of the Eastern Africa Regional Digital Integration Project, held in Nairobi on 5-6 May 2026, brought together members from all eight EAC Partner States, Tanzania among them, who reaffirmed their commitment to regional digital integration.", "as_of": "2026-05-06", "date_precision": "day", "system": "Eastern Africa Regional Digital Integration Project (EARDIP), EAC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "country_label": "EARDIP", "class": "cooperation", "platform": "", "owner": "EAC Secretariat", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Smart Africa's account says Guinea hosted the 7th Transform Africa Summit in Conakry in November 2025 (closing 19 November), with over 7,000 participants and 45 ministers; the document gives no single date for the event as a whole.", "as_of": "2025-11", "date_precision": "month", "system": "Smart Africa (Transform Africa Summit 2025)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa Alliance", "tiers": ""},
+    {"system": "TELEMO", "country_label": "TELEMO", "class": "other", "platform": "", "owner": "Guinea, from a Guinea-Rwanda South-South partnership", "tiers": "national e-procurement"},
+    {"system": "Guinea backbone interconnection with Mali, Côte d'Ivoire and Sierra Leone", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

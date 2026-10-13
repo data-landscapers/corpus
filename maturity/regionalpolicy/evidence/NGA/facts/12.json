@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-04-atu-invitation-cpl-26-related-meetings",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "The ATU Secretary-General's circular of 2026-06-04 states that the Federal Government of Nigeria accepted to host the 7th ATU Conference of Plenipotentiaries in Abuja on 23-24 July 2026, with an Administrative Council special session (16-17 July) and a regional preparatory meeting for ITU PP-26 (18 July) before it; the meeting is scheduled, not yet held, at the document's date.",
+     "as_of": "2026-06-04", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EACO statistics report lists South Sudan as one of the seven member states of the East African Communications Organisation, with its regulator NCA submitting 2024-2025 data (EACO working group 1 coordinates the report).", "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation (EACO)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "East African Communications Organisation (EACO)", "country_label": "EACO", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "One Network Area (ONA) regional roaming framework", "country_label": "ONA", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-04-lesotho-ramashamole-sadc-cyber-drill",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Lesotho hosted the sixth SADC countries cyber drill and Africa-CERT meeting in Maseru, opened by the Principal Secretary of the ICT ministry, with the SADC Secretariat represented.", "as_of": "2025-11-04", "date_precision": "day", "system": "SADC", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Principal Secretary told SADC delegates that Lesotho is now part of the Smart Africa Alliance.", "as_of": "2025-11-04", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC cyber drill and Africa-CERT meeting", "country_label": "SADC Countries cyber drill", "class": "cooperation", "platform": "", "owner": "SADC; AfricaCert", "tiers": ""},
+    {"system": "Smart Africa Alliance", "country_label": "Smart Africa Alliance", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

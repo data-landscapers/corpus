@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-13-bocra-sadc-one-network-area-roaming-tariffs-techafricanews",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "BOCRA announced that Botswana takes part with Malawi, Lesotho, Mozambique, Zambia and Zimbabwe in the SADC One Network Area framework to harmonise mobile roaming tariffs.", "as_of": "2026-03-13", "date_precision": "day", "system": "One Network Area (SADC)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Operators including Orange Botswana, Mascom Wireless and BTC have implemented the new One Network Area roaming tariffs, with cuts of 10% to 98.6% and free incoming SMS across participating countries; Botswana-Zambia data roaming fell by up to 94%.", "as_of": "2026-03-13", "date_precision": "day", "system": "One Network Area (SADC)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Reduced roaming rates between Botswana and Namibia took effect in August 2024.", "as_of": "2024-08", "date_precision": "month", "system": "Botswana-Namibia reduced roaming charges", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "One Network Area (SADC)", "country_label": "One Network Area", "class": "cooperation", "platform": "", "owner": "BOCRA and regulators of participating SADC states", "tiers": "Orange Botswana, Mascom Wireless, BTC"}
+  ],
+  "note": ""
+}

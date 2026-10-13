@@ -1,0 +1,16 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "The East African Communications Organisation report lists Kenya, through its regulator CA, as one of the seven member states whose regulators submit data to EACO; no event date is given, so the report's published date is used.",
+     "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation (EACO)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-use",
+     "fact": "EACO publishes Kenya's One Network Area cross-border voice figures for 2025: inbound 461.5 million minutes (+19.2%) and outbound 603.5 million minutes (+23.9%, the largest in the region), with roaming tariffs reduced under the ONA Project.",
+     "as_of": "2025", "date_precision": "year", "system": "One Network Area (ONA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "East African Communications Organisation (EACO)", "country_label": "EACO", "class": "cooperation", "platform": "", "owner": "EACO Secretariat, Kigali", "tiers": "national regulators of seven member states"},
+    {"system": "One Network Area (ONA)", "country_label": "One Network Area", "class": "cooperation", "platform": "", "owner": "EACO", "tiers": "regional roaming framework"}
+  ],
+  "note": ""
+}

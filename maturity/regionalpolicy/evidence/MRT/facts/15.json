@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-16-mar-panorapost-cndp-apd-mauritanie-convention-cooperation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Morocco's data protection commission (CNDP) and Mauritania's data protection authority (APD) signed a cooperation convention in Marrakech to exchange expertise and experience on personal data protection, after nearly two years of talks; the article is dated 2026-01-16 and says the signing was on a Wednesday, so the month is taken.",
+     "as_of": "2026-01", "date_precision": "month",
+     "system": "CNDP-APD cooperation convention (Morocco-Mauritania)", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

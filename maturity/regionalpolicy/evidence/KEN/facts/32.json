@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-24-gsma-abuja-declaration-meaningful-connectivity-atlas-umoja",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Kenya's Ministry of Information, Communications and the Digital Economy is named with the ministries of Nigeria, Togo, Namibia and Benin as announcing ATLAS Umoja AI, a pan-African initiative on African-language AI, on 2026-07-24 alongside the ATU Conference of Plenipotentiaries in Abuja; no agreement signing is stated.", "as_of": "2026-07-24", "date_precision": "day", "system": "ATLAS Umoja AI", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ATLAS Umoja AI", "country_label": "", "class": "cooperation", "platform": "", "owner": "GSMA with the governments of Benin, Kenya, Namibia, Nigeria and Togo", "tiers": ""}
+  ],
+  "note": "The Abuja Ministerial Declaration is adopted by ministers at the ATU conference but the document does not name Kenya as a party, so no fact is taken from it."
+}

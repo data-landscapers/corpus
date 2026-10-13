@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-26-libya-communications-informatics-delegation-regional-cooperation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Libya's General Authority for Communications and Informatics sent a delegation to the 7th Plenipotentiary Conference of the African Telecommunications Union in Abuja, Nigeria, where bilateral meetings were held; the document gives no event date, so its published date is used.",
+     "as_of": "2026-07-26", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

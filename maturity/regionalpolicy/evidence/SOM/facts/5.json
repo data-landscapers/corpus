@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-18-nca-ona-adoption-consultation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The National Communications Authority held a national consultation with licensed operators on Somalia's roadmap for joining the East African Community's One Network Area, a phased alignment of national laws and tariffs with regional standards; adoption is described as still to be completed.", "as_of": "2025-09-18", "date_precision": "day", "system": "One Network Area", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "One Network Area", "country_label": "One Network Area (ONA)", "class": "cooperation", "platform": "", "owner": "East African Community; National Communications Authority for Somalia", "tiers": ""}
+  ],
+  "note": ""
+}

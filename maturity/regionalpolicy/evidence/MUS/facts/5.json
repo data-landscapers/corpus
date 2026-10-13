@@ -1,0 +1,13 @@
+{
+  "slug": "2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The Government of Mauritius hosted the SADC Capacity Building Workshop on Cyber Security and the first SADC Regional Cyber Drill at Ebene on 10-13 September 2018, attended by delegates from fourteen SADC member states, with the SADC ICT Implementing Agency and CRASA.", "as_of": "2018-09", "date_precision": "month", "system": "SADC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC", "country_label": "SADC", "class": "cooperation", "platform": "", "owner": "Southern African Development Community", "tiers": ""},
+    {"system": "CRASA", "country_label": "Communications Regulators' Association of Southern Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SADC Expert Group on PKI and CIRT", "country_label": "", "class": "cooperation", "platform": "", "owner": "SADC", "tiers": ""},
+    {"system": "African Union Convention on Cyber Security and Data Protection", "country_label": "", "class": "other", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

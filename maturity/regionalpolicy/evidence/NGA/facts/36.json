@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-28 Building the same road twice",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Africa Data Exchange (SADX)", "country_label": "SADX", "class": "other", "platform": "X-Road", "owner": "Smart Africa", "tiers": ""},
+    {"system": "ADAPT (Africa Digital Access and Public Infrastructure for Trade)", "country_label": "ADAPT", "class": "other", "platform": "TWIN on IOTA", "owner": "AfCFTA Secretariat", "tiers": ""}
+  ],
+  "note": "Opinion piece; Nigeria is named only as one of three countries in an ADAPT cross-border data exchange pilot, with no signed agreement or event stated, and the matter has its own row."
+}

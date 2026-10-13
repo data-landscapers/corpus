@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-techafricanews-chad-nigeria-digital-cooperation",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "active",
+      "fact": "Chad's and Nigeria's communications ministers initialled a final communique outlining the digital cooperation framework between the two countries after talks in N'Djamena on 16 September 2026.",
+      "as_of": "2026-09-16",
+      "date_precision": "day",
+      "system": "Chad-Nigeria digital cooperation communique",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "BRIDGE fibre project",
+      "country_label": "BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

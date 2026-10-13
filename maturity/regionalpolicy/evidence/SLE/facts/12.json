@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-23-sierra-leone-nigeria-digital-economy-bilateral-mission-joint-communique",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Sierra Leone's and Nigeria's communications ministries signed the Nigeria-Sierra Leone Digital Transformation Cooperation Framework in Freetown on day one of the 21-22 November 2025 bilateral mission.", "as_of": "2025-11-21", "date_precision": "day", "system": "Nigeria-Sierra Leone Digital Transformation Cooperation Framework", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "On day two of the mission two technical partnerships were signed, one with Nigeria's NITDA on payment corridors and digital identity alignment and one on AI research and governance with Sierra Leone's ministry and NITDA.", "as_of": "2025-11-22", "date_precision": "day", "system": "Nigeria-Sierra Leone technical partnerships (NITDA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Nigeria-Sierra Leone Digital Transformation Cooperation Framework", "country_label": "Digital Transformation Cooperation Framework", "class": "cooperation", "platform": "", "owner": "Ministry of Communication, Technology and Innovation (Sierra Leone); Federal Ministry of Communications, Innovation and Digital Economy (Nigeria)", "tiers": "ministries, regulators, agencies"},
+    {"system": "Nigeria-Sierra Leone Digital Cooperation Working Group", "country_label": "Digital Cooperation Working Group", "class": "cooperation", "platform": "", "owner": "both ministries", "tiers": "agreed to be established, not yet reported set up"}
+  ],
+  "note": "The Working Group, action plan and annual report are agreed intentions, so no effect fact."
+}

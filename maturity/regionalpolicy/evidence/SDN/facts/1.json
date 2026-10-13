@@ -1,0 +1,12 @@
+{
+  "slug": "2003-12-07-aricea-objectives-achievements-challenges-opportunities",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "ARICEA's own presentation names Sudan as a member of the Executive Committee of the Association of Regulators of Information and Communications for Eastern and Southern Africa, launched January 2003 under COMESA; the document gives no date for Sudan joining, so the published date is used.", "as_of": "2003-12-07", "date_precision": "day", "system": "ARICEA", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "ARICEA states that Sudan, with Burundi and Zimbabwe (Broadcasting Authority), held a member seat on its five-seat Executive Committee, alongside Ethiopia (Chairman) and Uganda (Vice Chairman); the document gives no date for winning the seat, so the published date is used.", "as_of": "2003-12-07", "date_precision": "day", "system": "ARICEA", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ARICEA", "country_label": "Association of Regulators of Information and Communications for Eastern and Southern Africa", "class": "cooperation", "platform": "", "owner": "ARICEA, interim secretariat at COMESA", "tiers": "regulators and ICT ministries of Eastern and Southern Africa"},
+    {"system": "COMESA ICT Policy and Regulatory Programme", "country_label": "", "class": "other", "platform": "", "owner": "COMESA", "tiers": ""}
+  ],
+  "note": ""
+}

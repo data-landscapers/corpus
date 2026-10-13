@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-13-sadc-puts-spotlight-on-ai-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "ITWeb Africa reports Zimbabwe's ICT ministry hosted the SADC Regional Workshop on Data Governance in the Digital Age in Harare, on data policy harmonisation, with delegates from South Africa, Comoros, Eswatini and Botswana; the article is dated 2026-08-13 and gives no other date for the event.",
+     "as_of": "2026-08-13", "date_precision": "day", "system": "SADC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC", "country_label": "SADC", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-04-guinee-premier-data-center-national-domaine-gn",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "On 4 September 2025 Guinea's Minister of Posts, Telecommunications and the Digital Economy and Smart Africa's Director-General signed an agreement formalising a declaration of intent to hold the Transform Africa Summit 2025 in Guinea in November 2025.",
+     "as_of": "2025-09-04", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "Centre de donnees national (Data Center national)", "country_label": "Data Center national", "class": "other", "platform": "", "owner": "State of Guinea", "tiers": ""}
+  ],
+  "note": ""
+}

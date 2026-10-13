@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-30-nigeria-joins-global-cbpr-privacy-forum",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "The Nigeria Data Protection Commission said on 2025-04-30 that Nigeria would host the Network of African Data Protection Authorities (NADPA) conference and annual general meeting in Abuja, expected 6-8 May 2025; the meeting is announced, not yet held, at the document's date.",
+     "as_of": "2025-04-30", "date_precision": "day", "system": "Network of African Data Protection Authorities", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Network of African Data Protection Authorities", "country_label": "NADPA", "class": "cooperation", "platform": "", "owner": "NADPA", "tiers": ""},
+    {"system": "Global Cross-Border Privacy Rules (CBPR) Forum", "country_label": "", "class": "other", "platform": "", "owner": "Global CBPR Forum", "tiers": ""}
+  ],
+  "note": "Nigeria's associate membership of the global CBPR Forum is not an African body and gives no fact."
+}

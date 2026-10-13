@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-02 Chad Accelerates Digital Cooperation to Support Its Transformation Agenda",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Chad took part on 25-26 November 2025 in the drafting meeting of the founding texts of the planned Central African Digital Development Entities Conference (CADNAC), a regional platform for inter-state digital policy cooperation, per ADETIC as reported by Ecofin.",
+     "as_of": "2025-11-25", "date_precision": "day", "system": "CADNAC", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Ecofin reports that since January 2025 Chad has widened its collaboration with CEMAC member states on free roaming; the article gives no agreement or date beyond the year.",
+     "as_of": "2025", "date_precision": "year", "system": "CEMAC free roaming", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "CADNAC", "country_label": "Central African Digital Development Entities Conference", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CEMAC free roaming", "country_label": "free roaming", "class": "cooperation", "platform": "", "owner": "CEMAC", "tiers": ""},
+    {"system": "Chad-Azerbaijan digital partnership", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Tchad Connexion 2030", "country_label": "Tchad Connexion 2030", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Azerbaijan, US, ITU, India and other non-African partners give no fact; Cotonou summit body not identified as an African policy body."
+}

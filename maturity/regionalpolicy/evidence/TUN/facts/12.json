@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-17-tun-cyberera-african-delegations-tunis-wrc-27-spectrum-positions",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Tunisia's National Frequency Agency hosted the Third African Preparatory Meeting for WRC-27 (APM27-3) in Tunis, coordinated by the African Telecommunications Union, with African governments and regulators attending; the document is dated 2026-09-17 and says the four-day meeting began that September.",
+     "as_of": "2026-09", "date_precision": "month", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Ms Sana Souai Lakhal of Tunisia's National Frequency Agency took over as Chairperson of the African preparatory process for WRC-27 from Kenya's Mohamed A. Haji, at the Tunis meeting reported on 2026-09-17.",
+     "as_of": "2026-09", "date_precision": "month", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "African Telecommunications Union", "tiers": "African governments and regulators"}
+  ],
+  "note": ""
+}

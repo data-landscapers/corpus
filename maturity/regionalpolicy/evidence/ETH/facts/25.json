@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Ethiopia's National ID Program and its business arm FaydaVerse signed a three-year digital identity and DPI memorandum of understanding with Mozambique's Digital Transformation and Innovation Agency in Addis Ababa on 27 April 2026. Biometric Update reports it.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "Ethiopia-Mozambique digital identity MoU",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Prime Minister Abiy Ahmed was recently named African Union Champion for AI and Digital Health; the article gives no exact date, so its published date (April 2026) is used.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "African Union Champion for AI and Digital Health",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": "Joint working group and activities are planned, not stated as started."
+}

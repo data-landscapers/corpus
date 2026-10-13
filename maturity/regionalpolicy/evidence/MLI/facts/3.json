@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-29-mali-conseil-des-ministres-cm-2026-30",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Mali's minister told the Council of Ministers that Mali took part in the 7th ordinary Plenipotentiary Conference of the African Telecommunications Union, held 23 to 24 July 2026 in Abuja.", "as_of": "2026-07-23", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "At the ATU Plenipotentiary Conference in Abuja (23 to 24 July 2026) Mali was re-elected a member of the ATU Administrative Council for the 2027-2031 term; the communique gives no more exact election date.", "as_of": "2026-07", "date_precision": "month", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "Union africaine des Telecommunications", "class": "cooperation", "platform": "", "owner": "", "tiers": "Mali is a member of its Administrative Council"}
+  ],
+  "note": ""
+}

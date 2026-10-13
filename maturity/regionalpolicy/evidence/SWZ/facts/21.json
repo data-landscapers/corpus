@@ -1,0 +1,11 @@
+{
+  "slug": "2019-09-20-sadc-ict-ministers-media-statement",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "SADC says Eswatini was among twelve member states whose ministers or representatives attended the SADC Ministers for ICT, Information, Transport and Meteorology meeting in Dar es Salaam on 19-20 September 2019, where frameworks such as the Regional CIRT framework were approved.", "as_of": "2019-09-20", "date_precision": "day", "system": "SADC Committee of Ministers for ICT, Information, Transport and Meteorology", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC Committee of Ministers for ICT, Information, Transport and Meteorology", "country_label": "", "class": "cooperation", "platform": "", "owner": "SADC", "tiers": ""},
+    {"system": "SADC Regional CIRT framework", "country_label": "", "class": "other", "platform": "", "owner": "SADC", "tiers": ""}
+  ],
+  "note": ""
+}

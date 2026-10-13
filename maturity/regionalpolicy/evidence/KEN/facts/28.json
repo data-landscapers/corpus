@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Kenya is named with Uganda, Rwanda and South Sudan as a partner state in the Northern Corridor Integration Projects, whose implementation clusters meeting in Kampala discussed a single digital market, roaming costs and a joint communications satellite study; the report is dated 2026-08-24 and gives no date for the meeting.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Uganda, Kenya, Rwanda and South Sudan opened a joint account at Standard Chartered Bank Uganda to receive partner-state contributions for a satellite feasibility study agreed under a roadmap settled at an April 2026 Nairobi meeting; the source dates the account only to its report of 2026-08-24, and says the study has not yet started pending deposits.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Northern Corridor Integration Projects", "country_label": "NCIP", "class": "cooperation", "platform": "", "owner": "Partner states Uganda, Kenya, Rwanda, South Sudan", "tiers": ""},
+    {"system": "Regional communications satellite feasibility study", "country_label": "", "class": "other", "platform": "", "owner": "NCIP partner states", "tiers": ""}
+  ],
+  "note": ""
+}

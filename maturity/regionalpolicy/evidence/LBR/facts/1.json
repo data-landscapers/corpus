@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-21-gmb-thepoint-gra-lra-digital-cooperation-deal",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "The Liberia Revenue Authority and the Gambia Revenue Authority signed a memorandum of engagement under which LRA gives technical assistance to build a revenue collection dashboard prototype in The Gambia; the document gives no signing date, so its publication date is used.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "LRA-GRA memorandum of engagement",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Revenue Collection Dashboard",
+   "country_label": "Revenue Collection Dashboard",
+   "class": "other",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

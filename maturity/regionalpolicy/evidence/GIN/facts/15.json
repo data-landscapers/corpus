@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-19-transform-africa-summit-2025-guinea-interconnection",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Smart Africa says the 7th Transform Africa Summit was held in Conakry under the patronage of Presidents Doumbouya and Kagame, with the Guinean Prime Minister at the closing on 19 November 2025 and Smart Africa's Director General praising Guinea's hosting; the document gives no single date for the event as a whole.", "as_of": "2025-11", "date_precision": "month", "system": "Smart Africa (Transform Africa Summit 2025)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa Alliance, 42 member states", "tiers": ""},
+    {"system": "Guinea backbone interconnection with Mali, Côte d'Ivoire and Sierra Leone", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

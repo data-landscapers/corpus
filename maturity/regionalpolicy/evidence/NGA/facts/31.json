@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-24-gsma-abuja-declaration-meaningful-connectivity-atlas-umoja",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "GSMA states the Abuja Ministerial Declaration on Meaningful Connectivity for Africa was made by ministers and heads of delegation at the ATU Conference of Plenipotentiaries in Abuja, dated 2026-07-24, committing African governments to meaningful connectivity and technology-neutral regulation.", "as_of": "2026-07-24", "date_precision": "day", "system": "Abuja Declaration on Meaningful Connectivity", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Nigeria's communications ministry, with the ministries of Togo, Kenya, Namibia and Benin and with GSMA and companies, announced the ATLAS Umoja AI initiative on 2026-07-24 at the ATU conference; Nigerian, Namibian and Togolese ministers are said to have committed support, with no signed agreement described.", "as_of": "2026-07-24", "date_precision": "day", "system": "ATLAS Umoja AI", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Abuja Declaration on Meaningful Connectivity", "country_label": "", "class": "cooperation", "platform": "", "owner": "ATU member states", "tiers": ""},
+    {"system": "ATLAS Umoja AI", "country_label": "", "class": "cooperation", "platform": "", "owner": "GSMA with governments of Benin, Kenya, Namibia, Nigeria, Togo", "tiers": ""},
+    {"system": "N-ATLAS", "country_label": "N-ATLAS", "class": "other", "platform": "", "owner": "Nigeria", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-26-techafricanews-smart-africa-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "A regional data governance workshop was held in Senegal, organised jointly by Smart Africa, UNESCO and Senegal's communication, telecommunications and digital ministry under the SADA/WARDIP framework, with officials from Burkina Faso, Cote d'Ivoire, Togo, Mali, Guinea, Guinea-Bissau and Senegal; the document gives no event date, so the published date is used.", "as_of": "2026-05-26", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADA/WARDIP project framework", "country_label": "SADA/WARDIP", "class": "other", "platform": "", "owner": "Smart Africa; UNESCO", "tiers": ""}
+  ],
+  "note": ""
+}

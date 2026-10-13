@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-10-lso-africanewsroom-bnc-smart-border-posts",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lesotho-South Africa Bi-National Commission",
+      "country_label": "BNC",
+      "class": "other",
+      "platform": "",
+      "owner": "Governments of Lesotho and South Africa",
+      "tiers": ""
+    },
+    {
+      "system": "Smart One-Stop Border Posts (Maseru, Ficksburg)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Bilateral border-post cooperation with Lesotho, not a digital agreement or an African digital policy body; border systems have their own row."
+}

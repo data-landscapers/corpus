@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-04 Africa Declaration on Artificial Intelligence",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Equatorial Guinea is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 alongside the African Union and Smart Africa.",
+     "as_of": "2025-04-04", "date_precision": "day", "system": "Africa Declaration on Artificial Intelligence", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "African Union", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

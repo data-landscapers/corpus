@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Liberia is named as one of three participating countries (with Benin and Sierra Leone) in WARDIP2, the Western Africa Regional Digital Integration Program second operation, which the article says has collaboration from ECOWAS, the African Union and Smart Africa; the World Bank announced its $137 million funding on 2026-03-11.",
+     "as_of": "2026-03-11", "date_precision": "day", "system": "Western Africa Regional Digital Integration Program (WARDIP)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Western Africa Regional Digital Integration Program (WARDIP)", "country_label": "WARDIP2", "class": "cooperation", "platform": "", "owner": "World Bank funded; collaboration from ECOWAS, African Union, Smart Africa", "tiers": "national"}
+  ],
+  "note": ""
+}

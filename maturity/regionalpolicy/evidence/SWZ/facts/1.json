@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-05-smart-africa-to-test-gender-impact-tools-in-eswatini",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Eswatini took part in a Smart Africa programme: it prepared to host a Smart Africa co-creation and piloting workshop on gender impact assessment tools in Mbabane on 6-8 October 2026, with the tools under validation at the ICT ministry; the date given is the document's own, 2026-10-05.",
+     "as_of": "2026-10-05", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Gender Impact Assessment Tools", "country_label": "", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": "Ministry of ICT"}
+  ],
+  "note": ""
+}

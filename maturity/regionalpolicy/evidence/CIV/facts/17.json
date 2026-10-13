@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-15-xaf-afriksoir-apm26-4-ouverture-abidjan-pp26-doha",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Cote d'Ivoire officially opened and hosted in Abidjan the 4th and last African preparatory meeting for ITU PP-26 (APM26-4) of African Telecommunications Union member delegations, the Ivorian digital minister presiding over the work, with the ATU's fifth Innovation Challenge launched at the opening.",
+     "as_of": "2026-09-15", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ATU Innovation Challenge", "country_label": "Defi de l'innovation de l'UAT", "class": "other", "platform": "", "owner": "African Telecommunications Union", "tiers": ""}
+  ],
+  "note": ""
+}

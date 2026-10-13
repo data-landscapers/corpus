@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-27-wearetech-senegal-gambie-cooperation-numerique-quatre-priorites",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Senegal and the Gambia signed a memorandum on cooperation in telecommunications, information technology and the digital economy in June 2026, at the fourth session of the Senegalo-Gambian Presidential Council; the day is not given.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "country_label": "Senegal-Gambia MoU on telecommunications, ICT and the digital economy",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "Governments of Senegal and the Gambia",
+   "tiers": ""
+  },
+  {
+   "system": "ARTP-PURA regulator collaboration",
+   "country_label": "ARTP / PURA",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "ARTP (Senegal), PURA (Gambia)",
+   "tiers": ""
+  }
+ ],
+ "note": "Banjul implementation meeting only identified first priorities, so no effect fact; regulator collaboration is undated."
+}

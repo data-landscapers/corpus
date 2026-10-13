@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-10-techafricanews-mali-smart-africa-mwc2026",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Mali's Minister of Communication and Digital Economy met the Smart Africa Alliance director general on the sidelines of MWC 2026 in Barcelona and discussed skills, fibre links with neighbours and hosting the next Transform Africa Summit; talks only, no agreement signed.", "as_of": "2026-03-03", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Alliance", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

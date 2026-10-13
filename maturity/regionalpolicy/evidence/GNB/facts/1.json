@@ -1,0 +1,16 @@
+{
+  "slug": "2026-01-29-lusophone-countries-in-africa-deepen-digital-cooperation-to-strengthen-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "UNESCO reports that regulators and policymakers from Guinea-Bissau, with Angola, Sao Tome and Principe and Mozambique (more than 40 in all), took part in a data governance workshop in Maputo on 8-10 December 2025, organised by UNESCO with Mozambique's INTIC and Smart Africa; attendance only, no agreement signed.",
+     "as_of": "2025-12", "date_precision": "month",
+     "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "African Union Data Policy Framework", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Carta de Maputo (3rd Forum Lusofono da Governacao da Internet)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UNESCO Data Governance Toolkit", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

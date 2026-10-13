@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-10-eeas-europa-eu-ipris-conference",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "member",
+      "fact": "ARCEP Benin hosted a regional regulators' conference from 9 February 2026 with national counterparts from five countries and the regional regulator bodies EACO, ARTAC and ARTAO, under the EU-funded iPRIS programme.",
+      "as_of": "2026-02-09",
+      "date_precision": "day",
+      "system": "ARTAO",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "iPRIS",
+      "country_label": "iPRIS",
+      "class": "other",
+      "platform": "",
+      "owner": "European Union programme",
+      "tiers": ""
+    }
+  ],
+  "note": "Meeting was an EU-programme workshop, not stated as a meeting of the African body itself; recorded as member at most."
+}

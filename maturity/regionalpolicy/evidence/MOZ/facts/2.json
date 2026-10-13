@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-29-lusophone-countries-in-africa-deepen-digital-cooperation-to-strengthen-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Mozambique took part, with Angola, Guinea-Bissau and Sao Tome and Principe, in a data governance workshop held in Maputo on 8-10 December 2025, organised by UNESCO with Mozambique's INTIC and Smart Africa; the article is dated 2026-01-29.", "as_of": "2025-12-08", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "UNESCO Data Governance Toolkit (Portuguese edition)", "country_label": "", "class": "other", "platform": "", "owner": "UNESCO, ITU, UNDP, African Union", "tiers": ""},
+    {"system": "Carta de Maputo (3rd Forum Lusofono da Governacao da Internet)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Workshop was UNESCO-organised, so taking part is member at most; the Lusophone forum charter is not an African body's instrument."
+}

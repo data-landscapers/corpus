@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Ghana's government, the EU and Smart Africa held a two-day national validation workshop in Accra for Ghana's National Data Strategy, enabled by Smart Africa and the African Union and aligned with the AU Continental Data Policy Framework; no agreement is reported signed.", "as_of": "2024-07-02", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "AU Continental Data Policy Framework", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

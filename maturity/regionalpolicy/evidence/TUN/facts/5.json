@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-09-algeria-tunisia-telecom-ict-cooperation--techafricanews",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The fourth session of the Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation, held in Tunisia, concluded with agreement on joint projects on connectivity, postal and telecom modernisation and innovation; the report gives no meeting date, so its publication date of 2026-06-09 is used.", "as_of": "2026-06-09", "date_precision": "day", "system": "Algerian-Tunisian Joint Technical Commission", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Algerian-Tunisian Joint Technical Commission", "country_label": "Algerian-Tunisian Joint Technical Commission on communications and ICT cooperation", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No effect fact: agreed projects are a statement of intent, with no start or use reported."
+}

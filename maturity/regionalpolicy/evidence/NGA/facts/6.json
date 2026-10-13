@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-31-atu-summit-abuja-declaration-digital-divide",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The report says African ICT ministers adopted the 2026 Abuja Declaration on Meaningful Connectivity for Africa at the African Telecommunications Union Conference of Plenipotentiaries in Abuja, and that it was signed by Nigeria's communications minister Bosun Tijani.", "as_of": "2026-07-24", "date_precision": "day", "system": "2026 Abuja Declaration on Meaningful Connectivity for Africa (African Telecommunications Union)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The report says Nigeria's communications minister assumed the chairmanship of the African Telecommunications Union Conference of Plenipotentiaries session held in Abuja.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "African Telecommunications Union", "tiers": ""},
+    {"system": "Digital Transformation Strategy for Africa", "country_label": "", "class": "", "platform": "", "owner": "African Union", "tiers": ""}
+  ],
+  "note": ""
+}

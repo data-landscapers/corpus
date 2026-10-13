@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-12-burkina24-nigeria-cooperation-numerique",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Burkina Faso's digital minister and Nigeria's digital minister began their exchanges at the 7th ordinary session of the ATU Conference of Plenipotentiaries in Abuja, 16 to 24 July 2026.", "as_of": "2026-07", "date_precision": "month", "system": "African Telecommunications Union (ATU)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union (ATU)", "country_label": "Union Africaine des Télécommunications (UAT)", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Projet Pont (Nigeria open-access fibre network)", "country_label": "Projet Pont", "class": "other", "platform": "", "owner": "Nigeria", "tiers": ""}
+  ],
+  "note": "The 2026-08-12 bilateral meeting with Nigeria proposed four areas of action and a roadmap to come; talks only, no signed agreement."
+}

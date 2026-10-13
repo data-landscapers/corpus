@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-26-benin-senegal-togo-roaming-sans-frontieres",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "La Nation reports Benin's regulator took part in the 23rd general assembly of ARTAO, the West African telecom regulators' association, held in Lomé.", "as_of": "2026-04-24", "date_precision": "day", "system": "ARTAO", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "La Nation reports roaming accords were signed in Lomé on the margin of the ARTAO assembly between the telecom regulators of Senegal and Togo and of Senegal and Benin.", "as_of": "2026-04-24", "date_precision": "day", "system": "Benin-Senegal-Togo free roaming accords", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "The regulators made the reduced-cost roaming system officially in force between Senegal and Benin, with free incoming calls for the first 30 days of a stay.", "as_of": "2026-04-24", "date_precision": "day", "system": "Benin-Senegal-Togo free roaming accords", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ARTAO", "country_label": "", "class": "cooperation", "platform": "", "owner": "West African telecom regulators", "tiers": "national regulators"},
+    {"system": "Benin-Senegal-Togo free roaming accords", "country_label": "", "class": "cooperation", "platform": "", "owner": "ARCEP Bénin, ARCEP Togo, ARTP Senegal", "tiers": "national"}
+  ],
+  "note": ""
+}

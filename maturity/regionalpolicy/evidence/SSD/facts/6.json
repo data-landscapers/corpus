@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-30-south-sudan-smart-africa-declaration-of-trust",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The Minister of Information, ICT and Postal Services signed a declaration of trust with the Smart Africa alliance to cooperate on the digital economy, cybersecurity and artificial intelligence, in a ceremony reported by the ministry on 2025-05-30.", "as_of": "2025-05-30", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa alliance", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

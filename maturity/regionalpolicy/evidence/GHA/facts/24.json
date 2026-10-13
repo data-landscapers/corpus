@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-20-liberia-ghana-sierra-leone-ecowas-free-roaming-agreement-lta",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The Liberia Telecommunications Authority reports that Liberia, Ghana and Sierra Leone signed their entry into the ECOWAS Free Roaming Agreement, to remove roaming charges among the three; the page carries no date, so 2026-02-20 is the published date.", "as_of": "2026-02-20", "date_precision": "day", "system": "ECOWAS Free Roaming Agreement", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ECOWAS Free Roaming Agreement", "country_label": "", "class": "cooperation", "platform": "", "owner": "ECOWAS member states", "tiers": "Liberia, Ghana, Sierra Leone"}
+  ],
+  "note": "The parties only reaffirmed intent to implement fully; no start of roaming-free service is stated, so no effect fact."
+}

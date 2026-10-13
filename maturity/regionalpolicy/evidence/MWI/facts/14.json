@@ -1,0 +1,20 @@
+{
+  "slug": "2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "A MACRA director general's slide deck says Malawi recently joined Smart Africa as member number 33, and that the State President attended the Smart Africa annual general meeting in Victoria Falls in April 2023.",
+     "as_of": "2023-04", "date_precision": "month",
+     "system": "Smart Africa", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "The deck says that as of September 2023 Malawi had signed two memoranda of understanding, with Tanzania and with Zambia, under its Diplomatic Data Corridors initiative for state-to-state negotiated IP transit terms.",
+     "as_of": "2023-09", "date_precision": "month",
+     "system": "Diplomatic Data Corridors", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Diplomatic Data Corridors", "country_label": "Diplomatic Data Corridors (DDC)", "class": "cooperation", "platform": "", "owner": "Government of Malawi / MACRA", "tiers": ""},
+    {"system": "Lilongwe and Mzuzu IXPs", "country_label": "IXPs", "class": "other", "platform": "", "owner": "MACRA / MISPA", "tiers": ""},
+    {"system": "Nacala-Liwonde Fibre Optic Cable", "country_label": "Nacala-Liwonde Fibre Optic Cable", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

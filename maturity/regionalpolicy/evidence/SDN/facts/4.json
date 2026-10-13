@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-04 Africa Declaration on Artificial Intelligence",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Sudan is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence, done at Kigali on 4 April 2025 with the African Union and Smart Africa as institutional signatories.", "as_of": "2025-04-04", "date_precision": "day", "system": "Africa Declaration on Artificial Intelligence", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Africa Declaration on Artificial Intelligence", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union; Smart Africa", "tiers": ""},
+    {"system": "Africa AI Council", "country_label": "", "class": "cooperation", "platform": "", "owner": "Smart Africa Steering Committee, co-chaired by the AU Commission and ITU", "tiers": ""}
+  ],
+  "note": ""
+}

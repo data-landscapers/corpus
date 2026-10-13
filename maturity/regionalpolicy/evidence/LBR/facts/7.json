@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-04-liberia-massaquoi-lta-strategic-plan-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "In July 2026 Liberia had its African Telecommunications Union arrears waived, regained full voting rights and took part in adopting the 2026 Abuja Declaration on Meaningful Connectivity.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "African Telecommunications Union",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Liberia and Sierra Leone launched a free roaming arrangement in August 2025, letting subscribers travelling between them communicate at local rates; it has since extended to other West African countries with technical implementation progressing.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Liberia-Sierra Leone free roaming arrangement",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

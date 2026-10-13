@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-16-broadcastmediaafrica-crasa-46th-exco-agile-digital-regulation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Broadcast Media Africa reports that Malawi's regulator MACRA currently holds the rotating CRASA chairpersonship and is hosting the three-day 46th CRASA Executive Committee meeting in Mangochi, which opened as of the report date.", "as_of": "2026-09-16", "date_precision": "day", "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""}
+  ],
+  "note": ""
+}

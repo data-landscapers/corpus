@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-13-sadc-puts-spotlight-on-ai-data-governance",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "ITWeb Africa reports delegates from Comoros, with South Africa, Eswatini and Botswana, took part in the SADC Regional Workshop on Data Governance in Harare on data policy harmonisation; no event date is given, so the article's published date is used.",
+     "as_of": "2026-08-13", "date_precision": "day", "system": "SADC Regional Workshop on Data Governance", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-16-crasa-46th-exco-malawi",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "CRASA's own listing says the 46th Ordinary Meeting of the CRASA Executive Committee was hosted by Malawi's regulator MACRA at Makokola Club, Mangochi, on 14-16 September 2026, rescheduled for venue availability.", "as_of": "2026-09-14", "date_precision": "day", "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""}
+  ],
+  "note": ""
+}

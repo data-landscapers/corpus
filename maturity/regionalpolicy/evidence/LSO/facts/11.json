@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-16-lesotho-national-data-value-creation-blueprint-workshop",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Government of Lesotho (via LENA) states Lesotho, the newest member of Smart Africa, was selected as a participant in creating a national data blueprint, and hosted the first national stakeholder workshop in Maseru with Smart Africa and the African Union.", "as_of": "2026-07-14", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Data Value Creation Blueprint", "country_label": "National Data Value Creation Blueprint", "class": "cooperation", "platform": "", "owner": "MICSTI with Smart Africa", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01-crasa-g5-summit-2026-provisional-programme",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "CRASA's provisional programme schedules the G5 Summit 2026 in Lilongwe, Malawi on 13-15 April 2026, with a session on advancing the SADC Single Digital Market and adoption of the Lilongwe Declaration on the last day; the document has no date of its own and is dated here by its March 2026 upload path.", "as_of": "2026-03", "date_precision": "month", "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "CRASA", "tiers": ""},
+    {"system": "SADC Single Digital Market", "country_label": "", "class": "cooperation", "platform": "", "owner": "SADC", "tiers": ""}
+  ],
+  "note": ""
+}

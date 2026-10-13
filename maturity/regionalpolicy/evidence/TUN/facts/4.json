@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-07-atu-invitation-apm27-3-tunis",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "In a circular dated 2026-07-07 to its member states, the ATU announced that it would hold the 3rd African Preparatory Meeting for WRC-27 in Tunis on 7-11 September 2026 in collaboration with Tunisia's National Frequency Agency; this is an announcement before the meeting took place.", "as_of": "2026-07-07", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "South Sudan, with Uganda, Kenya and Rwanda, took part in the Northern Corridor Integration Projects implementation clusters meeting in Kampala, where the partner states' joint account for a communications satellite feasibility study and the NCIP single digital market programme were discussed; the source gives no meeting date, so the report date is used.", "as_of": "2026-08-24", "date_precision": "day", "system": "Northern Corridor Integration Projects", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Northern Corridor Integration Projects", "country_label": "NCIP", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "East African Development Bank-NCIP joint account for satellite feasibility study", "country_label": "", "class": "other", "platform": "Standard Chartered Bank Uganda", "owner": "NCIP partner states", "tiers": ""}
+  ],
+  "note": ""
+}

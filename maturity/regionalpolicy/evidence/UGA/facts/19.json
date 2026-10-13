@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-03-atc-uganda-contributes-ugx-20-9bn-to-support-universal-access",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "A related-story teaser on the page, datelined Abuja 24 July 2026, and a headline dated 26 July 2026 state that Uganda won a seat on the African Telecommunications Union Administrative Council; the event date used is the teaser's dateline.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The article itself concerns a domestic universal service fund levy (no fact); the ATU seat appears only in related-story links."
+}

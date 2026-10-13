@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-21-burundi-embraces-eac-digital-integration-ict-growth",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Burundi's Senate voted unanimously to ratify the EAC protocol on Regional Digital Integration; the article is dated 2025-01-21 and gives no vote date, so the publication date is used.", "as_of": "2025-01-21", "date_precision": "day", "system": "EAC protocol on Regional Digital Integration", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Burundi formally entered the EAC One Network Area on 1 August 2024, with new regulations from its regulator cutting regional roaming tariffs, so calls and data roaming with five other countries are treated as domestic rates.", "as_of": "2024-08-01", "date_precision": "day", "system": "EAC One Network Area", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "EAC One Network Area", "country_label": "One Network Area (ONA)", "class": "other", "platform": "", "owner": "EAC", "tiers": ""},
+    {"system": "EAC protocol on Regional Digital Integration", "country_label": "", "class": "other", "platform": "", "owner": "EAC", "tiers": ""}
+  ],
+  "note": ""
+}

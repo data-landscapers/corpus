@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-15-mali-sipen-uemoa-2026-ministres-numerique-aes-ouagadougou",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Mali's digital minister took part in the opening of the fourth SIPEN-UEMOA digital economy fair in Ouagadougou and delivered the address on behalf of the AES Confederation's digital ministers; no agreement was signed, a Declaration of Ouagadougou was only anticipated.", "as_of": "2026-07-14", "date_precision": "day", "system": "SIPEN-UEMOA", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SIPEN-UEMOA", "country_label": "Salon International des Professionnels de l'Economie Numerique de l'UEMOA", "class": "cooperation", "platform": "", "owner": "UEMOA", "tiers": "digital ministers of the AES states attended"}
+  ],
+  "note": ""
+}

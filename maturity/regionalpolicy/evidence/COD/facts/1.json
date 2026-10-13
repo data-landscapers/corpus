@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-12-panafricanpress-atu-drc-mpanda-telecom-milestones",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The DRC settled over $1.4m in arrears and penalties to the African Telecommunications Union, securing its automatic seat on the ATU Administrative Council; the document gives no date for the seat, so its published date is used.", "as_of": "2026-08-12", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The 7th ATU Plenipotentiary Conference in Abuja formally validated the move of the ATU headquarters from Nairobi to Kinshasa on 23 July 2026; the new Secretary-General is to take office there in January 2027.", "as_of": "2026-07-23", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "African Union institution", "tiers": ""}
+  ],
+  "note": ""
+}

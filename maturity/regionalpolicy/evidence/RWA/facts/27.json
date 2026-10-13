@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-26-indiplomacy-smart-africa-singapore-digital-transformation-exchange",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Singapore Cooperation Enterprise ran a Smart Africa capacity-building programme in Rwanda for Smart Africa Alliance member countries, with support from the Rwanda Information Society Authority; the document gives no event date, so its published date 2026-08-26 is used.", "as_of": "2026-08-26", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Singapore Cooperation Enterprise programme", "country_label": "", "class": "other", "platform": "", "owner": "Singapore Cooperation Enterprise", "tiers": ""}
+  ],
+  "note": ""
+}

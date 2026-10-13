@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Smart Africa's profile of Guinea states that Guinea joined the Smart Africa Alliance in 2016.", "as_of": "2016", "date_precision": "year", "system": "Smart Africa", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Smart Africa's profile states that Guinea, through its regulator ARPT, chairs the Smart Africa Council of African Regulators; it gives no date for the appointment, so the document's publication date of 2025-09-09 is used.", "as_of": "2025-09-09", "date_precision": "day", "system": "Smart Africa Council of African Regulators", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa Alliance", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""},
+    {"system": "Intra-African Connectivity", "country_label": "Intra-African Connectivity", "class": "other", "platform": "", "owner": "Guinea flagship project developed with TCTS/Tata", "tiers": ""}
+  ],
+  "note": "Guinea's planned hosting of Transform Africa Summit 2025 is stated as upcoming and is not recorded here."
+}

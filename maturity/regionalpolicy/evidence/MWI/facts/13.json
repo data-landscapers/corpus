@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-16-telecompaper-macra-crasa-sadc-regulatory-frameworks",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Telecompaper reports that Macra's director general Mayamiko Nkoloma, as CRASA chairperson, opened and urged SADC regulators to keep frameworks current at the 46th CRASA executive committee meeting; the outlet gives no meeting date, so the published date 2026-09-16 is used.",
+     "as_of": "2026-09-16", "date_precision": "day",
+     "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Communications Regulators' Association of Southern Africa (CRASA)", "country_label": "CRASA", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

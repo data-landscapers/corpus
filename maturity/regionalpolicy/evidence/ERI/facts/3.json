@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent",
+  "facts": [],
+  "systems": [
+    {"system": "Horn of Africa Initiative Digital Policy Matrix", "country_label": "", "class": "cooperation", "platform": "", "owner": "Horn of Africa Initiative; paper prepared by the World Bank", "tiers": ""},
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "country_label": "", "class": "cooperation", "platform": "", "owner": "IGAD and EAC; World Bank", "tiers": ""},
+    {"system": "One Network Area (ONA)", "country_label": "", "class": "other", "platform": "", "owner": "EAC and Smart Africa", "tiers": ""}
+  ],
+  "note": "Eritrea appears only as a country at a nascent stage in data protection and cybersecurity law (own rows) and is absent from the paper's list of contributing governments; the paper does not state Eritrea is a member of or took part in the body or a meeting, so no fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EACO regional communications statistics report covers Tanzania as one of EACO's seven member states, with its regulator TCRA submitting 2024 and 2025 data to the East African Communications Organisation.", "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation (EACO)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-use", "fact": "EACO reports Tanzania's One Network Area cross-border voice traffic for 2025 as 148.0 million inbound minutes (+36.4%) and 577.7 million outbound minutes (+59.0%, from 363.3 million).", "as_of": "2025", "date_precision": "year", "system": "One Network Area (ONA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "One Network Area (ONA)", "country_label": "One Network Area", "class": "cooperation", "platform": "", "owner": "EACO", "tiers": ""},
+    {"system": "East African Communications Organisation (EACO)", "country_label": "EACO", "class": "cooperation", "platform": "", "owner": "EACO", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-dailynews-tanzania-somalia-egovernance-model",
+  "facts": [],
+  "systems": [
+    {"system": "Human Capital Information Management System (eWatumishi)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "President's Office Public Service Management", "tiers": "central government"},
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Government of Tanzania", "tiers": "government institutions"}
+  ],
+  "note": "A Somali minister's three-day working visit to Tanzania (August 2026) to learn from its e-government; a visit with no agreement and no African digital-policy body, so no fact."
+}

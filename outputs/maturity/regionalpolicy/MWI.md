@@ -1,0 +1,11 @@
+# Malawi
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Malawi's regulator [holds the rotating chair of the Communications Regulators' Association of Southern Africa](<https://news.broadcastmediaafrica.com/2026/09/16/southern-african-regulators-call-for-more-agile-digital-regulation/>) and [hosted its 46th executive committee meeting at Mangochi on 14 to 16 September 2026](<https://events.crasa.org/event/46th-ordinary-meeting-of-the-crasa-executive-committee-exco/>). It [hosted the association's regulatory collaboration summit in Lilongwe in April 2026](<https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/>). Malawi [joined Smart Africa as its 33rd member](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>) and by September 2023 [had signed memoranda with Tanzania and Zambia on data corridors](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>).
+
+**What was agreed put into effect and in use.** The nearest held fact is [the memoranda with Tanzania and Zambia](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>), signed by September 2023; no data corridor is reported as open. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [Africa Accelerator for Digital Public Infrastructure (AA4DPI)](<https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure>); [ITU G5 framework](<https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/>); [Lilongwe and Mzuzu IXPs](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [Nacala-Liwonde Fibre Optic Cable](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>).
+
+***Not held***. No source held says a thing the country agreed has been put into effect.

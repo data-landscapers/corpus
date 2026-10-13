@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-25-eac-regional-mobile-roaming-framework-development",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EAC release on the Meeting of the Technical Committee on Telecommunications, held in Dar es Salaam on 25 to 29 May 2026 to review a draft Regional Mobile Roaming Framework, brings together Partner States and names the Republic of Burundi among the EAC's eight members; it does not single out Burundi's delegation.", "as_of": "2026-05-25", "date_precision": "day", "system": "East African Community", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "East African Community", "country_label": "EAC", "class": "cooperation", "platform": "", "owner": "EAC Secretariat", "tiers": ""},
+    {"system": "Regional Mobile Roaming Framework (draft)", "country_label": "", "class": "other", "platform": "", "owner": "EAC", "tiers": ""},
+    {"system": "One Network Area", "country_label": "", "class": "other", "platform": "", "owner": "EAC Partner States", "tiers": ""},
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "country_label": "", "class": "other", "platform": "", "owner": "EAC, financed by the World Bank", "tiers": ""}
+  ],
+  "note": ""
+}

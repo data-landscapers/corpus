@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Nigeria hosted in Lagos the second AfCFTA Digital Trade Forum, which closed with eight calls to action to operationalize the AfCFTA Protocol on Digital Trade; the article, published 2026-07-07, says the forum was held 'recently' and gives no day.",
+     "as_of": "2026-07", "date_precision": "month", "system": "AfCFTA Digital Trade Forum", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Protocol on Digital Trade", "country_label": "", "class": "cooperation", "platform": "", "owner": "African Union / AfCFTA Secretariat", "tiers": ""},
+    {"system": "Pan-African Payment and Settlement System (PAPSS)", "country_label": "", "class": "other", "platform": "", "owner": "AfCFTA", "tiers": ""}
+  ],
+  "note": ""
+}

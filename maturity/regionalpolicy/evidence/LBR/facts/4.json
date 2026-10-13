@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-05-west-african-roaming-mou-lbr-gmb-sle",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Liberia, The Gambia and Sierra Leone signed a memorandum of understanding to cut roaming charges between them; the document gives no signing date, so its publication date is used.",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "LBR-GMB-SLE roaming MoU",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": "Phased start dates (2 May and 1 July 2025) are stated as future, so no in-effect fact."
+}

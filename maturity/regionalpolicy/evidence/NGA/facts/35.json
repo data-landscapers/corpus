@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-06-afcfta-digital-trade-forum-eight-calls-to-action",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The AfCFTA Secretariat together with the Government of Nigeria closed the second AfCFTA Digital Trade Forum in Lagos on 2 July 2026, which adopted Eight Calls to Action; Nigeria's trade minister, as Chair of the AfCFTA Council of Ministers, reaffirmed Nigeria's role as co-champion of the Protocol on Digital Trade.", "as_of": "2026-07-02", "date_precision": "day", "system": "AfCFTA Digital Trade Forum", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Protocol on Digital Trade", "country_label": "Protocol on Digital Trade", "class": "cooperation", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""},
+    {"system": "AfCFTA Digital Inclusion and Entrepreneurship Programme (ADIEP)", "country_label": "", "class": "other", "platform": "", "owner": "AfCFTA Secretariat with Google", "tiers": ""},
+    {"system": "AfCFTA Digital Trade Corridor (MoU with Quest Ghana Limited)", "country_label": "", "class": "other", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""},
+    {"system": "PAPSS", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

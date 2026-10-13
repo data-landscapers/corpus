@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Smart Africa held a Smart Africa Data Exchange technical assessment mission in Kigali with representatives from Rwanda, Benin and Ghana, so Ghana took part in a meeting of a Smart Africa programme; no agreement is reported signed.", "as_of": "2026-04-27", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Data Exchange (SADX)", "country_label": "SADX", "class": "cooperation", "platform": "federated, decentralised exchange with PKI trust chains and API contracts", "owner": "Smart Africa", "tiers": "identification authorities, immigration agencies and national ICT institutions of Rwanda, Benin and Ghana"}
+  ],
+  "note": ""
+}

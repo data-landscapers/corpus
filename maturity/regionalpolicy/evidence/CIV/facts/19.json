@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-18-protection-donnees-progres-cote-divoire-fratmat",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Cote d'Ivoire hosted the 9th conference of the African network of personal data protection authorities (RAPDP/NADPA) in Abidjan from 18 to 21 May 2026, opened by its digital minister before 24 African delegations.",
+     "as_of": "2026-05-18", "date_precision": "day", "system": "Réseau africain des autorités de protection des données personnelles (RAPDP)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Réseau africain des autorités de protection des données personnelles (RAPDP)", "country_label": "Réseau africain des autorités de protection des données personnelles", "class": "cooperation", "platform": "", "owner": "African network of data protection authorities", "tiers": ""}
+  ],
+  "note": ""
+}

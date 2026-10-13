@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-24-artac-ndjamena-2025-feuille-de-route-numerique-afrique-centrale",
+  "facts": [
+    {
+      "sub_indicator": "cooperation",
+      "aspect": "part",
+      "value": "active",
+      "fact": "ARCEP Tchad hosted the ARTAC-ITU sub-regional workshop in N'Djamena on 15-18 December 2025, with the Chadian minister and ARTAC's executive president opening it and member-country delegations attending.",
+      "as_of": "2025-12-15",
+      "date_precision": "day",
+      "system": "ARTAC",
+      "class": "cooperation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CEMAC Free Roaming",
+      "country_label": "Free Roaming CEMAC",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Free roaming items are recommendations with a 10 February 2026 deadline, not a stated start in Chad."
+}

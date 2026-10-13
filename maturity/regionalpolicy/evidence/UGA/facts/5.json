@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-03-eaco-regional-communications-sector-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The EACO statistics report names Uganda, through its regulator UCC, as one of seven member states submitting communications sector data to the East African Communications Organisation.", "as_of": "2026-08-03", "date_precision": "day", "system": "East African Communications Organisation (EACO)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-use", "fact": "EACO reports Uganda's One Network Area inbound cross-border voice traffic fell 28.0% in 2025, from 1,103.2 million to 794.4 million minutes, which it attributes to over-the-top services substituting voice.", "as_of": "2025", "date_precision": "year", "system": "One Network Area (ONA)", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Nigeria, through its trade minister, took the Chair of the Bureau of the AfCFTA Council of Ministers Responsible for Trade at its 18th meeting in Abuja, one of whose four priorities is unlocking digital trade; the document gives no event date, so the published date is used.", "as_of": "2026-07-09", "date_precision": "day", "system": "AfCFTA Council of Ministers", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The second AfCFTA Digital Trade Forum was jointly organised by the AfCFTA Secretariat and the Government of Nigeria in Lagos; the document gives no event date, so the published date is used.", "as_of": "2026-07-09", "date_precision": "day", "system": "AfCFTA Digital Trade Forum", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "AfCFTA Protocol on Digital Trade", "country_label": "Digital Trade Protocol", "class": "cooperation", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""},
+    {"system": "PAPSS", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "AfCFTA Digital Trade Corridor (MoU with Quest Ghana Limited)", "country_label": "", "class": "other", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""}
+  ],
+  "note": ""
+}

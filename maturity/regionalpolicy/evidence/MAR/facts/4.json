@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Smart Africa says its Council of African IT Agencies, chaired by Morocco's Digital Development Agency, met in Rabat on 14 July 2025 with 11 member states, Morocco among them, to draft cross-border data exchange guidelines.",
+     "as_of": "2025-07-14", "date_precision": "day", "system": "Smart Africa Council of African IT Agencies (CAITA)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Council of African IT Agencies (CAITA)", "country_label": "CAITA", "class": "cooperation", "platform": "", "owner": "Smart Africa; chaired by Morocco's ADD", "tiers": "national agencies"},
+    {"system": "Cross-Border Data Exchange Guidelines", "country_label": "", "class": "other", "platform": "GovStack Information Mediator", "owner": "Smart Africa Trust Alliance", "tiers": ""}
+  ],
+  "note": ""
+}

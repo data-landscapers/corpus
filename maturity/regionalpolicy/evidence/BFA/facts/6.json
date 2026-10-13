@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-13 WATRA rallies Africa for region's $216b digital economy",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Burkina Faso's regulator ARCEP hosted the 4th Working Groups Meeting of WATRA, the West Africa Telecommunications Regulators Assembly (16 member states), in Ouagadougou, concluding on 2026-04-12 (the article of 13 April says 'yesterday'), where the groups finalised reports on 5G, cable resilience, cybersecurity, consumer protection and NGSO satellites.",
+     "as_of": "2026-04-12", "date_precision": "day", "system": "WATRA (West Africa Telecommunications Regulators Assembly)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "WATRA (West Africa Telecommunications Regulators Assembly)", "country_label": "WATRA", "class": "cooperation", "platform": "", "owner": "WATRA, 16 West African member states", "tiers": "national telecom regulators (ARCEP Burkina Faso hosted)"}
+  ],
+  "note": ""
+}

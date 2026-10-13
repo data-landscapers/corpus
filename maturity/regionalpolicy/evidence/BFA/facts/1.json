@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-26-bfa-lefaso-aes-telecom-regulators-sahel-council",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "ARCEP Burkina Faso, Mali's AMRTP and ARCEP Niger signed a cooperation convention creating the Conseil des régulateurs du Sahel; the document gives no signing date, so the date is its publication date, 2026-09-26.", "as_of": "2026-09-26", "date_precision": "day", "system": "Conseil des régulateurs du Sahel (CRS) cooperation convention", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "The three regulators created the Conseil des régulateurs du Sahel under the convention, reported 2026-09-26 (publication date); its statutes and rules of procedure and a first work programme are still to be adopted and free roaming is a stated aim, not yet in place.", "as_of": "2026-09-26", "date_precision": "day", "system": "Conseil des régulateurs du Sahel (CRS)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Conseil des régulateurs du Sahel (CRS)", "country_label": "Conseil des régulateurs du Sahel", "class": "cooperation", "platform": "", "owner": "ARCEP Burkina Faso, AMRTP Mali, ARCEP Niger", "tiers": "national telecom regulators of Burkina Faso, Mali, Niger"},
+    {"system": "AES free roaming", "country_label": "free roaming dans l'espace AES", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

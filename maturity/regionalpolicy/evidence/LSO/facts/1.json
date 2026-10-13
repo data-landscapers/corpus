@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-12-lso-govls-smart-africa-alliance-digital-academy",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Government of Lesotho states the Minister of Information, Communications, Science, Technology and Innovation took part virtually in the 21st Smart Africa Alliance Meeting (no meeting date given; the document's published date 2026-10-12 is used).", "as_of": "2026-10-12", "date_precision": "day", "system": "Smart Africa Alliance", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Government of Lesotho states Lesotho joined the Smart Africa Alliance in 2025 and has since benefited from initiatives in AI, data and digital skills.", "as_of": "2025", "date_precision": "year", "system": "Smart Africa Alliance", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Alliance", "country_label": "Smart Africa Alliance", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Smart Africa Digital Academy", "country_label": "Smart Africa Digital Academy", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""}
+  ],
+  "note": ""
+}

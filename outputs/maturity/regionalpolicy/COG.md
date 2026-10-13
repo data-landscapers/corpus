@@ -1,0 +1,11 @@
+# Congo
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** The Republic of the Congo [was elected to the 25-member administrative council of the African Telecommunications Union on 24 July 2026](<https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/>), and in November 2023 [was elected rapporteur of the bureau of the African Union's technical committee on communication and ICT](<https://www.au.int/en/newsevents/20261026/au-innovation-festival-au-innofest26-theme-vibrant-youth-ecosystems-ai-and>). Its media regulator [signed a memorandum of understanding with its counterpart in the Democratic Republic of the Congo in Kinshasa in August 2026](<https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340>), and [a regional workshop on emergency telecommunications opened in Brazzaville on 15 September 2026](<https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621>).
+
+**What was agreed put into effect and in use.** The nearest held fact is [the memorandum between the two media regulators](<https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340>), which covers technical cooperation and is an agreement, not a thing delivered. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [Digital Business Boost for Africa (DBBA)](<https://aden.cg/2026/07/23/programme-dbba-la-banque-publique-de-developpement-de-pologne-et-laden-explorent-de-nouvelles-perspectives-de-cooperation-numerique/>); [Smart Africa Digital Academy](<https://www.unesco.org/en/articles/empowering-congolese-judicial-operators-ai-and-rule-law-training-brazzaville>); [Conférence régionale des agences de cybersécurité d'Afrique centrale](<https://www.adiac-congo.com/content/afrique-centrale-brazzaville-abritera-en-juin-la-premiere-conference-sur-la-cybersecurite>).
+
+***Not held***. No source held says a thing the country agreed has been put into effect.

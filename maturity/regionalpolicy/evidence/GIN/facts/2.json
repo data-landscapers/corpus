@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "The 7th Transform Africa Summit, organised by the Smart Africa Alliance (42 member states) with the Government of Guinea, opened in Conakry on 12 November 2025, the first time it was hosted in Francophone West Africa; Presidents Doumbouya and Kagame attended.",
+     "as_of": "2025-11-12", "date_precision": "day", "system": "Smart Africa Alliance (Transform Africa Summit 2025)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa Alliance", "country_label": "", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TELEMO", "country_label": "TELEMO (national e-procurement)", "class": "other", "platform": "", "owner": "Guinea, developed with Rwanda", "tiers": ""}
+  ],
+  "note": ""
+}

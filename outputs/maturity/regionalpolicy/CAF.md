@@ -1,0 +1,11 @@
+# Central African Republic
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** The Central African Republic is [listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence at Kigali on 4 April 2025](<https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf>), alongside the African Union and Smart Africa. The declaration names the country with no act of its own reported, and it is the one fact held on the country's part in regional digital policy. An agreement signed, a meeting hosted or chaired, or a seat won in the last three years is not recorded.
+
+**What was agreed put into effect and in use.** The nearest held fact is [the Kigali declaration](<https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf>), a statement of shared aims on artificial intelligence, and nothing the country has done under it is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [Smart Africa](<https://cio-mag.com/atda-2024-lia-et-le-developpement-durable-au-menu-de-la-session-officielle/>); [iPRIS (ICT Policy and Regulation - Institutional Strengthening)](<https://ipris.digital/photo-highlights-from-the-9th-ipris-cohort/>); [Central African Backbone (CAB)](<https://techafricanews.com/2026/08/27/why-connecting-landlocked-africa-requires-more-than-building-national-fibre-networks/>); [Central African Digital Integration Program (CARDIP)](<https://africabusinessinsight.com/central-african-republic-explores-world/>).
+
+***Not held***. No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.

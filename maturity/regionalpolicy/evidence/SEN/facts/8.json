@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-27-techreviewafrica-senegal-togo-benin-free-roaming",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Senegal's regulator ARTP, with the regulators of Togo and Benin, signed agreements for a free roaming arrangement under ECOWAS regulation C/REG.21/12/17; the document gives no signing date, so the published date is used.", "as_of": "2026-04-27", "date_precision": "day", "system": "ECOWAS free roaming arrangement (Senegal, Togo, Benin)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "The free roaming arrangement between Senegal, Togo and Benin took effect on 24 April 2026, with free incoming calls for up to 30 consecutive days and no surcharge on incoming international traffic.", "as_of": "2026-04-24", "date_precision": "day", "system": "ECOWAS free roaming arrangement (Senegal, Togo, Benin)", "class": "cooperation"}
+  ],
+  "systems": [],
+  "note": ""
+}

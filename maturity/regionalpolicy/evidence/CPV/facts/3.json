@@ -1,0 +1,14 @@
+{
+  "slug": "2025-04-04 Africa Declaration on Artificial Intelligence",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Cabo Verde is listed among 49 countries, with the African Union and Smart Africa, that signed the Africa Declaration on Artificial Intelligence at Kigali on 4 April 2025.",
+     "as_of": "2025-04-04", "date_precision": "day",
+     "system": "Africa Declaration on Artificial Intelligence", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Africa Declaration on Artificial Intelligence", "country_label": "Africa Declaration on Artificial Intelligence", "class": "cooperation", "platform": "", "owner": "African Union; Smart Africa", "tiers": ""},
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-26-benin-senegal-togo-roaming-sans-frontieres",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "La Nation reports that the 23rd general assembly of ARTAO, held in Lome on the Friday before 26 April 2026, brought together the twelve ECOWAS member states, the Alliance of Sahel States and Mauritania.", "as_of": "2026-04-24", "date_precision": "day", "system": "ARTAO (West Africa Telecommunications Regulators Association)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Free roaming agreements Senegal-Togo and Senegal-Benin", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

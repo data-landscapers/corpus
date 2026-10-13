@@ -1,0 +1,16 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "cooperation",
+   "stage": "3",
+   "part": "active",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BFA-001;BFA-005",
+   "gaps": "No source held says a thing the country agreed has been put into effect.",
+   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
+  }
+ ]
+}

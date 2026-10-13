@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-08-sen-aps-roa-bn-dakar-integration-numerique",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Senegal is named as one of the ten member countries of the West African Backbone Network (ROA-BN), created in December 2024 in Conakry.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "ROA-BN",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Ministers in charge of telecommunications and digital affairs of the ten ROA-BN members opened a two-day meeting in Dakar on 8 October 2026, hosted by Senegal, to validate a 2030 strategic vision.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "ROA-BN",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "The ROA-BN Interministerial Council, described as its highest political and strategic body, was reported as installed, as of the 8 October 2026 report; no installation date given.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "ROA-BN",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ROA-BN",
+   "country_label": "ROA-BN",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "ROA-BN members",
+   "tiers": ""
+  },
+  {
+   "system": "Mali-Senegal backbone interconnection at Kidira",
+   "country_label": "Kidira link",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

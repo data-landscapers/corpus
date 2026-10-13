@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-26-bfa-lefaso-aes-telecom-regulators-sahel-council",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The telecoms regulators of Burkina Faso, Mali (AMRTP) and Niger signed a cooperation convention creating the Conseil des regulateurs du Sahel, covering harmonised rules, free roaming, border spectrum coordination and joint positions in the ITU; the article gives no signing date, so its published date 2026-09-26 is used.", "as_of": "2026-09-26", "date_precision": "day", "system": "Conseil des regulateurs du Sahel (CRS)", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Conseil des regulateurs du Sahel (CRS)", "country_label": "Conseil des regulateurs du Sahel", "class": "cooperation", "platform": "", "owner": "ARCEP Burkina Faso, AMRTP Mali, ARCEP Niger", "tiers": "national telecoms regulators of the three AES states"},
+    {"system": "Free roaming across the AES", "country_label": "free roaming dans l'espace AES", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

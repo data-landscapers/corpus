@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-24-atu-cpl26-abuja-official",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The ATU's own release states that its Conference of Plenipotentiaries (Abuja, 23-24 July 2026) elected Eng. Kezias Kazuba Mwale of Zambia as Secretary General with 21 of 34 votes in the fourth round, to take office on 1 January 2027 for four years.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Zambia's Minister of Technology and Science, Felix C. Mutati, spoke at the ATU Conference of Plenipotentiaries in Abuja concluded on 24 July 2026.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "2026 Abuja Declaration on Meaningful Connectivity for Africa", "country_label": "", "class": "other", "platform": "", "owner": "ATU Member States", "tiers": ""}
+  ],
+  "note": ""
+}

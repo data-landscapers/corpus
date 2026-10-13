@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-15-pura-artp-ecowas-community-roaming-mou",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "PURA of The Gambia states it signed an MoU with Senegal's ARTP to implement the ECOWAS Community Roaming Regulation, with capped charges and free incoming calls for up to 30 days; the page carries no date, so the 2025-12-15 publication date is used.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "PURA-ARTP MoU on ECOWAS Community Roaming Regulation",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PURA-ARTP MoU on ECOWAS Community Roaming Regulation",
+   "country_label": "",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ECOWAS Community Roaming Regulation",
+   "country_label": "",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Services are scheduled to start 1 March 2026; a scheduled start is not a statement that it has started, so no effect fact. Earlier roaming agreements with Cote d'Ivoire, Ghana, Sierra Leone and Liberia are named without dates."
+}

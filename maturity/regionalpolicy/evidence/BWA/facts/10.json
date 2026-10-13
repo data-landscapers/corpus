@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-15-botswana-itu-radio-regulations-board-seat-bid-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "Botswana sent a delegation, led by its Ambassador to Zimbabwe, to the second African Preparatory Meeting (APM26-2) convened by the African Telecommunications Union in Victoria Falls on 27-29 May 2026, which drew 35 ATU member states, and took part in the discussions on common African positions.",
+     "as_of": "2026-05", "date_precision": "month", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "ITU Radio Regulations Board", "country_label": "", "class": "other", "platform": "", "owner": "International Telecommunication Union", "tiers": "Botswana is campaigning for a seat for candidate Basebi Mosinyi for 2027-2030; global body, not won"}
+  ],
+  "note": "Botswana attended an ATU meeting (member); its ITU RRB seat bid is a global body and the seat is not won."
+}

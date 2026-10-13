@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-06-sadc-harmoniza-posicao-conferencia-mundial-radiocomunicacoes",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active",
+     "fact": "Angola hosted in Luanda the third SADC preparatory meeting for the 2027 World Radiocommunication Conference, held 3 to 7 August 2026, supported by its telecommunications ministry; the meeting date is the event date, and the report is dated 6 August.",
+     "as_of": "2026-08-03", "date_precision": "day", "system": "SADC", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "SADC", "country_label": "Comunidade para o Desenvolvimento da Africa Austral (SADC)", "class": "cooperation", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ITU World Radiocommunication Conference", "country_label": "Conferencia Mundial de Radiocomunicacoes", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

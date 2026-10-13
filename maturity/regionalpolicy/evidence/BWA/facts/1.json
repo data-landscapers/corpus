@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-botswana-namibia-ict-cooperation-mou",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Botswana's Minister of Communications and Innovation and Namibia's Minister of ICT signed an ICT cooperation MoU in Kasane on 7 August 2026, covering digital transformation, cybersecurity, ICT infrastructure, connectivity, innovation, skills and emerging technologies.", "as_of": "2026-08-07", "date_precision": "day", "system": "Botswana-Namibia ICT cooperation MoU", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Botswana-Namibia ICT cooperation MoU", "country_label": "ICT cooperation MoU", "class": "cooperation", "platform": "", "owner": "Ministry of Communications and Innovation (Botswana); Ministry of ICT (Namibia)", "tiers": "ministries, mobile network operators, postal operators, regulators"}
+  ],
+  "note": ""
+}

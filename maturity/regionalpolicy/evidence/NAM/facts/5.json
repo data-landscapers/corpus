@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-namibia-botswana-ict-cooperation-mou",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Namibia's ICT ministry signed an MoU with Botswana's Ministry of Communication and Innovation framing cooperation on digital transformation, cybersecurity, affordable connectivity and skills; the article gives no signing date, so the published date is used.", "as_of": "2026-08-10", "date_precision": "day", "system": "Namibia-Botswana ICT cooperation MoU", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Namibia-Botswana ICT cooperation MoU", "country_label": "MoU", "class": "cooperation", "platform": "", "owner": "Namibia MICT and Botswana Ministry of Communication and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

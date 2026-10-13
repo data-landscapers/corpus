@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "cooperation",
+   "stage": "2",
+   "part": "member",
+   "effect": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-002;MUS-001",
+   "gaps": "No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
+   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
+  }
+ ]
+}

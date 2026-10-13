@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-25-atu-abuja-declaration-meaningful-connectivity-cpl26-thesun",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The 7th ATU Conference of Plenipotentiaries (CPL-26) was hosted in Abuja by Nigeria's communications ministry and concluded on 2026-07-24, with Nigeria assuming the chairmanship of the Conference for the next cycle.", "as_of": "2026-07-24", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Member states, Nigeria among them as host, adopted the 2026 Abuja Declaration on Meaningful Connectivity at the ATU conference on 2026-07-24, committing governments to technology-neutral regulation, spectrum and fibre access, cybersecurity and affordability.", "as_of": "2026-07-24", "date_precision": "day", "system": "Abuja Declaration on Meaningful Connectivity", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "African Telecommunications Union", "country_label": "ATU", "class": "cooperation", "platform": "", "owner": "ATU", "tiers": ""},
+    {"system": "Abuja Declaration on Meaningful Connectivity", "country_label": "", "class": "cooperation", "platform": "", "owner": "ATU member states", "tiers": ""}
+  ],
+  "note": ""
+}

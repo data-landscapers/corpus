@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-11-giz-smart-africa-digital-sovereignty-interview",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Smart Africa's Director General says the alliance has launched a cross-border digital identity pilot between Rwanda, Ghana and Benin, so Ghana takes part in a Smart Africa programme; the interview gives no date for joining, so the published date is used.", "as_of": "2026-08-11", "date_precision": "day", "system": "Smart Africa", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "Smart Africa's Director General says a cross-border digital identity pilot between Rwanda, Ghana and Benin has already been launched and shown to work; no date of launch is given, so the published date is used.", "as_of": "2026-08-11", "date_precision": "day", "system": "Smart Africa cross-border digital identity pilot", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "Smart Africa", "country_label": "Smart Africa", "class": "cooperation", "platform": "", "owner": "Smart Africa (intergovernmental alliance)", "tiers": ""},
+    {"system": "Smart Africa cross-border digital identity pilot", "country_label": "", "class": "cooperation", "platform": "", "owner": "Smart Africa", "tiers": ""}
+  ],
+  "note": ""
+}

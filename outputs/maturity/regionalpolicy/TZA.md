@@ -1,0 +1,11 @@
+# Tanzania
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Tanzania is [one of the seven member states of the East African Communications Organisation](<https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf>), with its regulator submitting data for 2024 and 2025. It [took part in the third steering committee of the Eastern Africa regional digital integration project in Nairobi on 5 and 6 May 2026](<https://www.eac.int/eadrip-news-updates/eardip-press-releases/3502-eac-partner-states-reaffirm-commitment-to-accelerating-regional-digital-integration-for-economic-transformation>). [The steering committee was reported by the East African Community's secretariat](<https://www.eac.int/eadrip-news-updates/eardip-press-releases/3502-eac-partner-states-reaffirm-commitment-to-accelerating-regional-digital-integration-for-economic-transformation>), which runs the project with the Intergovernmental Authority on Development.
+
+**What was agreed put into effect and in use.** The regional regulators' organisation [reports Tanzania's One Network Area cross-border voice traffic for 2025 as 148 million inbound minutes, up 36.4 per cent, and 577.7 million outbound minutes, up 59 per cent from 363.3 million](<https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf>). The One Network Area is the East African Community's shared roaming arrangement, under which roaming tariffs between member states were cut.
+
+***Noted, not assessed***. [National Internet Data Centre (Kijitonyama)](<https://pctechmag.com/2015/06/tanzania-to-become-eac-ict-hub-sets-up-national-internet-data-centre-idc/>).
+
+***Not held***. Nothing on the four questions.

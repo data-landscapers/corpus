@@ -1,0 +1,17 @@
+{
+  "slug": "2024-01-01-bocra-annual-report-2024",
+  "facts": [
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "BOCRA's 2024 annual report (year to March 2024) says the regulator engages regionally under the Communications Regulators' Association of Southern Africa framework, and its 2024-2029 strategic plan is aligned with the CRASA Strategic Plan 2023-2028; the document gives no event date, so the published year 2024 is used.",
+     "as_of": "2024", "date_precision": "year", "system": "Communications Regulators' Association of Southern Africa (CRASA)", "class": "cooperation"},
+    {"sub_indicator": "cooperation", "aspect": "part", "value": "member",
+     "fact": "BOCRA's 2024 annual report (year to March 2024) says the regulator engages continentally through the African Telecommunications Union; the document gives no event date, so the published year 2024 is used.",
+     "as_of": "2024", "date_precision": "year", "system": "African Telecommunications Union", "class": "cooperation"}
+  ],
+  "systems": [
+    {"system": "International Telecommunication Union", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": "BOCRA participates"},
+    {"system": "Universal Postal Union", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": "BOCRA participates"},
+    {"system": "FIRST, ICANN, ETSI, International Institute of Communications", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": "BOCRA participates; global bodies"}
+  ],
+  "note": ""
+}

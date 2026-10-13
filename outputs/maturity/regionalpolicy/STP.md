@@ -1,0 +1,11 @@
+# Sao Tome and Principe
+
+## Regional cooperation on digital policy
+
+**Part taken in regional digital policy.** Regulators from Sao Tome and Principe [took part in a data governance workshop in Maputo on 8 to 10 December 2025](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>) and [in the second Lusophone Africa data governance workshop in Luanda in June 2026](<https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda>). The country is [named in the programme for African developing island economies launched by the African Union's development agency on 24 July 2026](<https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies>). An agreement signed, a meeting hosted or chaired, or a seat won in the last three years is not recorded.
+
+**What was agreed put into effect and in use.** The nearest held fact is [the island economies programme](<https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies>), launched in July 2026 with digital transformation among its pillars, and nothing done under it in the country is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
+
+***Noted, not assessed***. [UNESCO Data Governance Toolkit](<https://www.unesco.org/en/articles/lusophone-countries-africa-deepen-digital-cooperation-strengthen-data-governance>); [ARCTEL-CPLP](<https://ager.st/index.php/pt/actualidades/19-annonces/124-workshop-para-a-arctel-sobre-promocao-e-medicao-da-conectividade-universal-e-significativa>); [Digital Governance Dialogues (UNU-EGOV, Cetic.br, NIC.br)](<https://www.biometricupdate.com/202603/palop-countries-collaborate-to-enhance-digital-identity-and-public-services>); [CPLP Charter of Rights and Principles in Digital Environments](<https://secretariadoexecutivo.cplp.org/media/axzbbtqn/2_cartacplp_princi-piosdireitosambientesdigitais.pdf>).
+
+***Not held***. No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.
