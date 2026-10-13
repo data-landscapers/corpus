@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-17-data-protection-data-processors-engagement-regulations",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "draft", "fact": "A draft of the Data Protection (Data Processors Engagement) Regulations, 2025, dated 6 October 2025 and marked subject to change, would require a processor's agreement to bar transfer of personal data from Malawi to another country except on the controller's written instructions and in compliance with Part VII of the Data Protection Act.", "as_of": "2025-10-06", "date_precision": "day", "system": "Data Protection (Data Processors Engagement) Regulations, 2025 (draft)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Data Protection (Data Processors Engagement) Regulations, 2025 (draft)", "country_label": "Data Protection (Data Processors Engagement) Regulations, 2025", "class": "rule", "platform": "", "owner": "Malawi Communications Regulatory Authority (author); Minister of Information and Digitalization (maker)", "tiers": ""}
+  ],
+  "note": "Draft regulation; its standard contractual clauses govern controller-processor engagement, not a published means of complying with the transfer rule, so no use fact."
+}

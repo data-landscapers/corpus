@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-09-itweb-africa-kenya-cross-border-data-transfer-guidance",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "ITWeb Africa reports that the Data Protection Act (2019), the Constitution and the Kenya Cloud Policy (2025) govern cross-border transfer of personal data in Kenya, and that the ODPC guidance sets out the legal obligations and conditions for lawful transfer abroad; the article gives no date for the rule itself, so the published date is used.", "as_of": "2026-09-09", "date_precision": "day", "system": "Kenya cross-border transfer framework (Data Protection Act 2019 and ODPC guidance)", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "ITWeb Africa reports the ODPC, through data commissioner Immaculate Kassait, has issued guidance on cross-border data transfers covering the conditions for lawful transfer, the safeguards required and the mechanisms for adequate protection; the article dates the report, not the issue, so the published date is used.", "as_of": "2026-09-09", "date_precision": "day", "system": "ODPC guidance on cross-border data transfers", "class": "rule"}
+  ],
+  "systems": [],
+  "note": ""
+}

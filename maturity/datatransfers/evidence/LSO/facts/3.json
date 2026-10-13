@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-31-lesotho-outdated-data-protection-act-no-commissioner-no-teeth",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Z. Mayet and Associates says Lesotho's Data Protection Act (Act No. 5 of 2012) is the law in force and has SADC-model-inspired rules on cross-border data transfers, which it says need modern adequacy tools; no date given for the statement, so the 2025-10-31 publication date is used.", "as_of": "2025-10-31", "date_precision": "day", "system": "Data Protection Act (Act No. 5 of 2012)", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "none", "fact": "Z. Mayet and Associates says the Data Protection Commission and Commissioner have not been appointed, so no authority exists to approve cross-border mechanisms or issue guidance, and that standard contractual clauses and binding corporate rules are not yet in place; no date given for the statement, so the 2025-10-31 publication date is used.", "as_of": "2025-10-31", "date_precision": "day", "system": "Data Protection Act (Act No. 5 of 2012)", "class": "rule"}
+  ],
+  "systems": [],
+  "note": ""
+}

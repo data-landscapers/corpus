@@ -1,0 +1,16 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "no evidence",
+   "standing": "",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a rule on sending personal data abroad, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-datatransfers.py."
+  }
+ ]
+}

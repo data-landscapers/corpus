@@ -1,0 +1,16 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "5",
+   "standing": "in-force",
+   "use": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-001;ETH-002",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-datatransfers.py."
+  }
+ ]
+}

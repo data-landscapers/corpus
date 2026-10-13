@@ -1,0 +1,17 @@
+{
+  "slug": "2023-03-22-somalia-data-protection-act-law-005-2023",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Articles 30 and 31 of Law No. 005 of 2023 bar a data controller from transferring personal data outside Somalia unless the recipient country, organisation or sector gives adequate protection, the recipient is bound by a law, binding corporate rules or contractual clauses giving it, or a stated exception such as the person's consent or a contract applies; the law takes effect on adoption by Parliament, promulgation by the President and publication in the Official Bulletin, and the document's date is the presidential signature date, taken as a proxy.",
+      "as_of": "2023-03-22",
+      "date_precision": "day",
+      "system": "Data Protection Act (Law No. 005 of 2023), Articles 30-31",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "Text of the law; states a rule on transfers (Arts 30-31) but no published list, model terms, forms or application; Art 30(4) only says the Authority may issue them."
+}

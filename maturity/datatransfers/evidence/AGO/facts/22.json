@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "Valor Económico reported on 26 June 2026 that the APD fined Crescer Tech about USD 505,000 (c. 549 million kwanzas) for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers, and Fast Digital Center USD 112,000 (c. 110 million kwanzas) for inadequate security measures and no notification; deliberation dates are not given, so the publication date is used.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

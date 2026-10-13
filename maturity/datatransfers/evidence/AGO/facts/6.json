@@ -1,0 +1,17 @@
+{
+  "slug": "2011-06-17-angola-lei-22-11-proteccao-de-dados-pessoais",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Lei n.º 22/11, arts 33-34, makes transfer of personal data abroad to a country with adequate protection subject to notification to the APD, and to a country without it subject to APD authorisation on stated grounds such as the data subject's written consent; art. 67 puts the law in force on publication, 17 June 2011.",
+      "as_of": "2011-06-17",
+      "date_precision": "day",
+      "system": "Lei n.º 22/11 da Protecção de Dados Pessoais",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "No published list of countries, model terms or procedure appears; art. 34 leaves contract conditions for the APD to determine."
+}

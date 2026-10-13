@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-13-zwe-potraz-cross-border-transfer-guideline",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "POTRAZ, the designated data protection authority, issued guideline CDPG 5 of 2024 under sections 6(1)(a) and 28(3) of the Cyber and Data Protection Act, effective from publication, barring data controllers from sending personal data abroad unless they have notified the Authority and met stated conditions (impact assessment, data subject consent, adequate protection in the destination country, a data-sharing agreement).", "as_of": "2024-11-13", "date_precision": "day", "system": "Cyber and Data Protection Implementation Guideline on Cross Border Transfer of Personal Information (CDPG 5 of 2024)", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "POTRAZ published its guideline CDPG 5 of 2024 on conditions for cross-border transfer of personal data, setting out the notification, impact assessment, consent, adequacy and agreement steps and a letter requesting prior authorization to the Authority, with a contact address for complaints and guidance.", "as_of": "2024-11-13", "date_precision": "day", "system": "Cyber and Data Protection Implementation Guideline on Cross Border Transfer of Personal Information (CDPG 5 of 2024)", "class": "rule"}
+  ],
+  "systems": [],
+  "note": ""
+}

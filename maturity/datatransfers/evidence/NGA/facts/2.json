@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-12-nigeria-data-protection-act-2023-official-gazette-text",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The Official Gazette text of the Nigeria Data Protection Act, 2023, signed 12 June 2023, lists in its contents a Part VIII on cross-border transfers of personal data (sections 41 to 43: basis for transfer, adequacy of protection, other bases for transfer outside Nigeria); the captured text stops at the contents and gives no provision wording.", "as_of": "2023-06-12", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Act, 2023", "country_label": "NDPA", "class": "rule", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""}
+  ],
+  "note": "Document is an excerpt (front matter and contents only); the provisions themselves are not stated."
+}

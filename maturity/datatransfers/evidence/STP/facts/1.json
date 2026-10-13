@@ -1,0 +1,13 @@
+{
+  "slug": "2022-06-24-data-protection-africa-sao-tome-and-principe",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force",
+     "fact": "ALT Advisory's factsheet says Law No. 03/2016 restricts, under Articles 19 and 20, sending personal data outside the national territory, permitted only where the receiving legal system ensures an adequate level of protection, otherwise by notification to the ANPDP with the person's unequivocal authorisation or with ANPDP authorisation backed by contractual clauses; it lists the law as in place with the authority operational; the page gives no date for the rule, so the page's last-updated date of 24 June 2022 is used.",
+     "as_of": "2022-06-24", "date_precision": "day",
+     "system": "Law No. 03/2016 on the Protection of Personal Data", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Law No. 03/2016 on the Protection of Personal Data", "country_label": "Lei n.º 03/2016", "class": "rule", "platform": "", "owner": "ANPDP (National Data Protection Agency)", "tiers": ""}
+  ],
+  "note": ""
+}

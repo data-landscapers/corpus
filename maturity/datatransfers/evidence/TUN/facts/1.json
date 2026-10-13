@@ -1,0 +1,10 @@
+{
+  "slug": "2004-07-27-tunisie-loi-organique-2004-63-protection-donnees-transfert",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Organic Law 2004-63 of 27 July 2004, arts. 50-52, bars transfer of personal data abroad where it harms public security or Tunisia's vital interests, allows it only to a country with an adequate level of protection, and requires prior authorisation of the data protection authority (INPDP) in every case, decided within one month; the document notes no replacement law had been adopted at its 2026 retrieval.", "as_of": "2004-07-27", "date_precision": "day", "system": "Loi organique n° 2004-63 du 27 juillet 2004", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Loi organique n° 2004-63 du 27 juillet 2004", "country_label": "Loi organique n° 2004-63", "class": "rule", "platform": "", "owner": "Instance Nationale de Protection des Données à Caractère Personnel (INPDP)", "tiers": ""}
+  ],
+  "note": ""
+}

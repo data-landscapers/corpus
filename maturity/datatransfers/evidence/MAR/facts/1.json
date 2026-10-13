@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-15-africas-digital-future-depends-on-seamless-data-flows",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "use", "value": "means",
+     "fact": "The DIAL expert comment states that Morocco's 2015 adequacy list, a list of countries personal data may be sent to, did not recognise a single African country; the year is the only date given.",
+     "as_of": "2015", "date_precision": "year",
+     "system": "Morocco's 2015 adequacy list", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Regional article; only the Morocco adequacy-list sentence concerns this country."
+}

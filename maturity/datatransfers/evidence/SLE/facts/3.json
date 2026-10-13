@@ -1,0 +1,17 @@
+{
+  "slug": "2020-11-06-sierra-leone-telecommunications-subscribers-registration-regulations-2020",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Regulation 22(3) of the Telecommunications (Subscribers Identification and Registration) Regulations 2020 (Statutory Instrument No. 35, Gazette of 6 November 2020) says subscribers' registration information shall not be transferred outside Sierra Leone without prior approval by the National Telecommunications Commission, and 22(4) requires any request for approval to justify the purpose; the document is dated 6 November 2020 and gives no commencement date or later repeal.",
+      "as_of": "2020-11-06",
+      "date_precision": "day",
+      "system": "Telecommunications (Subscribers Identification and Registration) Regulations 2020",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

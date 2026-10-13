@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-malawi-data-protection-act-2024-overview",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "ITLawCo states the Data Protection Act came into force on 3 June 2024 and that sections 38-40 restrict transfers of personal data outside Malawi unless the receiving country has adequate data protection laws or mechanisms such as binding corporate rules are in place.", "as_of": "2024-06-03", "date_precision": "day", "system": "Data Protection Act 2024", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "ITLawCo states that after the Act took effect MACRA published a Data Protection Handbook, which it says details safeguards for transferring personal data outside Malawi, including documentation and approval processes; the document gives no date for the Handbook, so the document's published year 2024 is used.", "as_of": "2024", "date_precision": "year", "system": "Data Protection Handbook (MACRA)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act 2024", "country_label": "Data Protection Act 2024", "class": "rule", "platform": "", "owner": "Malawi Communications Regulatory Authority (data protection authority)", "tiers": ""},
+    {"system": "Data Protection Handbook (MACRA)", "country_label": "Data Protection Handbook", "class": "rule", "platform": "", "owner": "Malawi Communications Regulatory Authority", "tiers": ""}
+  ],
+  "note": ""
+}

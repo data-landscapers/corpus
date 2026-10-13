@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,rule,standing,none,"The Sudanese Center for Policy Studies says mobile banking data transits infrastructure Sudan neither owns nor regulates, with no statutory requirement governing data localization or cross-border transfer; it only proposes localisation as a first legislative tranche.",2026-07-19,day,,rule,2026-07-19-sudan-scps-privacy-gap-intro,https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/

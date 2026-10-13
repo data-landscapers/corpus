@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-04-namibia-mp-data-control-concerns-china-smart-city-grant",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "Opposition MP Rodney Cloete (IPC shadow minister of international relations and trade) told the Windhoek Observer that Namibia has no data protection statute, so no rules govern cross-border transfers of data; this is a named actor's stated position, dated by the article's published date.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Rule on cross-border data transfers",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "MP's attributed statement that no cross-border transfer rule exists."
+}

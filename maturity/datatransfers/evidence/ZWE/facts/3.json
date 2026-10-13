@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-26-connectingafrica-potraz-data-protection-capacity-building",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "applied",
+      "fact": "POTRAZ, the data protection authority, said 24 cross-border transfers of personal data have been authorized; the document gives no date for the authorizations, so its published date of 2025-12-26 is used.",
+      "as_of": "2025-12-26",
+      "date_precision": "day",
+      "system": "Cyber and Data Protection Act",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

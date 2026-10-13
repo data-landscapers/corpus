@@ -1,0 +1,17 @@
+{
+  "slug": "2026-04-29-mauritanie-apd-reunion-mensuelle-transferts-etranger-cloud-deliberations-2025-004-005",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The agenda of the APD monthly meeting of 29 April 2026 lists discussion and approval of amending certain articles of deliberation 2025/004, which fixes the conditions, rules and procedures for transferring personal data abroad, and of deliberation 2025/005 on cloud outsourcing abroad; the passage shown does not give the outcome.",
+      "as_of": "2026-04-29",
+      "date_precision": "day",
+      "system": "Délibération n° 2025/004",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "Passages file is cut after the agenda; no outcome of the vote is shown."
+}

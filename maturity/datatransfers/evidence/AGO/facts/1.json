@@ -1,0 +1,17 @@
+{
+  "slug": "2021-03-10-angola-decreto-presidencial-60-21-regulamento-taxas-apd",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Presidential Decree 60/21 of 10 March 2021, the fee regulation of Angola's data protection agency (APD), lists an act of authorisation for international data transfer at a fee of Kz 350,450, so the APD's permission was a condition for sending personal data abroad; the document gives no date of effect other than its publication date, 2021-03-10.",
+      "as_of": "2021-03-10",
+      "date_precision": "day",
+      "system": "Regulamento das Taxas da Agência de Protecção de Dados (Tabela de Taxas da APD, item 1.7 Transferência internacional de dados)",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "Fee table for APD authorisations; the fee table, not guidance or a list of countries, so no fact on means or application."
+}

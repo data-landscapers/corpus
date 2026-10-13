@@ -1,0 +1,27 @@
+{
+  "slug": "2025-07-24-dz-joradp-loi-25-11-protection-donnees",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Law 25-11 of 24 July 2025, published in the Journal Officiel that day, adds article 45 bis 13 to Law 18-07, under which the competent authority assesses the adequate level of protection in a foreign State or international organisation before data are transferred there, for transfers for criminal-justice purposes, and allows transfer on insufficient safeguards only in listed cases (vital interests, public security threat, individual criminal cases); the document gives as_of as its publication date and states no separate entry-into-force date.",
+      "as_of": "2025-07-24",
+      "date_precision": "day",
+      "system": "Loi n° 25-11 modifiant et complétant la loi n° 18-07 (art. 45 bis 13)",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Article 45 bis 14, added by the same law of 24 July 2025, bars onward transfer of data received from a foreign State or organisation to another State unless the sending State or organisation has first accepted it, with an exception for the State's fundamental interests or a grave and immediate public-security threat.",
+      "as_of": "2025-07-24",
+      "date_precision": "day",
+      "system": "Loi n° 25-11 modifiant et complétant la loi n° 18-07 (art. 45 bis 14)",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

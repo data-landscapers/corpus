@@ -1,0 +1,17 @@
+{
+  "slug": "2021-03-24-zambia-data-protection-act-2021",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Zambia's Data Protection Act No. 3 of 2021, enacted 24 March 2021, sets conditions in Part X (sections 70-71) for sending personal data outside the Republic: data subject consent plus Commissioner-approved standard contracts or intragroup schemes, or a Ministerial prescription of permissible transfers on an adequate-level-of-protection test, or Commissioner approval of a transfer in necessity; sensitive personal data must stay in the Republic; the Act itself says it commences on a date the Minister appoints by statutory instrument, and the document gives no commencement date.",
+      "as_of": "2021-03-24",
+      "date_precision": "day",
+      "system": "Data Protection Act, 2021",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "No fact on the use aspect: the Act only provides for the Commissioner to approve standard contracts and for the Minister to prescribe criteria by statutory instrument; it states none published or applied."
+}

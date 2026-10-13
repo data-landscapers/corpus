@@ -1,0 +1,17 @@
+{
+  "slug": "2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Hunton reports that Angola's National Assembly passed Law 22/11 on 17 June 2011, under which the Data Protection Agency must approve international transfers to countries without adequate protection and controllers notify it of transfers to adequate countries; the note does not say when the law took effect.",
+      "as_of": "2011-06-17",
+      "date_precision": "day",
+      "system": "Lei n.º 22/11 (Personal Data Protection Law)",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

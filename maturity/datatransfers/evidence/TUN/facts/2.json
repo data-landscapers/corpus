@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-15-africas-digital-future-depends-on-seamless-data-flows",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "The DIAL article (published 2026-06-15) says Tunisia's 2018 adequacy list of countries for data transfers identified only five African countries.", "as_of": "2018", "date_precision": "year", "system": "Tunisia adequacy list (2018)", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Tunisia adequacy list (2018)", "country_label": "adequacy list", "class": "rule", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

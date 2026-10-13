@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "1",
+   "standing": "none",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datatransfers.py."
+  }
+ ]
+}

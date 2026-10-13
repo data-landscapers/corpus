@@ -1,0 +1,9 @@
+{
+  "slug": "2015-02-04-civ-decret-n2015-79-du-04-fevrier-2015-fixant-les-modalites-de-depot-des-d",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Decree 2015-79 of 4 February 2015, issued under law 2013-450, requires prior authorisation from the telecoms regulator ARTCI for transferring personal data to a third country that gives equal or higher protection, and sets sanctions for non-compliance (articles 6 and 8).", "as_of": "2015-02-04", "date_precision": "day", "system": "Décret n°2015-79 du 4 février 2015", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "means", "fact": "Decree 2015-79 (article 7) sets the procedure for applying to ARTCI to transfer personal data to third countries: a Ivorian-law legal entity files a dossier giving the data, purpose, safeguards, host country and its legal framework, with ARTCI deciding within one month (article 4); the decree is hosted on ARTCI's site.", "as_of": "2015-02-04", "date_precision": "day", "system": "Décret n°2015-79 du 4 février 2015", "class": "rule"}
+  ],
+  "systems": [],
+  "note": ""
+}

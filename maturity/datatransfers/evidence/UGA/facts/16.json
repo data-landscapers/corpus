@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-20-pdpo-google-breach-cross-border-data",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ruling applies Regulation 30 on cross-border transfers and Regulation 48 on offences, a fine up to three currency points a day or six months' imprisonment.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "In a ruling dated 18 July 2025 on a complaint of 8 November 2024, the PDPO found Google in breach for operating unregistered and transferring data abroad without adequate safeguards, and gave it 30 days to register and submit transfer-compliance evidence; compensation was declined as outside its authority.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

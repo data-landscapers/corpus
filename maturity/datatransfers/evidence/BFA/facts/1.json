@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "draft",
+     "fact": "On 3 August 2026 the Assemblée législative du peuple voted the personal data protection bill, and the Justice Minister said the law prohibits transferring sensitive data abroad; the article does not report promulgation, so the rule is recorded as adopted by the legislature but not yet reported in force.",
+     "as_of": "2026-08-03", "date_precision": "day",
+     "system": "Loi relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Loi relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel", "country_label": "Burkina Faso personal data protection law (2026 bill)", "class": "rule", "platform": "", "owner": "ARCOD (Autorité de régulation de la communication et de la protection des données à caractère personnel)", "tiers": ""}
+  ],
+  "note": ""
+}

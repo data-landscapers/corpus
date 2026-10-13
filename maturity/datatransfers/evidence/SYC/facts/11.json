@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-syc-information-commission-annual-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Commission received and handled 14 cases under the Act in 2025 (6 data transfers, 5 breaches, 2 refused deletion requests, 1 consultation), described as guidance, assessment and corrective advice, with no decision or sanction on a named controller and no count of cases settled.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

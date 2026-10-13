@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-uganda-pdpo-decision-adlegal-v-whatsapp-meta",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "The PDPO's decision of 20 February 2026 partly upheld a complaint against WhatsApp LLC and Meta Platforms, Inc. and ordered, within 90 days, a revised Uganda privacy policy, separation of core and ancillary processing with opt-in, a Regulation 30 adequacy assessment, an intra-group DPIA and a legitimate-interests assessment.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

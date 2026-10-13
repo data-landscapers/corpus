@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-28-thecitizen-tanzania-pdpc-compliance-inspections-august-31",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The PDPC found in preliminary assessments limited understanding of obligations, inaccurate registration data and unlawful data transfers abroad, and listed rectification directives, warning letters and fines as remedies; no sanction is named.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

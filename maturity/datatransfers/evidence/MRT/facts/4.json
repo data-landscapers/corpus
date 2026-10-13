@@ -1,0 +1,27 @@
+{
+  "slug": "2025-07-30-apd-mudawala-005-2025-khadamat-sahabiya-cloud-kharij",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Deliberation 005/2025 of the data protection authority (APD), adopted 30 July 2025, requires public- and private-sector controllers using cloud services abroad to obtain prior APD authorisation, with a separate foreign-transfer authorisation request where the host country is not on the country list published in deliberation 004/2025.",
+      "as_of": "2025-07-30",
+      "date_precision": "day",
+      "system": "مداولة رقم 005/2025",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "means",
+      "fact": "Deliberation 005/2025 refers to a list of countries published in the APD's deliberation 004/2025 that determines which host countries offer adequate protection.",
+      "as_of": "2025-07-30",
+      "date_precision": "day",
+      "system": "مداولة رقم 005/2025",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

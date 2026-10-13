@@ -1,0 +1,26 @@
+{
+  "slug": "2025-01-16-cape-verde-data-protection-law-dla-piper",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "DLA Piper states that Cape Verde's Data Protection Law (Law 133/V/2001 as amended, including by Law 41/VIII/2013 and Law 121/IX/2021) permits international transfer of personal data only to a country with an adequate level of protection, or otherwise with the data subject's consent or in listed situations such as contract necessity or vital interests; the document gives no date for the rule, so its published date of 2025-01-16 is used.",
+      "as_of": "2025-01-16",
+      "date_precision": "day",
+      "system": "Data Protection Law (Law 133/V/2001 as amended)",
+      "class": "rule"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection Law (Law 133/V/2001 as amended by Law 41/VIII/2013 and Law 121/IX/2021)",
+      "country_label": "Lei de Protecção de Dados Pessoais",
+      "class": "rule",
+      "platform": "",
+      "owner": "Comissão Nacional de Proteção de Dados Pessoais (CNPD)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

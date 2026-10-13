@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-18-djibouti-loi-019-code-numerique",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Loi n° 019/AN/23/9ème L (Code Numérique), published in the Journal Officiel on 2025-09-18, bars a controller or processor from transferring personal data to a third country or international organisation unless it ensures an equivalent and sufficient level of protection (art. 99), with exceptions such as consent, contract, public interest, legal claims or vital interests, or authorisation by the Commission nationale de protection des données (art. 102); the passages seen state no entry-into-force date, so the publication date is used.",
+      "as_of": "2025-09-18",
+      "date_precision": "day",
+      "system": "Loi n° 019/AN/23/9ème L portant Code Numérique, Livre premier, art. 99-103",
+      "class": "rule"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Loi n° 019/AN/23/9ème L portant Code Numérique, Livre premier, art. 99-103",
+      "country_label": "Code Numérique",
+      "class": "rule",
+      "platform": "",
+      "owner": "Commission Nationale de Protection des Données à Caractère Personnel",
+      "tiers": ""
+    }
+  ],
+  "note": "Art. 100 says the Commission publishes a list of countries recognised as adequate, but the passages do not state that a list has been published or any transfer decision made, so no use fact."
+}

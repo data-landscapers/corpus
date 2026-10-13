@@ -1,0 +1,17 @@
+{
+  "slug": "2017-07-22-mrt-loi-2017-020-protection-donnees-a-caractere-personnel-apd",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Articles 20 to 25 of Loi n° 2017-020 (Journal Officiel no. 1400, dated 22 July 2017) bar a data controller from transferring personal data to a third country unless it ensures a sufficient level of protection, with exceptions for one-off non-massive transfers on express consent or on stated necessity, and with authorisation by the data protection authority (APD) on guarantees such as contract clauses; the document is the enacted text and gives no repeal.",
+      "as_of": "2017-07-22",
+      "date_precision": "day",
+      "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "Fact dated to the law's date; the extract is truncated at article 71 and says nothing on whether the APD has published a country list or been applied, so no fact on the use aspect."
+}

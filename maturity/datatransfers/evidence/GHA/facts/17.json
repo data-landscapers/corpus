@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The roundup says amendments to the Data Protection Act 2012 are in process, would add rules on children's and sensitive data, retention limits, international transfers, impact assessments and privacy by design, and that a draft Data Protection Act, 2025 was published requiring domestic storage of certain data; no month is given for the draft, so 2025 is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

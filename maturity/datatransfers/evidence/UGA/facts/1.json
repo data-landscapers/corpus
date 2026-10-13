@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-23-pdpo-meta-whatsapp-cross-border-ruling",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The report says Uganda's Data Protection and Privacy Act, 2019 carries obligations including safeguards governing international transfers of personal data, which the Personal Data Protection Office applied in its ruling of 20 February 2026.", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act, 2019", "class": "rule"},
+    {"sub_indicator": "rule", "aspect": "use", "value": "applied", "fact": "The report says the Personal Data Protection Office on 20 February 2026 directed WhatsApp LLC and Meta Platforms Inc. to ensure lawful safeguards are in place for the cross-border transfer of Ugandan users' personal data, finding neither had met these requirements.", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act, 2019", "class": "rule"}
+  ],
+  "systems": [],
+  "note": ""
+}

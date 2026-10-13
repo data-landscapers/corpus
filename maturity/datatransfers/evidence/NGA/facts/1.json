@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-30-nigeria-joins-global-cbpr-privacy-forum",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Vanguard reports the NDPC National Commissioner saying the Nigeria Data Protection Act, enacted in June 2023, mandates the Commission to decide the adequacy of other countries' data protection as a basis for cross-border transfer of personal data, and that the Commission approves binding corporate rules, codes and certification mechanisms for such transfers.", "as_of": "2023-06", "date_precision": "month", "system": "Nigeria Data Protection Act (NDPA), 2023", "class": "rule"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Act (NDPA), 2023", "country_label": "NDPA", "class": "rule", "platform": "", "owner": "Nigeria Data Protection Commission (NDPC)", "tiers": ""}
+  ],
+  "note": "Membership of the Global CBPR Forum is other and not staged; no published means or application of the rule is stated."
+}

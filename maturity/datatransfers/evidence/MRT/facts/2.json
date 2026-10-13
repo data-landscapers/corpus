@@ -1,0 +1,27 @@
+{
+  "slug": "2026-04-30-apd-mauritanie-deliberation-005-2025-modifiee-cloud-etranger",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Deliberation 005/2025 of the data protection authority (APD), adopted 30 July 2025, requires public- and private-sector controllers using cloud services abroad to obtain prior APD authorisation, with a separate foreign-transfer authorisation request where the host country is not on the country list published in deliberation 004/2025. The text is the amended version published 2026-04-30.",
+      "as_of": "2025-07-30",
+      "date_precision": "day",
+      "system": "Délibération n° 005/2025",
+      "class": "rule"
+    },
+    {
+      "sub_indicator": "rule",
+      "aspect": "use",
+      "value": "means",
+      "fact": "The amended deliberation 005/2025 refers to a list of countries published in the APD's deliberation 004/2025, with a hosting choice limited to countries offering adequate protection as that deliberation determines; dated by the 30 July 2025 adoption.",
+      "as_of": "2025-07-30",
+      "date_precision": "day",
+      "system": "Délibération n° 005/2025",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

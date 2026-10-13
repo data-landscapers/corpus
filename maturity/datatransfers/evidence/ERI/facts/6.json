@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-08-levellers-ai-regulation-eritrea",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "none",
+     "fact": "Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no data protection legislation and no restriction on cross-border transfer of data in its law.",
+     "as_of": "2026-06-08", "date_precision": "day",
+     "system": "Eritrean law on cross-border transfer", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "One fact: dated statement that no rule restricts cross-border transfer; nothing on means of complying or application."
+}

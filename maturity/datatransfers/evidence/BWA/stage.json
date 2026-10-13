@@ -1,0 +1,16 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "rule",
+   "stage": "4",
+   "standing": "in-force",
+   "use": "means",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-001;BWA-002",
+   "gaps": "No source from the last three years naming a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad, is held.",
+   "note": "Counted from the four questions by study-ladder-datatransfers.py."
+  }
+ ]
+}

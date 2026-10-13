@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-datatransfers.md — the thirtieth maturity study: the rule on sending data out of the country, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill's word on the four questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: datatransfers
@@ -56,6 +56,11 @@ Asked in order. Each is answered with a date and a link.
 - **Guidance on the whole law that only mentions transfers is not a yes to question 3.**
 - **A penalty counts for question 4 only where a source ties it to sending data abroad.**
 - **Another country's or the European Union's decision about this country is not this country's rule applied.** It is noted.
+- **A law passed, with no source saying it has come into effect, is a yes to question 1 only** *(added in the run, for Zambia and Malawi's Act as first passed)*.
+- **A procedure set out in the rule's own text is not the authority publishing the means** *(added in the run, for Côte d'Ivoire)*.
+- **A ban on sending a kind of data abroad, with no condition on which it may leave, is not a yes** *(added in the run, for Burkina Faso)*.
+- **A source saying the country does not generally restrict sending data abroad is not a rule in force** *(added in the run, for Mozambique)*.
+- **A count of requests approved, given by the authority's head to the press, is a published count** *(added in the run, for Ethiopia)*.
 - **A stage says how far the rule has been put to work.** Whether it is strict or loose, and whether it matches the African Union's framework, is not judged. This is the change from the row as it stands, whose stage 5 is agreement with that framework.
 
 `study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `use` (`applied`, `means`, `none`) for 3 and 4.
@@ -66,24 +71,31 @@ The African Union's Convention on Cyber Security and Personal Data Protection (t
 
 ## 5. What the run reads
 
-- **Carried, nothing opened**: the 54 facts the data protection and data localisation studies hold that name sending data abroad, across 26 countries.
-- **Read first**: **21 news stories about sending data abroad**, across 15 countries. No study has read them.
-- **Then, for every country**: the news stories its current cell cites, 142 across 46 countries.
-- **Then, only for a country still short of an answer to question 1 or 2**: the held news that mentions the subject in passing, one call a country, from at most 192 stories across 42 countries.
-- **Not read**: the texts of the laws and long reports, 143 of them. One is opened only where a carried fact cites it and a question turns on it.
-- **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Carried, nothing opened**: the facts the data protection and data localisation studies hold that name sending data abroad.
+- **Read**: the 21 news stories about sending data abroad; the 142 stories the current cells cite; then, for a country still short of an answer to question 1 or 2, one call of the news that mentions the subject in passing.
+- **Not read**: the texts of the laws and long reports. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
-**40 million.** The run checks after every fan-out and stops at it. The regional infrastructure study read 333 stories for 41 million; this one reads 163 and at most 192 more, and the parent writes the summaries.
+**40 million.** The run checks after every fan-out and stops at it.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: carry, then the three reads of §5, each fan-out one workflow.
-- [ ] **D3. Stage** as at 2026-09-30; the parent reads every fact that would set stages 4 and 5; a second reader restages 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 27 facts carried from 25 the earlier studies hold; then 90 calls in two fan-outs; 74 facts.
+- [x] **D3. Staged** as at 2026-09-30: 5: 5, 4: 5, 3: 19, 2: 3, 1: 3, and 19 without evidence; six rows removed or revalued (`corrections.csv`); agreement 19 of 20, and the twentieth cell restaged the second reader's way.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Angola, Ethiopia, Mauritius, Uganda and Zimbabwe. **Stage 4**: Botswana, Kenya, Mauritania, Morocco and Tunisia.
+- **Nigeria is stage 3**: its 2025 fine followed an investigation that covered transfers, and the source does not tie the penalty to them.
+- **Zambia is stage 2**: the one source held says the Act starts on a date the minister appoints and gives none.
+- **Mozambique is stage 2** on its 2026 bill; **Burkina Faso has no evidence**, its bill being reported only as a ban.
+- **Eritrea, Namibia and Sudan are stage 1**; Namibia's on an opposition member of parliament's statement.
+- **Nineteen countries are without evidence**, Egypt, Rwanda, Benin and Togo among them: their news does not say what the law rules on sending data abroad.
+- **Tokens: about 46 million at the map**, ceiling 40 million, step 1 included. The writers took it over; the run was past its last fan-out when the count was read.
 
 ## Boundary
 

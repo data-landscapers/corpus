@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-17-dla-piper-data-protection-laws-mozambique",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "DLA Piper, last modified 17 February 2026 (date is the document's), says Mozambique has no specific data protection law and does not generally restrict cross-border transfers, but that data export requires authorisation from the data subject or a court decision, with the Constitution restricting disclosure to third parties without consent and the ratified AU Convention's adequacy bar applying.", "as_of": "2026-02-17", "date_precision": "day", "system": "Constitution of the Republic and AU Convention (Resolution 5/2019) as applied to data export", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Also states INTIC lacks the Convention's power to authorise transfers; no published means or application stated."
+}

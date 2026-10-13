@@ -1,0 +1,11 @@
+# Mauritania
+
+## Rule on sending data abroad
+
+**Rule in force.** [Articles 20 to 25 of Law 2017-020](<https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/112890/MRT-112890.pdf>), of 22 July 2017, bar a controller from sending personal data to a third country unless it ensures a sufficient level of protection, with authorisation by the data protection authority (APD) on guarantees such as contract clauses. [Deliberation 004/2025](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-004-2025-%d8%aa%d8%ad%d8%af%d8%af-%d8%b4%d8%b1%d9%88%d8%b7-%d9%88%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7/>), adopted by the APD on 14 July 2025, sets the conditions, rules and procedures for sending personal data abroad. [Deliberation 005/2025](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7/>), adopted on 30 July 2025, requires controllers using cloud services abroad to obtain prior APD authorisation.
+
+**Means of complying published and rule applied.** [Deliberation 005/2025](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7/>) refers to a list of countries, published in deliberation 004/2025, that determines which host countries offer adequate protection. Where the host country is not on that list, [a separate foreign-transfer authorisation request](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7-%d8%a7/>) is required, in the text amended and published on 30 April 2026. The [APD's monthly meeting of 29 April 2026](<https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-16/>) listed amending both deliberations on its agenda.
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

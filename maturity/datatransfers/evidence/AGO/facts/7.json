@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-11-ago-deliberacao-sobre-processos-contravencionais",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "applied",
+   "fact": "The APD fined Crescer Tech US$505,000 in 2026 for failing to notify and obtain authorisation for the international transfer of personal data to a cloud located abroad.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

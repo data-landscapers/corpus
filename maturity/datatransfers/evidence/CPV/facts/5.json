@@ -1,0 +1,17 @@
+{
+  "slug": "2013-09-17-cabo-verde-lei-41-viii-2013-protecao-dados-pessoais-transferencias",
+  "facts": [
+    {
+      "sub_indicator": "rule",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Lei n.º 41/VIII/2013, published 17 September 2013 and in force thirty days later, amends the general data protection law (Lei 133/V/2001) so that article 19 allows transfer abroad only to a country assuring an adequate level of protection, the CNPD deciding which foreign states do, and article 20 lets the CNPD permit transfer elsewhere on consent, contract necessity, public interest, vital interests or a public register, or authorise it where the controller gives sufficient guarantees such as adequate contractual clauses.",
+      "as_of": "2013-10",
+      "date_precision": "month",
+      "system": "Lei n.º 133/V/2001 as amended by Lei n.º 41/VIII/2013",
+      "class": "rule"
+    }
+  ],
+  "systems": [],
+  "note": "The text sets the rule but states no published list of countries, model clauses or form, and no application of the rule."
+}

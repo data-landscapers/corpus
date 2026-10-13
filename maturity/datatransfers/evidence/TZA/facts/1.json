@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-13-personal-data-protection-act-2022",
+  "facts": [
+    {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The Personal Data Protection Act, Chapter 44, published in the Gazette on 13 June 2023 (the document's published date; no commencement date is given in the captured text), contains Part V on transborder data flow: section 31 on transfer of personal data to a state with adequate data protection and section 32 on transfer to a state without adequate protection.", "as_of": "2023-06-13", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "rule"}
+  ],
+  "systems": [],
+  "note": "Passages capture shows only the arrangement of sections and the opening sections; the text of ss.31-32 is not captured, so no condition, means of complying or application is recorded."
+}
