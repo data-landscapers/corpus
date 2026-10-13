@@ -1,0 +1,9 @@
+{
+  "slug": "2020-10-23-national-planning-and-budgeting-act-2020-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "National Development Coordinating Committee", "country_label": "Statutory planning and budgeting committee with civil-society, private-sector and professional members; advises Cabinet on national development plans and budgets, not on a named digital law or policy", "class": "other", "platform": "", "owner": "Ministry responsible for national planning", "tiers": "national; provincial; district"},
+    {"system": "Cluster Advisory Group", "country_label": "Advisory group for non-state actor input to planning and budgeting; not tied to a named digital law or policy", "class": "other", "platform": "", "owner": "Minister responsible for national planning", "tiers": "national"}
+  ],
+  "note": "Planning and budgeting law with a rule for non-state participation; nothing digital and no consultation or opinion on a named digital law or policy, so no fact."
+}

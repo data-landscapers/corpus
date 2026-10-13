@@ -1,0 +1,17 @@
+{
+  "slug": "2026-02-19-ministry-validates-digital-transformation-and-ai-strategies",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Ministry of Information and Communications Technology, through the Department of E-Government, opened a two-day national validation workshop in Lilongwe on the draft National Digital Transformation Strategy and draft National AI Strategy, bringing together government institutions, regulators, the private sector, civil society and academia; the date is taken as the Wednesday before the 19 February 2026 report.",
+     "as_of": "2026-02-18", "date_precision": "day",
+     "system": "Draft National Digital Transformation Strategy and Draft National AI Strategy", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "During the validation workshop the government launched the 'Shape Malawi's Digital and AI Future Portal', a public platform to collect wider citizen feedback on the two draft strategies before they are finalised; the document also says the drafts followed regional multi-stakeholder engagements in August 2025.",
+     "as_of": "2026-02-18", "date_precision": "day",
+     "system": "Draft National Digital Transformation Strategy and Draft National AI Strategy", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Shape Malawi's Digital and AI Future Portal", "country_label": "Public portal for citizen feedback on the draft digital and AI strategies", "class": "consultation", "platform": "", "owner": "Ministry of ICT, Department of E-Government", "tiers": ""}
+  ],
+  "note": ""
+}

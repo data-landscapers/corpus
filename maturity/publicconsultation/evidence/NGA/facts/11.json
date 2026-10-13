@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-03-ndpc-validation-workshop-data-privacy-framework-ecommerce",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Nigeria Data Protection Commission held validation workshops on a Data Privacy Framework for e-commerce, an earlier one in Lagos with private-sector stakeholders and one in Abuja with ministries, departments, agencies and other stakeholders, as reported on 3 September 2026 (no event date given, so the published date is used).",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Data Privacy Framework for e-commerce",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

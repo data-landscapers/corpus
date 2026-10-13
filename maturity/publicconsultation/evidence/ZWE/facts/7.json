@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-zimbabwe-national-ai-strategy-2026-2030",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Ministry of ICT, Postal and Courier Services held a National Multi-Stakeholder Consultation in Harare on 28 August 2025, then sessions in Bulawayo on 9 September and Masvingo on 11 September 2025, to interrogate and validate the Kadoma Draft of the National AI Strategy 2026-2030, with academia, the private sector, civil society and diaspora representatives among those whose contributions the Ministry credits.",
+     "as_of": "2025-08-28", "date_precision": "day",
+     "system": "Zimbabwe National Artificial Intelligence (AI) Strategy 2026-2030", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "AI & Ethics Dare", "country_label": "public consultation forum named in the strategy as a way citizens shape AI policy; no date or law put to it", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National AI Council", "country_label": "council the strategy says is to be established; set up only proposed, no opinion on a named law", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""},
+    {"system": "National Digital Regulatory Committee", "country_label": "proposed multi-stakeholder committee in an appendix; not set up, no opinion given", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

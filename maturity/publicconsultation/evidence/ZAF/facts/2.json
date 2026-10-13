@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-10-zaf-sundaytimes-2026-10-10-public-consultation-to-update-universal-access-po",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Universal Service and Access Agency of South Africa opened a public consultation on a discussion document on whether to retain, revise or replace the 2010 ministerial determination on universal access and universal service, and said it will use submissions from stakeholders and the public to advise the communications and digital technologies minister; the report is dated 2026-10-10 and gives no opening date.",
+      "as_of": "2026-10-10",
+      "date_precision": "day",
+      "system": "Ministerial determination on universal access and universal service (2010), under review",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "USAASA public consultation on the universal access and universal service determination",
+      "country_label": "Public consultation on a discussion document",
+      "class": "consultation",
+      "platform": "",
+      "owner": "Universal Service and Access Agency of South Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

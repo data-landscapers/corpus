@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-08-mar-lenew-inclusion-numerique-jeunes-femmes-handicap",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "On 7 September 2026 the minister delegate for digital transition, Amal El Fallah Seghrouchni, held a dialogue in Rabat with more than 100 participants from civil society, administrations, institutions and universities, in three workshops on digital training for youth, digital skills for women and access to digital public services for people with disabilities, whose proposals are to feed the update of the third national Open Government action plan 2024-2028 (LeNew, 8 September 2026).",
+      "as_of": "2026-09-07",
+      "date_precision": "day",
+      "system": "Third national Open Government action plan 2024-2028 (update), digital inclusion commitments",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Third national Open Government action plan 2024-2028",
+      "country_label": "Open government action plan with digital inclusion commitments",
+      "class": "consultation",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Administrative Reform",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

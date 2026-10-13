@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-04-wits-sa-ai-policy-fake-research",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "A Wits University commentary states that on 10 April 2026 the Department of Communications and Digital Technologies published the Draft South Africa National Artificial Intelligence Policy for public comment; the draft was withdrawn 16 days after gazetting because its references were fabricated.",
+     "as_of": "2026-04-10", "date_precision": "day", "system": "Draft South Africa National Artificial Intelligence Policy", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

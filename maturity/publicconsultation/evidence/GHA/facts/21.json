@@ -1,0 +1,14 @@
+{
+  "slug": "2023-12-01-ghana-national-action-plan-2024-2028",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "Ghana's OGP Secretariat and Multi-Stakeholder Forum co-created the fifth Open Government Partnership National Action Plan (NAP 5) in 2023 with civil society organisations (including GACC, GII, CDD, IDEG and MFWA) and government agencies in consultative meetings and an October 2023 co-creation workshop, and the plan carries commitments on misinformation on digital platforms, on amending the Electronic Communications Act 2008, and on data sharing and open data (published 2023-12, event dated October 2023).",
+     "as_of": "2023-10", "date_precision": "month",
+     "system": "Ghana OGP National Action Plan 5 (2024-2028)", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Ghana OGP National Action Plan 5 (2024-2028)", "country_label": "open government action plan co-created with civil society", "class": "consultation", "platform": "", "owner": "Ghana OGP Secretariat / Multi-Stakeholder Forum", "tiers": ""},
+    {"system": "Ghana OGP Multi-Stakeholder Forum", "country_label": "OGP steering body with civil society and parliament members; document does not say it gave an opinion on a named digital law", "class": "other", "platform": "", "owner": "Ghana OGP Secretariat", "tiers": ""}
+  ],
+  "note": "OGP action plan: one fact (held) only; no published consultation report on the plan stated and no rule requiring it, and the standing forum is set up/meeting, not shown giving an opinion on a named digital law."
+}

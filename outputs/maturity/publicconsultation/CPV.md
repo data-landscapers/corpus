@@ -1,0 +1,11 @@
+# Cape Verde
+
+## Consultation on digital law and policy
+
+**Consultation and what was published of it.** ARME, the country's regulator, [opened a public consultation on a proposed regulatory framework for satellite communication networks and services](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>), which the trade press reported on 5 August 2026. Submissions were open until 31 August 2026.
+
+**Required consultation and standing body.** The Conselho Consultivo da Economia Digital, a consultative council on the digital economy, [held its third ordinary meeting on 25 November 2025](<https://www.governo.cv/a-economia-digital-e-um-pilar-estrategico-para-o-crescimento-de-cabo-verde-ministro-olavo-correia/>), chaired by the minister. The digital economy strategy and the Morabeza project were presented at it. Under the country's open government action plan, the [commitment on an open data policy and portal](<https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0004/>) proposes a consultation with civil society, which the Ministry of State Modernization and Public Administration had not held when the commitment was recorded.
+
+***Noted, not assessed***. The [sixth Internet Governance Forum of Cabo Verde](<https://inps.cv/inps-mobile-apresentado-no-6-o-forum-de-governacao-da-internet-igf-cabo-verde-2026/>) in 2026, with no named law or policy put to it; the [public consultation of titleholders on provisional land registry data](<https://ingt.gov.cv/ingt/Servi%C3%A7os/cadastro-predial/>), which is not on a digital law or policy; the annual [Semana do Digital](<https://expressodasilhas.cv/eitec/2026/03/09/comeca-hoje-a-semana-do-digital/101778>), [set up by Resolution 24/2026](<https://expressodasilhas.cv/eitec/2026/02/13/cabo-verde-passa-a-assinalar-anualmente-semana-do-digital/101395>), which is not a consultation.
+
+***Not held***. No published report of a consultation on a digital law or policy, no set of comments received and no written answer to them is held from the last three years. Nothing held states who answered the satellite consultation, the instrument that set up the council or any view it gave, or a rule that required a consultation.

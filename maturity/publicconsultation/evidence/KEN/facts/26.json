@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-06-kenya-national-data-governance-policy-validation",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Ministry of Information, Communications and the Digital Economy held a public sector stakeholder validation workshop in Nairobi on 5 February 2026 on the draft National Data Governance Policy, with representatives of the private sector, academia and civil society in the room, as part of a consultation process the Ministry says included surveys, town hall meetings, key informant interviews and regional engagements.",
+      "as_of": "2026-02-05",
+      "date_precision": "day",
+      "system": "National Data Governance Policy",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Data Governance and Emerging Technologies Council",
+      "country_label": "Planned council with a multi-stakeholder steering committee of state and non-state actors; only announced, not yet set up",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information, Communications and the Digital Economy",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

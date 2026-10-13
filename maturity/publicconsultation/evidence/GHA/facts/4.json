@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-23-data-harmonisation-bill-2025-consultation-graphic",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The National Information Technology Agency (NITA) put out its draft Data Harmonisation Bill 2025 and invited all stakeholders and the general public, including citizens, academia and the private sector, to make submissions in a public consultation announced on 2025-10-23 and set to run from 2025-11-19 to 2025-11-27 via the consultation document on its website.", "as_of": "2025-10-23", "date_precision": "day", "system": "NITA Data Harmonisation Bill 2025", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "NITA Data Harmonisation Bill 2025 consultation", "country_label": "Public consultation on draft bill, via nita.gov.gh/publicconsultation", "class": "consultation", "platform": "", "owner": "National Information Technology Agency (NITA)", "tiers": ""}
+  ],
+  "note": ""
+}

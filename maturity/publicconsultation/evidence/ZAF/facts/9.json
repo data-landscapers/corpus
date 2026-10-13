@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-05-usaasa-usaf-manual-approved",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "USAASA released the revised Universal Service and Access Fund (USAF) manual for public comment in February 2026, after withdrawing an earlier version released for comment in November 2025; the manual was then approved by the Minister, as reported on 5 October 2026 (ITWeb).",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Universal Service and Access Fund manual",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

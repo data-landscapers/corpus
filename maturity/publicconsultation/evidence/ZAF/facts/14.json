@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-04-zaf-icasa-notice-4130-telecoms-affordability-market-inquiry",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "ICASA gazetted on 4 September 2026 a notice of an inquiry under section 4B of the ICASA Act into the affordability of telecommunications services, inviting stakeholders' written responses to a questionnaire and public comment on a discussion document, with possible public hearings.",
+      "as_of": "2026-09-04",
+      "date_precision": "day",
+      "system": "ICASA market inquiry into the affordability of telecommunications services (Notice 4130 of 2026)",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "Consultation fact from the regulator's own gazette notice; the s4B duty to hold an inquiry is not a rule requiring consultation, so no standing fact."
+}

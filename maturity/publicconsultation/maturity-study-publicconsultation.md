@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-publicconsultation.md — the thirty-fourth maturity study: consultation of people outside government on digital law and policy, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the four questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: publicconsultation
@@ -12,7 +12,7 @@ status: prepared 2026-10-13; waits for Bill to confirm the four questions
 
 ## 1. What is assessed
 
-**Whether people outside government get a say in the country's digital laws and policies**: whether the government or a regulator asks them, publishes what they said, is required to ask, and keeps a standing body where they sit. It counts whatever the consultation, the rule or the body is called.
+**Whether people outside government get a say in the country's digital laws and policies**: whether the government or a regulator asks them, publishes what they said, is required to ask, and keeps a standing body where they sit.
 
 **People outside government** are civil society, companies and their associations, academics and the public. Donors, United Nations agencies and hired consultants are not.
 
@@ -24,7 +24,7 @@ The study redraws `gov.discourse--non-governmental-contribution-to-national-poli
 |---|---|---|
 | Consultation on digital law and policy | Non-governmental contribution to national policy: consultation on digital law and policy | `gov.discourse--non-governmental-contribution-to-national-policy-consultation-on-digital-law-and-policy` |
 
-Anything else the evidence names is `other`, noted and never staged: a national internet governance forum; a conference, summit or debate with no named law or policy put to it; a consultation on something that is not digital, such as a constitution, a budget or a development plan; a civil-society report, statement, petition or campaign the government did not ask for; a workshop attended only by officials, donors and consultants; an open government action plan with no digital commitment; a regional or continental consultation.
+Anything else the evidence names is `other`, noted and never staged: a national internet governance forum; a conference or debate with no named law or policy put to it; a consultation on something not digital; a civil-society report or campaign the government did not ask for; a workshop of officials, donors and consultants only; an open government action plan with no digital commitment; a regional or continental consultation.
 
 ## 2. The questions
 
@@ -58,7 +58,7 @@ Asked in order. Each is answered with a date and a link.
 - **A validation workshop is a yes to question 1 only where the source names someone from outside government in the room.**
 - **A regulator consulting the companies it licenses is a yes to question 1.** The summary says who was asked.
 - **A hearing held by parliament on a digital bill is a yes to question 1.**
-- **An open government action plan is a yes to question 1 only**, and only where the source says civil society helped write it and it carries a commitment on digital government, data or the internet. A published report on that plan is a yes to question 2.
+- **An open government action plan is a yes to question 1 only**, and only where the source says civil society helped write it and it carries a commitment on digital government, data or the internet. A report on that plan by the Open Government Partnership's own reviewers is not a yes to question 2: the government did not publish it. *(Reworded in the run; no stage moved.)*
 - **A complaint that a consultation was too short or ignored does not undo a yes.** It is noted.
 - **Whether the views changed anything, and how open or fair the consultation was, is not judged.**
 - **Two more changes from the row as it stands**: its stage 4 asks that outside views be traceable in the adopted text, which needs two texts compared; its stage 5 is the African Charter on Democracy's end state. Neither is a fact one story can state.
@@ -71,9 +71,8 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 
 ## 5. What the run reads
 
-- **Carried, nothing opened**: the current cells' own text for the 26 placed countries, matched to the questions.
 - **Read**: **337 news stories about consultation that no study has read for this**, in 53 countries, every one but Equatorial Guinea; and the 111 stories and 14 texts the current cells cite.
-- **Not read**: the long texts and reports, and the news that mentions consultation in passing. Stories earlier studies read for another question are read again where they are about consultation: none of those studies recorded it. **No web search and no handover to OSINT.**
+- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -82,10 +81,20 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: carry, then one fan-out of drafters over §5.
-- [ ] **D3. Stage** as at 2026-09-30; the parent reads every fact setting stage 4 or 5; a second stager on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 145 drafters in one fan-out over the 462 documents of §5. 126 facts in 35 countries.
+- [x] **D3. Staged** as at 2026-09-30: 4: 2, 3: 2, 2: 29, none at 1 or 5, 21 without evidence; agreement 17 of 20. Question 4 is unanswered everywhere.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 4**: Kenya, on its 2026 communications regulations, consulted on under the Statutory Instruments Act; Liberia, on satellite rules consulted on under the Telecommunications Act.
+- **Stage 3**: Senegal, on its regulator's published synthesis on fibre sharing; Seychelles, on the published response on virtual asset providers.
+- **Stage 2**: 29 countries, South Africa and Nigeria among them.
+- **Removed by the parent**: Benin's planned open government consultations and Zambia's postal bill, leaving both without evidence.
+- **The second stager split on three**: Lesotho, whose bill was circulated with no outsider named, held at stage 2; Nigeria and Tunisia, on the rule reworded in §3.
+- **Of the row's 26 placed**, Togo, Eritrea, Gabon, Madagascar and Niger are without evidence.
+- **Tokens: about 57 million at the map**, ceiling 60 million, step 1 included.
 
 ## Boundary
 

@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-01-zmb-enhancing-death-registration-system-through-electronic-medical-records",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INRIS",
+   "country_label": "Integrated National Registration Information System",
+   "class": "",
+   "platform": "",
+   "owner": "DNRPC",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCare",
+   "country_label": "National electronic medical records system",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Stakeholder meetings among ministries, agency and donors on a system workflow; no named digital law or policy and no one outside government."
+}

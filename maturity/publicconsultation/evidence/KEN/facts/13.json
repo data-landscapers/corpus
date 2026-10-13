@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-30-ken-bowmans-national-payment-system-bill-2026-analysis",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The National Treasury with the Central Bank of Kenya published the Draft National Payment System Policy and the National Payment System Bill, 2026 for public consultation with comments due 9 October 2026, and held public participation forums across the country; payment providers, banks and fintechs are addressed as commenters (date is the document's publication date).",
+      "as_of": "2026-09-30",
+      "date_precision": "day",
+      "system": "National Payment System Bill, 2026 and Draft National Payment System Policy",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

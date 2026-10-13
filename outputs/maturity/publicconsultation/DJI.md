@@ -1,0 +1,11 @@
+# Djibouti
+
+## Consultation on digital law and policy
+
+**Consultation and what was published of it.** Djibouti's Ministry of Digital Economy and Innovation [held a national consultation workshop on 22 January 2026](<https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives>) for the country's first national artificial intelligence strategy, with about 80 participants from ministries, UN bodies and partners, universities, the private sector and civil society organisations. The ministry also ran a national diagnostic phase, and [the contributions of business, civil society, young innovators and national experts are to feed the final text](<https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-prepare-sa-strategie-nationale-d-intelligence-artificielle>).
+
+**Required consultation and standing body.** The same ministry, which goes by MDENI, [presented the adopted Digital Code to a business group](<https://techreviewafrica.com/news/3063/djibouti-showcases-new-digital-code-at-gafd-general-assembly>), reported in November 2025, and did not ask for its views. Outside digital policy, the government [held consultations on the national development plan for 2025 to 2030](<https://www.lanation.dj/pnd-2025-2030-dikhil-au-centre-des-consultations-pour-batir-lavenir/>).
+
+***Noted, not assessed***. A [validation workshop on the draft National Land Policy](<https://igad.int/djibouti-advances-its-national-land-policy-for-inclusive-and-sustainable-land-governance/>), attended by ministries, regional authorities and institutions; the [Africa Internet Governance Forum 2025](<https://igf.africa/wp-content/uploads/2025/06/AfIGF2025-Communique.pdf>), a regional forum held in Tanzania that Djibouti officials attended; the [launch of the Digital Economy and Innovation Roadmap](<https://www.undp.org/djibouti/news/launch-roadmap-digital-economy-and-innovation>) in 2022.
+
+***Not held***. No report of a consultation on a digital law or policy, no comments received and no written answer to them is held from the last three years. Nothing held states a rule that required a consultation, or a standing body that gave a view.

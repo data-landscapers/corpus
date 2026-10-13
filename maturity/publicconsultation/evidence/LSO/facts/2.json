@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-23-lso-govls-cybersecurity-bill-2026-consultation",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Ministry of Information, Communications, Science, Technology and Innovation circulated the draft Cybersecurity Bill 2026 for stakeholder review in August 2026, and opened a second two-day consultation workshop on it in Maseru on 2026-09-23 with the Lesotho Communications Authority and UNDP, as the Department of Information reports.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Cybersecurity Bill 2026",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Forum",
+   "country_label": "Multi-stakeholder forum launched July 2026 (public, private, academia, civil society, technical community); no opinion on a named law stated here",
+   "class": "other",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  },
+  {
+   "system": "Cybersecurity Bill 2026",
+   "country_label": "Bill split from the 2024 Computer Crime and Cybersecurity Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

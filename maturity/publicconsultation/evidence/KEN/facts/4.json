@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-kictanet-youth-day-2026-technology",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Internet Governance Forum", "country_label": "internet governance forum convened by KICTANet", "class": "other", "platform": "", "owner": "KICTANet", "tiers": ""},
+    {"system": "Kenya Youth Internet Governance Forum", "country_label": "youth forum run by KICTANet before the national IGF", "class": "other", "platform": "", "owner": "KICTANet", "tiers": ""}
+  ],
+  "note": "Civil-society internet governance forums and training; no government consultation on a named digital law or policy."
+}

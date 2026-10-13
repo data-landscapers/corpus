@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "consultation",
+   "stage": "4",
+   "hearing": "answered",
+   "standing": "required",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-004;KEN-017;KEN-014",
+   "gaps": "No source from the last three years says a standing body with members from outside government gave its view on a named digital law or policy.",
+   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
+  }
+ ]
+}

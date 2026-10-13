@@ -1,0 +1,27 @@
+{
+  "slug": "2026-08-10-artp-synthese-consultation-publique-fibre-optique-fttx",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The telecoms regulator ARTP launched a public consultation in March 2026 on the deployment and sharing of fibre networks to the end subscriber (FTTx), seeking contributions from operators, alternative infrastructure operators, public developers, equipment makers, integrators, consultancies and individuals.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "ARTP public consultation on FTTx fibre deployment and sharing",
+      "class": "consultation"
+    },
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "answered",
+      "fact": "ARTP published a synthesis of the twenty-one contributions received to its FTTx fibre deployment and sharing consultation, setting out points of convergence and the differing positions expressed.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "ARTP public consultation on FTTx fibre deployment and sharing",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-16-fratmat-artci-procedure-harmonisee-plaintes",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "ARTCI held a two-day workshop at Assinie on 13-14 August 2026 where operators, internet service providers and consumer associations reviewed and amended its draft decision on a harmonised consumer complaints procedure for electronic communications services.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Harmonised consumer complaint handling procedure (draft ARTCI decision)",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

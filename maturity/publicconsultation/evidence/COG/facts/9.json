@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-09-uneca-congo-ecosysteme-donnees-fiable",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Ministry of Posts, Telecommunications and Digital Economy, with the UN Economic Commission for Africa and GIZ, held a stakeholder workshop in Brazzaville on 8-9 June 2026 with 60 participants to help draft the National Data Governance Strategy, after an assessment mission of 2-6 June consulting 21 institutions from government, regulators, academia, the private sector, civil society and development partners.",
+      "as_of": "2026-06-09",
+      "date_precision": "day",
+      "system": "Stratégie nationale de gouvernance des données",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "One held consultation on the draft national data governance strategy; no published report of comments or answer, no legal requirement or standing body stated."
+}

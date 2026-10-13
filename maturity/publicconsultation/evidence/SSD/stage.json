@@ -1,0 +1,16 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "consultation",
+   "stage": "2",
+   "hearing": "held",
+   "standing": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-001",
+   "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
+  }
+ ]
+}

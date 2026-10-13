@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-27-cpv-portal-da-transparencia-em-consulta-publica",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Ministry of Finance put the draft Portal da Transparencia, a public-finance transparency portal with downloads and API data exchange, out to public consultation from 27 June to 17 July 2025.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "Portal da Transparencia de Cabo Verde",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": "Law 55/IX/2019 art. 79(2) requires the portal, not a consultation on it, so no standing fact."
+}

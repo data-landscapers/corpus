@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Privacy Summit, Privacy Week 2026",
+      "country_label": "summit whose communique the Nigeria Data Protection Commission released; no named law or policy put to it",
+      "class": "other",
+      "platform": "",
+      "owner": "Nigeria Data Protection Commission",
+      "tiers": ""
+    },
+    {
+      "system": "Lagos Generative AI Assessment Platform",
+      "country_label": "Lagos State platform for developers and organisations to assess AI systems; not a consultation",
+      "class": "other",
+      "platform": "STANDARD Framework",
+      "owner": "Lagos State",
+      "tiers": "state"
+    }
+  ],
+  "note": "Nigeria items are a summit communique, enforcement and an MoU; no consultation on a named digital law or policy is stated for Nigeria."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-10-26-action-namibia-government-seeks-public-input-draft-data-protection-bill",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "Namibia's Ministry of Information and Communication Technology put the draft Data Protection Bill out for public comment, urging Namibians to send written submissions by 30 November 2022 (date taken from the 26 October 2022 publication; the draft was available from the ministry website and regional council offices).",
+     "as_of": "2022-10-26", "date_precision": "day", "system": "Data Protection Bill", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

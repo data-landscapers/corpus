@@ -1,0 +1,11 @@
+# Tanzania
+
+## Consultation on digital law and policy
+
+**Consultation and what was published of it.** On [12 March 2026](<https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data>) the United Nations Economic Commission for Africa, working with the Government of Tanzania, convened a national validation workshop in Dodoma on the draft Tanzania Electronic Data Governance Strategy, known as TZeDGS. Regulatory authorities, academic institutions and sectoral agencies took part in the workshop and gave their views on the draft, and [what they said informed refinements to the strategy](<https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data>). The Ministry of Communication and Information Technology closed the workshop.
+
+**Required consultation and standing body.** The [Africa Internet Governance Forum 2025](<https://igf.africa/wp-content/uploads/2025/06/AfIGF2025-Communique.pdf>) was held in Dar es Salaam, with the Government of Tanzania as host. [National consultations on the East African Community's Regional AI Strategy](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>) were held in Tanzania on 12 February 2026.
+
+***Noted, not assessed***. The [Africa Internet Governance Forum 2025](<https://igf.africa/wp-content/uploads/2025/06/AfIGF2025-Communique.pdf>), a continental forum held in Dar es Salaam; [national consultations on the East African Community's Regional AI Strategy](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>), held in Tanzania on 12 February 2026; an [East African Community survey of users of its regional statistics](<https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics>); the [Open Government Partnership](<https://d-portal.iatistandard.org/ctrack.html#view=act&aid=44000-P133798>), which Tanzania joined.
+
+***Not held***. No report of a consultation on a digital law or policy, no comments received and no written answer to them from the last three years is held.

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-10-connectingafrica-kenya-standalone-data-centre-licence",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Communications Authority of Kenya opened a 30-day public consultation inviting data centre stakeholders to comment on a proposed standalone licence for colocation data centres, reported 2026-09-10.",
+      "as_of": "2026-09-10",
+      "date_precision": "day",
+      "system": "Proposed standalone licence for colocation data centres",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

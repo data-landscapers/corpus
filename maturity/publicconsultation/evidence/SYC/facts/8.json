@@ -1,0 +1,36 @@
+{
+  "slug": "2024-03-07-seychelles-vasp-framework-industry-consultation-response",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "On 20 December 2023 the Financial Services Authority, for the Ministry of Finance, launched a public consultation on the proposed Virtual Asset Service Providers framework (VASP Act), inviting written responses and a hybrid live session on 9 January 2024 attended by about 50-60 participants, with extra sessions for Securities Act licensees, corporate service providers and operating VASPs.",
+      "as_of": "2023-12-20",
+      "date_precision": "day",
+      "system": "Virtual Asset Service Providers Framework (VASP Act)",
+      "class": "consultation"
+    },
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "answered",
+      "fact": "The Ministry of Finance and the Financial Services Authority published an industry consultation response dated 7 March 2024 summarising the consultation on the VASP framework, which drew about 15 detailed written responses.",
+      "as_of": "2024-03-07",
+      "date_precision": "day",
+      "system": "Virtual Asset Service Providers Framework (VASP Act)",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National AML/CFT Committee (NAC)",
+      "country_label": "Committee that approved and launched the VASP consultation; membership from outside government not stated",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Seychelles",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

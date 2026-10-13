@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-02-mf-gov-dz-modernisation-systemes-budgetaires",
+  "facts": [],
+  "systems": [
+    {"system": "SIGBUD", "country_label": "Budget preparation software; not a consultation", "class": "other", "platform": "", "owner": "Direction Generale du Budget, Ministry of Finance", "tiers": "central"},
+    {"system": "SIGB", "country_label": "Integrated budget management system; not a consultation", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "I'dad", "country_label": "State budget preparation application presented 2 April 2024; not a consultation", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": "ministries"}
+  ],
+  "note": "Citizen participation in budget policy is listed only as a reform objective; no consultation held or required is stated."
+}

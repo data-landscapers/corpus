@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-12-tanzania-validates-electronic-data-governance-strategy",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "On 12 March 2026 UNECA, in collaboration with the Government of Tanzania, convened a national validation workshop on the draft Tanzania Electronic Data Governance Strategy in Dodoma, where regulatory authorities, academic institutions and sectoral agencies gave feedback that informed refinements to the strategy, and the Ministry of Communication and Information Technology closed it.",
+      "as_of": "2026-03-12",
+      "date_precision": "day",
+      "system": "Tanzania Electronic Data Governance Strategy (TZeDGS)",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "One validation workshop with outside stakeholders; no published report of comments or government answer stated."
+}

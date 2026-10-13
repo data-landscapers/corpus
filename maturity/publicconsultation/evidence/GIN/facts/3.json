@@ -1,0 +1,17 @@
+{
+  "slug": "2025-04-18-anssi-atelier-validation-pssie",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "ANSSI, under the Ministry of Posts, Telecommunications and the Digital Economy, held a workshop to validate the draft State Information Systems Security Policy (PSSIE), attended by public institution representatives, cybersecurity experts and digital-sector actors, who analysed, enriched and validated its components.",
+      "as_of": "2025-04-18",
+      "date_precision": "day",
+      "system": "Politique de Sécurité des Systèmes d'Information de l'État (PSSIE)",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "One validation workshop with named outside participants; no published report of comments and no rule requiring it."
+}

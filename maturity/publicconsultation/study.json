@@ -94,7 +94,15 @@
       "subject": "gov.discourse",
       "text": "Non-governmental contribution to national policy: consultation on digital law and policy",
       "indicator_id": "gov.discourse--non-governmental-contribution-to-national-policy-consultation-on-digital-law-and-policy",
-      "class": "consultation"
+      "class": "consultation",
+      "criteria": [
+        "A source from the past three years says a named digital law or policy was made without consulting people outside government, or that they were refused a part in it, and none says they were asked.",
+        "In the past three years the government, parliament or a regulator asked people outside government for their views on a named digital law or policy: a draft put out for comment, or a hearing, workshop or meeting they took part in. A national internet governance forum, a consultation on something that is not digital, and a workshop of officials, donors and consultants do not count.",
+        "In the past three years it published what it was told: a report of the consultation, the comments received, or its written answer to them.",
+        "In the past three years a consultation on a digital law or policy was held because a law, decree or published procedure required it. The rule alone, with no consultation held under it, does not count.",
+        "In the past three years a standing body with members from outside government gave its view on a named digital law or policy. A body that has only been set up or has only met does not count."
+      ],
+      "criteria_of": "0f36bae6e149"
     }
   ],
   "classes": [

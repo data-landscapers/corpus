@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-28-icasa-imt-roadmap-2026-6g-spectrum-consultation",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "ITWeb reports that ICASA, the communications regulator, published the IMT Roadmap 2026 and its draft implementation plans (draft spectrum assignment plans, feasibility studies, draft exclusive geographic areas for millimetre-wave bands) for public consultation, inviting interested stakeholders to submit written comments; the date is the article's publication date.",
+     "as_of": "2026-07-28", "date_precision": "day", "system": "IMT Roadmap 2026", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "ICASA says the final National Radio Frequency Plan 2026 followed a public consultation that began on 4 April 2025, when it invited written submissions from stakeholders and members of the public on the first draft; the minister approved the final plan on 2 July 2026.",
+     "as_of": "2025-04-04", "date_precision": "day", "system": "National Radio Frequency Plan 2026", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "Two consultations stated (IMT Roadmap draft, NRFP 2026 draft); the legal duty to review the NRFP is a rule on review, not on consultation, and no published report of comments is stated."
+}

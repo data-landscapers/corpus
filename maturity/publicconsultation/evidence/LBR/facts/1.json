@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-23-liberia-lta-consultation-document-satellite-communications-guidelines",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Liberia Telecommunications Authority put its draft Satellite Communications Guidelines (LTA-GLL-002-2026) out for written comment from 23 February to 9 March 2026, asking licensed service providers, satellite operators and other stakeholders for their views, with a public consultation forum scheduled for 5 March.", "as_of": "2026-02-23", "date_precision": "day", "system": "Satellite Communications Guidelines (LTA-GLL-002-2026)", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "standing", "value": "required", "fact": "The LTA states it ran the consultation on the draft Satellite Communications Guidelines in accordance with its published Guidelines for Consultation Process of 2009.", "as_of": "2026-02-23", "date_precision": "day", "system": "Satellite Communications Guidelines (LTA-GLL-002-2026)", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "LTA Guidelines for Consultation Process (2009)", "country_label": "Regulator's published consultation procedure", "class": "other", "platform": "", "owner": "Liberia Telecommunications Authority", "tiers": ""}
+  ],
+  "note": "The consultation report is scheduled for 12 March 2026 but the document does not say it was published, so no answered fact."
+}

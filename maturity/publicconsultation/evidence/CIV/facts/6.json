@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-14-cote-divoire-artci-consumer-complaint-procedure",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "ARTCI held a consultation workshop on 13-14 August 2026 with telecom operators, internet service providers and consumer associations to review and contribute to its draft decision on handling consumer complaints about electronic communications services.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Harmonised consumer complaint handling procedure (draft ARTCI decision)",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-sierra-leone-sleiti-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "SLEITI Open Data Policy", "country_label": "extractives open data policy agreed by the SLEITI multi-stakeholder group; no consultation on a digital law stated", "class": "other", "platform": "", "owner": "SLEITI / Right to Access Information Commission", "tiers": ""},
+    {"system": "Open Data Council", "country_label": "government body named as overseeing the Open Data Repository; no outside members or opinion on a named law stated", "class": "other", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""}
+  ],
+  "note": "Extractives data policy; states no consultation of people outside government on a named digital law and no body giving an opinion on one."
+}

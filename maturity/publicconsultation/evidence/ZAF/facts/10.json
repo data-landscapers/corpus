@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-30-zaf-icasa-gg-55476-withdrawal-notices-4129-4130",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "ICASA's draft notice of intention to conduct a market inquiry into the affordability of telecommunications services, printed in Government Gazette 55476 of 30 September 2026, set out a process inviting stakeholder comments on a supply-side questionnaire and public comment, written representations and possible public hearings on a discussion document; the same gazette withdrew the earlier Notice 4130 and the OTT inquiry Notices 4129 and 4148.",
+      "as_of": "2026-09-30",
+      "date_precision": "day",
+      "system": "ICASA market inquiry into the affordability of telecommunications services",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ICASA OTT services market inquiry (Notices 4129 and 4148)",
+      "country_label": "withdrawn inquiry notices",
+      "class": "other",
+      "platform": "",
+      "owner": "ICASA",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

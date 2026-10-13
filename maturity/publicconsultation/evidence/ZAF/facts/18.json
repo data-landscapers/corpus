@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-05-sa-treasury-cross-border-crypto-draft-manual",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "National Treasury published the draft cross-border crypto manual for public comment until the end of September 2026, and crypto firms and lawyers (Deneys Attorneys, AltCoinTrader, VALR, Luno, BitcoinZAR Advocacy Group) commented on it; document dated 2026-08-05 and gives no earlier publication date.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Draft Crypto Asset Manual for Cross-Border Activities",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "National Treasury published the Draft Capital Flow Management Regulations 2026, covering crypto assets, for public comment in April 2026, with comments closing at the end of June 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Draft Capital Flow Management Regulations 2026",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

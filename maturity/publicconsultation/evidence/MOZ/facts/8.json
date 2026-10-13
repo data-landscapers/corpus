@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-28-mozambique-presents-draft-ai-strategy-itu-workshop-africaainews",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "INTIC, Mozambique's national ICT institute, opened a one-month public consultation on the first version of the draft National Artificial Intelligence Strategy, running until 4 June 2026, seeking contributions from public and private institutions, academia, development partners and citizens, and held provincial consultation sessions with public sector, private sector, civil society and academia representatives.",
+     "as_of": "2026-05", "date_precision": "month", "system": "National Artificial Intelligence Strategy (draft)", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "National Commission for Artificial Intelligence", "country_label": "commission established by decree to assess the final AI strategy before government submission; no opinion yet stated", "class": "other", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "Multisectoral Working Group on the AI strategy", "country_label": "working group convened by the Minister to review the strategy; no outside membership stated", "class": "other", "platform": "", "owner": "Ministry of Communications and Digital Transformation", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-26-ict-kenya-draft-kica-regulations-2026-validation-package",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Ministry of Information, Communications and the Digital Economy, with the Communications Authority, issued a public notice on 26 August 2025 inviting stakeholders and the public to submit views on the Regulatory Impact Assessment of the draft Kenya Information and Communications Regulations.", "as_of": "2025-08-26", "date_precision": "day", "system": "Kenya Information and Communications Regulations, 2026", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Ministry's notice of 26 August 2026 invited all stakeholders and the public to a virtual validation forum on 15 to 17 September 2026 on fifteen revised draft Kenya Information and Communications Regulations, with registration open to participants.", "as_of": "2026-08-26", "date_precision": "day", "system": "Kenya Information and Communications Regulations, 2026", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "answered", "fact": "The Ministry said the submissions received on the 2025 notice were considered in revising the draft Kenya Information and Communications Regulations, and published a matrix of comments on the regulations' Regulatory Impact Statement alongside the revised drafts.", "as_of": "2026-08-26", "date_precision": "day", "system": "Kenya Information and Communications Regulations, 2026", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "standing", "value": "required", "fact": "The Ministry said the stakeholder engagement and public participation on the draft Kenya Information and Communications Regulations were in line with Article 10 of the Constitution and sections 5 and 8 of the Statutory Instruments Act, Cap 2A, and that the Regulatory Impact Assessment was done in compliance with that Act.", "as_of": "2026-08-26", "date_precision": "day", "system": "Kenya Information and Communications Regulations, 2026", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

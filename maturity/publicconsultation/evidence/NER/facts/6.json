@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-28-hapdp-president-interview-loi-2022-59-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "Cadre de concertation des structures en charge de la regulation du numerique", "country_label": "Forum of digital regulators, set up by HAPDP; officials only", "class": "other", "platform": "", "owner": "HAPDP", "tiers": ""},
+    {"system": "Ateliers Numeriques de la HAPDP", "country_label": "Three televised debates on cybersecurity and AI, digital identity and e-administration; no named law or policy put to them", "class": "other", "platform": "television", "owner": "HAPDP", "tiers": ""},
+    {"system": "Atelier de validation du rapport sur la certification des correspondants a la protection des donnees personnelles", "country_label": "Validation workshop on a training report, not a law or policy; no outside participants named", "class": "other", "platform": "", "owner": "HAPDP", "tiers": ""},
+    {"system": "Cadre de concertation HAPDP-Burkina-Mali (AES)", "country_label": "Regional concertation of data authorities", "class": "other", "platform": "", "owner": "HAPDP", "tiers": ""}
+  ],
+  "note": "Interview names workshops, debates and regulator coordination only; no named digital law or policy consulted on with people outside government, and the AI strategy synergy is among agencies."
+}

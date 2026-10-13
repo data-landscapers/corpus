@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-18-sars-vat-modernisation-consultation",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The South African Revenue Service released its VAT Modernisation Consultation Paper, proposing a digital VAT model of e-invoicing, interoperability and e-reporting, for public comment, and its commissioner said it seeks stakeholder input from vendors and businesses; it follows a 2023 discussion paper.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "VAT Modernisation Consultation Paper (digital VAT model)",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

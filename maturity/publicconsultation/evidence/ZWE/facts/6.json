@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-13-zimbabwe-national-ai-strategy-consultations",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Ministry of ICT, Postal and Courier Services of Zimbabwe says the Kadoma Draft of the National AI Strategy 2026-2030 was interrogated and validated at a National Multi-Stakeholder Consultation held in Harare on 28 August 2025, Bulawayo on 9 September 2025 and Masvingo on 11 September 2025, and credits input from academia, the private sector, civil society and diaspora representatives alongside government and development partners.",
+     "as_of": "2025-08-28", "date_precision": "day",
+     "system": "Zimbabwe National Artificial Intelligence Strategy 2026-2030 (Kadoma Draft)", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "One fact (held). No published consultation report or written answer, and no rule or standing body, is stated in the captured text."
+}

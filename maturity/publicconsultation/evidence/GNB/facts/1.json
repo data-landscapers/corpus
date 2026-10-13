@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-08-aviso-01-ca-arn-2026-consulta-publica-projeto-lei-transacoes-eletronicas",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Board of the national regulator ARN-TIC, in Aviso n.º 01/CA/ARN/2026 (published 2026-05-08), opened a public consultation of 'interested parties' on the draft Electronic Transactions Law, with written responses by email due within 30 days, by 28 May 2026; the notice names no outside participants.",
+     "as_of": "2026-05-08", "date_precision": "day",
+     "system": "Projeto de Lei das Transações Eletrónicas", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "Notice has no published comments or answer and does not say a law required the consultation (Lei n.º 5/2010 is cited only as the regulator's competence), so no answered or required fact."
+}

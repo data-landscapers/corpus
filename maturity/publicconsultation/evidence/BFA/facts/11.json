@@ -1,0 +1,16 @@
+{
+  "slug": "2024-07-01-cdd-rapport-096-securite-systemes-information",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Commission du développement durable of Burkina Faso's transitional legislative assembly heard FED-numérique, Internet Society Burkina Faso and two independent ICT specialists on 11 June 2024, and several public bodies on 12 June 2024, on the bill on information systems security, and some of them handed in written observations.",
+     "as_of": "2024-06-11", "date_precision": "day", "system": "Projet de loi portant sécurité des systèmes d'information au Burkina Faso", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The government draft of the information systems security bill was put to a national validation workshop that brought together, besides the drafting committee, actors from other ministries and institutions, civil society and the private sector; the report gives no date for the workshop (before the 25 April 2018 review by COTEVAL), so the report's July 2024 date is used.",
+     "as_of": "2024-07", "date_precision": "month", "system": "Projet de loi portant sécurité des systèmes d'information au Burkina Faso", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Atelier national de validation of the avant-projet de loi sur la sécurité des systèmes d'information", "country_label": "validation workshop with civil society and private sector, recorded as a fact above", "class": "consultation", "platform": "", "owner": "drafting committee under the ministry in charge of the digital economy", "tiers": "national"},
+    {"system": "Comité technique de vérification des avant-projets de loi (COTEVAL)", "country_label": "government-internal technical review of draft bills; no members from outside government stated", "class": "other", "platform": "", "owner": "Government", "tiers": "national"}
+  ],
+  "note": ""
+}

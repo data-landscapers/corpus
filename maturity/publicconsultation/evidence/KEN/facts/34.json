@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-28-kictanet-kensafespace-ends-digital-rights-network",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Kenya's Communications Authority opened its industry guidelines on child online protection for public input in 2021; the process stalled, and Watoto Watch Network with Amnesty International Kenya later convened two further consultations that fed into the final version published in October (year not stated), as reported by KICTANet.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Communications Authority industry guidelines on child online protection",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Communications Authority industry guidelines on child online protection",
+   "country_label": "Communications Authority guidelines opened for public input",
+   "class": "consultation",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "KenSafeSpace",
+   "country_label": "EU-funded civil-society coalition project",
+   "class": "other",
+   "platform": "",
+   "owner": "Internews, KICTANet, Internet Without Borders",
+   "tiers": ""
+  }
+ ],
+ "note": "Parliament working group with civil society is emerging only, not set up or giving a view on a named law; court cases and coalition outputs are not consultation."
+}

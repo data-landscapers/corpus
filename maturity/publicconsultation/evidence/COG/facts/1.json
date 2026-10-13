@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-20-cog-sifec-cloture-recommandations-mfbpp",
+  "facts": [],
+  "systems": [
+    {"system": "SIFEC", "country_label": "Système intégré des faits d'état civil: civil-status data system whose software passed a three-day validation workshop (17 recommendations) in February 2026; the document names only officials and local mayors, no law or policy consulted on", "class": "other", "platform": "", "owner": "ACSI", "tiers": "national ministries"}
+  ],
+  "note": "Validation workshop on a software system, not a named digital law or policy; no participant from outside government named."
+}

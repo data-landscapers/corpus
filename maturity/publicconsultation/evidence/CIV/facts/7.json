@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-artci-adoption-ipv6-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "ARTCI held a workshop at Yamoussoukro on 30-31 July 2025 to validate the draft national IPv6 migration strategy and action plan, with about twenty public and private bodies including Orange CI, MTN CI, Moov Africa, Huawei, VIPNET, CODINORM, CIVIX and TELESET.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "National IPv6 migration strategy and action plan",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPv6 migration strategy workshop",
+   "country_label": "workshop validating a strategy; not an information system",
+   "class": "other",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

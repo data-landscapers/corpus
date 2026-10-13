@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-26-partenariat-pour-un-gouvernement-ouvert-le-b-nin-pr-pare-son-premier-p",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "La Nation reports on 2026-08-26 that the Directorate-General of the Budget's roadmap for Benin's first Open Government Partnership national action plan, co-created with civil society, citizens and the private sector, scheduled consultations in 23 communes (29 June-6 July 2026, with local councillors, disabled people's associations, notables, farmers' and artisans' associations and private sector) and in the twelve departments (10-21 August 2026), and that one of its four axes is access to information and digital governance for inclusion and digital rights; the article says the consultations were 'planned' and the commitments are not yet written.",
+      "as_of": "2026-08-26",
+      "date_precision": "day",
+      "system": "Plan d'action national (PAN 1) du Partenariat pour un gouvernement ouvert",
+      "class": "consultation"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan d'action national (PAN 1) du Partenariat pour un gouvernement ouvert",
+      "country_label": "open government action plan with a digital governance and digital rights axis",
+      "class": "other",
+      "platform": "",
+      "owner": "Direction générale du budget (ministère du Budget et de la Fonction publique)",
+      "tiers": ""
+    }
+  ],
+  "note": "One fact: OGP plan consultations with outside participants; digital axis named but no commitments yet and consultations described as planned."
+}

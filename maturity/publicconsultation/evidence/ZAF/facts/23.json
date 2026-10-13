@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "Tech Hive Advisory reports that South Africa's data protection authority (the Information Regulator) convened a stakeholder consultation on 18 February 2026 on a draft code of conduct for processing personal information at gated access points; the source does not name which stakeholders took part.",
+     "as_of": "2026-02-18", "date_precision": "day", "system": "Draft code of conduct for the processing of personal information at gated access points", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "South Africa's draft AI policy is only reported as due for 60 days of public comment after cabinet, which is future and gives no fact; other country items are not ZAF."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "On 21 July 2026 the Ministry of ICT and Digital Development issued a notice inviting members of the public, stakeholders and other interested parties to send written views on the draft Kenya Artificial Intelligence and Other Emerging Technologies Policy, with submissions due to the Committee on AI and Other Emerging Technologies by 4 August 2026.", "as_of": "2026-07-21", "date_precision": "day", "system": "Kenya Artificial Intelligence and Other Emerging Technologies Policy", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "standing", "value": "required", "fact": "The Ministry of ICT and Digital Development said its public participation process on the draft Kenya Artificial Intelligence and Other Emerging Technologies Policy followed the Constitution of Kenya, which it said requires public participation in developing policies and other key government decisions (notice of 21 July 2026).", "as_of": "2026-07-21", "date_precision": "day", "system": "Kenya Artificial Intelligence and Other Emerging Technologies Policy", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Committee on AI and Other Emerging Technologies", "country_label": "multi-stakeholder committee that developed the draft AI policy and receives submissions; membership from outside government and its legal basis are not stated", "class": "other", "platform": "", "owner": "Ministry of ICT and Digital Development", "tiers": ""}
+  ],
+  "note": ""
+}

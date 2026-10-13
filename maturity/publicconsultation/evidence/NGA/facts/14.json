@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-02-ncc-zero-rated-education-access-consultation",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Nigerian Communications Commission held its first public consultation forum in Abuja on the proposed framework for zero-rated access to educational platforms and content, with the telecom operators' association ALTON, UNESCO, uLesson Group and the Nigerian Governors' Forum among those present; the date 14 July 2026 comes from the source's ingest note, the article saying only Tuesday.",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "system": "Zero-Rated Access to Educational Platforms and Content in Nigeria framework",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

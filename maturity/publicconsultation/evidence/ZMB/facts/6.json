@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-cipesa-foreign-malign-influence",
+  "facts": [],
+  "systems": [
+    {"system": "RightsCon 2026 (Lusaka)", "country_label": "Global digital rights conference, postponed by the Zambian government and then cancelled by the organiser Access Now; not a consultation on a named law or policy", "class": "other", "platform": "", "owner": "Access Now (organiser); Ministry of Technology and Science (co-host)", "tiers": ""},
+    {"system": "Internet Governance Forum (Kenya IGF, Global IGF, Africa IGF)", "country_label": "Internet governance forums held outside Zambia; not a consultation on a Zambian law or policy", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional article on foreign influence; its only Zambian item is the cancelled RightsCon conference, which is not a consultation on a named digital law or policy, and the internet governance forums named give no fact."
+}

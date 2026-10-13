@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-07-drc-digital-tax-decree-does-not-cover-startups-industry-body",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "After a public outcry over interministerial arrete no. 015 of 20 July 2026 setting digital-sector duties, taxes and fees, the DRC digital economy minister held a working session with representatives of the digital ecosystem, including the Reseau des acteurs du numerique (RAN), reported by ACP on 7 August 2026 (meeting on the Thursday before, 6 August).",
+     "as_of": "2026-08-06", "date_precision": "day",
+     "system": "Arrete interministeriel no. 015 du 20 juillet 2026 fixant les droits, taxes et redevances du secteur numerique", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "The agreed permanent dialogue framework and proposed sector barometer are only announced, not a body that has given an opinion, so no standing fact."
+}

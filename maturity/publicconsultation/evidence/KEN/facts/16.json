@@ -1,0 +1,27 @@
+{
+  "slug": "2026-09-22-kenya-ca-finalise-commercial-internet-telephony-guidelines",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Communications Authority of Kenya says it put its draft internet telephony guidelines through public and stakeholder consultation and, on 2026-09-22, invited stakeholders to an online validation forum on 2026-09-30 (the consultation date is not given; the notice date is used).",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Draft technical and operational guidelines for commercial internet telephony services",
+      "class": "consultation"
+    },
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "answered",
+      "fact": "The Communications Authority of Kenya says it reviewed the submissions received on its draft internet telephony guidelines and published the representations and its own position on them on its website (notice dated 2026-09-22; publication date not given).",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Draft technical and operational guidelines for commercial internet telephony services",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

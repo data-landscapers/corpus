@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Education Management Information System (EMIS)",
+   "country_label": "national education data system; stakeholder meeting with special-school representatives was on data capture, not a named digital law or policy",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education and Training EMIS Unit",
+   "tiers": "primary and secondary schools"
+  }
+ ],
+ "note": "Stakeholder meeting on disability data capture in EMIS is not a consultation on a named digital law or policy."
+}

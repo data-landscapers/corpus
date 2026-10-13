@@ -1,0 +1,17 @@
+{
+  "slug": "2025-01-01-gambia-national-data-policy-validated-eeas",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "On 2-3 July 2025 a National Validation Workshop on the draft National Data Policy of The Gambia, with ministers of Information and of Communications and Digital Economy present, had stakeholders from government, the private sector, civil society and academia give inputs on data protection, cross-border data flows and institutional coordination (EEAS, 8 July 2025).",
+      "as_of": "2025-07-02",
+      "date_precision": "day",
+      "system": "National Data Policy",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "One fact; the Dec 2024 engagement workshop names no participants from outside government."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "2026-10-12-ken-ca-central-database-recycled-phone-numbers",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Communications Authority of Kenya took public comments on its proposed rules on mobile line deactivation and number recycling; the document is dated 2026-10-12 and gives no date for the comment period.",
+      "as_of": "2026-10-12",
+      "date_precision": "day",
+      "system": "CA proposed line deactivation and recycling rules",
+      "class": "consultation"
+    },
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "answered",
+      "fact": "The Communications Authority of Kenya gave a written response to the public comments on the proposed line deactivation and recycling rules, accepting a central recycled-numbers database and rejecting a proposal that subscribers notify contacts by SMS.",
+      "as_of": "2026-10-12",
+      "date_precision": "day",
+      "system": "CA proposed line deactivation and recycling rules",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

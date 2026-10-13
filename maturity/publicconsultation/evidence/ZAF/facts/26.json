@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-12 Icasa moves to mandate national infrastructure database",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "ICASA, the communications regulator, gazetted draft regulations on the rapid deployment of electronic communications networks and facilities on about 10 April 2026 and opened written representations to stakeholders for 30 working days, with an invitation to say whether they wish to make oral submissions and a statement that it may hold public hearings (TechCentral, 12 April 2026).", "as_of": "2026-04-10", "date_precision": "day", "system": "Draft ICASA regulations on the rapid deployment of electronic communications networks and facilities", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "National rapid deployment GIS database (draft regulation 7)", "country_label": "Regulator-held map of operators' fibre, towers, ducts, poles and base stations", "class": "other", "platform": "", "owner": "ICASA", "tiers": "national"}
+  ],
+  "note": ""
+}

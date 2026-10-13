@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-24-zambia-postal-courier-legislation-modernisation-public-submissions",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The Ministry of Technology and Science, with the regulator ZICTA, held nationwide stakeholder consultations in all ten provinces on the Postal and Courier Services Bill (to replace the Postal Services Act No. 22 of 2009, reviewed to align with digital commerce and technology trends), concluding in Lusaka in July 2026, and invited written comments from the public and stakeholders by 27 July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Postal and Courier Services Bill (review of Postal Services Act No. 22 of 2009)",
+   "class": "consultation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Postal and Courier Services Bill consultation",
+   "country_label": "Ministry of Technology and Science stakeholder consultations and call for submissions",
+   "class": "consultation",
+   "platform": "",
+   "owner": "Ministry of Technology and Science",
+   "tiers": "national, ten provinces"
+  }
+ ],
+ "note": ""
+}

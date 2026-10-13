@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-19-ncc-consultation-paper-zero-rated-education-access",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Nigerian Communications Commission, through its Joint NCC-Industry Committee, issued a consultation paper on 19 June 2026 inviting stakeholders to send written comments by 9 July 2026 on the framework for zero-rated access to educational platforms for students (structure, eligibility, funding, net neutrality, competition safeguards).", "as_of": "2026-06-19", "date_precision": "day", "system": "Zero-Rated Access to Educational Platforms framework (Zero-Rated Data Access Project)", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Joint NCC-Industry Committee on the Implementation of Zero-Rated Access to Education Platforms", "country_label": "Committee constituted by the NCC with key industry players that issued the consultation paper; members from outside government not named, so no body fact", "class": "other", "platform": "", "owner": "Nigerian Communications Commission", "tiers": ""}
+  ],
+  "note": ""
+}

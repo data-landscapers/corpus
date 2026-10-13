@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-23-unesco-evaluation-developpement-internet-republique-du-congo-roam-x",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Conseil Consultatif Multipartite (ROAM-X assessment)",
+      "country_label": "Multistakeholder advisory council set up to guide the UNESCO ROAM-X assessment, not a digital law or policy",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Forum sur la Gouvernance de l'Internet national",
+      "country_label": "National internet governance forum, no named law or policy consulted on",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "UNESCO assessment states consultations are not yet systematic and recommends public consultation procedures; names no consultation on a specific digital law or policy."
+}

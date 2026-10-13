@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-17-lefaso-ia-feuille-route-nationale-validation",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "On 17 June 2026 the Secretariat permanent de l'innovation et de la veille sur les technologies emergentes du numerique (Ministry of Digital Transition) held a national validation workshop on the 2026-2030 national AI roadmap, whose drafting the source says mobilised the private sector, universities, research centres, civil society and the diaspora as well as officials and donors; the source does not name outside attendees in the room.",
+      "as_of": "2026-06-17",
+      "date_precision": "day",
+      "system": "Feuille de route nationale de l'intelligence artificielle 2026-2030",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

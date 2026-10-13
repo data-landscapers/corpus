@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-06-uneca-burundi-validates-national-data-governance-strategy",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The UN Economic Commission for Africa page says a nationwide Stakeholder Engagement Workshop on 18 April 2025 brought together public, private and civil society actors to identify Burundi's data governance priorities for the National Data Governance Strategy, validated on 7 November 2025 by a workshop presided over by the Vice-Minister of Finance, Budget and Digital Economy, with private sector, academia and civil society participating in the process.",
+      "as_of": "2025-04-18",
+      "date_precision": "day",
+      "system": "National Data Governance Strategy of Burundi",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": "One held fact for the April 2025 consultation; the listed workshop summary is not itself shown, so no answered fact; planned National Data Governance Committee is only announced."
+}

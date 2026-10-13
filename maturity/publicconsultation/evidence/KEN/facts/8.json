@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-29-cs-duale-leads-consultative-forum-transition-sha-hmis",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Health Cabinet Secretary Aden Duale led a consultative forum, convened by the Social Health Authority and the Digital Health Agency, with healthcare provider associations (Kenya Healthcare Federation chair present) that reviewed the transition framework from the SHA Provider Portal to the SHA HMIS and received stakeholder feedback.", "as_of": "2026-06-29", "date_precision": "day", "system": "SHA HMIS transition framework", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

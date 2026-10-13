@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-icasa-imt-roadmap-2026-draft-implementation-plans",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "ICASA's own media statement says it published the IMT Roadmap 2026 and draft implementation plans (draft Radio Frequency Spectrum Assignment Plans, feasibility studies, draft Exclusive Geographic Areas for millimetre-wave bands) for public consultation and invites interested stakeholders to submit written comments within the period set in the Government Gazette.",
+     "as_of": "2026-07-27", "date_precision": "day", "system": "IMT Roadmap 2026", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

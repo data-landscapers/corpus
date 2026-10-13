@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-14-ippr-data-protection-bill-not-fit-for-purpose",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The IPPR paper states that a version of it was submitted on 30 November 2022 as the ACTION Coalition's input to the consultations around the draft Data Protection Bill held by Namibia's Ministry of Information and Communication Technology (MICT), so civil society took part in the ministry's consultation.", "as_of": "2022-11-30", "date_precision": "day", "system": "Data Protection Bill", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

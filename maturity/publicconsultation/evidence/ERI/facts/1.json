@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-14-lbr-request-for-proposal-consultancy-for-emis-policy-development-support-t",
+  "facts": [],
+  "systems": [
+    {"system": "National EMIS Policy consultation and validation workshop (Liberia)", "country_label": "Liberian national stakeholder consultations; not Eritrea", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Eritrea EMIS data analysis on female teacher attrition", "country_label": "Ministry of Education analytical support with a policy brief validation; not a consultation on a digital law or policy", "class": "other", "platform": "EMIS", "owner": "Eritrea Ministry of Education", "tiers": ""}
+  ],
+  "note": "The consultation and validation workshop are for Liberia's EMIS policy; for Eritrea it covers data analysis and a policy brief on teacher attrition, with no consultation on a digital law or policy."
+}

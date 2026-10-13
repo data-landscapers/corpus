@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-20-gsma-driving-digital-transformation-malawi-report",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The GSMA report states that the Ministry of Information and Digitalisation, supported by UNDP and other partners, published the draft Malawi National Digital Transformation Strategy and a 5-year roadmap for consultation in February 2026; the report does not name who outside government took part.",
+     "as_of": "2026-02", "date_precision": "month",
+     "system": "Malawi National Digital Transformation Strategy and 5-year roadmap", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "Only the February 2026 draft strategy put out for consultation is a fact; no published report of comments, no required-consultation rule and no standing body are stated; the 2024 energy-project stakeholder engagement document is not digital."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-03-gouv-bj-229-cadre-de-vie",
+ "facts": [],
+ "systems": [
+  {
+   "system": "229 Cadre de vie",
+   "country_label": "Citizen-reporting platform on living environment (app, web, SMS, toll-free 144)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere du Cadre de vie et des Transports",
+   "tiers": "national"
+  }
+ ],
+ "note": "No fact: a citizen-reporting platform for urban neglect, not a consultation on a named digital law or policy."
+}

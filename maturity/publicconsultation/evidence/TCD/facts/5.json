@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-07-camerpressagency-transformation-num-rique-le-tchad-b-tit-sa-souverainet-de-la-donn-e-ca",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "On 2026-10-07 (the article's date; the speech says 'ce jour') the Minister of Telecommunications, Digital Economy and Digitalisation opened a national validation workshop in N'Djamena on the draft National Data Governance Strategy, addressing academic and civil society representatives among those present, asking them to read the draft and say frankly what they think, and stating that the actors concerned had been consulted in drafting.", "as_of": "2026-10-07", "date_precision": "day", "system": "Stratégie Nationale de Gouvernance des Données", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": "Fact recorded from the minister's speech; the article gives no account of comments received or of a rule requiring the consultation."
+}

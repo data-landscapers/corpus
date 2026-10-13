@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Governance Policy validation workshop", "country_label": "validation workshop convened by the Department for ICT and Digital Economy; participants from outside government are not stated", "class": "other", "platform": "", "owner": "Department for ICT and Digital Economy", "tiers": ""},
+    {"system": "National Data Governance and Emerging Technologies Council", "country_label": "council only proposed in the draft policy; not set up", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "AI and Emerging Technologies Technical Committee", "country_label": "committee launched to develop the national AI policy; membership from outside government and any opinion given are not stated", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional round-up; for Kenya it states a validation workshop and a committee launch without saying anyone outside government took part."
+}

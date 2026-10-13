@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-03-itweb-sarb-treasury-crypto-asset-manual-consultation",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "National Treasury and the SARB invited interested parties to submit written comments by 30 September 2026 on the draft Crypto Assets Manual for cross-border activities, to complement the draft Capital Flow Management Regulations.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Draft Crypto Assets Manual for cross-border activities",
+   "class": "consultation"
+  },
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "National Treasury published the draft Capital Flow Management Regulations for public comment on 17 April 2026, and the two bodies state that comments received are being considered.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Draft Capital Flow Management Regulations",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

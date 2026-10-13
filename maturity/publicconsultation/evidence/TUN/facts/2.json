@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-06-tunisie-int-consultation-mutualisation-fibre-phase-2",
+  "facts": [
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "The Instance Nationale des Télécommunications (INT) opened a second public consultation on the rules for sharing fibre-optic access infrastructure from 6 March to 2 April 2026, open to any contributor to answer by email or post.",
+      "as_of": "2026-03-06",
+      "date_precision": "day",
+      "system": "Consultation publique sur la mutualisation des infrastructures d'accès en fibre optique - Phase 2",
+      "class": "consultation"
+    },
+    {
+      "sub_indicator": "consultation",
+      "aspect": "hearing",
+      "value": "held",
+      "fact": "INT ran a first public consultation on the conditions for sharing fibre-optic access infrastructure from 26 September to 26 November 2025, as stated in the phase 2 announcement.",
+      "as_of": "2025-09-26",
+      "date_precision": "day",
+      "system": "Consultation publique sur la mutualisation des infrastructures d'accès en fibre optique - Phase 1",
+      "class": "consultation"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

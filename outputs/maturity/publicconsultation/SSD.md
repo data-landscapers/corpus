@@ -1,0 +1,11 @@
+# South Sudan
+
+## Consultation on digital law and policy
+
+**Consultation and what was published of it.** South Sudan's regulator, the National Communication Authority, and Digital Rights Frontlines, a civil society organisation, [convened a two-day consultative workshop on the Data Protection Bill 2025 (Version 1.0), reported on 5 May 2026](<https://www.linkedin.com/posts/digital-rights-frontlines_dataprotection-digitalrights-cybersecurity-activity-7457423027161620480-l2o_>). More than 30 people took part, among them members of parliament, civil society organisations, the UNMISS legal unit and the regulator itself.
+
+**Required consultation and standing body.** The [South Sudan Internet Governance Forum](<https://ssigf.org.ss/about-ss-igf/>) is a national forum of government and people outside it, with a Multistakeholder Advisory Group, and is known as SS-IGF; [its 2026 meeting was held in Juba, reported on 4 July 2026](<https://www.onecitizendaily.com/index.php/2026/07/04/south-sudan-internet-governance-forum-2026-charts-course-for-inclusive-digital-future/>). The [National Constitutional Review Commission is consulting the public on the permanent constitution](<https://www.eyeradio.org/ncrc-says-public-views-will-form-basis-of-s-sudans-permanent-constitution/>), reported in August 2026.
+
+***Noted, not assessed***. [The South Sudan Internet Governance Forum, a national forum with an advisory group](<https://ssigf.org.ss/about-ss-igf/>); [a meeting to introduce a digital skills programme in Central Equatoria State](<https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement>); [an East African Community survey of users of regional statistics](<https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics>); [public consultations on the permanent constitution](<https://www.eyeradio.org/ncrc-says-public-views-will-form-basis-of-s-sudans-permanent-constitution/>).
+
+***Not held***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.

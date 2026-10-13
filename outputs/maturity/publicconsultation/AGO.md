@@ -1,0 +1,11 @@
+# Angola
+
+## Consultation on digital law and policy
+
+**Consultation and what was published of it.** The Ministry of Telecommunications, Information Technologies and Social Communication [put its draft Law on Artificial Intelligence, of 86 articles, on its public consultation portal in September 2025](<https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf>). The report attached to the draft says the consultation was open to all public and private bodies and to interested individuals. The ministry published the draft itself on the portal. On 27 August 2026 [the portal showed 18 contributions from companies, 18 from specialists and 5 from the general public](<https://consultapublica.minttics.gov.ao/>).
+
+**Required consultation and standing body.** The [report attached to the draft law says the consultation was held before the draft goes to the Council of Ministers](<https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf>). A [coordination committee for the national financial inclusion strategy was set up by Despacho Presidencial 201/23](<https://plataformacipra.gov.ao/public/ficheiros/arquivos/Draft_da_ENIF_Consulta_Publica.pdf>).
+
+***Noted, not assessed***. [A public consultation on the national financial inclusion strategy for 2025 to 2027, of which digital payments are one pillar](<https://plataformacipra.gov.ao/public/ficheiros/arquivos/Draft_da_ENIF_Consulta_Publica.pdf>); [the fourth Lusophone Internet Governance Forum, held in Luanda](<https://www.menosfios.com/governo-anuncia-medidas-para-acelerar-a-transformacao-digital-em-angola/>); [the general administrative procedure code, Lei 31/22](<https://lex.ao/docs/assembleia-nacional/2022/lei-n-o-31-22-de-30-de-agosto/>); [an analyst's review of the draft artificial intelligence law](<https://www.techhiveadvisory.africa/insights/review-of-angolas-proposed-law-on-artificial-intelligence>).
+
+***Not held***. No published report of a consultation on a digital law or policy, no comments received and no written answer to them is held from the last three years.

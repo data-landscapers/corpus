@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-19-citizen-activate-sa-ai-policy-summit",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The Department of Communications and Digital Technologies released the Draft National Artificial Intelligence Policy for public comment on 10 April 2026, and the minister later withdrew it over fabricated citations.",
+     "as_of": "2026-04-10", "date_precision": "day",
+     "system": "Draft National Artificial Intelligence Policy", "class": "consultation"}
+  ],
+  "systems": [
+    {"system": "Western Cape AI Cluster (Activate SA summit)", "country_label": "Provincial multi-stakeholder AI platform and industry summit; no consultation on a named law or policy stated", "class": "other", "platform": "", "owner": "South African AI Association with Western Cape Department of Economic Development and Tourism", "tiers": "provincial"}
+  ],
+  "note": "Summit and cluster give no fact; only the draft AI policy comment release is a consultation fact."
+}

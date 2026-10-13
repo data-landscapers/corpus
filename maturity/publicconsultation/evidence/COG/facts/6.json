@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-02-eca-congo-national-data-governance-strategy",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held",
+     "fact": "The UN Economic Commission for Africa, working in close collaboration with the Ministry of Posts, Telecommunications and Digital Economy, announced stakeholder consultations (2-6 June 2026, Brazzaville and Pointe-Noire) with telecom operators, financial institutions, universities and digital economy actors, and a multi-stakeholder workshop on 8 June 2026 including civil society and the private sector, to inform Congo's National Data Governance Strategy; the page is an event announcement dated by the event start.",
+     "as_of": "2026-06-02", "date_precision": "day",
+     "system": "National Data Governance Strategy", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}

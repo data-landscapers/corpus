@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-04-nigeria-sb648-plateformes-bureaux-locaux-dba",
+  "facts": [
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Senator Ned Nwoko opened a public consultation on 27 July 2026, via a Facebook post inviting internet users to give their views on bill SB.648, which would amend the Nigeria Data Protection Act 2023 to require large social media platforms to keep physical offices in Nigeria.", "as_of": "2026-07-27", "date_precision": "day", "system": "SB.648 (amendment of the Nigeria Data Protection Act 2023)", "class": "consultation"},
+    {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "After Senate examination, SB.648 went to a public hearing in Abuja organised by the Senate Committee on Information Technology and Cybersecurity, which is to study the contributions of the various stakeholders before reporting to the Senate; the document gives no date for the hearing, so its published date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "SB.648 (amendment of the Nigeria Data Protection Act 2023)", "class": "consultation"}
+  ],
+  "systems": [],
+  "note": ""
+}
