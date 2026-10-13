@@ -1,0 +1,15 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "1",
+   "owners": "estimate:27.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

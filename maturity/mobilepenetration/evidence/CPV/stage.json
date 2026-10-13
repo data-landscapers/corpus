@@ -1,0 +1,15 @@
+{
+ "iso3": "CPV",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "4",
+   "owners": "estimate:81.4",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CPV-004",
+   "gaps": "The latest figure, 81.4 per cent for 2024, is below 95 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "2",
+   "owners": "estimate:50.3",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004",
+   "gaps": "The latest figure, 50.3 per cent for 2024, is below 65 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

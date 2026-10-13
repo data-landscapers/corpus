@@ -1,0 +1,15 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "3",
+   "owners": "estimate:67.4",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-004",
+   "gaps": "The latest figure, 67.4 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

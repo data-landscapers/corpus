@@ -1,0 +1,15 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "2",
+   "owners": "estimate:54.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-004",
+   "gaps": "The latest figure, 54.8 per cent for 2024, is below 65 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "ref:itu-sdg-5b1-mobile-ownership-10plus@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "survey:62.8",
+   "fact": "62.8 per cent of people aged 10 and over in Sudan owned a mobile phone in 2016, a survey figure the country reported to the International Telecommunication Union.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Mobile-phone ownership, people 10+ (SDG 5.b.1)",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-techcabal-botswana-mukuru-companion-card-financial-inclusion",
+  "facts": [],
+  "systems": [
+    {"system": "FinScope Consumer Survey Botswana 2024 mobile phone ownership", "country_label": "94% (adults, 2024)", "class": "other", "platform": "", "owner": "FinMark Trust (as cited by TechCabal)", "tiers": ""}
+  ],
+  "note": "Only figure is 94% mobile phone ownership from the 2024 FinScope survey, stated for adults with no age range of 10 or younger, so no ownership fact; recorded as a systems entry."
+}

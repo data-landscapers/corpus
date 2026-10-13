@@ -95,6 +95,28 @@ def excluded(study: dict) -> set[str]:
     return {e["slug"] for e in study.get("exclude_sources", ())}
 
 
+def reference_held() -> tuple[set[str], dict[str, str]]:
+    """`({slug}, {slug: url})` for the reference series a study may cite as a source.
+
+    A measure's reference figures are data in `reference/measures.csv`, not records in
+    `raw/`, so a fact carried from one has no slug there. It is cited as
+    `ref:{dataset}@{release}`, the form `maturity-assess.py` gives the frame, and its address
+    is the dataset's in `maturity-render.py` → `DATASETS`, which is the one place it is kept."""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("maturity_render", os.path.join(HERE, "maturity-render.py"))
+    mod = importlib.util.module_from_spec(spec)
+    try:
+        spec.loader.exec_module(mod)
+    except Exception as e:  # noqa: BLE001 - whatever stops the table being read stops the carry
+        raise StudyError(f"maturity-render.py's DATASETS cannot be read ({e})") from e
+    urls = {}
+    for r in read_csv(os.path.join(CORPUS, "reference", "measures.csv")):
+        url = mod.DATASETS.get(r["dataset"], ("", ""))[1]
+        if url:
+            urls[f"ref:{r['dataset']}@{r['release']}"] = url
+    return set(urls), urls
+
+
 def subs(study: dict) -> dict[str, dict]:
     return {s["key"]: s for s in study["sub_indicators"]}
 

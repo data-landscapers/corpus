@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-eritrea-digital-watch-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile-cellular network population coverage (ITU 2023 country profile)", "country_label": "85% of population covered by a mobile-cellular network (ITU 2023)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The profile gives 'Mobile ownership (%): No data' for Eritrea (estimate for 2023); only network coverage and internet-use figures appear, which are class other."
+}

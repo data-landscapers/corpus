@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-world-bank-gambia-global-findex-2025-connectivity-microdata",
+  "facts": [],
+  "systems": [
+    {"system": "Global Findex 2025 mobile phone ownership series (adults 15+)", "country_label": "Gambia 2024 fieldwork (World Bank Development Research Group, survey GMB_2024_FINDEX_v02_M); catalogue record only, adults 15 or older, no ownership figure stated", "class": "other", "platform": "", "owner": "World Bank Development Research Group", "tiers": ""}
+  ],
+  "note": "Catalogue record of an adults-only (15+) survey; states no mobile ownership figure."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-01-itu-digital-development-dashboard-mauritania-infrastructure-access",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile-cellular subscriptions per 100 inhabitants", "country_label": "113 per 100 inhabitants (2022), ITU Digital Development Dashboard", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": "ITU dashboard reports individuals owning a mobile phone as NA for Mauritania; only subscriptions per 100 (113, 2022) and coverage (98% mobile-cellular, 2022) are given, neither of class ownership."
+}

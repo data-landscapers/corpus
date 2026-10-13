@@ -1,0 +1,34 @@
+{
+ "slug": "2018-02-13-lca-state-of-ict-lesotho-2016",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "survey:78.7",
+   "fact": "The Lesotho Communications Authority's national survey of late 2016 found 78.7 per cent of residents owning a mobile phone.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "LCA demand-side ICT access and use survey 2016",
+   "class": "ownership"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile subscriptions per 100 (ITU 2016)",
+   "country_label": "100.94 subscriptions per 100, 2016",
+   "class": "other",
+   "platform": "",
+   "owner": "ITU",
+   "tiers": ""
+  },
+  {
+   "system": "Smart device access among mobile phone owners",
+   "country_label": "45% of phone owners (32.72% of population), 2016",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

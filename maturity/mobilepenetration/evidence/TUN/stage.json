@@ -1,0 +1,15 @@
+{
+ "iso3": "TUN",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "4",
+   "owners": "estimate:90.9",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TUN-004",
+   "gaps": "The latest figure, 90.9 per cent for 2024, is below 95 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

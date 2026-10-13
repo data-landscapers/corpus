@@ -1,0 +1,47 @@
+{
+ "slug": "ref:itu-sdg-5b1-mobile-ownership-10plus@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:38.8",
+   "fact": "38.8 per cent of people aged 10 and over in Madagascar owned a mobile phone in 2021, an estimate by the International Telecommunication Union.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Mobile-phone ownership, people 10+ (SDG 5.b.1)",
+   "class": "ownership"
+  },
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:43.9",
+   "fact": "43.9 per cent of people aged 10 and over in Madagascar owned a mobile phone in 2022, an estimate by the International Telecommunication Union.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Mobile-phone ownership, people 10+ (SDG 5.b.1)",
+   "class": "ownership"
+  },
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:44.1",
+   "fact": "44.1 per cent of people aged 10 and over in Madagascar owned a mobile phone in 2023, an estimate by the International Telecommunication Union.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Mobile-phone ownership, people 10+ (SDG 5.b.1)",
+   "class": "ownership"
+  },
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "estimate:44.4",
+   "fact": "44.4 per cent of people aged 10 and over in Madagascar owned a mobile phone in 2024, an estimate by the International Telecommunication Union.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile-phone ownership, people 10+ (SDG 5.b.1)",
+   "class": "ownership"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

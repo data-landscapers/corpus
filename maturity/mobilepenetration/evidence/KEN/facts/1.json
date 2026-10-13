@@ -1,0 +1,42 @@
+{
+ "slug": "2025-08-01-fact-sheet-on-ict-analytical-report-based-on-kenya-housing-survey-2023-2024",
+ "facts": [
+  {
+   "sub_indicator": "ownership",
+   "aspect": "owners",
+   "value": "survey:53.7",
+   "fact": "Kenya's 2023/24 Housing Survey, published by the Kenya National Bureau of Statistics and the Communications Authority, found 53.7 per cent of individuals owning a mobile phone: 54.5 per cent of men and 52.9 per cent of women.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Kenya Housing Survey 2023/24",
+   "class": "ownership"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Housing Survey 2023/24: mobile phone usage by individuals",
+   "country_label": "64.9% national, 2023/24",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya National Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Kenya Housing Survey 2023/24: mobile ownership by households",
+   "country_label": "93.8% national, 2023/24 (rural 91.4%, urban 97.6%)",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya National Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Kenya Housing Survey 2023/24: mobile phone ownership among youths aged 18-34",
+   "country_label": "81.5% national, 2023/24 (male 82.4%, female 80.7%)",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "One ownership fact (53.7%, individuals, age range not stated); usage, household and youth 18-34 figures are systems entries."
+}

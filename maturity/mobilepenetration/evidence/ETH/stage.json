@@ -1,0 +1,15 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "2",
+   "owners": "estimate:52.7",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-004",
+   "gaps": "The latest figure, 52.7 per cent for 2024, is below 65 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

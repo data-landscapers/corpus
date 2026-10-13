@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-digital-development-dashboard-rwanda",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile-cellular subscriptions per 100 inhabitants", "country_label": "80 per 100 inhabitants (2022), ITU", "class": "other", "platform": "", "owner": "ITU", "tiers": ""},
+    {"system": "Population covered by a mobile-cellular network", "country_label": "99% (2022), ITU", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": "ITU dashboard reports individuals owning a mobile phone as NA for Rwanda; only subscriptions per 100 and coverage are given, neither of which is a fact for this class."
+}

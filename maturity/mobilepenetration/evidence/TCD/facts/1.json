@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-06-arcep-rend-public-observatoire-marche-telecommunications-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile telephony penetration rate (ARCEP Observatoire du marche des telecommunications 2020)", "country_label": "taux de penetration de la telephonie mobile 53.5% in 2020; sector customers 8.7 million in 2020 (+13.3% on 2019); derived from subscriber counts, not a survey of people owning a phone", "class": "other", "platform": "", "owner": "ARCEP Tchad", "tiers": ""}
+  ],
+  "note": "The 53.5% (2020) is a penetration rate tied to subscriber/customer counts (8.7 million), not a household survey of people who own a phone, so no ownership fact; recorded as a systems entry of class other."
+}

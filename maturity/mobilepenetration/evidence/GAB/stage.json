@@ -1,0 +1,15 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "4",
+   "owners": "estimate:84.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GAB-004",
+   "gaps": "The latest figure, 84.8 per cent for 2024, is below 95 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

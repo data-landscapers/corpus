@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-lca-ict-access-use-households-comparative-2016-2023",
+  "facts": [],
+  "systems": [
+    {"system": "LCA/BoS ICT access and use survey, individuals owning a mobile phone", "country_label": "individuals owning a mobile phone: 78.7% (2016), 81.7% (2019), 83.1% (2023); age range not stated", "class": "other", "platform": "", "owner": "Lesotho Communications Authority with Bureau of Statistics", "tiers": ""},
+    {"system": "Smartphone ownership", "country_label": "individuals owning a smartphone, 2023 figures by urban and rural; national figure unclear in text", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Gives ownership figures for individuals in 2016, 2019 and 2023 but no age range, so no fact is recorded; the 2016 figure of 78.7% is taken from document 1."
+}

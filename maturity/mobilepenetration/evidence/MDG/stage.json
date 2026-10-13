@@ -1,0 +1,15 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "1",
+   "owners": "estimate:44.4",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

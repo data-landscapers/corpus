@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-17-two-in-three-nigerian-women-missing-mobile-internet",
+  "facts": [],
+  "systems": [
+    {"system": "GSMA Mobile Gender Gap Report 2024: phone ownership by sex", "country_label": "93% of men and 88% of women have phones (2024 report; survey year not stated)", "class": "other", "platform": "", "owner": "GSMA", "tiers": ""},
+    {"system": "GSMA Mobile Gender Gap Report 2024: smartphone ownership by sex", "country_label": "32% of women and 51% of men own smartphones (2024 report; survey year not stated)", "class": "other", "platform": "", "owner": "GSMA", "tiers": ""},
+    {"system": "Mobile internet subscriptions", "country_label": "163.89 million mobile internet subscriptions, March 2024", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No whole-population or all-ages mobile phone ownership figure; the only ownership figures are by sex (adults) and smartphones, so no fact."
+}

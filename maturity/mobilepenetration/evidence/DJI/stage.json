@@ -1,0 +1,15 @@
+{
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "3",
+   "owners": "estimate:73",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-004",
+   "gaps": "The latest figure, 73 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

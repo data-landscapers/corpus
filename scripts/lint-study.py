@@ -12,8 +12,8 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
   stage says what is not established in `gaps`.
 - **Every source held.** A staged cell names its evidence rows in `stage_sources`; each is a
   row of that country's `evidence.csv` on that sub-indicator, and every evidence row's
-  `source_slug` and `url` is held in `raw/`. Stage 1 is a claim like any other: it needs
-  the cited absence.
+  `source_slug` and `url` is held in `raw/`, or is a reference series in
+  `reference/measures.csv`. Stage 1 is a claim like any other: it needs the cited absence.
 - **The short summary inside its cap**: one line, 25 words at most, no link.
 - **The cap rule applied wherever it fires.** A stage above the cap's line needs the
   governance values the study's `cap` names. Where they are missing the stage is the cap's
@@ -235,6 +235,14 @@ def main(argv=None) -> int:
     raw = [r for r in index if r["d"].get("folder") == "raw" and r["d"].get("ext") == ".md"]
     slugs = {r["d"]["slug"] for r in raw}
     urls = {r["d"]["url_norm"] for r in raw if r["d"].get("url_norm")}
+    # A reference series is held as data, not in raw/ (`study_lib.reference_held`).
+    try:
+        ref_slugs, ref_urls = study_lib.reference_held()
+    except study_lib.StudyError as e:
+        print(f"lint-study: {e}")
+        return 2
+    slugs |= ref_slugs
+    urls |= {vault_lib.normalise_url(u) for u in ref_urls.values()}
 
     countries, evidence = study_lib.countries(), study_lib.evidence(a.study)
     out_dir = study_lib.out_dir(a.study)

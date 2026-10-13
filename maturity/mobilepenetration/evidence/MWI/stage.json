@@ -1,0 +1,15 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "2",
+   "owners": "estimate:57.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-004",
+   "gaps": "The latest figure, 57.2 per cent for 2024, is below 65 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

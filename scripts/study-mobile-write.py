@@ -1,0 +1,175 @@
+#!/usr/bin/env python3
+r"""study-mobile-write.py — the mobile penetration study's summaries, written from its figures.
+
+    python scripts/study-mobile-write.py
+    python scripts/study-mobile-write.py --dry
+
+`maturity/documentation/maturity-study-method.md` §8. The study holds one figure a country
+and its earlier years, so **what there is to say is arithmetic**: the latest share, what
+kind of figure it is, the years before it, and how far it stands from the next line. A
+script says it the same way for 54 countries, where 54 writers would each read two style
+guides to restate a number.
+
+Writes, per country, `outputs/maturity/mobilepenetration/{ISO3}.md` and
+`maturity/mobilepenetration/evidence/{ISO3}/short.json`, in the shape `writer-brief.md` sets
+and `lint-study.py` holds: one paragraph for the one aspect, every claim linked to its
+evidence row's `url`, then ***Noted, not assessed*** from `systems.csv` and ***Not held***.
+
+A fact a drafter read from a story is printed as the drafter wrote it, linked, after the
+series. Run it after the ladder script, which writes the `stage.json` it reads.
+
+Exit: 0 written, 2 the study cannot be read.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import study_lib  # noqa: E402
+
+STUDY = "mobilepenetration"
+SUB = "ownership"
+LINES = ((50.0, "half"), (65.0, "two in three"), (80.0, "four in five"), (95.0, "nearly everyone"))
+BASIS = {"survey": "a survey figure the country reported to the International Telecommunication Union",
+         "estimate": "an estimate by the International Telecommunication Union"}
+
+
+def link(url: str, words: str) -> str:
+    return f"[{words}](<{url}>)"
+
+
+def num(value: str) -> float:
+    return float(value.split(":", 1)[1])
+
+
+def points(n: float) -> str:
+    n = round(abs(n), 1)
+    return f"{n:g} point" + ("" if n == 1 else "s")
+
+
+def listed(parts: list[str]) -> str:
+    return parts[0] if len(parts) == 1 else ", ".join(parts[:-1]) + " and " + parts[-1]
+
+
+def paragraph(name: str, country: str, rows: list[dict], best: dict) -> str:
+    """The one aspect's paragraph. `rows` are the country's `owners` facts, `best` the one that set the stage."""
+    series = sorted((r for r in rows if r["source_slug"] == best["source_slug"]), key=lambda r: r["as_of"])
+    read = [r for r in rows if not r["source_slug"].startswith("ref:") and r["row_id"] != best["row_id"]]
+    figure, year, url = num(best["value"]), best["as_of"][:4], best["url"]
+    kind = best["value"].split(":")[0]
+    out = [f"**{name}.**"]
+    if best["source_slug"].startswith("ref:"):
+        out.append(f"In {year}, {link(url, f'{figure:g} per cent of people aged 10 and over')} in "
+                   f"{country} owned a mobile phone, {BASIS[kind]}.")
+    else:
+        out.append(link(url, best["fact"].rstrip(".")) + ".")
+    out.append(f"That leaves {100 - figure:.1f} per cent without a phone of their own.")
+    before = [r for r in series if r["as_of"] < best["as_of"]]
+    recent = [r for r in before if r["as_of"] >= "2021"]
+    if recent:
+        steps = listed([f"{num(r['value']):g} per cent in {r['as_of'][:4]}" for r in recent])
+        out.append(f"The same series {link(url, 'put the share at ' + steps)}.")
+        moved = figure - num(recent[0]["value"])
+        how = "has not moved" if abs(moved) < 0.05 else \
+            f"{'rose' if moved > 0 else 'fell'} by {points(moved)}"
+        out.append(f"Since {recent[0]['as_of'][:4]} the share {how}.")
+    else:
+        out.append("The series gives no figure for 2021, 2022 or 2023, so whether the share is rising "
+                   "or falling is not known.")
+    surveys = [r for r in recent if r["value"].startswith("survey:")]
+    if kind == "estimate":
+        if surveys:
+            was = f"{num(surveys[-1]['value']):g} per cent, for {surveys[-1]['as_of'][:4]}"
+            out.append(f"The last survey figure in the series is {link(url, was)}; "
+                       f"every later year is an estimate.")
+        else:
+            out.append("Every figure since 2021 is an estimate, not a survey result.")
+    cleared = [w for line, w in LINES if figure >= line]
+    ahead = [(line, w) for line, w in LINES if figure < line]
+    if not cleared:
+        out.append(f"Fewer than half of people own a phone, and the share is {points(50 - figure)} short of half.")
+    elif ahead:
+        out.append(f"The share is past {cleared[-1]} and {points(ahead[0][0] - figure)} short of "
+                   f"{ahead[0][0]:g} per cent, which is {ahead[0][1]}.")
+    else:
+        out.append("At 95 per cent or more, nearly everyone aged 10 and over has a phone.")
+    out.append("The figure counts a person once, whatever the number of SIM cards they hold, "
+               "and counts a phone as owned where the person has it for their own use.")
+    for r in read:
+        out.append(link(r["url"], r["fact"].rstrip(".")) + ".")
+    return " ".join(out)
+
+
+def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: bool) -> str:
+    name = study["aspects"][0]["name"]
+    label = study["sub_indicators"][0]["label"]
+    folder = os.path.join(base, iso)
+    try:
+        with open(os.path.join(folder, "stage.json"), encoding="utf-8") as fh:
+            cell = json.load(fh)["cells"][0]
+    except OSError:
+        raise study_lib.StudyError(f"{iso}: no stage.json; run the ladder script first")
+    rows = [r for r in study_lib.read_csv(os.path.join(folder, "evidence.csv")) if r["aspect"] == "owners"]
+    urls = {r["slug"]: r["url"] for r in study_lib.read_csv(os.path.join(folder, "readlist.csv"))}
+    noted, seen = [], set()
+    for s in study_lib.read_csv(os.path.join(folder, "systems.csv")):
+        url = urls.get(s["sources"], "")
+        words = ": ".join(x for x in (s["system"].strip(), s["country_label"].strip()) if x)
+        if s["class"] == "other" and url and words and words not in seen:
+            seen.add(words)
+            noted.append(link(url, words.replace("[", "(").replace("]", ")")))
+    parts = [f"# {country}", "", f"## {label}", ""]
+    if cell["stage"].isdigit():
+        best = next(r for r in rows if r["row_id"] == cell["stage_sources"])
+        figure, year, kind = num(best["value"]), best["as_of"][:4], best["value"].split(":")[0]
+        parts += [paragraph(name, country, rows, best), ""]
+        short = (f"In {year}, {figure:g} per cent of people aged 10 and over owned a mobile phone, "
+                 + ("by a national survey." if kind == "survey" else "by an international estimate."))
+        ahead = [line for line, _ in LINES if figure < line]
+        held = (f"No figure of {ahead[0]:g} per cent or more is held." if ahead
+                else "Nothing further is asked of this indicator.")
+        if kind == "estimate":
+            held += " No national survey or census figure for 2024 or later is held."
+    else:
+        old = sorted(rows, key=lambda r: r["as_of"])
+        held = cell["gaps"]
+        if old:
+            held += f" The latest held is {num(old[-1]['value']):g} per cent, for {old[-1]['as_of'][:4]}."
+        short = ("No figure for the share of people who own a mobile phone is held for 2024 or "
+                 "later, so no stage is set.")
+    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
+              "***Not held***. " + held, ""]
+    if not dry:
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("\n".join(parts))
+        with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
+            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            fh.write("\n")
+    return cell["stage"]
+
+
+def main(argv=None) -> int:
+    ap = argparse.ArgumentParser(description="Write the mobile penetration study's summaries.")
+    ap.add_argument("--dry", action="store_true", help="check, write nothing")
+    a = ap.parse_args(argv)
+    try:
+        study = study_lib.load(STUDY)
+        base = os.path.join(study_lib.study_dir(STUDY), "evidence")
+        names = study_lib.countries()
+        n = 0
+        for iso in sorted(names):
+            write(study, iso, names[iso]["name"], base, study_lib.out_dir(STUDY), a.dry)
+            n += 1
+    except study_lib.StudyError as e:
+        print(f"study-mobile-write: {e}")
+        return 2
+    print(f"study-mobile-write: {n} countries" + (" (dry run, nothing written)." if a.dry else " written."))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

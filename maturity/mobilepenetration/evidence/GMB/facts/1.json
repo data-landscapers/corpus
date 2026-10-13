@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-05-thepoint-pura-ex-ante-telecom-regulation-validation-workshop",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile penetration (Ministry figure)", "country_label": "over 112% mobile penetration, stated 4 November 2025 by the Ministry of Communications and Digital Economy's director of Post and Telecommunications; 15.7% annual growth since 2019; population base and age range not given", "class": "other", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""}
+  ],
+  "note": "Penetration above 100% is a subscription-type rate, not a share of people owning a phone; no ownership survey figure."
+}

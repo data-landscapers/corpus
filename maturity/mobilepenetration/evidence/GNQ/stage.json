@@ -1,0 +1,15 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "3",
+   "owners": "estimate:71.8",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-004",
+   "gaps": "The latest figure, 71.8 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}

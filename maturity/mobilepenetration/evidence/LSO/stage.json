@@ -1,0 +1,15 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "ownership",
+   "stage": "3",
+   "owners": "estimate:75.2",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-004",
+   "gaps": "The latest figure, 75.2 per cent for 2024, is below 80 per cent.",
+   "note": "Counted from the four questions by study-ladder-mobilepenetration.py."
+  }
+ ]
+}
