@@ -1,0 +1,140 @@
+{
+  "id": "regionalinfrastructure",
+  "study_file": "maturity-study-regionalinfrastructure.md",
+  "subjects": [
+    "gov.regional"
+  ],
+  "stage_topic": "gov.regional",
+  "redraws": [
+    "gov.regional--shared-regional-infrastructure"
+  ],
+  "carry": [
+    "gov.regional--shared-regional-infrastructure"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 40000000,
+  "terms": [
+    "cross-border fibre",
+    "cross-border fiber",
+    "cross border fibre",
+    "cross border fiber",
+    "cross-border optical",
+    "cross-border backbone",
+    "cross-border interconnection",
+    "cross-border link",
+    "cross-border terrestrial",
+    "fibre interconnection",
+    "fiber interconnection",
+    "fibre interconnector",
+    "fiber interconnector",
+    "fibre corridor",
+    "fiber corridor",
+    "fibre link to",
+    "fiber link to",
+    "terrestrial fibre",
+    "terrestrial fiber",
+    "regional backbone",
+    "regional fibre",
+    "regional fiber",
+    "regional internet exchange",
+    "regional exchange point",
+    "regional IXP",
+    "regional data centre",
+    "regional data center",
+    "regional cloud",
+    "regional satellite",
+    "shared satellite",
+    "regional communications satellite",
+    "Central African Backbone",
+    "Horizon Fiber",
+    "One Africa Network",
+    "Amilcar Cabral",
+    "Djoliba",
+    "interconnexion par fibre",
+    "interconnexion en fibre",
+    "interconnexion fibre",
+    "interconnexion des réseaux",
+    "interconnexion transfrontalière",
+    "interconnexion numérique",
+    "fibre optique transfrontalière",
+    "liaison transfrontalière",
+    "liaison par fibre",
+    "liaison fibre",
+    "dorsale transsaharienne",
+    "dorsale régionale",
+    "Dorsale à fibre optique d'Afrique centrale",
+    "backbone régional",
+    "corridor numérique",
+    "point d'échange Internet régional",
+    "point d'échange régional",
+    "centre de données régional",
+    "datacenter régional",
+    "satellite régional",
+    "interligação por fibra",
+    "interligação de fibra",
+    "fibra óptica transfronteiriça",
+    "ligação transfronteiriça",
+    "centro de dados regional",
+    "satélite regional",
+    "interconexión de fibra",
+    "الربط البيني",
+    "ألياف بصرية عابرة للحدود",
+    "العابر للصحراء",
+    "Trans-Saharan Backbone",
+    "Trans-Saharan fibre",
+    "Trans-Saharan fiber",
+    "Trans-Saharan optical",
+    "regional internet exchange point"
+  ],
+  "sub_indicators": [
+    {
+      "key": "shared",
+      "label": "Digital links and facilities shared with other African countries",
+      "subject": "gov.regional",
+      "text": "Shared regional infrastructure: digital links and facilities shared with other African countries",
+      "indicator_id": "gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries",
+      "class": "shared"
+    }
+  ],
+  "classes": [
+    "shared",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "built",
+      "name": "Shared link or facility agreed and under construction",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "building",
+        "agreed"
+      ],
+      "values": [
+        "building",
+        "agreed",
+        "none"
+      ]
+    },
+    {
+      "key": "service",
+      "name": "In service and carrying another country's traffic",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-use",
+        "in-service"
+      ],
+      "values": [
+        "in-use",
+        "in-service",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
