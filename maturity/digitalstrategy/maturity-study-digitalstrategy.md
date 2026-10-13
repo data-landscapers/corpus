@@ -94,7 +94,7 @@ Staged as at 2026-09-30: 18 at stage 3, 27 at 2, 2 at 1, 5 unplaced, 2 with no e
 
 ## 5. The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy for Africa 2020-2030. Under its enabling-environment pillar it asks states to "develop and implement national and sectorial digital strategies". Its monitoring section covers the continental strategy itself.
+The frame's anchor is the African Union's Digital Transformation Strategy for Africa 2020-2030. Under its enabling-environment pillar it asks states to "develop and implement national and sectorial digital strategies". Its monitoring section covers the continental strategy itself.
 
 **The norm names the subject and measures nothing.** The ladder takes one thing from it: *develop and implement*, so adoption is not the top.
 

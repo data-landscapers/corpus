@@ -86,7 +86,7 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 
 ## 5. The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy, with the decentralisation charter's Article 16. The Strategy asks states to "establish electronic government registers or digitalise existing ones, starting with an electronic population registry, eBusiness register and Land Use register", and to let organisations "reuse core registers".
+The frame's anchor is the African Union's Digital Transformation Strategy, with the decentralisation charter's Article 16. The Strategy asks states to "establish electronic government registers or digitalise existing ones, starting with an electronic population registry, eBusiness register and Land Use register", and to let organisations "reuse core registers".
 
 **Neither measures what the sub-indicator measures.** The Strategy names national registers and no local government; Article 16 sets a duty and no measure. The ladder takes one thing from the Strategy: stage 5 needs `shared`, a record the centre can reuse. *(Read 2026-10-10.)*
 

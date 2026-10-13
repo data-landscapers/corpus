@@ -4,7 +4,7 @@
 
 ## The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo Convention: Article 8(1) commits each party to a legal framework for personal data, Article 13 sets the principles and Articles 16 to 19 the rights. **It names the subject and measures nothing**: it sets no test of whether a law is applied, and matching its principles is a reading of two texts, not a dated fact. Ratification is the flag.
+The frame's anchor is the African Union's Malabo Convention: Article 8(1) commits each party to a legal framework for personal data, Article 13 sets the principles and Articles 16 to 19 the rights. **It names the subject and measures nothing**: it sets no test of whether a law is applied, and matching its principles is a reading of two texts, not a dated fact. Ratification is the flag.
 
 ## The ladder
 
