@@ -1,0 +1,107 @@
+{
+ "id": "mobileaffordability",
+ "study_file": "maturity-study-mobileaffordability.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--mobile-affordability"
+ ],
+ "carry": [
+  "infra.connect--mobile-affordability"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 25000000,
+ "terms": [
+  "data prices",
+  "data price",
+  "price of data",
+  "price of mobile data",
+  "cost of data",
+  "cost of mobile data",
+  "data costs",
+  "data tariffs",
+  "data tariff",
+  "internet prices",
+  "internet tariffs",
+  "price of internet",
+  "cost of internet",
+  "price per gigabyte",
+  "per gigabyte",
+  "price basket",
+  "price baskets",
+  "data affordability",
+  "internet affordability",
+  "mobile affordability",
+  "broadband affordability",
+  "affordable data",
+  "affordable internet",
+  "GNI per capita",
+  "prix de l'internet",
+  "prix de l’internet",
+  "prix d'internet",
+  "prix d’internet",
+  "prix de la data",
+  "prix des données",
+  "prix du gigaoctet",
+  "prix du giga",
+  "tarifs internet",
+  "tarifs d'internet",
+  "tarifs d’internet",
+  "tarifs de l'internet",
+  "tarifs de l’internet",
+  "tarifs data",
+  "coût de l'internet",
+  "coût de l’internet",
+  "coût d'internet",
+  "coût d’internet",
+  "coût de la data",
+  "coût de la connexion",
+  "RNB par habitant",
+  "preço da internet",
+  "preços da internet",
+  "preço dos dados",
+  "preços dos dados",
+  "preço de dados",
+  "preços de dados",
+  "tarifas de internet",
+  "tarifas da internet",
+  "tarifas de dados",
+  "custo da internet",
+  "custo dos dados",
+  "RNB per capita",
+  "أسعار الإنترنت",
+  "أسعار الانترنت",
+  "سعر الإنترنت",
+  "سعر الانترنت",
+  "تعرفة الإنترنت",
+  "تعرفة الانترنت",
+  "تكلفة الإنترنت",
+  "تكلفة الانترنت",
+  "أسعار البيانات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "price",
+   "label": "The price of mobile data against income",
+   "subject": "infra.connect",
+   "text": "Mobile affordability: the price of mobile data against income",
+   "indicator_id": "infra.connect--mobile-affordability-the-price-of-mobile-data-against-income",
+   "class": "price"
+  }
+ ],
+ "classes": [
+  "price",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "share",
+   "name": "Price of a month of mobile data as a share of average monthly income, with its year",
+   "role": "coverage",
+   "pattern": "(basket|statement):\\d{1,3}(\\.\\d+)?"
+  }
+ ],
+ "flags": []
+}
