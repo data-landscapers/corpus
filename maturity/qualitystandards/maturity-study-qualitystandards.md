@@ -95,7 +95,7 @@ The Abuja Treaty, Article 67, commits member states to a common policy on standa
 - **Tanzania is stage 2**: the one source naming a standard on information technology is dated after the as-at.
 - **Four countries the row has at stage 3 are at 2**: Angola and Rwanda on a catalogue or gazette that names no such standard, Burundi on its quality policy, Lesotho on telecoms rules.
 - **Fourteen countries are without evidence**, Nigeria, Morocco, Ethiopia, Senegal and Côte d'Ivoire among them: nothing held names their standards body.
-- **A fact dated by year or month after the as-at counts where its source was published by it**, as the stager brief has it; this places São Tomé and Príncipe.
+- **São Tomé and Príncipe is placed on sources dated 2026 by year**, published before the as-at.
 - **Tokens: about 35 million at the map**, ceiling 30 million, step 1 included. The one reading fan-out took 28 million. **The summaries were written by the parent.**
 
 ## Boundary
