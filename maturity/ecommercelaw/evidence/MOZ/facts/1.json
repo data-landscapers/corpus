@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-29-atdi-mobile-digital-id-tender",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National mobile digital identity and electronic signature infrastructure",
+      "country_label": "National Mobile Digital Identity and Electronic Signature Infrastructure",
+      "class": "other",
+      "platform": "app, SIM and eSIM modalities; X-Road; national PKI/CA",
+      "owner": "ATDI, IP",
+      "tiers": "citizens, residents and companies"
+    }
+  ],
+  "note": "Procurement notice for a mobile ID and e-signature system; it names no electronic transactions law, draft or rules made under one."
+}

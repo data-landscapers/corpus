@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-30-angola-parliament-electronic-signature-legislative-authorisation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "OPais reports that on 30 July 2026 the Assembleia Nacional unanimously (166 votes in favour) approved the bill authorising the President to legislate the Regime Jurídico da Assinatura Electrónica e da Certificação Digital, valid for 90 days after publication; the regime itself is not yet enacted.",
+     "as_of": "2026-07-30", "date_precision": "day",
+     "system": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "country_label": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "class": "law", "platform": "", "owner": "President of the Republic (under authorisation of the Assembleia Nacional)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,National Root Certification Authority,National Root Certification Authority,other,,CRAN,Ministry of Home Affairs electronic identity system linked by key signing ceremony on 28 August 2026,2026-09-03-neweralive-home-affairs-certification-service-provider-namibia
+NAM,DigiNam National Public Key Infrastructure,DigiNam National PKI,other,,CRAN,"national; banks, telecommunications companies and government institutions expected to adopt",2026-09-01-observer24-namibia-diginam-pki-root-ca-live
+NAM,National Root Certification Authority,National Root Certification Authority,other,,CRAN,top of national digital trust chain; oversees accredited certification service providers,2026-09-01-observer24-namibia-diginam-pki-root-ca-live
+NAM,DigiNam (National PKI),DigiNam,other,,"CRAN as Root CA, with Ministries of Home Affairs and ICT",,2026-10-04-nam-marketwatch-namibia-strengthens-digital-trust
+NAM,DigiNam (National PKI),DigiNam,other,,"CRAN as Root CA, with Ministries of Home Affairs and ICT",,2026-08-28-economist-namibia-launches-diginam-national-pki
+NAM,"Electronic Transactions Act, 2019","Electronic Transactions Act, 2019",law,,,,2026-08-21-newera-theofelus-digital-identity-trust-security-facts
+NAM,"Electronic Transactions Act, 2019","Electronic Transactions Act, 2019",law,,,,2026-04-11-nam-csirt-namibia-cybersecurity-landscape-report-2025
+NAM,"Electronic Transactions Act, 2019","Electronic Transactions Act, 2019",law,,,,2025-08-14-govt-to-introduce-data-protection-bill-september-namibian
+NAM,"Electronic Transactions Act, 2019","Electronic Transactions Act, 2019",law,,,,2025-08-14-namibia-data-protection-bill-tabled-september

@@ -1,0 +1,11 @@
+# Mozambique
+
+## E-commerce law
+
+**Law in force.** Mozambique's Electronic Transactions Law, [Law no. 3/2017 of 9 January](<https://www.dlapiperdataprotection.com/guide.pdf?c=MZ>), is listed among its laws in force and sets rules on electronic marketing consent, intermediary service providers and personal data, with fines for breach. [Licences to digital operators began under it on 8 June 2026](<https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/>). Decree No. 40/2026 of the Council of Ministers [gives the electronic signature the same legal standing as a handwritten one](<https://360mozambique.com/development/government-approves-regulation-allowing-certificates-for-low-risk-activities-to-be-issued-within-two-hours/>).
+
+**Rules made under the law and the law applied.** [Decree no. 59/2023 of 27 October, amended by Decree no. 44/2025 of 28 November, requires intermediary electronic service providers and digital platform operators to register and be licensed with INTIC](<https://www.dlapiperdataprotection.com/guide.pdf?c=MZ>). A [Digital Certification Regulation operates with the law](<https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure>) for the Digital Certification System. On 8 June 2026 INTIC's board president [said 19 licences had been issued, with about 170 registered companies under evaluation](<https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/>).
+
+***Noted, not assessed***. [National mobile digital identity and electronic signature infrastructure](<https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/>); [Digital Certification System (DCS)](<https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure>); [MoDi Sign](<https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure>); [e-BAU](<https://360mozambique.com/development/government-approves-regulation-allowing-certificates-for-low-risk-activities-to-be-issued-within-two-hours/>).
+
+***Not held***. No further rule or enforcement figure is held beyond the above.

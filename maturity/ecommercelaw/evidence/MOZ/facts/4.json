@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-03-government-approves-regulation-certificates-low-risk-activities-two-hours",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Decree No. 40/2026 of the Council of Ministers, on Simple Prior Notification for economic activities, gives the electronic signature the same legal standing as a handwritten one, as reported by Lusa via 360 Mozambique; the regime takes effect within 90 days and the decree's own date is not given, so this is dated to the published date.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Decree No. 40/2026 (Regulation on Simple Prior Notification)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Platform for Citizen Services (e-BAU)",
+      "country_label": "e-BAU",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Mozambique",
+      "tiers": "One-Stop Service Counters (BAU) and applicants"
+    }
+  ],
+  "note": ""
+}

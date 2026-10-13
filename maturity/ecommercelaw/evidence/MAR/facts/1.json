@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-mar-mwn-cash-plus-damanesign-e-signatures",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Morocco World News reports that the Cash Plus and Damanesign qualified e-signature certificate service operates under Law 43-20 on trust services for electronic transactions; no date for the law is given, so the article's publication date of 2026-10-01 is used.", "as_of": "2026-10-01", "date_precision": "day", "system": "Law 43-20 on trust services for electronic transactions", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Morocco World News reports that Damanesign is a trust service provider approved by the DGSSI under Law 43-20 and issues qualified certificates for electronic signature and electronic seal; the approval date is not given, so the article's publication date of 2026-10-01 is used.", "as_of": "2026-10-01", "date_precision": "day", "system": "Law 43-20 on trust services for electronic transactions", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Damanesign", "country_label": "Damanesign", "class": "other", "platform": "qualified electronic signature and seal certificates on USB key", "owner": "Damanesign (trust service provider approved by DGSSI)", "tiers": "companies, public institutions, regulated professions, import-export operators"},
+    {"system": "BADR", "country_label": "BADR", "class": "other", "platform": "online customs clearance system", "owner": "", "tiers": "customs declarants"}
+  ],
+  "note": ""
+}

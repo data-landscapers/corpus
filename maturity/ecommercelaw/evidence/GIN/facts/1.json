@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-19-guinee360-guinee-mamadi-doumbouya-officialise-la-signature",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Guinea's president signed a decree on 19 August 2026 applying article 1003 of the Civil Code on electronic signature, giving an electronic signature the same probative force as a paper writing, covering public, private and person-to-person acts, and taking effect on signature.", "as_of": "2026-08-19", "date_precision": "day", "system": "Decree applying article 1003 of the Civil Code on electronic signature", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The decree of 19 August 2026 requires every electronic-certification service provider to be approved by the competent authority, names the national digital agency ANDE as that authority for approval, control and audit, and refers technical standards to a joint order of the telecommunications and justice ministries; it reports no provider approved.", "as_of": "2026-08-19", "date_precision": "day", "system": "Decree applying article 1003 of the Civil Code on electronic signature", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

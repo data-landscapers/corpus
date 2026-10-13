@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Biometric Update states that digitally signed contracts are legally binding in Egypt, without naming the law; no event date is given, so the article's publication date of 2025-08-11 is used.", "as_of": "2025-08-11", "date_precision": "day", "system": "legal effect of digital signatures on contracts", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Digified eKYC and e-contracts platform", "country_label": "Digified", "class": "other", "platform": "proprietary machine-learning ID verification", "owner": "Digified (Egyptian regtech firm, licensed by the Financial Regulatory Authority)", "tiers": "lending, investment and insurance companies under the FRA"}
+  ],
+  "note": ""
+}

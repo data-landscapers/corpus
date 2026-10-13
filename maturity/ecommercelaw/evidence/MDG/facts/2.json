@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-13-decret-2024-1911-orinasa",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree 2024-1911 of the President (published 2024-11-13) cites law no. 2014-024 of 10 December 2014 on electronic transactions and law no. 2014-025 of 10 December 2014 on electronic signature as the legal basis it is made under, and its Article 10 gives documents signed through a certified electronic signature device the same recognition as paper.", "as_of": "2024-11-13", "date_precision": "day", "system": "Loi n°2014-024 sur les transactions électroniques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Orinasa", "country_label": "plateforme en ligne Orinasa", "class": "other", "platform": "cloud-based", "owner": "Economic Development Board of Madagascar (EDBM)", "tiers": "national"}
+  ],
+  "note": ""
+}

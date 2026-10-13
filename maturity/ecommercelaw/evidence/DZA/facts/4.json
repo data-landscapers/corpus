@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-algerie-commerce-electronique-cadre-reglementaire",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Echorouk quotes the head of the national consumer-guidance organisation for e-commerce as saying most online sellers in Algeria operate without the obligations that Law No. 18-05 on e-commerce lays down, which treats the law as existing and binding; the document gives no event date, so the 2026-08-04 publication date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "Law No. 18-05 on e-commerce", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law No. 18-05 on e-commerce", "country_label": "القانون رقم 18-05 المتعلق بالتجارة الإلكترونية", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

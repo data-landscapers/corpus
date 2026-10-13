@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "1",
+   "standing": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
+  }
+ ]
+}

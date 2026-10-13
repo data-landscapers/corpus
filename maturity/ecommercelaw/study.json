@@ -205,7 +205,15 @@
       "subject": "gov.legislate",
       "text": "E-commerce legislation: e-commerce law",
       "indicator_id": "gov.legislate--e-commerce-legislation-e-commerce-law",
-      "class": "law"
+      "class": "law",
+      "criteria": [
+        "A source from the past three years says the country has no law on electronic transactions or e-commerce and no draft of one.",
+        "A bill or draft exists: published, out for consultation, before cabinet or parliament, or passed and not yet promulgated. A law that is only announced or planned does not count.",
+        "A law is in force that gives electronic contracts, records or signatures legal effect, or sets rules for selling online, however old. A law on electronic signatures alone counts, as does the part of a digital code or consumer protection law that does this job.",
+        "A decree, regulation or order has been made under the law: on electronic signatures, on those who certify them, or on those who sell online.",
+        "The law has been applied in the past three years: a provider of electronic signatures accredited or licensed under it, online sellers registered or licensed, or an order or penalty made. A government office using electronic signatures does not reach this stage."
+      ],
+      "criteria_of": "783b058196e3"
     }
   ],
   "classes": [

@@ -1,0 +1,10 @@
+{
+  "slug": "2015-07-16-mali-loi-2015-036-protection-du-consommateur",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Consumer protection law n°2015-036 of 16 July 2015 (published in the Journal officiel of 7 August 2015) sets rules for distance sales including by electronic means, bans email advertising without consent, and states that an electronic-form contract is validly concluded under the law on electronic exchange of legal data; it covers online selling only in part.", "as_of": "2015-07-16", "date_precision": "day", "system": "Loi n°2015-036 portant protection du consommateur", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n°2015-036 portant protection du consommateur", "country_label": "Loi n°2015-036 portant protection du consommateur", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Article 72 leaves application modalities to a decree; none is stated, so no reach fact."
+}

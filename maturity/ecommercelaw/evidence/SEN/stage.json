@@ -1,0 +1,16 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "no evidence",
+   "standing": "",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a law on electronic transactions or e-commerce or a draft of one, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
+  }
+ ]
+}

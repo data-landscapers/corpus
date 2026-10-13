@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-30-lso-itweb-electronic-transactions-bill-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "ITWeb Africa reports that Lesotho's MICSTI is introducing the Electronic Transactions and Communications Bill, 2026, a revision of the 2022 bill of the same name, after a two-day stakeholder validation workshop held with UNDP that week; the draft goes next to the Office of the Parliamentary Counsel for refinement (as_of is the article's published date, 2026-09-30, the workshop being 'this week').", "as_of": "2026-09-30", "date_precision": "day", "system": "Electronic Transactions and Communications Bill, 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The ministry states, per ITWeb Africa, that Lesotho lacks a legal and regulatory framework for electronic transactions, creating uncertainty for government, businesses and consumers over electronic contracts, signatures, records, online services and digital commerce (as_of is the article's published date, 2026-09-30).", "as_of": "2026-09-30", "date_precision": "day", "system": "Electronic Transactions and Communications Bill, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic Transactions and Communications Bill, 2026", "country_label": "Electronic Transactions and Communications Bill, 2026", "class": "law", "platform": "", "owner": "MICSTI, supported by UNDP", "tiers": ""}
+  ],
+  "note": ""
+}

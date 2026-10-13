@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "reach": "rules",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-003;EGY-005;EGY-001",
+   "gaps": "No source held dates an accreditation, licence, registration or penalty under the law in the last three years.",
+   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
+  }
+ ]
+}

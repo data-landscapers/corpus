@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-03-neweralive-home-affairs-certification-service-provider-namibia",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "New Era reports that the Electronic Transactions Act of 2019 and its accreditation regulations were the basis on which CRAN accredited the Ministry of Home Affairs as a certification service provider (announced on an unnamed Tuesday of the week of the 3 September 2026 article).",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Electronic Transactions Act, 2019",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "applied",
+      "fact": "CRAN accredited the Ministry of Home Affairs, Immigration, Safety and Security as Namibia's first Certification Service Provider under the Act and its accreditation regulations, valid four years; the article dates it only as Tuesday, so the week of its 3 September 2026 publication is used.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Electronic Transactions Act, 2019",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Root Certification Authority",
+      "country_label": "National Root Certification Authority",
+      "class": "other",
+      "platform": "",
+      "owner": "CRAN",
+      "tiers": "Ministry of Home Affairs electronic identity system linked by key signing ceremony on 28 August 2026"
+    }
+  ],
+  "note": ""
+}

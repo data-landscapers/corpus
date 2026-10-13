@@ -1,0 +1,9 @@
+{
+  "slug": "2014-05-14-bwa-electronic-communications-transactions-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Parliament of Botswana enacted the Electronic Communications and Transactions Act, 2014 (Act No. 14), assented 14 May 2014, giving electronic communications, contracts and signatures legal effect and covering online consumer protection; commencement was by ministerial Order in the Gazette.", "as_of": "2014-05-14", "date_precision": "day", "system": "Electronic Communications and Transactions Act, 2014", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document's capture note records the Act as in force since 1 April 2016, citing BOCRA; the Act's own text says only that commencement is on notice.", "as_of": "2016-04-01", "date_precision": "day", "system": "Electronic Communications and Transactions Act, 2014", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Capture truncated before Part V onwards; no rules made under the Act or applications of it are stated (section 46 only empowers regulations)."
+}

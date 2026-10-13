@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-11-egypt-data-protection-privacy-2025-chambers",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Chambers guide, written by a law firm, cites Law No 15/2004 regulating e-signatures and establishing ITIDA as part of Egypt's framework and states what it requires of applicants for e-signature services; no date for the statement is given, so the publication date is used.", "as_of": "2025-03-11", "date_precision": "day", "system": "Law No 15/2004 regulating e-signatures", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Chambers guide states that Law No 15/2004 on e-signatures has executive regulations under which applicants for e-signature services must keep a secure system preserving confidentiality of customers' data; no date is given, so the publication date is used.", "as_of": "2025-03-11", "date_precision": "day", "system": "Law No 15/2004 regulating e-signatures", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law No 15/2004 regulating e-signatures", "country_label": "Law No 15/2004 regulating e-signatures and establishing ITIDA", "class": "law", "platform": "", "owner": "ITIDA", "tiers": ""}
+  ],
+  "note": ""
+}

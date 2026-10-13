@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The UNECA Digital Trade Regulatory Integration country profile states Eritrea has not adopted the UNCITRAL Model Law on electronic commerce or electronic signatures and lacks legislation equating electronic signatures with physical ones; the profile has no printed date, so its 2022 published date is used (underlying data cover measures to 2021).", "as_of": "2022", "date_precision": "year", "system": "Electronic transactions and e-signature legislation (UNCITRAL Model Laws not adopted)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

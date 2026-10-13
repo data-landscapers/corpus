@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-16-cog-arretes-1518-1521-facturation-electronique-certifiee-sfec",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The four arrêtés of 9 July 2026, published 16 July 2026, cite as a legal basis the loi n° 37-2019 of 12 December 2019 relative aux transactions électroniques, treating it as an existing law of the Republic of the Congo; the document does not describe its content.", "as_of": "2019-12-12", "date_precision": "day", "system": "Loi n° 37-2019 relative aux transactions électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The arrêtés cite among their legal basis the décret n° 2025-514 of 29 December 2025 fixing the characteristics of the device for creating and verifying electronic signatures; the document does not say under which law it was made.", "as_of": "2025-12-29", "date_precision": "day", "system": "Décret n° 2025-514 fixant les caractéristiques du dispositif de création et de vérification de la signature électronique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Système de facturation électronique certifiée (SFEC)", "country_label": "SFEC", "class": "other", "platform": "PGSFEC platform; certificates issued by the SFEC certification authority", "owner": "Direction générale des impôts et des domaines (DGID), with ANSSI and ACONOQ", "tiers": "taxpayers issuing invoices; terminal and software suppliers and distributors"}
+  ],
+  "note": ""
+}

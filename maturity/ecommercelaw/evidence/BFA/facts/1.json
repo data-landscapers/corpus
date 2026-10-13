@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-16-bfa-libreinfo-fasosign-lancement-signature-electronique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "FasoSign",
+      "country_label": "FasoSign",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Transition (ANSSI presented the security mechanisms)",
+      "tiers": "central public administration; integrated with SIGED, CIMEXT, SYCAD"
+    }
+  ],
+  "note": "Launch of a government e-signature platform; the article cites no law, draft or rules."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-03-lawmakers-back-communications-bill-2025-standard",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "The Standard reports that the National Assembly approved the Communications Bill 2025 at second reading (the day before the 2026-03-03 publication), after a first reading on 19 November 2025, and sent it to the ABC Committee; the Minister said it will create a legal framework for electronic transactions, recognising electronic signatures and contracts, and covers electronic commerce services.",
+     "as_of": "2026-03-02", "date_precision": "day", "system": "Communications Bill 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Communications Bill 2025", "country_label": "Communications Bill 2025", "class": "law", "platform": "", "owner": "National Assembly; Ministry of Communications and Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

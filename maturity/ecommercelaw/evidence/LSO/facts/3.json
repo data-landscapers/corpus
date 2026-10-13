@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "FinMark Trust says that Lesotho, with the DRC and Zimbabwe, does not have comprehensive legislation on electronic transactions, though many SADC countries have an Electronic Transactions Act; no date is given for the statement, so as_of is the blog's published date, 2026-06-18.", "as_of": "2026-06-18", "date_precision": "day", "system": "", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2011-07-22-decreto-presidencial-202-11-regulamento-das-tecnologias-e-servicos-da-sociedade-da-informacao",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Presidential Decree 202/11, published in Diario da Republica I Serie no. 139 on 22 July 2011, approves Angola's Regulation on Information Society Technologies and Services, which covers information society services, electronic documents and legal acts (qualified electronic signature, certification, electronic contracts) and electronic advertising, and enters into force 30 days after publication; the excerpt held is truncated before the signature and contract articles.",
+     "as_of": "2011-08", "date_precision": "month",
+     "system": "Regulamento das Tecnologias e dos Serviços da Sociedade da Informação (Decreto Presidencial n.º 202/11)",
+     "class": "law"}
+  ],
+  "systems": [],
+  "note": "No fact on reach: the document states no rules made under the regulation and no accreditation, licence or penalty applied under it."
+}

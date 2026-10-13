@@ -1,0 +1,9 @@
+{
+  "slug": "2011-06-15-cameroun-decret-2011-1521-commerce-electronique-modalites",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law no. 2010/021 of 21 December 2010 governing electronic commerce in Cameroon exists as a made law, and the Prime Minister's decree of 15 June 2011 fixes its application rules.", "as_of": "2010-12-21", "date_precision": "day", "system": "Law no. 2010/021 on electronic commerce", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Decree no. 2011/1521/PM of 15 June 2011 fixes the modalities of application of law no. 2010/021 on electronic commerce, defining the scope of e-commerce activity.", "as_of": "2011-06-15", "date_precision": "day", "system": "Law no. 2010/021 on electronic commerce", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

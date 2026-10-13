@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty",
+  "facts": [],
+  "systems": [
+    {"system": "e-signature system", "country_label": "e-signature system", "class": "other", "platform": "", "owner": "Government of Senegal (New Deal Technologique)", "tiers": ""}
+  ],
+  "note": "Mentions a planned e-signature system in the DPI strategy; states nothing about an e-commerce, electronic transactions or e-signature law."
+}

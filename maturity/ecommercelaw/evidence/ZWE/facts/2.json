@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-finmark-trust-cross-border-dpi-sadc",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "FinMark Trust says Zimbabwe, with the DRC and Lesotho, does not have comprehensive legislation of the Electronic Transactions Act kind, and that existing financial services, data protection and cybersecurity laws are adapted instead; the document gives no event date, so as_of is its published date 2026-06-18.", "as_of": "2026-06-18", "date_precision": "day", "system": "electronic transactions legislation", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

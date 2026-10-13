@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-30-lexpress-secteur-postal-cyberattaques-post-isac",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The ICT minister, speaking on 29 July 2026, referred to amendments to the Electronic Transactions Act 2006 meant to modernise digital commerce frameworks and strengthen consumer protection, which treats the 2006 Act as existing law; the document gives no date for the Act's entry into force and does not say the amendments are passed.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Electronic Transactions Act 2006",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

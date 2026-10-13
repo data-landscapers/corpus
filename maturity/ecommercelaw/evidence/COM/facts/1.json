@@ -1,0 +1,8 @@
+{
+  "slug": "2021-03-04-com-anaden-avancees-code-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "ANADEN's legal affairs officer lists a law on e-commerce among legislation still to be drafted (a elaborer), to be part of a digital code targeted for 2024, so no e-commerce law or draft existed in March 2021.", "as_of": "2021-03-04", "date_precision": "day", "system": "e-commerce law", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

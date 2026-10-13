@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-28-cote-divoire-launches-national-pki",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Biometric Update, citing Ecofin, says the new national PKI rests on the legal framework of Law No. 2013-546 on electronic transactions (article dated 2026-07-28; no day for the law given, 2013 from its number).", "as_of": "2013", "date_precision": "year", "system": "Law No. 2013-546 on electronic transactions", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Biometric Update says decrees issued in 2014 and 2016 accompany the 2013 electronic transactions law, covering cryptology, electronic signatures and digital archiving.", "as_of": "2014", "date_precision": "year", "system": "Decrees of 2014 and 2016 under Law No. 2013-546", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National PKI", "country_label": "national public key infrastructure", "class": "other", "platform": "", "owner": "ANSSI-CI", "tiers": "certification authorities and trust service providers in Côte d'Ivoire; no timeline for providers to begin using it"}
+  ],
+  "note": ""
+}

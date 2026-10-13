@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-25-electronic-transactions-amendment-act-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Act No. 5 of 2026, the Electronic Transactions (Amendment) Act, was passed by the National Assembly on 19 May 2026 and assented to by the President on 25 May 2026; it comes into operation on a date to be fixed by Proclamation, different sections possibly on different dates, and the document gives no commencement date.",
+     "as_of": "2026-05-25", "date_precision": "day", "system": "Electronic Transactions (Amendment) Act 2026", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The Act amends an existing principal Electronic Transactions Act, repealing and replacing its section 8 on electronic signatures and section 18 on secure electronic records, and inserting new Part IIA and sections 14A to 14D and 15A on transferable records, automated contracts, online offers and foreign certificates; the document's date is that of assent.",
+     "as_of": "2026-05-25", "date_precision": "day", "system": "Electronic Transactions Act", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

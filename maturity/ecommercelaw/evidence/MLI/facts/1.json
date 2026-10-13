@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-26-mali-dgi-recettes-electroniques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Director General of Taxes, interviewed in L'Essor, cites the law on electronic transactions as part of a solid legal framework for digitalising public payments; the date of the law is not given, so the document's publication date is used.", "as_of": "2025-11-26", "date_precision": "day", "system": "loi sur les transactions électroniques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "loi sur les transactions électroniques", "country_label": "loi sur les transactions électroniques", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-26-tchad-loi-finances-2026",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Article 53 of Loi n° 008/AN/SENAT/2025 (finance law 2026) makes electronic signature compulsory for administrative correspondence in the finance ministry from 1 January 2026 and states it has the same legal value as a handwritten signature.",
+     "as_of": "2026-01-01", "date_precision": "day",
+     "system": "Loi n° 008/AN/SENAT/2025 portant loi de finances pour l'exercice 2026, article 53", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

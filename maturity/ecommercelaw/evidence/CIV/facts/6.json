@@ -1,0 +1,9 @@
+{
+  "slug": "2014-03-12-civ-decret-2014-106-ecrit-signature-electronique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree 2014-106 of 12 March 2014 states that it sets the conditions for written documents and signatures in electronic form in accordance with law no. 2013-546 of 30 July 2013 on electronic transactions, which it cites as the law it implements.", "as_of": "2014-03-12", "date_precision": "day", "system": "Loi n°2013-546 du 30 juillet 2013 relative aux transactions électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Decree 2014-106, signed by the President on 12 March 2014 under law 2013-546 on electronic transactions, sets rules on secure electronic signatures, qualified electronic certificates and the approval of certification service providers by ARTCI.", "as_of": "2014-03-12", "date_precision": "day", "system": "Décret n°2014-106 du 12 mars 2014", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

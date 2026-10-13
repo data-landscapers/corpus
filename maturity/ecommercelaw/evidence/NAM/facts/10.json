@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-economist-namibia-launches-diginam-national-pki",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Economist (Namibia) reports Chapter 5 and Section 20 of the Electronic Transactions Act of 2019 came into effect in June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "applied",
+   "fact": "The Economist (Namibia) reports DigiNam was launched on 31 August 2026 under the Act, with CRAN serving as Root Certification Authority tasked with accrediting certification service providers; no accreditation is yet reported.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DigiNam (National PKI)",
+   "country_label": "DigiNam",
+   "class": "other",
+   "platform": "",
+   "owner": "CRAN as Root CA, with Ministries of Home Affairs and ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

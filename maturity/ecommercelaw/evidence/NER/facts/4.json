@@ -1,0 +1,17 @@
+{
+  "slug": "2019-04-30-mcnti-loi-2019-03-transactions-electroniques",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The ministry's page presents Loi 2019-03 of 30 April 2019 on electronic transactions in Niger as governing electronic transactions, covering electronic signatures, contracts and payments, data retention and sanctions; it does not state an entry-into-force date or any repeal.",
+      "as_of": "2019-04-30",
+      "date_precision": "day",
+      "system": "Loi 2019-03 du 30 avril 2019 portant sur les transactions électroniques",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "No fact on reach: the page names no rules made under the law and no application."
+}

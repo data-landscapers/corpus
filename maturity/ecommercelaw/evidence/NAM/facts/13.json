@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-14-govt-to-introduce-data-protection-bill-september-namibian",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ICT minister said the government would launch electronic signatures in February 2026 under the Electronic Transactions Act of 2019, carrying the same legal weight as handwritten signatures.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act, 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act, 2019",
+   "country_label": "Electronic Transactions Act, 2019",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

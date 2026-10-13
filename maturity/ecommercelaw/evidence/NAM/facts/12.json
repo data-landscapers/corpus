@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-11-nam-csirt-namibia-cybersecurity-landscape-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NAM-CSIRT's 2025 report has a section on secured electronic signature accreditation under the Electronic Transactions Act of 2019, which gives electronic signatures the same legal weight as handwritten ones; the report carries no date of issue, so its published date is used.",
+   "as_of": "2026-04-11",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act, 2019",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The report states CRAN is operationalising regulations under the Act on secured electronic signature accreditation; the report carries no date of issue, so its published date is used.",
+   "as_of": "2026-04-11",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act, 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act, 2019",
+   "country_label": "Electronic Transactions Act, 2019",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

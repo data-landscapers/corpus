@@ -1,0 +1,16 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "5",
+   "standing": "in-force",
+   "reach": "applied",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-006;MAR-007;MAR-005;MAR-004",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
+  }
+ ]
+}

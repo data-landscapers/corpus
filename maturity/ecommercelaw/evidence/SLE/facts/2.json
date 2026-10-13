@@ -1,0 +1,26 @@
+{
+ "slug": "2019-12-05-sierralii-record-electronic-transactions-act-2019",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The SierraLII record gives the Electronic Transactions Act, Act 89 of 2019, assent and commencement on 5 December 2019, promulgation on 14 January 2020, and marks it in force.",
+   "as_of": "2019-12-05",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act",
+   "country_label": "Electronic Transactions Act",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

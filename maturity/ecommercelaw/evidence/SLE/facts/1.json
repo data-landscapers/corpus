@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-29-sierra-leone-implement-electronic-transactions-act",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Sierra Loaded reports the Electronic Transactions Act, enacted in January 2019 by its account, gives legal recognition to electronic signatures, consumer protection and digital communications in courts.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Electronic Transactions Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "none",
+   "fact": "Sierra Loaded reports that the Act's enforcement structures, including digital certification authorities, electronic evidence procedures, dispute resolution and penalties, had not been fully established when a government dialogue on implementing it was held on 27-28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act",
+   "country_label": "Electronic Transactions Act",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

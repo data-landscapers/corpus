@@ -1,0 +1,16 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "3",
+   "standing": "in-force",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "STP-001",
+   "gaps": "No source held names a decree, regulation or order made under the law.",
+   "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
+  }
+ ]
+}

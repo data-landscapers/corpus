@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-28-nita-u-ugpass-ceo-breakfast",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "other",
+   "platform": "PKI with Qualified Certificate Authority and National Authentication Provider",
+   "owner": "NITA-U",
+   "tiers": "individuals, businesses, government entities"
+  }
+ ],
+ "note": "Reports a CEO breakfast promoting UGPass adoption; a signature platform event, names no law."
+}

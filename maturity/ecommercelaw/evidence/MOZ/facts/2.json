@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National mobile digital identity and e-signature infrastructure",
+      "country_label": "mobile digital ID and digital signature infrastructure",
+      "class": "other",
+      "platform": "app, Java Card SIM, eSIM; X-Road; PKI/CA with HSM",
+      "owner": "ATDI",
+      "tiers": "national, rural and basic-phone users"
+    }
+  ],
+  "note": "Tender news for a signature platform; states nothing about an e-commerce or electronic transactions law."
+}

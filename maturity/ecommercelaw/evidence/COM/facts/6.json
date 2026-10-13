@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Tax tele-procedures platform",
+      "country_label": "plateforme fiscale",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "taxpayers"
+    }
+  ],
+  "note": "Finance law provision treats tax declarations via taxpayer account as electronic signature, for tax filing only; not a law on electronic transactions or e-commerce, so no fact."
+}

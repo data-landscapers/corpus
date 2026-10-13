@@ -1,0 +1,8 @@
+{
+  "slug": "2018-12-01-comores-strategie-comores-numerique-2028",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "none", "fact": "The national digital strategy states that the telecommunications-centred legal framework leaves a legal vacuum on digital transactions and electronic signature; the volume gives no date, so as_of is the December 2018 drawing-up date given in the document's record.", "as_of": "2018-12", "date_precision": "month", "system": "digital transactions and electronic signature legal framework", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

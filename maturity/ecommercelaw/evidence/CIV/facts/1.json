@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-cote-divoire-anssi-pki-nationale",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "APA reports that the ANSSI CI national PKI launch rests on Loi n°2013-546 of 30 July 2013 on electronic transactions, which it says gives electronic signatures legal value (article dated 2026-07-25; law dated 2013-07-30).", "as_of": "2013-07-30", "date_precision": "day", "system": "Loi n°2013-546 du 30 juillet 2013 relative aux transactions électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "APA reports implementing decrees of 2014 and 2016 under the electronic transactions law covering cryptology, electronic signature and electronic archiving; it gives no day or decree numbers (dated here to 2014 and 2016).", "as_of": "2014", "date_precision": "year", "system": "Décrets d'application de 2014 et 2016 de la loi n°2013-546", "class": "law"}
+  ],
+  "systems": [
+    {"system": "PKI nationale (PKI Racine nationale)", "country_label": "Infrastructure à clés publiques nationale", "class": "other", "platform": "", "owner": "ANSSI CI", "tiers": "administration publique, entreprises, citoyens"}
+  ],
+  "note": ""
+}

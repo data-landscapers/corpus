@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-04-rwanda-law-011-2026-competition-consumer-protection",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Law 011/2026 of 26 February 2026 on competition and consumer protection carries a Chapter VI on e-commerce (Articles 41 onward: obligations of an e-commerce enterprise and of an online intermediary) and comes into force on its publication in the Official Gazette, which was on 4 March 2026.",
+   "as_of": "2026-03-04",
+   "date_precision": "day",
+   "system": "Law 011/2026 relating to Competition and Consumer Protection",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Read by the parent from the held text: the passages file stopped short of Chapter VI."
+}

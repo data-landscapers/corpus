@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-25-mozambique-tablu-tech-digital-trust-biometricupdate",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Biometric Update, citing Tech Review Africa, reports that Mozambique's Digital Certification System operates under the country's Electronic Transactions Law and Digital Certification Regulation; the report gives no enactment date, so it is dated to the document's published date.",
+      "as_of": "2026-08-25",
+      "date_precision": "day",
+      "system": "Electronic Transactions Law",
+      "class": "law"
+    },
+    {
+      "sub_indicator": "law",
+      "aspect": "reach",
+      "value": "rules",
+      "fact": "The report names a Digital Certification Regulation under which, with the Electronic Transactions Law, the Digital Certification System operates and which is meant to establish the authenticity and integrity of digital signatures; it gives no date for the regulation, so it is dated to the published date.",
+      "as_of": "2026-08-25",
+      "date_precision": "day",
+      "system": "Digital Certification Regulation",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Certification System (DCS)",
+      "country_label": "Digital Certification System",
+      "class": "other",
+      "platform": "Root Certification Authority, PKI",
+      "owner": "INTIC, IP",
+      "tiers": "public and private sector transactions"
+    },
+    {
+      "system": "MoDi Sign",
+      "country_label": "MoDi Sign",
+      "class": "other",
+      "platform": "advanced digital signature and PKI platform under discussion",
+      "owner": "INTIC with Tablu Tech",
+      "tiers": "public and private sector"
+    }
+  ],
+  "note": ""
+}

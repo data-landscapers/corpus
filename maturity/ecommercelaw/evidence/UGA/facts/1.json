@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-ugpass-digital-authentication",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "other",
+   "platform": "PKI with Qualified Certificate Authority and National Authentication Provider",
+   "owner": "NITA-U",
+   "tiers": "individuals, businesses, government entities"
+  }
+ ],
+ "note": "Describes the UGPass platform and says only that it helps users comply with national and international e-signature laws; names no law and states nothing of its standing, rules or application."
+}

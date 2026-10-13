@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Damanesign,Damanesign,other,qualified electronic signature and seal certificates on USB key,Damanesign (trust service provider approved by DGSSI),"companies, public institutions, regulated professions, import-export operators",2026-10-01-mar-mwn-cash-plus-damanesign-e-signatures
+MAR,BADR,BADR,other,online customs clearance system,,customs declarants,2026-10-01-mar-mwn-cash-plus-damanesign-e-signatures
+MAR,BADR,BADR,other,online customs clearance system with electronic signature of declarations,Administration des Douanes et Impots Indirects (ADII),"customs declarants, forwarders, operators",2018-01-01-adii-facilitation-dematerialisation-douanes
+MAR,PortNet,PortNet,other,electronic exchange of port and foreign-trade documents,,foreign-trade community at ports,2018-01-01-adii-facilitation-dematerialisation-douanes
+MAR,DamaneSign,DamaneSign,other,,DamaneSign,,2026-09-03-morocco-dgssi-prestations-produits-reglementes
+MAR,AfricTRUST CertiSign+ / CertiSeal+,AfricTRUST,other,,EURAFRIC INFORMATION,,2026-09-03-morocco-dgssi-prestations-produits-reglementes
+MAR,"Barid eSign (Classe 3 signature and seal, qualified timestamp)",Barid eSign,other,,Barid Al Maghrib,,2026-09-03-morocco-dgssi-prestations-produits-reglementes
+MAR,Chaabi eSign,Chaabi eSign,other,,Banque Centrale Populaire,,2026-09-03-morocco-dgssi-prestations-produits-reglementes

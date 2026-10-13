@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-sudan-sudapass-terms-and-conditions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The SudaPass terms of use (published 2026-05-21; the date is used as the as_of since the terms carry no other date) treat the Electronic Transactions Act of 2007 and its amendments as the governing law, stating that a digital signature meeting its requirements is equivalent to a handwritten signature (Article 8) and that forgery is punishable under Article 28.", "as_of": "2026-05-21", "date_precision": "day", "system": "Electronic Transactions Act of 2007", "class": "law"}
+  ],
+  "systems": [
+    {"system": "SudaPass (Sudanese Digital Identity)", "country_label": "SUDAPASS", "class": "other", "platform": "", "owner": "National Electronic Authentication Authority (National Authority for Digital Certification)", "tiers": "government and commercial services; three trust levels"}
+  ],
+  "note": ""
+}

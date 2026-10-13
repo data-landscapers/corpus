@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-09-cog-decret-2026-101-facturation-electronique-certifiee-sfec",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Décret n° 2026-101 of 31 March 2026 (published 9 July 2026) cites as a legal basis the loi n° 37-2019 of 12 December 2019 relative aux transactions électroniques, treating it as an existing law; the passages held do not describe its content.", "as_of": "2019-12-12", "date_precision": "day", "system": "Loi n° 37-2019 relative aux transactions électroniques", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The decree cites among its legal basis the décret n° 2025-514 of 29 December 2025 fixing the characteristics of the device for creating and verifying electronic signatures; the passages held do not say under which law it was made.", "as_of": "2025-12-29", "date_precision": "day", "system": "Décret n° 2025-514 fixant les caractéristiques du dispositif de création et de vérification de la signature électronique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Système de facturation électronique certifié (SFEC)", "country_label": "SFEC", "class": "other", "platform": "", "owner": "Direction générale des impôts et des domaines (DGID)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-08-aviso-01-ca-arn-2026-consulta-publica-projeto-lei-transacoes-eletronicas",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The board of the national regulator ARN-TIC put the draft Electronic Transactions Law (covering electronic communications and transactions, trust services and e-government) out for public consultation, with responses due by 28 May 2026; the notice's date is not given, so the published date 2026-05-08 is used.", "as_of": "2026-05-08", "date_precision": "day", "system": "Projeto de Lei das Transações Eletrónicas", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projeto de Lei das Transações Eletrónicas", "country_label": "Projeto de Lei das Transações Eletrónicas", "class": "law", "platform": "", "owner": "ARN-TIC (Autoridade Reguladora Nacional)", "tiers": ""}
+  ],
+  "note": ""
+}

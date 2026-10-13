@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ACP reports that the ministerial order of 11 March 2026 is made to implement the DRC Code du numérique of 2023, which the order treats as the operative law for digital services.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Ordonnance-loi n° 23/010 du 13 mars 2023 portant Code du Numérique",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "ACP reports that the Minister of Digital Economy signed on 11 March 2026 an order, published 17 March 2026, setting conditions for authorising digital services, including prior authorisation of trust services (electronic signature, certification, time-stamping), with a transition to 30 June 2026.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026",
+   "country_label": "Arrêté 004/2026",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

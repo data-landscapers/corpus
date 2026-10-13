@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-19-nita-u-ugpass",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "other",
+   "platform": "PKI with Qualified Certificate Authority and National Authentication Provider",
+   "owner": "NITA-U",
+   "tiers": "individuals, businesses, government entities"
+  }
+ ],
+ "note": "Same UGPass service page; names no law and states nothing of its standing, rules or application."
+}

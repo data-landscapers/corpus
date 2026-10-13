@@ -1,0 +1,9 @@
+{
+  "slug": "2001-01-01-seychelles-electronic-transactions-act-2001",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Electronic Transactions Act, 2001 (Act 8 of 2001) commenced on 20 December 2001, gives legal recognition to electronic records and digital signatures, and the SeyLII consolidation shows it as amended and current to 29 March 2018 with a further amendment (S.I. 12 of 2024) outstanding.", "as_of": "2001-12-20", "date_precision": "day", "system": "Electronic Transactions Act, 2001", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Act was amended by the Electronic Transactions (Amendment) Regulations, 2018 (Statutory Instrument 21 of 2018), made under it, which substituted the Schedule of excluded Acts on 29 March 2018.", "as_of": "2018-03-29", "date_precision": "day", "system": "Electronic Transactions Act, 2001", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

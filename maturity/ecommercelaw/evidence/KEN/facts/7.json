@@ -1,0 +1,8 @@
+{
+  "slug": "2020-07-24-land-registration-electronic-transactions-regulations",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Legal Notice 130 of 2020, the Land Registration (Electronic Transactions) Regulations made under the Land Registration Act, commenced on 24 July 2020 and require registry transactions to run through the electronic National Land Information System, with instruments executed by advanced electronic signature (scanned wet-signed forms where that is not possible); the scope is land registries only, not electronic transactions generally.", "as_of": "2020-07-24", "date_precision": "day", "system": "Land Registration (Electronic Transactions) Regulations, 2020", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-ago-pti-lourenco-regime-assinatura-electronica",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft",
+     "fact": "PTI reports that Lei de Autorização Legislativa n.º 12/26 of 2 October 2026 authorises the President to legislate the Regime Jurídico da Assinatura Electrónica e da Certificação Digital (validity and legal effect of e-signatures, certification entities, ICP-AO) within 90 days of publication; the regime itself is not yet enacted.",
+     "as_of": "2026-10-02", "date_precision": "day",
+     "system": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "country_label": "Regime Jurídico da Assinatura Electrónica e da Certificação Digital", "class": "law", "platform": "", "owner": "President of the Republic (under authorisation of the Assembleia Nacional)", "tiers": ""},
+    {"system": "Infra-Estrutura de Chaves Públicas de Angola (ICP-AO)", "country_label": "ICP-AO", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas", "country_label": "Plataforma Nacional de Identidade Digital e Assinaturas Electrónicas", "class": "other", "platform": "", "owner": "IMA (procurement)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2024-01-01-digwatch-comoros-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "Digital Watch Observatory states Comoros has no clearly verified standalone e-commerce law publicly available; no date given for the statement, so the page's published date 2024-01-01 is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "E-commerce law",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

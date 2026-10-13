@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-27-comoros-civil-registry-digitisation-pin-wearetech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Computerised civil registry (Amecc programme)",
+      "country_label": "Civil Registry Modernization Support Program",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Comoros; funded by French Embassy, UNICEF technical support",
+      "tiers": "national"
+    }
+  ],
+  "note": "Civil registry law only; no e-commerce or electronic transactions law stated."
+}

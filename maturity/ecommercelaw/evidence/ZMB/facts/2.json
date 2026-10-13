@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-07-zambia-npki-digital-trust",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Permanent Secretary Brilliant Habeenzu of the Ministry of Technology and Science said the Electronic Communications and Transactions Act provided the legal foundation for the PKI framework, as the NPKI was launched; the Act's own date is not given, so the as_of is the article's date.", "as_of": "2026-09-07", "date_precision": "day", "system": "Electronic Communications and Transactions Act", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "The Permanent Secretary said the Electronic Communications and Transactions Act provided the legal foundation for establishing a National Root Certification Authority, in the context of the NPKI launch reported on 7 September 2026; no date for the establishment is given, so the as_of is the article's date.", "as_of": "2026-09-07", "date_precision": "day", "system": "Electronic Communications and Transactions Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Public Key Infrastructure (NPKI)", "country_label": "NPKI", "class": "other", "platform": "", "owner": "Government of Zambia, Ministry of Technology and Science", "tiers": ""}
+  ],
+  "note": ""
+}

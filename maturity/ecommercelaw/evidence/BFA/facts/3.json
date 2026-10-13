@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-15-bfa-lefaso-administration-publique-faso-sign-pour-accelerer-la-dematerialisation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Faso Sign",
+      "country_label": "Faso Sign",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+      "tiers": "public administration; integrated in CIMEXT, SIGEG, SYCAD"
+    }
+  ],
+  "note": "Platform launch report; it cites no law, draft or rules."
+}

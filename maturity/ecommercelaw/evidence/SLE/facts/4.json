@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-uneca-dtri-sierra-leone-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The UNECA digital trade profile names the Electronic Transactions Act of 2019 as a Sierra Leone framework carrying intermediary safe-harbour and consumer-protection provisions, though no general e-commerce law; the profile has no date, so its proxied publication year 2023 is used.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Electronic Transactions Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Transactions Act",
+   "country_label": "Electronic Transactions Act",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

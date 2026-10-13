@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch",
+  "facts": [],
+  "systems": [
+    {"system": "منظومة التحقق البيومتري الإلكتروني (الهوية الرقمية)", "country_label": "Electronic biometric verification (digital identity) system", "class": "other", "platform": "built with Sci Shield", "owner": "NTRA with ITIDA, MCIT and Ministry of Interior", "tiers": "licensed mobile telecom companies, trial operation"}
+  ],
+  "note": "Mentions licensed e-signature companies and regulatory rules for the verification system, undated and not tied to an e-transactions or e-signature law; no usable fact."
+}

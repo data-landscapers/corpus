@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-17-dla-piper-data-protection-laws-mozambique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "DLA Piper's guide, last modified 17 February 2026, lists the Electronic Transactions Law (Law no. 3/2017 of 9 January) among Mozambique's laws in force and cites its rules on electronic marketing consent, intermediary service providers and personal data, with fines for breach.", "as_of": "2017-01-09", "date_precision": "day", "system": "Electronic Transactions Law (Law no. 3/2017)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "DLA Piper's guide, last modified 17 February 2026, says Decree no. 59/2023 of 27 October (amended by Decree no. 44/2025 of 28 November) requires intermediary electronic service providers, a category the Electronic Transactions Law defines, and digital platform operators to register and be licensed with INTIC.", "as_of": "2025-11-28", "date_precision": "day", "system": "Electronic Transactions Law (Law no. 3/2017)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

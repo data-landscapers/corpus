@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The UNECA/GIZ/AU inception report for INTIC, dated 19 June 2025, cites the Electronic Transactions Law (Law no. 03/2017 of 9 January 2017) as an existing Mozambican law with provisions on e-commerce, electronic transactions and personal data.", "as_of": "2017-01-09", "date_precision": "day", "system": "Electronic Transactions Law (Law no. 03/2017)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

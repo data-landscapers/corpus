@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-19-rabt-105-jiha-hukumiyya-242-khidma-mansat-misr-al-raqmiyya",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Trust Services (e-signature and e-seal)", "country_label": "خدمات الثقة الرقمية", "class": "other", "platform": "security token (الرمز التأميني) with digital identity integration", "owner": "Ministry of Communications and Information Technology", "tiers": "government services; remote e-signature for government services being extended"},
+    {"system": "Digital Egypt platform", "country_label": "منصة مصر الرقمية", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "citizens; 242 services"}
+  ],
+  "note": "Same cabinet meeting as document 6; names e-signature and e-seal services launched and 'legislation' only as a generic enabler; no law on electronic transactions or e-commerce is stated, drafted, made or applied."
+}

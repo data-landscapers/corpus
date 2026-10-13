@@ -1,0 +1,22 @@
+iso3,n,aspect,value,action,why
+CAF,002,standing,in-force,removed,the record holds no source link; CAF-001 states the same from the regulator's index of laws
+MAR,008,reach,applied,removed,approvals under the earlier law expiring is not this law being applied
+NGA,001,standing,in-force,removed,the identity act of 2026 names a certification authority; it is not a law giving electronic contracts or signatures legal effect
+NGA,003,standing,in-force,removed,as NGA-001
+NGA,002,reach,applied,removed,"the designation is under the identity act, not under an electronic transactions law"
+NGA,005,reach,applied,removed,as NGA-002
+NGA,006,reach,applied,removed,as NGA-002
+ZMB,005,reach,applied,removed,the Act is said to give the legal basis for a root authority; ZMB-003 states the designation
+CMR,002,reach,rules,removed,"the decree is made under the cybersecurity law, not the e-commerce law"
+COD,002,reach,rules,removed,"a decree creating an agency, with no link to the Digital Code stated"
+COD,003,reach,rules,removed,an opinion piece naming no instrument
+COD,006,reach,rules,removed,a fees order the government suspended within two weeks
+COG,002,reach,rules,removed,the source does not say the signature decree was made under the electronic transactions law
+COG,004,reach,rules,removed,as COG-002
+KEN,001,standing,in-force,removed,"land registry regulations made under the land registration act; a rule for one register, not the law assessed"
+COM,003,standing,none,removed,"the source says no law is verified as publicly available, which is not a statement that there is none"
+ZWE,001,standing,draft,removed,"principles before cabinet and a bill being drafted, with no draft text; a planned law is not a yes to question 1"
+ZWE,003,standing,draft,removed,as ZWE-001
+ZWE,004,standing,draft,removed,as ZWE-001
+RWA,001,standing,in-force,added,the held text of Law 011/2026 carries a chapter on e-commerce and is in force from 4 March 2026; the passages read by the drafter stopped short of it
+SYC,002,reach,rules,removed,"the 2018 regulations only replace the schedule of excluded Acts; not a rule on signatures, certifiers or online sellers (the second drafter's reading, accepted)"

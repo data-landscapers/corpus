@@ -1,0 +1,9 @@
+{
+  "slug": "2018-01-01-adii-facilitation-dematerialisation-douanes",
+  "facts": [],
+  "systems": [
+    {"system": "BADR", "country_label": "BADR", "class": "other", "platform": "online customs clearance system with electronic signature of declarations", "owner": "Administration des Douanes et Impots Indirects (ADII)", "tiers": "customs declarants, forwarders, operators"},
+    {"system": "PortNet", "country_label": "PortNet", "class": "other", "platform": "electronic exchange of port and foreign-trade documents", "owner": "", "tiers": "foreign-trade community at ports"}
+  ],
+  "note": "Describes electronic signature of customs declarations on BADR from 2017-2018 but names no electronic transactions or e-commerce law, so no fact for class law."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-11-rdc-arrete-004-2026-autorisations-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The order is made under the Code du numérique (Ordonnance-loi 23/010 of 13 March 2023), citing its articles as the legal basis for the authorisation regime.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "Ordonnance-loi n° 23/010 du 13 mars 2023 portant Code du Numérique",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "The order of 11 March 2026 sets the authorisation regime for qualified trust-service providers (electronic signature, seal, time-stamp, archiving, certification, website authentication, registered delivery, cryptology), marketplaces and e-commerce platforms; it enters into force on signature, with full application from 1 July 2026.",
+   "as_of": "2026-03-11",
+   "date_precision": "day",
+   "system": "Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Arrêté ministériel n°CAB/MIN/ECONUM/AKIM/MLNS/ALM/004/2026 du 11 mars 2026",
+   "country_label": "Arrêté 004/2026",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "The text states no authorisation actually issued."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi",
+  "facts": [],
+  "systems": [
+    {"system": "electronic biometric verification system", "country_label": "Electronic biometric verification system", "class": "other", "platform": "built with CyShield", "owner": "NTRA with ITIDA, MCIT and Ministry of Interior", "tiers": "licensed mobile operators, pilot phase"}
+  ],
+  "note": "Reports a pilot biometric verification and e-signature system and licensed e-signature companies, undated and not tied to a named law; no usable fact."
+}

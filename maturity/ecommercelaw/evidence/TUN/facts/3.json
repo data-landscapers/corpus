@@ -1,0 +1,17 @@
+{
+  "slug": "2000-08-09-tunisie-loi-2000-83-echanges-commerce-electroniques",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Law no. 2000-83 of 9 August 2000 on electronic exchanges and commerce, promulgated and published in the Journal Officiel no. 64 of 11 August 2000, gives electronic documents and signatures legal effect, creates the national electronic certification agency (ANCE), licenses certification providers and sets consumer rules for online sales (disclosure, 10-working-day withdrawal right, fines).",
+      "as_of": "2000-08-09",
+      "date_precision": "day",
+      "system": "Loi n° 2000-83 relative aux échanges et au commerce électroniques",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "The text states that signature-device specifications and certificate data are to be fixed by ministerial order and the provider specification (cahier des charges) by decree, but gives no dated rule actually made, so no reach fact."
+}

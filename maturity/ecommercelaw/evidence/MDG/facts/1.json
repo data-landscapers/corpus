@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-13-signature-electronique-interoperabilite-cadre-juridique-newsmada",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Newsmada reports that Madagascar has a 2015 law on electronic signatures, which it describes as the legal equivalent of the handwritten signature; the article's date of 2025-09-13 is used for the report, 2015 for the law.", "as_of": "2015", "date_precision": "year", "system": "Loi de 2015 sur la signature électronique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "A draft decree on electronic signature and interoperability was in preparation, and the ministry held a validation workshop on the regulatory framework on the article's date (2025-09-13, the publication date used as the document gives no other).", "as_of": "2025-09", "date_precision": "month", "system": "Projet de décret sur la signature électronique", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "Newsmada states the 2015 electronic signature law remained without an implementing decree, and the draft decree would give it effective application; the date used is the article's publication date.", "as_of": "2025-09-13", "date_precision": "day", "system": "Loi de 2015 sur la signature électronique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "X-Road", "country_label": "plateforme nationale X-Road", "class": "other", "platform": "X-Road", "owner": "Unité de Gouvernance Digitale (UGD)", "tiers": ""}
+  ],
+  "note": ""
+}

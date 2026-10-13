@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-29-arct-lignes-directrices-ecosysteme-commerce-electronique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ARCT published national e-commerce ecosystem guidelines on 29 May 2026, drawn from the regulation in force, setting technical, operational and organisational standards for interoperability, transaction security and consumer protection.", "as_of": "2026-05-29", "date_precision": "day", "system": "Lignes directrices de l'écosystème national de commerce électronique", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Ecosystème National de Commerce Electronique du Burundi", "country_label": "écosystème national de commerce électronique", "class": "", "platform": "", "owner": "ARCT", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-guinee-durcit-controle-transactions-electroniques-decret",
+  "facts": [],
+  "systems": [
+    {"system": "Décret on security audit, control and certification of information systems used in electronic transactions (read on national television 21 May 2026)", "country_label": "Guinée", "class": "other", "platform": "", "owner": "ARPT", "tiers": "all public and private enterprises and establishments in electronic transactions, and foreign firms serving Guinean residents"}
+  ],
+  "note": "The decree reported is a cybersecurity audit and certification regime run by ARPT; the article does not say it is made under an electronic transactions or e-commerce law, so it is class other and gives no fact."
+}

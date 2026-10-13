@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-07-namibia-eta-2019-accreditation-security-products-regulations",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "CRAN's Regulations regarding Accreditation of Security Products and Services (General Notice 953 of 17 December 2025) were made under Chapter 5 of the Electronic Transactions Act 4 of 2019, covering application, issue, renewal and revocation of certification service provider accreditation.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Act's Chapter 5 and these regulations came into force on 15 June 2026 via General Notice 182/2026.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-04-nam-marketwatch-namibia-strengthens-digital-trust",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Market Watch reports the DigiNam launch on 31 August 2026 followed implementation of provisions of the Electronic Transactions Act of 2019, which it says provides the legal basis for electronic signatures, trust services and accreditation of certification service providers.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Electronic Transactions Act 4 of 2019",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DigiNam (National PKI)",
+   "country_label": "DigiNam",
+   "class": "other",
+   "platform": "",
+   "owner": "CRAN as Root CA, with Ministries of Home Affairs and ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

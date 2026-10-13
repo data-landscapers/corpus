@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-29-council-of-ministers-approves-digital-ethiopia-2030-strategy",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ENA reported that the draft Electronic Signature regulation is a step toward fully operationalizing Proclamation No. 1072/2017 (and its amendment), the existing electronic signature law.", "as_of": "2025-11-29", "date_precision": "day", "system": "Proclamation No. 1072/2017", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Council of Ministers unanimously approved the Electronic Signature regulation under Proclamation No. 1072/2017, to take effect on publication in the Federal Negarit Gazette; the report does not say it has been published.", "as_of": "2025-11-29", "date_precision": "day", "system": "Electronic Signature regulation", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

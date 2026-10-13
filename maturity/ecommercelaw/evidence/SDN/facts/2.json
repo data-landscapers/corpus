@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-12-sudan-sca-pki-national-root-key-launch",
+  "facts": [],
+  "systems": [
+    {"system": "National Root Key for the Public Key Infrastructure (PKI)", "country_label": "National Root Key (PKI)", "class": "other", "platform": "", "owner": "Sudanese Cybersecurity Authority", "tiers": "government institutions"}
+  ],
+  "note": "The document reports the PKI root key launch on 2026-03-12 but names no law."
+}

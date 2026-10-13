@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-14-burkina-faso-administration-signature-electronique-wearetech",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Wearetech reports that Burkina Faso's law no. 045-2009 recognises the electronic signature in all matters and presumes secure signatures based on a qualified certificate reliable; the date is the year of the law, 2009.",
+      "as_of": "2009",
+      "date_precision": "year",
+      "system": "Law no. 045-2009",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic signature platform (launch scheduled 2026-09-15)",
+      "country_label": "signature électronique",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+      "tiers": "public administration"
+    }
+  ],
+  "note": ""
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-ecommercelaw.md — the twenty-fourth maturity study: the law on electronic transactions and selling online, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; nothing read or staged; waits for Bill's word on the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: ecommercelaw
@@ -51,13 +51,13 @@ Asked in order. Each is answered with a date and a link.
 - **A law on electronic signatures alone is a yes to question 2**: it gives electronic dealings legal effect. The summary says the law covers signatures only.
 - **A digital code, a communications act or a consumer protection law counts for the part that does the job**, where a source says it covers electronic transactions or online selling.
 - **An old law still in force is a yes to question 2 and no more**, until a source names rules made under it. A bill to replace it is named in the summary and does not lower the stage.
-- **A law passed but not yet in effect is a yes to question 2**, and the summary gives the date it starts.
+- **A law promulgated but not yet in effect is a yes to question 2**, and the summary gives the date it starts. One passed by parliament and not yet promulgated is a yes to question 1 only *(reworded in the run: drafters read "passed" two ways, for Djibouti)*.
 - **A regional act or model law places nothing** until a source says the country has made it its own law.
 - **A government office using electronic signatures is not a yes to question 4**; nor is a signature platform launched or a contract to build one. The question asks for an accreditation, licence, registration or penalty under the law.
 - **A state body named as the national certification authority is a yes to question 4** where a source says it is named or accredited under the law.
 - **What the law covers is taken from what a source says of it**, never from reading its text for the purpose.
 - **How good the law is is not judged.** A reported criticism is noted.
-- **Three changes from the row as it stands.** Sixteen cells are unplaced, most leading with something that is not this law: a copyright bill (Kenya), a sovereignty bill (Uganda), an e-commerce strategy (Somalia, South Sudan). Its stage 4 asks for consumer provisions, signature rules, accredited providers and enforcement together. Its stage 5 is four laws in force and consistent with each other, three of them other rows'. Neither is a fact one story can state.
+- **Changes from the row as it stands.** Most of its 16 unplaced cells lead with something that is not this law. Its stage 4 asks for several things together and its stage 5 for four consistent laws, three of them other rows'; neither is a fact one story can state.
 
 `study.json` holds this as two aspects: `standing` (`in-force`, `draft`, `none`) for questions 1 and 2, and `reach` (`applied`, `rules`, `none`) for 3 and 4.
 
@@ -79,10 +79,23 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: `study-select.py ecommercelaw`, then the 108 stories, then what the current cells cite where an answer is short.
-- [ ] **D3. Stage** as at 2026-09-30: `scripts/study-ladder-ecommercelaw.py`, the parent's reading of every fact setting stages 4 and 5, and 20 cells restaged blind.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill**, with the tokens used.
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: the 108 stories in 42 calls; what the current cells cite for 49 countries, 52 calls; newest news for 12 countries with no law on record. 141 facts held.
+- [x] **D3. Staged**: six at stage 5, eight at 4, 25 at 3, six at 2, one at 1, two unplaced and six with no evidence, as at 2026-09-30; 20 facts removed and one added by the parent (`corrections.csv`); agreement 19 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **Stage 5**: Ghana (a 2023 order to platforms to register), Morocco, Mozambique (19 licences), Namibia, South Africa, Zambia (the regulator named root authority).
+- **Providers reported as holding accreditation in 2026 are a yes to question 4**, undated (South Africa).
+- **A decree or regulation adopted by cabinet counts as made** (Ethiopia, Gabon).
+- **Nigeria, stage 2**: its 2026 identity act names a certification authority and is not this law; the bill giving signatures legal effect awaits the Senate.
+- **Djibouti, stage 2**: its Digital Code passed in 2025; no source says it is promulgated.
+- **Zimbabwe, stage 1**: a bill in drafting with no text is a planned law.
+- **Not rules under the law**: a signature decree naming no parent law (Congo), a decree under the cybersecurity law (Cameroon), regulations replacing a schedule (Seychelles, the second drafter's reading).
+- **A land registry regulation is not this law** (Kenya). **"No law verified as public" is not "none"** (Comoros, unplaced).
+- **Rwanda's fact was read by the parent.** **No fact**: Kenya, Mauritania, Senegal, South Sudan, Togo, Uganda.
+- **Tokens: 49.1 million at the map**, step 1 included, ceiling 50 million.
 
 ## Boundary
 

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall",
+  "facts": [],
+  "systems": [
+    {"system": "LGEC", "country_label": "LGEC (civil status application, RNEC)", "class": "", "platform": "", "owner": "ANEC (Agence nationale de l'état civil)", "tiers": ""}
+  ],
+  "note": "A civil-status deck; one option delivers a document electronically authenticated by QR code and electronic signature, but it states nothing about a law."
+}

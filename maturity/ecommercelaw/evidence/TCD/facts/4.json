@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-02-arcep-tchad-registre-des-lois",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The regulator ARCEP's register of laws lists Loi N°008/PR/2015 on electronic transactions among Chad's laws; the page gives no date of its own, so the date is the law's year, 2015.",
+     "as_of": "2015", "date_precision": "year",
+     "system": "Loi N°008/PR/2015 portant sur les Transactions Électroniques", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-26-arct-declaration-conformite-commerce-electronique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ARCT states that e-commerce activity on Burundi's territory is subject to a prior conformity obligation, applying the provisions of the code des communications électroniques et postales.", "as_of": "2026-06-26", "date_precision": "day", "system": "code des communications électroniques et postales", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ARCT issued a communiqué on 26 June 2026 calling e-commerce platforms and merchant sites to declare conformity, with a procedures manual, a conformity checklist and a declaration form annexed; it reports no declaration received or penalty.", "as_of": "2026-06-26", "date_precision": "day", "system": "code des communications électroniques et postales", "class": "law"}
+  ],
+  "systems": [
+    {"system": "code des communications électroniques et postales", "country_label": "code des communications électroniques et postales", "class": "law", "platform": "", "owner": "ARCT (regulator)", "tiers": ""},
+    {"system": "Ecosystème National du Commerce Electronique du Burundi", "country_label": "Ecosystème National du Commerce Electronique du Burundi", "class": "", "platform": "", "owner": "ARCT", "tiers": ""}
+  ],
+  "note": ""
+}

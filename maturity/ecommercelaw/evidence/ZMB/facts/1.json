@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-30-gov-t-reviews-electronic-communications-and-transactions-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Efficacy News reports the Electronic Communications and Transactions Act No. 4 of 2021 as the existing law giving a legal framework for electronic transactions and secure electronic signatures, now under consultation for amendment; no commencement date is given, so the as_of is the Act's year.", "as_of": "2021", "date_precision": "year", "system": "Electronic Communications and Transactions Act No. 4 of 2021", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "The Ministry of Technology and Science began stakeholder consultations on amendments to the Electronic Communications and Transactions Act, which Cabinet approved in principle in September 2025; the meeting is reported on 30 September 2026 (date read from the publication day).", "as_of": "2026-09-30", "date_precision": "day", "system": "Electronic Communications and Transactions Act No. 4 of 2021", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "ZICTA was designated National Root Certification Authority under the Electronic Communications and Transactions Act; the article gives no date for the designation, so the as_of is the article's published date.", "as_of": "2026-09-30", "date_precision": "day", "system": "Electronic Communications and Transactions Act No. 4 of 2021", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Public Key Infrastructure (NPKI)", "country_label": "NPKI", "class": "other", "platform": "", "owner": "ZICTA as National Root Certification Authority", "tiers": ""}
+  ],
+  "note": ""
+}

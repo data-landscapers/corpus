@@ -1,0 +1,13 @@
+{
+  "slug": "2002-06-19-liberia-electronic-transactions-law-chapter-13-title-14",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Liberia's Electronic Transactions Law (Chapter 13, Title 14, General Business Law) was approved 8 January 2002 and published 19 June 2002, taking effect on publication in handbills; it gives electronic records, contracts and signatures legal effect, and applies at once to matters under Titles 5 and 21 but elsewhere only as regulations of the Minister of Foreign Affairs bring it into effect.",
+     "as_of": "2002-06-19", "date_precision": "day",
+     "system": "Electronic Transactions Law (Chapter 13, Title 14)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic Transactions Law (Chapter 13, Title 14)", "country_label": "Electronic Transactions Law", "class": "law", "platform": "", "owner": "Ministry of Foreign Affairs (Recognition Authority for certification authorities)", "tiers": ""}
+  ],
+  "note": "No reach fact: the document gives the Minister power to make regulations and a Recognition Authority power to recognize certification authorities, but states no regulation made and no recognition granted."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2021-03-25-guinea-decret-d-2021-092-prg-sgg-transactions-electroniques",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ANSSI's page states that Decree D/2021/092/PRG/SGG, signed 25 March 2021 under Law L/2016/035/AN of 26 July 2016 on electronic transactions, sets rules for electronic transactions including e-commerce (secure transaction facility, .gn or .com domain, prices in francs), names the ARPT as regulator with sanction powers, and provides fines and penalties (the scan itself is image-only, so this is ANSSI's summary).", "as_of": "2021-03-25", "date_precision": "day", "system": "Décret D/2021/092/PRG/SGG portant sur les transactions électroniques", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi L/2016/035/AN relative aux transactions électroniques", "country_label": "Guinée", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Décret D/2021/092/PRG/SGG portant sur les transactions électroniques", "country_label": "Guinée", "class": "law", "platform": "", "owner": "ARPT (regulator)", "tiers": "all natural and legal persons, public and private, in electronic transactions"}
+  ],
+  "note": ""
+}

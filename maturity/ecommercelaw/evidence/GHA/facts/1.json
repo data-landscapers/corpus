@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-02-dpa-digital-digest-ghana-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Digital Policy Alert describes Ghana's 2008 Electronic Transactions Act as an existing law that sets fair business practice requirements for suppliers, consumer rights and liability protections for intermediaries.", "as_of": "2008", "date_precision": "year", "system": "Electronic Transactions Act, 2008", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "Digital Policy Alert reports that in November 2023 Ghana's Ministry of Communications and Digitalisation issued an enforcement notice under the Electronic Transactions Act requiring all e-commerce platforms and digital delivery companies to register by January 2024.", "as_of": "2023-11", "date_precision": "month", "system": "Electronic Transactions Act, 2008", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Electronic Transactions Act, 2008", "country_label": "Electronic Transactions Act", "class": "law", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""}
+  ],
+  "note": ""
+}
