@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-30-world-bank-eardip-isr-seq7",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The World Bank's 30 June 2026 status report says the Eastern Africa Regional Digital Integration Project, which includes Somalia, became effective across all five recipients between August 2023 and October 2025, and that consultancies have prepared the ground for fibre deployment in Somaliland and Somalia, with broadband deployment in Somaliland expected to commence in the second half of 2026 (so no building yet reported).", "as_of": "2026-06-30", "date_precision": "day", "system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP)", "country_label": "EARDIP", "class": "shared", "platform": "", "owner": "World Bank financing; implemented by EAC, IGAD and the Somali and South Sudanese ministries", "tiers": "regional bodies and national ministries"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-29-ncip-satellite-resolution",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ministers of ICT of Uganda, Kenya, Rwanda and South Sudan signed a resolution in Nairobi on 29 April 2026 to jointly finance a feasibility study for a regionally owned communication and broadcasting satellite and to open a dedicated project account.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "country_label": "NCRCBSI / NCIP regional satellite",
+   "class": "shared",
+   "platform": "",
+   "owner": "Governments of Uganda, Kenya, Rwanda and South Sudan (proposed joint ownership)",
+   "tiers": "national governments"
+  }
+ ],
+ "note": ""
+}

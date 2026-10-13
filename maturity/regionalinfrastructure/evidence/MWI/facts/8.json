@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-01 Government Data Center making progress",
+  "facts": [],
+  "systems": [
+    {"system": "Government Data Centre (Lilongwe, primary) and Blantyre data centre (secondary/backup)", "country_label": "Government Data Centre", "class": "other", "platform": "hyper-converged infrastructure", "owner": "Government of Malawi (PPPC with Department of e-Government)", "tiers": "national government"}
+  ],
+  "note": "National data centre with no other African country named as user or partner."
+}

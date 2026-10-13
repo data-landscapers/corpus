@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-01-comores-cables-technologies",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Comores Cables' own page states that the 2Africa submarine cable has been put into service for Comoros; it describes 2Africa as linking 33 countries across Africa, Europe and Asia, and the page is undated so the 2026-01-01 published date (a year proxy) is used.", "as_of": "2026", "date_precision": "year", "system": "2Africa", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "shared", "platform": "submarine cable", "owner": "Comores Cables (Comoros landing)", "tiers": ""},
+    {"system": "EASSy", "country_label": "EASSy", "class": "shared", "platform": "submarine cable", "owner": "", "tiers": ""},
+    {"system": "FLY-LION3", "country_label": "FLY-LION3", "class": "shared", "platform": "submarine cable", "owner": "", "tiers": ""},
+    {"system": "Moroni IXP", "country_label": "IXP a Moroni", "class": "other", "platform": "internet exchange point", "owner": "Comores Cables", "tiers": "Comores Telecom and Yas Comores (local traffic only)"},
+    {"system": "Comores Cables neutral data centre", "country_label": "data center neutre", "class": "other", "platform": "data centre", "owner": "Comores Cables", "tiers": ""}
+  ],
+  "note": ""
+}

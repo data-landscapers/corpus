@@ -1,0 +1,29 @@
+iso3,n,aspect,value,action,why
+KEN,010,service,in-service,removed,the source names the country among 25 a company's network crosses and no link with a country at its other end
+ZAF,001,service,in-service,removed,the source names the country among 25 a company's network crosses and no link with a country at its other end
+ZWE,009,service,in-service,removed,the source names the country among 25 a company's network crosses and no link with a country at its other end
+COD,002,service,in-service,removed,"a submarine cable landing with no other African country named at its other end is noted, not staged"
+COM,001,service,in-service,removed,"a submarine cable landing with no other African country named at its other end is noted, not staged"
+EGY,001,service,in-service,removed,"a submarine cable landing with no other African country named at its other end is noted, not staged"
+MDG,001,built,agreed,removed,a cable owner's announced plan to land in the country is not an agreement
+MDG,002,built,agreed,removed,a cable owner's announced plan to land in the country is not an agreement
+LBR,001,built,agreed,removed,a consensus reached at a workshop is not an agreement signed
+SLE,001,built,agreed,removed,a consensus reached at a workshop is not an agreement signed
+MAR,001,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates MRT-001 for the other end
+SOM,003,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates DJI-019 for the other end
+NGA,003,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates SEN-001 for the other end
+ZMB,003,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates MOZ-002 for the other end
+GAB,004,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates GNQ-001 for the other end
+BWA,002,service,in-service,added: in-service,a link counts for each country a source names at its ends; the row restates ZWE-008 for the other end
+KEN,011,service,in-service,added: in-service,"a link counts for each country a source names at its ends; the row restates COD-007 for the other end, as in service: its wholesale customers are not named"
+COD,005,service,in-use,revalued: in-service,carrying traffic for wholesale customers who are not named is in service; question 4 asks for figures or a named user from the other country
+COD,007,service,in-use,revalued: in-service,carrying traffic for wholesale customers who are not named is in service; question 4 asks for figures or a named user from the other country
+RWA,001,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+RWA,002,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+SSD,001,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+SSD,002,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+KEN,001,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+KEN,003,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+UGA,001,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+UGA,002,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"
+UGA,004,built,agreed,removed,"a resolution to pay for a feasibility study of a shared satellite is a study, not an agreement to build one"

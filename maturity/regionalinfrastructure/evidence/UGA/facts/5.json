@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Africa50 and Bayobab partnered in May 2023 to co-develop Project East2West, a roughly USD 320 million terrestrial fibre network that names Uganda among the countries covered; the document gives no start of works.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Project East2West",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project East2West",
+   "country_label": "East2West",
+   "class": "shared",
+   "platform": "terrestrial fibre optic",
+   "owner": "Bayobab (MTN GlobalConnect) with Africa50",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,dorsale transsaharienne à fibre optique,dorsale transsaharienne à fibre optique (In-Guezzam to Arlit-Agadez),shared,fibre optic,Algérie Télécom and Niger Télécom,,2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne
+NER,dorsale transsaharienne à fibre optique,dorsale transsaharienne à fibre optique,shared,fibre optic,,,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre
+NER,interconnexion par fibre optique Niger-Algérie,interconnexion de la fibre optique entre le Niger et l'Algérie,shared,fibre optic,,,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez
+NER,Dorsale Transsaharienne à Fibre Optique (DTS/FO),Dorsale Transsaharienne à Fibre Optique (DTS/FO),shared,fibre optic,"Niger government, financed by the African Development Bank",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,Datacenter Tiers 3 Niamey,Datacenter Tiers 3,other,,Niger government,,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,dorsale transsaharienne à fibre optique (DTS/FO),dorsale transsaharienne à fibre optique (DTS/FO),shared,fibre optic,Niger Telecom,,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,Datacenter Tiers 3 Niamey,Datacenter Tiers 3,other,,Niger government,,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,Dorsale Transsaharienne à Fibre Optique (DTS/FO),DTS/FO,shared,terrestrial fibre-optic backbone,Niger and Chad governments; operators Nigertelecoms and Safitel Chad,,2025-06-19-niger-tchad-protocole-interconnexion-dts-fo
+NER,Maroc Telecom transafrican terrestrial fibre cable,Transafrican Terrestrial Fibre Cable,shared,"terrestrial fibre cable, 5,700 km",Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+NER,Trans-Saharan fibre-optic backbone (DTS),DTS,shared,optical fibre cable with active equipment,,,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone
+NER,liaison transsaharienne en fibre optique Niger-Algérie,dorsale transsaharienne à fibre optique,shared,terrestrial fibre-optic link,Niger and Algeria governments,,2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka
+NER,"Dorsale Transsaharienne à Fibre Optique, composante Niger",DTS-FO,shared,terrestrial fibre-optic backbone,"Niger government, project management unit; financed by AfDB",,2026-03-17-lesahel-copil-dts-ptba-2026-2027
+NER,Dorsale Transsaharienne à Fibre Optique (DTS),DTS,shared,fibre-optic cable,"Niger government, Niger component supported by the African Development Bank","national and regional interconnection with Algeria, Chad, Nigeria and Benin",2025-11-14-mcnti-niger-receptionne-troncons-dts
+NER,dorsale transsaharienne à fibre optique,Niger,shared,,,,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
+NER,liaison de fibre optique transsaharienne,Niger,shared,,,,2026-08-27-algatedz-algerie-niger-projets-transsahariens

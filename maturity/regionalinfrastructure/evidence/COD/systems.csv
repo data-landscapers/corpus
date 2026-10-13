@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,CAR-DRC fibre-optic interconnection,interconnexion par fibre optique RCA-RDC,shared,terrestrial fibre,,national ministries,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
+COD,West Africa Cable System (WACS),WACS,shared,"submarine cable, 14,530 km, landing at Moanda",,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
+COD,2Africa,2Africa,other,"submarine cable, landing at Moanda; Airtel activated 200 Gbps in the DRC on 2025-12-18",Meta and consortium,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
+COD,Project East2West,Project East2West,shared,terrestrial fibre (dark and active fibre),"Bayobab (MTN Group), Africa50",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+COD,Eastcastle Infrastructure DRC towers,Eastcastle Infrastructure DRC,other,"passive telecom towers, 1,072 growing to 1,800",Eastcastle Infrastructure,,2026-08-05-eaaif-eastcastle-liquid-82m-eaif
+COD,Congo River fibre project (Genew),Congo River fibre-optic project,other,"river and terrestrial fibre, about 2,100 km, Muanda to Kisangani",DRC ministry with Genew Technologies,national,2026-07-03-drc-plans-1-5bn-fibre-congo-river-genew-connectingafrica
+COD,WIOCC data centres and fibre (DRC),WIOCC,other,"subsea capacity, metro fibre and data centres across South Africa, Nigeria and the DRC",WIOCC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+COD,Paratus Mombasa-Goma fibre route,Mombasa to Goma protected fibre route,shared,terrestrial fibre,Paratus Group,operators and enterprises,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
+COD,G2M (Goma-to-Mombasa) fibre route,G2M,shared,terrestrial fibre,Paratus Group,"carriers, ISPs and enterprise customers",2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
+COD,Kigoma-Kalemie fibre-optic cable across Lake Tanganyika,national fibre-optic cable from Kigoma to Kalemie,shared,fibre-optic cable,,,2026-09-05-tanzania-drc-tanganyika-fibre-sgr-dailynews
+COD,G2M (Goma-to-Mombasa) fibre route,G2M,shared,protected terrestrial fibre,Paratus Group,"carriers, ISPs and enterprise clients",2026-02-09-paratus-goma-mombasa-fibre-highway-itweb

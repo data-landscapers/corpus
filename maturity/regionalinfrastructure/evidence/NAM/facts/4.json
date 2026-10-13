@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-12-namibia-angola-ink-satellite-deal-itweb",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Telecom Namibia entered a pilot commercial agreement with Angola's GGPEN, finalised at the ANGOTIC forum in Luanda, for a real-network trial of Angosat-2 services, with full commercial launch targeted after the pilot (published 2026-06-12).", "as_of": "2026-06-12", "date_precision": "day", "system": "Angosat-2", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Angosat-2", "country_label": "Angosat-2", "class": "shared", "platform": "satellite platform", "owner": "GGPEN (Angola)", "tiers": "Telecom Namibia, for remote and underserved areas"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "shared",
+   "stage": "3",
+   "built": "building",
+   "service": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-001;TCD-002;TCD-007",
+   "gaps": "No source held says a shared link or facility is in service.",
+   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
+  }
+ ]
+}

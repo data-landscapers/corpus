@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Ecofin Agency reports the Trans-Saharan Fiber Optic Backbone (DTS), a key part of Chad's regional interconnection strategy with planned links to Niger, Nigeria, Algeria, Libya and Egypt, is 60% complete.", "as_of": "2026-02", "date_precision": "month", "system": "Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Ecofin Agency reports other projects under way include rehabilitation of the fibre optic link between N'Djamena and Mbere to diversify international connectivity routes via Cameroon.", "as_of": "2026-02", "date_precision": "month", "system": "N'Djamena-Mbere fibre link", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)", "country_label": "Dorsale Transsaharienne", "class": "shared", "platform": "", "owner": "", "tiers": ""},
+    {"system": "N'Djamena-Mbere fibre link", "country_label": "N'Djamena-Mbere fibre optic route", "class": "shared", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

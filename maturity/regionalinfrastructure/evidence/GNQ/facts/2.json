@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "SPIN (the Gabonese backbone holder) reports that the Gabonese and Equatoguinean ministers officially inaugurated on 10 November 2025 the physical and logical interconnection of the two countries' national fibre backbones at Meyo-Kyé/Ebebeyin, with tests confirming stable traffic exchange between Bitam and Ebebeyin and between Libreville and Bata.",
+     "as_of": "2025-11-10", "date_precision": "day",
+     "system": "Interconnexion des dorsales nationales Gabon - Guinée équatoriale (Backbone National Gabonais - Equatoguinean national fibre network)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Backbone National Gabonais (BNG) interconnected with the Equatoguinean national fibre network", "country_label": "Interconnexion Gabon - Guinée équatoriale", "class": "shared", "platform": "fibre-optic backbone", "owner": "SPIN (Gabon side); Equatoguinean national network (GNQ side)", "tiers": "national backbone operators of both countries"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Niger's communication minister arrived in Agadez on 5 October 2026 with Algeria's ambassador and a technical delegation for what the ministry calls the launch of works on the Niger-Algeria fibre optic interconnection; the page is dated 6 October 2026.", "as_of": "2026-10-05", "date_precision": "day", "system": "interconnexion par fibre optique Niger-Algérie", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "interconnexion par fibre optique Niger-Algérie", "country_label": "interconnexion de la fibre optique entre le Niger et l'Algérie", "class": "shared", "platform": "fibre optic", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

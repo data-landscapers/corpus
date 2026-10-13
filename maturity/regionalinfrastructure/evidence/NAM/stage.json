@@ -1,0 +1,16 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "shared",
+   "stage": "2",
+   "built": "agreed",
+   "service": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-002;NAM-001",
+   "gaps": "No source held says building has started in the last three years.",
+   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
+  }
+ ]
+}

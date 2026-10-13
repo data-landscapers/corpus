@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-04-east-africa-regional-satellite-ncrcbsi",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Kenya, South Sudan, Uganda and Rwanda agreed at a ministerial meeting in Nairobi in late April 2026 to move towards a jointly owned regional communication and broadcasting satellite, starting with a feasibility study funded by the four states.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Bayobab completed a fibre optic network linking Mombasa in Kenya to Kampala in Uganda in May 2025, per Connecting Africa.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Bayobab Mombasa-Kampala fibre network",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "country_label": "NCRCBSI / NCIP regional satellite",
+   "class": "shared",
+   "platform": "",
+   "owner": "Governments of Uganda, Kenya, Rwanda and South Sudan (proposed joint ownership)",
+   "tiers": "national governments"
+  },
+  {
+   "system": "Bayobab Mombasa-Kampala fibre network",
+   "country_label": "",
+   "class": "shared",
+   "platform": "fibre optic",
+   "owner": "Bayobab",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Uganda, Kenya, Rwanda and South Sudan opened a joint bank account at Standard Chartered Bank Uganda to fund a feasibility study for a jointly government-owned regional communications satellite, with a 30 September 2026 deadline for contributions; the report gives no date for the meeting, so 2026-08-24 is the report's date.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Northern Corridor regional communications and broadcasting satellite",
+   "country_label": "NCRCBSI / NCIP regional satellite",
+   "class": "shared",
+   "platform": "",
+   "owner": "Governments of Uganda, Kenya, Rwanda and South Sudan (proposed joint ownership)",
+   "tiers": "national governments"
+  }
+ ],
+ "note": ""
+}

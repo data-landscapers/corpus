@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "The document states that in February 2026 Paratus activated a 2,000-kilometre protected fibre route from Mombasa to Goma via Nairobi, Kampala and Kigali, giving eastern DRC direct access to subsea systems on the Kenyan coast.", "as_of": "2026-02", "date_precision": "month", "system": "Paratus Mombasa-Goma fibre route", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Paratus Mombasa-Goma fibre route", "country_label": "Mombasa to Goma via Nairobi, Kampala and Kigali", "class": "shared", "platform": "terrestrial fibre", "owner": "Paratus Group", "tiers": "operators and enterprises; data centres along the route"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-01-fratmat-cote-divoire-rascom-couverture-numerique-satellitaire",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "On 31 July 2026 RASCOM's director general said the pan-African satellite organisation's services are already used in Côte d'Ivoire, citing the national broadcaster RTI's use of RASCOM satellite capacity during the 2023 Africa Cup of Nations.",
+     "as_of": "2026-07-31", "date_precision": "day", "system": "RASCOM", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "RASCOM", "country_label": "Organisation régionale africaine de Communications par Satellite (Rascom)", "class": "shared", "platform": "satellite capacity", "owner": "RASCOM (created 1992 under African Union auspices, headquartered in Abidjan-Plateau)", "tiers": "national (RTI broadcaster; ministry exploring rural internet and universal-service use)"}
+  ],
+  "note": ""
+}

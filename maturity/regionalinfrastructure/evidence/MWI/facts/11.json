@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-updated-esmp-government-data-centre-dmap",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre (Lilongwe)", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Department of e-Government, Government of Malawi", "tiers": "national government; 13 racks available for co-location"}
+  ],
+  "note": "National data centre; no other African country named as user, partner or at the ends of any link."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-05-horizon-fiber-binding-agreement-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ethio Telecom, Djibouti Telecom and Sudatel turned a December 2024 cross-border fibre memorandum into a binding agreement for a terrestrial corridor from Djibouti's landing stations through Ethiopia to Sudan's landing stations; the document gives no signing day, so the published date is used.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Horizon Fiber",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon / Horizon Fiber Initiative",
+   "class": "shared",
+   "platform": "terrestrial optical fibre corridor",
+   "owner": "Djibouti Telecom, Ethio telecom and Sudatel Group",
+   "tiers": "operators; hyperscalers and carriers as prospective customers"
+  }
+ ],
+ "note": ""
+}

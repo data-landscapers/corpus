@@ -1,0 +1,11 @@
+# Tanzania
+
+## Digital links and facilities shared with other African countries
+
+**Shared link or facility agreed and under construction.** Tanzania's and Kenya's ministers [launched a cross-border project at the Horohoro and Lunga Lunga border on 29 July 2026](<https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/>), to join Tanzania's network to Kenya's national fibre backbone and submarine cable landings. Tanzania and the Democratic Republic of the Congo [agreed to speed up a fibre cable across Lake Tanganyika](<https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/>), from Kigoma to Kalemie, as reported on 5 September 2026.
+
+**In service and carrying another country's traffic.** Tanzania's state telecommunications company and Kenya's ICT Authority [put a terrestrial fibre link from Dar es Salaam to Mombasa into operation in July 2025](<https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite>). The link was both launched and put to work that month. The project launched at the border a year later, in July 2026, joins the two national networks again at Horohoro.
+
+***Noted, not assessed***. [Yas Fibre Zanzibar broadband network](<https://www.connectingafrica.com/partnerships/yas-zictia-to-expand-broadband-access-in-zanzibar>).
+
+***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

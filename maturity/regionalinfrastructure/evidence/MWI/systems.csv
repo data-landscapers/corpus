@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Project East2West,East2West,shared,terrestrial fibre optic network (dark and active fibre),"Bayobab (MTN Group), with Africa50 as co-developer",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+MWI,Regional Fibre Connectivity Programme,Regional Fibre Connectivity Programme,shared,,EU,,2025-05-21-republic-of-malawi-eu-partnership-factsheet
+MWI,SADC-RTGS,SADC-RTGS,other,,South African Reserve Bank (Regional Clearing and Settlement Operator),central bank and commercial banks (9 Malawi banks incl. Reserve Bank of Malawi),2026-04-01-sadc-rtgs-settlement-statistics-april-2026
+MWI,"National Data Centre, Lilongwe",National Data Centre,,,"Department of eGovernment, Ministry of ICT",government systems migrating in,2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm
+MWI,"National Data Center, Lilongwe",national Data Center,,,Government of Malawi,first clients migrated,2025-10-03-dmap-implementation-status-report
+MWI,Bolamathu government exchange platform,Bolamathu,,,Government of Malawi,government entities,2025-10-03-dmap-implementation-status-report
+MWI,SADC-RTGS,SADC-RTGS,other,,South African Reserve Bank,central bank and commercial banks (9 Malawi banks incl. Reserve Bank of Malawi),2025-08-01-sadc-rtgs-settlement-statistics-august-2025
+MWI,"Government Data Centre (Lilongwe, primary) and Blantyre data centre (secondary/backup)",Government Data Centre,other,hyper-converged infrastructure,Government of Malawi (PPPC with Department of e-Government),national government,2024-03-01 Government Data Center making progress
+MWI,National Data Centre,National Data Centre,other,,Government of Malawi (DMAP),national government,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,Lilongwe-Blantyre Data Centre redundancy link,redundancy link between the Lilongwe and Blantyre Data Centres,other,,Government of Malawi (DMAP),national government,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,National Data Centre,National Data Centre,other,,Public Private Partnership Commission (DMAP),,2026-06-11-pppc-expansion-of-national-data-centre-rfb
+MWI,National Data Centre (Lilongwe),National Data Centre,other,,"Department of e-Government, Government of Malawi",national government; 13 racks available for co-location,2025-08-01-updated-esmp-government-data-centre-dmap

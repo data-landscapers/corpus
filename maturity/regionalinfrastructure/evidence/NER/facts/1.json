@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Algeria's communications minister, with Niger's minister, chaired the official launch of operation of the trans-Saharan fibre backbone joining In-Guezzam (Algeria) to the Arlit-Agadez region (Niger) at Assamaka on 6 October 2026, with a stated capacity of up to 100 Gbps from the start, per APS.", "as_of": "2026-10-06", "date_precision": "day", "system": "dorsale transsaharienne à fibre optique", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "dorsale transsaharienne à fibre optique", "country_label": "dorsale transsaharienne à fibre optique (In-Guezzam to Arlit-Agadez)", "class": "shared", "platform": "fibre optic", "owner": "Algérie Télécom and Niger Télécom", "tiers": ""}
+  ],
+  "note": ""
+}

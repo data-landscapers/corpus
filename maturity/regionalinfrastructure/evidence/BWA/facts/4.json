@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "BoFiNet fibre network", "country_label": "Botswana Fibre Network (BoFiNet)", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": ""},
+    {"system": "Digital Delta Data Centre", "country_label": "Digital Delta Data Centre", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": ""}
+  ],
+  "note": "Only a bid to host the SADC regional internet exchange, in talks with the SADC Secretariat and shortlisted; talks and a bid are not an agreement, and no other country is named as using a facility."
+}

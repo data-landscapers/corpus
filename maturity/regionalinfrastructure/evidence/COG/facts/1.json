@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "Africa50 and Bayobab (MTN Group) partnered in May 2023 to co-develop Project East2West, a US$320-325 million terrestrial fibre network linking landlocked countries to coastal cables, with the Republic of Congo among the 12 countries named (Kenya, South Sudan, CAR, Congo, Tanzania, Rwanda, Uganda, DRC, Mozambique, Malawi, Zambia, Angola); Africa50's investment committee approved it on 21 July 2023.",
+     "as_of": "2023-05", "date_precision": "month", "system": "Project East2West", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Project East2West", "country_label": "East2West", "class": "shared", "platform": "terrestrial fibre optic network (dark and active fibre)", "owner": "Bayobab (MTN GlobalConnect Solutions), majority sponsor; Africa50 co-developer; Smart Africa Alliance technical partner", "tiers": ""}
+  ],
+  "note": ""
+}

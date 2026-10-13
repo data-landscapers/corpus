@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-pida-pap-equatorial-guinea-internet-exchange-point",
+  "facts": [],
+  "systems": [
+    {"system": "Equatorial Guinea Internet Exchange Point (IXP)", "country_label": "Equatorial Guinea Intenet EXchange Point (IXP)", "class": "other", "platform": "", "owner": "Regulador de las Telecomunicaciones (lead national agency), under AU PIDA programme 51 with ECCAS as regional coordinator", "tiers": ""}
+  ],
+  "note": "A national IXP whose only beneficiary country is Equatorial Guinea (PIDA stage S4B Construction, 2017); no other country is named as using it, so it is class other and gives no shared-class fact."
+}

@@ -93,7 +93,15 @@
       "subject": "gov.regional",
       "text": "Shared regional infrastructure: digital links and facilities shared with other African countries",
       "indicator_id": "gov.regional--shared-regional-infrastructure-digital-links-and-facilities-shared-with-other-african-countries",
-      "class": "shared"
+      "class": "shared",
+      "criteria": [
+        "A source from the past three years says the country has no digital link with a neighbour, or stands outside the shared links of its region, and none is on record.",
+        "In the past three years the country has agreed to build or join a link or facility shared with another African country: a cross-border fibre link, a sea cable joining two African countries, a shared exchange point, data centre or satellite. Talks, a study or a bid to host do not count.",
+        "Building has started in the past three years: a contract awarded, works begun or cable being laid. A tender opened or money promised does not count.",
+        "A shared link or facility is in service: lit, commissioned or opened to traffic. A ceremony for the start of works, or a test, does not count.",
+        "It is reported carrying another country's traffic in the past three years: published figures of capacity sold or traffic carried across the border, a named user from the other country, or a fault that cut the other country's service."
+      ],
+      "criteria_of": "68d9f1f32edc"
     }
   ],
   "classes": [

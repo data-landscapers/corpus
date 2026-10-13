@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-south-sudans-fibre-push-is-moving-from-promise-to-procurement",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "South Sudan's ICT ministry invited international bids (SS-MICT&PS-544330-NC-RFB, bids closing 26 October 2026) for about 397 km of terrestrial fibre on the Juba-Nadapal route toward the Kenyan border, financed under World Bank grant E1780 of the Eastern Africa Regional Digital Integration Project; this is procurement, not yet works, and the notice date is given as the report's 2026-09-14 publication.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "EARDIP Juba-Nadapal fibre",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EARDIP Juba-Nadapal fibre",
+   "country_label": "Juba-Nadapal fibre route",
+   "class": "shared",
+   "platform": "terrestrial fibre, 17+ points of presence",
+   "owner": "Ministry of Information, Communication Technology and Postal Services",
+   "tiers": "schools, health centres and government facilities within 10 km of the route"
+  }
+ ],
+ "note": ""
+}

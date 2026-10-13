@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "SUNA reports Sudatel signed on 4 February 2026 a strategic agreement with Djibouti Telecom and Ethio telecom launching Horizon Fiber, a terrestrial fibre corridor linking Djibouti's submarine cable stations through Ethiopia to Sudan.",
+   "as_of": "2026-02-04",
+   "date_precision": "day",
+   "system": "Horizon Fiber Initiative",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber Initiative",
+   "country_label": "Horizon Fiber",
+   "class": "shared",
+   "platform": "terrestrial optical fibre",
+   "owner": "Ethio telecom, Djibouti Telecom, Sudatel Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

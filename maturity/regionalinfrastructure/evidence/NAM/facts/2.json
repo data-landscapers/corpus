@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Telecom Namibia signed a pilot commercial agreement with Angola's GGPEN to use the Angosat-2 satellite platform in a real-network trial, moving on from a proof of concept, with a commercial launch to follow the pilot (reported 2026-06-15, signed the preceding Friday).", "as_of": "2026-06-12", "date_precision": "day", "system": "Angosat-2", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Telecom Namibia signed a master service agreement with Angola Telecom and SATCAB to integrate the Southern African Regional Submarine System (SARSSy) with the Equiano cable via Telecom Namibia's Swakopmund landing station, with Telecom Namibia as landing party and giving Angola Telecom 1 Tbps on Equiano; it builds on an MoU and commercial terms agreement signed in April 2026.", "as_of": "2026-06-13", "date_precision": "day", "system": "SARSSy", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Angosat-2", "country_label": "Angosat-2", "class": "shared", "platform": "high-throughput satellite platform", "owner": "GGPEN (Angola)", "tiers": "Telecom Namibia (operator), targeting lodges, mines, schools, farms, businesses and rural communities"},
+    {"system": "SARSSy", "country_label": "Southern African Regional Submarine System", "class": "shared", "platform": "submarine cable interconnecting with Equiano at Swakopmund", "owner": "Telecom Namibia, Angola Telecom, SATCAB", "tiers": "operators"},
+    {"system": "Equiano", "country_label": "Equiano Cable System", "class": "shared", "platform": "submarine cable", "owner": "", "tiers": "Telecom Namibia provides Angola Telecom 1 Tbps"}
+  ],
+  "note": ""
+}

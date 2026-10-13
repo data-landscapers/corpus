@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-03-cab-corridor-la-spin-et-camtel-renforcent-la-connectivite-numerique-en",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "SPIN (Gabon) reports that the partners signed a memorandum of understanding and a confidentiality agreement on CAB-CORRIDOR, a terrestrial interconnection between Cameroon, Gabon and the Republic of Congo over the Central African Backbone, with implementation modalities due in October 2026; signing dates are not given, so the document's publication date is used.",
+     "as_of": "2026-10-03", "date_precision": "day", "system": "CAB-CORRIDOR", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "CAB-CORRIDOR", "country_label": "CAB-CORRIDOR", "class": "shared", "platform": "terrestrial fibre interconnection over the Central African Backbone", "owner": "SPIN (Gabon) and CAMTEL (Cameroon)", "tiers": ""}
+  ],
+  "note": ""
+}

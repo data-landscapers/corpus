@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "APS reports that Senegal's SENUM SA and Mali's SMTD-SA inaugurated the interconnection of their national fibre-optic backbones at the Kidira-Diboli border bridge on Monday 2026-10-05, described by SENUM's director general as putting the infrastructure into service; no capacity or traffic figure is given.",
+     "as_of": "2026-10-05", "date_precision": "day",
+     "system": "interconnexion des backbones du Senegal et du Mali (SENUM SA - SMTD-SA)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "interconnexion des backbones du Senegal et du Mali (Kidira-Diboli)", "country_label": "Interconnexion des reseaux dorsaux en fibre optique", "class": "shared", "platform": "fibre optic", "owner": "Senegal Numerique SA (SENUM SA) and Societe malienne de transmission et de diffusion (SMTD-SA)", "tiers": "national backbone operators of Senegal and Mali"}
+  ],
+  "note": ""
+}

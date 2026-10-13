@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "ANP reports that works on the trans-Saharan fibre backbone, a NEPAD project launched in 2017 to link Algeria, Mali, Mauritania, Niger, Nigeria and Chad, actually began in 2021, financed at about 30 billion CFA francs by the AfDB, the African Development Fund and national counterpart funds.", "as_of": "2021", "date_precision": "year", "system": "dorsale transsaharienne à fibre optique (DTS/FO)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "The project coordinator said on 14 November 2025 that all fibre sections on the five axes to Algeria, Chad, Nigeria, Benin and Burkina Faso (1,031 km) were 100 percent built and ready for reception, and the minister held provisional reception; he described technical and soon commercial interconnection with Algeria, Chad, Nigeria and Benin as the final stage.", "as_of": "2025-11-14", "date_precision": "day", "system": "dorsale transsaharienne à fibre optique (DTS/FO)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "dorsale transsaharienne à fibre optique (DTS/FO)", "country_label": "dorsale transsaharienne à fibre optique (DTS/FO)", "class": "shared", "platform": "fibre optic", "owner": "Niger Telecom", "tiers": ""},
+    {"system": "Datacenter Tiers 3 Niamey", "country_label": "Datacenter Tiers 3", "class": "other", "platform": "", "owner": "Niger government", "tiers": ""}
+  ],
+  "note": ""
+}

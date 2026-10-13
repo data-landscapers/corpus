@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-16-transco-clsg-fibre-expansion-techafricanews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Sierra Leone, Liberia and Guinea officials, with TRANSCO CLSG and consultancy TACTIS, agreed at an Abidjan workshop on a consensus to commercialise excess fibre capacity on the TRANSCO CLSG network and a roadmap to operationalise it before the end of 2026; the workshop date is not given, so the document's published date of 2026-06-16 is used.", "as_of": "2026-06-16", "date_precision": "day", "system": "TRANSCO CLSG fibre network", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "TRANSCO CLSG fibre network", "country_label": "TRANSCO CLSG transmission network fibre", "class": "shared", "platform": "", "owner": "TRANSCO CLSG", "tiers": ""}
+  ],
+  "note": ""
+}

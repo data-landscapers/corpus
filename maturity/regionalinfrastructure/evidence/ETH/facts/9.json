@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-04-ethiotelecom-horizon-fiber-tripartite-signing",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ethio telecom's release states it signed on 4 February 2026 with Djibouti Telecom and Sudatel Group a tripartite agreement under the Horizon Fiber Initiative for a terrestrial fibre corridor connecting Djibouti's landing stations, traversing Ethiopia, to Sudan's landing stations.",
+   "as_of": "2026-02-04",
+   "date_precision": "day",
+   "system": "Horizon Fiber Initiative",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ethio telecom's release states the agreement builds on a memorandum of understanding signed in Addis Ababa on 3 December 2024.",
+   "as_of": "2024-12-03",
+   "date_precision": "day",
+   "system": "Horizon Fiber Initiative",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber Initiative",
+   "country_label": "Horizon Fiber",
+   "class": "shared",
+   "platform": "terrestrial optical fibre",
+   "owner": "Ethio telecom, Djibouti Telecom, Sudatel Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

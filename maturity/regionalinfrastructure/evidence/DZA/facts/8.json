@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-lesahel-niger-telecom-algerie-telecom-skills-centers-partenariat",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "On 2026-09-08 Algerie Telecom and Niger Telecom signed a convention in Niamey under which Algerie Telecom donates fibre-optic transmission equipment to set up an Agadez-Assamaka fibre link, to the Algerian border, with an initial capacity of 100 gigabits; the article also reports Niger Telecom receiving the equipment, and does not report works begun or the link lit.", "as_of": "2026-09-08", "date_precision": "day", "system": "Agadez-Assamaka fibre link (Niger-Algeria trans-Saharan fibre-optic backbone)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Liaison dorsale transsaharienne a fibre optique Algerie-Niger", "country_label": "Liaison dorsale transsaharienne a fibre optique Algerie-Niger", "class": "shared", "platform": "fibre optic, initial capacity 100 Gbit/s on the Agadez-Assamaka section", "owner": "Algerie Telecom and Niger Telecom", "tiers": "national backbone, cross-border Niger-Algeria"}
+  ],
+  "note": ""
+}

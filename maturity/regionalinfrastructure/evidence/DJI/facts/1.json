@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-wearetech-djibouti-huawei-infrastructures-numeriques",
+  "facts": [
+    {
+      "sub_indicator": "shared",
+      "aspect": "built",
+      "value": "agreed",
+      "fact": "Document says the Horizon Fiber project, announced in February 2026, is a terrestrial link of nearly 2,800 km extending Djibouti's connectivity into the Horn of Africa; it names no other country and gives no date beyond the announcement.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Horizon Fiber",
+      "class": "shared"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber",
+      "class": "shared",
+      "platform": "terrestrial optical fibre",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Names no other country at the link's ends; the fact rests on the February 2026 announcement. EARDIP and the 14 submarine cables are not described as joining African countries."
+}

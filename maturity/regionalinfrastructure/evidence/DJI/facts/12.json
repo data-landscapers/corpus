@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01-primature-discours-politique-generale-numerique-hub",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The Prime Minister told the National Assembly on 1 March 2026 that agreements between Djibouti Telecom, Ethio telecom and Sudatel for a 2,800 km fibre corridor exist, with Horizon Fiber launching to link Djibouti to Ethiopia and South Sudan; no construction is stated.", "as_of": "2026-03-01", "date_precision": "day", "system": "Horizon Fiber", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Horizon Fiber", "country_label": "Horizon Fiber / corridor de 2800 km de fibre optique", "class": "shared", "platform": "terrestrial fibre corridor", "owner": "Djibouti Telecom, Ethio telecom, Sudatel", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2011-01-20-wb-stp-002-central-african-backbone-ace-cable",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Coast to Europe (ACE) optical fibre submarine cable", "country_label": "ACE", "class": "other", "platform": "submarine fibre cable", "owner": "ACE consortium; STP holds a stake via STP-Cabo SARL (government and CST)", "tiers": ""}
+  ],
+  "note": "Document describes STP's ACE consortium stake, landing (Nov 2011) and commercial launch (Feb 2013) but names no other African country at the cable's ends; a landing alone is not a shared link."
+}

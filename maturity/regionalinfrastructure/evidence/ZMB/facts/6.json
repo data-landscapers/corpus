@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "none",
+     "fact": "The World Bank's project information document for the Digital Zambia Acceleration Project states that cross-border infrastructure between countries is missing in Zambia, hindering seamless digital trade; the document is dated 20 January 2025 and gives no earlier date.",
+     "as_of": "2025-01-20", "date_precision": "day", "system": "Cross-border infrastructure", "class": "shared"}
+  ],
+  "systems": [],
+  "note": "The project has a sub-component 'Extending the backbone and regional network' (IDA US$20m, commercial US$10m) but the excerpt names no cross-border link or other country at its end."
+}

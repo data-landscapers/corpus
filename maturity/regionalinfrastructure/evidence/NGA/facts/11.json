@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Connecting Africa reports that Backbone Connectivity Network Nigeria and Equatorial Guinea's transport and telecommunications minister signed a subsea fibre-optic agreement in Malabo in February 2026 for a direct high-capacity Nigeria-Equatorial Guinea link plus a commercial data centre, with specifications, investment and timelines undisclosed.", "as_of": "2026-02", "date_precision": "month", "system": "Nigeria-Equatorial Guinea subsea fibre-optic cable", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Nigeria-Equatorial Guinea subsea fibre-optic cable", "country_label": "Nigeria-Equatorial Guinea subsea fibre-optic agreement", "class": "shared", "platform": "", "owner": "Backbone Connectivity Network Nigeria", "tiers": ""}
+  ],
+  "note": ""
+}

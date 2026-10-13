@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Niger's communications minister and Algeria's post and telecommunications minister officially launched operation of the Niger-Algeria trans-Saharan fibre-optic link at Assamaka, which the ministry calls now operational.", "as_of": "2026-10-06", "date_precision": "day", "system": "liaison transsaharienne en fibre optique Niger-Algérie", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "liaison transsaharienne en fibre optique Niger-Algérie", "country_label": "dorsale transsaharienne à fibre optique", "class": "shared", "platform": "terrestrial fibre-optic link", "owner": "Niger and Algeria governments", "tiers": ""}
+  ],
+  "note": ""
+}

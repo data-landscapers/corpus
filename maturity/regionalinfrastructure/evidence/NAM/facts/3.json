@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Telecom Namibia, Angola Telecom and SATCAB signed the master service agreement for SARSSy on 12 June 2026, integrating it with the Equiano cable; Telecom Namibia as landing party hosts the infrastructure in Namibia and provides an initial 1.0 Tbps on Equiano, building on an April 2026 MoU and commercial terms agreement signed in Swakopmund.", "as_of": "2026-06-12", "date_precision": "day", "system": "SARSSy", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "SARSSy", "country_label": "Southern African Regional Submarine System", "class": "shared", "platform": "submarine cable system integrated with Equiano", "owner": "Telecom Namibia, Angola Telecom, SATCAB", "tiers": "operators; Angola Telecom equipment hosted in Telecom Namibia facilities"},
+    {"system": "Equiano", "country_label": "Equiano Cable System", "class": "shared", "platform": "submarine cable", "owner": "", "tiers": "1.0 Tbps dedicated to Angola Telecom"}
+  ],
+  "note": ""
+}

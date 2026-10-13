@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-03-powertel-paratus-digital-highway",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "NewsDay reports the first operational section, Plumtree-Bulawayo, of the Powertel-Paratus Zimbabwe fibre corridor to Botswana is live and carrying traffic at 800Gbps initial capacity.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Powertel-Paratus Zimbabwe cross-border fibre corridor",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "building",
+   "fact": "NewsDay reports the second phase, extending the corridor from Bulawayo to Livingstone in Zambia, is under construction and expected to be commissioned in September 2026.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Powertel-Paratus Zimbabwe cross-border fibre corridor",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "NewsDay reports the project runs under a public-private partnership signed in June 2025 with Paratus, plus an Indefeasible Right of Use agreement giving Paratus capacity while Powertel keeps operational control.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Powertel-Paratus Zimbabwe cross-border fibre corridor",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Powertel-Paratus Zimbabwe cross-border fibre corridor",
+   "country_label": "Digital highway / Botswana-Zimbabwe-Zambia digital corridor",
+   "class": "shared",
+   "platform": "DWDM fibre",
+   "owner": "Powertel Communications (ZESA subsidiary) with Paratus Zimbabwe under an IRU",
+   "tiers": "operators"
+  }
+ ],
+ "note": ""
+}

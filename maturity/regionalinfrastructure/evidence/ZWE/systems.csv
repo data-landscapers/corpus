@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,Powertel-Paratus Zimbabwe DWDM fibre backhaul,Powertel / Paratus Zimbabwe PPP,shared,DWDM fibre,Powertel and Paratus Zimbabwe,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,shared,"terrestrial fibre, 26,000 km in Zimbabwe, linked to Liquid's regional cross-border network",Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,TelOne backbone,TelOne cross-border transit links,shared,100G+ wavelengths,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,DFA Zimbabwe railway fibre backbone,DFA Zimbabwe,shared,"DWDM, 1,500 km Beitbridge-Bulawayo-Harare-Mutare",DFA Zimbabwe with BCS Group and Dandemutande,local ISPs and mobile operators,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Google Umoja cable system,Umoja,,overland terrestrial fibre,Google,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Zimbabwe Internet Exchange (ZINX),ZINX,,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Harare Internet Exchange Point (HIX),Harare Regional Internet Exchange Point,shared,"routers, switches, servers",POTRAZ,all internet access providers,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,Zimbabwe Internet Exchange (ZINX),Zimbabwe Internet Exchange,,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor,Powertel-Paratus digital highway,shared,"DWDM fibre, over 10 Tbps capable, 800 Gbps equipped","Powertel Communications (planned, built, owned and operated) with Paratus Zimbabwe under an IRU",,2026-07-03-paratus-powertel-digital-highway
+ZWE,Liquid Intelligent Technologies pan-African fibre network,Liquid cross-border fibre network,shared,"terrestrial fibre, 110,000 km, 25 countries",Liquid Intelligent Technologies (parent Cassava Technologies),"major operators, enterprises, hyperscalers",2026-08-05-eaaif-eastcastle-liquid-82m-eaif
+ZWE,Powertel-Paratus Zimbabwe cross-border fibre corridor,Digital highway / Botswana-Zimbabwe-Zambia digital corridor,shared,DWDM fibre,Powertel Communications (ZESA subsidiary) with Paratus Zimbabwe under an IRU,operators,"2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway"
+ZWE,Powertel-Paratus Zimbabwe cross-border fibre corridor,Digital highway / Botswana-Zimbabwe-Zambia digital corridor,shared,DWDM fibre,Powertel Communications (ZESA subsidiary) with Paratus Zimbabwe under an IRU,operators,2026-07-03-powertel-paratus-digital-highway

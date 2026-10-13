@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-dare1-extension-kenya-south-africa-connectingafrica",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Connecting Africa, citing Djibouti Telecom, reports that the DARE1 subsea cable has been operational since 2021 and connects Djibouti City with Bosaso and Mogadishu in Somalia and Mombasa in Kenya, with 36 Tbit/s over three fibre pairs.", "as_of": "2021", "date_precision": "year", "system": "DARE1 (Djibouti Africa Regional Express 1)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "DARE1 (Djibouti Africa Regional Express 1)", "country_label": "DARE1", "class": "shared", "platform": "subsea cable, three fibre pairs, 36 Tbit/s", "owner": "Djibouti Telecom", "tiers": ""}
+  ],
+  "note": "Planned southward extension to Tanzania, Mozambique, Madagascar and South Africa (work from 2026, service 2028) is a company announcement of plans, not an agreement; no fact recorded for it."
+}

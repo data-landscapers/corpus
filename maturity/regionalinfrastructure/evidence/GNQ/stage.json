@@ -1,0 +1,16 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "shared",
+   "stage": "4",
+   "built": "agreed",
+   "service": "in-service",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-001",
+   "gaps": "No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
+   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
+  }
+ ]
+}

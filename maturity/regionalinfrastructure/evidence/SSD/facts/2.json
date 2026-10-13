@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-04-east-africa-regional-satellite-ncrcbsi",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Kenya, South Sudan, Uganda and Rwanda, meeting in Nairobi at the Connected Africa Summit 2026, resolved to work towards a jointly owned regional communication and broadcasting satellite, with a feasibility study first, shared-funded by the four states; the meeting date is not given beyond the report's 2026-05-04 publication and 'late last week'.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Northern Corridor Regional Communication and Broadcasting Satellite Initiative",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Northern Corridor Regional Communication and Broadcasting Satellite Initiative",
+   "country_label": "NCRCBSI",
+   "class": "shared",
+   "platform": "",
+   "owner": "Kenya, South Sudan, Uganda, Rwanda ministries of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

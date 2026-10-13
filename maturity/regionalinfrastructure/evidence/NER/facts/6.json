@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-19-niger-tchad-protocole-interconnexion-dts-fo",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Niger's and Chad's communications ministers signed a memorandum of understanding on updating and implementing the cross-border interconnection of the Trans-Saharan Fibre Optic Backbone (DTS/FO), and instructed Nigertelecoms and Safitel Chad to open technical talks (ANP report; its body gives a mistaken July date, the dateline reads 19 June 2025).", "as_of": "2025-06-19", "date_precision": "day", "system": "Dorsale Transsaharienne à Fibre Optique (DTS/FO)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "The ministers reported Niger's civil works at 97% with 48 km of fibre left to reach the Chad border, and Chad's DTS/FO component at 42.78% with Safitel's cable already at the Niger border; interconnection was expected at the end of August 2025.", "as_of": "2025-06-19", "date_precision": "day", "system": "Dorsale Transsaharienne à Fibre Optique (DTS/FO)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Dorsale Transsaharienne à Fibre Optique (DTS/FO)", "country_label": "DTS/FO", "class": "shared", "platform": "terrestrial fibre-optic backbone", "owner": "Niger and Chad governments; operators Nigertelecoms and Safitel Chad", "tiers": ""}
+  ],
+  "note": ""
+}

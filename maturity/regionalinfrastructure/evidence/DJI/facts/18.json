@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-dare1-extension-techafricanews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "TechAfrica News reports that the DARE1 subsea cable system already links Djibouti, Somalia and Kenya (published 2025-09-01; no start date given in this document).", "as_of": "2025-09-01", "date_precision": "day", "system": "DARE1 (Djibouti Africa Regional Express 1)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "DARE1 (Djibouti Africa Regional Express 1)", "country_label": "DARE1", "class": "shared", "platform": "subsea cable", "owner": "Djibouti Telecom", "tiers": ""}
+  ],
+  "note": "Southward extension with landings in Tanzania, Mozambique, Madagascar and South Africa (work 2026, service 2028) is an announced plan, not an agreement; no fact for it."
+}

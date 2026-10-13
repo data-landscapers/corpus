@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,Mali IX (MLIX),"Mali IX (MLIX), Bamako",other,,,,2026-09-03-ecowas-sigtel-regional-fiber-infrastructure
+MLI,Transafrican terrestrial fibre cable (Maroc Telecom),Transafrican terrestrial cable,shared,fibre,Maroc Telecom / Moov Africa,operator,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+MLI,Senegal-Mali national backbone interconnection (Kidira-Diboli),interconnexion des backbones du Senegal et du Mali,shared,fibre optic,SENUM SA (Senegal); SMTD-SA (Mali),,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira

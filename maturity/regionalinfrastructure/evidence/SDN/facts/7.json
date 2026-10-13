@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-10-dji-btwmedia-horizon-fibre-capacite-urgence-critique",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "none",
+   "fact": "BTW Media analysis says the sources it reviewed announce no capacity purchase, paying customer or service start for Horizon Fiber, which joins Djibouti and Sudan landing stations via Ethiopia.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Horizon Fiber",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "BTW Media recalls the 4 February 2026 official announcement of the agreement for the Horizon corridor linking Djibouti and Sudan landing stations via Ethiopia.",
+   "as_of": "2026-02-04",
+   "date_precision": "day",
+   "system": "Horizon Fiber",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "shared",
+   "platform": "terrestrial multi-terabit optical fibre corridor",
+   "owner": "Ethio telecom, Djibouti Telecom, Sudatel",
+   "tiers": "operators"
+  }
+ ],
+ "note": ""
+}

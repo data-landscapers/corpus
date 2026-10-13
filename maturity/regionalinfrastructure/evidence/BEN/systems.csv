@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,Customs Declaration Exchange System (CDES),CDES,other,,Benin and Nigeria customs administrations,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
+BEN,Customs Webb,Customs Webb,other,,Benin customs,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
+BEN,Système d'information policière d'Afrique de l'Ouest (SIPAO),SIPAO,other,,"ECOWAS, with Interpol support and EU funding",police,2025-10-02-afis-empreintes-digitales-sipao-cedeao
+BEN,Système automatisé d'identification par empreintes digitales et palmaires (AFIS),AFIS,other,,Benin Republican Police,police,2025-10-02-afis-empreintes-digitales-sipao-cedeao

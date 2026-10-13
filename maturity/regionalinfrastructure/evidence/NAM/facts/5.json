@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-14-namibia-taps-angosat-2-to-boost-connectivity",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Namibia's ICT ministry partnered with Angola, through Telecom Namibia and GGPEN, to use the Angosat-2 satellite for remote-area connectivity; discussions began in June 2025 and a proof of concept was launched (published 2025-10-14, which is the date used).", "as_of": "2025-10-14", "date_precision": "day", "system": "Angosat-2", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Angosat-2", "country_label": "Angosat-2", "class": "shared", "platform": "high-throughput geostationary satellite, C, Ku and Ka band", "owner": "Angola (GGPEN)", "tiers": "Telecom Namibia, for remote areas and backhaul"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-03-orange-viatunisia-medusa-ready-for-service",
+  "facts": [],
+  "systems": [
+    {"system": "ViaTunisia (Medusa)", "country_label": "ViaTunisia", "class": "other", "platform": "point-to-point submarine cable, Marseille to Bizerte, system by Alcatel Submarine Networks", "owner": "Orange; co-financed 30% by the EU under CEF Digital", "tiers": ""}
+  ],
+  "note": "Marseille-Bizerte segment ready for service on 2026-06-03; it joins France and Tunisia only, so no shared-class fact."
+}

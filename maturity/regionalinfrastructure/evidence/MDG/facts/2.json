@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-01-dare1-extension-kenya-south-africa-connectingafrica",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "Connecting Africa reports Djibouti Telecom announced plans to extend DARE1 (Djibouti, Somalia, Kenya, in service since 2021) by 3,200-3,500 km from Mombasa to Mtunzini, South Africa, with branches planned for Tanzania, Mozambique and Madagascar, work expected from 2026 and ready for service in 2028; no signed agreement is described.",
+     "as_of": "2025-08-29", "date_precision": "day", "system": "DARE1 (Djibouti Africa Regional Express 1) extension", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "DARE1 (Djibouti Africa Regional Express 1) extension", "country_label": "DARE1", "class": "shared", "platform": "submarine cable", "owner": "Djibouti Telecom", "tiers": ""}
+  ],
+  "note": "as_of is the announcement 'late last week' before the 1 September 2025 publication, approximated to 29 August 2025."
+}

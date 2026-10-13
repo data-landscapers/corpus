@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-04-horizon-fiber-tripartite-deal-techafricanews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "TechAfrica News reports that Ethio telecom, Djibouti Telecom and Sudatel signed a tripartite contractual agreement in Djibouti on 4 February 2026 to implement Horizon Fiber, a cross-border optical fibre corridor linking Djibouti's submarine cable landing stations through Ethiopia into Sudan.", "as_of": "2026-02-04", "date_precision": "day", "system": "Horizon Fiber", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Horizon Fiber", "country_label": "Horizon Fiber initiative", "class": "shared", "platform": "terrestrial optical fibre corridor", "owner": "Ethio telecom, Djibouti Telecom, Sudatel", "tiers": ""}
+  ],
+  "note": ""
+}

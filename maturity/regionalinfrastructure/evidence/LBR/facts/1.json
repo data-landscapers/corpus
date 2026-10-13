@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-16-transco-clsg-fibre-expansion-techafricanews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "Officials of Liberia, Sierra Leone and Guinea, with TRANSCO CLSG and consultancy TACTIS, reached consensus at an Abidjan workshop on a regional consortium of licensed operators and a roadmap to operationalise excess fibre capacity on the TRANSCO CLSG network, including terrestrial redundancy links for Liberia through Cote d'Ivoire and Guinea, before end-2026; the document gives no workshop date, so its published date of 2026-06-16 is used.",
+     "as_of": "2026-06-16", "date_precision": "day", "system": "TRANSCO CLSG fibre optic network", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "TRANSCO CLSG fibre optic network", "country_label": "TRANSCO CLSG", "class": "shared", "platform": "fibre on the TRANSCO CLSG transmission line", "owner": "TRANSCO CLSG", "tiers": "national telecom operators and ICT ministries of Liberia, Sierra Leone, Guinea, Cote d'Ivoire"},
+    {"system": "Africa Coast to Europe (ACE) submarine cable", "country_label": "ACE", "class": "other", "platform": "submarine cable, single landing in Monrovia", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-03-paratus-powertel-digital-highway",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Paratus says Powertel Communications and Paratus Zimbabwe signed a PPP agreement in June 2025 to jointly invest in high-capacity long-distance fibre in Zimbabwe, the Botswana-Zimbabwe-Zambia corridor, with an IRU between them.", "as_of": "2025-06", "date_precision": "month", "system": "Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Paratus says the second phase, connecting Bulawayo and Livingstone (Zambia), is due to be lit in September 2026 to complete the three-country corridor.", "as_of": "2026-07-03", "date_precision": "day", "system": "Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Paratus and Powertel announce the first phase, Plumtree to Bulawayo, is live and carrying traffic with 800 Gbps equipped capacity, as the first active Paratus-connected fibre route into Zimbabwe linking it to Botswana, Zambia and South Africa; no other country's operator or traffic figure is given.", "as_of": "2026-07-03", "date_precision": "day", "system": "Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Powertel-Paratus Botswana-Zimbabwe-Zambia fibre corridor", "country_label": "Powertel-Paratus digital highway", "class": "shared", "platform": "DWDM fibre, over 10 Tbps capable, 800 Gbps equipped", "owner": "Powertel Communications (planned, built, owned and operated) with Paratus Zimbabwe under an IRU", "tiers": ""}
+  ],
+  "note": ""
+}

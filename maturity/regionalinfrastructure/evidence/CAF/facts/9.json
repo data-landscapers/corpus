@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cemac-gimac-norme-qr-code-interoperable",
+  "facts": [],
+  "systems": [
+    {"system": "GIMACPAY", "country_label": "GIMACPAY", "class": "other", "platform": "", "owner": "GIMAC", "tiers": ""}
+  ],
+  "note": "Regional QR-code payment standard and switch across the six CEMAC states: a payments system, class other, not a digital link or facility."
+}

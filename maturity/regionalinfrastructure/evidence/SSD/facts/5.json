@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "South Sudan granted Bayobab Infra Solutions a 15-year licence in October 2025 to build and operate national and cross-border fibre networks, international leased circuits and IP transit, as part of Project East 2 West, a fibre corridor connecting East and West Africa.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Project East 2 West",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project East 2 West",
+   "country_label": "East 2 West",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Bayobab Infra Solutions (MTN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

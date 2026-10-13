@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-05-tanzania-drc-tanganyika-fibre-sgr-dailynews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Daily News reported that Tanzania and the DRC agreed to accelerate a fibre-optic cable from Kigoma in Tanzania to Kalemie in DRC across Lake Tanganyika, a commitment their foreign minister reaffirmed at a meeting in Dar es Salaam; the two are described as pursuing its construction, with no cost, contract, start of works or timetable stated and no date given for the original agreement.", "as_of": "2026-09-05", "date_precision": "day", "system": "Kigoma-Kalemie fibre-optic cable across Lake Tanganyika", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Kigoma-Kalemie fibre-optic cable across Lake Tanganyika", "country_label": "national fibre-optic cable from Kigoma to Kalemie", "class": "shared", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

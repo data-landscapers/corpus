@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-18-mtc-bofinet-namibia-botswana-mou",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Namibia's MTC and Botswana's BoFiNet signed a memorandum of understanding in Gaborone providing for cooperation on cross-border fibre interconnection, IP transit and wholesale capacity, including development of the Buitepos-Ngoma corridor; the document gives no signing date, so its published date is used.", "as_of": "2026-02-18", "date_precision": "day", "system": "Buitepos-Ngoma corridor", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Buitepos-Ngoma corridor", "country_label": "Buitepos-Ngoma corridor", "class": "shared", "platform": "cross-border fibre", "owner": "MTC (Namibia) and BoFiNet (Botswana)", "tiers": ""}
+  ],
+  "note": ""
+}

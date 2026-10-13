@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Africa50 and Bayobab (MTN) partnered in May 2023 to develop Project East2West, a roughly US$320m terrestrial fibre network linking landlocked countries to east and west coast subsea cables, and the document names South Sudan among the countries covered.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Project East2West",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project East2West",
+   "country_label": "East2West",
+   "class": "shared",
+   "platform": "terrestrial fibre",
+   "owner": "Bayobab (MTN) with Africa50",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

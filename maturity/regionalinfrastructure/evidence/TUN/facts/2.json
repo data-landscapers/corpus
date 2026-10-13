@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-techafricanews-orange-medusa-cable-operational",
+  "facts": [],
+  "systems": [
+    {"system": "MEDUSA submarine cable", "country_label": "MEDUSA", "class": "other", "platform": "submarine cable, Bizerte landing station", "owner": "Orange Tunisia (Tunisian section and Bizerte station)", "tiers": ""}
+  ],
+  "note": "Operational launch of MEDUSA in Tunisia is stated, but the document names only links to Europe and no other African country at an end, so it is class other."
+}

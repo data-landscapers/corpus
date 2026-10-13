@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-eaaif-eastcastle-liquid-82m-eaif",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "EAAIF committed a USD 50 million loan on 5 August 2026 to refinance and maintain Liquid Intelligent Technologies' 110,000 km cross-border fibre network across 25 countries, including South Africa, Kenya and Zimbabwe, serving operators, enterprises and hyperscalers.", "as_of": "2026-08-05", "date_precision": "day", "system": "Liquid Intelligent Technologies pan-African fibre network", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Liquid Intelligent Technologies pan-African fibre network", "country_label": "Liquid cross-border fibre network", "class": "shared", "platform": "terrestrial fibre", "owner": "Liquid Intelligent Technologies (Cassava Technologies)", "tiers": "operators, enterprises, hyperscalers"}
+  ],
+  "note": ""
+}

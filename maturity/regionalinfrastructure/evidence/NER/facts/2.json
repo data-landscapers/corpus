@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Niger's communication minister and his Algerian counterpart chaired the official ceremony launching operation of the trans-Saharan fibre backbone linking Niger to Algeria at Assamaka on 6 October 2026, per ANP.", "as_of": "2026-10-06", "date_precision": "day", "system": "dorsale transsaharienne à fibre optique", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "dorsale transsaharienne à fibre optique", "country_label": "dorsale transsaharienne à fibre optique", "class": "shared", "platform": "fibre optic", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

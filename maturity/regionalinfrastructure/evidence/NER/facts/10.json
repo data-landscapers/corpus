@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-17-lesahel-copil-dts-ptba-2026-2027",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "The Niger component of the Trans-Saharan fibre-optic backbone project, funded by the African Development Bank at over 30 billion FCFA (16bn credit, 12.76bn grant, 2.17bn national), had its fibre works provisionally received on 14 November 2025 and its steering committee adopted the 2026-2027 work programme and budget on 13 March 2026.", "as_of": "2026-03-13", "date_precision": "day", "system": "Dorsale Transsaharienne à Fibre Optique, composante Niger", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Dorsale Transsaharienne à Fibre Optique, composante Niger", "country_label": "DTS-FO", "class": "shared", "platform": "terrestrial fibre-optic backbone", "owner": "Niger government, project management unit; financed by AfDB", "tiers": ""}
+  ],
+  "note": ""
+}

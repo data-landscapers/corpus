@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-09-techafricanews-phase3-sonatel-fibre",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Phase3 and Sonatel activated a 3,500km terrestrial fibre route from Lagos, Nigeria, to Dakar, Senegal, through Benin, Togo and Ghana; commercial availability and service packages were still to be announced.", "as_of": "2025-05-09", "date_precision": "day", "system": "Phase3-Sonatel Lagos-Dakar terrestrial fibre route", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Phase3-Sonatel Lagos-Dakar terrestrial fibre route", "country_label": "Senegal;Nigeria;Benin;Togo;Ghana", "class": "shared", "platform": "terrestrial fibre", "owner": "Phase3 Telecom and Sonatel", "tiers": ""},
+    {"system": "Djoliba", "country_label": "Djoliba network", "class": "shared", "platform": "terrestrial fibre", "owner": "Phase3 Telecom", "tiers": ""},
+    {"system": "Ikasira", "country_label": "Ikasira", "class": "", "platform": "", "owner": "Sonatel", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement",
+  "facts": [],
+  "systems": [
+    {"system": "Medusa Submarine Cable System", "country_label": "Medusa (Bizerte landing, Tunisia-France via Marseille)", "class": "other", "platform": "submarine optical fibre, 8,000+ km", "owner": "Medusa Submarine Cable System (Dublin); hosted in Tunisia by Orange Tunisia", "tiers": "operators"},
+    {"system": "Didon cable", "country_label": "Didon (2014, Tunisia-Europe)", "class": "other", "platform": "submarine cable", "owner": "Orange Tunisia with Ooredoo Tunisia", "tiers": "operators"}
+  ],
+  "note": "The agreement of 2023-05-11 links Tunisia (Bizerte) to France (Marseille); no other African country is named at the other end of the Tunisian link, so no shared-class fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2012-11-12-sao-tome-decreto-38-2012-concurso-segunda-licenca-stp-cabo-ace",
+  "facts": [],
+  "systems": [
+    {"system": "cabo submarino ACE", "country_label": "cabo submarino ACE", "class": "other", "platform": "submarine cable", "owner": "STP-Cabo SARL (State holds 25.5%)", "tiers": ""}
+  ],
+  "note": "Tender rules for a second telecom licence and sale of the State's STP-Cabo stake and ACE capacity; names no other African country at an end of the cable, so no shared-link fact."
+}

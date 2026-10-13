@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "Africa50 and Bayobab (MTN GlobalConnect) announced a partnership in May 2023 to develop Project East2West, a US$320-325 million terrestrial fibre network linking landlocked countries to coastal cables, with the DRC among the twelve countries the document names as covered (planned end year 2026); the DRC government is not named as a party.",
+     "as_of": "2023-05", "date_precision": "month", "system": "Project East2West", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Project East2West", "country_label": "Project East2West", "class": "shared", "platform": "terrestrial fibre (dark and active fibre)", "owner": "Bayobab (MTN Group), Africa50", "tiers": ""}
+  ],
+  "note": ""
+}

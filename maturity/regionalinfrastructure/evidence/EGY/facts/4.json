@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-19-telecom-egypt-completion-of-2africa",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "Telecom Egypt announced the completion of the core infrastructure of the 2Africa cable, which lands in Egypt at Ras Ghareb and Port Said and is described as the first cable directly connecting East and West Africa in a continuous system; the document names no other African country at an end and gives no traffic figures.", "as_of": "2025-11-19", "date_precision": "day", "system": "2Africa", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "shared", "platform": "submarine cable with two trans-Egypt terrestrial routes", "owner": "2Africa consortium; Telecom Egypt a member", "tiers": ""}
+  ],
+  "note": ""
+}

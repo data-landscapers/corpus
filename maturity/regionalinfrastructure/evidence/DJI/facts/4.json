@@ -1,0 +1,36 @@
+{
+  "slug": "2026-02-05-horizon-fiber-binding-agreement-connectingafrica",
+  "facts": [
+    {
+      "sub_indicator": "shared",
+      "aspect": "built",
+      "value": "agreed",
+      "fact": "Ethio Telecom, Djibouti Telecom and Sudatel turned their cross-border fibre MoU into a binding agreement for a terrestrial corridor from Djibouti's landing stations through Ethiopia to Sudan; no signing date is given, so the published date is used.",
+      "as_of": "2026-02-05",
+      "date_precision": "day",
+      "system": "Horizon Fiber",
+      "class": "shared"
+    },
+    {
+      "sub_indicator": "shared",
+      "aspect": "built",
+      "value": "agreed",
+      "fact": "The three telcos signed the original Horizon Fiber MoU in December 2024.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Horizon Fiber",
+      "class": "shared"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "shared",
+      "platform": "terrestrial optical fibre",
+      "owner": "Djibouti Telecom, Ethio Telecom, Sudatel Group",
+      "tiers": "operators"
+    }
+  ],
+  "note": "Other cross-border items listed (Ghana-Togo, Kenya-Tanzania, Kenya-Uganda) do not involve DJI."
+}

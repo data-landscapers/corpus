@@ -1,0 +1,22 @@
+{
+  "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "Agence Ecofin states that the Central African Republic has two terrestrial fibre links with its neighbours today, the routes through Cameroon and Congo-Brazzaville, carried by the roughly 935 km Central African Backbone network.",
+     "as_of": "2026-10", "date_precision": "month", "system": "Central African Backbone (CAB)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "The article says CAR authorities estimated in May 2026 that connecting the country to submarine cables through the terrestrial networks of coastal countries had markedly improved available speeds.",
+     "as_of": "2026-05", "date_precision": "month", "system": "Central African Backbone (CAB)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "On 8 October 2026 in Moscow the CAR and DRC digital ministers agreed on the need to carry out the CAR-DRC fibre interconnection, which would reach the Moanda submarine cable landing; no timetable or financing agreement was announced.",
+     "as_of": "2026-10-08", "date_precision": "day", "system": "CAR-DRC fibre interconnection", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "The article says CAR drew closer to South Sudan around a connectivity project announced in May 2026; its route, timetable and technical terms have not been detailed.",
+     "as_of": "2026-05", "date_precision": "month", "system": "CAR-South Sudan connectivity project", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Central African Backbone", "class": "shared", "platform": "terrestrial fibre optic", "owner": "", "tiers": ""},
+    {"system": "CAR-DRC fibre interconnection", "country_label": "interconnexion par fibre optique avec la RDC", "class": "shared", "platform": "terrestrial fibre optic", "owner": "CAR and DRC digital ministries", "tiers": ""}
+  ],
+  "note": ""
+}

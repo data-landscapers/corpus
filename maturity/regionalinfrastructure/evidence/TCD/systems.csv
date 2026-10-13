@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TCD,"Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)",Dorsale Transsaharienne,shared,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,N'Djamena-Mbere fibre link,N'Djamena-Mbere fibre optic route,shared,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,Dorsale Transsaharienne a fibre optique (DTS),Dorsale Transsaharienne (DTS),shared,fibre optic,Ministry of Telecommunications,,2026-01-11-tchadinfos-dts-degradations-site-bol
+TCD,Trans-Saharan Fiber Optic Backbone (DTS),Dorsale Transsaharienne (DTS),shared,fibre optic,Government of Chad,,2025-03-07-trans-saharan-fiber-project-delays
+TCD,N'Djamena-Mbere fiber-optic route,N'Djamena-Mbere fiber-optic route,shared,fibre optic,Sotel and Airtel (MoU),,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica
+TCD,"Central African Backbone Program (CAB APL 1B), Chad component",N'Djamena-Adre and Doba-Gore fibre links,shared,"fibre optic, PPP",Republic of Chad,,2011-06-06-wb-tcd-cab-apl1b-central-african-backbone
+TCD,Trans-Saharan fiber optic backbone project (DTS),Chad component,shared,optical fibre,,,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone
+TCD,Central African Backbone (CAB),Central African Backbone,shared,national fibre networks interconnected,CEMAC member states and development partners,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
+TCD,BRIDGE,BRIDGE project (Nigeria),shared,fibre-optic,Nigeria,national,2026-09-17-techafricanews-chad-nigeria-digital-cooperation
+TCD,BRIDGE,projet BRIDGE,shared,"fibre optique, accès ouvert, 90 000 km",Nigeria,national,2026-09-16-tcd-tchadinfos-bosun-tijani-ndjamena-fibre-interconnexion-nigeria

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-regionalinfrastructure.md — the twenty-ninth maturity study: digital links and facilities shared with other African countries, in four questions
 last_reviewed: 2026-10-13
-status: prepared 2026-10-13; waits for Bill to confirm the questions
+status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: regionalinfrastructure
@@ -57,6 +57,11 @@ Asked in order. Each is answered with a date and a link.
 - **A national facility described as serving the region is not a yes to question 3** until a source names another country using it.
 - **The best-placed link sets the stage**; the others are named in the summary.
 - **What a link joins and what it carries is taken from what a source says of it.** How good or how dear it is, is not judged.
+- **A resolution to pay for a study of a shared satellite is a study**, not a yes to question 1 *(added in the run, for the Northern Corridor states' satellite)*.
+- **A link live and carrying traffic for customers who are not named is in service, not a yes to question 4** *(added in the run, for the Goma to Mombasa route)*.
+- **A network named as crossing the country, with no link to a neighbour named, is not a yes** *(added in the run, for one company's network in 25 countries)*.
+- **A cable owner's announced plan, or a consensus reached at a workshop, is not an agreement** *(added in the run, for Madagascar, Liberia and Sierra Leone)*.
+- **A company's cable that a source says carries a landlocked country's traffic to its parent network is in service for each country it serves** *(added in the run, for the cable from Morocco to Niger)*.
 
 `study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`in-use`, `in-service`, `none`) for 3 and 4.
 
@@ -66,9 +71,8 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 
 ## 5. What the run reads
 
-- **Read first**: **183 news stories about cross-border links and shared facilities filed to a country**, covering 45 countries: 80 distinct stories. No study has read them.
-- **Then, for every country those leave short of an answer**: the news stories its current cell cites, 180 across 53 countries. Cabo Verde has no cell.
-- **Not read**: project documents, tenders, long reports and the general run of submarine cable news. **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
+- **Read**: the 183 news stories about cross-border links and shared facilities filed to a country; then the 150 stories the current cells cite, for every country.
+- **Not read**: project documents, tenders, long reports and the general run of submarine cable news. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -77,10 +81,22 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-13.
+- [x] **D2. Read**: 116 calls in two fan-outs, 185 facts.
+- [x] **D3. Staged** as at 2026-09-30: none at 5, 4: 25, 3: 2, 2: 8, 1: 1, three unplaced, 15 without evidence; 21 rows removed or revalued and seven added (`corrections.csv`); agreement 16 of 20 at the first staging, 19 of 20 after three cells were restaged the second reader's way.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+
+**Decided in the run**:
+
+- **No country reaches stage 5.** No story read gives a figure for traffic across a border or names a user from the other country.
+- **The Democratic Republic of the Congo and Kenya were staged 5 and are 4**, on the second reading.
+- **Seven rows were added for the other end of a link** a source names: Morocco, Somalia, Nigeria, Zambia, Gabon, Botswana and Kenya.
+- **Rwanda is unplaced**: it is on the Goma route, not at an end.
+- **Eswatini is stage 2**; the second reader put it at 4.
+- **Algeria is stage 2 and Niger 4**: the link between them opened on 6 October 2026, after the as-at.
+- **Fifteen countries are without evidence**, South Africa, Egypt, Ghana and Tunisia among them: their cells cited what this study only notes.
+- **The summaries were written in the thread, not by writers**, to hold the ceiling.
+- **Tokens: about 41 million at the map**, ceiling 40 million, step 1 included.
 
 ## Boundary
 

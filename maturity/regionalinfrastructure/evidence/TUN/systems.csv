@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,MEDUSA submarine cable,MEDUSA,other,"submarine cable, Bizerte landing station",Orange Tunisia (Tunisian section and Bizerte station),,2026-06-26-techafricanews-orange-medusa-cable-operational
+TUN,MEDUSA submarine cable,câble MEDUSA,other,"submarine cable, four fibre pairs at 24 Tbps per pair, Bizerte landing station",Orange Tunisie (Tunisian section and Bizerte station); built by Medusa Submarine Cable System,,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,DIDON,câble DIDON,,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,ViaTunisia (Medusa Submarine Cable System),ViaTunisia,other,"point-to-point submarine cable, France to Tunisia, Marseille and Bizerte landings",Orange (landing partner in Marseille and Bizerte); co-financed by the EU under CEF Digital,,2026-06-05-connectingafrica-viatunisia-subsea-live
+TUN,ViaTunisia (Medusa),ViaTunisia,other,"point-to-point submarine cable, Marseille to Bizerte, system by Alcatel Submarine Networks",Orange; co-financed 30% by the EU under CEF Digital,,2026-06-03-orange-viatunisia-medusa-ready-for-service
+TUN,Medusa Submarine Cable System,Medusa,other,"carrier-neutral submarine cable, 8,760 km, landing at Bizerte",Medusa Submarine Cable System; hosted by Orange Tunisia; Tunisie Telecom a capacity user,,2025-11-01-medusa-lands-in-bizerte
+TUN,Medusa Submarine Cable System,"Medusa (Bizerte landing, Tunisia-France via Marseille)",other,"submarine optical fibre, 8,000+ km",Medusa Submarine Cable System (Dublin); hosted in Tunisia by Orange Tunisia,operators,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement
+TUN,Didon cable,"Didon (2014, Tunisia-Europe)",other,submarine cable,Orange Tunisia with Ooredoo Tunisia,operators,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement

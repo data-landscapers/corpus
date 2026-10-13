@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-eaaif-eastcastle-liquid-82m-eaif",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "EAAIF says Liquid Intelligent Technologies operates a 110,000 km cross-border terrestrial fibre network across 25 countries including Kenya, South Africa and Zimbabwe, and on 2026-08-05 committed a USD 50 million loan to refinance and maintain it; Zimbabwe is named only as one of the countries, and no end of a link is given.", "as_of": "2026-08-05", "date_precision": "day", "system": "Liquid Intelligent Technologies pan-African fibre network", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Liquid Intelligent Technologies pan-African fibre network", "country_label": "Liquid cross-border fibre network", "class": "shared", "platform": "terrestrial fibre, 110,000 km, 25 countries", "owner": "Liquid Intelligent Technologies (parent Cassava Technologies)", "tiers": "major operators, enterprises, hyperscalers"}
+  ],
+  "note": ""
+}

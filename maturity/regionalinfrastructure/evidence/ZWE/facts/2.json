@@ -1,0 +1,12 @@
+{
+  "slug": "2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "POTRAZ says the African Union Commission awarded it a USD 200,000 grant in 2015 under the AU Regional Internet Exchanges Initiative to set up the Harare Regional Internet Exchange Point; the grantor is the AU, no other country is named.", "as_of": "2015", "date_precision": "year", "system": "Harare Internet Exchange Point (HIX)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "none", "fact": "POTRAZ says in its 2020 forum contribution that HIX needs to attract more regional players to connect and peer to become a proper regional IXP, and that all connected members are access providers with two international peers (Packet Clearing House, Quad9); the document is undated, so the forum opening date is used.", "as_of": "2020-10-06", "date_precision": "day", "system": "Harare Internet Exchange Point (HIX)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Harare Internet Exchange Point (HIX)", "country_label": "Harare Regional Internet Exchange Point", "class": "shared", "platform": "routers, switches, servers", "owner": "POTRAZ", "tiers": "all internet access providers"},
+    {"system": "Zimbabwe Internet Exchange (ZINX)", "country_label": "Zimbabwe Internet Exchange", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

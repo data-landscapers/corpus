@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+  "facts": [],
+  "systems": [
+    {"system": "Wingu Africa Djibouti cable landing station and data centre", "country_label": "Wingu Africa Djibouti", "class": "other", "platform": "data centre with integrated cable landing station", "owner": "Wingu Africa", "tiers": ""},
+    {"system": "AMS-IX Djibouti", "country_label": "AMS-IX Djibouti Internet exchange", "class": "other", "platform": "", "owner": "Wingu Africa with AMS-IX", "tiers": ""},
+    {"system": "DjIX", "country_label": "DjIX", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Wingu's separate data centres and exchanges in Djibouti, Ethiopia and Tanzania; the document does not say any serves another country's traffic."
+}

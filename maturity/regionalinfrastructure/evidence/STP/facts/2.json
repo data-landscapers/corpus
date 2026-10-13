@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+  "facts": [],
+  "systems": [
+    {"system": "submarine cable to Príncipe", "country_label": "cabo submarino para Príncipe", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "government data centre", "country_label": "data centre do Governo", "class": "other", "platform": "", "owner": "INIC", "tiers": ""}
+  ],
+  "note": "Only the inter-island cable to Príncipe and the national data centre are named; neither is a link or facility shared with another African country."
+}

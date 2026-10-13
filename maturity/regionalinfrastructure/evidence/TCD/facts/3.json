@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-07-trans-saharan-fiber-project-delays",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "We Are Tech Africa reports the Chadian component of the Trans-Saharan Fiber Optic Backbone, launched in May 2023 with the CGPS/LORYNE consortium, was 32% complete at the minister's 6 March 2025 visit and well behind its ten-month schedule; it is expected to enable interconnection with Niger, Mali, Nigeria, Mauritania and Algeria.", "as_of": "2025-03-06", "date_precision": "day", "system": "Trans-Saharan Fiber Optic Backbone (DTS)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Trans-Saharan Fiber Optic Backbone (DTS)", "country_label": "Dorsale Transsaharienne (DTS)", "class": "shared", "platform": "fibre optic", "owner": "Government of Chad", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-05-connectingafrica-viatunisia-subsea-live",
+  "facts": [],
+  "systems": [
+    {"system": "ViaTunisia (Medusa Submarine Cable System)", "country_label": "ViaTunisia", "class": "other", "platform": "point-to-point submarine cable, France to Tunisia, Marseille and Bizerte landings", "owner": "Orange (landing partner in Marseille and Bizerte); co-financed by the EU under CEF Digital", "tiers": ""}
+  ],
+  "note": "The segment links France and Tunisia, a country outside Africa; the Tunisian end has no other African country named, so it is class other."
+}

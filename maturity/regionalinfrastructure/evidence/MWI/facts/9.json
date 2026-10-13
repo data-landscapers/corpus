@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Government of Malawi (DMAP)", "tiers": "national government"},
+    {"system": "Lilongwe-Blantyre Data Centre redundancy link", "country_label": "redundancy link between the Lilongwe and Blantyre Data Centres", "class": "other", "platform": "", "owner": "Government of Malawi (DMAP)", "tiers": "national government"}
+  ],
+  "note": "Malawi's IDEA section describes only national links and facilities; the regional project's activities are consultancies and no cross-border link or shared facility is stated for Malawi."
+}

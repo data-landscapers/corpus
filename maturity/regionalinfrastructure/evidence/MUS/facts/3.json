@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-13-btw-media-afrinic-appeal-receiver-permission-statutory-leave",
+  "facts": [],
+  "systems": [
+    {"system": "AFRINIC", "country_label": "African Network Information Centre (AFRINIC)", "class": "other", "platform": "", "owner": "AFRINIC Ltd, a Mauritius company under court-appointed Official Receiver", "tiers": ""}
+  ],
+  "note": "Court analysis of AFRINIC's receivership appeal; AFRINIC is an internet registry, not a link or facility carrying traffic, and no cross-border link or shared facility is described."
+}

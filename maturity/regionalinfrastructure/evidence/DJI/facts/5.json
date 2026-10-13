@@ -1,0 +1,36 @@
+{
+  "slug": "2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation",
+  "facts": [
+    {
+      "sub_indicator": "shared",
+      "aspect": "built",
+      "value": "agreed",
+      "fact": "Heads of Djibouti Telecom, Ethio Telecom and Sudatel signed in Djibouti on Wednesday 4 February 2026 the agreement launching Horizon, a terrestrial fibre corridor of nearly 2,800 km with 144 fibre pairs joining Djibouti, Addis Ababa and Port Sudan.",
+      "as_of": "2026-02-04",
+      "date_precision": "day",
+      "system": "Horizon Fiber",
+      "class": "shared"
+    },
+    {
+      "sub_indicator": "shared",
+      "aspect": "built",
+      "value": "agreed",
+      "fact": "A memorandum of understanding for Horizon was signed in Addis Ababa on 4 December 2024.",
+      "as_of": "2024-12-04",
+      "date_precision": "day",
+      "system": "Horizon Fiber",
+      "class": "shared"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "shared",
+      "platform": "terrestrial optical fibre",
+      "owner": "Djibouti Telecom, Ethio Telecom, Sudatel Group",
+      "tiers": "operators"
+    }
+  ],
+  "note": ""
+}

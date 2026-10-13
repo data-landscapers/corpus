@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-27-telecom-egypt-launch-weconnect",
+  "facts": [],
+  "systems": [
+    {"system": "WeConnect", "country_label": "WeConnect", "class": "other", "platform": "online cross-connect platform across 14 subsea systems, 10 cable stations, 10 terrestrial routes", "owner": "Telecom Egypt", "tiers": ""}
+  ],
+  "note": "Commercial cross-connect inside Egypt; names no other African country."
+}

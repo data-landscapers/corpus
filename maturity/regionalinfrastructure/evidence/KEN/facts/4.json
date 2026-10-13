@@ -1,0 +1,52 @@
+{
+ "slug": "2026-02-05-horizon-fiber-binding-agreement-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "The report states that in July 2025 TTCL and Kenya's ICTA launched and implemented a terrestrial fibre link connecting Dar es Salaam to Mombasa.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "TTCL-ICTA Dar es Salaam-Mombasa terrestrial fibre link",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "The report states that in May 2025 Bayobab completed a fibre optic network linking Mombasa in Kenya to Kampala in Uganda.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Bayobab Mombasa-Kampala fibre",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "",
+   "class": "shared",
+   "platform": "",
+   "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+   "tiers": ""
+  },
+  {
+   "system": "TTCL-ICTA Dar es Salaam-Mombasa terrestrial fibre link",
+   "country_label": "",
+   "class": "shared",
+   "platform": "",
+   "owner": "TTCL and Kenya ICTA",
+   "tiers": ""
+  },
+  {
+   "system": "Bayobab Mombasa-Kampala fibre",
+   "country_label": "",
+   "class": "shared",
+   "platform": "",
+   "owner": "Bayobab",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon Fiber joins Djibouti, Ethiopia and Sudan and does not name Kenya; the Kenyan links are background mentions."
+}

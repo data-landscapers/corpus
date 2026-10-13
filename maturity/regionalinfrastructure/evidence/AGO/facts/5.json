@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-25-tmcel-angosat2-satellite-trials-itweb",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "ITWeb Africa reports, citing Angola's telecommunications ministry (MINTTICS), that Angola and Mozambique signed a bilateral memorandum in June 2026 under which Mozambique's Tmcel and TVM would use Angola's ANGOSAT-2 satellite for telecom and broadcast signals, with a commercial agreement still to be formalised.",
+     "as_of": "2026-06", "date_precision": "month", "system": "ANGOSAT-2", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "ITWeb Africa reports that Angola's National Space Programme Management Office signed a commercial pilot agreement with Telecom Namibia to validate satellite-driven backhaul; the article gives no signing date, so the document's published date is used.",
+     "as_of": "2026-08-25", "date_precision": "day", "system": "ANGOSAT-2", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "ANGOSAT-2", "country_label": "ANGOSAT-2", "class": "shared", "platform": "satellite", "owner": "Angola (National Space Programme Management Office; MINTTICS announces)", "tiers": "Tmcel and Televisao de Mocambique (Mozambique) in proof-of-concept trials; Telecom Namibia under a pilot agreement"}
+  ],
+  "note": "Tmcel's proof-of-concept testing (announced 2026-08-25) is a trial toward a commercial agreement; the document states no service or traffic, so no service fact."
+}

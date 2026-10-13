@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The African Development Bank committed US$33.9 million in 2019 for the Chad component of the Trans-Saharan fibre backbone, installing 1,510 km of optical fibre across Niger and Chad, with one section in Chad; the record lists it as active with US$18.2 million disbursed and an end year of 2026, and states no start of works.", "as_of": "2019", "date_precision": "year", "system": "Trans-Saharan fiber optic backbone project (DTS)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Trans-Saharan fiber optic backbone project (DTS)", "country_label": "Chad component", "class": "shared", "platform": "optical fibre", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

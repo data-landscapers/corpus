@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-10-dare1-cable-extension-madagascar-2424",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "2424.mg reports, citing the timetable shared by Djibouti Telecom, a consortium member, that the DARE1 cable will be extended with a 3,200-3,500 km segment landing in Tanzania, Mozambique, Madagascar (Mahajanga and Toliara) and South Africa (Mtunzini), with works to start in 2026 and service in 2028; no signed agreement is described.",
+     "as_of": "2025-09-10", "date_precision": "day", "system": "DARE1 (Djibouti Africa Regional Express-1) extension", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "DARE1 (Djibouti Africa Regional Express-1) extension", "country_label": "DARE1", "class": "shared", "platform": "submarine cable", "owner": "DARE1 consortium including Djibouti Telecom", "tiers": ""}
+  ],
+  "note": ""
+}

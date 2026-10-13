@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-dare1-extension-kenya-south-africa-itweb",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "ITWeb Africa reports that the DARE1 cable system currently links Djibouti City with Bosaso and Mogadishu in Somalia and Mombasa in Kenya, with 36 Tbit/s over three fibre pairs (published 2025-09-01; no start date given in this document).", "as_of": "2025-09-01", "date_precision": "day", "system": "DARE1 (Djibouti Africa Regional Express 1)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "DARE1 (Djibouti Africa Regional Express 1)", "country_label": "DARE1", "class": "shared", "platform": "subsea cable, three fibre pairs, 36 Tbit/s", "owner": "Djibouti Telecom", "tiers": ""}
+  ],
+  "note": "Planned Mombasa-to-Mtunzini extension (start 2026, ready 2028) is announced by the company as a plan; no agreement stated, so no fact for it."
+}

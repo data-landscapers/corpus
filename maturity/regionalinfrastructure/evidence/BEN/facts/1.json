@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-wearetech-benin-nigeria-douanes-interconnexion",
+  "facts": [],
+  "systems": [
+    {"system": "Customs Declaration Exchange System (CDES)", "country_label": "CDES", "class": "other", "platform": "", "owner": "Benin and Nigeria customs administrations", "tiers": "customs"},
+    {"system": "Customs Webb", "country_label": "Customs Webb", "class": "other", "platform": "", "owner": "Benin customs", "tiers": "customs"}
+  ],
+  "note": "A customs data-exchange pilot between Benin and Nigeria (launched 2026-09-11) is a shared customs system, class other; no shared digital link or facility is described."
+}

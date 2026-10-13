@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-sadc-rtgs-kwanza-official",
+  "facts": [],
+  "systems": [
+    {"system": "SADC-RTGS", "country_label": "SADC real-time gross settlement (SADC-RTGS) system", "class": "other", "platform": "", "owner": "South African Reserve Bank, appointed by the SADC Committee of Central Bank Governors", "tiers": "central banks and participants in 15 SADC countries"}
+  ],
+  "note": "Regional payment settlement system: class other, held by the cross-border payments row; no digital link or facility of the shared class."
+}

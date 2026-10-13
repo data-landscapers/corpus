@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "The Central African Republic's and the DRC's digital ministers, meeting in Moscow on 8 October 2026, agreed on the need to carry out the CAR-DRC fibre-optic interconnection to reach the Moanda cable landing, with no timetable or financing agreement announced.",
+     "as_of": "2026-10-08", "date_precision": "day", "system": "CAR-DRC fibre-optic interconnection", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "Agence Ecofin describes the WACS submarine cable (in service 2012, South Africa to the UK) as serving several West and Southern African countries including the DRC, which lands at Moanda.",
+     "as_of": "2012", "date_precision": "year", "system": "West Africa Cable System (WACS)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "CAR-DRC fibre-optic interconnection", "country_label": "interconnexion par fibre optique RCA-RDC", "class": "shared", "platform": "terrestrial fibre", "owner": "", "tiers": "national ministries"},
+    {"system": "West Africa Cable System (WACS)", "country_label": "WACS", "class": "shared", "platform": "submarine cable, 14,530 km, landing at Moanda", "owner": "", "tiers": ""},
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "submarine cable, landing at Moanda; Airtel activated 200 Gbps in the DRC on 2025-12-18", "owner": "Meta and consortium", "tiers": ""}
+  ],
+  "note": ""
+}

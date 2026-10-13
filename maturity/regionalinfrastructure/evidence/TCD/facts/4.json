@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "none", "fact": "Connecting Africa reports the N'Djamena-Mbere fibre route to the Cameroon border is not yet started: the April 2025 Sotel-Airtel MoU was suspended by ARCEP over sovereignty clauses and must be revised before work can begin, and the government urged the operators on 9 February 2026 to restart talks.", "as_of": "2026-02-09", "date_precision": "day", "system": "N'Djamena-Mbere fiber-optic route", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "N'Djamena-Mbere fiber-optic route", "country_label": "N'Djamena-Mbere fiber-optic route", "class": "shared", "platform": "fibre optic", "owner": "Sotel and Airtel (MoU)", "tiers": ""}
+  ],
+  "note": ""
+}

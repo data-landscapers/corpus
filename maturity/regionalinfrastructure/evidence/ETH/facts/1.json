@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "La Nation reports that Djibouti Telecom, Ethio telecom and Sudatel signed a tripartite agreement in Djibouti on 4 February 2026 for the construction and maintenance of the Horizon cross-border terrestrial fibre link joining Djibouti, Ethiopia and Sudan.", "as_of": "2026-02-04", "date_precision": "day", "system": "Horizon", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "On Monday 7 September 2026 the three operators presented Horizon in Addis Ababa to hyperscalers, carriers and vendors in a pre-commercialisation phase, seeking partner interest and feedback before deployment and commercial launch; the document describes the infrastructure as future.", "as_of": "2026-09-07", "date_precision": "day", "system": "Horizon", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Horizon", "country_label": "Projet de fibre optique Horizon", "class": "shared", "platform": "terrestrial fibre optic, multi-terabit, redundant architecture", "owner": "Djibouti Telecom, Ethio telecom, Sudatel", "tiers": "international carriers, hyperscalers"}
+  ],
+  "note": ""
+}

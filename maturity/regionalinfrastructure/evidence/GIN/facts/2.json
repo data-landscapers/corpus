@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-17-natca-guinea-free-roaming",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Sierra Leone's regulator NatCA states that in November 2024 Guinea and Sierra Leone signed an agreement to interconnect their national internet backbone networks.", "as_of": "2024-11", "date_precision": "month", "system": "Guinea-Sierra Leone national backbone interconnection", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Guinea-Sierra Leone national backbone interconnection", "country_label": "interconnection of national internet backbone networks", "class": "shared", "platform": "", "owner": "Governments of Guinea and Sierra Leone", "tiers": ""}
+  ],
+  "note": ""
+}

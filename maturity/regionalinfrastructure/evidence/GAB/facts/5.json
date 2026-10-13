@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "Gabon and Equatorial Guinea signed a bilateral agreement on interconnection of fibre-optic networks at Mongomo on 10 November 2025, between the two countries' digital-economy ministers, reported by TechAfrica News.",
+     "as_of": "2025-11-10", "date_precision": "day", "system": "Gabon-Equatorial Guinea fibre-optic network interconnection", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Gabon-Equatorial Guinea fibre-optic network interconnection", "country_label": "interconnection of fibre-optic networks", "class": "shared", "platform": "fibre-optic", "owner": "Gabon and Equatorial Guinea digital-economy ministries; ARCEP, SPIN, ANINF, Moov Africa Gabon Telecom and Airtel Gabon took part in the technical work", "tiers": ""}
+  ],
+  "note": ""
+}

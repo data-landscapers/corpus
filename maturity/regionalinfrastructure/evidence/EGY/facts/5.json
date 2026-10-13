@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-22-telecom-egypt-pop-aqaba-digital-hub",
+  "facts": [],
+  "systems": [
+    {"system": "Coral Bridge", "country_label": "Coral Bridge", "class": "other", "platform": "15 km subsea cable Taba to Aqaba", "owner": "Telecom Egypt with NaiTel (Aqaba Digital Hub)", "tiers": ""}
+  ],
+  "note": "Egypt-Jordan link only; Jordan is not African, so class other and no fact."
+}

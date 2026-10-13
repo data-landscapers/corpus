@@ -1,0 +1,11 @@
+{
+  "slug": "2012-03-28-wb-gab-005-central-african-backbone-cab4-parent",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The World Bank (IBRD) approved on 2012-03-28 a US$58 million loan to Gabon for the Fourth Phase of the Central African Backbone Program, financing a terrestrial fibre backbone from Libreville through Franceville to the Congolese border.", "as_of": "2012-03-28", "date_precision": "day", "system": "Central African Backbone Program, Fourth Phase (CAB4), Gabon Project", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone Program, Fourth Phase (CAB4), Gabon Project", "country_label": "CAB4 Gabon", "class": "shared", "platform": "terrestrial fibre backbone", "owner": "Gabonese Republic (implementing agency CN-TIPPEE)", "tiers": ""},
+    {"system": "ACE Consortium membership", "country_label": "ACE cable", "class": "other", "platform": "submarine cable", "owner": "ACE Consortium", "tiers": ""}
+  ],
+  "note": ""
+}

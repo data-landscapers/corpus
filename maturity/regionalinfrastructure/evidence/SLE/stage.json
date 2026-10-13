@@ -1,0 +1,16 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "shared",
+   "stage": "2",
+   "built": "agreed",
+   "service": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-003;SLE-002",
+   "gaps": "No source held says building has started in the last three years.",
+   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-20-tan-ethio-telecom-horizon-fibre-corridor",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Tech Africa News reports that Ethio telecom has moved from planning into active deployment of the Horizon Fiber corridor linking Djibouti, Ethiopia, Sudan and Jeddah, with end-to-end architecture finalised and site-material procurement and delivery complete so physical deployment can proceed.", "as_of": "2026-08-20", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The document states a memorandum of understanding for Horizon Fiber was signed in Addis Ababa on 3 December 2024 and a binding agreement followed on 4 February 2026.", "as_of": "2026-02-04", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Horizon Fiber Initiative", "country_label": "Horizon Fiber", "class": "shared", "platform": "multi-terabit terrestrial fibre", "owner": "Ethio telecom with Djibouti Telecom and Sudatel", "tiers": "hyperscalers, global carriers"}
+  ],
+  "note": ""
+}

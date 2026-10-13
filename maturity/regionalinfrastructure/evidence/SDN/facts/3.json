@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-06-horizon-fiber-corridor-deal-itweb",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "The three operators signed a binding tripartite agreement to operationalise Horizon Fiber, a terrestrial fibre corridor from Djibouti's submarine cable gateways through Ethiopia to Sudan, signed at a ceremony in Djibouti; the document gives no day, so the published date is used.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Horizon Fiber",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon / Horizon Fiber Initiative",
+   "class": "shared",
+   "platform": "terrestrial optical fibre corridor",
+   "owner": "Djibouti Telecom, Ethio telecom and Sudatel Group",
+   "tiers": "operators; hyperscalers and carriers as prospective customers"
+  }
+ ],
+ "note": ""
+}

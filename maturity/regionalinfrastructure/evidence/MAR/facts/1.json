@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+  "facts": [],
+  "systems": [
+    {"system": "Morocco data centres (Casablanca)", "country_label": "8 data centres, primarily in Casablanca", "class": "other", "platform": "", "owner": "telcos and regional cloud integrators", "tiers": ""},
+    {"system": "Oracle Cloud Infrastructure, Casablanca", "country_label": "Oracle Cloud Infrastructure", "class": "other", "platform": "Oracle Cloud", "owner": "Oracle", "tiers": ""}
+  ],
+  "note": "Only national data centres and a cloud region in Morocco are named; no link or facility shared with another African country, and no other country using one, is stated."
+}

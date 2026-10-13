@@ -1,0 +1,18 @@
+{
+  "slug": "2026-01-01-xalam-congo-republic-data-center-market-briefing",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building",
+     "fact": "Xalam Analytics' January 2026 brief describes the Central African Backbone project as ongoing to expand Congo's fibre backbone, connecting to secondary towns and neighbouring countries; the brief gives no date for the work beyond its own January 2026 publication, taken as the date.",
+     "as_of": "2026-01", "date_precision": "month", "system": "Central African Backbone (CAB)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "Xalam Analytics' January 2026 brief states that submarine cables have been deployed across the Congo river to connect Brazzaville and Kinshasa (DRC); no date for the deployment is given, so the brief's January 2026 publication date is used.",
+     "as_of": "2026-01", "date_precision": "month", "system": "Congo river cables, Brazzaville-Kinshasa", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Central African Backbone project", "class": "shared", "platform": "terrestrial fibre", "owner": "", "tiers": ""},
+    {"system": "Congo river cables, Brazzaville-Kinshasa", "country_label": "Submarine cables across the Congo river", "class": "shared", "platform": "fibre cable", "owner": "", "tiers": ""},
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "submarine cable", "owner": "", "tiers": ""},
+    {"system": "Projet de Couverture Nationale", "country_label": "Projet de Couverture Nationale", "class": "other", "platform": "~3,000 km national terrestrial fibre", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

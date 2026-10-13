@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+STP,Africa Coast to Europe (ACE) optical fibre submarine cable,ACE,other,submarine fibre cable,ACE consortium; STP holds a stake via STP-Cabo SARL (government and CST),,2011-01-20-wb-stp-002-central-african-backbone-ace-cable
+STP,submarine cable to Príncipe,cabo submarino para Príncipe,other,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,government data centre,data centre do Governo,other,,INIC,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
+STP,Príncipe submarine cable,Principe submarine cable,other,,,,2025-10-20-world-bank-isr-digital-sao-tome-and-principe-seq7
+STP,ACE (Africa Coast to Europe) submarine cable,ACE cable,shared,optical fibre submarine cable,ACE consortium of 17 operators; STP held through STP-Cabo SARL,"national operators (CST, UNITEL) buy capacity",2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome
+STP,STP-Cabo SARL,STP-Cabo,shared,,"special purpose vehicle of the Government, CST and later UNITEL",,2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome
+STP,Internet Exchange Point (planned),IXP,other,,,dropped at the mid-term review as low priority,2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome
+STP,cabo submarino ACE,cabo submarino ACE,other,submarine cable,STP-Cabo SARL (State holds 25.5%),,2012-11-12-sao-tome-decreto-38-2012-concurso-segunda-licenca-stp-cabo-ace

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-24-tunisie-cable-medusa-operationnel",
+  "facts": [],
+  "systems": [
+    {"system": "MEDUSA submarine cable", "country_label": "câble MEDUSA", "class": "other", "platform": "submarine cable, four fibre pairs at 24 Tbps per pair, Bizerte landing station", "owner": "Orange Tunisie (Tunisian section and Bizerte station); built by Medusa Submarine Cable System", "tiers": ""},
+    {"system": "DIDON", "country_label": "câble DIDON", "class": "", "platform": "", "owner": "Orange Tunisie", "tiers": ""}
+  ],
+  "note": "MEDUSA in service on 2026-06-24, but the document says it links thirteen countries of southern Europe, North Africa and the Near East without naming another African country at an end; no shared-class fact."
+}

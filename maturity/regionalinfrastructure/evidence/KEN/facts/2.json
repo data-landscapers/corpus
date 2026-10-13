@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Kenya's ICTA and Tanzania's TTCL, with the two governments, launched at the Lunga Lunga/Horohoro border a cross-border project linking Kenya's National ICT Broadband Backbone and submarine cable infrastructure with Tanzania; the report gives no date for the event, so the report date is used, and states no traffic or commissioning.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Kenya-Tanzania terrestrial fibre link (NICTBB)",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya-Tanzania terrestrial fibre link (NICTBB)",
+   "country_label": "Terrestrial Fiber Link",
+   "class": "shared",
+   "platform": "",
+   "owner": "Kenya ICTA and TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

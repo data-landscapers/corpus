@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Angosat-2,Angosat-2,shared,high-throughput satellite platform,GGPEN (Angola),"Telecom Namibia (operator), targeting lodges, mines, schools, farms, businesses and rural communities","2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,SARSSy,Southern African Regional Submarine System,shared,submarine cable interconnecting with Equiano at Swakopmund,"Telecom Namibia, Angola Telecom, SATCAB",operators,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,Equiano,Equiano Cable System,shared,submarine cable,,Telecom Namibia provides Angola Telecom 1 Tbps,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,SARSSy,Southern African Regional Submarine System,shared,submarine cable system integrated with Equiano,"Telecom Namibia, Angola Telecom, SATCAB",operators; Angola Telecom equipment hosted in Telecom Namibia facilities,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+NAM,Equiano,Equiano Cable System,shared,submarine cable,,1.0 Tbps dedicated to Angola Telecom,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+NAM,Angosat-2,Angosat-2,shared,satellite platform,GGPEN (Angola),"Telecom Namibia, for remote and underserved areas",2026-06-12-namibia-angola-ink-satellite-deal-itweb
+NAM,Angosat-2,Angosat-2,shared,"high-throughput geostationary satellite, C, Ku and Ka band",Angola (GGPEN),"Telecom Namibia, for remote areas and backhaul",2025-10-14-namibia-taps-angosat-2-to-boost-connectivity

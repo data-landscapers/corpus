@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The column says Powertel and Paratus Zimbabwe formed an equal-investment PPP to build a DWDM fibre backhaul network across Zimbabwe delivering up to 10 Tbps of cross-border bandwidth linking Zimbabwe, Botswana and Zambia; it gives no agreement date, so the published date is used.", "as_of": "2026-09-12", "date_precision": "day", "system": "Powertel-Paratus Zimbabwe DWDM fibre backhaul", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service", "fact": "The column says the Powertel-Paratus network starts with an active 800 Gbps link between Plumtree and Bulawayo; it gives no date for it, so the published date is used, and it names no other country's traffic carried.", "as_of": "2026-09-12", "date_precision": "day", "system": "Powertel-Paratus Zimbabwe DWDM fibre backhaul", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "The column says TelOne has ongoing backbone capacity expansions along cross-border transit links such as Kazungula to Zambia/Botswana and Beitbridge to South Africa; no date is given, so the published date is used.", "as_of": "2026-09-12", "date_precision": "day", "system": "TelOne cross-border backbone expansions", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Powertel-Paratus Zimbabwe DWDM fibre backhaul", "country_label": "Powertel / Paratus Zimbabwe PPP", "class": "shared", "platform": "DWDM fibre", "owner": "Powertel and Paratus Zimbabwe", "tiers": ""},
+    {"system": "Liquid Intelligent Technologies fibre backbone", "country_label": "Liquid fibre backbone", "class": "shared", "platform": "terrestrial fibre, 26,000 km in Zimbabwe, linked to Liquid's regional cross-border network", "owner": "Liquid Intelligent Technologies", "tiers": ""},
+    {"system": "TelOne backbone", "country_label": "TelOne cross-border transit links", "class": "shared", "platform": "100G+ wavelengths", "owner": "TelOne", "tiers": ""},
+    {"system": "DFA Zimbabwe railway fibre backbone", "country_label": "DFA Zimbabwe", "class": "shared", "platform": "DWDM, 1,500 km Beitbridge-Bulawayo-Harare-Mutare", "owner": "DFA Zimbabwe with BCS Group and Dandemutande", "tiers": "local ISPs and mobile operators"},
+    {"system": "Google Umoja cable system", "country_label": "Umoja", "class": "", "platform": "overland terrestrial fibre", "owner": "Google", "tiers": ""},
+    {"system": "Zimbabwe Internet Exchange (ZINX)", "country_label": "ZINX", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

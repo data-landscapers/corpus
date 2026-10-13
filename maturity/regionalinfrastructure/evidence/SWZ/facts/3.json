@@ -1,0 +1,10 @@
+{
+  "slug": "2023-10-03-uasf-connectivity-programmes",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The Universal Access and Service Fund, with national backbone operator EPTC, set up an alternative route east connecting the national backbone via Maputo, Mozambique over the MOTRACO powerline fibre links, and the Fund procured the equipment needed to connect to that fibre; the page gives no date for this, so the page's published date is used.", "as_of": "2023-10-03", "date_precision": "day", "system": "Backbone Network project (MOTRACO powerline fibre route via Maputo)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Backbone Network project (MOTRACO powerline fibre route via Maputo)", "country_label": "Backbone Network", "class": "shared", "platform": "MOTRACO powerline fibre", "owner": "UASF with EPTC", "tiers": "national backbone, redundancy route to Maputo and onward to undersea cable at Cape Town"}
+  ],
+  "note": ""
+}

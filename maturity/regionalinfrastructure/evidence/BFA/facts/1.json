@@ -1,0 +1,17 @@
+{
+  "slug": "2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "Maroc Telecom's 5,700 km terrestrial cable from Morocco to Niger via Mauritania, Mali and Burkina Faso is recorded as completed with an end year of 2022, and enables Moov Africa's landlocked subsidiary in Burkina Faso to reach international bandwidth through the Maroc Telecom network (the document gives no date for entry into service beyond 2022 and its published date of 2022-01-01).",
+     "as_of": "2022", "date_precision": "year",
+     "system": "Maroc Telecom Transafrican Terrestrial Fibre Cable", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building",
+     "fact": "The document gives a start year of 2020 for Maroc Telecom's investment of about US$100 million (MAD 1 billion, estimated) in the terrestrial cable linking Morocco, Mauritania, Mali, Burkina Faso and Niger.",
+     "as_of": "2020", "date_precision": "year",
+     "system": "Maroc Telecom Transafrican Terrestrial Fibre Cable", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Maroc Telecom Transafrican Terrestrial Fibre Cable", "country_label": "Transafrican terrestrial cable", "class": "shared", "platform": "terrestrial fibre", "owner": "Maroc Telecom / Moov Africa", "tiers": "Moov Africa subsidiaries in Mauritania, Mali, Burkina Faso and Niger"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "Libya Herald reports that Libya's state telecoms holding company LPTIC inaugurated the 8,700 km Medusa submarine cable in Misrata on 10 May 2025, a system the article says connects Libya with Mediterranean countries including Morocco, Tunisia and Egypt.",
+     "as_of": "2025-05-10", "date_precision": "day", "system": "Medusa submarine cable", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "The article recalls that in November 2023 Libyan United International Company (LUIC) signed a contract to connect Libya to the Medusa submarine cable, a system it says links Libya with Morocco, Tunisia and Egypt among others.",
+     "as_of": "2023-11", "date_precision": "month", "system": "Medusa submarine cable", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Medusa submarine cable", "country_label": "Medusa", "class": "shared", "platform": "submarine cable, 8,700 km, landing at Misrata", "owner": "Libyan Post Telecommunications & Information Technology Company (LPTIC); LUIC signed the connection contract", "tiers": "national"}
+  ],
+  "note": ""
+}

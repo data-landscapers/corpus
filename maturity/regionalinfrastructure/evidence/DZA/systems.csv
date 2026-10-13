@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Trans-Saharan fibre-optic backbone,dorsale transsaharienne à fibre optique,shared,fibre-optic link,Algérie Télécom and Niger Télécom (built by both),national operators of Algeria and Niger,2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne
+DZA,Trans-Saharan fibre-optic backbone,dorsale transsaharienne à fibre optique,shared,fibre-optic link,,,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre
+DZA,Trans-Saharan fibre-optic backbone,projet d'interconnexion par fibre optique Niger-Algérie,shared,fibre-optic link,,,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez
+DZA,Trans-Saharan fibre-optic backbone,liaison transsaharienne en fibre optique Niger-Algérie,shared,fibre-optic link,,,2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka
+DZA,Liaison dorsale transsaharienne a fibre optique Algerie-Niger,Liaison dorsale transsaharienne a fibre optique Algerie-Niger,shared,"fibre optic, initial capacity 100 Gbit/s on the Agadez-Assamaka section",Algerie Telecom and Niger Telecom,"national backbone, cross-border Niger-Algeria",2026-09-09-lesahel-niger-telecom-algerie-telecom-skills-centers-partenariat
+DZA,Dorsale transsaharienne a fibre optique,dorsale transsaharienne a fibre optique,shared,,,Algeria-Niger,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
+DZA,Liaison de fibre optique transsaharienne,liaison strategique de fibre optique transsaharienne,shared,,,Algeria-Niger,2026-08-27-algatedz-algerie-niger-projets-transsahariens

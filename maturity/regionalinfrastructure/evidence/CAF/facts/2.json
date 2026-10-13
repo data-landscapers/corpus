@@ -1,0 +1,12 @@
+{
+  "slug": "2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "The African Development Bank release says CAR inaugurated its national fibre backbone on 6 February 2023: 935 km of terrestrial and under-river fibre installed and operating, interconnecting CAR with Cameroon (via Gamboula) and Congo (via Bomassa).",
+     "as_of": "2023-02-06", "date_precision": "day", "system": "Central African Backbone (CAB)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Dorsale à fibre optique d'Afrique centrale", "class": "shared", "platform": "terrestrial and under-river fibre optic", "owner": "CAR government, financed by the EU and the African Development Bank", "tiers": ""}
+  ],
+  "note": ""
+}

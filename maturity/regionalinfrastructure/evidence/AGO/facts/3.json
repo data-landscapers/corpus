@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "In November 2023 Paratus secured a US$31 million debt facility from EAIF and Ninety One financing a Luanda data centre and three terrestrial fibre routes, one of them Luanda-Lusaka-Dar es Salaam, so Angola, Zambia and Tanzania are named.", "as_of": "2023-11", "date_precision": "month", "system": "Paratus Luanda-Lusaka-Dar es Salaam fibre route", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Paratus Luanda-Lusaka-Dar es Salaam fibre route", "country_label": "Luanda-Lusaka-Dar es Salaam route", "class": "shared", "platform": "terrestrial fibre", "owner": "Paratus Group", "tiers": ""},
+    {"system": "Paratus Angola DC3", "country_label": "DC3, Luanda", "class": "other", "platform": "Tier IV data centre", "owner": "Paratus Angola", "tiers": ""}
+  ],
+  "note": ""
+}

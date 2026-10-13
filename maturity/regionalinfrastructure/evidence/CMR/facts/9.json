@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-16-cameroon-chad-digital-cooperation-agreement-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building",
+     "fact": "Cameroon and Chad's ministers concluded a four-day technical mission on 2025-05-16 that finalised, among other items, the imminent completion of the Nana-Mbere fibre optic section within fourteen days, with an action plan of targets through July 2025.",
+     "as_of": "2025-05-16", "date_precision": "day", "system": "Nana-Mbere fiber optic section", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Nana-Mbere fiber optic section", "country_label": "Nana-Mbere fiber optic section", "class": "shared", "platform": "fibre optic", "owner": "CAMTEL (Cameroon) and Sotel Tchad", "tiers": ""}
+  ],
+  "note": ""
+}

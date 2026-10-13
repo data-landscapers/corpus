@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,2Africa,2Africa,shared,submarine cable,Comores Cables (Comoros landing),,2026-01-01-comores-cables-technologies
+COM,EASSy,EASSy,shared,submarine cable,,,2026-01-01-comores-cables-technologies
+COM,FLY-LION3,FLY-LION3,shared,submarine cable,,,2026-01-01-comores-cables-technologies
+COM,Moroni IXP,IXP a Moroni,other,internet exchange point,Comores Cables,Comores Telecom and Yas Comores (local traffic only),2026-01-01-comores-cables-technologies
+COM,Comores Cables neutral data centre,data center neutre,other,data centre,Comores Cables,,2026-01-01-comores-cables-technologies

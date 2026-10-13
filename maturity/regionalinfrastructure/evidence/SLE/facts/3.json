@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-23-sogeb-leonecom-fibre-interconnection",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "SOGEB (Guinea) and Leoncom (Sierra Leone) signed an interconnection agreement in Conakry to link their national fibre networks at Pamelap on the border, with initial capacity of 42.5 Gbps and plans for 100 Gbps by 2026; the document gives no date for the signing, so its published date is used.", "as_of": "2025-06-23", "date_precision": "day", "system": "SOGEB-Leoncom fibre interconnection at Pamelap", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "SOGEB-Leoncom fibre interconnection at Pamelap", "country_label": "Guinea-Sierra Leone fibre interconnection", "class": "shared", "platform": "fibre optic, IP/MPLS", "owner": "SOGEB (Guinea); Leoncom (Sierra Leone)", "tiers": ""}
+  ],
+  "note": ""
+}

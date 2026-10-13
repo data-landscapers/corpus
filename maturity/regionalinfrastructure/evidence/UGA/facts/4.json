@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-05-horizon-fiber-binding-agreement-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Connecting Africa reports that in May 2025 Bayobab completed a fibre optic network linking Mombasa in Kenya to Kampala in Uganda.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Bayobab Mombasa-Kampala fibre network",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bayobab Mombasa-Kampala fibre network",
+   "country_label": "",
+   "class": "shared",
+   "platform": "fibre optic",
+   "owner": "Bayobab",
+   "tiers": ""
+  },
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "shared",
+   "platform": "terrestrial fibre",
+   "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+   "tiers": "Djibouti, Ethiopia, Sudan; Uganda not named"
+  }
+ ],
+ "note": "Horizon Fiber names no Uganda end; only the Bayobab Mombasa-Kampala mention is Uganda's."
+}

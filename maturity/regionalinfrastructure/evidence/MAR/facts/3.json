@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-26-nigeria-kenya-morocco-afcfta-adapt",
+  "facts": [],
+  "systems": [
+    {"system": "ADAPT (Africa Digital Access and Public Infrastructure for Trade)", "country_label": "ADAPT", "class": "other", "platform": "TWIN", "owner": "AfCFTA Secretariat with Tony Blair Institute, IOTA Foundation and World Economic Forum", "tiers": "national pilots in Kenya, Morocco and Nigeria"}
+  ],
+  "note": "ADAPT is a shared digital identity, payments and trade-data programme, not a fibre link, exchange point or data centre; no shared link or facility is stated."
+}

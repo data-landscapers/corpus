@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-11-tchadinfos-dts-degradations-site-bol",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Tchadinfos reports a ministry delegation inspected construction of the technical sites and fibre installation of the Trans-Saharan Backbone (DTS), which links Chad to the Mediterranean network via Niger; works launched in 2023 are slowed, and vandalism was found at the Bol site.", "as_of": "2026-01", "date_precision": "month", "system": "Dorsale Transsaharienne a fibre optique (DTS)", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "building", "fact": "Tchadinfos reports the DTS project has European Union financing of 29 million euros, and that its works began in 2023.", "as_of": "2023", "date_precision": "year", "system": "Dorsale Transsaharienne a fibre optique (DTS)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Dorsale Transsaharienne a fibre optique (DTS)", "country_label": "Dorsale Transsaharienne (DTS)", "class": "shared", "platform": "fibre optic", "owner": "Ministry of Telecommunications", "tiers": ""}
+  ],
+  "note": ""
+}

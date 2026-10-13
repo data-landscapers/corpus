@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-25-pida-eccas-data-centre-infrastructures-digital-economy",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "A PIDA project prospectus sponsored by the ECCAS Secretariat lists the Central African Republic among 11 countries in a USD 9m project to set up six new data centres (one in the CAR) and reinforce five others, to regionalize intra-ECCAS data exchange, showing 25% progress but project stage 'Project Definition'; the page carries no date of its own, so the published date is used.",
+     "as_of": "2026-08-25", "date_precision": "day",
+     "system": "Development of Data Centre Infrastructures Underpinning the Digital Economy", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Development of Data Centre Infrastructures Underpinning the Digital Economy", "country_label": "Development of Data Centre Infrastructures Underpinning the Digital Economy", "class": "shared", "platform": "", "owner": "ECCAS Secretariat (sponsor)", "tiers": ""}
+  ],
+  "note": ""
+}

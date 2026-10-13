@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-medusa-lands-in-bizerte",
+  "facts": [],
+  "systems": [
+    {"system": "Medusa Submarine Cable System", "country_label": "Medusa", "class": "other", "platform": "carrier-neutral submarine cable, 8,760 km, landing at Bizerte", "owner": "Medusa Submarine Cable System; hosted by Orange Tunisia; Tunisie Telecom a capacity user", "tiers": ""}
+  ],
+  "note": "Landing at Bizerte is stated; the document says the cable connects North Africa with Southern Europe and names no other African country at an end, so no shared-class fact."
+}

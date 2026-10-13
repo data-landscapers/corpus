@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The article says the six CEMAC countries, of which it names Chad as a landlocked market, are developing the Central African Backbone to interconnect their national fibre networks, backed by about $273 million from member states and development partners; it gives no date for the agreement or start of works, so the document's published date is used.", "as_of": "2026-08-27", "date_precision": "day", "system": "Central African Backbone (CAB)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Central African Backbone", "class": "shared", "platform": "national fibre networks interconnected", "owner": "CEMAC member states and development partners", "tiers": ""}
+  ],
+  "note": ""
+}

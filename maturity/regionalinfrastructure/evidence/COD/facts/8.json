@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-use", "fact": "Paratus said at the ITW and Datacloud Africa Conference that its 2,000 km Goma-to-Mombasa terrestrial fibre route, linking eastern DRC to Kenya via Kigali, Kampala and Nairobi, is live and carrying traffic.", "as_of": "2026-09-09", "date_precision": "day", "system": "G2M (Goma-to-Mombasa) fibre route", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "G2M (Goma-to-Mombasa) fibre route", "country_label": "G2M", "class": "shared", "platform": "terrestrial fibre", "owner": "Paratus Group", "tiers": "carriers, ISPs and enterprise customers"}
+  ],
+  "note": ""
+}

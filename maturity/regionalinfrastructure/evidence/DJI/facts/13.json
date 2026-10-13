@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-11-dcd-horizon-fiber-agreement",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Data Center Dynamics reports that Ethio Telecom, Djibouti Telecom and Sudatel signed an agreement under the Horizon Fiber Initiative, at an event in Djibouti the week before its 11 February 2026 article, to build a cross-border fibre network linking submarine cable landing stations in Djibouti, Ethiopia and Sudan.", "as_of": "2026-02", "date_precision": "month", "system": "Horizon Fiber", "class": "shared"},
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Data Center Dynamics reports the February 2026 agreement builds on a memorandum of understanding the three operators signed in Ethiopia in December 2024 on a secure alternative international route.", "as_of": "2024-12", "date_precision": "month", "system": "Horizon Fiber", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Horizon Fiber", "country_label": "Horizon Fiber Initiative", "class": "shared", "platform": "terrestrial optical fibre corridor", "owner": "Ethio Telecom, Djibouti Telecom, Sudatel Group", "tiers": "operators, enterprises, content providers, hyperscalers (intended)"}
+  ],
+  "note": ""
+}

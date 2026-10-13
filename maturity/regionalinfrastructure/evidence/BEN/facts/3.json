@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-02-afis-empreintes-digitales-sipao-cedeao",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière d'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "other", "platform": "", "owner": "ECOWAS, with Interpol support and EU funding", "tiers": "police"},
+    {"system": "Système automatisé d'identification par empreintes digitales et palmaires (AFIS)", "country_label": "AFIS", "class": "other", "platform": "", "owner": "Benin Republican Police", "tiers": "police"}
+  ],
+  "note": "A shared police information system is class other; no shared digital link or facility is described."
+}

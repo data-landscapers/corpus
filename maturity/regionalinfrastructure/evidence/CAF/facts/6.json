@@ -1,0 +1,10 @@
+{
+  "slug": "2018-07-17-caf-ami-pns-centrafrique-digitale-2025",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The Central African Republic's Ministry of Posts and Telecommunications states that the government received AfDB and European Union grants to cover the cost of the Central African Backbone (CAB) project, RCA component, whose aim is terrestrial fibre-optic interconnections between Central African countries; the notice gives no date for the grants, so the notice's published date of 2018-07-17 is used.", "as_of": "2018-07-17", "date_precision": "day", "system": "Dorsale à fibre optique d'Afrique Centrale (Central African Backbone, CAB), RCA component", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Dorsale à fibre optique d'Afrique Centrale (Central African Backbone, CAB), RCA component", "country_label": "Projet CAB - Composante RCA", "class": "shared", "platform": "terrestrial fibre-optic", "owner": "Ministry of Posts and Telecommunications, CAB coordination unit; financed by AfDB and European Union grants", "tiers": "national government"}
+  ],
+  "note": ""
+}

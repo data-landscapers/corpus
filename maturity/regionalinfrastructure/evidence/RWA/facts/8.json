@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-paratus-rwanda-afpif-2026",
+  "facts": [],
+  "systems": [
+    {"system": "G2M (Goma-to-Mombasa) fiber route", "country_label": "G2M", "class": "shared", "platform": "terrestrial fibre", "owner": "Paratus Group (Paratus Rwanda, Kenya, Uganda)", "tiers": "carriers, ISPs, enterprise customers"}
+  ],
+  "note": "G2M ends at Goma (DRC) and Mombasa (Kenya); Kigali is named only as a point on the route, so no fact is recorded for RWA."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-05-afdb-centre-formation-digitale-bangui",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "service", "value": "in-service",
+     "fact": "The African Development Bank says the Central African Backbone project closed in September 2023 having installed a 900 km national fibre backbone, with terrestrial optical interconnections to Cameroon and Congo, funded by EUR 17m from the EU, EUR 13m from the African Development Fund and EUR 4m from the Bank's Transition Support Facility.",
+     "as_of": "2023-09", "date_precision": "month", "system": "Central African Backbone (CAB)", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Projet dorsale à fibre optique d'Afrique centrale", "class": "shared", "platform": "terrestrial fibre optic, 11 technical sites, network operations centre in Bangui", "owner": "CAR government, financed by the EU and the African Development Bank", "tiers": ""}
+  ],
+  "note": ""
+}

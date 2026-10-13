@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-30-world-bank-eardip-isr-seq7",
+  "facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed",
+     "fact": "The World Bank's June 2026 status report on the Eastern Africa Regional Digital Integration Project lists as a key achievement the signing of the first cross-border digital connectivity MoU between Kenya and South Sudan, a model for the remaining bilateral MoUs; the signing date is not given, so the report's published date is used.",
+     "as_of": "2026-06-30", "date_precision": "day",
+     "system": "Kenya-South Sudan cross-border digital connectivity MoU", "class": "shared"}
+  ],
+  "systems": [
+    {"system": "Kenya-South Sudan cross-border digital connectivity MoU", "country_label": "Cross-border digital connectivity Memorandum of Understanding", "class": "shared", "platform": "", "owner": "Kenya and South Sudan governments under the World Bank-financed EARDIP", "tiers": ""}
+  ],
+  "note": "The first competitive tender for fibre deployment in South Sudan is only expected in the second half of 2026, so no building or service fact."
+}
