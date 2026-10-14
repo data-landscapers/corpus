@@ -1,0 +1,137 @@
+{
+ "id": "nationaldatacentres",
+ "study_file": "maturity-study-nationaldatacentres.md",
+ "subjects": [
+  "infra.store"
+ ],
+ "stage_topic": "infra.store",
+ "redraws": [
+  "infra.store--local-data-centre-capacity-national-providers"
+ ],
+ "carry": [
+  "infra.store--local-data-centre-capacity-national-providers"
+ ],
+ "carry_studies": [
+  "datacentres"
+ ],
+ "carry_map": {
+  "datacentres": {
+   "sub_indicator": "national",
+   "class": "datacentre",
+   "aspects": {
+    "centre": {
+     "to": "centre"
+    }
+   }
+  }
+ },
+ "token_ceiling": 15000000,
+ "terms": [
+  "data centre",
+  "data center",
+  "datacentre",
+  "datacenter",
+  "data centres",
+  "data centers",
+  "colocation",
+  "co-location",
+  "carrier-neutral",
+  "Tier III",
+  "Tier IV",
+  "Uptime Institute",
+  "cloud region",
+  "hyperscale",
+  "hyperscaler",
+  "centre de données",
+  "centres de données",
+  "centre de donnees",
+  "centro de dados",
+  "centros de dados",
+  "centro de datos",
+  "مركز بيانات",
+  "مركز البيانات",
+  "مراكز البيانات",
+  "مراكز بيانات",
+  "national data centre",
+  "national data center",
+  "government data centre",
+  "government data center",
+  "government cloud",
+  "sovereign cloud",
+  "national cloud",
+  "state data centre",
+  "datacenter national",
+  "centre national de données",
+  "cloud souverain",
+  "cloud national",
+  "nuvem soberana",
+  "nube soberana",
+  "سحابة حكومية",
+  "الحوسبة السحابية الحكومية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "national",
+   "label": "Nationally owned data centres for hire",
+   "subject": "infra.store",
+   "text": "Local data centre capacity (national providers): nationally owned data centres for hire",
+   "indicator_id": "infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire",
+   "class": "datacentre",
+   "norm_short": "The African Union's Data Policy Framework asks that national providers hold data centre capacity and that the state's sensitive data be hosted under national jurisdiction."
+  }
+ ],
+ "classes": [
+  "datacentre",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "centre",
+   "name": "In service, Tier III, and two of them",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "two",
+    "tier3",
+    "service"
+   ],
+   "values": [
+    "two",
+    "tier3",
+    "service",
+    "none"
+   ]
+  },
+  {
+   "key": "owner",
+   "name": "Owned in the country",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "national"
+   ],
+   "values": [
+    "national",
+    "foreign"
+   ]
+  },
+  {
+   "key": "state",
+   "name": "The state's data hosted nationally",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "hosted"
+   ],
+   "values": [
+    "hosted",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
