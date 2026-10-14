@@ -1,0 +1,103 @@
+{
+ "id": "exchangepoints",
+ "study_file": "maturity-study-exchangepoints.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--internet-exchange-points"
+ ],
+ "carry": [
+  "infra.connect--internet-exchange-points"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 35000000,
+ "terms": [
+  "internet exchange point",
+  "internet exchange points",
+  "internet exchange",
+  "exchange point",
+  "exchange points",
+  "IXP",
+  "IXPs",
+  "peering",
+  "KIXP",
+  "IXPN",
+  "NAPAfrica",
+  "JINX",
+  "CINX",
+  "DINX",
+  "GIXA",
+  "UIXP",
+  "RINEX",
+  "TunIXP",
+  "CAIX",
+  "SENIX",
+  "MozIX",
+  "point d'échange internet",
+  "points d'échange internet",
+  "point d'échange",
+  "points d'échange",
+  "ponto de troca de tráfego",
+  "pontos de troca de tráfego",
+  "ponto de troca de tráfego internet",
+  "نقطة تبادل الإنترنت",
+  "نقاط تبادل الإنترنت",
+  "نقطة تبادل الانترنت"
+ ],
+ "sub_indicators": [
+  {
+   "key": "exchange",
+   "label": "Exchange points keeping traffic local",
+   "subject": "infra.connect",
+   "text": "Internet exchange points: exchange points keeping traffic local",
+   "indicator_id": "infra.connect--internet-exchange-points-exchange-points-keeping-traffic-local",
+   "class": "exchange",
+   "norm_short": "The African Union's Digital Transformation Strategy and its African Internet Exchange System ask every country for an exchange point that keeps local traffic local and links to the region.",
+   "criteria": [],
+   "criteria_of": ""
+  }
+ ],
+ "classes": [
+  "exchange",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "exchange",
+   "name": "In service, with a content network, and growing",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "growing",
+    "content",
+    "service"
+   ],
+   "values": [
+    "growing",
+    "content",
+    "service",
+    "none"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "A second city or networks from abroad",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "wider"
+   ],
+   "values": [
+    "wider",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
