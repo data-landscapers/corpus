@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-13-techafricanews-morocco-nexus-ai-factory",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nexus AI Factory",
+      "country_label": "MAR",
+      "class": "other",
+      "platform": "HPC data center (planned)",
+      "owner": "Nexus Core Systems",
+      "tiers": ""
+    }
+  ],
+  "note": "Nexus AI Factory HPC data center is planned, phases from 2027; no in-service facility, ownership or state hosting stated."
+}

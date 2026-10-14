@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-25 Raxio launches CIV1 data centre in Abidjan (Cote d'Ivoire)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Group launched CIV1, a carrier-neutral data centre at VITIB near Abidjan, in September 2024, as reported by Data Center Dynamics.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Raxio CIV1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio CIV1 at VITIB (Abidjan area), launched September 2024, is described by Data Center Dynamics as a Tier III carrier-neutral facility; the basis of the Tier III claim is not stated.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Raxio CIV1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "CIV1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

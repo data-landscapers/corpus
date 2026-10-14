@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-17-raxio-data-sovereignty-mou-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio's CIV1 colocation facility in Abidjan was inaugurated in September 2024 and is in service, with the Ministry of Digital Transition signing an MoU to use it.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Raxio CIV1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Connecting Africa describes Raxio CIV1 in Abidjan as a Tier 3-certified carrier-neutral colocation facility (2,000 sq m, up to 800 racks, 3MW); certifier not named; as_of is the article date.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "Raxio CIV1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

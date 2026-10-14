@@ -1,0 +1,68 @@
+{
+ "slug": "2024-04-29-dcd-orange-huawei-cloud-services-egypt",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Orange Egypt recently inaugurated its data centre in the New Administrative Capital, contracted by ACUD, and that Orange's data centres offer colocation services to businesses (dated by the 2024-04-29 article, which gives no inauguration date).",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Orange Egypt New Administrative Capital data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Orange inaugurated a data centre in Alexandria in 2020 to host Orange Business Cloud, and that Orange's data centres offer colocation services to businesses.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Orange Egypt Alexandria data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Egypt New Administrative Capital data centre",
+   "country_label": "Orange Egypt New Administrative Capital data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Egypt Alexandria data centre",
+   "country_label": "Orange Egypt Alexandria data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Egypt Cairo data centre",
+   "country_label": "Orange Egypt Cairo data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Huawei Cloud services in Egypt via Orange",
+   "country_label": "Huawei Cloud services in Egypt via Orange",
+   "class": "other",
+   "platform": "",
+   "owner": "Huawei / Orange Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Business Cloud",
+   "country_label": "Orange Business Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Egypt / Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

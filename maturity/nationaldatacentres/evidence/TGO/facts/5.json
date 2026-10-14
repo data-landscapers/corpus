@@ -1,0 +1,26 @@
+{
+ "slug": "2021-07-12-tgo-rfi-lome-data-centre-mise-en-service",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "RFI reports Togo put Lomé Data Centre into service in May 2021, offered to companies, chiefly telecom operators, to host their servers and buy services from other customers on site, managed by Africa Data Centres for five years.",
+   "as_of": "2021-05",
+   "date_precision": "month",
+   "system": "Lomé Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

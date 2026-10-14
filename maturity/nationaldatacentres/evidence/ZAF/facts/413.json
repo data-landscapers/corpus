@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-19-digital-earth-africa-aws-satellite-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: AWS Africa (Cape Town) Region (Amazon Web Services Inc.), hyperscale, in service; this document names it (published 2026-08-19).",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "AWS Africa (Cape Town) Region"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

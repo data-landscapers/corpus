@@ -1,0 +1,14 @@
+{
+  "slug": "2025-02-12-malawi-dmap-tor-national-data-centre-managed-services",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "owner", "value": "national",
+     "fact": "The ToR says the Government of Malawi, through the Ministry of Information and Digitalization and the Department of e-Government, established the National Data Centre in Lilongwe, which will have 13 empty racks available for co-location; the document is dated January 2025 and gives no other date.",
+     "as_of": "2025-01", "date_precision": "month",
+     "system": "National Data Centre (Lilongwe)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "National Data Centre (Lilongwe)", "country_label": "Malawi", "class": "datacentre", "platform": "Nutanix NX-3460-G7 HCI", "owner": "Government of Malawi (Department of e-Government)", "tiers": "Tier-III (stated, not certified; expected fully operational March 2025)"},
+    {"system": "Disaster recovery data centre (Mandala, Blantyre)", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Government of Malawi (Department of e-Government)", "tiers": "Tier-III (stated)"}
+  ],
+  "note": "Opening is stated as expected March 2025 and hosting of ministries' data as future, so no service, tier3 or state fact is recorded."
+}

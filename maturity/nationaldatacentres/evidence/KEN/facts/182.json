@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-24-huawei-cloud-konza-cloud-stack-case",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "Huawei Cloud's customer case says Konza Technopolis has deployed a data center on Huawei Cloud Stack that serves more than 120 customers (75% governments, 25% private enterprises); the page is undated, so as_of is the 2025-07-24 capture date.", "as_of": "2025-07-24", "date_precision": "day", "system": "KONZA data center", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "Huawei Cloud states that with Huawei Cloud Stack, Konza has deployed a data center that meets Tier-III standards (operator/vendor statement, no certification body named); undated page, 2025-07-24 is the capture date.", "as_of": "2025-07-24", "date_precision": "day", "system": "KONZA data center", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "Huawei Cloud says KONZA is migrating government and public service systems to its unified cloud platform, which supports more than 70 key city services across government, healthcare and transportation; undated page, 2025-07-24 is the capture date.", "as_of": "2025-07-24", "date_precision": "day", "system": "KONZA data center", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "KONZA data center", "country_label": "KEN", "class": "datacentre", "platform": "Huawei Cloud Stack", "owner": "KONZA (Konza Technopolis); ownership not stated beyond the name", "tiers": "Tier III (stated by Huawei Cloud)"}
+  ],
+  "note": ""
+}

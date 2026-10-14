@@ -1,0 +1,76 @@
+{
+ "slug": "2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechMoonshot says Africa Data Centres (Liquid Intelligent Technologies) operates a 20.65 MW facility in Eko Atlantic City, Lagos, with 9,800 m2 of white space across 10 data halls; no date given, so the article's published date 2026-02-26 is used.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Africa Data Centres Eko Atlantic"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "TechMoonshot describes the Africa Data Centres (Liquid Intelligent Technologies) Eko Atlantic City facility in Lagos as a Tier III facility, without naming a certifier; no date given, so the article's published date 2026-02-26 is used.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Africa Data Centres Eko Atlantic"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kasi Cloud Lekki campus",
+   "country_label": "Kasi Cloud Lekki campus",
+   "class": "other",
+   "platform": "",
+   "owner": "Kasi Cloud Ltd (NSIA-backed)",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG3",
+   "country_label": "Equinix LG3",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos 24 MW facility",
+   "country_label": "OADC Lagos 24 MW facility",
+   "class": "other",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra by Airtel Lagos campus",
+   "country_label": "Nxtra by Airtel Lagos campus",
+   "class": "other",
+   "platform": "",
+   "owner": "Nxtra by Airtel",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty (Medallion)",
+   "country_label": "Digital Realty (Medallion)",
+   "class": "",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "21st Century Technologies facilities",
+   "country_label": "21st Century Technologies facilities",
+   "class": "",
+   "platform": "",
+   "owner": "21st Century Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

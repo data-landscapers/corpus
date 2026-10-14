@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-15-capital-ethiopia-cloud-251-launch-raxio-partnership",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Cloud 251, a local public cloud selling virtual machines in birr, officially launched with infrastructure it says is within Ethiopian borders, in partnership with Raxio Group.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "Cloud 251"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud 251",
+   "country_label": "Cloud 251",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cloud 251",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

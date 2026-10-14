@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio's 25 October 2023 release names Ivory Coast in its operating footprint of seven countries as a provider of carrier-neutral data centres; no facility named.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Data Centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centres",
+   "country_label": "Raxio Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

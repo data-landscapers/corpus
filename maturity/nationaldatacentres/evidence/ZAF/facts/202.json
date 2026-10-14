@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-14-digital-parks-africa-to-expand-campus-outside-johannesburg-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Parks Africa operates a data centre campus at Samrand/Centurion outside Johannesburg that currently offers over 1,620 sqm of dedicated whitespace and densities up to 15kW per rack, per DCD; a 4.5MW expansion is reported (date is the article's, as it gives none for the facility).",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Digital Parks Africa Samrand campus"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Parks Africa Samrand campus",
+   "country_label": "Samrand/Centurion data centre campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Parks Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

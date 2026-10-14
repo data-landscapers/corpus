@@ -1,0 +1,26 @@
+{
+ "slug": "2020-11-04-teraco-technical-specification-bredell-johannesburg-jb2",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco's JB2 Bredell technical specification (published 2020-11-04, no opening date given) describes an operating carrier- and cloud-neutral colocation data centre in Bredell, Johannesburg, one of seven Teraco regional data centres, with cabinet, cage and suite colocation.",
+   "as_of": "2020-11-04",
+   "date_precision": "day",
+   "system": "Teraco JB2 Bredell"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco JB2 Bredell",
+   "country_label": "Teraco JB2 Bredell",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco Data Environments (Pty) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

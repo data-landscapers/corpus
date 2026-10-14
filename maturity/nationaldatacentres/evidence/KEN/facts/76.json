@@ -1,0 +1,36 @@
+{
+ "slug": "2018-09-18-safaricom-thika-data-centre-gets-design-certification-from-us-it-firm",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Safaricom's Thika Data Center is its main data centre for colocation services, renting space and network to banks, telecoms and financial services firms (Capital FM, 18 Sept 2018).",
+   "as_of": "2018-09-18",
+   "date_precision": "day",
+   "system": "Safaricom Thika Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Safaricom's Thika Data Center, in service for colocation, received Uptime Institute Tier III Concurrently Maintainable Design Certification (design certification, not constructed-facility).",
+   "as_of": "2018-09-18",
+   "date_precision": "day",
+   "system": "Safaricom Thika Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Safaricom Thika Data Center",
+   "country_label": "Safaricom Thika Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

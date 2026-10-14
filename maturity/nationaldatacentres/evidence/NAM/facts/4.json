@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-15 Namibia encouraged by Angola on datacentre establishment",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITWeb Africa states Namibia already has commercial datacentres, including the Armada datacentre operated by Paratus (no event date given; article published 2026-06-15).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Armada"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Armada",
+   "country_label": "Armada datacentre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  },
+  {
+   "system": "Virtual Space Data Centre",
+   "country_label": "Virtual Space Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Airbus and Namibia University of Science & Technology",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre (planned)",
+   "country_label": "national datacentre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

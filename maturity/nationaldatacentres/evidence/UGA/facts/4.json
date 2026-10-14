@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14 Raxio raises data centre funding",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITWeb reports Raxio Group operates data centres in Uganda among other countries, as carrier-neutral colocation; no date of opening given, so the article's publication date is used.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio Uganda data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ITWeb reports all Raxio data centres, including Uganda's, are Tier III certified (certifying body not named); no date given, so the publication date is used.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio Uganda data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Uganda data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

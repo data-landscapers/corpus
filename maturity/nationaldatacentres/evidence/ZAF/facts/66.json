@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-23-techcentral-oadc-ntt-cleared-hdp-condition",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Open Access Data Centres (OADC, controlled by Wiocc) already operates data centres in Johannesburg, Durban and Cape Town offering colocation and connectivity services.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "Open Access Data Centres (OADC) Johannesburg, Durban, Cape Town"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC data centres (Johannesburg, Durban, Cape Town)",
+   "country_label": "OADC data centres (Johannesburg, Durban, Cape Town)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres (Wiocc Group)",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Data South Africa data centres (seven sites)",
+   "country_label": "NTT Data South Africa data centres (seven sites)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT Data South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-wingu-60m-rmb-funding-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Biometric Update, reporting Wingu Africa's announcement, says Wingu recently launched its second site in Djibouti, housing the country's first integrated cable landing station and data center; no launch date is given, so the publication date 2025-06-05 is used.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Wingu Africa second site, Djibouti"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa second site, Djibouti",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

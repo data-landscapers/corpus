@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "IXAfrica Data Centres' second Nairobi hyperscale facility (53 MW IT load, announced November 2024) was by March 2026 the home of Servernah Cloud, Kenya's first sovereign AI cloud platform, per TechTrends Africa; as_of is the March 2026 hosting, an in-service inference.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "IXAfrica Data Centres Nairobi facility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXAfrica Data Centres Nairobi facility",
+   "country_label": "IXAfrica Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "IXAfrica Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Servernah Cloud",
+   "country_label": "Servernah Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

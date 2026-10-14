@@ -1,0 +1,42 @@
+{
+ "slug": "2022-01-19-oracles-johannesburg-data-centre-goes-live",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITWeb reports Oracle officially opened its Johannesburg data centre on 19 January 2022; Oracle declined to disclose its location and size.",
+   "as_of": "2022-01-19",
+   "date_precision": "day",
+   "system": "Oracle Cloud Johannesburg Region"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Oracle Cloud Johannesburg Region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Oracle Cloud Infrastructure",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "Dimension Data data centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Dimension Data",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Data Environments",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-12-tunisie-telecom-data-center-carthage-iso-certifications",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Tunisie Telecom states its Carthage data centre, in service since 2014, is dedicated to colocation, cloud computing and cybersecurity services for businesses.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Data Center Carthage"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center Carthage",
+   "country_label": "Data Center Carthage",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

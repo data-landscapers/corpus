@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-13-uixp-2024-status-report",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Uganda Internet eXchange Point reports that, in its 2024 report, six networks are connected at the Raxio carrier neutral data center in Uganda, with another connecting soon, so the colocation facility is operating.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio carrier neutral data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio carrier neutral data center",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

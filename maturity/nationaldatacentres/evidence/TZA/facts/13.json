@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Daily News reports Wingu Africa launched Wingu Cloud Exchange (WCX), a locally hosted, carrier-neutral private cloud (compute, Kubernetes, security) sold to Tanzanian organisations from its Tanzanian facilities, priced in local currency; as_of is the publication date.",
+   "as_of": "2026-04-23",
+   "date_precision": "day",
+   "system": "Wingu Cloud Exchange (WCX)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Cloud Exchange (WCX)",
+   "country_label": "WCX",
+   "class": "datacentre",
+   "platform": "Wingu Compute, Kubernetes",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

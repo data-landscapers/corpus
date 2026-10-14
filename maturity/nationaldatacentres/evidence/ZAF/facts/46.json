@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-top500-june-2026-cassava-ai-factory-rank-36",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Africa Data Centres CPT1 (Cape Town - Elfindale) (Africa Data Centres (Cassava Technologies)), colocation/carrier-neutral, in service; this document names it (published 2026-06).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Africa Data Centres CPT1 (Cape Town - Elfindale)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

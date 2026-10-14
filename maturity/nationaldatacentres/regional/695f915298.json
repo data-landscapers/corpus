@@ -1,0 +1,24 @@
+{
+ "slug": "2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica",
+ "countries": {
+  "CMR": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Sovereign Government Cloud for Cameroon",
+     "country_label": "CMR",
+     "class": "other",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Ethio telecom to advise on architecture and deployment of a sovereign government cloud; planned, no facility in service stated."
+  },
+  "ETH": {
+   "facts": [],
+   "systems": [],
+   "note": "Only Ethio telecom's advisory role in Cameroon; no Ethiopian data centre stated."
+  }
+ }
+}

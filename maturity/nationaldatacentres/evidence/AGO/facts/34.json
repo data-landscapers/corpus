@@ -1,0 +1,36 @@
+{
+ "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio's release of 25 October 2023 names Angola in its operating footprint of carrier-neutral data centres.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Angola data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio, in its release of 25 October 2023, describes itself as a provider of carrier-neutral Tier III data centres and lists Angola in its operating footprint; operator statement, no certification named.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Angola data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Angola data centre",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

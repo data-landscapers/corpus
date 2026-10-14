@@ -1,0 +1,68 @@
+{
+ "slug": "2026-09-13-ifc-djibouti-country-private-sector-diagnostic",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The IFC/World Bank Group diagnostic states that Djibouti's commercial data centre infrastructure as of July 2025 included the Djibouti Data Center, predominantly owned by Djibouti Telecom, which became operational in 2013.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Djibouti Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The IFC/World Bank Group diagnostic states that a second commercial data centre went live in 2024 through a partnership between carrier-neutral provider Wingu and local telecom TO7; it hosts the AMS-IX exchange.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Wingu data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Data Center",
+   "country_label": "Djibouti Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Djibouti Telecom (predominantly)",
+   "tiers": ""
+  },
+  {
+   "system": "Wingu data center",
+   "country_label": "Wingu / TO7 facility",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu with TO7",
+   "tiers": ""
+  },
+  {
+   "system": "Ras Dika data center",
+   "country_label": "Djibouti Telecom Ras Dika facility",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": "under completion, not in service"
+  },
+  {
+   "system": "Afridata Park",
+   "country_label": "Afridata Park",
+   "class": "other",
+   "platform": "",
+   "owner": "local investors",
+   "tiers": "development, construction not started"
+  },
+  {
+   "system": "PAIX / Sovereign Wealth Fund data center",
+   "country_label": "PAIX data centre initiative",
+   "class": "other",
+   "platform": "",
+   "owner": "PAIX and Djibouti Sovereign Wealth Fund",
+   "tiers": "announced 2024, construction not started"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

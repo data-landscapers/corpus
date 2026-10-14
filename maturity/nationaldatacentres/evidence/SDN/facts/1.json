@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-07-port-sudan-digital-lifeline-cgtn",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Sudani's deputy director general says the company restored its core data centre, now fully operational and serving government bodies, private institutions and citizens; the article gives no date of restoration, so as_of is the article date.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "Sudani core data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "none",
+   "class": "datacentre",
+   "fact": "Sudani's deputy director general says the company lost its Tier-4 data centre that hosted state government and institutions, along with other assets, in damage exceeding USD 70 million; no date of loss is given, so as_of is the article date.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "Sudani Tier-4 data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudani core data centre",
+   "country_label": "core data center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sudani",
+   "tiers": ""
+  },
+  {
+   "system": "Sudani Tier-4 data centre",
+   "country_label": "Tier-4 data center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sudani",
+   "tiers": "Tier IV"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

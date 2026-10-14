@@ -1,0 +1,26 @@
+{
+ "slug": "2020-11-03-emtel-data-centre-arsenal-tia-942-rated-3",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The TIA register shows the Emtel Data Centre at Arsenal was awarded ANSI/TIA-942-B Constructed Facility Rating 3 (certification body EPI) on 24 Sep 2020; the certificate expired 23 Sep 2023 and the record shows status Expired with no renewal. The record does not say the facility rents space to others.",
+   "as_of": "2020-09-24",
+   "date_precision": "day",
+   "system": "Emtel Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Emtel Data Centre",
+   "country_label": "Emtel Data Centre (Arsenal)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Emtel",
+   "tiers": "TIA-942-B Rated 3 (expired 2023-09-23)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

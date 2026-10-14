@@ -1,0 +1,8 @@
+{
+  "slug": "2022-08-01-bnee-eies-datacenter-pk5-niamey",
+  "facts": [],
+  "systems": [
+    {"system": "National Datacenter, PK5, Niamey II", "country_label": "NER", "class": "other", "platform": "", "owner": "Ministere de la Poste et des Nouvelles Technologies de l'Information (project promoter; DTS project)", "tiers": ""}
+  ],
+  "note": "Environmental impact study for a planned national data centre at PK5 (2,300 m2, government zone plus commercial zone, designed to UPTIME specifications); a project not yet built, no in-service, tier, ownership or hosting statement."
+}

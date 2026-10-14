@@ -1,0 +1,26 @@
+{
+ "slug": "2020-12-03-public-information-summary-africa-data-centres-9000093563",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The DFC summary of a proposed loan to Africa Data Centres Holdings refers to its existing data center assets in Kenya (and South Africa) and to colocation services at its carrier-neutral data centers; it names no Kenyan facility and gives no event date, so its published date is used.",
+   "as_of": "2020-12",
+   "date_precision": "month",
+   "system": "Africa Data Centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres existing Kenya data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres Holdings Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

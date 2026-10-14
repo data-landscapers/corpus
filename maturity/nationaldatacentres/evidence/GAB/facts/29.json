@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-03-st-digital-iso-27001-certification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST Digital, a pan-African operator of data centres hosting banks, telecoms operators and public administrations, states that it has infrastructure deployed in Gabon among seven countries; the date is the blog's publication date.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "ST Digital Gabon data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ST Digital states that its constructed data centres across its seven countries including Gabon are Tier 3/TIA-942; the operator states this, and the Gabon facility is not named separately.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "ST Digital Gabon data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Gabon data centre",
+   "country_label": "ST DIGITAL sites in Gabon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "Tier 3/TIA-942 (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

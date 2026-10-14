@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-12-dcd-orange-business-grifols-egypt-acud-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Orange Business is providing colocation to Grifols Egypt for Plasma Derivatives through the ACUD commercial and telco data centre in the New Administrative Capital, which offers colocation and cloud hosting; the document gives no date for service start, so the article date is used.",
+   "as_of": "2024-09-12",
+   "date_precision": "day",
+   "system": "ACUD data centre, New Administrative Capital (Orange)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACUD data centre, New Administrative Capital",
+   "country_label": "ACUD data centre, New Administrative Capital",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Administrative Capital for Urban Development; Orange Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

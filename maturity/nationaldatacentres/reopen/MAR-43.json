@@ -1,0 +1,11 @@
+{
+  "slug": "2017-09-19-mcinet-maroc-datacenter-inauguration-temara",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The Ministry of Industry's page describes Medafrica Systems (Medasys) as a Moroccan multi-subsidiary company that inaugurated the Maroc Datacenter at Temara on 19 September 2017, a cloud platform on a '100% Moroccan site'; it calls the company Moroccan but gives no ownership shares, and says the project was initiated and funded in partnership with Morocco SME under the Imtiaz programme.", "as_of": "2017-09-19", "date_precision": "day", "system": "Maroc Datacenter", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Maroc Datacenter", "country_label": "MAR", "class": "datacentre", "platform": "cloud computing", "owner": "Medafrica Systems (Medasys), described as a Moroccan company", "tiers": "designed to Tier III"},
+    {"system": "Moroccan International Gateway Data Center", "country_label": "MAR", "class": "other", "platform": "", "owner": "planned joint venture of Medasys and Zircom Group (UK)", "tiers": ""}
+  ],
+  "note": "No state fact: public administrations are named only as intended customers, not as hosted in the centre."
+}

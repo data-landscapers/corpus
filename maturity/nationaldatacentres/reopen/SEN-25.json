@@ -1,0 +1,26 @@
+{
+ "slug": "2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Dakaractu quotes ADIE officials describing the Diamniadio data centre as the State's first data centre of this size, built by ADIE and due to be inaugurated 22 June 2021, open to the private sector as well as government.",
+   "as_of": "2021-06-21",
+   "date_precision": "day",
+   "system": "Diamniadio national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio national data centre",
+   "country_label": "SEN",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "No state-hosting fact: documents say it will host administration data (future tense), not that it does."
+}

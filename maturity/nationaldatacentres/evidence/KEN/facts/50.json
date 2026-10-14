@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "iColo's MBA1 and MBA2 data centers in Mombasa are operating and host the LINX Mombasa internet exchange, which LINX announced ready for business, with iColo's CEO saying it hosts LINX at those facilities (LINX, 2025-02-27, the document's published date).",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "iColo MBA1 and MBA2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo MBA1 and MBA2",
+   "country_label": "MBA1; MBA2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Mombasa",
+   "country_label": "LINX Mombasa",
+   "class": "other",
+   "platform": "Nokia switches",
+   "owner": "LINX",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

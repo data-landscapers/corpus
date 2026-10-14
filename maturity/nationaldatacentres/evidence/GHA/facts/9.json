@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-xalam-ghana-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates roughly 8-10 live commercial (colocation for third parties) data centre facilities in Ghana in 2025, with about 6.5 MW live critical IT load and about 80% of supply carrier-neutral; it names Equinix, Digital Realty, PAIX, ADC and MTN as active in Ghana but gives no per-facility opening dates.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ghana commercial data centres (unnamed facilities)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty ACR2",
+   "country_label": "ACR2",
+   "class": "other",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

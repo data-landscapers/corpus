@@ -1,0 +1,54 @@
+{
+ "slug": "2022-05-03-ecofin-telone-bulawayo-data-centre-inaugurated",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TelOne inaugurated a 120-rack, 400 kVA data centre in Bulawayo on 28 April 2022, offering hosting and disaster recovery hosting to banks, telecoms, companies and government customers.",
+   "as_of": "2022-04-28",
+   "date_precision": "day",
+   "system": "TelOne Bulawayo data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "TelOne describes its Bulawayo data centre as a Tier 3 designed facility with redundant power and cooling; stated by the operator, no Uptime Institute certification mentioned.",
+   "as_of": "2022-04-28",
+   "date_precision": "day",
+   "system": "TelOne Bulawayo data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TelOne opened a data centre at Mazowe, north of Harare, in March 2022.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "TelOne Mazowe data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne Bulawayo data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  },
+  {
+   "system": "TelOne Mazowe data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-24-independent-uganda-raw-data-refined-elsewhere",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Independent lists Raxio Data Centre in Namanve, outside Kampala, among the roughly four data centres currently in Uganda, and says a Tier III shortage exists; no facility is stated to be Tier III.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Raxio Data Centre (Namanve)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centre (Namanve)",
+   "country_label": "Raxio Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  },
+  {
+   "system": "MTN data centre",
+   "country_label": "MTN data centre",
+   "class": "",
+   "platform": "",
+   "owner": "MTN Uganda",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre (NITA-U)",
+   "country_label": "National Data Centre",
+   "class": "",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  },
+  {
+   "system": "Aeonian Project (Synectic Technologies)",
+   "country_label": "The Aeonian Project",
+   "class": "other",
+   "platform": "",
+   "owner": "Synectic Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

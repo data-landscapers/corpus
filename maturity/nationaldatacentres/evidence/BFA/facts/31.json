@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-31-bfa-anptic-g-cloud-projet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "G-Cloud",
+   "country_label": "BFA",
+   "class": "other",
+   "platform": "distributed private cloud",
+   "owner": "ANPTIC (state)",
+   "tiers": ""
+  }
+ ],
+ "note": "Project page of objectives and 2015-2019 build period; states no hosting of named state systems or facility in service."
+}

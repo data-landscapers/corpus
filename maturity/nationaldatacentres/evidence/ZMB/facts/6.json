@@ -1,0 +1,50 @@
+{
+ "slug": "2026-01-01-xalam-zambia-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 5 live commercial (third-party colocation) data centre facilities in Zambia in 2025, about 2MW live IT load and about 70% occupancy, including the Infratel-run National Data Centre and a Paratus facility run as carrier-neutral; brief dated January 2026.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Paratus facility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Zambia, run by Infratel",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus facility",
+   "country_label": "Paratus data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus (fibre infraco), run carrier-neutral",
+   "tiers": ""
+  },
+  {
+   "system": "Zambia National Data Centre (NDC)",
+   "country_label": "ZMB",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government (document says Infratel runs the government's national data center; ownership not otherwise stated)",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus facility (Zambia)",
+   "country_label": "ZMB",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "A fiber infraco (unnamed, nationality not stated); run as carrier-neutral",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

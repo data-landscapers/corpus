@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-04-mtn-nigeria-dabengwa-data-centre-240-million",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: MTN Business Kenya Data Centre (MTN Business Kenya), colocation/carrier-neutral, in service; this document names it (published 2025-07-04).",
+   "as_of": "2025-07-04",
+   "date_precision": "day",
+   "system": "MTN Business Kenya Data Centre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

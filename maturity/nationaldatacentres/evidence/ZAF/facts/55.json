@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-equinix-jn1-johannesburg-data-centre-page",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Equinix's product page presents its JN1 Johannesburg data centre as an operating colocation facility with 34,294 sq ft of space and security and compliance certifications; the page gives no opening date, so the date is the page's capture date.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Equinix JN1 Johannesburg"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix JN1 Johannesburg",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

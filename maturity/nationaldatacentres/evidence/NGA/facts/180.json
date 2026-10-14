@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-20-rack-centre-data-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Rack Centre, a carrier-neutral data centre operator hosting international, regional and local clients, operates its LGS1 facility (1.5MW installed) in Nigeria and has built and is commissioning the 12MW LGS2 facility in Lagos, per ThisDay on 2025-03-20; the article gives no opening date, so the as_of is its publication date.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "Rack Centre LGS1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Rack Centre states that its new LGS2 data centre in Nigeria (12MW IT power, six data halls, 3,240 sqm white space) is Tier III, an operator statement with no certifying body named; the facility is described as built and being commissioned, and the article's publication date is used as no other date is given.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "Rack Centre LGS2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS1",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre LGS2",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": "Tier III (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

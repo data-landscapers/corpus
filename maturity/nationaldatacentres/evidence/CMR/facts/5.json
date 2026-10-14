@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-25-businessincameroon-st-digital-unctad-wir-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST Digital launched Cloud Store Africa on 5 December 2023, offering web hosting, virtual servers, domains and email, all hosted on servers located in Cameroon, per ST Digital as reported by Business in Cameroon.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "Cloud Store Africa"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud Store Africa",
+   "country_label": "Cloud Store Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

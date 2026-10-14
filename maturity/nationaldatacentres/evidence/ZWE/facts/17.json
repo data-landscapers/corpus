@@ -1,0 +1,44 @@
+{
+ "slug": "2017-03-24-dcd-telone-huawei-two-data-centres-harare-mazoe",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TelOne and Huawei opened two colocation and cloud facilities, in Harare, 'open for business' per DCD on 2017-03-24 (publication date used, no other date given).",
+   "as_of": "2017-03-24",
+   "date_precision": "day",
+   "system": "TelOne Harare data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "DCD reports that the two new TelOne colocation and cloud facilities, in Harare and Mazoe, reportedly meet Tier III standards with 99.98 percent uptime; no certifying body is named (reported claim, not a stated certification).",
+   "as_of": "2017-03-24",
+   "date_precision": "day",
+   "system": "TelOne Harare and Mazoe data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne Harare data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Huawei",
+   "owner": "TelOne",
+   "tiers": "Tier III (reported)"
+  },
+  {
+   "system": "TelOne Mazoe data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Huawei",
+   "owner": "TelOne",
+   "tiers": "Tier III (reported)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

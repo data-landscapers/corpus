@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-03-st-digital-iso-27001-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ST DIGITAL",
+   "country_label": "COG",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier 3/TIA-942 (operator's own statement, group-wide)"
+  }
+ ],
+ "note": "Operator blog names Congo among seven countries but states nothing on ownership or on COG state systems hosted."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres' Nairobi announcement (November 2021) refers to its existing NBO1 facility at Sameer Industrial Park, Mombasa Road (7.5 MW), and calls ADC the largest data centre operator in Kenya.",
+   "as_of": "2021-11",
+   "date_precision": "month",
+   "system": "Africa Data Centres Nairobi NBO1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Nairobi NBO1",
+   "country_label": "NBO1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Nairobi NBO2",
+   "country_label": "NBO2",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Nairobi NBO3",
+   "country_label": "NBO3",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

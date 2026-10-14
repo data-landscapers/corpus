@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Nigeria's data centre industry has about 26 facilities, 18 of them commercial, with 50-56 MW live capacity and 124 MW installed, per the Nigerian Tribune report of 2026-07-10.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Nigerian commercial data centres"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Open Access Data Centres CEO Ayotunde Coker highlights the operator's Tier-III facilities in Nigeria; a statement by the operator, no certifier or facility named, article dated 2026-07-10.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "OADC"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AWS / Azure / Google Cloud",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

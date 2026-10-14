@@ -1,0 +1,44 @@
+{
+ "slug": "2024-05-01-rack-centre-spec-sheet",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Rack Centre's spec sheet describes its carrier-neutral Lagos facility LGS1 as an existing facility operating with zero downtime since inception in 2013, with 1.5 MW IT power and 34 standard cabinets in caged space; the sheet is dated 2024-05 (upload path), the operating start is 2013.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Rack Centre LGS1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Rack Centre states that LGS1 in Lagos is certified Tier III for Constructed Facility and Design Documents (TCCF and TCCD, Uptime Institute terms); the sheet gives no certification date and is dated 2024-05 (upload path), which is used as as_of.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Rack Centre LGS1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS1",
+   "country_label": "LGS1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": "Tier III (TCCD, TCCF)"
+  },
+  {
+   "system": "Rack Centre LGS2",
+   "country_label": "LGS2",
+   "class": "other",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": "under construction on the sheet"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

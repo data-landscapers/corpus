@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-31-digital-realty-opens-accra-data-center-graphic",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty commissioned ACR2 in Accra, described as Ghana's first and largest data center, supporting up to 1.7 MW of IT load and 500 racks for enterprises, cloud providers and financial institutions (Graphic Online, 31 October 2025).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "ACR2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACR2",
+   "country_label": "ACR2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

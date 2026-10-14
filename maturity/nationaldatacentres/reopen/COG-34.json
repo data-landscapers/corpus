@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARPCE Pointe-Noire Datacenter",
+   "country_label": "COG",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier 3+"
+  }
+ ],
+ "note": "Ministry says the data centre is housed in the new ARPCE building and 'will be able to host' public administration data; no ownership statement and no hosting actually stated."
+}

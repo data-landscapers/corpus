@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-minict-rwanda-ict-sector-strategic-plan-2024-2029",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The ministry's ICT Sector Strategic Plan lists, among the initiatives that improved local hosting, the introduction of the TransAfrica Communications (TrAC) data center in Rwanda; the document gives no opening date, so as_of is its published date 2025-01-01.",
+   "as_of": "2025-01-01",
+   "date_precision": "day",
+   "system": "TransAfrica Communications (TrAC) data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Center (NDC)",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

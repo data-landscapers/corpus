@@ -1,0 +1,52 @@
+{
+ "slug": "2006-09-03-hetzner-opens-its-second-data-centre-in-cape-town",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Hetzner (Pty) Ltd announced the opening of a new data centre in Cape Town, its third overall, selling managed hosting and co-location; the date is the article's archive date.",
+   "as_of": "2006-09-03",
+   "date_precision": "day",
+   "system": "Hetzner second Cape Town data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Hetzner's Gallo Manor, Johannesburg data centre opened in August 2005 and had reached 70 percent capacity, serving its co-location and managed hosting market.",
+   "as_of": "2005-08",
+   "date_precision": "month",
+   "system": "Hetzner Gallo Manor data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hetzner second Cape Town data centre",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Hetzner",
+   "tiers": ""
+  },
+  {
+   "system": "Hetzner Gallo Manor data centre",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Hetzner",
+   "tiers": ""
+  },
+  {
+   "system": "Hetzner first Cape Town data centre",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Hetzner",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

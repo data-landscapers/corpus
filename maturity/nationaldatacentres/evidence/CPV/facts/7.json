@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-01-nosi-operational-nucleus-information-society",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "NOSi, the state technology enterprise, operates secure data centres in Praia and Mindelo and offers cloud services to public and private entities; the document gives only its publication year (2024) as the date.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NOSi Government Data Center (Praia and Mindelo)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi Government Data Center (Praia, with disaster recovery site in Mindelo)",
+   "country_label": "Government Data Center / National Data Center",
+   "class": "datacentre",
+   "platform": "Huawei government cloud, 'One Cloud, One Lake, One Platform'",
+   "owner": "NOSi, E.P.E.",
+   "tiers": "described as Tier-III equivalent (no certification stated)"
+  },
+  {
+   "system": "RTPE (State's Private Technological Network)",
+   "country_label": "RTPE",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

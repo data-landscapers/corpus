@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-13-mascom-tier-iii-data-centre-market-shift",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Mascom's Innovation Centre data centre is open to external customers and sells colocation, cloud, IaaS, disaster recovery and managed services, per Mascom's CEO; no opening date given, article dated 2026-07-13.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Mascom Innovation Centre data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Mascom's CEO states the Mascom Innovation Centre data centre is Tier III certified internationally (operator statement; certifier not named); article dated 2026-07-13.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Mascom Innovation Centre data centre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Connecting Africa reports that Wingu Africa, a colocation, IaaS and CaaS provider, operates a Dar es Salaam facility in Tanzania whose second phase, tripling capacity, is in progress; no opening date is given, so the article's publication date is used.",
+   "as_of": "2025-06-06",
+   "date_precision": "day",
+   "system": "Wingu Dar es Salaam data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Dar es Salaam data centre",
+   "country_label": "Wingu Africa Dar es Salaam facility",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

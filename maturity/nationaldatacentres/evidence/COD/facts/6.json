@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Ecofin (19 May 2026) says WIOCC, through its open-access data centre arm OADC, operates data centres in the DRC, with Kinshasa among its sites in 2024 energy figures; no facility name, tier or capacity for the DRC alone is given.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "WIOCC/OADC Kinshasa data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WIOCC/OADC Kinshasa data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "WIOCC / OADC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

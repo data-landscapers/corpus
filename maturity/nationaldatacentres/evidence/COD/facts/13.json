@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-03-raxio-drc-uptime-tier-iii-tccf",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio Group announced on 3 February 2025 that its 1.5 MW data centre in Kinshasa, DRC, achieved Uptime Institute Tier Certification of Constructed Facility (Tier III) after a four-day on-site audit; it is Raxio's third Tier III-certified facility.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "Raxio Kinshasa data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Kinshasa data centre",
+   "country_label": "Raxio DRC data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (Uptime TCCF)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

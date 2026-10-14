@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "Sonatel (Orange Business Sénégal) launched the first AWS Wavelength zone in West Africa inside Sonatel's data centre in Senegal, with Orange Business Sénégal selling AWS cloud services to outside customers; pilot customers (CTISN, Swarmio) tested it first.", "as_of": "2025-04-24", "date_precision": "day", "system": "Sonatel Datacenter (AWS Wavelength zone)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Sonatel Datacenter (AWS Wavelength zone)", "country_label": "SEN", "class": "datacentre", "platform": "AWS Wavelength", "owner": "Sonatel", "tiers": ""}
+  ],
+  "note": "No owner, tier or state-hosting fact: the document gives no ownership status, tier rating, or government systems hosted (CTISN is a microfinance IT centre)."
+}

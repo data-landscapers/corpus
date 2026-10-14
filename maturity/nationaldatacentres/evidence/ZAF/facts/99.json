@@ -1,0 +1,50 @@
+{
+ "slug": "2023-11-15-africa-data-centres-to-open-new-cape-facility-in-q1",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres, a carrier-neutral colocation provider, has three South African data centres already established: Midrand (JHB1), Centurion (JHB2) and Elfindale, Cape Town (CPT1); its fourth, CPT2, is not yet open (document published 2023-11-15, no other date given).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres JHB1",
+   "country_label": "Africa Data Centres JHB1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres JHB2",
+   "country_label": "Africa Data Centres JHB2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "Africa Data Centres CPT1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT2",
+   "country_label": "CPT2",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

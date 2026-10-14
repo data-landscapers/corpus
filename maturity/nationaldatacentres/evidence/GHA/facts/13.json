@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates Ghana had about 8-10 live commercial (colocation) data centre facilities in 2024 with 4.8 MW of live critical IT load, about 70% of it carrier-neutral; the text names no individual facility.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Ghana commercial data centres (unnamed)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Realty / Equinix / PAIX / Africa Data Centres / MTN",
+   "country_label": "Digital Realty / Equinix / PAIX / Africa Data Centres / MTN",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

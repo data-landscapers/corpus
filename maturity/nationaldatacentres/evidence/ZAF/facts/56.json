@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechCentral describes Teraco, owned by Digital Realty, as South Africa's largest data centre operator with nearly 190MW of IT load, its Isando campus being the largest at 70MW.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "Teraco Isando"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando campus",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Waterfall campus",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage Data Centers",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

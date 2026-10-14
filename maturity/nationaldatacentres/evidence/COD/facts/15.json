@@ -1,0 +1,54 @@
+{
+ "slug": "2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Communications Africa reports Raxio Group launched Raxio DRC1 in Kinshasa, described as the DRC's largest data centre (US$30m investment).",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Raxio DRC1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Communications Africa states Raxio DRC1 in Kinshasa has Tier III accreditation from the Uptime Institute.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Raxio DRC1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "Communications Africa states two Tier-III data centres opened in Kinshasa in August 2024: Raxio DRC1 and OADC Texaf Digital.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Raxio DRC1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Uptime Institute Tier III"
+  },
+  {
+   "system": "OADC Texaf Digital",
+   "country_label": "OADC Texaf Digital",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

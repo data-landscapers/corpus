@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-22-cable-wireless-inaugurates-state-of-the-art-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Cable & Wireless Seychelles inaugurated its Bon Espoir Data Centre on Friday 2024-11-15 (inferred from the 2024-11-22 article); the free lede does not say whether space is rented to others.",
+   "as_of": "2024-11-15",
+   "date_precision": "day",
+   "system": "Bon Espoir Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bon Espoir Data Centre",
+   "country_label": "Bon Espoir Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cable & Wireless Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

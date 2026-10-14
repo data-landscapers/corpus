@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,national,centre,coverage,tier3,2025-06-30,NAM-006;NAM-011;NAM-013,NAM-008=service;NAM-001=service;NAM-009=service;NAM-002=service;NAM-003=service;NAM-010=service;NAM-004=service;NAM-012=service;NAM-005=service;NAM-007=service,
+NAM,national,owner,coverage,,,,,nothing held
+NAM,national,state,coverage,,,,,nothing held

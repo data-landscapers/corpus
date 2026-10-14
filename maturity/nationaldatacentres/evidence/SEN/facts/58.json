@@ -1,0 +1,26 @@
+{
+ "slug": "2021-07-07-sonatel-group-annual-report-2020",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers.",
+   "as_of": "2019-12",
+   "date_precision": "month",
+   "system": "Sonatel Rufisque Datacenter"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sonatel Rufisque Datacenter",
+   "country_label": "Rufisque Datacenter",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sonatel",
+   "tiers": "Tier III Design and Constructed Facility (Uptime Institute)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

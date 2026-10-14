@@ -1,0 +1,36 @@
+{
+ "slug": "2022-01-04-sbc-airtel-perseverance-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Airtel Seychelles recently opened its Perseverance data centre and invites local and international companies to co-locate equipment there; the document is dated 2022-01-04 and gives no opening date.",
+   "as_of": "2022-01",
+   "date_precision": "month",
+   "system": "Airtel Seychelles Perseverance data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The operator, Airtel Seychelles, describes its newly opened Perseverance data centre as tier-three (operator statement, no Uptime or TIA-942 certification named); the document is dated 2022-01-04 and gives no opening date.",
+   "as_of": "2022-01",
+   "date_precision": "month",
+   "system": "Airtel Seychelles Perseverance data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Seychelles Perseverance data centre",
+   "country_label": "data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Airtel Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-29-caf-journaldebangui-touadera-amini-ia-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "Centre National de Données (planned under CCIS-AMINI MoU)", "country_label": "CAF", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The MoU between CCIS and AMINI (2026-09-29 report) only provides for creating a National Data Centre; planned, not in service, so no fact."
+}

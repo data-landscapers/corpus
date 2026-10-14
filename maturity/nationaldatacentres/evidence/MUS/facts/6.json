@@ -1,0 +1,118 @@
+{
+ "slug": "2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Telecom Review Africa says 10 data centres are operating in Mauritius across Port Louis, Reduit, Arsenal, Quatre Bornes and Rose Belle, including Rogers Capital's co-location sites and the Bhumishq carrier-neutral facility; no opening dates given, so dated to the article.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Rogers Capital Port Louis Data Center; Bhumishq Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Harel Mallac Technologies Data Center in Port Louis is described as a Tier III data center among the 10 operating; the article gives no certifier, and no date beyond its own.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Harel Mallac Technologies Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "The article names two operating Mauritian data centres as Tier III or IV, Harel Mallac Technologies (Tier III) and Bhumishq (Tier IV-designed), without naming a certifier.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "Harel Mallac Technologies Data Center; Bhumishq Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Aphelion DC3",
+   "country_label": "Aphelion DC3",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Aphelion",
+   "tiers": ""
+  },
+  {
+   "system": "Rogers Capital Port Louis Data Center",
+   "country_label": "Rogers Capital Port Louis Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rogers Capital",
+   "tiers": ""
+  },
+  {
+   "system": "Harel Mallac Technologies Data Center",
+   "country_label": "Harel Mallac Technologies Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Harel Mallac Technologies",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Rogers Capital La Tour Koenig Data Center",
+   "country_label": "Rogers Capital La Tour Koenig Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rogers Capital",
+   "tiers": ""
+  },
+  {
+   "system": "Rogers Capital Les Cascades Data Center",
+   "country_label": "Rogers Capital Les Cascades Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rogers Capital",
+   "tiers": ""
+  },
+  {
+   "system": "Bhumishq Data Center",
+   "country_label": "Bhumishq Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Bhumishq",
+   "tiers": "Tier IV-designed"
+  },
+  {
+   "system": "Rogers Capital Ebene Data Center",
+   "country_label": "Rogers Capital Ebene Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rogers Capital",
+   "tiers": ""
+  },
+  {
+   "system": "Emtel Data Center",
+   "country_label": "Emtel Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Emtel",
+   "tiers": ""
+  },
+  {
+   "system": "BIRGER Candos Recovery Center",
+   "country_label": "BIRGER Candos Recovery Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BIRGER",
+   "tiers": ""
+  },
+  {
+   "system": "Rose Belle Data Center",
+   "country_label": "Rose Belle Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

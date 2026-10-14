@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Connecting Africa reports that the state-owned SIN operates the Lomé Data Centre, where SIN and ST Digital are launching private cloud services, with SIN's director saying firms can rent half or full racks for data hosting; date is the article's, as it gives no opening date.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "Lomé Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Connecting Africa describes the SIN-operated Lomé Data Centre as a Tier III-certified facility, without naming the certifying body; date is the article's.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "Lomé Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Centre (LDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN), state-owned",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

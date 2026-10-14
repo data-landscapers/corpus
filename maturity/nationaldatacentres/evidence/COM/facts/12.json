@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-12-cctld-km-transfer-anaden-registry-lagazette",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center de l'Administration Publique", "country_label": "COM", "class": "other", "platform": "government data centre", "owner": "run jointly by ANADEN and Comores Cable (ownership not stated)", "tiers": ""}
+  ],
+  "note": "The government data centre is in service but the document does not say it rents space or computing to others, and the .km registry data is only to be moved there later; no centre, owner or state fact stated."
+}

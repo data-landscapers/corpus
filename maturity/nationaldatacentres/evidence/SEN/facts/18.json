@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-20-dcd-onix-data-centres-dakar-2africa-cls-colocation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Onix launched a neutral colocation data center at the 2Africa cable landing station in Dakar on 16 February 2023, per Onix's CEO.",
+   "as_of": "2023-02-16",
+   "date_precision": "day",
+   "system": "Onix Data Centre Dakar (2Africa CLS)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Data Centre Dakar (2Africa CLS)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix Data Centres (partner La Colombe Group)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

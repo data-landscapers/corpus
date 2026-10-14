@@ -1,0 +1,42 @@
+{
+ "slug": "2025-08-12-teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco, a carrier-neutral colocation provider, announced on 12 August 2025 completion of the 30MW JB4 expansion at its Bredell Campus, Ekurhuleni, taking JB4 to 50MW of critical IT load across six new data halls.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "Teraco JB4"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco JB4",
+   "country_label": "Teraco JB4",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco JB5",
+   "country_label": "Teraco JB5",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco JB1/JB2/JB3, CT1/CT2, DB1",
+   "country_label": "Teraco JB1/JB2/JB3, CT1/CT2, DB1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

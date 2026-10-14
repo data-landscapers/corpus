@@ -1,0 +1,44 @@
+{
+ "slug": "2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Medallion Communications, a carrier-neutral data centre operator, set up its Lagos (Victoria Island) interconnect exchange and data centre in December 2006, hosting about 90 carriers, ISPs and content providers, per Tech Africa.",
+   "as_of": "2006-12",
+   "date_precision": "month",
+   "system": "Medallion Lagos data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Medallion Communications opened its Abuja data centre in December 2011, per Tech Africa.",
+   "as_of": "2011-12",
+   "date_precision": "month",
+   "system": "Medallion Abuja data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medallion Lagos data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medallion Communications (controlling stake acquired by Interxion/Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Medallion Abuja data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medallion Communications",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

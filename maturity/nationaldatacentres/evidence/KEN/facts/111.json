@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-27-kenya-regional-data-hub-bcg-report",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Star reports that, per officials, Kenya already hosts major carrier-neutral and enterprise data centres operated by iXAfrica, Africa Data Centres, Safaricom and Liquid Intelligent Technologies; no date given, so as_of is the article's 2026-07-27 publication date.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "iXAfrica; Africa Data Centres; Safaricom; Liquid Intelligent Technologies data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Oracle cloud region Kenya",
+   "country_label": "",
+   "class": "other",
+   "platform": "Oracle Cloud",
+   "owner": "Oracle",
+   "tiers": "being established, not live"
+  },
+  {
+   "system": "iXAfrica",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Konza National Data Centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

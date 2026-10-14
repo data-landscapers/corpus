@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-15-btw-adex-technology-adexcloud-algeria-profile",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ADEX data centre",
+      "country_label": "DZA",
+      "class": "datacentre",
+      "platform": "ADEXCLOUD",
+      "owner": "ADEX Technology",
+      "tiers": "Tier II-ready"
+    }
+  ],
+  "note": "No owner or state fact: ADEX is said to operate its own centre but its ownership by DZA people or the state is not stated; government agencies are named only as target customers, not as hosted."
+}

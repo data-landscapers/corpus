@@ -1,0 +1,26 @@
+{
+ "slug": "2020-07-11-camtel-s-data-center-compliant-with-modern-standards-news-upfront",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Camtel's Zamengoe Data Center (five buildings, 3,019 m2, 400 m2 server room) was stated operational at the Minister's visit of 10 July 2020, with a good number of operators already holding space there and more available.",
+   "as_of": "2020-07-10",
+   "date_precision": "day",
+   "system": "Camtel Data Center, Zamengoe"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel Data Center, Zamengoe",
+   "country_label": "Camtel Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

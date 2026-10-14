@@ -1,0 +1,36 @@
+{
+ "slug": "2021-03-04-aiim-onix-acquires-ngoya-etix-dc-ghana",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "AIIM and the Onix DC management team acquired 100% of Ngoya Etix DC (Ghana) Ltd, a carrier-neutral colocation data centre in Greater Accra with 170 racks, to be renamed Onix Accra #1, providing space, power, cooling and connectivity to customers; as_of is the article date, 4 March 2021.",
+   "as_of": "2021-03-04",
+   "date_precision": "day",
+   "system": "Onix Accra #1 (Ngoya Etix DC)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The release states Onix Accra #1 (Ngoya Etix DC), operated by Onix Data Centres, is the only Tier IV data centre in Ghana, a claim by the acquirer and operator with no Uptime Institute certificate cited; as_of is the article date, 4 March 2021.",
+   "as_of": "2021-03-04",
+   "date_precision": "day",
+   "system": "Onix Accra #1 (Ngoya Etix DC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Accra #1 (Ngoya Etix DC)",
+   "country_label": "Ngoya Etix DC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix Data Centres (AIIM AIIF3)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

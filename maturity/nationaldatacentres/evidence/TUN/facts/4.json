@@ -1,0 +1,17 @@
+{
+ "slug": "2014-08-01-zte-technologies-tunisie-telecom-cto-interview",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Tunisie Telecom Carthage Data Center (Tunisie Telecom), colocation/carrier-neutral, in service; this document names it (published 2014-08-01).",
+   "as_of": "2014-08-01",
+   "date_precision": "day",
+   "system": "Tunisie Telecom Carthage Data Center"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

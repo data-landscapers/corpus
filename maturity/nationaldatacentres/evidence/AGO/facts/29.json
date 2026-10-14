@@ -1,0 +1,36 @@
+{
+ "slug": "2023-06-26-paratus-angola-tier-iv-data-centre-announcement",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Paratus states it already owns and operates two carrier-neutral data centres in Angola (the new Luanda one would be its third), as of its 26 June 2023 announcement; the two are not named.",
+   "as_of": "2023-06-26",
+   "date_precision": "day",
+   "system": "Paratus Angola data centres (two existing)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Paratus states its two existing Angola data centres are Tier-III by design and certified, carrier-neutral (operator statement, no Uptime Institute certificate cited); the facilities are not named.",
+   "as_of": "2023-06-26",
+   "date_precision": "day",
+   "system": "Paratus Angola data centres (two existing)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Luanda Tier-IV data centre (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": "Tier IV by design, to be constructed; over 10 MW"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

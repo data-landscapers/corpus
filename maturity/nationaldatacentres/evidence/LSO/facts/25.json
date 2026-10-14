@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-lca-rfp-dr-site-it-equipment",
+  "facts": [],
+  "systems": [
+    {"system": "LCA Disaster Recovery Site", "country_label": "LSO", "class": "other", "platform": "", "owner": "Lesotho Communications Authority", "tiers": ""}
+  ],
+  "note": "RFP for IT equipment for the regulator's own DR site at LCA premises; not a data centre for hire and no state hosting stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "N+ONE DATACENTERS, described as an African data centre owner and operator, is stated to have built market-leading facilities and existing campuses in Morocco serving customers, per the AIIM release on its USD 90 million joint venture; the facilities are not individually named and the document gives no opening date, so the date is the publication date.",
+   "as_of": "2023-08-01",
+   "date_precision": "day",
+   "system": "N+ONE DATACENTERS Morocco campuses"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+ONE DATACENTERS Morocco campuses",
+   "country_label": "MAR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+ONE DATACENTERS",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

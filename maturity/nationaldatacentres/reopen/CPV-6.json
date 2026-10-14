@@ -1,0 +1,15 @@
+{
+ "slug": "2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado",
+ "facts": [
+  {"sub_indicator": "national", "aspect": "owner", "value": "national", "class": "datacentre",
+   "fact": "The Prime Minister inaugurated the new Data Center (Centro de Dados) 'do Estado' of Cabo Verde on 29 July 2015 (publication date, no other given); the document calls it the State's data centre, with NOSI, the government's e-governance body, explaining it, and says it can offer storage, processing and website hosting to national and international institutions.",
+   "as_of": "2015-07-29", "date_precision": "day", "system": "Praia state data centre (Data Center do Estado de Cabo Verde)"},
+  {"sub_indicator": "national", "aspect": "state", "value": "hosted", "class": "datacentre",
+   "fact": "The document states the new State Data Center is the nerve centre of all Government communication, of the e-governance platform and of all public administration services, storing and processing their data; it is run by NOSI. Event date taken from the publication date, 29 July 2015.",
+   "as_of": "2015-07-29", "date_precision": "day", "system": "Praia state data centre (Data Center do Estado de Cabo Verde)"}
+ ],
+ "systems": [
+  {"system": "Praia state data centre (Data Center do Estado de Cabo Verde)", "country_label": "Data Center do Estado", "class": "datacentre", "platform": "", "owner": "State of Cabo Verde (NOSI coordinates, per document)", "tiers": ""}
+ ],
+ "note": ""
+}

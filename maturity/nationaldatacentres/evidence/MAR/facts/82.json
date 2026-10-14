@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-mar-panorapost-mou-vertiv-infrastructures-numeriques-cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sovereign data centre, Rabat (50 MW, planned)",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned 50 MW sovereign data centre in Rabat (project, not in service); no fact."
+}

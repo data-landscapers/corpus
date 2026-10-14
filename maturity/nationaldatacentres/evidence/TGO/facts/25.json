@@ -1,0 +1,8 @@
+{
+  "slug": "2022-05-03-togo-centre-information-policiere-cipt-sipao",
+  "facts": [],
+  "systems": [
+    {"system": "Centre d'Information Policière du Togo (CIPT)", "country_label": "TGO", "class": "other", "platform": "SIPAO/WAPIS national police data collection and registration centre, inaugurated 29 April 2022", "owner": "Ministère de la Sécurité et de la Protection Civile (Togo state); programme funded by the EU, led by ECOWAS, implemented by INTERPOL", "tiers": ""}
+  ],
+  "note": "The CIPT is a state police-data centre used by its owner, not a data centre for hire; the document does not say it hosts other state systems or give a tier."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-03-dcd-botswana-first-national-data-center",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DCD reports Botswana has launched the Digital Delta Data Center, a 1,000 sqm colocation facility in Gaborone owned by the government and operated under BoFiNet; no event date given, so the published date is used.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "DCD describes the newly launched Digital Delta Data Center (BoFiNet, Gaborone) as Tier-III certified without naming the certifier; no event date given, so the published date is used.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

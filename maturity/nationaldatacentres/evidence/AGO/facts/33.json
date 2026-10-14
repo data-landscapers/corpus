@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The IFC-Raxio release (2025) states Raxio operates carrier-neutral colocation data centres in Angola, among seven markets.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Angola data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The IFC-Raxio release (2025) states Raxio operates Tier III data centres in Angola, among seven markets; operator statement, no certification named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Angola data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Angola data centre",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

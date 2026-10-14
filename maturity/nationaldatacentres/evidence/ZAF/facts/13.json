@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-zaf-comptrib-merger-alert-jnb11-data-centre-vantage-acquisition",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Competition Tribunal's notice of 2026-09-16 describes the JNB11 data centre in South Africa as an operating facility (run by VDC JNB11 Opco, building owned by Propco), whose sole control passes from Vantage Data Centers South Africa to Main Street 2156; the notice does not state whether it rents to others, nor any opening date or tier, so as_of is the notice date.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "JNB11"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JNB11",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vantage Data Centers South Africa (selling); Main Street 2156 (acquiring)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

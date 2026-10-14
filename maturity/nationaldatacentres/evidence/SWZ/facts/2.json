@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-24-swz-times-national-data-centre-incident",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "RSTP's National Data Centre was operating as of 2026-09-24 and RSTP said it provides IT solutions to both public and private sectors, as reported by the Times of Eswatini; it was hit by an incident disrupting at least 12 government services.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Times of Eswatini reports the National Data Centre is run by the Royal Science and Technology Park (RSTP), which it describes as a parastatal under the Ministry of ICT.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "An incident at the RSTP-run National Data Centre disrupted at least 12 government digital services (Government in Your Hand app, e-Visa, company registration, government website, IFMIS, Elderly Grant payment, Deeds Registration and others), indicating state systems are hosted there; RSTP first acknowledged the outage on 2026-09-18.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (NDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

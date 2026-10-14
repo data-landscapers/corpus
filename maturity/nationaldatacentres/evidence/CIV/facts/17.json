@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-03-data-center-inaugure-vitib-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Fraternité Matin reports that ST Digital officially inaugurated a new-generation data centre in the VITIB technology free zone at Grand-Bassam on 2 October 2025, which its Côte d'Ivoire director general said lets Ivorian companies and institutions host their data in the country.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "ST Digital data centre, VITIB Grand-Bassam"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital data centre, VITIB Grand-Bassam",
+   "country_label": "data center de dernière génération",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

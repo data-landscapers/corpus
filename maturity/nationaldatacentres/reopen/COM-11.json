@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-digwatch-comoros-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "class": "datacentre",
+   "fact": "The Data Center of the Public Administration, co-managed by state agency ANADEN and Comores Câbles, hosts critical services that allowed the national .km domain's technical management to be transferred to ANADEN; the page also says it is meant to host public platforms and secure administrative data.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "Data Center of the Public Administration"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center of the Public Administration",
+   "country_label": "Data Center of the Public Administration",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "not stated; co-managed by ANADEN and Comores Câbles",
+   "tiers": "described as Tier 3, unattributed"
+  }
+ ],
+ "note": "No owner fact: the page says co-managed by ANADEN and Comores Câbles, never who owns it. State hosting is stated only for .km critical services and as intent for public platforms."
+}

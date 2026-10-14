@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-connectingafrica-kenya-standalone-data-centre-licence",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty (formerly iColo) opened its Nairobi Two (NBO2) colocation data centre in Karen, adding 6.4 MW to its Nairobi campus; the article gives no exact opening date, so the as_of is the publication month.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Digital Realty NBO2 (Nairobi Two)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Realty NBO2 (Nairobi Two)",
+   "country_label": "Digital Realty NBO2 (Nairobi Two)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

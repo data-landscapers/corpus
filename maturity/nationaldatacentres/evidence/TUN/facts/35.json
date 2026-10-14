@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-28-about-us-dataxion",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DataXion, a multi-operator colocation datacentre in Tunis owned by Poulina Group Holding, was inaugurated in May 2016 and offers IT housing to businesses (1,200 m2 over four rooms of 400 kW each).",
+   "as_of": "2016-05",
+   "date_precision": "month",
+   "system": "DataXion"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "DataXion states it is the only Tier IV-certified datacentre in Tunisia (operator's own claim; the certifying body is not named on the page); as_of is the page's published date as it gives no certification date.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "DataXion"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DataXion",
+   "country_label": "DataXion",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Poulina Group Holding",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

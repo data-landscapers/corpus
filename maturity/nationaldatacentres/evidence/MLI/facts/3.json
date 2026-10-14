@@ -1,0 +1,54 @@
+{
+ "slug": "2026-02-02 Mali unveils modern Tier III data centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Malian government inaugurated its National Data Centre in Bamako around the weekend before 2 Feb 2026 (date is the article's publication date, no event date given); the ministry says it gives administrations, companies, start-ups and technical partners a hosting environment and will host mutualised AES infrastructure short term.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The Malian government describes the National Data Centre in Bamako as a Tier III facility (operator's own statement, no certification named); event date is the article's publication date.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "Mali's Ministry of Communication, Digital Economy and Administration Modernisation inaugurated the Tier III National Data Centre, which the government says will provide secure hosting for the Malian state's strategic data, e-administration platforms and public digital services (stated in the future tense; inauguration reported 'over the weekend' before the 2026-02-02 article).",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre (Bamako)",
+   "country_label": "Centre de données national / National Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernization)",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre",
+   "country_label": "MLI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

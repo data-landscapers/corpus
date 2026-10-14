@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-07 Malawi integrates immigration e-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bomalathu digital services platform",
+   "country_label": "MWI",
+   "platform": "government digital services portal",
+   "owner": "Department of E-Government",
+   "tiers": "",
+   "class": "other"
+  }
+ ],
+ "note": "Says only that Bomalathu runs on locally hosted server infrastructure; no data centre is named, so no hosted fact."
+}

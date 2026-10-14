@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechMoonshot describes Rack Centre as one of Nigeria's most sophisticated colocation operators, connected to all eight undersea cables and targeting 99.99% uptime; no opening date is given, so as_of is the published date 2026-05-21.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Rack Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Lagos $250 million hyperscale data centre (planned, Tier III design)",
+   "country_label": "Lagos $250 million hyperscale data centre (planned, Tier III design)",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

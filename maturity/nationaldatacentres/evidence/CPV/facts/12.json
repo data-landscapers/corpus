@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source",
+  "facts": [],
+  "systems": [
+    {"system": "NOSi housing and IaaS services", "country_label": "CPV", "class": "", "platform": "", "owner": "NOSi, E.P.E. (state enterprise)", "tiers": ""}
+  ],
+  "note": "Revenue forecast lists Housing and IaaS lines for NOSi E.P.E. but names no data centre, its status, tier or hosted state systems."
+}

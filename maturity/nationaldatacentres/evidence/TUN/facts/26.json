@@ -1,0 +1,34 @@
+{
+ "slug": "2010-09-06-kapitalis-tunisie-telecom-data-centre-kasbah",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Tunisie Telecom installed its new Kasbah (Tunis) Data Centre, a 280 m2 server room with 92 racks, to offer corporate clients (ministries, administrations, banks) colocation, dedicated or shared hosting, managed services and SaaS; date taken from the article's published date, 2010-09-06.",
+   "as_of": "2010-09-06",
+   "date_precision": "day",
+   "system": "Data Centre Kasbah"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Centre Kasbah",
+   "country_label": "Data Centre Kasbah",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Tunisie Telecom Data Centre, Kasbah (Tunis)",
+   "country_label": "TUN",
+   "class": "datacentre",
+   "platform": "colocation, dedicated and shared hosting, managed services, SaaS",
+   "owner": "Groupe Tunisie Telecom (document does not state its ownership)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

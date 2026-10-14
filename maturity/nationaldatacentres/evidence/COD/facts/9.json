@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-drc-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics (January 2026 brief for the EU D4D Hub) estimates the DRC had about 6-8 live commercial data centre facilities in 2025, leasing colocation space and power to third parties, with about 2.5 MW live critical IT load and about 80% of it carrier-neutral; no facility is named in the text.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "unnamed commercial data centre facilities (6-8)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

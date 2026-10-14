@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-29-digital-parks-africa-company-overview",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Parks Africa says its first carrier-neutral colocation data centre, at Samrand, was built and entered the market in 2017 (year per the company timeline).",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Digital Parks Africa Samrand"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Parks Africa Samrand",
+   "country_label": "Samrand data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Parks Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

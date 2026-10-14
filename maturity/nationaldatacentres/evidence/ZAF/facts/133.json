@@ -1,0 +1,26 @@
+{
+ "slug": "2017-11-08-itweb-internet-solutions-r500m-parklands-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Internet Solutions' Parklands data centre in Johannesburg, described by the operator as carrier-neutral and hosting the Johannesburg Internet Exchange, is already in service (ITWeb, 2017-11-08; the R500m extension is not yet online).",
+   "as_of": "2017-11-08",
+   "date_precision": "day",
+   "system": "Internet Solutions Parklands data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Internet Solutions Parklands data centre",
+   "country_label": "Internet Solutions Parklands data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Internet Solutions",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

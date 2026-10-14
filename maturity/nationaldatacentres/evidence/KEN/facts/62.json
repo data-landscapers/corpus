@@ -1,0 +1,34 @@
+{
+ "slug": "2023-01-20-dcd-africa-data-centres-nairobi-expansion-groundbreaking",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Liquid Telecom opened the East Africa Data Centre (EADC) in Nairobi in 2013; the article describes it as the existing facility of Africa Data Centres (Cassava Technologies), which was expanded by 500 sqm of white space in 2018 and offers client space.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "East Africa Data Centre (EADC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "East Africa Data Centre (EADC)",
+   "country_label": "East Africa Data Centre (EADC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Nairobi expansion (15MW, first 5MW due H1 2024)",
+   "country_label": "Africa Data Centres Nairobi expansion (15MW, first 5MW due H1 2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

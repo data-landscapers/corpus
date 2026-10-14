@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LBR,LIBTELCO data centre,LIBTELCO data centre,datacentre,,LIBTELCO,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
+LBR,CBL data centre (Virginia),,other,,Central Bank of Liberia,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
+LBR,NASSCorp data centre,,other,,NASSCorp,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
+LBR,National Data Center,LBR,datacentre,,state-owned national operator LTC-Mobile (hosts it; ownership of the centre itself not stated),,2026-03-01-liberia-national-data-governance-policy
+LBR,Buchanan Tier III+ facility,LBR,other,,,Tier III+ (under development),2026-03-01-liberia-national-data-governance-policy
+LBR,Cable Consortium of Liberia Monrovia landing facility,Co-location services,datacentre,,Cable Consortium of Liberia,,2025-04-29-cable-consortium-of-liberia-co-location-services
+LBR,LIB-PSS Head Office and Purpose-Built Facility,LBR,other,,Central Bank of Liberia,,2025-11-17-cbl-reoi-lib-pss-head-office-facility

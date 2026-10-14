@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14 Raxio raises data centre funding",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITWeb Africa reports Raxio operates data centres in Cote d'Ivoire among six countries, all carrier-neutral colocation; the date is the article's published date.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio CIV1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ITWeb Africa reports Raxio's data centres, including its Cote d'Ivoire one, are all Tier III certified; the date is the article's published date.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio CIV1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "Raxio CIV1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "A Tunisie Telecom presentation to ITU/ALECSO describes its Carthage primary data centre (2,700 m2, 200 racks) offering corporate housing (space, power, cooling, security) and an IaaS cloud platform set up in 2015; no event date is given beyond the deck's date 2018-10-29.",
+   "as_of": "2018-10-29",
+   "date_precision": "day",
+   "system": "Data Center Carthage"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center Carthage",
+   "country_label": "Data Center Carthage",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center Kasbah",
+   "country_label": "Regional secondary data centre Kasbah",
+   "class": "",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center Kairouan",
+   "country_label": "Disaster recovery site Kairouan",
+   "class": "",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2011-03-09-itrealms-internet-solutions-lagos-data-centre-expansion",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Internet Solutions West Africa operates a data centre and hosting and co-location facility at Victoria Island, Lagos, and is investing $1.5m to expand it, citing demand from customers including a major bank; the document gives no other date, so as_of is its published date.",
+   "as_of": "2011-03-09",
+   "date_precision": "day",
+   "system": "Internet Solutions Victoria Island data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Internet Solutions Victoria Island data centre",
+   "country_label": "Lagos data centre and hosting facility",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Internet Solutions West Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

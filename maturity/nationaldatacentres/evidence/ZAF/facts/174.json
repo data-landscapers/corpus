@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Data Landscapers register says US-controlled operators, led by Digital Realty's Teraco and iColo, run operational carrier-neutral facilities concentrated in South Africa, Nigeria and Kenya, and that Teraco's South African campuses are the deepest on the continent by capacity; no date given, article date used.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Teraco"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The article says Cassava, as an NVIDIA Cloud Partner, has had 3,000 GPUs deployed in South Africa since mid-2025, offering AI-as-a-service; facility not named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Cassava AI GPU cloud, South Africa"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "iColo",
+   "country_label": "iColo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "Cassava AI GPU cloud, South Africa",
+   "country_label": "Cassava AI",
+   "class": "datacentre",
+   "platform": "NVIDIA GPUs",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

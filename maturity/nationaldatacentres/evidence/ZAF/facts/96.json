@@ -1,0 +1,42 @@
+{
+ "slug": "2024-01-01-adc-zaf-rmb-expansion-2024-africa-data-centres-south-africa-20mw",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres (Cassava/Digital Realty) operates existing hyperscale and colocation data centres in South Africa at Midrand (JHB1), Samrand (JHB2) and Cape Town (CPT1/CPT2), with 64MW of capacity, per the June 2024 RMB financing announcement (document dated 2024 with no finer date).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Data Centres JHB1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres JHB1",
+   "country_label": "Africa Data Centres JHB1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres JHB2",
+   "country_label": "Africa Data Centres JHB2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "Africa Data Centres CPT1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-31-mbtp-raxio-datacenter-actualite",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio's 1.5 MW, 400-rack, 1,542 m2 Kinshasa data centre (USD 30m) holds Tier III certification issued by the Uptime Institute; the article gives no certification date, so its publication date is used.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Raxio DRC1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1, Limete, Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

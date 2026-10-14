@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-12-south-africa-eskom-ai-data-centre-power",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechCentral reports Teraco, which it calls South Africa's biggest data centre operator, runs data centres in Ekurhuleni and Cape Town (including CT2) with about 189MW of critical capacity across its estate; the article gives no opening date, so as_of is its published date.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Teraco CT2 (Cape Town) and Ekurhuleni data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres (Ekurhuleni, Cape Town CT2)",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix Cape Town facilities",
+   "country_label": "Equinix",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": "approved July 2026, not in service"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-25-highly-secured-rogers-capital-technology-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Rogers Capital Technology states in its own marketing copy of 25 September 2024 (no event date given, so the publication date is used) that it offers data centre services to business customers from a data centre in Mauritius, ISO 27001 certified, SOC 2 and PCI DSS compliant, with no tier rating given.",
+   "as_of": "2024-09-25",
+   "date_precision": "day",
+   "system": "Rogers Capital Technology data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rogers Capital Technology data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rogers Capital Technology Services",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

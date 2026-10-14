@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-12-icosnet-legal-notice-general-authorisation-cloud",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: ICOSNET Algiers DATA CENTER (ICOSNET), colocation/carrier-neutral, in service; this document names it (published 2026-03-12).",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "ICOSNET Algiers DATA CENTER"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

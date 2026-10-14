@@ -1,0 +1,26 @@
+{
+ "slug": "2022-07-25-first-carrier-neutral-data-center-for-namibia",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Paratus Namibia announced on 25 July 2022 that its carrier-neutral Armada data centre in Windhoek opens in August 2022, offering colocation (half-cabinets to cages) to clients, described as a Tier III equivalent design with 2 MW in phase 2 (operator's description, no certification stated).",
+   "as_of": "2022-08",
+   "date_precision": "month",
+   "system": "Armada"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Armada",
+   "country_label": "Armada",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

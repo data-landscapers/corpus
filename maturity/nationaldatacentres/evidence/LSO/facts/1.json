@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-29-vodacom-fixed-solutions",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Vodacom Lesotho's business page offers colocation in purpose-built data centres across the country and says its One Connect service is hosted in its two data centres at Maseru West and Lekokoaneng; the page gives no date, so as_of is its published date (2026-08-29).",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Vodacom Lesotho data centres (Maseru West and Lekokoaneng)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Lesotho data centres (Maseru West and Lekokoaneng)",
+   "country_label": "Vodacom data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

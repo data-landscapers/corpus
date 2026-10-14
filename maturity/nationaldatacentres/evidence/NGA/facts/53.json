@@ -1,0 +1,108 @@
+{
+ "slug": "2025-09-09-techcabal-insights-nigeria-data-centres-ai-future",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechCabal Insights' mapping counts 18 live colocation sites in Nigeria, among them Africa Data Centres LOS1, Rack Centre LGS2 and LGS1, MTN Sifiso Dabengwa Phase 1, INQ.Digital Nigeria, Digital Realty/Medallion LKK2 and Equinix LG1; as_of is the publication date, the article giving none.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres LOS1; Rack Centre LGS2; Equinix LG1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Africa Data Centres LOS1 at Eko Atlantic, Lagos, listed among the live colocation sites at 10MW, is described by TechCabal Insights as Tier III (certification body not stated); as_of is the publication date.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres LOS1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres LOS1",
+   "country_label": "Africa Data Centres LOS1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Rack Centre LGS2",
+   "country_label": "Rack Centre LGS2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre LGS1",
+   "country_label": "Rack Centre LGS1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG1",
+   "country_label": "Equinix LG1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "INQ.Digital Nigeria",
+   "country_label": "INQ.Digital Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "INQ.Digital",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos",
+   "country_label": "OADC Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone Shared Services Centre",
+   "country_label": "Galaxy Backbone Shared Services Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone (government)",
+   "tiers": ""
+  },
+  {
+   "system": "Kano national data centre",
+   "country_label": "Kano national data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "Tier IV (Uptime Institute)"
+  },
+  {
+   "system": "MTN Sifiso Dabengwa",
+   "country_label": "MTN Sifiso Dabengwa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty/Medallion LKK2",
+   "country_label": "Digital Realty/Medallion LKK2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

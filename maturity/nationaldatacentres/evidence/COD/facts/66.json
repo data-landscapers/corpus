@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-29-cod-2026-71",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center National (Acquisition de Data Center National)", "country_label": "COD", "class": "other", "platform": "", "owner": "State (Section 71 Economie Numerique)", "tiers": ""},
+    {"system": "Centre des données du ministère (Acquisition d'un centre des données du ministère)", "country_label": "COD", "class": "other", "platform": "", "owner": "State (Section 71 Economie Numerique)", "tiers": ""}
+  ],
+  "note": "2026 budget appropriation lines for acquiring a national data centre and a ministry data centre; acquisition funding only, no facility stated in service, owned for hire, or hosting state data."
+}

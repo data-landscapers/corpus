@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-sparc-systems-data-centre-launch-malawi24",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Sparc Systems launched a new data centre in Lilongwe offering affordable hosting services to large enterprises and smaller firms, per its managing director; as_of is the article's published date as no launch date is given.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "Sparc Systems data centre, Lilongwe"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sparc Systems data centre, Lilongwe",
+   "country_label": "MWI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sparc Systems",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

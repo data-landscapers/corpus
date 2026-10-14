@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
+CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
+CPV,"NOSi Government Data Center (Praia, with disaster recovery site in Mindelo)",Government Data Center / National Data Center,datacentre,"Huawei government cloud, 'One Cloud, One Lake, One Platform'","NOSi, E.P.E.",described as Tier-III equivalent (no certification stated),2024-01-01-nosi-operational-nucleus-information-society
+CPV,RTPE (State's Private Technological Network),RTPE,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,National Data Center,National Data Center,datacentre,"Huawei eGovernment Cloud, FusionCloud",NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,"eGovernment network (1,142 organisations)",eGovernment network,other,Huawei routers and switches,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,"National data center (NOSi, Cape Verde)",national data center,datacentre,Huawei eGovernment Cloud / FusionCloud,,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,NOSi housing and IaaS services,CPV,,,"NOSi, E.P.E. (state enterprise)",,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source

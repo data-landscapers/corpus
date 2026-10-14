@@ -1,0 +1,12 @@
+{
+  "slug": "2016-01-29-dcd-nita-ghana-national-data-centre-opens-colocation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "DatacenterDynamics reports that the Government of Ghana opened a three-hall data center in Accra, built by its agency NITA with Alcatel and Huawei Technologies Ghana, which also offers colocation space to private enterprise; the article dates the opening to the week of its 2016-01-29 publication.", "as_of": "2016-01-29", "date_precision": "day", "system": "National Data Centre (Accra)", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "DatacenterDynamics reports that the government-opened NITA data center in Accra, with a secondary replica at KNUST in Kumasi, will provide Ghanaian government agencies with email, antivirus and document management systems; dated by the article's published date, as it gives no other date.", "as_of": "2016-01-29", "date_precision": "day", "system": "National Data Centre (Accra)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "National Data Centre (Accra)", "country_label": "GHA", "class": "datacentre", "platform": "", "owner": "Government of Ghana (NITA)", "tiers": ""},
+    {"system": "National Data Centre secondary replica (KNUST, Kumasi)", "country_label": "GHA", "class": "datacentre", "platform": "", "owner": "Government of Ghana (NITA)", "tiers": ""}
+  ],
+  "note": ""
+}

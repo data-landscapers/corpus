@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Data Center e Cloud do Governo,Centro de Dados do Governo (Nuvem Nacional de Angola),other,,"INFOSI, Ministry of Telecommunications (MINTTICS)",,2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
+AGO,"Centro de Dados do Governo (Camama/Kilamba, Luanda)",AGO,datacentre,Nuvem Nacional de Angola (Government Cloud),Government of Angola (named only as 'do Governo'; ownership not otherwise stated),Tier III (Uptime Institute) as design standard,2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo
+AGO,Raxio Luanda data centre,,datacentre,,Raxio Group,,2026-07-23-raxio-afr-ix-data-centres-angola-mozambique
+AGO,"Raxio data centre, Angola",Raxio Angola,datacentre,,Raxio Group,Tier III (operator statement),2026-07-14 Raxio raises data centre funding
+AGO,"Raxio data centre, Cacuaco",Data Center neutro Tier III da Raxio,datacentre,,Raxio Group,Tier III,2026-04-27-angola-autonomia-armazenamento-documentos-data-center
+AGO,Data Center e Cloud do Governo de Angola,Data Center e Cloud do Governo,other,,INFOSI / MINTTICS (built with Presight),,2026-04-27-angola-autonomia-armazenamento-documentos-data-center
+AGO,Raxio Angola (AG1),,datacentre,,Raxio Group,,2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion
+AGO,Paratus data centres,,datacentre,,Paratus,,2025-07-01-xalam-d4d-data-centre-market-brief-angola-2025
+AGO,Angola Cables data centre,,datacentre,,Angola Cables,,2025-07-01-xalam-d4d-data-centre-market-brief-angola-2025
+AGO,Paratus Angola Tier IV data centre (DC3),,other,,Paratus Group,,2023-11-09-paratus-group-us31m-eaif-ninety-one-funding
+AGO,Paratus Angola DC3,,other,,Paratus Group,Tier IV planned,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)"
+AGO,Paratus Luanda Tier-IV data centre (planned),,other,,Paratus,"Tier IV by design, to be constructed; over 10 MW",2023-06-26-paratus-angola-tier-iv-data-centre-announcement
+AGO,"Africell Angola data center, Luanda",Africell data center,datacentre,"HP, Nokia, Dell, Oracle",Africell,,2021-10-20 Africell opens high-tech data center in Angola
+AGO,Raxio Angola data centre,Raxio,datacentre,,Raxio Group,,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+AGO,Raxio Angola data centre,Raxio,datacentre,,Raxio Group,,2023-10-25-roha-raxio-group-2023-raxio-46m-equity
+AGO,Raxio Data Centres,Raxio Angola,datacentre,,Raxio Data Centres,,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+AGO,AngoNAP,,datacentre,,Angola Cables,,2022-11-01 Angola Cables - Commercial Catalogue 2022
+AGO,Angonix,,other,,Angola Cables,,2022-11-01 Angola Cables - Commercial Catalogue 2022
+AGO,National cloud platform,Angola,other,,INFOSI (state),,2025-09-10 Angola advances technological development for digital transformation

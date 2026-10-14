@@ -1,0 +1,44 @@
+{
+ "slug": "2025-08-06-techpoint-airtel-nigeria-nxtra-38mw-it-load-eko-atlantic",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Techpoint Africa reports that MTN Nigeria's Sifiso Dabengwa Data Centre in Lagos was launched in July 2025, built for enterprise customers and local cloud users, with 780 racks and 4.5MW IT load.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Sifiso Dabengwa Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Techpoint Africa describes MTN Nigeria's Sifiso Dabengwa Data Centre in Lagos, launched July 2025, as a Tier III facility (stated by the outlet; no Uptime Institute certification named).",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Sifiso Dabengwa Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sifiso Dabengwa Data Centre",
+   "country_label": "MTN Sifiso Dabengwa Data Centre, Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra by Airtel Eko Atlantic data centre",
+   "country_label": "Nxtra by Airtel data centre, Eko Atlantic, Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

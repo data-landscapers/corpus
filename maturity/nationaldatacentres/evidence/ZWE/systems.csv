@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,TelOne Data Centre,TelOne Data Centre,datacentre,"Microsoft HyperV, VMware, OpenStack, Huawei FusionSphere",TelOne,,2026-08-08-telone-data-centre-and-cloud-services
+ZWE,TelOne data centres,TelOne facilities,datacentre,,TelOne,,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,National Data Centre,national data center,other,Huawei-built,Government,,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,Econet Wireless data centre,Econet largest facility,other,,Econet Wireless,,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,National Data Center (Huawei-built),ZWE,datacentre,,State presence (described as Huawei-built; ownership not otherwise stated),,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,TelOne-managed facilities,ZWE,datacentre,,TelOne (state-owned),,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,Econet Wireless data centre (impending),ZWE,other,,Econet Wireless,,2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025
+ZWE,Econet/Africa Data Centres Harare data centre,,datacentre,,Econet Wireless Zimbabwe with Africa Data Centres,,2025-06-07-econet-data-centre-onboarding
+ZWE,TelOne Bulawayo data centre,,datacentre,,TelOne,,2022-05-03-ecofin-telone-bulawayo-data-centre-inaugurated
+ZWE,TelOne Mazowe data centre,,datacentre,,TelOne,,2022-05-03-ecofin-telone-bulawayo-data-centre-inaugurated
+ZWE,TelOne Bulawayo Hillside data centre,,datacentre,,TelOne,,2022-04-29-dcd-telone-bulawayo-hillside-data-centre
+ZWE,TelOne Mazowe Earth Station data centre,,datacentre,,TelOne,,2022-04-29-dcd-telone-bulawayo-hillside-data-centre
+ZWE,"National data centre, Harare",,other,,Government of Zimbabwe,,2022-04-29-dcd-telone-bulawayo-hillside-data-centre
+ZWE,TelOne Mazowe Data Centre,Mazowe Data Centre,datacentre,,TelOne,,2022-03-25-263chat-telone-us1m-mazowe-data-centre-extension
+ZWE,TelOne Mazowe Data Centre,Mazowe Earth Station data centre,datacentre,,TelOne (with ZINGSA),,2022-03-25-dcd-telone-mazowe-earth-station-data-centre
+ZWE,TelOne Harare data centre,,datacentre,Huawei,TelOne,Tier III (reported),2017-03-24-dcd-telone-huawei-two-data-centres-harare-mazoe
+ZWE,TelOne Mazoe data centre,,datacentre,Huawei,TelOne,Tier III (reported),2017-03-24-dcd-telone-huawei-two-data-centres-harare-mazoe
+ZWE,Liquid Intelligent Technologies Harare data centre,,datacentre,,Liquid Intelligent Technologies,,2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data
+ZWE,Liquid Intelligent Technologies Harare data centre,,datacentre,,Liquid Intelligent Technologies,,2020-01-01-bii-reg-002-liquid-intelligent-technologies-follow-on-equity-data
+ZWE,TelOne Harare data centre,TelOne data centre (Harare),datacentre,,TelOne,,2015-01-01-eximbank-cn-zwe-001-china-eximbank-provides-986-million-preferential
+ZWE,TelOne Mazoe data centre,TelOne data centre (Mazoe),datacentre,,TelOne,,2015-01-01-eximbank-cn-zwe-001-china-eximbank-provides-986-million-preferential
+ZWE,Mazowe Data Centre,Mazowe Data Centre,datacentre,,TelOne,,2023-06-20-telone-annual-report-2022
+ZWE,Bulawayo Data Centre,Bulawayo Data Centre,datacentre,,TelOne,,2023-06-20-telone-annual-report-2022
+ZWE,TelOne self-service cloud platform,self-service cloud platform,other,,TelOne,,2023-06-20-telone-annual-report-2022
+ZWE,Cassava Technologies AI compute,ZWE,other,AI compute / GPU infrastructure,Cassava Technologies,,2026-04-17-econet-ai-launch-cassava-compute
+ZWE,Econet AI sovereign cloud,ZWE,other,sovereign cloud for government and institutions (mentioned at launch),Econet AI,,2026-04-17-econet-ai-launch-cassava-compute
+ZWE,Sovereign National Cloud,ZWE,other,planned national cloud under the National AI Strategy 2026-2030,Government of Zimbabwe,,2026-03-16-ai-strategy-mandates-local-storage
+ZWE,Zimbabwe Centre for High Performance Computing (ZCHPC) data center,Zimbabwe,datacentre,"national HPC / supercomputer, University of Zimbabwe, Zimbabwe Science Park 1","ZCHPC, custodian of the national HPC infrastructure (University of Zimbabwe); owner not stated beyond that",,2025-08-15-developzim-zchpc-hpc-phase-2-commissioned
+ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, 36 to over 300 teraflops, Phase 2 grant",University of Zimbabwe / Government of Zimbabwe (recipient),,2017-01-01-china-mofcom-zwe-002-chinese-government-provides-rmb-100-million
+ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, Phase 1, handed over 2015",University of Zimbabwe,,2015-01-01-china-mofcom-zwe-001-chinese-government-provides-rmb-33-million

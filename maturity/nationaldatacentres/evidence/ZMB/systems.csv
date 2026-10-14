@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZMB,"Infratel production data centre, Lusaka",SMART Zambia data centres,datacentre,,Government of Zambia via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
+ZMB,Netone data centre,Netone,datacentre,,Netone,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
+ZMB,Paratus data centre,Paratus,datacentre,,Paratus,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
+ZMB,National Data Centre,National Data Centre,datacentre,,"Government of Zambia, run by Infratel",,2026-01-01-xalam-zambia-data-center-market-briefing
+ZMB,Paratus facility,Paratus data centre,datacentre,,"Paratus (fibre infraco), run carrier-neutral",,2026-01-01-xalam-zambia-data-center-market-briefing
+ZMB,Zambia National Data Centre (NDC),ZMB,datacentre,,Government (document says Infratel runs the government's national data center; ownership not otherwise stated),,2026-01-01-xalam-zambia-data-center-market-briefing
+ZMB,Paratus facility (Zambia),ZMB,datacentre,,"A fiber infraco (unnamed, nationality not stated); run as carrier-neutral",,2026-01-01-xalam-zambia-data-center-market-briefing
+ZMB,National Data Centre,National Data Centre,other,,Infratel,,2025-07-01-data-centre-market-brief-zambia
+ZMB,Liquid/ADC facility,Liquid/ADC facility,other,,Liquid Intelligent Technologies,,2025-07-01-data-centre-market-brief-zambia
+ZMB,Paratus Zambia Lusaka data centre,Paratus Zambia data centre,datacentre,,Paratus Zambia,,2021-09-29-paratus-opens-new-data-centre-in-zambia
+ZMB,"Liquid Intelligent Technologies data centre, Zambia",,datacentre,,Liquid Intelligent Technologies (Cassava),,2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data
+ZMB,Zambia National Data Centre (ZNDC),Zambia National Data Centre,datacentre,,Government of Zambia,government; banks and mobile providers as paying tenants,2019-01-01-zmb-parliament-ministerial-statement-smart-zambia
+ZMB,Paratus data centre (Zambia),,datacentre,,Paratus,,2026-06-11 Can Africa supply it's own digital infrastructure

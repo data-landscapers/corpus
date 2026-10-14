@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-25-govt-moves-to-in-house-local-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BoFiNet's Digital Delta Data Centre was launched in Gaborone on 25 November 2025, and is said to enable secure storage, web hosting and cloud computing for businesses and government.",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The communications minister described the Digital Delta Data Centre as a Tier 3 certified data centre able to accommodate businesses' needs (stated by the minister, certifier not named).",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (100% government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

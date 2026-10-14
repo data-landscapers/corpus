@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-18-botswana-1gov-1citizen-digital-services-act-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Digital Delta Data Centre (DDDC) (Botswana Fibre Networks Ltd (BoFiNet)), colocation/carrier-neutral, in service; this document names it (published 2026-03-18).",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre (DDDC)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-14-camtel-showcases-zamengoe-data-center-to-plan-international-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "CAMTEL hosted Plan International Cameroon at its Zamengoe data centre on 2026-08-13 and presented its hosting, storage and security services to institutions and businesses.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Zamengoe Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "CAMTEL's Zamengoe data centre is described as Tier III certified (certifying body not named); stated as of the 2026-08-13 visit.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "Zamengoe Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoe Data Centre",
+   "country_label": "Data Center de Zamengoe",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

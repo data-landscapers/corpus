@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-17 Algeria launches Dzair Services single-window public-services platform",
+  "facts": [],
+  "systems": [
+    {"system": "National data centre, El Mohammedia", "country_label": "DZA", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Data centre, Blida (under construction)", "country_label": "DZA", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Sovereign cloud for public data (in preparation)", "country_label": "DZA", "class": "other", "platform": "sovereign cloud", "owner": "", "tiers": ""}
+  ],
+  "note": "El Mohammedia national data centre is named as part of the build-out but not stated in service, for hire or as hosting named state systems; Blida is under construction and the sovereign cloud in preparation."
+}

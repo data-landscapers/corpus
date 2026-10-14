@@ -1,0 +1,52 @@
+{
+ "slug": "2023-10-17-medallion-launches-data-center-in-lagos-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Medallion Data Centres (rebranding as Digital Realty) opened its second Lagos data centre, LOS2 on Victoria Island (1MW, 200 sqm), with formal open for service on 24 October 2023.",
+   "as_of": "2023-10-24",
+   "date_precision": "day",
+   "system": "Medallion LOS2"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Medallion's first Lagos data centre, LOS1, was operating at the article date, offering 2MW across 200 sqm. Date is the article date.",
+   "as_of": "2023-10-17",
+   "date_precision": "day",
+   "system": "Medallion LOS1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medallion LOS1",
+   "country_label": "LOS1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medallion Data Centres / Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "Medallion LOS2",
+   "country_label": "LOS2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medallion Data Centres / Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "Medallion Abuja data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Medallion Data Centres / Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

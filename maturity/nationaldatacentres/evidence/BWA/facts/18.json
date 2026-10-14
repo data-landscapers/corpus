@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-01-orange-opens-data-center-in-gaborone-botswana",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Orange Botswana opened a data centre at the Botswana Digital and Innovation Hub science park in Gaborone, after a reported $5.2m investment; the document gives no date beyond its own (2023-12) and says the telco launched it.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Orange Botswana Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Orange Botswana's Gaborone data centre is described by Orange as an Uptime-certified Tier III facility, billed as the first Tier III in Botswana (operator statement, reported by SDxCentral; date is the article's).",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Orange Botswana Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government-owned Tier IV data centre, Gaborone",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Government of Botswana",
+   "tiers": "Tier IV listed by Uptime per article; not stated to rent to others"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

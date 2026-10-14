@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The IFC deal record says Raxio operates carrier-neutral colocation data centres in Tanzania, among seven countries; the facility is not named and the date is the document's published year 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Tanzania data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The IFC deal record says Raxio's carrier-neutral data centres in Tanzania, among six other countries, are Tier III (operator and IFC statement, no certifying body named); the facility is not named and the date is the document's published year 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Tanzania data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Tanzania data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

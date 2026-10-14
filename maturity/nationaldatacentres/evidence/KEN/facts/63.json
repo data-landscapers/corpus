@@ -1,0 +1,34 @@
+{
+ "slug": "2022-11-30-africa-data-centres-sameer-nairobi-15mw-expansion",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres, a colocation provider, states it has an existing data centre in Nairobi (the Sameer facility), next to which it plans an expansion; the release carries no dateline, so the date is the page date 2022-11-30.",
+   "as_of": "2022-11-30",
+   "date_precision": "day",
+   "system": "Africa Data Centres Sameer facility, Nairobi"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Sameer facility, Nairobi",
+   "country_label": "Africa Data Centres Sameer facility, Nairobi",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Nairobi 15MW expansion",
+   "country_label": "Africa Data Centres Nairobi 15MW expansion",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

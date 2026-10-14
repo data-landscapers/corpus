@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio opened Raxio MZ1 in Beluluane Industrial Park, Maputo (3 MW, 2,000 sqm, up to 400 racks); eight telecom and connectivity providers had signed up.",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "Raxio MZ1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio MZ1 is described as the country's first Tier III Uptime-certified data centre (reported at launch).",
+   "as_of": "2024-05-28",
+   "date_precision": "day",
+   "system": "Raxio MZ1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio MZ1",
+   "country_label": "Raxio Mozambique",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

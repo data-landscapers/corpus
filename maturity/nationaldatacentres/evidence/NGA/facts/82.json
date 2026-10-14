@@ -1,0 +1,44 @@
+{
+ "slug": "2022-04-14-thisday-mdxi-lekki-ii-data-centre-launch",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MainOne (Equinix) launched its MDXi Lekki II data centre in Lagos the week before the 14 April 2022 article, with 520 racks and 2MW in phase one.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "MDXi Lekki II"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ThisDay reports MDXi Lekki II is a Tier III certified data centre; the certifying body is not named.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "MDXi Lekki II"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MDXi Lekki II",
+   "country_label": "MDXi Lekki II",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne (Equinix)",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi Lekki I",
+   "country_label": "MDXi Lekki I",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne (Equinix)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

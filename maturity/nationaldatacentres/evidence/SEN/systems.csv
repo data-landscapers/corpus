@@ -1,0 +1,26 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,STELLARIX Senegal data centre,STELLARIX Senegal,datacentre,,STELLARIX (AXIAN Group),,2026-10-02-sen-techafricanews-stellarix-data-centre-expansion
+SEN,"STELLARIX Senegal data centre, Diamniadio",datacenter tiers 3 Stellarix,datacentre,,Stellarix Senegal (Axian),,2025-10-27-aps-stellarix-senegal-datacenter-diamniadio
+SEN,Senegal Numerique and Senegal Connect government facilities,,other,,Senegal Numerique (ex-ADIE); Senegal Connect,,2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025
+SEN,N+ONE campus in Senegal,,datacentre,,N+ONE DATACENTERS,,2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture
+SEN,Onix Data Centre Dakar (Almadies 2Africa CLS),,datacentre,,Onix Data Centres,,2023-05-11-onix-dakar-tier-3-almadies-cls-q4-2023-completion
+SEN,Onix Data Centre Dakar (2Africa CLS),,datacentre,,Onix Data Centres (partner La Colombe Group),,2023-02-20-dcd-onix-data-centres-dakar-2africa-cls-colocation
+SEN,Datacenter national de Diamniadio,Datacenter de Diamniadio,datacentre,,ADIE / Senegal Numerique SA,state administration; private sector space,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
+SEN,"National Data Centre, Diamniadio",Datacenter national,datacentre,,ADIE (Agence de l'informatique de l'Etat),public administration; private sector,2021-06-23-sen-ciomag-datacenter-national-diamniadio-souverainete
+SEN,Diamniadio national data centre,SEN,datacentre,,ADIE (Agence de l'informatique de l'Etat),Tier III (stated),2021-06-23-sen-ciomag-datacenter-national-diamniadio-souverainete
+SEN,Diamniadio State Data Center,Datacenter de Diamniadio,datacentre,,ADIE (Agence de l'informatique de l'Etat),state; private sector may use space,2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards
+SEN,Diamniadio national data centre,SEN,datacentre,,ADIE (Agence de l'informatique de l'Etat),Tier III (stated),2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards
+SEN,SenConnect Diamniadio data center (Tigo),,datacentre,,SenConnect (Millicom) for Tigo,enterprise,2017-07-07-dcd-tigo-senconnect-diamniadio-tier-3-data-center
+SEN,Sonatel Dakar data centre,Datacenter Sonatel,datacentre,,Sonatel,companies; administrations,2017-06-21-financialafrik-sonatel-dakar-datacenter-inauguration
+SEN,Diamniadio National Datacenter,Datacenter National de Diamniadio,datacentre,,Senegal Numerique SA (SENUM),,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,Onix Dakar data centre,,datacentre,,"Onix (majority-owned by AIIM, Old Mutual)",Tier IV,2026-06-11 Can Africa supply it's own digital infrastructure
+SEN,Stellarix (Axian) Senegal build-out,,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+SEN,Sonatel Rufisque Datacenter,Rufisque Datacenter,datacentre,,Sonatel,Tier III Design and Constructed Facility (Uptime Institute),2021-07-07-sonatel-group-annual-report-2020
+SEN,Senegal national sovereign cloud (Alibaba),SEN,other,Alibaba Group,Senegal Digital Ministry,,2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud
+SEN,Senegal sovereign cloud (Google MoU),SEN,other,Google,,,2024-10-04 Senegal launches sovereign cloud initiative with Google
+SEN,Sovereign cloud (planned),SEN,other,,State of Senegal,,2026-09-09-wearetech-senegal-cloud-souverain-ia
+SEN,Sovereign cloud (planned),SEN,other,,State of Senegal,,2026-09-08-sen-socialnetlink-dpg-cloud-souverain-new-deal-execution
+SEN,Cloud national des JOJ Dakar 2026,SEN,other,Alibaba Cloud (Apsara Stack),Senegal state (SENUM SA),,2026-03-24-mctn-reception-officielle-cloud-national-joj-dakar-2026
+SEN,Cloud souverain (Dakar 2026 Youth Olympic Games),SEN,other,"Alibaba (Chinese group, supporting)",,,2026-04-24-aps-formation-100-ingenieurs-cloud-computing
+SEN,Sonatel Datacenter (AWS Wavelength zone),SEN,datacentre,AWS Wavelength,Sonatel,,2025-04-24-sonatel-et-amazon-web-services-lancent-aws-wavelength-au-senegal
+SEN,Orange data centres in Senegal (AWS Wavelength Zone),SEN,other,AWS Wavelength,Orange,,2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal

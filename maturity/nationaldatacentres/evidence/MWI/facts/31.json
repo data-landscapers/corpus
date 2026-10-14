@@ -1,0 +1,62 @@
+{
+ "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The COMESA IDEA half-year report (Jan-Jun 2026) states the Government national datacenter in Lilongwe is complete and that the Bomalathu platform has migrated to the National Data Centre, with a stop-gap expansion adding 115 TB of storage; it describes it as a Government data hosting facility, not one renting to outside customers.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The report describes the National Data Centre in Lilongwe as the Government of Malawi's own national datacenter, implemented under the state's Digital Malawi Acceleration Project.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The report states the Bomalathu Digital Services Platform has migrated to the National Data Centre in Lilongwe, which has a disaster recovery site in Blantyre, and that Government data hosting capacity was expanded by 115 TB.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre (Lilongwe)",
+   "country_label": "MWI",
+   "platform": "government data centre, Lilongwe, with redundancy link to Blantyre data centre",
+   "owner": "Government of Malawi (Department of E-Government)",
+   "tiers": "",
+   "class": "datacentre"
+  },
+  {
+   "system": "Blantyre Data Centre (disaster recovery site)",
+   "country_label": "MWI",
+   "platform": "government DR site",
+   "owner": "Government of Malawi",
+   "tiers": "",
+   "class": "other"
+  },
+  {
+   "system": "Bomalathu Digital Services Platform",
+   "country_label": "MWI",
+   "platform": "government digital services portal",
+   "owner": "Government of Malawi",
+   "tiers": "",
+   "class": "other"
+  }
+ ],
+ "note": "Facts cover the Government national data centre; document does not say it rents to outside customers."
+}

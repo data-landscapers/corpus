@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-03-nga-techtv-ixpn-at-20-internet-exchange",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty announced in April 2026 a new IXPN point of presence at its Ibeju-Lekki data centre in Lagos, which hosts third-party interconnection; the article treats it as an existing data-centre facility.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Digital Realty Ibeju-Lekki data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty Ibeju-Lekki data centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-24-adc-zaf-cape-town-second-data-centre-groundbreaking",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres (Cassava Technologies) built and operates the first hyperscale colocation data centre in Cape Town (south of the city), which already houses global providers, South African enterprises and government; no opening date given, article dated 2023-01-24.",
+   "as_of": "2023-01-24",
+   "date_precision": "day",
+   "system": "Africa Data Centres Cape Town (first facility)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Cape Town second facility",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Daily Maverick states Teraco is South Africa's largest data centre provider, a colocation operator renting space to about 670 customers, with an IT load of nearly 190 MW; as_of is the article date.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Teraco"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco Group",
+   "tiers": ""
+  },
+  {
+   "system": "African Data Centres",
+   "country_label": "African Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Cosmas Data City",
+   "country_label": "Cosmas Data City",
+   "class": "other",
+   "platform": "",
+   "owner": "Cavaleros Group",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Data Centres Johannesburg campuses",
+   "country_label": "Vantage Data Centres Johannesburg campuses",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

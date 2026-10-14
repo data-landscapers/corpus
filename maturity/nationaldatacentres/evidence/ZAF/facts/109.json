@@ -1,0 +1,50 @@
+{
+ "slug": "2022-11-02-teraco-completes-jb4-hyperscale-data-centre-expansion-to-bredell-campus",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco completed the first phase of JB4 (19MW critical power, eight 1,000sqm halls) on its Bredell Campus, Ekurhuleni, offering colocation to enterprises and cloud providers.",
+   "as_of": "2022-11-02",
+   "date_precision": "day",
+   "system": "Teraco JB4 (Bredell Campus)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JB4",
+   "country_label": "Teraco Bredell Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "JB1/JB3",
+   "country_label": "Teraco Isando Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "JB2",
+   "country_label": "Teraco Bredell Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "CT1/CT2",
+   "country_label": "Teraco Cape Town Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

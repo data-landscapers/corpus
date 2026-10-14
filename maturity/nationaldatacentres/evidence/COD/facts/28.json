@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio's release of 25 October 2023 names DRC in its operating footprint as a provider of carrier-neutral data centres; no DRC facility is named and no DRC-specific Tier statement is made.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Data Centres (DRC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centres (DRC)",
+   "country_label": "Raxio DRC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

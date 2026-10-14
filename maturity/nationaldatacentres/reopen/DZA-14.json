@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-01-dza-elwatan-ayrade-introduction-bourse-alger",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AYRADE data centres (Algiers, Oran)",
+      "country_label": "DZA",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "AYRADE",
+      "tiers": ""
+    }
+  ],
+  "note": "No owner or state fact: the article calls AYRADE an Algerian operator running two centres in Algiers and Oran but does not state who owns the company or the centres' ownership, and names no state system hosted."
+}

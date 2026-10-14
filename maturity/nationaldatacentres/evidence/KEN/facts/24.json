@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-04-techtrends-nxtra-kenya-july-2027-target",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechTrends Kenya refers to iXAfrica's existing 22.5MW Nairobi facility as East Africa's largest announced data centre by installed capacity; no date given, so as_of is the article's publication date.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "iXAfrica Nairobi data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica Nairobi data centre",
+   "country_label": "iXAfrica Nairobi data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra Tatu City (under construction, July 2027 target)",
+   "country_label": "Nxtra Tatu City (under construction, July 2027 target)",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

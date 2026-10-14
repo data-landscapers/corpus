@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14 Raxio raises data centre funding",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITWeb Africa (14 Jul 2026) reports Raxio Group operates carrier-neutral colocation data centres in several countries including Mozambique; the facility is not named and no opening date is given, so as_of is the article date.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio Mozambique data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ITWeb Africa (14 Jul 2026) states all Raxio data centres, including its Mozambique one, are Tier III certified (certifying body not stated); facility not named and no certification date given, so as_of is the article date.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio Mozambique data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Mozambique data centre",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

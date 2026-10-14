@@ -1,0 +1,37 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,National Data Centre (NITA),National Data Centre,datacentre,,NITA Ghana,,2016-01-26-national-data-centre-launched-in-accra
+GHA,National Data Centre (Accra),GHA,datacentre,,,,2016-01-26-national-data-centre-launched-in-accra
+GHA,"National Data Centre secondary (KNUST, Kumasi)",GHA,datacentre,,,,2016-01-26-national-data-centre-launched-in-accra
+GHA,Equinix,,other,,Equinix,,2026-01-01-xalam-ghana-data-center-market-briefing
+GHA,Digital Realty ACR2,ACR2,other,,Digital Realty,,2026-01-01-xalam-ghana-data-center-market-briefing
+GHA,ACR2,ACR2,datacentre,,Digital Realty,,2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)
+GHA,ACR2,ACR2,datacentre,,Digital Realty,,2025-10-31-digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana
+GHA,ACR2,ACR2,datacentre,,Digital Realty,,2025-10-31-digital-realty-opens-accra-data-center-graphic
+GHA,Digital Realty / Equinix / PAIX / Africa Data Centres / MTN,Digital Realty / Equinix / PAIX / Africa Data Centres / MTN,other,,,,2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025
+GHA,PAIX Accra data centre,PAIX Data Centres Accra (ACC-1),datacentre,,PAIX Data Centres,,2024-07-03-africa50-paix-accra-expansion-1-2mw
+GHA,PAIX Accra data centre,PAIX Data Centres Accra (ACC-1),datacentre,,PAIX Data Centres,,2024-06-14-dcd-adc-onix-partner-accra-30mw
+GHA,Onix Accra data centre,Onix Data Centres Accra,datacentre,,Onix Data Centres,,2024-06-14-dcd-adc-onix-partner-accra-30mw
+GHA,"ADC Accra data centre (planned, 30MW)",Africa Data Centres Accra,other,,Africa Data Centres,,2024-06-14-dcd-adc-onix-partner-accra-30mw
+GHA,PAIX Accra data centre,PAIX Data Centres Accra (ACC-1),datacentre,,PAIX Data Centres,,2024-05-21-paix-accra-1-2mw-expansion-apo-release
+GHA,Onix Accra 1,Onix Accra 1 (formerly Ngoya Etix DC),datacentre,,African Infrastructure Investment Managers,Tier IV (Uptime Institute),2022-06-24-dcd-onix-accra-tier-iv-opened-bawumia
+GHA,PAIX Accra data centre,PAIX Accra,datacentre,,PAIX Data Centres,,2022-02-16-africa50-paix-data-centres-series-b-completion
+GHA,PAIX,PAIX data centres,datacentre,,PAIX,,2021-10-22-invest-international-dggf-paix-loan-ghana-kenya
+GHA,MDXi Appolonia City data centre,MDXi Accra,datacentre,,MainOne / MDXi,,2021-06-21-mainone-data-centre-opens
+GHA,Onix Accra #1 (Ngoya Etix DC),Ngoya Etix DC,datacentre,,Onix Data Centres (AIIM AIIF3),,2021-03-04-aiim-onix-acquires-ngoya-etix-dc-ghana
+GHA,National Data Centre (NITA),Ghana National Data Centre,datacentre,,NITA Ghana,,2016-01-29-dcd-nita-ghana-national-data-centre-opens-colocation
+GHA,National Data Centre (Accra),GHA,datacentre,,Government of Ghana (NITA),,2016-01-29-dcd-nita-ghana-national-data-centre-opens-colocation
+GHA,"National Data Centre secondary replica (KNUST, Kumasi)",GHA,datacentre,,Government of Ghana (NITA),,2016-01-29-dcd-nita-ghana-national-data-centre-opens-colocation
+GHA,PAIX Accra,PAIX Accra,datacentre,,PAIX Data Centres,,2022-01-01-africa50-reg-paix-data-centers-2022-paix-data-centers-series-b-equity
+GHA,AC1 Accra,AC1,datacentre,,Equinix (formerly MainOne),,2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa
+GHA,Digital Realty ACR2,Accra,datacentre,,Digital Realty,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,Digital Realty ACR1,Accra,other,,Digital Realty,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,unnamed Tier IV data centre,,datacentre,,,,2025-04-02-dpa-digital-digest-ghana-2025
+GHA,unnamed Tier IV data centre,,datacentre,,,,2024-09-20 Ghana Digital Economy (US Country Commercial Guide)
+GHA,several unnamed Tier III data centres,,datacentre,,,,2024-09-20 Ghana Digital Economy (US Country Commercial Guide)
+GHA,Onix Accra,Onix Accra,datacentre,,"Onix (majority-owned by AIIM, Old Mutual)",,2026-06-11 Can Africa supply it's own digital infrastructure
+GHA,Government cloud data center,GHA,other,government cloud,Government of Ghana (Ministry of Communications and Digitalisation / NITA as implementing parties),,2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report
+GHA,"Government cloud storage system (Accra 703TB, Kumasi 586TB)",GHA,other,cloud storage,Government of Ghana,,2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report
+GHA,National Data Centre,Ghana,,,,,2026-07-30-ghana-10-year-ai-implementation-roadmap
+GHA,AI Compute Centre (US$250 million),Ghana,other,,Government of Ghana,,2026-07-30-ghana-10-year-ai-implementation-roadmap
+GHA,"NITA National Data Centre, Accra",Ghana,datacentre,,"National Information Technology Agency (NITA), under the Ministry of Communication, Digital Technology and Innovations",,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
+GHA,"NITA National Data Centre, Kumasi",Ghana,datacentre,Huawei IDS1000 modular containerised,National Information Technology Agency (NITA),,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb

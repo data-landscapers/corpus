@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-01-updated-esmp-government-data-centre-dmap",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre (Lilongwe)", "country_label": "National Data Centre, Department of e-Government, Area 4, Lilongwe", "class": "other", "platform": "Data Centre as a Service for MDAs; hyper-converged infrastructure", "owner": "Department of e-Government (Government of Malawi)", "tiers": "designed for Tier III; works not complete at 31 Oct 2024; service power line still to be built"},
+    {"system": "Mandala Data Centre (Blantyre)", "country_label": "Disaster recovery site, Mandala, Blantyre", "class": "other", "platform": "", "owner": "Government of Malawi (described as a government data centre facility)", "tiers": ""}
+  ],
+  "note": "Aug 2025 ESMP describes the government National Data Centre as unfinished (works incomplete, power line and additional servers planned, MDA migration planned, 'when operational'); no in-service, Tier III-in-service, ownership-for-hire or hosted-systems statement."
+}

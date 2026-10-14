@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-07-icolo-mpm1-technical-specification-sheet",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "iColo's specification sheet for Maputo One (MPM1) describes an operating carrier-neutral facility offering quarter, half and full rack colocation with multiple carriers; the sheet is undated and 2023-02-07 is the published date used.",
+   "as_of": "2023-02-07",
+   "date_precision": "day",
+   "system": "Maputo One (MPM1)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maputo One (MPM1)",
+   "country_label": "MPM1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (a Digital Realty company)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

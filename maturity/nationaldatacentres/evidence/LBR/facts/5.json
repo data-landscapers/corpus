@@ -1,0 +1,42 @@
+{
+ "slug": "2013-11-20-fahnbulleh-engineering-failure-of-libtelco",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "LIBTELCO's data centre was in service and hosting outside customers: the Ministry of Finance's IFMIS and the GSA's asset management and tracking services (opinion piece; body gives no date, so the 2013-11-20 publication date is used).",
+   "as_of": "2013-11-20",
+   "date_precision": "day",
+   "system": "LIBTELCO data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LIBTELCO data centre",
+   "country_label": "LIBTELCO data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "LIBTELCO",
+   "tiers": ""
+  },
+  {
+   "system": "CBL data centre (Virginia)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Liberia",
+   "tiers": ""
+  },
+  {
+   "system": "NASSCorp data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "NASSCorp",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

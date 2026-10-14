@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,Sudani core data centre,core data center,datacentre,,Sudani,,2026-01-07-port-sudan-digital-lifeline-cgtn
+SDN,Sudani Tier-4 data centre,Tier-4 data center,datacentre,,Sudani,Tier IV,2026-01-07-port-sudan-digital-lifeline-cgtn
+SDN,Khartoum State data centre,مركز بيانات الدولة في ولاية الخرطوم,datacentre,"cloud computing, data protection, AI application support",Ministry of Digital Transformation and Communications,,2025-10-10-khartoum-state-data-centre-restored-and-operational
+SDN,Khartoum State data centre (state data centre),SDN,other,,Government of Sudan (Ministry of Digital Transformation and Communications),,2025-10-10-khartoum-state-data-centre-restored-and-operational
+SDN,Khartoum State data centre,state data centre in Khartoum,datacentre,"cloud computing, data protection, AI application support",Ministry of Digital Transformation and Communications,,2025-10-17-khartoum-data-centre-reopening-actum
+SDN,Khartoum State data centre (state data centre),SDN,other,,Government of Sudan (Ministry of Digital Transformation and Communications),,2025-10-17-khartoum-data-centre-reopening-actum
+SDN,Khartoum State data centre,مركز بيانات الدولة في ولاية الخرطوم,datacentre,"cloud computing, data security, AI application support",Ministry of Digital Transformation and Communications,,2025-10-09-sudan-khartoum-state-data-center-restored
+SDN,Khartoum State data centre (state data centre),SDN,other,,Government of Sudan (Ministry of Digital Transformation and Communications),,2025-10-09-sudan-khartoum-state-data-center-restored
+SDN,Sudatel Data Center (SDC),SDC,datacentre,,Sudatel (Sudani),Tier IV stated by operator,2024-01-01-sudatel-data-center
+SDN,Sudatel data center,Sudatel data center,datacentre,,Sudatel,,2025-04-05-sudan-tax-chamber-core-system-projects
+SDN,Tax Authority Tower data center,Tax Authority data center,other,,Sudan Taxation Chamber,,2025-04-05-sudan-tax-chamber-core-system-projects

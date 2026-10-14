@@ -1,0 +1,54 @@
+{
+ "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ITU's 2022 report says the Malian state telecom infrastructure company SMTD runs a government data centre offering colocation, integrated data centre, IaaS, SaaS and backup services to clients; the document does not say whether clients beyond government are served, and gives 2022 as its date.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SMTD data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "ITU states the SMTD data centre, which offers colocation, IaaS, SaaS and backup services, is run by the Société malienne de transmission et de diffusion, described as the company that manages the State's telecommunications infrastructure, and that the Government of Mali set up the two data centres through its agencies.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "SMTD data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "ITU states the AGETIC, a government agency under the ministry MCENMA, runs a data centre providing hosting (IaaS, SaaS, backup) to the public administration, with a real-time-replicated DR site; the document gives the year only.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "AGETIC data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SMTD data centre",
+   "country_label": "Centre de données de la SMTD",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société malienne de transmission et de diffusion (SMTD)",
+   "tiers": ""
+  },
+  {
+   "system": "AGETIC data centre",
+   "country_label": "Centres de données de l'AGETIC",
+   "class": "other",
+   "platform": "",
+   "owner": "AGETIC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

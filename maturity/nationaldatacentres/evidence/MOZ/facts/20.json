@@ -1,0 +1,42 @@
+{
+ "slug": "2025-07-01-xalam-mozambique-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 6 live commercial data centre facilities in Mozambique in 2024, leasing colocation space and power to third parties, with about 2.3 MW live IT load and Raxio the largest provider at about 50% share (document dated July 2025; no individual facility other than operators named).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  },
+  {
+   "system": "iColo (Digital Realty)",
+   "country_label": "iColo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "Vodacom data centre",
+   "country_label": "Vodacom",
+   "class": "other",
+   "platform": "",
+   "owner": "Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

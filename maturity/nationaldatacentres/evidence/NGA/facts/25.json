@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-africloud-lagos-cloud-region-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "AFRICLOUD launched its Lagos region on 2026-08-10 (date from the article), with cloud and dedicated servers open to all customers and physically hosted in an unnamed carrier-neutral data centre in Lagos's central business district.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "AFRICLOUD Lagos region (carrier-neutral data centre, Lagos CBD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AFRICLOUD Lagos region",
+   "country_label": "AFRICLOUD Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "AFRICLOUD",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

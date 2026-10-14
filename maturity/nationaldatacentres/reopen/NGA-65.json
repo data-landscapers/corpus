@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-25-aws-google-cloud-nigeria-alternatives",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "Rest of World describes Galaxy Backbone as a privately held company established by the Nigerian government, which provides cloud services to government agencies and private companies and runs two data centres, one in Abuja and one in Kano; the article gives no further ownership detail.", "as_of": "2025-02-25", "date_precision": "day", "system": "Galaxy Backbone data centres (Abuja, Kano)", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "Rest of World lists Suburban Cloud, an Abuja-based cloud provider founded by Bruce Ayonote, among homegrown Nigerian cloud companies, and says it has an Abuja data centre; the article gives no ownership detail beyond that and the date is the article's publication date.", "as_of": "2025-02-25", "date_precision": "day", "system": "Suburban Cloud Abuja data centre", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "owner", "value": "foreign", "fact": "Rest of World states that AWS (Amazon Web Services) opened a small local zone centre in Lagos in 2023 and that no other global cloud company has a data centre in Nigeria; the date given is the opening year.", "as_of": "2023", "date_precision": "year", "system": "AWS Local Zone Lagos", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Galaxy Backbone data centres (Abuja, Kano)", "country_label": "NGA", "class": "datacentre", "platform": "", "owner": "Galaxy Backbone, privately held, established by the Nigerian government", "tiers": ""},
+    {"system": "Suburban Cloud Abuja data centre", "country_label": "NGA", "class": "datacentre", "platform": "", "owner": "Suburban Cloud", "tiers": ""},
+    {"system": "AWS Local Zone Lagos", "country_label": "NGA", "class": "datacentre", "platform": "AWS", "owner": "Amazon Web Services", "tiers": ""},
+    {"system": "Open Access", "country_label": "NGA", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No state-hosted fact: Galaxy Backbone is said to serve government agencies but the article does not state that their systems are hosted in its data centres."
+}

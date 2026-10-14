@@ -1,0 +1,26 @@
+{
+ "slug": "2020-01-01-actis-nga-rackcentre-2020-actis-acquisition-of-controlling-stake-in",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Actis's March 2020 press release describes Rack Centre as Nigeria's leading carrier-neutral co-location data centre in Lagos, hosting over 80 international, regional and local clients including carriers and cloud providers.",
+   "as_of": "2020-03",
+   "date_precision": "month",
+   "system": "Rack Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Actis, Convergence Partners, Jagal",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

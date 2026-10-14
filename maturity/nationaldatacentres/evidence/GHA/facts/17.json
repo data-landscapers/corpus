@@ -1,0 +1,42 @@
+{
+ "slug": "2024-06-14-dcd-adc-onix-partner-accra-30mw",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reported in June 2024 that PAIX Data Centres, a cloud and colo provider, had expanded its Accra data centre in May 2024, listing it among Accra's operating data centres.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "PAIX Accra data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Accra data centre",
+   "country_label": "PAIX Data Centres Accra (ACC-1)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Onix Accra data centre",
+   "country_label": "Onix Data Centres Accra",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "ADC Accra data centre (planned, 30MW)",
+   "country_label": "Africa Data Centres Accra",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

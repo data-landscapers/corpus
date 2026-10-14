@@ -1,0 +1,26 @@
+{
+ "slug": "2022-10-26-dcd-zaf-ntt-johannesburg-1-data-centre-opens",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "NTT launched its Johannesburg 1 (JOH1) data center at 21 Sterling Road, Samrand, with phase one of 6MW over 3,000 sqm (12MW at full build); the document gives no exact opening day, so the published date is used, and the operator cites carrier neutrality for clients.",
+   "as_of": "2022-10-26",
+   "date_precision": "day",
+   "system": "Johannesburg 1 Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Johannesburg 1 Data Center",
+   "country_label": "JOH1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

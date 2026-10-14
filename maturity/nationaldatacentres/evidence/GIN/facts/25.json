@@ -1,0 +1,17 @@
+{
+ "slug": "2020-10-01-ifc-cpsd-guinea-creating-markets",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: GUILAB Data Centre (GUILAB SA), colocation/carrier-neutral, in service; this document names it (published 2020-10-01).",
+   "as_of": "2020-10-01",
+   "date_precision": "day",
+   "system": "GUILAB Data Centre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

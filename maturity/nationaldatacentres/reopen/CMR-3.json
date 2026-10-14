@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "CAMTEL said at the SAGO conference of 9 June 2026 that its Zamengoe Data Centre is a critical national asset ensuring the security, continuity and local control of government data; the document does not list the specific systems hosted.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoe Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoe Data Centre",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "Tier III (CAMTEL claim)"
+  }
+ ],
+ "note": "Ownership of CAMTEL (state or not) is not stated in this document, so no owner fact."
+}

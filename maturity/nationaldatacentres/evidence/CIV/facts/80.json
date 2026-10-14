@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-25-mtn-ci-catalogue-interconnexion-2024",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Côte d'Ivoire's 2024 interconnection catalogue offers third-party colocation (racks of 1U to 42U, with price list) in its data centres at Marcory, Bingerville, Yopougon and Yamoussoukro to operators and service providers; as_of is the catalogue's publication date, as it gives no opening date.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "MTN CI data centres (Marcory, Bingerville, Yopougon, Yamoussoukro)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN CI states in its catalogue that its colocation data centres have Tier 3-type characteristics (N+1 generators, DC sources, UPS and cooling), which is an operator statement with no Uptime Institute or TIA-942 certification given; as_of is the catalogue's publication date.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "MTN CI data centres (Marcory, Bingerville, Yopougon, Yamoussoukro)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN CI data centres (Marcory, Bingerville, Yopougon, Yamoussoukro)",
+   "country_label": "Datacenter MTN CI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Côte d'Ivoire",
+   "tiers": "Tier 3-type (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

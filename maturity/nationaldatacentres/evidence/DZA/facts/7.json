@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Constantine data centre has been operational since 2023, with cloud platforms for storing and processing the data of economic enterprises.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Data Center de Constantine"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mohammadia Data Center",
+   "country_label": "Centre de Mohammadia",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Algeria / Huawei",
+   "tiers": "state"
+  },
+  {
+   "system": "Data Center de Constantine",
+   "country_label": "Data Center de Constantine",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center de Blida",
+   "country_label": "Blida",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Algeria",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

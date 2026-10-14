@@ -1,0 +1,26 @@
+{
+ "slug": "2013-05-13-meninx-technologies-ouvre-le-premier-data-center-neutre-en-tunisie-wmc",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Meninx Technologies officially inaugurated Meninx Data Centre at Enfidha, 100 km from Tunis, on 10 May 2013, described as Tunisia's first private neutral data centre hosting clients' IT and telecom equipment, with a first 250 m2 of equipped rooms extensible to 1,000 m2.",
+   "as_of": "2013-05-10",
+   "date_precision": "day",
+   "system": "Meninx Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Meninx Data Centre",
+   "country_label": "Meninx Data Centre (Enfidha)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Meninx Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

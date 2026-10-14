@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BusinessDay, citing a Fortren & Company report, lists 21st Century Technologies' Ikeja Campus in Nigeria as an operational data centre with 36 MW of IT capacity, fourth largest in Africa; the document does not itself say it rents space to others, and gives as_of from its published date 2026-07-28.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "21st Century Technologies Ikeja Campus"
+  }
+ ],
+ "systems": [
+  {
+   "system": "21st Century Technologies Ikeja Campus",
+   "country_label": "21st Century Technologies Ikeja Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "21st Century Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra by Airtel Eko Atlantic (planned 38 MW)",
+   "country_label": "Nxtra by Airtel Eko Atlantic (planned 38 MW)",
+   "class": "",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  },
+  {
+   "system": "Open Access Data Centres Ilasan campus (planned 24 MW)",
+   "country_label": "Open Access Data Centres Ilasan campus (planned 24 MW)",
+   "class": "",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

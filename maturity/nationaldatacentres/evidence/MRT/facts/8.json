@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-08-ami-inauguration-data-center-nouakchott-1372m2-100-baies",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Nouakchott Data Centre (Centre de Donnees de Nouakchott), a state facility of 1,372 sq m and 100 racks, was inaugurated by the President on 2025-05-08, marking the start of operation, offering in-country cloud hosting, backup and disaster recovery to public administrations, financial institutions, startups and service providers (AMI).",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "AMI states the Nouakchott Data Centre, in service from its 2025-05-08 inauguration, holds a Level 3 (Tier III) certification (attributed to an 'AppTime Global Institute', apparently the Uptime Institute) with availability above 99.982 percent.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott National Data Centre",
+   "country_label": "Nouakchott National Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Nouakchott Data Centre",
+   "country_label": "Centre de Données de Nouakchott",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

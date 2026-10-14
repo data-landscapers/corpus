@@ -1,0 +1,26 @@
+{
+ "slug": "2012-01-18-accesskenya-completes-kes-30-million-upgrade-on-state-of-the-art-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "AccessKenya Group completed a Kes 30 million upgrade of its data centre (under-floor cooling, structured cabling) without interrupting client services, and sells clients data backup and disaster recovery; it claims to be 'at par with Tier 1 service providers' but states no Tier III or IV rating.",
+   "as_of": "2012-01-18",
+   "date_precision": "day",
+   "system": "AccessKenya data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AccessKenya data centre",
+   "country_label": "data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "AccessKenya Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

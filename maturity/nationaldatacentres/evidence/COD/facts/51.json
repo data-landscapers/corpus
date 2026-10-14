@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST Digital's press release of 2024-09-17 describes the OADC Texaf Kinshasa data centre (2MW) as the DRC's first live open-access, carrier-neutral data centre, hosting national and international carriers and colocating ST Digital; date is the release date as the document gives no opening date.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "OADC Texaf - Kinshasa"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The document describes the live OADC Texaf - Kinshasa data centre as Uptime Institute Tier-III certified (which Uptime certification type is not stated); date is the release date as no certification date is given.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "OADC Texaf - Kinshasa"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Texaf - Kinshasa",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC Texaf (Open Access Data Centres and TEXAF)",
+   "tiers": "Uptime Institute Tier III"
+  },
+  {
+   "system": "ST Digital cloud services",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

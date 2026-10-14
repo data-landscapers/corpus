@@ -1,0 +1,23 @@
+{
+ "slug": "2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iXAfrica NBOX1",
+   "country_label": "KEN",
+   "class": "datacentre",
+   "platform": "carrier-neutral hyperscale campus",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Zadara AI Sovereign Cloud",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "cloud hosted at NBOX1",
+   "owner": "TouchNet/Zadara",
+   "tiers": ""
+  }
+ ],
+ "note": "No ownership stated; no state systems hosted."
+}

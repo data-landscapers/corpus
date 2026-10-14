@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-senegal-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 5 live commercial data centre facilities in Senegal in 2025 (commercial meaning space and power leased to third parties), with about 1.8 MW live critical IT load and about 75% occupancy by third-party customers; no facility is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Senegal commercial data centres (unnamed)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

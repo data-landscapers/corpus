@@ -1,0 +1,106 @@
+{
+ "slug": "2026-07-07 CBN's local data order puts Nigeria's data centres to test",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Rack Centre, a Lagos colocation data centre, is operating and says it has recorded 100% uptime since inception 13 years earlier (CEO statement, TechCabal, 7 July 2026); the article counts about 18 commercial data centres in Nigeria renting space to banks, fintechs and cloud providers.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Rack Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "OADC (WIOCC) is running an operational 1.5 MW colocation data hall at its newest Lagos campus, per OADC's CEO at a 25 June 2026 media briefing; the campus is being expanded to 24 MW.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "OADC Lagos campus"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The operational 1.5 MW colocation data hall at OADC's Lagos campus is described as Tier-III certified, per OADC's CEO at a 25 June 2026 briefing; the certifying body is not named.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "OADC Lagos campus"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Galaxy Backbone, a government-owned technology services company, operates an Uptime Institute Certified Tier III national shared services centre and data centre in Abuja, per its communications head, who says it would host financial institutions' data.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Galaxy Backbone Abuja data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "The article states that Nigeria has at least two data centres for hire in service rated Tier III or IV: Galaxy Backbone's Uptime Institute Certified Tier III Abuja centre and Certified Tier IV Kano centre, plus OADC's Tier-III certified Lagos colocation hall (as claimed by the operator).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Galaxy Backbone Abuja data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Lagos campus",
+   "country_label": "OADC Lagos campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC)",
+   "tiers": "Tier III (operator-stated)"
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone Abuja data centre",
+   "country_label": "Galaxy Backbone Abuja data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Uptime Tier III"
+  },
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "Galaxy Backbone Kano data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "Uptime Tier IV"
+  },
+  {
+   "system": "Kasi Cloud LOS1 (Lekki)",
+   "country_label": "Kasi Cloud LOS1 (Lekki)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Kasi Cloud Datacenters",
+   "tiers": "described as under development"
+  },
+  {
+   "system": "Equinix Port Harcourt",
+   "country_label": "Equinix Port Harcourt",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": "article calls it Tier III-certified but links to a plans announcement; not recorded as in service"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

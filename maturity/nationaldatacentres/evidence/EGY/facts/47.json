@@ -1,0 +1,44 @@
+{
+ "slug": "2023-05-03-dcd-gpx-cairo-2-expansion-egp-2-7bn",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics (3 May 2023) reports GPX Global Systems opened its first Cairo data center in 2007 and currently operates two facilities in Cairo; the document does not say outright that it sells space to outside customers.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "GPX Cairo 1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics (3 May 2023) reports GPX Global Systems launched its Cairo 2 data center in 2015, and that it currently operates there (3,000 sqm, 5MW); GPX is a data center operator and the document does not say outright that it sells space to outside customers.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "GPX Cairo 2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPX Cairo 1",
+   "country_label": "Cairo 1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GPX Global Systems",
+   "tiers": ""
+  },
+  {
+   "system": "GPX Cairo 2",
+   "country_label": "Cairo 2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GPX Global Systems",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2020-10-31-midrand-africa-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres' page describes its JHB1 Midrand colocation data centre (8 data halls, 9,000 m2 white space) as operating, with private cages, secured racks and cross connects; the page date is a capture proxy.",
+   "as_of": "2020-10-31",
+   "date_precision": "day",
+   "system": "JHB1 Midrand"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Africa Data Centres states that the Midrand JHB1 site, being expanded by four halls and 10 MW, is built to a Tier-4 standard; this is an operator statement with no Uptime certification named, and the page date is a capture proxy.",
+   "as_of": "2020-10-31",
+   "date_precision": "day",
+   "system": "JHB1 Midrand"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JHB1 Midrand",
+   "country_label": "JHB1 Midrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": "Tier IV (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

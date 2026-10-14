@@ -1,0 +1,37 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Oracle Cloud Casablanca Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
+MAR,N+One Datacenters,,datacentre,,N+One,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
+MAR,Oracle Settat region (planned),,other,,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
+MAR,Maroc Datacenter Rabat facility,,datacentre,,Maroc Datacenter (3MDC),,2025-12-09-dcd-helios-fipar-3mdc-maroc-datacenter-munisys-medasys
+MAR,Orange Tech data centre,,datacentre,,Orange Maroc,"Uptime Institute certified, tier not stated",2025-11-24-techafricanews-orange-maroc-sustainable-data-center
+MAR,Orange Tech Data Center,Orange Tech Data Center,datacentre,,Orange Maroc,,2025-11-20-orange-maroc-supercharges-its-b2b-strategy-with-new-1-5-mw-data-center
+MAR,DXC-CDG data centre,,datacentre,,DXC Technology Morocco (DXC and Groupe CDG),Tier III TCCF (Uptime Institute),2024-07-18-forcinews-dxc-technology-morocco-tccf-tier-iii
+MAR,OVHcloud Local Zone Rabat,,other,,OVHcloud,,2024-05-30-dcd-ovhcloud-maroc-datacenter-local-zone-rabat
+MAR,Maroc Datacenter Rabat facility,,datacentre,,Maroc Datacenter,,2024-05-30-dcd-ovhcloud-maroc-datacenter-local-zone-rabat
+MAR,"N+One data centres (Nouaceur, Settat)",,datacentre,,N+One Datacenters,,2024-03-14-dcd-oracle-cloud-region-morocco-n-one
+MAR,"Oracle OCI Morocco region (not yet live, not on OCI upcoming list)",,other,,Oracle,,2024-03-14-dcd-oracle-cloud-region-morocco-n-one
+MAR,"N+One Nouaceur data centre (planned, 2,000 sqm)",,other,,N+One Datacenters,,2024-01-03-dcd-n-one-casablanca-nouaceur-data-centre-mou
+MAR,N+One data centres (two operating),,datacentre,,N+One Datacenters,,2024-01-03-dcd-n-one-casablanca-nouaceur-data-centre-mou
+MAR,N+One Datacenters,N+One,datacentre,,N+One Datacenters,,2023-08-22-dcd-aiim-90m-n-one-pan-african-data-centre-platform
+MAR,inwi business datacenter,inwibusiness datacenter,datacentre,,inwi,,2023-06-15-deux-solutions-de-cloud-souverain-pour-inwi
+MAR,"inwi sovereign cloud (VMware, OpenStack)",cloud souverain inwi,other,VMware; OpenStack,inwi,,2023-06-15-deux-solutions-de-cloud-souverain-pour-inwi
+MAR,Benguerir Data Center,Benguerir Data Center,datacentre,,UM6P with OCP Group,,2021-02-22-dcd-um6p-toubkal-supercomputer-benguerir-data-centre
+MAR,Toubkal supercomputer,Toubkal,other,"Dell PowerEdge C6420, Infiniband HDR100",UM6P,,2021-02-22-dcd-um6p-toubkal-supercomputer-benguerir-data-centre
+MAR,Benguerir Data Center,Benguerir Data Center (BDC),datacentre,,OCP Group with UM6P,,2020-08-26-infomediaire-ocp-benguerir-data-center-lancement
+MAR,inwi Rabat Technopolis data center,,datacentre,,inwi,,2019-01-29-dcd-inwi-fourth-data-centre-rabat-technopolis
+MAR,"Maroc Telecom enterprise DataCenter, Casablanca",DataCenter Entreprise,datacentre,,Maroc Telecom,,2018-06-27-immersion-dans-le-datacenter-de-maroc-telecom
+MAR,MT Cloud IaaS,MT Cloud IaaS,other,,Maroc Telecom,,2018-06-27-immersion-dans-le-datacenter-de-maroc-telecom
+MAR,"Maroc Telecom data center, Casablanca",,datacentre,,Maroc Telecom,,2018-06-27-un-data-center-maroc-telecom-dans-le-centre-ville-de-casablanca-pour-stocker-les
+MAR,N+One Casablanca data center,,datacentre,,N+One Datacenters,,2017-10-04-dcd-n-one-second-morocco-data-centre-disaster-recovery
+MAR,CASIX,CASIX,other,,,,2017-10-04-dcd-n-one-second-morocco-data-centre-disaster-recovery
+MAR,Maroc Datacenter,Maroc Datacenter (Temara),datacentre,,Medafrica Systems (Medasys),,2017-09-19-mcinet-maroc-datacenter-inauguration-temara
+MAR,Moroccan International Gateway Data Center,MAR,other,,planned joint venture of Medasys and Zircom Group (UK),,2017-09-19-mcinet-maroc-datacenter-inauguration-temara
+MAR,AWS Wavelength zone Casablanca,MAR,other,AWS Wavelength,Amazon Web Services with Orange Maroc,,2025-02-14-cloud-orange-maroc-sallie-a-amazon-web-services
+MAR,AWS Wavelength zone Casablanca,MAR,other,AWS Wavelength,Amazon Web Services with Orange,,2025-02-03-aws-launches-wavelength-zone-edge-location-in-morocco-with-orange
+MAR,N+ONE DATACENTERS Morocco campuses,MAR,datacentre,,N+ONE DATACENTERS,,2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture
+MAR,N+One Datacenters,N+One Datacenters,datacentre,,N+One (Moroccan operator),,2023-08-22-african-infrastructure-investment-managers-n-one-datacenters-2023-equity-record
+MAR,"Sovereign data centre, Rabat (50 MW, planned)",MAR,other,,,,2026-09-15-mar-panorapost-mou-vertiv-infrastructures-numeriques-cloud
+MAR,Igoudar Numérique Dakhla,MAR,,,,,2026-07-25-morocco-elected-african-telecommunications-union-council
+MAR,Nexus AI Factory,MAR,other,HPC data center (planned),Nexus Core Systems,,2026-04-13-techafricanews-morocco-nexus-ai-factory
+MAR,Nexus AI Factory,MAR,other,HPC data center (planned),Nexus Core Systems,,2026-04-08-mtnra-nexus-ai-factory-plateform-maroc
+MAR,Nexus AI Factory,MAR,other,HPC data center (planned),"Consortium led by Nexus Core Systems (Lloyds Capital, NAVER Cloud, Maroc Telecom backing)",,2025-06-18-nexus-core-lloyds-consortium-500mw-ai-factory

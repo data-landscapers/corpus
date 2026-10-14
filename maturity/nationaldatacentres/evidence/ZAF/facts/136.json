@@ -1,0 +1,26 @@
+{
+ "slug": "2011-07-26-vodacom-foreshore-cape-town-data-centre-opening",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Vodacom officially opened its Cape Town Foreshore data centre on 26 July 2011, built for business customers' hosted and cloud services (Vodacom release).",
+   "as_of": "2011-07-26",
+   "date_precision": "day",
+   "system": "Vodacom Cape Town Foreshore data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Cape Town Foreshore data centre",
+   "country_label": "Vodacom Cape Town Foreshore data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-28-tia-online-airtel-lekki-data-centre-tia-942-certification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "TIA Online lists Airtel Lekki Data Centre, Lagos with an ANSI/TIA-942-B Design certificate at Rated 3, certifier EPI, issued 2022-01-28 and expiring 2023-01-27.",
+   "as_of": "2022-01-28",
+   "date_precision": "day",
+   "system": "Airtel Lekki Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Lekki Data Centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Airtel Networks Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

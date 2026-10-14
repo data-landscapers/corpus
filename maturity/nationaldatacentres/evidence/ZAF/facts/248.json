@@ -1,0 +1,224 @@
+{
+ "slug": "2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Teraco Isando (Isando, Gauteng), operated by Teraco (Digital Realty), among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Teraco Isando",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Teraco Bredell (Bredell, Gauteng), operated by Teraco (Digital Realty), among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Teraco Bredell",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Africa Data Centres Midrand (Midrand, Gauteng), operated by Africa Data Centres (ADC), among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Africa Data Centres Midrand",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Africa Data Centres Samrand (Samrand, Gauteng), operated by Africa Data Centres (ADC), among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Africa Data Centres Samrand",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Vantage Waterfall City (Waterfall City, Gauteng (80MW campus)), operated by Vantage Data Centres, among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Vantage Waterfall City",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Equinix JN1 (Johannesburg), operated by Equinix, among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Equinix JN1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Teraco Brackenfell (Brackenfell, Cape Town), operated by Teraco, among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Teraco Brackenfell",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The DCDT presentation to the Portfolio Committee lists Africa Data Centres Cape Town (Cape Town), operated by Africa Data Centres (ADC), among South Africa's data centre operations, as in service in Feb 2026; owner not separately stated.",
+   "as_of": "2026-02",
+   "date_precision": "day",
+   "system": "Africa Data Centres Cape Town",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "The presentation names Teraco as '(Digital Realty)', a foreign group, as operator of its Isando campus, within a passage on government reliance on foreign-provided data centres.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Teraco Isando",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "The presentation names Teraco as '(Digital Realty)', a foreign group, as operator of its Bredell campus, within a passage on government reliance on foreign-provided data centres.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Teraco Bredell",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "SITA Centurion data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The DCDT states SITA, the State IT Agency, operates the Beta data centre (secondary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "SITA Beta data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Bredell",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Midrand",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Samrand",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Waterfall City",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vantage Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix JN1",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Brackenfell",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Cape Town",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (ADC)",
+   "tiers": ""
+  },
+  {
+   "system": "SITA Centurion data centre",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SITA (state agency)",
+   "tiers": ""
+  },
+  {
+   "system": "SITA Beta data centre",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SITA (state agency)",
+   "tiers": ""
+  },
+  {
+   "system": "National integrated government data centre (proposed)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "proposed, under SITA",
+   "tiers": ""
+  },
+  {
+   "system": "Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",
+   "country_label": "South Africa",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

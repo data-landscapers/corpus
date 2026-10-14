@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-17-ifc-orange-mali-80m-loan-4g-fibre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Sonatel Rufisque Data Center (Sonatel (Orange Senegal)), colocation/carrier-neutral, in service; this document names it (published 2025-11-17).",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "Sonatel Rufisque Data Center"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

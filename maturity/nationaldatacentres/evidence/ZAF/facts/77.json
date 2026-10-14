@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-08 Teraco completes JB5 data center in Johannesburg, South Africa (DCD)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data Center Dynamics reports Teraco completed JB5, its eighth South African data centre and third at the Isando campus (12 halls), bringing the campus to 70MW; the article gives no completion date, so its published date is used.",
+   "as_of": "2025-06-08",
+   "date_precision": "day",
+   "system": "Teraco JB5"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco JB5",
+   "country_label": "Teraco JB5",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco JB7",
+   "country_label": "Teraco JB7",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

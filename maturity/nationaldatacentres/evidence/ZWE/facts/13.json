@@ -1,0 +1,26 @@
+{
+ "slug": "2022-03-25-263chat-telone-us1m-mazowe-data-centre-extension",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TelOne commissioned a US$1 million extension to its Mazowe Data Centre, completing a fourth Performance Optimised Data Centre and growing it from 14 to 34 racks (300kW IT load); the facility serves organisations consolidating IT and TelOne offers cloud services (virtual private servers, web and email hosting) from it.",
+   "as_of": "2022-03-24",
+   "date_precision": "day",
+   "system": "TelOne Mazowe Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne Mazowe Data Centre",
+   "country_label": "Mazowe Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

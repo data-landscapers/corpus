@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-19-microsoft-136bn-ai-cross-border-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Microsoft operates cloud data centres in Johannesburg and Cape Town, launched in 2019 and serving outside customers such as South African banks running workloads on Azure.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Microsoft South Africa North (Johannesburg) and South Africa West (Cape Town)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Microsoft Azure South Africa North (Johannesburg)",
+   "country_label": "South Africa North",
+   "class": "datacentre",
+   "platform": "Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft Azure South Africa West (Cape Town)",
+   "country_label": "South Africa West",
+   "class": "datacentre",
+   "platform": "Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  },
+  {
+   "system": "AWS Outposts",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

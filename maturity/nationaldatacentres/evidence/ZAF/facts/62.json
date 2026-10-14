@@ -1,0 +1,52 @@
+{
+ "slug": "2026-01-02-dcd-zaf-oadc-ntt-seven-data-centres-ccsa-approval",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DCD reports Open Access Data Centres (OADC), a carrier-neutral operator owned by WIOCC, has facilities in South Africa in Johannesburg, Durban and Cape Town (two); as_of is the article date.",
+   "as_of": "2026-01-02",
+   "date_precision": "day",
+   "system": "OADC data centres"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DCD reports NTT opened the first phase of a 12 MW hyperscale-focused Johannesburg data centre, JOH1, in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "NTT JOH1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC data centres",
+   "country_label": "OADC data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC)",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Data SA seven data centres",
+   "country_label": "NTT Data SA seven data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT Data SA, to OADC",
+   "tiers": ""
+  },
+  {
+   "system": "NTT JOH1",
+   "country_label": "NTT JOH1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT Data",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

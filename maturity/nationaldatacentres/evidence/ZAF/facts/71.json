@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco, a carrier-neutral colocation provider, announced on 10 November 2025 completion of its CT2 hyperscale data centre expansion in Cape Town, taking CT2 to 50MW critical IT load (16 halls) and Teraco's platform to 189MW across Isando, Bredell, Cape Town and Durban; no Tier rating is stated.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "Teraco CT2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco CT2",
+   "country_label": "CT2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco CT1",
+   "country_label": "CT1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2023-11-15-teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capaci",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco, a carrier-neutral colocation provider, announced completion of the DB1 Durban expansion, doubling the operating facility to 2.2MW critical load and over 700 racks, offering colocation and interconnection to clients.",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Teraco DB1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco DB1",
+   "country_label": "Teraco DB1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Isando JB1/JB3/JB5",
+   "country_label": "Teraco Isando JB1/JB3/JB5",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Bredell JB2/JB4",
+   "country_label": "Teraco Bredell JB2/JB4",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Cape Town CT1/CT2",
+   "country_label": "Teraco Cape Town CT1/CT2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

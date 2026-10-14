@@ -1,0 +1,34 @@
+{
+ "slug": "2022-11-07-teraco-breaks-ground-on-jb5-a-30mw-data-centre-expansion-to-isando-campus",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco, a vendor-neutral data centre provider, operates existing facilities JB1 and JB3 on its Isando Campus in Ekurhuleni, with network, peering and cloud on-ramp access for clients; the document gives no opening date, so the article date 2022-11-07 is used.",
+   "as_of": "2022-11-07",
+   "date_precision": "day",
+   "system": "Teraco JB1/JB3 (Isando Campus)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JB1/JB3",
+   "country_label": "Teraco Isando Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "JB5",
+   "country_label": "Teraco Isando Campus JB5 (under construction, due 2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNQ-001,GNQ,national,centre,service,"Data centres dataset: Sipopo Datacenter (GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)), colocation/carrier-neutral, in service; this document names it (published 2025-07-01).",2025-07-01,day,Sipopo Datacenter,datacentre,2025-07-01-gitge-informe-anual,https://gitge.com/wp-content/uploads/2025/07/PRESENTACION-6.pdf

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-03-dcd-n-one-casablanca-nouaceur-data-centre-mou",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "N+One Datacenters, a Casablanca-based data centre operator founded in 2008, operates two data centres in Morocco (unnamed here); a third, 2,000 sqm, at Nouaceur is only planned for later in 2024 (DCD, 3 January 2024; as_of is the article date, none given).",
+   "as_of": "2024-01-03",
+   "date_precision": "day",
+   "system": "N+One data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One Nouaceur data centre (planned, 2,000 sqm)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  },
+  {
+   "system": "N+One data centres (two operating)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

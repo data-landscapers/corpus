@@ -1,0 +1,26 @@
+{
+ "slug": "2019-06-17-mtn-benin-lance-son-service-data-center-ciomag",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Bénin launched its data centre service for start-ups and firms of all sizes on 14 June 2019, offering outsourced hosting, off-site backup and disaster recovery.",
+   "as_of": "2019-06-14",
+   "date_precision": "day",
+   "system": "MTN Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Data Center",
+   "country_label": "service data center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Bénin",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

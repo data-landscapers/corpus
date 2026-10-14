@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+STP,INIC hosting service (Alojamento Web),STP,other,,"INIC (Instituto de Inovação e Conhecimento), state",,2026-01-01-inic-sao-tome-alojamento-web-soberania-territorio-nacional
+STP,Centro de Dados (government),STP,other,,,,2024-07-23-inic-sao-tome-estrategia-nacional-ciberseguranca-d3
+STP,"Centro de Dados (government data centre, INIC)",STP,other,,INIC / State of STP,,2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital
+STP,SIGA hosted at University of Aveiro cloud,PRT,datacentre,cloud,University of Aveiro,,2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital

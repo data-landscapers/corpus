@@ -1,0 +1,44 @@
+{
+ "slug": "2014-09-09-htxt-bcx-twin-tier-iv-midrand-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "BCX announced in February 2014 that its two Midrand data centres, NDC1 and NDC2 (New Road Data Centre 2), are both Uptime Institute Tier IV certified; the article says BCX sells managed hosting and colocation from them.",
+   "as_of": "2014-02",
+   "date_precision": "month",
+   "system": "BCX NDC1 and NDC2"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BCX's NDC1 and NDC2 data centres in Midrand are operating and sell managed hosting space and racks for customer colocation (Hypertext, 2014-09-09).",
+   "as_of": "2014-09-09",
+   "date_precision": "day",
+   "system": "BCX NDC1 and NDC2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCX NDC1",
+   "country_label": "New Road Data Centre 1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Business Connexion (BCX)",
+   "tiers": ""
+  },
+  {
+   "system": "BCX NDC2",
+   "country_label": "New Road Data Centre 2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Business Connexion (BCX)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

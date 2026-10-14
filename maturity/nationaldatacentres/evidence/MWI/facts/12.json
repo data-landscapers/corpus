@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-sparc-systems-new-data-centre-lilongwe",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Sparc Systems unveiled its new Lilongwe data centre, with capacity for up to 120 racks, to provide secure data hosting for institutions inside and outside the country; as_of is the article's published date as no launch date is given.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "Sparc Systems data centre, Lilongwe"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sparc Systems data centre, Lilongwe",
+   "country_label": "MWI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sparc Systems",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

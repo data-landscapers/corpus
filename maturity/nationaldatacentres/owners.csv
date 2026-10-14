@@ -1,0 +1,372 @@
+iso3,owner,national,basis
+AGO,Africell,no,dataset ownership_type
+AGO,Angola Cables,yes,dataset ownership_type
+AGO,Paratus,no,dataset ownership_type
+AGO,Raxio Data Centres,no,"parent: Raxio Group (Roha, Meridiam)"
+AGO,Raxio Group,no,"parent: Raxio Group (Roha, Meridiam)"
+BDI,Burundi Backbone System (BBS),yes,parent: state company
+BEN,Isocel Telecom,no,dataset ownership_type
+BEN,MTN Bénin,no,parent: MTN Group (South Africa)
+BEN,SBIN,yes,dataset ownership_type
+BEN,ST DIGITAL,no,"parent: ST Digital, Cameroonian"
+BFA,IKA Solution,,
+BFA,IKA Solution LTD,,
+BFA,Virtual Technologies & Solutions (VTS),yes,dataset ownership_type
+BWA,BTC Limited (BTCL),yes,parent: Botswana state holds 51 %
+BWA,BoFiNet,yes,dataset ownership_type
+BWA,BoFiNet (100% government-owned),yes,dataset ownership_type
+BWA,BoFiNet (government-owned),yes,dataset ownership_type
+BWA,BoFiNet (state),yes,dataset ownership_type
+BWA,Botswana Digital & Innovation Hub (BDIH),yes,dataset ownership_type
+BWA,Botswana Digital and Innovation Hub,yes,dataset ownership_type
+BWA,Botswana Telecommunications Corporation (BTC),yes,dataset ownership_type
+BWA,"telcos, infracos, a state agency",,
+CIV,Equinix (ex-MainOne),no,dataset ownership_type
+CIV,Groupement Orange Services S.A (Orange MEA),no,parent: Orange (France)
+CIV,Kaydan Digital (Groupe Kaydan),yes,dataset ownership_type
+CIV,MTN Cote d'Ivoire,no,dataset ownership_type
+CIV,MTN Côte d'Ivoire,no,dataset ownership_type
+CIV,MainOne,no,dataset ownership_type
+CIV,MainOne (Equinix),no,dataset ownership_type
+CIV,MainOne Cable Company,no,dataset ownership_type
+CIV,Orange,no,dataset ownership_type
+CIV,Raxio,no,dataset ownership_type
+CIV,Raxio Cote d'Ivoire,no,dataset ownership_type
+CIV,Raxio Group,no,dataset ownership_type
+CIV,ST DIGITAL AFRICA,no,dataset ownership_type
+CIV,ST Digital,no,dataset ownership_type
+CIV,VITIB (donated by MTN),yes,parent: state-owned free zone company
+CIV,VITIB S.A.,yes,parent: state-owned free zone company
+CMR,Anthony Same (majority owner),yes,"parent: ST Digital, Cameroonian-owned"
+CMR,CAMTEL,yes,dataset ownership_type
+CMR,Campost,yes,dataset ownership_type
+CMR,Camtel,yes,dataset ownership_type
+CMR,Orange,no,dataset ownership_type
+CMR,Orange Cameroun,no,dataset ownership_type
+CMR,ST DIGITAL,yes,dataset ownership_type
+CMR,ST DIGITAL AFRICA,yes,dataset ownership_type
+CMR,ST Digital,yes,dataset ownership_type
+CMR,ST Digital (Cameroon-based),yes,dataset ownership_type
+COD,,no,"parent: OADC Texaf, WIOCC and Texaf (Belgian-listed)"
+COD,OADC Texaf (Open Access Data Centres and TEXAF),no,dataset ownership_type
+COD,OADC Texaf DC,no,dataset ownership_type
+COD,OADC Texaf Digital (OADC and TEXAF joint venture),no,dataset ownership_type
+COD,Open Access Data Centres,no,dataset ownership_type
+COD,Open Access Data Centres (WIOCC) and TEXAF joint venture,no,dataset ownership_type
+COD,Raxio,no,dataset ownership_type
+COD,Raxio Group,no,dataset ownership_type
+COD,ST DIGITAL AFRICA,no,"parent: ST Digital, Cameroonian"
+COD,WIOCC,no,"parent: WIOCC, Mauritius"
+COD,WIOCC / OADC,no,"parent: WIOCC, Mauritius"
+COG,ARPCE,yes,dataset ownership_type
+COG,ST DIGITAL,no,"parent: ST Digital, Cameroonian"
+COG,Telecoms providers,,
+COM,ANADEN and Comores Câbles (co-managed),yes,dataset ownership_type
+COM,Comores Câbles,yes,dataset ownership_type
+CPV,NOSi,yes,parent: state enterprise
+CPV,"NOSi, E.P.E.",yes,parent: state enterprise
+DJI,,,
+DJI,Djibouti Telecom,yes,dataset ownership_type
+DJI,Djibouti Telecom (predominantly),yes,dataset ownership_type
+DJI,Wingu Africa,no,"parent: Wingu Africa, foreign-owned"
+DJI,Wingu with TO7,no,"parent: Wingu Africa, foreign-owned"
+DJI,Wingu.Africa,no,"parent: Wingu Africa, foreign-owned"
+DZA,ADEX Technology,yes,dataset ownership_type
+DZA,AYRADE,yes,dataset ownership_type
+DZA,Adex Cloud,yes,dataset ownership_type
+DZA,Algerie Telecom,yes,dataset ownership_type
+DZA,Ayrade,yes,dataset ownership_type
+DZA,"HostArts, Ayrade, ICOSNET, ISSAL",yes,parent: Algerian companies
+DZA,I-Cloud development group,yes,parent: Algerian company
+DZA,ICOSNET,yes,dataset ownership_type
+DZA,Iconsnet,yes,"parent: ICOSNET, Algerian"
+EGY,Administrative Capital for Urban Development; Orange Egypt,yes,"parent: ACUD, owned by the Egyptian state, owns the facility"
+EGY,GPX Global Systems,no,dataset ownership_type
+EGY,"GPX Global Systems, Inc.",no,dataset ownership_type
+EGY,Huawei,no,dataset ownership_type
+EGY,Huawei Cloud,no,dataset ownership_type
+EGY,Liquid Intelligent Technologies,no,"parent: Cassava Technologies, London"
+EGY,Orange Egypt,no,dataset ownership_type
+EGY,Raya Holding,yes,dataset ownership_type
+EGY,Raya Holding / Raya Information Technology,yes,dataset ownership_type
+EGY,Raya Holding Group,yes,dataset ownership_type
+EGY,Raya Information Technology,yes,dataset ownership_type
+EGY,Telecom Egypt,yes,parent: Egyptian state holds 80 %
+EGY,Vodafone Egypt and Cassava Technologies,no,dataset ownership_type
+ERI,Eritel Telecom Corporation,yes,dataset ownership_type
+ETH,Cloud 251,,
+ETH,Ethio Telecom,yes,dataset ownership_type
+ETH,Raxio Group,no,dataset ownership_type
+ETH,RedFox Solutions Group,yes,dataset ownership_type
+ETH,Redfox Solutions,yes,dataset ownership_type
+ETH,Wingu Africa,no,dataset ownership_type
+ETH,Wingu.Africa,no,dataset ownership_type
+ETH,"mix of fiber infracos, government agency, MNO and carrier-neutral operators",,
+GAB,,no,"parent: ST Digital, Cameroonian"
+GAB,ST Digital,no,dataset ownership_type
+GAB,ST Digital Gabon,no,dataset ownership_type
+GHA,,,
+GHA,African Infrastructure Investment Managers,no,dataset ownership_type
+GHA,Digital Realty,no,dataset ownership_type
+GHA,Equinix (formerly MainOne),no,dataset ownership_type
+GHA,MainOne / MDXi,no,dataset ownership_type
+GHA,NITA Ghana,yes,dataset ownership_type
+GHA,"Onix (majority-owned by AIIM, Old Mutual)",no,dataset ownership_type
+GHA,Onix Data Centres,no,dataset ownership_type
+GHA,Onix Data Centres (AIIM AIIF3),no,dataset ownership_type
+GHA,PAIX,no,dataset ownership_type
+GHA,PAIX Data Centres,no,dataset ownership_type
+GIN,GUILAB S.A,yes,dataset ownership_type
+GIN,State; COREX,yes,parent: the state
+KEN,,no,"parent: East Africa Data Centre, Liquid (Cassava, London)"
+KEN,AccessKenya Group,no,dataset ownership_type
+KEN,Africa Data Centres,no,dataset ownership_type
+KEN,Africa Data Centres (Cassava Technologies),no,dataset ownership_type
+KEN,Africa Data Centres Holdings Limited,no,dataset ownership_type
+KEN,Digital Realty,no,dataset ownership_type
+KEN,Digital Realty (US-controlled),no,dataset ownership_type
+KEN,Digital Realty (formerly icolo),no,dataset ownership_type
+KEN,Digital Realty (operated by iColo),no,dataset ownership_type
+KEN,Government of Kenya,yes,dataset ownership_type
+KEN,IXAfrica Data Centres,no,dataset ownership_type
+KEN,Icolo (Interxion),no,dataset ownership_type
+KEN,Konza Technopolis Development Authority,yes,dataset ownership_type
+KEN,Liquid Intelligent Technologies (Cassava Technologies),no,"parent: Cassava Technologies, London"
+KEN,Liquid Intelligent Technologies Kenya,no,"parent: Cassava Technologies, London"
+KEN,MTN Business Kenya,no,dataset ownership_type
+KEN,Nkponani Limited (Nobus Cloud Services),no,"parent: Nobus, Nigerian"
+KEN,Nxtra by Airtel Africa,no,dataset ownership_type
+KEN,PAIX,no,dataset ownership_type
+KEN,PAIX Data Centres,no,dataset ownership_type
+KEN,Safaricom,yes,"parent: no foreign group holds a majority (Vodacom and Vodafone 44.9 %, Kenya state 35 %)"
+KEN,Telkom Kenya,yes,dataset ownership_type
+KEN,iColo,no,dataset ownership_type
+KEN,iColo (Digital Realty),no,dataset ownership_type
+KEN,iXAfrica,no,dataset ownership_type
+KEN,iXAfrica Data Centres,no,dataset ownership_type
+KEN,icolo.io,no,parent: Digital Realty (US)
+KEN,icolo.io (Digital Realty),no,parent: Digital Realty (US)
+LBR,Cable Consortium of Liberia,yes,dataset ownership_type
+LBR,LIBTELCO,yes,parent: state telecom
+LBY,ALAAN,,
+LBY,Libyan Spider,yes,dataset ownership_type
+LBY,Misrata Free Zone,yes,dataset ownership_type
+LSO,Vodacom Lesotho,no,dataset ownership_type
+MAR,DXC Technology Morocco (DXC and Groupe CDG),no,dataset ownership_type
+MAR,Maroc Datacenter,yes,dataset ownership_type
+MAR,Maroc Datacenter (3MDC),yes,dataset ownership_type
+MAR,Maroc Telecom,no,parent: e& (UAE) holds 53 %
+MAR,Medafrica Systems (Medasys),yes,parent: Moroccan company
+MAR,N+ONE DATACENTERS,yes,parent: Moroccan operator
+MAR,N+One,yes,parent: Moroccan operator
+MAR,N+One (Moroccan operator),yes,parent: Moroccan operator
+MAR,N+One Datacenters,yes,parent: Moroccan operator
+MAR,OCP Group with UM6P,yes,dataset ownership_type
+MAR,Oracle,no,parent: Oracle (US)
+MAR,Orange Maroc,yes,dataset ownership_type
+MAR,UM6P with OCP Group,yes,"parent: OCP Group and UM6P, Moroccan state group"
+MAR,inwi,yes,dataset ownership_type
+MDG,STELLARIX,yes,"parent: Axian Group, headquartered in Antananarivo"
+MLI,"Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernization)",yes,dataset ownership_type
+MLI,Société malienne de transmission et de diffusion (SMTD),yes,dataset ownership_type
+MOZ,Digital Realty,no,dataset ownership_type
+MOZ,Digital Realty (iColo),no,dataset ownership_type
+MOZ,Raxio,no,dataset ownership_type
+MOZ,Raxio Group,no,dataset ownership_type
+MOZ,Vodacom Mozambique,no,dataset ownership_type
+MOZ,iColo (a Digital Realty company),no,dataset ownership_type
+MRT,Government of Mauritania,yes,dataset ownership_type
+MRT,International Mauritania Telecom (IMT),,
+MUS,,yes,parent: Rose Belle is Mauritius Telecom's; no foreign majority
+MUS,Aphelion,yes,dataset ownership_type
+MUS,BIRGER,,
+MUS,Bhumishq,,
+MUS,Emtel,yes,dataset ownership_type
+MUS,Emtel Ltd,yes,dataset ownership_type
+MUS,Harel Mallac Technologies,yes,dataset ownership_type
+MUS,Mauritius Telecom,yes,dataset ownership_type
+MUS,Rogers Capital,yes,dataset ownership_type
+MUS,Rogers Capital Technology Services,yes,dataset ownership_type
+MWI,ESCOM (Optic Fibre Communications business),yes,dataset ownership_type
+MWI,Government of Malawi; operated with Ministry of Information and ESCOM,yes,dataset ownership_type
+MWI,Sparc Systems,yes,dataset ownership_type
+MWI,TNM (acquired from OpenConnect Limited),yes,dataset ownership_type
+NAM,Airbus and Namibia University of Science & Technology,yes,dataset ownership_type
+NAM,Paratus,yes,"parent: Paratus Group, Namibian, listed in Windhoek"
+NAM,Paratus Namibia,yes,"parent: Paratus Group, Namibian, listed in Windhoek"
+NGA,,,
+NGA,21st Century Technologies,yes,dataset ownership_type
+NGA,21st Century Technologies Limited,yes,dataset ownership_type
+NGA,AFRICLOUD,,
+NGA,Actis and Jagal,no,parent: Actis (UK) holds the majority of Rack Centre
+NGA,"Actis, Convergence Partners, Jagal",no,parent: Actis (UK) holds the majority of Rack Centre
+NGA,Africa Data Centres,no,dataset ownership_type
+NGA,Africa Data Centres (Cassava Technologies),no,dataset ownership_type
+NGA,Airtel Networks Limited,no,dataset ownership_type
+NGA,Airtel Nigeria,no,dataset ownership_type
+NGA,Cloud Exchange West Africa,no,dataset ownership_type
+NGA,Digital Realty,no,dataset ownership_type
+NGA,Equinix,no,dataset ownership_type
+NGA,Equinix (MainOne Solutions by Equinix),no,dataset ownership_type
+NGA,Equinix (ex-MainOne),no,dataset ownership_type
+NGA,Equinix (from 2022-04-05),no,dataset ownership_type
+NGA,Fringe Infrastructure,yes,dataset ownership_type
+NGA,Fringe Infrastructure Limited,yes,dataset ownership_type
+NGA,Galaxy Backbone,yes,dataset ownership_type
+NGA,Galaxy Backbone (government),yes,dataset ownership_type
+NGA,Galaxy Backbone Limited,yes,dataset ownership_type
+NGA,Galaxy Backbone Plc,yes,dataset ownership_type
+NGA,Government,yes,dataset ownership_type
+NGA,Huawei,no,parent: Huawei (China)
+NGA,INQ.Digital,no,dataset ownership_type
+NGA,Internet Solutions West Africa,no,dataset ownership_type
+NGA,"Jagal, majority stake to Actis (2020)",no,parent: Actis (UK) holds the majority of Rack Centre
+NGA,Kasi Cloud,yes,parent: Nigerian company; NSIA among its investors
+NGA,Kasi Cloud (investor: Nigeria Sovereign Investment Authority),yes,parent: Nigerian company; NSIA among its investors
+NGA,Kasi Cloud Datacenters,yes,parent: Nigerian company; NSIA among its investors
+NGA,MTN,no,parent: MTN Group (South Africa) holds the majority
+NGA,MTN Nigeria,no,parent: MTN Group (South Africa) holds the majority
+NGA,MTN Nigeria (Bayobab),no,parent: MTN Group (South Africa) holds the majority
+NGA,MTN Nigeria Communications Limited,no,parent: MTN Group (South Africa) holds the majority
+NGA,MainOne,no,parent: Equinix (US) since 2022
+NGA,MainOne (Equinix),no,parent: Equinix (US) since 2022
+NGA,MainOne / MDX-i,no,parent: Equinix (US) since 2022
+NGA,Medallion Communications,no,parent: Digital Realty (US) holds the controlling stake
+NGA,Medallion Communications (controlling stake acquired by Interxion/Digital Realty),no,parent: Digital Realty (US) holds the controlling stake
+NGA,Medallion Data Centres,no,parent: Digital Realty (US) holds the controlling stake
+NGA,Medallion Data Centres / Digital Realty,no,parent: Digital Realty (US) holds the controlling stake
+NGA,NTT,no,dataset ownership_type
+NGA,Nkponani Limited,yes,"parent: Nobus, Nigerian"
+NGA,OADC,no,dataset ownership_type
+NGA,OADC (WIOCC),no,dataset ownership_type
+NGA,Open Access Data Centre,no,dataset ownership_type
+NGA,Open Access Data Centres,no,dataset ownership_type
+NGA,Open Access Data Centres (WIOCC Group),no,dataset ownership_type
+NGA,Rack Centre,no,dataset ownership_type
+NGA,Rack Centre (Actis majority owned),no,dataset ownership_type
+NGA,"Rack Centre (Actis, Convergence Partners, Jagal)",no,dataset ownership_type
+NGA,Rack Centre (Jagal Group),no,dataset ownership_type
+NGA,Tetracore Energy Group,yes,parent: Nigerian company
+NGA,WIOCC,no,dataset ownership_type
+NGA,WIOCC Group,no,dataset ownership_type
+NGA,ipNX Nigeria Ltd,yes,dataset ownership_type
+RWA,TransAfrica Communications (TrAC),yes,dataset ownership_type
+SDN,Ministry of Digital Transformation and Communications,yes,dataset ownership_type
+SDN,Sudani,yes,parent: Sudatel subsidiary
+SDN,Sudatel,yes,dataset ownership_type
+SDN,Sudatel (Sudani),yes,dataset ownership_type
+SEN,ADIE (Agence de l'informatique de l'Etat),yes,parent: state agency
+SEN,ADIE / Senegal Numerique SA,yes,parent: state agency
+SEN,Government of Senegal / ADIE,yes,dataset ownership_type
+SEN,N+ONE DATACENTERS,no,"parent: N+One, Moroccan"
+SEN,"Onix (majority-owned by AIIM, Old Mutual)",no,dataset ownership_type
+SEN,Onix Data Centres,no,dataset ownership_type
+SEN,Onix Data Centres (partner La Colombe Group),no,dataset ownership_type
+SEN,STELLARIX (AXIAN Group),no,dataset ownership_type
+SEN,SenConnect (Millicom) for Tigo,,
+SEN,Senegal Numerique SA (SENUM),yes,dataset ownership_type
+SEN,Sonatel,yes,dataset ownership_type
+SEN,Stellarix Senegal (Axian),no,dataset ownership_type
+SOM,Golis Telecom,yes,dataset ownership_type
+SSD,Trinity Technologies Limited,yes,dataset ownership_type
+SWZ,Royal Science and Technology Park (RSTP),yes,dataset ownership_type
+SYC,Airtel Seychelles,no,dataset ownership_type
+SYC,Cable & Wireless (Seychelles) Limited,yes,dataset ownership_type
+SYC,Cable & Wireless Seychelles,yes,dataset ownership_type
+TCD,Tigo Tchad (Millicom),no,dataset ownership_type
+TGO,,yes,"parent: the Lomé Data Centre is the SIN's, state-owned"
+TGO,Government of Togo,yes,dataset ownership_type
+TGO,ST DIGITAL,no,"parent: ST Digital, Cameroonian"
+TGO,ST DIGITAL AFRICA,no,"parent: ST Digital, Cameroonian"
+TGO,Société d'Infrastructures Numériques (SIN),yes,dataset ownership_type
+TGO,"Société d'Infrastructures Numériques (SIN), state-owned",yes,dataset ownership_type
+TGO,"Société d'infrastructures numériques (SIN), state; transfer to a private operator authorised 2022-12-21",yes,dataset ownership_type
+TUN,DataXion,yes,dataset ownership_type
+TUN,Meninx Holding,yes,dataset ownership_type
+TUN,Meninx Technologies,yes,dataset ownership_type
+TUN,"Ooredoo (Syntys, minority stake Iron Mountain)",no,dataset ownership_type
+TUN,Orange Tunisie,yes,dataset ownership_type
+TUN,Poulina Group Holding,yes,dataset ownership_type
+TUN,Syntys (Ooredoo),no,dataset ownership_type
+TUN,Tunisie Telecom,yes,dataset ownership_type
+TZA,Raxio Group,no,dataset ownership_type
+TZA,"Raxio Group (Roha, Meridiam)",no,dataset ownership_type
+TZA,TTCL,yes,dataset ownership_type
+TZA,Vodacom Tanzania,no,dataset ownership_type
+TZA,Wingu Africa,no,dataset ownership_type
+TZA,Wingu.Africa (founders and Africa Capitalworks),no,dataset ownership_type
+UGA,Government agency,yes,dataset ownership_type
+UGA,Raxio,no,dataset ownership_type
+UGA,Raxio Group,no,dataset ownership_type
+UGA,"Raxio Group (First Brick Holdings, Roha Group)",no,dataset ownership_type
+ZAF,Africa Data Centres,no,parent: Cassava Technologies is headquartered in London; no South African majority
+ZAF,Africa Data Centres (Cassava Technologies),no,parent: Cassava Technologies is headquartered in London; no South African majority
+ZAF,Africa Data Centres (Liquid Telecom),no,parent: Cassava Technologies is headquartered in London; no South African majority
+ZAF,Africa Data Centres / Cassava Technologies,no,parent: Cassava Technologies is headquartered in London; no South African majority
+ZAF,Africa Data Centres Holdings Limited (UK),no,parent: Cassava Technologies is headquartered in London; no South African majority
+ZAF,Amazon Web Services,no,dataset ownership_type
+ZAF,BCX (Telkom),yes,dataset ownership_type
+ZAF,Business Connexion (BCX),yes,dataset ownership_type
+ZAF,Cassava ADC,no,parent: Cassava Technologies is headquartered in London
+ZAF,Cassava Technologies,no,parent: Cassava Technologies is headquartered in London
+ZAF,Cassava Technologies (Africa Data Centres),no,parent: Cassava Technologies is headquartered in London
+ZAF,Continent 8 Technologies,no,parent: Isle of Man company
+ZAF,Digital Parks Africa,yes,"parent: owned by Master Power Technologies, a South African group"
+ZAF,Digital Parks Africa (Master Power Technologies),yes,"parent: owned by Master Power Technologies, a South African group"
+ZAF,Digital Realty,no,dataset ownership_type
+ZAF,"Digital Realty (majority), Berkshire Partners and Permira consortium",no,dataset ownership_type
+ZAF,Equinix,no,dataset ownership_type
+ZAF,Equinix South Africa,no,dataset ownership_type
+ZAF,Google,no,dataset ownership_type
+ZAF,Google Cloud,no,dataset ownership_type
+ZAF,Hetzner,yes,dataset ownership_type
+ZAF,Huawei,no,dataset ownership_type
+ZAF,Huawei (leased from an unnamed partner),no,dataset ownership_type
+ZAF,Internet Solutions,no,parent: owned by NTT (Japan) through Dimension Data
+ZAF,Liquid Intelligent Technologies,no,"parent: Liquid, a Cassava company headquartered in London"
+ZAF,Liquid Telecommunications South Africa (Pty) Ltd,no,"parent: Liquid, a Cassava company headquartered in London"
+ZAF,Microsoft,no,dataset ownership_type
+ZAF,NTT,no,parent: NTT (Japan)
+ZAF,NTT Data,no,parent: NTT (Japan)
+ZAF,"NTT Data SA, to OADC",no,parent: NTT (Japan)
+ZAF,NTT Data South Africa,no,parent: NTT (Japan)
+ZAF,NTT global data centre business,no,parent: NTT (Japan)
+ZAF,OADC (WIOCC),no,"parent: WIOCC, Mauritius"
+ZAF,OADC (WIOCC); leased back to NTT Data,no,"parent: WIOCC, Mauritius"
+ZAF,OADC / WIOCC,no,"parent: WIOCC, Mauritius"
+ZAF,OADC PropCo South Africa,no,"parent: WIOCC, Mauritius"
+ZAF,Open Access Data Centres,no,dataset ownership_type
+ZAF,Open Access Data Centres (WIOCC),no,dataset ownership_type
+ZAF,Open Access Data Centres (Wiocc Group),no,dataset ownership_type
+ZAF,Open Access Data Centres (Wiocc),no,dataset ownership_type
+ZAF,Open Access Data Centres (leased to NTT Data SA),no,dataset ownership_type
+ZAF,Oracle,no,dataset ownership_type
+ZAF,RSAWeb,yes,dataset ownership_type
+ZAF,Telkom Openserve,yes,dataset ownership_type
+ZAF,Teraco,no,dataset ownership_type
+ZAF,Teraco (Digital Realty),no,dataset ownership_type
+ZAF,Teraco Data Environments (Digital Realty),no,dataset ownership_type
+ZAF,Teraco Data Environments (Pty) Ltd,no,dataset ownership_type
+ZAF,Teraco Group,no,dataset ownership_type
+ZAF,Vantage Data Centers,no,dataset ownership_type
+ZAF,Vantage Data Centers South Africa (selling); Main Street 2156 (acquiring),no,dataset ownership_type
+ZAF,Vantage Data Centres,no,dataset ownership_type
+ZAF,Vodacom,no,dataset ownership_type
+ZAF,Vodacom Business,no,dataset ownership_type
+ZAF,Vox,yes,dataset ownership_type
+ZAF,WIOCC / OADC,no,"parent: WIOCC, Mauritius"
+ZAF,Wiocc,no,dataset ownership_type
+ZAF,xneelo,yes,dataset ownership_type
+ZMB,Government of Zambia,yes,dataset ownership_type
+ZMB,Government of Zambia / ZICTA,yes,dataset ownership_type
+ZMB,Government of Zambia via Infratel,yes,dataset ownership_type
+ZMB,"Government of Zambia, run by Infratel",yes,dataset ownership_type
+ZMB,Liquid Intelligent Technologies (Cassava),no,dataset ownership_type
+ZMB,Netone,yes,dataset ownership_type
+ZMB,Paratus,no,dataset ownership_type
+ZMB,"Paratus (fibre infraco), run carrier-neutral",no,dataset ownership_type
+ZMB,Paratus Zambia,no,dataset ownership_type
+ZWE,Econet Wireless Zimbabwe with Africa Data Centres,yes,dataset ownership_type
+ZWE,Liquid Intelligent Technologies,no,"parent: Cassava Technologies, London"
+ZWE,TelOne,yes,dataset ownership_type
+ZWE,TelOne (with ZINGSA),yes,dataset ownership_type

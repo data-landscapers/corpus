@@ -1,0 +1,28 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
+EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
+EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
+EGY,Telecom Egypt Regional Data Hub (RDH),,datacentre,,Telecom Egypt,,2025-01-10-telecom-egypt-digital-hub-brochure
+EGY,WeConnect,,other,,Telecom Egypt,,2025-01-10-telecom-egypt-digital-hub-brochure
+EGY,EG-IX,,other,AMS-IX,Telecom Egypt,,2025-01-10-telecom-egypt-digital-hub-brochure
+EGY,"Telecom Egypt Regional Data Hub (RDH), Smart Village",EGY,datacentre,colocation,Telecom Egypt (document does not state its ownership),"Tier III (Uptime Institute design, facility, operation)",2025-01-10-telecom-egypt-digital-hub-brochure
+EGY,Telecom Egypt commercial data centers (6 facilities),EGY,datacentre,colocation,Telecom Egypt (document does not state its ownership),,2025-01-10-telecom-egypt-digital-hub-brochure
+EGY,Raya Data Center,,datacentre,,Raya Holding,,2024-12-10-africa50-raya-data-center-2024-equity-record
+EGY,Raya Data Center,Raya Data Center,datacentre,,Raya Holding / Raya Information Technology,,2024-12-10-africa50-usd15m-raya-data-center
+EGY,Raya greenfield Tier III data centre (planned),Raya greenfield Tier III data centre (planned),other,,Raya Data Center,,2024-12-10-africa50-usd15m-raya-data-center
+EGY,"ACUD data centre, New Administrative Capital","ACUD data centre, New Administrative Capital",datacentre,,Administrative Capital for Urban Development; Orange Egypt,,2024-09-12-dcd-orange-business-grifols-egypt-acud-data-centre
+EGY,Orange Egypt New Administrative Capital data centre,Orange Egypt New Administrative Capital data centre,datacentre,,Orange Egypt,,2024-04-29-dcd-orange-huawei-cloud-services-egypt
+EGY,Orange Egypt Alexandria data centre,Orange Egypt Alexandria data centre,datacentre,,Orange Egypt,,2024-04-29-dcd-orange-huawei-cloud-services-egypt
+EGY,Orange Egypt Cairo data centre,Orange Egypt Cairo data centre,datacentre,,Orange Egypt,,2024-04-29-dcd-orange-huawei-cloud-services-egypt
+EGY,Huawei Cloud services in Egypt via Orange,Huawei Cloud services in Egypt via Orange,other,,Huawei / Orange Egypt,,2024-04-29-dcd-orange-huawei-cloud-services-egypt
+EGY,Orange Business Cloud,Orange Business Cloud,other,,Orange Egypt / Huawei,,2024-04-29-dcd-orange-huawei-cloud-services-egypt
+EGY,GPX Cairo 1,Cairo 1,datacentre,,GPX Global Systems,,2023-05-03-dcd-gpx-cairo-2-expansion-egp-2-7bn
+EGY,GPX Cairo 2,Cairo 2,datacentre,,GPX Global Systems,,2023-05-03-dcd-gpx-cairo-2-expansion-egp-2-7bn
+EGY,GPX Cairo 2,Cairo 2,datacentre,,GPX Global Systems,,2023-05-03-gpx-global-systems-egy-2023-cairo-2-expansion-record
+EGY,Orange Alexandria data center,"Orange Business Cloud data center, Alexandria",datacentre,Huawei,Orange Egypt,,2020-02-29-orange-egypt-business-cloud-huawei-alexandria-data-centre
+EGY,Raya Data Center,EGY,datacentre,,Raya Holding Group,,2018-09-30-raya-data-center-6th-october-expansion-egp25m
+EGY,GPX New Cairo data center,GPX second Cairo data center,datacentre,,GPX Global Systems,,2015-12-16-dcd-gpx-second-cairo-data-centre
+EGY,GPX first Cairo data center,,datacentre,,GPX Global Systems,,2015-12-16-dcd-gpx-second-cairo-data-centre
+EGY,Vodafone Egypt-Cassava AI factory,Egypt's first AI factory,datacentre,NVIDIA GPU-as-a-Service,Vodafone Egypt and Cassava Technologies,,2026-09-12-iafrica-vodafone-egypt-cassava-ai-factory
+EGY,Hassan Allam and A15 data centre,,other,,Hassan Allam; A15,"licensed June 2026, USD 400 million, not stated in service",2026-09-12-iafrica-vodafone-egypt-cassava-ai-factory
+EGY,MEIX,Middle East/North Africa Internet eXchange,datacentre,,"GPX Global Systems, Inc.",,2007-07-21-gpx-global-systems-inc-launches-neutral-middle-east-internet-exchange-meix-in-ca

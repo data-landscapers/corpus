@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-27-techafricanews-stratos-lab-ecoblox-digital-parks-sovereign-ai-cloud",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Parks Africa, a South African open-access carrier-neutral data centre, hosts the Stratos Lab and ECOBLOX AI cloud launched on 2026-08-27 (50+ B300 GPU servers); as_of is the announcement date.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Digital Parks Africa"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The release describes the partnership's colocation facilities as Tier-3+ rated, naming Digital Parks Africa as the colocation provider; no certifier given, so this is a stated rating.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Digital Parks Africa"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Parks Africa",
+   "country_label": "Digital Parks Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Parks Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Stratos Lab AI Cloud",
+   "country_label": "Stratos Lab AI Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "Stratos Lab",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

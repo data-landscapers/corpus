@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-22-dcd-aiim-90m-n-one-pan-african-data-centre-platform",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "N+One Datacenters, a Casablanca-based operator, operates two data centers in Morocco, described as market-leading facilities serving customers (DatacenterDynamics, on AIIM's investment); the article gives no facility names; date taken from the article's publication.",
+   "as_of": "2023-08-22",
+   "date_precision": "day",
+   "system": "N+One Datacenters"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One Datacenters",
+   "country_label": "N+One",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

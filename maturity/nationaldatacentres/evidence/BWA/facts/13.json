@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-22-bofinet-new-data-centre-boosts-digitisation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BoFiNet is urging businesses to sign up to its new Digital Delta Data Centre in Block 8, Gaborone, offering pricing, uptime and access; the date used is the published date.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (government-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "Botswana Digital and Innovation Hub data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Botswana Digital and Innovation Hub",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

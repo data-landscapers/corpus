@@ -1,0 +1,44 @@
+{
+ "slug": "2024-12-10-africa50-usd15m-raya-data-center",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa50 says Raya Data Center, owned by Raya Holding, has operated since 2012 as a provider of colocation and cloud services to local and international enterprise customers (dated by the 2024-12-10 release, which gives no other date).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Raya Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Africa50 says Raya Data Center currently operates two Tier III data centres in Cairo; the stated basis is the release itself, with no certifier named and the facilities not named individually (dated by the 2024-12-10 release).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Raya Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raya Data Center",
+   "country_label": "Raya Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raya Holding / Raya Information Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Raya greenfield Tier III data centre (planned)",
+   "country_label": "Raya greenfield Tier III data centre (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Raya Data Center",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

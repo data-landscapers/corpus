@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17-beac-national-director-visits-camtel-data-center-techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "CAMTEL's data centre was operating and showing its service offerings to a visiting BEAC delegation, reported 2025-12-17 (visit date not given), after BEAC officials showed interest in hosting there; no certification or tier asserted.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Camtel Data Center (Zamengoe)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel Data Center (Zamengoe)",
+   "country_label": "Camtel Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

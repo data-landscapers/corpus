@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BFA,IKA Cloud,IKA CLOUD,datacentre,,IKA Solution,,2026-08-01-burkina-ika-cloud-hebergeur-local-donnees
+BFA,IKA Cloud,IKA Cloud,datacentre,,IKA Solution LTD,,2026-07-31-burkina-souverainete-numerique-plateforme-ika-cloud-lancee
+BFA,Virtix,Virtix,datacentre,,Virtual Technologies & Solutions (VTS),Tier III (stated),2025-07-15-btw-virtual-technologies-solutions-burkina-virtix
+BFA,G-Cloud (Cloud gouvernemental du Burkina Faso),BFA,datacentre,"government cloud, IaaS/PaaS/SaaS, 4 datacenters, 8 cloud nodes",ANPTIC / Ministere de la Transition digitale (state),,2026-08-05-burkina-g-cloud-portal
+BFA,"Two modular government datacenters, Ouagadougou",BFA,datacentre,government cloud,Ministry of Digital Transition (state),,2026-01-25-gouvernement-inaugure-deux-datacenters
+BFA,Planned national datacenter,BFA,other,,state (planned),,2026-01-25-gouvernement-inaugure-deux-datacenters
+BFA,Government cloud modular datacenters (Ouagadougou),BFA,datacentre,government cloud,Ministry of Digital Transition (state),,2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental
+BFA,Mini data centers,BFA,other,,Ministry of Digital Transition,,2025-08-18-transition-digitale-4361-taux-performance-semestre
+BFA,G-Cloud,BFA,other,distributed private cloud,ANPTIC (state),,2024-01-31-bfa-anptic-g-cloud-projet

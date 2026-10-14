@@ -1,0 +1,78 @@
+{
+ "slug": "2025-01-10-telecom-egypt-digital-hub-brochure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Telecom Egypt's brochure states it owns and operates six commercial data center facilities at diverse locations in Egypt, serving ISPs, cloud/OTT, enterprise, government cloud and international operators (as_of is the brochure's date; it gives none).",
+   "as_of": "2025-01-10",
+   "date_precision": "day",
+   "system": "Telecom Egypt commercial data centers"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Telecom Egypt's Regional Data Hub (RDH) at Smart Village, Cairo, an open-access data center, was commissioned in 2021 (Building 1, 400 racks/2.5MW, ready for service 2021).",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Telecom Egypt Regional Data Hub (RDH), Smart Village"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Telecom Egypt's brochure states the RDH data center at Smart Village holds Tier III certification of design, facility and operation from the Uptime Institute (certification date not given; as_of is the brochure's date).",
+   "as_of": "2025-01-10",
+   "date_precision": "day",
+   "system": "Telecom Egypt Regional Data Hub (RDH), Smart Village"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom Egypt Regional Data Hub (RDH)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "WeConnect",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "EG-IX",
+   "country_label": "",
+   "class": "other",
+   "platform": "AMS-IX",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Telecom Egypt Regional Data Hub (RDH), Smart Village",
+   "country_label": "EGY",
+   "class": "datacentre",
+   "platform": "colocation",
+   "owner": "Telecom Egypt (document does not state its ownership)",
+   "tiers": "Tier III (Uptime Institute design, facility, operation)"
+  },
+  {
+   "system": "Telecom Egypt commercial data centers (6 facilities)",
+   "country_label": "EGY",
+   "class": "datacentre",
+   "platform": "colocation",
+   "owner": "Telecom Egypt (document does not state its ownership)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

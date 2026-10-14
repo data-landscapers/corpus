@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Senegal national sovereign cloud (Alibaba)",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "Alibaba Group",
+   "owner": "Senegal Digital Ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "Cloud infrastructure deployed and in testing, intended to host sensitive state data; not yet in service or hosting, not stated as for hire."
+}

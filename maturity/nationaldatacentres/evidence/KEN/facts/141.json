@@ -1,0 +1,26 @@
+{
+ "slug": "2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty states that its Kenyan carrier-neutral colocation operator iColo had recently expanded its Mombasa campus by 1.6 MW and 12,900 sq ft for new and existing customers, and had bought land at its Nairobi campus for 14 MW of future capacity.",
+   "as_of": "2021-10",
+   "date_precision": "month",
+   "system": "iColo Mombasa campus"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo Nairobi campus",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

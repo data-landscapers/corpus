@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-23-huawei-cloud-cairo-region",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Huawei Cloud Cairo Region (Huawei Cloud), hyperscale, in service; this document names it (published 2024-05-23).",
+   "as_of": "2024-05-23",
+   "date_precision": "day",
+   "system": "Huawei Cloud Cairo Region"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

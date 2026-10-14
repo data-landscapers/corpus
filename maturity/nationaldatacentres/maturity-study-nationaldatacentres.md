@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-nationaldatacentres.md — the forty-sixth maturity study: nationally owned data centres for hire, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: stopped at the token ceiling after D2, 2026-10-14; waits for Bill
 ---
 
 # Maturity study: nationaldatacentres
@@ -70,8 +70,8 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry** the datacentres study's facilities and **read**: one fan-out of drafters over the 118 readings; the owners table.
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Carried and read**: 873 facts carried; 100 drafters over 194 readings (75 the frame's cells cite, 71 on the subject, 48 reopened); 940 facts in all; `owners.csv` rules 356 of 371 owners. **Stopped here: 30.4M of the 15M ceiling.**
 - [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
 - [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
 

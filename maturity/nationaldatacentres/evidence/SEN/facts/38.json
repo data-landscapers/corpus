@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Senegal Numerique SA (SENUM) states the Diamniadio National Datacenter, a hosting and storage facility that also reserves a technical room for SMEs, start-ups and the private sector, was inaugurated by President Macky Sall on 22 June 2021.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio National Datacenter"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "SENUM, the operator, states the Diamniadio National Datacenter is the first national Tier 3 datacenter (operator statement, no Uptime Institute certification cited); inaugurated 22 June 2021.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio National Datacenter"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio National Datacenter",
+   "country_label": "Datacenter National de Diamniadio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Senegal Numerique SA (SENUM)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

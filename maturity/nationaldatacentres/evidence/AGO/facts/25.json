@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-angola-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics (for the EU D4D Hub) estimates Angola had about 8-10 live commercial data centre facilities in 2024, all in the Luanda metro area, leasing colocation to third parties, with about 3.5 MW live IT load and about 45% of supply carrier-neutral; Paratus and Angola Cables largely operate as carrier-neutral; facilities are not named in the text.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Angola commercial data centres (Luanda)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus data centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  },
+  {
+   "system": "Angola Cables data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

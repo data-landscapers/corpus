@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Camtel's Zamengoe Datacenter, about 30 km from Yaounde, hosted the Camtel Cloud Days from 10 December 2025, where Camtel pitched it to businesses and government agencies as local hosting for sovereignty and data-law compliance.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "Zamengoe Datacenter"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Zamengoe Datacenter near Yaoundé is Camtel's, and the document calls Camtel the state-owned telecom operator; it was offered to government agencies and businesses at Camtel Cloud Days.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "Zamengoe Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoe Datacenter",
+   "country_label": "Zamengoe Datacenter",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-nigeria-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 15 live commercial data centre facilities in Nigeria in 2025 (about 28 MW live IT load, about 60% carrier-neutral), commercial meaning leasing colocation space and power to third parties; no facility is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigerian commercial data centres (unnamed)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

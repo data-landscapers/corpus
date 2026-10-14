@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,ESCOM Data Centre,National Data Centre in Blantyre / ESCOM Data Centre,datacentre,,ESCOM (Optic Fibre Communications business),private and government customers,2025-10-07-mwi-escom-itu-africa-broadband-mapping-presentation
+MWI,National Data Centre,National Data Centre,datacentre,Huawei,Government of Malawi; operated with Ministry of Information and ESCOM,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,Lilongwe data centre,another facility being constructed in Lilongwe,other,,,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,"OCL Tier 3 data centre, Kanengo",MWI,datacentre,,TNM (acquired from OpenConnect Limited),,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"TNM data centre, Limbe",MWI,,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-data-centre-launch-malawi24
+MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-new-data-centre-lilongwe
+MWI,Bomalathu digital services platform,MWI,other,government digital services portal,Department of E-Government,,2026-07-07 Malawi integrates immigration e-services
+MWI,National Data Centre (Lilongwe),MWI,datacentre,"government data centre, Lilongwe, with redundancy link to Blantyre data centre",Government of Malawi (Department of E-Government),,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,Blantyre Data Centre (disaster recovery site),MWI,other,government DR site,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,Bomalathu Digital Services Platform,MWI,other,government digital services portal,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,National Data Centre (Lilongwe),MWI,datacentre,"private cloud, hyper-converged, Paul Kagame Road, Lilongwe",Government of Malawi (Department of e-Government),Tier III (stated),2026-06-11-pppc-expansion-of-national-data-centre-rfb
+MWI,National Data Centre (Lilongwe),"National Data Centre, Department of e-Government, Area 4, Lilongwe",other,Data Centre as a Service for MDAs; hyper-converged infrastructure,Department of e-Government (Government of Malawi),designed for Tier III; works not complete at 31 Oct 2024; service power line still to be built,2025-08-01-updated-esmp-government-data-centre-dmap
+MWI,Mandala Data Centre (Blantyre),"Disaster recovery site, Mandala, Blantyre",other,,Government of Malawi (described as a government data centre facility),,2025-08-01-updated-esmp-government-data-centre-dmap
+MWI,National Data Centre (Lilongwe),Malawi,datacentre,Nutanix NX-3460-G7 HCI,Government of Malawi (Department of e-Government),"Tier-III (stated, not certified; expected fully operational March 2025)",2025-02-12-malawi-dmap-tor-national-data-centre-managed-services
+MWI,"Disaster recovery data centre (Mandala, Blantyre)",Malawi,other,,Government of Malawi (Department of e-Government),Tier-III (stated),2025-02-12-malawi-dmap-tor-national-data-centre-managed-services

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-04-dza-algerie360-ayrade-bourse-entretien-belbachir",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Algerie360's interview with AYRADE's founder describes AYRADE as a sovereign cloud operator with 3,700 active cloud customers and two operational data centres on national territory (facilities not named); the article gives no date for this, so its published date 2026-06-04 is used.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "AYRADE data centres"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "In a June 2026 interview AYRADE's founder and chairman says AYRADE designs, integrates and operates two data centres in Algeria, for its own needs and as integrator for national clients, and that they are Algerian, run by Algerian teams under Algerian law; AYRADE is an Algerian joint-stock company based in Mohammadia, Algiers, opening 20% of its capital to the public on the Algiers Bourse. Dated by the article's published date.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "AYRADE data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AYRADE data centres",
+   "country_label": "AYRADE",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "AYRADE",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

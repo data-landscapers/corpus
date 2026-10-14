@@ -1,0 +1,44 @@
+{
+ "slug": "2024-05-08-shaping-the-future-of-data-infrastructure-21st-century-technologies-tier-iv-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "21st Century Technologies runs a Tier IV described data centre at its Lagos DigitalHub Campus, offering data centre capacity to business customers; article describes it as recently launched. Date is the article date; Apapa and Lekki sites at 12MW each are named, Ikeja 50MW is under construction.",
+   "as_of": "2024-05-08",
+   "date_precision": "day",
+   "system": "21st Century Technologies DigitalHub Campus data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The article states 21st Century Technologies' Lagos data centre is Tier IV certified and holds a Capitoline Certificate of Conformance for Constructed Facilities; it names no Uptime Institute certificate. Date is the article date.",
+   "as_of": "2024-05-08",
+   "date_precision": "day",
+   "system": "21st Century Technologies DigitalHub Campus data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "21st Century Technologies DigitalHub Campus data centre",
+   "country_label": "DigitalHub Campus",
+   "class": "datacentre",
+   "platform": "Schneider Electric EcoStruxure; Siemens Energy turbine",
+   "owner": "21st Century Technologies Limited",
+   "tiers": "Tier IV (as stated)"
+  },
+  {
+   "system": "21st Century Technologies Ikeja data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "21st Century Technologies Limited",
+   "tiers": "under construction, 50MW"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

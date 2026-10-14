@@ -1,0 +1,54 @@
+{
+ "slug": "2024-08-14 DRC's first Tier-III data centre goes live (OADC Texaf Digital, Kinshasa)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "CIO Africa reports the open-access, carrier-neutral OADC Texaf Digital data centre, a joint venture of Open Access Data Centres (WIOCC) and TEXAF, went live in Kinshasa (2MW-capable).",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "OADC Texaf Digital"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "CIO Africa states OADC Texaf Digital in Kinshasa is Uptime Institute Tier-III certified.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "OADC Texaf Digital"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "CIO Africa states two Tier-III data centres launched in Kinshasa in August 2024: OADC Texaf Digital and Raxio DRC1.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "OADC Texaf Digital"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Texaf Digital",
+   "country_label": "OADC Texaf Digital",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres (WIOCC) and TEXAF joint venture",
+   "tiers": "Uptime Institute Tier III"
+  },
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

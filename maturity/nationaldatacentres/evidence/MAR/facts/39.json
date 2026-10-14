@@ -1,0 +1,36 @@
+{
+ "slug": "2019-01-29-dcd-inwi-fourth-data-centre-rabat-technopolis",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "inwi opened its fourth data center, 1,000 sq m at Rabat Technopolis, to offer hosting services to Moroccan companies; inwi says it now has 4,000 sq m under management.",
+   "as_of": "2019-01-29",
+   "date_precision": "day",
+   "system": "inwi Rabat Technopolis data center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "inwi says the new Rabat Technopolis data center holds Uptime Institute Tier Certification of Design Documents (TCDD), with Constructed Facility certification due soon (tier level not stated in the text).",
+   "as_of": "2019-01-29",
+   "date_precision": "day",
+   "system": "inwi Rabat Technopolis data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "inwi Rabat Technopolis data center",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "inwi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

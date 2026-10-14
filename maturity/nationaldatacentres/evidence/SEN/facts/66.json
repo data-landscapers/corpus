@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal",
+  "facts": [],
+  "systems": [
+    {"system": "Orange data centres in Senegal (AWS Wavelength Zone)", "country_label": "SEN", "class": "other", "platform": "AWS Wavelength", "owner": "Orange", "tiers": ""}
+  ],
+  "note": "Wavelength zone in Orange data centres in Senegal is announced for 'later this year' (2024), not stated in service; no ownership, tier or state-hosting statement."
+}

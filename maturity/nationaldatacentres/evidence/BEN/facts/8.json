@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-14-ben-ciomag-souverainete-cloud-hebergement",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "An ASIN official says Benin has several data centres, including one operated commercially by the Société béninoise des infrastructures numériques (SBIN); the article gives no opening date and is dated 2026-04-14.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "SBIN commercially operated data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SBIN commercially operated data centre",
+   "country_label": "SBIN commercially operated data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "SBIN",
+   "tiers": ""
+  },
+  {
+   "system": "Unnamed Tier 3 data centre",
+   "country_label": "Unnamed Tier 3 data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier 3 (stated by ASIN official; operator and whether for hire not stated)"
+  },
+  {
+   "system": "Two state data centres under modernisation",
+   "country_label": "Two state data centres under modernisation",
+   "class": "other",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

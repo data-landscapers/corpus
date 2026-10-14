@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-wearetech-senegal-cloud-souverain-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sovereign cloud (planned)",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned sovereign cloud to host state data; nothing in service."
+}

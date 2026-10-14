@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-22-zaf-ccsa-statement-latest-decisions-oadc-ntt-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Competition Commission of South Africa states that Open Access Data Centres (OADC, WIOCC group) operates a network of data centres in Johannesburg, Durban and Cape Town providing colocation, connectivity and general services to third parties in South Africa; no opening date is given, so as_of is the statement date 2025-12-22.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "OADC data centres (Johannesburg, Durban, Cape Town)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC data centres",
+   "country_label": "Open Access Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC / WIOCC",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Data South Africa data centres",
+   "country_label": "NTT Data SA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT Data South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

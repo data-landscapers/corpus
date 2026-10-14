@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report",
+  "facts": [],
+  "systems": [
+    {"system": "Government cloud data center", "country_label": "GHA", "class": "other", "platform": "government cloud", "owner": "Government of Ghana (Ministry of Communications and Digitalisation / NITA as implementing parties)", "tiers": ""},
+    {"system": "Government cloud storage system (Accra 703TB, Kumasi 586TB)", "country_label": "GHA", "class": "other", "platform": "cloud storage", "owner": "Government of Ghana", "tiers": ""}
+  ],
+  "note": "Report says only that the 2020 restructuring supported a government cloud data center and that a 1,289TB cloud storage system was installed in Accra and Kumasi; no named facility, no service/Tier/ownership statement and no state systems stated as hosted in a named data centre."
+}

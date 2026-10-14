@@ -1,0 +1,50 @@
+{
+ "slug": "2026-01-01-xalam-cote-divoire-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 6-8 live commercial data centre facilities in Cote d'Ivoire in 2025 with about 6MW live critical IT load, naming four primary facilities: MainOne, Raxio, Orange and ST Digital.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Commercial data centres (MainOne, Raxio, Orange, ST Digital)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne",
+   "tiers": ""
+  },
+  {
+   "system": "Raxio",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  },
+  {
+   "system": "Orange",
+   "country_label": "Orange",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "ST Digital",
+   "country_label": "ST Digital",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

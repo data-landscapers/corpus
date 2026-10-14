@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Digital Realty LOS1 (Victoria Island) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty LOS1 (Victoria Island)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

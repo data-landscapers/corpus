@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-18-nexus-core-lloyds-consortium-500mw-ai-factory",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nexus AI Factory",
+      "country_label": "MAR",
+      "class": "other",
+      "platform": "HPC data center (planned)",
+      "owner": "Consortium led by Nexus Core Systems (Lloyds Capital, NAVER Cloud, Maroc Telecom backing)",
+      "tiers": ""
+    }
+  ],
+  "note": "Plans for AI data centers with first phase due Q1 2026; planned only, no in-service or ownership fact."
+}

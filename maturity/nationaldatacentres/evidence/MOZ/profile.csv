@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,national,centre,coverage,tier3,2026-08-08,MOZ-002;MOZ-004;MOZ-006;MOZ-010;MOZ-012;MOZ-014;MOZ-018;MOZ-022;MOZ-023,MOZ-001=service;MOZ-021=service;MOZ-003=service;MOZ-005=service;MOZ-017=service;MOZ-008=service;MOZ-009=service;MOZ-011=service;MOZ-007=service;MOZ-013=service;MOZ-020=service;MOZ-019=service;MOZ-015=service;MOZ-016=service,
+MOZ,national,owner,coverage,,,,,nothing held
+MOZ,national,state,coverage,,,,,nothing held

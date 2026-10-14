@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-04-wingu-africa-transforming-connectivity-addix-ixp",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Wingu Africa's data centre in the ICT Park, Addis Ababa, was in operation hosting the ADDIX internet exchange, which had run for over a year as of September 2025 (Wingu Africa).",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Wingu Africa ICT Park data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Wingu Africa describes its ICT Park data centre hosting ADDIX as tier III-certified (operator statement; certifying body not named).",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Wingu Africa ICT Park data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa ICT Park data centre",
+   "country_label": "Ethiopia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

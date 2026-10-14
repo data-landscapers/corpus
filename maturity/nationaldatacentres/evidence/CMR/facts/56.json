@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-16 Cameroon taps ST Digital to lead National AI Strategy (SNIA)",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "ST Digital's Douala datacentre, with a sovereign cloud and AI-specific equipment, was operating when the Posts and Telecommunications Minister visited it on 14 July 2025 (Business in Cameroon).", "as_of": "2025-07-14", "date_precision": "day", "system": "ST Digital Douala datacentre", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "Business in Cameroon describes ST Digital's operating Douala datacentre as a Tier 3 facility; it names no certifying body, so the rating is the article's own statement.", "as_of": "2025-07-14", "date_precision": "day", "system": "ST Digital Douala datacentre", "class": "datacentre"},
+    {"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The document calls ST Digital, operator of the Douala datacentre, a local firm; it names no owners beyond that.", "as_of": "2025-07-14", "date_precision": "day", "system": "ST Digital Douala datacentre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "ST Digital Douala datacentre", "country_label": "Cameroon", "class": "datacentre", "platform": "sovereign cloud, AI equipment", "owner": "ST Digital (described as a local firm)", "tiers": "Tier 3"}
+  ],
+  "note": ""
+}

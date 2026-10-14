@@ -1,0 +1,17 @@
+{
+ "slug": "2015-08-26-afpif-2015-gambia-ixp-experience-sixp",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "none",
+   "class": "datacentre",
+   "fact": "The SIXP administrator, in a 26 August 2015 AfPIF talk, lists as a challenge that no carrier-neutral data centres are available in The Gambia, citing high operating cost and lack of economies of scale; the statement covers carrier-neutral facilities only, and says most websites are hosted abroad because local hosting is costly.",
+   "as_of": "2015-08-26",
+   "date_precision": "day",
+   "system": ""
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

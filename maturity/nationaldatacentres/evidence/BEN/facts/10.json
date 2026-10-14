@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-03-st-digital-iso-27001-certification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST DIGITAL, a pan-African data-centre operator, says it has infrastructure and sites deployed in Bénin among seven countries serving banks, telecoms operators, administrations and enterprises; the post is dated 2026-03-03 and gives no opening date.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "ST DIGITAL data centre (Bénin)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST DIGITAL data centre (Bénin)",
+   "country_label": "ST DIGITAL data centre (Bénin)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST DIGITAL",
+   "tiers": "Tier 3/TIA-942 stated for the operator's data centres across all seven countries, not for Bénin by name"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

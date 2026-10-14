@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-02 MTN Nigeria launches Tier III Sifiso Dabengwa data centre in Lagos (Developing Telecoms)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Developing Telecoms reports MTN Nigeria launched phase 1 of its Sifiso Dabengwa Data Centre in Lagos on 1 July 2025, with 780 racks, 4.5MW IT load and a cloud service for customers.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Sifiso Dabengwa Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Developing Telecoms states phase 1 of MTN Nigeria's Sifiso Dabengwa Data Centre in Lagos, launched 1 July 2025, is a Tier III facility (stated by the outlet; no Uptime Institute certification named); phase 2 is to be built to Tier IV.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Sifiso Dabengwa Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sifiso Dabengwa Data Centre",
+   "country_label": "MTN Sifiso Dabengwa Data Centre, Lagos",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iXAfrica Data Centres Nairobi campus",
+   "country_label": "KEN",
+   "class": "datacentre",
+   "platform": "carrier-neutral",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Servernah Cloud",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "cloud hosted at iXAfrica",
+   "owner": "Atlancis/EverseTech/iXAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": "No ownership stated; governments named only as intended users, no state system hosted."
+}

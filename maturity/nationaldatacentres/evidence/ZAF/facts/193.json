@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Heirs Technologies report names Teraco in Johannesburg and Cape Town among Africa's first hyperscale data centres, operating; no opening date given so report date 2025-11 is used.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Teraco"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix South Africa",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Global Data Centers South Africa",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

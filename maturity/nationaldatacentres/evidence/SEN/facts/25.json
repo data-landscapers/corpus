@@ -1,0 +1,54 @@
+{
+ "slug": "2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Dakaractu reported on 21 June 2021 that the ADIE-run Diamniadio state data centre, built over three years with two computer rooms, was to be inaugurated on 22 June 2021, and that the private sector could also use its space.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio State Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ADIE's director general described the Diamniadio state data centre (operator ADIE) as a Tier 3 type infrastructure; this is the agency's own statement, with no certification named.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio State Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Dakaractu quotes ADIE officials describing the Diamniadio data centre as the State's first data centre of this size, built by ADIE and due to be inaugurated 22 June 2021, open to the private sector as well as government.",
+   "as_of": "2021-06-21",
+   "date_precision": "day",
+   "system": "Diamniadio national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio State Data Center",
+   "country_label": "Datacenter de Diamniadio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "state; private sector may use space"
+  },
+  {
+   "system": "Diamniadio national data centre",
+   "country_label": "SEN",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

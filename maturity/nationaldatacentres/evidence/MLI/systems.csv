@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,National Data Centre (Bamako),Centre de données national / National Data Centre,datacentre,,"Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernization)",,2026-02-02 Mali unveils modern Tier III data centre
+MLI,National Data Centre,MLI,datacentre,,,Tier III (stated),2026-02-02 Mali unveils modern Tier III data centre
+MLI,SMTD data centre,Centre de données de la SMTD,datacentre,,Société malienne de transmission et de diffusion (SMTD),,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,AGETIC data centre,Centres de données de l'AGETIC,other,,AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees

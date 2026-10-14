@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "President Tebboune inaugurated the National Centre for Digital Services at Mohammadia, Algiers, on 5 July 2026; the article calls it a pillar for sovereign hosting of data within national territory, with two national sites, and for continuity of essential state digital services.",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "National Digital Services Centre (Mohammadia)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Services Centre (Mohammadia)",
+   "country_label": "DZA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State (Algerian government; High Commission for Digitalisation named as operator-side party)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

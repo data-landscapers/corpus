@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-28-itwebza-sa-data-centre-sahrc-sustainability-probe",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco operates eight data centres in South Africa across five campuses, per its CEO; the article gives no opening dates, so as_of is the published date.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Teraco data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "Teraco data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres",
+   "country_label": "Africa Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "JN1",
+   "country_label": "JN1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

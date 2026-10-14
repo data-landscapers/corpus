@@ -1,0 +1,36 @@
+{
+ "slug": "2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The national Datacenter de Diamniadio, run by ADIE (now Senegal Numerique SA), was inaugurated and put into service on 22 June 2021, with a 250 m2 space reserved for the national and international private sector alongside one for the administration.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Datacenter national de Diamniadio"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ADIE states that the Diamniadio national Datacenter, inaugurated 22 June 2021 and in service, is the state's first Tier 3 data centre (operator's own statement, no certifier named).",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Datacenter national de Diamniadio"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Datacenter national de Diamniadio",
+   "country_label": "Datacenter de Diamniadio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE / Senegal Numerique SA",
+   "tiers": "state administration; private sector space"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

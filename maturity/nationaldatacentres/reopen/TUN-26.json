@@ -1,0 +1,8 @@
+{
+  "slug": "2010-09-06-kapitalis-tunisie-telecom-data-centre-kasbah",
+  "facts": [],
+  "systems": [
+    {"system": "Tunisie Telecom Data Centre, Kasbah (Tunis)", "country_label": "TUN", "class": "datacentre", "platform": "colocation, dedicated and shared hosting, managed services, SaaS", "owner": "Groupe Tunisie Telecom (document does not state its ownership)", "tiers": ""}
+  ],
+  "note": "Names Tunisie Telecom as owner of the Kasbah data centre but gives no state or foreign ownership of the group; ministries and administrations are only prospective Corporate clients ('permettra d'offrir'), not stated as hosted."
+}

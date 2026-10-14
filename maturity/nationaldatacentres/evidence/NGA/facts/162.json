@@ -1,0 +1,66 @@
+{
+ "slug": "2026-05-06-cybercrime-n12bn-90pct-data-offshore",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The NDPC, per Vanguard, says Nigeria operates about 26 data centres with 136.7 MW combined, with key operators Africa Data Centres, Open Access Data Centres, Rack Centre, MDXi (Equinix), MTN Nxtra and 21st Century Technologies; no event date given, so the article's published date is used.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Nigerian data centres (Africa Data Centres, Open Access, Rack Centre, MDXi, MTN Nxtra, 21st Century)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "MTN Nxtra",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "21st Century Technologies data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "21st Century Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

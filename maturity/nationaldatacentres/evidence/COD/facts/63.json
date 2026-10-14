@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-13-ifc-51154-wiocc-vi-debt-environmental-social-review-summary",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Data centres dataset: OADC Texaf Digital Kinshasa (Open Access Data Centres (OADC)), colocation/carrier-neutral, in service, Tier III or above certified by the Uptime Institute or TIA-942; this document names it (published 2026-05-13).",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "OADC Texaf Digital Kinshasa"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

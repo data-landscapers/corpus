@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-15-ken-techtrendske-ai-data-centre-hercules-lulu-pipeline",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty's NBO2 facility in Nairobi, operated by iColo, has expanded Nairobi's data centre ecosystem and hosts an interconnection environment of cloud providers, carriers, enterprises, banks and ISPs (TechTrends Media, 2026-09-15; no opening date given, so the article date is used).",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "NBO2"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NBO2",
+   "country_label": "NBO2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (operated by iColo)",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra Tatu City data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nxtra",
+   "tiers": ""
+  },
+  {
+   "system": "Hercules AI data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "AMACO Energy Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

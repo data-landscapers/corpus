@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Angola's Government Data Center (Data Center e Cloud do Governo, owned by INFOSI, Camama-Kilamba, Luanda) was inaugurated on 28 April 2026 and runs 24 hours a day, serving government systems and public and private digital platforms; it is designed to the Tier III standard of the Uptime Institute (design standard only, no certification stated).",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "Data Center e Cloud do Governo"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Centro de Dados do Governo (Nuvem Nacional de Angola)",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI, Ministry of Telecommunications (MINTTICS)",
+   "tiers": ""
+  },
+  {
+   "system": "Centro de Dados do Governo (Camama/Kilamba, Luanda)",
+   "country_label": "AGO",
+   "class": "datacentre",
+   "platform": "Nuvem Nacional de Angola (Government Cloud)",
+   "owner": "Government of Angola (named only as 'do Governo'; ownership not otherwise stated)",
+   "tiers": "Tier III (Uptime Institute) as design standard"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

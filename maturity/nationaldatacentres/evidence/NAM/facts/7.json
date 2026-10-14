@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-xalam-namibia-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 3 live commercial data centre facilities in Namibia in 2025 with about 1.4MW live IT load and about 55% occupancy by third-party customers; Paratus manages the only built-for-purpose data centre and the other two are hybrid facilities used mainly internally.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Paratus data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus data centre",
+   "country_label": "Paratus carrier-neutral data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

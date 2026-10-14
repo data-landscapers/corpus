@@ -1,0 +1,52 @@
+{
+ "slug": "2026-05-04-cassava-plans-ai-factory-in-joburg-as-cape-town-goes-live",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Cassava Technologies (Liquid) operates existing data centres in Johannesburg, with space for a 20MW installation, and sells connectivity, data centre and AI compute to enterprise, SME and public-sector clients; no as-of date is given, so the article's published date 2026-05-04 is used.",
+   "as_of": "2026-05-04",
+   "date_precision": "day",
+   "system": "Cassava Technologies Johannesburg data centres"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Altron's AI factory, built with Nvidia, went live in October 2025 (article says 'in October'), offering partners AI infrastructure, tools and support; the year is inferred from the article's context.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Altron AI factory"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cassava Cape Town AI factory",
+   "country_label": "",
+   "class": "other",
+   "platform": "Nvidia",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Cassava Johannesburg AI factory",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Dell Technologies AI factory",
+   "country_label": "",
+   "class": "other",
+   "platform": "Nvidia",
+   "owner": "Dell Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

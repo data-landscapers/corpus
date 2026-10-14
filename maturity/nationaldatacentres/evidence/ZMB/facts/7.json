@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-data-centre-market-brief-zambia",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Xalam Analytics brief for the EU D4D Hub estimates Zambia had roughly 5 live commercial data centre facilities in 2024, with about 2MW of live critical IT load and about 60% occupancy; it names no facility in this count.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zambia commercial data centres (about five live facilities)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Infratel",
+   "tiers": ""
+  },
+  {
+   "system": "Liquid/ADC facility",
+   "country_label": "Liquid/ADC facility",
+   "class": "other",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

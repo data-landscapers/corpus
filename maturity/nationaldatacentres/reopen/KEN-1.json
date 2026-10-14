@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iXAfrica NBOX1",
+   "country_label": "KEN",
+   "class": "datacentre",
+   "platform": "carrier-neutral hyperscale campus, Mombasa Road",
+   "owner": "iXAfrica Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "TCS Sovereign Secure Cloud",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "sovereign cloud hosted at NBOX1",
+   "owner": "Tata Consultancy Services",
+   "tiers": ""
+  }
+ ],
+ "note": "No ownership of NBOX1 stated; government agencies are a target market, no state system stated as hosted."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-20 Google in Africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Google Cloud Johannesburg region sits inside a Teraco (Digital Realty subsidiary) campus where Google is a tenant, so Teraco's Johannesburg colocation campus is in service; the document gives no opening date, so as_of is its publication date.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Teraco Johannesburg campus"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "Johannesburg region",
+   "class": "datacentre",
+   "platform": "Google Cloud",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Johannesburg campus",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-07-01-rstp-national-data-centre-brochure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "RSTP's National Data Centre offers colocation (rack space, power, connectivity), dedicated servers and cloud services to clients, per its own brochure; undated, the published date 2023-07 is used.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The operator's brochure describes the National Data Centre as a Tier-III energy-efficient facility with 99.982% uptime (operator's statement, no certification named); undated, the published date 2023-07 is used.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "National Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (NDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

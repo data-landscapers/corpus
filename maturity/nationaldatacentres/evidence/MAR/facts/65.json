@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-14-cloud-orange-maroc-sallie-a-amazon-web-services",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Orange Maroc says AWS Wavelength compute and storage is deployed in its Casablanca data centre, so customers can store and process data in Morocco and pay in dirhams (interview; zone live by February 2025).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Orange Maroc Casablanca data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Orange Maroc states its Casablanca data centre hosting the AWS Wavelength zone meets Tier III Design and Facilities standards (operator statement; no certifier named); date is the article's publication date.",
+   "as_of": "2025-02-14",
+   "date_precision": "day",
+   "system": "Orange Maroc Casablanca data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AWS Wavelength zone Casablanca",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "AWS Wavelength",
+   "owner": "Amazon Web Services with Orange Maroc",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

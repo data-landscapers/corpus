@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-south-africa-tribunal-approves-equinix-data-centres-despite-activist-objections",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Reuters describes Teraco as Africa's largest data-centre operator, which has said it has about 189 MW of critical power capacity across its campuses (South African colocation operator); the date is the article's published date.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Teraco"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix King Air Industria data centres, Cape Town",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

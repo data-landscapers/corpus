@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-04-xca-gep-beac-jornadas-banquero-bangui-balance",
+  "facts": [],
+  "systems": [
+    {"system": "BEAC sovereign cloud (nube soberana del BEAC)", "country_label": "CEMAC region (GNQ not named as host)", "class": "other", "platform": "", "owner": "BEAC", "tiers": ""}
+  ],
+  "note": "Regional BEAC sovereign cloud is a launched project, not an in-service facility in GNQ; GNQ is not named as host or owner."
+}

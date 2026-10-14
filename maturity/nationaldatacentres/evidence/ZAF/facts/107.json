@@ -1,0 +1,50 @@
+{
+ "slug": "2022-11-09-construction-to-start-at-africa-data-centres-cape-facility",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres, a carrier-neutral colocation provider owned by Cassava Technologies, has an established data centre in Midrand (JHB1); the document gives no date, so the article date 2022-11-09 is used.",
+   "as_of": "2022-11-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB1 (Midrand)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JHB1",
+   "country_label": "Africa Data Centres Midrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "JHB2",
+   "country_label": "Africa Data Centres Centurion",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "CPT1",
+   "country_label": "Africa Data Centres Elfindale, Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "CPT2",
+   "country_label": "Africa Data Centres Atlantic Hills, Cape Town (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

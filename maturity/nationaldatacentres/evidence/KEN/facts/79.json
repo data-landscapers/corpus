@@ -1,0 +1,36 @@
+{
+ "slug": "2017-05-16-east-africa-data-centre-receives-tier-iii-certification-liquid-intelligent-techn",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "East Africa Data Centre (EADC), a Liquid Intelligent Technologies Kenya subsidiary, hosts Google and Facebook caches, KIXP and banking data for customers in its 2,000 sq m facility.",
+   "as_of": "2017-05-16",
+   "date_precision": "day",
+   "system": "East Africa Data Centre (EADC)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "EADC won Uptime Institute Tier III Design Certification, stated as the first in east and central Africa.",
+   "as_of": "2017-05-16",
+   "date_precision": "day",
+   "system": "East Africa Data Centre (EADC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "East Africa Data Centre (EADC)",
+   "country_label": "East Africa Data Centre (EADC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

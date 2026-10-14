@@ -1,0 +1,26 @@
+{
+ "slug": "2023-08-22-african-infrastructure-investment-managers-n-one-datacenters-2023-equity-record",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reported in August 2023 that Moroccan operator N+One Datacenters has existing campuses in Morocco and an existing portfolio of digital infrastructure assets it contributes to a new data centre and cloud services platform backed by AIIM; no tier rating is stated.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "N+One Datacenters"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One Datacenters",
+   "country_label": "N+One Datacenters",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One (Moroccan operator)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

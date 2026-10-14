@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-15-btw-adex-technology-adexcloud-algeria-profile",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BTW Media reports that ADEX Technology operates its own data centre at Sidi Abdellah, certified by ARPCE since June 2020 and described as Tier II-ready, and sells ADEXCLOUD IaaS to SMEs, corporates and government agencies; no date of operation is given beyond the article's own publication date of 2025-07-15, which is used.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "ADEX Technology data centre (Sidi Abdellah)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ADEX Technology data centre (Sidi Abdellah)",
+   "country_label": "ADEXCLOUD",
+   "class": "datacentre",
+   "platform": "ADEXCLOUD IaaS, S3 storage, ZIMAIL",
+   "owner": "ADEX Technology",
+   "tiers": "Tier II-ready"
+  },
+  {
+   "system": "ADEX data centre",
+   "country_label": "DZA",
+   "class": "datacentre",
+   "platform": "ADEXCLOUD",
+   "owner": "ADEX Technology",
+   "tiers": "Tier II-ready"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

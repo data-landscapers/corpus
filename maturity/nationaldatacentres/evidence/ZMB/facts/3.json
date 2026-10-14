@@ -1,0 +1,42 @@
+{
+ "slug": "2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The report says privately owned data centres exist in Zambia, such as Netone and Paratus, among others; document undated beyond 2023, year used as proxy.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Netone and Paratus data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Infratel production data centre, Lusaka",
+   "country_label": "SMART Zambia data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Zambia via Infratel",
+   "tiers": ""
+  },
+  {
+   "system": "Netone data centre",
+   "country_label": "Netone",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Netone",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus data centre",
+   "country_label": "Paratus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

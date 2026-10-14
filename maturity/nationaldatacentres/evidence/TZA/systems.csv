@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,TTCL Kijitonyama data centre,,datacentre,,TTCL,,2017-01-18-dcd-tanzania-ttcl-data-centre-underused-agencies-told-to-move-in
+TZA,National Internet Data Center (Mikocheni),National Internet Data Center,,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Tanzania Internet Exchange (TIX),TIX,,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
+TZA,Wingu Cloud Exchange (WCX),WCX,datacentre,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
+TZA,Wingu.Africa Dar es Salaam data centre,,datacentre,,Wingu.Africa (founders and Africa Capitalworks),,2025-03-20-wingu-africa-breaks-grounds-on-data-center-expansion-in-dar-es-salaam-tanzania
+TZA,Wingu.Africa Dar es Salaam data centre,Wingu Africa Mbezi data centre,datacentre,,Wingu Africa,Tier 3,2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02
+TZA,Azure Stack HCI (Liquid Tanzania),Azure Stack HCI,other,Microsoft Azure Stack HCI,Liquid Intelligent Technologies Tanzania,,2023-10-10-liquid-wingu-tanzania-second-azure-stack-hci
+TZA,Vodacom Tanzania data centres,Vodacom colocation,datacentre,,Vodacom Tanzania,,2022-04-19-vodacom-tanzania-colocation-privacy-supplement
+TZA,Raxio Tanzania data centre,,datacentre,,Raxio Group,Tier III,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+TZA,Raxio Data Centres,Raxio,datacentre,,"Raxio Group (Roha, Meridiam)",,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+TZA,National Internet Data Centre (NIDC),NIDC,datacentre,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,Wingu Dar es Salaam data centre,Wingu Africa Dar es Salaam facility,datacentre,,Wingu Africa,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+TZA,Wingu Dar es Salaam data centre,Wingu Africa Dar es Salaam facility,datacentre,,Wingu Africa,,2025-06-02-wingu-africa-60m-rmb-press-release-adca
+TZA,Zanzibar data centre (planned),TZA,other,,Revolutionary Government of Zanzibar,,2026-10-03-tza-mwananchi-smz-sh53-bilioni-miradi-tehama
+TZA,National AI Data Centre (Kituo cha Taifa cha Data za Akili Unde),TZA,other,,Government of Tanzania (MICIT),,2026-07-24-tanzania-mafanikio-akili-unde-ai-waico-2026-shanghai
+TZA,"Government data centre, Dodoma (planned)",TZA,other,,Government of Tanzania,,2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit
+TZA,"Government data centre, Zanzibar (planned)",TZA,other,,Government of Tanzania,,2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Data Landscapers states that Onix operates a Tier IV carrier-neutral data centre at the 2Africa landing in Dakar, Senegal, described as built, certified and selling capacity today (certification body not named); no opening date given, so the article's published date 2026-06-11 is used.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Onix Dakar data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Dakar data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Onix (majority-owned by AIIM, Old Mutual)",
+   "tiers": "Tier IV"
+  },
+  {
+   "system": "Stellarix (Axian) Senegal build-out",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Axian",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

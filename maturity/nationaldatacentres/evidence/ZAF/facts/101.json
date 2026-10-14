@@ -1,0 +1,36 @@
+{
+ "slug": "2023-04-03-techeconomy-oadc-lagos-los1-phase-one-live",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Open Access Data Centres (OADC) has deployed a carrier-neutral core data centre, OADC JNB1, in Isando, Johannesburg (1,600 sqm initial white space, 7MW); date of going live not given, article published 2023-04-03.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "OADC JNB1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Phase 2 of OADC Durban became operational around mid-December 2022, adding 110 racks at a carrier-neutral facility.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "OADC Durban"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC Brackenfell",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Open Access Data Centres (WIOCC Group)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-12-adc-zaf-samrand-jhb2-site-specifications",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres presents its JHB2 Samrand data centre in Centurion, Johannesburg, as an operating open-access colocation facility with four data halls and 6,000 m2 of white space; the page date is a crawl proxy, not an event date.",
+   "as_of": "2022-04-12",
+   "date_precision": "day",
+   "system": "JHB2 Samrand Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JHB2 Samrand Data Centre",
+   "country_label": "JHB2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

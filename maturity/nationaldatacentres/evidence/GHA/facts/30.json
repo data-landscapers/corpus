@@ -1,0 +1,26 @@
+{
+ "slug": "2021-06-21-mainone-data-centre-opens",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MainOne's subsidiary MDXi inaugurated its new 100-rack colocation-style data centre in Appolonia City, offering hosting of IT infrastructure to customers on shared services; date is the page's printed date, 21 June 2021, as the article gives no separate opening date.",
+   "as_of": "2021-06-21",
+   "date_precision": "day",
+   "system": "MDXi Appolonia City data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MDXi Appolonia City data centre",
+   "country_label": "MDXi Accra",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne / MDXi",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

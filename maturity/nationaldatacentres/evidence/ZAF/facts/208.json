@@ -1,0 +1,26 @@
+{
+ "slug": "2022-08-01-digital-realty-completes-acquisition-of-teraco",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty, completing its majority acquisition of Teraco on 1 August 2022, describes Teraco as South Africa's largest carrier-neutral data centre and colocation provider with an expanding portfolio of data centres in operation (no publication date other than the 2022-08-01 release is given for opening).",
+   "as_of": "2022-08-01",
+   "date_precision": "day",
+   "system": "Teraco"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco",
+   "country_label": "Teraco: A Digital Realty Company",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (majority), Berkshire Partners and Permira consortium",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

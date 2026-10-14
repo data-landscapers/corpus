@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-03-ooredoo-syntys-data-centres-presentation",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Ooredoo's Syntys presentation of 3 November 2025 lists Tunisia among the markets with active data centres, with 2 MW of current capacity and a claimed 25% market share, as a carrier-neutral colocation platform; no individual facility is named and no Tier rating is given for Tunisia.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "Syntys Tunisia data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Syntys Tunisia data centres",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Syntys (Ooredoo)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

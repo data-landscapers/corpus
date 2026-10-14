@@ -1,0 +1,44 @@
+{
+ "slug": "2015-12-16-dcd-gpx-second-cairo-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "GPX Global Systems, which designs, owns and operates carrier-neutral data centres, opened its second Cairo data centre, 3,000 sqm and 5MW in New Cairo, in December 2015 (article date; no other date given), awarded a TIA-942 certificate by an unnamed third party with no tier level stated.",
+   "as_of": "2015-12",
+   "date_precision": "month",
+   "system": "GPX New Cairo data center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "GPX opened its first Cairo data centre in 2007.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "GPX first Cairo data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GPX New Cairo data center",
+   "country_label": "GPX second Cairo data center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GPX Global Systems",
+   "tiers": ""
+  },
+  {
+   "system": "GPX first Cairo data center",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GPX Global Systems",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

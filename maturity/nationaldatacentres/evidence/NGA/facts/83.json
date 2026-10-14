@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-05-equinix-closes-mainone-acquisition-us320m",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MainOne, a Lagos-based carrier-neutral provider with 800+ business customers, had three operational data centres in Nigeria (Equinix's release elsewhere counts four) when Equinix closed its acquisition; the document gives no earlier opening date, so the as_of is its publication date.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "MainOne data centres (Lagos)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne data centres (Lagos)",
+   "country_label": "MainOne, an Equinix company",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (from 2022-04-05)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

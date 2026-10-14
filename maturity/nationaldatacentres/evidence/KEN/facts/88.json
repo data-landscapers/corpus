@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-africa50-reg-paix-data-centers-2022-paix-data-centers-series-b-equity",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "PAIX Data Centres, a carrier-neutral colocation operator, was operating a data centre in Nairobi, Kenya as of its February 2022 Series B announcement (the record also says PAIX built its Kenya facility in 2020).",
+   "as_of": "2022-02-16",
+   "date_precision": "day",
+   "system": "PAIX Nairobi"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Nairobi",
+   "country_label": "PAIX Data Centres Nairobi",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

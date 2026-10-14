@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-04-dza-dzwatch-akbou-i-cloud-sovereign-data-center",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DZWatch reports the inauguration of the I-Cloud sovereign data centre in the Akbou industrial zone (Bejaia), presided by the Knowledge Economy Minister, offering cloud hosting and computing to startups and SMEs; the inauguration date is not stated, so the article's 2026-10-04 date is used.",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "I-Cloud Akbou"
+  }
+ ],
+ "systems": [
+  {
+   "system": "I-Cloud Akbou",
+   "country_label": "I-Cloud",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "I-Cloud development group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

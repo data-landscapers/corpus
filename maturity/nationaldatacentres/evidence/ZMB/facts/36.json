@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data Landscapers' June 2026 register of carrier-neutral African data centres states that Paratus runs five data centres across Angola, Namibia and Zambia, so it has one or more in Zambia; the facility is not named and the opening date is not given (published date used).",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Paratus data centre (Zambia)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus data centre (Zambia)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

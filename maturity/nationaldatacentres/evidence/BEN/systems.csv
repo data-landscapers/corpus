@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,MTN Data Center,MTN Data Center,datacentre,,MTN Bénin,,2023-09-27-data-center-mtn-benin
+BEN,MTN Data Center,service data center,datacentre,,MTN Bénin,,2019-06-17-mtn-benin-lance-son-service-data-center-ciomag
+BEN,Isocel Telecom Data Center,data center neutre,datacentre,,Isocel Telecom,,2015-07-01-isocel-data-center-pour-la-sauvegarde-de-vos-donnees-numeriques
+BEN,SBIN commercially operated data centre,SBIN commercially operated data centre,datacentre,,SBIN,,2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,Unnamed Tier 3 data centre,Unnamed Tier 3 data centre,other,,,Tier 3 (stated by ASIN official; operator and whether for hire not stated),2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,Two state data centres under modernisation,Two state data centres under modernisation,other,,state,,2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,ST DIGITAL data centre (Bénin),ST DIGITAL data centre (Bénin),datacentre,,ST DIGITAL,"Tier 3/TIA-942 stated for the operator's data centres across all seven countries, not for Bénin by name",2026-03-03-st-digital-iso-27001-certification

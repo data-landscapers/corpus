@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-08-raxio-mozambique-mz1-data-centre-specification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Group's carrier-neutral Raxio MZ1 data centre in Beluluane Industrial Park, Matola, sells colocation and cross-connect (400 racks, 3 MW IT power); the page is undated, so the capture date 2026-08-08 is used.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "Raxio MZ1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio says MZ1 is Uptime Institute Tier III certified (operator statement on its facility page; undated, capture date used).",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "Raxio MZ1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio MZ1",
+   "country_label": "Raxio Mozambique (MZ1)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-africa-data-sovereignty-ai-race-aws-techcabal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS Local Zone (Lagos)",
+   "country_label": "NGA",
+   "class": "other",
+   "platform": "AWS",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Says AWS invested in local infrastructure including a Local Zone; no in-service, location or tier statement, so no fact."
+}

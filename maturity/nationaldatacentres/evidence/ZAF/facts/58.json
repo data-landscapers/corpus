@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-10-it-online-oadc-buys-seven-ntt-data-centres-six-year-leaseback",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "IT-Online reports that seven NTT Data South Africa data centres (Bryanston, Parklands, Cape Town, Umhlanga, Bloemfontein, Gqeberha, East London) were acquired by Open Access Data Centres (OADC) and are leased back to NTT Data for six years, which continues to provide client services from them; as_of is the article date.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "NTT Data South Africa seven data centres (OADC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NTT Data South Africa seven data centres",
+   "country_label": "NTT Data South Africa seven data centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC (WIOCC); leased back to NTT Data",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Global Data Centre Johannesburg 1",
+   "country_label": "NTT Global Data Centre Johannesburg 1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT Data",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

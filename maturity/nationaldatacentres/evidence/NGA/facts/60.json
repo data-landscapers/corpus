@@ -1,0 +1,58 @@
+{
+ "slug": "2025-07-02 MTN Nigeria launches data center in Lagos (Connecting Africa)",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Nigeria launched phase 1 of the Sifiso Dabengwa data centre in Lagos (4.5MW IT load, 780 racks), offering IaaS and carrier-neutral hosting; as_of is the publication date, the article giving none.",
+   "as_of": "2025-07-02",
+   "date_precision": "day",
+   "system": "Sifiso Dabengwa Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sifiso Dabengwa Data Centre",
+   "country_label": "Sifiso Dabengwa Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": "Phase 2 aims for Tier IV"
+  },
+  {
+   "system": "AWS Local Zones Lagos",
+   "country_label": "AWS Local Zones Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG1/LG2/LG2.3",
+   "country_label": "Equinix LG1/LG2/LG2.3",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "OADC",
+   "country_label": "OADC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

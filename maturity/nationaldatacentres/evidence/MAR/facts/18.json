@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-09-dcd-helios-fipar-3mdc-maroc-datacenter-munisys-medasys",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Maroc Datacenter (MDC, founded 2017) operates a single 2,000 sqm data centre in the Rabat area, merged into 3MDC with Munisys and Medasys; as_of is the article date, which gives no opening date.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Maroc Datacenter Rabat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maroc Datacenter Rabat facility",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Maroc Datacenter (3MDC)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

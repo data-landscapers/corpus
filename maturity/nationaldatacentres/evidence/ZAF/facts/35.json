@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-31-ntt-data-sa-data-centre-ownership-strategy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "NTT Data South Africa delivers co-location, hosting and managed infrastructure services to customers from seven South African data centres (Bloemfontein, Cape Town, East London, Bryanston, Parklands, Gqeberha, Umhlanga), now owned by Open Access Data Centres and leased back to it after a sale-and-leaseback completed in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NTT Data South Africa data centres (seven facilities, owner OADC)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "NTT's Johannesburg 1 hyperscale data centre is described by NTT Data South Africa's managing executive as a fully operational flagship facility from which NTT Data SA leases capacity for local customers; the date is the article's published date, as it gives none.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "NTT Johannesburg 1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NTT Data South Africa data centres (seven facilities)",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres (leased to NTT Data SA)",
+   "tiers": ""
+  },
+  {
+   "system": "NTT Johannesburg 1",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NTT global data centre business",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

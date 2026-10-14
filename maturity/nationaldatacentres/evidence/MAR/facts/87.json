@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-08-mtnra-nexus-ai-factory-plateform-maroc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nexus AI Factory",
+      "country_label": "MAR",
+      "class": "other",
+      "platform": "HPC data center (planned)",
+      "owner": "Nexus Core Systems",
+      "tiers": ""
+    }
+  ],
+  "note": "MoU launching planned Nexus AI Factory HPC data center (16 MW Nouaceur, 20 MW north, 36 MW by end 2027); planned only, no fact."
+}

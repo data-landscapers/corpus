@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-03-st-digital-iso-27001-certification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST DIGITAL, a pan-African data centre operator, says it has infrastructure deployed in Congo (among seven countries) hosting clients such as banks, telecom operators, public administrations and enterprises; no Congo facility is named.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "ST DIGITAL"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ST DIGITAL states, as operator, that its data centres across its seven countries including Congo are Tier 3 / TIA-942 constructed facilities; the document names no Congo facility and does not separate Congo from the others (document published date used as as_of).",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "ST DIGITAL"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST DIGITAL",
+   "country_label": "ST DIGITAL",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST DIGITAL",
+   "tiers": "Tier 3 / TIA-942 (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

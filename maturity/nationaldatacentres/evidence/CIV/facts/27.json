@@ -1,0 +1,42 @@
+{
+ "slug": "2024-11-29-dcd-st-digital-construction-grand-bassam",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MainOne, owned by Equinix, launched a data center in Cote d'Ivoire at the end of 2023, per Data Center Dynamics (month not given; article dated 2024-11-29).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "MainOne data center, Cote d'Ivoire"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Grand-Bassam data center",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne data center, Cote d'Ivoire",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne (Equinix)",
+   "tiers": ""
+  },
+  {
+   "system": "Raxio CIV1",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

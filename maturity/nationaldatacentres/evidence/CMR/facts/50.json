@@ -1,0 +1,36 @@
+{
+ "slug": "2021-01-26-le-cameroun-heberge-le-cloud-de-lafrique-douala-today",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ST Digital launched its Cloud and Datacenter services in Douala on 22 January 2021: server rental, managed services and colocation hosting for SMEs, large firms and administrations, from a locally built data centre.",
+   "as_of": "2021-01-22",
+   "date_precision": "day",
+   "system": "ST Digital Douala data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ST Digital states its Douala data centre, launched 22 January 2021, is of Tier-3 construction to international standards; no Uptime Institute certification is mentioned.",
+   "as_of": "2021-01-22",
+   "date_precision": "day",
+   "system": "ST Digital Douala data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Douala data centre",
+   "country_label": "Cloud et Datacenter services",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "SMEs, large firms, administrations"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

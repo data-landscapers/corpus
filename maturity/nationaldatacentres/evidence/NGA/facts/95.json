@@ -1,0 +1,36 @@
+{
+ "slug": "2015-01-16-businessday-mainone-mdx-i-lekki-tier-iii-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MainOne (subsidiary MDX-i) opened its Lekki Data Centre in Lagos, declared open and ready for service, offering colocation, cloud and disaster recovery; launch on Thursday before the 2015-01-16 dateline.",
+   "as_of": "2015-01-15",
+   "date_precision": "day",
+   "system": "MDX-i Lekki Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "MainOne states its Lekki Data Centre is Tier III, designed to TIA-942 standards (operator statement; no Uptime certification named).",
+   "as_of": "2015-01-15",
+   "date_precision": "day",
+   "system": "MDX-i Lekki Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MDX-i Lekki Data Centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne / MDX-i",
+   "tiers": "Tier III (operator statement), TIA-942"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

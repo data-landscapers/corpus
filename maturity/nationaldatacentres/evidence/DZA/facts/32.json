@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national",
+  "facts": [],
+  "systems": [
+    {"system": "National cloud computing services of the Centre national algérien des services numériques", "country_label": "DZA", "class": "", "platform": "national cloud", "owner": "State (run under the Haut commissariat à la numérisation, as the document names the centre)", "tiers": ""}
+  ],
+  "note": "Agreement signed 2025-12-05 to put national cloud services at the health sector's disposal; no data centre is named, no hosting of health systems or in-service facility is stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-tanzania-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics (January 2026) estimates about 4 live commercial data centre facilities in Tanzania in 2025, leasing colocation space and power to third parties, with about 2.7 MW live IT load and about 60% occupancy; no facility is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "commercial data centre facilities in Tanzania (unnamed)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The IFC/Raxio 2025 financing record states that Raxio Group operates carrier-neutral colocation data centres in Ethiopia (facility not named); dated by the 2025 commitment year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Group data centre, Ethiopia"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The same record states Raxio operates carrier-neutral Tier III data centres in Ethiopia (operator's statement; facility not named, no certifier given); dated by the 2025 commitment year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Group data centre, Ethiopia"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Group data centre, Ethiopia",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (operator stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

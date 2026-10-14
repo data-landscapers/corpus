@@ -1,0 +1,56 @@
+{
+ "slug": "2019-01-01-zmb-parliament-ministerial-statement-smart-zambia",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Zambian government's ministerial statement says the Zambia National Data Centre (ZNDC) is active and has been commercialised and opened to the private sector, with banks and mobile providers using it for a fee; as_of is the document's year 2019, no event date given.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The Zambian government's ministerial statement describes the active Zambia National Data Centre (ZNDC), which hosts private clients for a fee, as a Tier 3 facility (stated by the government; no certifier named); as_of is the document's year 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The ministerial statement says the Government established and commissioned the Tier 3 Zambia National Data Centre (ZNDC), commercialised it and opened it to the private sector at a fee, with banks and mobile providers already using it; the document gives no date beyond the statement (published year used, early 2019).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The statement says all Government ICT hosting infrastructure has been consolidated and housed in the ZNDC, and that 52 new standardised government websites for constitutional offices, ministries and provincial administrations were deployed to it; the Government (via Smart Zambia Institute) established it (published year used, early 2019).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia National Data Centre (ZNDC)",
+   "country_label": "Zambia National Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": "government; banks and mobile providers as paying tenants"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

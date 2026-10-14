@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-10-equity-bank-uganda-migrates-data-center-operations-to-raxio-data-center-in-naman",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Group's Namanve data centre in Kampala (about 1,000 sqm, up to 250 racks, 1.5 MW), carrier- and cloud-neutral, launched in 2021 and by late February 2026 hosted Equity Bank Uganda's core operations, per DataCenterDynamics.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Raxio Data Center Namanve"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "DataCenterDynamics reports Raxio's Namanve data centre, launched in 2021, was claimed to be Uganda's first Tier-III certified carrier- and cloud-neutral data centre (operator claim, certifying body not named).",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Raxio Data Center Namanve"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Center Namanve",
+   "country_label": "Raxio Data Center, Namanve Industrial Park, Kampala",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

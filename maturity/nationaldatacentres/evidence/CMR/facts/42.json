@@ -1,0 +1,42 @@
+{
+ "slug": "2026-03-16-camix-site-officiel",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "CAMIX, the Cameroon internet exchange, states that since 1 July 2026 its third point of presence operates inside the ST-DIGITAL data center in Douala, in a carrier-hotel environment hosting interconnection for operators, ISPs and hosting providers (INK and ST-DIGITAL already connected).",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "ST-DIGITAL data center (Douala)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST-DIGITAL data center (Douala)",
+   "country_label": "Data Center ST-DIGITAL",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST DIGITAL",
+   "tiers": ""
+  },
+  {
+   "system": "CAMPOST data centre (Yaounde)",
+   "country_label": "Centre de donnees de la CAMPOST / DC CAMPOST",
+   "class": "other",
+   "platform": "",
+   "owner": "CAMPOST",
+   "tiers": "hosts a CAMIX node; no sale to outside customers stated"
+  },
+  {
+   "system": "CAMIX",
+   "country_label": "CAMIX",
+   "class": "other",
+   "platform": "",
+   "owner": "CAMIX",
+   "tiers": "Google Global Cache and Akamai cache hosted (CDN caches, not a cloud region)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechCabal names the Djibouti Data Centre as a carrier-neutral facility in Djibouti, in a country it calls a Tier 3 carrier-neutral hub; the article gives no date, so its publication date 2026-01-07 is used.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Djibouti Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Data Centre",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Wingu Group technology park, Djibouti",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-orange-maroc-supercharges-its-b2b-strategy-with-new-1-5-mw-data-center",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Orange Maroc inaugurated its Orange Tech data centre at Nouaceur (1.5 MW initial capacity, 15,000 square metres, Uptime Institute certification of unstated tier) on 19 November 2025, as part of a B2B offer of cloud services and dedicated IT infrastructure sold to enterprises (Morocco World News).",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Orange Tech Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Tech Data Center",
+   "country_label": "Orange Tech Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Maroc",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

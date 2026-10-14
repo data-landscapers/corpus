@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-05-wingu-60m-rmb-funding-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Wingu Africa stated in its June 2025 funding announcement that it has a Tier-III certified campus in Ethiopia hosting the ADDIX exchange; the document gives no certifying body or certification date, so as_of is the article date.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "Wingu Africa campus, Ethiopia"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Wingu Africa, a data centre operator serving over 40 customers including telecoms, hyperscalers and financial institutions across its region, states it operates a campus in Ethiopia hosting the ADDIX exchange; as_of is the article date.",
+   "as_of": "2025-06-05",
+   "date_precision": "day",
+   "system": "Wingu Africa campus, Ethiopia"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa campus, Ethiopia",
+   "country_label": "ETH",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": "Tier III (operator statement)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national or sectoral government cloud centres",
+   "country_label": "TUN",
+   "class": "other",
+   "platform": "government cloud",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": "Circular sets hosting tiers and G-Cloud/N-Cloud provider labels; it names no facility and states no system as hosted."
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2018-02-02-adc-zaf-sadc-johannesburg-cape-town-expansion-opened",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres (Liquid Telecom) officially opened its expanded carrier-neutral SADC Johannesburg (over 3000 sq m, 7MW) and SADC Cape Town (1800 sq m, 5.5MW), selling colocation and rack space to nearly 100 customers including cloud providers, carriers and enterprises.",
+   "as_of": "2018-02-02",
+   "date_precision": "day",
+   "system": "SADC Johannesburg and SADC Cape Town"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "two",
+   "class": "datacentre",
+   "fact": "Africa Data Centres states that its in-service SADC Johannesburg and SADC Cape Town facilities are built to Tier III standards (operator statement, not an Uptime Institute certification; the document names Uptime Tier III certification only for its Nairobi facility).",
+   "as_of": "2018-02-02",
+   "date_precision": "day",
+   "system": "SADC Johannesburg and SADC Cape Town"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC Johannesburg",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Liquid Telecom)",
+   "tiers": ""
+  },
+  {
+   "system": "SADC Cape Town",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Liquid Telecom)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

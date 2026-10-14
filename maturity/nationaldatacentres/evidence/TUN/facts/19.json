@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-31-dataxion-tier-iv-certifications",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DataXion operates a data centre in Tunisia offering availability of 99.995% to its customers; page dated 2024-05-31 by its metadata.",
+   "as_of": "2024-05-31",
+   "date_precision": "day",
+   "system": "DataXion"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31).",
+   "as_of": "2024-05-31",
+   "date_precision": "day",
+   "system": "DataXion"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DataXion",
+   "country_label": "DataXion",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "DataXion",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

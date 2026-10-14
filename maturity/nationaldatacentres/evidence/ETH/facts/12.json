@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-xalam-ethiopia-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics (January 2026) estimates about 6-8 live commercial data centre facilities in Ethiopia in 2025, leasing colocation space and power to third parties, with about 10MW live IT load and about 60% occupancy; facilities are not named in the text.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Ethiopian commercial data centre facilities (unnamed)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian commercial data centre facilities (unnamed)",
+   "country_label": "ETH",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "mix of fiber infracos, government agency, MNO and carrier-neutral operators",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

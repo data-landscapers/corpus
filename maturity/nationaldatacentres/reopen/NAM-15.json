@@ -1,0 +1,9 @@
+{
+ "slug": "2026-08-14-namibia-digital-infrastructure-sovereignty-pressure",
+ "facts": [],
+ "systems": [
+  {"system": "Armada", "country_label": "Armada", "class": "datacentre", "platform": "", "owner": "Paratus Namibia", "tiers": ""},
+  {"system": "National data centre (planned)", "country_label": "", "class": "other", "platform": "", "owner": "Government of Namibia", "tiers": ""}
+ ],
+ "note": "Armada is called private sector and Paratus Namibia's, but the document does not state it is nationally or foreign owned; the national data centre is only planned; no statement of what government systems are hosted where."
+}

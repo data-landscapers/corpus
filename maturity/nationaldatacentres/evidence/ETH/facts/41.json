@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-16-eth-birrmetrics-hydropower-ai-data-centre-race",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Birr Metrics reports that Raxio operates a carrier-neutral facility in Addis Ababa; no opening date given, so as_of is the article's publication date (2026-09-16).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Raxio Addis Ababa data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Birr Metrics describes Raxio's carrier-neutral Addis Ababa facility, in operation, as Tier III (stated by the publication, no certification body named); no opening date given, so as_of is the article's publication date (2026-09-16).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Raxio Addis Ababa data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Addis Ababa data centre",
+   "country_label": "Raxio carrier-neutral Tier III facility, Addis Ababa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  },
+  {
+   "system": "RedFox Solutions Group data-centre infrastructure, Ethio ICT Park",
+   "country_label": "Ethio ICT Park",
+   "class": "",
+   "platform": "",
+   "owner": "RedFox Solutions Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

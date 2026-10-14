@@ -1,0 +1,26 @@
+{
+ "slug": "2020-01-01-bii-reg-002-liquid-intelligent-technologies-follow-on-equity-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "BII's record describes Liquid as operating data centre facilities in Harare among other cities, supporting cloud hosting and colocation; no date given for the Harare facility, so the document's 2020 publication year is used and the facility is not named.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Liquid Intelligent Technologies Harare data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liquid Intelligent Technologies Harare data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

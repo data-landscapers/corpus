@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-madagascar-data-center-market-brief-xalam",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates Madagascar had about 2 live commercial (colocation, third-party lease) data centre facilities in 2024 with 1.4 MW live critical IT load, about 40% occupied and about 100% carrier-neutral; facilities are not named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Unnamed commercial data centres (about 2 live facilities)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

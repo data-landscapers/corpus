@@ -1,0 +1,56 @@
+{
+ "slug": "2026-06-11-pppc-expansion-of-national-data-centre-rfb",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The June 2026 request for bids says the Department of e-Government built a national data centre in Lilongwe, now existing and in use, and seeks to expand it for demand from government and other institutions (no date given, so published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The request for bids states the National Data Centre production site in Lilongwe is a Tier-III facility, without naming a certifying body (no date given, so published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The request for bids says the Government of Malawi, through the Department of e-Government, built the national data centre in Lilongwe (no date given, so published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The request for bids says the Government of Malawi's Department of e-Government runs the National Data Centre in Lilongwe, which hosts systems of ministries, departments and agencies, and is being expanded for government institutions' demand over at least five years (published date used).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National Data Centre (Lilongwe)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre (Lilongwe)",
+   "country_label": "MWI",
+   "platform": "private cloud, hyper-converged, Paul Kagame Road, Lilongwe",
+   "owner": "Government of Malawi (Department of e-Government)",
+   "tiers": "Tier III (stated)",
+   "class": "datacentre"
+  }
+ ],
+ "note": "Expansion is a procurement under the Digital Malawi Acceleration Project, not a fact; facts are about the existing centre. The document does not say the centre rents to non-government customers beyond 'government and other institutions'."
+}

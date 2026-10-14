@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-south-africa-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 45 live commercial (colocation) data centre facilities in South Africa in 2024, with about 390 MW live IT load, about 77% of supply carrier-neutral; no facility is named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Commercial colocation data centres, South Africa (unnamed)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

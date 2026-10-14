@@ -1,0 +1,44 @@
+{
+ "slug": "2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Galaxy Backbone's second data centre (Kano, built from 17 Huawei prefabricated containers) achieved Uptime Institute Tier IV certification for both design and constructed facility; Galaxy Backbone says it is the first in Nigeria with both. Date is the page date (the page says 'recently').",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "Galaxy Backbone Kano data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Galaxy Backbone, the federal government's ICT company, operates data centres in Abuja and Kano and says the Kano facility strengthens its cloud, disaster recovery and business continuity services to public and private sector organisations. Date is the page date.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "Galaxy Backbone Kano data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "GBB Data Center (phase 2, Kano)",
+   "class": "datacentre",
+   "platform": "Huawei FusionDC1000B prefabricated modular",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone Abuja data centre",
+   "country_label": "GBB data centre (phase 1, Abuja)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

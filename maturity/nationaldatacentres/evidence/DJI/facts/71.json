@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-state-gov-2025-investment-climate-statement-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Djibouti Data Center (DDC) (Djibouti Data Center SARL), colocation/carrier-neutral, in service; this document names it (published 2025-09-01).",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Djibouti Data Center (DDC)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

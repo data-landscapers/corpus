@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-03-afrique-data-centers-souverainete-donnees",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Gabon inaugurated its first sovereign data center at Nkok on 3 July 2026, run by ST Digital to host data of the state, banks, firms and telecom operators; 92 racks, CFA 8 billion.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "ST Digital Nkok data center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The Nkok data center inaugurated 3 July 2026 is stated to be Tier III-certified; certifying body not named.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "ST Digital Nkok data center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Nkok data center",
+   "country_label": "first national data center, Nkok",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

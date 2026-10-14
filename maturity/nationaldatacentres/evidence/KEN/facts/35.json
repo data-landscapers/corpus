@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-kenya-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 10 live commercial colocation data centre facilities in Kenya in 2025, leasing space and power to third parties, with about 15MW live critical IT load and about 65% occupancy; the facilities are not named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Kenya commercial colocation data centres (about 10 facilities)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

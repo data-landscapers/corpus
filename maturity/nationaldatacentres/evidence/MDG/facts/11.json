@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-stellarix-colocation-housing-antananarivo",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "STELLARIX offers colocation (1U to full 42U racks, carrier-neutral, Smart Hands) from two data centres in Antananarivo, Galaxy Andraharo and Analakely, advertised at 99.982% availability; the page has no publication date, so as_of is the capture date 2025-12-11.",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "STELLARIX data centres (Galaxy Andraharo; Analakely)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STELLARIX data centres (Galaxy Andraharo; Analakely)",
+   "country_label": "Nos Datacenters",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "STELLARIX",
+   "tiers": "described as Tier III ready, not certified"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Business Daily reports that Safaricom, which recently launched cloud services, offers them from data centres in Nairobi and Kisumu; no date given, so as_of is the article's publication date.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Safaricom cloud data centres (Nairobi, Kisumu)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Safaricom cloud data centres (Nairobi, Kisumu)",
+   "country_label": "Safaricom cloud data centres (Nairobi, Kisumu)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica Data Centres",
+   "country_label": "iXAfrica Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Konza data centre",
+   "country_label": "Konza data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle Kenya cloud region (coming soon)",
+   "country_label": "Oracle Kenya cloud region (coming soon)",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft/G42 East Africa Cloud Region (cancelled)",
+   "country_label": "Microsoft/G42 East Africa Cloud Region (cancelled)",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft/G42",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

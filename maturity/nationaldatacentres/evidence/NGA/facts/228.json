@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-11-nigeria-sovereign-cloud-google-microsoft-amazon",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Backbone Limited",
+   "country_label": "Nigeria",
+   "class": "",
+   "platform": "",
+   "owner": "State-owned (per document)",
+   "tiers": ""
+  }
+ ],
+ "note": "Galaxy Backbone signed regulatory instruments but no data centre of it is named as in service or hosting state systems."
+}

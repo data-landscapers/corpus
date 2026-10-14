@@ -1,0 +1,26 @@
+{
+ "slug": "2021-08-24-dcd-raxio-appoints-master-power-technologies-builder",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The article says Digital Parks Africa, a sister company of Master Power Technologies that offers wholesale colocation, owns a Tier III certified facility in Centurion, South Africa; the certifier and certification type are not stated and the article gives no event date, so its published date is used.",
+   "as_of": "2021-08-24",
+   "date_precision": "day",
+   "system": "Digital Parks Africa Centurion"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Parks Africa Centurion",
+   "country_label": "Digital Parks Africa Centurion",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Parks Africa (Master Power Technologies)",
+   "tiers": "Tier III certified"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

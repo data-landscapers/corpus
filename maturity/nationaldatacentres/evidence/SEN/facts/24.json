@@ -1,0 +1,54 @@
+{
+ "slug": "2021-06-23-sen-ciomag-datacenter-national-diamniadio-souverainete",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "CIO Mag reports ADIE's national data centre at Diamniadio was inaugurated on 22 June 2021 by President Macky Sall, to host data of public administration and the private sector (1,000 TB storage, 99.982% availability).",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "National Data Centre, Diamniadio"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "CIO Mag describes the Diamniadio national data centre, built by ADIE with Huawei, as a Tier 3 type facility (a stated rating, no certifier named).",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "National Data Centre, Diamniadio"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "CIO Mag reports the Diamniadio national data centre, tier 3, was built by ADIE (the state IT agency) and inaugurated 22 June 2021 by President Macky Sall; it is to host administration and private-sector data.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre, Diamniadio",
+   "country_label": "Datacenter national",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "public administration; private sector"
+  },
+  {
+   "system": "Diamniadio national data centre",
+   "country_label": "SEN",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

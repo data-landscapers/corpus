@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-29-tun-lapresse-telehealth-connect-health-id-2026",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Tunisie Telecom's CEO presented the operator's hosting and storage solutions and its data centres, which he said meet international standards and certifications; no facility is named and no tier is given.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Tunisie Telecom data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisie Telecom data centres",
+   "country_label": "TUN",
+   "class": "datacentre",
+   "platform": "hosting and storage",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Tunisian sovereign cloud",
+   "country_label": "TUN",
+   "class": "other",
+   "platform": "planned host for health data",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Health data 'would be hosted' on a sovereign cloud is an ambition, not a hosted fact."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Independent reports that ABQ Cloud, a Ugandan sovereign cloud, was launched on 2 March 2026 at the Raxio Data Centre in Namanve, Kampala, which hosts and provides infrastructure for the platform; the Raxio general manager calls it globally certified infrastructure, without naming a tier.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Raxio Data Centre (Namanve)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centre (Namanve)",
+   "country_label": "Raxio Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  },
+  {
+   "system": "ABQ Cloud",
+   "country_label": "ABQ Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "ABQ Cloud",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

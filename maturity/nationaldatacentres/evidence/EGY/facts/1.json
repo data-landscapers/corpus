@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Telecom Egypt's RDH1 data centre began operating in Q1 2021 and hosts most local ISPs, over 22 international cloud and content clients and the EG-IX exchange (Fintech Gate, 28 Aug 2026).",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "Telecom Egypt Regional Data Hub (RDH1)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Fintech Gate reports Telecom Egypt's RDH1, in service since 2021, holds several Tier III certificates (issuer and date not given; the article's date 2026-08-28 is used).",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Telecom Egypt Regional Data Hub (RDH1)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom Egypt Regional Data Hub (RDH1)",
+   "country_label": "RDH1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Telecom Egypt Regional Data Hub (RDH2)",
+   "country_label": "RDH2",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": "Uptime Tier III design certificate, Nov 2024; not yet in service"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

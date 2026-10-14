@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,OBR data center,,other,,Burundi Revenue Authority (OBR),,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,Central Bank data center,,other,,Central Bank of Burundi,,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,Presidency data center,,other,,Presidency,,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,Ministry of Health data center (PNDIS II plan),,other,,Ministry of Health,,2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,National data center (PAFEN),BDI,other,,,,2026-03-27-world-bank-reviews-burundi-pafen-reform-program

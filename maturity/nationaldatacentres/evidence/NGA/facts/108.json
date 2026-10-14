@@ -1,0 +1,34 @@
+{
+ "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Equinix closed its acquisition of MainOne on 5 April 2022, taking over an operational data centre in Lagos, Nigeria (LG1), one of three operational MainOne data centres across Nigeria, Ghana and Cote d'Ivoire; a further Lagos facility (LG2) was still under construction.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "LG1 Lagos"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LG1 Lagos",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (ex-MainOne)",
+   "tiers": ""
+  },
+  {
+   "system": "LG2 Lagos",
+   "country_label": "NGA",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix (ex-MainOne)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

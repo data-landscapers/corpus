@@ -1,0 +1,26 @@
+{
+ "slug": "2021-11-16-icosnet-data-center-oran-fiche-technique",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ICOSNET's technical sheet describes its operating Oran data centre at Bir El Djir as a 120 m2 colocation site with a 99.98% SLA, 2x100 kVA generators and international links over three subsea cables; the sheet gives no event date, so its 2021-11-16 file date is used.",
+   "as_of": "2021-11-16",
+   "date_precision": "day",
+   "system": "ICOSNET Data Center Oran"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICOSNET Data Center Oran",
+   "country_label": "Data Center Oran",
+   "class": "datacentre",
+   "platform": "VMware, NSX, vSAN",
+   "owner": "ICOSNET",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

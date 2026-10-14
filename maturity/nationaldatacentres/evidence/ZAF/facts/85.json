@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-01-bii-liquid-data-centre-productivity-study-companion",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The BII-commissioned evaluation says a new Liquid data centre in South Africa, which BII supported with a 2020 follow-on investment, became operational in 2019 and serves Liquid business clients (no date given beyond the year; operator Liquid Intelligent Technologies).",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Liquid data centre (South Africa)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liquid data centre (South Africa)",
+   "country_label": "Liquid data centre (South Africa)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-08-telone-data-centre-and-cloud-services",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TelOne, the state operator, sells data centre and cloud services (email hosting, virtual machines, storage) to enterprise and government customers from the TelOne Data Centre; the page is undated, so as_of is its capture date 2026-08-08.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "TelOne Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "TelOne states its own data centre is a Tier 3 environment, 'the best achievable standard in Zimbabwe'; this is an operator claim on an undated page (capture date 2026-08-08), with no certification named.",
+   "as_of": "2026-08-08",
+   "date_precision": "day",
+   "system": "TelOne Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne Data Centre",
+   "country_label": "TelOne Data Centre",
+   "class": "datacentre",
+   "platform": "Microsoft HyperV, VMware, OpenStack, Huawei FusionSphere",
+   "owner": "TelOne",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

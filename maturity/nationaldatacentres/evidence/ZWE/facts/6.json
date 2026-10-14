@@ -1,0 +1,86 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 6 live commercial data centre facilities in Zimbabwe in 2024, leasing colocation to third parties, with about 2MW live critical IT load and 40% occupancy; none is named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zimbabwe commercial data centres (about 6, unnamed)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam says state-owned TelOne manages facilities offering colocation to third parties, alongside a Huawei-built national data center, as of the July 2025 brief (no opening date given).",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "TelOne data centres"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "class": "datacentre",
+   "fact": "Xalam's July 2025 brief says the Zimbabwean data centre market includes facilities managed by state-owned TelOne, offering colocation to third parties; it does not name the facilities individually.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "TelOne-managed facilities"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne data centres",
+   "country_label": "TelOne facilities",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre",
+   "country_label": "national data center",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "Econet Wireless data centre",
+   "country_label": "Econet largest facility",
+   "class": "other",
+   "platform": "",
+   "owner": "Econet Wireless",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Center (Huawei-built)",
+   "country_label": "ZWE",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State presence (described as Huawei-built; ownership not otherwise stated)",
+   "tiers": ""
+  },
+  {
+   "system": "TelOne-managed facilities",
+   "country_label": "ZWE",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne (state-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "Econet Wireless data centre (impending)",
+   "country_label": "ZWE",
+   "class": "other",
+   "platform": "",
+   "owner": "Econet Wireless",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

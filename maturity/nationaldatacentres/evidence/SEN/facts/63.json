@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-24-mctn-reception-officielle-cloud-national-joj-dakar-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cloud national des JOJ Dakar 2026",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "Alibaba Cloud (Apsara Stack)",
+   "owner": "Senegal state (SENUM SA)",
+   "tiers": ""
+  }
+ ],
+ "note": "Infrastructure received 24 Mar 2026 to host Games applications; hosting of state data and public cloud are future, not stated as in service."
+}

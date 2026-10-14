@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-04-mtn-nigeria-dabengwa-data-centre-240-million",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Nigeria unveiled phase one of its Sifiso Dabengwa data centre in Ikeja, Lagos (4.5MW, with cloud infrastructure with Dell Technologies, marketed to businesses) on 1 July 2025.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Sifiso Dabengwa Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "MTN Nigeria describes phase one of the Sifiso Dabengwa data centre, unveiled 1 July 2025, as a Tier 3 data centre (operator's statement; no certifier named).",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Sifiso Dabengwa Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sifiso Dabengwa Data Centre",
+   "country_label": "Sifiso Dabengwa Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

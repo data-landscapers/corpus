@@ -1,0 +1,34 @@
+{
+ "slug": "2016-02-01-zf-vitib-cote-ivoire-pdf",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The VITIB free zone at Grand-Bassam (operational) has a data centre to international standards that lets companies worldwide host IT equipment and data (1,050 kVA generator, 3 fibre links); the sheet gives no opening date, so the date is its February 2016 publication.",
+   "as_of": "2016-02",
+   "date_precision": "month",
+   "system": "VITIB Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VITIB Data Center",
+   "country_label": "Data Center VITIB",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "VITIB S.A.",
+   "tiers": ""
+  },
+  {
+   "system": "Orange data center beside VITIB (under construction)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

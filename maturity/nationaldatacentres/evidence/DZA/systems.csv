@@ -1,0 +1,29 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,I-Cloud Akbou,I-Cloud,datacentre,,I-Cloud development group,,2026-10-04-dza-dzwatch-akbou-i-cloud-sovereign-data-center
+DZA,Centre national des services numériques (Mohammadia and Blida),CNSN,other,Huawei,Government of Algeria / Huawei partnership,state,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Mohammadia Data Center,Centre de données de Mohammadia,other,Huawei,Government of Algeria / Huawei,state,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Data Center de Constantine,Data Center de Constantine,datacentre,,Algerie Telecom,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Iconsnet,Iconsnet,datacentre,,Iconsnet,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Adex Cloud,Adex Cloud,datacentre,,Adex Cloud,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Data Center IA Oran,Data Center IA Oran,other,,Algerie Telecom,,2026-07-05-jeune-independant-centre-national-services-numeriques
+DZA,Mohammadia Data Center,Centre de Mohammadia,other,Huawei,Government of Algeria / Huawei,state,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,Data Center de Constantine,Data Center de Constantine,datacentre,,Algerie Telecom,,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,Data Center de Blida,Blida,other,,Government of Algeria,,2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid
+DZA,Algerie Telecom Constantine data centre,data center of Algeria Telecom in Constantine,datacentre,cloud platform (unnamed),Algerie Telecom,,2023-03-01-dcd-algerie-telecom-constantine-data-center
+DZA,HostArts / Ayrade / ICOSNET / ISSAL hosting,local hosting providers,datacentre,,"HostArts, Ayrade, ICOSNET, ISSAL",,2023-03-01-dcd-algerie-telecom-constantine-data-center
+DZA,AYRADE data centres,AYRADE,datacentre,,AYRADE,,2026-06-04-dza-algerie360-ayrade-bourse-entretien-belbachir
+DZA,"Ayrade data centres (Algiers, Oran)",centres de donnees,datacentre,,Ayrade,,2026-06-01-dza-elwatan-ayrade-introduction-bourse-alger
+DZA,"AYRADE data centres (Algiers, Oran)",DZA,datacentre,,AYRADE,,2026-06-01-dza-elwatan-ayrade-introduction-bourse-alger
+DZA,ADEX Technology data centre (Sidi Abdellah),ADEXCLOUD,datacentre,"ADEXCLOUD IaaS, S3 storage, ZIMAIL",ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
+DZA,ADEX data centre,DZA,datacentre,ADEXCLOUD,ADEX Technology,Tier II-ready,2025-07-15-btw-adex-technology-adexcloud-algeria-profile
+DZA,ICOSNET Data Center Oran,Data Center Oran,datacentre,"VMware, NSX, vSAN",ICOSNET,,2021-11-16-icosnet-data-center-oran-fiche-technique
+DZA,National cloud computing services of the Centre national algérien des services numériques,DZA,,national cloud,"State (run under the Haut commissariat à la numérisation, as the document names the centre)",,2025-12-05-dza-aps-convention-sante-hcn-cloud-computing-national
+DZA,"National data centre, El Mohammedia",DZA,,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
+DZA,"Data centre, Blida (under construction)",DZA,other,,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
+DZA,Sovereign cloud for public data (in preparation),DZA,other,sovereign cloud,,,2025-10-17 Algeria launches Dzair Services single-window public-services platform
+DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid
+DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-05-national-centre-digital-services-inauguration-echorouk
+DZA,National Digital Services Centre (Mohammadia),DZA,datacentre,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-06-04-parliament-sovereign-cloud-agreement-echorouk
+DZA,National Data Centre of ESI-Alger,DZA,,,"Ecole nationale supérieure d'informatique (ESI-Alger), under the Ministry of Higher Education",,2025-07-22-aps-baddari-centre-national-donnees-esi-preinscriptions
+DZA,"AI high-performance computing center, Oran",DZA,other,,State (Ministry of Post and Telecommunications laid foundation stone),,2025-03-17-ai-supercomputing-center-oran--wearetech
+DZA,Deuxième Centre national des données (Blida),DZA,other,,Haut-Commissariat à la numérisation (state),,2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida

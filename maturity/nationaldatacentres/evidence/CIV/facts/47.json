@@ -1,0 +1,42 @@
+{
+ "slug": "2014-06-06-mtn-inaugure-le-premier-data-center-nouvelle-generation-de-cote-divoire-abidjan",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Cote d'Ivoire's 336 m2 Flexenclosure eCentre data centre at Yopougon, Abidjan, was inaugurated and in service on 5 June 2014, offering infrastructure and services (including cloud computing) to businesses.",
+   "as_of": "2014-06-05",
+   "date_precision": "day",
+   "system": "MTN Yopougon eCentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Yopougon eCentre",
+   "country_label": "Data Center Nouvelle Generation",
+   "class": "datacentre",
+   "platform": "Flexenclosure eCentre",
+   "owner": "MTN Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "MTN Technology Center data center (Zone 4)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTN Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "MTN Cocody Riviera data centre (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTN Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

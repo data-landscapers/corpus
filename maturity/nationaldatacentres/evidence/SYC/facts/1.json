@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Cable & Wireless Seychelles states it has the country's first Tier IV certified data centre (certifier not named; operator statement), which it says lets local businesses, banks and government run on onshore infrastructure; facility not named and no date of certification, so the post date 2026-03-20 is used.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Cable & Wireless Seychelles Tier IV data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cable & Wireless Seychelles Tier IV data centre",
+   "country_label": "Tier IV data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cable & Wireless Seychelles",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

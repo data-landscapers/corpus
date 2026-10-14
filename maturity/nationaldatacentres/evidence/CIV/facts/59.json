@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Equinix's closing release says its acquisition of MainOne, completed on 5 April 2022, included an operational data centre in Abidjan (AB1), run by Equinix/MainOne; the document gives no Tier rating.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "AB1 Abidjan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AB1 Abidjan",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (ex-MainOne)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

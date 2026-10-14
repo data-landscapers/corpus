@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Fringe Infrastructure launched its Ikoyi Metro EDGE carrier-neutral data centre in Ikoyi, Lagos, serving banks, startups, multinationals and cloud providers; the document gives no launch date other than its published date of 2026-01-08.",
+   "as_of": "2026-01-08",
+   "date_precision": "day",
+   "system": "Ikoyi Metro EDGE"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ikoyi Metro EDGE",
+   "country_label": "Ikoyi Metro EDGE data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Fringe Infrastructure Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

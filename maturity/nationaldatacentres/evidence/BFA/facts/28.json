@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-25-gouvernement-inaugure-deux-datacenters",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The digital transition ministry inaugurated two modular public-administration datacenters in Ouagadougou on 23 January 2026, built to hold the state's civil registry, health, tax and civil service data and platforms; 3,000 TB storage, cost over 15bn FCFA.",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Two modular government datacenters, Ouagadougou",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "none",
+   "fact": "The minister and Prime Minister said government platforms and data are still hosted abroad or in private centres and ordered their repatriation (aim: zero public administration data outside the country).",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "Government data hosted abroad or in private centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Two modular government datacenters, Ouagadougou",
+   "country_label": "BFA",
+   "class": "datacentre",
+   "platform": "government cloud",
+   "owner": "Ministry of Digital Transition (state)",
+   "tiers": ""
+  },
+  {
+   "system": "Planned national datacenter",
+   "country_label": "BFA",
+   "class": "other",
+   "platform": "",
+   "owner": "state (planned)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

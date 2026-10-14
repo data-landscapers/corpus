@@ -1,0 +1,54 @@
+{
+ "slug": "2026-03-01-liberia-national-data-governance-policy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: LTC Mobile National Data Centre (Liberia Telecommunications Corporation (LTC Mobile)), colocation/carrier-neutral, in service; this document names it (published 2026-03-01).",
+   "as_of": "2026-03-01",
+   "date_precision": "day",
+   "system": "LTC Mobile National Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Liberia's National Data Governance Policy says the National Data Center, spearheaded by the Ministry of Posts and Telecommunications for government and private sector use, is located at the state-owned national operator LTC-Mobile and is being upgraded under the World Bank GREAT Project; it does not itself say who owns the centre, only that it sits at a state-owned operator. Dated by the document's published date (March 2026), as it gives no other date.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "none",
+   "fact": "The policy states that GovNet, which connects more than 107 ministries, agencies and commissions, suffers from the absence of a centralised data centre, and that a national data centre still needs to be established or designated to host critical government datasets. Dated by the document's published date (March 2026), as it gives no other date.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "GovNet",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "LBR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state-owned national operator LTC-Mobile (hosts it; ownership of the centre itself not stated)",
+   "tiers": ""
+  },
+  {
+   "system": "Buchanan Tier III+ facility",
+   "country_label": "LBR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III+ (under development)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

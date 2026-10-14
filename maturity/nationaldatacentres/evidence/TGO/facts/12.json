@@ -1,0 +1,26 @@
+{
+ "slug": "2021-06-07-tgo-togofirst-lome-data-centre-inauguration",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Togo First reports Lomé Data Centre was inaugurated on 4 June 2021, providing colocation server hosting to private operators, managed and operated by Africa Data Centres.",
+   "as_of": "2021-06-04",
+   "date_precision": "day",
+   "system": "Lomé Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

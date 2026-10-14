@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-burkina-ika-cloud-hebergeur-local-donnees",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "IKA Solution officially launched IKA Cloud in Ouagadougou on 31 July 2026, described by AIB as Burkina Faso's first 100% local data host: a data hosting centre in the country offering hosting to businesses, individuals, start-ups and institutions.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "IKA Cloud"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IKA Cloud",
+   "country_label": "IKA CLOUD",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "IKA Solution",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

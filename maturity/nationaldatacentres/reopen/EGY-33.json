@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-10-telecom-egypt-digital-hub-brochure",
+  "facts": [],
+  "systems": [
+    {"system": "Telecom Egypt Regional Data Hub (RDH), Smart Village", "country_label": "EGY", "class": "datacentre", "platform": "colocation", "owner": "Telecom Egypt (document does not state its ownership)", "tiers": "Tier III (Uptime Institute design, facility, operation)"},
+    {"system": "Telecom Egypt commercial data centers (6 facilities)", "country_label": "EGY", "class": "datacentre", "platform": "colocation", "owner": "Telecom Egypt (document does not state its ownership)", "tiers": ""}
+  ],
+  "note": "Brochure says Telecom Egypt owns and operates the centres but never says the company is state-owned or Egyptian-owned, and lists Government Cloud only as a client category without naming hosted state systems; no owner or state fact."
+}

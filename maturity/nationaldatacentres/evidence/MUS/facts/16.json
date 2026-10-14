@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-30-mauritius-telecom-myt-cloud-rose-belle-defimedia",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Mauritius Telecom launched its my.t cloud enterprise cloud services (including Elastic Cloud Servers) at a ceremony on 27 March 2024 at its Rose Belle Data Centre, which hosts them for business customers.",
+   "as_of": "2024-03-27",
+   "date_precision": "day",
+   "system": "Rose Belle Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Mauritius Telecom's CEO stated that the Rose Belle Data Centre is certified Tier IV (over Rs 1 billion invested); the document does not name the certifying body; the date is the article's publication date.",
+   "as_of": "2024-03-30",
+   "date_precision": "day",
+   "system": "Rose Belle Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rose Belle Data Centre",
+   "country_label": "MUS",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": "Tier IV (stated by CEO)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

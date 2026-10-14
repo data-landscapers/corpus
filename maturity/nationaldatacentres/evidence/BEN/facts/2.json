@@ -1,0 +1,26 @@
+{
+ "slug": "2023-09-27-data-center-mtn-benin",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "MTN Bénin's own product page offers businesses rental of servers and storage at its MTN Data Center, with redundant SBEE, generator and UPS power; the page is undated and the date is its capture date.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "MTN Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Data Center",
+   "country_label": "MTN Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Bénin",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

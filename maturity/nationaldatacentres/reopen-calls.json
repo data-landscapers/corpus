@@ -1,0 +1,212 @@
+[
+{
+"kind": "reopen",
+"iso": "AGO",
+"ns": [
+8
+]
+},
+{
+"kind": "reopen",
+"iso": "BWA",
+"ns": [
+1
+]
+},
+{
+"kind": "reopen",
+"iso": "CMR",
+"ns": [
+3,
+18,
+21
+]
+},
+{
+"kind": "reopen",
+"iso": "COG",
+"ns": [
+10,
+25,
+34
+]
+},
+{
+"kind": "reopen",
+"iso": "COM",
+"ns": [
+11
+]
+},
+{
+"kind": "reopen",
+"iso": "CPV",
+"ns": [
+6,
+8
+]
+},
+{
+"kind": "reopen",
+"iso": "DZA",
+"ns": [
+13,
+14,
+17
+]
+},
+{
+"kind": "reopen",
+"iso": "EGY",
+"ns": [
+33
+]
+},
+{
+"kind": "reopen",
+"iso": "GAB",
+"ns": [
+3,
+29
+]
+},
+{
+"kind": "reopen",
+"iso": "GHA",
+"ns": [
+3,
+33
+]
+},
+{
+"kind": "reopen",
+"iso": "GIN",
+"ns": [
+9
+]
+},
+{
+"kind": "reopen",
+"iso": "KEN",
+"ns": [
+1,
+5,
+34
+]
+},
+{
+"kind": "reopen",
+"iso": "LBR",
+"ns": [
+6
+]
+},
+{
+"kind": "reopen",
+"iso": "MAR",
+"ns": [
+43
+]
+},
+{
+"kind": "reopen",
+"iso": "MLI",
+"ns": [
+3,
+8
+]
+},
+{
+"kind": "reopen",
+"iso": "MRT",
+"ns": [
+8,
+13,
+14
+]
+},
+{
+"kind": "reopen",
+"iso": "MWI",
+"ns": [
+7
+]
+},
+{
+"kind": "reopen",
+"iso": "NAM",
+"ns": [
+15
+]
+},
+{
+"kind": "reopen",
+"iso": "NGA",
+"ns": [
+65
+]
+},
+{
+"kind": "reopen",
+"iso": "SDN",
+"ns": [
+2,
+5,
+6
+]
+},
+{
+"kind": "reopen",
+"iso": "SEN",
+"ns": [
+24,
+25
+]
+},
+{
+"kind": "reopen",
+"iso": "SWZ",
+"ns": [
+2,
+6,
+7
+]
+},
+{
+"kind": "reopen",
+"iso": "TUN",
+"ns": [
+26
+]
+},
+{
+"kind": "reopen",
+"iso": "UGA",
+"ns": [
+2,
+43
+]
+},
+{
+"kind": "reopen",
+"iso": "ZAF",
+"ns": [
+138
+]
+},
+{
+"kind": "reopen",
+"iso": "ZMB",
+"ns": [
+6,
+30
+]
+},
+{
+"kind": "reopen",
+"iso": "ZWE",
+"ns": [
+6
+]
+}
+]

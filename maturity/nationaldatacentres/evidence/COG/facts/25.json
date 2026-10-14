@@ -1,0 +1,54 @@
+{
+ "slug": "2024-03-04-digitalbusinessafrica-arpce-datacenter-tier3-pointe-noire-2africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "ARPCE, the regulator, put its Pointe-Noire data centre (156 m2, 54 racks) into service on 28 February 2024; ARPCE's director general says it can host the data of public administration and of the private sector.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Datacenter"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "ARPCE describes its Pointe-Noire data centre, in service since 28 February 2024, as Tier 3+ (operator's own statement, no certification named).",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Datacenter"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The document describes the Pointe-Noire Tier 3+ data centre as the ARPCE's own, the Agency for the Regulation of Posts and Electronic Communications, a state regulator, put into service on 2024-02-28.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARPCE Pointe-Noire Datacenter",
+   "country_label": "Datacenter de l'ARPCE, Pointe-Noire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ARPCE",
+   "tiers": "Tier 3+"
+  },
+  {
+   "system": "ARPCE Brazzaville Datacenter",
+   "country_label": "Datacenter de Brazzaville (bâtiment technique ARPCE)",
+   "class": "other",
+   "platform": "",
+   "owner": "ARPCE",
+   "tiers": "Tier 2"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

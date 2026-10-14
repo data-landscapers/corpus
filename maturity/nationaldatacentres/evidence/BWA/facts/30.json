@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-25-bwa-digital-delta-data-centre-launch",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Ministry of Communication and Innovation launched the Digital Delta Data Centre in Gaborone on 25 November 2025 (BoFiNet facility); the article does not say it sells to outside customers.",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The minister stated the Digital Delta Data Centre attained Uptime Institute Tier III certification for a constructed facility on 23 October 2025.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (100% government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

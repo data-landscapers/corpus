@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-03-presidence-gabon-inauguration-data-center-national-nkok",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "The Presidency states the President inaugurated Gabon's first national and sovereign Data Center in the Nkok special economic zone on 3 July 2026, built by ST Digital, to host data for administrations, businesses and citizens.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "ST Digital Gabon data centre, Nkok"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The Presidency states the ST Digital data centre in Nkok is certified to international Tier III standards, without naming the certifying body.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "ST Digital Gabon data centre, Nkok"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital Gabon data centre, Nkok",
+   "country_label": "Data Center national et souverain",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

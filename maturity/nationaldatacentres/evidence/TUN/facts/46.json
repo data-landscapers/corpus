@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-alchourouk-circular-securing-public-digital-systems",
+  "facts": [],
+  "systems": [
+    {"system": "National Computing Centre (المركز الوطني للإعلامية)", "country_label": "TUN", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 2 Sep 2026 circular requires public bodies' sites and platforms to be hosted exclusively at the National Computing Centre, sectoral public centres or approved telecom operators; it is a mandate, not a statement that any system is hosted there, and it gives no owner, tier or service status."
+}

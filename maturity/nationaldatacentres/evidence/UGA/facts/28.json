@@ -1,0 +1,36 @@
+{
+ "slug": "2020-12-14-ventureburn-raxio-uganda-uptime-tier-iii-certification",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Data Centre in Uganda, established 2020 by Roha Group company First Brick Holdings, is a carrier-neutral colocation facility renting space to businesses, about 400 racks and 1.5 MW, hosting the Uganda Internet eXchange Point.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Raxio Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Uptime Institute awarded the Raxio Data Centre in Uganda Tier III Certification in October 2020 after evaluating its design and equipment, the first Tier III certified data centre in Uganda.",
+   "as_of": "2020-10",
+   "date_precision": "month",
+   "system": "Raxio Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centre",
+   "country_label": "Raxio Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group (First Brick Holdings, Roha Group)",
+   "tiers": "Tier III (Uptime Institute)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

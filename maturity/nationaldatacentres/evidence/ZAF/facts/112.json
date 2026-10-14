@@ -1,0 +1,26 @@
+{
+ "slug": "2022-08-30-adc-zaf-samrand-expansion-groundbreaking",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Africa Data Centres (Cassava Technologies) operates a carrier- and cloud-neutral Samrand facility in Johannesburg of 10MW IT load, broke ground on its expansion to 40MW, and recently launched a new 10MW data centre at its Midrand campus; undated, so the published date is used.",
+   "as_of": "2022-08-30",
+   "date_precision": "day",
+   "system": "Africa Data Centres Samrand"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Samrand",
+   "country_label": "Samrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

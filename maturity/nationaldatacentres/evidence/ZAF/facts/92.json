@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-06-teraco-announces-access-to-johannesburg-google-cloud-region-via-cloud-interconne",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Teraco, a carrier-neutral colocation provider, states it operates its Isando Campus data centre in Johannesburg and offers Google Cloud Interconnect there.",
+   "as_of": "2024-02-06",
+   "date_precision": "day",
+   "system": "Teraco Isando Campus"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando Campus",
+   "country_label": "Isando Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Google Cloud Interconnect on-ramp",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Connecting Africa reports Wingu Africa, a colocation, IaaS and CaaS provider, has recently launched its second site in Djibouti, hosting the country's first integrated cable landing station and data centre, alongside its first, giving two facilities in service (no launch date given; article date used).",
+   "as_of": "2025-06-06",
+   "date_precision": "day",
+   "system": "Wingu Africa Djibouti data centres"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa Djibouti data centres",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

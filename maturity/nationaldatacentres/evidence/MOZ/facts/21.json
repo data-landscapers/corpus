@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Digital Realty's MPM1 carrier-neutral data centre in Maputo, run by iColo, was operating in May 2025 and hosted more than 15 network operators (document gives no opening date; dated by its publication).",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "MPM1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MPM1",
+   "country_label": "MPM1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (iColo)",
+   "tiers": ""
+  },
+  {
+   "system": "MOZIX",
+   "country_label": "MOZIX",
+   "class": "other",
+   "platform": "",
+   "owner": "CIUEM",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2021-07-19-nga-thetechcapital-rack-centre-lagos-capacity-doubled",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Rack Centre's LGS 1 carrier-neutral data centre in Lagos is operating, serving cloud providers, content providers and enterprises with over 40 carriers, and in July 2021 completed doubling its IT load to 1.5 MW with 6,500 sq ft of added white space.",
+   "as_of": "2021-07-19",
+   "date_precision": "day",
+   "system": "Rack Centre LGS 1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS 1",
+   "country_label": "Rack Centre Lagos Campus",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre (Actis, Convergence Partners, Jagal)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

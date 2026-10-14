@@ -1,0 +1,36 @@
+{
+ "slug": "2022-04-14-sanwo-olu-airtels-tier-iii-data-centre-will-boost-it-development-create-business",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Airtel Nigeria launched its 200-rack Airtel Data Centre in Lekki, Lagos, offering colocation and cloud services commercially, with full operations beginning immediately; the launch date is not stated, so the article date 2022-04-14 is used.",
+   "as_of": "2022-04-14",
+   "date_precision": "day",
+   "system": "Airtel Lekki Data Centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Airtel Nigeria's Lekki, Lagos data centre, in service at launch, was awarded Tier III ANSI/TIA-942 certification by EPI per the operator; the certification date is not stated, so the article date 2022-04-14 is used.",
+   "as_of": "2022-04-14",
+   "date_precision": "day",
+   "system": "Airtel Lekki Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Lekki Data Centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Airtel Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

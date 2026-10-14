@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-raxio-civ1-data-centre-cote-divoire",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Group's CIV1, a carrier-neutral colocation data centre at Grand Bassam (VITIB), opened in 2024 and sells colocation and cross-connects to customers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio CIV1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio says CIV1 is Uptime Institute Tier III certified (2,000 m2 white space, 400 racks, 3 MW IT power); the page gives no certification date, so the date is the page's published date.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Raxio CIV1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "Raxio CIV1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

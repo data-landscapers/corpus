@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ifc-eth-003-safaricom-ethiopia-ifc-second-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data centres dataset: Safaricom Thika Data Centre (Safaricom PLC), colocation/carrier-neutral, in service; this document names it (published 2024-01-01).",
+   "as_of": "2024-01-01",
+   "date_precision": "day",
+   "system": "Safaricom Thika Data Centre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from datacentres; no document opened"
+}

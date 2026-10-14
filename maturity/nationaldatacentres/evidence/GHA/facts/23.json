@@ -1,0 +1,36 @@
+{
+ "slug": "2022-06-24-dcd-onix-accra-tier-iv-opened-bawumia",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Vice President Bawumia opened Onix Accra 1 (12MW, Amrahia, Adentan, Greater Accra), a carrier-neutral co-location data center built by Onix and owned by African Infrastructure Investment Managers; the date is the article's, which gives no other.",
+   "as_of": "2022-06-24",
+   "date_precision": "day",
+   "system": "Onix Accra 1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Onix Accra 1 is described as the only Uptime Institute-certified Tier IV data center in Ghana (certification type not stated); article dated 2022-06-24.",
+   "as_of": "2022-06-24",
+   "date_precision": "day",
+   "system": "Onix Accra 1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Onix Accra 1",
+   "country_label": "Onix Accra 1 (formerly Ngoya Etix DC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "African Infrastructure Investment Managers",
+   "tiers": "Tier IV (Uptime Institute)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

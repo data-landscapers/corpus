@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Vodacom Mozambique inaugurated its Business Data Centre in Matola at the end of March 2025, a 2,600 m2 facility with 128 racks expandable to over 500, serving national and international companies with a neutral connectivity model.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Vodacom Business Data Centre (Matola)"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "The Vodacom Business Data Centre in Matola, operated by Vodacom Mozambique, is described as Tier 3 and Uptime Institute-certified.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Vodacom Business Data Centre (Matola)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Business Data Centre (Matola)",
+   "country_label": "Vodacom Business Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

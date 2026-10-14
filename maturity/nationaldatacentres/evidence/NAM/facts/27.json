@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-03-paratus-namibia-holdings-integrated-annual-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Paratus Namibia reports its carrier-neutral Armada Data Center in Windhoek offers co-location (half-cabinets to multi-tenant rows and private cages) to clients, with 62% occupancy in the year to 30 June 2025; the date is the financial year end, the document giving no other.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Armada Data Center"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Paratus states the carrier-neutral Armada Data Center in Windhoek is Tier-III by design (operator statement, no Uptime Institute certification named); the date is the financial year end, the document giving no other.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Armada Data Center"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Armada Data Center",
+   "country_label": "Armada Data Center, Windhoek",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus Namibia",
+   "tiers": "Tier III by design; ISO 9001, ISO 27001, PCI-DSS"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

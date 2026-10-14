@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-08-paratus-namibia-baas-draas-linkedin",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Paratus Namibia advertises Backup-as-a-Service and Disaster-Recovery-as-a-Service to outside organisations, with virtual server replication to the Paratus Provider Data Centre, so that data centre is in service and sold to customers (post dated 2026-05-08, no opening date given).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Paratus Provider Data Centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Provider Data Centre",
+   "country_label": "Paratus Provider Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

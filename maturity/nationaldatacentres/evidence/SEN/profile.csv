@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,national,centre,coverage,tier3,2026-06-11,SEN-004;SEN-010;SEN-012;SEN-015;SEN-018;SEN-020;SEN-022;SEN-023;SEN-024,SEN-001=service;SEN-002=service;SEN-026=service;SEN-003=service;SEN-025=service;SEN-005=service;SEN-006=service;SEN-007=service;SEN-008=service;SEN-009=service;SEN-011=service;SEN-014=service;SEN-021=service;SEN-017=service;SEN-019=service,
+SEN,national,owner,coverage,national,2021-06-22,SEN-013;SEN-016,,nothing dated since 2023-10-14
+SEN,national,state,coverage,,,,,nothing held

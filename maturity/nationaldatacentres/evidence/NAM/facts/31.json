@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-08 China funds Namibia digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "NAM",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Namibia (MICT)",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre described as AI-ready, in development with Huawei; no in-service facility stated."
+}

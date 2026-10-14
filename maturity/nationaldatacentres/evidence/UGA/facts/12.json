@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-raxio-ug1-uganda-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Raxio Group states its Raxio UG1 carrier-neutral data centre in Namanve, Uganda, opened in 2021 and sells colocation and cross-connects (400 racks, 1,000 m2, 1.5 MW IT power).",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Raxio UG1"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Raxio Group states Raxio UG1 in Namanve is Uptime Institute Tier III certified; the page gives no certification date, so the 2026 publication year is used.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Raxio UG1"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio UG1",
+   "country_label": "Raxio UG1 Data Centre, Namanve",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

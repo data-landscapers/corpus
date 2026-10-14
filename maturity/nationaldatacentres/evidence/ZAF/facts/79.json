@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "TechAfrica News reports Teraco announced completion of its eighth data centre, JB5 at the Isando campus (12 halls, 120MVA supply), bringing the campus to 70MW critical power; no completion date is given, so the published date is used.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "Teraco JB5"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco JB5",
+   "country_label": "Teraco JB5",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

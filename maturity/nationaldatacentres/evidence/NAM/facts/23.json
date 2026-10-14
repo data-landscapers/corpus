@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Data Landscapers says Paratus, a majority African-owned operator, runs five operational data centres across Angola, Namibia and Zambia, drawn from its register of carrier-neutral colocation facilities; no Namibian facility is named and no date is given, so as_of is the article's published date.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Paratus data centres (Namibia)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus data centres",
+   "country_label": "Namibia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

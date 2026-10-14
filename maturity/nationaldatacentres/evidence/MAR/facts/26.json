@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-30-dcd-ovhcloud-maroc-datacenter-local-zone-rabat",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "DatacenterDynamics reports Maroc Datacenter operates a single 2,000 sqm data centre in the Rabat area and hosts an OVHcloud Local Zone there for customers; as_of is the article date.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Maroc Datacenter Rabat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OVHcloud Local Zone Rabat",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "OVHcloud",
+   "tiers": ""
+  },
+  {
+   "system": "Maroc Datacenter Rabat facility",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Maroc Datacenter",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

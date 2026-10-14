@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-data-center-market-brief-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Xalam Analytics estimates about 4 live commercial data centre facilities in Rwanda in 2024, with about 1MW live IT load and about 60% occupancy by third-party customers; facilities are mostly hybrid, leasing excess capacity to external customers, and none are named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "unnamed commercial facilities"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PAIX",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

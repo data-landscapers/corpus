@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-04-dza-algerie360-ayrade-bourse-entretien-belbachir",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "owner",
+      "value": "national",
+      "fact": "In a June 2026 interview AYRADE's founder and chairman says AYRADE designs, integrates and operates two data centres in Algeria, for its own needs and as integrator for national clients, and that they are Algerian, run by Algerian teams under Algerian law; AYRADE is an Algerian joint-stock company based in Mohammadia, Algiers, opening 20% of its capital to the public on the Algiers Bourse. Dated by the article's published date.",
+      "as_of": "2026-06-04",
+      "date_precision": "day",
+      "system": "AYRADE data centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "AYRADE data centres",
+      "country_label": "DZA",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "AYRADE (Algerian company)",
+      "tiers": ""
+    }
+  ],
+  "note": "No state fact: government hosting is stated only as an aim and a client sector, not as systems hosted in a named centre."
+}

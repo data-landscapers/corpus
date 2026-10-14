@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-15 Raxio data-centre capital tops $380m on investor boost",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Tech.africa reports Raxio, a pan-African independent carrier-neutral data-centre operator, operates a facility in Mozambique (facility not named); no date of opening is given, so as_of is the article's published date.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Raxio Mozambique data centre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "class": "datacentre",
+   "fact": "Tech.africa reports Raxio describes its operating carrier-neutral facilities, including the one in Mozambique, as Tier III (operator statement, no certification body named); no date given, so as_of is the article's published date.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Raxio Mozambique data centre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Mozambique data centre",
+   "country_label": "Raxio (Mozambique)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III (operator-stated)"
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}

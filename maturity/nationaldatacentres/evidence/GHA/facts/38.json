@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "class": "datacentre",
+   "fact": "Equinix closed its acquisition of MainOne on 5 April 2022, taking over the operational AC1 data centre in Accra, Ghana (one of three operational MainOne data centres).",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "AC1 Accra"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AC1 Accra",
+   "country_label": "AC1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (formerly MainOne)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from datacentres; no document opened"
+}
