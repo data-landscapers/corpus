@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-07-world-bank-pasel-project-appraisal-document-congo",
+  "facts": [],
+  "systems": [
+    {"system": "Count of blackouts and partial blackouts, 2021", "country_label": "54 blackouts and 41 partial blackouts in 2021, 38 of them in Brazzaville and three in Pointe-Noire", "class": "other", "platform": "", "owner": "E2C / World Bank PAD", "tiers": ""},
+    {"system": "Transmission network disconnection events", "country_label": "5 in 2017, 54 in 2021, 47 in 2022", "class": "other", "platform": "", "owner": "E2C / World Bank PAD", "tiers": ""},
+    {"system": "SAIDI (PDO indicator, no value stated)", "country_label": "duration index, hours; no figure given", "class": "other", "platform": "", "owner": "MEH and E2C", "tiers": ""}
+  ],
+  "note": "No SAIFI or outages-per-month figure; only blackout and disconnection event counts and a SAIDI indicator with no value."
+}

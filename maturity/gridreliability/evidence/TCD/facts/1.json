@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-20-rfi-delestages-recurrents-ndjamena-incendie-centrale-farcha",
+  "facts": [],
+  "systems": [
+    {"system": "Farcha 1 thermal plant load-shedding, N'Djamena", "country_label": "Recurrent load-shedding in some N'Djamena districts, close to a month in places as at 2026-08-20, after the late-July 2026 fire at Farcha 1; no outage count", "class": "other", "platform": "", "owner": "Tchad Elec", "tiers": ""}
+  ],
+  "note": "Load-shedding story for one city with no outages-per-month or SAIFI figure, so no grid-class fact."
+}

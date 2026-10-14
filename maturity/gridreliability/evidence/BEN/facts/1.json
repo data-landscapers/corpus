@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-06-sbee-bj-saifi-saidi-2025",
+  "facts": [],
+  "systems": [
+    {"system": "SBEE SAIFI and SAIDI indices, Cotonou 2025", "country_label": "Cotonou only: 2025 SAIFI 3.35 and SAIDI 12.78 (January to November; December blank)", "class": "other", "platform": "", "owner": "SBEE (Societe Beninoise d'Energie Electrique)", "tiers": ""}
+  ],
+  "note": "The SAIFI/SAIDI table is for Cotonou alone, not the whole national grid, so it is class other and gives no fact."
+}

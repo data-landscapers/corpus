@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-11-kenya-power-vre-grid-stability-statement",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Power national grid VRE share (34% of energy mix at day peak of 1900MW, 36% at low load of 1200MW)", "country_label": "variable renewable energy share of the grid, 34% day peak and 36% low load, 2026-08", "class": "other", "platform": "", "owner": "Kenya Power PLC", "tiers": ""}
+  ],
+  "note": "Kenya Power statement on renewable energy share and grid stability risk; gives no outage count, SAIFI or interruption frequency."
+}

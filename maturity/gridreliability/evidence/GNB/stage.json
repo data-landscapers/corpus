@@ -1,0 +1,15 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "3",
+   "outages": "survey:2.56",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNB-001",
+   "gaps": "The latest figure, 2.56 outages a month for 2025, is above 2.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

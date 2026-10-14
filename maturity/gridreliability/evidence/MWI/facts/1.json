@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-24-malawi-first-battery-storage-project",
+  "facts": [],
+  "systems": [
+    {"system": "Kanengo battery energy storage system (20 MW / 40 MWh), ESCOM and Global Energy Alliance", "country_label": "commissioned 2026-07-24; no outage count given", "class": "other", "platform": "", "owner": "ESCOM", "tiers": ""}
+  ],
+  "note": "Commissioning release for a battery store; says the grid has long faced instability but gives no outage count or SAIFI."
+}

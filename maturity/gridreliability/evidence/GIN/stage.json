@@ -1,0 +1,15 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "4",
+   "outages": "utility:1.92",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-001",
+   "gaps": "The latest figure, 1.92 outages a month for 2025, is above 1.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

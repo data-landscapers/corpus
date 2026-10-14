@@ -1,0 +1,47 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:16.55",
+   "fact": "Firms in Egypt reported 16.55 power outages in a typical month in the World Bank's 2013 Enterprise Survey.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:1.72",
+   "fact": "Firms in Egypt reported 1.72 power outages in a typical month in the World Bank's 2016 Enterprise Survey.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:0.82",
+   "fact": "Firms in Egypt reported 0.82 power outages in a typical month in the World Bank's 2020 Enterprise Survey.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:4.16",
+   "fact": "Firms in Egypt reported 4.16 power outages in a typical month in the World Bank's 2025 Enterprise Survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

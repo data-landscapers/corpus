@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-01-edg-rapport-annuel-2025",
+  "facts": [
+    {"sub_indicator": "outages", "aspect": "outages", "value": "utility:1.92", "fact": "Electricité de Guinée (EDG-SA) reports a SAIFI of 23 interruptions for 2025 in its annual report, which is 1.92 a month.", "as_of": "2025", "date_precision": "year", "system": "EDG-SA SAIFI", "class": "grid"},
+    {"sub_indicator": "outages", "aspect": "outages", "value": "utility:3.32", "fact": "Electricité de Guinée (EDG-SA) reports a SAIFI of 39.8 interruptions for 2024 in its 2025 annual report, which is 3.32 a month.", "as_of": "2024", "date_precision": "year", "system": "EDG-SA SAIFI", "class": "grid"}
+  ],
+  "systems": [
+    {"system": "EDG-SA SAIFI", "country_label": "23 interruptions in 2025; 39.8 in 2024", "class": "grid", "platform": "", "owner": "Electricité de Guinée (EDG-SA)", "tiers": ""},
+    {"system": "EDG-SA SAIDI", "country_label": "72.1 hours in 2025 (2024 not available)", "class": "other", "platform": "", "owner": "Electricité de Guinée (EDG-SA)", "tiers": ""},
+    {"system": "EDG-SA load shedding for production deficit", "country_label": "none in 2025; 129797 hours in 2024", "class": "other", "platform": "", "owner": "Electricité de Guinée (EDG-SA)", "tiers": ""},
+    {"system": "EDG-SA energy not distributed (END)", "country_label": "42118.90 MWh in 2025; 542767.50 MWh in 2024", "class": "other", "platform": "", "owner": "Electricité de Guinée (EDG-SA)", "tiers": ""}
+  ],
+  "note": ""
+}

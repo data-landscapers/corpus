@@ -1,0 +1,15 @@
+{
+ "iso3": "CAF",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:32.54",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CAF-001",
+   "gaps": "The latest figure, 32.54 outages a month for 2023, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

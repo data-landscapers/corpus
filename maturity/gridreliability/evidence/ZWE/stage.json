@@ -1,0 +1,15 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "3",
+   "outages": "survey:3.88",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002",
+   "gaps": "The latest figure, 3.88 outages a month for 2025, is above 2.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

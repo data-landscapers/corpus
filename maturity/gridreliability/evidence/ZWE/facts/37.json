@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:4.59",
+   "fact": "Firms in Zimbabwe reported 4.59 power outages in a typical month in the World Bank's 2016 Enterprise Survey.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:3.88",
+   "fact": "Firms in Zimbabwe reported 3.88 power outages in a typical month in the World Bank's 2025 Enterprise Survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

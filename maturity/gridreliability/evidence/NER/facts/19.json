@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:23.15",
+   "fact": "Firms in Niger reported 23.15 power outages in a typical month in the World Bank's 2017 Enterprise Survey.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:6.07",
+   "fact": "Firms in Niger reported 6.07 power outages in a typical month in the World Bank's 2025 Enterprise Survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

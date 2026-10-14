@@ -1,0 +1,15 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:38.84",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001",
+   "gaps": "The latest figure, 38.84 outages a month for 2025, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

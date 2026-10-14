@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-30-ntcsa-medium-term-system-adequacy-outlook-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Eskom load shedding", "country_label": "Load shedding suspended 348 days in FY2024 against 32 days in FY2023, per NTCSA", "class": "other", "platform": "", "owner": "NTCSA System Operator", "tiers": ""},
+    {"system": "MTSAO unserved energy metric", "country_label": "Adequacy threshold of unserved energy under 20 GWh a year; forward-looking 2026-2030", "class": "other", "platform": "", "owner": "NTCSA System Operator", "tiers": ""}
+  ],
+  "note": "Supply adequacy outlook; no outage count or SAIFI. Text in the file ends mid-sentence in section 7.1.2."
+}

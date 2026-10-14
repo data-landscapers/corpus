@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,outages,outages,coverage,survey:6.07,2025,NER-003,NER-001=utility:24;NER-002=survey:23.15,

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-gridreliability.md — the forty-ninth maturity study: how often the power goes off, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: gridreliability
@@ -55,7 +55,7 @@ Asked in order. Each is answered with a date and a link.
 - **A fall is a fall**: the latest figure sets the stage, whatever an earlier one said.
 - **The survey counts outages firms report, not how many people the grid reaches**: South Sudan and Somalia reach stage 4 on it. The short summary says where a figure is the survey.
 
-`study.json` holds this as one aspect, `outages`, whose value is the figure: `utility:0.76` for a regulator's or utility's SAIFI divided by 12, `survey:2.37` for the Enterprise Surveys, dated by the year the figure is for. The ladder counts the lines the latest figure clears. A fact is recorded only for interruptions across the whole country's grid; everything in §1's `other` list is a `systems` entry of class `other`, with the figure in `country_label`.
+`study.json` holds this as one aspect, `outages`, whose value is the figure: `utility:0.76` for a regulator's or utility's SAIFI divided by 12, `survey:2.37` for the Enterprise Surveys, dated by the year the figure is for. The ladder counts the lines the latest figure clears. A fact is recorded only for interruptions across the whole country's grid; everything in §1's `other` list is a `systems` entry of class `other`, with the figure in `country_label`. **For the drafter**: `utility:` takes a regulator's or utility's interruption frequency for the whole grid (SAIFI, or interruptions per customer a year) divided by 12, to two decimals, the fact giving the published yearly figure and who publishes it; a figure already given per month is used as it stands. `survey:` takes an Enterprise Survey's outages in a typical month. Date it by the year the figure is for. Class `grid`, system the publisher's name for the figure. A count of grid collapses, an hours-a-day load-shedding figure or a SAIDI is not a fact: record it under `systems`, class `other`, with the figure in `country_label`.
 
 ## 4. The norm
 
@@ -63,9 +63,9 @@ The African Union's single electricity market and Continental Power System Maste
 
 ## 5. What the run reads
 
-- **Carried, nothing opened**: the Enterprise Surveys' outage figures in `reference/measures.csv`, and the frame's two utility figures with their sources, for all four questions, by a carry script written in the run on the pattern of `scripts/study-mobile-carry.py`.
-- **Read**: **49 stories about power outages that no study has read**, in 31 countries, Libya, Madagascar, South Africa and Sudan among them.
-- **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
+- **Carried, nothing opened**: the Enterprise Surveys' outage figures in `reference/measures.csv`, 92 of them for 51 countries, by `scripts/study-gridreliability-carry.py`.
+- **Read**: **92 documents** in 44 countries: the 49 stories about power outages that no study had read, and 43 the frame's cells cite that name the subject, among them the regulators' and utilities' annual reports where an interruption frequency is published.
+- **Not read**: 87 documents the frame's cells cite that never name the subject, about who has power rather than how often it goes off; long texts, reports and passing mentions. **No web search and no handover to OSINT.**
 
 ## 6. Token ceiling
 
@@ -74,10 +74,19 @@ The African Union's single electricity market and Continental Power System Maste
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Carry and read.**
-- [ ] **D3. Stage** as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Carried and read**: 92 survey figures for 51 countries; 62 drafters over 92 documents; ten facts, nine of them a utility's or regulator's figure.
+- [x] **D3. Staged** as at 2026-09-30: 5: 6, 4: 11, 3: 12, 2: 10, 1: 9, six without evidence; two rows corrected; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14. Tokens 25.8M of 25M: step 1 ran in the same session and its thread is counted.
+
+**Decided in the run**:
+
+- **Togo and Guinea move up to stage 4 on their own figures**: the regulator ARSE gives Togo a SAIFI of 23 for 2024 and EDG gives Guinea 23 for 2025, each 1.92 a month, in place of surveys at 2.74 and 3.24.
+- **Senegal is at stage 5 on the regulator's figure**: CRSE gives Senelec a SAIFI of 9.12 for 2024, 0.76 a month.
+- **The Gambia stays at stage 2 on its utility's own word**: NAWEC said two to six blackouts a month in June 2026; the top of the range is taken, not its midpoint (`corrections.csv`).
+- **Equatorial Guinea stays at stage 4**: the survey's printed profile rounds the 2024 figure to 0.9, the held series gives 1.02; the series stands.
+- **Niger's utility figure, 24 a month, is for 2019** and sets nothing; South Africa's Eskom reports load-shedding days and plant availability, not a count of outages, and are noted.
+- **The summaries are written by script from the figures**, as mobilepenetration's were; no writer was called.
 
 ## Boundary
 

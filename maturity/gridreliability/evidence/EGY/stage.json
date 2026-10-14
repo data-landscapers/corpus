@@ -1,0 +1,15 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "3",
+   "outages": "survey:4.16",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-004",
+   "gaps": "The latest figure, 4.16 outages a month for 2025, is above 2.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

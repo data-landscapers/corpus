@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-01-pacte-national-de-lenergie-republique-du-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "Délestage (load shedding)", "country_label": "Load shedding of 7,628h41min and 54,283,422 MWh for one year, year not stated (compact dated December 2024)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Gives load-shedding hours and MWh lost for a year, not an interruption count or SAIFI; recorded as other."
+}

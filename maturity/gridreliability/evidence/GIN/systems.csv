@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,EDG-SA SAIFI,23 interruptions in 2025; 39.8 in 2024,grid,,Electricité de Guinée (EDG-SA),,2026-05-01-edg-rapport-annuel-2025
+GIN,EDG-SA SAIDI,72.1 hours in 2025 (2024 not available),other,,Electricité de Guinée (EDG-SA),,2026-05-01-edg-rapport-annuel-2025
+GIN,EDG-SA load shedding for production deficit,none in 2025; 129797 hours in 2024,other,,Electricité de Guinée (EDG-SA),,2026-05-01-edg-rapport-annuel-2025
+GIN,EDG-SA energy not distributed (END),42118.90 MWh in 2025; 542767.50 MWh in 2024,other,,Electricité de Guinée (EDG-SA),,2026-05-01-edg-rapport-annuel-2025

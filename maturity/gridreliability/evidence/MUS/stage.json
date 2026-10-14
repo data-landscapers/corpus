@@ -1,0 +1,15 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "4",
+   "outages": "survey:1.01",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-001",
+   "gaps": "The latest figure, 1.01 outages a month for 2023, is above 1.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

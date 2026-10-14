@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,outages,outages,survey:3.42,Firms in Sudan reported 3.42 power outages in a typical month in the World Bank's 2014 Enterprise Survey.,2014,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

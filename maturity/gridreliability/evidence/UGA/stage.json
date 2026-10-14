@@ -1,0 +1,15 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "3",
+   "outages": "survey:3.94",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-002",
+   "gaps": "The latest figure, 3.94 outages a month for 2025, is above 2.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

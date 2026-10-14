@@ -1,0 +1,15 @@
+{
+ "iso3": "COG",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "2",
+   "outages": "survey:8.67",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COG-001",
+   "gaps": "The latest figure, 8.67 outages a month for 2024, is above 5.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

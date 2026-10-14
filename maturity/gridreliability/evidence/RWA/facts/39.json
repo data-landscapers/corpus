@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:2.57",
+   "fact": "Firms in Rwanda reported 2.57 power outages in a typical month in the World Bank's 2019 Enterprise Survey.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:1.79",
+   "fact": "Firms in Rwanda reported 1.79 power outages in a typical month in the World Bank's 2023 Enterprise Survey.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

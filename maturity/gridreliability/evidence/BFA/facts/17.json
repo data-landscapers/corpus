@@ -1,0 +1,17 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:7.86",
+   "fact": "Firms in Burkina Faso reported 7.86 power outages in a typical month in the World Bank's 2024 Enterprise Survey.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

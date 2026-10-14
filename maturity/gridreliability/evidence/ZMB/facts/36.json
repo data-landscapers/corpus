@@ -1,0 +1,37 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:4.62",
+   "fact": "Firms in Zambia reported 4.62 power outages in a typical month in the World Bank's 2013 Enterprise Survey.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:12.72",
+   "fact": "Firms in Zambia reported 12.72 power outages in a typical month in the World Bank's 2019 Enterprise Survey.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:21.42",
+   "fact": "Firms in Zambia reported 21.42 power outages in a typical month in the World Bank's 2025 Enterprise Survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

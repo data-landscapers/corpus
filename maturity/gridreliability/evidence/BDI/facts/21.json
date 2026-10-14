@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:14.19",
+   "fact": "Firms in Burundi reported 14.19 power outages in a typical month in the World Bank's 2014 Enterprise Survey.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:5.69",
+   "fact": "Firms in Burundi reported 5.69 power outages in a typical month in the World Bank's 2025 Enterprise Survey.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

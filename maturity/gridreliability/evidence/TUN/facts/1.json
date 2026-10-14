@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-12-tunisie-worldbank-isr-tereg-saidi",
+  "facts": [],
+  "systems": [
+    {"system": "STEG SAIDI (DLI1 Improved reliability of electricity supply)", "country_label": "SAIDI 108 minutes at 31-Dec-2025 (133 at 30-Jun-2025; baseline 137 at Dec-2023; target 128 by Dec-2028)", "class": "other", "platform": "", "owner": "STEG", "tiers": ""}
+  ],
+  "note": "Gives only SAIDI (duration in minutes), no outage frequency; so no fact."
+}

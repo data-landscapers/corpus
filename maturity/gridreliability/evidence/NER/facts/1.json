@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-25-anp-diffa-delestages-groupes-electrogenes",
+  "facts": [],
+  "systems": [
+    {"system": "NIGELEC load shedding in Diffa", "country_label": "Diffa city only: NIGELEC produced about a third of local demand after nearly five months of breakdowns and load shedding (2026); no outage count", "class": "other", "platform": "", "owner": "NIGELEC", "tiers": ""}
+  ],
+  "note": "Diffa-only account of load shedding and six emergency generators (7.5 MW); no whole-grid outage frequency or count."
+}

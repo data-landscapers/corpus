@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CMR-001,CMR,outages,outages,survey:7.72,Firms in Cameroon reported 7.72 power outages in a typical month in the World Bank's 2016 Enterprise Survey.,2016,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data
+CMR-002,CMR,outages,outages,survey:10.65,Firms in Cameroon reported 10.65 power outages in a typical month in the World Bank's 2024 Enterprise Survey.,2024,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

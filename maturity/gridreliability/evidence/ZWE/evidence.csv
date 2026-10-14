@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZWE-001,ZWE,outages,outages,survey:4.59,Firms in Zimbabwe reported 4.59 power outages in a typical month in the World Bank's 2016 Enterprise Survey.,2016,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data
+ZWE-002,ZWE,outages,outages,survey:3.88,Firms in Zimbabwe reported 3.88 power outages in a typical month in the World Bank's 2025 Enterprise Survey.,2025,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

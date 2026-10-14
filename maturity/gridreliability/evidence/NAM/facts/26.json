@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:0.53",
+   "fact": "Firms in Namibia reported 0.53 power outages in a typical month in the World Bank's 2014 Enterprise Survey.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:1.32",
+   "fact": "Firms in Namibia reported 1.32 power outages in a typical month in the World Bank's 2024 Enterprise Survey.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

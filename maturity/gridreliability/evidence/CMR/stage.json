@@ -1,0 +1,15 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:10.65",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-002",
+   "gaps": "The latest figure, 10.65 outages a month for 2024, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

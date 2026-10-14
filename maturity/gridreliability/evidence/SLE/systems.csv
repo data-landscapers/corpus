@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,"EDSA national supply (blackouts, no count)","daily power outages stated, no count; EDSA has no constant supply",other,,EDSA,,2026-08-17-sierra-leone-40mw-solar-project-ease-blackouts
+SLE,Freetown load shedding (April 2026),"Freetown receiving 56-70 MW; Bumbuna about 5 MW; load shedding, no outage count",other,,Ministry of Energy,,2026-04-09-sierra-leone-government-update-national-electricity-status
+SLE,"nLine GridWatch sensors, Freetown MSMEs","6,195 outage interruptions across 48 Freetown businesses, Nov 2024-Jul 2025; about 300 outage hours a month",other,nLine GridWatch,IGC / nLine,,2025-01-01-power-quality-and-economic-growth-in-sierra-leone

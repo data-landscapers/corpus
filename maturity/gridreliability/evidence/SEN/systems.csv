@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,Diass battery energy storage system (BESS),"56 MW / 56 MWh, groundbreaking 31 March 2026, service due March 2027; no outage count given",other,,SENELEC,,2026-04-20-senelec-projet-stockage-batterie-diass
+SEN,SAIFI,9.12 interruptions per customer per year in 2024; 8.4 in 2023; norm 15,grid,,CRSE / Senelec,,2025-07-01-crse-rapport-annuel-2024
+SEN,SAIDI,06h40 in 2024; 07h19 in 2023; norm 1h30,other,,CRSE / Senelec,,2025-07-01-crse-rapport-annuel-2024

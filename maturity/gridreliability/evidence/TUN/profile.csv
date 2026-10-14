@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TUN,outages,outages,coverage,survey:0.4,2024,TUN-003,TUN-002=survey:0.89;TUN-001=survey:0.37,

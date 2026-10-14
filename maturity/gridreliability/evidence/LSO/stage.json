@@ -1,0 +1,15 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "4",
+   "outages": "survey:1.96",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-002",
+   "gaps": "The latest figure, 1.96 outages a month for 2023, is above 1.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

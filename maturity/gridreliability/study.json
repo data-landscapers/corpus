@@ -69,7 +69,15 @@
    "text": "Grid reliability: power outages a month",
    "indicator_id": "infra.energy--grid-reliability-power-outages-a-month",
    "class": "grid",
-   "norm_short": "The African Union's single electricity market and Continental Power System Master Plan ask for secure, reliable and affordable electricity across the continent. They set no outage figure."
+   "norm_short": "The African Union's single electricity market and Continental Power System Master Plan ask for secure, reliable and affordable electricity across the continent. They set no outage figure.",
+   "criteria": [
+    "The latest count, for 2023 or later, is more than ten power outages a month.",
+    "The power goes off ten times a month or fewer, in the latest count for 2023 or later: the regulator's or utility's interruption frequency divided by 12 where one is published, otherwise the outages firms report in the World Bank's Enterprise Surveys.",
+    "Five times a month or fewer.",
+    "Twice a month or fewer.",
+    "Once a month or less. A count of grid collapses, hours of load shedding or how long outages last is never used at any stage."
+   ],
+   "criteria_of": "30d0a2f68c29"
   }
  ],
  "classes": [

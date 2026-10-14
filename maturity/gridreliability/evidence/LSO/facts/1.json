@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-lec-transmission-distribution",
+  "facts": [],
+  "systems": [
+    {"system": "LEC network availability of supply", "country_label": "Over 99% transmission and around 95% distribution availability, past years (undated)", "class": "other", "platform": "", "owner": "Lesotho Electricity Company", "tiers": ""}
+  ],
+  "note": "Gives availability percentages and says unplanned outages are many, but no outage count or SAIFI per month or year."
+}

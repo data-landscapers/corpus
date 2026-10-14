@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-01-crse-rapport-annuel-2024",
+  "facts": [
+    {"sub_indicator": "outages", "aspect": "outages", "value": "utility:0.76", "fact": "The energy regulator CRSE reports Senelec's SAIFI at 9.12 interruptions per customer per year in 2024 (9.12/12 = 0.76 a month), against a norm of 15.", "as_of": "2024", "date_precision": "year", "system": "SAIFI", "class": "grid"},
+    {"sub_indicator": "outages", "aspect": "outages", "value": "utility:0.70", "fact": "The energy regulator CRSE reports Senelec's SAIFI at 8.4 interruptions per customer per year in 2023 (8.4/12 = 0.70 a month).", "as_of": "2023", "date_precision": "year", "system": "SAIFI", "class": "grid"}
+  ],
+  "systems": [
+    {"system": "SAIFI", "country_label": "9.12 interruptions per customer per year in 2024; 8.4 in 2023; norm 15", "class": "grid", "platform": "", "owner": "CRSE / Senelec", "tiers": ""},
+    {"system": "SAIDI", "country_label": "06h40 in 2024; 07h19 in 2023; norm 1h30", "class": "other", "platform": "", "owner": "CRSE / Senelec", "tiers": ""}
+  ],
+  "note": ""
+}

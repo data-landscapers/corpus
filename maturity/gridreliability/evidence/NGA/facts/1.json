@@ -1,0 +1,8 @@
+{
+  "slug": "2019-11-12-power-outages-nigerian-tech-entrepreneurs",
+  "facts": [],
+  "systems": [
+    {"system": "Center for Global Development and ONE Campaign survey of Nigerian tech firms", "country_label": "average tech firm reports 30+ outages a month (93 firms surveyed, 2019); one customer class, not the whole grid", "class": "other", "platform": "", "owner": "Center for Global Development", "tiers": ""}
+  ],
+  "note": "The only outage count is for 93 surveyed tech firms, a customer class, not the whole grid; recorded as class other."
+}

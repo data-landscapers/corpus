@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TGO,outages,outages,coverage,utility:1.92,2024,TGO-001,TGO-002=utility:2.17;TGO-005=survey:2.74;TGO-003=utility:2.33;TGO-004=survey:5.23,

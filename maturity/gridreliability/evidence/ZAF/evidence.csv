@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZAF-001,ZAF,outages,outages,survey:7.66,Firms in South Africa reported 7.66 power outages in a typical month in the World Bank's 2020 Enterprise Survey.,2020,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

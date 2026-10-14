@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COD-001,COD,outages,outages,survey:12.23,Firms in DR Congo reported 12.23 power outages in a typical month in the World Bank's 2013 Enterprise Survey.,2013,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data
+COD-002,COD,outages,outages,survey:11.55,Firms in DR Congo reported 11.55 power outages in a typical month in the World Bank's 2024 Enterprise Survey.,2024,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

@@ -1,0 +1,15 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:15.68",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-002",
+   "gaps": "The latest figure, 15.68 outages a month for 2023, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

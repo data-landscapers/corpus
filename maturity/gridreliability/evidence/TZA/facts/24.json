@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:9.36",
+   "fact": "Firms in Tanzania reported 9.36 power outages in a typical month in the World Bank's 2013 Enterprise Survey.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:0.74",
+   "fact": "Firms in Tanzania reported 0.74 power outages in a typical month in the World Bank's 2023 Enterprise Survey.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

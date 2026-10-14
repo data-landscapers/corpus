@@ -1,0 +1,15 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "no evidence",
+   "outages": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for how often the power goes off.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

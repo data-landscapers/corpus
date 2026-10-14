@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GIN,outages,outages,coverage,utility:1.92,2025,GIN-001,GIN-004=survey:3.24;GIN-002=utility:3.32;GIN-003=survey:4.37,

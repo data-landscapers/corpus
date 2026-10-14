@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CAF-001,CAF,outages,outages,survey:32.54,Firms in Central African Republic reported 32.54 power outages in a typical month in the World Bank's 2023 Enterprise Survey.,2023,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

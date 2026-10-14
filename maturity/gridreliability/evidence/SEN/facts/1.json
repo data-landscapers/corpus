@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-20-senelec-projet-stockage-batterie-diass",
+  "facts": [],
+  "systems": [
+    {"system": "Diass battery energy storage system (BESS)", "country_label": "56 MW / 56 MWh, groundbreaking 31 March 2026, service due March 2027; no outage count given", "class": "other", "platform": "", "owner": "SENELEC", "tiers": ""}
+  ],
+  "note": "States a battery storage build to reduce load shedding but gives no SAIFI or outage count."
+}

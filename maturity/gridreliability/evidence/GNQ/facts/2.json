@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-enterprise-surveys-equatorial-guinea-2024",
+  "facts": [
+    {"sub_indicator": "outages", "aspect": "outages", "value": "survey:0.9",
+     "fact": "The World Bank's Enterprise Surveys country profile, from interviews with 173 firms between May and September 2024, gives 0.9 electrical outages in a typical month for Equatorial Guinea, with 33.3% of firms experiencing outages.",
+     "as_of": "2024", "date_precision": "year", "system": "Enterprise Surveys, number of electrical outages in a typical month", "class": "grid"}
+  ],
+  "systems": [],
+  "note": ""
+}

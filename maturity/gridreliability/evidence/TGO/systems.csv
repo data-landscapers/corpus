@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,"Delestage (load shedding) at peak hours, 2026",Peak demand about 360 MW against about 180 MW domestic capacity; imports from Ghana fell from 110 MW to 20 MW and from Nigeria from 115 MW to 70 MW; no count of outages given,other,,Ministere de l'Energie et des Ressources Minieres,,2026-06-29-togo-ministre-energie-causes-coupures-delestages
+TGO,ARSE SAIFI (national),"SAIFI 28 (2022), 26 (2023), 23 (2024)",grid,,ARSE,,2026-02-13-arse-togo-rapport-activites-2024-complet
+TGO,ARSE SAIDI (national),"SAIDI 57 (2022), 53 (2023), 52 (2024)",other,,ARSE,,2026-02-13-arse-togo-rapport-activites-2024-complet
+TGO,ARSE CAIDI (national),"CAIDI 2.04 (2022), 2.04 (2023), 2.27 (2024)",other,,ARSE,,2026-02-13-arse-togo-rapport-activites-2024-complet

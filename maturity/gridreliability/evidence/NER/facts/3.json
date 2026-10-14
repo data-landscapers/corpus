@@ -1,0 +1,10 @@
+{
+  "slug": "2019-10-24-worldbank-doing-business-2020-niger-electricity-reliability",
+  "facts": [
+    {"sub_indicator": "outages", "aspect": "outages", "value": "utility:24", "fact": "The World Bank's Doing Business 2020 profile reports a SAIFI of 288 interruptions per customer a year for Niger's distribution utility (data collection completed May 2019), which is 24 a month, with a SAIDI of 165 and a regulator that monitors the utility's reliability.", "as_of": "2019", "date_precision": "year", "system": "System average interruption frequency index (SAIFI)", "class": "grid"}
+  ],
+  "systems": [
+    {"system": "System average interruption duration index (SAIDI)", "country_label": "165 (SAIDI, Doing Business 2020)", "class": "other", "platform": "", "owner": "World Bank Doing Business", "tiers": ""}
+  ],
+  "note": ""
+}

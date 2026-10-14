@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-29-nationwide-blackout-investigation",
+  "facts": [],
+  "systems": [
+    {"system": "National grid collapse of 27 June 2026", "country_label": "One nationwide blackout, about 6:59 pm to midnight, 27 June 2026; no outage count or SAIFI given", "class": "other", "platform": "TANESCO national grid", "owner": "TANESCO", "tiers": ""}
+  ],
+  "note": "Reports a single national grid collapse, not a count of outages a month or an interruption frequency; class other."
+}

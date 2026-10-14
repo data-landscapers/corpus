@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-03-eia-country-analysis-brief-libya-electricity",
+  "facts": [],
+  "systems": [
+    {"system": "GECOL operational capacity", "country_label": "8.2 GW in 2023, up from 5.8 GW in 2022; Libya averted load shedding and blackouts in 2023 (no outage count)", "class": "other", "platform": "", "owner": "GECOL", "tiers": ""}
+  ],
+  "note": "EIA brief gives no SAIFI or count of outages a month; only capacity and a qualitative statement that load shedding and blackouts were averted in 2023."
+}

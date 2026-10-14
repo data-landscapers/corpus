@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,outages,outages,survey:1.68,Firms in Djibouti reported 1.68 power outages in a typical month in the World Bank's 2013 Enterprise Survey.,2013,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data
+DJI-002,DJI,outages,outages,survey:1.71,Firms in Djibouti reported 1.71 power outages in a typical month in the World Bank's 2025 Enterprise Survey.,2025,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

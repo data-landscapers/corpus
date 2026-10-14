@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-18-worldbank-icr-puracel-electricity-project",
+  "facts": [],
+  "systems": [
+    {"system": "ENERCA national grid load shedding (2019 appraisal baseline)", "country_label": "load shedding and rolling blackouts up to 16-18 hours daily in 2019 (hours of load shedding, not an outage count)", "class": "other", "platform": "", "owner": "ENERCA", "tiers": ""}
+  ],
+  "note": "No outage count, SAIFI or interruption frequency is stated; only 2019 daily hours of load shedding, which is class other."
+}

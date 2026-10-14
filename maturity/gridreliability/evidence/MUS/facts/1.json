@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-26-newsmoris-ceb-severe-yellow-alert",
+  "facts": [],
+  "systems": [
+    {"system": "CEB severe yellow alert", "country_label": "Record 540 MW demand peak on 25 March 2026 with two engines out (Nicolay, Champagne); no power cuts planned", "class": "other", "platform": "", "owner": "Central Electricity Board", "tiers": ""}
+  ],
+  "note": "Reports a supply-stress alert with no outage count or interruption frequency."
+}

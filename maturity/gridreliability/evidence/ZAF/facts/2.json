@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-14-eskom-eaf-67-55-eastern-cape-load-reduction-free-aug-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Eskom load reduction schedules", "country_label": "6.8% of Eskom customers impacted by load reduction as at 14 August 2026, down from a peak of 23.5%", "class": "other", "platform": "", "owner": "Eskom", "tiers": ""},
+    {"system": "Eskom loadshedding record", "country_label": "455 consecutive days without loadshedding since 16 May 2025, to 14 August 2026", "class": "other", "platform": "", "owner": "Eskom", "tiers": ""}
+  ],
+  "note": "No count of outages or SAIFI; load reduction share, loadshedding days and EAF are other."
+}

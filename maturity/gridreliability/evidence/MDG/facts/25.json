@@ -1,0 +1,27 @@
+{
+ "slug": "ref:enterprise-surveys-outages@2026-09-24",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:6.54",
+   "fact": "Firms in Madagascar reported 6.54 power outages in a typical month in the World Bank's 2013 Enterprise Survey.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  },
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "survey:6.59",
+   "fact": "Firms in Madagascar reported 6.59 power outages in a typical month in the World Bank's 2022 Enterprise Survey.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "World Bank Enterprise Surveys, outages in a typical month",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": "carried from reference/measures.csv; no document opened"
+}

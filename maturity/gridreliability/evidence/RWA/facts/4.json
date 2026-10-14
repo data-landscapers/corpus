@@ -1,0 +1,8 @@
+{
+  "slug": "2016-03-29-rura-regulation-02-el-ews-rura-2016-electricity-quality-of-service",
+  "facts": [],
+  "systems": [
+    {"system": "RURA SAIFI quality-of-service standard (unplanned 15 and planned 10 interruptions per customer per year, low standard)", "country_label": "Regulatory standard in Regulation 02/R/EL-EWS/RURA/2016, not a measured figure; 15 unplanned and 10 planned interruptions per customer a year at the low standard, lower tiers of 11 and 5 also listed", "class": "other", "platform": "", "owner": "RURA", "tiers": ""}
+  ],
+  "note": "2016 regulation sets SAIFI/SAIDI reporting and target standards but states no measured outage frequency for Rwanda."
+}

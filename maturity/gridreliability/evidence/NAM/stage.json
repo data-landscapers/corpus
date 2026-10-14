@@ -1,0 +1,15 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "4",
+   "outages": "survey:1.32",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-002",
+   "gaps": "The latest figure, 1.32 outages a month for 2024, is above 1.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

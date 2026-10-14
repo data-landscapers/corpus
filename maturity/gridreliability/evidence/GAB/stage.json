@@ -1,0 +1,15 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:10.06",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GAB-001",
+   "gaps": "The latest figure, 10.06 outages a month for 2025, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

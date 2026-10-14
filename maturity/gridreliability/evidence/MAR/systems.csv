@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,TCE (Temps de Coupure Equivalent),Equivalent interruption time in minutes on the national transmission grid; no value given,other,,ANRE approves; ONEE-BE reports,,2024-07-02-morocco-anre-decision-03-24-indicateurs-qualite-reseau
+MAR,END (Energie Non Desservie),Energy not served in MWh on the national transmission grid; no value given,other,,ANRE approves; ONEE-BE reports,,2024-07-02-morocco-anre-decision-03-24-indicateurs-qualite-reseau
+MAR,NDFTHT-HT / NDPTHT-HT (fugitive and permanent fault counts),Counts of fugitive and permanent faults on the THT-HT grid; no value given,other,,ANRE approves; ONEE-BE reports,,2024-07-02-morocco-anre-decision-03-24-indicateurs-qualite-reseau

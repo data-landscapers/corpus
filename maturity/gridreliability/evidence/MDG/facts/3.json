@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-01-jirama-faq-grid-reliability",
+  "facts": [],
+  "systems": [
+    {"system": "Load-shedding on the Antananarivo Interconnected Network (RIA)", "country_label": "RIA short of 40 to 80 MW of generation (JIRAMA FAQ, published 2025-07-01); load-shedding expected to ease with first results by end 2026", "class": "other", "platform": "", "owner": "JIRAMA", "tiers": ""}
+  ],
+  "note": "States causes of frequent cuts and a supply shortfall but gives no count of outages or SAIFI."
+}

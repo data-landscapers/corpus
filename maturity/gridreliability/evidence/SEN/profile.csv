@@ -1,0 +1,2 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,outages,outages,coverage,utility:0.76,2024,SEN-001,SEN-004=survey:1.88;SEN-002=utility:0.70;SEN-003=survey:5.54,

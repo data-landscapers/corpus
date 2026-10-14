@@ -1,0 +1,15 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:26.47",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-002",
+   "gaps": "The latest figure, 26.47 outages a month for 2024, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

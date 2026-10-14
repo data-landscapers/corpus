@@ -1,0 +1,15 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "2",
+   "outages": "survey:6.63",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-002",
+   "gaps": "The latest figure, 6.63 outages a month for 2025, is above 5.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

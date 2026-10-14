@@ -1,0 +1,15 @@
+{
+ "iso3": "ZMB",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "1",
+   "outages": "survey:21.42",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZMB-003",
+   "gaps": "The latest figure, 21.42 outages a month for 2025, is above 10.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

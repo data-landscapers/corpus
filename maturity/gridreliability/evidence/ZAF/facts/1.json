@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-19-eskom-unplanned-outages-eight-year-low",
+  "facts": [],
+  "systems": [
+    {"system": "Eskom loadshedding hours", "country_label": "26 hours of loadshedding between 1 April and 18 September 2025; 126 consecutive days without loadshedding", "class": "other", "platform": "", "owner": "Eskom", "tiers": ""},
+    {"system": "Eskom Unplanned Capability Loss Factor (UCLF)", "country_label": "26.08% year to date to 18 September 2025; unplanned outages 5 989MW on 14 September 2025", "class": "other", "platform": "", "owner": "Eskom", "tiers": ""}
+  ],
+  "note": "Eskom statement gives generation availability and loadshedding hours, no interruption frequency or outages-per-month figure for the grid."
+}

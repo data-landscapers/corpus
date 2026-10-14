@@ -1,0 +1,55 @@
+iso3,stage,outages,stage_sources
+AGO,3,survey:2.37,AGO-001
+BDI,2,survey:5.69,BDI-002
+BEN,2,survey:8,BEN-002
+BFA,2,survey:7.86,BFA-001
+BWA,3,survey:2.38,BWA-001
+CAF,1,survey:32.54,CAF-001
+CIV,3,survey:3.67,CIV-002
+CMR,1,survey:10.65,CMR-002
+COD,1,survey:11.55,COD-002
+COG,2,survey:8.67,COG-001
+COM,1,survey:38.84,COM-001
+CPV,5,survey:0.75,CPV-001
+DJI,4,survey:1.71,DJI-002
+DZA,no evidence,,
+EGY,3,survey:4.16,EGY-004
+ERI,no evidence,,
+ETH,2,survey:6.63,ETH-002
+GAB,1,survey:10.06,GAB-001
+GHA,3,survey:2.93,GHA-002
+GIN,4,utility:1.92,GIN-001
+GMB,2,utility:6,GMB-001
+GNB,3,survey:2.56,GNB-001
+GNQ,4,survey:1.02,GNQ-002
+KEN,3,survey:2.75,KEN-003
+LBR,2,survey:6.1,LBR-002
+LBY,no evidence,,
+LSO,4,survey:1.96,LSO-002
+MAR,5,survey:0.21,MAR-003
+MDG,no evidence,,
+MLI,1,survey:26.47,MLI-002
+MOZ,3,survey:2.53,MOZ-002
+MRT,3,survey:4.17,MRT-002
+MUS,4,survey:1.01,MUS-001
+MWI,2,survey:9.65,MWI-002
+NAM,4,survey:1.32,NAM-002
+NER,2,survey:6.07,NER-003
+NGA,1,survey:11.12,NGA-002
+RWA,4,survey:1.79,RWA-002
+SDN,no evidence,,
+SEN,5,utility:0.76,SEN-001
+SLE,3,survey:4.19,SLE-002
+SOM,4,survey:1.4,SOM-001
+SSD,4,survey:1.36,SSD-002
+STP,2,survey:6.03,STP-001
+SWZ,4,survey:1.25,SWZ-002
+SYC,5,survey:0.51,SYC-001
+TCD,1,survey:15.68,TCD-002
+TGO,4,utility:1.92,TGO-001
+TUN,5,survey:0.4,TUN-003
+TZA,5,survey:0.74,TZA-002
+UGA,3,survey:3.94,UGA-002
+ZAF,no evidence,,
+ZMB,1,survey:21.42,ZMB-003
+ZWE,3,survey:3.88,ZWE-002

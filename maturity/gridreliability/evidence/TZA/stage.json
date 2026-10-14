@@ -1,0 +1,15 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "5",
+   "outages": "survey:0.74",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TZA-002",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

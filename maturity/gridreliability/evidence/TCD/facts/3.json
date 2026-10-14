@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-09-presidence-suivi-sectoriel-eau-energie-aderm-12-centrales",
+  "facts": [],
+  "systems": [
+    {"system": "Coupures intempestives in Mongo", "country_label": "Power cuts in Mongo, a single city, no count given (July 2025)", "class": "other", "platform": "", "owner": "ADERM plant contractors", "tiers": ""}
+  ],
+  "note": "Mentions power cuts in Mongo with no count and for one city only; no whole-grid interruption frequency."
+}

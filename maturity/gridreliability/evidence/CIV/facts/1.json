@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-cote-divoire-coupures-electricite-politique-maillage-reseau-national",
+  "facts": [],
+  "systems": [
+    {"system": "Temps moyen annuel de coupure (government, citing the energy minister, 2024)", "country_label": "29 hours a year in 2023, down from 47 hours in 2011 (duration, not a count of outages)", "class": "other", "platform": "", "owner": "Ministere des Mines, du Petrole et de l'Energie", "tiers": ""}
+  ],
+  "note": "States mean annual interruption time in hours (SAIDI-type) and no count of outages or SAIFI; early-2026 outages are described without a count."
+}

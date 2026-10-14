@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-telecommunications-un-casse-tete-pour-les-abonnes",
+  "facts": [],
+  "systems": [
+    {"system": "REGIDESO power supply (recurrent cuts, no count)", "country_label": "ARCT spokesman says recurrent electricity cuts and unstable REGIDESO supply degrade mobile networks; no outage figure given", "class": "other", "platform": "", "owner": "REGIDESO", "tiers": ""}
+  ],
+  "note": "Story describes recurrent power cuts affecting telecoms with no count of outages per month or SAIFI, so no fact."
+}

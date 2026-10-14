@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-07-liberia-power-shortage-cote-divoire",
+  "facts": [],
+  "systems": [
+    {"system": "LEC load-shedding schedules, Monrovia", "country_label": "intensified load-shedding in Monrovia after Cote d'Ivoire supply fell from 50 MW to 7.5 MW (February 2025); no outage count", "class": "other", "platform": "", "owner": "Liberia Electricity Corporation", "tiers": ""}
+  ],
+  "note": "Blackouts and load-shedding in Monrovia described, but no outage count or SAIFI, so no fact."
+}

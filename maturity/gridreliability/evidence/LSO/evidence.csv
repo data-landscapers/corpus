@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,outages,outages,survey:2.05,Firms in Lesotho reported 2.05 power outages in a typical month in the World Bank's 2016 Enterprise Survey.,2016,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data
+LSO-002,LSO,outages,outages,survey:1.96,Firms in Lesotho reported 1.96 power outages in a typical month in the World Bank's 2023 Enterprise Survey.,2023,year,"World Bank Enterprise Surveys, outages in a typical month",grid,ref:enterprise-surveys-outages@2026-09-24,https://www.enterprisesurveys.org/en/data

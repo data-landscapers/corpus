@@ -1,0 +1,15 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "4",
+   "outages": "survey:1.25",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-002",
+   "gaps": "The latest figure, 1.25 outages a month for 2024, is above 1.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

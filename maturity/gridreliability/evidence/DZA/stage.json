@@ -1,0 +1,15 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "no evidence",
+   "outages": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held gives how often the power goes off.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

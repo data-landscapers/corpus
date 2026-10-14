@@ -1,0 +1,15 @@
+{
+ "iso3": "SYC",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "5",
+   "outages": "survey:0.51",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SYC-001",
+   "gaps": "All four questions are answered.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}

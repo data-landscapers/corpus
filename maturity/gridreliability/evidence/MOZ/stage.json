@@ -1,0 +1,15 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "outages",
+   "stage": "3",
+   "outages": "survey:2.53",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-002",
+   "gaps": "The latest figure, 2.53 outages a month for 2025, is above 2.",
+   "note": "Counted from the four questions by study-ladder-gridreliability.py."
+  }
+ ]
+}
