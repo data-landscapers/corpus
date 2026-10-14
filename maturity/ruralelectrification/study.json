@@ -1,0 +1,81 @@
+{
+ "id": "ruralelectrification",
+ "study_file": "maturity-study-ruralelectrification.md",
+ "subjects": [
+  "infra.energy"
+ ],
+ "stage_topic": "infra.energy",
+ "redraws": [
+  "infra.energy--rural-electrification"
+ ],
+ "carry": [
+  "infra.energy--rural-electrification"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 25000000,
+ "terms": [
+  "rural electrification",
+  "rural electricity access",
+  "rural access to electricity",
+  "access to electricity",
+  "electricity access",
+  "access rate",
+  "electrification rate",
+  "rate of electrification",
+  "households connected",
+  "connected to the grid",
+  "connected to electricity",
+  "new connections",
+  "last mile connectivity",
+  "Mission 300",
+  "national electrification",
+  "electrification strategy",
+  "electrification programme",
+  "electrification program",
+  "universal access",
+  "Rural Electrification Agency",
+  "Rural Energy Agency",
+  "Rural Electrification Authority",
+  "Rural Electrification Fund",
+  "REREC",
+  "electrification rurale",
+  "taux d'electrification",
+  "taux d'acces a l'electricite",
+  "acces a l'electricite",
+  "taux de desserte",
+  "agence d'electrification rurale",
+  "eletrificacao rural",
+  "taxa de eletrificacao",
+  "acesso a energia",
+  "acesso a electricidade",
+  "acesso a eletricidade",
+  "electrificacao rural",
+  "كهربة الريف",
+  "الكهرباء الريفية",
+  "الوصول إلى الكهرباء"
+ ],
+ "sub_indicators": [
+  {
+   "key": "access",
+   "label": "Rural people with electricity",
+   "subject": "infra.energy",
+   "text": "Rural electrification: share of rural people with electricity",
+   "indicator_id": "infra.energy--rural-electrification-rural-people-with-electricity",
+   "class": "access",
+   "norm_short": "The African Union's Agenda 2063 first ten-year plan asks for 80% of households to have electricity; Mission 300 aims to connect 300 million Africans by 2030."
+  }
+ ],
+ "classes": [
+  "access",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "access",
+   "name": "Share of rural people with electricity, with its year",
+   "role": "coverage",
+   "pattern": "(wdi|national):\\d{1,3}(\\.\\d+)?"
+  }
+ ],
+ "flags": []
+}
