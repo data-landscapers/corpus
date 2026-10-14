@@ -2,7 +2,7 @@
 type: brief
 reader: cc
 title: drafter-brief.md — what one drafter does with one call of a maturity study's reading list
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-14
 status: first used for maturity study health, task H3
 ---
 
@@ -12,15 +12,15 @@ status: first used for maturity study health, task H3
 
 ## What you are given
 
-A study id `{id}`, a country `{ISO3}` and a call number, under `C:\CORPUS`. Sometimes also a list of aspects: then record facts on those aspects only.
+A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` of each of its documents, or regional stories (below). Sometimes also aspects: record only those.
 
 1. Read `maturity/{id}/study.json`: the sub-indicators, the classes, and each aspect's closed list of values.
 2. Read the study file it names, in `maturity/{id}/`: the typology, the aspects and the ladders.
-3. Open `maturity/{id}/evidence/{ISO3}/readlist.csv`. Your documents are the rows whose `slice` is your call number: five at most. Rows with `kind` of `status` are the country's status report on the subject: orientation only, and no fact is taken from them.
+3. Open `maturity/{id}/evidence/{ISO3}/readlist.csv`. Your documents are the rows your call names. A `status` row is orientation only; no fact is taken from it.
 
 ## Reading
 
-**Read your documents and no others. Open them all in one turn.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where `read` is `passages`, the file is `C:\CORPUS\` followed by `path`, and holds a document's passages; read all of it. A file longer than one read takes several: continue until its end.
+**Read your documents and no others. Open them all in one turn.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where it is `passages`, the file is `C:\CORPUS\` followed by `path`. Read every file to its end, in several reads if need be.
 
 **`C:\OSINT` is read-only. Never write, move or delete anything there.**
 
@@ -38,9 +38,7 @@ A study id `{id}`, a country `{ISO3}` and a call number, under `C:\CORPUS`. Some
 
 **Classify the deployment by what the document says it does, never by its product name.** A system named with no description of what it does is a `systems` entry with an empty `class`.
 
-**A dated statement that something is absent is a fact**: reporting on paper end to end, a system withdrawn. So is a dated event in the last twelve months: a rollout, an outage, a funding cut.
-
-**News of an instrument is evidence of it**: a dated report that a strategy was adopted, launched or lapsed is a fact.
+**A dated statement that something is absent is a fact**, such as a system withdrawn; so is a dated event in the last twelve months, and a dated report that a strategy was adopted, launched or lapsed.
 
 **Do not stage, summarise or judge.**
 
@@ -62,9 +60,19 @@ A study id `{id}`, a country `{ISO3}` and a call number, under `C:\CORPUS`. Some
 }
 ```
 
-`systems` takes every information system in the study's field that the document names for this country, of any class: what the country calls it, its software, who runs it, and the tiers the document says use it. A document that states nothing usable still gets its file, with empty lists and the `note`.
+`systems` takes every system in the study's field the document names for this country, of any class. A document that states nothing usable still gets its file, with empty lists and the `note`.
 
 **Write with the Write tool. Create no other file, edit none, delete none, and start no agent of your own.**
+
+## A regional call
+
+**A regional call names stories, each with the countries it is listed for.** Read each once, from `C:\OSINT\` followed by its `path`, and answer for every country listed, from what the story states about that country by name. Write one file per story, `maturity/{id}/regional/{key}.json`:
+
+```json
+{"slug": "the story's slug", "countries": {"KEN": {"facts": [], "systems": [], "note": ""}}}
+```
+
+Each listed country gets an entry, shaped as a country file's lists and `note`.
 
 ## When you finish
 

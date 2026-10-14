@@ -2,7 +2,7 @@
 type: procedure
 reader: cc
 title: maturity-study-method.md — how one indicator is studied, staged and written up, from a short list of questions and the news already held
-last_reviewed: 2026-10-11
+last_reviewed: 2026-10-14
 status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11. The simpler form below is his of 2026-10-11 and governs every study prepared after dataprotectionlaw
 ---
 
@@ -64,7 +64,7 @@ Output: `systems.csv`, one row per named thing per country.
 - **Instruments, reports and passing mentions are not read.** One is opened only where a carried fact cites it and a question turns on it.
 - **A country whose carried facts answer every question is not read at all.**
 
-**A drafter is a fresh call on one `slice`, five documents at most.** Drafters work to `drafter-brief.md`, on Sonnet, read the document and not its ledger line, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact. `study-profile.py` then writes `profile.csv`.
+**A drafter is a fresh call of five documents at most, planned by `scripts/study-calls.py`.** **A regional story is read once** *(Bill, 2026-10-14)*: one listed whole for two countries or more goes to a regional call, whose drafter answers for every country listed; `study-calls.py --fan` files the answers by country before the merge. Drafters work to `drafter-brief.md`, on Sonnet, read the document and not its ledger line, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact. `study-profile.py` then writes `profile.csv`.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
