@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-25-undp-senegal-e-justice-dakar-pilot",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "The UN announced in July 2025 the installation, for the Ministry of Justice e-Justice pilot at the Pikine-Guediawaye courthouse, of a mini data centre and a backup site; main site at the Pikine-Guediawaye courthouse (Dakar suburbs), backup place not stated; the document gives no date for entry into service beyond the July 2025 installation.", "as_of": "2025-07", "date_precision": "month", "system": "e-Justice pilot mini data centre and backup site", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "e-Justice platform", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Ministry of Justice", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08-ami-inauguration-data-center-nouakchott-1372m2-100-baies",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de Données de Nouakchott", "country_label": "Mauritania", "class": "other", "platform": "national data centre", "owner": "State (public institutions and private)", "tiers": "Level 3 certification by Uptime Institute (stated for the centre; place Nouakchott-Ouest)"}
+  ],
+  "note": "Inaugurated 2025-05-08 in Nouakchott-Ouest, Tier 3 stated for this centre only; lists backup and DR/continuity as services offered, but names no backup site (place not stated), no plan and no test."
+}

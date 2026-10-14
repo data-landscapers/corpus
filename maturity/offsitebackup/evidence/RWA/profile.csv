@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,backup,site,coverage,,,,,nothing held
+RWA,backup,plan,coverage,plan,2024,RWA-001,,
+RWA,backup,tier,coverage,,,,,nothing held

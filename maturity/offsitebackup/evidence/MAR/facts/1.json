@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-26-morocco-finance-ministry-backup-platform",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "The Ministry of Economy and Finance has relied since 2013 on a backup platform for its information systems managed by an external provider (main site presumably Rabat, not stated; backup place not stated); the 2026 tender of about MAD 5 million would expand it.", "as_of": "2013", "date_precision": "year", "system": "Ministry backup platform", "class": "backupsite"},
+    {"sub_indicator": "backup", "aspect": "plan", "value": "plan", "fact": "The ministry frames the tender as part of updating its business continuity plan; the tender requires a data centre more than 100 km from Rabat (backup place not stated; main site in Rabat) and 30 km from the coast, with Tier III preferred and ISO 22301.", "as_of": "2026-06-26", "date_precision": "day", "system": "Ministry backup platform", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Ministry of Economy and Finance backup platform (expansion tendered 2026)", "country_label": "Morocco", "class": "backupsite", "platform": "externally managed hosting", "owner": "Ministry of Economy and Finance", "tiers": "Tier III preferred for the new site"}
+  ],
+  "note": ""
+}

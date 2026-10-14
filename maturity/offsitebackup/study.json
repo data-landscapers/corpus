@@ -74,9 +74,18 @@
    "key": "backup",
    "label": "Off-site backup for government systems",
    "subject": "infra.store",
-   "text": "Off-site backup capacity: a site 200 km or more from the main one that keeps the government's systems and data recoverable",
+   "text": "Off-site backup capacity: off-site backup for government systems",
    "indicator_id": "infra.store--off-site-backup-capacity-off-site-backup-for-government-systems",
-   "class": "backupsite"
+   "class": "backupsite",
+   "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that e-government run on a Tier-classified primary site with a secondary site for disaster recovery.",
+   "criteria": [
+    "A source from the past three years says government systems have no off-site backup or disaster-recovery site.",
+    "A ministry, agency or the central bank keeps its systems or data at a backup site in service, 200 km or more from its main site or abroad.",
+    "A backup site 200 km or more away serves the government's shared systems: the national data centre or government cloud.",
+    "A recovery plan or a failover test from the past three years is on record for that backup site.",
+    "The government's main data centre and its backup site are both Tier III or above."
+   ],
+   "criteria_of": "5931b051faca"
   }
  ],
  "classes": [

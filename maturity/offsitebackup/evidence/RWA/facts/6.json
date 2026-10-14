@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-risa-digital-adoption-implementation-guidelines-2024",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "plan", "value": "plan", "fact": "RISA's 2024 Digital Adoption Implementation Guidelines require all government institutions to have disaster recovery plans and off-site backups, refer to RISA's published Business Continuity Management guidelines, and require critical systems hosted in the National Data Centre to subscribe to a hosting plan with daily backups and disaster recovery services; main site and backup site places not stated; the document gives only its copyright year 2024.", "as_of": "2024", "date_precision": "year", "system": "National Data Centre", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "RISA", "tiers": ""}
+  ],
+  "note": "Guideline text states DR and off-site backup requirements and a DR service in the National Data Centre hosting plan; no backup site in service, place, test or Tier is named."
+}

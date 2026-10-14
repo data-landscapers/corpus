@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-sudantribune-shurtat-almurur-bayanat-marakib",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "Sudan's General Traffic Police director says the police restored the full vehicle database and set up backup data centres inside the states and outside the country to secure the national vehicle register; main site place not stated, backup places not stated (states inside Sudan and an unnamed foreign country).", "as_of": "2026-07-20", "date_precision": "day", "system": "national vehicle register backup data centres", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "national vehicle register (vehicle and driving licence database)", "country_label": "Sudan", "class": "", "platform": "", "owner": "General Traffic Police, Ministry of Interior", "tiers": ""},
+    {"system": "backup data centres inside the states and outside the country", "country_label": "Sudan", "class": "backupsite", "platform": "", "owner": "General Traffic Police", "tiers": ""}
+  ],
+  "note": ""
+}

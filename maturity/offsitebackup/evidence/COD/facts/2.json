@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-24-sgptntic-visite-data-center-gouvernement",
+  "facts": [],
+  "systems": [
+    {"system": "Data center du Gouvernement (Kinshasa Gombe)", "country_label": "COD", "class": "other", "platform": "", "owner": "Government of the DRC", "tiers": ""}
+  ],
+  "note": "Document describes the government data centre in Kinshasa-Gombe but states nothing about a backup site, DR plan, test or tier."
+}

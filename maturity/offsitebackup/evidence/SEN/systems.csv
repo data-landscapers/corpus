@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,ORANA data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-senum-transformation-digitale-administration
+SEN,Technopole data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-senum-transformation-digitale-administration
+SEN,Diamniadio data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-senum-transformation-digitale-administration
+SEN,e-Justice platform,Senegal,other,,Ministry of Justice,,2026-08-25-undp-senegal-e-justice-dakar-pilot
+SEN,"AGEROUTE cloud hosting of critical servers with replication site (tender, lot 1)",Senegal,backupsite,"commercial cloud provider, to be selected; Tier 3 minimum datacentres in Senegal; replication site in Senegal, place not stated",AGEROUTE (for Ministere des Infrastructures),Tier 3 minimum required of bidder,2026-06-01-ageroute-hebergement-cloud-serveurs-critiques-supervision-soc
+SEN,Data Center de Sénégal Numérique (SENUM),Senegal,,,Sénégal Numérique,,2026-08-20-seneweb-loi-securite-numerique-adoption

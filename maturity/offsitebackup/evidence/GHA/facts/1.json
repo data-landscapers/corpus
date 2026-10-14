@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-24-ghana-link-secures-iso-iec-27001-2022-certification-for-tier-iv-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Link Kumasi Tier IV Data Centre (hosts ICUMS)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ghana Link Network Services Ltd", "tiers": "Tier IV"}
+  ],
+  "note": "Kumasi Tier IV centre hosting the customs system is not described as a backup or DR site; business continuity is mentioned only as an ISMS control."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-04-sbc-airtel-perseverance-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Airtel Seychelles Perseverance data centre", "country_label": "Seychelles", "class": "other", "platform": "colocation data centre; main site Perseverance, no backup site stated", "owner": "Airtel Seychelles", "tiers": "Tier III"}
+  ],
+  "note": "Commercial operator's data centre (Tier III) offering colocation and disaster-recovery planning help; no government systems or backup site stated, so no fact."
+}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,backup,site,coverage,service,2025-07,SEN-001,,
+SEN,backup,plan,coverage,,,,,nothing held
+SEN,backup,tier,coverage,,,,,nothing held

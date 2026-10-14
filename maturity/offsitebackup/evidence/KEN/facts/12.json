@@ -1,0 +1,8 @@
+{
+  "slug": "2013-09-13-ceo-weekends-why-we-launched-new-data-center-in-mombasa-accesskenya-techmoran",
+  "facts": [],
+  "systems": [
+    {"system": "AccessKenya Mombasa data centre (secondary site for Nairobi clients)", "country_label": "KEN", "class": "other", "platform": "", "owner": "AccessKenya Group (commercial ISP)", "tiers": ""}
+  ],
+  "note": "Commercial ISP's Mombasa secondary site for its own and Nairobi clients' continuity; no government systems stated, so class other."
+}

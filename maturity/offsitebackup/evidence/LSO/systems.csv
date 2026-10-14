@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,LCA Disaster Recovery Site (DR Site),Lesotho,other,,Lesotho Communications Authority,,2025-08-01-lca-rfp-dr-site-it-equipment
+LSO,IFMIS (Epicor),Lesotho,other,"Epicor 10.2, upgrade to Epicor Kinetic planned",Ministry of Finance and Development Planning,,2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor
+LSO,Vodacom Enterprise Satellite Connectivity (Starlink),Lesotho,other,Starlink LEO satellite,Vodacom Lesotho,,2026-08-26-thereporter-vodacom-satellite-broadband

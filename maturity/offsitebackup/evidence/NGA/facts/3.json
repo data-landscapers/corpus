@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Galaxy Backbone second data center (Kano, phase 2)", "country_label": "Nigeria", "class": "", "platform": "Huawei FusionDC1000B prefabricated modular", "owner": "Galaxy Backbone", "tiers": "Uptime Tier IV design and facility"}
+  ],
+  "note": "States GBB's Tier IV second data centre (Kano, phase 2; Abuja phase 1) and that GBB offers disaster recovery services, but does not say the Kano site is a backup site for government systems; main and backup not identified."
+}

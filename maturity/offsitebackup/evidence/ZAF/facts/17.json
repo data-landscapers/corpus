@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-itweb-rand-water-cyberattack",
+  "facts": [],
+  "systems": [
+    {"system": "Rand Water disaster recovery site, Centurion", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Rand Water (state-owned bulk water utility)", "tiers": ""}
+  ],
+  "note": "Rand Water is a bulk water utility, not a ministry or agency; its DR site in Centurion (main office south of Johannesburg, place of main site not more exactly stated) is a utility's own redundancy, so no fact."
+}

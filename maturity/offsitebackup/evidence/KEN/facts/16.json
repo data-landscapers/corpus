@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-31-kenya-auditor-general-report-national-government-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "National Disaster Recovery Site (project, Phase III construction; place not stated)", "country_label": "KEN", "class": "backupsite", "platform": "", "owner": "The National Treasury", "tiers": ""},
+    {"system": "PDMO Disaster Recovery site (establishment initiated; place not stated)", "country_label": "KEN", "class": "backupsite", "platform": "", "owner": "Public Debt Management Office, The National Treasury", "tiers": ""}
+  ],
+  "note": "Audit report: the National Disaster Recovery Site appears only as a construction project in a court-award dispute, the PDMO DR site is only initiated and its Business Continuity Plan is an unapproved draft; nothing in service, no plan in force, no test, no Tier."
+}

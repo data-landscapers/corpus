@@ -1,0 +1,8 @@
+{
+  "slug": "2017-10-04-dcd-n-one-second-morocco-data-centre-disaster-recovery",
+  "facts": [],
+  "systems": [
+    {"system": "N+One Datacenters second data centre (80 km outside Casablanca)", "country_label": "Morocco", "class": "other", "platform": "commercial data centre", "owner": "N+One Datacenters", "tiers": "Tier III Design"}
+  ],
+  "note": "Commercial provider's own disaster-recovery site (80 km from its Casablanca site); the document does not say it holds government systems, so other."
+}

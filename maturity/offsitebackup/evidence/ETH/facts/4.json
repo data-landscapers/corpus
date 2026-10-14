@@ -1,0 +1,23 @@
+{
+ "slug": "2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Safaricom telco-cloud data center, ICT Park",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom Ethiopia",
+   "tiers": "Tier III (planned)"
+  },
+  {
+   "system": "RFETH-MDC01",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "RedFox Solutions Group",
+   "tiers": ""
+  }
+ ],
+ "note": "No backup site, plan or test stated; commercial and planned data centres only."
+}

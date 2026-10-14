@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,NITA-U National Data Centre,Uganda,,government data centre with Backup as a Service and Disaster Recovery services,NITA-U,,2025-06-19-nita-u-national-data-centre-service
+UGA,National Data Centre,Uganda,,"hosts government cloud, backup and disaster recovery services",NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
+UGA,Third National Data Centre (planned),Uganda,other,"planned: primary site in Entebbe, disaster recovery in Jinja",NITA-U,,2026-10-10-uga-blogs-plan-now-for-infrastructure-to-power-ai
+UGA,National AI Research Cloud,Uganda,other,research cloud at Makerere University with RENU,Makerere University,,2026-03-16-musenero-launches-national-ai-research-cloud
+UGA,"Centenary Group data centre, Masaka",Uganda,other,"commercial Tier III data centre, not yet open at 2026-03",Centenary Group,III (being completed to Tier III standard),2026-03-13-monitor-centenary-masaka-tier-iii-data-centre
+UGA,"Centenary Group data centre, Masaka",Uganda,other,"commercial Tier III-ready data centre, 130 km from Kampala, launch set for September 2026",Centenary Group,"III (ready, not certified)",2026-03-11-pctechmag-centenary-masaka-data-centre-cleared-for-launch
+UGA,ABQ Cloud,Uganda,other,"sovereign cloud hosted at Raxio Data Centre, Namanve",ABQ Cloud,,2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem
+UGA,Raxio UG1 Data Centre,Uganda,other,"commercial colocation data centre, Namanve, 15 km from Kampala",Raxio Group,III (Uptime Institute certified),2026-01-01-raxio-ug1-uganda-data-centre
+UGA,Centenary Group Green Tier 3 Data Centre,Uganda,other,"commercial data centre in Masaka, planned launch Q1 2026, to host government systems among others",Centenary Group,III (planned),2025-10-03 Centenary Group set to launch its Green Tier 3 Data Centre in 2026
+UGA,Centenary Group Data Centre,Uganda,other,commercial data centre under construction in Masaka,Centenary Group,III (targeted),2025-08-11 Centenary Group affirms data centre will be ready by late 2025
+UGA,Liquid Azure Stack,Uganda,other,"commercial Azure Stack cloud, host data centre not named",Liquid Intelligent Technologies,,2024-08-12 Liquid Intelligent Technologies launches Azure Stack in Uganda
+UGA,Aeonian Project data centre,Uganda,other,proposed commercial centre offering DRaaS to regional data centres,Synectics Technologies,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
+UGA,Aeonian Project (DHPC),Uganda,other,planned commercial hyperscale data and HPC centre offering DRaaS to regional data centres,Synectics Technologies,"Tier 4+ (stated, planned)",2025-09-11 Another 'first AI factory in Africa' - Uganda is said to have made its entry into the AI race
+UGA,Raxio Data Centre,Uganda,other,"commercial colocation, offers disaster recovery colocation, Kampala",Raxio Group,III (Uptime Institute certified October 2020),2020-12-14-ventureburn-raxio-uganda-uptime-tier-iii-certification
+UGA,Cloud Disaster Recovery and Hybrid Backup solution (URSB/NCONS/2025-2026/00377),Uganda,backupsite,cloud DR and hybrid backup,Uganda Registration Services Bureau,,2026-06-01-ursb-dr-cloud-hybrid-backup-rfq

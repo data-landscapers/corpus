@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-10-idc-rfp-upgrade-it-server-and-storage-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "IDC Disaster Recovery site in Gauteng (main site: Sandton head office, production and backup data centres)", "country_label": "South Africa", "class": "other", "platform": "HPE, VMware, Veeam, ExaGrid", "owner": "Industrial Development Corporation of SA Ltd (state-owned company, not a ministry, agency or central bank)", "tiers": ""}
+  ],
+  "note": "The IDC, a state-owned company, has a DR site in Gauteng (place not further stated) and main site in Sandton; its own redundancy is class other, so no fact."
+}

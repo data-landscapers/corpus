@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-zwe-2027-budget-strategy-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Geographically separated Disaster Recovery Site (planned, government National Data Centre; place not stated)", "country_label": "ZWE", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": ""},
+    {"system": "National Data Centre (to be upgraded to Tier IV; place not stated)", "country_label": "ZWE", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": "Tier IV (planned upgrade)"},
+    {"system": "Smart Government Private Cloud", "country_label": "ZWE", "class": "", "platform": "private cloud", "owner": "Government of Zimbabwe", "tiers": ""}
+  ],
+  "note": "The 2027 Budget Strategy Paper (2026-07-30) only prioritises establishing a geographically separated DR site and a Tier IV upgrade of the National Data Centre; planned, so no fact."
+}

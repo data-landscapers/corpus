@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "The ITU framework states that AGETIC, a government agency under the MCENMA ministry that runs a government data centre offering hosting, IaaS, SaaS and backup to the administration, has a disaster-recovery site with real-time replication; main site and backup site places not stated (AGETIC is in Mali's capital area only by inference, not stated); as_of is the document's published year 2022.", "as_of": "2022", "date_precision": "year", "system": "AGETIC data centre DR site", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "AGETIC data centre DR site", "country_label": "Mali", "class": "backupsite", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "SMTD disaster-recovery site (being established; secondary site premises, racks, network and power in place)", "country_label": "Mali", "class": "other", "platform": "", "owner": "SMTD", "tiers": "upgrading toward Uptime Institute Tier III"}
+  ],
+  "note": ""
+}

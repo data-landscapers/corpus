@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01 The National Data Centre - Royal Science and Technology Park",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "The RSTP's own page for the National Data Centre lists off-site back-up for disaster recovery among its features and business continuity/disaster recovery among its advantages; main site and backup place not stated, and the page is undated (published date 2021 used, a proxy date).", "as_of": "2021", "date_precision": "year", "system": "National Data Centre (Royal Science and Technology Park)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre (Royal Science and Technology Park)", "country_label": "SWZ", "class": "backupsite", "platform": "colocation, IaaS, PaaS, SaaS; 4 x 500 KVA diesel generators; two diverse carrier feeds", "owner": "Royal Science and Technology Park", "tiers": "not stated"}
+  ],
+  "note": ""
+}

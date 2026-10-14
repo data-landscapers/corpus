@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-16-banco-mocambique-aviso-2-gbm-2026-rede-unica-pagamentos",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Única Nacional (SIMOrede)", "country_label": "Mozambique", "class": "", "platform": "national payments network", "owner": "Banco de Moçambique (operated by SIMOrede)", "tiers": ""}
+  ],
+  "note": "Aviso 2/GBM/2026 obliges financial institutions to keep continuity and DR plans with annual tests; no backup site, place or Tier is stated for any government system."
+}

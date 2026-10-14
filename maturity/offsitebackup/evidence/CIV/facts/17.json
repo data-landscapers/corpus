@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-16-cote-divoire-lancement-construction-data-center-national",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center National", "country_label": "Côte d'Ivoire", "class": "backupsite", "platform": "", "owner": "Ministère de la Transition Numérique", "tiers": ""}
+  ],
+  "note": "Works launched 14 Dec 2023 on the national data centre (to host national administrative data and offer disaster recovery and continuity); under construction, no place given, so a systems entry and no fact."
+}

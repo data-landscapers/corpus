@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-03-presidence-gabon-inauguration-data-center-national-nkok",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center National et souverain du Gabon (Nkok)", "country_label": "Gabon", "class": "", "platform": "", "owner": "ST Digital (built); ministry in charge of the digital economy (partnership)", "tiers": "Tier III"}
+  ],
+  "note": "Inauguration of the national data centre in Nkok, stated Tier III; no backup site, disaster-recovery plan or backup-site tier is mentioned, so no fact."
+}

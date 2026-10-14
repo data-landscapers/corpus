@@ -1,0 +1,8 @@
+{
+  "slug": "2021-05-31-decreto-presidencial-135-21-estatuto-organico-do-infosi",
+  "facts": [],
+  "systems": [
+    {"system": "Centro Nacional de Dados", "country_label": "Angola", "class": "other", "platform": "", "owner": "INFOSI", "tiers": ""}
+  ],
+  "note": "INFOSI organic statute (2021-05-31, truncated at Art. 22); names the Centro Nacional de Dados and its shared-services department but states nothing on a backup or DR site, plan, test or Tier."
+}

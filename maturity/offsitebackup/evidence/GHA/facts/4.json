@@ -1,0 +1,11 @@
+{
+  "slug": "2016-01-26-national-data-centre-launched-in-accra",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "Graphic Online reports the National Data Centre launched, run by NITA with Alcatel-Lucent and Huawei for all ministries, departments and agencies, with the primary centre in Accra and a secondary centre at the KNUST campus in Kumasi; main site in Accra, secondary in Kumasi.", "as_of": "2016-01-25", "date_precision": "day", "system": "National Data Centre", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre (primary, Accra)", "country_label": "Ghana", "class": "", "platform": "", "owner": "NITA", "tiers": ""},
+    {"system": "National Data Centre (secondary, KNUST Kumasi)", "country_label": "Ghana", "class": "backupsite", "platform": "", "owner": "NITA", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "tier", "value": "both", "fact": "Main site is the National Shared Services Center in Abuja, an Uptime-certified Tier III facility; its backup, Galaxy Backbone's Kano 'Data Recovery and Business Continuity' centre, is said to meet Tier IV standards (main site in Abuja, backup in Kano); construction was completed and the centre was 'ready to launch', not stated in service.", "as_of": "2022-09-07", "date_precision": "day", "system": "Galaxy Backbone Kano Data Recovery and Business Continuity center", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Galaxy Backbone Kano Data Recovery and Business Continuity center", "country_label": "Nigeria", "class": "backupsite", "platform": "", "owner": "Galaxy Backbone (Federal Government)", "tiers": "meets Tier IV standards"},
+    {"system": "National Shared Services Center (Abuja)", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Galaxy Backbone", "tiers": "Uptime Tier III certified"}
+  ],
+  "note": ""
+}

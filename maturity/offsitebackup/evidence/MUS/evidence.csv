@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,backup,site,service,"The Central Information Systems Division (Ministry of IT, Communication and Innovation) provides a Central Backup Service for off-site safekeeping of electronic backup media (tape, CD, external hard disk) of all Ministries and Departments on request; main site place not stated, backup place not stated.",2026-09-01,day,Central Backup Service,backupsite,2026-09-01-cisd-computer-support-central-backup-service,https://cisd.govmu.org/Pages/support.aspx

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-07-nppa-inspects-e-procurement-data-center-ahead-of-full-system-rollout",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "none", "fact": "Ministry of Finance officials confirmed on 7 January 2026 that no comprehensive disaster-recovery system is yet in place for the national e-GP platform hosted in the Ministry's data centre; disaster recovery is planned for Phase Two (Ministry framework or cloud). Main site place not stated; no backup site.", "as_of": "2026-01-07", "date_precision": "day", "system": "Ministry of Finance data centre (e-GP)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Ministry of Finance data centre hosting e-GP", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": ""
+}

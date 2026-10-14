@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-stellarix-triple-iso-certification",
+  "facts": [],
+  "systems": [
+    {"system": "Stellarix hosted environments / SOC", "country_label": "MDG", "class": "other", "platform": "", "owner": "Stellarix (commercial firm)", "tiers": ""}
+  ],
+  "note": "Commercial firm Stellarix holds ISO 22301 certification; the document does not state it holds government systems or any backup site, so no fact."
+}

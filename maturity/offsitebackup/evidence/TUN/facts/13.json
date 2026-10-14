@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-05-tunisie-afdb-cni-cloud-prive-attribution",
+  "facts": [],
+  "systems": [
+    {"system": "Cloud privé pour le Centre National de l'Informatique", "country_label": "Tunisia", "class": "other", "platform": "private cloud", "owner": "Centre National de l'Informatique (Ministry of Communication Technologies)", "tiers": ""}
+  ],
+  "note": "Award notice for a CNI private cloud under construction; the body mentions no backup or disaster-recovery site, plan, test or Tier."
+}

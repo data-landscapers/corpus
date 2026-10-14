@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Ministry of Economy and Finance backup platform (expansion tendered 2026),Morocco,backupsite,externally managed hosting,Ministry of Economy and Finance,Tier III preferred for the new site,2026-06-26-morocco-finance-ministry-backup-platform
+MAR,N+One Datacenters second data centre (80 km outside Casablanca),Morocco,other,commercial data centre,N+One Datacenters,Tier III Design,2017-10-04-dcd-n-one-second-morocco-data-centre-disaster-recovery
+MAR,"CMR anti-ransomware backup platform (tender, 108 TB at the emergency site)",Morocco,other,,Caisse Marocaine des Retraites,,2026-05-20-morocco-cmr-backup-tender-108tb

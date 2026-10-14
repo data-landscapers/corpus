@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-indiaexim-swz-drs-data-centre-2021-construction-of-disaster-recovery-site-for",
+  "facts": [],
+  "systems": [
+    {"system": "Disaster Recovery Site for the National Data Centre (RSTP Phase 2)", "country_label": "SWZ", "class": "backupsite", "platform": "secondary data centre financed by India Exim Bank US$10.4m line of credit; not built (undrawn, project stalled in Lubombo Region; a later report places it in Siteki); main site place not stated", "owner": "Government of Eswatini / Royal Science and Technology Park", "tiers": ""}
+  ],
+  "note": "The disaster recovery site is financed and planned, not in service (2026-09-22 and 2026-10-05 developments say the project stalled, loan undrawn bar a 1 percent development disbursement), so it is a systems entry and no fact."
+}

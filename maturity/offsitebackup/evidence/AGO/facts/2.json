@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "PTI reports the government cloud backup centre, housed at INFOSI in Luanda with 48 racks and about 8.5 PB, was reinaugurated on 2026-08-25 and replicates in real time the data of the government data centre at Camama; main site in Camama, backup in Luanda (INFOSI premises).", "as_of": "2026-08-25", "date_precision": "day", "system": "centro de backup da cloud do Governo", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "centro de backup da cloud do Governo", "country_label": "Angola", "class": "backupsite", "platform": "", "owner": "INFOSI", "tiers": ""},
+    {"system": "data center do Governo (Camama)", "country_label": "Angola", "class": "", "platform": "", "owner": "Government of Angola", "tiers": ""}
+  ],
+  "note": ""
+}

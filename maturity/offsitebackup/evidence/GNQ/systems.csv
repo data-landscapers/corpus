@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNQ,"Centro de Datos principal and sitio de respaldo of the Ministry of Finance (MHPDE), under PAMFP tender; places not stated",GNQ,,,"Ministerio de Hacienda, Planificación y Desarrollo Económico","TIA-942 standard required, tier not stated",2026-06-16-pamfp-asistencia-tecnica-supervision-centro-datos-sitio-respaldo
+GNQ,Principal and backup server rooms of the Ministry of Finance (tender N.º 002-2026/B/PAMFP/GE),GNQ,backupsite,,"Ministerio de Hacienda, Presupuestos y Planificación Nacional (via PAMFP)",,2026-08-07-pamfp-amplia-plazo-licitacion-sala-servidores

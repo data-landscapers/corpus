@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-lca-rfp-dr-site-it-equipment",
+  "facts": [],
+  "systems": [
+    {"system": "LCA Disaster Recovery Site (DR Site)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Lesotho Communications Authority", "tiers": ""}
+  ],
+  "note": "A tender (bids due 2025-09-15) to supply IT equipment for LCA's DR site at LCA premises, Maseru; procured, not stated in service, so a systems entry and no fact; no plan, test or tier stated."
+}

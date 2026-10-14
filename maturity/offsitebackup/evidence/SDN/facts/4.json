@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "National disaster-recovery and business-continuity centre for the banking sector (planned, CBOS 2026-2030 plan, Axis 5; place not stated)", "country_label": "SDN", "class": "backupsite", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}
+  ],
+  "note": "The plan only commits to establish a national disaster-recovery centre for the banking sector; planned, not in service, so no fact; no sites, plan, test or Tier stated."
+}

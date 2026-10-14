@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-14-northbay-ibl-data-centre-migration-to-aws",
+  "facts": [],
+  "systems": [
+    {"system": "IBL Ltd AWS production and DR site", "country_label": "Mauritius", "class": "other", "platform": "AWS, DR in a second AWS account", "owner": "IBL Ltd (private conglomerate)", "tiers": ""}
+  ],
+  "note": "Private company's AWS disaster recovery; not a public body, region not stated."
+}

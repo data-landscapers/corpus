@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-16-pamfp-asistencia-tecnica-supervision-centro-datos-sitio-respaldo",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de Datos principal and sitio de respaldo of the Ministry of Finance (MHPDE), under PAMFP tender; places not stated", "country_label": "GNQ", "class": "", "platform": "", "owner": "Ministerio de Hacienda, Planificación y Desarrollo Económico", "tiers": "TIA-942 standard required, tier not stated"}
+  ],
+  "note": "Tender of 16 June 2026 for supervision of works on the ministry's main data centre and backup site (tendered, not in service; places not stated); a business continuity plan is to be drawn up, not yet a plan on record."
+}

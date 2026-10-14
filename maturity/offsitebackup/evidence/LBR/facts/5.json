@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-liberia-gac-strategic-plan-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "GAC offsite/cloud backup repository (planned, due March 2027)", "country_label": "Liberia", "class": "backupsite", "platform": "", "owner": "General Auditing Commission", "tiers": ""}
+  ],
+  "note": "GAC plans (by March 2027) an offsite/cloud backup repository and annual DR drills; planned only, place of main and backup site not stated, so no fact."
+}

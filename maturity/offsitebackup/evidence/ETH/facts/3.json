@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+ "facts": [
+  {
+   "sub_indicator": "backup",
+   "aspect": "site",
+   "value": "none",
+   "fact": "The MInT/Tony Blair Institute assessment finds neither a business continuity plan nor a disaster recovery plan in place for the government's e-services, and recommends that disaster recovery sites be prioritised; the Government Data Center is in Addis Ababa and no backup site place is stated.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "Government Integrated Data Center",
+   "class": "backupsite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Integrated Data Center",
+   "country_label": "Ethiopia",
+   "class": "backupsite",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

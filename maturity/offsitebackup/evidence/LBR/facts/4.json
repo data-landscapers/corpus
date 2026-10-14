@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-20-lra-corporate-strategic-plan-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "LITAS", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""},
+    {"system": "ASYCUDA", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""},
+    {"system": "LRA Datacenter", "country_label": "Liberia", "class": "", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""}
+  ],
+  "note": "LRA plan (published 2026-08-20) rates Business Continuity and DR as a High risk and says the BCP and IT DR plans are still drafts to be reviewed, signed and implemented; no backup site, place, test or Tier is stated, so no fact."
+}

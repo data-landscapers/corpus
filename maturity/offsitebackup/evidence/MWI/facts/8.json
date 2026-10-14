@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "The IDEA progress report for January-June 2026 says resilient telecom links with the disaster recovery site in Blantyre were commissioned for the Government national data centre in Lilongwe, and a redundancy link between the Lilongwe and Blantyre data centres was completed; main site in Lilongwe, backup in Blantyre. The date of the DR site entering service is not stated; the report's period is used.", "as_of": "2026-06", "date_precision": "month", "system": "Government national data centre disaster recovery site, Blantyre", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre, Lilongwe", "country_label": "Malawi", "class": "", "platform": "", "owner": "Department of e-Government", "tiers": ""},
+    {"system": "Disaster recovery site / Blantyre Data Centre", "country_label": "Malawi", "class": "backupsite", "platform": "", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-25-infosi-e-fadcom-firmam-parceria-para-estagios-no-data-center",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "ANGOP reports INFOSI and FADCOM signed on 2026-08-25 an internship protocol at the government's Backup Data Center, which is operating; place of the backup site not stated, place of the main site not stated.", "as_of": "2026-08-25", "date_precision": "day", "system": "Backup Data Center do INFOSI", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Backup Data Center do INFOSI", "country_label": "Angola", "class": "backupsite", "platform": "", "owner": "INFOSI", "tiers": ""}
+  ],
+  "note": ""
+}

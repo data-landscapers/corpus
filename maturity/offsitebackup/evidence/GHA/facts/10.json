@@ -1,0 +1,8 @@
+{
+  "slug": "2013-10-24-wb-gha-002-etransform-ghana",
+  "facts": [],
+  "systems": [
+    {"system": "Government cloud storage system (eTransform Ghana)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""}
+  ],
+  "note": "Document says only that a government cloud storage system (1289TB, 703TB Accra / 586TB Kumasi) was financed; it does not call either site a backup or DR site, so no backupsite fact."
+}

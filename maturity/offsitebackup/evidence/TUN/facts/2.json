@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-19-tunisie-cni-hosting-services-data-center-etat",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared",
+     "fact": "The Centre National de l'Informatique states it has a backup center, designed to standards, giving asynchronous data replication with its state Data Center that hosts major government applications for about 4,500 workstations across departments, public bodies and municipalities; main site place not stated, backup place not stated; no date in the text, so the published date 2026-09-19 is used.",
+     "as_of": "2026-09-19", "date_precision": "day", "system": "CNI backup center", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "CNI Data Center", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Centre National de l'Informatique", "tiers": ""},
+    {"system": "CNI backup center", "country_label": "Tunisia", "class": "backupsite", "platform": "", "owner": "Centre National de l'Informatique", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-avis-d-appel-d-offres-stb-ref-ao-08-2025-hebergement-n-cloud",
+  "facts": [],
+  "systems": [
+    {"system": "N-Cloud hosting (Azure platform) for STB", "country_label": "Tunisia", "class": "other", "platform": "Microsoft Azure via ANCS-certified N-Cloud provider", "owner": "Société Tunisienne de Banque", "tiers": ""}
+  ],
+  "note": "Tender for N-Cloud hosting of a bank's Azure platform; no backup site, disaster-recovery plan, test or Tier is stated."
+}

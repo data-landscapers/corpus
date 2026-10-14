@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-20-rgd-disaster-recovery-mers-communique",
+  "facts": [],
+  "systems": [
+    {"system": "Disaster Recovery (DR) solution for the Mauritius eRegistry System", "country_label": "Mauritius", "class": "backupsite", "platform": "", "owner": "Registrar-General's Department", "tiers": ""}
+  ],
+  "note": "Communique announces online services down on 21-22 and 28-29 March 2026 for implementation of a DR solution; implementation, not in service; no place or site stated."
+}

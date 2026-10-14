@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,"Data Center National de Santé (ANICNS, PPP, main site Kinshasa plus a site de secours, place not stated)",COD,backupsite,,"ANICNS, Ministry of Public Health",Tier III or equivalent asked of bidders,2026-06-16-anicns-ami-data-center-national-sante
+COD,Data center du Gouvernement (Kinshasa Gombe),COD,other,,Government of the DRC,,2025-07-24-sgptntic-visite-data-center-gouvernement
+COD,OADC Texaf - Kinshasa,Democratic Republic of the Congo,other,commercial data centre,Open Access Data Centres (OADC),,2025-02-03-oadc-texaf-kinshasa-iso-pci-dss-certifications-techafricanews
+COD,Cloud souverain,COD,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-07-pamfp-amplia-plazo-licitacion-sala-servidores",
+  "facts": [],
+  "systems": [
+    {"system": "Principal and backup server rooms of the Ministry of Finance (tender N.º 002-2026/B/PAMFP/GE)", "country_label": "GNQ", "class": "backupsite", "platform": "", "owner": "Ministerio de Hacienda, Presupuestos y Planificación Nacional (via PAMFP)", "tiers": ""}
+  ],
+  "note": "Fitting-out works for the Finance Ministry's main and backup server rooms are only tendered (deadline extended to 2026-09-16), places not stated; a tendered site is a systems entry, no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-05-03-ecofin-telone-bulawayo-data-centre-inaugurated",
+  "facts": [],
+  "systems": [
+    {"system": "TelOne Bulawayo data center (Hillside)", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "TelOne (state-owned telco)", "tiers": "Tier 3 designed"}
+  ],
+  "note": "TelOne sells DR hosting to customers including government departments; commercial provider, no statement that it holds government systems, so other."
+}

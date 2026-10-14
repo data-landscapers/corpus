@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-24-bubble-cloud-two-availability-zones-mozambique",
+  "facts": [],
+  "systems": [
+    {"system": "Bubble Cloud Availability Zones", "country_label": "Mozambique", "class": "other", "platform": "commercial cloud, two sites about 20 km apart, places not stated", "owner": "Bubble Cloud Mozambique", "tiers": ""}
+  ],
+  "note": "Commercial cloud provider's DR-capable zones; document does not say it holds government systems, so class other."
+}

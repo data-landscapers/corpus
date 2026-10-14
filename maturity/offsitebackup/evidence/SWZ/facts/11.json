@@ -1,0 +1,9 @@
+{
+  "slug": "2021-02-26-eswatini-budget-speech-2021",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre (RSTP)", "country_label": "SWZ", "class": "", "platform": "", "owner": "Royal Science and Technology Park", "tiers": ""},
+    {"system": "Disaster Recovery Site (DRS) at KaLanga, Lubombo Region", "country_label": "SWZ", "class": "", "platform": "", "owner": "Royal Science and Technology Park", "tiers": ""}
+  ],
+  "note": "The 2021 speech says the DR site at KaLanga (Lubombo) was only initiated for construction with E58m allocated, so it is a systems entry, no fact; main site place not stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-liberia-cbl-policy-statement-2026",
+  "facts": [],
+  "systems": [
+    {"system": "CBL data centers (payment and settlement infrastructure upgrade)", "country_label": "Liberia", "class": "", "platform": "", "owner": "Central Bank of Liberia", "tiers": ""}
+  ],
+  "note": "CBL will set disaster recovery and business continuity standards for payment participants and upgrade data centers; no backup site of a public body, its place, plan or test is stated."
+}

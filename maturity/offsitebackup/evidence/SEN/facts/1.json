@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-senum-transformation-digitale-administration",
+  "facts": [],
+  "systems": [
+    {"system": "ORANA data center", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Senegal Numerique SA (SENUM)", "tiers": ""},
+    {"system": "Technopole data center", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Senegal Numerique SA (SENUM)", "tiers": ""},
+    {"system": "Diamniadio data center", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Senegal Numerique SA (SENUM)", "tiers": ""}
+  ],
+  "note": "The passages given name three government data centres (ORANA 2004, Technopole 2008, Diamniadio 2021) but state nothing about a backup site, disaster-recovery plan or test."
+}

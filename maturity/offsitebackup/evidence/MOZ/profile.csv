@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,backup,site,coverage,service,2026-07-24,MOZ-001,,
+MOZ,backup,plan,coverage,,,,,nothing held
+MOZ,backup,tier,coverage,,,,,nothing held

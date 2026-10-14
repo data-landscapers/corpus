@@ -1,0 +1,11 @@
+{
+  "slug": "2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "The State Information Service reports that the Government Data and Cloud Computing Center (P1), inaugurated 28 April 2024 on Ain El-Sokhna Road, serves as an active alternative to the New Capital Data Center and as a unified national center for disaster recovery data for government agencies; main site in the New Capital (New Administrative Capital), backup on Ain El-Sokhna Road (town not otherwise stated).", "as_of": "2024-04-28", "date_precision": "day", "system": "Government Data and Cloud Computing Center (P1)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Government Data and Cloud Computing Center (P1)", "country_label": "Egypt", "class": "backupsite", "platform": "cloud computing", "owner": "Ministry of Communications and IT", "tiers": ""},
+    {"system": "New Capital Data Center", "country_label": "Egypt", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

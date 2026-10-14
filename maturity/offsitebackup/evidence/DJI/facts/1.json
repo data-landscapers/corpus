@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11-dcd-horizon-fiber-agreement",
+  "facts": [],
+  "systems": [
+    {"system": "Horizon Fiber Initiative terrestrial fiber corridor", "country_label": "DJI", "class": "other", "platform": "", "owner": "Ethio Telecom, Djibouti Telecom, Sudatel Group", "tiers": ""}
+  ],
+  "note": "Document covers a cross-border fiber route for network redundancy only; no backup site, DR plan, test or Tier statement for government systems."
+}

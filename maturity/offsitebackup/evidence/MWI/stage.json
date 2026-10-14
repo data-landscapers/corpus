@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "backup",
+   "stage": "3",
+   "site": "shared",
+   "plan": "",
+   "tier": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-002",
+   "gaps": "No source held from the past three years states a recovery plan or test for the government's backup site.",
+   "note": "Counted from the four questions by study-ladder-offsitebackup.py."
+  }
+ ]
+}

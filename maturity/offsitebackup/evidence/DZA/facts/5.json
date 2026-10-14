@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-05-jeune-independant-centre-national-services-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "Centre national des services numériques", "country_label": "Algeria", "class": "", "platform": "", "owner": "Government of Algeria", "tiers": "Mohammadia (Alger) centre Tier III Design, Uptime Institute; Blida centre tier not stated"}
+  ],
+  "note": "Two national data centres in Alger (Mohammadia) and Blida with instant data synchronisation and recovery mechanisms, but the document never calls either a backup or DR site, states no plan or test, and gives a Tier only for Mohammadia; no fact."
+}

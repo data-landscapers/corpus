@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-hodi-pra-manage-offsite-backup",
+  "facts": [],
+  "systems": [
+    {"system": "PRA managé (Acronis Disaster Recovery)", "country_label": "Madagascar", "class": "other", "platform": "Acronis Disaster Recovery", "owner": "Hodi (commercial hosting provider)", "tiers": "backup datacentre Tier IV, in another African or European country, place not stated; main datacentre in Madagascar, place not stated"}
+  ],
+  "note": "Commercial DR service sold by Hodi; the page does not state it holds government systems, so class other and no fact."
+}

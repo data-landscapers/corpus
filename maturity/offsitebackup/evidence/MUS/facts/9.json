@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-01-cisd-computer-support-central-backup-service",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "The Central Information Systems Division (Ministry of IT, Communication and Innovation) provides a Central Backup Service for off-site safekeeping of electronic backup media (tape, CD, external hard disk) of all Ministries and Departments on request; main site place not stated, backup place not stated.", "as_of": "2026-09-01", "date_precision": "day", "system": "Central Backup Service", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Central Backup Service", "country_label": "Mauritius", "class": "backupsite", "platform": "off-site media storage (tape, CD, external disk)", "owner": "Central Information Systems Division (CISD), MITCI", "tiers": ""}
+  ],
+  "note": "Date is the page's retrieval date (no dateline; published 2026-09-01 used)."
+}

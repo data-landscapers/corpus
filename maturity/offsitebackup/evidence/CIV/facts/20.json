@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-cybersecurite-centre-soc-cybermenaces-temps-reel-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "3R Technologie Security Operation Center (SOC)", "country_label": "Côte d'Ivoire", "class": "other", "platform": "", "owner": "3R Technologie (private company)", "tiers": ""}
+  ],
+  "note": "Private firm's cybersecurity operations centre launched in Cocody-Angré; ISO 22301/27001 certification is the company's own; no government backup site, DR plan, test or Tier statement."
+}

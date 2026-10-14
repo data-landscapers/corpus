@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview",
+  "facts": [],
+  "systems": [
+    {"system": "ST Digital Gabon data centre (site principal et site miroir)", "country_label": "Gabon", "class": "", "platform": "", "owner": "ST Digital Gabon", "tiers": ""}
+  ],
+  "note": "Interview of 4 Sept 2026 says the ST Digital Gabon data centre arrangement 'prevoit' a main site and a mirror site in Haut-Ogooue (main place not stated), cleared by the data-protection authority; it does not say the mirror is in service or holds government systems, so no fact."
+}

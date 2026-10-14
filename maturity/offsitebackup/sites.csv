@@ -1,0 +1,19 @@
+row_id,system,main,backup,km,distance,reading
+AGO-001,Backup Data Center do INFOSI,Camama (Luanda),INFOSI (Luanda),under 30,near,Both sites in Luanda
+AGO-002,centro de backup da cloud do Governo,Camama (Luanda),INFOSI (Luanda),under 30,near,Both sites in Luanda
+AGO-003,Backup Data Center do INFOSI,,,,unnamed,Same site as AGO-001; this source names no place
+CMR-001,CAMTEL data centre at Zamengoe (MINFOPRA backup),Yaoundé,Zamengoe,about 15,near,Zamengoe is on the edge of Yaoundé
+EGY-001,Government Data and Cloud Computing Center (P1),New Administrative Capital,Ain El-Sokhna Road,under 130,near,No point on the Sokhna road is 200 km from the New Capital
+GHA-001,cloud storage system (eTransform Ghana),Accra,Kumasi,194,near,194 km as the crow flies; the source does not call Kumasi a backup
+GHA-002,National Data Centre,Accra,KNUST (Kumasi),194,near,194 km as the crow flies
+MAR-001,Ministry backup platform,Rabat,,,unnamed,Backup place not stated
+MLI-001,AGETIC data centre DR site,,,,unnamed,Neither place stated
+MOZ-001,Cedsif Secondary Data Center,,,,unnamed,Neither place stated
+MUS-001,Central Backup Service,,,,unnamed,Neither place stated
+MWI-001,MRA secondary data centre,,,,unnamed,Neither place stated
+MWI-002,Government national data centre disaster recovery site,Lilongwe,Blantyre,242,far,Checked against the report's text
+SDN-001,national vehicle register backup data centres,,abroad,,far,Backup centres outside the country; checked against the article
+SEN-001,e-Justice pilot mini data centre and backup site,Pikine-Guédiawaye,,,unnamed,Backup place not stated
+SWZ-001,National Data Centre (Royal Science and Technology Park),,,,unnamed,Neither place stated
+TUN-001,CNI backup center,Tunis,,,unnamed,Backup place not stated
+TUN-002,Centre National de Backup (CNBU),,,,unnamed,Neither place stated

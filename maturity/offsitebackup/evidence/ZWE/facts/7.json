@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-18-praz-egp-disaster-recovery-sites",
+  "facts": [],
+  "systems": [
+    {"system": "eGP System Disaster Recovery Site x 2", "country_label": "ZWE", "class": "backupsite", "platform": "", "owner": "Procurement Regulatory Authority of Zimbabwe (PRAZ)", "tiers": ""}
+  ],
+  "note": "A tender notice (PRAZ/RB/05/2026, posted 18 Mar 2026) for two disaster recovery sites for the eGP system; procured, not stated in service, and no places given, so no fact."
+}

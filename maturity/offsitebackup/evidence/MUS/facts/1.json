@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-goc-san-executive-summary-bid-evaluation",
+  "facts": [],
+  "systems": [
+    {"system": "Government Online Centre (GOC) Data centre and Disaster Recovery Site (DR Site)", "country_label": "Mauritius", "class": "backupsite", "platform": "Active-Active clustered hypervisor with SAN replication between the two sites; places not stated", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}
+  ],
+  "note": "Bid evaluation for supply and commissioning of servers, SAN and backup for the GOC and DR site; procurement only, no site in service, place of main and DR site not stated."
+}

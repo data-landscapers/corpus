@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-thereporter-vodacom-satellite-broadband",
+  "facts": [],
+  "systems": [
+    {"system": "Vodacom Enterprise Satellite Connectivity (Starlink)", "country_label": "Lesotho", "class": "other", "platform": "Starlink LEO satellite", "owner": "Vodacom Lesotho", "tiers": ""}
+  ],
+  "note": "Satellite connectivity redundancy offered by a commercial provider; no government backup site stated."
+}

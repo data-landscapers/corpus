@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,CNI Data Center,Tunisia,other,,Centre National de l'Informatique,,2026-09-19-tunisie-cni-hosting-services-data-center-etat
+TUN,CNI backup center,Tunisia,backupsite,,Centre National de l'Informatique,,2026-09-19-tunisie-cni-hosting-services-data-center-etat
+TUN,Tunisie Telecom Carthage primary data center,Tunisia,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Tunisie Telecom Kasbah secondary data center,Tunisia,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Tunisie Telecom Kairouan disaster recovery site,Tunisia,other,,Tunisie Telecom,,2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers
+TUN,Centre National de Backup (CNBU),Tunisia,backupsite,,Centre National de l'Informatique (CNI),,2016-01-01-tunisie-cni-centre-national-backup-continuite-activite
+TUN,Cloud privé pour le Centre National de l'Informatique,Tunisia,other,private cloud,Centre National de l'Informatique (Ministry of Communication Technologies),,2026-01-05-tunisie-afdb-cni-cloud-prive-attribution
+TUN,N-Cloud hosting (Azure platform) for STB,Tunisia,other,Microsoft Azure via ANCS-certified N-Cloud provider,Société Tunisienne de Banque,,2025-01-01-avis-d-appel-d-offres-stb-ref-ao-08-2025-hebergement-n-cloud

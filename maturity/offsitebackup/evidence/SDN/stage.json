@@ -1,0 +1,17 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "backup",
+   "stage": "2",
+   "site": "service",
+   "plan": "",
+   "tier": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SDN-001",
+   "gaps": "No source held says a backup site 200 km or more away serves the government's shared systems.",
+   "note": "Counted from the four questions by study-ladder-offsitebackup.py."
+  }
+ ]
+}

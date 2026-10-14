@@ -1,0 +1,12 @@
+{
+  "slug": "2022-06-15-minfopra-camtel-convention-partenariat",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service",
+     "fact": "A convention signed on 13 June 2022 between the civil-service ministry MINFOPRA and CAMTEL provides a backup of MINFOPRA's web portal, messaging and SIGIPES at CAMTEL's data centre in Zamengoe; the backup is being set up under the convention, main site place not stated (MINFOPRA's own infrastructure), backup in Zamengoe.",
+     "as_of": "2022-06-13", "date_precision": "day", "system": "CAMTEL data centre at Zamengoe (MINFOPRA backup)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "CAMTEL data centre at Zamengoe", "country_label": "Cameroon", "class": "backupsite", "platform": "", "owner": "CAMTEL", "tiers": ""}
+  ],
+  "note": ""
+}

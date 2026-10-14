@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-19-brb-appel-offres-maintenance-site-alternatif-rumonge",
+  "facts": [],
+  "systems": [
+    {"system": "Site Alternatif de la Banque de la Republique du Burundi, Rumonge", "country_label": "BDI", "class": "", "platform": "", "owner": "Banque de la Republique du Burundi (BRB)", "tiers": ""}
+  ],
+  "note": "Tender for building maintenance of the BRB alternative site at Rumonge (BRB head office address in Bujumbura); the text never says what the site does, whether it holds systems or data, or that it is in service as a backup, so no site/plan/tier fact."
+}

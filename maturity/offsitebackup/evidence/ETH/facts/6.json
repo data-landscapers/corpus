@@ -1,0 +1,15 @@
+{
+ "slug": "2021-03-17-itweb-redfox-breaks-ground-rfdc1-ict-park-rittal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RFDC1",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "RedFox Solutions Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Commercial data centre under construction; no backup site stated."
+}

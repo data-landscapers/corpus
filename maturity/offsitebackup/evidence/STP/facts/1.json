@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-14-afap-tender-data-center-servidores-identidade-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Backup data centre / disaster recovery for the national digital-identity system (AFAP tender for servers)", "country_label": "STP", "class": "backupsite", "platform": "", "owner": "AFAP", "tiers": ""}
+  ],
+  "note": "Only a tender notice title (2026-05-14) for servers for a data centre and disaster recovery; tendered, not in service, places not stated; page body is navigation text only."
+}

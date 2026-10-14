@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-14-malawi-mra-backup-data-centre-world-bank",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "service", "fact": "The Malawi Revenue Authority's ICT director said its secondary data centre, which also functions as a disaster-recovery site, is in use to keep services running and protect taxpayer records when primary systems fail; main site and backup place not stated (place not stated).", "as_of": "2026-08", "date_precision": "month", "system": "MRA secondary data centre", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "MRA secondary data centre", "country_label": "Malawi", "class": "backupsite", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""}
+  ],
+  "note": ""
+}

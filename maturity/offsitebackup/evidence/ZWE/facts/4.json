@@ -1,0 +1,9 @@
+{
+  "slug": "2022-04-29-dcd-telone-bulawayo-hillside-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "TelOne Bulawayo Hillside data center", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "TelOne (state-owned telco)", "tiers": "Tier 3 designed"},
+    {"system": "National data center, Harare", "country_label": "Zimbabwe", "class": "", "platform": "", "owner": "Government", "tiers": ""}
+  ],
+  "note": "TelOne offers managed DR to customers incl. government departments; commercial provider, no statement it holds government systems; national data center named in Harare (opened 2021) with no backup described."
+}

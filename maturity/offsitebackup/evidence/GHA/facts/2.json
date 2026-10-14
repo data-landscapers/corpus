@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "The World Bank completion report says the eTransform project (Ministry of Communications and Digitalisation) installed a government cloud storage system of 1289TB, 703TB in Accra and 586TB in Kumasi, improving disaster recovery; places: Accra and Kumasi, which site is main and which is backup not stated, and the report does not call Kumasi a backup site.", "as_of": "2024-06", "date_precision": "month", "system": "cloud storage system (eTransform Ghana)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "cloud storage system (eTransform Ghana)", "country_label": "Ghana", "class": "backupsite", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""}
+  ],
+  "note": ""
+}

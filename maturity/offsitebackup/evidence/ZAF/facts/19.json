@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-31-dbsa-rfp004-2026-managed-draas",
+  "facts": [],
+  "systems": [
+    {"system": "DBSA managed DRaaS (RFP004/2026, tendered)", "country_label": "South Africa", "class": "backupsite", "platform": "managed DRaaS, about 130 VMs, 80 TiB per catalogue note", "owner": "Development Bank of Southern Africa", "tiers": ""}
+  ],
+  "note": "A tender for managed disaster recovery as a service (closing 13 February 2026); no site in service and no place named, so no fact."
+}

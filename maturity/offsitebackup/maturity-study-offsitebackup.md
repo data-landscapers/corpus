@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-offsitebackup.md — the forty-seventh maturity study: off-site backup for government systems, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map, waits for Bill to accept
 ---
 
 # Maturity study: offsitebackup
@@ -20,7 +20,7 @@ The study redraws `infra.store--off-site-backup-capacity`, which as at 2026-08-3
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Off-site backup for government systems | Off-site backup capacity: a separate site that keeps the government's systems and data recoverable | `infra.store--off-site-backup-capacity-off-site-backup-for-government-systems` |
+| Off-site backup for government systems | Off-site backup capacity: off-site backup for government systems | `infra.store--off-site-backup-capacity-off-site-backup-for-government-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: backup equipment or a site tendered, financed or under construction; a commercial provider selling backup or disaster recovery, unless a source states it holds government systems; a second network link or satellite route, which is redundancy of connection, not of data; backup power; a backup site nearer than 200 km, or in no named place.
 
@@ -75,10 +75,19 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 
 - [x] **D0. Prepare**: this file, `study.json`, the reading lists and `reopen.csv`, 2026-10-14.
 - [x] **D0a. Distance**: the backup site 200 km or more from the main one, Bill, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry and read.**
-- [ ] **D3. Stage** as at 2026-09-30, the parent's corrections and the agreement draw.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Read**: 89 drafters over 146 readings (79 planned, 67 reopened); 23 facts in 21 countries. No carry: the two data-centre studies hold no fact on backup in this study's terms.
+- [x] **D3. Staged** as at 2026-09-30: 3: 1, 2: 1, 1: 1, 16 unplaced, 35 without evidence; no correction; agreement 3 of 3, the only staged cells.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14. Tokens 29.4M of 30M.
+
+**Decided in the run**:
+
+- **Distance is as the crow flies**, in `sites.csv`. Ghana's National Data Centre has its secondary site at KNUST, Kumasi, 194 km from Accra, so it is `near` and Ghana is unplaced; by road it is about 250 km.
+- **A backup abroad counts though no country is named**: Sudan's traffic police keep vehicle-register backups outside the country, which sets stage 2.
+- **Most backups held name no place**: Mali, Morocco, Mozambique, Mauritius, the Malawi Revenue Authority, Senegal, Eswatini and Tunisia's national backup centre. Each is unplaced, and the summary names the site under *Noted, not assessed*.
+- **Angola, Cameroon and Egypt keep their backups within reach of the main site**: Luanda beside Camama, Zamengoe beside Yaoundé, the Sokhna road beside the New Capital.
+- **Nigeria's Kano recovery centre was finished but not stated in service**, so its Tier IV fact sets nothing.
+- **Ethiopia's statement of absence dates from February 2023**, outside the three years, so it does not set stage 1.
 
 ## Boundary
 

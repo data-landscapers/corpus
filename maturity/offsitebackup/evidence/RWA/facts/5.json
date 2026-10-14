@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-horus-labs-tier-iii-data-centre-licence",
+  "facts": [],
+  "systems": [
+    {"system": "Horus Labs Ltd Tier III data centre (RURA licence)", "country_label": "Rwanda", "class": "other", "platform": "commercial colocation, cloud hosting, AI data centre", "owner": "Horus Labs Ltd (private)", "tiers": "Tier III required or equivalent"}
+  ],
+  "note": "Commercial operator's licence authorising disaster recovery and backup services; no statement that it holds government systems (clause 1.8.5 disclaims government migration); no backup site, place, plan or test stated."
+}

@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,"Rand Water disaster recovery site, Centurion",South Africa,other,,Rand Water (state-owned bulk water utility),,2026-09-04-itweb-rand-water-cyberattack
+ZAF,PSET Integrated Learner Management System (ILMS),South Africa,other,,MICT SETA / Tshwane University of Technology,,2026-08-20-parliament-ilms-intellectual-property-dispute
+ZAF,Dube Tradeport Data Centre,South Africa,other,,Dube Tradeport,,2026-08-20-parliament-ilms-intellectual-property-dispute
+ZAF,"DBSA managed DRaaS (RFP004/2026, tendered)",South Africa,backupsite,"managed DRaaS, about 130 VMs, 80 TiB per catalogue note",Development Bank of Southern Africa,,2026-01-31-dbsa-rfp004-2026-managed-draas
+ZAF,"IDC Disaster Recovery site in Gauteng (main site: Sandton head office, production and backup data centres)",South Africa,other,"HPE, VMware, Veeam, ExaGrid","Industrial Development Corporation of SA Ltd (state-owned company, not a ministry, agency or central bank)",,2025-03-10-idc-rfp-upgrade-it-server-and-storage-infrastructure

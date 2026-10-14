@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-dalkom-somalia-disaster-recovery",
+  "facts": [],
+  "systems": [
+    {"system": "Dalkom Somalia Disaster Recovery - Local And International", "country_label": "Somalia", "class": "other", "platform": "commercial disaster recovery and backup service, offshore backup in Mombasa and Mogadishu", "owner": "Dalkom Somalia (commercial telecom/ISP provider)", "tiers": ""}
+  ],
+  "note": "Commercial provider's service page; it does not state that it holds government systems, so it is class other and gives no fact."
+}

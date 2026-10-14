@@ -1,0 +1,3 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,AGETIC data centre DR site,Mali,backupsite,,AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,"SMTD disaster-recovery site (being established; secondary site premises, racks, network and power in place)",Mali,other,,SMTD,upgrading toward Uptime Institute Tier III,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees

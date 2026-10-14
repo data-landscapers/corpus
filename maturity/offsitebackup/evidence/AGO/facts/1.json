@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-25-angop-infosi-backup-data-center-requalificacao",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "ANGOP reports the minister reinaugurated INFOSI's requalified Backup Data Center in Luanda on 2026-08-25, which forms part of the government Data Center and Cloud opened in April 2026 at Camama; main site in Camama (Luanda), backup in Luanda (INFOSI), exact backup place not stated beyond Luanda.", "as_of": "2026-08-25", "date_precision": "day", "system": "Backup Data Center do INFOSI", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Backup Data Center do INFOSI", "country_label": "Angola", "class": "backupsite", "platform": "", "owner": "INFOSI", "tiers": ""},
+    {"system": "Data Center e Cloud do Governo (Camama)", "country_label": "Angola", "class": "", "platform": "", "owner": "Government of Angola", "tiers": ""}
+  ],
+  "note": ""
+}

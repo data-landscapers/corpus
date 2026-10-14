@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-16-world-bank-wardip2-pad",
+  "facts": [],
+  "systems": [
+    {"system": "Abomey-Calavi Datacenter", "country_label": "Benin", "class": "other", "platform": "", "owner": "Government of Benin", "tiers": ""},
+    {"system": "Redundancy site for existing datacenters (Benin, planned; studies financed at US$6.0 million, location to be determined)", "country_label": "Benin", "class": "backupsite", "platform": "", "owner": "Government of Benin", "tiers": ""}
+  ],
+  "note": "Redundancy site for Abomey-Calavi Datacenter is only to be studied and financed, location undetermined; no site in service, no plan, test or Tier statement about an existing backup."
+}

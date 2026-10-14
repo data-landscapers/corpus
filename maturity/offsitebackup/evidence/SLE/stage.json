@@ -1,0 +1,17 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "backup",
+   "stage": "1",
+   "site": "none",
+   "plan": "",
+   "tier": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-offsitebackup.py."
+  }
+ ]
+}

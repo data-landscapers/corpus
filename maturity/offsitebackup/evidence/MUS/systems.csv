@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,Government Online Centre (GOC) Data centre and Disaster Recovery Site (DR Site),Mauritius,backupsite,Active-Active clustered hypervisor with SAN replication between the two sites; places not stated,"Ministry of Information Technology, Communication and Innovation",,2026-01-01-goc-san-executive-summary-bid-evaluation
+MUS,IBL Ltd AWS production and DR site,Mauritius,other,"AWS, DR in a second AWS account",IBL Ltd (private conglomerate),,2025-05-14-northbay-ibl-data-centre-migration-to-aws
+MUS,Disaster Recovery (DR) solution for the Mauritius eRegistry System,Mauritius,backupsite,,Registrar-General's Department,,2026-03-20-rgd-disaster-recovery-mers-communique
+MUS,Central Backup Service,Mauritius,backupsite,"off-site media storage (tape, CD, external disk)","Central Information Systems Division (CISD), MITCI",,2026-09-01-cisd-computer-support-central-backup-service
+MUS,Scale Out Storage Solution for the GOC,Mauritius,other,scale-out storage and backup appliance,"Ministry of Information Technology, Communication and Innovation (Government Online Centre)",,2026-03-27-goc-scale-out-storage-solution-award
+MUS,Scale-Out Storage Solution for the Government Online Centre,Mauritius,other,scale-out storage,"Ministry of Information Technology, Communication and Innovation",,2025-10-06-scale-out-storage-solution-goc-tender

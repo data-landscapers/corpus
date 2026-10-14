@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-19-dailytrust-bdic-makurdi-data-centre-deal",
+  "facts": [],
+  "systems": [
+    {"system": "BDIC data centre, Makurdi, with disaster recovery site in Abuja", "country_label": "Nigeria", "class": "backupsite", "platform": "", "owner": "Benue Digital Infrastructure Company (Benue State)", "tiers": "Tier III standard (planned)"}
+  ],
+  "note": "Agreement signed in 2024-06 to build a Tier III data centre in Makurdi with a DR site in Abuja; planned, not in service, so a systems entry only."
+}

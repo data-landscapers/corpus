@@ -1,0 +1,8 @@
+{
+  "slug": "2019-06-17-mtn-benin-lance-son-service-data-center-ciomag",
+  "facts": [],
+  "systems": [
+    {"system": "MTN-Bénin data center service (colocation, off-site backup, disaster recovery)", "country_label": "Benin", "class": "other", "platform": "", "owner": "MTN-Bénin", "tiers": ""}
+  ],
+  "note": "Commercial provider (MTN-Bénin) selling backup and disaster recovery to firms; the document does not state it holds government systems; places not stated."
+}

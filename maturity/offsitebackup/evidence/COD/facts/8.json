@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-03-oadc-texaf-kinshasa-iso-pci-dss-certifications-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "OADC Texaf - Kinshasa", "country_label": "Democratic Republic of the Congo", "class": "other", "platform": "commercial data centre", "owner": "Open Access Data Centres (OADC)", "tiers": ""}
+  ],
+  "note": "Commercial data centre with ISO 22301 certification; the document does not say it holds government systems or name a backup site, so no backupsite fact."
+}

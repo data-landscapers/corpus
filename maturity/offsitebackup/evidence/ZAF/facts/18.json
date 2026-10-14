@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-20-parliament-ilms-intellectual-property-dispute",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "plan", "value": "plan", "fact": "MICT SETA told Parliament's higher education committee it has disaster recovery plans should the ILMS be compromised, and has chosen Dube Tradeport Data Centre in KwaZulu-Natal for primary, failover and disaster recovery of its data; main site and backup site places not separately stated (place not stated); dated by the document's publication date 2026-08-20.", "as_of": "2026-08-20", "date_precision": "day", "system": "PSET Integrated Learner Management System (ILMS)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "PSET Integrated Learner Management System (ILMS)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "MICT SETA / Tshwane University of Technology", "tiers": ""},
+    {"system": "Dube Tradeport Data Centre", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Dube Tradeport", "tiers": ""}
+  ],
+  "note": ""
+}

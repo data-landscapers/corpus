@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-24-lome-data-centre-home-page-en",
+  "facts": [],
+  "systems": [
+    {"system": "Lomé Data Center disaster recovery service", "country_label": "Togo", "class": "other", "platform": "", "owner": "Lomé Data Centre (operator)", "tiers": "Tier III+"}
+  ],
+  "note": "Operator's marketing page lists a geo-resilient DR service for customers; it does not state that it holds government systems, and gives no backup or main site place, plan, test or government Tier statement."
+}

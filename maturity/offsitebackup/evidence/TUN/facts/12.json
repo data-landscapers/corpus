@@ -1,0 +1,12 @@
+{
+  "slug": "2016-01-01-tunisie-cni-centre-national-backup-continuite-activite",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared",
+     "fact": "CNI's page states the Centre National de Backup is the current recovery site (site de secours) for the State's critical applications, offering pooled backup to public and private institutions; main site place not stated, backup site place not stated (CNI's address is in El Omrane, Tunis, but the page does not locate the backup centre).",
+     "as_of": "2016", "date_precision": "year", "system": "Centre National de Backup (CNBU)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "Centre National de Backup (CNBU)", "country_label": "Tunisia", "class": "backupsite", "platform": "", "owner": "Centre National de l'Informatique (CNI)", "tiers": ""}
+  ],
+  "note": ""
+}

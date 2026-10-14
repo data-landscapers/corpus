@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS (Epicor)", "country_label": "Lesotho", "class": "other", "platform": "Epicor 10.2, upgrade to Epicor Kinetic planned", "owner": "Ministry of Finance and Development Planning", "tiers": ""}
+  ],
+  "note": "Terms of reference only ask the project manager to advise on disaster recovery and business continuity; no backup site, plan or test is stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2018-10-29-tunisie-telecom-itu-alecso-cloud-offers-data-centers",
+  "facts": [],
+  "systems": [
+    {"system": "Tunisie Telecom Carthage primary data center", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Tunisie Telecom", "tiers": ""},
+    {"system": "Tunisie Telecom Kasbah secondary data center", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Tunisie Telecom", "tiers": ""},
+    {"system": "Tunisie Telecom Kairouan disaster recovery site", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "Tunisie Telecom", "tiers": ""}
+  ],
+  "note": "Commercial operator's own primary (Carthage), secondary (Kasbah) and DR (Kairouan) sites; the deck does not state they hold government systems, so class other."
+}

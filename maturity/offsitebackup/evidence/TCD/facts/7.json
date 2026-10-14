@@ -1,0 +1,9 @@
+{
+  "slug": "2023-06-01-atpe-communication-electronique-tchad-modernise-infrastructures",
+  "facts": [],
+  "systems": [
+    {"system": "Centre Data principal de Klemat", "country_label": "Chad", "class": "other", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy (state)", "tiers": ""},
+    {"system": "Centre secondaire data de Farcha", "country_label": "Chad", "class": "backupsite", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy (state)", "tiers": ""}
+  ],
+  "note": "Secondary data centre at Farcha was 90 % built on 31 May 2023 (main site at Klemat, places in N'Djamena area not distanced); under construction, so a systems entry and no fact."
+}

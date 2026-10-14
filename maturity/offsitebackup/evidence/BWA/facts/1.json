@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-13-mascom-tier-iii-data-centre-market-shift",
+  "facts": [],
+  "systems": [
+    {"system": "Mascom Innovation Centre Tier III Data Centre", "country_label": "BWA", "class": "other", "platform": "colocation, cloud, IaaS, disaster recovery", "owner": "Mascom (commercial telecom operator)", "tiers": "Tier III certified"}
+  ],
+  "note": "Commercial provider selling DR; the document says it offers government secure hosting and DR capability but does not state it holds government systems; no place given for any backup site."
+}

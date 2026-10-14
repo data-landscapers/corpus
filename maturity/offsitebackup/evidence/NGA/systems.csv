@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,"Galaxy Backbone second data center (Kano, phase 2)",Nigeria,,Huawei FusionDC1000B prefabricated modular,Galaxy Backbone,Uptime Tier IV design and facility,2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre
+NGA,Galaxy Backbone Kano Data Recovery and Business Continuity center,Nigeria,backupsite,,Galaxy Backbone (Federal Government),meets Tier IV standards,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,National Shared Services Center (Abuja),Nigeria,other,,Galaxy Backbone,Uptime Tier III certified,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,"BDIC data centre, Makurdi, with disaster recovery site in Abuja",Nigeria,backupsite,,Benue Digital Infrastructure Company (Benue State),Tier III standard (planned),2024-06-19-dailytrust-bdic-makurdi-data-centre-deal
+NGA,GFA Abeokuta Technology Zone Data Centre,Nigeria,other,,"GFA Technologies Group (private, planned)",,2026-07-27-cbn-data-localisation-directive-data-centre-investment
+NGA,"Africa Data Centres disaster recovery site, Abuja",Nigeria,backupsite,,"Africa Data Centres for Benue Digital Infrastructure Company (state-run); main site Makurdi, backup Abuja; to be built, not in service",,2024-07-12 UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi
+NGA,MDX-i Lekki Data Centre,Nigeria,other,,MainOne (commercial),Tier III,2015-01-16-businessday-mainone-mdx-i-lekki-tier-iii-data-centre

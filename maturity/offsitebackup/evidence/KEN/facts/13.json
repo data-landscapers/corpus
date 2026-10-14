@@ -1,0 +1,8 @@
+{
+  "slug": "2012-01-18-accesskenya-completes-kes-30-million-upgrade-on-state-of-the-art-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "AccessKenya data centre (Nairobi)", "country_label": "KEN", "class": "other", "platform": "", "owner": "AccessKenya Group (commercial ISP)", "tiers": ""}
+  ],
+  "note": "Commercial provider's data centre upgrade and mention of selling backup and DR services; no government systems or backup site stated."
+}

@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,TelOne Bulawayo data center (Hillside),Zimbabwe,other,,TelOne (state-owned telco),Tier 3 designed,2022-05-03-ecofin-telone-bulawayo-data-centre-inaugurated
+ZWE,TelOne Bulawayo Hillside data center,Zimbabwe,other,,TelOne (state-owned telco),Tier 3 designed,2022-04-29-dcd-telone-bulawayo-hillside-data-centre
+ZWE,"National data center, Harare",Zimbabwe,,,Government,,2022-04-29-dcd-telone-bulawayo-hillside-data-centre
+ZWE,eGP System Disaster Recovery Site x 2,ZWE,backupsite,,Procurement Regulatory Authority of Zimbabwe (PRAZ),,2026-03-18-praz-egp-disaster-recovery-sites
+ZWE,"Geographically separated Disaster Recovery Site (planned, government National Data Centre; place not stated)",ZWE,,,Government of Zimbabwe,,2026-07-30-zwe-2027-budget-strategy-paper
+ZWE,National Data Centre (to be upgraded to Tier IV; place not stated),ZWE,,,Government of Zimbabwe,Tier IV (planned upgrade),2026-07-30-zwe-2027-budget-strategy-paper
+ZWE,Smart Government Private Cloud,ZWE,,private cloud,Government of Zimbabwe,,2026-07-30-zwe-2027-budget-strategy-paper
