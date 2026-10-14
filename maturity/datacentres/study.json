@@ -1,0 +1,103 @@
+{
+ "id": "datacentres",
+ "study_file": "maturity-study-datacentres.md",
+ "subjects": [
+  "infra.store"
+ ],
+ "stage_topic": "infra.store",
+ "redraws": [
+  "infra.store--local-data-centre-capacity-all-providers"
+ ],
+ "carry": [
+  "infra.store--local-data-centre-capacity-all-providers"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 175000000,
+ "terms": [
+  "data centre",
+  "data center",
+  "datacentre",
+  "datacenter",
+  "data centres",
+  "data centers",
+  "colocation",
+  "co-location",
+  "carrier-neutral",
+  "Tier III",
+  "Tier IV",
+  "Uptime Institute",
+  "cloud region",
+  "hyperscale",
+  "hyperscaler",
+  "centre de données",
+  "centres de données",
+  "centre de donnees",
+  "centro de dados",
+  "centros de dados",
+  "centro de datos",
+  "مركز بيانات",
+  "مركز البيانات",
+  "مراكز البيانات",
+  "مراكز بيانات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "datacentre",
+   "label": "Data centres for hire in service",
+   "subject": "infra.store",
+   "text": "Local data centre capacity (all providers): data centres for hire in service",
+   "indicator_id": "infra.store--local-data-centre-capacity-all-providers-data-centres-for-hire-in-service",
+   "class": "datacentre",
+   "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks every country for data centres built to recognised tiers, so that content and data can be hosted in Africa.",
+   "criteria": [
+    "A source from the past three years says no data centre in the country rents space or computing to others.",
+    "A data centre in the country rents space, power or computing to other organisations.",
+    "One such data centre is Tier III or above.",
+    "Two or more such data centres are Tier III or above.",
+    "A global cloud provider sells its services from a cloud region in the country."
+   ],
+   "criteria_of": ""
+  }
+ ],
+ "classes": [
+  "datacentre",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "centre",
+   "name": "In service, Tier III, and two of them",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "two",
+    "tier3",
+    "service"
+   ],
+   "values": [
+    "two",
+    "tier3",
+    "service",
+    "none"
+   ]
+  },
+  {
+   "key": "cloud",
+   "name": "A global cloud region",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "region"
+   ],
+   "values": [
+    "region",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
