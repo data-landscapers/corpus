@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-15 00:32 · **RENDER** · 21m · 251 documents, home, countries, regions, topics, catalogue, finance, datasets rendered; 107 editions pruned; R2 2,163 uploaded; deployed f39802f — ok
 2026-10-15 00:11 · **REVIEW** · 19m · AGO: status 8 sections revised, progress 39 cells, monthly 10 blocks, finance 2 rows; 0 deals queued, 1 note for OSINT — ok
 2026-10-15 00:04 · **REVIEW** · 12m · BDI: status 7 sections revised, progress 21 cells, monthly 4 blocks, finance 0 rows; 1 deal queued, 0 notes for OSINT — ok
 2026-10-14 23:52 · **BUILD** · 37m · catalogue 28,360, finance 62 places, scan 31 units, 40 rows minted, 15 moved, 197 sub-sections re-read; data centres 4 read; maturity held; bulletin 37; budgets none waiting; register 30 standing — ok
