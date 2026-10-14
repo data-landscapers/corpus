@@ -1,0 +1,137 @@
+{
+ "id": "datacentrepower",
+ "study_file": "maturity-study-datacentrepower.md",
+ "subjects": [
+  "infra.energy",
+  "infra.store"
+ ],
+ "stage_topic": "infra.energy",
+ "redraws": [
+  "infra.energy--sufficient-energy-and-water-for-data-centres"
+ ],
+ "carry": [
+  "infra.energy--sufficient-energy-and-water-for-data-centres"
+ ],
+ "carry_studies": [
+  "datacentres",
+  "nationaldatacentres"
+ ],
+ "carry_map": {},
+ "token_ceiling": 30000000,
+ "terms": [
+  "PUE",
+  "power usage effectiveness",
+  "power usage efficiency",
+  "WUE",
+  "water usage effectiveness",
+  "water usage efficiency",
+  "data centre power",
+  "data center power",
+  "datacentre power",
+  "datacenter power",
+  "power for data centres",
+  "power for data centers",
+  "power to data centres",
+  "power to data centers",
+  "data centre electricity",
+  "data center electricity",
+  "data centre energy",
+  "data center energy",
+  "data centre water",
+  "data center water",
+  "data centre cooling",
+  "data center cooling",
+  "dual feed",
+  "dual feeds",
+  "dual utility",
+  "dual power feed",
+  "dual grid",
+  "two grid feeds",
+  "redundant power feed",
+  "redundant power feeds",
+  "dedicated substation",
+  "dedicated power line",
+  "dedicated power plant",
+  "water-free cooling",
+  "waterless cooling",
+  "closed-loop cooling",
+  "free cooling",
+  "free-cooling",
+  "adiabatic cooling",
+  "liquid cooling",
+  "critical IT load",
+  "IT load",
+  "efficacite energetique du data center",
+  "efficacite energetique du datacenter",
+  "efficacite energetique des data centers",
+  "alimentation electrique du data center",
+  "alimentation electrique du datacenter",
+  "double alimentation",
+  "refroidissement du data center",
+  "refroidissement du datacenter",
+  "energia do centro de dados",
+  "eficiencia energetica do centro de dados",
+  "refrigeracao do centro de dados",
+  "كفاءة استخدام الطاقة",
+  "مراكز البيانات الطاقة"
+ ],
+ "sub_indicators": [
+  {
+   "key": "power",
+   "label": "Power and water for data centres",
+   "subject": "infra.energy",
+   "text": "Sufficient energy and water for data centres: power and water for data centres",
+   "indicator_id": "infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres",
+   "class": "datacentre",
+   "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that data centres run on dual grid feeds with backup generation and report their power usage effectiveness."
+  }
+ ],
+ "classes": [
+  "datacentre",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "supply",
+   "name": "A secured supply in service, and power reserved for data centres",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "reserved",
+    "secured"
+   ],
+   "values": [
+    "reserved",
+    "secured",
+    "none"
+   ]
+  },
+  {
+   "key": "pue",
+   "name": "A PUE of 1.6 or less published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "low"
+   ],
+   "values": [
+    "low"
+   ]
+  },
+  {
+   "key": "water",
+   "name": "Water use published, or cooling that uses no water",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

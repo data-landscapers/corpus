@@ -1,0 +1,5 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,SYC,status,infra.store,,outputs/reports/SYC/SYC-status.md,,Data Storage,,,status,,0,201
+,,,,SYC,status,infra.energy,,outputs/reports/SYC/SYC-status.md,,Energy,,,status,,0,205
+1,1,0,news,SYC,raw,2025-05-30-puc-2024-annual-report,whole,raw/2025/2025-05-30-puc-2024-annual-report.md,https://www.nationalassembly.sc/sites/default/files/2025-08/PUC%20-%202024%20Annual%20Report.pdf,"2024 Annual Report — Public Utilities Corporation, Seychelles",2025-05-30,SYC,cell+ledger+subject,,0,926
+2,1,0,news,SYC,raw,2024-01-01-puc-2023-annual-report,whole,raw/2024/2024-01-01-puc-2023-annual-report.md,https://www.puc.sc/wp-content/uploads/puc-doc/reports/2023.pdf,2023 Annual Report V29 with AFS,2024-01-01,SYC,cell+ledger+subject,,0,1576

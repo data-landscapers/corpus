@@ -1,0 +1,5 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,SOM,status,infra.store,,outputs/reports/SOM/SOM-status.md,,Data Storage,,,status,,0,318
+,,,,SOM,status,infra.energy,,outputs/reports/SOM/SOM-status.md,,Energy,,,status,,0,294
+1,1,0,news,SOM,raw,2026-02-07-somalia-transformational-infrastructure-resilience-program,whole,raw/2026/2026-02-07-somalia-transformational-infrastructure-resilience-program.md,https://documents1.worldbank.org/curated/en/099020726020018361/pdf/P513127-1143db4f-6238-4203-90cb-1a0736667907.pdf,"Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127) — Project Information Document",2026-02-07,SOM,cell+ledger+subject+considered,,0,467
+2,1,0,news,SOM,raw,2025-06-01-somalia-generation-transmission-plan,whole,raw/2025/2025-06-01-somalia-generation-transmission-plan.md,https://moewr.gov.so/wp-content/uploads/2025/07/Somalia-Generation-and-Transmission-Plan-2025-MoEWR.pdf,Optimized Cost Electricity Generation and Transmission Development Plan for Somalia,2025-06-01,SOM,cell+ledger+subject+considered,,0,621

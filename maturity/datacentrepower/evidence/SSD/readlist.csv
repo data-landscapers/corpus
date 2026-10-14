@@ -1,0 +1,6 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,SSD,status,infra.store,,outputs/reports/SSD/SSD-status.md,,Data Storage,,,status,,0,242
+,,,,SSD,status,infra.energy,,outputs/reports/SSD/SSD-status.md,,Energy,,,status,,0,332
+1,1,0,news,SSD,raw,2026-08-18-juba-karuma-hydropower-late-2026,whole,raw/2026/2026-08-18-juba-karuma-hydropower-late-2026.md,https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/,"Juba set to receive Karuma hydropower by late 2026, says Energy Minister",2026-08-18,SSD,cell+status+ledger+subject,,0,339
+2,1,0,news,SSD,raw,2026-02-12-nesitu-solar-power-launch-four-months,whole,raw/2026/2026-02-12-nesitu-solar-power-launch-four-months.md,https://www.eyeradio.org/govt-announces-launch-of-nesitu-solar-power-in-four-month/,Gov't announces launch of Nesitu Solar Power in four-month,2026-02-12,SSD,cell+ledger+subject,,0,504
+3,1,0,news,SSD,raw,2021-12-01-south-sudan-electricity-sector-diagnostic,whole,raw/2021/2021-12-01-south-sudan-electricity-sector-diagnostic.md,https://rise.esmap.org/sites/default/files/library/south-sudan/Electricity%20Access/South%20Sudan_Electricity%20Sector%20Diagnostic_2021.pdf,South Sudan Electricity Sector Diagnostic,2021-12-01,SSD,cell+ledger+subject,,0,1429

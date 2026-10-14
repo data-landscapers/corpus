@@ -1,0 +1,6 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,SWZ,status,infra.store,,outputs/reports/SWZ/SWZ-status.md,,Data Storage,,,status,,0,478
+,,,,SWZ,status,infra.energy,,outputs/reports/SWZ/SWZ-status.md,,Energy,,,status,,0,222
+1,1,carried,news,SWZ,raw,2026-02-06-eswatini-explores-green-energy-for-national-data-centre,whole,raw/2026/2026-02-06-eswatini-explores-green-energy-for-national-data-centre.md,https://independentnews.co.sz/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/,Eswatini explores green energy for national data centre,2026-02-06,SWZ,cell+status+ledger+subject+considered,,0,450
+2,1,carried,news,SWZ,raw,2021-01-01 The National Data Centre - Royal Science and Technology Park,whole,raw/2021/2021-01-01 The National Data Centre - Royal Science and Technology Park.md,https://rstp.org.sz/national-data-centre,The National Data Centre (Royal Science and Technology Park),2021-01-01,SWZ,status+ledger+subject+considered,redundant power feeds,1,319
+3,2,0,news,SWZ,raw,2025-01-01-eswatini-electricity-tariff-structure,whole,raw/2025/2025-01-01-eswatini-electricity-tariff-structure.md,https://www.esera.org.sz/tariffs/structure/,Tariff Structure,2025,SWZ,cell+status+ledger+subject+considered,,0,344

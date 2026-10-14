@@ -1,0 +1,5 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,ERI,status,infra.store,,outputs/reports/ERI/ERI-status.md,,Data Storage,,,status,,0,190
+,,,,ERI,status,infra.energy,,outputs/reports/ERI/ERI-status.md,,Energy,,,status,,0,275
+1,1,carried,news,ERI,raw,2026-08-31-eritel-private-cloud-services,whole,raw/2026/2026-08-31-eritel-private-cloud-services.md,https://eritel.com.er/contents.php?id=1046,Private Cloud Services,2026-08-31,ERI,cell+status+ledger+subject,,0,461
+2,1,carried,news,ERI,raw,2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability,whole,raw/2026/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,https://www.afdb.org/sites/default/files/documents/projects-and-operations/eritrea_-_energy_integrated_project_teseney_kerekebet_and_barentu_0.pdf,"Project Appraisal Report - Eritrea Energy Integrated Project - Teseney, Kerekebet and Barentu",2026-02-01,ERI,cell+status+ledger+subject,,0,1020
