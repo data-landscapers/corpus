@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,national,centre,coverage,two,2025-07-16,MUS-004,MUS-014=tier3;MUS-010=tier3;MUS-015=service;MUS-016=tier3;MUS-001=tier3;MUS-002=service;MUS-003=tier3;MUS-005=service;MUS-006=service;MUS-012=tier3;MUS-007=service;MUS-008=tier3;MUS-011=service;MUS-009=tier3;MUS-013=service,
 MUS,national,owner,coverage,,,,,nothing held
-MUS,national,state,coverage,,,,,nothing held
+MUS,national,state,coverage,hosted,2025-12-29,MUS-017,,

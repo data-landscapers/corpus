@@ -1,0 +1,13 @@
+# Zambia
+
+## Nationally owned data centres for hire
+
+**In service, Tier III, and two of them.** [The Zambian government's ministerial statement describes the active Zambia National Data Centre (ZNDC), which hosts private clients for a fee, as a Tier 3 facility (stated by the government; no certifier named)](<https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20statement%20on%20PROGRESS%20ON%20THE%20SMART%20ZAMBIA%20VISION.pdf>). These place a nationally owned data centre for hire at Tier III or above in service. A second at Tier III is not stated.
+
+**Owned in the country.** [The ministerial statement says the Government established and commissioned the Tier 3 Zambia National Data Centre (ZNDC), commercialised it and opened it to the private sector at a fee, with banks and mobile providers already using it](<https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20statement%20on%20PROGRESS%20ON%20THE%20SMART%20ZAMBIA%20VISION.pdf>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
+
+**The state's data hosted nationally.** [The statement says all Government ICT hosting infrastructure has been consolidated and housed in the ZNDC, and that 52 new standardised government websites for constitutional offices, ministries and provincial administrations were deployed to it](<https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20statement%20on%20PROGRESS%20ON%20THE%20SMART%20ZAMBIA%20VISION.pdf>).
+
+***Noted, not assessed***. [Paratus Zambia Vanguard Data Centre](<https://www.techtrends.co.zm/paratus-partners-with-zadara-to-deliver-next-generation-cloud-services/>); [Netone and Paratus data centres](<https://www.parliament.gov.zm/sites/default/files/documents/committee_reports/REPORT%20ON%20THE%20COMMMITTEE%20ON%20MEDIA%2C%20INFORMATION%20AND%20COMMUNICATION%20TECHNOLOGIES.pdf>); [Paratus facility](<https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Zambia-2026.pdf>); [Paratus Zambia Lusaka data centre](<https://africanreview.com/ict/mobile-computing/paratus-opens-new-data-centre-in-zambia>); [Liquid Intelligent Technologies data centre, Zambia](<https://disclosures.ifc.org/project-detail/SII/45192/liquid-telecom-equity>); [Paratus data centre (Zambia)](<https://data-landscapers.com/2026/06/11/sovereign-infrastructure/>).
+
+***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.

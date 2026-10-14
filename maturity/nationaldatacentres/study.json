@@ -25,7 +25,7 @@
    }
   }
  },
- "token_ceiling": 15000000,
+ "token_ceiling": 45000000,
  "terms": [
   "data centre",
   "data center",
@@ -77,7 +77,15 @@
    "text": "Local data centre capacity (national providers): nationally owned data centres for hire",
    "indicator_id": "infra.store--local-data-centre-capacity-national-providers-nationally-owned-data-centres-for-hire",
    "class": "datacentre",
-   "norm_short": "The African Union's Data Policy Framework asks that national providers hold data centre capacity and that the state's sensitive data be hosted under national jurisdiction."
+   "norm_short": "The African Union's Data Policy Framework asks that national providers hold data centre capacity and that the state's sensitive data be hosted under national jurisdiction.",
+   "criteria": [
+    "A source from the past three years says no data centre for hire in the country is nationally owned.",
+    "A data centre owned by the state, a state enterprise or a company owned in the country rents space, power or computing to others.",
+    "One such nationally owned data centre is Tier III or above.",
+    "Two or more nationally owned data centres for hire are Tier III or above.",
+    "Two at Tier III or above, and the government's own systems or data are hosted in a nationally owned data centre in the country."
+   ],
+   "criteria_of": "b0cd7cada669"
   }
  ],
  "classes": [

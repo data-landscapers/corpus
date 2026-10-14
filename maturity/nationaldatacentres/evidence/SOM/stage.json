@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "national",
+   "stage": "no evidence",
+   "centre": "",
+   "owner": "",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a data centre for hire, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
+  }
+ ]
+}

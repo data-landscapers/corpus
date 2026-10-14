@@ -1,0 +1,17 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "national",
+   "stage": "2",
+   "centre": "service",
+   "owner": "national",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-001",
+   "gaps": "No source held says a nationally owned data centre for hire is Tier III or above.",
+   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
+  }
+ ]
+}

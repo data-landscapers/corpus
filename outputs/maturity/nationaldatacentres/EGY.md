@@ -1,0 +1,13 @@
+# Egypt
+
+## Nationally owned data centres for hire
+
+**In service, Tier III, and two of them.** [Fintech Gate reports Telecom Egypt's RDH1, in service since 2021, holds several Tier III certificates (issuer and date not given](<https://www.fintechgate.net/250173>). [Telecom Egypt's brochure states the RDH data center at Smart Village holds Tier III certification of design, facility and operation from the Uptime Institute (certification date not given](<https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf>). [Telecom Egypt said on 17 July 2026 that it continues to provide data center services from its Regional Data Center Hub (RDH) while expanding operations in Egypt](<https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale>). [It gives none)](<https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf>). Together these place two nationally owned data centres for hire at Tier III or above in service, which answers the first three of the study's four questions.
+
+**Owned in the country.** Nationally owned: [Telecom Egypt Regional Data Hub (RDH1)](<https://www.fintechgate.net/250173>); [Telecom Egypt Regional Data Center Hub (RDH)](<https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale>); [Telecom Egypt Regional Data Hub (RDH), Smart Village](<https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
+
+**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://www.fintechgate.net/250173>).
+
+***Noted, not assessed***. [Huawei Cloud Cairo Region](<https://www.huaweicloud.com/intl/en-us/news/20240523155312706.html>); [Orange Egypt New Administrative Capital data centre](<https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt/>); [Orange Egypt Alexandria data centre](<https://www.datacenterdynamics.com/en/news/orange-and-huawei-launch-huawei-cloud-services-in-egypt/>); [GPX Cairo 1](<https://www.datacenterdynamics.com/en/news/gxp-global-systems-plans-4x-expansion-of-data-center-in-cairo-egypt/>); [GPX Cairo 2](<https://www.datacenterdynamics.com/en/news/gxp-global-systems-plans-4x-expansion-of-data-center-in-cairo-egypt/>); [Orange Alexandria data center](<https://www.orange.eg/en/about/media-center/press-kit/orange-business-cloud-computing-data-center-181-event>).
+
+***Not held***. No source held says the government hosts its own data in a nationally owned data centre in the country.

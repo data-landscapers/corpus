@@ -52,14 +52,29 @@ NOISE = re.compile(r"\b(data|centres?|centers?|datacenters?|datacentres?|dc|the|
 
 # The parent's reading (method §7.2): names of one facility, folded, so question 3 counts it once.
 SAME = {
-    "camtel": ("camtel",),
+    "camtel": ("camtel", "zamengoe"),
+    "mauritiustelecom": ("mauritiustelecom", "rosebelle"),
+    "kalaakebira": ("orangetunisiekalaa", "kalaakebira"),
+    "digitalparksafrica": ("digitalparksafrica",),
+    "21stcentury": ("21stcentury",),
     "galaxy": ("galaxy",),
-    "telone": ("telonemazowe", "mazowe"),
+    # TelOne's pages call a Tier 3 facility "its data centre" without naming it: counted once.
+    "telone": ("telone", "mazowe"),
     "diamniadio": ("diamniadio", "adie"),
     "lome": ("lome", "socinfrastructuresnum"),
     "nouakchott": ("nouakchott",),
     "bofinet": ("digitaldelta", "bofinet"),
     "konza": ("konza",),
+}
+
+
+# The parent's reading of who owns a facility a `state` row names and `systems.csv` gives no
+# owner for: each is run by the state or a state agency.
+STATE_RUN = {
+    "BFA": ("G-Cloud", "modular"), "CPV": ("NOSi",), "DZA": ("National Digital Services Centre",),
+    "GHA": ("National Data Centre", "NITA"), "KEN": ("KONZA",), "MLI": ("National Data Centre", "AGETIC"),
+    "MWI": ("National Data Centre",), "UGA": ("National Data Centre", "existing data center"),
+    "ZAF": ("SITA",), "ZWE": ("ZCHPC", "High Performance Computing"),
 }
 
 
@@ -105,10 +120,58 @@ def owners_of(iso: str, systems: list[dict], table: dict) -> dict[str, str]:
     out = {}
     for name, vs in votes.items():
         out[name] = "yes" if vs.count("yes") > vs.count("no") else "no"
+    for s in systems:
+        if s["system"] not in out and any(k.lower() in s["system"].lower() for k in STATE_RUN.get(iso, ())):
+            out[s["system"]] = "yes"
     return out
 
 
-def stage(rows: list[dict], as_at: dt.date, owned: dict[str, str]) -> dict:
+def by_name(iso: str, system: str, table: dict) -> str:
+    """A facility `systems.csv` gives no owner for, read from an owner's name inside its own:
+    `N+One second data center` is N+One's. The longest owner name found wins."""
+    name = study_lib.fold(system or "").lower()
+    best = ("", "")
+    for (i, owner), v in table.items():
+        key = study_lib.fold(re.sub(r"\(.*?\)", "", owner)).lower().strip()
+        if i == iso and v and len(key) >= 4 and re.search(r"\b" + re.escape(key) + r"\b", name) \
+                and len(key) > len(best[0]):
+            best = (key, v)
+    return best[1]
+
+
+CARRIED = re.compile(r"^Data centres dataset: (.+?) \((.+)\), ")
+DATASET = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "outputs", "datasets", "data-centres", "data-centres.csv")
+NATIONAL_TYPES = {"Government / SOE", "Private domestic", "Joint venture (majority domestic)", "PPP"}
+
+
+def load_dataset() -> dict:
+    """`{(iso, facility): yes|no}` from the data centres dataset's `ownership_type`."""
+    out = {}
+    for d in study_lib.read_csv(DATASET):
+        t = d.get("ownership_type", "")
+        if t and t != "Unknown":
+            out[(d["country"], d["facility_name"])] = "yes" if t in NATIONAL_TYPES else "no"
+    return out
+
+
+def fallback(iso: str, rows: list[dict], owned: dict, table: dict, dataset: dict) -> dict:
+    """Owners for facilities `systems.csv` does not give one: an owner's name inside the
+    facility's own (`by_name`), and for a fact `study-datacentres-carry.py` carried, the owner it
+    names in brackets, read against the parent's table and then the dataset's `ownership_type`."""
+    out = {}
+    for r in rows:
+        if r["system"] in owned or r["system"] in out:
+            continue
+        m = CARRIED.match(r["fact"])
+        v = by_name(iso, r["system"], table)
+        if not v and m:
+            v = by_name(iso, m.group(2), table) or dataset.get((iso, m.group(1)), "")
+        if v:
+            out[r["system"]] = v
+    return out
+
+
+def stage(rows: list[dict], as_at: dt.date, owned: dict[str, str], iso: str = "") -> dict:
     day = lambda a: as_at if a == str(as_at.year) else last_day(a)  # noqa: E731
     live = [(day(r["as_of"]), r) for r in rows if day(r["as_of"]) <= as_at]
     live.sort(key=lambda p: p[0], reverse=True)
@@ -134,7 +197,9 @@ def stage(rows: list[dict], as_at: dt.date, owned: dict[str, str]) -> dict:
     seen: dict[str, str] = {}
     for _, r in tier:
         seen.setdefault(facility_key(r["system"]), r["row_id"])
-    hosted = [(d, r) for d, r in live if r["aspect"] == "state" and r["value"] == "hosted" and national(r)]
+    run = lambda r: any(k.lower() in r["system"].lower() for k in STATE_RUN.get(iso, ()))  # noqa: E731
+    hosted = [(d, r) for d, r in live if r["aspect"] == "state" and r["value"] == "hosted"
+              and (national(r) or run(r))]
     gone = [(d, r) for d, r in live if r["aspect"] == "state" and r["value"] == "none"]
     if hosted and gone and gone[0][0] > hosted[0][0]:
         hosted = []
@@ -165,6 +230,7 @@ def main(argv=None) -> int:
     fixes = study_lib.read_csv(os.path.join(here, "corrections.csv"))
     table = {(r["iso3"], r["owner"]): r["national"]
              for r in study_lib.read_csv(os.path.join(here, "owners.csv"))}
+    dataset = load_dataset()
     test, count = [], {}
     for iso in sorted(study_lib.countries()):
         path = os.path.join(base, iso, "evidence.csv")
@@ -172,7 +238,8 @@ def main(argv=None) -> int:
         if changed and not a.dry and not a.show:
             study_lib.write_csv(path, study_lib.EVIDENCE_FIELDS, rows)
         owned = owners_of(iso, study_lib.read_csv(os.path.join(base, iso, "systems.csv")), table)
-        cell = stage(rows, as_at, owned)
+        owned.update(fallback(iso, rows, owned, table, dataset))
+        cell = stage(rows, as_at, owned, iso)
         if a.show and a.show == iso:
             for r in rows:
                 if r["aspect"] in ("centre", "state", "owner"):

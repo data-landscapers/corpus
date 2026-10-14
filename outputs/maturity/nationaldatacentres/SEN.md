@@ -1,0 +1,13 @@
+# Senegal
+
+## Nationally owned data centres for hire
+
+**In service, Tier III, and two of them.** [ADIE states that the Diamniadio national Datacenter, inaugurated 22 June 2021 and in service, is the state's first Tier 3 data centre (operator's own statement, no certifier named)](<https://www.adie.sn/actualites/le-datacenter-de-diamniadio-lieu-d%E2%80%99impulsion-de-la-transformation-digitale-du-s%C3%A9n%C3%A9gal>). [Sonatel reports its Rufisque (Senegal) Datacenter holds Uptime Institute Tier III Design certification and obtained Tier Certification of Constructed Facility (TCCF) in December 2019, renewed in 2020 until 4 December 2021; the passage does not say whether it sells space to outside customers](<https://sonatel.sn/wp-content/uploads/2022/09/Sonatel-Groups-2020-annual-report.pdf>). Together these place two nationally owned data centres for hire at Tier III or above in service, which answers the first three of the study's four questions.
+
+**Owned in the country.** [CIO Mag reports the Diamniadio national data centre, tier 3, was built by ADIE (the state IT agency) and inaugurated 22 June 2021 by President Macky Sall; it is to host administration and private-sector data](<https://cio-mag.com/datacenter-national-le-senegal-affirme-sa-souverainete-numerique/>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
+
+**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://www.adie.sn/actualites/le-datacenter-de-diamniadio-lieu-d%E2%80%99impulsion-de-la-transformation-digitale-du-s%C3%A9n%C3%A9gal>).
+
+***Noted, not assessed***. [STELLARIX Senegal data centre](<https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/>); [STELLARIX Senegal data centre, Diamniadio](<https://aps.sn/transformation-digitale-une-plateforme-specialisee-devoile-son-datacenter-dedie-aux-etablissements-financiers/>); [N+ONE campus in Senegal](<https://aiimafrica.com/media/media-centre/aiim-invests-usd90-million-in-new-joint-venture-with-nplusone-datacenters/>); [Onix Data Centre Dakar (Almadies 2Africa CLS)](<https://onixdatacentres.com/2023/05/11/tier-3-facility-in-dakar-2023-completion/>); [Onix Data Centre Dakar (2Africa CLS)](<https://www.datacenterdynamics.com/en/news/onix-data-centers-expands-into-dakar-senegal/>); [Onix Dakar data centre](<https://data-landscapers.com/2026/06/11/sovereign-infrastructure/>).
+
+***Not held***. No source held says the government hosts its own data in a nationally owned data centre in the country.

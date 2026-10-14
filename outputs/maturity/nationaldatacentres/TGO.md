@@ -1,0 +1,13 @@
+# Togo
+
+## Nationally owned data centres for hire
+
+**In service, Tier III, and two of them.** [Connecting Africa describes the SIN-operated Lomé Data Centre as a Tier III-certified facility, without naming the certifying body](<https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center>). [Connecting Africa reports that the state-owned SIN operates the Lomé Data Centre, where SIN and ST Digital are launching private cloud services, with SIN's director saying firms can rent half or full racks for data hosting](<https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center>). [SIN and ST Digital state that the SIN-operated Lomé Data Centre is Tier 3 certified with a 99.982% SLA; operator statement, certifying body not named](<https://st.digital/en/blog/st-digital-s-blog-1/communique-de-presse-539>). These place a nationally owned data centre for hire at Tier III or above in service. A second at Tier III is not stated.
+
+**Owned in the country.** Nationally owned: [Lomé Data Centre](<https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center>) (Société d'Infrastructures Numériques (SIN), state-owned); [Lomé data centre (SIN)](<https://archive.presidence.gouv.tg/2022/12/24/conseil-des-ministres-du-21-decembre-2022/>) (Société d'infrastructures numériques (SIN), state; transfer to a private operator authorised 2022-12-21). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
+
+**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center>).
+
+***Noted, not assessed***. [ST DIGITAL colocation data centre, Lomé](<https://st.digital/en/blog/stds-blog-presse-3/technologytogo-st-digital-togo-strengthens-digital-sovereignty-with-the-launch-of-its-colocation-offering-505>); [ST DIGITAL data centres (Togo)](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>); [cloudstore.africa](<https://st.digital/blog/dans-la-presse-3/togo-top-news-st-digital-lance-son-offre-de-service-cloud-100-africain-au-togo-440>); [Centre d'Information Policière du Togo (CIPT)](<https://securite.gouv.tg/le-togo-se-dote-dun-centre-dinformation-policiere/>).
+
+***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.

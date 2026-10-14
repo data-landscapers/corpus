@@ -1,0 +1,17 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "national",
+   "stage": "5",
+   "centre": "two",
+   "owner": "national",
+   "state": "hosted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-065;KEN-041;KEN-067",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
+  }
+ ]
+}

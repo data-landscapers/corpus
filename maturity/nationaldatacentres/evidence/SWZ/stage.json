@@ -1,0 +1,17 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "national",
+   "stage": "3",
+   "centre": "tier3",
+   "owner": "national",
+   "state": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-005",
+   "gaps": "No source held names a second nationally owned data centre for hire at Tier III or above.",
+   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
+  }
+ ]
+}
