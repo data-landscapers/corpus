@@ -1,0 +1,113 @@
+{
+ "id": "offsitebackup",
+ "study_file": "maturity-study-offsitebackup.md",
+ "subjects": [
+  "infra.store"
+ ],
+ "stage_topic": "infra.store",
+ "redraws": [
+  "infra.store--off-site-backup-capacity"
+ ],
+ "carry": [
+  "infra.store--off-site-backup-capacity"
+ ],
+ "carry_studies": [
+  "datacentres",
+  "nationaldatacentres"
+ ],
+ "carry_map": {},
+ "token_ceiling": 15000000,
+ "terms": [
+  "disaster recovery",
+  "disaster-recovery",
+  "DR site",
+  "DRC site",
+  "backup site",
+  "back-up site",
+  "backup data centre",
+  "backup data center",
+  "backup datacentre",
+  "backup datacenter",
+  "backup centre",
+  "backup center",
+  "secondary data centre",
+  "secondary data center",
+  "secondary site",
+  "alternative site",
+  "mirror site",
+  "off-site backup",
+  "offsite backup",
+  "data backup",
+  "geo-redundant",
+  "geo-redundancy",
+  "failover",
+  "business continuity",
+  "ISO 22301",
+  "site de secours",
+  "centre de secours",
+  "datacenter de secours",
+  "data center de secours",
+  "site de repli",
+  "site alternatif",
+  "reprise d'activité",
+  "reprise après sinistre",
+  "continuité d'activité",
+  "continuité des activités",
+  "sauvegarde des données",
+  "centro de backup",
+  "site de backup",
+  "centro de dados secundário",
+  "recuperação de desastres",
+  "recuperação de desastre",
+  "continuidade de negócio",
+  "continuidade do negócio",
+  "recuperación ante desastres",
+  "sitio alterno",
+  "التعافي من الكوارث",
+  "استمرارية الأعمال",
+  "مركز احتياطي",
+  "موقع احتياطي",
+  "النسخ الاحتياطي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "backup",
+   "label": "Off-site backup for government systems",
+   "subject": "infra.store",
+   "text": "Off-site backup capacity: a separate site that keeps the government's systems and data recoverable",
+   "indicator_id": "infra.store--off-site-backup-capacity-off-site-backup-for-government-systems",
+   "class": "backupsite"
+  }
+ ],
+ "classes": [
+  "backupsite",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "site",
+   "name": "A backup site in service, and for the shared government systems",
+   "role": "coverage",
+   "defer": ["none"],
+   "prefer": ["shared", "service"],
+   "values": ["shared", "service", "none"]
+  },
+  {
+   "key": "plan",
+   "name": "A recovery plan or test on record",
+   "role": "coverage",
+   "defer": [],
+   "prefer": ["tested", "plan"],
+   "values": ["tested", "plan"]
+  },
+  {
+   "key": "tier",
+   "name": "Primary and backup both Tier III",
+   "role": "coverage",
+   "defer": [],
+   "prefer": ["both"],
+   "values": ["both"]
+  }
+ ],
+ "flags": []
+}
