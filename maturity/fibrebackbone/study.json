@@ -1,0 +1,120 @@
+{
+ "id": "fibrebackbone",
+ "study_file": "maturity-study-fibrebackbone.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--national-fibre-backbone"
+ ],
+ "carry": [
+  "infra.connect--national-fibre-backbone"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 30000000,
+ "terms": [
+  "fibre backbone",
+  "fiber backbone",
+  "fibre-optic backbone",
+  "fiber-optic backbone",
+  "fibre optic backbone",
+  "fiber optic backbone",
+  "optical fibre backbone",
+  "optical fiber backbone",
+  "national backbone",
+  "national fibre network",
+  "national fiber network",
+  "national fibre optic network",
+  "national fiber optic network",
+  "national optical fibre",
+  "national broadband backbone",
+  "backbone network",
+  "backbone infrastructure",
+  "terrestrial fibre",
+  "terrestrial fiber",
+  "long-haul fibre",
+  "long-haul fiber",
+  "NOFBI",
+  "NICTBB",
+  "National Backbone Infrastructure",
+  "National Data Transmission Backbone",
+  "Project BRIDGE",
+  "dorsale nationale",
+  "dorsale à fibre optique",
+  "dorsale en fibre optique",
+  "dorsale de fibre optique",
+  "dorsale fibre optique",
+  "dorsale optique",
+  "dorsale numérique",
+  "dorsale de télécommunications",
+  "backbone national",
+  "backbone en fibre optique",
+  "backbone fibre optique",
+  "réseau national de fibre optique",
+  "réseau national à fibre optique",
+  "réseau national en fibre optique",
+  "boucle nationale",
+  "backbone nacional",
+  "espinha dorsal",
+  "rede nacional de fibra",
+  "rede de fibra óptica terrestre",
+  "rede terrestre de fibra",
+  "fibra óptica terrestre",
+  "الشبكة الوطنية للألياف",
+  "العمود الفقري للألياف",
+  "الشبكة الفقرية",
+  "شبكة الألياف الضوئية الوطنية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "backbone",
+   "label": "Long-distance fibre across the country",
+   "subject": "infra.connect",
+   "text": "National fibre backbone: long-distance fibre across the country",
+   "indicator_id": "infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country",
+   "class": "backbone"
+  }
+ ],
+ "classes": [
+  "backbone",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "reach",
+   "name": "How far a national fibre backbone has got: being built, in service between regions, reaching every region",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "every-region",
+    "in-service",
+    "building"
+   ],
+   "values": [
+    "every-region",
+    "in-service",
+    "building",
+    "none"
+   ]
+  },
+  {
+   "key": "access",
+   "name": "Capacity on the backbone sold to other operators",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "open"
+   ],
+   "values": [
+    "open",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
