@@ -1,0 +1,17 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "power",
+   "stage": "5",
+   "supply": "reserved",
+   "pue": "low",
+   "water": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-004;ZAF-001;ZAF-003",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datacentrepower.py."
+  }
+ ]
+}

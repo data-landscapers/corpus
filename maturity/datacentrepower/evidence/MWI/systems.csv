@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,National Data Centre,Malawi,datacentre,,Government of Malawi (Department of e-Government),,2026-06-11-pppc-expansion-of-national-data-centre-rfb
+MWI,National Data Centre (Lilongwe),Malawi,datacentre,Nutanix NX-3460-G7 HCI,Government of Malawi (Department of e-Government),Tier-III,2025-02-12-malawi-dmap-tor-national-data-centre-managed-services
+MWI,"Data Centre, Mandala, Blantyre (disaster recovery site)",Malawi,datacentre,,Government of Malawi,Tier-III,2025-02-12-malawi-dmap-tor-national-data-centre-managed-services

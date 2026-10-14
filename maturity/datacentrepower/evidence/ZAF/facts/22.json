@@ -1,0 +1,17 @@
+{
+  "slug": "2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Daily Maverick reports that Teraco's sustainability report gives a water usage effectiveness of 0.10 L/kWh for 2023 and total water use of more than 34,000 kl in the 2025 reporting period, 88% from municipal supply, and that Teraco says it uses closed-loop cooling.",
+     "as_of": "2025", "date_precision": "year", "system": "Teraco data centres", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "supply", "value": "reserved",
+     "fact": "Daily Maverick reports that African Data Centres signed a 12MW power purchase agreement for wind energy, wheeled to three of its South African data centres; the article gives no signing date, so the article's publication date of 2026-02-09 is used.",
+     "as_of": "2026-02-09", "date_precision": "day", "system": "Africa Data Centres 12MW wind power purchase agreement", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco data centres", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""},
+    {"system": "Africa Data Centres (Johannesburg, Cape Town)", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": ""},
+    {"system": "Cosmas Data City (Cape Town 360 MW, Kosmosdal/Samrand 200 MW)", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Cavaleros Group", "tiers": ""}
+  ],
+  "note": "Cavaleros planned campuses and Teraco's 120MW solar project under construction are not in service, so no fact; no PUE figure stated."
+}

@@ -1,0 +1,10 @@
+{
+ "slug": "2026-07-08-gabon-sovereign-datacenter-technical-spec",
+ "facts": [
+  {"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Officials said a photovoltaic power plant provides nearly 22% of the energy of Gabon's sovereign data centre, inaugurated by the president, which also runs on a 15kV main line with N+1 backup units.", "as_of": "2026-07-08", "date_precision": "day", "system": "Gabon sovereign data centre (ST DIGITAL)", "class": "datacentre"}
+ ],
+ "systems": [
+  {"system": "Gabon sovereign data centre (ST DIGITAL)", "country_label": "", "class": "datacentre", "platform": "", "owner": "ST DIGITAL Gabon", "tiers": "Tier III"}
+ ],
+ "note": "Read by the parent: the frame's cell cites it and question 1 turns on it."
+}

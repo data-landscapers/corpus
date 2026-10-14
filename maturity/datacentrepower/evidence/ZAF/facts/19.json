@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teraco JB7",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT1, Cape Town",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT2, Cape Town",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "Teraco's 120 MW solar plant was begun November 2024 and is intended for 2026: under construction, not a fact; no PUE or water figure."
+}

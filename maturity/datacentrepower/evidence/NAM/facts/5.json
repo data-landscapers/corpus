@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-06-paratus-namibia-holdings-integrated-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Armada DC", "country_label": "Namibia", "class": "datacentre", "platform": "", "owner": "Paratus Namibia Holdings", "tiers": ""}
+  ],
+  "note": "Armada DC PUE is stated as 1.66 (146.23 kW total over 88.23 kW IT), above 1.6, so no pue fact; cooling is liquid and indirect free cooling with no statement that it uses no water or of water use."
+}

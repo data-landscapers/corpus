@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IXAfrica second hyperscale facility, Nairobi",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "IXAfrica Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "53 MW facility with on-chip cooling hosts Servernah Cloud; no PUE, water or secured-supply statement."
+}

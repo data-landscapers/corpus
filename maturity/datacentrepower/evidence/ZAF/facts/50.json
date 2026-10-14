@@ -1,0 +1,8 @@
+{
+  "slug": "2020-09-28-ntt-johannesburg-1-data-center-construction-commences",
+  "facts": [],
+  "systems": [
+    {"system": "Johannesburg 1 Data Center", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "NTT Ltd. / Dimension Data", "tiers": "tier 3 design"}
+  ],
+  "note": "Announces construction start of a data centre not yet in service (phase one due early 2022); 'fully redundant power supply' is a plan, and no PUE or water figure is given."
+}

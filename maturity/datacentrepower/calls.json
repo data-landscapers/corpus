@@ -1,0 +1,718 @@
+[
+ {
+  "kind": "regional",
+  "stories": [
+   {
+    "key": "3cbae15e01",
+    "slug": "2025-10-16-mitrelli-hydro-link-angola-drc-power-line",
+    "path": "raw/2025/2025-10-16-mitrelli-hydro-link-angola-drc-power-line.md",
+    "countries": {
+     "AGO": 3,
+     "COD": 8
+    }
+   }
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "BDI",
+  "ns": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "BEN",
+  "ns": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "BFA",
+  "ns": [
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "BWA",
+  "ns": [
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "CAF",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "CIV",
+  "ns": [
+   18
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "CMR",
+  "ns": [
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "COD",
+  "ns": [
+   9
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "COG",
+  "ns": [
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "COM",
+  "ns": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ETH",
+  "ns": [
+   5,
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GHA",
+  "ns": [
+   16
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GIN",
+  "ns": [
+   7
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GMB",
+  "ns": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GNB",
+  "ns": [
+   1,
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GNQ",
+  "ns": [
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   36
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "LBY",
+  "ns": [
+   1,
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MDG",
+  "ns": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MLI",
+  "ns": [
+   5,
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MOZ",
+  "ns": [
+   9
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MRT",
+  "ns": [
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MRT",
+  "ns": [
+   7
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MUS",
+  "ns": [
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MWI",
+  "ns": [
+   10,
+   11
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NAM",
+  "ns": [
+   6,
+   7,
+   8
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NER",
+  "ns": [
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SDN",
+  "ns": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SLE",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SOM",
+  "ns": [
+   1,
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SSD",
+  "ns": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "STP",
+  "ns": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SWZ",
+  "ns": [
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SYC",
+  "ns": [
+   1,
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "TCD",
+  "ns": [
+   5,
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "TGO",
+  "ns": [
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "TZA",
+  "ns": [
+   7,
+   8
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "UGA",
+  "ns": [
+   8
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   55,
+   56
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZMB",
+  "ns": [
+   5,
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZWE",
+  "ns": [
+   7
+  ]
+ },
+ {
+  "kind": "regional",
+  "stories": [
+   {
+    "key": "fcc91ffb44",
+    "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+    "path": "raw/2026/2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built.md",
+    "countries": {
+     "CIV": 17,
+     "EGY": 14,
+     "ETH": 4,
+     "GHA": 10,
+     "KEN": 17,
+     "NGA": 16,
+     "SEN": 7,
+     "TZA": 6,
+     "UGA": 7,
+     "ZAF": 19
+    }
+   }
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "AGO",
+  "ns": [
+   1,
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "BWA",
+  "ns": [
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "CIV",
+  "ns": [
+   12,
+   15
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "CMR",
+  "ns": [
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "COD",
+  "ns": [
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "COG",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "DJI",
+  "ns": [
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "EGY",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ETH",
+  "ns": [
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GHA",
+  "ns": [
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GHA",
+  "ns": [
+   13
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   10
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   19
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   26,
+   29
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "KEN",
+  "ns": [
+   33,
+   35
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "LBR",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MAR",
+  "ns": [
+   9
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MDG",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MOZ",
+  "ns": [
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MOZ",
+  "ns": [
+   7
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MUS",
+  "ns": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "MWI",
+  "ns": [
+   6,
+   9
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NAM",
+  "ns": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   9,
+   10
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   11
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   26
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   31,
+   33
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NGA",
+  "ns": [
+   36
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "RWA",
+  "ns": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "RWA",
+  "ns": [
+   6
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SEN",
+  "ns": [
+   3,
+   4
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "TGO",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "TZA",
+  "ns": [
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "UGA",
+  "ns": [
+   2
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   8
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   12
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   22,
+   24
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   28,
+   29
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   37,
+   38
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   42,
+   44
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   50
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZAF",
+  "ns": [
+   51
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZMB",
+  "ns": [
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZWE",
+  "ns": [
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "ZWE",
+  "ns": [
+   6
+  ]
+ }
+]

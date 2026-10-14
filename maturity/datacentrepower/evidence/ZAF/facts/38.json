@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Africa Data Centres' own release states CPT1 has a Water Usage Effectiveness of 0 because the IT infrastructure consumes no water; the date is the release's publication date, as it gives none for the statement.",
+     "as_of": "2024-07-25", "date_precision": "day", "system": "Africa Data Centres CPT1", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "supply", "value": "reserved",
+     "fact": "The release states CPT1 uses wheeled solar power under a 20-year power purchase agreement signed in March 2023 with Distributed Power Africa, part of the Cassava Technologies group.",
+     "as_of": "2023-03", "date_precision": "month", "system": "Africa Data Centres CPT1", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Africa Data Centres CPT1", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Africa Data Centres (Cassava Technologies)", "tiers": ""}
+  ],
+  "note": "No PUE figure is given, only an 'impressive' rating, so no pue fact."
+}

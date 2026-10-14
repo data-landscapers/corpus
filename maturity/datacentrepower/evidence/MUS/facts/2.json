@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-xalam-mauritius-data-center-market-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius Telecom data centre facilities", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Mauritius Telecom", "tiers": ""},
+    {"system": "Emtel data centre facilities", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Emtel", "tiers": ""}
+  ],
+  "note": "No fact: only national electricity figures (about 900 MW capacity, about 25% renewables) and market-wide IT load; no PUE, water use or data-centre supply arrangement stated."
+}

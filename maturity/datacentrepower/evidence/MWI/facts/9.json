@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-12-malawi-dmap-tor-national-data-centre-managed-services",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre (Lilongwe)", "country_label": "Malawi", "class": "datacentre", "platform": "Nutanix NX-3460-G7 HCI", "owner": "Government of Malawi (Department of e-Government)", "tiers": "Tier-III"},
+    {"system": "Data Centre, Mandala, Blantyre (disaster recovery site)", "country_label": "Malawi", "class": "datacentre", "platform": "", "owner": "Government of Malawi", "tiers": "Tier-III"}
+  ],
+  "note": "No fact: the ToR only sets a future PUE KPI of under 1.5 and requires PUE reporting from the managed-service provider (a target, no stated PUE of the facility); power is mains, generators and UPS with no secured supply beyond them; no water use or waterless cooling stated."
+}

@@ -1,0 +1,4 @@
+{"slug":"2025-08-12-teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating",
+"facts":[{"sub_indicator":"power","aspect":"water","value":"published","fact":"Teraco states that its completed JB4 data centre at Bredell, Ekurhuleni uses a closed-loop chilled water system with free air cooling and uses zero water during ongoing cooling.","as_of":"2025-08-12","date_precision":"day","system":"Teraco JB4","class":"datacentre"}],
+"systems":[{"system":"Teraco JB4","country_label":"ZAF","class":"datacentre","platform":"","owner":"Teraco","tiers":""},{"system":"Teraco JB5","country_label":"ZAF","class":"datacentre","platform":"","owner":"Teraco","tiers":""}],
+"note":"No PUE figure is stated (only 'industry-leading'); 80MW utility supply is not described as dual feed or dedicated beyond standby."}

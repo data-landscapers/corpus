@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-xalam-uganda-data-center-market-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Raxio", "country_label": "Uganda", "class": "datacentre", "platform": "", "owner": "Raxio", "tiers": ""},
+    {"system": "Synectics AI cluster next to a hydropower site", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Synectics", "tiers": ""}
+  ],
+  "note": "The brief gives market capacity figures and uses PUE only in its glossary; it states no power supply, reserved power, PUE or water fact for any facility."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-09-techcabal-insights-nigeria-data-centres-ai-future",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Data Centres LOS1", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": "Tier III"},
+    {"system": "Rack Centre LGS2", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Rack Centre", "tiers": ""},
+    {"system": "Rack Centre LGS1", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Rack Centre", "tiers": ""},
+    {"system": "MTN Sifiso Dabengwa", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "MTN Nigeria", "tiers": ""},
+    {"system": "Equinix LG1", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Equinix", "tiers": ""},
+    {"system": "Galaxy Backbone Shared Services Centre", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Galaxy Backbone", "tiers": ""}
+  ],
+  "note": "Diesel reliance and grid limits are stated for Nigerian data centres in general, naming no facility; no PUE, water use or secured or reserved supply is stated."
+}

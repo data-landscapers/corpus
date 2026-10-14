@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rack Centre LGS2, Ikeja",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Dabengwa Sifiso Data Centre, Ikeja",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Nxtra by Airtel, Victoria Island",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a general remark that diesel backup inflates costs and that PPAs are standard in new builds; no named data centre's supply, PUE or water use stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-techtrends-africa-green-data-centre-solar-server-farms",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Data Centres facilities in Johannesburg and Cape Town", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": ""}
+  ],
+  "note": "The 12 MW solar farm for Johannesburg and Cape Town is stated as under development, so it is not in service; no PUE, water or supply-in-service statement."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "The article reports that iXAfrica's NBOX1 campus on Mombasa Road, in service and hosting the TCS sovereign cloud, operates at a power usage effectiveness of 1.25, in a description attributed to the company.", "as_of": "2026-09-28", "date_precision": "day", "system": "iXAfrica NBOX1", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "iXAfrica NBOX1", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "iXAfrica Data Centres", "tiers": ""},
+    {"system": "TCS Sovereign Secure Cloud", "country_label": "Kenya", "class": "other", "platform": "TCS", "owner": "Tata Consultancy Services", "tiers": ""}
+  ],
+  "note": "No supply or water fact: power is drawn from the Kenyan grid with no dual feed or dedicated source stated, and free-air cooling is not stated to use no water."
+}

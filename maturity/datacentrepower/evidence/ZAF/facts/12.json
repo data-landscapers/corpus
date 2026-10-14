@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-10-teraco-ct2-50mw-cape-town",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Teraco, announcing completion of its CT2 Cape Town expansion to 50 MW critical IT load, states the facility uses a zero-water closed-loop cooling system and uses zero water in the cooling process; the date is the document's published date, as it gives none for the design.",
+     "as_of": "2025-11-10", "date_precision": "day", "system": "Teraco CT2 Cape Town", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco CT2 Cape Town", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco (a Digital Realty company)", "tiers": ""}
+  ],
+  "note": "No PUE figure is given (only 'industry-leading'); the 120MW solar PV plant is under development, not in service, so no supply fact."
+}

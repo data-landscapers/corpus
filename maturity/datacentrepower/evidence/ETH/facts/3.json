@@ -1,0 +1,13 @@
+{
+  "slug": "2021-05-22-samena-ethio-telecom-huawei-tier-iii-modular-data-center-gola-sefer",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "pue", "value": "low",
+     "fact": "Ethio telecom's press statement, on launching its Huawei-built Tier III modular data center at Gola Sefer, Addis Ababa, gives the modular data center a power usage effectiveness of 1.4.",
+     "as_of": "2021-05-21", "date_precision": "day",
+     "system": "Ethio Telecom Gola Sefer modular data center", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Ethio Telecom Gola Sefer modular data center", "country_label": "Ethiopia", "class": "datacentre", "platform": "Huawei modular Tier III, five PODs", "owner": "ethio telecom", "tiers": "Tier III"}
+  ],
+  "note": ""
+}

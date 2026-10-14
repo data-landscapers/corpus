@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-sa-data-centre-gold-rush-resource-crunch",
+  "facts": [],
+  "systems": [
+    {"system": "Teraco Data Environments Johannesburg data centre", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco Data Environments", "tiers": ""}
+  ],
+  "note": "Teraco is said to claim closed-loop cooling that recirculates water and a 30 MW example is compared to a restaurant's annual water use, but no facility water figure, WUE, PUE or secured-supply statement is given for a named data centre."
+}

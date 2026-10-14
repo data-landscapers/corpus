@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NGA-001,NGA,power,pue,low,"Rack Centre's spec sheet states that the cooling at its existing Lagos facility LGS1 delivers a design PUE of 1.5; the sheet gives no date of its own, so the published date 2024-05 is used.",2024-05,month,Rack Centre LGS1,datacentre,2024-05-01-rack-centre-spec-sheet,https://rack-centre.com/wp-content/uploads/2024/05/rack-centre-spec-sheet-and-QR-code.pdf

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-xalam-cote-divoire-data-center-market-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "MainOne", "country_label": "Côte d'Ivoire", "class": "datacentre", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Raxio", "country_label": "Côte d'Ivoire", "class": "datacentre", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Orange", "country_label": "Côte d'Ivoire", "class": "datacentre", "platform": "", "owner": "Orange", "tiers": ""},
+    {"system": "ST Digital", "country_label": "Côte d'Ivoire", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: PUE appears only in the glossary and national power figures (about 3 GW, $0.13/kWh) are not tied to any named data centre; no supply, PUE or water statement for a facility."
+}

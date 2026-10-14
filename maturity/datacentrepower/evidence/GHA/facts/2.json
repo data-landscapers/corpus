@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Equinix", "country_label": "Ghana", "class": "", "platform": "", "owner": "Equinix", "tiers": ""},
+    {"system": "Digital Realty", "country_label": "Ghana", "class": "", "platform": "", "owner": "Digital Realty", "tiers": ""},
+    {"system": "PAIX", "country_label": "Ghana", "class": "", "platform": "", "owner": "PAIX", "tiers": ""},
+    {"system": "ADC", "country_label": "Ghana", "class": "", "platform": "", "owner": "Africa Data Centres", "tiers": ""},
+    {"system": "MTN", "country_label": "Ghana", "class": "", "platform": "", "owner": "MTN", "tiers": ""}
+  ],
+  "note": "Only national-level power statements (about 6GW installed, around half reaching end users, $0.12/kWh); no data centre is tied to a supply, PUE or water figure, and PUE appears only in the glossary."
+}

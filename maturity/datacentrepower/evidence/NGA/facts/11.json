@@ -1,0 +1,8 @@
+{
+  "slug": "2022-03-03-africa-data-centres-los1-lagos-data-sheet",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Data Centres Lagos Data Centre LOS1", "country_label": "Nigeria", "class": "datacentre", "platform": "colocation, Eko Atlantic City, Lagos", "owner": "Africa Data Centres", "tiers": "Rated-3"}
+  ],
+  "note": "Data sheet gives 2N rack-level electrical topology, multiple UPS strings and 48 hours of generator fuel only; no grid feed, dedicated supply, PUE or water figure."
+}

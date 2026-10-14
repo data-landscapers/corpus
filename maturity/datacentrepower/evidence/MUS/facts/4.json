@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-mauritius-data-centre-market-report",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Mordor Intelligence says Mauritius Telecom's live Tier IV data centre has N+2 architecture and two independent utility feeds; the report is undated and its published date 2025 is a proxy.", "as_of": "2025", "date_precision": "year", "system": "Mauritius Telecom Tier IV data centre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Mauritius Telecom Tier IV data centre", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Mauritius Telecom", "tiers": "Tier IV"},
+    {"system": "Emtel data centre", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Emtel", "tiers": ""},
+    {"system": "Rogers Capital Technology data centre", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Rogers Capital Technology Services", "tiers": ""},
+    {"system": "Africa Data Centres (Mauritius)", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": ""},
+    {"system": "Liquid Intelligent Technologies (Mauritius) data centre", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Liquid Intelligent Technologies", "tiers": ""}
+  ],
+  "note": "PUE below 1.15 is called feasible under seawater cooling incentives and cooling savings are quoted for pilots, but no facility states a PUE or water figure; diesel tanks are standby only."
+}

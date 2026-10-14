@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "The Treasury's addendum says the Konza National Data Centre uses 2N utility power with dual independent feeds from Kenya Power plus 2N+1 backup generators and a 2N UPS; no date is given for the feeds, so the document's date of 2026-04-13 is used.", "as_of": "2026-04-13", "date_precision": "day", "system": "Konza National Data Centre (KNDC)", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "The Treasury's addendum says the Konza National Data Centre operates at a PUE of approximately 1.45; the document's date of 2026-04-13 is used.", "as_of": "2026-04-13", "date_precision": "day", "system": "Konza National Data Centre (KNDC)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Konza National Data Centre (KNDC)", "country_label": "Kenya", "class": "datacentre", "platform": "Konza Cloud Platform", "owner": "Konza Technopolis Development Authority (KoTDA)", "tiers": "Uptime Institute Tier III Design and Construction"}
+  ],
+  "note": "Water: the document describes in-row chilled-water or refrigerant cooling but states no water use or WUE, so no water fact."
+}

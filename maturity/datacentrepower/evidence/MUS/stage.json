@@ -1,0 +1,17 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "power",
+   "stage": "2",
+   "supply": "secured",
+   "pue": "",
+   "water": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-001",
+   "gaps": "No source held says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
+   "note": "Counted from the four questions by study-ladder-datacentrepower.py."
+  }
+ ]
+}

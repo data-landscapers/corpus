@@ -1,0 +1,12 @@
+{
+  "slug": "2022-11-30-africa-data-centres-sameer-nairobi-15mw-expansion",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Africa Data Centres' CEO states the company uses no water in any of its cooling systems and bans adiabatic systems, in the release on expanding its existing Sameer facility in Nairobi; the release carries no dateline, so the 2022-11-30 published date is used.",
+     "as_of": "2022-11-30", "date_precision": "day", "system": "Africa Data Centres Sameer facility, Nairobi", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Africa Data Centres Sameer facility, Nairobi", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "Africa Data Centres (Cassava Technologies)", "tiers": ""}
+  ],
+  "note": "States no PUE figure (only an aim to drive PUE down) and no supply or power-reservation arrangement; the 15MW expansion is planned, so it gives no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-25-highly-secured-rogers-capital-technology-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Rogers Capital Technology data centre", "country_label": "Mauritius", "class": "datacentre", "platform": "", "owner": "Rogers Capital Technology Services", "tiers": ""}
+  ],
+  "note": "No fact: the operator calls its PUE 'very efficient' with no figure, and states nothing on supply or water."
+}

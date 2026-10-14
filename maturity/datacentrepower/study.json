@@ -83,7 +83,15 @@
    "text": "Sufficient energy and water for data centres: power and water for data centres",
    "indicator_id": "infra.energy--sufficient-energy-and-water-for-data-centres-power-and-water-for-data-centres",
    "class": "datacentre",
-   "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that data centres run on dual grid feeds with backup generation and report their power usage effectiveness."
+   "norm_short": "The Smart Africa Data Center and Cloud Blueprint asks that data centres run on dual grid feeds with backup generation and report their power usage effectiveness.",
+   "criteria": [
+    "A source from the past three years says a data centre was stopped, delayed or rationed for want of power or water, or runs on diesel as its main supply.",
+    "A data centre in service has a secured power supply: two grid feeds, its own substation or line, or its own power plant.",
+    "Power is set aside for data centres: a signed supply contract, a plant built for them, or a tariff or zone in force.",
+    "A data centre in service states a power usage effectiveness (PUE) of 1.6 or less, from the past three years.",
+    "A data centre in service publishes its water use, or states that its cooling uses no water, from the past three years."
+   ],
+   "criteria_of": "c810f82e8946"
   }
  ],
  "classes": [

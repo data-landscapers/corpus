@@ -1,0 +1,24 @@
+{
+  "slug": "2026-08-20-foxglove-sahrc-data-centre-submission",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured",
+     "fact": "The submission's photo caption says a substation on the boundary of the Burgundy suburbs feeds the Teraco complex in Cape Town (document published 2026-08-20, which is used as the date).",
+     "as_of": "2026-08-20", "date_precision": "day", "system": "Teraco complex, Cape Town", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured",
+     "fact": "Teraco's 270-hectare, 120 MW Sediba solar facility near Parys in the Free State is described as built to power its data centres and as occupying agricultural land (document published 2026-08-20, which is used as the date).",
+     "as_of": "2026-08-20", "date_precision": "day", "system": "Teraco Sediba solar facility", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "The submission reports that Teraco's JB4 expansion, completed August 2025, is said to use a closed-loop system needing no ongoing water supply, and adds that such claims are not independently verified in South Africa and still need initial fill and make-up water.",
+     "as_of": "2025-08", "date_precision": "month", "system": "Teraco JB4", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco complex, Cape Town", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco (majority-owned by Digital Realty)", "tiers": ""},
+    {"system": "Teraco JB4", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""},
+    {"system": "Teraco Sediba solar facility", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""},
+    {"system": "Equinix King Air Industria, Cape Town (proposed, rezoning approved 2026-07-14)", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Equinix", "tiers": ""},
+    {"system": "Atlantic Hills Data Centre", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "", "tiers": ""},
+    {"system": "AWS 57 MW data centre, Kuils River", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "AWS", "tiers": ""},
+    {"system": "Africa Data Centres SA, Midrand (Erf 358)", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": ""}
+  ],
+  "note": "No PUE figure is stated; Equinix Cape Town facilities approved without water or electricity figures (proposed, not in service), so no fact; diesel-generator expansion is backup only."
+}

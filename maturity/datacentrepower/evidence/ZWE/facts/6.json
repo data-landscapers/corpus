@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-20-telone-annual-report-2022",
+  "facts": [],
+  "systems": [
+    {"system": "Mazowe Data Centre", "country_label": "Zimbabwe", "class": "", "platform": "", "owner": "TelOne", "tiers": ""}
+  ],
+  "note": "Passages only name PUE and DCIE as guiding metrics for energy-efficient nodes and data centres; no PUE figure, supply or water statement."
+}

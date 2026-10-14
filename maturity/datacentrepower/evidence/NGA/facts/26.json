@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-06-techpoint-airtel-nigeria-nxtra-38mw-it-load-eko-atlantic",
+  "facts": [],
+  "systems": [
+    {"system": "Airtel Nigeria hyperscale data centre, Eko Atlantic", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Airtel Nigeria", "tiers": ""},
+    {"system": "Sifiso Dabengwa Data Centre", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "MTN Nigeria", "tiers": "Tier III"}
+  ],
+  "note": "Airtel's Eko Atlantic facility is being built (38 MW IT load planned) and the MTN centre gets only capacity figures; no supply, PUE or water statement for a data centre in service."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-28-itwebza-sa-data-centre-sahrc-sustainability-probe",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "pue", "value": "low",
+     "fact": "Teraco's CEO reported an average annual power usage effectiveness of 1.43 for 2025 across its South African data centres (eight data centres on five campuses).",
+     "as_of": "2025", "date_precision": "year", "system": "Teraco data centres", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Teraco reported water usage effectiveness of 0.03 litres per kWh for 2025 in its 2026 Sustainability Report, as stated by its CEO.",
+     "as_of": "2025", "date_precision": "year", "system": "Teraco data centres", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "water", "value": "published",
+     "fact": "Equinix South Africa's MD states its local facilities' closed-loop cooling maintains an average water usage effectiveness of 0.1 L/kWh; the document gives no date for the figure, so the published date 2026-08-28 is used.",
+     "as_of": "2026-08-28", "date_precision": "day", "system": "Equinix South Africa data centres", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "supply", "value": "reserved",
+     "fact": "Africa Data Centres says it procures clean electricity under a 20-year power purchase agreement for a 12MW solar farm that wheels energy to its Cape Town and Johannesburg facilities; the document gives no signing date, so the published date 2026-08-28 is used.",
+     "as_of": "2026-08-28", "date_precision": "day", "system": "Africa Data Centres 12MW solar PPA", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco data centres", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""},
+    {"system": "Equinix South Africa data centres", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Equinix", "tiers": ""},
+    {"system": "Africa Data Centres", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Cassava Technologies", "tiers": ""}
+  ],
+  "note": "Teraco's 120MW solar PV project (under construction, due Q1 2027) and Equinix's paused Cape Town development are not facts."
+}

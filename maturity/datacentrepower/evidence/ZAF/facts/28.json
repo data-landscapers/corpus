@@ -1,0 +1,4 @@
+{"slug":"2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa",
+"facts":[{"sub_indicator":"power","aspect":"water","value":"published","fact":"Teraco states that its completed CT2 data centre in Cape Town uses a zero-water closed-loop cooling system, with zero water used during the cooling process.","as_of":"2025-11-10","date_precision":"day","system":"Teraco CT2","class":"datacentre"}],
+"systems":[{"system":"Teraco CT2","country_label":"ZAF","class":"datacentre","platform":"","owner":"Teraco","tiers":""}],
+"note":"No PUE figure is stated (only 'industry-leading'); the 120MW own solar PV plant is in development, not in service; 90MW utility power is a single utility figure, not a secured supply beyond standby."}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-08-raxio-mozambique-mz1-data-centre-specification",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Raxio's own specification page says the MZ1 data centre in Matola takes a 15 kV utility supply fed directly from the nearest substation with N+N redundancy, with 2N power distribution from MV transformer to rack PDU and 48 hours of on-site fuel; the page has no date, so the capture date 2026-08-08 is used.", "as_of": "2026-08-08", "date_precision": "day", "system": "Raxio Mozambique (MZ1)", "class": "datacentre"},
+    {"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "Raxio's own specification page states a PUE of 1.3 for the MZ1 data centre, with indirect adiabatic cooling; the page has no date, so the capture date 2026-08-08 is used.", "as_of": "2026-08-08", "date_precision": "day", "system": "Raxio Mozambique (MZ1)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Raxio Mozambique (MZ1)", "country_label": "Mozambique", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III certified"}
+  ],
+  "note": "No water fact: the page gives no water use or WUE, and indirect adiabatic cooling is not stated to use no water."
+}

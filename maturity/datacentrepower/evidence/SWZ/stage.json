@@ -1,0 +1,17 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "power",
+   "stage": "no evidence",
+   "supply": "",
+   "pue": "",
+   "water": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how any data centre is supplied with power or water.",
+   "note": "Counted from the four questions by study-ladder-datacentrepower.py."
+  }
+ ]
+}

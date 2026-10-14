@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-datacentrepower.md — the forty-eighth maturity study: power and water for data centres, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map, waits for Bill to accept
 ---
 
 # Maturity study: datacentrepower
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Does a data centre in service state a PUE of 1.6 or less? | The operator states the facility's power usage effectiveness at 1.6 or less, measured or by design |
 | 4 | Does a data centre in service publish its water use, or cool without using water? | The operator states the facility's water usage effectiveness or annual water use, or that its cooling consumes no water |
 
-## 3. The ladder
+## 3. The ladders
 
 **Power and water for data centres**
 
@@ -50,7 +50,7 @@ Asked in order. Each is answered with a date and a link.
 - **Stage 5 is the Blueprint's end state asked as facts**: a secured supply, an efficiency figure and water use published.
 - **Stage 1 needs a statement that a data centre went short**, as every study needs a statement of absence. A country-wide power shortage does not set it.
 
-`study.json` holds this as three aspects: `supply` (`reserved`, `secured`, `none`) for questions 1 and 2, `pue` (`low`) for question 3, and `water` (`published`) for question 4.
+`study.json` holds this as three aspects: `supply` (`reserved`, `secured`, `none`) for questions 1 and 2, `pue` (`low`) for question 3, and `water` (`published`) for question 4. **For the drafter**: `supply` `none` is the stage 1 statement, a data centre stopped, delayed or rationed for want of power or water, or running on diesel as its main supply; `secured` is question 1 and `reserved` question 2, each for a data centre or arrangement in service or in force. A PUE above 1.6 is no fact: record it under `systems` and say so in the note. **Name the data centre in `system`**, or for `reserved` the plant, contract, tariff or zone; class `datacentre` for all three aspects.
 
 ## 4. The norm
 
@@ -69,10 +69,18 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json`, the reading lists and `reopen.csv`, 2026-10-14.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Stage**, as at 2026-09-30.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Read**: 91 drafters over 159 readings, two regional stories read once; 26 facts. The parent added one, Gabon's solar plant, from a frame-cited story the drafters were not given. No carry: the two data-centre studies' facts answer none of the questions in their own terms.
+- [x] **D3. Staged** as at 2026-09-30: 5: 1, 2: 4, 3 unplaced, 46 without evidence; 2 rows removed; agreement 5 of 5, the only staged cells.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14. Tokens 33.2M of 30M: the session that ran step 1 also ran step 3, and its own thread is counted.
+
+**Decided in the run**:
+
+- **Power set aside answers question 1**: a contract or plant serving a data centre in service is a supply of its own. Otherwise each question needs the one before, so a PUE or water figure alone places no country: Nigeria, Togo and Ethiopia (whose 2021 figure is also out of window) are unplaced.
+- **No country is at stage 1.** Every shortage the frame cites is country-wide; none names a data centre that went short.
+- **Kenya stops at stage 2** though the Konza and iXAfrica sites state PUEs of 1.45 and 1.25: no source held says power is set aside for data centres. Africa Data Centres' "37.5 MW secured from the utility" is read as capacity, not a contract.
+- **South Africa reaches stage 5** on Africa Data Centres' wheeled solar contract for CPT1, Teraco's 2025 PUE of 1.43 and published water use.
+- **A substation caption is not a dedicated supply** (ZAF-014), and a third party's unverified report of an operator's claim is not the operator's statement (ZAF-015); both removed in `corrections.csv`.
 
 ## Boundary
 

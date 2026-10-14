@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-techtrends-africa-green-data-centre-solar-server-farms",
+  "facts": [],
+  "systems": [
+    {"system": "Microsoft and G42 Naivasha data centre (planned)", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "Microsoft and G42", "tiers": ""}
+  ],
+  "note": "The only Kenya data centre named is a planned 100 MW Microsoft and G42 site at Naivasha, not in service, and the grid's 60 percent renewable share is not tied to a data centre; no fact."
+}

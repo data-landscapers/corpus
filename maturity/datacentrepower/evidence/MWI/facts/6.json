@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-11-pppc-expansion-of-national-data-centre-rfb",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "Malawi", "class": "datacentre", "platform": "", "owner": "Government of Malawi (Department of e-Government)", "tiers": ""}
+  ],
+  "note": "Power passage lists a mains supply (3-phase 415 V, 500 kVA), 2 x 500 kVA standby generators in 1+1 and UPS only, which is nothing beyond standby generators; no PUE or water figure."
+}

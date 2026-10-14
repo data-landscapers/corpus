@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-24-lome-data-centre-home-page-en",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "The Lomé Data Centre's own home page states a PUE of 1.4 as its energy efficiency figure; the page gives no date for the figure, so the page's published date of 2025-09-24 is used.", "as_of": "2025-09-24", "date_precision": "day", "system": "Lomé Data Center", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Lomé Data Center", "country_label": "Togo", "class": "datacentre", "platform": "", "owner": "Lomé Data Centre", "tiers": "Tier III+"}
+  ],
+  "note": "Renewable energy is named without detail, so no supply or water fact; no water use or waterless cooling stated."
+}

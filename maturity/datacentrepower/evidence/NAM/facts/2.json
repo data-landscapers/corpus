@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-xalam-namibia-data-center-market-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Paratus data center", "country_label": "Namibia", "class": "datacentre", "platform": "", "owner": "Paratus", "tiers": ""}
+  ],
+  "note": "Market brief; PUE appears only in the glossary and no supply, PUE or water statement is made for any facility."
+}

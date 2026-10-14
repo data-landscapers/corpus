@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-techtrends-africa-green-data-centre-solar-server-farms",
+  "facts": [],
+  "systems": [
+    {"system": "Rack Centre Lagos facility", "country_label": "Nigeria", "class": "datacentre", "platform": "", "owner": "Rack Centre", "tiers": ""}
+  ],
+  "note": "Trade-press overview: grid outages (4,600 minutes a year) and diesel as default backup are stated for Nigerian operators in general, not a named data centre stopped or on diesel as main supply; solar at Rack Centre is only a stated future intention; no PUE or water figure."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Center", "country_label": "Zimbabwe", "class": "datacentre", "platform": "", "owner": "State (Huawei-built)", "tiers": ""},
+    {"system": "TelOne data centres", "country_label": "Zimbabwe", "class": "datacentre", "platform": "", "owner": "TelOne (state-owned)", "tiers": ""},
+    {"system": "Econet Wireless data centre (forthcoming)", "country_label": "Zimbabwe", "class": "", "platform": "", "owner": "Econet Wireless", "tiers": ""}
+  ],
+  "note": "No fact: PUE appears only in the glossary, power constraints are country-wide and not tied to a named data centre, and the Econet facility is not yet in service."
+}

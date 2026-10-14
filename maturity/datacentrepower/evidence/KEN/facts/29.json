@@ -1,0 +1,10 @@
+{
+  "slug": "2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet",
+  "facts": [
+    {"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "The operator's data sheet describes the Nairobi NB01 facility as having a 2N incoming utility supply topology and 37.5 MW of campus capacity secured from the utility, beyond UPS and generator backup; the document gives no date, so its published date (2021-02-11) is used.", "as_of": "2021-02", "date_precision": "month", "system": "Africa Data Centres Nairobi NB01", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Africa Data Centres Nairobi NB01", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "Africa Data Centres", "tiers": "Uptime Institute Tier III design"}
+  ],
+  "note": "No PUE or water figure stated; cooling described only as environmentally friendly and efficient."
+}

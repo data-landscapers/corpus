@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-namibia-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Paratus data center", "country_label": "Namibia", "class": "datacentre", "platform": "", "owner": "Paratus", "tiers": ""}
+  ],
+  "note": "Market brief; PUE appears only in the glossary and national electricity comments are not tied to a data centre."
+}

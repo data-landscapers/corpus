@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-10-vertiv-inwi-technopolis-rabat-cooling-case-study",
+  "facts": [],
+  "systems": [
+    {"system": "Inwi Technopolis Rabat data centre", "country_label": "MAR", "class": "datacentre", "platform": "", "owner": "Inwi", "tiers": ""},
+    {"system": "Inwi Marrakech data centre", "country_label": "MAR", "class": "datacentre", "platform": "", "owner": "Inwi", "tiers": ""},
+    {"system": "Inwi Settat data centre", "country_label": "MAR", "class": "datacentre", "platform": "", "owner": "Inwi", "tiers": ""}
+  ],
+  "note": "Vertiv vendor case study: air-cooled chillers with free-cooling mode and N+1 redundancy; no grid feed, reserved supply, PUE or water-use statement, and air cooling is not stated to use no water."
+}
