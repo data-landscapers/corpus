@@ -1,0 +1,88 @@
+{
+ "id": "gridreliability",
+ "study_file": "maturity-study-gridreliability.md",
+ "subjects": [
+  "infra.energy"
+ ],
+ "stage_topic": "infra.energy",
+ "redraws": [
+  "infra.energy--grid-reliability"
+ ],
+ "carry": [
+  "infra.energy--grid-reliability"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 25000000,
+ "terms": [
+  "SAIFI",
+  "SAIDI",
+  "CAIDI",
+  "interruption frequency",
+  "frequency of interruptions",
+  "interruptions per customer",
+  "outages per month",
+  "outages a month",
+  "outages in a typical month",
+  "power outages per month",
+  "number of power outages",
+  "number of outages",
+  "number of interruptions",
+  "supply interruptions",
+  "power interruptions",
+  "grid reliability",
+  "reliability of supply",
+  "reliability of the grid",
+  "reliability indices",
+  "quality of supply",
+  "load shedding",
+  "load-shedding",
+  "loadshedding",
+  "power cuts",
+  "power outages",
+  "blackouts",
+  "grid collapse",
+  "national grid collapse",
+  "frequence moyenne des interruptions",
+  "duree moyenne des interruptions",
+  "nombre de coupures",
+  "nombre d'interruptions",
+  "coupures d'electricite",
+  "coupures de courant",
+  "coupures intempestives",
+  "delestage",
+  "delestages",
+  "qualite de service electrique",
+  "continuite de service",
+  "interrupcoes de energia",
+  "cortes de energia",
+  "apagao",
+  "apagoes",
+  "انقطاع الكهرباء",
+  "انقطاع التيار الكهربائي",
+  "تخفيف الأحمال"
+ ],
+ "sub_indicators": [
+  {
+   "key": "outages",
+   "label": "Power outages a month",
+   "subject": "infra.energy",
+   "text": "Grid reliability: power outages a month",
+   "indicator_id": "infra.energy--grid-reliability-power-outages-a-month",
+   "class": "grid",
+   "norm_short": "The African Union's single electricity market and Continental Power System Master Plan ask for secure, reliable and affordable electricity across the continent. They set no outage figure."
+  }
+ ],
+ "classes": [
+  "grid",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "outages",
+   "name": "Power outages in a month, with their year",
+   "role": "coverage",
+   "pattern": "(utility|survey):\\d{1,3}(\\.\\d+)?"
+  }
+ ],
+ "flags": []
+}
