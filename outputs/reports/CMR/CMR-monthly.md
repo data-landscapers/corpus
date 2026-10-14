@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-14
 place: CMR
 ledger_rows: 30
 not_held: 4
-record: d0c027c7f426
+record: 1ec99e30dac4
 ---
 
 # Cameroon: monthly update, September – October 2026
@@ -55,7 +55,7 @@ The state operator [took delivery of a second shipment of equipment from China f
 
 The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing. The state operator and the secondary education ministry [signed a framework agreement to interconnect 130 schools in the three northern regions](https://techafricanews.com/2026/10/08/camtel-and-minesec-sign-deal-to-expand-digital-education-across-northern-cameroon/).
 
-The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October; the developer says more than 30,000 of its clients could eventually benefit. No timetable or estate list is published.
+The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October. The developer [says more than 30,000 of its clients could eventually benefit](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing). No timetable or estate list is published.
 <!-- /narrative -->
 ### Data Storage
 
