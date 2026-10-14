@@ -1,0 +1,15 @@
+{
+  "slug": "2024-05-17-afdb-congo-national-data-centre-digital-sovereignty",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Central Africa Fibre-Optic Backbone (CAB), Congo section",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Congo government with AfDB funding",
+      "tiers": ""
+    }
+  ],
+  "note": "Only a funded cross-border link (281 km Congo-CAR via the Sangha, to be laid) is named; no CAF national backbone statement."
+}

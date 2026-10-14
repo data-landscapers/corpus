@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-xalam-zambia-data-center-market-briefing",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Infratel (government)",
+   "tiers": ""
+  }
+ ],
+ "note": "Brief gives total terrestrial fibre km and market remarks, not a backbone reach or access statement."
+}

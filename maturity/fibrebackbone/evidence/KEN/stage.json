@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "backbone",
+   "stage": "4",
+   "reach": "every-region",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-010",
+   "gaps": "No source held says other operators buy capacity on the backbone, or that it runs on open-access or wholesale terms.",
+   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
+  }
+ ]
+}

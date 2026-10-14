@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-decret-100-058-nomination-administrateurs-bbs",
+  "facts": [],
+  "systems": [
+    {"system": "Burundi Backbone System (BBS)", "country_label": "Burundi Backbone System, société mixte BBS S.M", "class": "backbone", "platform": "", "owner": "Société mixte with Burundi State participation; concessionaire of the national fibre optic infrastructure, under the Ministry of Finance, Budget and Digital Economy", "tiers": ""}
+  ],
+  "note": "Decree naming State administrators to BBS's board; visas call BBS concessionaire of the national fibre optic infrastructure but state nothing on build, service, reach or access."
+}

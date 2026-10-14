@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-14 08:33 · **MATURITY-STUDY** · unclocked · fibrebackbone, run: 184 facts from 388 stories and 18 longer documents the cells cite; as at 2026-09-30 stage 5: 1, 4: 6, 3: 28, 2: 5, 1: 1, 1 unplaced, 12 no evidence; 2 rows removed; agreement 20 of 20; summaries by script; on the map. Tokens 40.0M, ceiling 45M
 2026-10-14 08:15 · **MATURITY-STUDY** · unclocked · fibrebackbone, step 1: four questions prepared for `infra.connect--national-fibre-backbone`: being built, in service between regions, every region reached, capacity sold to other operators; 388 unread stories in 53 countries (171 about the backbone, 217 cell-cited), ceiling 45M. Waits for Bill.
 2026-10-13 23:07 · **RENDER** · 20m · 251 reports, home, countries, catalogue, finance, datasets rendered, deployed — ok
 2026-10-13 22:46 · **REVIEW** · <1m · XGL: status 0 sections revised, progress 0 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok

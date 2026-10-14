@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-11-tchadinfos-dts-degradations-site-bol",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Dorsale Transsaharienne (DTS)",
+   "country_label": "Dorsale Transsaharienne a fibre optique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": "DTS works (started 2023, EU-funded 29m euro) link Chad to Niger and are slowed; presented as a cross-border link, not the national backbone. No fact."
+}

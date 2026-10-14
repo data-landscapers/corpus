@@ -1,0 +1,96 @@
+{
+ "slug": "2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Consultant Willard Shoko says Liquid Intelligent Technologies operates over 26,000 km of fibre in Zimbabwe as the core long-haul terrestrial routing layer; no places named. Dated by the article (2026-09-12).",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "Liquid Intelligent Technologies fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Shoko says Powertel and Paratus Zimbabwe formed an equal-investment PPP to build a DWDM fibre backhaul network across Zimbabwe, starting with an active 800 Gbps link between Plumtree and Bulawayo, on Powertel's powerline-based national fibre; no date given, article date used.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "Powertel-Paratus DWDM backhaul",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Shoko says DFA Zimbabwe built a 1,500 km optical fibre backbone along railway servitudes from Beitbridge through Bulawayo, Harare and Mutare (about $18M+ with BCS Group and Dandemutande); no date given, article date used.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "DFA Zimbabwe rail-servitude backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Shoko says the DFA Zimbabwe 1,500 km backbone is open-access and gives local ISPs and mobile operators wholesale backhaul.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "DFA Zimbabwe rail-servitude backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liquid Intelligent Technologies fibre backbone",
+   "country_label": "Liquid fibre backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Powertel-Paratus DWDM backhaul",
+   "country_label": "",
+   "class": "backbone",
+   "platform": "DWDM",
+   "owner": "Powertel and Paratus Zimbabwe (PPP)",
+   "tiers": ""
+  },
+  {
+   "system": "DFA Zimbabwe rail-servitude backbone",
+   "country_label": "",
+   "class": "backbone",
+   "platform": "DWDM",
+   "owner": "DFA Zimbabwe with BCS Group and Dandemutande",
+   "tiers": "ISPs, mobile operators"
+  },
+  {
+   "system": "TelOne cross-border backbone expansions",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  },
+  {
+   "system": "Google Umoja cable system",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "ZINX",
+   "country_label": "Zimbabwe Internet Exchange",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

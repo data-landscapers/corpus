@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-24-tunisie-cable-medusa-operationnel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MEDUSA submarine cable (Tunisian section, Bizerte landing station)",
+   "country_label": "câble MEDUSA",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": "Sea cable and landing station only; no terrestrial backbone stated."
+}

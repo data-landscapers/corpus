@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,backbone,,Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Powertel-Paratus DWDM backhaul,,backbone,DWDM,Powertel and Paratus Zimbabwe (PPP),,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,DFA Zimbabwe rail-servitude backbone,,backbone,DWDM,DFA Zimbabwe with BCS Group and Dandemutande,"ISPs, mobile operators",2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,TelOne cross-border backbone expansions,,other,,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Google Umoja cable system,,other,,Google,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,ZINX,Zimbabwe Internet Exchange,other,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Pangolin,Pangolin,,,,,2026-09-11-zwe-spikedmedia-national-ai-data-platform-tourism-statistics
+ZWE,Powertel-Paratus Plumtree-Bulawayo-Livingstone corridor,digital highway,other,DWDM,Powertel Communications / Paratus Zimbabwe,,"2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway"
+ZWE,Powertel-Paratus Plumtree-Bulawayo-Livingstone corridor,digital highway,other,"DWDM, 800Gbps initial",Powertel Communications,,2026-07-03-powertel-paratus-digital-highway
+ZWE,Liquid Intelligent Technologies national fibre backbone,Liquid,backbone,,Liquid Intelligent Technologies,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,TelOne national fibre backbone,TelOne,backbone,,TelOne,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Powertel national fibre backbone,Powertel,backbone,,Powertel,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,African Fibre Networks national fibre backbone,African Fibre Networks (formerly Dark Fibre Africa),backbone,,African Fibre Networks,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Dandemutande national fibre backbone,Dandemutande,backbone,,Dandemutande,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Africom national fibre backbone,Africom,backbone,,Africom,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025

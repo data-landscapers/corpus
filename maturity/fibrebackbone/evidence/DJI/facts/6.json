@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon / Initiative Horizon Fiber",
+      "class": "other",
+      "platform": "",
+      "owner": "Djibouti Telecom, Ethio Telecom, Sudatel Telecom Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Horizon is a roughly 2,800 km cross-border corridor Djibouti-Addis Ababa-Port Sudan, a link across a border with no statement that it is the national backbone; not a fact."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-29-how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "NCC state-by-state data shows 101,148.36 km of fibre deployed nationwide; NCC's executive vice chairman calls it about 101,000 km of fibre optic backbone. Figure counts all fibre (Lagos and FCT hold 18.35%), date given as the article's publication date.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "every-region",
+      "fact": "Article says the 101,000 km network stretches across all 36 states and the FCT; NCC state data lists fibre in every state (lowest Ebonyi 586.92 km, Bayelsa 656.87 km). Date is the article's publication date.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigeria national fibre (NCC-reported)",
+      "country_label": "Project BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "multiple operators",
+      "tiers": ""
+    }
+  ],
+  "note": "Figures are total fibre, not only capital-to-region backbone; Project BRIDGE is a plan."
+}

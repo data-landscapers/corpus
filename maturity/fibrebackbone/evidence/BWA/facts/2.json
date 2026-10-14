@@ -1,0 +1,5 @@
+{"slug":"2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre","facts":[
+{"sub_indicator":"backbone","aspect":"reach","value":"in-service","fact":"BoFiNet reported at its 13 August 2026 AGM 99.7% service availability across its national fibre backbone (News&All Botswana report, no regions or km given).","as_of":"2026-08-13","date_precision":"day","system":"BoFiNet national fibre backbone","class":"backbone"},
+{"sub_indicator":"backbone","aspect":"access","value":"open","fact":"The article describes BoFiNet's national mandate as the country's wholesale open-access fibre and broadband infrastructure provider; buyers are not named.","as_of":"2026-08-13","date_precision":"day","system":"BoFiNet national fibre backbone","class":"backbone"}],
+"systems":[{"system":"BoFiNet national fibre backbone","country_label":"national fibre backbone","class":"backbone","platform":"fibre","owner":"BoFiNet","tiers":""},{"system":"Digital Delta Data Centre","country_label":"Digital Delta Data Centre","class":"other","platform":"","owner":"BoFiNet","tiers":""}],
+"note":""}

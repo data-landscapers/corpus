@@ -1,0 +1,36 @@
+{
+  "slug": "2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "building",
+      "fact": "AidData record of the China Eximbank loans says Phase 2 of NOFBI construction activities began on 22 September 2014, financed by an RMB 460m loan signed 8 October 2012 for Huawei contracts to build 2,100 km of backbone.",
+      "as_of": "2014-09-22",
+      "date_precision": "day",
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "AidData record says NOFBI Phase 2 (2,100 km of national optic fibre backbone passing through eight major towns and 36 districts) reached actual completion on 7 November 2020.",
+      "as_of": "2020-11-07",
+      "date_precision": "day",
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "country_label": "NOFBI / Kenya National Fibre Backbone Infrastructure II",
+      "class": "backbone",
+      "platform": "Huawei-built",
+      "owner": "Government of Kenya",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

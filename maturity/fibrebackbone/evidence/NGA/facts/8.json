@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-14-afdb-200m-project-bridge-dvibe",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "AfDB states Nigeria's national fibre backbone is currently around 30,000 km, to be extended to about 120,000 km under Project BRIDGE (D-VIBE); date is the article's publication date.",
+      "as_of": "2026-04-14",
+      "date_precision": "day",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Project BRIDGE national fibre backbone",
+      "country_label": "Project BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "Project BRIDGE SPV (planned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Loan approval is not a contract or works; open-access is a plan."
+}

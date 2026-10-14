@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Huawei's case page says GBB builds and operates the NICTIB, a fibre optic network spanning the country and connecting nearly 30 states; the page is undated, so the staging page date is used.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "NICTIB",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTIB",
+   "country_label": "NICTIB",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  },
+  {
+   "system": "GBB Kano Tier IV data centre",
+   "country_label": "GBB Kano Tier IV data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  }
+ ],
+ "note": ""
+}

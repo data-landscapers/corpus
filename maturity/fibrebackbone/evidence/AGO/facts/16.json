@@ -1,0 +1,10 @@
+{"slug":"2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku",
+"facts":[
+{"sub_indicator":"backbone","aspect":"reach","value":"in-service","fact":"Secretary of State Ângelo Buta João told the ITU WTDC in Baku that Angola now has a network of more than 30,000 km of terrestrial fibre, with a further 4,860 km under repair; no regions or towns are named. Date is the article's publication date, the document giving none.","as_of":"2025-11-28","date_precision":"day","system":"national broadband network (terrestrial fibre)","class":"backbone"},
+{"sub_indicator":"backbone","aspect":"reach","value":"building","fact":"The Secretary of State said 1,400 km of new terrestrial fibre is under construction as part of the national broadband network project. Date is the article's publication date, the document giving none.","as_of":"2025-11-28","date_precision":"day","system":"national broadband network project","class":"backbone"}
+],
+"systems":[
+{"system":"national broadband network project","country_label":"projecto nacional de banda larga","class":"backbone","platform":"","owner":"Government of Angola (MINTTICS)","tiers":""},
+{"system":"Conecta Angola","country_label":"Conecta Angola","class":"other","platform":"","owner":"MINTTICS","tiers":"27 locations"}
+],
+"note":""}

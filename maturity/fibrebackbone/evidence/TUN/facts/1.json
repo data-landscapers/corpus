@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-29-tun-lapresse-telehealth-connect-health-id-2026",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Tunisie Telecom's CEO Lassaad Ben Dhiab said on 29 September 2026 that the operator relies on a national network of more than 70,000 km of optical fibre; no regions or towns are listed.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Tunisie Telecom national fibre network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisie Telecom national fibre network",
+   "country_label": "réseau national de fibre optique",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Sahetna",
+   "country_label": "Sahetna",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

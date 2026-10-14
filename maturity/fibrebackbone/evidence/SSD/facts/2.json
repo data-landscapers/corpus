@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-04-nct-bayobab-national-backbone-fiber-techreviewafrica",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "building",
+      "fact": "Tech Review Africa reports NCT South Sudan and Bayobab moved into the execution phase, with official kickoff of the National Backbone Fiber Network Project about one month before the 2026-03-04 article, including the Juba to Nadapal eastern segment at the Kenya border.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "National Backbone Fiber Network Project",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Backbone Fiber Network Project",
+      "country_label": "National Backbone Fiber Network Project",
+      "class": "backbone",
+      "platform": "",
+      "owner": "NCT South Sudan with Bayobab",
+      "tiers": ""
+    }
+  ],
+  "note": "Kickoff month derived from 'one month ago' relative to the article date."
+}

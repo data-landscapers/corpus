@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Angola Telecom's operations executive Rock Dinis said the first link of the national fibre-optic broadband backbone, DWDM-based and built with Mercury, was inaugurated at Lobito on a route from Luanda through Bengo and Cuanza Sul to Benguela, with initial capacity reported as 200 Gigabytes; the project is meant to reach all 21 provinces, Huambo, Namibe and Cabinda being next (plan only).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Angola Telecom first backbone link (Luanda-Bengo-Cuanza Sul-Benguela)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angola Telecom first backbone link (Luanda-Bengo-Cuanza Sul-Benguela)",
+   "country_label": "rede de banda larga de fibra óptica",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Telecom with Mercury",
+   "tiers": ""
+  }
+ ],
+ "note": "Next phase (Huambo, Namibe, Cabinda) and 21-province target are plans with no contract stated."
+}

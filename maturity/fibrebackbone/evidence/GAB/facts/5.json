@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-11-techafricanews-gabon-national-backbone-3420km",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Tech Africa News reports 1,769 km of existing national backbone network, described as strategic infrastructure transporting electronic communications across Gabon; places not listed.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national gabonais",
+   "country_label": "Gabonese National Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "SPIN",
+   "tiers": ""
+  },
+  {
+   "system": "Gabon Fiber",
+   "country_label": "Gabon Fiber",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Gabon Fiber",
+   "tiers": ""
+  }
+ ],
+ "note": "Extension of 1,651 km was only a proposed PPP awaiting signature on 14 Sep, so no building fact."
+}

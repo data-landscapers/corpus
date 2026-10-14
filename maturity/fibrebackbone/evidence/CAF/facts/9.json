@@ -1,0 +1,17 @@
+{
+  "slug": "2025-07-30-car-taux-penetration-internet-30-pourcent",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "The Minister and Africa24 state 1,200 km of fibre optic is in place in CAR, with cross-border fibre taken from Congo at Ouesso and Cameroon at Kenzo; no regions or capital link are named. As_of is the article date.",
+      "as_of": "2025-07-30",
+      "date_precision": "day",
+      "system": "CAR fibre optic network",
+      "class": "backbone"
+    }
+  ],
+  "systems": [],
+  "note": "Next step Juba and Chad negotiations are plans, not facts."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-eximbank-cn-uga-002-national-data-transmission-backbone-infrastructure-and",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Phase V builds on NBI Phases I-III (2006-2013) and Phase IV (2018), which were built; Phase V extends fibre to sub-county level (per BU Chinese Loans to Africa database).",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "country_label": "NBI/EGI Phase V",
+   "class": "backbone",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": "government and public sector offices"
+  }
+ ],
+ "note": "Phase V entry records a loan and a phase agreement of March 2023, not a contract award or works start, so no building fact."
+}

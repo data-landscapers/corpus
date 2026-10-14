@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-sudatel-fy2025-results",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Sudatel Group's FY2025 results say it added 1,586 km of new fiber backbone in 2025 and owns over 25,000 km of terrestrial fiber; the figures are group-level, no places or regions are named, and the page gives no date beyond the reporting year.", "as_of": "2025", "date_precision": "year", "system": "Sudatel terrestrial fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Sudatel terrestrial fibre network", "country_label": "Sudatel / Sudani fibre backbone", "class": "backbone", "platform": "", "owner": "Sudatel Telecommunications Group", "tiers": ""}
+  ],
+  "note": "Group-level figures only; no regions named and no wholesale terms stated, so no access fact."
+}

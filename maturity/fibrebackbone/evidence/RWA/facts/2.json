@@ -1,0 +1,11 @@
+{
+  "slug": "2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Ministerial Instructions 001/2012 (Ministry in the Office of the President in charge of ICT) recite that the national fibre optic backbone has been completed, and provide for government bandwidth to be distributed to institutions across the country over the National Backbone Optic Fiber; no regions or km are given. The document gives no date for completion, so as_of is the instruction's date.", "as_of": "2012-03-12", "date_precision": "day", "system": "National Backbone Optic Fiber", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Backbone Optic Fiber", "country_label": "National Backbone Optic Fiber", "class": "backbone", "platform": "", "owner": "Government of Rwanda; managed and operated by a designated company under an SLA with RDB", "tiers": "central and local government institutions"},
+    {"system": "National Data Center", "country_label": "NDC", "class": "other", "platform": "", "owner": "Government of Rwanda, run by a selected managing company", "tiers": "government institutions"}
+  ],
+  "note": ""
+}

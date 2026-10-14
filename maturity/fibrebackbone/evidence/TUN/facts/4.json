@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-05-connectingafrica-viatunisia-subsea-live",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ViaTunisia (Medusa segment, Marseille-Bizerte)",
+   "country_label": "ViaTunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "Sea cable only; Marseille urban fibre ring is in France."
+}

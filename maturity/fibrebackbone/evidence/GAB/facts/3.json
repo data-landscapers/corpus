@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-15-gab-gabonreview-gabon-fiber-connectivite-etendue-performante",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "GabonReview reports the existing national backbone at 1,769 km, owned by SPIN and operated until the delegation to Bouygues Energies & Services-Axione expired on 15 Nov 2026 (as stated); places not listed.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "GabonReview reports the SPIN-Gabon Fiber contract signed 14 Sep 2026 has Gabon Fiber finance and build 1,651 km additional fibre, taking the network to about 3,420 km, under a 20-year lease-concession from 16 Nov 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "GabonReview reports the contract imposes 'open and non-discriminatory' access for operators on the backbone, with performance and cybersecurity obligations.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national gabonais",
+   "country_label": "Backbone national gabonais",
+   "class": "backbone",
+   "platform": "",
+   "owner": "SPIN (state)",
+   "tiers": ""
+  },
+  {
+   "system": "Gabon Fiber",
+   "country_label": "Gabon Fiber SA",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Gabon Fiber SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,WIOCC open-access terrestrial fibre footprint,,other,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
+ZAF,Openserve long-haul fibre network,Openserve,backbone,,Telkom (Openserve),,2026-09-07-openserve-third-fibre-route-south-africa
+ZAF,Comsol national 5G wholesale network,Comsol 5G home broadband network,other,ZTE 5G core and radio,Comsol,wholesale to ISPs and MVNOs,2026-08-20-techcentral-south-africa-comsol-5g-woan
+ZAF,Broadband Infraco national fibre network,Broadband Infraco (BBI),backbone,,"Broadband Infraco, state-owned","wholesale customers incl. SITA, Eskom",2026-04-28 State broadband merger limps into a second decade
+ZAF,SA Connect,South Africa Connect,other,,Department of Communications and Digital Technologies,,2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends
+ZAF,SA Connect Phase 2,SA Connect Phase 2,other,,Government (R3 billion programme),"unserved and underserved communities, government facilities",2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
+ZAF,SITA government network upgrade,State Information Technology Agency network upgrades,other,,SITA,6 343 government facilities,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
+ZAF,SAEx East subsea cable,SAEx East Subsea Fibre-Optic Cable Phase 1,other,,,,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure

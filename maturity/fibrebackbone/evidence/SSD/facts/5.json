@@ -1,0 +1,26 @@
+{
+  "slug": "2022-06-01-south-sudan-digital-economy-assessment",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "none",
+      "fact": "World Bank Digital Economy Assessment states South Sudan lacks a national fiber backbone; no as-of date given in the statement, so the June 2022 publication date is used.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "national fibre backbone",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cross-border fibre link from Uganda to Juba (2021)",
+      "country_label": "Cross-border fibre link from Uganda to Juba (2021)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "One fact: no national backbone in 2022."
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "GBB's CEO is quoted as saying GBB has a fibre optics backbone network spanning over 2,500km; regions not named.",
+   "as_of": "2022-09",
+   "date_precision": "month",
+   "system": "Galaxy Backbone Fiber Optics Backbone Network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone Fiber Optics Backbone Network",
+   "country_label": "Galaxy Backbone Fiber Optics Backbone Network",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  },
+  {
+   "system": "Abuja Metro Fiber Network",
+   "country_label": "Abuja Metro Fiber Network",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  },
+  {
+   "system": "GBB LTE base stations",
+   "country_label": "GBB LTE base stations",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  },
+  {
+   "system": "Kano Data Recovery and Business Continuity centre",
+   "country_label": "Kano Data Recovery and Business Continuity centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  }
+ ],
+ "note": ""
+}

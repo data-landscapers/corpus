@@ -1,0 +1,23 @@
+{
+ "slug": "2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SAFE, LION/LION2, METISS, T4 cables",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Mauritius Internet Exchange Point (MIXP)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Says fibre infrastructure is expanding rapidly but gives no backbone reach, length or access; sea cables and data centres only."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne 250 km Akwa Ibom to Port Harcourt fibre",
+   "country_label": "MainOne terrestrial middle-mile",
+   "class": "other",
+   "platform": "",
+   "owner": "MainOne Solutions by Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "PR1 data centre",
+   "country_label": "PR1",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional landing-station backhaul and data centre, not a capital-to-region national backbone; no fact."
+}

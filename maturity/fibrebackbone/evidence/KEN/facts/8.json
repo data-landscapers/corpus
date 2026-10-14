@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-10-liquid-kenya-ai-next-growth-frontier",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "Liquid Intelligent Technologies Kenya says its East African footprint, including Kenya, is connected through its own metro and national long-distance fibre networks (article date used, no event date given).",
+      "as_of": "2026-09-10",
+      "date_precision": "day",
+      "system": "Liquid national long-distance fibre network",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "Liquid has added a third fibre route between Mombasa and the Uganda border, supplementing two existing routes, per its Kenya CEO (article date used, no event date given).",
+      "as_of": "2026-09-10",
+      "date_precision": "day",
+      "system": "Liquid Mombasa-Uganda border route",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Liquid national long-distance fibre network",
+      "country_label": "Liquid Intelligent Technologies Kenya fibre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Liquid Intelligent Technologies (Cassava Technologies)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

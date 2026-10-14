@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,"Maroc Telecom transafrican terrestrial cable (Morocco-Mauritania-Mali-Burkina Faso-Niger, 5,700 km)",,other,,Maroc Telecom,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+MRT,"Missing backbone sections (WARDIP 1, two works lots) and backbone equipment supply (WARDIP 2)",tronçons de backbone manquants; backbone national,other,,MTNIMA / WARDIP-Mauritanie,,2026-03-13-mtnima-wardip-plan-passation-marches-2026-actualisation-1
+MRT,"Missing backbone sections (item 1, two works lots) and backbone equipment supply (item 2)",tronçons de backbone manquants; backbone national,other,,MTNMA / WARDIP-Mauritanie,,2026-02-01-wardip-mauritanie-plan-previsionnel-passation-marches-2026
+MRT,SDIN national optical fibre network,reseau national de fibre optique,backbone,,Societe nationale de developpement des infrastructures numeriques (SDIN),,2025-12-16-ami-inauguration-siege-sndin-reseau-fibre-1760-km
+MRT,WARCIP APL2 five fibre-optic links,fibre optic backbone,backbone,,"SDIN (state vehicle), operated by IMT under affermage",,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national
+MRT,"National/regional IXP, carrier hotel and data center",IXP,other,,,,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national
+MRT,ACE submarine cable,ACE,other,,,,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national

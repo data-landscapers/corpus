@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "The World Bank appraisal PID refers to Zambia's current 10,000 km of fiber optic cable, which the project aims to extend by at least 2,000 km; it does not say which regions or towns the fibre links to the capital, so this is a national fibre total only. Date is the document's published date.", "as_of": "2025-01-20", "date_precision": "day", "system": "Zambia fiber optic network (10,000 km)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "DZAP Component 1.1 Extending the backbone and regional network", "country_label": "Digital Zambia Acceleration Project (P505094)", "class": "other", "platform": "", "owner": "Smart Zambia Institute (implementing agency); World Bank IDA US$20m plus US$10m commercial", "tiers": ""}
+  ],
+  "note": "Extension of backbone (at least 2,000 km) is an appraisal-stage plan with no contract, so no building fact; no access terms stated."
+}

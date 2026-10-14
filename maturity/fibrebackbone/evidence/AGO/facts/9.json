@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-ago-pocnoticias-mercury-angola-telecom-link-banda-larga-lobito",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Angola Telecom-Mercury Programa Nacional de Banda Larga backbone link, Lobito",
+   "country_label": "Programa Nacional de Banda Larga link",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Telecom with Mercury",
+   "tiers": ""
+  }
+ ],
+ "note": "Operators' release of the Lobito/Restinga link (100 Gbps first phase, first of several planned backbone links); no route or regions stated, so no reach fact; no lease or open-access terms stated."
+}

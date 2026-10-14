@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Le Sahel: minister received provisionally on 14 Nov 2025 the 1,031 km fibre sections (Arlit-Assamaka 220 km, Diffa-N'Guigmi 186, Zinder-Magaria 117, Niamey-Dosso-Gaya 300, Niamey-Makalondi 118), laid by the LORYNE group with AfDB support; commissioning described as forthcoming.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS), Niger component",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Minister states the government's objective is to guarantee all operators free, equitable and transparent access to the very-high-speed infrastructure; stated as an aim, not as a described lease or wholesale arrangement.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS), Niger component",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",
+   "country_label": "Dorsale Transsaharienne a Fibre Optique (DTS/FO)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Niger, project unit; AfDB-financed",
+   "tiers": ""
+  },
+  {
+   "system": "Tier III data centre, Niamey",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

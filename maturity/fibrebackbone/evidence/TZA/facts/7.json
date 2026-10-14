@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-01-tanzaniainvest-micit-ict-budget-2026-27-sector-statistics",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The Minister's 2026/27 budget speech, as reported, says NICTBB connects 122 of 139 districts (87.8%) after 13 districts were added in 2025/26, total network 15,167 km; as_of is the article date.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "NICTBB",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The ministry reports 801 km of new NICTBB fibre built in fiscal 2025/26 and plans 10 more districts in 2026/27; as_of is 2025/26 fiscal year works, dated by article.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "NICTBB",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTBB",
+   "country_label": "National ICT Broadband Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Ministry of Communications and IT",
+   "tiers": ""
+  },
+  {
+   "system": "NICTBB extension to DRC via Lake Tanganyika",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "1,193 km received from the Consortium of Telco Operators is not stated as open access."
+}

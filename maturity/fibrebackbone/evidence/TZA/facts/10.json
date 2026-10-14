@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-27-ippmedia-tanzania-rural-telecom-pm-statement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mkongo wa Taifa (NICTBB)",
+   "country_label": "Mkongo wa Taifa",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "PM pledges to strengthen the backbone; no dated state, contract or access fact."
+}

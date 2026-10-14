@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-02-zap-fibra-benguela-angola",
+  "facts": [],
+  "systems": [
+    {"system": "ZAP Fibra (Benguela)", "country_label": "ZAP Fibra", "class": "other", "platform": "", "owner": "ZAP", "tiers": ""},
+    {"system": "ZAP data centre, Lobito", "country_label": "Centro de Tratamento de Dados", "class": "other", "platform": "", "owner": "ZAP", "tiers": ""},
+    {"system": "submarine cable landing at Benguela", "country_label": "cabo submarino de fibra óptica", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional access fibre and data centre plus a planned cable landing; national fibre to all the country is stated as an ambition only."
+}

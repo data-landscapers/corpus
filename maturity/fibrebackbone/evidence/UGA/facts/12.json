@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-06-kampala-malaba-fibre-route-bayobab",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Bayobab Uganda (MTN Group subsidiary) launched on 6 May 2025 a 260 km fibre route along the Uganda Railway line from Kampala to Malaba on the Kenyan border, built December 2024 to February 2025, which Bayobab says completes the Kampala-Mombasa backbone and carries over 1 Tbit/s.", "as_of": "2025-02", "date_precision": "month", "system": "Bayobab Kampala-Malaba railway fibre route", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Bayobab Kampala-Malaba railway fibre route", "country_label": "Kampala-Malaba fibre route", "class": "backbone", "platform": "", "owner": "Bayobab Uganda (MTN Group), built with Uganda Railway", "tiers": ""}
+  ],
+  "note": ""
+}

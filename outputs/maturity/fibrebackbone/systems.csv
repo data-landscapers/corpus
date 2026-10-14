@@ -1,0 +1,483 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,rede de fibra óptica terrestre,rede de fibra óptica terrestre,backbone,,,,2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre
+AGO,Projecto Nacional de Banda Larga,Projecto Nacional de Banda Larga,other,,,,2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre
+AGO,Project East2West,Project East2West,other,,Bayobab (MTN Group); Africa50 co-developer,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+AGO,"WACS, SACS and MONET submarine cables",,other,,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,Rede Nacional de Fibra Óptica,Rede Nacional de Fibra Óptica,backbone,,,,2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta
+AGO,Tudo Nosso,Tudo Nosso,other,,Angola Telecom,,2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta
+AGO,"Angola Telecom-Mercury Programa Nacional de Banda Larga backbone link, Lobito",Programa Nacional de Banda Larga link,other,,Angola Telecom with Mercury,,2026-09-18-ago-revistaexecutivo-angola-telecom-mercury-benguela-backbone
+AGO,Tudonosso Fibra,Tudonosso Fibra,other,FTTH,Angola Telecom,,2026-09-16-ago-angop-ministro-mario-oliveira-lanca-servico-de-internet-tudonosso
+AGO,Angola Telecom first backbone link (Luanda-Bengo-Cuanza Sul-Benguela),rede de banda larga de fibra óptica,other,,Angola Telecom with Mercury,,2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja
+AGO,"Angola Telecom-Mercury Programa Nacional de Banda Larga backbone link, Lobito",Programa Nacional de Banda Larga link,other,,Angola Telecom with Mercury,,2026-09-16-ago-pocnoticias-mercury-angola-telecom-link-banda-larga-lobito
+AGO,"Primeiro link de banda larga Angola Telecom-MSTelcom, Restinga",Programa Nacional de Banda Larga link,other,,Angola Telecom with Mercury,,2026-09-15-ago-pti-mario-oliveira-lancamento-primeiro-link-banda-larga-restinga
+AGO,rede terrestre de fibra óptica,rede terrestre de fibra óptica,,,,,2026-09-02-ago-governo-pretende-estender-fibra-optica-a-todo-o-pais
+AGO,cabo submarino doméstico,cabo submarino doméstico,other,,MINTTICS (preparing),,2026-09-02-ago-governo-pretende-estender-fibra-optica-a-todo-o-pais
+AGO,ZAP Fibra (Benguela),ZAP Fibra,other,,ZAP,,2026-09-02-zap-fibra-benguela-angola
+AGO,"ZAP data centre, Lobito",Centro de Tratamento de Dados,other,,ZAP,,2026-09-02-zap-fibra-benguela-angola
+AGO,submarine cable landing at Benguela,cabo submarino de fibra óptica,other,,,,2026-09-02-zap-fibra-benguela-angola
+AGO,"national optical fibre network (about 28,000 km)",fibra óptica,backbone,,,,2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia
+AGO,rede de fibra óptica terrestre,rede de fibra óptica terrestre,,,MINTTICS,,2026-03-26-minttics-projectos-estruturantes-base-tecnologica
+AGO,cabo submarino doméstico,cabo de fibra óptico submarino doméstico,other,,MINTTICS,,2026-03-26-minttics-projectos-estruturantes-base-tecnologica
+AGO,national broadband network project,projecto nacional de banda larga,backbone,,Government of Angola (MINTTICS),,2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku
+AGO,Conecta Angola,Conecta Angola,other,,MINTTICS,27 locations,2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku
+AGO,2Africa,cabo 2 África,other,submarine cable,,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,Equiano,cabo Equiano,other,submarine cable,,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,Tudo Nosso Fibra,Tudo Nosso Fibra,other,fibre to the home,MINTTICS,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,Conecta Angola,Conect Angola,other,satellite,MINTTICS,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,Rede Nacional de Banda Larga (RNBL),Rede Nacional de Banda Larga,backbone,,Government of Angola (MINTTICS); EPC contractor Sinohydro,,2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl
+AGO,Cabinda submarine fibre line,,other,submarine cable,,,2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl
+AGO,Rede Nacional por Fibra Óptica Terrestre,Rede Nacional por Fibra Óptica Terrestre,other,,Executivo (Government of Angola),,2024-12-05-decreto-presidencial-272-24-aprova-livro-branco-das-tic
+BDI,Burundi Backbone System (BBS),"Burundi Backbone System, société mixte BBS S.M",backbone,,"Société mixte with Burundi State participation; concessionaire of the national fibre optic infrastructure, under the Ministry of Finance, Budget and Digital Economy",,2026-04-27-decret-100-055-nomination-dg-bbs
+BDI,Burundi Backbone System (BBS),"Burundi Backbone System, société mixte BBS S.M",backbone,,"Société mixte with Burundi State participation; concessionaire of the national fibre optic infrastructure, under the Ministry of Finance, Budget and Digital Economy",,2026-04-27-decret-100-058-nomination-administrateurs-bbs
+BDI,BBS fibre network,BBS (Burundi Backbone System),backbone,,BBS,,2025-08-27-arct-rapport-indicateurs-tic-burundi-edition-2024
+BDI,Viettel Burundi fibre network,VIETTEL,backbone,,VIETTEL Burundi,,2025-08-27-arct-rapport-indicateurs-tic-burundi-edition-2024
+BDI,ONATEL metropolitan network (MAN),Reseau Metropolitain de l'ONATEL (MAN),other,,ONATEL,,2025-08-27-arct-rapport-indicateurs-tic-burundi-edition-2024
+BEN,Project BRIDGE,Project BRIDGE,other,,Nigeria (government),,2026-08-13-nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50
+BEN,National Broadband Network Project Phase 1 (PDI2T),National Backbone,backbone,Huawei equipment,Benin Telecom S.A.,,2015-01-01-eximbank-cn-ben-001-china-eximbank-provides-rmb-496-million
+BEN,Cotonou metropolitan fibre loop,,other,,Benin Telecom S.A.,,2015-01-01-eximbank-cn-ben-001-china-eximbank-provides-rmb-496-million
+BEN,"Fibre-optic infrastructure (3,000+ km since 2016)",,,,,,2026-02-09-wearetech-benin-2031-digital-strategy-roadmap
+BFA,Project BRIDGE (Nigeria-Niger/Benin-Burkina Faso corridors),,other,,,,2026-08-13-nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50
+BFA,"Maroc Telecom transafrican terrestrial cable (5,700 km, Morocco-Niger via Mauritania, Mali, Burkina Faso)",,other,,Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+BFA,National fibre-optic network,,backbone,,,,2025-12-30-burkina-faso-earmarks-109-4mln-digital-projects-2026
+BFA,RESINA,RESINA,other,,,,2025-12-30-burkina-faso-earmarks-109-4mln-digital-projects-2026
+BFA,270 km fibre deployment in 2026 work plan (planned),,other,,,,2025-12-30-burkina-faso-earmarks-109-4mln-digital-projects-2026
+BFA,SMART Burkina Project,SMART Burkina,backbone,"fibre optic, built by Huawei and CITCC",Government of Burkina Faso,,2020-01-01-eximbank-cn-bfa-001-smart-burkina-project
+BFA,Smart Burkina Faso Project,Projet Smart Burkina Faso,backbone,"fibre optic, Huawei and CITCC",Ministry of Security,,2020-01-01-eximbank-cn-bfa-002-china-eximbank-provides-rmb-560-million
+BFA,900 surveillance cameras and 300 video surveillance sites,,other,,Ministry of Security,,2020-01-01-eximbank-cn-bfa-002-china-eximbank-provides-rmb-560-million
+BFA,National Telecommunications Backbone Project (PBNT),PBNT,backbone,"fibre optic, Huawei",Government of Burkina Faso,,2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million
+BWA,BoFiNet national fibre backbone ring,national fibre optic backbone,backbone,fibre,BoFiNet,,2018-06-01-bwa-national-broadband-strategy
+BWA,Mascom national backbone,private operator national backbone infrastructure,backbone,fibre,Mascom,,2018-06-01-bwa-national-broadband-strategy
+BWA,Government Data Network,GDN,other,,Government,,2018-06-01-bwa-national-broadband-strategy
+BWA,BoFiNet national fibre backbone,national fibre backbone,backbone,fibre,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
+BWA,Digital Delta Data Centre,Digital Delta Data Centre,other,,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
+BWA,BoFiNet Local Access Projects 2025/26,"Local Access Projects (Moshupa, Ramotswa/Taung, Thamaga)",other,fibre,BoFiNet,,2026-08-16-newsandall-bofinet-p43m-fibre-project
+BWA,BoFiNet Local Access Projects 2025/26,"Local Access Projects (Moshupa, Ramotswa/Taung, Thamaga)",other,fibre,BoFiNet,,2026-08-14-bofinet-completes-p43m-fibre-project-connects-three-botswana-villages
+BWA,Village Connectivity Project,Village Connectivity Project,other,,Ministry of Communications and Innovation,,2026-05-08-botswana-huawei-ict-congress-2026-itweb
+BWA,"national fibre network (about 16,000 km)",fibre optic cable laid across the country,backbone,,,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,Delta Digital Data Centre,Tier III National Data Centre,other,,government,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,ICT Roadmap 2030,ICT Roadmap 2030 (prioritises nationwide broadband expansion and fibre connectivity; a plan),other,,Ministry of Communications and Innovation,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+CAF,"Central African Backbone (CAB), CAR component",Dorsale optique nationale de la RCA,backbone,,"Government of CAR, financed by EU and AfDB",,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
+CAF,"Central African Backbone (CAB), CAR component",CAB - CAR Component,backbone,,"Government of CAR, financed by EU and AfDB",,2017-01-01-afdb-caf-001-central-african-republic---central-africa
+CAF,Project East2West,East2West,other,,Bayobab (MTN) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+CAF,"Central African Backbone (CAB), CAR component",Dorsale optique nationale de la RCA,backbone,,"Government of CAR, financed by EU and AfDB",,2024-04-05-afdb-centre-formation-digitale-bangui
+CAF,"Central African Backbone (CAB), CAR component",Dorsale a fibre optique nationale de la RCA,backbone,,"Government of CAR, financed by EU and AfDB",,2024-01-16-centrafrique-centre-formation-digital-incubateur-universite-bangui
+CAF,"Central Africa Fibre-Optic Backbone (CAB), Congo section",,other,,Congo government with AfDB funding,,2024-05-17-afdb-congo-national-data-centre-digital-sovereignty
+CAF,"MTN Bayobab national fibre network (12,000 km commitment)",réseau national de fibre optique interconnecté,other,,MTN Bayobab,,2026-02-02-rca-menpt-orientations-2026-acdd-connectivite-aneci
+CAF,Back-bone National a fibre optique (prefecture capitals link),back Bone National,other,,"Ministere de l'Economie numerique, des Postes et Telecommunications",,2025-11-18-caf-2026-85-8508201240000xxxx06
+CIV,Orange Côte d'Ivoire fibre network (Cocody),,other,,Orange Côte d'Ivoire,,2026-09-04-techafricanews-orange-cote-divoire-cables-damaged-cocody
+CIV,MTN fibre network (Abidjan sensing trial),,other,Huawei fibre sensing,MTN,,2026-08-13-mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digita
+CIV,"national optical fibre infrastructure (38,000 km)",,,,,,2026-07-13-digital-key-driver-economic-transformation-techreviewafrica
+CIV,Réseau national à haut débit (RNHD),RNHD,backbone,,ANSUT,,2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat
+CIV,Africa Broadband Maps (Africa-BB-Maps),Africa-BB-Maps,other,,"ITU and ARTCI, with EU support",,2025-08-18-africa-bb-maps-cartographie-haut-debit-fratmat
+CMR,"National fibre optic transmission backbone, Phase IV extension",Phase IV of the national fibre optic transmission backbone expansion project,other,,"Camtel (state); financed by China Eximbank, Huawei-backed",,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
+CMR,Camtel national fibre network,terrestrial fibre-optic network,backbone,,Camtel,,2026-03-09-seeks-195-million-optic-fibre-backbone-eximbank-china-itweb
+CMR,"Central African Backbone (CAB), Central African Republic national section with link to Cameroon via Gamboula",Dorsale optique nationale de la RCA,other,,Government of the Central African Republic; EU and AfDB funded,,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
+CMR,"Central Africa Fibre-Optic Backbone, Congo-Cameroon link (341 km)",Central Africa Fibre-Optic Backbone project,other,,Republic of Congo; AfDB funded,,2024-05-17-afdb-congo-national-data-centre-digital-sovereignty
+CMR,"Central African Fibre Optic Backbone (CAB), Gabon component, Gabon-Cameroon interconnection",CAB,other,,Government of Gabon; AfDB grant,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+CMR,CAMTEL national fibre-optic backbone,national fibre-optic backbone,backbone,,CAMTEL,private mobile network operators lease capacity,2026-07-27-cameroon-starlink-licensing-stalls-sovereignty
+CMR,Starlink,Starlink,other,satellite,SpaceX,not licensed in Cameroon,2026-07-27-cameroon-starlink-licensing-stalls-sovereignty
+CMR,Backbone phase 4 (fibre extension to rural areas),phase 4 du Blackbone,other,Huawei as contractor,CAMTEL (project lead),,2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan
+CMR,Cameroon Fibre Optic Transmission Backbone Extension Phase IV,Phase IV,other,Huawei expected as contractor,CAMTEL,,2026-01-01-eximbank-cn-cmr-006-cameroon-fibre-optic-transmission-backbone-extension
+CMR,CAMTEL national fibre network,existing network,backbone,,CAMTEL,,2026-01-01-eximbank-cn-cmr-006-cameroon-fibre-optic-transmission-backbone-extension
+CMR,CAMTEL national fibre optic network,national fibre optic network,backbone,,CAMTEL,,2025-12-09-art-2024-annual-observatory-telecom-market-techafricanews
+COD,"DRC fibre concession programme (four 20-year PPP lots, 11,600 km)",Congo fibre concession programme,other,,Government of DRC (Digital Transformation Project),,2026-09-26-cod-theppppost-fibre-concession-ppp
+COD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+COD,"national fibre backbone (55,000 km planned)",national fibre backbone,backbone,,"Government of DRC (Ministry of Posts, Telecommunications and Digital Affairs)",,2025-05-06 DRC e-government initiative makes bold blockchain bet
+COD,Projet de transformation numerique (PTN) fibre deployment,PTN,backbone,,Ministry of Posts and Telecommunications / Government of DRC,,2026-08-03-rdc-11500-km-fibre-optique-restants-ptn
+COD,"Congo River fibre project (Genew Technologies, 2,100 km)",Congo River fibre project,other,,"Ministry of Posts, Telecommunications and Digital Affairs with Genew Technologies",,2026-07-03-drc-plans-1-5bn-fibre-congo-river-genew-connectingafrica
+COD,Monaco-Sat,accord Monaco-Sat,other,satellite,,,2025-06-22-tshisekedi-fracture-numerique-conseil-ministres-actualite
+COD,Starlink,Starlink,other,satellite,,,2025-06-22-tshisekedi-fracture-numerique-conseil-ministres-actualite
+COD,Plan National du Numérique Horizon 2025,PNN,other,,Government of DRC,,2025-06-22-tshisekedi-fracture-numerique-conseil-ministres-actualite
+COG,"Central African Backbone (CAB), CAR-Congo interconnection via Bomassa",Dorsale a fibre optique d'Afrique centrale,other,,,,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca
+COG,Project East2West,Project East2West,other,,"Bayobab (MTN Group), Africa50",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+COG,Projet de Couverture Nationale,Projet de Couverture Nationale,backbone,,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,Central African Backbone (CAB),Central African Backbone,backbone,,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,2Africa submarine cable,2Africa,other,,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,Brazzaville-Kinshasa Congo river fibre crossings,,other,,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,"Central Africa Fibre-Optic Backbone, Congo component (600 km to Cameroon 341 km and CAR 281 km)",Central Africa Fibre-Optic Backbone project,other,,"Government of Congo, AfDB financed",,2024-05-17-afdb-congo-national-data-centre-digital-sovereignty
+COG,"National Data Centre, Brazzaville",National Data Centre,other,,Government of Congo,,2024-05-17-afdb-congo-national-data-centre-digital-sovereignty
+COG,Projet de couverture nationale en infrastructures de télécommunications (PCN),PCN,other,,"State; assets of phases 1-2 made available to Congo Telecom in usufruct, to be transferred to it by decree",,2026-05-06-cog-compte-rendu-conseil-des-ministres
+COG,"Urban aerial fibre networks of Congo Telecom, GVA (CanalBox), Silicon Connect",,other,,Congo Telecom; GVA (CanalBox); Silicon Connect,,2025-03-31-deploiement-fibre-optique-urbanisation-reseaux-arpce-ldb
+COM,"Digital connectivity project (inter-island connectivity, ANADEN data centre)",projet de connectivité numérique,other,,ANADEN (government),,2026-08-14-comores-bad-mcdf-connectivite-numerique
+COM,National Fiber Optic Backbone Transmission Network Project,National Fiber Optic Backbone Transmission Network Project,backbone,Huawei,Comores Telecom,,2018-01-01-eximbank-cn-com-001-china-eximbank-provides-rmb-567-million
+COM,"Telecommunications Network Modernization Project (Huri network, FTTH extension to 57 sites)",Nafassi FTTH,other,Huawei,Comores Telecom,,2018-01-01-eximbank-cn-com-001-china-eximbank-provides-rmb-567-million
+CPV,inter-island submarine cable (CVT),cabo submarino inter-ilhas,other,,Cabo Verde Telecom,,2026-05-02-unitel-t-mais-neutralidade-concorrencia-telecomunicacoes-anacao
+CPV,inter-island submarine cable (CVT),cabo submarino inter-ilhas,other,,Cabo Verde Telecom,,2026-04-21-estado-aval-37-milhoes-cvtelecom-telecomunicacoes-expressodasilhas
+DJI,Horizon Fiber Initiative,Horizon Fiber,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-11-dcd-horizon-fiber-agreement
+DJI,WIOCC Group open-access terrestrial fibre,,other,,WIOCC Group,,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity
+DJI,Horizon Fiber Initiative,Horizon Fiber,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica
+DJI,Horizon Fiber Initiative,Horizon Fiber,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-06-horizon-fiber-corridor-deal-itweb
+DJI,Horizon Fiber Initiative,Horizon Fiber,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-05-horizon-fiber-binding-agreement-connectingafrica
+DJI,Horizon Fiber,Horizon / Initiative Horizon Fiber,other,,"Djibouti Telecom, Ethio Telecom, Sudatel Telecom Group",,2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation
+DJI,Horizon Fiber,Horizon / Initiative Horizon Fiber,other,,"Djibouti Telecom, Ethio Telecom, Sudatel Telecom Group",,2026-02-04-horizon-fiber-tripartite-deal-techafricanews
+DJI,Djibouti Fondement du Numerique (DFN),Projet Djibouti Fondement du Numerique,other,,Ministry of Communication (World Bank financed),"schools, sub-prefecture, polyclinic",2025-10-22-dfn-damerjog-school-subprefecture-fibre-lanation
+DJI,DFN,Djibouti Fondements du Numerique,backbone,,"MCPT, World Bank financed",,2025-07-30-dfn-eardip-stakeholder-grievance-workshop-lanation
+DJI,EARDIP,Integration numerique en Afrique de l'Est,backbone,,"MCPT, World Bank financed",,2025-07-30-dfn-eardip-stakeholder-grievance-workshop-lanation
+DJI,DFN,Djibouti Fondations Numeriques,backbone,,"MCPT, World Bank financed (launched September 2022)","regional hospital, schools, public institutions",2025-06-25-dfn-ali-sabieh-regional-hospital-fibre-lanation
+DZA,Trans-Saharan fibre-optic backbone,dorsale transsaharienne a fibre optique,other,,,,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
+DZA,FTTH (Tout Fibre strategy),الكل فايبر,other,,Ministry of Post and Telecommunications; Algerie Telecom,,2026-02-17-algeria-first-africa-ftth-connectivity-echorouk
+DZA,"Algerie Telecom-Sparkle Italy-Algeria subsea cable (planned, MoU)",,other,,Algerie Telecom; Sparkle,,2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica
+DZA,FTTH,,other,,Algerie Telecom,,2025-05-02-copper-phase-out-fiber-2027--wearetech
+DZA,National 400G WDM project,,backbone,Huawei 400G WDM optical transmission,Algerie Telecom,,2025-02-25-algerie-telecom-huawei-400g--techafricanews
+EGY,FTTR (Fiber-to-the-Room),FTTR,other,Huawei,Telecom Egypt (WE),home,2026-05-24-telecom-egypt-huawei-fttr-launch-ahram
+ERI,EriTel landline and mobile network,EriTel,other,,EriTel (state operator),,2026-05-19 Eritrea substantial investment in communication service expansion
+ETH,Ethio telecom national backbone network,national backbone,backbone,,Ethio telecom,,2026-08-20-tan-ethio-telecom-horizon-fibre-corridor
+ETH,Horizon Fiber Initiative,Horizon Fiber Initiative,other,,Ethio telecom with partners,,2026-08-20-tan-ethio-telecom-horizon-fibre-corridor
+ETH,Horizon Fiber Initiative,Horizon Fiber Initiative,other,,"Ethio Telecom, Djibouti Telecom, Sudatel",,2026-02-11-dcd-horizon-fiber-agreement
+ETH,Safaricom Ethiopia Afdera-Mekelle fibre,new fibre optic network Afdera to Mekelle,other,,Safaricom Ethiopia,,2025-08-02-safaricom-ethiopia-begins-fibre-deployment-reporter
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state); Gabon Fiber concessionaire from 2026-11-16,,2026-10-07-gab-union-magt-etat-convention-gabon-fiber
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A.,,2026-10-07-gab-union-magt-etat-convention-gabon-fiber
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state),,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A. (concessionaire from 2026-11),,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Axione delegation,Axione (Bouygues Energies & Services-Axione),backbone,,"Axione, outgoing operator under delegated service, ending Nov 2026",,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state),,2026-09-15-gab-gabonreview-gabon-fiber-connectivite-etendue-performante
+GAB,Gabon Fiber,Gabon Fiber SA,backbone,,Gabon Fiber SA,,2026-09-15-gab-gabonreview-gabon-fiber-connectivite-etendue-performante
+GAB,Backbone national gabonais,Backbone National Gabonais (BNG),backbone,,SPIN (state),,2026-09-14-gab-agp-spin-gabon-fiber-partenariat-backbone-national
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A.,,2026-09-14-gab-agp-spin-gabon-fiber-partenariat-backbone-national
+GAB,Backbone national gabonais,Gabonese National Backbone,backbone,,SPIN,,2026-09-11-techafricanews-gabon-national-backbone-3420km
+GAB,Gabon Fiber,Gabon Fiber,backbone,,Gabon Fiber,,2026-09-11-techafricanews-gabon-national-backbone-3420km
+GAB,Backbone national (BNG),Backbone national,backbone,fibre optic along railway,Axione Gabon (operator),"ISPs and mobile operators (Moov Africa, Airtel) depend on it",2026-08-25-gabonclic-backbone-national-panne-lope-sabotage
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,fibre optic,"SPIN (asset company); Lambarene-Mouila section prefinanced by Moov Africa Gabon Telecom, ceded to Gabon Fiber",,2026-10-08-gab-spin-backbone-lambarene-mouila
+GAB,Fougamou and Mouila technical centres,Centres Techniques,other,,ceded to Gabon Fiber,,2026-10-08-gab-spin-backbone-lambarene-mouila
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,fibre optic,SPIN,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,Gabon-Equatorial Guinea backbone interconnection (Meyo-Kye-Ebebeyin),interconnexion des dorsales,other,fibre optic cross-border,SPIN / Equatorial Guinea,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,Gabon component of the Central African Fibre Optic Backbone (CAB),Gabon-ICT backbone project,other,fibre optic,Government of Gabon,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,,"state, via SPIN; extension by Gabon Fiber S.A.",,2026-09-14-gab-agp-gabon-fiber-41-milliards-fcfa-1650-km-fibre
+GAB,national fibre network (SPIN),"2,000 km of fibre",backbone,,SPIN,,2026-07-27-agp-gabon-communications-spatiales-11-recommandations-souverainete
+GAB,Moov Africa FTTH,FTTH,other,,Moov Africa Gabon Telecom,,2025-01-29-gabon-moov-ftth-coverage-leader
+GAB,Airtel FTTH and microwave transport authorisation,reseau fixe technologiquement neutre,other,,Airtel Gabon,,2025-01-07-gabon-airtel-fixed-services
+GHA,CSquared/NEDCo northern fibre project,,other,,CSquared Ghana Ltd; NEDCo power lines,,2026-09-09-ustda-csquared-ghana-fibre-feasibility
+GHA,Dig Once policy (road fibre chambers),Dig Once,other,,"Ministry of Communication, Digital Technology and Innovations",,2026-05-14-dig-once-policy-fibre-cost-cut-myjoy
+GHA,MTN Ghana fibre network,MTN fibre network,other,,MTN Ghana,,2026-04-18-mtn-fibre-cable-sabotage-157-sites-myjoy
+GIN,Backbone national,dorsale nationale de fibre optique,backbone,Huawei technical support,SOGEB,,2026-05-22-guinee-backbone-capacite-400-gbs-huawei
+GIN,National backbone,national backbone,backbone,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
+GIN,Guinea national data centre (Tier 3),,other,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
+GIN,Internet Exchange Point,IXP,other,,,,"2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026"
+GIN,Backbone national,Backbone national,backbone,,SOGEB,,2025-12-26-mediaguinee-univ-connect-17-universities
+GIN,Réseau métropolitain de Conakry,,other,,,,2025-12-26-mediaguinee-univ-connect-17-universities
+GMB,National Broadband Network (NBN),National Broadband Network (NBN),backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,ECOWAN,ECOWAN,backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,Cross Gambia Fiber Cable network (CG2),Cross Gambia Fiber Cable network (CG2),backbone,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,ACE submarine cable,ACE submarine cable,other,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,GAMTEL national internet backbone,GAMTEL national internet backbone,backbone,,GAMTEL,,2026-01-05-gamtel-sysroad-50m-ppp-broadband-techafricanews
+GMB,GAMTEL-SYSROAD PPP,GAMTEL-SYSROAD PPP,other,,GAMTEL / SYSROAD SA HOLDING,,2026-01-05-gamtel-sysroad-50m-ppp-broadband-techafricanews
+GMB,GAMTEL national broadband backbone,GAMTEL national broadband backbone,backbone,,GAMTEL,,2026-01-01-sysroad-gmb-2026-gamtel-broadband-ppp-bw07
+GMB,Gambia National Broadband Network (GNBN),Gambia National Broadband Network (GNBN),backbone,,GAMTEL,,2017-12-22-eximbank-cn-gmb-001-record
+GMB,ECOWAN,ECOWAN,backbone,,GAMTEL,,2017-12-22-eximbank-cn-gmb-001-record
+GMB,NBN data centre,NBN data centre,other,,GAMTEL,,2017-12-22-eximbank-cn-gmb-001-record
+GNB,WARDIP-GB fibre-optic backbone,rede de espinha dorsal de fibra ótica (WARDIP-GB),other,,"Government of Guinea-Bissau, World Bank financed",,2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)
+GNB,Espinha Dorsal Nacional de Fibra Óptica (WARDIP),Espinha Dorsal Nacional / Rede Nacional de Fibra Óptica,other,,Government of Guinea-Bissau; a private partner to be selected with an exclusive wholesale licence,,2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)
+GNB,ACE submarine cable,Africa Coast to Europe (ACE),other,,,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
+GNB,Bissau fibre metro network,,other,,,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
+GNB,Transport link to Sonatel (Senegal),,other,,Sonatel,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
+GNB,National fibre-optic backbone (WARDIP PPP),infraestrutura nacional de backbone de fibra óptica,other,,"Government of Guinea-Bissau (MTTED), World Bank IDA financed",,2026-03-17-wardip-concurso-internacional-rede-nacional-fibra-optica
+GNQ,Backbone National Gabonais (BNG),GAB,other,,SPIN (Gabon),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GNQ,réseau national équato-guinéen de fibre optique,GNQ,backbone,,,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GNQ,"Central African Fibre Optic Backbone (CAB), Gabon component",GAB,other,,Government of Gabon,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+GNQ,"red nacional de fibra óptica de SEGESA (2,000 km, along electricity infrastructure)",GNQ,other,,SEGESA,,2026-06-13-segesa-comercializar-red-fibra-optica
+GNQ,ACE,GNQ,other,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Medusa (GNQ landing),GNQ,other,,AFR-IX Telecom,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Via Africa,GNQ,other,,consortium of seven operators,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,"Medusa submarine cable landing at Bome, Bata",Medusa,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg
+GNQ,ASD cable,ASD,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg
+KEN,"National fibre backbone extension under KDEAP (KSh 13bn, at least 27,000 km)",KDEAP backbone and cross-border links framework tender,other,,ICT Authority; State Department for ICT; World Bank support,,2026-10-13-ken-techafricanews-ksh13bn-fibre-backbone
+KEN,"ICTA tender KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links",Lot 1 National Backbone Links,other,,ICT Authority (sole employer; World Bank credits 7289-KE and 7290-KE),,2026-09-16-itweb-africa-kenya-ica-national-fibre-backbone-tender
+KEN,"ICTA tender KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links",Lot 1 National Backbone Links,other,,ICT Authority (sole employer; World Bank KDEAP),,2026-09-16-ken-techtrendske-icta-kdeap-national-backbone-cross-border-tender
+KEN,"ICTA tender KE-ICTA-538567-NC-RFB, Lot 2 Cross-Border and Metro Links",Lot 2 Cross-Border and Metro Links,other,,ICT Authority,,2026-09-16-ken-techtrendske-icta-kdeap-national-backbone-cross-border-tender
+KEN,"ICTA tender KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links",Lot 1 National Backbone Links,other,,ICT Authority (sole user; USD 390m World Bank credits 7289-KE/7290-KE),,2026-09-16-techafricanews-kenya-icta-fibre-backbone-tender
+KEN,"ICTA tender KE-ICTA-538567-NC-RFB, Lot 2 Cross-Border and Metro Links",Lot 2 Cross-Border and Metro Links,other,,ICT Authority,,2026-09-16-techafricanews-kenya-icta-fibre-backbone-tender
+KEN,Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro),Terrestrial Fiber Link,other,,ICT Authority (Kenya) and TTCL (Tanzania),,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+KEN,National ICT Broadband Backbone (NICTBB),NICTBB,backbone,,ICT Authority,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+KEN,National Optic Fibre Backbone Infrastructure (NOFBI),NOFBI / Kenya National Fibre Backbone Infrastructure II,backbone,Huawei-built,Government of Kenya,,2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650
+KEN,Project East2West,East2West,other,,"Bayobab (MTN), Africa50",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+KEN,Liquid national long-distance fibre network,Liquid Intelligent Technologies Kenya fibre,backbone,,Liquid Intelligent Technologies (Cassava Technologies),,2026-09-10-liquid-kenya-ai-next-growth-frontier
+KEN,National Optic Fibre Backbone Infrastructure (NOFBI),NOFBI,backbone,ZTE/Huawei,Government of Kenya,,2026-02-05 Chinas infrastructure finance in Africa impacts and lessons
+KEN,Konza Technopolis data centre,Konza,other,Huawei EPC,,,2026-02-05 Chinas infrastructure finance in Africa impacts and lessons
+KEN,National Optic Fibre Backbone Infrastructure (NOFBI),NOFBI,backbone,,,,2023-01-01-unicef-ken-giga-eu-2023-scaling-up-school-connectivity-in-kenya
+KEN,NOFBI (Kenya National Optical Fiber Backbone Infrastructure),NOFBI,backbone,,Government of Kenya (Ministry of ICT),,2022-01-01-ken-last-mile-county-connectivity-project-lmccp
+KEN,Airtel Kenya Telesonic wholesale fibre,Airtel Kenya Telesonic Limited,other,,Airtel Africa,,2026-09-14-ken-techweez-airtel-telesonic-fibre-unit-shutdown
+KEN,LuLu Coastal Cable System,LuLu,other,,INDOI Ltd with partners,,2026-09-10-ken-lulu-coastal-submarine-cable
+KEN,LuLu Coastal Cable System,LuLu,other,,INDOI Ltd with partners,,2026-09-09-techtrendske-lulu-coastal-cable-kenya
+KEN,Paratus Goma-to-Mombasa (G2M) route,G2M,backbone,,Paratus Group,,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
+KEN,"KDEAP Extending National Backbone and Cross Border Links framework agreement (RFB KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links, Lot 2 Cross Border and Metro Links)","National Backbone Expansion (middle mile), KDEAP subcomponent 1.1",other,,"ICT Authority (ICTA), World Bank financed",,2026-09-15-ken-icta-rfb-538567-national-backbone-cross-border-links
+LBR,expanded fiber-optic connectivity (planned),,other,,Ministry of Posts and Telecommunications,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
+LBR,fiber-optic network Monrovia-Buchanan-Loguatuo,,backbone,,,,2026-01-29-liberia-verge-5g-revolution-observer
+LBR,second submarine cable landing at Buchanan (planned),,other,,,,2026-01-29-liberia-verge-5g-revolution-observer
+LBY,Hatef Libya fibre-optic cable between Ghat and Tahala,كابل الألياف البصرية بين غات وتهالة,other,,Hatef Libya (Libya Telecom & Technology LPTIC group),Almadar Aljadid and Libyana services in Ghat and Tahala municipalities,2026-05-30-ghat-tahala-fibre-cut-restored-alwasat
+LSO,WIOCC Group open-access terrestrial fibre,,,,WIOCC Group,,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity
+LSO,Roma to Thaba-Tseka optical fibre stretch,,backbone,,Government of Lesotho,,2025-02-19-lesotho-budget-speech-2025-26
+LSO,LEMOFI (Lesotho Metropolitan Fiber Distribution Network),LEMOFI,other,,,,2025-02-19-lesotho-budget-speech-2025-26
+MAR,"Uni Fiber FTTH passive sharing (40,000 premises lot)",partage passif FTTH,other,,Uni Fiber / Maroc Telecom,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
+MAR,FiberCo,FiberCo,other,,Maroc Telecom and Inwi joint venture,,2025-04-02-connectingafrica-maroc-telecom-inwi-fiber-5g
+MDG,Telma terrestrial fibre,Telma,other,,Telma,,2025-07-01-madagascar-data-center-market-brief-xalam
+MDG,Orange Madagascar Tana-Mahajanga fibre backbone,backbone national Orange,backbone,,Orange Madagascar,,2025-12-05-orange-fibre-tana-mahajanga-2424
+MDG,Orange Madagascar Tana-Toamasina fibre link,,backbone,,Orange Madagascar,,2025-12-05-orange-fibre-tana-mahajanga-2424
+MLI,Maroc Telecom transafrican terrestrial cable,"5,700 km terrestrial cable Morocco-Mauritania-Mali-Burkina Faso-Niger",other,,Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+MLI,Trans-Sahara Optical Fibre Backbone Project (TSB),Trans-Sahara Optical Fibre Backbone,other,,Niger Telecoms (Niger section),,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+MLI,dorsale nationale en fibre optique,dorsale nationale en fibre optique redondante et sécurisée,backbone,,,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
+MLI,SMTD-SA,Société malienne de Transmission et de Diffusion,,,State company,,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete
+MLI,Moov Africa Malitel FTTH,fibre optique FTTH,other,,Moov Africa Malitel,,2026-07-23-malitel-adsl-ftth
+MLI,Moov Africa Malitel fibre plans,"fibre-optic internet plans, Bamako, Kayes, Sikasso, Segou, Mopti, Koulikoro",other,,Moov Africa Malitel (SOTELMA),,2026-06-15-ecofin-moov-africa-doubles-fibre-ai-assistant-mia
+MOZ,Project East2West,East2West,other,terrestrial fibre (dark and active capacity),Bayobab (MTN GlobalConnect Solutions) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+MOZ,Tmcel backbone fibre network,Tmcel backbone fibre,backbone,fibre optic with OTN transport equipment,Tmcel (state operator),,2026-09-17-moz-clubofmozambique-tmcel-mobile-network-strategic-partner
+MOZ,Tmcel national mobile network modernisation,Modernization and Expansion of the National Mobile Network,other,"mobile network, Huawei as partner",Tmcel,,2020-01-01-eximbank-cn-moz-002-modernization-and-expansion-of-the-national
+MRT,"Maroc Telecom transafrican terrestrial cable (Morocco-Mauritania-Mali-Burkina Faso-Niger, 5,700 km)",,other,,Maroc Telecom,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+MRT,"Missing backbone sections (WARDIP 1, two works lots) and backbone equipment supply (WARDIP 2)",tronçons de backbone manquants; backbone national,other,,MTNIMA / WARDIP-Mauritanie,,2026-03-13-mtnima-wardip-plan-passation-marches-2026-actualisation-1
+MRT,"Missing backbone sections (item 1, two works lots) and backbone equipment supply (item 2)",tronçons de backbone manquants; backbone national,other,,MTNMA / WARDIP-Mauritanie,,2026-02-01-wardip-mauritanie-plan-previsionnel-passation-marches-2026
+MRT,SDIN national optical fibre network,reseau national de fibre optique,backbone,,Societe nationale de developpement des infrastructures numeriques (SDIN),,2025-12-16-ami-inauguration-siege-sndin-reseau-fibre-1760-km
+MRT,WARCIP APL2 five fibre-optic links,fibre optic backbone,backbone,,"SDIN (state vehicle), operated by IMT under affermage",,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national
+MRT,"National/regional IXP, carrier hotel and data center",IXP,other,,,,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national
+MRT,ACE submarine cable,ACE,other,,,,2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national
+MUS,WIOCC terrestrial fibre investment,,other,,WIOCC Group (WIOCC Mauritius Ltd borrower),,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
+MUS,LION / LION2 cables,,other,,,,2026-08-02-google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur
+MUS,America-India Connect cable,,other,,Google,,2026-08-02-google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur
+MUS,MARS submarine cable bandwidth contract,,other,,Rodrigues Regional Assembly,,2026-02-01-mus-certificate-of-audit-report-of-the-director-of-audit-on-the-accounts-o-companion
+MUS,"SAFE, LION/LION2, METISS, T4 cables",,other,,Mauritius Telecom,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Mauritius Internet Exchange Point (MIXP),,other,,,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MWI,National Fibre Backbone Project Phase II,National Fibre Backbone Project,backbone,Huawei-built fibre,Government of Malawi; loan on-lent to ESCOM,,2020-01-01-eximbank-cn-mwi-002-china-eximbank-provides-rmb-693-million
+MWI,National Data Centre (Blantyre),National Data Centre,other,Huawei,Government of Malawi,,2020-01-01-eximbank-cn-mwi-002-china-eximbank-provides-rmb-693-million
+MWI,National Fibre Backbone Project Phase I,Malawi National Fibre Backbone Project,backbone,Fibre on ESCOM power transmission towers,Government of Malawi; ESCOM towers,24 of 28 districts,2016-01-01-eximbank-cn-mwi-001-china-eximbank-provides-rmb-1554-million
+MWI,Project East2West,Project East2West,other,"terrestrial fibre, dark and active capacity",Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+MWI,Digital Malawi Acceleration Project (DMAP),DMAP,other,,Government of Malawi; World Bank funded,,2026-09-03-itweb-africa-malawi-connectivity
+MWI,Last Mile Rural Connectivity Project,Last Mile Rural Connectivity Project,other,rural telecom towers,Government of Malawi,,2026-09-03-techafricanews-malawi-36th-rural-tower
+MWI,Digital Malawi Acceleration Project (DMAP),DMAP,other,,"MACRA, World Bank supported",,2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews
+MWI,ESCOM national fibre backbone,ESCOM Optic Fibre Communications Business,backbone,"DWDM and MPLS, OSN equipment, fibre on electricity poles",ESCOM,,2025-10-07-mwi-escom-itu-africa-broadband-mapping-presentation
+MWI,National Fibre Backbone Project,National Fibre Backbone Project,other,,Government of Malawi,,2019-01-01-ccb-mwi-001-china-construction-bank-provides-569-million
+MWI,Digital Malawi Acceleration Project (DMAP) fibre target,DMAP (P505095),other,,Government of Malawi / World Bank,,2024-05-05-dmap-world-bank-appraisal-pid
+MWI,Digital Malawi Foundations Project last-mile fibre to government institutions,Digital Malawi Phase 1,other,,Government of Malawi,,2024-05-05-dmap-world-bank-appraisal-pid
+MWI,MAREN hub-and-spoke school connectivity,Malawi Research and Education Network,other,,MAREN,,2024-05-05-dmap-world-bank-appraisal-pid
+MWI,"National data center Lilongwe, fibre link to Blantyre data center",national data center,other,,Government of Malawi,,2024-05-05-dmap-world-bank-appraisal-pid
+NAM,Lightstruck open-access fibre network,Lightstruck network,other,,"Lightstruck (Pty) Ltd, CRAN-licensed network facilities licensee",Telecom Namibia as service provider,2026-06-08-telecom-namibia-lightstruck-open-access-fibre-partnership
+NAM,Telecom Namibia long-distance fibre routes,fibre backbone networks,backbone,,Telecom Namibia,,2026-05-20-telecom-namibia-network-modernisation-fibre-redundancy
+NAM,Telecom Namibia countrywide fibre rollout,rollout of fiber countrywide,other,,Telecom Namibia,,2026-05-20-telecom-namibia-network-modernisation-fibre-redundancy
+NAM,Radio Access Network sites (Universal Service Fund),RAN sites,other,,CRAN / Universal Service Fund,,2025-05-07-mict-vote29-budget-motivation-fibre-internet-penetration
+NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2026-08-10-niger-china-eximbank-national-backbone-loan-aiddata
+NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2014-01-02-eximbank-cn-ner-001-national-backbone-fiber-optic-cable-network
+NER,Maroc Telecom transafrican terrestrial cable,Transafrican terrestrial fibre cable,other,,Maroc Telecom,Moov Africa Niger,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+NER,Trans-Saharan fiber optic backbone project (DTS),DTS,other,,,,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone
+NER,Trans-Saharan fibre-optic backbone,dorsale transsaharienne a fibre optique,,,,,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"National Tier III data centre, Niamey",,other,,,,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"88 km urban local loop, Niamey",,other,,,,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2026-03-17-lesahel-copil-dts-ptba-2026-2027
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"National Tier III data centre, Niamey",,other,,,,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"88 km urban local loop, Niamey",,other,,,,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"Tier III data centre, Niamey",,other,,,,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,Dorsale Transsaharienne a Fibre Optique (DTS/FO),DTS/FO,backbone,,"Government of Niger (Ministry of Communication, Niger Telecom premises); AfDB-financed NEPAD project",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,Dorsale Transsaharienne a Fibre Optique (DTS),DTS,backbone,,Government of Niger (MCNTI); AfDB-supported,,2025-11-14-mcnti-niger-receptionne-troncons-dts
+NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-09-25-world-bank-nga-2026-project-bridge-timeline-accelerated
+NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-26-nigeria-project-bridge-90000km-fibre-barriers-sun
+NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-20-punch-nigeria-project-bridge-fibre-october
+NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-13-nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50
+NGA,Project BRIDGE,Project BRIDGE (Building Resilient Digital Infrastructure for Growth),other,,"Bridge Open Access SPV, government minority stake",,2026-08-10-nigeria-project-bridge-execution-phase-bridge-oa
+NGA,Project BRIDGE national fibre backbone,Project BRIDGE,other,,Project BRIDGE SPV (planned),,2026-08-04-nigeria-project-bridge-fibre-spv
+NGA,Nigeria national fibre (NCC-reported),Project BRIDGE,other,,multiple operators,,2026-07-29-how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians
+NGA,Project BRIDGE national fibre backbone,Project BRIDGE,other,,Project BRIDGE SPV (planned),,2026-04-14-afdb-200m-project-bridge-dvibe
+NGA,Project BRIDGE national fibre backbone,Project BRIDGE,other,,Project BRIDGE SPV (planned),,2025-10-07-world-bank-approves-bridge-nigeria-digital-health-security
+NGA,Project BRIDGE national fibre backbone,Project BRIDGE,other,,Project BRIDGE SPV (planned),,2025-09-08-world-bank-bridge-nigeria-project-appraisal-document
+NGA,Project BRIDGE,Project BRIDGE,other,,"Federal Ministry of Communications, Innovation and Digital Economy",,2025-05-18-fg-2bn-fibre-project-bridge-tijani
+NGA,Project BRIDGE,Project BRIDGE,other,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-10-04-nga-gentechnews-ncc-communique-digital-connectivity-investment-forum
+NGA,Project BRIDGE,Project BRIDGE,other,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-04-22-fmcide-project-bridge-prequalification-invitation
+NGA,Project BRIDGE,Project BRIDGE,other,,Government of Nigeria,,2026-01-01-african-development-bank-nga-2026-nigeria-project-bridge-dvibe-bw11
+NGA,Project BRIDGE,Nigeria Sovereign Fibre Project,other,,SPV with Federal Government of Nigeria participation,,2026-01-01-ebrd-nga-001-nigeria-sovereign-fibre-project-project-bridge
+NGA,National Fiber Backbone Expansion Feasibility Study,National Fiber Backbone Expansion Feasibility Study,other,,USTDA-funded,,2024-01-01-ustda-nga-national-fiber-backb-2024-national-fiber-backbone-expansion-feasibility-study
+NGA,Project BRIDGE,Project BRIDGE,other,,Federal Government,,2026-10-05-nga-fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks
+NGA,Project BRIDGE,Project BRIDGE,other,,"Federal Government, PPP",,2026-09-28-nga-businessday-nigeria-66-fibre-delays-unfinished-digital-agenda
+NGA,Bridge Open Access,Bridge Open Access,other,,,,2026-09-16-nga-businessday-52000km-fibre-gap-sovereign-bond-plan
+NGA,National Backbone Consortium,National Backbone Consortium,other,,,,2026-09-16-nga-businessday-52000km-fibre-gap-sovereign-bond-plan
+NGA,Project BRIDGE,Project BRIDGE,other,,Federal Government of Nigeria,,2026-09-14-bosun-tijani-withdraws-itu-deputy-secretary-general-race-techafricanews
+NGA,MTN Nigeria national terrestrial fibre network,MTN national terrestrial fibre network,backbone,,MTN Nigeria,,2026-09-14-mtn-nigeria-fibre-market-share-techcabal
+NGA,Project BRIDGE,Project BRIDGE,other,,Federal Government of Nigeria,,2026-09-13-nga-business-times-tinubu-brics-digital-investment
+NGA,Project BRIDGE,Project BRIDGE,other,,Federal Government of Nigeria,,2026-08-31-von-nigeria-sovereign-ai-gitex
+NGA,Nigeria fibre-optic backbone expansion feasibility study (USTDA),,other,,USTDA (funder),,2026-08-18-ustda-authority-beyond-income-limits-africa-digital
+NGA,Project BRIDGE,Project BRIDGE (Bridge Open Access),other,,Federal Government via Bridge Open Access SPV,,2026-08-09-nigeria-bridge-open-access-incorporation
+NGA,Project BRIDGE,Project BRIDGE (Bridge Open Access),other,,Federal Government via Bridge Open Access SPV,,2026-08-05-bridge-nigeria-must-lay-up-to-80km-of-fibre-every-day-to-meet-2030-digital-economy-goal
+NGA,Project BRIDGE,Project BRIDGE (Bridge Open Access),other,,Federal Government via Bridge Open Access SPV,,2026-08-05-nitda-reaffirms-ai-commitment-launches-msme-training
+NGA,Project BRIDGE,Project BRIDGE (Bridge Open Access),other,,Federal Government via Bridge Open Access SPV,,2026-04-22-fg-nigeria-police-mou-digital-infrastructure
+NGA,Galaxy Backbone,Galaxy Backbone Limited,,,,,2026-04-22-fg-nigeria-police-mou-digital-infrastructure
+NGA,MainOne 250 km Akwa Ibom to Port Harcourt fibre,MainOne terrestrial middle-mile,other,,MainOne Solutions by Equinix,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
+NGA,PR1 data centre,PR1,other,,Equinix,,2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet
+NGA,Project Bridge,Project BRIDGE,other,,,,2026-01-01-xalam-nigeria-data-center-market-briefing
+NGA,Project Bridge,Project BRIDGE,other,,Federal Government of Nigeria (FMCIDE),,2025-01-01-european-union-nga-2025-eu-nigeria-digital-economy-package-bw07
+NGA,Project Bridge,Project BRIDGE,other,,Federal Government of Nigeria (FMCIDE),,2025-12-09-eu-global-gateway-45m-digital-economy
+NGA,Project Bridge,Project BRIDGE,other,,Federal Government of Nigeria (FMCIDE),,2025-01-15-ustda-nigeria-enhance-internet-access
+NGA,WIOCC terrestrial fibre investment,,other,,WIOCC Group,,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan
+NGA,Project BRIDGE,"Project BRIDGE (90,000km planned national fibre network)",other,,"Bridge Open Access (SPV; MoFI 25-49%, private investors 51-75%)",,2026-09-25-nga-punchng-fg-fibre-1-2bn-private-funding
+NGA,Katsina State fibre network,,other,,Katsina State Government (KIPA),state,2026-08-28-dailyquery-katsina-fibre-consumer-rollout
+NGA,"90,000 km national fibre network (bridge project)",NGA,other,,Nigeria federal government,,2026-08-15-burkina-faso-nigeria-digital-cooperation-ouagadougou
+NGA,"BRIDGE (90,000 km open-access fibre)",BRIDGE,other,,Nigeria federal government,,2026-08-13-infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-coop
+NGA,"90,000 km national fibre network (BRIDGE)",Project BRIDGE,backbone,,Nigeria federal government / project company,,2026-08-04-nigeria-90000km-fibre-optic-rollout-tijani
+NGA,"BRIDGE (90,000 km fibre, 774 LGAs)",BRIDGE,other,,"Project company SPV, government 49% via MOFI",,2026-01-30-nigeria-49pct-stake-bridge-fibre-spv
+NGA,"MTN Nigeria 400G/800G Hybrid ASON DWDM network, Lagos",,other,Huawei OXC/ASON,MTN Nigeria,,2025-10-22-mtn-huawei-400g-800g-optical-network
+NGA,Galaxy Backbone national ICT infrastructure,Galaxy Backbone national ICT infrastructure,backbone,,Galaxy Backbone Limited,federal MDAs,2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf
+NGA,NSSC DC1 Abuja,NSSC DC1 Abuja,other,,Galaxy Backbone Limited,federal MDAs,2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf
+NGA,NICTIB,NICTIB,backbone,,Galaxy Backbone Limited,federal MDAs,2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre
+NGA,GBB Kano Tier IV data centre,GBB Kano Tier IV data centre,other,,Galaxy Backbone Limited,federal MDAs,2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre
+NGA,Galaxy Backbone Fiber Optics Backbone Network,Galaxy Backbone Fiber Optics Backbone Network,backbone,,Galaxy Backbone Limited,federal MDAs,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,Abuja Metro Fiber Network,Abuja Metro Fiber Network,other,,Galaxy Backbone Limited,federal MDAs,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,GBB LTE base stations,GBB LTE base stations,other,,Galaxy Backbone Limited,federal MDAs,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,Kano Data Recovery and Business Continuity centre,Kano Data Recovery and Business Continuity centre,other,,Galaxy Backbone Limited,federal MDAs,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
+NGA,Galaxy Backbone nation-wide IP broadband network,Galaxy Backbone nation-wide IP broadband network,other,,Galaxy Backbone Limited,federal MDAs,2019-06-03-galaxy-backbone-mandate
+RWA,Project East2West,East2West,other,terrestrial fibre (dark fibre and active capacity),Bayobab (MTN GlobalConnect) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+RWA,National Backbone Optic Fiber,National Backbone Optic Fiber,backbone,,Government of Rwanda; managed and operated by a designated company under an SLA with RDB,central and local government institutions,2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012
+RWA,National Data Center,NDC,other,,"Government of Rwanda, run by a selected managing company",government institutions,2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012
+RWA,Liquid Intelligent Technologies fibre network,Liquid fibre network,backbone,terrestrial fibre,Liquid Intelligent Technologies (Cassava Technologies),,2026-09-10-liquid-kenya-ai-next-growth-frontier
+RWA,GovNet,GovNet,other,,Government of Rwanda (RISA),"central, district, sector and cell levels",2025-07-09-rdap-fast-track-2026-newtimes
+SDN,Sudatel terrestrial fibre network,Sudatel / Sudani fibre backbone,backbone,,Sudatel Telecommunications Group,,2026-08-29-sudatel-fy2025-results
+SDN,Horizon Fiber Initiative,Horizon Fiber Initiative,other,,Ethio Telecom; Djibouti Telecom; Sudatel Group,,2026-02-11-dcd-horizon-fiber-agreement
+SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Phase3-Sonatel route,other,terrestrial fibre,Phase3 Telecom and Sonatel,"hyperscalers, CDNs, operators, financial institutions, governments",2025-05-09-techafricanews-phase3-sonatel-fibre
+SEN,"Sonatel fibre (1,000th fibre plaque)",Fibre Sonatel,other,,Sonatel,"individuals, businesses, institutions",2026-04-30-sonatel-reaffirme-son-ambition-pour-un-numerique-a-impact
+SEN,SENUM SA fibre network,Réseau fibre optique de Sénégal Numérique SA,backbone,,Sénégal Numérique SA,"administrative buildings (400+ by fibre, 174 PTP, 252 4G LTE)",2025-01-01-senum-transformation-digitale-administration
+SEN,Praia-Dakar submarine cable,Câble sous-marin Praia-Dakar,other,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SLE,National Fibre Optic Backbone Infrastructure Project Phase 2,National Fibre Optic Backbone Infrastructure Project,backbone,Huawei (EPC contractor),"Sierra Leone Cable Company Limited (SALCAB), state-owned",,2019-01-01-eximbank-cn-sle-001-china-eximbank-provides-rmb-207-million
+SLE,national fiber backbone (NFB),national fiber backbone,backbone,,,,2026-05-05-sierra-leone-400m-telecom-usage-gap
+SLE,National Data Centre (NatCA HQ),National Data Centre,other,,NatCA / MoCTI,,2026-04-17-natca-hq-national-data-centre
+SLE,Cross-border interconnection with Guinea,interconnection with Guinea,other,,,,2025-07-31-salima-bah-tech-ambition-interview
+SLE,Open-access 5G standalone network,open-access 5G standalone network,other,,,,2025-07-31-salima-bah-tech-ambition-interview
+SOM,WIOCC Group open-access terrestrial fibre footprint,,other,,WIOCC Group,,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity
+SOM,Somalia submarine cable systems,,other,,,,2026-06-22-somalia-ifc-submarine-cable-working-group
+SOM,EARDIP Technical Feasibility Study (backbone and cross-border route design),EARDIP,other,,Ministry of Communications and Technology (World Bank-funded),,2025-10-25-somalia-eardip-technical-feasibility-security-risk-consultancy
+SSD,"Juba-Nadapal fibre route (EARDIP, SS-MICT&PS-544330-NC-RFB)","Juba-Nadapal fibre route (EARDIP, SS-MICT&PS-544330-NC-RFB)",other,,Ministry of ICT and Postal Services,,2026-09-14-south-sudans-fibre-push-is-moving-from-promise-to-procurement
+SSD,National Backbone Fiber Network Project,National Backbone Fiber Network Project,backbone,,NCT South Sudan with Bayobab,,2026-03-04-nct-bayobab-national-backbone-fiber-techreviewafrica
+SSD,Project East2West,Project East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+SSD,"2,400km national fibre network plan","2,400km national fibre network plan",other,,Ministry of ICT and Postal Services,,2025-10-10-south-sudan-2400km-fibre-plan
+SSD,Cross-border fibre link from Uganda to Juba (2021),Cross-border fibre link from Uganda to Juba (2021),other,,,,2022-06-01-south-sudan-digital-economy-assessment
+SSD,Liquid national long-distance fibre,Liquid Intelligent Technologies fibre,other,,Liquid Intelligent Technologies (Cassava),,2026-09-10-liquid-kenya-ai-next-growth-frontier
+SSD,Route A-B Juba-Nadapal backbone (EARDIP),"Fibre Optic Network Backbone, Route A-B",other,,MICT&PS,,2026-09-10-ssd-mictps-rfb-eardip-fibre-route-a-b-juba-nadapal
+SSD,Project East2West (South Sudan),E2W,other,,Bayobab Infra Solutions Ltd (MTN Digital Infrastructure),,2025-11-25-bayobab-15yr-fibre-licence-techafricanews
+SSD,"2,400 km Indian Ocean-Kenya-South Sudan cable",,other,,MICT&PS with World Bank,,2025-10-09-2400km-fiber-optic-network-techafricanews
+SSD,Uganda-Juba fibre line (200 km),,other,,,,2025-08-08-fibre-from-kenya-itweb
+SSD,Kenya-South Sudan fibre link,,other,,MICT&PS,,2025-08-08-fibre-from-kenya-itweb
+SSD,South Sudan fibre optic project (Phase Two),fibre optic project,other,,Ministry of ICT & Postal Services; World Bank pledged $67m in 2023,,2025-06-30-9m-fiber-optic-design-onecitizendaily
+SSD,EARDIP fibre deployment in South Sudan (planned),Eastern Africa Regional Digital Integration Project (P176181),other,,World Bank IDA financing; Ministry of ICT and Postal Services (South Sudan),,2026-06-30-world-bank-eardip-isr-seq7
+SWZ,EPTC national backbone,national backbone infrastructure,backbone,,"EPTC (Eswatini Posts and Telecommunications Corporation), sole national backbone operator",,2026-06-01-esccom-notice-5-2026-eptc-jenny-decision
+SWZ,Jenny Internet Malutha Border Post cross-border fibre link,,other,,Jenny Internet Eswatini,,2026-06-01-esccom-notice-5-2026-eptc-jenny-decision
+SWZ,EPTC national backbone,national backbone infrastructure,backbone,,"EPTC, national backbone operator",,2023-10-03-uasf-connectivity-programmes
+SWZ,UASF Backbone Network redundancy route to Maputo via MOTRACO powerline fibre,Backbone Network project,other,,UASF with EPTC,,2023-10-03-uasf-connectivity-programmes
+SWZ,Digital Eswatini Project fibre component,Digital Eswatini Project,other,,"Ministry of ICT, World Bank funded",,2026-07-22-independentnews-digital-eswatini-project-leadership
+SWZ,nationwide optical fibre rollout,optical fibre network,backbone,,Ministry of ICT,,2026-02-13-optical-fibre-rollout-strengthens-business-ecosystem
+SWZ,nationwide fibre optic rollout,,backbone,,Government of Eswatini with World Bank support,,2025-08-04-eswatini-ramps-up-tech-reform-legislation-5g
+SYC,CWS fibre broadband network (50G PON),Fibre Broadband,other,50G PON,Cable & Wireless Seychelles,,2026-04-02-linkedin-cws-fibre-broadband-upgrade
+SYC,PEACE cable (Seychelles branch),PEACE,other,,Seychelles Cable Systems Co. Ltd,,2023-01-06-nation-sc-peace-operational-seychelles
+SYC,SEAS cable,SEAS,other,,Seychelles Cable Systems Co. Ltd,,2023-01-06-nation-sc-peace-operational-seychelles
+TCD,réseau national de fibre optique (PMICE),réseau national de fibre optique,backbone,,Government of Chad,"Airtel, Moov Africa ordered to connect",2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale
+TCD,"Trans-Saharan fiber optic backbone (DTS), Chad component",Dorsale transsaharienne,other,,,,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone
+TCD,Dorsale transsaharienne à fibre optique,Dorsale transsaharienne,other,,,,2026-10-09-tcd-tachad-tchad-le-ministre-des-telecommunications-echange-avec-les-pa
+TCD,Libya interconnection,interconnexion avec la Libye,other,,,,2026-10-09-tcd-tachad-tchad-le-ministre-des-telecommunications-echange-avec-les-pa
+TCD,Nigeria link (prospective),connexion avec le Nigeria,other,,,,2026-10-09-tcd-tachad-tchad-le-ministre-des-telecommunications-echange-avec-les-pa
+TCD,backbone national en fibre optique,réseau national de fibre optique,backbone,,Chadian State,operated by Sotel Tchad and Sudachad,2026-09-17-tcd-agenceecofin-infrastructure-numerique-8000-km-fibre-optique
+TCD,PMICE,Projet de modernisation des infrastructures de communications électroniques,backbone,,Government of Chad,,2026-09-17-tcd-agenceecofin-infrastructure-numerique-8000-km-fibre-optique
+TCD,Dorsale transsaharienne (DTS),DTS,backbone,,,,2026-09-17-tcd-agenceecofin-infrastructure-numerique-8000-km-fibre-optique
+TCD,national fiber backbone (government),national fiber backbone,backbone,,government,,2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov
+TCD,PMICE national backbone,backbone national (PMICE),backbone,Huawei,Government of Chad (PMICE),,2026-05-21-digitalbusinessafrica-pmice-data-center-national-verifications
+TCD,National Data Center,Data Center national,other,,Government of Chad (PMICE),,2026-05-21-digitalbusinessafrica-pmice-data-center-national-verifications
+TCD,Trans-Saharan Fiber Optic Backbone (DTS),Dorsale Transsaharienne,other,,,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,N'Djamena-Mbere fibre link,,other,,SOTEL,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,N'Djamena FTTH,,other,,SOTEL,,"2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena"
+TCD,N'Djamena-Mbere fibre route,,other,,Sotel and Airtel (MoU),,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica
+TCD,Dorsale Transsaharienne (DTS),Dorsale Transsaharienne a fibre optique,other,,Ministry of Telecommunications,,2026-01-11-tchadinfos-dts-degradations-site-bol
+TCD,PMICE,Projet de Modernisation des Infrastructures de Connectivité de l'État,backbone,,Ministry of Telecommunications (Safitel Tchad implementing),,2026-01-06 Chad invests 175m in national data center and networks
+TCD,PMICE,Projet de Modernisation des Infrastructures de Connectivité de l'État,backbone,,Ministry of Telecommunications (Safitel Tchad implementing),,2025-12-21-fibre-optique-moyen-chari-pmice-sarh
+TCD,PMICE,Projet de Modernisation des Infrastructures de Connectivité de l'État,backbone,,Ministry of Telecommunications (Safitel Tchad implementing),,2025-12-21-tchadinfos-fibre-optique-sarh-moyen-chari
+TCD,Dorsale transsaharienne,Dorsale transsaharienne à fibre optique,backbone,,,,2025-12-21-tchadinfos-fibre-optique-sarh-moyen-chari
+TCD,Trans-Saharan Fiber Optic Backbone (Chad component),Dorsale transsaharienne (DTS),backbone,,Government of Chad; built by CGPS/LORYNE; EU and AfDB support,,2025-03-07-trans-saharan-fiber-project-delays
+TCD,PMICE,Projet de modernisation des infrastructures de communications électroniques,backbone,,Government of Chad,,2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation
+TCD,Centre national des données numériques,,other,Huawei,Government of Chad,,2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation
+TCD,PMICE fibre programme (1200 km planned),Projet de modernisation des infrastructures de communication electronique,other,,Ministry of Telecommunications and Digital Economy,,2023-06-01-atpe-communication-electronique-tchad-modernise-infrastructures
+TCD,"PMICE fibre programme (775.54 km Abeche axis, 1200 to 2000 km planned)",Projet de modernisation des infrastructures de communications electroniques,other,,"Government of Chad, financed by China Eximbank loan",,2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine
+TGO,Yas Togo core and transmission network,Yas Togo,other,Nokia cloud-native,Yas Togo (AXIAN Telecom),,2025-12-19-yas-togo-nokia-partenariat-strategique
+TGO,Togocom backbone,backbone Togocom,backbone,,Togocom,,2023-02-20-togo-specifications-tic-administrations-acces-internet
+TGO,Societe d'Infrastructures Numeriques (SIN) fibre mutualisation,SIN,other,,State (created 2016),,2021-01-15-tgo-rtg-deploiement-systematique-fibre-optique
+TGO,SIN fibre network (Societe d'infrastructures numeriques),reseaux de fibre optique deployes pour la SIN,,,SIN (state digital infrastructure company),,2020-12-23-tgo-arcep-decret-2020-116-deploiement-fibre-optique
+TUN,Tunisie Telecom national fibre network,réseau national de fibre optique,backbone,,Tunisie Telecom,,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
+TUN,Sahetna,Sahetna,other,,Ministry of Health,,2026-09-29-tun-lapresse-telehealth-connect-health-id-2026
+TUN,"MEDUSA submarine cable (Tunisian section, Bizerte landing station)",MEDUSA,other,,Orange Tunisia,,2026-06-26-techafricanews-orange-medusa-cable-operational
+TUN,"MEDUSA submarine cable (Tunisian section, Bizerte landing station)",câble MEDUSA,other,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,"ViaTunisia (Medusa segment, Marseille-Bizerte)",ViaTunisia,other,,Orange,,2026-06-05-connectingafrica-viatunisia-subsea-live
+TUN,"ViaTunisia (Medusa segment, Marseille-Bizerte)",ViaTunisia,other,,Orange,,2026-06-03-orange-viatunisia-medusa-ready-for-service
+TUN,Medusa Submarine Cable System,Medusa,other,,Medusa Submarine Cable System,,2025-11-01-medusa-lands-in-bizerte
+TUN,MEDUSA,MEDUSA,other,,Medusa Submarine Cable System; Orange Tunisie owns the Bizerte landing station,,2025-11-01-tunisie-orange-cable-medusa-atterrissement-bizerte
+TUN,DIDON,DIDON,other,,Orange Tunisie with Ooredoo Tunisia,,2025-11-01-tunisie-orange-cable-medusa-atterrissement-bizerte
+TUN,Tunisie Telecom fibre network,plus de 50 000 km de fibre,,,Tunisie Telecom,,2024-11-30-tunisie-telecom-licence-5g-fibre-50000km
+TUN,RNIA,RNIA,,,Tunisie Telecom,"public administrations, public health, education and higher education",2024-11-30-tunisie-telecom-licence-5g-fibre-50000km
+TUN,Medusa Submarine Cable System,Medusa,other,,Medusa Submarine Cable System,,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement
+TUN,Didon cable,Didon,other,,Orange Tunisia with Ooredoo Tunisia,,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement
+TZA,Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro),Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro),other,,ICTA Kenya and TTCL,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,Government of Tanzania (MICIT); TTCL,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,NICTBB extension to DRC,NICTBB extension to DRC,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,National data centres Dodoma and Zanzibar,National data centres Dodoma and Zanzibar,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,Last-mile optic fibre to 100 institutions,Last-mile optic fibre to 100 institutions,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL,,2023-01-01-huawei-tza-001-national-ict-broadband-backbone-nictbb-extension
+TZA,Project East2West,Project East2West,other,,Bayobab (MTN GlobalConnect); Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,Government of Tanzania (transferred to government ownership 10 April 2026),,2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,TTCL (manager),,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Dar es Salaam Metropolitan Network,,other,,,,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,NICTBB extension to DRC (183 km),,other,,,,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,Ministry of Communications and IT,,2026-05-01-tanzaniainvest-micit-ict-budget-2026-27-sector-statistics
+TZA,NICTBB extension to DRC via Lake Tanganyika,,other,,,,2026-05-01-tanzaniainvest-micit-ict-budget-2026-27-sector-statistics
+TZA,Liquid national long-distance fibre,,backbone,,Liquid Intelligent Technologies,,2026-09-10-liquid-kenya-ai-next-growth-frontier
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,TTCL,,2026-09-09-ttcl-bbs-tanzania-burundi-capacity
+TZA,Tanzania-Burundi link,,other,,TTCL / Burundi Backbone System,,2026-09-09-ttcl-bbs-tanzania-burundi-capacity
+TZA,Mkongo wa Taifa (NICTBB),Mkongo wa Taifa,backbone,,Government,,2026-08-27-ippmedia-tanzania-rural-telecom-pm-statement
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,Faiba Mlangoni Kwako (FTTH),Faiba Mlangoni Kwako (FTTH),other,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,National Internet Data Centre (NIDC),National Internet Data Centre (NIDC),other,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-07-24-mwananchi-kairuki-mkongo-wa-taifa-dodoma
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Submarine cables at Dar es Salaam,Submarine cables at Dar es Salaam,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Internet Exchange Points,Internet Exchange Points,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Data centres,Data centres,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,"Metro fibre networks (Dar es Salaam, Arusha, Mwanza, Mbeya, Dodoma)","Metro fibre networks (Dar es Salaam, Arusha, Mwanza, Mbeya, Dodoma)",other,,consortium,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,758 communication towers,758 communication towers,other,,consortium,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-04-10-communications-sector-surges-400pc
+TZA,Public data centres (4),Public data centres (4),other,,,,2026-04-10-communications-sector-surges-400pc
+TZA,International submarine cables (3),International submarine cables (3),other,,,,2026-04-10-communications-sector-surges-400pc
+TZA,Mkongo wa Taifa wa Mawasiliano,Mkongo wa Taifa wa Mawasiliano (National ICT Broadband Backbone),backbone,,,,2025-05-16-tz-hotuba-bajeti-mawasiliano-2025-26
+UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,Government of Uganda,public institutions,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
+UGA,Uganda Telecom revival (RCC agreement),UTel,other,,Government of Uganda / Rowad Capital Commercial,,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
+UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,NITA-U,"MDAs, local governments, schools",2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan
+UGA,National Data Transmission Backbone Infrastructure Phase V,NBI/EGI Phase V,backbone,,NITA-U,,2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan
+UGA,National Data Transmission Backbone Infrastructure Phase V,NBI/EGI Phase V,backbone,,NITA-U,government and public sector offices,2023-01-01-eximbank-cn-uga-002-national-data-transmission-backbone-infrastructure-and
+UGA,National Data Transmission Backbone Infrastructure Phase V,NBI/EGI Phase V,backbone,,NITA-U,government sites,2023-01-01-press-chn-uga-2023-001-national-data-transmission-backbone-infrastructuree-government-infrastructure
+UGA,Project East2West,East2West,other,,Bayobab (MTN) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+UGA,National Backbone Infrastructure (NBI) Phase 5,NBI,backbone,optical fibre,NITA-U,"central and local government sites, schools, health facilities, police",2025-12-01-nita-u-nbi-phase5-kanungu-district
+UGA,National Backbone Infrastructure (NBI),NBI,backbone,optical fibre cable,NITA-U,"Government ministries, departments and agencies",2025-03-01-moict-ministerial-policy-statement-fy2025-26
+UGA,National Data Transmission Backbone Infrastructure (NBI),NBI,backbone,,NITA-U,all public bodies,2015-06-10-uga-gazette-nita-u-egovernment-regulations
+UGA,Liquid Intelligent Technologies fibre network,,other,fibre,Liquid Intelligent Technologies (Cassava Technologies),,2026-09-10-liquid-kenya-ai-next-growth-frontier
+UGA,Savanna Fibre Uganda 1Gbps fixed broadband,Savanna Fibre Uganda,other,,Savanna Fibre Uganda,,2026-05-04-savanna-fibre-uganda-1gbps-broadband
+UGA,Bayobab Kampala-Malaba railway fibre route,Kampala-Malaba fibre route,backbone,,"Bayobab Uganda (MTN Group), built with Uganda Railway",,2025-05-06-kampala-malaba-fibre-route-bayobab
+ZAF,WIOCC open-access terrestrial fibre footprint,,other,,Wiocc Group,,2026-09-01-wiocc-300m-techcentral
+ZAF,Openserve long-haul fibre network,Openserve,backbone,,Telkom (Openserve),,2026-09-07-openserve-third-fibre-route-south-africa
+ZAF,Comsol national 5G wholesale network,Comsol 5G home broadband network,other,ZTE 5G core and radio,Comsol,wholesale to ISPs and MVNOs,2026-08-20-techcentral-south-africa-comsol-5g-woan
+ZAF,Broadband Infraco national fibre network,Broadband Infraco (BBI),backbone,,"Broadband Infraco, state-owned","wholesale customers incl. SITA, Eskom",2026-04-28 State broadband merger limps into a second decade
+ZAF,SA Connect,South Africa Connect,other,,Department of Communications and Digital Technologies,,2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends
+ZAF,SA Connect Phase 2,SA Connect Phase 2,other,,Government (R3 billion programme),"unserved and underserved communities, government facilities",2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
+ZAF,SITA government network upgrade,State Information Technology Agency network upgrades,other,,SITA,6 343 government facilities,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
+ZAF,SAEx East subsea cable,SAEx East Subsea Fibre-Optic Cable Phase 1,other,,,,2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure
+ZMB,Project East2West,East2West,other,,Bayobab (MTN Group) with Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+ZMB,National Data Centre,National Data Centre,other,,Infratel (government),,2026-01-01-xalam-zambia-data-center-market-briefing
+ZMB,Infratel data centres (SMART Zambia),Infratel data centres,other,,Government via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
+ZMB,"Airtel Telesonic fibre assets (about 1,300 km)",,,,"Airtel Telesonic Zambia Limited, sold to Airtel Zambia",,2026-09-21-zmb-airtel-fibre-optic-network-k324m
+ZMB,Communication Towers Project Phase 2 (Smart Zambia National ICT Development Project Phase II),Communication Towers Project,other,Huawei,Government of Zambia,,2017-01-01-eximbank-cn-zmb-004-china-eximbank-provides-302-government-concessional
+ZMB,ZESCO national optical fibre backbone (Smart Zambia Phase II),ZESCO national optical fiber backbone,backbone,Huawei,ZESCO Limited,,2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential
+ZMB,Phase II metropolitan area network and IP access network,,other,Huawei,ZESCO Limited,,2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential
+ZMB,DZAP Component 1.1 Extending the backbone and regional network,Digital Zambia Acceleration Project (P505094),other,,Smart Zambia Institute (implementing agency); World Bank IDA US$20m plus US$10m commercial,,2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)
+ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,backbone,,Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Powertel-Paratus DWDM backhaul,,backbone,DWDM,Powertel and Paratus Zimbabwe (PPP),,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,DFA Zimbabwe rail-servitude backbone,,backbone,DWDM,DFA Zimbabwe with BCS Group and Dandemutande,"ISPs, mobile operators",2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,TelOne cross-border backbone expansions,,other,,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Google Umoja cable system,,other,,Google,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,ZINX,Zimbabwe Internet Exchange,other,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
+ZWE,Pangolin,Pangolin,,,,,2026-09-11-zwe-spikedmedia-national-ai-data-platform-tourism-statistics
+ZWE,Powertel-Paratus Plumtree-Bulawayo-Livingstone corridor,digital highway,other,DWDM,Powertel Communications / Paratus Zimbabwe,,"2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway"
+ZWE,Powertel-Paratus Plumtree-Bulawayo-Livingstone corridor,digital highway,other,"DWDM, 800Gbps initial",Powertel Communications,,2026-07-03-powertel-paratus-digital-highway
+ZWE,Liquid Intelligent Technologies national fibre backbone,Liquid,backbone,,Liquid Intelligent Technologies,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,TelOne national fibre backbone,TelOne,backbone,,TelOne,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Powertel national fibre backbone,Powertel,backbone,,Powertel,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,African Fibre Networks national fibre backbone,African Fibre Networks (formerly Dark Fibre Africa),backbone,,African Fibre Networks,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Dandemutande national fibre backbone,Dandemutande,backbone,,Dandemutande,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025
+ZWE,Africom national fibre backbone,Africom,backbone,,Africom,,2026-04-29-potraz-abridged-sector-performance-report-q4-2025

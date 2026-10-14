@@ -1,0 +1,36 @@
+{
+  "slug": "2022-01-01-ken-last-mile-county-connectivity-project-lmccp",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "Ministry of ICT page says Nairobi and 28 counties were connected to the Kenya National Optical Fiber Backbone Infrastructure (NOFBI) in phase I, 2012-2013.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "NOFBI",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "every-region",
+      "fact": "Ministry of ICT page says the remaining 18 counties and 3 towns were connected in phase 2, completed 2017, giving all 47 counties a NOFBI connection.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "NOFBI",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NOFBI (Kenya National Optical Fiber Backbone Infrastructure)",
+      "country_label": "NOFBI",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Kenya (Ministry of ICT)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

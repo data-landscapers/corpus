@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-16-techafricanews-kenya-icta-fibre-backbone-tender",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Tech Africa News says public-sector fibre coverage in Kenya rose from 22,486 km in 2022 to more than 30,400 km; no regions named; as_of is the published date as no count date is given.", "as_of": "2026-09-16", "date_precision": "day", "system": "Kenya public-sector fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "ICTA tender KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links", "country_label": "Lot 1 National Backbone Links", "class": "other", "platform": "", "owner": "ICT Authority (sole user; USD 390m World Bank credits 7289-KE/7290-KE)", "tiers": ""},
+    {"system": "ICTA tender KE-ICTA-538567-NC-RFB, Lot 2 Cross-Border and Metro Links", "country_label": "Lot 2 Cross-Border and Metro Links", "class": "other", "platform": "", "owner": "ICT Authority", "tiers": ""}
+  ],
+  "note": "Bids close 2026-10-29, no contract, so not building; call-offs by reverse auction among 5 to 20 providers under an ICTA-only framework, not open access."
+}

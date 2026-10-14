@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-14-gab-agp-spin-gabon-fiber-partenariat-backbone-national",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Agence Gabonaise de Presse reports about 1,800 km of existing backbone network, owned outright by SPIN; places not listed.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "AGP reports a 20-year public-private partnership signed 14 Sep 2026 under which Gabon Fiber S.A. designs, finances, builds and operates about 1,700 km of extension, to reach about 3,500 km, privately financed.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national gabonais",
+   "country_label": "Backbone National Gabonais (BNG)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "SPIN (state)",
+   "tiers": ""
+  },
+  {
+   "system": "Gabon Fiber",
+   "country_label": "Gabon Fiber S.A.",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Gabon Fiber S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

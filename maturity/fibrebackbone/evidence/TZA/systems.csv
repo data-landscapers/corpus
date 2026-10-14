@@ -1,0 +1,34 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro),Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro),other,,ICTA Kenya and TTCL,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL,,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,Government of Tanzania (MICIT); TTCL,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,NICTBB extension to DRC,NICTBB extension to DRC,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,National data centres Dodoma and Zanzibar,National data centres Dodoma and Zanzibar,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,Last-mile optic fibre to 100 institutions,Last-mile optic fibre to 100 institutions,other,,MICIT,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL,,2023-01-01-huawei-tza-001-national-ict-broadband-backbone-nictbb-extension
+TZA,Project East2West,Project East2West,other,,Bayobab (MTN GlobalConnect); Africa50,,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,Government of Tanzania (transferred to government ownership 10 April 2026),,2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,TTCL (manager),,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Dar es Salaam Metropolitan Network,,other,,,,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,NICTBB extension to DRC (183 km),,other,,,,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,Ministry of Communications and IT,,2026-05-01-tanzaniainvest-micit-ict-budget-2026-27-sector-statistics
+TZA,NICTBB extension to DRC via Lake Tanganyika,,other,,,,2026-05-01-tanzaniainvest-micit-ict-budget-2026-27-sector-statistics
+TZA,Liquid national long-distance fibre,,backbone,,Liquid Intelligent Technologies,,2026-09-10-liquid-kenya-ai-next-growth-frontier
+TZA,NICTBB,National ICT Broadband Backbone,backbone,,TTCL,,2026-09-09-ttcl-bbs-tanzania-burundi-capacity
+TZA,Tanzania-Burundi link,,other,,TTCL / Burundi Backbone System,,2026-09-09-ttcl-bbs-tanzania-burundi-capacity
+TZA,Mkongo wa Taifa (NICTBB),Mkongo wa Taifa,backbone,,Government,,2026-08-27-ippmedia-tanzania-rural-telecom-pm-statement
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,Faiba Mlangoni Kwako (FTTH),Faiba Mlangoni Kwako (FTTH),other,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,National Internet Data Centre (NIDC),National Internet Data Centre (NIDC),other,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-07-24-mwananchi-kairuki-mkongo-wa-taifa-dodoma
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Submarine cables at Dar es Salaam,Submarine cables at Dar es Salaam,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Internet Exchange Points,Internet Exchange Points,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,Data centres,Data centres,other,,,,2026-05-13-tz-minister-statement-wtisd-2026
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,"Metro fibre networks (Dar es Salaam, Arusha, Mwanza, Mbeya, Dodoma)","Metro fibre networks (Dar es Salaam, Arusha, Mwanza, Mbeya, Dodoma)",other,,consortium,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,758 communication towers,758 communication towers,other,,consortium,,2026-04-11-yas-tanzania-hand-over-758-towers
+TZA,National ICT Broadband Backbone (NICTBB),National ICT Broadband Backbone (NICTBB),backbone,,TTCL / government,,2026-04-10-communications-sector-surges-400pc
+TZA,Public data centres (4),Public data centres (4),other,,,,2026-04-10-communications-sector-surges-400pc
+TZA,International submarine cables (3),International submarine cables (3),other,,,,2026-04-10-communications-sector-surges-400pc
+TZA,Mkongo wa Taifa wa Mawasiliano,Mkongo wa Taifa wa Mawasiliano (National ICT Broadband Backbone),backbone,,,,2025-05-16-tz-hotuba-bajeti-mawasiliano-2025-26

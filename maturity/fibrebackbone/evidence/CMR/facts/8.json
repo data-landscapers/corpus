@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-eximbank-cn-cmr-006-cameroon-fibre-optic-transmission-backbone-extension",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "The deal record puts CAMTEL's existing national fibre at about 12,000 km terrestrial plus about 812 km overhead on electricity poles, as reported on 2026-03-09; it names no regions or towns.", "as_of": "2026-03-09", "date_precision": "day", "system": "CAMTEL national fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Cameroon Fibre Optic Transmission Backbone Extension Phase IV", "country_label": "Phase IV", "class": "other", "platform": "Huawei expected as contractor", "owner": "CAMTEL", "tiers": ""},
+    {"system": "CAMTEL national fibre network", "country_label": "existing network", "class": "backbone", "platform": "", "owner": "CAMTEL", "tiers": ""}
+  ],
+  "note": "Phase IV is status Pipeline: decree authorises a loan of about US$195M but the loan is not confirmed signed, so not building."
+}

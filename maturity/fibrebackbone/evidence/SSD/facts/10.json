@@ -1,0 +1,23 @@
+{
+ "slug": "2025-08-08-fibre-from-kenya-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Uganda-Juba fibre line (200 km)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Kenya-South Sudan fibre link",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MICT&PS",
+   "tiers": ""
+  }
+ ],
+ "note": "Only plan for a Kenya link; the existing 200 km Uganda-Juba line is a cross-border link not stated to be a national backbone."
+}

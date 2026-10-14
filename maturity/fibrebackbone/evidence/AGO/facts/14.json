@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-26-minttics-projectos-estruturantes-base-tecnologica",
+  "facts": [],
+  "systems": [
+    {"system": "rede de fibra óptica terrestre", "country_label": "rede de fibra óptica terrestre", "class": "", "platform": "", "owner": "MINTTICS", "tiers": ""},
+    {"system": "cabo submarino doméstico", "country_label": "cabo de fibra óptico submarino doméstico", "class": "other", "platform": "", "owner": "MINTTICS", "tiers": ""}
+  ],
+  "note": "Minister says projects include expansion of the terrestrial fibre network, with no contract, route or length given; work under way is stated only for the domestic submarine cable (other class)."
+}

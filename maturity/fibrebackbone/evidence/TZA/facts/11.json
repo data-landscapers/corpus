@@ -1,0 +1,31 @@
+{
+  "slug": "2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "country_label": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "TTCL / government",
+      "tiers": ""
+    },
+    {
+      "system": "Faiba Mlangoni Kwako (FTTH)",
+      "country_label": "Faiba Mlangoni Kwako (FTTH)",
+      "class": "other",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    },
+    {
+      "system": "National Internet Data Centre (NIDC)",
+      "country_label": "National Internet Data Centre (NIDC)",
+      "class": "other",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    }
+  ],
+  "note": "Only says NICTBB expansion supports connectivity in Zanzibar; no stated extent, date or terms."
+}

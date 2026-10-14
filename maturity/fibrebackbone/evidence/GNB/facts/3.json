@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "none", "fact": "Agence Ecofin reports in August 2025 that Guinea-Bissau's international connectivity is confined to the coast and the country still needs a national backbone to link its main cities.", "as_of": "2025-08-29", "date_precision": "day", "system": "National fibre backbone", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "ACE submarine cable", "country_label": "Africa Coast to Europe (ACE)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Bissau fibre metro network", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Transport link to Sonatel (Senegal)", "country_label": "", "class": "other", "platform": "", "owner": "Sonatel", "tiers": ""}
+  ],
+  "note": "as_of is the article date, which gives no other date for the statement."
+}

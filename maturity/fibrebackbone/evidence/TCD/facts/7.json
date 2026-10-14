@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-21-digitalbusinessafrica-pmice-data-center-national-verifications",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "At a ministerial review on 19 May 2026 the PMICE coordinator reported 1,275 km of fibre deployed so far on the national backbone works, with Huawei as contractor under Gulf Consultancy supervision; the document does not say it is in service.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "PMICE national backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PMICE national backbone",
+   "country_label": "backbone national (PMICE)",
+   "class": "backbone",
+   "platform": "Huawei",
+   "owner": "Government of Chad (PMICE)",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Center",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Chad (PMICE)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

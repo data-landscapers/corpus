@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-14-ken-techweez-airtel-telesonic-fibre-unit-shutdown",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Airtel Kenya Telesonic wholesale fibre",
+      "country_label": "Airtel Kenya Telesonic Limited",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Africa",
+      "tiers": ""
+    }
+  ],
+  "note": "Wind-up of an operator wholesale fibre licensee; no statement of a national backbone's reach or access."
+}

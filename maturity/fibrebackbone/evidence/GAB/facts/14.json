@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-29-gabon-moov-ftth-coverage-leader",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Moov Africa FTTH",
+      "country_label": "FTTH",
+      "class": "other",
+      "platform": "",
+      "owner": "Moov Africa Gabon Telecom",
+      "tiers": ""
+    }
+  ],
+  "note": "FTTH to homes in towns only; no backbone statement."
+}

@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,BoFiNet national fibre backbone ring,national fibre optic backbone,backbone,fibre,BoFiNet,,2018-06-01-bwa-national-broadband-strategy
+BWA,Mascom national backbone,private operator national backbone infrastructure,backbone,fibre,Mascom,,2018-06-01-bwa-national-broadband-strategy
+BWA,Government Data Network,GDN,other,,Government,,2018-06-01-bwa-national-broadband-strategy
+BWA,BoFiNet national fibre backbone,national fibre backbone,backbone,fibre,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
+BWA,Digital Delta Data Centre,Digital Delta Data Centre,other,,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
+BWA,BoFiNet Local Access Projects 2025/26,"Local Access Projects (Moshupa, Ramotswa/Taung, Thamaga)",other,fibre,BoFiNet,,2026-08-16-newsandall-bofinet-p43m-fibre-project
+BWA,BoFiNet Local Access Projects 2025/26,"Local Access Projects (Moshupa, Ramotswa/Taung, Thamaga)",other,fibre,BoFiNet,,2026-08-14-bofinet-completes-p43m-fibre-project-connects-three-botswana-villages
+BWA,Village Connectivity Project,Village Connectivity Project,other,,Ministry of Communications and Innovation,,2026-05-08-botswana-huawei-ict-congress-2026-itweb
+BWA,"national fibre network (about 16,000 km)",fibre optic cable laid across the country,backbone,,,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,Delta Digital Data Centre,Tier III National Data Centre,other,,government,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,ICT Roadmap 2030,ICT Roadmap 2030 (prioritises nationwide broadband expansion and fibre connectivity; a plan),other,,Ministry of Communications and Innovation,,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force

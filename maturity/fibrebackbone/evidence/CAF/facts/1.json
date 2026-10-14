@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "AfDB communique says 935 km of terrestrial and under-river fibre were installed and made operational, as the first sections of the national backbone, along the Bangui-Douala road corridor (Bossembele, Yaloke, Baoro) to Berberati, with branches to Cameroon (Gamboula) and Congo (Bomassa); inaugurated 6 Feb 2023.",
+   "as_of": "2023-02-06",
+   "date_precision": "day",
+   "system": "Central African Backbone (CAB), CAR component",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central African Backbone (CAB), CAR component",
+   "country_label": "Dorsale optique nationale de la RCA",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of CAR, financed by EU and AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

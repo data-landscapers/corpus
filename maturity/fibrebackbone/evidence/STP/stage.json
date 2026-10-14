@@ -1,0 +1,16 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "backbone",
+   "stage": "no evidence",
+   "reach": "",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a national fibre backbone, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-ago-revistaexecutivo-angola-telecom-mercury-benguela-backbone",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Angola Telecom-Mercury Programa Nacional de Banda Larga backbone link, Lobito",
+   "country_label": "Programa Nacional de Banda Larga link",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Telecom with Mercury",
+   "tiers": ""
+  }
+ ],
+ "note": "Reports a new broadband link at Restinga, Lobito (100 Gbps first phase, first of several planned backbone links) but gives no route to the capital or other region, so no reach fact; shared-infrastructure remark is not a statement of leasing."
+}

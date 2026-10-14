@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-techafricanews-orange-cote-divoire-cables-damaged-cocody",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Côte d'Ivoire fibre network (Cocody)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Metro cable damage in Cocody; no backbone statement."
+}

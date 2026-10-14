@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-21-tchadinfos-fibre-optique-sarh-moyen-chari",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Tchadinfos reports provisional acceptance of PMICE Phase I with inauguration of the Iriba-Doba fibre line at Sarh, a live IP-telephony test linking provincial governorates, and Safitel reporting 15 sites at 100 Gbit/s completed, within a new 1,200 km national backbone; capital connection and traffic in service not stated.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "PMICE",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PMICE",
+   "country_label": "Projet de Modernisation des Infrastructures de Connectivité de l'État",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Ministry of Telecommunications (Safitel Tchad implementing)",
+   "tiers": ""
+  },
+  {
+   "system": "Dorsale transsaharienne",
+   "country_label": "Dorsale transsaharienne à fibre optique",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-27-cameroon-starlink-licensing-stalls-sovereignty",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "NewsWatch states that CAMTEL owns and operates Cameroon's national fibre-optic backbone of over 15,000 km; the article gives no regions or towns and no in-service date, so the date is the article's own (2026-07-27).", "as_of": "2026-07-27", "date_precision": "day", "system": "CAMTEL national fibre-optic backbone", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "access", "value": "open", "fact": "NewsWatch states that CAMTEL leases capacity on its national fibre-optic backbone to private mobile network operators, while holding exclusive rights over the backbone itself; the date is the article's own (2026-07-27).", "as_of": "2026-07-27", "date_precision": "day", "system": "CAMTEL national fibre-optic backbone", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "CAMTEL national fibre-optic backbone", "country_label": "national fibre-optic backbone", "class": "backbone", "platform": "", "owner": "CAMTEL", "tiers": "private mobile network operators lease capacity"},
+    {"system": "Starlink", "country_label": "Starlink", "class": "other", "platform": "satellite", "owner": "SpaceX", "tiers": "not licensed in Cameroon"}
+  ],
+  "note": ""
+}

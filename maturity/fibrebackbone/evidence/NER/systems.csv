@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2026-08-10-niger-china-eximbank-national-backbone-loan-aiddata
+NER,National Backbone Fiber Optic Cable Network and Communication Service Project,National Backbone Fiber Optic Cable Network,backbone,,Government of Niger; SONITEL repays the loan,,2014-01-02-eximbank-cn-ner-001-national-backbone-fiber-optic-cable-network
+NER,Maroc Telecom transafrican terrestrial cable,Transafrican terrestrial fibre cable,other,,Maroc Telecom,Moov Africa Niger,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+NER,Trans-Saharan fiber optic backbone project (DTS),DTS,other,,,,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone
+NER,Trans-Saharan fibre-optic backbone,dorsale transsaharienne a fibre optique,,,,,2026-08-28-actuniger-niamey-alger-projets-integration-africaine
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"National Tier III data centre, Niamey",,other,,,,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"88 km urban local loop, Niamey",,other,,,,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2026-03-17-lesahel-copil-dts-ptba-2026-2027
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"National Tier III data centre, Niamey",,other,,,,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"88 km urban local loop, Niamey",,other,,,,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",Dorsale Transsaharienne a Fibre Optique (DTS/FO),backbone,,"Government of Niger, project unit; AfDB-financed",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"Tier III data centre, Niamey",,other,,,,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,Dorsale Transsaharienne a Fibre Optique (DTS/FO),DTS/FO,backbone,,"Government of Niger (Ministry of Communication, Niger Telecom premises); AfDB-financed NEPAD project",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,Dorsale Transsaharienne a Fibre Optique (DTS),DTS,backbone,,Government of Niger (MCNTI); AfDB-supported,,2025-11-14-mcnti-niger-receptionne-troncons-dts

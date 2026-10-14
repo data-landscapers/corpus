@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-16-centrafrique-centre-formation-digital-incubateur-universite-bangui",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central African Backbone (CAB), CAR component",
+   "country_label": "Dorsale a fibre optique nationale de la RCA",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of CAR, financed by EU and AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": "Article on a training centre; backbone mentioned only as project context, with no in-service, contract or access statement."
+}

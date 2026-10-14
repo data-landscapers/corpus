@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-15-internet-traffic-surges-57pc-q1-2026",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Information minister Soda Zhemu said at a post-Cabinet briefing that the total fibre backbone grew 33.83 percent to surpass 19,000 km in Q1 2026, and fibre coverage rose from 4,046 km to 8,500 km; no places named.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National fibre backbone (Ministry of ICT figure)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

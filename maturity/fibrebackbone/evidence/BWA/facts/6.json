@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Communications minister David Tshere said approximately 16,000 km of fibre optic cable is already laid across Botswana, linking the country internally and to South Africa, Namibia, Zimbabwe and Zambia; the document gives no towns or regions and does not say 'lit' or name the owner (published date used as as_of).", "as_of": "2026-03-09", "date_precision": "day", "system": "national fibre network (about 16,000 km)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "national fibre network (about 16,000 km)", "country_label": "fibre optic cable laid across the country", "class": "backbone", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Delta Digital Data Centre", "country_label": "Tier III National Data Centre", "class": "other", "platform": "", "owner": "government", "tiers": ""},
+    {"system": "ICT Roadmap 2030", "country_label": "ICT Roadmap 2030 (prioritises nationwide broadband expansion and fibre connectivity; a plan)", "class": "other", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

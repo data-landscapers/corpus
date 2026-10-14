@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "AfDB says Niger completed provisional acceptance (ceremony 14 Nov 2025) of the 1,031 km national and cross-border fibre network built under the Trans-Sahara Optical Fibre Backbone Project, EUR 43 million, on five routes from Niamey and other towns to the borders; commissioning is called forthcoming by the minister.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS), Niger component",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",
+   "country_label": "Dorsale Transsaharienne a Fibre Optique (DTS/FO)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Niger, project unit; AfDB-financed",
+   "tiers": ""
+  },
+  {
+   "system": "National Tier III data centre, Niamey",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "88 km urban local loop, Niamey",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

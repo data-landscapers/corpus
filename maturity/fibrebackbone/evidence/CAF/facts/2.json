@@ -1,0 +1,15 @@
+{
+ "slug": "2017-01-01-afdb-caf-001-central-african-republic---central-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central African Backbone (CAB), CAR component",
+   "country_label": "CAB - CAR Component",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of CAR, financed by EU and AfDB",
+   "tiers": ""
+  }
+ ],
+ "note": "IATI loan record (2017-2024) describes laying 1,050 km of fibre; states no contract award or works under way, so no building fact."
+}

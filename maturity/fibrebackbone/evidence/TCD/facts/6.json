@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national fiber backbone (government)",
+   "country_label": "national fiber backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "Minister encouraged Airtel to connect to the government's national fiber backbone; no extent, regions served or lease terms stated, so no reach or access fact."
+}

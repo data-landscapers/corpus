@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-27-agp-gabon-communications-spatiales-11-recommandations-souverainete",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "Seminar participants (SPIN, Ageos, Aninf, ministry) said Gabon will build on 2,000 km of optical fibre already deployed; no places, regions or lit status are given.",
+      "as_of": "2026-07-27",
+      "date_precision": "day",
+      "system": "national fibre network (SPIN)",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "building",
+      "fact": "The same report says extension works on the national fibre are under way; no contract, route or contractor is given.",
+      "as_of": "2026-07-27",
+      "date_precision": "day",
+      "system": "national fibre network (SPIN)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national fibre network (SPIN)",
+      "country_label": "2,000 km of fibre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "SPIN",
+      "tiers": ""
+    }
+  ],
+  "note": "In-service fact is weak: 'deployed' not 'lit', no places named."
+}

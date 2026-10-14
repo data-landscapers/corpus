@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "PTI reported on 21 September 2026 that the section of the Rede Nacional de Fibra Óptica to the city of Lobito, in Benguela province, was completed, with capacity of about 400 Gb, per the ministry; the document gives no exact completion date, so the article date is used.", "as_of": "2026-09-21", "date_precision": "day", "system": "Rede Nacional de Fibra Óptica", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Rede Nacional de Fibra Óptica", "country_label": "Rede Nacional de Fibra Óptica", "class": "backbone", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Tudo Nosso", "country_label": "Tudo Nosso", "class": "other", "platform": "", "owner": "Angola Telecom", "tiers": ""}
+  ],
+  "note": "Tudo Nosso is fibre to homes at Baía Farta (other); ministry says the Lobito section lets operators expand their networks, which is not a stated sale of capacity, so no access fact."
+}

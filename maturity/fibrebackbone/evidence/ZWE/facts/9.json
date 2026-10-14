@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-29-potraz-abridged-sector-performance-report-q4-2025",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "POTRAZ's Q4 2025 sector report (Table 20) gives Zimbabwe's national fibre backbone as 14,357 km in total across six operators: Liquid Intelligent Technologies 4,631.4 km, TelOne 4,046 km, Powertel 3,869 km, African Fibre Networks 985 km, Dandemutande 560 km and Africom 266 km; it names no regions or towns served.", "as_of": "2025-12", "date_precision": "month", "system": "National fibre backbone (all operators)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Liquid Intelligent Technologies national fibre backbone", "country_label": "Liquid", "class": "backbone", "platform": "", "owner": "Liquid Intelligent Technologies", "tiers": ""},
+    {"system": "TelOne national fibre backbone", "country_label": "TelOne", "class": "backbone", "platform": "", "owner": "TelOne", "tiers": ""},
+    {"system": "Powertel national fibre backbone", "country_label": "Powertel", "class": "backbone", "platform": "", "owner": "Powertel", "tiers": ""},
+    {"system": "African Fibre Networks national fibre backbone", "country_label": "African Fibre Networks (formerly Dark Fibre Africa)", "class": "backbone", "platform": "", "owner": "African Fibre Networks", "tiers": ""},
+    {"system": "Dandemutande national fibre backbone", "country_label": "Dandemutande", "class": "backbone", "platform": "", "owner": "Dandemutande", "tiers": ""},
+    {"system": "Africom national fibre backbone", "country_label": "Africom", "class": "backbone", "platform": "", "owner": "Africom", "tiers": ""}
+  ],
+  "note": "Only the in-service reach fact; the report gives no open-access or wholesale statement and no regions, so no access or every-region fact."
+}

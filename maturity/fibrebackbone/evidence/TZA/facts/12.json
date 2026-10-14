@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-24-mwananchi-kairuki-mkongo-wa-taifa-dodoma",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "Government figures given to the minister say the national backbone is completed over 942.5 km in Dodoma Region, with only 65 users connected in the region; date is the article's.",
+      "as_of": "2026-07-24",
+      "date_precision": "day",
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "country_label": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "TTCL / government",
+      "tiers": ""
+    }
+  ],
+  "note": "Access aspect not stated: first phase connected government offices, no exclusivity statement."
+}

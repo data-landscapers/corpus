@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-itweb-africa-malawi-connectivity",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Malawi Acceleration Project (DMAP)", "country_label": "DMAP", "class": "other", "platform": "", "owner": "Government of Malawi; World Bank funded", "tiers": ""}
+  ],
+  "note": "Describes DMAP connectivity and institution connections; says nothing about a national fibre backbone."
+}

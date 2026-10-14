@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-05-world-bank-tanzania-digital-dividend",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "African Business (Neil Ford) states the TTCL-managed NICTBB fibre network now stretches more than 15,000 km and connects the main urban centres; as_of is the article date.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "NICTBB",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTBB",
+   "country_label": "National ICT Broadband Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "TTCL (manager)",
+   "tiers": ""
+  },
+  {
+   "system": "Dar es Salaam Metropolitan Network",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NICTBB extension to DRC (183 km)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-09-art-2024-annual-observatory-telecom-market-techafricanews",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Reporting ART's 2024 Annual Observatory, TechAfrica News says transport, mainly by the incumbent CAMTEL, relies on a national fibre optic network of nearly 12,000 km; no regions or towns are named.", "as_of": "2024", "date_precision": "year", "system": "CAMTEL national fibre optic network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "CAMTEL national fibre optic network", "country_label": "national fibre optic network", "class": "backbone", "platform": "", "owner": "CAMTEL", "tiers": ""}
+  ],
+  "note": ""
+}

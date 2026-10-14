@@ -1,0 +1,31 @@
+{
+ "slug": "2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Trans-Saharan Fiber Optic Backbone (DTS)",
+   "country_label": "Dorsale Transsaharienne",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "N'Djamena-Mbere fibre link",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "SOTEL",
+   "tiers": ""
+  },
+  {
+   "system": "N'Djamena FTTH",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "SOTEL",
+   "tiers": ""
+  }
+ ],
+ "note": "DTS (said 60% complete) is a cross-border trans-Saharan link and the document does not call it the national backbone; other items are metro FTTH and a rehabilitation toward Cameroon. No fact."
+}

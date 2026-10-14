@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-22-fg-nigeria-police-mou-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Project BRIDGE",
+   "country_label": "Project BRIDGE (Bridge Open Access)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government via Bridge Open Access SPV",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone Limited",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Police-station connectivity MoU refers to national fibre backbone assets without stating reach or access."
+}

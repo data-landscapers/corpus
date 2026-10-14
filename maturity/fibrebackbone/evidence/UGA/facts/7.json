@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-01-moict-ministerial-policy-statement-fy2025-26",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service",
+     "fact": "The Ministry of ICT's FY2025/26 policy statement reports 1,567 sites connected to the National Backbone Infrastructure and 4,387 km of optical fibre cable laid in total, as the position at the time of writing (March 2025, the document's published date); it names no regions.",
+     "as_of": "2025-03", "date_precision": "month", "system": "National Backbone Infrastructure (NBI)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Backbone Infrastructure (NBI)", "country_label": "NBI", "class": "backbone", "platform": "optical fibre cable", "owner": "NITA-U", "tiers": "Government ministries, departments and agencies"}
+  ],
+  "note": ""
+}

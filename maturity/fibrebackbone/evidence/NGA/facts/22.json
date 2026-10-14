@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-mtn-nigeria-fibre-market-share-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "TechCabal reports MTN Nigeria's national terrestrial fibre network spans more than 43,000 km and links tens of thousands of base stations; no date given, so the article's published date is used.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "MTN Nigeria national terrestrial fibre network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Nigeria national terrestrial fibre network",
+   "country_label": "MTN national terrestrial fibre network",
+   "class": "backbone",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

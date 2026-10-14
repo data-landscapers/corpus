@@ -1,0 +1,36 @@
+{
+  "slug": "2025-09-08-world-bank-bridge-nigeria-project-appraisal-document",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "World Bank appraisal document says only 30,000 km of terrestrial fiber is deployed in Nigeria, a quarter of the 120,000 km its ministry blueprint identifies; date is the document date.",
+      "as_of": "2025-09-08",
+      "date_precision": "day",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "none",
+      "fact": "World Bank appraisal document states there is no national backbone network in Nigeria, leading to duplicate deployments by individual operators; date is the document date.",
+      "as_of": "2025-09-08",
+      "date_precision": "day",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Project BRIDGE national fibre backbone",
+      "country_label": "Project BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "Project BRIDGE SPV (planned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Conflicting statements (30,000 km deployed vs no national network) both recorded; SPV will offer wholesale open access, a plan."
+}

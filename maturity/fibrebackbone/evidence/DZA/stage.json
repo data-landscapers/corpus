@@ -1,0 +1,16 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "backbone",
+   "stage": "2",
+   "reach": "building",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-001",
+   "gaps": "No source held says any of the backbone is in service between the capital and another region.",
+   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
+  }
+ ]
+}

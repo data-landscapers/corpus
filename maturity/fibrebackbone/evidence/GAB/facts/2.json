@@ -1,0 +1,62 @@
+{
+ "slug": "2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "GabonReview reports the national backbone in operation at 1,782 km of fibre, with a state official citing about 2,000 km today; places not listed.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "GabonReview reports SPIN signed a 20-year concession with Gabon Fiber S.A. on 14 Sep 2026 under which Gabon Fiber will finance and build 1,651 km more (over 41 billion CFA francs), in three phases starting with Lambarene-Mouila-Tchibanga and Lalara-Makokou-Okondja, taking the network from 1,782 to 3,433 km.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "GabonReview reports Gabon Fiber, concessionaire of the backbone, will operate exclusively on the wholesale market and not compete with telecom operators and ISPs; it will market capacity.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Backbone national gabonais",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national gabonais",
+   "country_label": "Backbone national gabonais",
+   "class": "backbone",
+   "platform": "",
+   "owner": "SPIN (state)",
+   "tiers": ""
+  },
+  {
+   "system": "Gabon Fiber",
+   "country_label": "Gabon Fiber S.A.",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Gabon Fiber S.A. (concessionaire from 2026-11)",
+   "tiers": ""
+  },
+  {
+   "system": "Axione delegation",
+   "country_label": "Axione (Bouygues Energies & Services-Axione)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Axione, outgoing operator under delegated service, ending Nov 2026",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

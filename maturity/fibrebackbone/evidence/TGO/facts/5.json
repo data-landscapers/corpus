@@ -1,0 +1,8 @@
+{
+  "slug": "2020-12-23-tgo-arcep-decret-2020-116-deploiement-fibre-optique",
+  "facts": [],
+  "systems": [
+    {"system": "SIN fibre network (Societe d'infrastructures numeriques)", "country_label": "reseaux de fibre optique deployes pour la SIN", "class": "", "platform": "", "owner": "SIN (state digital infrastructure company)", "tiers": ""}
+  ],
+  "note": "Decree of 2020-12-23 is a dig-once rule (contractors lay fibre owned by SIN), a transfer of unlicensed networks to SIN and a duty on SIN to give licensed operators access to what it operates; it states no backbone built, in service or reaching regions, and names no inter-regional backbone, so no reach or access fact is recorded."
+}

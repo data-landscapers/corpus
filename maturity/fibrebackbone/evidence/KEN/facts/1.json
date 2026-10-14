@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-13-ken-techafricanews-ksh13bn-fibre-backbone",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "ICT PS John Tanui said the public sector added 17,000 km of fibre in Kenya since 2022 (private operators 24,000 km); no places or regions named, and the article does not say the 17,000 km is all backbone; as_of is the article's published date as no date is given.", "as_of": "2026-10-13", "date_precision": "day", "system": "Kenya public-sector national fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National fibre backbone extension under KDEAP (KSh 13bn, at least 27,000 km)", "country_label": "KDEAP backbone and cross-border links framework tender", "class": "other", "platform": "", "owner": "ICT Authority; State Department for ICT; World Bank support", "tiers": ""}
+  ],
+  "note": "KSh 13bn / 27,000 km is a pre-bid-session announcement with no contract, so not building."
+}

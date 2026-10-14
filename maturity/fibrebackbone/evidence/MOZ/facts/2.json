@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-moz-clubofmozambique-tmcel-mobile-network-strategic-partner",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Tmcel's technical documentation, reported by Club of Mozambique, gives around 6,500 km of backbone fibre optic cable (plus about 4,500 km of access fibre) linking provincial capitals, major cities and hinterland countries; the document gives no date for the figure beyond its end-2025 operating data, so the published date is used.", "as_of": "2026-09-17", "date_precision": "day", "system": "Tmcel backbone fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Tmcel backbone fibre network", "country_label": "Tmcel backbone fibre", "class": "backbone", "platform": "fibre optic with OTN transport equipment", "owner": "Tmcel (state operator)", "tiers": ""}
+  ],
+  "note": "No access terms stated; the fibre is described as the operator's own main data transport network."
+}

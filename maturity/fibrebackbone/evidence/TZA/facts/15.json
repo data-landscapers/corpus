@@ -1,0 +1,42 @@
+{
+  "slug": "2026-04-10-communications-sector-surges-400pc",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "TCRA data reported by Daily News say NICTBB has been extended to 85 districts and capacity rose from 200 to 2,000 Gbps between March 2021 and December 2025.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "country_label": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "TTCL / government",
+      "tiers": ""
+    },
+    {
+      "system": "Public data centres (4)",
+      "country_label": "Public data centres (4)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "International submarine cables (3)",
+      "country_label": "International submarine cables (3)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "TM Africa reports that on 10 April 2026 the President extended the NICTBB to 121 of 139 mainland districts and raised backbone capacity tenfold to 2,000 Gbps.",
+   "as_of": "2026-04-10",
+   "date_precision": "day",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "TM Africa says the NICTBB is expanding toward about 16,280 km in total, with an extension to the DRC in the 2026/27 work programme.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Tanzania (transferred to government ownership 10 April 2026)",
+   "tiers": ""
+  }
+ ],
+ "note": "Ownership transfer to government stated; no access terms stated."
+}

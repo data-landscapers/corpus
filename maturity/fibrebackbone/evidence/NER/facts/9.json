@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-20-afdb-niger-1000-km-fibre-optique-reception",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "AfDB (French release): provisional acceptance on 14 Nov 2025 of fibre sections built under the AfDB-financed project: 1,031 km on five routes (Arlit-Assamaka to Algerian border; Diffa-N'Guigmi to Chad border; Zinder-Magaria to Nigeria border; Niamey-Dosso-Gaya to Benin border; Niamey-Makalondi to Burkina Faso border), built by the LORYNE group; commissioning is described as forthcoming, not yet done.",
+   "as_of": "2025-11-14",
+   "date_precision": "day",
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS), Niger component",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",
+   "country_label": "Dorsale Transsaharienne a Fibre Optique (DTS/FO)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Niger, project unit; AfDB-financed",
+   "tiers": ""
+  },
+  {
+   "system": "National Tier III data centre, Niamey",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "88 km urban local loop, Niamey",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

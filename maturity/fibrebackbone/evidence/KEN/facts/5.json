@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro)", "country_label": "Terrestrial Fiber Link", "class": "other", "platform": "", "owner": "ICT Authority (Kenya) and TTCL (Tanzania)", "tiers": ""},
+    {"system": "National ICT Broadband Backbone (NICTBB)", "country_label": "NICTBB", "class": "backbone", "platform": "", "owner": "ICT Authority", "tiers": ""}
+  ],
+  "note": "Cross-border link launched 2026-07-29 and integrating NICTBB; the article gives no national-part status, places or length, so no fact."
+}

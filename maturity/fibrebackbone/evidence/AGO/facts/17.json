@@ -1,0 +1,9 @@
+{"slug":"2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina",
+"facts":[],
+"systems":[
+{"system":"2Africa","country_label":"cabo 2 África","class":"other","platform":"submarine cable","owner":"","tiers":""},
+{"system":"Equiano","country_label":"cabo Equiano","class":"other","platform":"submarine cable","owner":"","tiers":""},
+{"system":"Tudo Nosso Fibra","country_label":"Tudo Nosso Fibra","class":"other","platform":"fibre to the home","owner":"MINTTICS","tiers":""},
+{"system":"Conecta Angola","country_label":"Conect Angola","class":"other","platform":"satellite","owner":"MINTTICS","tiers":""}
+],
+"note":"Submarine cables, FTTH and satellite only; no national terrestrial backbone statement."}

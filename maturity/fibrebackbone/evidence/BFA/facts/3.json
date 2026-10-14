@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Maroc Telecom transafrican terrestrial cable (5,700 km, Morocco-Niger via Mauritania, Mali, Burkina Faso)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Maroc Telecom / Moov Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Cross-border cable for Moov Africa international bandwidth; not stated as part of a Burkina national backbone."
+}

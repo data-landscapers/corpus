@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-02-rca-menpt-orientations-2026-acdd-connectivite-aneci",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "The Minister of Digital Economy praised Telecel Centrafrique for connecting to fibre optic in Bangui and in several interior towns, and said the first fibre deployments have begun while national connectivity remains fragmented; as_of is the 2025 year under review.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Telecel Centrafrique fibre",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MTN Bayobab national fibre network (12,000 km commitment)",
+      "country_label": "réseau national de fibre optique interconnecté",
+      "class": "other",
+      "platform": "",
+      "owner": "MTN Bayobab",
+      "tiers": ""
+    }
+  ],
+  "note": "MTN Bayobab 12,000 km is a 2026 commitment/plan, not a contract or works, so not recorded as building."
+}

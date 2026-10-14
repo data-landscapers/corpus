@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-18-digitalmagazine-bfs-backbone-national-interview",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Bridge Fiber Solutions' director general says the state-built national backbone of about 3,000 km, with 61 points of presence on part of the network, has been commercially operated since March 2023 and covers practically the whole territory.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "Backbone national (BFS)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Bridge Fiber Solutions' director general says a new 43 km Ouarkoye-Mana segment was built in 2026, with new points of presence at Mogtedo, Pa, Houndé and Mana.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Backbone national (BFS)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Bridge Fiber Solutions says it sells capacity, dark fibre and wavelengths on the state backbone to 44 customers in 2026 (7 in 2023), including all three mobile operators, ISPs, state firms and banks, on a price catalogue validated annually by ARCEP and the ministry, with non-discrimination.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Backbone national (BFS)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national (BFS)",
+   "country_label": "Backbone national",
+   "class": "backbone",
+   "platform": "",
+   "owner": "State-built; operated by Bridge Fiber Solutions (Telecel Faso subsidiary)",
+   "tiers": "Operators, ISPs, firms, administrations"
+  },
+  {
+   "system": "Interconnections to Ghana, Côte d'Ivoire, Mali",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Second route to Mali and links to Togo, Benin, Niger (2027 study)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

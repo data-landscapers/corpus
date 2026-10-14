@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-10-ssd-mictps-rfb-eardip-fibre-route-a-b-juba-nadapal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Route A-B Juba-Nadapal backbone (EARDIP)",
+   "country_label": "Fibre Optic Network Backbone, Route A-B",
+   "class": "other",
+   "platform": "",
+   "owner": "MICT&PS",
+   "tiers": ""
+  }
+ ],
+ "note": "Request for bids issued 2026-09-10 for a 397 km Juba-Nadapal backbone; tender only, no contract awarded, so not building."
+}

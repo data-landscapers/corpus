@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03-orange-viatunisia-medusa-ready-for-service",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ViaTunisia (Medusa segment, Marseille-Bizerte)",
+   "country_label": "ViaTunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "Sea cable only; no terrestrial backbone stated."
+}

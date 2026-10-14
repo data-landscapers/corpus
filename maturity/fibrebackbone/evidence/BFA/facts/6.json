@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-eximbank-cn-bfa-001-smart-burkina-project",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "The document records the SMART Burkina project, financed by a Chinese concessional loan from China Eximbank (about 47 billion CFA francs) and implemented by Huawei and CITCC, as starting in 2020 to build about 800 km of fibre linking 22 major Burkinabe cities.", "as_of": "2020", "date_precision": "year", "system": "SMART Burkina Project", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "The document states the SMART Burkina project, about 800 km of fibre connecting 22 major cities across Burkina Faso, was completed in August 2025, citing a SASAC report.", "as_of": "2025-08", "date_precision": "month", "system": "SMART Burkina Project", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "SMART Burkina Project", "country_label": "SMART Burkina", "class": "backbone", "platform": "fibre optic, built by Huawei and CITCC", "owner": "Government of Burkina Faso", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-fibrebackbone.md — the forty-first maturity study: long-distance fibre across the country, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: fibrebackbone
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Does it reach every province or region? | A source states that every province, region or regional capital is connected |
 | 4 | Is capacity on that nationwide backbone sold to other operators? | A source states that other operators buy or lease capacity on it, or that it runs on open-access or wholesale terms |
 
-## 3. The ladder
+## 3. The ladders
 
 **Long-distance fibre across the country**
 
@@ -70,10 +70,21 @@ The African Union's Digital Transformation Strategy 2020–2030 and the Programm
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Read**: one fan-out of drafters over the 388 stories.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Read**: 98 drafters over the 388 stories, then 17 over the 18 longer documents the current cells cite, opened because a question turned on them (method §4). 184 facts after the parent's reading.
+- [x] **D3. Staged** as at 2026-09-30: 5: 1, 4: 6, 3: 28, 2: 5, 1: 1, one unplaced, 12 without evidence; two rows removed (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14.
+
+**Decided in the run**:
+
+- **Tanzania alone is at stage 5**: the minister says the backbone reaches every mainland regional headquarters (December 2025), and the state operator sells capacity on it to Burundi's backbone company (September 2026). The statement covers the mainland only.
+- **Six are at stage 4**: Angola (all provincial capitals, 2023), Burundi (all provinces, the regulator's report for 2024), Guinea (all administrative regions, 2025), Kenya (all 47 counties, 2017), Malawi (all districts, the power utility, 2025) and Nigeria.
+- **Nigeria is at 4 on fibre across all 36 states and the capital territory**, counted from the regulator's figures across every operator (August 2026). That is later than the World Bank's statement of September 2025 that the country has no national backbone, so it stands. Its open access is a planned build and was removed; so was Niger's, which is a stated aim.
+- **Guinea-Bissau is at stage 1**, on an August 2025 report that the country still needs a backbone to link its main cities.
+- **Open access waits on every region**: Botswana, Cameroon, Gabon, the Gambia, Mauritania, Eswatini, South Africa and Zimbabwe all hold a fact on capacity sold to other operators, and none on reach to every region.
+- **Twelve countries are without evidence**, Ghana, Morocco and Mauritius among them: what their cells cite gave no fact on the four questions. Benin is unplaced: its one build dates from 2016, outside the window.
+- **A script wrote the summaries**, `scripts/study-fibrebackbone-write.py`, from the drafters' fact sentences, to hold the ceiling; no writer was called.
+- **Tokens: 40.0 million at the map**, ceiling 45 million, step 1 included.
 
 ## Boundary
 

@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-eximbank-cn-mwi-002-china-eximbank-provides-rmb-693-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Malawi and China Eximbank signed an RMB 693 million loan on 18 August 2020 for Phase II of the National Fibre Backbone Project (nearly 3,000 km of fibre), Huawei is the contractor, and President Chakwera launched Phase II on 29 June 2021; RMB 299.3 million had been disbursed by June 2023.", "as_of": "2021-06-29", "date_precision": "day", "system": "National Fibre Backbone Project Phase II", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Fibre Backbone Project Phase II", "country_label": "National Fibre Backbone Project", "class": "backbone", "platform": "Huawei-built fibre", "owner": "Government of Malawi; loan on-lent to ESCOM", "tiers": ""},
+    {"system": "National Data Centre (Blantyre)", "country_label": "National Data Centre", "class": "other", "platform": "Huawei", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": ""
+}

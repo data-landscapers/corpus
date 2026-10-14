@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-16-ken-techtrendske-icta-kdeap-national-backbone-cross-border-tender",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Per Treasury figures cited by TechTrends Kenya, Kenya's public sector fibre network stood at 30,454 km at the most recent count, up from 22,486 km in 2022 (about 8,000 km laid under the current administration); no regions named; as_of is the published date as the count date is not given.", "as_of": "2026-09-16", "date_precision": "day", "system": "Kenya public-sector fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "ICTA tender KE-ICTA-538567-NC-RFB, Lot 1 National Backbone Links", "country_label": "Lot 1 National Backbone Links", "class": "other", "platform": "", "owner": "ICT Authority (sole employer; World Bank KDEAP)", "tiers": ""},
+    {"system": "ICTA tender KE-ICTA-538567-NC-RFB, Lot 2 Cross-Border and Metro Links", "country_label": "Lot 2 Cross-Border and Metro Links", "class": "other", "platform": "", "owner": "ICT Authority", "tiers": ""}
+  ],
+  "note": "Tender floated, no contract awarded, so not building; closed single-user framework, no statement of open access."
+}

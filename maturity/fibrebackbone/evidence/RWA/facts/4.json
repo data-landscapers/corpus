@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-09-rdap-fast-track-2026-newtimes",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet", "class": "other", "platform": "", "owner": "Government of Rwanda (RISA)", "tiers": "central, district, sector and cell levels"}
+  ],
+  "note": "Digital Acceleration Project plans a more resilient national government network and broadband to public institutions; no national fibre backbone reach, contract or access term is stated."
+}

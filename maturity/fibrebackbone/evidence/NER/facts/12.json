@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-14-mcnti-niger-receptionne-troncons-dts",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "The communication ministry (MCNTI) says it received several fibre-optic sections of the AfDB-backed Trans-Saharan fibre backbone (DTS) on 14 November 2025, presented as national and regional interconnection; no lit service or towns are named.", "as_of": "2025-11-14", "date_precision": "day", "system": "Dorsale Transsaharienne a Fibre Optique (DTS)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Dorsale Transsaharienne a Fibre Optique (DTS)", "country_label": "DTS", "class": "backbone", "platform": "", "owner": "Government of Niger (MCNTI); AfDB-supported", "tiers": ""}
+  ],
+  "note": "Provisional reception of sections only; no in-service, region count or access terms stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-ago-angop-ministro-mario-oliveira-lanca-servico-de-internet-tudonosso",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tudonosso Fibra",
+   "country_label": "Tudonosso Fibra",
+   "class": "other",
+   "platform": "FTTH",
+   "owner": "Angola Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "FTTH launch at Baía Farta, not backbone."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-sysroad-gmb-2026-gamtel-broadband-ppp-bw07",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GAMTEL national broadband backbone",
+   "country_label": "GAMTEL national broadband backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "GAMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": "Only states a US$50m PPP to upgrade backbone capacity from 40 to 800 Gbps; no extension of fibre or contract works stated, so no reach fact."
+}

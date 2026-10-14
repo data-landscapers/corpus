@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-22-dfn-damerjog-school-subprefecture-fibre-lanation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Djibouti Fondement du Numerique (DFN)",
+      "country_label": "Projet Djibouti Fondement du Numerique",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Communication (World Bank financed)",
+      "tiers": "schools, sub-prefecture, polyclinic"
+    }
+  ],
+  "note": "Fibre to a school, sub-prefecture and clinic in Damerjog (Arta region) is access fibre to institutions; no backbone statement."
+}

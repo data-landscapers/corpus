@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-07-gabon-airtel-fixed-services",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Airtel FTTH and microwave transport authorisation",
+      "country_label": "reseau fixe technologiquement neutre",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": "Fixed-network licence for FTTH and microwave transport; no national fibre backbone statement."
+}

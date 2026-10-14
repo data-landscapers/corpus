@@ -1,0 +1,12 @@
+{
+  "slug": "2020-01-01-eximbank-cn-bfa-002-china-eximbank-provides-rmb-560-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "The document states that on 29 September 2020 China Eximbank and Burkina Faso's Ministry of Security signed an RMB 560 million loan to finance a commercial contract with Huawei and CITCC for a 650 km fibre optic backbone linking cities and localities, plus a 150 km fibre network.", "as_of": "2020-09-29", "date_precision": "day", "system": "Smart Burkina Faso Project", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "The document states the project officially commenced on 8 July 2021, with completion expected within 54 months (8 January 2026).", "as_of": "2021-07-08", "date_precision": "day", "system": "Smart Burkina Faso Project", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Smart Burkina Faso Project", "country_label": "Projet Smart Burkina Faso", "class": "backbone", "platform": "fibre optic, Huawei and CITCC", "owner": "Ministry of Security", "tiers": ""},
+    {"system": "900 surveillance cameras and 300 video surveillance sites", "country_label": "", "class": "other", "platform": "", "owner": "Ministry of Security", "tiers": ""}
+  ],
+  "note": ""
+}

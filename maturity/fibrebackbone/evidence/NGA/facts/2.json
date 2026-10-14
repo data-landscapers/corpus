@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-26-nigeria-project-bridge-90000km-fibre-barriers-sun",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The World Bank, quoted by The Sun, puts Nigeria's national fibre backbone at about 35,000 km, to be extended to 125,000 km by Project BRIDGE; dated to the article's publication date as it gives no other.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project BRIDGE",
+   "country_label": "Project BRIDGE (Building Resilient Digital Infrastructure for Growth)",
+   "class": "other",
+   "platform": "",
+   "owner": "Bridge Open Access SPV, government minority stake",
+   "tiers": ""
+  }
+ ],
+ "note": "BRIDGE start is announced for October, so not building; open-access is a design recommendation, not a stated service."
+}

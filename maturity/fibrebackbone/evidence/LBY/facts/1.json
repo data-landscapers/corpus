@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-30-ghat-tahala-fibre-cut-restored-alwasat",
+  "facts": [],
+  "systems": [
+    {"system": "Hatef Libya fibre-optic cable between Ghat and Tahala", "country_label": "كابل الألياف البصرية بين غات وتهالة", "class": "other", "platform": "", "owner": "Hatef Libya (Libya Telecom & Technology LPTIC group)", "tiers": "Almadar Aljadid and Libyana services in Ghat and Tahala municipalities"}
+  ],
+  "note": "Flood cut a local fibre link between Ghat and Tahala (south-west) in May 2026, with VSAT backup restoring 11 of 12 sites; the document does not say it is part of a capital-to-regions national backbone, so no reach or access fact."
+}

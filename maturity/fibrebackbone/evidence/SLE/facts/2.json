@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-05-sierra-leone-400m-telecom-usage-gap",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Minister of Communication, Technology and Innovation Salima Bah said the national fibre backbone had been expanded to 14 of the country's 16 districts (article of 2026-05-05; as_of is the article date, which gives no earlier date).", "as_of": "2026-05-05", "date_precision": "day", "system": "national fiber backbone (NFB)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "national fiber backbone (NFB)", "country_label": "national fiber backbone", "class": "backbone", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

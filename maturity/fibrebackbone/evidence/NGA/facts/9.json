@@ -1,0 +1,26 @@
+{
+  "slug": "2025-10-07-world-bank-approves-bridge-nigeria-digital-health-security",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "World Bank states the national backbone is 35,000 km, to be extended to 125,000 km by BRIDGE; date is the press release date.",
+      "as_of": "2025-10-07",
+      "date_precision": "day",
+      "system": "Nigeria national fibre backbone",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Project BRIDGE national fibre backbone",
+      "country_label": "Project BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "Project BRIDGE SPV (planned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Financing approval only; no contract or works."
+}

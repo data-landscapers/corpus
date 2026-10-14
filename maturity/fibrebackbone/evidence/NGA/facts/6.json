@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-04-nigeria-project-bridge-fibre-spv",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Project BRIDGE national fibre backbone",
+      "country_label": "Project BRIDGE",
+      "class": "other",
+      "platform": "",
+      "owner": "Project BRIDGE SPV (planned)",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned SPV, financing and construction from 2027 only; open-access is a design intent for a network not yet built; no existing backbone length or reach stated."
+}

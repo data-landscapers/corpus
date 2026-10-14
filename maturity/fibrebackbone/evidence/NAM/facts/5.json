@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-07-mict-vote29-budget-motivation-fibre-internet-penetration",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service",
+     "fact": "The ICT Minister told the National Assembly that Namibia's fibre optic network stretches to 18,719.5 km, with regional lengths given for //Karas (3,340.48 km), Otjozondjupa (2,624.34 km), Erongo (2,547.72 km), Hardap (2,232.11 km), Khomas (1,775.97 km), Zambezi (571.72 km), Kavango West (544.84 km) and Omusati (539.52 km); the speech does not call it a backbone or say who owns it, and the date is the speech date.",
+     "as_of": "2025-05-07", "date_precision": "day", "system": "Namibia's fibre optic network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Radio Access Network sites (Universal Service Fund)", "country_label": "RAN sites", "class": "other", "platform": "", "owner": "CRAN / Universal Service Fund", "tiers": ""}
+  ],
+  "note": "Only the network length by region is a fact; no contract, open-access term or every-region statement is given (only 8 of 14 regions are named)."
+}

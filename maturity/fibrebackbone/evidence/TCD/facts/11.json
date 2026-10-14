@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06 Chad invests 175m in national data center and networks",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "DCD reports the Ministry announced commencement on 20 December 2025 of PMICE Phase I (EUR 175.1m), which includes deploying 1,200 km of fibre optic cabling.",
+   "as_of": "2025-12-20",
+   "date_precision": "day",
+   "system": "PMICE",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PMICE",
+   "country_label": "Projet de Modernisation des Infrastructures de Connectivité de l'État",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Ministry of Telecommunications (Safitel Tchad implementing)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

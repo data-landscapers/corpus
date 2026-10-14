@@ -1,0 +1,55 @@
+iso3,stage,reach,access,stage_sources
+AGO,4,every-region,,AGO-001
+BDI,4,every-region,,BDI-002
+BEN,unplaced,,,
+BFA,3,in-service,,BFA-001;BFA-003
+BWA,3,in-service,,BWA-002;BWA-004
+CAF,3,in-service,,CAF-003;CAF-004
+CIV,3,in-service,,CIV-001
+CMR,3,in-service,,CMR-002;CMR-001
+COD,3,in-service,,COD-002;COD-001
+COG,2,building,,COG-001
+COM,no evidence,,,
+CPV,no evidence,,,
+DJI,3,in-service,,DJI-002
+DZA,2,building,,DZA-001
+EGY,no evidence,,,
+ERI,no evidence,,,
+ETH,3,in-service,,ETH-001
+GAB,3,in-service,,GAB-002;GAB-005
+GHA,no evidence,,,
+GIN,4,every-region,,GIN-002
+GMB,3,in-service,,GMB-001;GMB-004
+GNB,1,none,,GNB-001
+GNQ,3,in-service,,GNQ-001
+KEN,4,every-region,,KEN-010
+LBR,3,in-service,,LBR-002
+LBY,no evidence,,,
+LSO,2,building,,LSO-001
+MAR,no evidence,,,
+MDG,3,in-service,,MDG-001;MDG-002
+MLI,no evidence,,,
+MOZ,3,in-service,,MOZ-001
+MRT,3,in-service,,MRT-001;MRT-003
+MUS,no evidence,,,
+MWI,4,every-region,,MWI-004
+NAM,3,in-service,,NAM-002
+NER,3,in-service,,NER-002;NER-004
+NGA,4,every-region,,NGA-015;NGA-005
+RWA,3,in-service,,RWA-002;RWA-001
+SDN,3,in-service,,SDN-001
+SEN,3,in-service,,SEN-001
+SLE,3,in-service,,SLE-002;SLE-003
+SOM,no evidence,,,
+SSD,2,building,,SSD-001
+STP,no evidence,,,
+SWZ,2,building,,SWZ-002;SWZ-003
+SYC,no evidence,,,
+TCD,3,in-service,,TCD-003;TCD-001
+TGO,3,in-service,,TGO-001
+TUN,3,in-service,,TUN-001
+TZA,5,every-region,open,TZA-012;TZA-010
+UGA,3,in-service,,UGA-009;UGA-010
+ZAF,3,in-service,,ZAF-001;ZAF-003
+ZMB,3,in-service,,ZMB-003;ZMB-001
+ZWE,3,in-service,,ZWE-001;ZWE-006

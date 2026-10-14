@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-09-nigeria-bridge-open-access-incorporation",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Nairametrics, analysing NCC state-by-state data, says Nigeria has 101,148.36 km of fibre-optic cable deployed, with Lagos and the FCT holding 18,559.83 km (18.35%); no date given, so the article's published date is used.",
+   "as_of": "2026-08-09",
+   "date_precision": "day",
+   "system": "National fibre network (NCC data)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "Nairametrics, from NCC data, says the 101,148.36 km of fibre is deployed across all 36 states and the FCT, though concentrated in Lagos and Abuja; article date used as no other is given.",
+   "as_of": "2026-08-09",
+   "date_precision": "day",
+   "system": "National fibre network (NCC data)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project BRIDGE",
+   "country_label": "Project BRIDGE (Bridge Open Access)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government via Bridge Open Access SPV",
+   "tiers": ""
+  }
+ ],
+ "note": "Bridge OA incorporation and planned open-access wholesale network are plans, not building or open access in service."
+}

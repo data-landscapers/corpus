@@ -1,0 +1,60 @@
+{
+ "slug": "2025-05-16-tanzania-allocates-sh73-billion-ict-backbone",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Minister Silaa told Parliament the NICTBB had reached 109 of 139 districts (78 percent), with 13,820 km completed of a 16,280 km target and connected to Mombasa via Horohoro-Tanga.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Minister Silaa said 3,621 km of fibre was laid in 2024/25 and Sh73bn is allocated for 2025/26 to complete 4,442 targeted km of NICTBB construction.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Tanzania (MICIT); TTCL",
+   "tiers": ""
+  },
+  {
+   "system": "NICTBB extension to DRC",
+   "country_label": "NICTBB extension to DRC",
+   "class": "other",
+   "platform": "",
+   "owner": "MICIT",
+   "tiers": ""
+  },
+  {
+   "system": "National data centres Dodoma and Zanzibar",
+   "country_label": "National data centres Dodoma and Zanzibar",
+   "class": "other",
+   "platform": "",
+   "owner": "MICIT",
+   "tiers": ""
+  },
+  {
+   "system": "Last-mile optic fibre to 100 institutions",
+   "country_label": "Last-mile optic fibre to 100 institutions",
+   "class": "other",
+   "platform": "",
+   "owner": "MICIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

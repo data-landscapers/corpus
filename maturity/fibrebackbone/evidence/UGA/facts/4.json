@@ -1,0 +1,46 @@
+{
+ "slug": "2023-01-01-press-chn-uga-2023-001-national-data-transmission-backbone-infrastructuree-government-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Contractor CITCC signed commercial contract NITA-U/SUPLS/21-22/0001 on 2022-04-22 for Phase V: 3,604 km of backbone with 51 backbone sites, plus last mile to 800 government sites.",
+   "as_of": "2022-04-22",
+   "date_precision": "day",
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "NITA-U says President Museveni launched Phase V in Karamoja, delivering an additional 5,845 km of fibre across 63 districts; date not given, after loan effectiveness on 2024-09-18.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Phase V extends the fibre backbone to districts and sub-counties not reached by Phases I-III (2006-2013) and Phase IV (2018); the Finance Ministry's 2023-11-27 proposal said Phase V would take backbone coverage to 83%.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "country_label": "NBI/EGI Phase V",
+   "class": "backbone",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": "government sites"
+  }
+ ],
+ "note": ""
+}

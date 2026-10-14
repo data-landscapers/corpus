@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-21-fibre-optique-moyen-chari-pmice-sarh",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Le N'Djam Post reports the minister inaugurated PMICE Phase I at Sarh (Moyen-Chari) on 20 December 2025; the project (EUR 175,106,916) includes a 1,200 km national fibre backbone, but the article does not say the backbone is lit.",
+   "as_of": "2025-12-20",
+   "date_precision": "day",
+   "system": "PMICE",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PMICE",
+   "country_label": "Projet de Modernisation des Infrastructures de Connectivité de l'État",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Ministry of Telecommunications (Safitel Tchad implementing)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

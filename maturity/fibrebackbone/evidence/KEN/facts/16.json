@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service",
+     "fact": "Paratus says its 2,000 km Goma-Mombasa (G2M) terrestrial fibre route, which passes through Nairobi and ends at Mombasa on the Kenyan coast, is live and carrying traffic; the Kenyan Nairobi-Mombasa part is operator fibre, and the document gives no go-live date so the 2026-09-09 publication date is used.",
+     "as_of": "2026-09-09", "date_precision": "day", "system": "Paratus Goma-to-Mombasa (G2M) route", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Paratus Goma-to-Mombasa (G2M) route", "country_label": "G2M", "class": "backbone", "platform": "", "owner": "Paratus Group", "tiers": ""}
+  ],
+  "note": ""
+}

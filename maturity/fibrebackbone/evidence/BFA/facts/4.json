@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-burkina-noc-maison-du-citoyen-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Network Operations Centre of the national backbone (under construction)",
+   "country_label": "Centre d'Opération du Réseau Backbone National",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Monitoring centre under construction; no statement on fibre reach or access."
+}

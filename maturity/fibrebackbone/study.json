@@ -73,7 +73,16 @@
    "subject": "infra.connect",
    "text": "National fibre backbone: long-distance fibre across the country",
    "indicator_id": "infra.connect--national-fibre-backbone-long-distance-fibre-across-the-country",
-   "class": "backbone"
+   "class": "backbone",
+   "norm_short": "The African Union's Digital Transformation Strategy and its Programme for Infrastructure Development in Africa ask each state to build a national backbone that reaches every region and to share it among operators.",
+   "criteria": [
+    "A source from the past three years says the country has no national fibre backbone, and nothing later says one is being built.",
+    "In the past three years a national fibre backbone has been put under contract or works have begun. A plan, a study, a tender or money promised does not count.",
+    "Backbone fibre is in service between the capital and at least one other region, whoever owns it: the state, a utility or an operator.",
+    "A source states that the backbone reaches every province or region.",
+    "The backbone reaches every province or region, and other operators buy capacity on it, or it runs on open-access or wholesale terms."
+   ],
+   "criteria_of": "b76e494bedea"
   }
  ],
  "classes": [
@@ -83,7 +92,7 @@
  "aspects": [
   {
    "key": "reach",
-   "name": "How far a national fibre backbone has got: being built, in service between regions, reaching every region",
+   "name": "Built, in service and reaching every region",
    "role": "coverage",
    "defer": [
     "none"
@@ -102,7 +111,7 @@
   },
   {
    "key": "access",
-   "name": "Capacity on the backbone sold to other operators",
+   "name": "Capacity sold to other operators",
    "role": "coverage",
    "defer": [
     "none"

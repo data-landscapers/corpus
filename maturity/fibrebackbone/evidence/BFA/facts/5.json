@@ -1,0 +1,42 @@
+{
+ "slug": "2025-12-30-burkina-faso-earmarks-109-4mln-digital-projects-2026",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The ministry's 2025 results say the national fibre-optic network was expanded to more than 11,292 km (We Are Tech Africa reporting).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National fibre-optic network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National fibre-optic network",
+   "country_label": "",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "RESINA",
+   "country_label": "RESINA",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "270 km fibre deployment in 2026 work plan (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

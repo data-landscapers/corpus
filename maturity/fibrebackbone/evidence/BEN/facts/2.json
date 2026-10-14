@@ -1,0 +1,11 @@
+{
+  "slug": "2015-01-01-eximbank-cn-ben-001-china-eximbank-provides-rmb-496-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Benin Telecom's contract with Huawei (signed 2014-08-05, financed by a China Eximbank RMB 496m loan of 2015-04-07) covers rehabilitating a 1,060 km fibre backbone from Cotonou to Malanville; implementation began in December 2016 and the project is recorded as completed by 2018.", "as_of": "2016-12", "date_precision": "month", "system": "National Broadband Network Project Phase 1 (PDI2T)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Broadband Network Project Phase 1 (PDI2T)", "country_label": "National Backbone", "class": "backbone", "platform": "Huawei equipment", "owner": "Benin Telecom S.A.", "tiers": ""},
+    {"system": "Cotonou metropolitan fibre loop", "country_label": "", "class": "other", "platform": "", "owner": "Benin Telecom S.A.", "tiers": ""}
+  ],
+  "note": ""
+}

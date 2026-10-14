@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "backbone",
+   "stage": "3",
+   "reach": "in-service",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-001;ZWE-006",
+   "gaps": "No source held says the backbone reaches every province or region.",
+   "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
+  }
+ ]
+}

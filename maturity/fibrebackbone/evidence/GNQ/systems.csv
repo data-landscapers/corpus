@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNQ,Backbone National Gabonais (BNG),GAB,other,,SPIN (Gabon),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GNQ,réseau national équato-guinéen de fibre optique,GNQ,backbone,,,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GNQ,"Central African Fibre Optic Backbone (CAB), Gabon component",GAB,other,,Government of Gabon,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+GNQ,"red nacional de fibra óptica de SEGESA (2,000 km, along electricity infrastructure)",GNQ,other,,SEGESA,,2026-06-13-segesa-comercializar-red-fibra-optica
+GNQ,ACE,GNQ,other,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Medusa (GNQ landing),GNQ,other,,AFR-IX Telecom,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Via Africa,GNQ,other,,consortium of seven operators,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,"Medusa submarine cable landing at Bome, Bata",Medusa,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg
+GNQ,ASD cable,ASD,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg

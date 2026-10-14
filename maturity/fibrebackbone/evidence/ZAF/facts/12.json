@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends",
+  "facts": [],
+  "systems": [
+    {"system": "SA Connect", "country_label": "South Africa Connect", "class": "other", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}
+  ],
+  "note": "SA Connect is government-facility connectivity and community WiFi, not a stated national fibre backbone; no reach or access statement."
+}

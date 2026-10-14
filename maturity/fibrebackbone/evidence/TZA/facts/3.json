@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-huawei-tza-001-national-ict-broadband-backbone-nictbb-extension",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Contract signed 18 April 2023 between TTCL and Huawei Tanzania for a 1,520 km NICTBB extension covering 23 districts, TZS 37.3bn.",
+   "as_of": "2023-04-18",
+   "date_precision": "day",
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

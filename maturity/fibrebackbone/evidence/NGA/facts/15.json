@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-african-development-bank-nga-2026-nigeria-project-bridge-dvibe-bw11",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The AfDB, as reported by Connecting Africa, describes Nigeria's existing national fibre backbone as around 30,000 km, to be extended to about 120,000 km; regions served are not listed.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Nigeria national fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The AfDB's $200m loan is to deploy 90,000 km of open-access fibre under Project BRIDGE (D-VIBE); open access is stated as the design of the planned build, with no buyers named.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Project BRIDGE",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Project BRIDGE",
+   "country_label": "Project BRIDGE",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "AfDB approved a $200m loan in 2026 (year precision, no month given); no contract or works stated, so no building fact."
+}

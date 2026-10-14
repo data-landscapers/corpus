@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-17-lesahel-copil-dts-ptba-2026-2027",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Steering committee on 13 Mar 2026 recalls provisional acceptance of the fibre works on 14 Nov 2025; the project coordinator says the fibre component's provisional acceptance is still under way after years of delays; AfDB financing over 30 billion FCFA (16.00 loan, 12.76 grant, 2.17 national counterpart).",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS), Niger component",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trans-Sahara Optical Fibre Backbone (DTS/TSB), Niger component",
+   "country_label": "Dorsale Transsaharienne a Fibre Optique (DTS/FO)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Niger, project unit; AfDB-financed",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

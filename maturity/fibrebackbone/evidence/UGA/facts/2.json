@@ -1,0 +1,44 @@
+{
+ "slug": "2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "NITA-U contracted CITCC on 2022-04-22 (NITA-U/Supplies/21-22/001) to supply, install and commission NBI/EGI Phase V, extending the backbone to about 62 districts; Hansard of 2023-12-06 says implementation was expected to start early 2024.",
+   "as_of": "2022-04-22",
+   "date_precision": "day",
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "ICT Minister Baryomunsi told Parliament on 2023-12-06 that existing NBI coverage was about 50 per cent of the country, with roughly 62 districts not covered by phases I-IV.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure (NBI)",
+   "country_label": "National Backbone Infrastructure",
+   "class": "backbone",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": "MDAs, local governments, schools"
+  },
+  {
+   "system": "National Data Transmission Backbone Infrastructure Phase V",
+   "country_label": "NBI/EGI Phase V",
+   "class": "backbone",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

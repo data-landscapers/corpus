@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-liquid-kenya-ai-next-growth-frontier",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "TechTrends KE reports Liquid's East African footprint, including Rwanda, is connected through the company's own metro and national long-distance fibre networks; no Rwandan places or km are given. The article gives no date for the Rwandan network, so as_of is its publication date.", "as_of": "2026-09-10", "date_precision": "day", "system": "Liquid Intelligent Technologies fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Liquid Intelligent Technologies fibre network", "country_label": "Liquid fibre network", "class": "backbone", "platform": "terrestrial fibre", "owner": "Liquid Intelligent Technologies (Cassava Technologies)", "tiers": ""}
+  ],
+  "note": "Weak: Rwanda is named only in a list of countries; the 116,000 km figure and Mombasa-Uganda route are not Rwanda facts."
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "2024-05-13-wbba-gamtel-national-broadband-network-case-study",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "WBBA states GAMTEL's National Broadband Network (420 km of fibre-optic links, around 31 central office sites) was deployed in 2019, extending the 2015 ECOWAN backbone and 947 km of legacy fibre in four rings, as a national backbone serving all key areas of the country.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "National Broadband Network (NBN)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "WBBA states the national backbone (ECOWAN, NBN, legacy fibre) is accessible to private service providers, who use lit or dark fibre or buy capacity from GAMTEL, and that all MNOs and ISPs use GAMTEL's network; the document gives no date for this, so its published date 2024-05-13 is used.",
+   "as_of": "2024-05-13",
+   "date_precision": "day",
+   "system": "GAMTEL ECOWAN/NBN backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Broadband Network (NBN)",
+   "country_label": "National Broadband Network (NBN)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "GAMTEL",
+   "tiers": ""
+  },
+  {
+   "system": "ECOWAN",
+   "country_label": "ECOWAN",
+   "class": "backbone",
+   "platform": "",
+   "owner": "GAMTEL",
+   "tiers": ""
+  },
+  {
+   "system": "Cross Gambia Fiber Cable network (CG2)",
+   "country_label": "Cross Gambia Fiber Cable network (CG2)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "GAMTEL",
+   "tiers": ""
+  },
+  {
+   "system": "ACE submarine cable",
+   "country_label": "ACE submarine cable",
+   "class": "other",
+   "platform": "",
+   "owner": "GAMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

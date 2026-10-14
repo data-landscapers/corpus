@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-eximbank-cn-sle-001-china-eximbank-provides-rmb-207-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Construction of Phase 2 of the National Fibre Optic Backbone Infrastructure Project, a 721.5 km fibre network covering 15 major cities in the northern, eastern and southern regions, had commenced by September 2020 under a Huawei contract signed 11 April 2019 and financed by a China Eximbank RMB 207 million loan (AidData record).", "as_of": "2020-09", "date_precision": "month", "system": "National Fibre Optic Backbone Infrastructure Project Phase 2", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Fibre Optic Backbone Infrastructure Project Phase 2", "country_label": "National Fibre Optic Backbone Infrastructure Project", "class": "backbone", "platform": "Huawei (EPC contractor)", "owner": "Sierra Leone Cable Company Limited (SALCAB), state-owned", "tiers": ""}
+  ],
+  "note": ""
+}

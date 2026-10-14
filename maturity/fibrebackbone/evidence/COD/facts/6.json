@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-22-tshisekedi-fracture-numerique-conseil-ministres-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "Monaco-Sat", "country_label": "accord Monaco-Sat", "class": "other", "platform": "satellite", "owner": "", "tiers": ""},
+    {"system": "Starlink", "country_label": "Starlink", "class": "other", "platform": "satellite", "owner": "", "tiers": ""},
+    {"system": "Plan National du Numérique Horizon 2025", "country_label": "PNN", "class": "other", "platform": "", "owner": "Government of DRC", "tiers": ""}
+  ],
+  "note": "Cabinet communication on the digital divide; says fibre needs more network but names no backbone built, in service, leased or contracted."
+}

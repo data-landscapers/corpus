@@ -1,0 +1,34 @@
+{
+  "slug": "2025-07-30-dfn-eardip-stakeholder-grievance-workshop-lanation",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "building",
+      "fact": "The Ministry of Communication (MCPT) says the World Bank-financed DFN and EARDIP projects are deploying fibre optic networks in Djibouti-ville, Balbala and the five interior regions, with EARDIP developing terrestrial fibre along the road corridor north of Djibouti.",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "DFN / EARDIP",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DFN",
+      "country_label": "Djibouti Fondements du Numerique",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MCPT, World Bank financed",
+      "tiers": ""
+    },
+    {
+      "system": "EARDIP",
+      "country_label": "Integration numerique en Afrique de l'Est",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MCPT, World Bank financed",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

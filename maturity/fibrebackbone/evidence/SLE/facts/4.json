@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-31-salima-bah-tech-ambition-interview",
+  "facts": [],
+  "systems": [
+    {"system": "Cross-border interconnection with Guinea", "country_label": "interconnection with Guinea", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Open-access 5G standalone network", "country_label": "open-access 5G standalone network", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Minister cites an over 75% rise in fibre backbone penetration since 2018, with no places, regions or km, so reach is not stated; Guinea link is cross-border and not described as part of the national backbone; open access applies to a 5G network, not the backbone."
+}

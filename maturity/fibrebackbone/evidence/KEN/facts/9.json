@@ -1,0 +1,34 @@
+{
+  "slug": "2026-02-05 Chinas infrastructure finance in Africa impacts and lessons",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "building",
+      "fact": "ODI says Kenya's NOFBI Phase 2 (concessional Chinese-financed) was still incomplete as of 2025, so works remain under way; it also cites idle NOFBI equipment flagged by the Auditor-General in 2022.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "country_label": "NOFBI",
+      "class": "backbone",
+      "platform": "ZTE/Huawei",
+      "owner": "Government of Kenya",
+      "tiers": ""
+    },
+    {
+      "system": "Konza Technopolis data centre",
+      "country_label": "Konza",
+      "class": "other",
+      "platform": "Huawei EPC",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

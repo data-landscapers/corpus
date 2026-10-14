@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Galaxy Backbone (GBB) states its national ICT infrastructure spans over 5,000km of fibre-optic cable in 28 states; the date is the page date, the release carries none.",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone national ICT infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Galaxy Backbone national ICT infrastructure",
+   "country_label": "Galaxy Backbone national ICT infrastructure",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  },
+  {
+   "system": "NSSC DC1 Abuja",
+   "country_label": "NSSC DC1 Abuja",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal MDAs"
+  }
+ ],
+ "note": ""
+}

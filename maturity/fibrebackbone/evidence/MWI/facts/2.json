@@ -1,0 +1,10 @@
+{
+  "slug": "2016-01-01-eximbank-cn-mwi-001-china-eximbank-provides-rmb-1554-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Malawi and China Eximbank signed an RMB 155.4 million loan for Phase I of the National Fibre Backbone Project (1,220 km on ESCOM transmission towers from Chitipa to Nsanje via Lilongwe, Blantyre and Zomba, connecting 24 of 28 districts); the deal record gives a 2017 start and a 2018 end, and the loan was ratified on 6 December 2016. The text does not say the fibre is lit.", "as_of": "2017", "date_precision": "year", "system": "National Fibre Backbone Project Phase I", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Fibre Backbone Project Phase I", "country_label": "Malawi National Fibre Backbone Project", "class": "backbone", "platform": "Fibre on ESCOM power transmission towers", "owner": "Government of Malawi; ESCOM towers", "tiers": "24 of 28 districts"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01-nita-u-nbi-phase5-kanungu-district",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building",
+     "fact": "NITA-U states that Phase 5 of the National Backbone Infrastructure, launched nationally in Moroto District on 4 December 2024, was extended to Kanungu District in December 2025, as one of 63 districts in a programme laying over 5,000 km of new optical fibre and 21 solar-powered transmission sites.",
+     "as_of": "2025-12", "date_precision": "month", "system": "National Backbone Infrastructure (NBI) Phase 5", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Backbone Infrastructure (NBI) Phase 5", "country_label": "NBI", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U", "tiers": "central and local government sites, schools, health facilities, police"}
+  ],
+  "note": ""
+}

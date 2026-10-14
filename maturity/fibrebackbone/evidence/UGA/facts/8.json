@@ -1,0 +1,8 @@
+{
+  "slug": "2015-06-10-uga-gazette-nita-u-egovernment-regulations",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Transmission Backbone Infrastructure (NBI)", "country_label": "NBI", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "all public bodies"}
+  ],
+  "note": "Regulation requires public bodies to use and pay for the NBI; no statement of fibre in service, regions reached or sale to other operators."
+}

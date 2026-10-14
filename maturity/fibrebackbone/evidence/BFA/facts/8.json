@@ -1,0 +1,11 @@
+{
+  "slug": "2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "The document states construction of Phase 1 of the National Telecommunications Backbone Project (PBNT), a 307 km fibre link from Ouagadougou to Po under a contract with Huawei, began on 10 December 2017.", "as_of": "2017-12-10", "date_precision": "day", "system": "National Telecommunications Backbone Project (PBNT)", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "The document states PBNT Phase 1, a 307 km fibre backbone linking Ouagadougou and Po (capacity 1,600 Gbit/s, serving ten municipalities), was completed and officially inaugurated on 26 October 2021; it is part of a planned 5,740 km, EUR 175 million programme.", "as_of": "2021-10-26", "date_precision": "day", "system": "National Telecommunications Backbone Project (PBNT)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Telecommunications Backbone Project (PBNT)", "country_label": "PBNT", "class": "backbone", "platform": "fibre optic, Huawei", "owner": "Government of Burkina Faso", "tiers": ""}
+  ],
+  "note": ""
+}

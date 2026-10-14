@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,backbone,reach,coverage,every-region,2026-08-09,NGA-005;NGA-015,NGA-010=in-service;NGA-001=in-service;NGA-012=in-service;NGA-013=in-service;NGA-002=in-service;NGA-003=in-service;NGA-014=in-service;NGA-017=building;NGA-004=in-service;NGA-016=in-service;NGA-006=in-service;NGA-007=in-service;NGA-008=in-service;NGA-009=none;NGA-018=in-service;NGA-019=in-service;NGA-020=in-service,
+NGA,backbone,access,coverage,open,2026,NGA-011,,

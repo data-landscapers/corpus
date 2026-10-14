@@ -1,0 +1,9 @@
+{"slug":"2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl",
+"facts":[
+{"sub_indicator":"backbone","aspect":"reach","value":"building","fact":"Sinohydro was awarded the commercial contract in July 2022 (Presidential Order 226-K/22) to install 2,000 km of terrestrial fibre under the National Broadband Network (RNBL), financed by a China Eximbank loan (framework agreement January 2023, specific loan agreement signed October 2023); the record is a third-party database entry.","as_of":"2022-07","date_precision":"month","system":"Rede Nacional de Banda Larga (RNBL)","class":"backbone"}
+],
+"systems":[
+{"system":"Rede Nacional de Banda Larga (RNBL)","country_label":"Rede Nacional de Banda Larga","class":"backbone","platform":"","owner":"Government of Angola (MINTTICS); EPC contractor Sinohydro","tiers":""},
+{"system":"Cabinda submarine fibre line","country_label":"","class":"other","platform":"submarine cable","owner":"","tiers":""}
+],
+"note":""}

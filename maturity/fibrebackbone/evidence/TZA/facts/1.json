@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro)",
+   "country_label": "Kenya-Tanzania terrestrial fibre link (Lunga Lunga/Horohoro)",
+   "class": "other",
+   "platform": "",
+   "owner": "ICTA Kenya and TTCL",
+   "tiers": ""
+  },
+  {
+   "system": "National ICT Broadband Backbone (NICTBB)",
+   "country_label": "National ICT Broadband Backbone (NICTBB)",
+   "class": "backbone",
+   "platform": "",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": "Cross-border link launch on its own; no statement of national backbone reach or access for TZA."
+}

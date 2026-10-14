@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PMICE",
+   "country_label": "Projet de modernisation des infrastructures de communications électroniques",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  },
+  {
+   "system": "Centre national des données numériques",
+   "country_label": "",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": "Fibre only mentioned as a 1,200 km mesh component of PMICE launched July 2020, with no contract, works or service state; the data centre is not backbone."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-zwe-spikedmedia-national-ai-data-platform-tourism-statistics",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Minister Mavetera, citing the Ministry's FY2025 Annual Performance Feedback Report, put the national fibre backbone at more than 70,000 km; no places named (figure conflicts with other ministry figures).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National fibre backbone (Ministry of ICT figure)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pangolin",
+   "country_label": "Pangolin",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Pangolin is called the national backbone for AI data connection; no description of fibre, so no fact."
+}

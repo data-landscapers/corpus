@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-05-orange-fibre-tana-mahajanga-2424",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Orange Madagascar inaugurated on 1 December 2025 a 558 km fibre link from the capital Antananarivo to Mahajanga, which it calls a national backbone (2424.mg, quoting the operator).", "as_of": "2025-12-01", "date_precision": "day", "system": "Orange Madagascar Tana-Mahajanga fibre backbone", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Orange Madagascar's Antananarivo-Toamasina fibre link was put in place in 2024 (works launched August 2024), per 2424.mg.", "as_of": "2024", "date_precision": "year", "system": "Orange Madagascar Tana-Toamasina fibre link", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "Orange Madagascar Tana-Mahajanga fibre backbone", "country_label": "backbone national Orange", "class": "backbone", "platform": "", "owner": "Orange Madagascar", "tiers": ""},
+    {"system": "Orange Madagascar Tana-Toamasina fibre link", "country_label": "", "class": "backbone", "platform": "", "owner": "Orange Madagascar", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "every-region", "fact": "Matias Borges, national director of telecommunications at MINTTICS, said in a May 2023 interview that Angola's terrestrial fibre network exceeds 22,000 km and connects all provincial and communal capitals; no date for the connection is given, so the article date is used.", "as_of": "2023-05-17", "date_precision": "day", "system": "rede de fibra óptica terrestre", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "MINTTICS's national director of telecommunications said Angola's terrestrial fibre network, over 22,000 km, was in place connecting provincial capitals; no date for the connection is given, so the article date is used.", "as_of": "2023-05-17", "date_precision": "day", "system": "rede de fibra óptica terrestre", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "rede de fibra óptica terrestre", "country_label": "rede de fibra óptica terrestre", "class": "backbone", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Projecto Nacional de Banda Larga", "country_label": "Projecto Nacional de Banda Larga", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

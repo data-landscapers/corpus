@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state); Gabon Fiber concessionaire from 2026-11-16,,2026-10-07-gab-union-magt-etat-convention-gabon-fiber
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A.,,2026-10-07-gab-union-magt-etat-convention-gabon-fiber
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state),,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A. (concessionaire from 2026-11),,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Axione delegation,Axione (Bouygues Energies & Services-Axione),backbone,,"Axione, outgoing operator under delegated service, ending Nov 2026",,2026-09-15-gab-gabonreview-backbone-national-gabon-fiber-1651-km-fibre
+GAB,Backbone national gabonais,Backbone national gabonais,backbone,,SPIN (state),,2026-09-15-gab-gabonreview-gabon-fiber-connectivite-etendue-performante
+GAB,Gabon Fiber,Gabon Fiber SA,backbone,,Gabon Fiber SA,,2026-09-15-gab-gabonreview-gabon-fiber-connectivite-etendue-performante
+GAB,Backbone national gabonais,Backbone National Gabonais (BNG),backbone,,SPIN (state),,2026-09-14-gab-agp-spin-gabon-fiber-partenariat-backbone-national
+GAB,Gabon Fiber,Gabon Fiber S.A.,backbone,,Gabon Fiber S.A.,,2026-09-14-gab-agp-spin-gabon-fiber-partenariat-backbone-national
+GAB,Backbone national gabonais,Gabonese National Backbone,backbone,,SPIN,,2026-09-11-techafricanews-gabon-national-backbone-3420km
+GAB,Gabon Fiber,Gabon Fiber,backbone,,Gabon Fiber,,2026-09-11-techafricanews-gabon-national-backbone-3420km
+GAB,Backbone national (BNG),Backbone national,backbone,fibre optic along railway,Axione Gabon (operator),"ISPs and mobile operators (Moov Africa, Airtel) depend on it",2026-08-25-gabonclic-backbone-national-panne-lope-sabotage
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,fibre optic,"SPIN (asset company); Lambarene-Mouila section prefinanced by Moov Africa Gabon Telecom, ceded to Gabon Fiber",,2026-10-08-gab-spin-backbone-lambarene-mouila
+GAB,Fougamou and Mouila technical centres,Centres Techniques,other,,ceded to Gabon Fiber,,2026-10-08-gab-spin-backbone-lambarene-mouila
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,fibre optic,SPIN,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,Gabon-Equatorial Guinea backbone interconnection (Meyo-Kye-Ebebeyin),interconnexion des dorsales,other,fibre optic cross-border,SPIN / Equatorial Guinea,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,Gabon component of the Central African Fibre Optic Backbone (CAB),Gabon-ICT backbone project,other,fibre optic,Government of Gabon,,2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,backbone,,"state, via SPIN; extension by Gabon Fiber S.A.",,2026-09-14-gab-agp-gabon-fiber-41-milliards-fcfa-1650-km-fibre
+GAB,national fibre network (SPIN),"2,000 km of fibre",backbone,,SPIN,,2026-07-27-agp-gabon-communications-spatiales-11-recommandations-souverainete
+GAB,Moov Africa FTTH,FTTH,other,,Moov Africa Gabon Telecom,,2025-01-29-gabon-moov-ftth-coverage-leader
+GAB,Airtel FTTH and microwave transport authorisation,reseau fixe technologiquement neutre,other,,Airtel Gabon,,2025-01-07-gabon-airtel-fixed-services

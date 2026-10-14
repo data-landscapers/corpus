@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-ago-governo-pretende-estender-fibra-optica-a-todo-o-pais",
+  "facts": [],
+  "systems": [
+    {"system": "rede terrestre de fibra óptica", "country_label": "rede terrestre de fibra óptica", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "cabo submarino doméstico", "country_label": "cabo submarino doméstico", "class": "other", "platform": "", "owner": "MINTTICS (preparing)", "tiers": ""}
+  ],
+  "note": "Minister says a domestic submarine cable is being prepared and fibre extension to the whole territory is a goal; plans and partnerships only, no contract, no stated in-service backbone."
+}

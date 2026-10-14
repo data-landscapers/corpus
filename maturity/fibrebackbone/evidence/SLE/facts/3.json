@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-17-natca-hq-national-data-centre",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Minister Salima Bah said at the NatCA headquarters commissioning that 14 of 16 districts are now connected by fibre (SLENA report of 2026-04-17; as_of is the report date, which gives no earlier date).", "as_of": "2026-04-17", "date_precision": "day", "system": "national fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "National Data Centre (NatCA HQ)", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "NatCA / MoCTI", "tiers": ""}
+  ],
+  "note": ""
+}

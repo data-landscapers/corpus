@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-02-google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LION / LION2 cables",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "America-India Connect cable",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Sea cables and ground station only; no national terrestrial backbone stated."
+}

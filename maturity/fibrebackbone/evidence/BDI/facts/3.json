@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-27-arct-rapport-indicateurs-tic-burundi-edition-2024",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "ARCT's 2024 ICT indicators report lists BBS (Burundi Backbone System) as a fibre infrastructure operator with 1,750 km of fibre deployed at 31 December 2024, covering all provinces.", "as_of": "2024-12-31", "date_precision": "day", "system": "BBS fibre network", "class": "backbone"},
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "every-region", "fact": "ARCT states BBS's fibre (1,750 km) covers all provinces of Burundi and that the national territory is now covered by fibre optic, as at 31 December 2024.", "as_of": "2024-12-31", "date_precision": "day", "system": "BBS fibre network", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "BBS fibre network", "country_label": "BBS (Burundi Backbone System)", "class": "backbone", "platform": "", "owner": "BBS", "tiers": ""},
+    {"system": "Viettel Burundi fibre network", "country_label": "VIETTEL", "class": "backbone", "platform": "", "owner": "VIETTEL Burundi", "tiers": ""},
+    {"system": "ONATEL metropolitan network (MAN)", "country_label": "Reseau Metropolitain de l'ONATEL (MAN)", "class": "other", "platform": "", "owner": "ONATEL", "tiers": ""}
+  ],
+  "note": "Report gives no access terms; Viettel 3,400 km has no stated coverage (table extraction fragmented), so no fact for it; ONATEL 350 km is metro (Bujumbura)."
+}

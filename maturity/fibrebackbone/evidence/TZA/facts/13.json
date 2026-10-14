@@ -1,0 +1,60 @@
+{
+  "slug": "2026-05-13-tz-minister-statement-wtisd-2026",
+  "facts": [
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "every-region",
+      "fact": "The Minister says the backbone links all mainland regional headquarters (also 122 of 139 districts), as of December 2025.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone"
+    },
+    {
+      "sub_indicator": "backbone",
+      "aspect": "reach",
+      "value": "in-service",
+      "fact": "The Minister says the backbone spans 15,167 km at 2,000 Gbps, reaching 122 of 139 districts and seven neighbouring countries, as of December 2025; work continues on remaining districts and DRC.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National ICT Broadband Backbone (NICTBB)",
+      "country_label": "National ICT Broadband Backbone (NICTBB)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "TTCL / government",
+      "tiers": ""
+    },
+    {
+      "system": "Submarine cables at Dar es Salaam",
+      "country_label": "Submarine cables at Dar es Salaam",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Internet Exchange Points",
+      "country_label": "Internet Exchange Points",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Data centres",
+      "country_label": "Data centres",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

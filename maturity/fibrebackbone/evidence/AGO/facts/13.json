@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia",
+  "facts": [
+    {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "UNESCO's national consultant for the AI readiness assessment said Angola now has about 28,000 km of optical fibre, presented as existing infrastructure; the document names no routes, regions or operators, so the capital-to-region span is implied, not stated.", "as_of": "2026-06-30", "date_precision": "day", "system": "national optical fibre network (about 28,000 km)", "class": "backbone"}
+  ],
+  "systems": [
+    {"system": "national optical fibre network (about 28,000 km)", "country_label": "fibra óptica", "class": "backbone", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "As_of is the document's publication date; it gives no date for the fibre."
+}

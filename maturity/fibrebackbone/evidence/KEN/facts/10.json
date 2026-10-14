@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-unicef-ken-giga-eu-2023-scaling-up-school-connectivity-in-kenya",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "country_label": "NOFBI",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Only says the school-connectivity programme leverages NOFBI; no statement of reach or access."
+}

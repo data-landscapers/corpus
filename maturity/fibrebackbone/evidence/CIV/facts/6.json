@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-18-africa-bb-maps-cartographie-haut-debit-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Broadband Maps (Africa-BB-Maps)", "country_label": "Africa-BB-Maps", "class": "other", "platform": "", "owner": "ITU and ARTCI, with EU support", "tiers": ""}
+  ],
+  "note": "Gives only a national total of over 30,303 km of fibre deployed, with no statement of capital-to-region backbone, in-service status, regional coverage or access terms; the mapping initiative is a plan, not a backbone."
+}

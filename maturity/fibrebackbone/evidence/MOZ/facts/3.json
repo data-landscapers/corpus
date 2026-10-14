@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-eximbank-cn-moz-002-modernization-and-expansion-of-the-national",
+  "facts": [],
+  "systems": [
+    {"system": "Tmcel national mobile network modernisation", "country_label": "Modernization and Expansion of the National Mobile Network", "class": "other", "platform": "mobile network, Huawei as partner", "owner": "Tmcel", "tiers": ""}
+  ],
+  "note": "Mobile network loan; it mentions 7,600 km of fibre modernised but not a backbone built, extended or placed in service between regions, so no fact."
+}
