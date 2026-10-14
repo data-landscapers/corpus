@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: KEN
-ledger_rows: 130
+ledger_rows: 134
 not_held: 7
-record: 14ac5ac9e5e8
+record: 2ac445fdd234
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -141,6 +141,8 @@ Tanzania's competition regulator [put KCB Group's stake in the payments company 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
 The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). A tier-one bank's fintech arm [launched a wallet that sends to mobile-money services and bank accounts](https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/); no user figure is published. An industry association reported [the bank-owned instant payment switch's chief executive saying a portable account identifier is ready and institutions must begin mapping customers to it](https://www.linkedin.com/pulse/pesalinks-new-id-makes-bank-transfers-easier-bin1f).
+
+Airtel [plans a Mastercard-backed prepaid virtual card on its wallet for payments to international online merchants, against Safaricom's M-PESA GlobalPay](https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/), a business outlet reported on 14 October, with no launch date or fees published. The same report puts [Airtel Money's share of mobile money at 11.1 per cent in June 2026 against 88.8 per cent for M-PESA, down from nearly 95 per cent in 2023](https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/).
 <!-- /narrative -->
 ### Registries
 
@@ -155,6 +157,8 @@ The claims platform was quantified from the settlement end for the first time. T
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
 The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains). The health ministry and the governors' health committee [agreed that current facility contracts will not be extended again and set contracting clinics in every county to 14 October](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts). The health ministry [put migration at 6,427 public, 38 private and 38 of 518 faith-based facilities](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting).
+
+The criminal investigations directorate [extended its biometric police clearance system to the diplomatic community, reported on 14 October; since its launch on 23 July it has reached 26 of 63 application centres, and the directorate says certificates now issue the same day rather than in 14 days](https://www.standardmedia.co.ke/crime-and-justice/article/2001560103/dci-rolls-out-biometric-clearance-to-diplomats).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

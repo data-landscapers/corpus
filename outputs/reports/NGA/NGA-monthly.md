@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: NGA
-ledger_rows: 146
+ledger_rows: 151
 not_held: 9
-record: 2b049fa613e2
+record: 999ffbe79b7e
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -87,6 +87,8 @@ Rural connectivity was folded into the electrification programme. A rural infras
 A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
 
 An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving. [The Lagos deputy governor put state fibre at about 3,000 km, with a further US$22 million invested towards a unified 6,000 km network, and resident identity enrolment at more than 6.4 million](https://realnewsmagazine.net/hamzat-tasks-govt-businesses-on-technology-driven-jobs-inclusive-growth/). [Internet data use reached 11.94 million TB in January to August 2026, about 90% of the whole of 2025, with 1.76 million TB in August](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/).
+
+The operator of the Lagos station where the ACE cable lands [contracted a Nigerian developer to run a solar system there under a ten-year agreement, to cut the station's diesel use](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos); the account was published on 13 October and gives no signing date.
 <!-- /narrative -->
 ### Data Storage
 
@@ -120,6 +122,8 @@ A second use for election hardware was floated rather than agreed: the admission
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
 On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/). [Katsina State sought a partnership with the national identity commission, reported 10 October 2026, to integrate its identity management system with the national architecture; the two agreed a technical working group to draft a framework and memorandum within eight weeks](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/).
+
+On 14 October the commission said [142 million people had registered for numbers by September 2026, that its core database is hosted entirely in Nigeria and run by its own staff rather than a cloud provider, and that about 63 government agencies have integrated with it](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/). The count is a fourth, reconciled with none of the others.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -172,6 +176,8 @@ Ondo State followed its payroll platform with [Ondo AI, launched to automate per
 The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
 
 [The state network operator said more than 30 federal agencies have moved onto one platform for paperless approval of documents and memos](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/), with no list of agencies or adoption target.
+
+The electoral commission's chairman said on 14 October that [its candidate nomination portal had processed more than 15,000 nominations across 22 parties](https://www.vanguardngr.com/2026/10/2027-ive-handed-everything-over-to-god-says-inec-chairman/) for the 2027 elections.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -184,6 +190,8 @@ One state measured its own agencies rather than announcing a platform. The Anamb
 [A UK-funded programme of state-level digital policy and institutional reform was inaugurated in Abia on 17 September](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/), run by a Nigerian NGO and starting from a baseline report on the state.
 
 Edo State [replaced a foreign-owned e-governance platform, for which it paid licence fees after funding its build, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), the head of the state ICT agency said on 23 September. The date of the switch is not stated.
+
+Adamawa State [began implementing an enterprise resource planning system on 9 October to hold one personnel and payroll record across its civil service commission, head of service and accountant-general, hosted on state infrastructure](https://dailytrust.com/adamawa-launches-civil-service-digitisation-erp-reform/). No cost, vendor or completion date is published.
 <!-- /narrative -->
 ### Rural digital data capture
 
@@ -209,6 +217,8 @@ The communications minister [put the ICT sector's contribution to GDP at about 2
 At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
 
 A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction with the small-enterprise agency and UNDP, US$5.9m for the building and US$6.1m for equipment and programmes](https://statehouse.gov.ng/tinubu-welcomes-12-million-abuja-entrepreneurship-centre-to-strengthen-nigerias-msme-ecosystem/), targeting 1,500 small businesses; no completion date is given.
+
+A growth-stage founder platform and Sterling Bank [set up a first-loss fund of a stated US$200m on 14 October to back up to US$1bn of bank loans to start-ups and small firms nominated by their investors](https://techcabal.com/2026/10/14/cascador-sterling-startup-loans/). Its capital is still to be raised.
 <!-- /narrative -->
 
 ## Capacity

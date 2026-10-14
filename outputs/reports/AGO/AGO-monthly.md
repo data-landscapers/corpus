@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: AGO
-ledger_rows: 43
+ledger_rows: 44
 not_held: 6
-record: dca90b5226a2
+record: de8c69d560bc
 ---
 
 # Angola: monthly update, September – October 2026
@@ -57,6 +57,8 @@ The national fibre network [opened its first link at Lobito on 16 September](htt
 The incumbent operator [reported more than 21.2 million subscribers and 12,302 base stations for the first half of 2026, with 5G extended to Namibe, Malanje, Kwanza Sul, Zaire and Cabinda](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/), on its own figures.
 
 The national cable company [began deploying new optical equipment across its South Atlantic and MONET submarine systems](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology), adding 800G interfaces on a 12,780 km Angola-United States route at 130 ms round trip, on the equipment vendor's announcement of 29 September. No capacity total or completion date is stated.
+
+A reseller of the licensed low-orbit service and a local technology firm [opened a point of presence in Luanda for the Twoobii OneWeb service, giving in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/), reported on 14 October and sold to banks, government, defence and enterprises.
 <!-- /narrative -->
 ### Data Storage
 

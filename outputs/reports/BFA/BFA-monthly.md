@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: BFA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 8
-record: f1b93c81e3be
+record: 250146e9cc16
 ---
 
 # Burkina Faso: monthly update, September – October 2026
@@ -77,6 +77,8 @@ Two states that share a river proposed sharing the data that would stop it drown
 Enrolment then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/), and ran special enrolment operations across every region for the seventh International Identity Day. No enrolment count accompanies either.
 
 The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it. The digital-transition minister said [enrolment for the digital identity, budgeted at over FCFA 40bn, was due to start in October 2026](https://lefaso.net/spip.php?article149856).
+
+The security minister [opened biometric passport enrolment at the Oubri regional police directorate in Ziniaré on 13 October, under a programme to put mobile enrolment kits in every region; the confederation passport costs 50,000 FCFA with two weeks' processing](https://www.sidwaya.info/2026/10/14/passeports-biometriques-le-centre-denrolement-de-ziniare-operationnel/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
