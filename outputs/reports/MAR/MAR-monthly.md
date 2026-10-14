@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: MAR
-ledger_rows: 27
+ledger_rows: 29
 not_held: 14
-record: 2200c8bfdbeb
+record: ccff7e91a0f8
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -22,6 +22,11 @@ The third national disability survey [found only 20 per cent of people with disa
 
 ## Governance
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The president of the Casablanca commercial court of first instance [refused a payment-order claim on six bills of exchange because the filing omitted the debtor company's email address, which Article 234 of the Civil Procedure Code requires for any legal-person party](https://www.hespress.com/%d8%ba%d9%8a%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b7%d8%b1-%d8%aa%d8%ad-1820848.html), a newspaper reported on 13 October. The order's date is not stated.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -67,6 +72,8 @@ On 8 September the Dakhla green data-centre campus was [put at 100 hectares and 
 
 <!-- narrative: dpi--dpi-pay -->
 The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either. A central bank working paper said [a proof of concept built with the IMF and the World Bank confirmed the technical feasibility of a retail central bank digital currency, with any issuance a long-term prospect](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf).
+
+Cash in circulation [reached 550.3 billion dirham at the end of August, up 12.1% in eight months, and cash withdrawals were 85% of the value of card transactions in 2025](https://www.hespress.com/%d8%b2%d8%ad%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d8%ac%d8%a7%d8%b9%d8%a9-%d8%ae%d8%b7%d8%b7-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1821861.html), on central-bank figures reported on 13 October. Lower caps on card interchange fees [took effect on 1 October](https://conseil-concurrence.ma/communique-conjoint-du-conseil-de-la-concurrence-et-de-bank-al-maghrib/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

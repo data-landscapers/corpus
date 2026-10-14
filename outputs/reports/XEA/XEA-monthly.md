@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: XEA
-ledger_rows: 19
+ledger_rows: 20
 not_held: 0
-record: 3c468ec7a565
+record: 52ed7f8c61e1
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -51,6 +51,8 @@ The regional communications organisation's Working Group 3, meeting in Juba, [fi
 
 <!-- narrative: systems--dpi-exchange -->
 The regional cargo-tracking platform changed hands at the seal. Kenya's revenue authority [opened the Regional Electronic Cargo Tracking System to private electronic-seal vendors](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system), which shippers welcomed as ending seal shortages behind delays at Mombasa, where transit cargo is more than 30 per cent of throughput. No vendor list or start date is published, and the shippers' council's own question - whether the systems interfaces are ready - is unanswered.
+
+COMESA's cross-border motor insurance scheme [is piloting online sale of its Yellow Card covers in Zambia and plans to extend phone-based certificate verification, now in eight countries, on data shared among member states](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538), its secretariat said on 13 October; the eight countries are not named.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: MOZ
-ledger_rows: 41
+ledger_rows: 43
 not_held: 19
-record: f08257898113
+record: 4253e4bea53f
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -116,6 +116,8 @@ The citizen portal was presented as a single counter for about 140 public servic
 The road transport institute [moved applications for special transit licences for oversize and overweight vehicles to an end-to-end online process on 1 September](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 
 The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began. The digital transformation agency [held the country's first digital service delivery design lab](https://clubofmozambique.com/news/mozambique-launches-its-first-design-lab-to-integrate-digital-public-services/), with the World Bank and a policy institute.
+
+A new industrial licensing regulation [moves applications onto the e-BAU platform, issues licences electronically under a QR code and deems an application approved where the authority misses its deadline, from 8 November](https://clubofmozambique.com/news/mozambique-industrial-licences-to-be-automatically-approved-if-state-misses-statutory-deadlines-digital-licences-to-carry-qr-codes/); its number and gazette date are not stated. The president [opened Centro Pronto in Maputo on 14 October, a single centre issuing identity cards, passports, residence documents and driving licences](https://www.jornalnoticias.co.mz/destaque/digitalizacao-novo-centro-de-emissao-de-documentos-e-uma-realidade/).
 <!-- /narrative -->
 
 ## Technology

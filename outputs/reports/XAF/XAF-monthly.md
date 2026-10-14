@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: XAF
-ledger_rows: 97
+ledger_rows: 104
 not_held: 3
-record: b06389d68802
+record: 3e94ef023058
 ---
 
 # Africa: monthly update, September – October 2026
@@ -32,6 +32,8 @@ Three smaller developments: the [Digital Parliaments Project Africa launched at 
 African states went into the last round of preparation for the ITU's November conference in Doha. The African Telecommunications Union's [fourth and final preparatory meeting opened in Abidjan on 15 September](https://afriksoir.net/telecommunications-la-4%e1%b5%89-et-derniere-reunion-preparatoire-africaine-avant-la-pp-26-de-doha-sest-ouverte-a-abidjan/), to adopt common African proposals and candidatures for elected posts by 17 September; the adopted report is not yet held.
 
 COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either. The continental disease-control agency's head of digital health [says the health data governance initiative started in 2025 with more than 40 member states, and that the framework will guide who may access health data, for what purpose and for how long](https://www.newtimes.co.rw/article/39420/news/health/africa-cdc-official-continent-lacks-infrastructure-to-run-its-own-health-ai). The continental health agency posted [the outcome statement of its primary health care coordination mechanism, endorsed in June 2026 with a digital health forum for interoperability and data governance](https://africacdc.org/news-item/primary-health-care-continental-coordination-mechanism-phc-ccm-outcome-statement/).
+
+The African Commission on Human and Peoples' Rights [opened consultation on 8 October on draft Guidelines on Public Interest Content in the Digital Era, setting duties for states and responsibilities for technology companies and digital infrastructure services, with inputs due by 8 January 2027](https://achpr.au.int/en/news/press-releases/2026-10-13/draft-guidelines-public-interest-content-digital-era).
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -68,6 +70,8 @@ The 2026 Global Index on Responsible AI, [presented at a regional AI governance 
 
 <!-- narrative: systems--infra-connect -->
 Last-mile broadband is moving to radio. By May 2026 [40 operators had launched 5G fixed wireless access across 37 African markets](https://techafricanews.com/2026/09/10/the-new-last-mile-why-african-broadband-is-moving-outdoors/), where trenching and permits make fibre to the door slow to pay back.
+
+The African Telecommunications Union and Kenya's service-provider association [issued a joint roadmap for internet exchange points, reported on 11 October, proposing pilot exchanges in underserved markets and support to regional economic communities for cross-border traffic exchange](https://www.linkedin.com/pulse/new-roadmap-africas-telecom-union-kenyas-d88bf/). It builds on an [assessment that counted about 57 operational exchanges in 36 countries in mid-2025, with Central Africa and island states the weakest](https://atuuat.africa/wp-content/uploads/2026/02/ATU-Final-Report-IXP-Status-in-Africa-v5.5.pdf). No government has adopted the roadmap on the record.
 <!-- /narrative -->
 ### Data Storage
 
@@ -182,4 +186,6 @@ Two private vehicles were announced on 16 September: a Cape Town firm [opened a 
 The US development finance agency [held a signing ceremony at the UN General Assembly for its board-approved equity in a pan-African digital infrastructure operator](https://www.dfc.gov/media/press-releases/dfc-highlights-us-leadership-economic-statecraft-sidelines-un-general-assembly); closing is not reported.
 
 The European Investment Bank and the European Commission [confirmed the launch of Boost Ventures in Africa, a successor to Boost Africa backed by a EUR129m Commission guarantee over all its fund investments and EUR4.5m of initial technical assistance](https://www.eib.org/en/press/all/2026-321-africa-s-leading-venture-capital-fund-managers-convene-at-oxford-to-strengthen-investment-expertise-and-advance-venture-investing-across-africa), at the Africa Venture Finance Programme in Oxford in late September; no fund commitment under it is yet published.
+
+The African Development Bank and UNDP [moved the AI 10 Billion Initiative from launch to delivery on 14 October, to begin in five countries and reach 20 by the end of 2027](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-undp-advance-ai-10-97520), with no country, contributor or committed sum named. The [jobs figure it now cites is 25 million by 2035](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-undp-advance-ai-10-97520), against [40 million at its launch in February](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-undp-ai-hub-sustainable-development-and-partners-launch-ai-10-billion-initiative-during-2026-nairobi-ai-forum-91104).
 <!-- /narrative -->
