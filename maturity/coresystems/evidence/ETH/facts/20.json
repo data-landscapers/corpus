@@ -1,0 +1,15 @@
+{
+ "slug": "2016-01-01-wb-eth-003-ethiopia-public-financial-management-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "next-generation FMIS",
+   "country_label": "FMIS (World Bank P150922)",
+   "class": "core",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": "federal and regional"
+  }
+ ],
+ "note": "2016 World Bank project (2016-2022, completed) to deploy a next-generation FMIS; states a deployment project, not a system in use or a go-live date."
+}

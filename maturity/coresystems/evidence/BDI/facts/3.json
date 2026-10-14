@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFP", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Ministere des Finances, du Budget et de l'Economie Numerique", "tiers": "public administrations; deployment being prepared, not in use"}
+  ],
+  "note": "Ministry reports a change-management workshop from 2026-04-07 preparing for the SIGFP's deployment; it describes a system being set up, not one in use."
+}

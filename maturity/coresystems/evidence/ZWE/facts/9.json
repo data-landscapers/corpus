@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-01-zwe-auditor-general-appropriation-accounts-2023",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Auditor-General's report on the 2023 accounts describes the Public Financial Management System (PFMS) as an Enterprise Resource Planning platform used by Ministries and Commissions to process financial transactions, and audits its controls; Treasury Instructions 2019 require all payments to go through it.", "as_of": "2023", "date_precision": "year", "system": "Public Financial Management System (PFMS)", "class": "core"},
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Auditor-General reports that in 2023 Treasury paid ZWL$34 billion (US$277 million) directly to suppliers outside the PFMS, and that some Fund Accounts used manual systems instead, so PFMS coverage was incomplete.", "as_of": "2023", "date_precision": "year", "system": "Public Financial Management System (PFMS)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Public Financial Management System (PFMS)", "country_label": "PFMS", "class": "core", "platform": "Enterprise Resource Planning platform (SAP modules FI, MM, SD listed in acronyms)", "owner": "Ministry of Finance (Treasury)", "tiers": "Ministries and Commissions"},
+    {"system": "BEAM Management Information System", "country_label": "BEAM MIS", "class": "other", "platform": "", "owner": "Ministry of Public Service, Labour and Social Welfare", "tiers": "one ministry's programme; payments recorded in Microsoft Excel after password loss; replacement being tested"}
+  ],
+  "note": ""
+}

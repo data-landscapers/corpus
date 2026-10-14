@@ -1,0 +1,8 @@
+{"slug":"2024-01-01-worldbank-govtech-djibouti-customs-asycudaworld","facts":[],"systems":[
+{"system":"ASYCUDAWorld","country_label":"ASYCUDAWorld customs system","class":"other","platform":"ASYCUDAWorld (UNCTAD)","owner":"Djibouti Customs","tiers":""},
+{"system":"new tax administration system","country_label":"New tax administration system (under implementation)","class":"other","platform":"","owner":"","tiers":""},
+{"system":"human resources management information system and payroll system","country_label":"HRMIS and payroll system (named, no status given)","class":"","platform":"","owner":"","tiers":""},
+{"system":"debt management system","country_label":"Debt management system","class":"other","platform":"","owner":"","tiers":""},
+{"system":"X-ROAD","country_label":"X-ROAD interoperability platform","class":"other","platform":"X-Road","owner":"ANSIE","tiers":""},
+{"system":"National Payment Gateway","country_label":"National Payment Gateway","class":"other","platform":"","owner":"","tiers":""}],
+"note":"Tax system is under implementation, integrated FMIS is a plan, planned architecture not complete; customs is class other; no in-use core fact."}

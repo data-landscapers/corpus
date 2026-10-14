@@ -1,0 +1,9 @@
+{
+  "slug": "2015-07-07-wb-som-004-somalia-second-public-financial-management-capacity",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS for budget management and financial reporting (World Bank P151492)", "class": "core", "platform": "", "owner": "Federal Government of Somalia; Puntland; Somaliland", "tiers": "federal; state"},
+    {"system": "Revenue administration system upgrades", "country_label": "Revenue administration system (P151492 upgrades)", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A 2015 project record that supports deployment of IFMIS; it states a project and its closure, not a system in use or a go-live."
+}

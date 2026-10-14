@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-minister-of-digital-transformation-bayan-platform-creates-clarity-in-state-administrative-structure",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The digital transformation minister said the Bayan platform is linked to the Ministry of Finance's Wafi platform for the salary (payroll) system, among other platforms (date taken from the published date, 2026-08-05).", "as_of": "2026-08-05", "date_precision": "day", "system": "Wafi", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Wafi", "country_label": "Wafi", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": "central"},
+    {"system": "Bayan digital platform for the civil service", "country_label": "Bayan", "class": "core", "platform": "", "owner": "Civil Service Diwan", "tiers": "central"},
+    {"system": "Kafaa government recruitment platform", "country_label": "Kafaa", "class": "other", "platform": "", "owner": "", "tiers": "central"}
+  ],
+  "note": ""
+}

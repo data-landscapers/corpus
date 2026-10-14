@@ -1,0 +1,30 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ETH,Integrated Tax Administration System (ITAS),ITAS,other,,Ministry of Revenue,national,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi
+ETH,e-Invoicing,e-Invoicing,other,,Ministry of Revenue,national,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi
+ETH,DW/BI,DW/BI,other,,Ministry of Revenue,national,2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi
+ETH,Integrated Tax Adminstration System-ITAS,ITAS,other,,Ministry of Revenue,national,2024-07-04-eth-2024-156-01-pr034
+ETH,Electronics Invoice System,Electronic invoice system,other,,Ministry of Revenue,national,2024-07-04-eth-2024-156-01-pr034
+ETH,Data Warehouse & Business Intellegence System,Data warehouse and BI,other,,Ministry of Revenue,national,2024-07-04-eth-2024-156-01-pr034
+ETH,e-tax system (e-filing and e-payment),e-filing,other,,Ministry of Revenue,national,2024-01-01-ictd-etax-adoption-tax-compliance-ethiopia
+ETH,IFMIS,IFMIS,core,,Ministry of Finance,federal,2025-10-17-eth-ifmis-q4-budget-vs-expenditure-efy2017-companion
+ETH,IBEX,IBEX,core,,Ministry of Finance,federal,2025-10-17-eth-ifmis-q4-budget-vs-expenditure-efy2017-companion
+ETH,IFMIS,IFMIS,core,,Ministry of Finance,,2024-07-04-eth-2024-144
+ETH,Electronics Invoice System,Electronics Invoice System,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr038
+ETH,Integrated Tax Adminstration System-ITAS,Integrated Tax Adminstration System-ITAS,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr038
+ETH,Data Warehouse & Business Intellegence System,Data Warehouse & Business Intellegence System,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr039
+ETH,Integrated Tax Adminstration System-ITAS,Integrated Tax Adminstration System-ITAS,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr039
+ETH,Data Service Center,Data Service Center,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr040
+ETH,Integrated Tax Adminstration System-ITAS,Integrated Tax Adminstration System-ITAS,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-01-pr040
+ETH,Modern Data Management System,Modern Data Management System,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-04
+ETH,Integrated Tax Adminstration System-ITAS,Integrated Tax Adminstration System-ITAS,other,,Ministry of Revenue,,2024-07-04-eth-2024-156-04
+ETH,IFMIS,IFMIS (IBEX),core,,Ministry of Finance,federal,2024-07-04-eth-2024-161
+ETH,IFMIS,IFMIS (IBEX),core,,Ministry of Finance,federal,2024-07-04-eth-2024-183
+ETH,Human Resource Management System (HRMS),Ministry of Agriculture HRMS,other,,Ministry of Agriculture,one ministry,2024-05-30-moa-e-services-nrlais
+ETH,next-generation FMIS,FMIS (World Bank P150922),core,,Government of Ethiopia,federal and regional,2016-01-01-wb-eth-003-ethiopia-public-financial-management-project
+ETH,MESOB,MESOB (Modern Ethiopian Service for Organised Benefits),other,one-stop government service portal,FDRE MESOB Service,,2026-08-23-mesob-centre-service-catalogue
+ETH,MESOB,MESOB (Modern Ethiopian Service for Organised Benefits),other,one-stop service platform using Fayda ID,Government of Ethiopia,,2026-08-13-benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap
+ETH,MESOB,MESOB (Modern Ethiopian Service for Organised Benefits),other,one-stop service platform,Federal MESOB Service,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
+ETH,national data exchange platform,national data exchange platform,other,interoperability layer,approved by a board set up by the prime minister,,2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill
+ETH,MESOB,MESOB (Modern Ethiopian Service for Organised Benefits),other,web and mobile app,Ethiopian Artificial Intelligence Institute,,2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation
+ETH,MESOB,MESOB (Modern Ethiopian Service for Organised Benefits),other,single service platform,Government Communication Service,,2026-04-20-gcs-ethiopia-key-achievements-digital-sector-reform
+ETH,MESOB,MESOB,other,MOSIP-based Fayda digital ID authentication,,federal,2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform

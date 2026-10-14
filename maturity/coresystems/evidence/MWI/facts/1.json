@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-12-mwi-mra-ataf-tax-administration-data-improvements",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System II (ITAS II)",
+   "country_label": "ITAS II",
+   "class": "other",
+   "platform": "in-house",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Invoicing System",
+   "country_label": "EIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "ITAS II is in development and unfunded; the first ITAS is implied but its use is not stated; EIS is e-invoicing, not a core system."
+}

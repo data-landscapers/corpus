@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-11-zataz-senegal-frappe-fichier-identite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DAF biometric national ID and passport system",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction de l'automatisation des fichiers",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the DAF ID system outage; class other, DGID breach mentioned without any outage."
+}

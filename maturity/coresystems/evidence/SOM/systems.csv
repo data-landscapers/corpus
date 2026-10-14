@@ -1,0 +1,28 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,SFMIS,Somali Financial Management Information System,core,,Office of the Accountant General,,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,Government payroll system,Government payroll system,core,,Office of the Accountant General,,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,NIRA national identification system,NIRA national identification system,other,,NIRA,,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,FMIS,Financial Management Information System,core,,Ministry of Finance,federal and federal member states,2026-02-01-somalia-fmis-enhancement-rollout-fms-tor
+SOM,Integrated Tax Administration System (ITAS),ITAS,other,,Federal Government of Somalia,contract signed after September 2025 mid-term review,2025-11-26-somalia-serp-isr-taxpayer-registration
+SOM,Human Resources Management Information System (HRMIS),HRMIS,other,,Federal Government of Somalia,contract signed; implementation started October 2025,2025-11-26-somalia-serp-isr-taxpayer-registration
+SOM,SFMIS,Somali Financial Management Information System,core,,Ministry of Finance,customization for federal member states pending,2025-11-26-somalia-serp-isr-taxpayer-registration
+SOM,BISAN,BISAN,,,,,2025-11-26-somalia-serp-isr-taxpayer-registration
+SOM,SOMCAS,Somali Customs Automated System,other,,Ministry of Finance,operational per roadmap,2024-06-01-somalia-medium-term-revenue-roadmap
+SOM,ITAS,Integrated Tax Administration System,other,,Ministry of Finance,planned,2024-06-01-somalia-medium-term-revenue-roadmap
+SOM,SFMIS,Somalia Financial Management Information System,,,,,2024-06-01-somalia-medium-term-revenue-roadmap
+SOM,SFMIS,Somalia Financial Management Information System,core,,Office of the Accountant General,FGS; consensus with FMSs on a single FMIS platform,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,ETAS,Electronic Tax Administration System,core,,Ministry of Finance,,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,SOMCAS,SOMCAS,other,,Ministry of Finance,replaced PCMIS; integrated with SFMIS,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,Non-Tax Revenue Portal,Non-Tax Revenue Portal,other,,Ministry of Finance,,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,PCMIS,PCMIS,other,,,decommissioned 2025,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,ITAS,ITAS,other,,,future,2026-04-01-fgs-annual-report-consolidated-financial-statements-2025-revenue-reforms
+SOM,SFMIS,Somalia Financial Management Information System,core,,Ministry of Finance,federal; Federal Member States,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,ITAS,Integrated Tax Administration System (named as a revenue administration system being developed),other,,,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,PIMIS,PIMIS,,,,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,Non-tax revenue portal,Non-tax revenue portal integrated with SFMIS,,,,,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability
+SOM,IFMIS (Garowe local government),"Integrated Financial Management Information System, Garowe district",core,,Garowe local government / Puntland Ministry of Interior,local,2021-08-16-som-mobile-taxation-expanded-to-four-districts-of-somalia-after-a-successf
+SOM,Mobile phone-based tax payment system,Garowe mobile taxation system,other,mobile money (Golis),Garowe local government,local,2021-08-16-som-mobile-taxation-expanded-to-four-districts-of-somalia-after-a-successf
+SOM,IFMIS,IFMIS for budget management and financial reporting (World Bank P151492),core,,Federal Government of Somalia; Puntland; Somaliland,federal; state,2015-07-07-wb-som-004-somalia-second-public-financial-management-capacity
+SOM,Revenue administration system upgrades,Revenue administration system (P151492 upgrades),other,,,,2015-07-07-wb-som-004-somalia-second-public-financial-management-capacity
+SOM,Integrated Financial Management and Information System (IFMIS),IFMIS,,,Federal Government of Somalia,,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,Human Resources Management System (HRMIS),HRMIS,,,Federal Government of Somalia,,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029

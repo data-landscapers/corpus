@@ -1,0 +1,19 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "2",
+   "finance": "inuse",
+   "revenue": "",
+   "payroll": "",
+   "renewed": "",
+   "architecture": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-002",
+   "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

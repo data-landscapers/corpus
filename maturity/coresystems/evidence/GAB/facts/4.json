@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-18-gabon-sigfip-public-finance-platform-launch",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Gabon officially launched its Integrated Public Financial Management System (SIGFIP) on 15 January 2026, connected to the public treasury and covering spending execution (operating, investment, debt) and procurement, to be rolled out nationally (Ecofin Agency).", "as_of": "2026-01-15", "date_precision": "day", "system": "SIGFIP", "class": "core"},
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "SIGFIP, launched 15 January 2026, centralises the state's tax, customs and non-tax revenue collection and payments in a single database with a single payment interface (Ecofin Agency).", "as_of": "2026-01-15", "date_precision": "day", "system": "SIGFIP", "class": "core"},
+    {"sub_indicator": "core", "aspect": "renewed", "value": "live", "fact": "SIGFIP went live on 15 January 2026, moving Gabon from fragmented systems to one integrated platform (Ecofin Agency).", "as_of": "2026-01-15", "date_precision": "day", "system": "SIGFIP", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Integrated Public Financial Management System (SIGFIP)", "country_label": "SIGFIP", "class": "core", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": "central"}
+  ],
+  "note": ""
+}

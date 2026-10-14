@@ -1,0 +1,62 @@
+{
+ "slug": "2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The director general of taxes states SIGFIP has been operational since 2021 across public finance execution and State budget execution (Tchadinfos, 5 May 2026).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SIGFIP",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The director general of taxes states E-TAX has been operational since 2021 in the public finance circuit, alongside SIGFIP (Tchadinfos, 5 May 2026).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "E-TAX",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The director general of taxes states these systems are operational in State budget execution, notably for mandating civil servants' salaries (Tchadinfos, 5 May 2026).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SIGFIP",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "SIGFIP",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "E-TAX",
+   "country_label": "E-TAX",
+   "class": "core",
+   "platform": "",
+   "owner": "Directorate General of Taxes",
+   "tiers": ""
+  },
+  {
+   "system": "Facturation electronique normalisee (FEN)",
+   "country_label": "Facturation electronique normalisee (FEN)",
+   "class": "other",
+   "platform": "",
+   "owner": "Directorate General of Taxes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

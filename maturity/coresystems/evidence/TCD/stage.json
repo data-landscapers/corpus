@@ -1,0 +1,19 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "3",
+   "finance": "inuse",
+   "revenue": "inuse",
+   "payroll": "inuse",
+   "renewed": "",
+   "architecture": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-002;TCD-003;TCD-001",
+   "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

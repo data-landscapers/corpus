@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-05-vehicle-registration-fully-digital-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "National vehicle-registration IT system", "country_label": "Système informatique national de l'immatriculation des véhicules", "class": "other", "platform": "centralised platform replacing local applications", "owner": "Ministry of the Interior, Local Authorities and Transport", "tiers": ""}
+  ],
+  "note": "Vehicle registration is not a core finance, tax or payroll system."
+}

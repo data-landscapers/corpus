@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana",
+  "facts": [],
+  "systems": [
+    {"system": "Botswana eHealth Enterprise Architecture", "country_label": "Botswana eHealth Enterprise Architecture (Ministry of Health, developed 2023-2024)", "class": "other", "platform": "HL7 FHIR / HL7 v2", "owner": "Ministry of Health", "tiers": "business, data, application, technology"}
+  ],
+  "note": "Health-sector architecture only (Ministry of Health), not a government-wide enterprise architecture or core finance, tax or payroll system; no fact."
+}

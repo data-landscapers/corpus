@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-13-gab-fonction-publique-sigrh-preparatifs",
+  "facts": [],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Ressources Humaines (SIGRH)", "country_label": "SIGRH", "class": "other", "platform": "", "owner": "Ministère de la Fonction Publique et du Renforcement des Capacités", "tiers": "central"},
+    {"system": "Solde", "country_label": "Solde (payroll)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "SIGRH is at the preparation stage with a procurement tender announced as the next step; not in use, so no fact."
+}

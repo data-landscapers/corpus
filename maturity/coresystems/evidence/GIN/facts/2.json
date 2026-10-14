@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-13-guinea-geme-digitalisation-missions-etat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GEME",
+   "country_label": "GEME",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Mission-order platform only; not a core finance, tax or payroll system."
+}

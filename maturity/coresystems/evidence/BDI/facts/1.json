@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFP_BI", "country_label": "Burundi", "class": "other", "platform": "custom-built open-source modules, Microsoft Server 2019 or later", "owner": "Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)", "tiers": "central and deconcentrated administration; tendered, not in use"}
+  ],
+  "note": "Procurement notice (RFP, bids due 2026-05-05) for acquiring an integrated public financial management system; a tender is not a system in use."
+}

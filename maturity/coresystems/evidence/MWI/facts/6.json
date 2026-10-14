@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-malawi-drafts-ai-bill-to-govern-public-sector-tech",
+  "facts": [],
+  "systems": [
+    {"system": "Automated human resource and payroll management platform", "country_label": "Malawi", "class": "other", "platform": "", "owner": "Department of Human Resource Management and Development", "tiers": "ministries, departments, agencies, Parliament, Judiciary, local councils (planned rollout)"}
+  ],
+  "note": "The HR and payroll platform is only being piloted before rollout, so it is not a fact; the article states nothing else on finance, tax, renewal or architecture."
+}

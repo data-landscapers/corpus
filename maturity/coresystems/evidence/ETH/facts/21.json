@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-23-mesob-centre-service-catalogue",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MESOB",
+   "country_label": "MESOB (Modern Ethiopian Service for Organised Benefits)",
+   "class": "other",
+   "platform": "one-stop government service portal",
+   "owner": "FDRE MESOB Service",
+   "tiers": ""
+  }
+ ],
+ "note": "MESOB service catalogue; a portal, no statement on finance, tax or payroll systems."
+}

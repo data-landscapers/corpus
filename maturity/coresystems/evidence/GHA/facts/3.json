@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-26-myjoyonline-nia-payroll-salary-suspension",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Controller and Accountant-General's Department, in a statement dated 24 August 2026, referred to the government payroll system on which employees' NIA numbers are captured and said salaries of employees lacking valid NIA details would be suspended from 15 September 2026.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Government payroll system",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government payroll system",
+   "country_label": "Government payroll system",
+   "class": "core",
+   "platform": "",
+   "owner": "Controller and Accountant-General's Department",
+   "tiers": ""
+  },
+  {
+   "system": "Employee Payslip (E-Payslip) system",
+   "country_label": "Employee Payslip (E-Payslip) system",
+   "class": "other",
+   "platform": "",
+   "owner": "Controller and Accountant-General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

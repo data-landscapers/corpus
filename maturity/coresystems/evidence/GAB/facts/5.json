@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-17-gabon-lancement-sigfip-finances-publiques",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The finance minister launched SIGFIP officially on 15 January 2026, with the expenditure chain integrated from commitment to payment, electronic signature operational, deployment across the national territory and diplomatic missions, and a payment-order registration witnessed at the Justice ministry (Infos Gabon).", "as_of": "2026-01-15", "date_precision": "day", "system": "SIGFIP", "class": "core"},
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "SIGFIP centralises the collections of the régies financières with consolidated dashboards for real-time tracking of state revenue; the Budget, Tax, Treasury and Public Procurement directors-general attended the check on 15 January 2026 (Infos Gabon).", "as_of": "2026-01-15", "date_precision": "day", "system": "SIGFIP", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Finances Publiques (SIGFIP)", "country_label": "SIGFIP", "class": "core", "platform": "", "owner": "Ministère de l'Économie et des Finances", "tiers": "central"},
+    {"system": "SYDONIA World", "country_label": "SYDONIA World", "class": "other", "platform": "ASYCUDA", "owner": "Customs", "tiers": ""},
+    {"system": "Fichier unique de référence", "country_label": "FUR", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

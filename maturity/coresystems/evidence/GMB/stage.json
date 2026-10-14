@@ -1,0 +1,19 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "2",
+   "finance": "inuse",
+   "revenue": "none",
+   "payroll": "",
+   "renewed": "",
+   "architecture": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-002",
+   "gaps": "A source held says the tax system is run largely by hand.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

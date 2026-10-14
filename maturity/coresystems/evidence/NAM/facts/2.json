@@ -1,0 +1,17 @@
+{
+  "slug": "2026-01-01-consolidation-of-social-grants-and-the-food-bank",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "The Harambee Prosperity Plan II activity page lists the integrated Tax Administration System (ITAS) among existing databases to be linked by data-integration MoUs, planned 22 Sep to 31 Oct 2021.", "as_of": "2021-09", "date_precision": "month", "system": "integrated Tax Administration System (ITAS)", "class": "core"},
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Harambee Prosperity Plan II activity page lists the integrated Financial Management System (IFMS) among existing databases to be linked by data-integration MoUs, planned 22 Sep to 31 Oct 2021.", "as_of": "2021-09", "date_precision": "month", "system": "integrated Financial Management System (IFMS)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "integrated Tax Administration System (ITAS)", "country_label": "Namibia", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "integrated Financial Management System (IFMS)", "country_label": "Namibia", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated Social Assistance System (ISAS)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""},
+    {"system": "Integrated Beneficiary Registry (IBR)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Gender Equality, Poverty Eradication and Social Welfare", "tiers": ""},
+    {"system": "GIPF database", "country_label": "Namibia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SSC database", "country_label": "Namibia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Veteran Affairs System", "country_label": "Namibia", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

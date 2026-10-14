@@ -1,0 +1,9 @@
+{"slug":"2026-08-29-thisday-tinubu-ippis-forensic-audit","facts":[
+{"sub_indicator":"core","aspect":"payroll","value":"inuse","fact":"President Tinubu directed on 28 August 2026 a forensic audit of the Integrated Personnel and Payroll Information System, reviewing reported ghost workers and payroll fraud on the running system.","as_of":"2026-08-28","date_precision":"day","system":"IPPIS","class":"core"},
+{"sub_indicator":"core","aspect":"finance","value":"inuse","fact":"The audit directive of 28 August 2026 names GIFMIS, the Treasury Single Account and Sub-TSA as government platforms whose interfaces with IPPIS are to be examined.","as_of":"2026-08-28","date_precision":"day","system":"GIFMIS","class":"core"}],
+"systems":[
+{"system":"IPPIS","country_label":"Integrated Personnel and Payroll Information System","class":"core","platform":"","owner":"Office of the Accountant-General of the Federation","tiers":"federal"},
+{"system":"GIFMIS","country_label":"GIFMIS","class":"core","platform":"","owner":"","tiers":"federal"},
+{"system":"Remita","country_label":"Remita","class":"other","platform":"","owner":"","tiers":""},
+{"system":"Treasury Single Account","country_label":"TSA and Sub-TSA","class":"","platform":"","owner":"","tiers":"federal"}],
+"note":""}

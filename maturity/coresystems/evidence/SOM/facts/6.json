@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse",
+     "fact": "The Ministry of Finance's PFM Reform Strategy 2026-2030 reports that the Somalia Financial Management Information System (SFMIS) was implemented, with paperless commitment-to-payment processes, an operational asset management module, a link to the Central Bank's core banking system and SFMIS rolled out to the Federal Member States under SERP; no event date is given, so the document's published date is used.",
+     "as_of": "2026-03-31", "date_precision": "day", "system": "SFMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "SFMIS", "country_label": "Somalia Financial Management Information System", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": "federal; Federal Member States"},
+    {"system": "ITAS", "country_label": "Integrated Tax Administration System (named as a revenue administration system being developed)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PIMIS", "country_label": "PIMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Non-tax revenue portal", "country_label": "Non-tax revenue portal integrated with SFMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

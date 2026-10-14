@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-coresystems.md — the fifty-first maturity study: whether the state's core computer systems are in use and kept current, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: coresystems
@@ -20,7 +20,7 @@ The study redraws `infra.capacity--robustness-of-government-hardware-and-softwar
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Core government systems | Robustness of government hardware and software: the core systems that run public money, tax and the payroll | `infra.capacity--robustness-of-government-hardware-and-software-core-government-systems` |
+| Core government systems | Robustness of government hardware and software: core government systems | `infra.capacity--robustness-of-government-hardware-and-software-core-government-systems` |
 
 Anything else the evidence names is `other`, noted and never staged: a system bought, tendered or piloted but not in use; one ministry's or one region's system; customs (ASYCUDA and the like); a portal, a payment gateway or an ID system; a cyber attack that did not take a core system down.
 
@@ -47,14 +47,14 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 3: one of them renewed in the last three years |
 | 5 Leading | Yes to 4: a published architecture or inventory |
 
-- **A core system out of action for a week or more in the last twelve months is not in use** until a source says it is back. Ghana's tax payments, failing since 14 August 2026, are the case on the rows now.
+- **A core system out of action for a week or more in the last twelve months is not in use** until a source says it is back. Eswatini's financial system, down in a government-wide outage from 18 September 2026, is the case at the as-at. Ghana's tax payment faults of August 2026 are not: filing was unaffected and a September source says the system is working.
 - **Stage 2 changes.** The row put a country whose systems were being bought or replaced at stage 2. A purchase is not a system in use, so it is `other`; the study asks what runs.
 - **Stage 3 drops the custodian and the supported platform.** Whether a platform is supported is a vendor's judgement no story states. The renewal question takes its place: a system renewed in the last three years is current.
 - **Stage 4 drops the government network, the data centre and the incident report**, which other rows assess or which no story states for all three systems.
 - **Stage 5 keeps the Charter's end state as a fact**: a published architecture or inventory. Shared platforms and performance reporting go, as no story states them as one fact.
 - **Window**: questions 1 to 3 are three years; question 4 has none, since an architecture stands until replaced.
 
-`study.json` holds this as five aspects: `finance`, `revenue` and `payroll` (`inuse`, `down`, `none`) for questions 1 and 2, `renewed` (`live`) for question 3 and `architecture` (`published`) for question 4. **For the drafter**: `none` needs a statement that the job is done on paper or spreadsheets; `down` a dated report that the system has stopped. A tender, a contract or a pilot is `other`, with the system's name in `country_label`.
+`study.json` holds this as five aspects, which head the long summary's paragraphs: `finance`, `revenue` and `payroll` (`inuse`, `down`, `none`) for questions 1 and 2, `renewed` (`live`) for question 3 and `architecture` (`published`) for question 4. **For the drafter**: `none` needs a statement that the job is done on paper or spreadsheets; `down` a dated report that the system has stopped. A tender, a contract or a pilot is `other`, with the system's name in `country_label`.
 
 ## 4. The norm
 
@@ -73,10 +73,10 @@ The African Charter on the Values and Principles of Public Service and Administr
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Staged** as at 2026-09-30.
-- [ ] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill.**
+- [x] **D1. Bill's word**, 2026-10-14, the questions as prepared.
+- [x] **D2. Read**: 120 drafters over 357 readings, 97 facts after five rows removed (`corrections.csv`).
+- [x] **D3. Staged** as at 2026-09-30: stage 5 four, 4 three, 3 two, 2 eleven, unplaced eight, no evidence 26; the second drafter agreed on 20 of 20.
+- [x] **D4. Written, rendered and linted**, by `study-coresystems-write.py`; on the soft-launch map. **D5. Reported to Bill.**
 
 ## Boundary
 

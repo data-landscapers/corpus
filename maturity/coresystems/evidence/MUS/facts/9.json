@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-25-digital-government-transformation-strategy-progress-update",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "architecture", "value": "published", "fact": "The Central Informatics Bureau's progress update on the Digital Government Transformation Strategy marks as implemented the recommendation to publish a catalogue of information systems and services, saying a list of operational systems by ministry and department is available on the CIB website; the document gives no date for publication, so its published date of 2025-04-25 is used.", "as_of": "2025-04-25", "date_precision": "day", "system": "List of operational systems by Ministry/Department (CIB website)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Tax Payer Portal (MRA)", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""},
+    {"system": "InfoHighway", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "MITCI / Central Informatics Bureau", "tiers": ""},
+    {"system": "MauPass", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "MITCI", "tiers": ""},
+    {"system": "MoKloud", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "MITCI", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-07-eritrea-eritas-spn-afdb",
+  "facts": [],
+  "systems": [
+    {"system": "Eritrea Integrated Tax Administration System (ErITAS)", "country_label": "ErITAS", "class": "other", "platform": "", "owner": "Ministry of Finance and National Development; Inland Revenue Department", "tiers": ""}
+  ],
+  "note": "A September 2023 AfDB tender notice for new ErITAS software and hardware, with migration from the current system; a tender is not a system in use, and no existing system is described."
+}

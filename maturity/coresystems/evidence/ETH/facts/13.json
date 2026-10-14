@@ -1,0 +1,23 @@
+{
+ "slug": "2024-07-04-eth-2024-156-01-pr039",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Warehouse & Business Intellegence System",
+   "country_label": "Data Warehouse & Business Intellegence System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Revenue",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Tax Adminstration System-ITAS",
+   "country_label": "Integrated Tax Adminstration System-ITAS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Revenue",
+   "tiers": ""
+  }
+ ],
+ "note": "Budget line for a proposed capital project; no system stated as in use."
+}

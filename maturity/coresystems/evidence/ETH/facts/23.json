@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MESOB",
+   "country_label": "MESOB (Modern Ethiopian Service for Organised Benefits)",
+   "class": "other",
+   "platform": "one-stop service platform",
+   "owner": "Federal MESOB Service",
+   "tiers": ""
+  },
+  {
+   "system": "national data exchange platform",
+   "country_label": "national data exchange platform",
+   "class": "other",
+   "platform": "interoperability layer",
+   "owner": "approved by a board set up by the prime minister",
+   "tiers": ""
+  }
+ ],
+ "note": "MESOB governance article; no core finance, tax or payroll system stated."
+}

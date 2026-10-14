@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-eth-2024-183",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The FY2017 (2024/25) fourth-quarter budget-versus-expenditure report, produced from IFMIS/IBEX for period Sene-2017, gives the Ethiopian Communications Authority's year-end outturn of ETB 201,551,956 against ETB 203,175,000 voted; the enacted budget was loaded to IFMIS.",
+   "as_of": "2025-07-07",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS (IBEX)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

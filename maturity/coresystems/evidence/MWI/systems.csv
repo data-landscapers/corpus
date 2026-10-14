@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Integrated Tax Administration System II (ITAS II),ITAS II,other,in-house,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
+MWI,Electronic Invoicing System,EIS,other,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
+MWI,New Local Authority Integrated Financial Management Information System,NEW LA-IFMIS,other,,Accountant General's Department,local authorities,2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train
+MWI,Central Government IFMIS,IFMIS,core,,Accountant General's Department,central,2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train
+MWI,SAP IFMIS,IFMIS,core,SAP,Ministry of Finance and Economic Affairs,central,2024-04-26-malawi-fiscal-governance-program-for-results
+MWI,Msonkho Online,Msonkho Online,core,,Malawi Revenue Authority,central,2024-04-26-malawi-fiscal-governance-program-for-results
+MWI,central government IFMIS,IFMIS,core,,Government of Malawi,central,2022-09-22-mwi-councils-operating-on-expired-ifmis
+MWI,Local authorities IFMIS (Serenic Navigator),Local IFMIS,other,Serenic Navigator,National Local Government Finance Committee,local,2022-09-22-mwi-councils-operating-on-expired-ifmis
+MWI,IFMIS,IFMIS,,,Government of Malawi,,2016-01-01-eximbank-cn-mwi-001-china-eximbank-provides-rmb-1554-million
+MWI,HRMIS,HRMIS,,,Government of Malawi,,2016-01-01-eximbank-cn-mwi-001-china-eximbank-provides-rmb-1554-million
+MWI,Automated human resource and payroll management platform,Malawi,other,,Department of Human Resource Management and Development,"ministries, departments, agencies, Parliament, Judiciary, local councils (planned rollout)",2026-08-06-malawi-drafts-ai-bill-to-govern-public-sector-tech

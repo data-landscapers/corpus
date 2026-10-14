@@ -1,0 +1,15 @@
+{
+  "slug": "2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The World Bank appraisal document states the IFMIS, upgraded in 2019, has its budget and treasury modules active, though the core system is often unavailable because of network problems (document published 2023-12-22, used as the date).", "as_of": "2023-12-22", "date_precision": "day", "system": "IFMIS", "class": "core"},
+    {"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The World Bank appraisal document states a Human Resource Management Information System is in place and its payroll module is in use, with most other modules little used (document published 2023-12-22, used as the date).", "as_of": "2023-12-22", "date_precision": "day", "system": "HRMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": "budget, treasury and payroll modules active"},
+    {"system": "HRMIS", "country_label": "Human Resource Management Information System", "class": "core", "platform": "", "owner": "Ministry of Public Service", "tiers": "payroll module in use"},
+    {"system": "Central Budget Management System (CBMS)", "country_label": "Central Budget Management System", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Resource Link", "country_label": "Resource Link", "class": "other", "platform": "", "owner": "", "tiers": "old HR system, data to migrate to HRMIS"},
+    {"system": "Integrated Revenue Management System (IRMS)", "country_label": "Integrated Revenue Management System", "class": "", "platform": "", "owner": "", "tiers": "named in acronym list only"}
+  ],
+  "note": ""
+}

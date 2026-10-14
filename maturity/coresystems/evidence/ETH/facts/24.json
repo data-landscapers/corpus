@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MESOB",
+   "country_label": "MESOB (Modern Ethiopian Service for Organised Benefits)",
+   "class": "other",
+   "platform": "web and mobile app",
+   "owner": "Ethiopian Artificial Intelligence Institute",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch of Unified MESOB Platform; no core finance, tax or payroll system stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-wb-dji-001-djibouti-economic-and-financial-governance-project",
+  "facts": [],
+  "systems": [
+    {"system": "Tax administration system (modernization)", "country_label": "tax administration system modernization", "class": "other", "platform": "", "owner": "Ministry of Budget", "tiers": ""},
+    {"system": "Digital financial management information systems", "country_label": "digital FMIS (financed under project P180696)", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "ITAS", "country_label": "ITAS", "class": "other", "platform": "", "owner": "Ministry of Budget", "tiers": ""}
+  ],
+  "note": "Deal record for a financed project (pipeline); a plan or loan is not a system in use, so no fact."
+}

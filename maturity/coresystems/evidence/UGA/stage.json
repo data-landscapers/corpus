@@ -1,0 +1,19 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "5",
+   "finance": "",
+   "revenue": "",
+   "payroll": "",
+   "renewed": "",
+   "architecture": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

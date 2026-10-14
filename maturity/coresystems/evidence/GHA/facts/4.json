@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-19-myjoyonline-understanding-ghana-new-integrated-tax-administration",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "The article says the ITAS pilot began on 1 April 2026 at the Kaneshie Taxpayer Service Centre, later extended to selected Large Taxpayer Office filers, covering filing and payment of PAYE, VAT, VAT Withholding and Withholding VAT; it is a phased pilot, not a full national go-live.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The article says all taxpayers file on GITMIS currently, while ITAS is piloted for selected taxpayers and four tax types and is to replace fragmented legacy systems.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Ghana Integrated Tax Management and Information System (GITMIS)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "Integrated Tax Administration System (ITAS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Integrated Tax Management and Information System (GITMIS)",
+   "country_label": "Ghana Integrated Tax Management and Information System (GITMIS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Customs Management System (ICUMS)",
+   "country_label": "Integrated Customs Management System (ICUMS)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

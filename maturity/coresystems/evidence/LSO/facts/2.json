@@ -1,0 +1,10 @@
+{
+  "slug": "2023-03-06-worldbank-lesotho-public-sector-foundations-pid",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The World Bank PID states the IFMIS was upgraded in 2019 and is in use, though key processes still take place outside it and unreconciled transactions keep growing.", "as_of": "2023-03-06", "date_precision": "day", "system": "Integrated Financial Management Information System", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": ""}
+  ],
+  "note": ""
+}

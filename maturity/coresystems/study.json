@@ -78,10 +78,18 @@
    "key": "core",
    "label": "Core government systems",
    "subject": "infra.capacity",
-   "text": "Robustness of government hardware and software: the core systems that run public money, tax and the payroll",
+   "text": "Robustness of government hardware and software: core government systems",
    "indicator_id": "infra.capacity--robustness-of-government-hardware-and-software-core-government-systems",
    "class": "core",
-   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 8, asks that modern technologies support public service delivery; the Digital Transformation Strategy asks for mission-critical systems hosted to a standard."
+   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 8, asks that modern technologies support public service delivery; the Digital Transformation Strategy asks for mission-critical systems hosted to a standard.",
+   "criteria": [
+    "A source from 2023 or later says the government's finances are not run on a computer system.",
+    "A source from 2023 or later says the government budgets, accounts and pays through a computer system.",
+    "Tax collection and the civil-service payroll also run on computer systems, by sources from 2023 or later.",
+    "One of the three core systems went live on a new or upgraded system in the last three years.",
+    "The government has published an enterprise architecture or an inventory of its systems."
+   ],
+   "criteria_of": "75dca64f7d9b"
   }
  ],
  "classes": [
@@ -91,7 +99,7 @@
  "aspects": [
   {
    "key": "finance",
-   "name": "The financial management system in use",
+   "name": "Budget, accounts and payments",
    "role": "coverage",
    "defer": [
     "none"
@@ -107,7 +115,7 @@
   },
   {
    "key": "revenue",
-   "name": "The tax system in use",
+   "name": "Tax",
    "role": "coverage",
    "defer": [
     "none"
@@ -123,7 +131,7 @@
   },
   {
    "key": "payroll",
-   "name": "The payroll in use",
+   "name": "Payroll",
    "role": "coverage",
    "defer": [
     "none"
@@ -139,7 +147,7 @@
   },
   {
    "key": "renewed",
-   "name": "One of the three live on a new or upgraded system in the window",
+   "name": "Renewal",
    "role": "coverage",
    "defer": [],
    "prefer": [
@@ -151,7 +159,7 @@
   },
   {
    "key": "architecture",
-   "name": "An enterprise architecture or systems inventory published",
+   "name": "A map of the systems",
    "role": "coverage",
    "defer": [],
    "prefer": [

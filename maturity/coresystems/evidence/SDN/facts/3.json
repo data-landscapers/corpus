@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-06-bayan-digital-civil-service-platform-tears-up-the-paper-files",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The human resources minister launched Bayan, a national database of civil-service personnel records held by the Civil Service Diwan, covering every public employee from appointment to separation (date taken from the published date, 2026-08-06).", "as_of": "2026-08-06", "date_precision": "day", "system": "Bayan digital platform for the civil service", "class": "core"},
+    {"sub_indicator": "core", "aspect": "renewed", "value": "live", "fact": "Bayan was launched as a move from paper files to digital administration of civil-service personnel records (date taken from the published date, 2026-08-06).", "as_of": "2026-08-06", "date_precision": "day", "system": "Bayan digital platform for the civil service", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Bayan digital platform for the civil service", "country_label": "Bayan", "class": "core", "platform": "", "owner": "Civil Service Diwan; built with the Ministry of Digital Transformation and Communications", "tiers": "central"}
+  ],
+  "note": ""
+}

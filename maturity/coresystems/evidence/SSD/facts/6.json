@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-south-sudan-revenue-authority-act-2016-revised-2024",
+  "facts": [],
+  "systems": [
+    {"system": "e-tax system", "country_label": "e-tax system", "class": "core", "platform": "", "owner": "South Sudan Revenue Authority", "tiers": ""}
+  ],
+  "note": "The Act mandates collection and compliance certificates through the official e-tax system but does not state that it is in use or give a date for it, so no fact."
+}

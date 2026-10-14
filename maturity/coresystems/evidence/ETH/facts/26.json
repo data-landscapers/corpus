@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform",
+  "facts": [],
+  "systems": [
+    {"system": "MESOB", "country_label": "MESOB", "class": "other", "platform": "MOSIP-based Fayda digital ID authentication", "owner": "", "tiers": "federal"}
+  ],
+  "note": "Describes a citizen service portal (41 services, 12 federal institutions); no finance, tax or payroll system, renewal or architecture is stated."
+}

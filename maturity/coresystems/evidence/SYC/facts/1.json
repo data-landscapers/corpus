@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-17-national-assembly-dict-egn-visit",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Government Network (EGN)", "country_label": "Electronic Government Network", "class": "other", "platform": "", "owner": "Department of Information Communication Technology", "tiers": ""},
+    {"system": "SeyID", "country_label": "SeyID", "class": "other", "platform": "", "owner": "Department of Information Communication Technology", "tiers": ""}
+  ],
+  "note": "Committee visit to DICT; names the government network and SeyID but no finance, tax or payroll system."
+}

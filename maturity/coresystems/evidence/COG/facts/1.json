@@ -1,0 +1,10 @@
+{
+  "slug": "2020-06-22-congo-tax-management-system-e-tax",
+  "facts": [],
+  "systems": [
+    {"system": "E-TAX", "country_label": "E-TAX (Tax Management System), Directorate General of Taxes and Domains", "class": "core", "platform": "", "owner": "Ministry of Finance and Budget (DGID, DSI)", "tiers": ""},
+    {"system": "SYSTAF", "country_label": "SYSTAF automated tax processing system", "class": "", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": ""},
+    {"system": "E-PAY", "country_label": "E-PAY online payment project", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": ""}
+  ],
+  "note": "June 2020 article describes E-TAX as a future system ahead of launch, with some taxes still managed manually; no in-use, down or none statement for the tax system."
+}

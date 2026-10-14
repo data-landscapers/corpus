@@ -1,0 +1,14 @@
+{
+  "slug": "2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The CEG Kenya brief (2018) states the National Treasury rolled out IFMIS for use by national and county governments, covering planning, budgeting, procurement, expenditure management and reporting, without a revenue management module for counties.", "as_of": "2018", "date_precision": "year", "system": "IFMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "National Treasury", "tiers": "national;county"},
+    {"system": "LAIFOMS", "country_label": "LAIFOMS", "class": "other", "platform": "", "owner": "former local authorities; used by counties", "tiers": "county"},
+    {"system": "Zizi revenue collection", "country_label": "Zizi", "class": "other", "platform": "software as a service, vendor-hosted", "owner": "vendor", "tiers": "county"},
+    {"system": "CountyPro", "country_label": "CountyPro", "class": "other", "platform": "", "owner": "Kiambu County", "tiers": "county"},
+    {"system": "E-Jiji Pay", "country_label": "E-Jiji Pay", "class": "other", "platform": "", "owner": "Nairobi County", "tiers": "county"}
+  ],
+  "note": ""
+}

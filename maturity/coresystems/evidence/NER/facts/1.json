@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat",
+  "facts": [],
+  "systems": [
+    {"system": "SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie)", "country_label": "Niger", "class": "other", "platform": "", "owner": "Ministry of Public Service, Labour and Employment", "tiers": "central"}
+  ],
+  "note": "SIGRHEP is a system being set up to replace ageing existing systems; the minister says no integrated HR and payroll system exists, but not that payroll is done on paper, so no fact."
+}

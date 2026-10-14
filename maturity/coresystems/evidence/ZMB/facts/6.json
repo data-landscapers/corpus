@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-02-zmb-auditor-general-report-2024-companion",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The catalogue line of the Auditor General's report on the 2024 accounts says the audit found the IFMIS without logs or offsite backup, which treats the system as operating in the 2024 financial year; the page holds no figures.", "as_of": "2024", "date_precision": "year", "system": "IFMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "INRIS", "country_label": "INRIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

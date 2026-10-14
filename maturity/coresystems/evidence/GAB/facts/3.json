@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-27-sonapresse-fur-redynamiser-fonction-publique",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The Fichier unique de référence, in operation for about twenty years, is the application the public service ministry currently uses to manage state human resources and feeds the Solde payroll, though it has coding malfunctions that leave regularised situations invisible to payroll (L'Union, 27 August 2026; meeting of 25 August 2026).", "as_of": "2026-08-25", "date_precision": "day", "system": "Fichier unique de référence (FUR)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Fichier unique de référence (FUR)", "country_label": "FUR", "class": "core", "platform": "", "owner": "Ministère de la Fonction Publique; built by ANINF", "tiers": "central"},
+    {"system": "Système Intégré de Gestion des Ressources Humaines (SIGRH)", "country_label": "SIGRH", "class": "other", "platform": "", "owner": "Ministère de la Fonction Publique et du Renforcement des Capacités", "tiers": "central"},
+    {"system": "Solde", "country_label": "Solde (payroll)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

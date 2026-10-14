@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project",
+  "facts": [],
+  "systems": [
+    {"system": "Senegalese National Interoperability Platform (PINS)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Sénégal Numérique S.A.", "tiers": ""}
+  ],
+  "note": "EAG project at interim-results stage (workshop 2026-07-29) and the state systems inventory only launched; nothing published or adopted, so no architecture fact."
+}

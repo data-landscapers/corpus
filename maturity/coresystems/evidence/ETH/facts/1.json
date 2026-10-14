@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Tax Administration System (ITAS)", "country_label": "ITAS", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"},
+    {"system": "e-Invoicing", "country_label": "e-Invoicing", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"},
+    {"system": "DW/BI", "country_label": "DW/BI", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"}
+  ],
+  "note": "A 2026-10-08 call for an ITAS chief architect describes a system being built or governed, not one stated to be in use or live."
+}

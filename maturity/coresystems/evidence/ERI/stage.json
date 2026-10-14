@@ -1,0 +1,19 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "no evidence",
+   "finance": "",
+   "revenue": "",
+   "payroll": "",
+   "renewed": "",
+   "architecture": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether the government's finance, tax or payroll systems are in use.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-kenya-country-profile-ati",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "The Addis Tax Initiative profile lists Kenya Revenue Authority reforms of 2019 that added a risk profiling and monitoring module to the iTax system and integrated iTax with the registration bureau, vehicle registry and business registration service; the profile's own date is 2025 and the stated events are 2019.", "as_of": "2019", "date_precision": "year", "system": "iTax", "class": "core"}
+  ],
+  "systems": [
+    {"system": "iTax", "country_label": "iTax", "class": "core", "platform": "", "owner": "Kenya Revenue Authority", "tiers": "central"}
+  ],
+  "note": ""
+}

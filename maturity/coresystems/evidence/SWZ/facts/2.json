@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-24-swz-times-national-data-centre-incident",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "down",
+   "fact": "The Times of Eswatini reported that an incident at the National Data Centre disrupted at least 12 government platforms including IFMIS; RSTP had first acknowledged the web-services outage including IFMIS on 18 September 2026.",
+   "as_of": "2026-09-24",
+   "date_precision": "day",
+   "system": "Integrated Financial Management Information System (IFMIS)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Financial Management Information System (IFMIS)",
+   "country_label": "Integrated Financial Management Information System (IFMIS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "Performance Management System",
+   "country_label": "Performance Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Public Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

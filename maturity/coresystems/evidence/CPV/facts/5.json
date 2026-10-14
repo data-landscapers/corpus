@@ -1,0 +1,31 @@
+{
+ "slug": "2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IGRP",
+   "country_label": "Integrated Government Resource Planning",
+   "class": "other",
+   "platform": "open-source microservices framework",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Justice Information System (SIJ)",
+   "country_label": "SIJ",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Consular Portal and Digital Diaspora",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No finance, tax or payroll system stated."
+}

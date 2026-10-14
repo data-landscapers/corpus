@@ -1,0 +1,32 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,iTax,iTax,core,,Kenya Revenue Authority,,2026-09-01-thestar-monari-when-itax-fails-the-taxpayer-still-pays
+KEN,eTIMS,eTIMS,other,,Kenya Revenue Authority,,2026-09-01-thestar-monari-when-itax-fails-the-taxpayer-still-pays
+KEN,IFMIS,IFMIS,core,,National Treasury,,2026-08-31-kra-etims-ifmis-integration-notice
+KEN,eTIMS,eTIMS,other,,Kenya Revenue Authority,,2026-08-31-kra-etims-ifmis-integration-notice
+KEN,IFMIS,IFMIS,core,,National Treasury,national;county,2026-08-30-integrated-financial-management-information-system
+KEN,IFMIS,IFMIS,core,,National Treasury,,2026-08-27-wearetech-kenya-47-comtes-marches-publics-numeriques
+KEN,e-GP,e-GP,other,,National Treasury,national;county,2026-08-27-wearetech-kenya-47-comtes-marches-publics-numeriques
+KEN,iTax,iTax,core,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,iCMS,iCMS,other,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,eTIMS,eTIMS,other,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,iTax,iTax,core,,Kenya Revenue Authority,,2026-01-01-itax
+KEN,iTax,iTax,core,,Kenya Revenue Authority,,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,eTIMS,eTIMS,other,,Kenya Revenue Authority,,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,eRITS,eRITS,other,,Kenya Revenue Authority,,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,Kenya Investment Single Window,KISW,other,,KenInvest,,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,IFMIS,Integrated Financial Management Information System,core,,National Treasury,,2026-10-09-ken-nation-hussein-counties-revenue-automation
+KEN,ICRMS,Integrated County Revenue Management System,other,,county governments,,2026-10-09-ken-nation-hussein-counties-revenue-automation
+KEN,IFMIS,Integrated Financial Management Information System,core,,,,2026-08-14-kenya-cra-county-revenue-automation-standards
+KEN,County Revenue Management Systems,CRMS,other,,county governments,,2026-08-14-kenya-cra-county-revenue-automation-standards
+KEN,IFMIS,IFMIS,core,,,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,iTax,KRA/iTax,core,,Kenya Revenue Authority,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,designated Government HR/payroll system,designated Government HR/payroll system,core,,,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,KNPHI ERP,ERP for the Kenya National Public Health Institute,other,,Ministry of Health,,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration
+KEN,iTax,iTax,core,,Kenya Revenue Authority,central,2025-01-01-kenya-country-profile-ati
+KEN,IFMIS,IFMIS,core,,National Treasury,national;county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
+KEN,LAIFOMS,LAIFOMS,other,,former local authorities; used by counties,county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
+KEN,Zizi revenue collection,Zizi,other,"software as a service, vendor-hosted",vendor,county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
+KEN,CountyPro,CountyPro,other,,Kiambu County,county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
+KEN,E-Jiji Pay,E-Jiji Pay,other,,Nairobi County,county,2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions
+KEN,Broadcast Logger,Broadcast Logger,other,,Communications Authority of Kenya; Kenya Film Classification Board,,2026-07-27-ca-kenya-kfcb-broadcast-logger-monitoring-training
+KEN,"Integrated, Control and Communication Centre (IC3)",IC3,other,,National Police Service,,2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv

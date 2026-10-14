@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-itweb-co-za-home-affairs-revenue-admin-tender",
+  "facts": [],
+  "systems": [
+    {"system": "Home Affairs revenue administration system", "country_label": "Home Affairs revenue administration system (tender)", "class": "other", "platform": "", "owner": "Department of Home Affairs", "tiers": "275 fixed sites and 230 mobile units"}
+  ],
+  "note": "A department's revenue-collection system under tender is not a tax authority, finance or payroll system in use; the Sanral enterprise architecture item is a parastatal procurement, not a published government architecture."
+}

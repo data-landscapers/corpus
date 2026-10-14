@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-26-car-plan-e-finances-publiques-note-cadrage",
+  "facts": [],
+  "systems": [
+    {"system": "Progiciel e-Tax", "country_label": "e-Tax", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "Document lists accelerating its implementation as a priority action; does not state it is in use."},
+    {"system": "SIM_ba", "country_label": "SIM_ba", "class": "", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": ""},
+    {"system": "SIGMAP", "country_label": "SIGMAP", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "Procurement management system, to be set up."},
+    {"system": "Système Intégré de Gestion des Finances Publiques (SIGFP)", "country_label": "SIGFP", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "Planned structural action: to be developed."},
+    {"system": "Système Intégré de Gestion des Ressources Humaines (SIGRH)", "country_label": "SIGRH", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "Planned structural action: to be set up."}
+  ],
+  "note": "A March 2025 roadmap: every core system named is a planned or to-be-accelerated action, not stated as in use; no dated absence or go-live."
+}

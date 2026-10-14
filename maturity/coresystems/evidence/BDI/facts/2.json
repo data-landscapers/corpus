@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFP_BI", "country_label": "Burundi", "class": "other", "platform": "Microsoft Server 2019 or later", "owner": "Ministere des Finances, du Budget et de l'Economie Numerique", "tiers": "all ministries and constitutional institutions; contract awarded, not in use"}
+  ],
+  "note": "Report on an alleged favouritism dispute over the award of the SIGFP_BI contract; it states no system in use."
+}

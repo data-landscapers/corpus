@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CIV-001,CIV,core,finance,inuse,"The CEO of SNDI says SIGFIP, an integrated public financial management application developed and deployed by SNDI, is used nationwide by the Government (interview published 2014-12-16, no earlier date given).",2014-12-16,day,SIGFIP (Système Intégré de Gestion des Finances Publiques),core,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire,https://marcopolis.net/overview-of-sndi-it-development-company-in-cote-d-ivoire.htm

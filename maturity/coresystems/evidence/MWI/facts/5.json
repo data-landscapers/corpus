@@ -1,0 +1,23 @@
+{
+ "slug": "2016-01-01-eximbank-cn-mwi-001-china-eximbank-provides-rmb-1554-million",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS",
+   "class": "",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  },
+  {
+   "system": "HRMIS",
+   "country_label": "HRMIS",
+   "class": "",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "Loan record for a fibre backbone; IFMIS and HRMIS named only as systems the network will serve, with no description."
+}

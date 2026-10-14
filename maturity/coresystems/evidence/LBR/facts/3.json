@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "The finance ministry, revenue authority and central bank state that the Tax Administration System records revenue and that LITAS is being expanded across regional tax offices, with an audit of 2018-2024 finding variances between its records and bank deposits.", "as_of": "2026-05-19", "date_precision": "day", "system": "Liberia Integrated Tax Administration System (LITAS)", "class": "core"},
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The ministry states it is taking measures to integrate IFMIS with LITAS, SIGTAS, ASYCUDA, the transitory accounts and the General Revenue Account, treating IFMIS as an existing system; no date of use or coverage is given.", "as_of": "2026-05-19", "date_precision": "day", "system": "Integrated Financial Management Information System (IFMIS)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Liberia Integrated Tax Administration System (LITAS)", "country_label": "LITAS", "class": "core", "platform": "", "owner": "Liberia Revenue Authority", "tiers": "regional tax offices"},
+    {"system": "Tax Administration System (TAS)", "country_label": "TAS", "class": "core", "platform": "", "owner": "Liberia Revenue Authority", "tiers": ""},
+    {"system": "Standard Integrated Government Tax Administration System (SIGTAS)", "country_label": "SIGTAS", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": ""},
+    {"system": "Automated System for Customs Data (ASYCUDA) version 4.4", "country_label": "ASYCUDA", "class": "other", "platform": "ASYCUDA 4.4", "owner": "Liberia Revenue Authority", "tiers": ""}
+  ],
+  "note": ""
+}

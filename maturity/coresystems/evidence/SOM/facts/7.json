@@ -1,0 +1,9 @@
+{
+  "slug": "2021-08-16-som-mobile-taxation-expanded-to-four-districts-of-somalia-after-a-successf",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS (Garowe local government)", "country_label": "Integrated Financial Management Information System, Garowe district", "class": "core", "platform": "", "owner": "Garowe local government / Puntland Ministry of Interior", "tiers": "local"},
+    {"system": "Mobile phone-based tax payment system", "country_label": "Garowe mobile taxation system", "class": "other", "platform": "mobile money (Golis)", "owner": "Garowe local government", "tiers": "local"}
+  ],
+  "note": "Systems described are local-government (Garowe, Puntland), not the central government's; no fact for the central-government aspects."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-18-civ-2025-322-78011202283",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Système d'information budgétaire (DSIB)",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère des Finances et du Budget",
+   "tiers": ""
+  }
+ ],
+ "note": "Budget line funding security and backup of the budget information system; it states no in-use, down or absent status, so no fact. Recorded as a system of class other."
+}

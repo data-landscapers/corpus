@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-09-connectingafrica-free-internet-cyber-risks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DAF biometric national ID and passport system",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction de l'automatisation des fichiers",
+   "tiers": ""
+  }
+ ],
+ "note": "DGID hack (Oct 2025) and DAF hack reported; no statement that a core system stopped or is in use."
+}

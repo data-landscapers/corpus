@@ -1,0 +1,12 @@
+{
+  "slug": "2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The World Bank project P165000 (US$23.5m, approved 2019-07-16, closed 2024-10-31) supports expansion and upgrade of Liberia's IFMIS; the page gives no date for the system's use, so the board-approval date is used.", "as_of": "2019-07-16", "date_precision": "day", "system": "IFMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": ""},
+    {"system": "integrated tax administration system", "country_label": "integrated tax administration system components (revenue administration systems)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "customs management information system", "country_label": "customs management information system", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

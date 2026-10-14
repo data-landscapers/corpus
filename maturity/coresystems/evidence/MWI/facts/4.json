@@ -1,0 +1,44 @@
+{
+ "slug": "2022-09-22-mwi-councils-operating-on-expired-ifmis",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Malawi Local Government Association says the new central government IFMIS is in use, with councils processing salary payments through it, while councils' own local IFMIS runs on expired software; as_of is the published date.",
+   "as_of": "2022-09-22",
+   "date_precision": "day",
+   "system": "central government IFMIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Local Government Association's director says councils use the new central government IFMIS to process the payment of salaries; as_of is the published date.",
+   "as_of": "2022-09-22",
+   "date_precision": "day",
+   "system": "central government IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "central government IFMIS",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": "central"
+  },
+  {
+   "system": "Local authorities IFMIS (Serenic Navigator)",
+   "country_label": "Local IFMIS",
+   "class": "other",
+   "platform": "Serenic Navigator",
+   "owner": "National Local Government Finance Committee",
+   "tiers": "local"
+  }
+ ],
+ "note": ""
+}

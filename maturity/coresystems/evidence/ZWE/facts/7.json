@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-zimra-etaxes-online-platform",
+  "facts": [],
+  "systems": [
+    {"system": "E-Taxes", "country_label": "ZIMRA E-Taxes online filing platform", "class": "other", "platform": "web portal", "owner": "Zimbabwe Revenue Authority", "tiers": ""},
+    {"system": "E-Services", "country_label": "ZIMRA E-Services online filing platform", "class": "other", "platform": "web portal", "owner": "Zimbabwe Revenue Authority", "tiers": ""}
+  ],
+  "note": "Describes a secondary taxpayer filing portal (undated, year 2025) and does not state that it is the authority's core tax system or that a core system is in use."
+}

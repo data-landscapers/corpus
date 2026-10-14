@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Finance IBM mainframe infrastructure", "country_label": "Ministry of Finance IBM mainframe", "class": "", "platform": "IBM mainframe", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": "Says several Ministry of Finance mainframe systems run on end-of-life software but does not say what they do or name a finance, tax or payroll system."
+}

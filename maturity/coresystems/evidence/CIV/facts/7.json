@@ -1,0 +1,11 @@
+{
+  "slug": "2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The CEO of SNDI says SIGFIP, an integrated public financial management application developed and deployed by SNDI, is used nationwide by the Government (interview published 2014-12-16, no earlier date given).", "as_of": "2014-12-16", "date_precision": "day", "system": "SIGFIP (Système Intégré de Gestion des Finances Publiques)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "SIGFIP (Système Intégré de Gestion des Finances Publiques)", "country_label": "SIGFIP", "class": "core", "platform": "", "owner": "SNDI (Société Nationale de Développement Informatique)", "tiers": "national"},
+    {"system": "SIGMAP (Système Intégré de Gestion des Marchés Publics)", "country_label": "SIGMAP", "class": "other", "platform": "", "owner": "SNDI (Société Nationale de Développement Informatique)", "tiers": "national"}
+  ],
+  "note": ""
+}

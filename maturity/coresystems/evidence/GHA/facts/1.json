@@ -1,0 +1,50 @@
+{
+ "slug": "2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "down",
+   "fact": "The Ghana Revenue Authority said that from 14 August 2026 intermittent technical faults affected tax payments initiated through ITAS and GITMIS on the Ghana.gov platform, with some payments delayed; filing of returns was unaffected and no restoration date was given.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "Integrated Tax Administration System (ITAS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Integrated Tax Management and Information System (GITMIS)",
+   "country_label": "Ghana Integrated Tax Management and Information System (GITMIS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Customs Management System (ICUMS)",
+   "country_label": "Integrated Customs Management System (ICUMS)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana.gov payment platform",
+   "country_label": "Ghana.gov payment platform",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

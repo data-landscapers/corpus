@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-18-ega-uganda-launches-renewal-gea-egif",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "architecture", "value": "published", "fact": "eGA says it developed Uganda's Government Enterprise Architecture and e-Government Interoperability Framework with NITA-U about five years before this February 2026 article, which reports NITA-U launching their renewal with World Bank support.", "as_of": "2021", "date_precision": "year", "system": "Government Enterprise Architecture (GEA)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Government Enterprise Architecture (GEA)", "country_label": "Government Enterprise Architecture", "class": "core", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": ""
+}

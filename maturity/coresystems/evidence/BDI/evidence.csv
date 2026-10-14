@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,core,revenue,inuse,"The Burundi Revenue Authority (OBR) states its e-KORI platform for internal taxes and non-tax revenue entered service on 4 August 2026, with all new taxpayer registration applications made exclusively on it from that date; the page describes registration only.",2026-08-04,day,e-KORI,core,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne,https://obr.bi/index.php/e-kori

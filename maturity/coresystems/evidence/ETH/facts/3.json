@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-04-eth-2024-156-01-pr034",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Tax Adminstration System-ITAS", "country_label": "ITAS", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"},
+    {"system": "Electronics Invoice System", "country_label": "Electronic invoice system", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"},
+    {"system": "Data Warehouse & Business Intellegence System", "country_label": "Data warehouse and BI", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"}
+  ],
+  "note": "A proposed 2024/25 capital budget line for ITAS; funding for a project is not a statement that the system is in use."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-12-darkreading-senegal-breach-security-maturity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DAF biometric national ID and passport system",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Direction de l'automatisation des fichiers",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the DAF biometric ID system breach; ID system is class other, no core system fact."
+}

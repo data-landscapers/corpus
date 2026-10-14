@@ -1,0 +1,5 @@
+{"slug":"2026-07-27-fg-launches-ippis-human-resource-modules","facts":[
+{"sub_indicator":"core","aspect":"payroll","value":"inuse","fact":"The IPPIS Human Resource modules, covering payroll administration, serve over 508 federal MDAs and over 600,000 civil servants, per the Head of the Civil Service.","as_of":"2026-07-27","date_precision":"day","system":"IPPIS","class":"core"},
+{"sub_indicator":"core","aspect":"renewed","value":"live","fact":"The IPPIS HR modules went live on 27 July 2026 on the locally developed SoftSuite platform, a migration from foreign software.","as_of":"2026-07-27","date_precision":"day","system":"IPPIS HR modules (SoftSuite)","class":"core"}],
+"systems":[{"system":"IPPIS","country_label":"Integrated Personnel and Payroll Information System","class":"core","platform":"SoftSuite Human Capital Management (Soft Alliance and Resources)","owner":"Office of the Head of the Civil Service of the Federation","tiers":"federal"}],
+"note":""}

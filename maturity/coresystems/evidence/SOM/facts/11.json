@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Financial Management and Information System (IFMIS)", "country_label": "IFMIS", "class": "", "platform": "", "owner": "Federal Government of Somalia", "tiers": ""},
+    {"system": "Human Resources Management System (HRMIS)", "country_label": "HRMIS", "class": "", "platform": "", "owner": "Federal Government of Somalia", "tiers": ""}
+  ],
+  "note": "States FGS still has no enterprise architecture and only plans one (National Enterprise Architecture, 2025-2029 roadmap); IFMIS/HRMIS named without a statement that they are in use, down or renewed, so no fact."
+}

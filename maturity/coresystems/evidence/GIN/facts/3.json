@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-31-guinee-bcrg-projets-reformes-dsmp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "RTGS",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  },
+  {
+   "system": "Depo/X",
+   "country_label": "Depo/X",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank payment and debt-market systems only; no core government system stated."
+}

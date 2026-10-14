@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-27-ega-uganda-renewed-digital-government-frameworks",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "architecture", "value": "published", "fact": "eGA reports that the Government of Uganda renewed its Government Enterprise Architecture, led by NITA-U with World Bank support, delivering a renewed architecture aligned with Vision 2040; the article is dated 2026-05-27 and gives no earlier completion date.", "as_of": "2026-05-27", "date_precision": "day", "system": "Government Enterprise Architecture (GEA)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Government Enterprise Architecture (GEA)", "country_label": "Government Enterprise Architecture", "class": "core", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": ""
+}

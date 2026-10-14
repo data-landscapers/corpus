@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-10-wb-bdi-001-additional-financing-to-the-burundi-digital",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": "financed for modernisation; not stated in use"},
+    {"system": "integrated tax administration", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": "financed for modernisation; not stated in use"},
+    {"system": "biometric HR/payroll", "country_label": "Burundi", "class": "other", "platform": "", "owner": "", "tiers": "financed for modernisation; not stated in use"}
+  ],
+  "note": "World Bank financing record (US$42m, approved 2024-01-10) for modernising PFM processes; it states no system in use, down, absent or gone live."
+}

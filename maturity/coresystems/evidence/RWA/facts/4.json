@@ -1,0 +1,9 @@
+{
+  "slug": "2018-10-23-wb-rwa-003-rwanda-public-finance-management-reform-project",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "Rwanda", "class": "core", "platform": "", "owner": "Ministry of Finance and Economic Planning", "tiers": "across government"},
+    {"system": "electronic payroll systems", "country_label": "Rwanda", "class": "core", "platform": "", "owner": "Ministry of Finance and Economic Planning", "tiers": ""}
+  ],
+  "note": "A 2018 World Bank project description of a planned roll-out and stabilisation of IFMIS and e-payroll; it does not state either is in use at any date."
+}

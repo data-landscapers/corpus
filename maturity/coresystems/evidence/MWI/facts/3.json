@@ -1,0 +1,34 @@
+{
+ "slug": "2024-04-26-malawi-fiscal-governance-program-for-results",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The World Bank appraisal says the SAP IFMIS launched in July 2020 was rolled out to all ministries, departments and agencies by July 2021, though most MDAs still transact outside it in real time; as_of is the document's published date.",
+   "as_of": "2024-04-26",
+   "date_precision": "day",
+   "system": "SAP IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAP IFMIS",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "SAP",
+   "owner": "Ministry of Finance and Economic Affairs",
+   "tiers": "central"
+  },
+  {
+   "system": "Msonkho Online",
+   "country_label": "Msonkho Online",
+   "class": "core",
+   "platform": "",
+   "owner": "Malawi Revenue Authority",
+   "tiers": "central"
+  }
+ ],
+ "note": "Msonkho Online is described as the integrated tax administration system to be upgraded, a plan, so no revenue fact."
+}

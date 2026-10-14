@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-tanzania-gamis-public-asset-management-system",
+  "facts": [],
+  "systems": [
+    {"system": "Government Assets Management Information System (GAMIS)", "country_label": "GAMIS", "class": "other", "platform": "", "owner": "Ministry of Finance (Government Assets Management Department)", "tiers": "central"}
+  ],
+  "note": "Document covers GAMIS, a public asset register; not a finance, tax or payroll system, so no fact for the study's aspects."
+}

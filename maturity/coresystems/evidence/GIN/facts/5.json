@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-bcrg-guinea-avis-appel-offres-infrastructure-swift",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SWIFT infrastructure (tender)",
+   "country_label": "SWIFT infrastructure (tender)",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank SWIFT tender; not a core government system."
+}

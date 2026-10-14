@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-19-laprosperite-coref-frap-marche-brondy",
+  "facts": [],
+  "systems": [
+    {"system": "FRAP (fichier de référence de l'administration publique)", "country_label": "FRAP", "class": "other", "platform": "", "owner": "COREF (Ministry of Finance public finance reform committee)", "tiers": ""}
+  ],
+  "note": "A procurement notice for equipment (Lot 2, tools) supporting setting up the FRAP reference file; a tender is not a system in use."
+}

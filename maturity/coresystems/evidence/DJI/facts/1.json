@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance",
+  "facts": [],
+  "systems": [
+    {"system": "ITAS", "country_label": "ITAS (tax administration system, under project P180696)", "class": "other", "platform": "", "owner": "Ministry of Budget", "tiers": ""}
+  ],
+  "note": "Reports only that the share of returns filed and paid on time via ITAS was 0 at 2026-01-09 under a project not yet effective; no statement of system in use, down or paper-based."
+}

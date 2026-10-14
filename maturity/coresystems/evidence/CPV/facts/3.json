@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-18-nosi-alegado-ciberataque-divulgacao-resultados-legislativas-anacao",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rede Tecnologica Privativa do Estado",
+   "country_label": "State private technology network",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": "Election-night website incident; no core system stated."
+}

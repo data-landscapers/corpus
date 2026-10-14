@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZMB-001,ZMB,core,finance,inuse,"The catalogue line of the Auditor General's report on the 2024 accounts says the audit found the IFMIS without logs or offsite backup, which treats the system as operating in the 2024 financial year; the page holds no figures.",2024,year,IFMIS,core,2025-10-02-zmb-auditor-general-report-2024-companion,https://www.ago.gov.zm/wp-content/uploads/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION.pdf

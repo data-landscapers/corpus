@@ -1,0 +1,23 @@
+{
+ "slug": "2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train",
+ "facts": [],
+ "systems": [
+  {
+   "system": "New Local Authority Integrated Financial Management Information System",
+   "country_label": "NEW LA-IFMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Accountant General's Department",
+   "tiers": "local authorities"
+  },
+  {
+   "system": "Central Government IFMIS",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "Accountant General's Department",
+   "tiers": "central"
+  }
+ ],
+ "note": "Tender for a local authority system; central IFMIS named only as an integration target, no statement of use."
+}

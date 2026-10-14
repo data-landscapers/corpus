@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,core,finance,coverage,inuse,2026-03-11,GAB-002;GAB-005;GAB-007;GAB-008;GAB-009,,
+GAB,core,revenue,coverage,inuse,2026-01-15,GAB-003;GAB-006,,
+GAB,core,payroll,coverage,inuse,2026-08-25,GAB-001,,
+GAB,core,renewed,coverage,live,2026-01-15,GAB-004;GAB-010,,
+GAB,core,architecture,coverage,,,,,nothing held

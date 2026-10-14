@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-wearetech-gabon-rwanda-digital-transformation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Système intégré de gestion des ressources humaines et de la paie (SIGRH), being advanced, not stated as in use",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The story says Gabon is advancing the SIGRH human-resources and payroll system but does not say it is in use or live."
+}

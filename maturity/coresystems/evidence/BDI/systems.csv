@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
+BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
+BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
+BDI,IFMIS,Burundi,other,,,financed for modernisation; not stated in use,2024-01-10-wb-bdi-001-additional-financing-to-the-burundi-digital
+BDI,integrated tax administration,Burundi,other,,,financed for modernisation; not stated in use,2024-01-10-wb-bdi-001-additional-financing-to-the-burundi-digital
+BDI,biometric HR/payroll,Burundi,other,,,financed for modernisation; not stated in use,2024-01-10-wb-bdi-001-additional-financing-to-the-burundi-digital
+BDI,e-KORI,e-KORI,core,,Office Burundais des Recettes (OBR),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
+BDI,Easy Business,Easy Business,other,,Agence de Développement du Burundi (ADB),,2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne

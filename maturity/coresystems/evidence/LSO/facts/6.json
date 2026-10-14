@@ -1,0 +1,31 @@
+{
+ "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE",
+ "facts": [],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "X-Road",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "MICSTI",
+   "tiers": ""
+  },
+  {
+   "system": "MOSIP",
+   "country_label": "MOSIP",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  },
+  {
+   "system": "Decision Support System (DSS)",
+   "country_label": "Decision Support System (DSS)",
+   "class": "other",
+   "platform": "",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "Presents DPI systems to be built; the DSS for planning and budgeting is not a stated finance system in use."
+}

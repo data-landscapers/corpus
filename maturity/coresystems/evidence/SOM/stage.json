@@ -1,0 +1,19 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "3",
+   "finance": "inuse",
+   "revenue": "inuse",
+   "payroll": "inuse",
+   "renewed": "",
+   "architecture": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-004;SOM-001;SOM-002",
+   "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

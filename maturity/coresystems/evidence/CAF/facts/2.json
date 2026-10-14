@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-31-car-advances-tax-digitalisation-itweb",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "ITWeb Africa reports on 31 January 2025 that the Central African Republic's director general of taxes said the e-tax system's registration and e-filing modules were fully operational, with the platform allowing electronic tax filing and payment.", "as_of": "2025-01-31", "date_precision": "day", "system": "e-tax system", "class": "core"}
+  ],
+  "systems": [
+    {"system": "e-tax system", "country_label": "e-tax", "class": "core", "platform": "", "owner": "Directorate General of Taxes and State Properties (DGID)", "tiers": "EU-backed under a 24-month service contract"}
+  ],
+  "note": ""
+}

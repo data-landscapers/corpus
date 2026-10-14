@@ -1,0 +1,9 @@
+{
+  "slug": "2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "other", "platform": "", "owner": "Ministry of Finance and National Development", "tiers": "Pilot at the Ministries of Finance, Education and Agriculture; government-wide rollout targeted for the 2027 budget cycle"},
+    {"system": "Debt Management and Financial Analysis System (DMFAS)", "country_label": "DMFAS", "class": "other", "platform": "", "owner": "Ministry of Finance and National Development", "tiers": ""}
+  ],
+  "note": "The IFMIS (budgeting, payroll, accounting and other modules) is only piloted in three ministries as of the Feb 2026 report, ready for go-live, so it is not in use across central government; a pilot is not a fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle",
+  "facts": [],
+  "systems": [
+    {"system": "Portail Unique du Citoyen (PUC)", "country_label": "Portail Unique du Citoyen", "class": "other", "platform": "", "owner": "ANADEN / Union des Comores", "tiers": ""}
+  ],
+  "note": "Document only says the Plan National e-Gouv includes a Government Enterprise Architecture and Interoperability Framework; it does not state either was published or adopted, and it names no finance, tax or payroll system."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The terms of reference state the Epicor-based IFMIS is currently used by all Lesotho ministries and councils and by foreign missions in South Africa and Ethiopia (document undated; published date 2026-08-26 used).", "as_of": "2026-08-26", "date_precision": "day", "system": "Integrated Financial Management Information System (Epicor 10.2)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Integrated Financial Management Information System (Epicor 10.2, upgrade to Epicor Kinetic planned)", "country_label": "IFMIS", "class": "core", "platform": "Epicor", "owner": "Ministry of Finance and Development Planning", "tiers": "all ministries and councils, foreign missions"},
+    {"system": "Digital Signature Service, EPM Payment Gateway, X-Road data exchange platform", "country_label": "MICSTI government technology stack", "class": "other", "platform": "X-Road", "owner": "MICSTI", "tiers": ""}
+  ],
+  "note": ""
+}

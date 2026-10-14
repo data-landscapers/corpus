@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-07-morocco-court-cassation-website-outage",
+  "facts": [],
+  "systems": [
+    {"system": "Court of Cassation official website", "country_label": "Morocco", "class": "other", "platform": "", "owner": "Court of Cassation", "tiers": ""},
+    {"system": "Mahakim digital platform", "country_label": "Morocco", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Court website outage and Mahakim platform faults; justice-sector systems, not finance, tax or payroll core systems."
+}

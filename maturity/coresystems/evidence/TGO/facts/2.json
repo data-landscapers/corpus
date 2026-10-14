@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-04-togo-atd-architecture-entreprise-gouvernementale-elements",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "architecture", "value": "published",
+     "fact": "Agence Togo Digital publishes online the structuring elements of the Architecture d'Entreprise Gouvernementale du Togo (AEGT): a vision, twelve orientation statements and governance, general, business and functional principles for the state information system; the page carries no publication date, so the 2026-09-04 retrieval date stands as a ceiling.",
+     "as_of": "2026-09-04", "date_precision": "day",
+     "system": "Architecture d'Entreprise Gouvernementale du Togo (AEGT)", "class": "core"}
+  ],
+  "systems": [],
+  "note": "Capture is truncated mid-way through the functional principles; the page names no finance, tax or payroll system and states no go-live or outage."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-01-ghana-gra-itas-400-taxpayers-onboarded",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "Graphic Online reported GRA had started onboarding taxpayers onto ITAS, with over 400 taxpayers from the Accra West Area Office onboarded in the first phase; large taxpayers, rest of Accra and then the nation were to follow, with all taxpayers targeted by August 2026 (event date not given; published date used).",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Graphic Online reported over 400 taxpayers from the Accra West Area Office onboarded onto ITAS in its first phase (published date used as no event date is given).",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "Integrated Tax Administration System (ITAS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

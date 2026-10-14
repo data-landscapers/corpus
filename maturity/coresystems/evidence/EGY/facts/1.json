@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Digital treasury system", "country_label": "Egypt", "class": "other", "platform": "Digital Egypt", "owner": "MCIT", "tiers": ""},
+    {"system": "Public Shop Licensing System", "country_label": "Egypt", "class": "other", "platform": "Digital Egypt", "owner": "Ministry of Local Development and Environment", "tiers": ""}
+  ],
+  "note": "The digital treasury system is a verified-document reuse service, not the financial, tax or payroll system; no core-system fact stated."
+}

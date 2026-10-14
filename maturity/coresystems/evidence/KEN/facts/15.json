@@ -1,0 +1,8 @@
+{
+  "slug": "2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated, Control and Communication Centre (IC3)", "country_label": "IC3", "class": "other", "platform": "", "owner": "National Police Service", "tiers": ""}
+  ],
+  "note": "Police command centre and CCTV article; no finance, tax or payroll system, renewal or enterprise architecture is stated."
+}

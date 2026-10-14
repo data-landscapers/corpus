@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-17-mauritius-police-to-modernize-systems-with-rs-43-million-budget",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Occurrence Tracking System (COTS)", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Mauritius Police Force", "tiers": ""},
+    {"system": "Criminal Attribute Database (CADB)", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Mauritius Police Force", "tiers": ""}
+  ],
+  "note": "Police case and criminal-record systems only; no finance, tax or payroll system, renewal or architecture stated."
+}

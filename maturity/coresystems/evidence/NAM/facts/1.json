@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-integrated-tax-administration-system-e-portal",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "revenue", "value": "inuse", "fact": "The Namibia Revenue Agency's ITAS e-portal lets taxpayers log in to submit returns online, object to assessments, get account statements and print registration certificates; the page gives no event date, so as_of is its 2025 published year.", "as_of": "2025", "date_precision": "year", "system": "Integrated Tax Administration System (ITAS)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Integrated Tax Administration System (ITAS)", "country_label": "Namibia", "class": "core", "platform": "", "owner": "Namibia Revenue Agency", "tiers": ""}
+  ],
+  "note": ""
+}

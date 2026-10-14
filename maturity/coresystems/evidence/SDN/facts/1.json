@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-16-sudan-esali-ifmis-undp-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Esali (electronic collection and payment system)", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "Online e-invoicing system", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "Treasury Single Account (TSA)", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Finance / Central Bank of Sudan", "tiers": ""},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}
+  ],
+  "note": "Esali, e-invoicing and the TSA are described as under development or phased implementation, and IFMIS only as a goal; none is stated as in use, down or live."
+}

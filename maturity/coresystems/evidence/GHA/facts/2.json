@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-23-gha-myjoyonline-gra-itas-digital-tax-platforms",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The GRA Domestic Tax Revenue commissioner said ITAS is being deployed as a single platform replacing the separate legacy system, and that some ITAS capabilities are already operational while others roll out progressively (reported 2026-09-23; no event date given).",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "Integrated Tax Administration System (ITAS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Integrated Customs Management System (ICUMS)",
+   "country_label": "Integrated Customs Management System (ICUMS)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GRA e-invoicing system",
+   "country_label": "GRA e-invoicing system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Sentinel",
+   "country_label": "Sentinel",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-goc-san-executive-summary-bid-evaluation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Online Centre servers, SAN and backup",
+   "country_label": "Government Online Centre servers, SAN and backup",
+   "class": "other",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  }
+ ],
+ "note": "Hosting infrastructure bid evaluation; no core finance, tax or payroll system stated."
+}

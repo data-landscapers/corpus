@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-08-national-digital-services-center-dual-data-centers--wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Services Center",
+   "country_label": "National Digital Services Center",
+   "class": "other",
+   "platform": "data centre",
+   "owner": "Government of Algeria",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement on the finance, tax or payroll system, a renewal or an enterprise architecture; the document concerns digitisation generally, data centres or a portal."
+}

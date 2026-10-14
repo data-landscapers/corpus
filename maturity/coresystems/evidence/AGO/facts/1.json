@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Correio Kianda reports (11 Feb 2026, citing the AGT board chairman) that the state's Sistema Integrado de Gestao Financeira do Estado (SIGFE) will automatically check with AGT for an electronic invoice before authorising payments to state suppliers, treating SIGFE as the state's running payment system.", "as_of": "2026-02-11", "date_precision": "day", "system": "SIGFE (Sistema Integrado de Gestao Financeira do Estado)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "SIGFE (Sistema Integrado de Gestao Financeira do Estado)", "country_label": "SIGFE", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": "central"},
+    {"system": "AGT in-house artificial-intelligence risk-profiling system", "country_label": "AGT AI system", "class": "other", "platform": "machine learning", "owner": "AGT (Administracao Geral Tributaria)", "tiers": "central"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "2026-01-24-budget-2026-zero-cash-zero-papier-fen",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The article describes SIGFIP as an integrated platform automating the whole budget cycle, engagement to payment, and says the 2026 budget runs the spending chain through it (published 2026-01-24; no event date given).",
+   "as_of": "2026-01-24",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The article names e-tax as a tax platform with which SIGFIP interoperates, in the present tense (published 2026-01-24; no event date given).",
+   "as_of": "2026-01-24",
+   "date_precision": "day",
+   "system": "e-tax",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "SIGFIP",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "e-tax",
+   "country_label": "e-tax",
+   "class": "core",
+   "platform": "",
+   "owner": "Tax administration",
+   "tiers": ""
+  },
+  {
+   "system": "Facturation electronique normalisee (FEN)",
+   "country_label": "Facturation electronique normalisee (FEN)",
+   "class": "other",
+   "platform": "",
+   "owner": "Tax administration",
+   "tiers": ""
+  },
+  {
+   "system": "Sydonia",
+   "country_label": "Sydonia",
+   "class": "other",
+   "platform": "",
+   "owner": "Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

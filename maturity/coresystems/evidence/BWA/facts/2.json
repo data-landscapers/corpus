@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-18-bwa-gabs-now-fully-operational-tshere-committee-of-supply",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Botswana's Minister of Communications and Innovation told Parliament on 18 March 2025 that the Government Accounting and Budgeting System (GABS), after technical faults disrupted payments across all ministries, departments and agencies, was fixed in December 2024 and has since run at full capacity for over 20,000 users without user rationing.", "as_of": "2025-03-18", "date_precision": "day", "system": "Government Accounting and Budgeting System (GABS)", "class": "core"}
+  ],
+  "systems": [
+    {"system": "Government Accounting and Budgeting System (GABS)", "country_label": "GABS", "class": "core", "platform": "Oracle", "owner": "Ministry of Communications and Innovation", "tiers": "central government, all ministries, departments and agencies"},
+    {"system": "Vehicle Registration and Driver Licensing", "country_label": "Vehicle Registration and Driver Licensing", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-27-nosi-relatorio-preliminar-causas-de-ordem-tecnica-anacao",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eleicoes.cv election results portal",
+   "country_label": "Election results portal",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": "Election-night portal failure; no finance, tax or payroll system stated."
+}

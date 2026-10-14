@@ -1,0 +1,19 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "core",
+   "stage": "unplaced",
+   "finance": "down",
+   "revenue": "",
+   "payroll": "",
+   "renewed": "",
+   "architecture": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "A source held says the government's financial system is out of action; none says it is back.",
+   "note": "Counted from the four questions by study-ladder-coresystems.py."
+  }
+ ]
+}

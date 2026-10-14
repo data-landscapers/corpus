@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-18-civ-2024-322-78011202017",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Système d'information budgétaire",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère des Finances et du Budget",
+   "tiers": ""
+  }
+ ],
+ "note": "Budget line funding a redesign project of the budget information system; a project is not a system in use, so no fact."
+}

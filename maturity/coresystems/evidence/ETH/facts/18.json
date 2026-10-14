@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-30-moa-e-services-nrlais",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Human Resource Management System (HRMS)",
+   "country_label": "Ministry of Agriculture HRMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Agriculture",
+   "tiers": "one ministry"
+  }
+ ],
+ "note": "Lists one ministry's e-services; its HRMS is a single ministry's system, not central payroll; no core-system fact."
+}

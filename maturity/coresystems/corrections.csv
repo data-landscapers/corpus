@@ -1,0 +1,6 @@
+iso3,n,action,why
+GHA,004,removed,A phased pilot at one service centre is not a go-live; GHA-006 holds the production onboarding.
+RWA,001,removed,A framework of architecture standards is a method for mapping the systems; it maps none.
+SLE,002,removed,A framework and a training round; no map of the systems is published.
+TGO,001,removed,A vision and principles for the state information system; no map of the systems is published.
+GHA,009,removed,"The 2008 architecture is out of date by the source's own account, and its replacement is a draft for review."

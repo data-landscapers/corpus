@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital ID",
+   "country_label": "MOSIP-based national digital ID",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital ID story; no core finance, tax or payroll system stated."
+}

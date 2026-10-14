@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-05-zwe-digital-transformation-of-zimbabwe-local-government",
+  "facts": [],
+  "systems": [
+    {"system": "Local Authorities Digital System (LADS)", "country_label": "LADS (ERP and IFMIS for local authorities)", "class": "other", "platform": "ERP and integrated financial management information system", "owner": "Ministry of Local Government, with CLGF and Harare Institute of Technology", "tiers": "local authorities"}
+  ],
+  "note": "Describes a local-authority ERP/IFMIS (LADS), not the central government's financial, tax or payroll system; no fact for the sub-indicator."
+}

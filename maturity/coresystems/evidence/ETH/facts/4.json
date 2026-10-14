@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-ictd-etax-adoption-tax-compliance-ethiopia",
+  "facts": [],
+  "systems": [
+    {"system": "e-tax system (e-filing and e-payment)", "country_label": "e-filing", "class": "other", "platform": "", "owner": "Ministry of Revenue", "tiers": "national"}
+  ],
+  "note": "Landing page for a 2024 working paper on e-filing adoption among large and medium taxpayers; it does not state that a core tax administration system is in use or down."
+}

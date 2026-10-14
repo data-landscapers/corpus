@@ -1,0 +1,21 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,Integrated Tax Administration System (ITAS),ITAS,core,,National Revenue Authority,,2025-12-01-nra-moves-to-digital-tax-and-mobile-payments-to-modernise-collection
+SLE,IFMIS,Integrated Financial Management Information System,core,,Ministry of Finance,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,ITAS,Integrated Tax Administration System,core,,National Revenue Authority,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Terminus 24 (T24),T24 payment system,other,,Bank of Sierra Leone,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,ASYCUDA World,ASYCUDA World,other,,Customs Department,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Government Service Bus prototype,Government Service Bus (X-Road or similar),other,open-source e.g. X-Road,Ministry of Finance,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,PFM Smart,PFM Smart,other,,local government,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Municipal Property Tax System,MPTS,other,,22 Local Councils,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,e-Procurement System,e-GP,other,,,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Audit Management Information System,AMIS,other,,,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,LoMEMIS,LoMEMIS,other,,,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,CRVS,CRVS,other,,,,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Government Wide Area Network (GWAN) and Government Local Area Networks (GLANs),Sierra Leone,other,,"Ministry of Communication, Technology and Innovation",,2026-10-08-sle-blacknews-iprp-dismisses-tiwai-complaint-gwan-glan
+SLE,Government Wide Area Network (GWAN) and Government Local Area Networks (GLANs),Sierra Leone,other,,"Ministry of Communication, Technology and Innovation",,2026-09-21-sle-truthmedia-procurement-review-digital-transformation
+SLE,Sierra Leone e-GP system (under development),Sierra Leone,other,,National Public Procurement Authority,,2026-08-07-liberias-e-gp-system-becomes-regional-model
+SLE,National Data Centre,Sierra Leone,other,,NatCA,,2026-04-18-sierra-leone-statehouse-natca-hq-national-data-centre-commissioning
+SLE,Electronic Government Procurement (E-GP) system,E-GP,other,,National Public Procurement Authority,Supplier Registration module operational; Procurement Planning and Price Norm Survey modules demonstrated ahead of launch; 15 pilot MDAs,2026-03-24-sierra-leone-nppa-egp-procurement-planning-price-norm-modules
+SLE,E-Government Procurement (E-GP) platform,E-GP,other,,National Public Procurement Authority,hosted in Ministry of Finance data centre; Supplier Registration module live,2026-01-07-nppa-inspects-e-procurement-data-center-ahead-of-full-system-rollout
+SLE,Integrated Financial Management Information System (IFMIS),IFMIS,,,,,2026-01-07-nppa-inspects-e-procurement-data-center-ahead-of-full-system-rollout
+SLE,Personnel Management System (Sierra Leone Police),Police Personnel Management System,other,,Sierra Leone Police / DSTI,"under development in 2025; one agency, not central civil-service payroll",2025-07-01-dsti-police-partner-to-digitise-human-resource-processes

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-19-ago-oge-2026-dotacao-orcamental-por-orgao-companion",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Ministry of Finance's 2026 budget allocation report for all organs of the State, covering 447 pages, was emitted from SIGFE on 19 December 2025.", "as_of": "2025-12-19", "date_precision": "day", "system": "SIGFE", "class": "core"}
+  ],
+  "systems": [
+    {"system": "SIGFE", "country_label": "SIGFE", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": "central"}
+  ],
+  "note": ""
+}

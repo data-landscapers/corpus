@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-03-cbl-record-epayment-qr-launch-alwasat",
+  "facts": [],
+  "systems": [
+    {"system": "LYPay", "country_label": "LYPay", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "OnePay", "country_label": "OnePay", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Payment statistics and QR payment launch; no core government finance, tax or payroll system stated."
+}

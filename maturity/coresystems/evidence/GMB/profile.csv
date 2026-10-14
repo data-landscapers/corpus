@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,core,finance,coverage,inuse,2026-08-13,GMB-001;GMB-002,,
+GMB,core,revenue,coverage,none,2026-06-17,GMB-003,,
+GMB,core,payroll,coverage,,,,,nothing held
+GMB,core,renewed,coverage,,,,,nothing held
+GMB,core,architecture,coverage,published,2026-05-22,GMB-004,,

@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,"Integrated Financial Management Information System (Epicor 10.2, upgrade to Epicor Kinetic planned)",IFMIS,core,Epicor,Ministry of Finance and Development Planning,"all ministries and councils, foreign missions",2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor
+LSO,"Digital Signature Service, EPM Payment Gateway, X-Road data exchange platform",MICSTI government technology stack,other,X-Road,MICSTI,,2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor
+LSO,Integrated Financial Management Information System,IFMIS,core,,Ministry of Finance and Development Planning,,2023-03-06-worldbank-lesotho-public-sector-foundations-pid
+LSO,MOSIP-based national digital ID,MOSIP-based national digital ID,other,MOSIP,MICSTI,,2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate
+LSO,MOSIP-based national digital ID,MOSIP-based national digital ID,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
+LSO,X-Road,X-Road,other,X-Road,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,MOSIP,MOSIP,other,MOSIP,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,Decision Support System (DSS),Decision Support System (DSS),other,,MICSTI,,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE
+LSO,Mohale's Hoek data centre,Mohale's Hoek data centre,other,Tier III data centre,"Ministry of Communications, Science and Technology",,2018-05-24-lesotho-mohales-hoek-data-centre
+LSO,IFMIS,Integrated Financial Management Information System,core,,Ministry of Finance,"budget, treasury and payroll modules active",2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
+LSO,HRMIS,Human Resource Management Information System,core,,Ministry of Public Service,payroll module in use,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
+LSO,Central Budget Management System (CBMS),Central Budget Management System,core,,,,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
+LSO,Resource Link,Resource Link,other,,,"old HR system, data to migrate to HRMIS",2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad
+LSO,Integrated Revenue Management System (IRMS),Integrated Revenue Management System,,,,named in acronym list only,2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP-based national digital ID",
+   "country_label": "MOSIP-based national digital ID",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "MICSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital ID work plan; no core finance, tax or payroll system stated."
+}

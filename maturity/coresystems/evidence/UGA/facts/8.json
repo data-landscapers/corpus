@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-nita-u-national-it-survey-2022",
+  "facts": [
+    {"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The NITA-U 2022 National IT Survey reports that staff of government MDAs use the internet for backend operations such as accessing IFMIS (75.8% in one table and 70.1% in another), and that 88.4% of MDAs want to use centralised platforms such as IFMIS; the document gives no date for the system's use, so the publication date is used.", "as_of": "2022", "date_precision": "year", "system": "IFMIS", "class": "core"}
+  ],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "core", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HCM", "country_label": "HCM", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-GP", "country_label": "E-GP", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UMCS", "country_label": "Unified Messaging and Collaboration System", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": ""
+}
