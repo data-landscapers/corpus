@@ -122,7 +122,7 @@ def problems(hero: str, title: str) -> list:
     if re.search(r"\[\[|\*\*|__|`|\]\(", hero):
         out.append("markdown")
     norm = lambda t: re.sub(r"\W+", " ", t.lower()).strip()  # noqa: E731
-    if re.search(r"stub|captured|held elsewhere|cite_through|excerpt", hero, re.I):
+    if re.search(r"\bstub\b|\bcaptured\b|held elsewhere|cite_through|\bexcerpt\b", hero, re.I):
         out.append("speaks of the record, not the document")
     # OSINT's `catalogue-hero-set.py` refuses either containment (notes-for-corpus 31), so a
     # hero that opens on its title bounces there even when the rest of it adds something.

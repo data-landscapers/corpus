@@ -34,9 +34,9 @@ SUB = "backbone"
 ROOM = 200
 ACCESS_ROOM = 70
 # A clause that is the drafter's note on its own dating, not the fact.
-DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|date is|"
+DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|"
-                    r"^(?:but |though |with )?no .*(?:given|stated|named|listed)$", re.I)
+                    r"^(?:but |though |with )?no .*\b(?:given|stated|named|listed)$", re.I)
 OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text)"
                     r"(?: \w+)? (?:says|states|reports|notes|describes)(?: that)? ", re.I)
 # What the stage rests on, in plain words, closing the first paragraph.
@@ -73,7 +73,7 @@ def link(url: str, words: str) -> str:
 
 
 def clean(fact: str) -> str:
-    parts = [p.strip() for p in re.split(r";\s+|(?<!i\.e\.)(?<!e\.g\.)(?<=[a-z0-9)]\.)\s+(?=[A-Z])", fact.strip()) if p.strip()]
+    parts = [p.strip() for p in re.split(r";\s+|(?<!\bi\.e\.)(?<!\be\.g\.)(?<=[a-z0-9)]\.)\s+(?=[A-Z])", fact.strip()) if p.strip()]
     kept = [p for p in parts if not DATING.search(p.rstrip("."))] or parts[:1]
     text = "; ".join(p.rstrip(".;,") for p in kept)
     text = OPENER.sub("", text)
