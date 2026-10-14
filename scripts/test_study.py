@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import datetime as dt
 import importlib.util
+import json
 import os
 import shutil
 import sys
@@ -330,6 +331,44 @@ try:
     check("a document with no file is named", any("document(s) [3]" in p for p in problems), True)
     again, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
     check("a document already merged is not merged twice", again, [])
+    # The ladder deleted KEN-008, the only row doc-a had, and KEN-009 is named by a correction.
+    fixes = [{"iso3": "KEN", "n": "008", "aspect": "tiers", "value": "T1", "action": "removed"},
+             {"iso3": "KEN", "n": "009", "aspect": "tiers", "value": "T3", "action": "revalued: T2"}]
+    kept = [ev("KEN-007", "tiers", "T2", "2024")]
+    back, _, problems = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
+    check("a document whose rows a correction removed is not merged again", back, [])
+    check("and is named", any("facts/1.json: skipped" in p for p in problems), True)
+    rl4 = rl + [{"n": "4", "kind": "raw", "slug": "doc-d", "url": "https://a.org/d"}]
+    other = dict(files, **{"4": {"slug": "doc-d", "facts": [dict(fact, value="T4")]}})
+    fresh, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
+    check("a new row numbers past every corrected id", [(r["row_id"], r["source_slug"]) for r in fresh],
+          [("KEN-010", "doc-d")])
+    with tempfile.TemporaryDirectory() as d:
+        path = os.path.join(d, "systems.csv")
+        rows = [{"iso3": "KEN", "system": "DHIS2", "sources": "doc-a"}]
+        open(path, "w", encoding="utf-8", newline="").write(
+            "iso3,system,country_label,class,platform,owner,tiers,sources\r\nKEN,DHIS2,,,,,,doc-a\r\n")
+        before = open(path, "rb").read()
+        check("a file whose rows are unchanged is left byte for byte",
+              (profile.write_changed(path, study_lib.SYSTEMS_FIELDS, rows), open(path, "rb").read() == before),
+              (False, True))
+        check("and one whose rows changed is written",
+              profile.write_changed(path, study_lib.SYSTEMS_FIELDS, rows + rows), True)
+
+    print("\na ladder's stage.json")
+    with tempfile.TemporaryDirectory() as d:
+        path = os.path.join(d, "KEN", "stage.json")
+        study_lib.write_stage(path, "KEN", [{"sub_indicator": "law", "stage": "2"}])
+        check("a first write carries no as_at", "as_at" in open(path, encoding="utf-8").read(), False)
+        doc = {"iso3": "KEN", "cells": [{"sub_indicator": "law", "stage": "2", "as_at": "2026-10-09"}]}
+        open(path, "w", encoding="utf-8").write(json.dumps(doc))
+        study_lib.write_stage(path, "KEN", [{"sub_indicator": "law", "stage": "3"}])
+        cell = json.load(open(path, encoding="utf-8"))["cells"][0]
+        check("a rerun keeps the as_at study-update.py log stamped", (cell["stage"], cell.get("as_at")),
+              ("3", "2026-10-09"))
+    bare = [p.name for p in sorted(HERE.glob("study-ladder-*.py"))
+            if '"stage.json"' in p.read_text(encoding="utf-8") and "study_lib.write_stage(" not in p.read_text(encoding="utf-8")]
+    check("every ladder that writes stage.json writes it through study_lib.write_stage", bare, [])
 
     print("\nevidence that cannot be profiled")
     bad = dict(ev("KEN-1", "tiers", "T9", "last year"), date_precision="week", url="")

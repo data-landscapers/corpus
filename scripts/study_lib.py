@@ -287,6 +287,21 @@ def write_csv(path: str, fields: list[str], rows: list[dict]) -> None:
         w.writerows(rows)
 
 
+def write_stage(path: str, iso: str, cells: list[dict]) -> None:
+    """A ladder's `stage.json`. A cell's `as_at` is carried over from the file it replaces:
+    `study-update.py log` stamps it, and a rerun of the ladder is not a reassessment."""
+    try:
+        with open(path, encoding="utf-8") as fh:
+            held = {c.get("sub_indicator"): c.get("as_at") for c in json.load(fh).get("cells", [])}
+    except (OSError, ValueError, AttributeError):
+        held = {}
+    cells = [{**c, "as_at": held[c.get("sub_indicator")]}
+             if held.get(c.get("sub_indicator")) and "as_at" not in c else c for c in cells]
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(json.dumps({"iso3": iso, "cells": cells}, ensure_ascii=False, indent=1) + "\n")
+
+
 def evidence(study_id: str, root: str | None = None) -> dict[str, list[dict]]:
     """iso3 -> the rows of `maturity/{id}/evidence/{ISO3}/evidence.csv`."""
     base = os.path.join(study_dir(study_id, root), "evidence")

@@ -30,7 +30,7 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 **One file**: `outputs/maturity/{id}/{ISO3}.md`. A `# ` heading with the country's name, then one `## ` section per sub-indicator, headed with its label from `study.json`, in the study's order.
 
-**A staged cell takes exactly five paragraphs, one per aspect, in the study's order**, each a single line, each opening with the aspect's `name` from `study.json` in bold followed by a full stop, as `**Tiers in use.**`. Each paragraph carries at least one link. **The five together run 120 to 250 words.** An aspect with nothing held still gets its paragraph: it says what the nearest held fact states, linked, and stops.
+**A staged cell takes one paragraph per aspect, in the study's order**, each a single line, each opening with the aspect's `name` from `study.json` in bold followed by a full stop, as `**Tiers in use.**`. Each paragraph carries at least one link. **Together they run 120 to 250 words, however few the aspects**: two take 60 each. An aspect with nothing held still gets its paragraph: it says what the nearest held fact states, linked, and stops.
 
 - Write what the country has, on that aspect, as the evidence states it. The stage's reasoning is in `stage.json`; use its `gaps` and `note` to choose what matters, and do not quote them.
 - A share of all health facilities is given as that, with its year and who says so.

@@ -55,7 +55,7 @@ AGREE_BAR = 0.8    # 16 of 20
 
 
 def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
-          existing: list[dict]) -> tuple[list[dict], list[dict], list[str]]:
+          existing: list[dict], fixes: list[dict] | None = None) -> tuple[list[dict], list[dict], list[str]]:
     """`(new evidence rows, systems rows, problems)` from one country's facts files.
 
     A drafter writes one JSON file per document read, named for the document's `n` in the
@@ -68,13 +68,24 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     Phase 2 re-read - leaves every cited id standing. A document already merged is skipped,
     **except one listed a second time as `completed`**: an excerpt since held whole is read
     again, and of what that reading states only the facts not already held for the document
-    are added."""
+    are added.
+
+    **A correction outlives the row it removed.** The ladder deletes a row `corrections.csv`
+    removes, so the slug that marked its document merged can go with it. `fixes` is the
+    country's corrections: ids continue past every id one names, so no new row takes a
+    corrected id; and a document not yet held is skipped, and named, where it states what a
+    removed row stated, the same aspect and value."""
     listed = {str(r["n"]): r for r in readlist if r.get("kind") == "raw"}
     held = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"])
             for r in existing}
     sub_class = {s["key"]: s["class"] for s in study["sub_indicators"]}
     done = {r["source_slug"] for r in existing}
-    nxt = max([int(r["row_id"].split("-")[1]) for r in existing] or [0]) + 1
+    named = [f.get("row_id") or f"{f.get('iso3', '')}-{f.get('n', '')}" for f in fixes or []]
+    held_ids = {r["row_id"] for r in existing}
+    gone = {(f.get("aspect", ""), f.get("value", "")) for f, rid in zip(fixes or [], named)
+            if f.get("action") in ("removed", "withdrawn") and rid not in held_ids and f.get("aspect")}
+    ids = [r["row_id"] for r in existing] + [i for i in named if i.startswith(f"{iso}-")]
+    nxt = max([int(i.split("-")[1]) for i in ids if i.split("-")[1].isdigit()] or [0]) + 1
     rows, systems, problems = [], [], []
     for n in sorted(files, key=lambda k: int(k) if k.isdigit() else 0):
         doc, src = files[n], listed.get(n)
@@ -90,6 +101,10 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
                                            for k in study_lib.SYSTEMS_FIELDS[1:-1]},
                             "sources": src["slug"]})
         if src["slug"] in done and src.get("why") != "completed":
+            continue
+        if src["slug"] not in done and any((str(f.get("aspect", "")).strip(), str(f.get("value", "")).strip())
+                                           in gone for f in doc.get("facts") or []):
+            problems.append(f"{iso} facts/{n}.json: skipped, it states what a removed row stated")
             continue
         for f in doc.get("facts") or []:
             sub = f.get("sub_indicator", "")
@@ -185,6 +200,19 @@ def draw(cells: list[tuple[str, str]], n: int, seed: int) -> list[tuple[str, str
     return sorted(random.Random(seed).sample(cells, min(n, len(cells))))
 
 
+def write_changed(path: str, fields: list[str], rows: list[dict]) -> bool:
+    """Write a CSV only where its rows differ from the file's, so a country nothing touched
+    keeps its bytes. True if written."""
+    want = [{k: "" if r.get(k) is None else str(r[k]) for k in fields} for r in rows]
+    if os.path.exists(path):
+        with open(path, encoding="utf-8-sig", newline="") as fh:
+            head = fh.readline()
+        if head.strip().split(",") == fields and study_lib.read_csv(path) == want:
+            return False
+    study_lib.write_csv(path, fields, rows)
+    return True
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Profiles from evidence; the agreement draw.")
     ap.add_argument("study")
@@ -242,6 +270,7 @@ def main(argv=None) -> int:
         wpath = os.path.join(study_lib.study_dir(a.study), "withdrawn.csv")
         withdrawn = ({(r["iso3"], r["source_slug"]) for r in study_lib.read_csv(wpath)}
                      if os.path.exists(wpath) else set())
+        fixes = study_lib.read_csv(os.path.join(study_lib.study_dir(a.study), "corrections.csv"))
         for iso in sorted(os.listdir(base)):
             facts_dir = os.path.join(base, iso, "facts")
             if not os.path.isdir(facts_dir):
@@ -257,16 +286,17 @@ def main(argv=None) -> int:
                     problems.append(f"{iso} facts/{name}: not readable JSON ({e})")
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
             new, systems, more = merge(study, iso, study_lib.read_csv(
-                os.path.join(base, iso, "readlist.csv")), files, existing)
+                os.path.join(base, iso, "readlist.csv")), files, existing,
+                [f for f in fixes if f.get("iso3") == iso or f.get("row_id", "").startswith(f"{iso}-")])
             # A document every fact of which the ladder test removed has no row left to mark
             # it merged, and a later merge would bring its facts back: `withdrawn.csv` holds it.
             new = [r for r in new if (iso, r["source_slug"]) not in withdrawn]
             for p in problems + more:
                 print(f"study-profile: note - {p}")
-            study_lib.write_csv(os.path.join(base, iso, "evidence.csv"),
-                                study_lib.EVIDENCE_FIELDS, existing + new)
-            study_lib.write_csv(os.path.join(base, iso, "systems.csv"),
-                                study_lib.SYSTEMS_FIELDS, systems)
+            if new:
+                study_lib.write_csv(os.path.join(base, iso, "evidence.csv"),
+                                    study_lib.EVIDENCE_FIELDS, existing + new)
+            write_changed(os.path.join(base, iso, "systems.csv"), study_lib.SYSTEMS_FIELDS, systems)
             print(f"  {iso}  merged {len(files):3d} documents: {len(new):3d} new facts, "
                   f"{len(systems):3d} systems")
     for iso, rows in study_lib.evidence(a.study).items():
@@ -277,7 +307,7 @@ def main(argv=None) -> int:
                 print(f"study-profile: FAIL - {p}")
             continue
         out = profile(study, iso, rows, as_at)
-        study_lib.write_csv(os.path.join(base, iso, "profile.csv"), study_lib.PROFILE_FIELDS, out)
+        write_changed(os.path.join(base, iso, "profile.csv"), study_lib.PROFILE_FIELDS, out)
         print(f"  {iso}  {len(rows):3d} facts  {sum(1 for r in out if r['gap']):2d} gaps")
     print(f"study-profile: {a.study} as at {as_at.isoformat()} - "
           + (f"{bad} country file(s) invalid and not profiled." if bad else "profiles written."))

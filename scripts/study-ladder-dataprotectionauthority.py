@@ -32,7 +32,6 @@ from __future__ import annotations
 import argparse
 import calendar
 import datetime as dt
-import json
 import os
 import sys
 
@@ -159,14 +158,11 @@ def main(argv=None) -> int:
         if a.dry:
             continue
         os.makedirs(os.path.join(base, iso), exist_ok=True)
-        with open(os.path.join(base, iso, "stage.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({"iso3": iso, "cells": [{
-                "sub_indicator": "body", "stage": cell["stage"], "standing": cell["standing"],
-                "rulings": cell["rulings"], "cap": "", "flags": "",
-                "stage_sources": ";".join(cell["sources"]), "gaps": gaps,
-                "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."}]},
-                fh, ensure_ascii=False, indent=1)
-            fh.write("\n")
+        study_lib.write_stage(os.path.join(base, iso, "stage.json"), iso, [{
+            "sub_indicator": "body", "stage": cell["stage"], "standing": cell["standing"],
+            "rulings": cell["rulings"], "cap": "", "flags": "",
+            "stage_sources": ";".join(cell["sources"]), "gaps": gaps,
+            "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."}])
     if not a.dry:
         study_lib.write_csv(os.path.join(study_lib.study_dir(STUDY), "ladder-test.csv"),
                             ["iso3", "stage", "standing", "rulings", "stage_sources"], test)
