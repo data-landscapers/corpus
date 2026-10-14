@@ -1,0 +1,172 @@
+{
+ "id": "cybersecurity",
+ "study_file": "maturity-study-cybersecurity.md",
+ "subjects": [
+  "infra.cybersec"
+ ],
+ "stage_topic": "infra.cybersec",
+ "redraws": [
+  "infra.cybersec--national-cybersecurity-readiness"
+ ],
+ "carry": [
+  "infra.cybersec--national-cybersecurity-readiness"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 55000000,
+ "terms": [
+  "CERT",
+  "CERTs",
+  "CSIRT",
+  "CSIRTs",
+  "CIRT",
+  "SOMCIRT",
+  "maCERT",
+  "ngCERT",
+  "mwCERT",
+  "tunCERT",
+  "bjCSIRT",
+  "computer emergency response team",
+  "computer emergency response centre",
+  "computer incident response team",
+  "computer security incident response team",
+  "cyber incident response team",
+  "national incident response team",
+  "cybersecurity agency",
+  "cyber security agency",
+  "cybersecurity authority",
+  "cyber security authority",
+  "national cybersecurity centre",
+  "national cyber security centre",
+  "national cybersecurity center",
+  "national cyber security center",
+  "national cybersecurity council",
+  "national cyber security council",
+  "national cybersecurity committee",
+  "national cyber security committee",
+  "cybersecurity hub",
+  "cyber security hub",
+  "national cybersecurity strategy",
+  "national cyber security strategy",
+  "national cybersecurity policy",
+  "national cyber security policy",
+  "cybersecurity strategy",
+  "cyber security strategy",
+  "critical information infrastructure",
+  "critical national information infrastructure",
+  "critical information infrastructures",
+  "CNII",
+  "national cyber drill",
+  "cyber drill",
+  "Information Network Security Administration",
+  "INSA",
+  "DGSSI",
+  "ANSSI",
+  "ANCS",
+  "ANCIC",
+  "ANSICE",
+  "agence nationale de la securite informatique",
+  "agence de la securite des systemes d'information",
+  "agence nationale de la cybersecurite",
+  "agence nationale de cybersecurite",
+  "agence nationale de la securite des systemes d'information",
+  "agence nationale de securite des systemes d'information",
+  "direction nationale de la cybersecurite",
+  "centre national de cybersecurite",
+  "conseil national de cybersecurite",
+  "conseil national de la cybersecurite",
+  "strategie nationale de cybersecurite",
+  "strategie nationale de la cybersecurite",
+  "politique nationale de cybersecurite",
+  "centre de reponse aux incidents",
+  "equipe de reponse aux incidents",
+  "infrastructures critiques d'information",
+  "infrastructures d'information critiques",
+  "infrastructures critiques",
+  "estrategia nacional de ciberseguranca",
+  "estrategia nacional de seguranca cibernetica",
+  "politica nacional de ciberseguranca",
+  "centro nacional de ciberseguranca",
+  "agencia nacional de ciberseguranca",
+  "conselho nacional de ciberseguranca",
+  "resposta a incidentes",
+  "infraestruturas criticas",
+  "estrategia nacional de ciberseguridad",
+  "agencia nacional de ciberseguridad",
+  "الاستراتيجية الوطنية للأمن السيبراني",
+  "الوكالة الوطنية للأمن السيبراني",
+  "المركز الوطني للأمن السيبراني",
+  "فريق الاستجابة لطوارئ الحاسب",
+  "فريق الاستجابة للحوادث"
+ ],
+ "sub_indicators": [
+  {
+   "key": "readiness",
+   "label": "National cyber response",
+   "subject": "infra.cybersec",
+   "text": "National cybersecurity readiness: national cyber response",
+   "indicator_id": "infra.cybersec--national-cybersecurity-readiness-national-cyber-response",
+   "class": "response",
+   "norm_short": "The Malabo Convention, chapter III, asks each party for a national cybersecurity policy and strategy (Art. 24) and a body that governs cybersecurity (Art. 27). It sets no test of whether the body works."
+  }
+ ],
+ "classes": [
+  "response",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "foundation",
+   "name": "A strategy or a national body",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "body",
+    "strategy"
+   ],
+   "values": [
+    "body",
+    "strategy",
+    "none"
+   ]
+  },
+  {
+   "key": "response",
+   "name": "Responding to incidents",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "responded"
+   ],
+   "values": [
+    "responded"
+   ]
+  },
+  {
+   "key": "cii",
+   "name": "Critical infrastructure",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "designated"
+   ],
+   "values": [
+    "designated"
+   ]
+  },
+  {
+   "key": "figures",
+   "name": "Published figures",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}
