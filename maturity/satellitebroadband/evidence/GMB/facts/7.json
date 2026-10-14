@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-26-satellite-internet-debate-connectivity-strategy-thepoint",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Opinion on satellite strategy; no dated statement of licence, sale or ban in GMB."
+}

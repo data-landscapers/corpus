@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-05-techafricanews-sonatel-99-satellite",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Sonatel Orange launched Senegal's first satellite internet offers with Eutelsat/Konnect, unlimited service for households and professionals, immediately available; article dated 5 Jan 2026, which is used as the launch date.",
+      "as_of": "2026-01-05",
+      "date_precision": "day",
+      "system": "Konnect",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eutelsat Konnect",
+      "country_label": "Orange satellite internet offer",
+      "class": "satellite",
+      "platform": "Eutelsat Konnect",
+      "owner": "Sonatel Orange (retail), Eutelsat (network)",
+      "tiers": "households; professionals"
+    }
+  ],
+  "note": ""
+}

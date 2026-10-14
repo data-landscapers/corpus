@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-30-theofelus-starlink-ownership-exemption-under-review-namibiansun",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ICT Minister Emma Theofelus said Starlink's bid for an ownership exemption in its Namibian operations was under review, so Starlink was not licensed; the article is paywalled and gives no date beyond its publication date of 2025-06-30.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

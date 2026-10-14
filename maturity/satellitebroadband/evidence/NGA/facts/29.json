@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Nigerian Communications Commission issued Starlink ISP and international gateway licences in May 2022.",
+   "as_of": "2022-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Nigeria became Africa's first Starlink country in February 2023; the article says it had 59,509 Starlink subscriptions by Q1 2025 (source not named), with Lagos and Abuja demand exceeding capacity.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

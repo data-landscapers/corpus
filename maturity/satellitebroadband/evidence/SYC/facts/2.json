@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-22-statehouse-seychelles-starlink-soft-launch",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "State House reports SCRA representatives said Starlink has been authorised to operate in Seychelles under the national regulatory framework, as outlined at the soft-launch press conference.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "State House reports the soft launch of Starlink on 21 July 2026: households and businesses can subscribe and order kits through Starlink's online platform, and some people already use kits; a formal launch is to follow.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

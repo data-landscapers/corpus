@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-07-wearetech-benin-explores-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "We Are Tech Africa states that Starlink (SpaceX) launched commercial operations in Benin at the end of 2023; talks with government on a partnership were preliminary and no agreement was signed.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

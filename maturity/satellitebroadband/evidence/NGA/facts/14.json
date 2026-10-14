@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-26 Africa risks losing billions to satellite internet operators, report says",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink had around 66,000 users in Nigeria, per the Africa CEO Forum/Askya report as relayed by TechCabal; date taken as the cited December 2025 article.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "retail"
+    }
+  ],
+  "note": "Other facts concern other countries."
+}

@@ -1,0 +1,9 @@
+{"slug":"2026-04-24-mtn-eutelsat-broadband-partnership-itweb","facts":[
+{"sub_indicator":"satellite","aspect":"service","value":"licensed","fact":"Starlink was approved by Côte d'Ivoire's national regulator in September 2025 (as stated in an ITWeb Africa article of 24 April 2026).","as_of":"2025-09","date_precision":"month","system":"Starlink","class":"satellite"},
+{"sub_indicator":"satellite","aspect":"service","value":"sale","fact":"Orange Côte d'Ivoire launched its Orange Sat satellite service earlier in 2026 through a partnership with Eutelsat; the article gives no more precise date.","as_of":"2026","date_precision":"year","system":"Eutelsat","class":"satellite"}
+],"systems":[
+{"system":"Starlink","country_label":"Starlink","class":"satellite","platform":"LEO","owner":"SpaceX","tiers":""},
+{"system":"Eutelsat Konnect","country_label":"Konnect","class":"satellite","platform":"GEO at 7° East","owner":"Eutelsat","tiers":"consumer and enterprise via MTN Côte d'Ivoire (multi-year agreement signed, rollout described as planned)"},
+{"system":"Orange Sat","country_label":"Orange Sat","class":"satellite","platform":"Eutelsat","owner":"Orange Côte d'Ivoire","tiers":""},
+{"system":"OneWeb","country_label":"OneWeb","class":"other","platform":"LEO","owner":"Eutelsat","tiers":"2024 Bayobab (MTN) partnership; no CIV retail sale stated"}
+],"note":"MTN-Eutelsat Konnect deal is a signed agreement to deploy, not stated as on sale, so no fact for it."}

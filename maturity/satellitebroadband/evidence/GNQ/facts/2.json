@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-equatorial-guinea-starlink-launch",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Vice-president Nguema Obiang Mangue announced on 2026-09-09 that Equatorial Guinea officially launched Starlink satellite internet, operated by SpaceX, with sale and distribution centralised and requests handled by ORTEL; earlier connections made with foreign details are to be deactivated.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

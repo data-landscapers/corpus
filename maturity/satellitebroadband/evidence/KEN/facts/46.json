@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-16 Who Owns Africa's Sky",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is sold in Kenya and reached 22,282 subscribers by December 2025, its highest since launch, ranking eighth among Kenyan ISPs (figure unattributed to a regulator in the article).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Amazon filed for an operating licence in Kenya for Project Kuiper in April 2026; the application was pending, so Kuiper was not licensed.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Kuiper",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Africa / SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

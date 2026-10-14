@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-07-tchadinfos-finances-appuie-conseils-provinciaux-materiels-bureautiques",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink kit",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "Ministry of Finance (donor)",
+      "tiers": "23 provincial councils"
+    }
+  ],
+  "note": "Starlink kits given to government provincial councils for SIGFiP: government-site use, no fact."
+}

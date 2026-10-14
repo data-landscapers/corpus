@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-23-caf-starlink-service-launch",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "licensed",
+      "value": "licensed",
+      "fact": "Space in Africa, citing the Ministry of Digital Economy, reports Starlink and the CAF government signed an agreement at a ceremony hosted by the President (article dated 2025-12-23) under which Starlink's network is to be made commercially available in CAF for the first time; the document calls it an agreement, not a licence; pricing not yet disclosed.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Agreement is described as enabling future commercial availability; no sale stated as having begun."
+}

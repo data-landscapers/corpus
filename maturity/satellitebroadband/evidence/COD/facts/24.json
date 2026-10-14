@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "other",
+      "platform": "",
+      "owner": "Paratus",
+      "tiers": ""
+    }
+  ],
+  "note": "Starlink launch and LEO Layer 2 service stated for Uganda and East Africa, nothing satellite for COD; Goma-Mombasa fibre only."
+}

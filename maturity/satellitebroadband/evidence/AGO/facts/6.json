@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Agence Ecofin reports Angola is among 16 countries where Starlink's availability map shows 'Starting in 2026', meaning coverage or regulatory authorisation pending; no launch date given, so Starlink is not on sale in Angola (as_of is the article date).",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

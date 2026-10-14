@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-13-nca-grants-starlink-license",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The National Communications Authority of Somalia granted Starlink an operational licence to launch services in Somalia, announced at a Mogadishu ceremony on 13 April 2025.",
+   "as_of": "2025-04-13",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

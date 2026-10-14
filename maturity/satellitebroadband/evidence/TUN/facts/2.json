@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-16-tunisia-starlink-precommandes-licence-thd",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "THD states that Starlink has not obtained a commercialisation licence in Tunisia, its process reportedly paused after a feasibility study, though it takes 9 dollar pre-order deposits online.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "THD reports, citing sources, that Tunisie Telecom, Ooredoo Tunisie and Orange Tunisie, as fixed-licence holders, may sell LEO satellite solutions without an additional licence, subject to an authority condition (local ground station or local IP point of presence); no sale is reported.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "LEO satellite (unnamed)",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

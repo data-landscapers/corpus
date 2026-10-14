@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15 Starlink drives African broadband speeds higher",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ITWeb, citing Ookla, reports Starlink users in Botswana recording median download speeds of about 75 Mbps or more, with Botswana one of three countries above 100 Mbps in Q1 2026, among 23 of the 27 African countries where Starlink is licensed; Starlink is in service in Botswana.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

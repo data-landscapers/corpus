@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-19-starlink-license-chad-launch-niger",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Chad's Ministry of Telecommunications confirmed Starlink's operating licence, approved in November 2024, with services to follow; as of this article Chad services were not yet on sale.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

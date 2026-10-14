@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Direct-to-cell satellite test",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Pan-African feature; names Uganda only as having tested direct-to-cell (class other); no satellite broadband fact for UGA."
+}

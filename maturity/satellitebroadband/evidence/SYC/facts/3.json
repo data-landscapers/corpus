@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-starlink-live-cote-divoire-seychelles",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Connecting Africa reports Starlink confirmed service available in Seychelles on 20 July 2026 and the country shows as available on its map; residential plan SCR1,077 a month, residential lite SCR769, standard kit SCR6,725, Mini kit SCR5,322; the Vice President said an official launch would follow.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

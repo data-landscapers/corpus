@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink direct-to-device",
+   "country_label": "Starlink direct-to-device",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only ZMB content is an MTN Starlink direct-to-device trial from 7 March 2026 (direct-to-cell, not a fact)."
+}

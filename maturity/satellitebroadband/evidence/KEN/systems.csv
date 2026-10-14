@@ -1,0 +1,52 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,Starlink,Starlink Internet Services Kenya,satellite,,SpaceX (Starlink Internet Services Kenya),,2026-09-19-ken-techtrendske-fixed-broadband-growth
+KEN,Starlink,Starlink Internet Services Kenya,satellite,,SpaceX (Starlink Internet Services Kenya),,2026-08-20-tan-satellite-internet-layer-africa
+KEN,Amazon Kuiper / Leo,Amazon Kuiper Kenya Limited,satellite,,Amazon,,2026-08-20-tan-satellite-internet-layer-africa
+KEN,Starlink direct-to-cell,Airtel Kenya SpaceX Direct-to-Cell,other,,Airtel Kenya / SpaceX,,2026-08-04-airtel-kenya-spacex-direct-to-cell-approval
+KEN,Starlink,Starlink Internet Services Kenya,satellite,,SpaceX (Starlink Internet Services Kenya),,2026-07-08-starlink-kenya-seven-counties-techweez
+KEN,Starlink,Starlink Internet Services Kenya,satellite,,SpaceX (Starlink Internet Services Kenya),,2026-06-19-kenya-starlink-25000-subscribers
+KEN,Amazon Kuiper,Amazon Project Kuiper,satellite,,Amazon,,2026-06-19-kenya-starlink-25000-subscribers
+KEN,Starlink,Starlink,satellite,LEO constellation,SpaceX,households; businesses,2025-09-22-starlink-kenya-359-new-customers-ca-q4
+KEN,Starlink,Starlink,satellite,LEO constellation,SpaceX,,2026-09-13-ken-linkedin-beck-starlink-icolo-mombasa
+KEN,Starlink,Starlink,satellite,LEO constellation,SpaceX,households; businesses,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+KEN,Amazon Leo (Kuiper),,other,LEO,Amazon,licence applied for in Kenya; first African ground station being built,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+KEN,Starlink Direct-to-Cell,,other,,SpaceX with Airtel,mobile subscribers; approval sought,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+KEN,Starlink,Starlink,satellite,LEO constellation,SpaceX,households; businesses,2026-07-22-starlink-26-african-markets-report
+KEN,Starlink Direct-to-Cell,,other,,SpaceX with Airtel Africa,,2026-07-22-starlink-26-african-markets-report
+KEN,Starlink,Starlink,satellite,LEO constellation,SpaceX,households; businesses,2026-07-07-starlink-kenya-halts-signups-seven-counties
+KEN,Starlink,Starlink Internet Services Kenya,satellite,LEO,SpaceX,"households, businesses",2026-06-26-kenya-safaricom-fixed-share-starlink-top-ten
+KEN,Starlink,Starlink Internet Services Kenya,satellite,LEO,SpaceX,"households, businesses",2026-06-24-safaricom-broadband-leadership-starlink-telecomreviewafrica
+KEN,Starlink,Starlink Internet Services Kenya,satellite,LEO,SpaceX,"households, businesses",2026-06-18-starlink-kenya-performance-worsens-ookla
+KEN,Starlink,Starlink Internet Services Kenya,satellite,LEO,SpaceX,"households, businesses",2026-06-18-starlink-kenya-speeds-plunge-dawan
+KEN,Amazon Kuiper,Project Kuiper,other,,Amazon,"ground station selected in Kenya, no service stated",2026-06-18-starlink-kenya-speeds-plunge-dawan
+KEN,Starlink,Starlink Internet Services Kenya,satellite,LEO,SpaceX,"households, businesses",2026-06-10-kenya-starlink-30-schools-growx-cemastea
+KEN,Starlink,Starlink,other,,Grow X Education / CEMASTEA (deployment),29 schools in 28 counties,2026-06-10-kenya-starlink-schools-study
+KEN,Paratus Essential Access (Starlink),Paratus Essential Access,other,Starlink,Paratus Kenya,"Murang'a County: 170 public health facilities, 302 more planned by end 2026",2026-05-29-ken-muranga-paratus-starlink-health
+KEN,Starlink (via Paratus Kenya),Starlink (via Paratus Kenya),other,,Paratus Kenya,"Murang'a County, 170 public health facilities",2026-05-29-muranga-starlink-health-facilities-launch
+KEN,Starlink (via Paratus),Starlink (via Paratus),other,,Paratus,"Murang'a County, 170 public health facilities",2026-05-28-muranga-starlink-health-facilities-announcement
+KEN,Starlink Direct-to-Cell,Starlink Direct-to-Cell,other,Starlink LEO,Airtel Kenya,,2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech
+KEN,Starlink,Starlink,satellite,LEO,SpaceX,,2026-02-27-ken-mawingu-microsoft-starlink
+KEN,Mawingu-Starlink community hubs,Mawingu-Starlink community hubs,other,Starlink,Mawingu Networks,"schools, cooperatives, community hubs",2026-02-27-ken-mawingu-microsoft-starlink
+KEN,Spacecoin,Spacecoin,other,blockchain-integrated satellite network,Spacecoin,,2026-01-13 Spacecoin strikes major deals to launch satellite internet
+KEN,Starlink Direct-to-Cell,Starlink Direct-to-Cell,other,Starlink LEO,Airtel Africa,,2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally
+KEN,Starlink backhaul,Starlink backhaul,other,Starlink LEO,Vodacom,,2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally
+KEN,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,"households, businesses",2024-08-23-kenya-safaricom-satellite-isp-block
+KEN,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,"households, businesses",2026-07-23-starlink-capacity-limits-11-african-markets
+KEN,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,"households, businesses",2026-07-17-starlink-launches-27th-african-country-ivory-coast
+KEN,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,"households, businesses",2026-07-13-starlink-network-pressures-telcos-businessday
+KEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
+KEN,"Paratus EduLink (Starlink reseller, schools)",EduLink,other,Starlink,Paratus,schools,2026-06-27-starlink-rural-africa-impact-techtrends
+KEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-26-africa-telcos-starlink-playbook-techcabal
+KEN,Airtel Africa-SpaceX direct-to-cell,,other,Starlink,Airtel Africa,,2026-06-26-africa-telcos-starlink-playbook-techcabal
+KEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-24-namibia-shuts-door-starlink-twice-cioafrica
+KEN,Starlink,Starlink,satellite,,SpaceX,,2026-06-17-nigeria-starlink-premium-customers-tax-businessday
+KEN,Airtel Africa-SpaceX direct-to-cell,,other,Starlink,Airtel Africa,,2026-06-17-nigeria-starlink-premium-customers-tax-businessday
+KEN,Safaricom and ESD Kenya satellite partnership,Safaricom and ESD Kenya satellite partnership,other,,Safaricom,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
+KEN,Starlink with Airtel Africa partnership,Starlink with Airtel Africa partnership,other,,Airtel Africa,,2025-07-29-starlink-global-outage-africa-kasi-insight
+KEN,Starlink Mobile direct-to-device,,other,,SpaceX,,2026-10-08-ken-the-star-spacex-fcc-15000-d2d-satellites
+KEN,Paratus Layer 2 over LEO satellite,,other,,Paratus,,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
+KEN,Starlink Direct-to-Cell,,other,,SpaceX / Airtel Kenya,,2026-08-04-airtel-kenya-starlink-direct-to-cell-approval
+KEN,Starlink Direct-to-Cell,,other,,Airtel Africa / SpaceX,,2026-06-16 Who Owns Africa's Sky
+KEN,Starlink,,satellite,,Paratus Group (installer and service provider),"Murang'a county government, 170 public health facilities",2026-05-30-ken-muranga-starlink-telemedicine
+KEN,OneWeb,,other,,Eutelsat/Bayobab,,2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica
+KEN,AST SpaceMobile Bluewalker,,other,,Safaricom,direct-to-device test,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo

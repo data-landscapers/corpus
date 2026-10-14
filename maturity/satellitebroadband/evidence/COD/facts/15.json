@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-05-drc-starlink-feu-vert-aitn",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "In March 2024 the regulator ARPTC banned the use of Starlink in COD over security concerns about armed groups.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "On 2 May 2025 the regulator ARPTC announced a licence for Starlink DRC S.A., a locally registered entity, lifting the earlier ban and authorising imminent deployment.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink DRC S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

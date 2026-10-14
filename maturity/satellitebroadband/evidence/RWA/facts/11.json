@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink (Uganda launch)",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Paratus (reseller)",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite items concern Uganda and a regional Layer 2 service; Rwanda appears only as a fibre waypoint; nothing stated about satellite broadband in RWA."
+}

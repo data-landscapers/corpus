@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-29-icasa-starlink-investigation",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ICASA says Starlink (SpaceX) may be offering service without the requisite authorisation, has opened a formal investigation, deployed inspection teams and awaits SpaceX's response; no authorisation is stated.",
+   "as_of": "2025-05-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

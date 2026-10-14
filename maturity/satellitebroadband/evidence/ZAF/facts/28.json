@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-24-namibia-rejects-starlink-techcentral",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink has failed to secure a licence in South Africa because of the 30% historically-disadvantaged equity rule; SpaceX has yet to formally apply for one, per Reuters/TechCentral.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Icasa has cracked down on South Africans using Starlink via grey-market imports and roaming, with inspection teams and warnings against buying unauthorised equipment.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "Reuters/TechCentral version of the Namibia story."
+}

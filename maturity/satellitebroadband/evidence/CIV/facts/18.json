@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-14-civ-yessouan-artci-starlink-decision",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI decision no. 2025-1301 of 25 September 2025 authorised Starlink Network CIV to operate a nationwide low-earth-orbit satellite network for fixed internet access, confirming its provisional authorisation.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Ministry of Digital Transformation granted Starlink Network CIV a provisional authorisation by arrete no. 018 of 15 July 2025.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Network CIV",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Network CIV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

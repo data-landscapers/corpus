@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-18-starlink-battles-africa-regulators-semafor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Semafor reports Sierra Leone granted Starlink a licence about a year before its June 2024 launch, i.e. in 2023 (exact date not given).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Semafor reports Sierra Leone became the 10th African country to launch the Starlink service in June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

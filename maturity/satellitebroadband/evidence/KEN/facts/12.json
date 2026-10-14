@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-24-safaricom-broadband-leadership-starlink-telecomreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 24,999 at 2026-03, per Communications Authority of Kenya (Starlink, 0.9% share); satellite grew 11.4% in the quarter.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Internet Services Kenya ended Q1 2026 with 24,999 subscriptions and ranked in the top 10 fixed providers for the first time.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  }
+ ],
+ "note": ""
+}

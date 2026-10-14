@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-22-namibia-cran-dismisses-starlink-appeals-sia",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN confirmed dismissal of the reconsideration requests against its March 2026 refusal of Starlink's spectrum and telecommunications licences, and dismissed Starlink's own late reconsideration application; Starlink is not licensed in Namibia.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN ordered Starlink to halt its satellite internet operations in Namibia for lack of a telecommunications licence, warned consumers against buying Starlink equipment and reported confiscating unauthorised terminals.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

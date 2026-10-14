@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-05-uganda-starlink-shutdown-devtelecoms",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink shut down access to its service in Uganda on UCC instructions; a 1 January 2026 Starlink letter to UCC says the company is not authorised to operate in Uganda because its local entity has not been granted a licence, and terminals in use had been activated through neighbouring countries.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

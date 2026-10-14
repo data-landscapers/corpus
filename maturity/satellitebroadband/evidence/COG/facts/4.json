@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Congo-Brazzaville only listed as scheduled for 2026; no licence status stated."
+}

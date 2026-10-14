@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The government published an order on 27 August 2025 setting conditions for Starlink's authorised operation in Chad, with user identification, 24-month log retention, and sanctions up to 12 months' suspension or withdrawal of the authorisation.",
+   "as_of": "2025-08-27",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

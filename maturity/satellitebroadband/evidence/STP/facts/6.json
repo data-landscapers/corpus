@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-15 Starlink drives African broadband speeds higher",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Sao Tome and Principe in late 2025 (per ITWeb Africa citing Ookla); STP was excluded from the Ookla speed study.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

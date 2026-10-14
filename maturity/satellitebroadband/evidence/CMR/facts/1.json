@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-27-cameroon-starlink-licensing-stalls-sovereignty",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink has no official authorisation in Cameroon; its licence application has sat unresolved for over two years, and the regulator ART declined comment, saying the file is with the ministry MINPOSTEL (NewsWatch, 27 July 2026).",
+      "as_of": "2026-07-27",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "In 2024 the government banned Starlink and a Customs circular of 15 April 2024 ordered seizure of Starlink terminal kits at the borders as escaping ART oversight; the article says the circular remains operative.",
+      "as_of": "2024-04-15",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink Cameroun SARL",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

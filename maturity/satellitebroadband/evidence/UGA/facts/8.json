@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus said Starlink services had recently launched in Uganda, adding satellite connectivity for businesses where fixed infrastructure is limited, per TechTrendsKE (article date used, no launch date given).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus Layer 2 over LEO satellite",
+   "country_label": "Paratus Layer 2 over LEO satellite",
+   "class": "other",
+   "platform": "LEO satellite",
+   "owner": "Paratus Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Layer 2 LEO service is for East Africa generally, not stated for Uganda."
+}

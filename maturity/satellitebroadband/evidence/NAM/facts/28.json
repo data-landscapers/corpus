@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-28-namibia-starlink-cease-order-reuters",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN said it issued Starlink a cease-and-desist order for operating without a licence; Starlink's licence application was under review and no licence issued (article dated 28 November 2024).",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

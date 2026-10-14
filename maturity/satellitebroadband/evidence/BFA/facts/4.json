@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Le360 lists Burkina Faso among markets shown by Starlink as available from 2026 with no licence granted; ARCEP recalled in March 2024 that Starlink held no authorisation, and unofficial use via roaming is reported.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation (SpaceX)",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

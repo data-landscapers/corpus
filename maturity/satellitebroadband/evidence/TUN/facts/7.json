@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Tunisia is listed among about 34 countries, with South Africa, Egypt, Iraq, Morocco and Algeria, where Starlink sits in regulatory limbo, neither approved nor explicitly banned, per CIO Africa (article date used, no other date given).",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

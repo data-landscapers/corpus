@@ -1,0 +1,46 @@
+{
+  "slug": "2026-07-07-starlink-kenya-halts-signups-seven-counties",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink launched commercial operations in Kenya in July 2023 as the first LEO satellite broadband provider; households and businesses buy kit (rental Sh1,950 a month) and packages such as 50 GB for Sh1,300.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 24,999 at 2026-03, per the Communications Authority of Kenya, 0.9% of the fixed internet market; Business Daily also cites 8,063 in June 2024.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink suspended new sign-ups in Nairobi, Kiambu, Mombasa, Machakos, Murang'a, Kirinyaga and Kwale counties as capacity was exhausted, redirecting buyers to a waitlist, seen on 2026-07-07; a provider suspension, not a regulator ban.",
+      "as_of": "2026-07-07",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "households; businesses"
+    }
+  ],
+  "note": ""
+}

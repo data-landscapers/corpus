@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-26-starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Radiocom Communications & Computers, an authorised Starlink reseller, sells Starlink equipment and Residential and Priority plans to customers in Kinshasa and elsewhere in DRC; its 16 July 2026 advisory says Kinshasa capacity on the Residential plan is exhausted for four to six months.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Radiocom Communications & Computers (reseller)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

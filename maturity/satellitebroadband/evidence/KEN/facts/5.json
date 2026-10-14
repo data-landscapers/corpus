@@ -1,0 +1,54 @@
+{
+ "slug": "2026-06-19-kenya-starlink-25000-subscribers",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 25,088 satellite internet subscriptions at 2026-03-31, per the Communications Authority of Kenya Q3 FY2025/26 report (+11.4% on the previous quarter, which had 22,282 Starlink users); Starlink Internet Services Kenya held 24,999.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Internet Services Kenya sells satellite broadband in Kenya with 24,999 active subscribers, 0.9% of fixed market share, per the CA; a 100Mbps residential plan has been introduced.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Amazon (Project Kuiper) has applied for a satellite internet licence in Kenya; none is stated as granted.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Amazon Kuiper",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX (Starlink Internet Services Kenya)",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Kuiper",
+   "country_label": "Amazon Project Kuiper",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

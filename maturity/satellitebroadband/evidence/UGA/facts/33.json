@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-20-uga-observer-starlink-strict-conditions",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "UCC and Starlink signed an MoU and operational licence agreement at State House Entebbe, witnessed by the President, clearing Starlink to operate in Uganda; conditions include a national gateway, local presence and staff, and registration of all devices activated in Uganda. Dated by the article's publication week (signing on a Thursday).",
+      "as_of": "2026-05",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

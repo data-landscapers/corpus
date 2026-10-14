@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-07-starlink-kenya-struggling-subscriber-loss",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is on sale in Kenya; per the Communications Authority's Q1 2025 report it lost over 2,000 subscribers, more than 10% of its base, in the quarter.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink briefly suspended new urban signups in Kenya, notably Nairobi, in late 2024 because of congestion; signups restarted in June 2025.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "No absolute regulator subscriber count given, so no counted fact."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-14 Amazon's $9bn satellite deal set to benefit Africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The article states Starlink has active services in Kenya among other African countries.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

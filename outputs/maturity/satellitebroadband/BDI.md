@@ -1,0 +1,11 @@
+# Burundi
+
+## Satellite broadband licensed and on sale
+
+**Licensed, on sale, and from more than one network.** [MyBroadband's table of Starlink status in African countries lists Burundi as 'Available' on 17 July 2026 (article date, no other date given)](<https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html>). [TechMag lists Burundi among the African markets where Starlink is 'Active Now' as of mid-2026 (article date, no other date given)](<https://technomag.co.zw/starlinks-african-expansion-availability-costs-and-performance/>). [No regulator or licence date is named for Burundi](<https://afrique.le360.ma/economie/internet-haut-debit-en-seulement-4-ans-starlink-operationnel-dans-un-pays-africain-sur-deux_UYXWC5RPWNGGFIYLU5VHL6L7ZU/>). [Connecting Africa reports that Starlink launched services in Burundi in September 2024; a commentator says it is too expensive for many citizens, with equipment above $500](<https://www.connectingafrica.com/connectivity/unreliable-connectivity-impacts-burundi-s-citizens>). [Connecting Africa reports that Starlink received a licence in Burundi in May 2024](<https://www.connectingafrica.com/connectivity/unreliable-connectivity-impacts-burundi-s-citizens>). These place satellite broadband licensed and on sale, which answers the first two of the study's four questions. Services on a second satellite network are not stated. Prices and speeds are given where a source states them; they set no stage.
+
+**Subscribers counted by the regulator.** Nothing held gives a regulator's count of the subscribers to [the service](<https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
+
+***Noted, not assessed***. [Starlink](<https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout>).
+
+***Not held***. No source held says services on two different satellite networks are on sale.

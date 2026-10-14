@@ -1,0 +1,11 @@
+# Zimbabwe
+
+## Satellite broadband licensed and on sale
+
+**Licensed, on sale, and from more than one network.** [Starlink Business Priority packages are officially available in Harare and Bulawayo, bought directly or through local resellers such as TelOne and Aura; roaming costs about US$100 a month (Zimpricecheck, 10 Sep 2026](<https://zimpricecheck.com/analysis-and-opinion/starlink-effectively-kills-roaming-in-zimbabwe-with-its-new-passport-rule/>). [ICT Minister Mavetera cited the licensing of Starlink to extend satellite internet to underserved communities, rural villages, farms and mining areas; the licence date is not given, so dated by the report (2026-07-17)](<https://techafricanews.com/2026/07/17/zimbabwe-unveils-digital-roadmap-to-accelerate-msme-growth/>). These place satellite broadband licensed and on sale, which answers the first two of the study's four questions. Services on a second satellite network are not stated. Prices and speeds are given where a source states them; they set no stage.
+
+**Subscribers counted by the regulator.** [Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, VSAT subscriptions (the category in which Starlink is classified), up from 50,949 in Q3 2025](<https://spaceinafrica.com/2026/05/06/starlink-drives-zimbabwes-vsat-subscriptions-to-a-record-67057/>). [Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, in the VSAT category that includes Starlink; up from 30,907 in Q1 2025](<https://www.newsday.co.zw/theindependent/business-digest/article/200055625/over-50-of-zims-fixed-broadband-now-wireless>). [Subscribers: 23,410 at 2024-Q4, per Potraz (VSAT subscriptions, up 513.79% in the quarter)](<https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
+
+***Noted, not assessed***. [Starlink](<https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription>); [Starlink kits donated to local authorities](<https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/>).
+
+***Not held***. No source held says services on two different satellite networks are on sale.

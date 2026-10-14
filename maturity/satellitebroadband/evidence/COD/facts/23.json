@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "other",
+      "platform": "",
+      "owner": "Africa CDC",
+      "tiers": "health zones"
+    }
+  ],
+  "note": "Starlink systems deployed by Africa CDC to Ebola health zones: not a sale by a licensed provider."
+}

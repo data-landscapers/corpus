@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Le360 lists Kenya among 29 African countries where Starlink holds a licence or authorisation as of May 2026; the document names no Kenyan regulator or licence date.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Safaricom and ESD Kenya satellite partnership",
+   "country_label": "Safaricom and ESD Kenya satellite partnership",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "Safaricom/ESD Kenya tie-up has no service detail."
+}

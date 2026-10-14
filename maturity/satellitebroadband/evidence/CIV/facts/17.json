@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-04-civ-ticguinee-starlink-licence",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI decision no. 2025-1301 of 25 September 2025 authorised Starlink Network CIV to deploy a low-earth-orbit satellite internet network nationwide.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Network CIV",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Network CIV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

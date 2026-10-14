@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-29-namibia-starlink-cease-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "On 26 November 2024 CRAN issued Starlink a cease-and-desist order for operating without a licence, ordered terminals confiscated, said buying terminals or subscribing is illegal, and said Starlink's licence application had not been granted.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

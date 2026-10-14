@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-developingtelecoms-paratus-uganda-starlink-launch",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "UCC approved Starlink's provisional operational licence in May 2026, with national gateway, device registration and local office conditions.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Uganda became the first provider to launch Starlink LEO service in Uganda, reselling it to enterprise customers, announced Monday before the 25 August 2026 article.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "enterprise"
+  }
+ ],
+ "note": ""
+}

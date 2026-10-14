@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-26-kenya-safaricom-fixed-share-starlink-top-ten",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 24,999 (reported as nearly 25,000) at 2026-03, per Communications Authority of Kenya, 0.9% of fixed internet; LEO satellite segment grew 11.4% in the quarter.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink has about 25,000 active subscriptions in Kenya at March 2026 per the Communications Authority, ranking in the top ten fixed providers.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-kenya-starlink-30-schools-growx-cemastea",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched commercially in Kenya in 2023, per the article, having received a licence relatively early (licence date not given).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  }
+ ],
+ "note": "School connectivity under a programme is not a fact; only the 2023 commercial launch statement is recorded."
+}

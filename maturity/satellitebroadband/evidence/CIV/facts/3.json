@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-24-mtn-eutelsat-konnect-satellite-broadband-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The regulator approved Starlink in Cote d'Ivoire in September 2025, per the ITWeb copy of this story.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eutelsat Konnect",
+   "country_label": "Eutelsat Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat; MTN Cote d'Ivoire agreement of April 2026 for consumer and enterprise broadband, no launch stated",
+   "tiers": ""
+  },
+  {
+   "system": "OneWeb",
+   "country_label": "OneWeb",
+   "class": "other",
+   "platform": "",
+   "owner": "Eutelsat; Bayobab capacity deal of August 2024",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "MTN-Eutelsat Konnect is a capacity agreement with no stated on-sale date, so no sale fact from this document."
+}

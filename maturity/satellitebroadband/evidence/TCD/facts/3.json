@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-05-tchadinfos-starlink-services-disponibles",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "A press conference on 4 July 2025 launched Starlink in Chad, with monthly plans of 12,000 FCFA (50 GB), 18,000 FCFA (250 GB) and 32,000 FCFA (unlimited).",
+   "as_of": "2025-07-04",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

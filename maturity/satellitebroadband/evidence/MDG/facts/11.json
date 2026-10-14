@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink Direct to Cell", "country_label": "direct-to-cell satellite connectivity (Airtel Madagascar + SpaceX trial, Sadabe, 2026-07-11)", "class": "other", "platform": "", "owner": "SpaceX / Airtel Madagascar", "tiers": ""}
+  ],
+  "note": "Direct-to-cell trial only; commercial deployment subject to ARTEC assessment; no household satellite broadband licence or sale stated."
+}

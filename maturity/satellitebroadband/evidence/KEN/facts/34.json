@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Communications Authority of Kenya was persuaded to waive a local ownership requirement so Starlink could operate; no licence date is given, so as_of is the article's published date.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink had over 8,000 subscribers in Kenya by June 2024 and entered the top 10 ISPs within a year; Nairobi was temporarily closed to new sign-ups due to capacity overload.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-10-uganda-ucc-starlink-wholesale-model",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "UCC stated on 10 January 2026 that Starlink's licensing application was still under regulatory review, no approval had been granted, and Starlink lacked authorisation to provide services in Uganda directly or through licensed entities; no retail launch was planned and satellite capacity is to be supplied wholesale through licensed operators such as Airtel Uganda.",
+   "as_of": "2026-01-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "UCC issued a directive on 1 January 2026 requiring Starlink to deploy geolocation controls against illegal use of its signals in Uganda; Starlink complied and UCC verified previously active terminals were offline.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink wholesale capacity via Airtel Uganda",
+   "country_label": "",
+   "class": "other",
+   "platform": "Starlink LEO",
+   "owner": "Airtel Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

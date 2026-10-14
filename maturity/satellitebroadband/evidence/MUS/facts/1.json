@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-28-platformafrica-emtel-icta-st-brandon-connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Eutelsat OneWeb",
+   "country_label": "OneWeb ground station",
+   "class": "other",
+   "platform": "",
+   "owner": "EMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": "State-contract satellite link for Raphael Island (St Brandon), not a retail sale; OneWeb ground station is infrastructure."
+}

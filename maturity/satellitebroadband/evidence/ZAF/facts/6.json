@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-15-herotel-amazon-leo-distributor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Daily Maverick reports on 2026-07-15 that Starlink has not applied for a licence in South Africa; Amazon Leo's retail service via Herotel (evry), which holds the licences, is slated for commercial launch only in 2027, with no price or packages announced.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry via Herotel)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "Amazon Leo LEO network",
+   "owner": "Herotel (Maziv), distributor",
+   "tiers": "residential and small business"
+  },
+  {
+   "system": "Amazon Leo backhaul for Vodacom",
+   "country_label": "",
+   "class": "other",
+   "platform": "Amazon Leo",
+   "owner": "Vodacom",
+   "tiers": "mobile cell sites"
+  }
+ ],
+ "note": "Amazon Leo distribution deal is a launch slated for 2027, not a sale."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-24-icasa-political-crossfire-starlink",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Policy row over ICASA's unimplemented ownership direction; states no licence status or sale."
+}

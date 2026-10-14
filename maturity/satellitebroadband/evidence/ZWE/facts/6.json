@@ -1,0 +1,36 @@
+{
+ "slug": "2024-09-10-techzim-potraz-press-statement-licensing-of-starlink-575k",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "POTRAZ issued Starlink Zimbabwe (Pvt) Ltd a Telecommunication Licence for Network Services and a national Internet Services Provider licence on 6 September 2024, authorising internet services across Zimbabwe over the Starlink LEO constellation; distributors and ISPs are subject to POTRAZ clearance.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Techzim reports Starlink went live in Zimbabwe on 6 September 2024, the day of licensing, with kits sold through POTRAZ-cleared agents, dealers and ISPs.",
+   "as_of": "2024-09-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Zimbabwe (Pvt) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

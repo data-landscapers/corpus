@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-internet-traffic-surges-57pc-q1-2026",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Information minister Zhemu said strong growth in Low Earth Orbit subscriptions, particularly Starlink, is improving access in underserved areas, including through the Presidential Internet Scheme, in Q1 2026; no subscriber figure or provider is given beyond Starlink.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-16-morocco-starlink-anrt-status-medias24",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Medias24 reports Starlink is not officially authorised by the ANRT, negotiations continue, and per an expert Moroccans may not subscribe to Starlink in Morocco; existing users hold European subscriptions, and use is outside the licensing regime. ANRT did not respond.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX (Starlink Internet Services Morocco)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

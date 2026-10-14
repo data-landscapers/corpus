@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26 Africa risks losing billions to satellite internet operators, report says",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Per an Africa CEO Forum and Askya report, Senegal's regulators formally recognised Starlink as an internet service provider in February 2026, after it had entered the market before authorisation; the licence cost about $150,000.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

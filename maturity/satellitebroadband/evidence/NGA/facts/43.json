@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "MTN has a wholesale agreement with Starlink in Nigeria to distribute satellite broadband through its retail channels, per Africa Telecom Review; no agreement date given, article date used.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "During a major 2024 outage Starlink provided emergency broadband service in parts of Nigeria and Ghana, per Africa Telecom Review.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "direct-to-device satellite consultation",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "NCC D2D consultation is class other, not a fact."
+}

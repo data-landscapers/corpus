@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-17-airtel-launches-satellite-to-mobile-in-drc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink Direct to Cell",
+      "country_label": "satellite-to-mobile",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel DRC",
+      "tiers": ""
+    }
+  ],
+  "note": "Direct-to-cell messaging for Airtel mobile subscribers, not satellite broadband."
+}

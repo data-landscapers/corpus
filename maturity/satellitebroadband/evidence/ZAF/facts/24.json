@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-14-starlink-blocked-icasa-empowerment-pathway",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "ICASA's chairperson confirmed that Starlink holds no ICASA licence to provide electronic communications services in South Africa and that no formal licence application had been received; the article says this was 'last year' (2025) and gives no exact date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,41 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,Starlink,Starlink,satellite,,SpaceX / Starlink Network CIV,,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+CIV,Eutelsat Konnect,Eutelsat Konnect,satellite,,Eutelsat; resold by Orange and MTN,,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
+CIV,Eutelsat Konnect,Eutelsat Konnect,satellite,,"Eutelsat; MTN Cote d'Ivoire agreement of April 2026 for consumer and enterprise broadband, no launch stated",,2026-04-24-mtn-eutelsat-konnect-satellite-broadband-techafricanews
+CIV,OneWeb,OneWeb,other,,Eutelsat; Bayobab capacity deal of August 2024,,2026-04-24-mtn-eutelsat-konnect-satellite-broadband-techafricanews
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-04-24-mtn-eutelsat-konnect-satellite-broadband-techafricanews
+CIV,Eutelsat Konnect,Eutelsat Konnect,satellite,,Eutelsat; resold as Orange Sat by Orange Cote d'Ivoire,,2026-01-22-orange-eutelsat-satellite-broadband-connectingafrica
+CIV,OneWeb,OneWeb,other,,Eutelsat; Orange agreement June 2025,,2026-01-22-orange-eutelsat-satellite-broadband-connectingafrica
+CIV,Starlink,Starlink,satellite,,SpaceX / Starlink Network CIV,,2025-11-04-civ-artci-starlink-frequences
+CIV,Starlink,Starlink,satellite,,SpaceX,,2024-03-19-civ-artci-menace-sanctions-starlink
+CIV,Konnect,Konnect,satellite,,Konnect Africa Côte d'Ivoire,,2024-03-19-civ-artci-menace-sanctions-starlink
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-07-20-starlink-live-cote-divoire-seychelles
+CIV,Orange Sat,Orange Sat,satellite,,Orange Côte d'Ivoire,,2026-07-20-starlink-live-cote-divoire-seychelles
+CIV,Konnect,Konnect,satellite,,Eutelsat,,2026-07-20-starlink-live-cote-divoire-seychelles
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-us-starlink-approval-170m-data-centre-garcia-techafricanews
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-07-16-civ-starlink-approval-us-agreements
+CIV,Starlink,Starlink,satellite,,SpaceX,,2026-06-17-starlink-launch-july-connectingafrica
+CIV,Orange Sat,Orange Sat,satellite,,Orange Côte d'Ivoire,,2026-06-17-starlink-launch-july-connectingafrica
+CIV,Konnect,Konnect,satellite,,Eutelsat,,2026-06-17-starlink-launch-july-connectingafrica
+CIV,Starlink,Starlink,satellite,,Starlink,,2026-06-16-starlink-5g-digital-growth-telecomreview
+CIV,Starlink,Starlink,satellite,,Starlink Network CIV,,2026-06-15-civ-cadreco-starlink-autorisation-juillet
+CIV,Starlink,Starlink,satellite,,Starlink,,2026-06-15-starlink-licence-5g-launch-gouv-talk-techafricanews
+CIV,Starlink,Starlink,satellite,,Starlink,,2026-03-17-us-digital-cooperation-starlink-tech-hub-techafricanews
+CIV,Konnect,Konnect,satellite,,Eutelsat,,2026-01-22 Orange Côte d'Ivoire intros satellite broadband
+CIV,Orange Sat,Orange Sat,satellite,Eutelsat Konnect,Orange Cote d'Ivoire,,2026-01-22 Orange Côte d'Ivoire intros satellite broadband
+CIV,Orange Sat,Orange Sat,satellite,Eutelsat,Orange Cote d'Ivoire,households; businesses; public institutions,2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity
+CIV,Starlink,Starlink Network CIV,satellite,LEO constellation,Starlink Network CIV,,2025-11-04-civ-ticguinee-starlink-licence
+CIV,Starlink,Starlink Network CIV,satellite,LEO constellation,Starlink Network CIV,,2025-10-14-civ-yessouan-artci-starlink-decision
+CIV,Starlink,Starlink,satellite,,,,2025-07-10-deploiement-5g-cote-divoire-fratmat
+CIV,Starlink,Starlink,other,,,,2026-06-29-starlink-africa-availability-costs-performance
+CIV,Eutelsat OneWeb,,other,,Orange,"enterprise, government, backhaul (pan-African, not CIV-specific)",2026-06-26-africa-telcos-starlink-playbook-techcabal
+CIV,Starlink,Starlink Network CIV,satellite,,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
+CIV,Orange Sat,Orange Sat,satellite,Eutelsat,Orange Côte d'Ivoire,,2026-05-26-orange-undp-digital-inclusion-connectingafrica
+CIV,Starlink,Starlink,satellite,LEO,SpaceX,,2026-04-24-mtn-eutelsat-broadband-partnership-itweb
+CIV,Eutelsat Konnect,Konnect,satellite,GEO at 7° East,Eutelsat,"consumer and enterprise via MTN Côte d'Ivoire (multi-year agreement signed, rollout described as planned)",2026-04-24-mtn-eutelsat-broadband-partnership-itweb
+CIV,Orange Sat,Orange Sat,satellite,Eutelsat,Orange Côte d'Ivoire,,2026-04-24-mtn-eutelsat-broadband-partnership-itweb
+CIV,OneWeb,OneWeb,other,LEO,Eutelsat,2024 Bayobab (MTN) partnership; no CIV retail sale stated,2026-04-24-mtn-eutelsat-broadband-partnership-itweb
+CIV,SNDI government VSAT WAN,Government IT network (SNDI),other,satellite VSAT,SNDI,government agencies only,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire
+CIV,Amazon Kuiper,,other,,,,2026-04-01-watra-infrastructure-development-working-group-report-2023-2025
+CIV,Yam-Sat CI 01,,other,,,,2026-02-03-alsat-3b-second-satellite-launch--connectingafrica

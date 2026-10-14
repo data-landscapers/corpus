@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-23-angola-starlink-avanca-em-africa-mas-namibia-angola-africa-do-sul-resistem",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN confirmed it will not reverse its March 2026 decision denying Starlink the telecommunications licence and the radio spectrum licence, so Starlink cannot operate legally in Namibia; all 624 reconsideration requests were rejected (as_of is the article date, which gives no date for the confirmation).",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Eutelsat OneWeb",
+   "country_label": "Eutelsat OneWeb",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat",
+   "tiers": ""
+  }
+ ],
+ "note": "OneWeb/Paratus partnership for southern Africa including Namibia is an expansion plan, no licence or sale stated for NAM."
+}

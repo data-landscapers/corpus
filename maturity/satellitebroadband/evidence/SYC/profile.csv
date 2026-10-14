@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,satellite,service,coverage,sale,2026-07-24,SYC-001;SYC-003;SYC-004;SYC-007;SYC-009,SYC-008=licensed;SYC-002=licensed;SYC-005=none;SYC-006=licensed;SYC-010=licensed;SYC-011=licensed,
+SYC,satellite,counted,coverage,,,,,nothing held

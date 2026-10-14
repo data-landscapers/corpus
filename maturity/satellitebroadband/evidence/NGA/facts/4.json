@@ -1,0 +1,46 @@
+{
+ "slug": "2025-09-15-starlink-halts-orders-congestion",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink sells residential kits in Nigeria; on 15 September 2025 new orders were paused in parts of Lagos and Abuja as sold out, with waitlist deposits only, after a nationwide order suspension from November 2024 to late June 2025.",
+   "as_of": "2025-09-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 59,509 at 2025-03, per NCC data (Starlink active users, Q1 2025), down from 65,564 in Q4 2024.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 65,564 at 2024-12, per NCC data (Starlink active users, Q4 2024).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

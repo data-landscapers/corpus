@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-20-agence-ecofin-cases-numeriques-burkina-faso",
+  "facts": [],
+  "systems": [
+    {
+      "system": "satellite connection of case numerique (Doufiguisso)",
+      "country_label": "case numerique",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Transition, FASU, UEMOA",
+      "tiers": "village users at 500 FCFA/month"
+    }
+  ],
+  "note": "Satellite link serves a state pilot community access point, not retail satellite broadband sale; no fact."
+}

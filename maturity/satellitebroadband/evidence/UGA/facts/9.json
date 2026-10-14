@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-uga-spaceinafrica-roke-telkom-paratus-starlink-business",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "UCC and Starlink signed a memorandum of understanding and an operational licence agreement in May 2026, per Space in Africa.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Roke Telkom and Paratus Uganda launched Starlink for Business in Uganda, with Paratus Uganda the first provider to offer Starlink commercially, on 24-month plans of 500GB to 2TB at 40-220 Mbps down, per Space in Africa.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink for Business",
+   "country_label": "Starlink for Business",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Paratus Uganda / Roke Telkom",
+   "tiers": "business"
+  }
+ ],
+ "note": ""
+}

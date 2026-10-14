@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-15-uga-ict-ministry-starlink-cleared",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Uganda Communications Commission and Starlink (SpaceX) signed an MoU and operational licence agreement on 15 May 2026, and the UCC Executive Director issued certification for Starlink's rollout; the licence requires a national gateway, a physical point of presence and a local office.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

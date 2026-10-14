@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-13-natca-spectrum-pricing-mwc-barcelona",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "NatCA Director-General Amara Brewah said Starlink satellite broadband has been licensed in Sierra Leone (no licence date given; as_of is the article date).", "as_of": "2026-03-13", "date_precision": "day", "system": "Starlink", "class": "satellite"},
+    {"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "NatCA Director-General said Starlink has been operating in Sierra Leone for two years, serving remote clinics, schools and farmers (as_of is the article date; sale to households or businesses is implied, not stated).", "as_of": "2026-03-13", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "", "tiers": "clinics; schools; farmers"}
+  ],
+  "note": ""
+}

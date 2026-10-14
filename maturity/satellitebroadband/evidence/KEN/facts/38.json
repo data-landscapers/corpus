@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-19-uga-independent-starlink-licence",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The Independent lists Kenya among countries where Starlink is already operational, as of the article date (no other date given).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Independent says Kenya, with Nigeria and Rwanda, has moved to approve Starlink operations; no licence date or regulator named (article date used).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

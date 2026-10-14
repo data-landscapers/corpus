@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-10 ARN-TIC grants Starlink Guinea-Bissau provisional authorization",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARN-TIC granted Starlink Guiné-Bissau a provisional General Authorisation on 10 April 2025 to offer internet access over satellite in the national market.",
+   "as_of": "2025-04-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Starlink Guiné-Bissau SARL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

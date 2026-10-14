@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-car-arcep-starlink-illegal-isp-crackdown",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARCEP began an inspection operation in Bangui against unregistered Starlink kit users and Wi-Fi providers; the minister says over 3,000 people use Starlink kits illegally against 200 registered with ARCEP, and the sweep is to extend to provincial towns (article dated 2026-08-14, operation said to start 'Wednesday').",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink CAR",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Enforcement against unregistered use, recorded as none."
+}

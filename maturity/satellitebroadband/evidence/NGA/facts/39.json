@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-14 Amazon's $9bn satellite deal set to benefit Africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink services are active in Nigeria, per the article; no date given, so the publication date is used.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Project Kuiper (Leo)",
+   "country_label": "Project Kuiper (Leo)",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  },
+  {
+   "system": "Globalstar",
+   "country_label": "Globalstar",
+   "class": "other",
+   "platform": "",
+   "owner": "Globalstar",
+   "tiers": ""
+  }
+ ],
+ "note": "Amazon/Globalstar talks and Kuiper plans are not NGA facts."
+}

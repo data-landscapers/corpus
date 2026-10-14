@@ -1,0 +1,54 @@
+{
+ "slug": "2026-02-26-starlink-nigeria-n159000-priority-plan",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink has sold a Business Priority plan at N159,000 a month in Lagos, Abuja and Port Harcourt since 14 February 2026, while residential sign-ups in prime Lagos districts stay on a waitlist.",
+   "as_of": "2026-02-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The NCC licensed Amazon Kuiper Nigeria Limited as an ISP, effective 1 January 2026, per its licensing database as reported by Legit.ng; Amazon's Project Kuiper is also said to have secured landing rights in January 2026.",
+   "as_of": "2026-01-01",
+   "date_precision": "day",
+   "system": "Amazon Kuiper",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "A pricing dispute with the NCC halted new Starlink residential orders nationwide for eight months, November 2024 to June 2025.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite broadband",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Kuiper",
+   "country_label": "Amazon Kuiper",
+   "class": "satellite",
+   "platform": "LEO satellite broadband, licensed, not yet on sale",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

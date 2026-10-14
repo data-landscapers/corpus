@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-uga-independent-starlink-licence",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Namibia has rejected Starlink's licence application over regulatory compliance and ownership concerns; no date given, so the article's published date is used.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "one fact only, the refusal"
+}

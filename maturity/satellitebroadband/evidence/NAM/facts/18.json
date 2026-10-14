@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24 Namibia puts foot down against Musk's Starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN, by Government Gazette notice, declined Starlink Internet Services Namibia's Class Comprehensive Telecommunications Service Licence and spectrum licence for satellite services; the subsidiary is fully foreign-owned, and CRAN may reconsider within 90 days.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX (Starlink Internet Services Namibia (Pty) Ltd)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

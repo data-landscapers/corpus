@@ -51,8 +51,14 @@
    "indicator_id": "infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale",
    "class": "satellite",
    "norm_short": "The African Telecommunications Union's Recommendation 005-0 asks every country to license satellite broadband simply, so that users can buy it from more than one provider.",
-   "criteria": [],
-   "criteria_of": ""
+   "criteria": [
+    "A source from the past three years says no satellite broadband provider is licensed, or that its sale or use is banned.",
+    "The regulator or ministry has licensed a provider to sell internet over satellite in the country.",
+    "Households or businesses can buy satellite broadband from a licensed provider.",
+    "Services on two different satellite networks are on sale, such as Starlink and a OneWeb or Konnect service.",
+    "The regulator publishes the number of satellite broadband subscribers, from the past three years."
+   ],
+   "criteria_of": "c8a56843611e"
   }
  ],
  "classes": [

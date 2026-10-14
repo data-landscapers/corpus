@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-24-zwe-pos-machines-starlink-police-roadblocks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs / ICT",
+   "tiers": "police roadblocks"
+  }
+ ],
+ "note": "Government plan to use Starlink for police POS connectivity; state-use only, no fact."
+}

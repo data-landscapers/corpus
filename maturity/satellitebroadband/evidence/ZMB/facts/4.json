@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-zmb-efficacynews-70-schools-starlink-connectivity-digital-learning",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink satellite kits",
+   "owner": "Presidential Delivery Unit, Ministry of Education, PPDF, Ignite Energy Access via MySol Zambia",
+   "tiers": "70 public schools"
+  }
+ ],
+ "note": "School programme under state/partner contract only."
+}

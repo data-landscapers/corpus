@@ -1,0 +1,52 @@
+{
+  "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink switched on in Nigeria in January 2023, selling satellite internet to households, businesses and others (per TechTrends Africa).",
+      "as_of": "2023-01",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink subscriptions in Nigeria stood at just under 60,000 by Q1 2025, per TeleGeography data cited by TechTrends Africa; the article also reports residential sign-ups suspended in Lagos, Abuja, Port Harcourt and Warri for capacity.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "retail"
+    },
+    {
+      "system": "Starlink backhaul via Africa Mobile Networks",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Africa Mobile Networks",
+      "tiers": "mobile base stations (1,500+)"
+    },
+    {
+      "system": "Starlink direct-to-cell (Airtel Africa)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Africa/SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

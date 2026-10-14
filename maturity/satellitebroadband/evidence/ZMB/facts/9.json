@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink lists Zambia among 26 countries 'Active Now' as of the article; Zambia prices are given in ZMW and measured speeds of 181 Mbps down, 24 Mbps up.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Date is the article's published date; it gives none for the status."
+}

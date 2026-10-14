@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-06-starlink-destabilizing-power-africa-elpais",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Namibia ordered Starlink to cease operations the week before this article, accusing it of operating illegally without a licence in Namibia; date given only as last week, article dated 2024-12-06.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

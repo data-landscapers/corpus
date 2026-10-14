@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-26 Starlink blocked from operating in Namibia",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN denied Starlink's application for a Class Comprehensive Telecommunications Service Licence and a Spectrum Licence for fixed satellite services, having met three of six criteria (failed ownership and control, public security, compliance history); article of 2026-03-26 says confirmed 'this week'.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN issued a cease-and-desist order to Starlink for operating without a licence and ordered confiscation of all Starlink terminal equipment in the country.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-13-ken-linkedin-beck-starlink-icolo-mombasa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Starlink ground station beside iColo 1 in Mombasa: infrastructure observation, no service, licence or count statement."
+}

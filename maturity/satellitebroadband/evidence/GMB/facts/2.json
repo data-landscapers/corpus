@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-starlink-gambia-future-economic-fear-thepoint",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "As of 18 May 2026 no licence has been issued to Starlink in The Gambia although it paid the fee; the Minister declined to sign a VSAT licence because Starlink says it is not a VSAT, and PURA has recommended approval.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

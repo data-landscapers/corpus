@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-18-starlink-battles-africa-regulators-semafor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Semafor reports President Mnangagwa granted Starlink a licence after it agreed to an exclusive partnership with a telco owned by Wicknell Chivayo; the date of the grant is not given, so the article date is used, and critics questioned its legitimacy.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

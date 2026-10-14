@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-16 Who Owns Africa's Sky",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "The article says Zambia, like Nigeria, allowed satellite operator entry within a negotiated framework with regulatory scrutiny of pricing; it names no provider for Zambia and gives no date, so the article date is used.",
+      "as_of": "2026-06-16",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": "One generic statement on Zambia; other countries' items not recorded."
+}

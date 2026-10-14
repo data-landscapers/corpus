@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-18-paratus-rwanda-afpif-2026",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Rwanda, which began operating in Rwanda about a year before this 18 August 2026 announcement, sells Starlink-powered internet to businesses (Starlink for Business, Essential Access plans, primary, backup and remote connectivity, Layer 2).",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink for Business",
+   "class": "satellite",
+   "platform": "Starlink",
+   "owner": "Paratus Rwanda (reseller)",
+   "tiers": "businesses"
+  }
+ ],
+ "note": ""
+}

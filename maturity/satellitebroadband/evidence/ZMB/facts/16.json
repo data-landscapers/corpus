@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-10-zmb-igc-impact-internet-connectivity-rural-zambia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink hotspots pilot (Nyimba District)",
+      "country_label": "Starlink hotspots pilot (Nyimba District)",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "",
+      "tiers": "rural communities"
+    }
+  ],
+  "note": "Research pilot of free Starlink hotspots; no licence or sale stated."
+}

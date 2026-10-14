@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-12-sudan-rsf-bans-starlink-al-nuhud",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The RSF banned the use of Starlink devices in Al-Nuhud, West Kordofan, and from 29 November 2025 confiscated Starlink equipment across the city, per local sources cited by Darfur24.",
+   "as_of": "2025-11-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

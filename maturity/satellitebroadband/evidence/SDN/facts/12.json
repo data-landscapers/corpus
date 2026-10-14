@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Technomag lists Sudan among seven countries where Starlink's launch date is unspecified and not among the 26 active markets, so Starlink is not on sale in Sudan; the date is the article's, as it gives none for the list.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

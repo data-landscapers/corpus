@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-06-zimbabwe-starlink-vsat-record-potraz",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, VSAT subscriptions (the category in which Starlink is classified), up from 50,949 in Q3 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink has been on sale in ZWE since its launch in September 2024, with 67,057 VSAT subscribers at Q4 2025 and a 17.23% share among alternative internet technologies.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

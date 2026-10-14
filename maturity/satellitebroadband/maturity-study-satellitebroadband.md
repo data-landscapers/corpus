@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-satellitebroadband.md — the forty-fourth maturity study: satellite broadband licensed and on sale, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map, waits for Bill to accept
 ---
 
 # Maturity study: satellitebroadband
@@ -67,10 +67,20 @@ The African Telecommunications Union's Recommendation ATU-R 005-0 (2021) asks me
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Read**: one fan-out of drafters over the 820 readings.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Read**: 200 drafters over the 820 readings; 657 facts.
+- [x] **D3. Staged** as at 2026-09-30: 4: 4, 3: 31, 2: 1, 1: 16, two without evidence; 3 rows removed (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14.
+
+**Decided in the run**:
+
+- **A dated "not licensed" reverses only the network it names.** Most such statements are Starlink's: its map marking a country "Starting in 2026", or an application pending or refused. They no longer cancel a YahClick, OneWeb or Konnect service sold beside it. Where nothing else is held, a statement that Starlink is not licensed sets stage 1. A suspension leaves the licence standing, a warning about illegal resale or unregistered kits of a licensed network cancels nothing, and a fact dated by a year alone is weighed against a dated reversal from the year's start.
+- **Four are at stage 4**: Botswana and Madagascar (Starlink, and OneWeb sold to businesses), Côte d'Ivoire (Starlink, and Konnect through Orange and MTN) and South Africa (YahClick and OneWeb, Starlink still unlicensed). None is at stage 5. Benin, Ghana, Rwanda and Zimbabwe have a regulator's subscriber count, but only one network on sale.
+- **Senegal is at stage 3**: the Supreme Court suspended Starlink's authorisation on 7 September 2026, and Konnect through Sonatel Orange stays on sale. Namibia is at stage 3 on OneWeb (Twoobii, June 2026), though it refused Starlink. Sudan is at stage 3 on YahClick through Canar since 2023, and Libya on OneWeb.
+- **Sixteen are at stage 1**, all on Starlink pending, refused or banned with no other provider held. Algeria is at stage 2: VSAT licences held by Algérie Télécom Satellite and Djezzy, with no sale stated. Eritrea and Mauritius are without evidence.
+- **Three rows removed**: a Benin sale inferred from a price survey, a Tunisian licence reported from unnamed sources, and a Senegal sale dated by its month past the suspension.
+- **A script wrote the summaries**, `scripts/study-satellitebroadband-write.py`, from the drafters' fact sentences, as for exchangepoints. Eight rows with the value in the aspect column were moved to `service`.
+- **Tokens: 62.6 million at the map**, ceiling 70 million, step 1 included.
 
 ## Boundary
 

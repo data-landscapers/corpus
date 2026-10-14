@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Starlink by Airtel,Starlink by Airtel,satellite,,Airtel Niger / SpaceX,,2026-01-18-airtel-niger-starlink-by-airtel-launch-actuniger
+NER,Starlink,Starlink,satellite,,SpaceX,,2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger
+NER,Starlink,Starlink,satellite,,SpaceX; distributor NINETEC,,2025-05-06-ninetec-nine-starlink-kit-distribution-lesahel
+NER,Starlink,Starlink,satellite,,SpaceX,,2025-03-17-starlink-beams-into-niger-connectingafrica
+NER,Starlink,Starlink,satellite,,SpaceX,,2025-03-13-starlink-officially-available-niger-actuniger
+NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2025-03-19-starlink-license-chad-launch-niger
+NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-07-17-starlink-launches-27th-african-country-ivory-coast
+NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-06-29-starlink-africa-availability-costs-performance
+NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux

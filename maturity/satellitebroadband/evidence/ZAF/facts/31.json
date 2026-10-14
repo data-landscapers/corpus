@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-12-malatsi-directive-bypass-icasa-bee-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Daily Maverick states that, under current ICASA rules requiring 30% historically disadvantaged equity, Starlink (SpaceX) cannot launch in South Africa and is not licensed; a ministerial policy direction (Gazette 53855, signed 11 Dec 2025) tells ICASA to recognise equity-equivalent investment.",
+   "as_of": "2025-12-12",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

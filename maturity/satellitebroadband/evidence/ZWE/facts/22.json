@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-24-zimbabwe-potraz-starlink-crackdown",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "POTRAZ warned that people distributing, advertising or using Starlink equipment may be arrested, with nationwide raids and two arrests in Bulawayo and Victoria Falls; the service was not yet registered in Zimbabwe.",
+   "as_of": "2024-01-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink was still in the process of applying for a licence in Zimbabwe (application pending), per Developing Telecoms.",
+   "as_of": "2024-01-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

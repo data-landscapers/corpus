@@ -1,0 +1,11 @@
+# Cameroon
+
+## Satellite broadband licensed and on sale
+
+**Licensed, on sale, and from more than one network.** [Cameroon is among 16 countries Starlink's availability map lists as 'Starting in 2026', which the article says indicates service coverage or regulatory authorisation pending](<https://www.agenceecofin.com/actualites-numerique/3108-141168-internet-par-satellite-starlink-cible-16-nouveaux-marches-africains-d-ici-fin-2026>). [Starlink has no official authorisation in Cameroon; its licence application has sat unresolved for over two years, and the regulator ART declined comment, saying the file is with the ministry MINPOSTEL (NewsWatch, 27 July 2026)](<https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/>). [Cameroon is named among countries that block or restrict Starlink to guard national security and data sovereignty](<https://technomag.co.zw/starlinks-african-expansion-availability-costs-and-performance/>). [The Independent (Uganda) reports that Cameroon has held back authorisation for Starlink and has imposed delays or restrictions over regulatory and ownership requirements](<https://www.independent.co.ug/uganda-licenses-starlink-as-africa-satellite-internet-rollout-expands/>). [Customs seized 10 Starlink modems at the Nkometou checkpoint on 12 December 2025 as unauthorised equipment](<https://actucameroun.com/2025/12/16/la-douane-saisit-des-kits-starlink-a-nkometou/>). A dated statement that no satellite broadband provider is licensed, or that its sale or use is banned, sets the lowest stage, and nothing dated later names one licensed. Prices and speeds are given where a source states them; they set no stage.
+
+**Subscribers counted by the regulator.** With [no provider licensed](<https://www.agenceecofin.com/actualites-numerique/3108-141168-internet-par-satellite-starlink-cible-16-nouveaux-marches-africains-d-ici-fin-2026>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
+
+***Noted, not assessed***. [Starlink](<https://techreviewafrica.com/news/4133>); [OneWeb](<https://techreviewafrica.com/news/4133>); [Amazon Kuiper](<https://techreviewafrica.com/news/4133>).
+
+***Not held***. Nothing further is asked of this indicator.

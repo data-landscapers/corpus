@@ -1,0 +1,27 @@
+{
+  "slug": "2026-05-19-uga-independent-starlink-licence",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink is already operational in Rwanda, per the article; as_of is the article's published date.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Rwanda is said to have moved to approve Starlink operations as part of digital inclusion strategy; no date given, article date used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

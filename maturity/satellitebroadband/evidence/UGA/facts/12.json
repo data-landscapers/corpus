@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-22-ucc-starlink-data-sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "UCC states Starlink holds a provisional infrastructure and service licence to operate satellite services in Uganda, with conditions of a national gateway with local point of presence and local registration of all devices; no licence date given, article date used.",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Services LLC (SpaceX)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

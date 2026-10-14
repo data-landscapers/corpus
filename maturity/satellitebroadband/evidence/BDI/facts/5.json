@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-burundi-elmis-medexis-health-rollout-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "other", "platform": "satellite connectivity", "owner": "SpaceX", "tiers": "health facilities (under consideration)"}
+  ],
+  "note": "Starlink only discussed as possible connectivity for underserved health facilities; no licence or sale stated."
+}

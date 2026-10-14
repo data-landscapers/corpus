@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Lists Tunisia only as 'Scheduled for 2026' for Starlink (a planned launch, not a licence or sale); no fact."
+}

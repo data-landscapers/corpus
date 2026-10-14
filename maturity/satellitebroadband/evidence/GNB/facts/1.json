@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-gnb-arn-tic-despacho-15-prorrogacao-autorizacao-provisoria-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARN-TIC, by Despacho 15/CA/ARN/2026, extended to 31 December 2026 the provisional General Authorisation held by Starlink Guiné-Bissau SARL for satellite internet services, to ensure continuity during the transition to the definitive General Authorisation regime.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Starlink Guiné-Bissau SARL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

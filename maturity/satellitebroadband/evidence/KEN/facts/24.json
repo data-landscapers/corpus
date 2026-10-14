@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is listed by name as operating in Kenya among 25 African countries as of November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Starlink Direct-to-Cell",
+   "class": "other",
+   "platform": "Starlink LEO",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink backhaul",
+   "country_label": "Starlink backhaul",
+   "class": "other",
+   "platform": "Starlink LEO",
+   "owner": "Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": "Weak Kenya-specific statement; Airtel D2C and Vodacom resale are not stated for Kenya specifically."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-24-gambia-starlink-licence-delayed",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "As of the article's date (no other date given), Starlink holds no licence in The Gambia: the Minister of Digital Economy refused to approve the VSAT permit paid for in February 2026, saying Starlink needs a general satellite licence.",
+   "as_of": "2026-05-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

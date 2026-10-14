@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-21-zimbabwe-potraz-starlink-cutoff",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "POTRAZ warned it would work with police to raid and arrest people and businesses using, distributing or advertising Starlink equipment, saying some defaulters had already been arrested; Starlink has not been approved in Zimbabwe and use is prosecutable.",
+   "as_of": "2024-07-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink called Zimbabwe an unauthorised territory and said it would disable roaming service there until it obtains POTRAZ approval; it plans to launch in Q3 2024 per its coverage map.",
+   "as_of": "2024-07-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-17-starlink-launch-july-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink received a 12-month provisional licence to provide fixed high-speed satellite internet across Côte d'Ivoire; no licence date is given, so the article date is used, and launch was planned for July 2026.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Orange Côte d'Ivoire launched the satellite broadband service Orange Sat with Eutelsat in January 2026, aimed at underserved areas.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Konnect",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Sat",
+   "country_label": "Orange Sat",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Orange Côte d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "Konnect",
+   "country_label": "Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat",
+   "tiers": ""
+  }
+ ],
+ "note": "MTN-Eutelsat Konnect agreement of April 2026 is a capacity agreement, not recorded as a fact."
+}

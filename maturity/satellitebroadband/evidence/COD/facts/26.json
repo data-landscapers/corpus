@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-17-cpj-drc-east-internet-mobile-shutdown-month",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Government soldiers seized Starlink kits from four community radio outlets or consortia in Fizi Territory, South Kivu, on 8 July 2026 whenever users tried to activate them, and told journalists the kits would be returned only when the war ended; the seizure is tied to the security shutdown, not stated as unlicensed use, per CPJ.",
+      "as_of": "2026-07-08",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

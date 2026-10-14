@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "no evidence",
+   "service": "",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says a satellite broadband provider is licensed, or that none is.",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

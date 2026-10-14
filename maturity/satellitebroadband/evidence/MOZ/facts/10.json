@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-14 Amazon's $9bn satellite deal set to benefit Africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ITWeb Africa says Starlink has services active in Mozambique, among other African countries, as of 14 April 2026.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Globalstar",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Globalstar",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Globalstar spectrum authorisation in Mozambique is for enterprise, conservation tracking and IoT, not household broadband: not a fact."
+}

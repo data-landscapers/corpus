@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX (Starlink Internet Services Morocco)",
+      "tiers": ""
+    }
+  ],
+  "note": "Pan-African list; Morocco only appears among countries with no Starlink launch date, which is not a licence statement."
+}

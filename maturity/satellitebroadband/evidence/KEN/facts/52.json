@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Vodacom has a wholesale agreement with Starlink in Kenya, letting it distribute satellite broadband through existing retail channels; no date given, article published 2026-09-03.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AST SpaceMobile Bluewalker",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": "direct-to-device test"
+  }
+ ],
+ "note": "One KEN fact; Safaricom D2D test is not a fact."
+}

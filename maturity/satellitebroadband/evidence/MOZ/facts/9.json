@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-uga-independent-starlink-licence",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The Independent says Starlink is already operational in Mozambique, among other African countries, as of 19 May 2026.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

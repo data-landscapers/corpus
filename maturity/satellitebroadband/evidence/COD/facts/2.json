@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-16-drc-airtel-starlink-satellite-to-phone-businessinsider",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "On 2 May 2025 the Congolese regulator ARPTC granted a telecommunications network and services licence to Starlink DRC SA, allowing it to operate as an internet service provider (Starlink).",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink's conventional satellite broadband service, needing a dedicated terminal, became available in the DRC after the May 2025 licence; no launch date given, so dated to the article's publication date.",
+   "as_of": "2026-08-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Starlink Mobile",
+   "class": "other",
+   "platform": "direct-to-cell",
+   "owner": "Airtel DRC with Starlink",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink",
+   "country_label": "Starlink DRC SA",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink DRC SA (SpaceX subsidiary)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is live in Nigeria, which the article says leads Africa with nearly 92,000 subscribers (no source named) and lists a Nigerian price plan in NGN; no date given beyond the article's 2026-06-29 publication.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

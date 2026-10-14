@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-murray-bruce-starlink-exploitation-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Nigeria in 2023 and has attracted thousands of subscribers, per Newsmakers; a senator reports it still sold to Nigerian customers at full price.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite broadband",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

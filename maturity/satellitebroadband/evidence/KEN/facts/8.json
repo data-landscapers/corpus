@@ -1,0 +1,62 @@
+{
+  "slug": "2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink has been on sale in Kenya since July 2023.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 24,999 at 2026-03, per the Communications Authority of Kenya, 0.9% of the fixed internet market, 2,717 more than three months earlier.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "In early July 2026 Starlink stopped taking new customers in Nairobi, Kiambu, Mombasa, Machakos, Murang'a, Kirinyaga and Kwale counties as at capacity, with a deposit waitlist; a provider suspension, no reopening date, not a regulator ban.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "households; businesses"
+    },
+    {
+      "system": "Amazon Leo (Kuiper)",
+      "country_label": "",
+      "class": "other",
+      "platform": "LEO",
+      "owner": "Amazon",
+      "tiers": "licence applied for in Kenya; first African ground station being built"
+    },
+    {
+      "system": "Starlink Direct-to-Cell",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "SpaceX with Airtel",
+      "tiers": "mobile subscribers; approval sought"
+    }
+  ],
+  "note": "Also states CA requires ID verification and replaced the satellite licence with a costlier one (no date or provider; not a fact)."
+}

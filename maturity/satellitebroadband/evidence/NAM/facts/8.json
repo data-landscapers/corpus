@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-22-qkon-eutelsat-oneweb-leo-satellite-launch-namibia",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Echo Namibia and Oblixx Communication Networks secured operating licences following CRAN approvals earlier in 2026 to deliver Q-KON's Twoobii-OneWeb LEO satellite service in Namibia; the exact date is not given.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "OneWeb",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Eutelsat OneWeb LEO satellite services, branded Twoobii-OneWeb by Q-KON, launched commercially in Namibia on 19 June 2026 through licensed partners Echo Namibia and Oblixx Communication Networks, aimed at businesses, with up to 100 Mbps and 2TB per site.",
+      "as_of": "2026-06-19",
+      "date_precision": "day",
+      "system": "OneWeb",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OneWeb",
+      "country_label": "Twoobii-OneWeb LEO Smart Satellite Service",
+      "class": "satellite",
+      "platform": "Eutelsat OneWeb",
+      "owner": "Q-KON; resold by Echo Namibia and Oblixx Communication Networks",
+      "tiers": "business; schools; government; remote sites"
+    }
+  ],
+  "note": ""
+}

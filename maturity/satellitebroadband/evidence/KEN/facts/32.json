@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The article says Starlink capacity-driven freezes on new residential sign-ups and deposit waitlists have 'similar' hit Kenya; undated (2025 and 2026), so as_of is the published date; this is a provider capacity freeze, not a regulatory ban.",
+   "as_of": "2026-06-27",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus EduLink (Starlink reseller, schools)",
+   "country_label": "EduLink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Paratus",
+   "tiers": "schools"
+  }
+ ],
+ "note": "Paratus EduLink school connectivity in Kenya is schools-only, not a fact."
+}

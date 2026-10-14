@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-18-starlink-kenya-performance-worsens-ookla",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 24,999 at 2026-03, per Communications Authority of Kenya (0.9% of market, up from 17,066 a year earlier).",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink sells service in Kenya with 24,999 subscribers at March 2026; it paused new sign-ups in November 2024 for capacity, and added 3,136 customers in 2025.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  }
+ ],
+ "note": ""
+}

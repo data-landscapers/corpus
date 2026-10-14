@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-25-arn-guine-bissau-comunicado-fornecimento-ilegal-internet-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARN states Starlink itself is the only entity licensed to operate the Starlink service in Guinea-Bissau and requests must be made directly to it.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARN states that unauthorised entities are illegally selling internet over the Starlink network, that using such services violates the law, and that it will intensify enforcement, including possible confiscation of illegal equipment and sanctions.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Starlink Guiné-Bissau SARL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

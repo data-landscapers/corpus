@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-05-acaj-salue-homologation-starlink-actualite",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARPTC announced on Friday 2 May 2025 a network and telecommunications services licence for Starlink DRC S.A., a Congolese subsidiary of Starlink, confirming it may operate as an internet access provider; ARPTC said launch would follow within days.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink DRC S.A.",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink DRC S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

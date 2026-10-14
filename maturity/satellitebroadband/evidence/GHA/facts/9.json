@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Article says Starlink's monthly subscription fees are competitive in Ghana, implying the service is on sale there; dated by publication date (2026-06-26).",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

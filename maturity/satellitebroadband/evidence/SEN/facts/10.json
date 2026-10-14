@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-26-senegal-starlink-primary-schools-connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": "primary schools (planned, education ministry)"
+  }
+ ],
+ "note": "Plan to connect 8,000+ primary schools via Starlink is a state school programme; no licensing or sale statement."
+}

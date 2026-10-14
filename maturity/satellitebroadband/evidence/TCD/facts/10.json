@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-19-tcd-remise-dequipements-aux-23-communes-le-numerique-au-service-des-citoye",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Business",
+   "country_label": "Starlink Business",
+   "class": "other",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": "23 provincial-capital communes"
+  }
+ ],
+ "note": "Starlink Business kits handed to 23 communes under PATN: government sites only, not a sale fact."
+}

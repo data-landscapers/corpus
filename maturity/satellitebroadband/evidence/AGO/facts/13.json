@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-02-startup-do-moxico-licenca-internet-via-angosat-2",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "INACOM, the regulator, authorised the Luena-based startup NomaTech (Weza Tchisseque Tchamy) to install infrastructure and sell internet access over the ANGOSAT-2 satellite network to individuals, institutions and businesses; the document gives no licence date, so as_of is the 2 July 2026 publication date.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "AngoSat-2",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AngoSat-2",
+   "country_label": "ANGOSAT-2",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Angola national space programme",
+   "tiers": ""
+  },
+  {
+   "system": "Conecta Angola",
+   "country_label": "Conecta Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink's availability table lists South Africa as having no planned launch date, and the article says Starlink needs telecoms licences it does not hold (30% HDG ownership); Amazon Leo plans to launch via Herotel in 2027.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    },
+    {
+      "system": "Amazon Leo",
+      "country_label": "Amazon Leo",
+      "class": "satellite",
+      "platform": "",
+      "owner": "Amazon",
+      "tiers": "via Herotel, planned 2027"
+    }
+  ],
+  "note": ""
+}

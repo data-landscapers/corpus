@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-06-starlink-destabilizing-power-africa-elpais",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is on sale in Nigeria, where it ranks as the third or fourth-largest internet provider with fewer than 30,000 users, per a researcher quoted by El Pais (date of article used; none given).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

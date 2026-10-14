@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-27-ken-mawingu-microsoft-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink had 19,470 subscribers in Kenya as of September 2025, according to the article (no source named); Mawingu Networks also announced in Feb 2026 a partnership to deploy Starlink connectivity at 450 rural community hubs.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Mawingu-Starlink community hubs",
+   "country_label": "Mawingu-Starlink community hubs",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Mawingu Networks",
+   "tiers": "schools, cooperatives, community hubs"
+  }
+ ],
+ "note": "Subscriber count is operator/press figure, not a regulator count."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-11-starlink-half-million-ssa-dataxis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Amazon LEO",
+      "country_label": "Kuiper",
+      "class": "other",
+      "platform": "",
+      "owner": "Amazon",
+      "tiers": ""
+    }
+  ],
+  "note": "South Africa mentioned only as an expected Amazon LEO entry by end of 2026 and a market Starlink has struggled to access; no dated licence or sale statement."
+}

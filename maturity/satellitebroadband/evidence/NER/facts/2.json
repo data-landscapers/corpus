@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARCEP Niger stated in a communique that Starlink-fed 'Wifi Zones' reselling connectivity operate without the required prior authorisation (law 2018-45) and ordered them to stop or regularise by 3 October 2025, with controls and sanctions after; the document is dated 2025-09-09 and gives no other date.",
+   "as_of": "2025-09-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-17-nigeria-starlink-premium-customers-tax-businessday",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Regulators granted Starlink a licence in Uganda conditional on a physical presence, a national gateway/ground station, in-country device registration and local technical and legal staff (article date used, no licence date given).",
+      "as_of": "2026-06-17",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

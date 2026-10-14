@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-20-nasrda-galaxy-space-d2d-satellite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Space D2D",
+   "country_label": "direct-to-device satellite",
+   "class": "other",
+   "platform": "LEO direct-to-device",
+   "owner": "NASRDA with Galaxy Space (MoU)",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-device MoU only; no licence, sale or count of satellite broadband."
+}

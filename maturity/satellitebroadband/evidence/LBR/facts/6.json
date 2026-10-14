@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-20-liberia-uaf-starlink-installed-vahun-district-lofa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Universal Access Fund (LTA)",
+   "tiers": "community site in Vahun District, Lofa County"
+  }
+ ],
+ "note": "Fund-installed community connectivity site; no statement of licence, retail sale or subscribers."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-10-govt-due-diligence-us-pressure-starlink-standard",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "On 9 July 2025 the Minister of Digital Economy told the National Assembly that Starlink's VSAT licence recommended by PURA had not been signed because Starlink is not a VSAT, and the application was under reassessment, to go to cabinet.",
+   "as_of": "2025-07-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

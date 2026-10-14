@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "MyBroadband's table of Starlink availability in Africa lists Sudan as having no planned launch date, so Starlink is not on sale in Sudan; the date is the article's, as it gives none for the table.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

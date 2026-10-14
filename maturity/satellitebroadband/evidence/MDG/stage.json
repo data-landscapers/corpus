@@ -1,0 +1,16 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "4",
+   "service": "choice",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-003;MDG-001",
+   "gaps": "No source held gives a subscriber count for satellite broadband published by the regulator in the last three years.",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

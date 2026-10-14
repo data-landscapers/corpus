@@ -1,0 +1,46 @@
+{
+  "slug": "2025-09-22-starlink-kenya-359-new-customers-ca-q4",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 17,425 at 2025-06, per the Communications Authority of Kenya (Q4 sector statistics, April-June 2025), 0.8% of the fixed internet market.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 17,066 at 2025-03, per the Communications Authority of Kenya (Q3 sector statistics, January-March 2025), 0.9% share.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink launched in Kenya in 2023 and sells satellite internet to households and businesses there; equipment costs Sh28,000 to Sh45,000.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "households; businesses"
+    }
+  ],
+  "note": ""
+}

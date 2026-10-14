@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-21-starlink-implantarse-conectividad-reg",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Starlink interest meeting in Washington; no licence or sale stated."
+}

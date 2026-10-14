@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-01-namibia-cran-starlink-stop-namibian",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN issued Starlink a cease-and-desist order for operating a network in Namibia without the required telecommunications licence, and said it had confiscated terminals from consumers and opened criminal cases (statement issued the day before the 2024-12-01 article).",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN said Starlink's application for a telecommunications service licence was still under review, and that until a licence is granted importing Starlink terminals and using its service is illegal.",
+   "as_of": "2024-11-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

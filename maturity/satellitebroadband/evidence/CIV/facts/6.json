@@ -1,0 +1,44 @@
+{
+ "slug": "2024-03-19-civ-artci-menace-sanctions-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARTCI stated on 19 March 2024 that Starlink holds no individual licence (category 1C or 1A) to provide internet access in Côte d'Ivoire, so selling or using Starlink kits in the country is illegal and liable to sanctions.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI's 19 March 2024 communiqué lists Konnect Africa Côte d'Ivoire among the holders of a category 1C individual licence for internet access, alongside Quantis, Vivendi Africa, Dataconnect, VIPNET and Côte d'Ivoire Data.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "Konnect",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Konnect",
+   "country_label": "Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Konnect Africa Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

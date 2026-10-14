@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-16-morocco-starlink-subsidiary-maroc-hebdo",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Maroc Hebdo reports Starlink Internet Services Morocco was created in Casablanca, but final approvals from the ANRT and the DGSSI are still to be obtained before commercial launch, so no licence is held.",
+      "as_of": "2026-04-16",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX (Starlink Internet Services Morocco)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-tunisia-starlink-status-check-carthage",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Carthage Magazine states that Starlink has not been granted a commercial licence in Tunisia and cannot be bought as a working subscription; the licence from the regulator (INTT) is still unissued, pre-orders with a roughly 9 US dollar deposit are only a waiting list.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

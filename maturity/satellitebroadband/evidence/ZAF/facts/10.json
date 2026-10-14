@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-20-tan-satellite-internet-layer-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry via Herotel)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "Amazon Leo",
+   "owner": "Herotel",
+   "tiers": "launch 2027"
+  },
+  {
+   "system": "Amazon Leo backhaul",
+   "country_label": "",
+   "class": "other",
+   "platform": "Amazon Leo",
+   "owner": "Vodacom/Vodafone",
+   "tiers": "mobile sites"
+  }
+ ],
+ "note": "ZAF only: evry launch is 2027, not on sale; Starlink counts are continental."
+}

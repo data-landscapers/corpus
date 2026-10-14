@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-ahoraeg-starlink-ortel-implementacion",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "At a 2026-07-28 meeting the Vice-President was told Starlink's type-approval with regulator ORTEL was still pending with competences undefined and ordered ORTEL to speed it up; the first phase is for public bodies, airport terminals and selected companies only, with extension to private users conditional on negotiations and justified on security grounds.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

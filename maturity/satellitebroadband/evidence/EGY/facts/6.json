@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "A Starlink availability table lists Egypt as 'No planned launch date', so Starlink was not on sale in Egypt; the article's date is used as it gives none for this entry.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

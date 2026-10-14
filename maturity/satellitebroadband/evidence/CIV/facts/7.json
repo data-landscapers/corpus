@@ -1,0 +1,72 @@
+{
+ "slug": "2026-07-20-starlink-live-cote-divoire-seychelles",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink received a 12-month provisional licence in Côte d'Ivoire about a month before 20 July 2026 (so around June 2026).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Côte d'Ivoire and showed as available, with residential plans at XOF40,244 and residential lite at XOF28,746 a month per the Starlink website.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Orange Côte d'Ivoire launched the satellite broadband service Orange Sat with Eutelsat in January 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Konnect",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "choice",
+   "fact": "The article states Starlink is live in Côte d'Ivoire alongside existing satellite broadband from Orange (Orange Sat with Eutelsat) and an April 2026 MTN-Eutelsat Konnect capacity agreement, so services on two networks, Starlink and Eutelsat Konnect, are on sale.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Starlink; Konnect",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Sat",
+   "country_label": "Orange Sat",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Orange Côte d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "Konnect",
+   "country_label": "Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 19,470 at 2025-09, per Communications Authority of Kenya (Starlink subscribers, as reported by TechCabal).",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink had 19,470 subscribers in Kenya in September 2025 according to the Communications Authority.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Africa-SpaceX direct-to-cell",
+   "country_label": "",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Airtel direct-to-device is not a fact."
+}

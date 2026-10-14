@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-18-starlink-battles-africa-regulators-semafor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Semafor reported that Starlink had been blocked from approval in seven countries including Côte d'Ivoire, as of July 2024.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

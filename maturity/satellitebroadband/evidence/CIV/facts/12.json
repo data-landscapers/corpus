@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-15-civ-cadreco-starlink-autorisation-juillet",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Government authorised Starlink Network CIV by a 12-month provisional arrete, announced 11 June 2026, a trial before a definitive C1C licence, with commercial launch planned for July 2026.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "A ministerial arrete of July 2025 already gave Starlink a provisional operating authorisation pending an individual C1C licence, per ARTCI.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Network CIV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

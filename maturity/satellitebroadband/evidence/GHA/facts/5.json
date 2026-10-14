@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-25-ghana-nca-approves-starlink-satellite-broadband-application",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The NCA approved the application of Space X Starlink GH LTD to offer satellite broadband services in Ghana; licence issuance was still being administratively completed.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Satellite Broadband",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Space X Starlink GH LTD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

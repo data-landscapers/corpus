@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-15 Starlink drives African broadband speeds higher",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ITWeb Africa, citing Ookla, counts Lesotho among 27 African countries where Starlink is currently licensed (no licence date given).",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ITWeb Africa, citing Ookla, says Starlink launched in Lesotho in late 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

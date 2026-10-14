@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-28-nation-starlink-incorporated-locally",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Seychelles Nation reports the Vice President told the National Assembly Starlink was incorporated locally and in the final stages of its licensing process, so not yet licensed, as of Tuesday 26 May 2026.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

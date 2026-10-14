@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-17-starlink-commercial-launch-affordability-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The ministry's December 2025 communiqué, cited by Agence Ecofin, followed the award of a licence to Starlink in CAF.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink announced on 16 March 2026 the commercial availability of its service in CAF, in partnership with hardware distributor DEVEA Centrafrique, at 33,000 FCFA a month plus 19% VAT, with a standard kit at 240,000 FCFA and a Mini kit at 123,000 FCFA.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX; reseller DEVEA Centrafrique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

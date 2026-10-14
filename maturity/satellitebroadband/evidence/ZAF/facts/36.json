@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-07-south-africa-rejects-musk-starlink-claim-reuters",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "date_precision": "day",
+   "as_of": "2025-03-07",
+   "fact": "Reuters reports South Africa's telecoms regulator said Starlink had not applied for a licence, so Starlink is not licensed in ZAF.",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

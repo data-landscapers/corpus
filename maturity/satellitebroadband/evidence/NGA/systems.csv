@@ -1,0 +1,59 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,Starlink,Starlink,other,LEO satellite,SpaceX via third-party providers; pilot by NuRAN Wireless and Infratel,rural mobile sites,2026-09-24-nga-nuran-wireless-starlink-backhaul-pilot
+NGA,Amazon Kuiper,Project Kuiper,satellite,"LEO constellation, Ka-band",Kuiper Systems LLC (Amazon),,2026-01-15-ncc-amazon-kuiper-landing-permit
+NGA,Starlink,Starlink,satellite,LEO satellite,SpaceX,households,2025-12-31-starlink-biometric-66000-subscribers
+NGA,Starlink,Starlink,satellite,LEO satellite,SpaceX,households,2025-09-15-starlink-halts-orders-congestion
+NGA,Galaxy Space D2D,direct-to-device satellite,other,LEO direct-to-device,NASRDA with Galaxy Space (MoU),,2025-06-20-nasrda-galaxy-space-d2d-satellite
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2025-03-10-starlink-second-largest-isp
+NGA,OneWeb,Eutelsat OneWeb LEO services via Nigcomsat,other,LEO,Eutelsat / Nigcomsat,"government, businesses, rural communities",2025-01-20-nigcomsat-eutelsat-leo-services
+NGA,Airtel Nigeria satellite connectivity,,other,,Airtel Nigeria,backhaul where fibre impractical,2026-08-20-tan-satellite-internet-layer-africa
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,,2026-07-22-starlink-26-african-markets-report
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,"residential, priority",2026-07-13-starlink-network-pressures-telcos-businessday
+NGA,Starlink,Starlink,satellite,LEO constellation,SpaceX,retail,2026-06-27-starlink-rural-africa-impact-techtrends
+NGA,Starlink backhaul via Africa Mobile Networks,,other,,Africa Mobile Networks,"mobile base stations (1,500+)",2026-06-27-starlink-rural-africa-impact-techtrends
+NGA,Starlink direct-to-cell (Airtel Africa),,other,,Airtel Africa/SpaceX,,2026-06-27-starlink-rural-africa-impact-techtrends
+NGA,Starlink,Starlink Internet Services Nigeria Ltd,satellite,LEO constellation,SpaceX / Starlink Internet Services Nigeria Ltd,"retail, one declared POP",2026-06-19-nigeria-starlink-q4-2025-ncc-analysis
+NGA,Starlink,Starlink,satellite,LEO constellation,SpaceX,retail,2026-06-17-nigeria-starlink-premium-customers-tax-businessday
+NGA,Starlink direct-to-cell (Airtel Africa),,other,,Airtel Africa/SpaceX,,2026-06-17-nigeria-starlink-premium-customers-tax-businessday
+NGA,Starlink,Starlink,satellite,LEO constellation,SpaceX,retail,"2026-05-26 Africa risks losing billions to satellite internet operators, report says"
+NGA,Starlink,Starlink,satellite,LEO constellation,SpaceX,retail,2026-04-20-starlink-nigeria-april-2026-pricing-explainer
+NGA,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,,2026-03-31-murray-bruce-starlink-exploitation-nigeria
+NGA,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,,2026-02-26-starlink-nigeria-n159000-priority-plan
+NGA,Amazon Kuiper,Amazon Kuiper,satellite,"LEO satellite broadband, licensed, not yet on sale",Amazon,,2026-02-26-starlink-nigeria-n159000-priority-plan
+NGA,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,,2026-02-11-starlink-half-million-ssa-dataxis
+NGA,Amazon Kuiper,Amazon Kuiper,satellite,"LEO satellite broadband, licensed, not yet on sale",Amazon,,2026-02-11-starlink-half-million-ssa-dataxis
+NGA,Spacecoin,Spacecoin,other,blockchain-integrated satellite pilot,Spacecoin,,2026-01-13 Spacecoin strikes major deals to launch satellite internet
+NGA,Starlink,Starlink,satellite,LEO satellite broadband,SpaceX,,2026-01-12-starlink-lagos-abuja-unavailable-three-months
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2024-12-06-starlink-destabilizing-power-africa-elpais
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2024-10-28-starlink-suspends-nigerian-tariff-hike
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2024-10-25-starlink-halts-price-hike-technext
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries
+NGA,Starlink,Starlink,satellite,LEO,SpaceX,households,2026-07-23-starlink-capacity-limits-11-african-markets
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-06-29-starlink-africa-availability-costs-performance
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-06-26-africa-telcos-starlink-playbook-techcabal
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-06-24-namibia-shuts-door-starlink-twice-cioafrica
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-05-19-uga-independent-starlink-licence
+NGA,Starlink,Starlink,satellite,,SpaceX,,2025-07-29-starlink-global-outage-africa-kasi-insight
+NGA,Starlink,Starlink,satellite,,SpaceX,,2025-01-14-togo-techs-tg-starlink-en-afrique-espoirs-et-regulation
+NGA,Starlink,Starlink,satellite,,SpaceX,,2024-07-18-starlink-battles-africa-regulators-semafor
+NGA,Starlink,Starlink,other,,SpaceX; Airtel Africa partner,"enterprise connectivity, satellite backhaul, direct-to-device",2026-09-01-airtel-africa-1-1bn-investment-power-vandalism
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-08-27-techcabal-three-companies-control-70-percent-nigeria-isp-market
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-06-16 Who Owns Africa's Sky
+NGA,Project Kuiper,Project Kuiper,satellite,,Amazon,,2026-06-16 Who Owns Africa's Sky
+NGA,Starlink Direct-to-Cell,Starlink Direct-to-Cell,other,,SpaceX; Airtel Africa,direct-to-cell,2026-06-16 Who Owns Africa's Sky
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-04-14 Amazon's $9bn satellite deal set to benefit Africa
+NGA,Project Kuiper (Leo),Project Kuiper (Leo),other,,Amazon,,2026-04-14 Amazon's $9bn satellite deal set to benefit Africa
+NGA,Globalstar,Globalstar,other,,Globalstar,,2026-04-14 Amazon's $9bn satellite deal set to benefit Africa
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-01-15 Amazon Leo secures landing permit in Nigeria
+NGA,Amazon Leo,Amazon Leo,satellite,,Amazon,,2026-01-15 Amazon Leo secures landing permit in Nigeria
+NGA,Starlink,Starlink,satellite,,SpaceX,,2023-02-02-nga-fmino-buhari-launches-national-data-policy
+NGA,Starlink,Starlink,satellite,,SpaceX,,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
+NGA,direct-to-device satellite consultation,,other,,Nigerian Communications Commission,,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
+NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-09-16-nga-hughes-nigcomsat-2a-2b-jupiter-gateway-ground-segment
+NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-09-14-nga-thales-alenia-space-nigcomsat-2a-contract
+NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-08-28-nigeriacommunicationsweek-nigcomsat-financing-structure
+NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-08-25-calcalist-iai-thales-nigcomsat-2a-2b-two-billion
+NGA,NIGCOMSAT-2A/2B,NIGCOMSAT-2A and NIGCOMSAT-2B,other,,NIGCOMSAT,,2026-08-24-nigeria-iai-thales-alenia-space-deux-satellites-wearetech
+NGA,NIGCOMSAT-2A/2B,"NIGCOMSAT-2A, NIGCOMSAT-2B",other,high-throughput GEO satellites,NIGCOMSAT,,2026-08-22-saharareporters-nigcomsat-2a-2b-approval

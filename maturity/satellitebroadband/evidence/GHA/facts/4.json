@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-13-starlink-partners-connects-30-volta-schools-to-high-speed-internet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "LEO satellite",
+   "owner": "Starlink for Good / Learning Upgrade / Our Future Prize",
+   "tiers": "schools (30 in Volta Region)"
+  }
+ ],
+ "note": "Free school connections under a charity project; no licence, sale or count stated."
+}

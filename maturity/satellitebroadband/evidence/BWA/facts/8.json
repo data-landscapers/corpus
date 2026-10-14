@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-14-paratus-eutelsat-mining-connectivity-itweb",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Botswana, in a company press release, says it provides Eutelsat low-earth-orbit (OneWeb) satellite services combined with terrestrial links to mining operations in Botswana; date is the release date, none other given.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "OneWeb",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eutelsat OneWeb",
+   "country_label": "Eutelsat OneWeb",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus Botswana",
+   "country_label": "Paratus Botswana",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

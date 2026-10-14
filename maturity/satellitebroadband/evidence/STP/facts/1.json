@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-starlink-begins-service-stp",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink activated service in Sao Tome and Principe on 11 December 2025 and made it available to buy and install, with Standard Kit at STN 5,500, Mini Kit at STN 4,400, Residential at STN 1,700 a month and Residential Lite at STN 1,300 a month, per Space in Africa citing Starlink's announcement.",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

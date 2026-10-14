@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-30-cameroon-starlink-equipment-seizures",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Cameroon customs seized Starlink kits at its borders because Starlink had no licence in Cameroon, and Starlink planned to stop service there on 30 April 2024; customs said seizures continue until the telecoms regulator licenses it.",
+   "as_of": "2024-04-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

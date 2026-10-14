@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-03-djibouti-telecom-at-a-crossroads",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Djibouti Telecom's CEO says there is no clear regulatory framework for Starlink-type players; no licence, sale or ban in DJI is stated."
+}

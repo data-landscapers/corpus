@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-us-starlink-approval-170m-data-centre-garcia-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "A US Assistant Secretary of State announced on 16 July 2026 that the Ivorian government gave final approval for Starlink to provide commercial high-speed internet services across Côte d'Ivoire.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

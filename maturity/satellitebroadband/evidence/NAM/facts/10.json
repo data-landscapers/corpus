@@ -1,0 +1,46 @@
+{
+  "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "CRAN rejected Starlink's application for a telecommunications service licence and spectrum on 23 March 2026, mainly because Starlink is wholly foreign owned against the 51% local ownership rule in Section 46 of the Communications Act.",
+      "as_of": "2026-03-23",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "CRAN dismissed all appeals against the Starlink rejection on 22 June 2026, saying the application remained non-compliant with ownership and control requirements; Starlink reportedly missed the 23 April appeal deadline.",
+      "as_of": "2026-06-22",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "In November 2024 CRAN issued a cease-and-desist order after finding Starlink operating without a licence, warned consumers against buying Starlink equipment and confiscated terminals from users.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

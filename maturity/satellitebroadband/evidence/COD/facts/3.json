@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-15-drc-airtel-starlink-direct-to-cell-businessday",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Starlink Mobile",
+   "class": "other",
+   "platform": "direct-to-cell",
+   "owner": "Airtel DRC with Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-cell service, not satellite broadband sold to households; no satellite broadband fact stated."
+}

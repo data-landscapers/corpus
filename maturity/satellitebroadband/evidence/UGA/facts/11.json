@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Agence Ecofin reports that Starlink's official availability map lists Uganda among 16 African markets marked 'Starting in 2026', shown as service coverage or regulatory authorisation pending, so not yet available in Uganda; no launch date given (article date used).",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Services LLC (SpaceX)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

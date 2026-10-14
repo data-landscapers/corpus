@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-myzimbabwe-telone-fibre-ppp-expansion",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink received approval to operate in Zimbabwe in 2024 and serves homes, businesses, farms and schools; its traffic, classed as VSAT in regulatory statistics, rose from 117.83 to 168.21 petabytes between Q3 and Q4 2025, and VSAT subscriptions rose over 31% to 67,057 (the article does not name the publishing regulator; article date used for the figures' period end, Q4 2025).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Zimbabwe (Pvt) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-sudantribune-rsf-ferme-aswaq-nahud-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The Rapid Support Forces ordered Starlink satellite internet networks disabled indefinitely in En Nahud locality, West Kordofan, from 26 August 2026, per the Dar Hamar emergency room; this is a ban by an armed group, not by the regulator.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

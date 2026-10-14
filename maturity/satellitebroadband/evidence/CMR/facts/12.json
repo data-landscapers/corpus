@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-06-starlink-destabilizing-power-africa-elpais",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "El Pais quotes an analyst saying Cameroon forced Starlink to cease operations earlier in 2024 for lack of a licence, even ordering seizure of Starlink equipment at its ports (month not given; year taken from the article).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

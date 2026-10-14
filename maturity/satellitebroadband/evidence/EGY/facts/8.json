@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The article places Egypt among countries in regulatory limbo for Starlink, neither approved nor explicitly banned, so no approval is stated; article date used.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

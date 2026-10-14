@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink is kept out of South Africa entirely by the 30 percent local equity licensing rule, a standoff of more than two years without resolution, per Connecting Africa as cited; date is the article's published date.",
+      "as_of": "2026-06-27",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

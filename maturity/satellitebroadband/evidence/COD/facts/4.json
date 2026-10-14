@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-14-drc-airtel-starlink-direct-to-cell-numerico",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Direct-to-Cell (D2C)",
+   "class": "other",
+   "platform": "direct-to-cell",
+   "owner": "Airtel Congo RDC SA with Starlink RDC; ARPTC communique",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-cell service, not satellite broadband sold to households; no satellite broadband fact stated."
+}

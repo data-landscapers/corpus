@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-13-starlink-banned-pending-licence-anrtic-alwatwan",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "none", "fact": "Al-Watwan reports that the regulator Anrtic announced on 12 June 2025 a government ban, by ministerial circular signed 9 June 2025, on installing, testing, deploying or using Starlink satellite internet in Comoros, no authorisation having been granted to Starlink, with field checks to identify existing users (some subscribing from Madagascar or France).", "as_of": "2025-06-12", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "LEO satellite network", "owner": "SpaceX", "tiers": "households and organisations (unlicensed use)"}
+  ],
+  "note": ""
+}

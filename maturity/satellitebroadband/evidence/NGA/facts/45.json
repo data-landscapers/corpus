@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-16-nga-hughes-nigcomsat-2a-2b-jupiter-gateway-ground-segment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NIGCOMSAT-2A/2B",
+      "country_label": "NIGCOMSAT-2A and NIGCOMSAT-2B",
+      "class": "other",
+      "platform": "",
+      "owner": "NIGCOMSAT",
+      "tiers": ""
+    }
+  ],
+  "note": "Satellite procurement and planned capacity for NIGCOMSAT-2A/2B; no licence, sale or regulator subscriber count stated for satellite broadband in NGA."
+}

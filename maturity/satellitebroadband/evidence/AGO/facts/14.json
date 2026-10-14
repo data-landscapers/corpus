@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-12-mercury-eutelsat-acordo-conectividade-leo",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Angop reports that Eutelsat is currently the only low-earth-orbit satellite operator licensed in Angola, with a local ground station and point of presence.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Eutelsat LEO",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Mercury signed a multiyear agreement with Eutelsat to supply low-earth-orbit satellite connectivity in Angola to businesses, public institutions, telecom operators and offshore clients; the document gives no subscriber figures or consumer sale.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Eutelsat LEO",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

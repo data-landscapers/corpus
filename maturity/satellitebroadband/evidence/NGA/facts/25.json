@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-starlink-capacity-limits-11-african-markets",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink's subscriber base in Nigeria declined about 10% after pauses in new residential subscriptions during capacity constraints between late 2024 and early 2025; article date not used for this period.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

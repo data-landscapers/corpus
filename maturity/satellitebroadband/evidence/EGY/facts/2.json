@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-18-egypt-starlink-mcit-negotiations-egypttelegraph",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Telegraph Egypt reported on 2025-06-18 that Starlink was not yet activated in Egypt, that selling or marketing it requires an official licence not yet held, and that talks with the ministry were under way; smuggled terminals are an offence under Article 77 of the telecom law, with confiscation.",
+      "as_of": "2025-06-18",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

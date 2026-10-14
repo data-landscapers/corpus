@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-10-unreliable-connectivity-impacts-burundi-citizens",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "Connecting Africa reports that Starlink received a licence in Burundi in May 2024.", "as_of": "2024-05", "date_precision": "month", "system": "Starlink", "class": "satellite"},
+    {"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "Connecting Africa reports that Starlink launched services in Burundi in September 2024; a commentator says it is too expensive for many citizens, with equipment above $500.", "as_of": "2024-09", "date_precision": "month", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "LEO satellite", "owner": "SpaceX", "tiers": ""}
+  ],
+  "note": ""
+}

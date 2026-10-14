@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Tech-ish reports SpaceX switched Starlink on in Seychelles on 18 July 2026, two days after Cote d'Ivoire, making it one of 28 African countries where the service is on sale.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-16 Who Owns Africa's Sky",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink has subscribers in Zimbabwe: 67,057 in Q4 2025, up 31.6% from Q3, its fastest-growing African market (operator or analyst count, not regulator-attributed).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

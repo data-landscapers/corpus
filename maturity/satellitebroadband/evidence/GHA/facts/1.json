@@ -1,0 +1,56 @@
+{
+ "slug": "2025-09-24-ghana-nca-itu-satellite-internet-connectivity-statistics",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 15,384 at 2025-06 (Q2 2025), per the NCA, satellite internet subscriptions in Ghana, up from 10,362 at Q4 2024 and 11,982 at Q1 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "satellite internet (all networks)",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 2,666 at 2024-03 (Q1 2024), per the NCA, satellite internet subscriptions in Ghana before Starlink was licensed.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "satellite internet (all networks)",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The NCA states it licensed Starlink in April 2024, under the Satellite Licensing Framework 2024, and that Ghana has 29 satellite licences of which 11 provide last-mile connectivity.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The NCA states satellite internet subscriptions in Ghana exceeded 15,000 by June 2025, sold by licensed last-mile satellite providers (11 licensed), following Starlink's licensing.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

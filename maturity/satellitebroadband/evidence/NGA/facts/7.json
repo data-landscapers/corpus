@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-20-nigcomsat-eutelsat-leo-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OneWeb",
+   "country_label": "Eutelsat OneWeb LEO services via Nigcomsat",
+   "class": "other",
+   "platform": "LEO",
+   "owner": "Eutelsat / Nigcomsat",
+   "tiers": "government, businesses, rural communities"
+  }
+ ],
+ "note": "Partnership announced to provide OneWeb LEO services; no licence, launch or sale to subscribers stated."
+}

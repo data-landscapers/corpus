@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-05-sierra-leone-400m-telecom-usage-gap",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Connecting Africa reports that SpaceX's Starlink satellite internet service launched in Sierra Leone in June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

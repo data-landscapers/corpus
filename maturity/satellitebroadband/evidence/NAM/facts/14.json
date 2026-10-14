@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-namibia-starlink-refused-businessday",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN denied Starlink's application to operate in Namibia for failing the 51% local-ownership rule (Starlink's Namibian entity had 0% Namibian shareholding) and the minister did not grant an exemption (as_of is the article date, which gives no decision date).",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

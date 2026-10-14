@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-26-orange-undp-digital-inclusion-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "In January 2026 Orange Côte d'Ivoire and Eutelsat launched Orange Sat, a satellite broadband internet service for underserved areas.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Eutelsat",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Sat",
+   "country_label": "Orange Sat",
+   "class": "satellite",
+   "platform": "Eutelsat",
+   "owner": "Orange Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite network not specified beyond Eutelsat; OneWeb deal of June 2025 is stated as background, not as Orange Sat's network."
+}

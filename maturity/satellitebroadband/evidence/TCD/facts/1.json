@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Telecommunications Minister Boukar Michel told deputies that Starlink's concession is a multiservice Internet Service Provider licence, granted on the operator's request after a favourable ARCEP technical opinion.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

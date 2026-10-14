@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Le360 lists Eswatini among 29 African countries where Starlink has been granted a licence and is operational; no licence date or licensing body is given, so as_of is the article's published date.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

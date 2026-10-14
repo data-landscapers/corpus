@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus EduLink (Starlink-powered)",
+   "country_label": "EduLink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Paratus",
+   "tiers": "schools"
+  }
+ ],
+ "note": "Rwanda named only in a list of countries where Paratus EduLink school connectivity runs; school service, not a general sale or licence statement."
+}

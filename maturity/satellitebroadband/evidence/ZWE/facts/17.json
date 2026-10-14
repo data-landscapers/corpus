@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-22-zimbabwe-potraz-chivayo-starlink-agents",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink had applied to POTRAZ for authorisation to introduce satellite internet in Zimbabwe and, per Nehanda Radio on 22 July 2024, no authorisation is reported; POTRAZ revoked the exclusive Starlink rights said to have been given to IMC Communications and said licences are not technology-specific, so any licensed ISP may use Starlink.",
+   "as_of": "2024-07-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Application pending as of article date; no licence or sale stated."
+}

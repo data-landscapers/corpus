@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-15 Starlink drives African broadband speeds higher",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Ookla research reported by ITWeb says Starlink points of presence in Johannesburg and Nairobi cut latency, giving Kenya the lowest continental Starlink latency at 39ms, which implies Starlink is in use by customers in Kenya (as_of is the article's published date, none other given).",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "Kenya latency only; no licence statement."
+}

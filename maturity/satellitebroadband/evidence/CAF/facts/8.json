@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-19-car-taps-starlink-itweb",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched commercially in Bangui on Monday (the week of the 19 March 2026 article) through a partnership between the government and DEVEA Centrafrique; standard kit about 265,000 CFA francs, monthly subscription 33,000 CFA francs, and 450 kits with 12-month subscriptions secured by the government.",
+   "as_of": "2026-03-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions Eutelsat OneWeb only as a pan-African rival, not as on sale in CAF."
+}

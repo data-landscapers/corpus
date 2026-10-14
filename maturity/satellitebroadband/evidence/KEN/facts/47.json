@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-30-ken-muranga-starlink-telemedicine",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Paratus Group (installer and service provider)",
+   "tiers": "Murang'a county government, 170 public health facilities"
+  }
+ ],
+ "note": "Starlink links only county government health facilities under a county contract with Paratus; public subscription for nearby schools and institutions is an intention, not stated as on sale."
+}

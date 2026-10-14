@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-16-starlink-5g-digital-growth-telecomreview",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Minister of Digital Transition said on 11 June 2026 that Starlink has received a 12-month provisional licence to deliver fixed satellite internet nationwide, with operations due to start in July 2026.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

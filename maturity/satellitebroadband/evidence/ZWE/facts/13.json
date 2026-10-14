@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-16-govt-defends-starlink-rollout",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ICT minister Mavetera told the National Assembly that Starlink has been licensed in Zimbabwe; no licence date or type given, so as_of is the article date.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is on sale to Zimbabwean users with several subscription packages including lower-cost options; MPs cited prices rising from about US$65 to over US$100; as_of is the article date.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

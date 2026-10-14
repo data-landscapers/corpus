@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,satellite,service,coverage,sale,2026-07-17,NER-001;NER-003;NER-004;NER-006;NER-007;NER-008;NER-009,NER-010=licensed;NER-002=none;NER-005=licensed,
+NER,satellite,counted,coverage,,,,,nothing held

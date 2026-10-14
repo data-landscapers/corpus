@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "LTA Board Chairman Clarence Massaquoi said in an interview that Starlink has entered Liberia ('Starlink is here today') while the LTA drafts its first satellite regulations; the article does not describe a licence or subscriber count.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Starlink (school installation project, 156 schools, about 90 reached, overseen by LTA)",
+   "tiers": ""
+  }
+ ],
+ "note": "One sale fact from the LTA chairman's statement; the schools project is state-contract and not a fact."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-16 Who Owns Africa's Sky",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink has entered the Nigerian market, with entry allowed within a negotiated framework under regulatory scrutiny of pricing; the article gives no entry date, so the publication date is used.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Amazon obtained a seven-year landing permit from the Nigerian Communications Commission in early 2026 to launch Project Kuiper satellite broadband in Nigeria.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Kuiper",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Project Kuiper",
+   "country_label": "Project Kuiper",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Starlink Direct-to-Cell",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX; Airtel Africa",
+   "tiers": "direct-to-cell"
+  }
+ ],
+ "note": ""
+}

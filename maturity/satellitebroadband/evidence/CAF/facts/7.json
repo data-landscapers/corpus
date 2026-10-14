@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-28-car-blocks-starlink-roaming-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Authorities suspended use of Starlink kits in roaming mode (devices bought abroad and used locally without national approval), as outside the regulatory framework; the document is dated 2026-04-28 and gives no earlier date for the suspension.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched commercially in CAR in March 2026; a standard kit costs CFA240,000 and the monthly subscription CFA33,000 before taxes, and users can legally buy a kit locally.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

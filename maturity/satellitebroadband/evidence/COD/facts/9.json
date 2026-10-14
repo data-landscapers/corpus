@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-tan-satellite-internet-layer-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink satellite-to-mobile",
+   "country_label": "Airtel DRC Starlink direct-to-cell",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  }
+ ],
+ "note": "Only COD mention is Airtel's August 2026 Starlink satellite-to-mobile launch, which is direct-to-phone, not a fact; other content is pan-African or other countries."
+}

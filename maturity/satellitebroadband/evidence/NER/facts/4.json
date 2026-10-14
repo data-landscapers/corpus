@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-17-starlink-beams-into-niger-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Niger's communications ministry announced Starlink commercial availability (residential and corporate kits online and via authorised sellers), and Starlink said service was operational, following a November 2024 agreement with the government; the document gives the launch as March 2025, its published date.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch date 13 March is stated in document 5, not here."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Zimbabwe named only for competitive Starlink monthly fees (price mention); no dated fact."
+}

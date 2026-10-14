@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Zambia is listed among markets that approved Starlink quickly, without local-ownership requirements or with them set aside; no date or licence detail given, so the article's published date is used.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

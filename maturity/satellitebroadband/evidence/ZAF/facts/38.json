@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-18-starlink-battles-africa-regulators-semafor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "date_precision": "day",
+   "as_of": "2024-07-18",
+   "fact": "Semafor reports ICASA banned Starlink services pending licensing requirements (30% ownership by historically disadvantaged groups), though the service stayed online; the article gives no ban date, so its publication date is used.",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

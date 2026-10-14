@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-28-south-africa-starlink-service-terminated",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "date_precision": "day",
+   "as_of": "2024-04-28",
+   "fact": "ICASA confirmed it had received no licence application from Starlink or any satellite operator; Starlink was not licensed in ZAF and said it would cut unauthorised roaming use from 30 April 2024, with direct purchase not possible in South Africa.",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-02-senegal-starlink-wifi-warning-ecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink satellite internet has been officially available in Senegal since February 2026, with monthly subscriptions estimated at CFA22,000 to CFA30,000 excluding equipment.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "In August 2023 several individuals were arrested in Senegal for selling Starlink-enabling terminals without prior authorisation; ARTP warned on 2026-03-31 that reselling or sharing Starlink connections as community WiFi without a licence is illegal.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

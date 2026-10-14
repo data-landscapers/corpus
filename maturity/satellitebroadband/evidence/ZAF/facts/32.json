@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-12-sa-eases-ownership-rules-starlink",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Excerpt only: states rules will be amended, which could open the door to Starlink; no licence, sale or ban stated."
+}

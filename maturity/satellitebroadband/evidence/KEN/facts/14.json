@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-18-starlink-kenya-speeds-plunge-dawan",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Internet Services Kenya entered the Kenyan market in June 2023 and is sold to households and businesses; it holds about 97% of satellite broadband subscriptions, per the article.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  },
+  {
+   "system": "Amazon Kuiper",
+   "country_label": "Project Kuiper",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": "ground station selected in Kenya, no service stated"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Lesotho is named among 25 African countries where Starlink operates as of November 2025, with Vodacom authorised to resell Starlink equipment and broadband services in its markets.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

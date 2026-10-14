@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-cpv-mindelinsite-bizgital-cabo-verde-telecom",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "An opinion piece states ARME authorised Starlink's entry into Cabo Verde in October 2024.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The piece states Starlink took 0.2% of the internet market in nine months to June 2025, with CV Telecom at 72.3%.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Cabo Verde",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

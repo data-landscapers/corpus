@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-05-sen-artp-starlink-cadre-autorisation",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTP director general Dahirou Thiam said Starlink has been authorised on the basis of specifications ARTP drew up with the ministry; the date of the authorisation is not given, so the article's publication date is used.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Sénégal SUARL",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

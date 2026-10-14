@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,satellite,service,coverage,sale,2026-07-17,MOZ-001;MOZ-002;MOZ-003;MOZ-005;MOZ-007;MOZ-008,MOZ-004=licensed;MOZ-006=licensed,
+MOZ,satellite,counted,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Nigeria in January 2023, its first African market, and the NCC's count shows it as the country's second-largest internet service provider.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 91,991 at 2025-Q4, per the Nigerian Communications Commission (Starlink subscribers).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

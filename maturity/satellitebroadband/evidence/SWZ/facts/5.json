@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus EduLink",
+   "country_label": "Paratus EduLink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Paratus (reseller)",
+   "tiers": "schools"
+  }
+ ],
+ "note": "Eswatini named only for school connectivity via EduLink; no household or business sale stated."
+}

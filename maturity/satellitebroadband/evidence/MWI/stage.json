@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "3",
+   "service": "sale",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-001",
+   "gaps": "No source held says services on two different satellite networks are on sale.",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

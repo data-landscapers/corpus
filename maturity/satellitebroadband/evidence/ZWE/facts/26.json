@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink is live in Zimbabwe, listed among recent launches and as active, billed directly in USD; the article cites over 67,000 Zimbabwe subscribers (analyst/press figure, not a regulator count). Date is the article's published date, none given.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

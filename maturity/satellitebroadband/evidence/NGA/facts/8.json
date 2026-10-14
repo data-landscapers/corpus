@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-tan-satellite-internet-layer-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Nigeria satellite connectivity",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nigeria",
+   "tiers": "backhaul where fibre impractical"
+  }
+ ],
+ "note": "Nothing stated about satellite broadband sale or licence in Nigeria; only Airtel satellite backhaul."
+}

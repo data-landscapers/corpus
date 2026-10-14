@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-18 Starlink pushes for SA license with advocacy campaign",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink says it cannot apply for the licences needed to operate in South Africa under current 30% ownership rules; it has no licence and is lobbying Icasa (policy direction on EEIPs issued 2025-12-12).",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

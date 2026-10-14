@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-why-amazon-partnered-where-starlink-pushed-back",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink has been unable to launch commercially in South Africa after refusing to comply with the 30% local ownership requirement, per TechCabal on 16 July 2026.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon / Herotel",
+   "tiers": ""
+  }
+ ],
+ "note": "Amazon Leo via Herotel (evry) launches in 2027, not yet on sale."
+}

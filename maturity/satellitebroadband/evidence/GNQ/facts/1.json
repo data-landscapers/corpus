@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-gnq-equatorial-guinea-starlink-sales-to-run-via-ortel",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Equatorial Guinea's government decided on 2026-09-09 that all Starlink sales go through the regulator ORTEL (legal selling authority under the State Secretariat for Artificial Intelligence) and that contracts bought outside official channels be cancelled; the outlet (Tech.Africa) says the service has not formally launched and no price or date was given.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

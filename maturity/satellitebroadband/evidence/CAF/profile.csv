@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,satellite,service,coverage,sale,2026,CAF-002;CAF-007;CAF-009;CAF-010;CAF-011;CAF-013;CAF-014;CAF-018;CAF-019;CAF-020;CAF-021,CAF-001=licensed;CAF-003=none;CAF-022=licensed;CAF-008=none;CAF-005=none;CAF-004=none;CAF-006=licensed;CAF-012=licensed;CAF-015=licensed;CAF-016=licensed;CAF-017=licensed,
+CAF,satellite,counted,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-27-techcabal-three-companies-control-70-percent-nigeria-isp-market",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is sold in Nigeria as a licensed ISP and had 98,642 active subscribers in June 2026, per NCC data reported by TechCabal.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 98,642 at 2026-06, per NCC (Starlink, as one of the licensed ISPs in NCC data released 25 August 2026).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

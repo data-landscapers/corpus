@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-22-zimbabwe-chinese-company-starlink-fine",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Nehanda Radio reported on 22 Feb 2024 that Starlink was not licensed in Zimbabwe and that POTRAZ requires it to obtain licences before operating.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "A Bindura magistrate fined SAN HE Mining US$700 for operating Starlink equipment without POTRAZ authorisation; police seized the router and antenna after a POTRAZ report of 5 Dec 2023.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

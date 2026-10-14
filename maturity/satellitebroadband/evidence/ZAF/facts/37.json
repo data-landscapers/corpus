@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-06-starlink-destabilizing-power-africa-elpais",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "date_precision": "day",
+   "as_of": "2024-12-06",
+   "fact": "An analyst quoted by El Pais says Starlink still has no operator's licence in South Africa because it does not meet the 30% Black ownership requirement; the article gives no other date, so its publication date is used.",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

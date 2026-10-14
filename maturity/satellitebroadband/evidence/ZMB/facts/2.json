@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-22-starlink-26-african-markets-report",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Space in Africa reports Zambia is among the top three African countries by Starlink subscribers (with Nigeria and Zimbabwe, about 64% of roughly 300,000 African customers) as of June 2026; the figure is an analyst's, not the regulator's.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

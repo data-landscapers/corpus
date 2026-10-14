@@ -1,0 +1,56 @@
+{
+  "slug": "2026-06-19-nigeria-starlink-q4-2025-ncc-analysis",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 91,991 at 2025-Q4 (end December 2025), per NCC subscriber statistics, for Starlink Internet Services Nigeria Ltd.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 66,523 at 2025-Q2, per NCC subscriber statistics, for Starlink Internet Services Nigeria Ltd.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "counted",
+      "value": "counted",
+      "fact": "Subscribers: 59,509 at 2025-Q1, per NCC subscriber statistics, for Starlink; down from 65,564 at Q3 2024 after a price rise and capacity limits.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink Internet Services Nigeria Ltd sells satellite internet in Nigeria and ended Q4 2025 with 91,991 subscribers, the second-largest ISP behind Spectranet.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink Internet Services Nigeria Ltd",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX / Starlink Internet Services Nigeria Ltd",
+      "tiers": "retail, one declared POP"
+    }
+  ],
+  "note": ""
+}

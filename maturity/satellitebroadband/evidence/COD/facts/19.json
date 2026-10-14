@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-15 Starlink drives African broadband speeds higher",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a Starlink latency figure for DR Congo (127 ms, no local gateway); no licence or sale statement."
+}

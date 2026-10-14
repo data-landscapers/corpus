@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The article lists the Democratic Republic of the Congo among the 25 African countries where Starlink operates as of November 2025; it gives no COD-specific licence, seller or subscriber detail (published 2026-01, no other date).",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink Direct-to-Cell with Airtel",
+   "country_label": "Starlink Direct-to-Cell with Airtel",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX/Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Airtel direct-to-cell and backhaul and Vodacom resale are pan-African, not stated for COD; only the country list names COD."
+}

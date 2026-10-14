@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-28-namibia-starlink-stop-services-bi-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN ordered Starlink to halt operations for lack of a licence, warned the public against buying terminals or subscribing, confiscated terminals, and said Starlink's licence application remained under review (article dated 28 November 2024).",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

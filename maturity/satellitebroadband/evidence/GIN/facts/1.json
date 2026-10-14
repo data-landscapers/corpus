@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-mediaguinee-fesatel-ftth-wifi-zones-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The telecom union FESATEL's secretary general said on 21 May 2026 that Starlink is not recognised in Guinea today and Wifi-Zone operators must not use Starlink equipment to provide internet.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

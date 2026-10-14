@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-28-south-africa-starlink-crackdown-mybroadband",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "MyBroadband reports ICASA's November 2023 gazetted notice that Starlink operation is unlicensed and equipment unapproved remains current; ICASA investigation and inspections announced 28 May 2025, with fines up to R5 million or 10% of turnover per day for unlicensed service.",
+   "as_of": "2025-05-28",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

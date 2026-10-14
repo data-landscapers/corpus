@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Le360's May 2026 regulatory-status table lists Sierra Leone among countries where Starlink has been granted a licence and is operational; no licence date or licensing body given.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

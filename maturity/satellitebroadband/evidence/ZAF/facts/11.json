@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The Department of Communications and Digital Technologies told parliament in June 2026 that ICASA had received no licence application from Starlink of any kind, so Starlink cannot sell in South Africa; it awaits a proposed rule change on the 30% ownership requirement.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon / Herotel",
+   "tiers": ""
+  }
+ ],
+ "note": "Amazon Leo via Herotel (evry) is a distribution agreement of 15 July 2026 for a 2027 launch, not on sale."
+}

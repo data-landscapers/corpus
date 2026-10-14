@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Le360 lists Togo among countries where Starlink is announced as available from 2026 but no licence has been granted; the article's date is used as the date.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

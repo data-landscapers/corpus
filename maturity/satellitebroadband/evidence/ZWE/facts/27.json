@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-27-starlink-rural-africa-impact-techtrends",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink new residential sign-ups were frozen in Zimbabwe, among several countries with similar capacity-driven freezes, per Ecofin Agency as cited; no date given for the Zimbabwe freeze, article published 2026-06-27.",
+      "as_of": "2026-06-27",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Freeze is a capacity limit, not a ban; recorded as none (suspension of sale) with undated as_of."
+}

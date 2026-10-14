@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-31-starlink-biometric-66000-subscribers",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink sells residential internet in Nigeria; TechCabal reports over 66,000 Nigerian subscribers (no source given for the count) faced service suspension after 31 December 2025 unless they completed an NCC-mandated biometric update, and Lagos and Abuja areas showed as at capacity.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": "Subscriber figure is not attributed to the NCC, so no counted fact."
+}

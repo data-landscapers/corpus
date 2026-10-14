@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-24-sen-aps-starlink-autorisation-cinq-ans",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Communications minister Alioune Sall told the National Assembly on 23 February 2026 that Starlink holds a five-year operating authorisation in Senegal, with an annual ARTP compliance audit; grant date not given, so as_of is the announcement date.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

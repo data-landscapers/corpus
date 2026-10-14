@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "none", "fact": "Agence Ecofin reports that Starlink's official availability map lists Comoros among 16 African countries marked 'Starting in 2026' with no launch date, a status the map legend defines as coverage or regulatory authorisation pending, so Starlink service is not yet available there.", "as_of": "2026-08-31", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "LEO satellite network", "owner": "SpaceX", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-airtel-kenya-spacex-direct-to-cell-approval",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink direct-to-cell",
+   "country_label": "Airtel Kenya SpaceX Direct-to-Cell",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Kenya / SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-phone service awaiting CA approval; not satellite broadband."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "TechnoMag lists Somalia among 26 countries where Starlink is active as of mid-2026, billed in USD at 70 a month for Residential, 390 for the Standard kit and 200 for the Mini.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

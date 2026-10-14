@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-gnq-meta-tax-starlink-ortel-centralisation",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "A 2026-09-09 government session praised the Transport Ministry's agreement with Starlink to market satellite internet in Equatorial Guinea, placed legal selling authority with ORTEL, ordered individuals' contracts outside official channels cancelled, and noted oil companies are already authorised to use the network offshore.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

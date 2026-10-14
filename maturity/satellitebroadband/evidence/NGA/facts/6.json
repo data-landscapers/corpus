@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-10-starlink-second-largest-isp",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink, operated by SpaceX, sells satellite internet in Nigeria and had 65,564 subscribers at the end of 2024, up from 23,897 in 2023, making it the second-largest ISP, citing NCC data.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 65,564 at 2024-12, per NCC (Starlink, as reported by TechCabal; up from 23,897 in 2023).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

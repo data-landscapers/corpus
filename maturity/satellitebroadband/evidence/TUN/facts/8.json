@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-26-trade-gov-tunisia-telecommunications-country-commercial-guide",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a March 2025 call for proposals to study satellite internet viability and 2023 Starlink pilot tests; no licence, sale or ban stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-06-paratus-mphande-hills-primary-school-connectivity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Paratus Essential Access (Starlink kit)",
+      "country_label": "Paratus Essential Access (Starlink kit)",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "Paratus Zambia",
+      "tiers": "school"
+    }
+  ],
+  "note": "Starlink kit donated to a school; no sale or licence stated."
+}

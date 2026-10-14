@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-02-senegal-artp-illegal-wifi-warning",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "ARTP warning of 31 March 2026 against unlicensed resale of internet via community Wi-Fi, including on Starlink terminals; no licence, sale or ban of the provider itself stated."
+}

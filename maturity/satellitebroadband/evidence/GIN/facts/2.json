@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Agence Ecofin reported on 31 August 2026 that Guinea is among 16 countries marked 'Starting in 2026' on Starlink's availability map, meaning coverage or regulatory authorisation pending, and that Starlink service is still not available there despite a 2025 target.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

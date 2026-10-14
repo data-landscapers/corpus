@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-04-civ-artci-starlink-frequences",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Ministerial order no. 018 of 15 July 2025 gave Starlink a provisional authorisation to establish and operate a public network, pending an individual C1C licence.",
+   "as_of": "2025-07-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI decision no. 2025-1301 of 25 September 2025 authorised Starlink Network CIV to use eight frequency bands for a non-geostationary satellite network, letting it legally provide fixed internet access.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX / Starlink Network CIV",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

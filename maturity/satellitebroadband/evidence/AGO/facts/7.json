@@ -1,0 +1,27 @@
+{
+  "slug": "2026-06-23-angola-starlink-avanca-em-africa-mas-namibia-angola-africa-do-sul-resistem",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Eutelsat OneWeb secured a 15-year operating licence in Angola in July 2025, and later partnered with Paratus Group to extend LEO satellite connectivity including Angola.",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "OneWeb",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink is not launched in Angola: the minister says negotiation is in its final phase, but the process has dragged over two years, launch is rescheduled to 2026, and it is unclear where the licensing process with INACOM stands (as_of is the article date).",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-08-starlink-kenya-seven-counties-techweez",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Kenya in July 2023 and sells equipment and data plans to Kenyan customers (50GB plan at KES 1,300 a month, dish about KES 49,900 or rental KES 1,950 a month).",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: just over 8,000 Starlink subscribers at June 2025, per Communications Authority figures cited by the article.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: nearly 25,000 Starlink subscribers at end of March 2026, per Communications Authority figures cited by the article.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink suspended new signups in seven Kenyan counties (Nairobi, Kiambu, Mombasa, Machakos, Murang'a, Kirinyaga, Kwale) and redirected buyers to a deposit waitlist because of capacity limits; a company suspension, not a regulatory ban.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX (Starlink Internet Services Kenya)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

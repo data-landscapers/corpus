@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-arme-indicadores-estatisticos-comunicacoes-eletronicas-1o-trimestre-2026",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "sale",
+     "fact": "ARME's Q1 2026 statistical report lists Starlink as one of three internet access providers in Cabo Verde, with 0.64% of internet subscriptions (about 3,300 of 511,702 total, derived), up 0.20 percentage points on Q4 2025; the other two are CVTelecom (72%) and Unitel T+ (27.3%).",
+     "as_of": "2026-03", "date_precision": "month", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "Starlink", "tiers": ""}
+  ],
+  "note": "ARME gives Starlink's market share of internet subscriptions, not a subscriber count, so no counted fact."
+}

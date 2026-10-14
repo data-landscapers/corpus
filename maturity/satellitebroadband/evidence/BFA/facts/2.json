@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-20-burkina-arcep-communique-commercialisation-irreguliere-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARCEP found Starlink supplying satellite internet by selling terminals in Burkina Faso without the authorisation the 2008 law requires, and stated Starlink held no authorisation to offer electronic communications services there.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation (SpaceX)",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

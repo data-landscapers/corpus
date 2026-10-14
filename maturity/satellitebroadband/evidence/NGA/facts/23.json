@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-25-starlink-halts-price-hike-technext",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink officially announced its presence in Nigeria in January 2023 and sells kits and monthly service there, per Technext.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink operates in Nigeria under NCC licence conditions; after the October 2024 price-rise announcement the NCC initially suspended Starlink's licence, then retracted the suspension.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

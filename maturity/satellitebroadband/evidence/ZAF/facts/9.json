@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-23-cell-c-starlink-amazon-leo-talks-techcentral",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "TechCentral reports on 2026-08-23 that Starlink remains unlicensed in South Africa after not meeting the 30% historically-disadvantaged ownership requirement.",
+   "as_of": "2026-08-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "TechCentral reports that ICASA said in a recent notice that satellite operators cannot currently obtain the network licences they need, and that route to market runs through an existing licence holder such as Herotel, which holds the licences for Amazon Leo's evry service (launch 2027); Cell C is only in talks to resell Starlink and Amazon Leo.",
+   "as_of": "2026-08-23",
+   "date_precision": "day",
+   "system": "Amazon Leo",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry via Herotel)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "Amazon Leo",
+   "owner": "Herotel (Maziv)",
+   "tiers": ""
+  },
+  {
+   "system": "Lynk Global direct-to-mobile",
+   "country_label": "",
+   "class": "other",
+   "platform": "Lynk",
+   "owner": "MTN South Africa",
+   "tiers": "trial"
+  }
+ ],
+ "note": "Cell C talks and direct-to-device are not facts."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Le360 lists Niger among 29 countries that have granted Starlink a licence as of May 2026; the grant date and licensing body are not given.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite constellation",
+   "owner": "SpaceX",
+   "tiers": "residential and corporate"
+  }
+ ],
+ "note": ""
+}

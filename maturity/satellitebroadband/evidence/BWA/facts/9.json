@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-trade-gov-ccg-botswana-telecommunications",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The US International Trade Administration guide says Starlink has entered the Botswana market and offers high-speed internet, particularly in remote areas; date is the guide's published month, none other given.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "BOTSAT-1 is an earth-observation satellite, not broadband."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-18-starlink-battles-africa-regulators-semafor",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Semafor says Starlink is sold in Nigeria at 38,000 naira a month with a 440,000 naira installation kit; date is the article's published date.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

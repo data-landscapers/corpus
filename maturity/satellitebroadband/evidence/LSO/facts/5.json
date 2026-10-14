@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-30-starlink-launch-tconnect-lestimes",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Lesotho Communications Authority granted Starlink a 10-year operating licence on 14 April 2025 after a year-long regulatory review.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink became available in Lesotho at a launch by authorised reseller T-Connect Lesotho in Maseru, with business packages from M1,600 a month and M10 hotspot access for uncapped daily data.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

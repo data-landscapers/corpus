@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-23-casem-2026-transition-digitale-souverainete-numerique",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "The Ministry of Digital Transition lists finalising Starlink's entry into the Burkinabe market as a 2026 priority, so Starlink was not yet in the market at the 23 March 2026 meeting.",
+      "as_of": "2026-03-23",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

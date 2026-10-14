@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-20-sudan-starlink-lifeline-or-war-facilitator",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink is unregulated in Sudan, and the regulator TPRA decided to block imports of Starlink devices, a decision taken before the RSF's February 2024 shutdown; the document gives no exact date so its publication date is used.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

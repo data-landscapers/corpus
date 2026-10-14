@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-09-sonatel-starlink-senegal-licence-suspension",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Ministerial order no 038974 of 6 November 2025 authorised Starlink Senegal Suarl (SpaceX subsidiary) to operate a fixed satellite internet access service for five years, on an ARTP specification.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Senegal was in official service by late March 2026 (the article cites osiris.sn: after official entry into service, ARTP warned in late March 2026 against resale via Starlink terminals); exact launch date not given.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Senegal's Supreme Court ordered the provisional suspension of Starlink Senegal's licence on 7 September 2026, on Sonatel's challenge to the 2025 order (reported 2026-09-09).",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Senegal",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX / Starlink Senegal Suarl",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

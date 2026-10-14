@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-20-itweb-malatsi-leo-icasa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    },
+    {
+      "system": "Amazon Leo",
+      "country_label": "Amazon Leo",
+      "class": "satellite",
+      "platform": "",
+      "owner": "Amazon",
+      "tiers": "entry via Herotel partnership"
+    }
+  ],
+  "note": "Policy and licensing-dispute article; no dated statement of licence, sale or absence for ZAF."
+}

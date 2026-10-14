@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026",
+  "facts": [],
+  "systems": [
+    {"system": "VSAT (IAM licence)", "country_label": "licence VSAT d'IAM", "class": "", "platform": "", "owner": "Maroc Telecom (IAM)", "tiers": ""}
+  ],
+  "note": "Only statement is that IAM's VSAT licence was renewed for 10 years to 2035 (Feb 2026); it does not say the licence covers internet sold to households or businesses, so no fact."
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-20-tan-satellite-internet-layer-africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is on sale in Kenya, with a capped plan priced at $10 a month in 2026 (about 5.5% of monthly GNI per capita); date is the article date as it gives none.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Amazon Kuiper Kenya Limited has applied for a 15-year International Gateway Operator licence, after an earlier application for a Network Facilities Provider licence; no Amazon licence is stated as granted.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Amazon Kuiper",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink temporarily stopped accepting new residential orders in several Kenyan counties in 2026 after available capacity was exhausted (capacity limit, not a regulatory ban); undated within 2026, article date used.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Internet Services Kenya",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX (Starlink Internet Services Kenya)",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Kuiper / Leo",
+   "country_label": "Amazon Kuiper Kenya Limited",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

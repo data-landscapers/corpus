@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-uga-airtel-starlink-satellite-to-mobile",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Mobile (direct-to-cell)",
+   "country_label": "Starlink Mobile",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-phone SMS and light data only; not satellite broadband."
+}

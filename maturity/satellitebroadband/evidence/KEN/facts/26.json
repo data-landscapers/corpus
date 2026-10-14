@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-23-kenya-safaricom-satellite-isp-block",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Kenya in 2023 and distributes hardware and connects users through third parties and resellers; the article says CA data shows Starlink users grew tenfold in Q1 2024 (no figure given), and a $10 monthly plan and, from 21 August 2024, a $15 kit-rental plan were offered.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite broadband",
+   "owner": "SpaceX",
+   "tiers": "households, businesses"
+  }
+ ],
+ "note": "Safaricom memo asking CA to bar unlicensed-local satellite ISPs is a proposal, not a fact; CA count is cited without a number."
+}

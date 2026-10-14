@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-04-zwe-digital-information-centres-masvingo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": "schools, clinics, local authorities"
+  }
+ ],
+ "note": "Starlink kits distributed by government to schools, clinics and local authorities: state-supplied sites, not sale to households or businesses."
+}

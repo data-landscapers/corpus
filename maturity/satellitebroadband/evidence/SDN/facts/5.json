@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-03-sudan-smuggled-starlink-dishes-lifeline-afp",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink is not officially available in Sudan and kits are smuggled in; the army-aligned government banned Starlink devices in December 2023, per AFP.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

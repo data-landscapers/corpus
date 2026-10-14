@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-06-mtn-zambia-starlink-direct-to-cell-test-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Direct to Cell",
+   "country_label": "Direct to Cell",
+   "class": "other",
+   "platform": "Starlink constellation",
+   "owner": "MTN Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-cell trial with MTN Zambia; not satellite broadband."
+}

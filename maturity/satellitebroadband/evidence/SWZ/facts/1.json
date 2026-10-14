@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-eswatini-commissions-starlink-satellite-gateway",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink satellite gateway",
+   "country_label": "Satellite Gateway (Starlink initiative)",
+   "class": "other",
+   "platform": "Starlink LEO",
+   "owner": "Government of Eswatini",
+   "tiers": "remote schools, clinics, businesses"
+  }
+ ],
+ "note": "Gateway commissioned 2026-04-28; document states expected service, not licence or sale to customers."
+}

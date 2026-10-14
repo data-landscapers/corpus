@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-mdg-assemblee-equipements-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink kit",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Development (MNDPT)",
+   "tiers": "National Assembly (government site)"
+  }
+ ],
+ "note": "Starlink kit donated to the National Assembly: government use only."
+}

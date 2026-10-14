@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-28-starlink-suspends-nigerian-tariff-hike",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink sells residential plans to Nigerian subscribers (1TB plan raised from N38,000 to N75,000 then the rise suspended), per Connecting Africa; article date used.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The NCC said Starlink's price rise breached the Nigerian Communications Act sections 108 and 111 and Starlink's licence conditions on tariffs, so Starlink holds an NCC licence; article date used.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "households"
+  }
+ ],
+ "note": ""
+}

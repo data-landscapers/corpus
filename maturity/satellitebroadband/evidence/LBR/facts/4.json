@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-22-liberia-lnp-starlink-vehicle-procurement-fpa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Police deny using Starlink at their facilities; government-site use only, no licence or sale statement."
+}

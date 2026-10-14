@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-19-starlink-convention-signing-primature-cf",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Signing of a government-Starlink agreement to complete installation; no licence, launch or sale stated."
+}

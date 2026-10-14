@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-26-starlink-hype-cities-silence-rural",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in ZWE in late September 2024 and is sold through authorised reseller Dandemutande; POTRAZ reported over 30,000 active terminals by Q1 2025.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Local ISPs received permission to offer satellite services in January 2025 (providers not named in the article).",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

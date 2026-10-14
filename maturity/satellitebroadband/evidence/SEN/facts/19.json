@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "TechnoMag lists Senegal among Starlink markets 'Active Now' in mid-2026 and gives Senegal prices of XOF 30,000 a month Residential, 22,000 Residential Lite, kits 146,000 Standard and 117,000 Mini; article dated 29 Jun 2026, used as the date.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

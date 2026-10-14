@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-19-starlink-license-chad-launch-niger",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Per Niger's Ministry of Communications, Starlink launched in Niger and kits for residential and corporate use are available for purchase, following a November 2024 agreement with the military government; kit sharing is prohibited (date is the article's published date, none given for the launch).",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite constellation",
+   "owner": "SpaceX",
+   "tiers": "residential and corporate"
+  }
+ ],
+ "note": ""
+}

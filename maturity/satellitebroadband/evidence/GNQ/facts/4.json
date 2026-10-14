@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-29-equatorial-guinea-starlink-available",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Elon Musk and Starlink's official X accounts announced on 2026-08-29 that Starlink service is now available in Equatorial Guinea, shown as available on the company coverage map (company announcement as reported by Revista Real EG).",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "In July 2026 the government temporarily authorised US offshore oil companies to use Starlink, by a document signed by the Minister of State for Transport, Telecommunications and Civil Aviation (offshore corporate use, temporary authorisation).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

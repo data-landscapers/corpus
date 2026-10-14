@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "The article lists Eswatini among markets that approved Starlink quickly, without naming a date or the licensing body; as_of is the article's published date as it gives none.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

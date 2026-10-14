@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-02-starlink-licence-officielle-actualite",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARPTC announced in a communique that Starlink DRC S.A. obtained a network and telecommunications services licence and is authorised to operate as an internet access provider in DRC, with launch planned within days (communique dated over the weekend of the 2 May 2025 article).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARPTC's March 2024 communique stated Starlink had obtained no operating title and no equipment approval, and that use of the network or sale of its terminals was illegal; the May 2025 licence reversed this.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink DRC S.A.",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink DRC S.A.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

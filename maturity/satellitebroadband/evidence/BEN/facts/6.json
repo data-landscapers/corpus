@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-01-arcep-bj-observatoire-internet-t1-2026",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "Starlink is listed by ARCEP Benin among the operators with fixed internet subscriptions in Benin, with 2,550 subscriptions at 31 March 2026 (1,013 at Q2 2025, 1,593 at Q3 2025, 2,215 at Q4 2025), and satellite is 1.99% of the fixed internet base.", "as_of": "2026-03-31", "date_precision": "day", "system": "Starlink", "class": "satellite"},
+    {"sub_indicator": "satellite", "aspect": "counted", "value": "counted", "fact": "Subscribers: 2,550 at 2026-03-31, per ARCEP Benin (Starlink, in the fixed internet subscriptions table of the Observatoire de l'Internet).", "as_of": "2026-03-31", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "STARLINK", "class": "satellite", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

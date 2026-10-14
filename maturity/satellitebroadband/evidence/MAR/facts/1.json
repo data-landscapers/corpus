@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-20-morocco-starlink-observation-anrt-challenge",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Challenge.ma reports that no approval for Starlink has been announced by the ANRT in Morocco; only a legal entity has been created and administrative preparations begun since 2024, so Starlink is not yet licensed.",
+      "as_of": "2026-05-20",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX (Starlink Internet Services Morocco)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

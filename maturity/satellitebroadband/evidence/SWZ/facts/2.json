@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-paratus-eswatini-drives-starlink-business-adoption",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Eswatini, a Paratus Group and Real Image Internet joint venture launched on 25 July 2025, is an authorised Starlink Business reseller that has completed installations across Eswatini, offering managed Starlink hardware, installation and support to businesses (ITWeb Africa).",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus EduLINK",
+   "country_label": "Paratus EduLINK",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Paratus Eswatini",
+   "tiers": "schools in underserved areas"
+  }
+ ],
+ "note": ""
+}

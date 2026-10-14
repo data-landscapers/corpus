@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "1",
+   "service": "none",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-009",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

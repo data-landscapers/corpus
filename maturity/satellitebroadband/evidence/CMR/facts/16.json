@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "OneWeb", "country_label": "OneWeb", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Amazon Kuiper", "country_label": "Amazon Kuiper", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional ARTAC session recommending a harmonised NGSO framework; states nothing on licensing or sale of satellite broadband in Cameroon."
+}

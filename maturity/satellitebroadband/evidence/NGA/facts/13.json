@@ -1,0 +1,44 @@
+{
+  "slug": "2026-06-17-nigeria-starlink-premium-customers-tax-businessday",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Nigeria licensed Starlink as an ISP early, on a 10-year licence, for about $500 in fees (per BusinessDay); the licence date is not given.",
+      "as_of": "2026-06-17",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink had about 65,564 active subscribers in Nigeria in late 2024 into 2025, at about N56,000-N57,000 a month residential and N150,000+ business; residential sales paused in parts of Lagos and Abuja for congestion. Date taken from the article.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "retail"
+    },
+    {
+      "system": "Starlink direct-to-cell (Airtel Africa)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Africa/SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Licence date not given; as_of is the article date (day unconfirmed). Subscriber as_of is approximate."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-demby-launches-starlink-300-health-facilities",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Ministry of Health",
+   "tiers": "300 government health facilities"
+  }
+ ],
+ "note": "Starlink for government health facilities only; no licence or retail sale stated."
+}

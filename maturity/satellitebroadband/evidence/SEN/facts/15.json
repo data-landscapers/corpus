@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-11-starlink-half-million-ssa-dataxis",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Dataxis reports Starlink officially launched services in Senegal the week before 11 February 2026, its 25th Sub-Saharan market.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

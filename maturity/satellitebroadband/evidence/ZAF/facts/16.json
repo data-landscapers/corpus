@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-01-state-backed-sa-satellite-company",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "BrainSAT Satellite Services was launched in South Africa on 30 June 2026 (announced by the Deputy President) and offers YahClick Ka-band satellite broadband to homes and businesses in four bundles (10, 20, 50 and 100 Gb), per BrainSAT's website; prices not given.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "YahClick",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "YahClick has been sold in South Africa for years through internet service providers such as Vox Telecom; the article gives no start date, so its published date is used.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "YahClick",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "YahClick",
+   "country_label": "YahClick",
+   "class": "satellite",
+   "platform": "Ka-band HTS (Space42/Hughes)",
+   "owner": "Space42",
+   "tiers": ""
+  },
+  {
+   "system": "Thuraya",
+   "country_label": "Thuraya satellite phones",
+   "class": "other",
+   "platform": "",
+   "owner": "Space42",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lynk Global",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "MTN South Africa",
+      "tiers": ""
+    }
+  ],
+  "note": "Only MTN South Africa's Lynk Global direct-to-device voice/SMS trial; no ZAF broadband fact."
+}

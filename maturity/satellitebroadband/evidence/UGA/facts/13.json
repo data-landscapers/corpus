@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-20-uga-monitor-starlink-go-ahead",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Daily Monitor reports UCC signed an MoU and a five-year provisional operational licence agreement with Starlink Services LLC 'last Friday' (Friday before the 20 May 2026 article, i.e. 15 May 2026), with landing rights authorisation to beam satellite signals within Uganda.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Daily Monitor reports that in December 2025 the government halted clearance of Starlink equipment into Uganda ahead of the 15 January 2026 elections.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Services LLC (SpaceX)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-17-nigeria-starlink-premium-customers-tax-businessday",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink had around 22,282 subscribers in Kenya by December 2025 (source not named as the regulator).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Africa-SpaceX direct-to-cell",
+   "country_label": "",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-cell is not a fact."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "1",
+   "service": "none",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

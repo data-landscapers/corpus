@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-africa-telcos-starlink-playbook-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 4,489 at 2025-06, per RURA (Rwanda Utilities Regulatory Authority), Starlink subscribers for Q2 2025 as reported by TechCabal.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

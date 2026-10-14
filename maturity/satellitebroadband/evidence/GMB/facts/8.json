@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-23-mofa-gambia-explores-starlink-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Ministry readout of Starlink licensing director meeting PURA and ministers; states no licence, application outcome or launch."
+}

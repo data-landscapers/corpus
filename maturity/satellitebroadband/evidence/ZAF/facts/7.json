@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-starlink-legal-deadend-icasa-rejects-bee",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The Citizen reports that ICASA's chairperson confirmed the previous year that ICASA had received no formal licence application from Starlink and that Starlink holds no ICASA licence in South Africa; in May 2026 ICASA declined to give effect to the minister's B-BBEE policy direction without a change in the Electronic Communications Act.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

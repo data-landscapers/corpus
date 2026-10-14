@@ -1,0 +1,36 @@
+{
+  "slug": "2025-12-12-cmr-starlink-convention-concession-art",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "ART has finalised the draft concession convention and specifications for Starlink Cameroun SARL, passed to the technical supervisory ministry in late November 2025 for possible grant; Starlink is only in position to obtain formal authorisation, none yet issued.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink announced stopping its services in Cameroon in April 2024 for lack of official authorisation and suspended access for Cameroonian users after the government demanded blocking of the grey-market use.",
+      "as_of": "2024-04",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink Cameroun SARL",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

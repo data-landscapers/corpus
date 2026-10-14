@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-zwe-zimpricecheck-starlink-passport-rule-roaming",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Business Priority packages are officially available in Harare and Bulawayo, bought directly or through local resellers such as TelOne and Aura; roaming costs about US$100 a month (Zimpricecheck, 10 Sep 2026; no launch date given, article date used).",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Zimbabwe (Pvt) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

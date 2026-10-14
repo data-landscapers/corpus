@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-22-starlink-officially-enters-car-techafricanews",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "licensed",
+      "value": "licensed",
+      "fact": "TechAfrica News (US Embassy press copy) reports Starlink and the CAF government signed an agreement on 18 December 2025 under which Starlink's network is to be made commercially available in CAF for the first time; the document calls it an agreement, not a licence.",
+      "as_of": "2025-12-18",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Agreement ceremony; commercial availability is future."
+}

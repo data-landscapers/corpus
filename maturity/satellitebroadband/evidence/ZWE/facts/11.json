@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-17-starlink-kits-gather-dust-rural-hospitals",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": "rural health facilities"
+  }
+ ],
+ "note": "Starlink kits at 400+ government clinics under state contract; government-site use only, no fact."
+}

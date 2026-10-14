@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-19-cabinet-health-care-agency-repeal",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "Seychelles Cabinet, meeting on 18 February 2026, approved the issuance of an ISP licence, subject to specific conditions, to Starlink to provide broadband Internet services and related products in Seychelles; the document is dated 19 February 2026 and gives no separate licence date.", "as_of": "2026-02-18", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "Starlink", "tiers": ""}
+  ],
+  "note": ""
+}

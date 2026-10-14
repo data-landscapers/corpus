@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Agence Ecofin says Starlink service is still not available in Togo, which Starlink had shown as planned for 2025 and now lists for 2026, subject to approval by public authorities. Article date used.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

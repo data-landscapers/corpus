@@ -1,0 +1,17 @@
+{
+  "slug": "2026-01-30 Can a digital economy exist in South Sudan without reliable DPI",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Sudans Post says satellite internet such as Starlink has expanded access in select rural and conflict-affected areas of South Sudan and has offered relief to some businesses, NGOs and media organisations, but its cost puts it beyond most traders and households (as_of is the article date).",
+      "as_of": "2026-01-30",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

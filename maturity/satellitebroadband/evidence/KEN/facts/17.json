@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-29-ken-muranga-paratus-starlink-health",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Paratus Kenya, a joint venture with MoveOn Telecoms launched in November 2024, provides and delivers Starlink services in Kenya, and offers Paratus Essential Access over Starlink to institutions including hospitals, schools, NGOs and police stations; Paratus is a Starlink authorised reseller across Africa since 2023.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Paratus Essential Access (Starlink)",
+      "country_label": "Paratus Essential Access",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "Paratus Kenya",
+      "tiers": "Murang'a County: 170 public health facilities, 302 more planned by end 2026"
+    }
+  ],
+  "note": "One sale fact from the Paratus Kenya background; the Murang'a health-facility rollout is a county contract and not a fact."
+}

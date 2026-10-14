@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-20-ago-opais-angola-online-141-postos-de-acesso-a-internet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Conecta",
+   "country_label": "Projecto Conecta",
+   "class": "other",
+   "platform": "AngoSat 2",
+   "owner": "MINTTICS",
+   "tiers": "interior populations"
+  }
+ ],
+ "note": "Free access points and schools programme; no satellite broadband licence or sale stated."
+}

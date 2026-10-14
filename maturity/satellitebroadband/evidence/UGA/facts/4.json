@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-techafricanews-mtn-uganda-starlink-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "MTN Uganda added Starlink satellite connectivity to its enterprise portfolio, an initial offer to enterprise customers in remote areas, reported 27 August 2026 (article date used, none given for the event).",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": "enterprise"
+  }
+ ],
+ "note": ""
+}

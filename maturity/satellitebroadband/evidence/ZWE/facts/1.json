@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-29-govt-debt-to-telone-doubles",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "State operator TelOne reports US$3.7 million revenue in 2025 (US$215,000 in 2024) from its strategic partnership with Starlink, so Starlink service is sold in ZWE through TelOne.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

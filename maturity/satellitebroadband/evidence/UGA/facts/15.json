@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-19-starlink-provisional-license-airtel-d2c-test",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Connecting Africa reports UCC granted Starlink a provisional licence via an MoU and operational licence agreement, with a national gateway, device registration and staffed local office required; Starlink was still preparing to begin service (article date used).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Services LLC (SpaceX)",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink direct-to-cell (Airtel Uganda test)",
+   "country_label": "Starlink direct-to-cell (Airtel Uganda test)",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Uganda / Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

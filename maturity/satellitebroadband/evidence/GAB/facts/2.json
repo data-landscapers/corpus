@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-06-gabon-arcep-met-en-garde-commercialisation-illegale-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "ARCEP Gabon stated in a communique of 24 October 2025 that Starlink holds no authorisation to provide internet services in Gabon, so sale, installation and use of its equipment are illegal, with fines, prison and seizure of equipment threatened and controls announced.",
+   "as_of": "2025-10-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

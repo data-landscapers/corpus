@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-02-newvision-starlink-launch-uganda",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "UCC and Starlink (SpaceX) signed a five-year operating licence agreement in May 2026, with national gateway, local presence and device registration conditions.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink announced commercial satellite internet service available in Uganda on 2 September 2026, with a residential 100 Mbps package at about US$54 a month.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-03-somaf-group-kindu-starlink-actualite",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Somaf Group opened an office in Kindu, Maniema, on 2 April 2026 selling Starlink internet kits with unlimited connection to customers; it is also based in Lubumbashi and Kinshasa.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

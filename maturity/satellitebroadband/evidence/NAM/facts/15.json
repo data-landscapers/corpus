@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-31-starlink-says-cran-denial-unjustified-namibiansun",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN officially declined Starlink's application for a comprehensive telecommunications service licence and a spectrum licence on 23 March 2026 for missing the 51% local-ownership threshold, and noted Starlink had previously operated in Namibia without a licence.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

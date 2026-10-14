@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-airtel-africa-1-1bn-investment-power-vandalism",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX; Airtel Africa partner",
+   "tiers": "enterprise connectivity, satellite backhaul, direct-to-device"
+  }
+ ],
+ "note": "Airtel-Starlink partnership is described only as enterprise, backhaul and direct-to-device; no NGA retail satellite broadband statement."
+}

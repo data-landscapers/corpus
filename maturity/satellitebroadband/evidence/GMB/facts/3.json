@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-03-starlink-gambia-transparency-trust-delay-standard",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "As of 3 March 2026 Starlink says it has not received its final licence in The Gambia, though terms were agreed in November 2024 and fees paid on 2 December 2024; only the Minister's signature is outstanding.",
+   "as_of": "2026-03-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

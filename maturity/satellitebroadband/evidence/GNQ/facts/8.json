@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-gnq-gqpress-starlink-comercializacion-ortel",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Government release says the Transport Ministry reached an agreement with Starlink to sell satellite internet in the country, and the Vice-President directed that legal authority to sell rests with state operator ORTEL under the Secretariat of State for AI; oil companies were already authorised to use the network offshore.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

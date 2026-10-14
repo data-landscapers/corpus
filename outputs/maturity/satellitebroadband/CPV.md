@@ -1,0 +1,11 @@
+# Cape Verde
+
+## Satellite broadband licensed and on sale
+
+**Licensed, on sale, and from more than one network.** [A table of Starlink availability in Africa lists Cabo Verde as 'Available'](<https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html>). [Cabo Verde is listed among 26 African countries where Starlink is 'Active Now'](<https://technomag.co.zw/starlinks-african-expansion-availability-costs-and-performance/>). [ARME's Q1 2026 statistical report lists Starlink as one of three internet access providers in Cabo Verde, with 0.64% of internet subscriptions (about 3,300 of 511,702 total, derived), up 0.20 percentage points on Q4 2025; the other two are CVTelecom (72%) and Unitel T+ (27.3%)](<https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026>). [Starlink took 0.2% of the internet market in nine months to June 2025, with CV Telecom at 72.3%](<https://mindelinsite.com/opiniao/cabo-verde-na-vanguarda-da-nova-economia-o-desafio-bizgital-e-o-papel-critico-da-cabo-verde-telecom/>). [Starlink went live in Cape Verde in December 2024, bringing low Earth orbit satellite internet to the archipelago, per Space in Africa](<https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/>). These place satellite broadband licensed and on sale, which answers the first two of the study's four questions. Services on a second satellite network are not stated. Prices and speeds are given where a source states them; they set no stage.
+
+**Subscribers counted by the regulator.** Nothing held gives a regulator's count of the subscribers to [the service](<https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held says services on two different satellite networks are on sale.

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Le360 lists Madagascar among 29 African countries where Starlink has been granted a licence (article date used, none given for the grant).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Le360 lists Madagascar among the countries where Starlink is operational (article date used).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

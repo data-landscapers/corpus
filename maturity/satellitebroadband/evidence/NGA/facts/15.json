@@ -1,0 +1,36 @@
+{
+  "slug": "2026-04-20-starlink-nigeria-april-2026-pricing-explainer",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink sells residential (N57,000/month), Business Priority (N159,000) and Roam plans in Nigeria as of April 2026; residential orders paused in congested Lagos and Abuja areas but open in Port Harcourt, Benin City, Ibadan, Enugu, Kaduna.",
+      "as_of": "2026-04-20",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink activated a ground station at Okun Aja, Lagos State, with 20 antennas, which reopened residential activations in Port Harcourt and Benin City (date not given; article date used).",
+      "as_of": "2026-04-20",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO constellation",
+      "owner": "SpaceX",
+      "tiers": "retail"
+    }
+  ],
+  "note": ""
+}

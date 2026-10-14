@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-01-starlink-launch-publiceye",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink officially launched in Maseru on Monday 30 June 2025 through exclusive reseller T-Connect Lesotho, at M10 per access session with hotspots planned in all 10 districts.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink operates in Lesotho under a 10-year licence (grant date not given; date is the article's publication date), with opposition over foreign ownership and a fast-tracking allegation.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

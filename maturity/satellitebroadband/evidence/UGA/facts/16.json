@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-19-uga-independent-starlink-licence",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "UCC and Starlink (SpaceX) signed a licence agreement on 15 May 2026 at State House Entebbe, which The Independent reports as Uganda licensing Starlink to begin commercial operations, conditional on a local presence, a national gateway and device registration.",
+      "as_of": "2026-05-15",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "low-Earth orbit constellation",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

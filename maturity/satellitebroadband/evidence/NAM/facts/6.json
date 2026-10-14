@@ -1,0 +1,26 @@
+{
+  "slug": "2026-10-07-na-paratus-oneweb-leo",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Paratus Namibia launched Eutelsat's OneWeb LEO satellite internet service for residential and commercial customers across Namibia, with capped and uncapped packages.",
+      "as_of": "2026-10-07",
+      "date_precision": "day",
+      "system": "OneWeb",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OneWeb",
+      "country_label": "Paratus Eutelsat OneWeb LEO service",
+      "class": "satellite",
+      "platform": "Eutelsat OneWeb",
+      "owner": "Paratus Namibia (reseller)",
+      "tiers": "residential; commercial"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-paratus-zambia-starlink-mphande-school",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Zambia is an authorised Starlink reseller and network services provider in Zambia, under a reseller agreement signed September 2023, and Starlink launched business services in Zambia in October 2023.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink satellite kits",
+   "owner": "Paratus Zambia",
+   "tiers": "rural school (donated kit)"
+  }
+ ],
+ "note": ""
+}

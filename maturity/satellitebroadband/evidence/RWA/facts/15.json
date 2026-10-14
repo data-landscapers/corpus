@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16 Who Owns Africa's Sky",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "A January 2025 survey of 12 African markets cited by TechCabal found local providers cheaper than Starlink in Rwanda, implying Starlink was on sale there; the article also says Rwanda fast-tracked satellite licences.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-15 Amazon Leo secures landing permit in Nigeria",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "NCC granted Amazon Leo (formerly Project Kuiper) a seven-year landing permit effective 28 February 2026 to provide LEO satellite internet (FSS, MSS, ESIM) in Nigeria for households and businesses.",
+   "as_of": "2026-02-28",
+   "date_precision": "day",
+   "system": "Kuiper",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is the most visible LEO satellite internet provider in Nigeria, with over 66,000 subscribers at the end of 2025 (figure as reported by Connecting Africa, not attributed to the regulator), and wait-lists in Lagos and Abuja.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Leo",
+   "country_label": "Amazon Leo",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

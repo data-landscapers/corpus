@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN declined Starlink's application for a Class Comprehensive Telecommunications Service Licence and a Spectrum Licence for fixed satellite services; the decision date was 23 March 2026.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN rejected the reconsideration requests (622 of 624 declined as procedurally invalid, 2 reviewed on merit) and upheld its March decision to decline Starlink's licence application; Starlink's own late request of 8 June 2026 was also dismissed (briefing the week of the 24 June 2026 article).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

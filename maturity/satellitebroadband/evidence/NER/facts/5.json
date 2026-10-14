@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-13-starlink-officially-available-niger-actuniger",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Niger's government signed a partnership agreement with SpaceX on 29 October 2024 authorising it to deploy Starlink services across the territory.",
+   "as_of": "2024-10-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The communications minister announced Starlink internet services available in Niger from 13 March 2025, with residential and business kits sold online and via authorised sellers, for the customer's own personal or professional use.",
+   "as_of": "2025-03-13",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

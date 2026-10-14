@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-18-starlink-conquista-02-mercado-internet-arme-q2-2025-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "In 2024 ARME granted two new general authorisations for electronic communications services, one to Starlink Cabo Verde, which started activity in January 2025.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink Cabo Verde, which started activity in January 2025, held 0.2% of the internet market at end June 2025 per ARME's Q2 2025 indicators (a market share, not a subscriber count).",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Cabo Verde",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

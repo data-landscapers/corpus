@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CIV,satellite,service,coverage,choice,2026-07,CIV-005;CIV-016,CIV-037=sale;CIV-034=licensed;CIV-014=sale;CIV-006=sale;CIV-002=sale;CIV-017=licensed;CIV-018=licensed;CIV-038=licensed;CIV-013=licensed;CIV-019=licensed;CIV-031=licensed;CIV-001=licensed;CIV-021=licensed;CIV-022=licensed;CIV-024=licensed;CIV-004=sale;CIV-003=sale;CIV-015=sale;CIV-020=sale;CIV-035=sale;CIV-008=sale;CIV-025=sale;CIV-026=sale;CIV-007=licensed;CIV-036=licensed;CIV-010=licensed;CIV-027=licensed;CIV-028=licensed;CIV-032=licensed;CIV-023=licensed;CIV-009=licensed;CIV-029=licensed;CIV-030=none;CIV-033=none;CIV-011=none;CIV-012=licensed,
+CIV,satellite,counted,coverage,,,,,nothing held

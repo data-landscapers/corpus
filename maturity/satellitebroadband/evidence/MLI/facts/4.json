@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-10-mali-starlink-levee-interdiction-voa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Mali announced on 20 March (2024) a decision to dismantle and ban Starlink terminals nationwide as not approved in Mali.",
+   "as_of": "2024-03-20",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Council of Ministers announced in October 2024 that import and sale of Starlink kits are authorised for a temporary six months, while a regulatory framework and a user registration platform are set up; no licence to a named seller is stated.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

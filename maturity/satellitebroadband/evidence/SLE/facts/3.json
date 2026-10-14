@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-health-minister-starlink-jmb-pediatric-hospital",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "Ministry of Health",
+   "tiers": "government health facilities, 300+ planned"
+  }
+ ],
+ "note": "Starlink for government health facilities under a state project; not retail satellite broadband."
+}

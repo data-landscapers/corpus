@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-19-sudan-internet-in-conflict-timep",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink is not officially authorised in Sudan and its use is technically illegal for lack of authorisation; the terminals are smuggled in, and authorities have previously confiscated equipment and arrested users, per TIMEP (article date used, no event date given).",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

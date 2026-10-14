@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Mauritania appears only as '2026' (not available) in a status table; no licence or sale statement beyond that, already covered by document 3."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-06-nation-starlink-cleared-for-takeoff",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Seychelles Nation reports the Cabinet approved an ISP licence for Starlink on 18 February 2026, subject to conditions, with the LTA to assess impacts on existing operators before full rollout.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

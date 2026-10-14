@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-cipesa-zlhr-palu-draa-zimbabwe-fourth-cycle-upr-submission",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The submission says Zimbabwe has licensed additional satellite internet services since 2022, citing a Reuters report of 25 May 2024 that Zimbabwe approved licensing of Starlink.",
+   "as_of": "2024-05-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

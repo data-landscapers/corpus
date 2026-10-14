@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-zimbabwe-school-connectivity-solar-starlink-target",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Primary and Secondary Education",
+   "tiers": "schools"
+  }
+ ],
+ "note": "Starlink devices distributed to schools under a state programme; not a retail fact."
+}

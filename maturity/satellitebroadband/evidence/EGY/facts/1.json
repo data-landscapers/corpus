@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-30-egypt-online-telecom-starlink-talks-egypttelegraph",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Only preliminary talks between Online Telecom and Starlink; no licence or sale stated."
+}

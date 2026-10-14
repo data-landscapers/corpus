@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-29-starlink-global-outage-africa-kasi-insight",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Zambia mentioned only as a target of an Airtel Africa-Starlink partnership to extend broadband; no dated statement of licence or sale for ZMB."
+}

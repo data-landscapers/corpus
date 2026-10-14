@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-conversation-starlinkisation-afrique",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "none", "fact": "Gabon's regulator Arcep announced a ban on installing, using and marketing Starlink offers in Gabon, with prison and fines for offenders; the article gives no date for the announcement, so as_of is the article's published date (2026-08-10).", "as_of": "2026-08-10", "date_precision": "day", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "SpaceX", "tiers": ""}
+  ],
+  "note": ""
+}

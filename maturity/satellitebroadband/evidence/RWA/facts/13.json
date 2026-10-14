@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-14 Amazon's $9bn satellite deal set to benefit Africa",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ITWeb Africa says Starlink services are active in Rwanda, among other African countries (article date used, no event date given).",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Globalstar",
+   "country_label": "Globalstar",
+   "class": "other",
+   "platform": "",
+   "owner": "Globalstar",
+   "tiers": "enterprise, conservation tracking, industrial IoT (spectrum authorisations and partnerships in Rwanda)"
+  },
+  {
+   "system": "Project Kuiper",
+   "country_label": "Kuiper",
+   "class": "",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": "Globalstar and Kuiper items are not satellite broadband sale in RWA."
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-13-zaf-itweb-icasa-regulatory-remit-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink's South African entry is delayed because it has not met the 30% historically-disadvantaged-ownership requirement; ITWeb reports it is exploring alternative compliance arrangements (article date used, no event date given).",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo",
+   "country_label": "evry (Herotel)",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Amazon",
+   "tiers": "commercial services expected 2027"
+  },
+  {
+   "system": "Eutelsat OneWeb",
+   "country_label": "Q-KON partnership",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat",
+   "tiers": "enterprise networks, mobile backhaul"
+  },
+  {
+   "system": "Avanti",
+   "country_label": "",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Avanti Communications",
+   "tiers": ""
+  },
+  {
+   "system": "BrainSAT",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "BrainSAT South Africa",
+   "tiers": "government, business, remote communities"
+  }
+ ],
+ "note": "Draft satellite licensing framework and Amazon Leo 2027 plan are not facts; Q-KON/OneWeb described as enterprise/backhaul partnership only."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-30-lexpress-saint-brandon-lile-raphael-se-connecte-a-internet",
+  "facts": [],
+  "systems": [
+    {"system": "LEO satellite link, Raphael Island (Emtel, USF-funded)", "country_label": "Procurement of Internet Services on Raphael Island", "class": "other", "platform": "LEO satellite (operator not named)", "owner": "Emtel Ltd, contracted by ICTA", "tiers": "National Coast Guard radar, NCG, meteorological services, Raphael Fishing Co Ltd"}
+  ],
+  "note": "ICTA-contracted Emtel LEO link for Raphael Island serves coast guard, weather services and one fishing company under a USF contract; not retail satellite broadband."
+}

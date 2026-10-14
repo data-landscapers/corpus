@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-14-ehr-impilo-coverage-matabeleland-south",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Pilot Program",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "one remote health facility, Matabeleland South"
+  }
+ ],
+ "note": "Starlink trial at one remote health site only; not a sale or licence statement."
+}

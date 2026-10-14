@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-22-orange-eutelsat-satellite-broadband-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Orange Cote d'Ivoire launched Orange Sat, a satellite broadband internet service on Eutelsat Konnect, as of 22 January 2026 (article date, no launch date given).",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Eutelsat Konnect",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eutelsat Konnect",
+   "country_label": "Eutelsat Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat; resold as Orange Sat by Orange Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "OneWeb",
+   "country_label": "OneWeb",
+   "class": "other",
+   "platform": "",
+   "owner": "Eutelsat; Orange agreement June 2025",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

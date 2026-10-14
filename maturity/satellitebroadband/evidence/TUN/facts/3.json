@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Agence Ecofin states that Tunisia is on Starlink's map as 'Starting in 2026' with regulatory authorisation pending, no launch date, and that the service is not yet available there despite a 2025 target.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

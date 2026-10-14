@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-31-spaceinafrica-starlink-equatorial-guinea",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Starlink launched under a provisional approval granted by the Vice-President on 29 July 2026 (as dated by this document), with GITGE assessing operations and long-term conditions.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink went live on 29 August 2026, confirmed by Starlink and Elon Musk, with an order page on starlink.com and two residential tiers priced in FCFA; sold directly by Starlink under provisional approval.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "SpaceX; oversight GITGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

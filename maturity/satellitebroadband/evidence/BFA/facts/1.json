@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-26-burkina-faso-zero-data-abroad-120-platforms",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Minister of Digital Transition said negotiations with Starlink are advancing and the state hopes soon to decide whether to let it offer services to the population, so no authorisation has yet been given.",
+   "as_of": "2026-07-25",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation (SpaceX)",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

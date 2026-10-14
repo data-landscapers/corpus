@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-10-techafricanews-sonatel-gandoul-oneweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Eutelsat OneWeb gateway, Gandoul teleport",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Sonatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway infrastructure at Sonatel's Gandoul teleport for OneWeb; no licence or retail sale to SEN customers stated."
+}

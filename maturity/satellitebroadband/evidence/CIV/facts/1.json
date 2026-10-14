@@ -1,0 +1,74 @@
+{
+ "slug": "2026-07-28-starlink-adds-cote-divoire-and-seychelles-reaching-28-african-countries",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI gave Starlink Network CIV a 12-month provisional licence, announced by the Minister of Digital Transition on 11 June 2026, with terms to be reviewed at the end of the period.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "SpaceX switched Starlink on in Cote d'Ivoire on 16 July 2026; the residential plan costs CFA 28,746 a month for up to 100 Mbps.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Orange sells satellite broadband in Cote d'Ivoire through a deal with Eutelsat, since January 2026.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Eutelsat Konnect",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "MTN sells satellite broadband in Cote d'Ivoire through a deal with Eutelsat, since April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Eutelsat Konnect",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "choice",
+   "fact": "Starlink (sold directly to households) and Eutelsat Konnect (sold by Orange and MTN) are both on sale in Cote d'Ivoire as of the 28 July 2026 article.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Starlink; Eutelsat Konnect",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX / Starlink Network CIV",
+   "tiers": ""
+  },
+  {
+   "system": "Eutelsat Konnect",
+   "country_label": "Eutelsat Konnect",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Eutelsat; resold by Orange and MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

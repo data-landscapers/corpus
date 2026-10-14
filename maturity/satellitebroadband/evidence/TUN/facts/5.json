@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "MyBroadband's table of Starlink's availability map lists Tunisia as '2026', not 'Available', so Starlink was not on sale in Tunisia.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

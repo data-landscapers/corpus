@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,satellite,service,coverage,sale,2026-09-03,NGA-002;NGA-003;NGA-006;NGA-008;NGA-009;NGA-010;NGA-011;NGA-015;NGA-017;NGA-018;NGA-019;NGA-020;NGA-021;NGA-024;NGA-026;NGA-028;NGA-030;NGA-031;NGA-033;NGA-035;NGA-036;NGA-037;NGA-038;NGA-039;NGA-042;NGA-044;NGA-045;NGA-046;NGA-047;NGA-048;NGA-050;NGA-052;NGA-054;NGA-055;NGA-056;NGA-057,NGA-051=licensed;NGA-016=licensed;NGA-043=licensed;NGA-001=licensed;NGA-053=licensed;NGA-025=licensed;NGA-029=none;NGA-022=licensed;NGA-023=none;NGA-027=none;NGA-032=licensed;NGA-034=licensed;NGA-041=licensed,
+NGA,satellite,counted,coverage,counted,2026-06,NGA-004;NGA-005;NGA-007;NGA-012;NGA-013;NGA-014;NGA-040;NGA-049,,

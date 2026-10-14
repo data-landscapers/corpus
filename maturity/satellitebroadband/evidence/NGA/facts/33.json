@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-29-starlink-global-outage-africa-kasi-insight",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Only says the Starlink-Airtel Africa partnership aims to extend broadband in Nigeria among others; no sale, licence or count stated for NGA."
+}

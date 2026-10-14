@@ -1,0 +1,46 @@
+{
+ "slug": "2025-06-19 Starlink enters Guinea-Bissau",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARN-TIC granted Starlink a provisional licence in December 2024, per Connecting Africa.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARN-TIC gave Starlink final approval to operate in April 2025, per Connecting Africa.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Guinea-Bissau (article dated 2025-06-19; no launch day given); consumers buy kits and service directly from Starlink's website, standard kit XOF228,000, plans from XOF18,000 a month for 250GB residential.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Starlink Guiné-Bissau SARL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "Rwanda's regulator issued Starlink's operating licence before its commercial launch in Rwanda in March 2023 (as_of is the launch month; the licence date is not given).",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "Starlink launched commercially in Rwanda in March 2023, the second African market, per the article.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink pilot, 500 schools",
+      "country_label": "Starlink",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "schools"
+    }
+  ],
+  "note": ""
+}

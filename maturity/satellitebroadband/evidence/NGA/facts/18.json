@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-11-starlink-half-million-ssa-dataxis",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is on sale in Nigeria, its largest market in Sub-Saharan Africa per Dataxis, with equipment at USD 435; it reportedly refused new subscribers in Lagos and other major cities at end 2025.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "Amazon obtained a licence to operate Amazon LEO (formerly Project Kuiper) in Nigeria in January 2026, per Dataxis.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Amazon Kuiper",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite broadband",
+   "owner": "SpaceX",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Kuiper",
+   "country_label": "Amazon Kuiper",
+   "class": "satellite",
+   "platform": "LEO satellite broadband, licensed, not yet on sale",
+   "owner": "Amazon",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-nga-nuran-wireless-starlink-backhaul-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "LEO satellite",
+   "owner": "SpaceX via third-party providers; pilot by NuRAN Wireless and Infratel",
+   "tiers": "rural mobile sites"
+  }
+ ],
+ "note": "Starlink pilot is mobile-site backhaul only; no household or business sale statement for Nigeria."
+}

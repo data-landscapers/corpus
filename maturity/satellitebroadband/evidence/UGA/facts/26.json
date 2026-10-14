@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-23-army-warns-starlink-ura-restricts-imports",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "UCC corporate affairs director Fred Otunnu said Starlink was not yet licensed to operate in Uganda, and an army spokesman called it illegal; URA restricted import of Starlink equipment without CDF clearance by letter of 19 December 2025; Starlink had applied for a licence (UCC confirmed engagement in April 2025).",
+      "as_of": "2025-12-23",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX (Starlink Services, LLC)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

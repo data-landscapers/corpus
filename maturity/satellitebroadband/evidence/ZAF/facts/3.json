@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-20-tan-spacex-icasa-satellite-fees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "SpaceX fee representations to ICASA; intent to expand, no licence, sale or absence stated."
+}

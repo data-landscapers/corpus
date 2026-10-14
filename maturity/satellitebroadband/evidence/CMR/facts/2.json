@@ -1,0 +1,46 @@
+{
+  "slug": "2025-12-16-cameroon-douane-saisie-kits-starlink",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Customs seized 10 Starlink modems at the Nkometou checkpoint on 12 December 2025 as unauthorised equipment.",
+      "as_of": "2025-12-12",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Starlink is described as technically banned in Cameroon since April 2024, with systematic customs seizure ordered, and SpaceX suspended service for users in April 2024 after government warnings.",
+      "as_of": "2024-04",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "As of the article, ART had finalised a draft concession convention and specifications for Starlink Cameroun SARL, passed to the technical supervisory ministry for possible grant; no licence granted yet.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink Cameroun SARL",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "date_precision": "day",
+   "as_of": "2026-06-29",
+   "fact": "The article says South Africa blocks the sale of Starlink over the company's resistance to B-BBEE ownership rules; no date is given for the block, so its publication date is used.",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "A new investment framework that may allow SpaceX to operate by late 2026 or 2027 is not a fact."
+}

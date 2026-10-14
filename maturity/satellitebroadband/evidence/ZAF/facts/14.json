@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-ramaphosa-malatsi-meet-amazon",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink holds no South African licence and is still waiting for equity-equivalent investment programmes; in May 2026 ICASA said it would not change the ownership rules for telecoms licences.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Amazon Leo (evry)",
+   "country_label": "evry",
+   "class": "other",
+   "platform": "",
+   "owner": "Amazon / Herotel",
+   "tiers": ""
+  }
+ ],
+ "note": "Herotel named first authorised Amazon Leo distributor (by Amazon) for evry; no sale yet and Amazon's licensing was left unanswered."
+}

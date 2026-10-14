@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-16 Who Owns Africa's Sky",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "South Africa has blocked formal Starlink entry, citing Black Economic Empowerment ownership requirements (article date used).",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "Other countries' statements not recorded."
+}

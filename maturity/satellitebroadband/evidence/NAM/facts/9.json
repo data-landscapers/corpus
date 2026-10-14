@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "CRAN has rejected Starlink's licence application and dismissed its appeal despite 624 public reconsideration requests; the article gives no dates for these, so its published date is used.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Table row for Namibia ('2026') is a launch-timing listing, not a fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-24-mtn-eutelsat-konnect-satellite-broadband-techafricanews",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Konnect",
+      "country_label": "Eutelsat KONNECT",
+      "class": "other",
+      "platform": "",
+      "owner": "Eutelsat",
+      "tiers": ""
+    },
+    {
+      "system": "OneWeb",
+      "country_label": "OneWeb",
+      "class": "other",
+      "platform": "",
+      "owner": "Eutelsat",
+      "tiers": ""
+    }
+  ],
+  "note": "Concerns Cote d'Ivoire; ZAF mentioned only as MTN Group's home country."
+}

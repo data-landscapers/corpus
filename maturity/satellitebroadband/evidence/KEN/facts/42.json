@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-ken-the-star-spacex-fcc-15000-d2d-satellites",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Mobile direct-to-device",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-device and US FCC authorisation commentary; no KEN broadband licence, sale or count stated."
+}

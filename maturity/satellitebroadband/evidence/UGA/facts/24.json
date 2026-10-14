@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-06-starlink-accepts-uganda-request-block-illegal-users",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink told UCC in a 2 January 2026 letter that any Starlink usage in Uganda was unauthorised, that Starlink Uganda had never imported or distributed terminals, and that no Starlink terminals were operating in Uganda as of 1 January 2026; it accepted UCC's request to restrict its devices (document is paywalled, only headline and lead read).",
+   "as_of": "2026-01-02",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-19-starlink-broke-potraz-bandwidth-framework",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink launched in Zimbabwe in September 2024; Dandemutande is its authorised reseller; Potraz counted 30,907 active terminals in Q1 2025 and Starlink carried 35.05% of fixed internet traffic in Q4 2025 (168.21 petabytes), per the article.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 23,410 at 2024-Q4, per Potraz (VSAT subscriptions, up 513.79% in the quarter).",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink (reseller Dandemutande)",
+   "tiers": ""
+  }
+ ],
+ "note": "Dated Starlink launch and Potraz VSAT count; Potraz Q1 2025 terminal count in sale fact."
+}

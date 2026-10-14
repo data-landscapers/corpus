@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-guinea-ecuatorial-autoriza-starlink-empresas-norteamericanas-alta-mar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "LEO constellation",
+   "owner": "SpaceX",
+   "tiers": "North American oil companies offshore, temporary authorisation"
+  }
+ ],
+ "note": "Temporary authorisation limited to North American companies' offshore operations, not a sale to households or businesses generally."
+}

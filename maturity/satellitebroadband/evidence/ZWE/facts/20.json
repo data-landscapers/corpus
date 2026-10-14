@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-12-zimbabwe-starlink-halts-service-bloomberg",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink halted internet service to Zimbabwe until it receives licensing approval, and POTRAZ asked it to disconnect all kits operating illegally, per director-general Gift Machengete.",
+   "as_of": "2024-04-12",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

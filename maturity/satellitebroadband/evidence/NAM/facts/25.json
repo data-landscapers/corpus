@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-29-namibia-bans-starlink-news24",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN ordered Starlink to cease all operations in Namibia for operating without the required telecommunications licence, advised the public not to buy terminals or subscribe, and said terminals had been confiscated from consumers; statement date not given, article dated 2024-11-29.",
+   "as_of": "2024-11-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN said Starlink's application for a telecommunications service licence was still under review; until a licence is granted, importing terminals and using the service is unlawful.",
+   "as_of": "2024-11-29",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

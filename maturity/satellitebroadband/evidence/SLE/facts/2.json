@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-31-starlink-university-internet-elcome",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The communications minister said on 2025-01-31 that three local companies are providing Starlink services in Sierra Leone; the article is dated 2025-01-31 and gives no earlier date for this state.",
+   "as_of": "2025-01-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink via ELCOME SL contract",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "ELCOME SL Ltd",
+   "tiers": "12 public and private universities under a government agreement"
+  }
+ ],
+ "note": ""
+}

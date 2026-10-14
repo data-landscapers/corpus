@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-togo-techs-tg-starlink-en-afrique-espoirs-et-regulation",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Techs.tg says Nigeria is among the first West African countries to get Starlink, with the monthly fee doubled from 38,000 to 75,000 naira amid inflation; date is the article's published date.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

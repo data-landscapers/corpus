@@ -1,0 +1,16 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "satellite",
+   "stage": "1",
+   "service": "none",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
+  }
+ ]
+}

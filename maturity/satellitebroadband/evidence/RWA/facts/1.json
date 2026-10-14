@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-17-bsc-starlink-reseller-newtimes",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "licensed",
+   "value": "licensed",
+   "fact": "Rwanda Space Agency certified Broadband Systems Corporation (BSC) as an authorised Starlink reseller in Rwanda (partnership since December 2025); article date used as no certification date is given.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Broadband Systems Corporation sells Starlink to customers in Rwanda as an authorised reseller, with packages for health, education and non-profits and SME packages of up to 300 Mbps planned; article date used.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

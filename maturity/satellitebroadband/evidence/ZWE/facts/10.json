@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-starlink-26-african-markets-report",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Space in Africa reports Zimbabwe as Starlink's fastest-growing African market, averaging 126.1% quarterly growth to 67,057 users as of December 2025 (analyst figure, not a regulator count).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO constellation",
+   "owner": "Starlink Zimbabwe (Pvt) Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-05-smart-zambia-itu-mpika-digital-skills",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "Starlink satellite kits",
+   "owner": "SMART Zambia Institute",
+   "tiers": "23 youth resource centres"
+  }
+ ],
+ "note": "Starlink kits for government youth centres only; not a retail service fact."
+}

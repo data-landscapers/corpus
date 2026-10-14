@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-30-brainsat-and-thuraya-services-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Yahclick",
+   "country_label": "",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Space42",
+   "tiers": ""
+  },
+  {
+   "system": "BrainSAT satellite services",
+   "country_label": "BrainSAT",
+   "class": "",
+   "platform": "",
+   "owner": "BrainSAT Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Speech at launch of BrainSAT satellite services and Thuraya phones; names Yahclick broadband as Space42 infrastructure but does not state internet is on sale to households or businesses."
+}

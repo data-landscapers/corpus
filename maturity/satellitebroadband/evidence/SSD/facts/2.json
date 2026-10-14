@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "sale",
+      "fact": "TechnoMag lists South Sudan among 26 countries where Starlink is active now and gives a USD price of 50 a month Residential, 30 Residential Lite, kits 389 Standard and 200 Mini (as of mid-2026; as_of is the article's date).",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

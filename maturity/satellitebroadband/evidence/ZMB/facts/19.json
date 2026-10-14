@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SZI Starlink partnership",
+      "country_label": "SZI Starlink partnership",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "Smart Zambia Institute",
+      "tiers": "government, unserved areas"
+    }
+  ],
+  "note": "Starlink partnership for government connectivity; no licence or sale stated."
+}

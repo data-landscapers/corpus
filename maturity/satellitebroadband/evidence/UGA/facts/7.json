@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-28-techmoonshot-airtel-starlink-uganda-launch",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "On 6 January 2026 UCC said Starlink had not met its requirements and that Starlink terminals were being imported and used illegally, per TechMoonshot.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "By May 2026 Starlink held a provisional infrastructure and service licence in Uganda, with a condition of a national gateway in Uganda, per TechMoonshot.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink direct-to-cell (Airtel Uganda)",
+   "country_label": "Starlink direct-to-cell (Airtel Uganda)",
+   "class": "other",
+   "platform": "direct-to-cell",
+   "owner": "Airtel Uganda / SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": "Airtel satellite-to-phone service launched 24 Sep 2026 is direct-to-cell, not a fact."
+}

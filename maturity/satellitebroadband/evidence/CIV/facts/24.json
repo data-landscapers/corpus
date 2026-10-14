@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-10-conversation-starlinkisation-afrique",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARTCI authorised Starlink in Côte d'Ivoire subject to the regulator's ability to interrupt network access; no date given, article published 2026-08-10.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

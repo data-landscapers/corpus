@@ -1,0 +1,36 @@
+{
+  "slug": "2026-05-16-uga-dignited-starlink-licence-gateway",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "UCC formally licensed Starlink on 15 May 2026 with an operational certificate handed to SpaceX; the licence requires a national gateway, a staffed local office and registration of all devices before commercial operations begin.",
+      "as_of": "2026-05-15",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    },
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Uganda blocked unauthorised Starlink use in January 2026 and cut off users who had been running it on foreign SIM registrations.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "low-Earth orbit constellation",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

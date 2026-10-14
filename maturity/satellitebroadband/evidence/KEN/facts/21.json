@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Direct-to-Cell",
+   "country_label": "Starlink Direct-to-Cell",
+   "class": "other",
+   "platform": "Starlink LEO",
+   "owner": "Airtel Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Direct-to-cell application under CA review only; no satellite broadband fact."
+}

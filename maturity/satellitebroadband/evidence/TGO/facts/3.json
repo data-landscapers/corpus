@@ -1,0 +1,17 @@
+{
+  "slug": "2025-01-14-togo-techs-tg-starlink-en-afrique-espoirs-et-regulation",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "none",
+      "fact": "Techs.tg says Togo does not yet officially have Starlink service; some individuals and firms use imported equipment without official authorisation, and ISOC-Togo began negotiations with Starlink in March 2024. Article date used.",
+      "as_of": "2025-01-14",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

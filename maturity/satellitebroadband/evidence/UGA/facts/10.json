@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-03-nilepost-roke-telkom-paratus-starlink-uganda",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Roke Telkom with Paratus Uganda launched Starlink enterprise connectivity, reselling Starlink LEO capacity to businesses, per Nile Post.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink residential services are available directly to Ugandan consumers, per Nile Post, as stated on 3 September 2026.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "SpaceX",
+   "tiers": "enterprise;residential"
+  }
+ ],
+ "note": ""
+}

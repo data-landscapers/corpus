@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-03-sierra-leone-moice-digital-leap-minister-bah-connectivity-update",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Minister of Communication, Technology and Innovation Salima Bah said in a 30 September 2025 address that Sierra Leone has introduced Starlink satellite internet service.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

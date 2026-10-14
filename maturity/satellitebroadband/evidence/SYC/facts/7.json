@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-22-starlink-seychelles-launch",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "SCRA officials confirmed that Starlink has been authorized to operate in Seychelles under the telecommunications regulations; no authorisation date is given, so the article's publication date is used.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Households and businesses can subscribe via Starlink's online platform, buying the hardware kit and activating service after a soft launch at State House; officials said several users already have equipment and are using the service.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "low-Earth-orbit constellation",
+   "owner": "SpaceX",
+   "tiers": "households and businesses"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-19-over-50pc-fixed-broadband-now-wireless",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, in the VSAT category that includes Starlink; up from 30,907 in Q1 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink is sold in ZWE: 40,146 Starlink subscribers by Q2 2025 and 22.5% of national fixed internet traffic (83.9 PB), second only to Liquid Intelligent Technologies, per the article citing Potraz data.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

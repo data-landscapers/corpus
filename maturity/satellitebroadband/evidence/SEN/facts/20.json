@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-17-nigeria-starlink-premium-customers-tax-businessday",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "LEO satellite",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Senegal mentioned only for Sonatel's >$50m 5G licence versus Starlink's roughly $150,000 'entry cost' and a vague claim of higher satellite licensing fees; neither states a licence or sale in SEN. Date of article unconfirmed."
+}

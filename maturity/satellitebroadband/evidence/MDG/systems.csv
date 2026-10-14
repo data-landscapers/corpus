@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,Starlink,Starlink,other,,SpaceX,"government programme: 300 kits with free internet via MNDPT, remote areas",2026-09-08-mdg-tiatanindrazana-mndpt-starlink-universites
+MDG,Eutelsat OneWeb,OneWeb,satellite,LEO,Eutelsat,"Airtel Business enterprise customers, rural communities",2026-06-01-airtel-eutelsat-rural-broadband-techafricanews
+MDG,Starlink,Starlink,satellite,LEO,SpaceX,user-terminal broadband,2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica
+MDG,Starlink Direct-to-Cell (SCS),Starlink Mobile,other,,SpaceX with Airtel,Airtel mobile subscribers,2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica
+MDG,Starlink,Starlink,other,,SpaceX,"DECIM pilot: schools, basic health centres, agricultural hubs in ten isolated zones",2025-03-20-starlink-decim-dix-zones-enclavees-2424
+MDG,Starlink,Starlink,satellite,LEO,SpaceX,,2026-07-17-starlink-launches-27th-african-country-ivory-coast
+MDG,Starlink,Starlink kit,other,,Ministry of Digital Development (MNDPT),National Assembly (government site),2026-09-30-mdg-assemblee-equipements-numeriques
+MDG,Starlink Direct-to-Cell,,other,,Airtel Madagascar / SpaceX,,2026-09-03-telecomreviewafrica-non-terrestrial-networks-leo
+MDG,Starlink Direct to Cell,"direct-to-cell satellite connectivity (Airtel Madagascar + SpaceX trial, Sadabe, 2026-07-11)",other,,SpaceX / Airtel Madagascar,,2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica

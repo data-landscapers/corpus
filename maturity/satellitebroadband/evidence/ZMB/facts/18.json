@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-26-2026-budget-address-gwan-local-authorities",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Starlink kits",
+      "country_label": "Government Starlink kits",
+      "class": "other",
+      "platform": "Starlink",
+      "owner": "Government of Zambia",
+      "tiers": "government departments, offices, health facilities"
+    }
+  ],
+  "note": "Government-procured Starlink kits for public institutions only; no fact."
+}

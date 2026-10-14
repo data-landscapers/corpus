@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,satellite,service,coverage,sale,2026,SEN-002;SEN-008;SEN-010;SEN-013;SEN-017;SEN-018;SEN-019;SEN-020;SEN-021;SEN-022,SEN-011=none;SEN-003=none;SEN-009=none;SEN-024=licensed;SEN-012=licensed;SEN-015=licensed;SEN-016=licensed;SEN-004=licensed;SEN-005=licensed;SEN-006=licensed;SEN-001=licensed;SEN-007=licensed;SEN-023=none;SEN-014=none,
+SEN,satellite,counted,coverage,,,,,nothing held

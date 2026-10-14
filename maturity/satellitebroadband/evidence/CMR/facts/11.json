@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-uga-independent-starlink-licence",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The Independent (Uganda) reports that Cameroon has held back authorisation for Starlink and has imposed delays or restrictions over regulatory and ownership requirements; no licence is stated (article date used, no other given).",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-23-sa-parliamentary-question-nw3163-starlink-eeip-bbbee-popia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink",
+      "country_label": "Starlink",
+      "class": "satellite",
+      "platform": "",
+      "owner": "SpaceX",
+      "tiers": ""
+    }
+  ],
+  "note": "Parliamentary reply on ownership policy direction; states no Starlink-specific exemption, no licence or sale status."
+}

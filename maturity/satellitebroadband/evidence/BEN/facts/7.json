@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-16 Who Owns Africa's Sky",
+  "facts": [
+    {"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "A survey of 12 African markets in January 2025, reported by TechCabal Insights, found local providers in Benin cheaper than Starlink, implying Starlink was priced for sale in Benin; no launch or licence is stated.", "as_of": "2025-01", "date_precision": "month", "system": "Starlink", "class": "satellite"}
+  ],
+  "systems": [
+    {"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "SpaceX", "tiers": ""}
+  ],
+  "note": "Pan-African story; the only statement naming Benin is the January 2025 price comparison."
+}

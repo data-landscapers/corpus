@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-22-starlink-licence-mixed-reactions-publiceye",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The Lesotho Communications Authority granted Starlink a 10-year licence, Lesotho's first satellite internet licence, to serve individuals and businesses; no grant date is given, so the article date is used.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

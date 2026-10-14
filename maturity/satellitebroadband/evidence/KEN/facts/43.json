@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus Layer 2 over LEO satellite",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "Starlink launch stated for Uganda only; Layer 2 LEO service is for East Africa generally, enterprise private network, no KEN sale or licence stated."
+}

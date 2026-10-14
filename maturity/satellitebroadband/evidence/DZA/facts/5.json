@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-24-namibia-shuts-door-starlink-twice-cioafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Algeria is listed among about 34 countries where Starlink is in regulatory limbo, neither approved nor explicitly banned, as of June 2026; no licence or sale is stated (date is the article's publication date).",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": "One none fact from the limbo sentence naming Algeria."
+}

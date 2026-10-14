@@ -1,0 +1,31 @@
+{
+ "slug": "2026-08-19-liberia-lta-satellite-communications-framework",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Eutelsat OneWeb",
+   "country_label": "Eutelsat OneWeb",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Amazon Kuiper",
+   "country_label": "Amazon Kuiper",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Framework signing story; names Starlink Liberia, OneWeb, Kuiper only as companies invited to consultation; no provider-specific licence or sale stated."
+}

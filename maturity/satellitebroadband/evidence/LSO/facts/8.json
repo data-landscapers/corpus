@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-17-tconnect-impact-soofia-school-publiceye",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink Priority Connectivity",
+   "country_label": "T-Connect Impact Account",
+   "class": "other",
+   "platform": "Starlink",
+   "owner": "T-Connect Lesotho",
+   "tiers": "schools, clinics, community centres"
+  }
+ ],
+ "note": "Institutional Starlink account for schools and clinics launched by T-Connect (launch date typo-ambiguous); no licence or general sale statement."
+}

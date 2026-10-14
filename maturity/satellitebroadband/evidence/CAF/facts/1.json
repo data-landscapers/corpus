@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-16-caf-arcep-observatoire-marches-communications-electroniques-s1-2026",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "ARCEP's half-year 2026 observatory says Starlink CAR obtained a licence to market and operate satellite fixed wireless internet in CAF (licence date not given; document published 2026-09-16).",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  },
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "ARCEP reports Starlink CAR officially launched satellite fixed wireless internet to users in Bangui in March 2026 and held over 70% of the 5,380 fixed wireless internet clients at end-June 2026 (Orange 29%), carrying over 22.89 million GB of traffic since March.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink CAR",
+   "class": "satellite",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "ARCEP gives no satellite-only subscriber count (5,380 is all fixed wireless, Orange included), so no counted fact."
+}

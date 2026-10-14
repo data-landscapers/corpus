@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-22-ghana-nca-starlink-starts-operations-end-august-2024",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "licensed",
+   "fact": "The NCA states all administrative and licensing procedures with it for Space X Starlink GH LTD were concluded, with operations to start by the end of August 2024.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO satellite",
+   "owner": "Space X Starlink GH LTD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

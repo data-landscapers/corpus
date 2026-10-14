@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-cape-verde-arme-satellite-communications-consultation",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Starlink went live in Cape Verde in December 2024, bringing low Earth orbit satellite internet to the archipelago, per Space in Africa.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink Cabo Verde",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

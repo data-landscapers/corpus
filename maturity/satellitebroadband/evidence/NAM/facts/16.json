@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-27-starlink-to-appeal-namibia-licence-rejection-namibian",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "CRAN declined Starlink's application for a class comprehensive telecommunications service licence and its spectrum licence for satellite internet services, citing failure on the 51% local ownership rule; Starlink says it will appeal and notes a 90-day reconsideration window.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "SpaceX (Starlink Internet Services Namibia (Pty) Ltd)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-starlink-16-nouveaux-marches-africains-agenceecofin",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Agence Ecofin reports Starlink's availability map shows Gabon as 'Starting in 2026', meaning coverage or regulatory authorisation pending, and the service is still not available in Gabon.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "LEO",
+   "owner": "SpaceX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

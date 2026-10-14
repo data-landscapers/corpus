@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-17-starlink-launches-27th-african-country-ivory-coast",
+  "facts": [
+    {
+      "sub_indicator": "satellite",
+      "aspect": "service",
+      "value": "licensed",
+      "fact": "A table of Starlink availability by country lists Uganda as 2026 with licence approved (article date used, no licence date given).",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Starlink",
+      "class": "satellite"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

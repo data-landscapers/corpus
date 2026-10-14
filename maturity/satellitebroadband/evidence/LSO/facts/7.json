@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-starlink-opposition-section2-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "none",
+   "fact": "Starlink's Network Services Licence application (10-year term if approved) was pending before the LCA, in public consultation with comments closing 20 March 2025, and opposed by Section 2 over 100% foreign ownership.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "",
+   "owner": "Starlink Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
