@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-12-mwi-mra-ataf-tax-administration-data-improvements",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Malawi Revenue Authority's representative said MRA is developing its second Integrated Tax Administration System, ITAS II, in-house; no date is given for the statement, so the article's published date is used.", "as_of": "2026-10-12", "date_precision": "day", "system": "ITAS II", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "ITAS II", "country_label": "Integrated Tax Administration System II", "class": "staff", "platform": "", "owner": "Malawi Revenue Authority", "tiers": ""}
+  ],
+  "note": ""
+}

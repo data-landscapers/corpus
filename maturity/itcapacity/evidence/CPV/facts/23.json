@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PDEX",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "API exchange",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Page does not state who runs PDEX beyond a NOSi contact address."
+}

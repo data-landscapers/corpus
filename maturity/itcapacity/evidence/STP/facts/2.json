@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-sao-tome-telanon-fao-sistema-registo-embarcacoes-formacao",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Registo de Embarcações de Pesca", "country_label": "STP", "class": "other", "platform": "Android application feeding a central database", "owner": "Direção das Pescas e Aquicultura", "tiers": ""}
+  ],
+  "note": "FAO-run training on an FAO-developed fishing-vessel registry; training and donor project, no government-staff build or operation stated."
+}

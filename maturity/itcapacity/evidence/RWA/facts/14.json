@@ -1,0 +1,31 @@
+{
+ "slug": "2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Shared Government Data Hub",
+   "country_label": "Shared Government Data Hub",
+   "class": "other",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": ""
+  },
+  {
+   "system": "Data Interoperability Platform",
+   "country_label": "Data Interoperability Platform",
+   "class": "other",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": ""
+  },
+  {
+   "system": "ESB",
+   "country_label": "ESB",
+   "class": "",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": ""
+  }
+ ],
+ "note": "Pre-procurement market sounding; a contractor is to build the hub; no in-house fact."
+}

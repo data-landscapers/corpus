@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-02-cybernetica-uxp-interoperability-biometricupdate",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme d'interoperabilite UXP",
+   "country_label": "Plateforme d'interoperabilite des systemes d'information de l'administration (UXP)",
+   "class": "other",
+   "platform": "Cybernetica UXP",
+   "owner": "SNDI / Ministry of Digital Transition",
+   "tiers": "national"
+  }
+ ],
+ "note": "Platform supplied by contractor Cybernetica under contract signed with SNDI; no staff-class fact stated."
+}

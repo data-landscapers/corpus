@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-25-nosi-ainda-nao-divulgou-conclusoes-anomalias-noite-eleitoral-anacao",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NOSi, led by its board chair, ran the election-night results dissemination infrastructure and portal and took operational measures during the 17 May incident, separating TCV channels from the portal.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "election results portal",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Election results portal",
+   "country_label": "results portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

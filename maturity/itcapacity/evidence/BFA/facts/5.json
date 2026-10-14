@@ -1,0 +1,3 @@
+{"slug":"2026-08-05-burkina-g-cloud-portal","facts":[
+{"sub_indicator":"inhouse","aspect":"agency","value":"operating","fact":"The ANPTIC-run government cloud portal states it hosts 139 websites and 622 virtual machines, connects 354 communes and offers SaaS business applications (SIGASPE, CID, CIFE, CIE, e-conseil des ministres) to government; figures undated, capture date used.","as_of":"2026-08-05","date_precision":"day","system":"G-Cloud","class":"staff"}],
+"systems":[{"system":"G-Cloud","country_label":"BFA","class":"staff","platform":"","owner":"ANPTIC","tiers":""},{"system":"SIGASPE","country_label":"BFA","class":"","platform":"Oracle","owner":"","tiers":""}],"note":""}

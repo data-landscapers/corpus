@@ -1,0 +1,15 @@
+{
+  "slug": "2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "INAGE, Mozambique's national e-government institute, states it developed the CloudGov file storage and sharing system for use across public administration institutions; the document gives no date for the work, so the published date is used.", "as_of": "2020-08-13", "date_precision": "day", "system": "CloudGov", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "INAGE's service catalogue, retrieved 2026-08-08, lists server rental, application hosting, application development and government network connection (GovNET, MoRENet) as services for public bodies; the date is the retrieval date.", "as_of": "2026-08-08", "date_precision": "day", "system": "INAGE", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "INAGE states it recently developed CloudGov and that it is in the implementation phase across institutions, with no go-live date given; the published date is used.", "as_of": "2020-08-13", "date_precision": "day", "system": "CloudGov", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "CloudGov", "country_label": "CloudGov", "class": "staff", "platform": "file storage, sharing and synchronisation", "owner": "INAGE", "tiers": "public administration institutions"},
+    {"system": "e-SNGD", "country_label": "Sistema Nacional de Gestao Documental", "class": "", "platform": "", "owner": "INAGE", "tiers": ""},
+    {"system": "GovNET", "country_label": "Rede Electronica do Governo", "class": "", "platform": "", "owner": "INAGE", "tiers": ""},
+    {"system": "MoRENet", "country_label": "MoRENet", "class": "", "platform": "", "owner": "INAGE", "tiers": ""}
+  ],
+  "note": ""
+}

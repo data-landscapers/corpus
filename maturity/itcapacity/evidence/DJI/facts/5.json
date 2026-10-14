@@ -1,0 +1,26 @@
+{
+ "slug": "2023-04-30-ega-djibouti-digital-interoperability-platform",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "eGA experts supported ANSIE, the government ICT coordination unit, in setting up a national data exchange layer and drafted the national interoperability framework for it, in a Government of Djibouti-funded project (EUR 52,800) running May 2022 to April 2023; the page is undated, so the date is the proxy publication month.",
+   "as_of": "2023-04",
+   "date_precision": "month",
+   "system": "national data exchange layer",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national data exchange layer",
+   "country_label": "national data exchange layer",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

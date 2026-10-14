@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Sénégal Numérique SA, the state operator, says on its own page that the Diamniadio national Tier 3 datacenter hosts and stores the state's data, and that its Espaces Sénégal Services are connected to all administrations; page undated, published date used.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Diamniadio National Datacenter",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio National Datacenter",
+   "country_label": "Diamniadio National Datacenter",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  },
+  {
+   "system": "TeleDAc",
+   "country_label": "TeleDAc",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  },
+  {
+   "system": "Unified State Personnel File",
+   "country_label": "Unified State Personnel File",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

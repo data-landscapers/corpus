@@ -1,0 +1,14 @@
+{
+  "slug": "2022-01-01-senum-adie-securite-igc-certificats-electroniques",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The state digital operator (ADIE, now Senegal Numerique SA) states it runs a public key infrastructure issuing electronic certificates to all users of the Senegalese administration, and a government security portal and CSIRT for the administrative intranet; the page has no date, so 2022 is taken from its footer copyright.", "as_of": "2022", "date_precision": "year", "system": "IGC (PKI) electronic certificate service", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "ADIE states its own security directorate and a central CSIRT team of ADIE members run the administrative intranet's incident response and the key management infrastructure; the page has no date, so 2022 is taken from its footer copyright.", "as_of": "2022", "date_precision": "year", "system": "CSIRT ADIE/SN", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "IGC (PKI) electronic certificate service", "country_label": "Infrastructure de Gestion des Cles", "class": "staff", "platform": "public key infrastructure", "owner": "ADIE / Senegal Numerique SA", "tiers": "administration"},
+    {"system": "CSIRT ADIE/SN", "country_label": "CSIRT ADIE/SN", "class": "staff", "platform": "incident response team for the administrative intranet", "owner": "ADIE / Senegal Numerique SA", "tiers": "administration"},
+    {"system": "PSSIS", "country_label": "Portail de Securite des Systemes d'Information du Senegal", "class": "other", "platform": "security information portal", "owner": "ADIE / Senegal Numerique SA", "tiers": ""},
+    {"system": "Messagerie gouvernementale", "country_label": "Messagerie gouvernementale", "class": "", "platform": "", "owner": "ADIE / Senegal Numerique SA", "tiers": ""}
+  ],
+  "note": ""
+}

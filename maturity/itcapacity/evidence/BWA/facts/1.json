@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-25-govt-moves-to-in-house-local-data",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The Minister of Communications and Innovation said government services are currently housed at the Department of Shared Digital Services, which government intends to migrate to the new Bofinet data centre (document published 2025-11-25, no other date given).", "as_of": "2025-11-25", "date_precision": "day", "system": "Department of Shared Digital Services", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Digital Delta Data Centre", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Bofinet", "tiers": ""}
+  ],
+  "note": ""
+}

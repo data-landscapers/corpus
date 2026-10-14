@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-03-gab-gabon-digitalisation-du-systeme-de-sante-dix-structures-hospitalieres",
+  "facts": [],
+  "systems": [
+    {"system": "e-Gabon-SIS", "country_label": "e-Gabon-SIS", "class": "other", "platform": "", "owner": "Ministry of Health; World Bank financed, led by Gabon Digital group with ANINF support", "tiers": "about ten hospitals and health centres in pilot"}
+  ],
+  "note": "Health information system pilot financed by the World Bank; ANINF only supports it and the text does not say who builds or runs it."
+}

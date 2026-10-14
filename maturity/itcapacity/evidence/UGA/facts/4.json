@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NITA-U's executive director says NITA-U's UGHub data integration platform currently connects 37 percent of ministries, departments and agencies, with a target of 73 percent by FY2029/30.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA-U's UGHub platform is stated to connect 37 percent of ministries, departments and agencies, against a target of 73 percent by FY2029/30.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "UGHub",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

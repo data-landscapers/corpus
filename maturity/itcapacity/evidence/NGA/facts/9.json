@@ -1,0 +1,34 @@
+{
+ "slug": "2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "DatacenterDynamics reports state-established Galaxy Backbone has run the country's only Tier III data centre dedicated to the public sector for the past seven to eight years and has now completed a Kano backup centre offering cloud and disaster recovery services.",
+   "as_of": "2022-09-07",
+   "date_precision": "day",
+   "system": "National Shared Services Center, Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Shared Services Center (Abuja)",
+   "country_label": "NSSC",
+   "class": "other",
+   "platform": "Tier III data centre",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  },
+  {
+   "system": "Data Recovery and Business Continuity center (Kano)",
+   "country_label": "Kano DC",
+   "class": "other",
+   "platform": "Tier IV data centre",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-17-cpv-nosi-sistema-fotovoltaico-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center do Estado de Cabo Verde",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": "Event notice on a solar installation; does not state who runs or staffs the data centre systems."
+}

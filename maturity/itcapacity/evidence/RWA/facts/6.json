@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Single Digital Identity (SDID)", "country_label": "SDID", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "RNDPS 2.0 (eKash)", "country_label": "eKash", "class": "other", "platform": "Mojaloop", "owner": "RSwitch", "tiers": ""},
+    {"system": "Electronic Billing Machine (EBM)", "country_label": "EBM", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Telemo e-procurement", "country_label": "Telemo", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names systems but does not state that government's own staff built or run any; RNDPS 2.0 is stated built by RSwitch with a private firm."
+}

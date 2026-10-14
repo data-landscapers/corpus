@@ -1,0 +1,15 @@
+# Zambia
+
+## In-house capacity
+
+**Government staff.** [Smart Zambia Institute describes itself as operator of ZamPass, the national authentication and access-control service, with its own ZamPass team](<https://pass.gsb.gov.zm/about>). [Smart Zambia Institute, implementing agency of the World Bank-financed DZAP, sought an outside consulting firm to design, develop, deploy and support a data protection compliance management system for the Data Protection Commission](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>).
+
+**A technology body for government.** [The Smart Zambia Institute handed over the Smart Office Management System to Zambia Airports Corporation Limited on 2026-09-04 and was directed by the Secretary to the Cabinet to report by end-October 2026 on onboarding ministries, provinces, agencies and state-owned enterprises](<https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/>). [Smart Zambia Institute operates ZamPass, a single sign-on login service for electronic public services across government](<https://pass.gsb.gov.zm/about>).
+
+**Built in-house.** [The government chief technology officer said SmartCare 2.0 is locally developed and owned; its pilot went live at Ndola Teaching Hospital on 27 April 2026, launched by SMART Zambia with the Ministry of Health and IHM Southern Africa as collaborator](<https://techafricanews.com/2026/04/28/zambia-targets-nationwide-health-connectivity-as-smartcare-2-0-pilot-goes-live-in-ndola/>).
+
+**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://techafricanews.com/2026/04/28/zambia-targets-nationwide-health-connectivity-as-smartcare-2-0-pilot-goes-live-in-ndola/>).
+
+***Noted, not assessed***. [Digital loan system for civil servants](<https://techafricanews.com/2026/08/07/smart-zambia-and-amiz-explore-digital-loan-system-for-civil-servants/>); [Digital Transformation Centres Initiative](<https://techafricanews.com/2026/08/05/smart-zambia-and-itu-equip-mpika-youth-resource-centre-to-boost-digital-skills/>); [Government Wide Area Network (GWAN)](<https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/>); [SmartCare Pro](<https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/>); [ZNSDI GeoPortal](<https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/>); [National Artificial Intelligence Data Centre](<https://techafricanews.com/2026/05/27/zambia-and-huawei-and-smart-zambia-sign-deal-for-national-ai-data-centre/>).
+
+***Not held***. No source held says the government has adopted a cadre or scheme of service for its IT staff.

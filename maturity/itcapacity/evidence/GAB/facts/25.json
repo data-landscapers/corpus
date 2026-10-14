@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-16-gabonreview-ged-basculement-administration-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The GED document management system is developed by ANINF, with World Bank and other partner support, per GabonReview.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANINF is building a shared digital base for the 29 ministries to connect to progressively, starting with two pilot administrations.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The pilot phase of the ANINF-developed GED was officially launched on 16 September 2026 at the SGG and DGEC.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GED",
+   "country_label": "GED",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-25-zanis-smart-zambia-digital-infrastructure-investment",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SMART Zambia Institute, a government body, reported connecting all 116 local authorities to the government network and digital record keeping and data access at the Ministries of Agriculture, Lands and Community Development, over 2021 to 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "government network (e-government)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "government network (e-government)",
+   "country_label": "ZMB",
+   "class": "staff",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

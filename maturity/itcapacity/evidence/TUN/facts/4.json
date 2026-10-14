@@ -1,0 +1,16 @@
+{
+  "slug": "2026-06-18-cni-historique-missions",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating",
+     "fact": "The Centre National de l'Informatique, a public establishment, states its missions under decree 2007-1359 include infogerance of national systems and rollout of e-Administration for the Administration; no event date is given, so the document's published date is used.",
+     "as_of": "2026-06-18", "date_precision": "day", "system": "Centre National de l'Informatique (CNI)", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes",
+     "fact": "The Centre National de l'Informatique states it manages the RNIA network and the government Intranet and is responsible for continuity of national applications through its backup centre; no event date is given, so the document's published date is used.",
+     "as_of": "2026-06-18", "date_precision": "day", "system": "RNIA and government Intranet", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "RNIA and government Intranet", "country_label": "RNIA / Intranet gouvernemental", "class": "staff", "platform": "", "owner": "Centre National de l'Informatique", "tiers": ""},
+    {"system": "National applications backup centre", "country_label": "centre de backup", "class": "staff", "platform": "", "owner": "Centre National de l'Informatique", "tiers": ""}
+  ],
+  "note": ""
+}

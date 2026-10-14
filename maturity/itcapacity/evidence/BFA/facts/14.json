@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-03-lanaya-e-bdt-plateformes-tresor-public",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lanaya",
+   "country_label": "Lanaya",
+   "class": "",
+   "platform": "",
+   "owner": "Treasury",
+   "tiers": ""
+  },
+  {
+   "system": "e-BDT",
+   "country_label": "e-BDT",
+   "class": "",
+   "platform": "",
+   "owner": "Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "Says platforms were designed and developed in Burkina Faso but does not say government staff built them."
+}

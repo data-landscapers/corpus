@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BFA,inhouse,inhouse,coverage,yes,2024-01-30,BFA-002;BFA-006,,
+BFA,inhouse,agency,coverage,operating,2026-09-03,BFA-001;BFA-003;BFA-004;BFA-005;BFA-007,,
+BFA,inhouse,built,coverage,live,2026-04-03,BFA-008,,
+BFA,inhouse,cadre,coverage,,,,,nothing held

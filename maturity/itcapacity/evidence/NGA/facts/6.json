@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-10-1gov-cloud-galaxy-backbone",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ITWeb Africa reports Nigeria's Federal Government began full rollout of the 1Gov sovereign cloud (GovDrive, GovECMS, GovMail, GovE-Sign) implemented through state company Galaxy Backbone across ministries including Communications, Justice, Foreign Affairs, Solid Minerals and Intergovernmental Affairs.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "1Government Cloud (1Gov), Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "1Government Cloud (1Gov)",
+   "country_label": "1Gov",
+   "class": "staff",
+   "platform": "sovereign cloud with GovDrive, GovECMS, GovMail, GovE-Sign",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

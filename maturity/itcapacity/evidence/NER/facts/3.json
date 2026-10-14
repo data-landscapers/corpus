@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRHEP",
+   "country_label": "SIGRHEP",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de la Fonction publique",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGRHEP is under development; the document does not say government staff or a contractor build or run it, and none is stated live."
+}

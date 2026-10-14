@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-itcapacity.md — the fifty-second maturity study: whether government's own staff build and run its computer systems, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: itcapacity
@@ -72,10 +72,10 @@ The African Charter on the Values and Principles of Public Service and Administr
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word.**
-- [ ] **D2. Read.**
-- [ ] **D3. Staged** as at 2026-09-30.
-- [ ] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill.**
+- [x] **D1. Bill's word**, 2026-10-14, the questions as prepared.
+- [x] **D2. Read**: 150 drafters over 544 readings, seven regional stories read once; 197 facts after five rows removed and one added by the parent (`corrections.csv`): two pilots, a Nigeria row that does not say who built the portal, and Equatorial Guinea's telecom operator out; Zambia's SMART Office, built in-house and in use at the Ministry of Health from June 2025, in as a go-live. Mauritius's "ICTA" is its telecom regulator, so the term brought regulator news; Kenya's and Rwanda's stories name their agencies without saying what they run. All three are *No evidence*, for the update's search.
+- [x] **D3. Staged** as at 2026-09-30: stage 4 seven, 3 fourteen, 2 four, 1 two, unplaced five, no evidence 22; none at 5, no source held stating an IT cadre. The second drafter agreed on 20 of 20 after the Zambia row.
+- [x] **D4. Written, rendered and linted**, by `study-itcapacity-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 51.2M of 50M, step 1's thread counted.
 
 ## Boundary
 

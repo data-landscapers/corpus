@@ -1,0 +1,11 @@
+{
+  "slug": "2024-04-17-sierra-leone-mocti-directorate-of-technology",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The MoCTI Directorate of Technology, with a Software Development and Application Services Unit and a Data Science Unit, is stated to be mandated to support MDAs in planning, deploying and maintaining software, to build and maintain government-wide data infrastructure, and to direct delivery of e-Cabinet, e-Parliament and citizen portals; the page gives no date for the stated thing, so the published date is used.", "as_of": "2024-04-17", "date_precision": "day", "system": "Directorate of Technology (MoCTI)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "e-Cabinet", "country_label": "Sierra Leone", "class": "", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": ""},
+    {"system": "e-Parliament", "country_label": "Sierra Leone", "class": "", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": ""}
+  ],
+  "note": "Mandate page; no named system is stated as run, maintained or developed by directorate staff, and no go-live or cadre is stated, so only the agency fact is recorded."
+}

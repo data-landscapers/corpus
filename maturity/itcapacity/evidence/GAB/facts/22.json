@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-02-plateforme-numerique-proxigab-officiellement-presentee",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "PROXIGAB, an SME platform, was designed and developed by ANINF's own experts, per the Gabonese press agency.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "PROXIGAB",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANINF signed a minute on 2 October 2026 handing the PROXIGAB solution to the SME directorate-general, a platform it built for another government body.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "PROXIGAB",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "ANINF experts' PROXIGAB platform was officially presented and handed over on 2 October 2026; the date is the presentation, not stated as first go-live.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "PROXIGAB",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PROXIGAB",
+   "country_label": "PROXIGAB",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

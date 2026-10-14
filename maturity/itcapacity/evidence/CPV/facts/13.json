@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-06-cpv-nosi-garante-total-flexibilidade-negocial-junto-das-camaras-municipais",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NOSi says 21 of Cabo Verde's 22 municipal councils receive its regular Local Digital Governance services under service agreements; only Mosteiros was suspended over unpaid invoices.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "NOSi, E.P.E.",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi, E.P.E.",
+   "country_label": "NOSi",
+   "class": "staff",
+   "platform": "",
+   "owner": "Government of Cabo Verde (state company)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-09-06-empowering-digital-transformation-e-government-south-sudan",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced",
+     "fact": "The Ministry of Information, Communication Technology and Postal Services states it introduced an e-Government system by outsourcing business processes to a private entity under a formal contract in 2019, with the contractor's National e-Government Framework steering e-Government initiatives.",
+     "as_of": "2019", "date_precision": "year", "system": "e-Government system", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "e-Government system", "country_label": "South Sudan", "class": "staff", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": ""}
+  ],
+  "note": ""
+}

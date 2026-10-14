@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,Government Intranet,Intranet de l'administration,staff,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Single-window portal of public services,Guichet unique,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Government messaging system,messagerie gouvernementale,,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,.ml country-code domain registry,point ML,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
+MLI,Government messaging system,messagerie gouvernementale,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Administration intranet network,réseau intranet de l'Administration,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,COCCASFR platform,COCCASFR,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Point ML,point ML,,,AGETIC,,2026-01-12-agetic-plan-passation-marches-2026
+MLI,Administration intranet,réseau intranet de l'administration,staff,,AGETIC,,2025-12-29-agetic-conseil-administration-orientations-strategiques
+MLI,Guichet unique,plateforme du Guichet unique,other,,AGETIC,,2025-12-29-agetic-conseil-administration-orientations-strategiques
+MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,"fibre-optic backbone, 3,500+ km",SMTD-SA,,2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin
+MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,fibre-optic backbone,SMTD-SA,,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
+MLI,AGETIC data centre,AGETIC data centre,staff,"IaaS, SaaS, backup, DR site",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,SMTD data centre,SMTD data centre,other,"colocation, IaaS, SaaS, backup",Societe malienne de transmission et de diffusion (SMTD),Tier III upgrade in progress,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees

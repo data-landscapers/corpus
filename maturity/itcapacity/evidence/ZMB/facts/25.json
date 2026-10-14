@@ -1,0 +1,15 @@
+{
+ "slug": "2015-01-01-eximbank-cn-zmb-001-china-eximbank-provides-654-million-loan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZICTA National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "ZICTA",
+   "tiers": ""
+  }
+ ],
+ "note": "Loan record for Huawei-contracted data centres and a training centre; no government staff capacity stated."
+}

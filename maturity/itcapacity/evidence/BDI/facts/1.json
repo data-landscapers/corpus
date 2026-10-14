@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp",
+  "facts": [],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Finances Publiques (SIGFP)", "country_label": "SIGFP", "class": "other", "platform": "", "owner": "Ministère des Finances, du Budget et de l'Économie Numérique", "tiers": ""}
+  ],
+  "note": "A change-management workshop for the SIGFP rollout, World Bank PAFEN supported; training only, it does not state who builds or runs the system."
+}

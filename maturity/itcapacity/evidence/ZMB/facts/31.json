@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-zambia-border-connectivity-gwan-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SMART Zambia Institute officials stated on 5 August 2026 that the Institute is implementing a single national connectivity standard through the Government Wide Area Network, giving shared government infrastructure to border agencies.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Government Wide Area Network (GWAN)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Wide Area Network (GWAN)",
+   "country_label": "Zambia",
+   "class": "staff",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

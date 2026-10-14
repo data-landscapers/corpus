@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-27 Introduction to the Rwanda National Data Sharing Policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Sharing Platform",
+   "country_label": "Data Sharing Platform",
+   "class": "other",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": ""
+  }
+ ],
+ "note": "Policy assigns RISA future development and maintenance of a platform not yet stated live; announced only, so no fact."
+}

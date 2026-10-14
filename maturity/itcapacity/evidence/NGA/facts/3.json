@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-28-nigeria-unveils-unified-government-service-platform",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Government Service Portal, stated as developed by Galaxy Backbone in collaboration with the communications ministry and KOICA, was soft-launched on 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Government Service Portal",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone is stated to be the Federal Government's digital infrastructure and shared services provider, running fibre, data centres, cloud and shared platforms for government.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Government Service Portal",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Portal",
+   "country_label": "Government Service Portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  },
+  {
+   "system": "Nigerian Digital Exchange",
+   "country_label": "Nigerian Digital Exchange",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

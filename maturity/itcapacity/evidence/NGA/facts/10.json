@@ -1,0 +1,44 @@
+{
+ "slug": "2019-06-03-galaxy-backbone-mandate",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone's mandate page says it is to provide shared ICT infrastructure, applications and services to all federal MDAs and to deploy and maintain national database systems and transversal applications including government messaging, the federal personnel and payroll system, the government gateway and the national portal; the page is undated and the staging date 2019-06-03 is used.",
+   "as_of": "2019-06-03",
+   "date_precision": "day",
+   "system": "federal public service personnel and payroll system, Galaxy Backbone",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Galaxy Backbone, the Federal Government's state company, is stated to be responsible for deploying and maintaining the federal public service personnel and payroll system and the government gateway and national portal; the page is undated and the staging date 2019-06-03 is used.",
+   "as_of": "2019-06-03",
+   "date_precision": "day",
+   "system": "federal public service personnel and payroll system",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Federal public service personnel and payroll system",
+   "country_label": "payroll",
+   "class": "staff",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  },
+  {
+   "system": "Government gateway and national portal",
+   "country_label": "gateway",
+   "class": "staff",
+   "platform": "",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

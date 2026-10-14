@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01-ntb-ease-of-doing-business-portal-award",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced", "fact": "The National Tender Board notice records the Department of Information Communications Technology renewing a 24/7 managed Security Operations Center and SIEM service awarded to Birger Managed Solutions Ltd (USD 100,023); the notice gives no date of its own, so the covered period ending 2025-12 is used.", "as_of": "2025-12", "date_precision": "month", "system": "Managed Security Operations Center and SIEM", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Ease of Doing Business Portal", "country_label": "Seychelles", "class": "other", "platform": "", "owner": "Ministry of Investment, Entrepreneurship & Industry", "tiers": ""},
+    {"system": "Human Resource Management System (HRMS)", "country_label": "Seychelles", "class": "", "platform": "", "owner": "Department of Information Communications Technology", "tiers": ""},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "Seychelles", "class": "", "platform": "", "owner": "Ministry of Finance, Economic Planning Trade & Investment", "tiers": ""}
+  ],
+  "note": ""
+}

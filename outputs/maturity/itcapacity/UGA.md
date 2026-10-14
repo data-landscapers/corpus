@@ -1,0 +1,15 @@
+# Uganda
+
+## In-house capacity
+
+**Government staff.** [NITA-U's own UGPass technical lead and director of e-government services describe running UGHub and UGPass and developing a digital signature service on UGPass](<https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026>). [A NITA-U IT professional said UGHub is a national data integration platform managed by NITA-U, using infrastructure developed by NITA-U](<https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026>). [NITA-U's executive director says NITA-U's UGHub data integration platform currently connects 37 percent of ministries, departments and agencies, with a target of 73 percent by FY2029/30](<https://www.nita.go.ug/news-updates/nita-u-launches-strategic-plan-fy202526-fy202930-boost-reach-digital-government>).
+
+**A technology body for government.** [NITA-U's director of e-government services says NITA-U is the agency coordinating IT across the public sector and has almost certainly been involved in building or supporting the systems behind any digital government service, with infrastructure and platforms for ministries, agencies and local governments](<https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026>). [NITA-U says its National Data Centre offers a suite of services for government entities and other stakeholders](<https://allafrica.com/stories/202602240674.html>).
+
+**Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026>).
+
+**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026>).
+
+***Noted, not assessed***. [NIPX](<https://www.nita.go.ug/news-updates/nita-u-ministry-ict-national-guidance-announce-launch-national-ip-peering-exchange>); [Parish Development Model Information System](<https://ict.go.ug/site/documents/ministerial-policy-statement-mps-20252026.pdf>); [Integrated Health Management Information System](<https://ict.go.ug/site/documents/ministerial-policy-statement-mps-20252026.pdf>); [Education Management Information System](<https://ict.go.ug/site/documents/ministerial-policy-statement-mps-20252026.pdf>); [Electronic Document and Records Management System](<https://ict.go.ug/site/documents/ministerial-policy-statement-mps-20252026.pdf>); [Online Business Registration Services System](<https://ict.go.ug/site/documents/ministerial-policy-statement-mps-20252026.pdf>).
+
+***Not held***. No source held says a system built by government staff went live since October 2023.

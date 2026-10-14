@@ -1,0 +1,15 @@
+{
+ "slug": "2017-10-26-huawei-new-ict-helps-build-smart-zambia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZICTA National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "ZICTA",
+   "tiers": ""
+  }
+ ],
+ "note": "Supplier-built data centre and training; no named government system stated run or built by government staff."
+}

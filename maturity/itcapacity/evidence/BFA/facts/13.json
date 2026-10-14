@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-06-tresor-public-lanaya-e-bdt-plateformes",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Treasury's director general said Lanaya and e-BDT were developed by the Treasury's own administration (not a contractor), and they were officially launched on 3 April 2026 in Ouagadougou.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "Lanaya",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Treasury's director general said Lanaya and e-BDT were developed by the Treasury's own administration (not a contractor), and they were officially launched on 3 April 2026 in Ouagadougou.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "e-BDT",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lanaya",
+   "country_label": "Lanaya",
+   "class": "staff",
+   "platform": "",
+   "owner": "Treasury (Direction generale du Tresor et de la comptabilite publique)",
+   "tiers": ""
+  },
+  {
+   "system": "e-BDT",
+   "country_label": "e-BDT",
+   "class": "staff",
+   "platform": "",
+   "owner": "Treasury (Direction generale du Tresor et de la comptabilite publique)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-31-ega-public-administration-modernisation-djibouti",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road secure data exchange", "country_label": "Djibouti", "class": "other", "platform": "X-Road", "owner": "ANSIE", "tiers": ""}
+  ],
+  "note": "X-Road was implemented by contractors (eGA with Roksnet, Gofore, UpMind) for ANSIE, the beneficiary; the page does not state ANSIE staff run it, and training courses are not facts."
+}

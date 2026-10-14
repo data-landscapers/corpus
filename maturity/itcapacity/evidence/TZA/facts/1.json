@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-04-ega-tanzania-digital-farming-cooperatives",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The e-Government Authority says it developed the M-Kilimo system with the Ministry of Agriculture, the MUVU Cooperative Management System with the Cooperative Development Commission, and the Fertiliser Information System with the fertiliser regulator; no date is given beyond the article's publication date (2026-08-04).", "as_of": "2026-08-04", "date_precision": "day", "system": "M-Kilimo", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The e-Government Authority, mandated to coordinate ICT across public institutions, runs MUVU (over 6,000 cooperative societies registered), M-Kilimo, the Government Mailing System and e-Office for the agriculture ministry and its institutions; no date is given beyond the article's publication date (2026-08-04).", "as_of": "2026-08-04", "date_precision": "day", "system": "MUVU Cooperative Management System", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "M-Kilimo", "country_label": "M-Kilimo", "class": "staff", "platform": "", "owner": "e-Government Authority with Ministry of Agriculture", "tiers": ""},
+    {"system": "MUVU Cooperative Management System", "country_label": "MUVU", "class": "staff", "platform": "", "owner": "e-Government Authority with Cooperative Development Commission", "tiers": ""},
+    {"system": "Fertiliser Information System", "country_label": "FIS", "class": "staff", "platform": "", "owner": "e-Government Authority with Tanzania Fertiliser Regulatory Authority", "tiers": ""},
+    {"system": "Government Mailing System", "country_label": "GMS", "class": "staff", "platform": "", "owner": "e-Government Authority", "tiers": ""},
+    {"system": "e-Office", "country_label": "e-Office", "class": "staff", "platform": "", "owner": "e-Government Authority", "tiers": ""}
+  ],
+  "note": ""
+}

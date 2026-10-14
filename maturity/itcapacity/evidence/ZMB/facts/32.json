@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-16-zambia-govlink-private-4g-itweb",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The SMART Zambia Institute, described as Zambia's e-government agency, launched the government-owned GovLink private 4G network on 16 July 2026 to connect health facilities, schools and other public institutions.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "GovLink",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The article states SmartCare Pro and SmartCare 2.0 electronic health record systems were developed by the Ministry of Health and the Smart Zambia Institute.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "SmartCare Pro and SmartCare 2.0",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovLink",
+   "country_label": "Zambia",
+   "class": "staff",
+   "platform": "private 4G network",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCare Pro",
+   "country_label": "Zambia",
+   "class": "staff",
+   "platform": "electronic health record",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCare 2.0",
+   "country_label": "Zambia",
+   "class": "staff",
+   "platform": "electronic health record, hospital edition",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

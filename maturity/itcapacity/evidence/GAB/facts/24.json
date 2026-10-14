@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-17-techafricanews-gabon-electronic-document-management",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The GED electronic document management platform was developed with ANINF's expertise, per Tech Africa News.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANINF supports administrations including the government secretariat and exams directorate with the GED, document security and user support.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The ANINF-developed GED platform was launched on 16 September 2026 at the General Secretariat of the Government, as a pilot with two administrations.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "GED",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GED",
+   "country_label": "GED",
+   "class": "staff",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

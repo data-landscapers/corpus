@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-26-gabonreview-fur-carrieres-soldes-fonctionnaires",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes",
+     "fact": "After the Vice-President of the Government's meeting of 25 August 2026, technical teams of ANINF and of the Ministry of the Civil Service agreed to work on restoring the Fichier unique de référence (FUR) civil-service HR and payroll system within a short time.",
+     "as_of": "2026-08-25", "date_precision": "day", "system": "Fichier unique de référence (FUR)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Fichier unique de référence (FUR)", "country_label": "Fichier unique de référence", "class": "staff", "platform": "packaged software (progiciel), about twenty years old", "owner": "Ministry of the Civil Service; ANINF technical teams", "tiers": ""}
+  ],
+  "note": ""
+}

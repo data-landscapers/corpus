@@ -1,0 +1,15 @@
+# Cape Verde
+
+## In-house capacity
+
+**Government staff.** [NOSi stated that its board's investments in infrastructure and staff capacity let it manage the State Private Technology Network and run the election-results publication system and portal eleicoes.cv](<https://www.anacao.cv/noticia/2026/05/27/legislativas-2026-nosi-diz-que-relatorio-preliminar-aponta-para-causas-de-ordem-tecnica/>). [NOSi operated the site publishing the legislative election results and secured data delivery through the State Private Technology Network](<https://www.anacao.cv/noticia/2026/05/18/legislativas-2026-presidente-do-nosi-pede-desculpas-por-alegado-ciber-ataque-durante-a-divulgacao-dos-resultados-das-eleicoes/>).
+
+**A technology body for government.** [The Autentika page, undated so taken as 2026 (published date), presents it as the State's electronic identity and authentication platform, with NOSi handling application onboarding and helpdesk, and more than 95,000 daily users](<https://portal-autentika.gov.cv/>). [NOSi supplied election data to TCV under a protocol and to state public servers through the State Private Technology Network it runs](<https://www.anacao.cv/noticia/2026/05/18/legislativas-2026-presidente-do-nosi-pede-desculpas-por-alegado-ciber-ataque-durante-a-divulgacao-dos-resultados-das-eleicoes/>).
+
+**Built in-house.** [The SIPP criminal-case component of the SIJ, developed by the NOSi team, was formally delivered and is stated to be operating in every comarca](<https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/>). [The SIJ criminal-case subsystem, developed by NOSi with the IMIJ, was handed over at a ceremony and is in use](<https://justica.gov.cv/w/nosi-entrega-sistema-de-informa%C3%A7%C3%A3o-da-justi%C3%A7a-penal>).
+
+**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/>).
+
+***Noted, not assessed***. [RTPE](<https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e>); [NOSiAkademia](<https://govinsider.asia/intl-en/article/60percent-of-vital-public-services-to-go-online-by-2026-cabo-verdes-digital-government-chief>); [WebLab](<https://govinsider.asia/intl-en/article/60percent-of-vital-public-services-to-go-online-by-2026-cabo-verdes-digital-government-chief>); [NOSi Akademia](<https://www.governo.cv/governo-dispoe-de-cerca-de-10-milhoes-de-contos-para-investir-no-digital-nos-proximos-anos/>); [Data Center do Estado de Cabo Verde](<https://www.nosi.cv/pt/web/guest/w/lan%C3%A7amento-p%C3%BAblico-do-sistema-de-energia-fotovoltaico-do-data-center>); [Autentika](<https://portal-autentika.gov.cv/>).
+
+***Not held***. No source held says the government has adopted a cadre or scheme of service for its IT staff.

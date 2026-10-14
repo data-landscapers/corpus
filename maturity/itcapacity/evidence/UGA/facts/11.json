@@ -1,0 +1,23 @@
+{
+ "slug": "2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "UGHub",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Excerpt describes UGHub and UGPass but does not state who runs or built them."
+}

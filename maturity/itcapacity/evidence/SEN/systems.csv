@@ -1,0 +1,34 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,PRODAP,PRODAP,other,,Sénégal Numérique S.A.,,2026-09-30-sen-kfw-prodap-progress-review
+SEN,Identity card and passport production,Identity cards and passports,staff,,Ministry of Interior,,2026-09-30-sen-vipeoples-passports-id-cards-national-expertise
+SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,staff,,Sénégal Numérique SA,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,TeleDAc,TeleDAc,staff,,Sénégal Numérique SA,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,Unified State Personnel File,Unified State Personnel File,,,,,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,SENUM information systems,SENUM information systems,staff,,Sénégal Numérique SA,,2026-02-13-enqueteplus-senum-tentatives-cyberattaques
+SEN,SenGec,SenGec,other,electronic mail management platform,Senegal Numerique SA,communes,2024-02-12-senum-ams-informatisation-des-mairies
+SEN,Diamniadio National Datacenter,Datacenter National de Diamniadio,other,hosting of commune data,Senegal Numerique SA,communes,2024-02-12-senum-ams-informatisation-des-mairies
+SEN,IGC (PKI) electronic certificate service,Infrastructure de Gestion des Cles,staff,public key infrastructure,ADIE / Senegal Numerique SA,administration,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,CSIRT ADIE/SN,CSIRT ADIE/SN,staff,incident response team for the administrative intranet,ADIE / Senegal Numerique SA,administration,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,PSSIS,Portail de Securite des Systemes d'Information du Senegal,other,security information portal,ADIE / Senegal Numerique SA,,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,Messagerie gouvernementale,Messagerie gouvernementale,,,ADIE / Senegal Numerique SA,,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,Senegal national fibre-optic backbone (Senegal Numerique),Senegal,other,fibre-optic backbone,Senegal Numerique SA,,2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin
+SEN,Senegal national fibre-optic backbone (SENUM SA),Senegal,other,fibre-optic backbone,Senegal Numerique SA,,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
+SEN,Systeme de gestion du foncier (SGF),SGF,other,"land management digital platform, a project",Direction du Cadastre,,2026-09-08-sen-aps-mutualisation-donnees-geospatiales-interoperabilite
+SEN,Centralised national and consular civil-status database,Centralised national and consular civil-status database,,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
+SEN,Civil-status management software,Civil-status management software,,,ANEC,,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
+SEN,TeleDAc,TeleDAc,staff,,Sénégal Numérique SA,,2026-09-03-senum-teledac-dematerialisation-actes-administratifs
+SEN,Sénégal Numérique national portal,Sénégal Numérique national portal,staff,,Sénégal Numérique SA,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
+SEN,SEN-CSU platform,SEN-CSU platform,,,SEN-CSU,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
+SEN,Espaces Sénégal Services,Espaces Sénégal Services,,,Sénégal Numérique SA,,2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie
+SEN,e-Sénégal,e-Sénégal,staff,,Sénégal Numérique SA,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
+SEN,GovStack,GovStack,,,Sénégal Numérique SA,,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin
+SEN,PRODAP,PRODAP,other,,Sénégal Numérique SA,,2026-04-25-aps-prodap-phase-pilote-mbour-six-communes
+SEN,Diamniadio National Datacenter (DND),Diamniadio National Datacenter,other,,Government of Senegal,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+SEN,"SENUM datacenter (Orana, Technopole, Diamniadio)",SENUM datacenter,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,Government messaging,Government messaging,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,SENGEC SENCOLLAB,SENGEC SENCOLLAB,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,E-conf,E-conf,staff,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,Sénégal Services,Sénégal Services,,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,staff,,ADIE / Sénégal Numérique SA,,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
+SEN,Sénégal Services,Espaces Sénégal Services,,,ADIE,,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
+SEN,cloud souverain (JOJ Dakar 2026),Senegal sovereign cloud,staff,Alibaba,"Ministry of Communication, Telecommunications and Digital",,2026-04-24-aps-formation-100-ingenieurs-cloud-computing

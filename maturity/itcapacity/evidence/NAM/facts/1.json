@@ -1,0 +1,8 @@
+{
+  "slug": "2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road / UXP interoperability solution", "country_label": "Namibia", "class": "other", "platform": "UXP (Cybernetica)", "owner": "", "tiers": ""}
+  ],
+  "note": "Interoperability system built by foreign contractors (eGA, Cybernetica); no government-staff fact."
+}

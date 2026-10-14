@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Senegal national fibre-optic backbone (SENUM SA)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "fibre-optic backbone",
+   "owner": "Senegal Numerique SA",
+   "tiers": ""
+  }
+ ],
+ "note": "Interconnection of national backbones inaugurated 2026-10-05; no statement of own-staff build or operation, or of services to ministries."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-08-smart-zambia-expands-digital-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SMART Zambia's e-Government Division is stated to have connected all local authorities and post offices in North-Western Province to the Government Wide Area Network over fibre, linking government offices, schools and health facilities.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Government Wide Area Network (GWAN)",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Wide Area Network (GWAN)",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "fibre-optic network",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCare Pro",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ZNSDI GeoPortal",
+   "country_label": "Zambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

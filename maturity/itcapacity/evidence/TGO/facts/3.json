@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-04-togo-atd-cadre-digitalisation-services-publics-gouvernance",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The digitalisation framework's governance model gives Agence Togo Digital the role of deploying digital solutions for public services, setting standards, and providing the low-code/no-code integration platforms that public institutions' integrators use; the page carries no date, so the published date is used.", "as_of": "2026-09-04", "date_precision": "day", "system": "ATD low-code/no-code integration platforms", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "ATD low-code/no-code integration platforms", "country_label": "ATD low-code/no-code platforms", "class": "staff", "platform": "low-code/no-code", "owner": "Agence Togo Digital", "tiers": ""}
+  ],
+  "note": ""
+}

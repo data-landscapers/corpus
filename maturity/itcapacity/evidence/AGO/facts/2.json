@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff.", "as_of": "2026-07-02", "date_precision": "day", "system": "Portal do Censo 2024 and INE Angola app", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "built", "value": "live", "fact": "INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff.", "as_of": "2026-07-02", "date_precision": "day", "system": "Portal do Censo 2024 and INE Angola app", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Portal do Censo 2024", "country_label": "Portal do Censo 2024", "class": "staff", "platform": "web portal", "owner": "INE", "tiers": ""},
+    {"system": "INE Angola", "country_label": "INE Angola", "class": "staff", "platform": "mobile app", "owner": "INE", "tiers": ""}
+  ],
+  "note": ""
+}

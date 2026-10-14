@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-30-cote-divoire-cicg-trains-ministry-it-directors-website-security",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Template de site web institutionnel du Gouvernement",
+   "country_label": "Template de site web institutionnel du Gouvernement",
+   "class": "other",
+   "platform": "",
+   "owner": "CICG",
+   "tiers": ""
+  }
+ ],
+ "note": "Training for ministry IT directors; CICG web template built with SNDI support has no go-live date."
+}

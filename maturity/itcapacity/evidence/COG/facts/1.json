@@ -1,0 +1,9 @@
+{
+  "slug": "2019-02-08-dsi-douaniers-operateurs-sensibilises-e-douanes-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "portail e-douanes", "country_label": "e-douanes", "class": "other", "platform": "", "owner": "Direction générale des douanes et des droits indirects", "tiers": ""},
+    {"system": "Déclaration préalable à l'importation (DPI)", "country_label": "DPI", "class": "other", "platform": "", "owner": "Direction générale des douanes et des droits indirects", "tiers": ""}
+  ],
+  "note": "Launched 8 Feb 2019 in partnership with Webb Fontaine-Congo (vendor); the DSI director only presented it, so no statement that government staff built or run it."
+}

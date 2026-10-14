@@ -1,0 +1,39 @@
+{
+ "slug": "2025-07-09-rdap-fast-track-2026-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "E-Ubuzima",
+   "country_label": "E-Ubuzima",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Building Permit Management Information System",
+   "country_label": "Building Permit Management Information System",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "GovNet",
+   "country_label": "GovNet",
+   "class": "",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": ""
+  },
+  {
+   "system": "Public Key Infrastructure",
+   "country_label": "Public Key Infrastructure",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Donor-funded project description; systems named without stating who builds or runs them."
+}

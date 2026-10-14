@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-30-governo-lanca-soc-csirt-rtpe-nosi-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The minister announced the public launch of the SOC and CSIRT of the State Private Technology Network (RTPE), stated to be developed by NOSi, the state information-society company.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "SOC and CSIRT RTPE",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The SOC and CSIRT of the RTPE, developed by NOSi (with World Bank and partners involved in the project), were publicly launched.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "SOC and CSIRT RTPE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOC and CSIRT RTPE",
+   "country_label": "SOC and CSIRT RTPE",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

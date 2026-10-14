@@ -1,0 +1,8 @@
+{
+  "slug": "2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Registry (NPR)", "country_label": "National Population Registry", "class": "other", "platform": "", "owner": "NIDA", "tiers": ""}
+  ],
+  "note": "2019 interoperability thesis; names RISA as ICT authority but does not state it builds, hosts or runs systems for government, and predates the 2023 window."
+}

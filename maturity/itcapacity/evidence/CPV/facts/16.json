@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-31-nosi-relatorio-de-gestao-e-contas-2024",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NOSi's 2024 accounts report CVE 455,964 thousand of protocolled services with the State, CVE 305,779 thousand of RTPE state network connectivity and software development, IaaS and housing revenue, so the state enterprise supplies systems and hosting to state bodies (document dated to year-end, not a publication date).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NOSi RTPE and protocolled services",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RTPE",
+   "country_label": "RTPE",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "SIJ",
+   "country_label": "SIJ",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

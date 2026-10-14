@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-29-agetic-conseil-administration-orientations-strategiques",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "At AGETIC's board session the minister set the agency's orientations to reinforce the Guichet unique platform and the administration's intranet and extend it to the new administrative regions, which states AGETIC operates these for the administration.", "as_of": "2025-12-29", "date_precision": "day", "system": "Administration intranet", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Administration intranet", "country_label": "réseau intranet de l'administration", "class": "staff", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Guichet unique", "country_label": "plateforme du Guichet unique", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": ""
+}

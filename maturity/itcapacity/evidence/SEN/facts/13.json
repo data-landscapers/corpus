@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-24-senum-sa-sen-csu-partenariat-couverture-maladie",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SENUM SA runs the national portal and the Espaces Sénégal Services network in the departments, into which the SEN-CSU health-cover platform is to be integrated under a convention launched 24 July 2026.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "Sénégal Numérique national portal",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sénégal Numérique national portal",
+   "country_label": "Sénégal Numérique national portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  },
+  {
+   "system": "SEN-CSU platform",
+   "country_label": "SEN-CSU platform",
+   "class": "",
+   "platform": "",
+   "owner": "SEN-CSU",
+   "tiers": ""
+  },
+  {
+   "system": "Espaces Sénégal Services",
+   "country_label": "Espaces Sénégal Services",
+   "class": "",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

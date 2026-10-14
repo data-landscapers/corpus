@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-28-nita-u-ugpass-ceo-breakfast",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "",
+   "platform": "authentication and e-signature platform",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Adoption meeting; does not state who built or runs UGPass."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-09-nga-anambrastate-ict-agency-information-ministry-deepen-digital-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Anambra State ICT Agency (ICTA) presented its upgraded SolutionLens platform and moved it into operational use by the state Ministry of Information, with a formal handover planned.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "SolutionLens",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Anambra State ICTA is moving SolutionLens into operational use by the Ministry of Information and Value Reformation, training its officers and issuing them government email accounts.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "SolutionLens",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SolutionLens",
+   "country_label": "SolutionLens",
+   "class": "staff",
+   "platform": "",
+   "owner": "Anambra State ICT Agency",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

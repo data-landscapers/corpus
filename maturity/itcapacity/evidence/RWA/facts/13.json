@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-05-rwanda-ekash-national-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "eKash",
+   "class": "other",
+   "platform": "Mojaloop",
+   "owner": "National Bank of Rwanda; RISA; RSwitch; Access to Finance Rwanda",
+   "tiers": ""
+  }
+ ],
+ "note": "eKash is a multi-party payment system with external technical support; no statement that government staff built or run it."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-19-nita-u-national-data-centre-service",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA-U states its National Data Centre offers IaaS, PaaS, SaaS, backup and disaster recovery to government entities, hosting critical government systems and data (page date is a proxy; published date used).",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "NITA-U National Data Centre",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NITA-U states it provides end-to-end management of hardware and software for PaaS at its National Data Centre (published date used, as the page gives none).",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "NITA-U National Data Centre",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NITA-U National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "staff",
+   "platform": "government data centre",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

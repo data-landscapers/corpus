@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-24-aps-formation-100-ingenieurs-cloud-computing",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced", "fact": "The communications minister said the sovereign cloud for the Dakar 2026 Youth Olympics will be monitored by Senegalese engineers accompanied at first by Chinese engineers from Alibaba until they take over, and its hardware was installed and tested by Senegalese and Alibaba engineers.", "as_of": "2026-04-24", "date_precision": "day", "system": "cloud souverain (JOJ Dakar 2026)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "cloud souverain (JOJ Dakar 2026)", "country_label": "Senegal sovereign cloud", "class": "staff", "platform": "Alibaba", "owner": "Ministry of Communication, Telecommunications and Digital", "tiers": ""}
+  ],
+  "note": "The 100-engineer cloud training is announced and not yet started, so it gives no fact; the employer of the Senegalese engineers is not stated."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Huawei's case page says Galaxy Backbone, set up by the Federal Government, provides ICT facilities and services for government ministries, departments and agencies and builds and operates the national fibre backbone NICTIB; the page is undated and the staging date 2024-08-28 is used.",
+   "as_of": "2024-08-28",
+   "date_precision": "day",
+   "system": "NICTIB, Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Information and Communication Technology Infrastructure Backbone (NICTIB)",
+   "country_label": "NICTIB",
+   "class": "other",
+   "platform": "fibre network",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  },
+  {
+   "system": "Galaxy Backbone Kano data centre",
+   "country_label": "Kano DC",
+   "class": "other",
+   "platform": "Huawei FusionDC1000B prefabricated modular data centre",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

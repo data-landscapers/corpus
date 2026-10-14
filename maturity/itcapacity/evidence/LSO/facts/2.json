@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-lesotho-national-cybersecurity-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "National Computer Security Incident Response Team", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": ""}
+  ],
+  "note": "Cybersecurity launch only; nothing on government staff running or building systems, an agency, or a cadre."
+}

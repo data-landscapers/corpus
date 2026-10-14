@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mali national fibre-optic backbone (SMTD-SA)",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "fibre-optic backbone, 3,500+ km",
+   "owner": "SMTD-SA",
+   "tiers": ""
+  }
+ ],
+ "note": "Link commissioned 2026-10-05 under ROA-BN; the article does not say who built it or that government staff run it."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-27-gabon-cep-2026-kewa-publication-resultats-aninf",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Gabonactu reports that the 2026 primary-school certificate (CEP) results were published on 27 June 2026 through the KEWA platform, run by the national digital agency ANINF, with ANINF engineers credited for it.", "as_of": "2026-06-27", "date_precision": "day", "system": "KEWA", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Gabonactu reports that ANINF, a state agency, ran the KEWA platform that published the Education ministry's CEP 2026 results online on 27 June 2026.", "as_of": "2026-06-27", "date_precision": "day", "system": "KEWA", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "KEWA", "country_label": "KEWA", "class": "staff", "platform": "online exam results platform", "owner": "ANINF", "tiers": ""}
+  ],
+  "note": ""
+}

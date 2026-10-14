@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-08-dgpr-asin-formation-300-policiers",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The article says the national agency ASIN developed the electronic signature, encryption and secure messaging solutions that 300 police officers were equipped with in a training campaign from 26 June to 8 July 2026 (date taken from the article's published date for the campaign end).", "as_of": "2026-07-08", "date_precision": "day", "system": "ASIN electronic signature, encryption and secure messaging", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The article says ASIN, the national information systems agency, made its own developed signature, encryption and secure messaging solutions available to the Republican Police as national tools for securing digital exchanges.", "as_of": "2026-07-08", "date_precision": "day", "system": "ASIN electronic signature, encryption and secure messaging", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "ASIN electronic signature, encryption and secure messaging", "country_label": "Electronic signature, encryption and secure messaging", "class": "staff", "platform": "", "owner": "ASIN (Agence des Systèmes d'Information et du Numérique)", "tiers": "national"}
+  ],
+  "note": "Training itself is not a fact; the facts are the ASIN-developed solutions it names."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Senegal national fibre-optic backbone (Senegal Numerique)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "fibre-optic backbone",
+   "owner": "Senegal Numerique SA",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement of own-staff build or operation, or of services to ministries."
+}

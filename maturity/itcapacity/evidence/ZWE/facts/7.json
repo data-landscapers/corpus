@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-zwe-gisp-about",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The Government Internet Service Provider, a government body formed in 1998, is stated to provide internet connectivity, email and web services to all government ministries, departments and parastatals, and to administer the .gov.zw domain; the page carries no revision date, so 2026 is its published proxy year.", "as_of": "2026", "date_precision": "year", "system": "Government Internet Service Provider (GISP)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Government Internet Service Provider (GISP)", "country_label": "GISP", "class": "staff", "platform": "", "owner": "Government of Zimbabwe", "tiers": ""}
+  ],
+  "note": ""
+}

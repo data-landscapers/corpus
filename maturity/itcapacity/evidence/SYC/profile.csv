@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,inhouse,inhouse,coverage,yes,2025-06-12,SYC-002,SYC-001=outsourced,
+SYC,inhouse,agency,coverage,operating,2025-06-12,SYC-003,,
+SYC,inhouse,built,coverage,,,,,nothing held
+SYC,inhouse,cadre,coverage,,,,,nothing held

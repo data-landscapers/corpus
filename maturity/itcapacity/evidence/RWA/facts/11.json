@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-09-rwanda-national-dpi-strategy-launch-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eKash",
+   "country_label": "eKash",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bank of Rwanda; RISA",
+   "tiers": ""
+  },
+  {
+   "system": "Digital identity",
+   "country_label": "Digital identity",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Training and a DPI strategy launch; the Centre for DPI coordinates but no document statement that staff run or built a system."
+}

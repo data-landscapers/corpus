@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "AGT's board chairman said on 11 February 2026 that the tax authority is developing its own AI risk-analysis system, tested since 2024 and fed with internal data; it is not stated to be live.", "as_of": "2026-02-11", "date_precision": "day", "system": "AGT in-house AI system", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "AGT in-house AI system", "country_label": "AGT in-house AI system", "class": "staff", "platform": "machine learning", "owner": "AGT", "tiers": ""},
+    {"system": "SIGFE", "country_label": "SIGFE", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

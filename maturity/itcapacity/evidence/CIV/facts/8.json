@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-civ-administration-numerique-la-cote-divoire-vise-700-services-p",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "RTI Infos describes SNDI as the state's IT operator since 1999, expected to play a larger role in the digital transformation of public administration.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "SNDI",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDI",
+   "country_label": "SNDI",
+   "class": "staff",
+   "platform": "",
+   "owner": "Etat de Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

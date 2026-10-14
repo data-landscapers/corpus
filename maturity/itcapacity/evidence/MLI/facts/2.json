@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-12-agetic-plan-passation-marches-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Government messaging system", "country_label": "messagerie gouvernementale", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Administration intranet network", "country_label": "réseau intranet de l'Administration", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "COCCASFR platform", "country_label": "COCCASFR", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Point ML", "country_label": "point ML", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": "A 2026 procurement plan of licences, equipment and services; it does not state who runs, maintains or built a system, so no fact."
+}

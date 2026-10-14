@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Interim CSIRT", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": ""},
+    {"system": "National Security Operations Centre", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Government of Lesotho", "tiers": ""}
+  ],
+  "note": "Only announced plans (move of ICT services to a separate agency, SOC being set up) and a CISO appointment; no stated own-staff run system, agency operating, go-live or cadre."
+}

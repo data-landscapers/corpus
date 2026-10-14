@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UXP interoperability platform",
+   "country_label": "Plateforme d'interoperabilite",
+   "class": "other",
+   "platform": "Cybernetica UXP",
+   "owner": "Ministry of Digital Transition (SNDI commissioned)",
+   "tiers": ""
+  }
+ ],
+ "note": "UXP interoperability platform is Cybernetica's product; SNDI only commissioned it, no statement that SNDI staff build, host or run it."
+}

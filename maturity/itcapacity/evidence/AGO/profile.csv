@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+AGO,inhouse,inhouse,coverage,yes,2026-07-02,AGO-001;AGO-003,,
+AGO,inhouse,agency,coverage,,,,,nothing held
+AGO,inhouse,built,coverage,live,2026-07-02,AGO-002,,
+AGO,inhouse,cadre,coverage,,,,,nothing held

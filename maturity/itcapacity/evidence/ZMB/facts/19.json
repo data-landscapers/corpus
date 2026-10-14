@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOSIP",
+   "country_label": "MOSIP",
+   "class": "",
+   "platform": "MOSIP",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCarePro",
+   "country_label": "SmartCarePro",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Training of developers by an outside vendor is not a fact; no system stated as built or run by government staff."
+}

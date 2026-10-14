@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-31-niger-sigrhep-biometrie-fonction-publique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRHEP",
+   "country_label": "SIGRHEP",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de la Fonction publique",
+   "tiers": ""
+  },
+  {
+   "system": "Solde2Budget",
+   "country_label": "Solde2Budget",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGRHEP is under development; the document does not say government staff or a contractor build or run it, and none is stated live."
+}

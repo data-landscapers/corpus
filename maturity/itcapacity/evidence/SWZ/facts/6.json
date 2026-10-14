@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced", "fact": "Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed.", "as_of": "2026-05-21", "date_precision": "day", "system": "Ministries' ICT systems supported by RSTP", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Ministries' ICT systems supported by RSTP", "country_label": "Ministries' ICT systems", "class": "staff", "platform": "", "owner": "Ministries; RSTP", "tiers": ""}
+  ],
+  "note": "As_of is the story's published date, as the report gives no date for the finding."
+}

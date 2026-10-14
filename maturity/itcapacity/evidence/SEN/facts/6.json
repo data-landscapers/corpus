@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-12-senum-ams-informatisation-des-mairies",
+  "facts": [],
+  "systems": [
+    {"system": "SenGec", "country_label": "SenGec", "class": "other", "platform": "electronic mail management platform", "owner": "Senegal Numerique SA", "tiers": "communes"},
+    {"system": "Diamniadio National Datacenter", "country_label": "Datacenter National de Diamniadio", "class": "other", "platform": "hosting of commune data", "owner": "Senegal Numerique SA", "tiers": "communes"}
+  ],
+  "note": "A partnership convention of 2024-02-09 states what SENUM SA is to supply to mayors' offices; it is a commitment, not a stated running or built system."
+}

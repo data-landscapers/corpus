@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNDPS 2.0 (eKash)",
+   "country_label": "RNDPS 2.0 (eKash)",
+   "class": "",
+   "platform": "Mojaloop",
+   "owner": "RSwitch",
+   "tiers": ""
+  }
+ ],
+ "note": "eKash built by RSwitch with an outside integrator and Mojaloop; not a government-staff build."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-29-cybernetica-sndi-uxp-contract-cote-divoire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UXP data exchange layer",
+   "country_label": "Plateforme d'interoperabilite",
+   "class": "other",
+   "platform": "Cybernetica UXP",
+   "owner": "SNDI / Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "UXP built by supplier Cybernetica under contract; knowledge transfer to local experts is future training, not a stated in-house operation."
+}

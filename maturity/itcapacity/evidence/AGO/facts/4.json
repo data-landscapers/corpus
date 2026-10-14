@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos",
+  "facts": [],
+  "systems": [
+    {"system": "CAPI/CATI census platform", "country_label": "CAPI/CATI census platform", "class": "", "platform": "computer-assisted interviewing", "owner": "INE", "tiers": ""}
+  ],
+  "note": "Report names the CAPI census platform and GIS but does not say who built or ran them."
+}

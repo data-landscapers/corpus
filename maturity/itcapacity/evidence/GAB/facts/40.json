@@ -1,0 +1,18 @@
+{
+  "slug": "2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating",
+     "fact": "The World Bank diagnostic states the government fibre network RAG, which interconnects public institutions in all nine districts, is managed by ANINF, though ANINF may lack the capacity to manage such extensive infrastructure; document published 2019-01-01, no event date given.",
+     "as_of": "2019-01-01", "date_precision": "year", "system": "Réseau de l'Administration Gabonaise (RAG)", "class": "staff"},
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "outsourced",
+     "fact": "The diagnostic states the e-education project connects schools with line ministries through applications developed and managed by private providers; document published 2019-01-01, no event date given.",
+     "as_of": "2019-01-01", "date_precision": "year", "system": "e-education applications", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Réseau de l'Administration Gabonaise (RAG)", "country_label": "RAG", "class": "staff", "platform": "government fibre network", "owner": "ANINF", "tiers": ""},
+    {"system": "VECTIS", "country_label": "VECTIS", "class": "", "platform": "budget execution system", "owner": "Ministry of Budget", "tiers": "central level only; document says in-house capacities to manage it are limited"},
+    {"system": "X-Gest", "country_label": "X-Gest", "class": "other", "platform": "school management information system", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "e-education applications", "country_label": "e-education", "class": "staff", "platform": "applications developed and managed by private providers", "owner": "Ministry of Education; ANINF support", "tiers": ""}
+  ],
+  "note": ""
+}

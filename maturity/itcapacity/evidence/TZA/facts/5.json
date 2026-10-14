@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-07-tanzania-ai-e-government-platforms",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Enterprise Service Bus (GovESB)", "country_label": "GovESB", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "GovESB is named as recently launched but the article does not say who built or runs it."
+}

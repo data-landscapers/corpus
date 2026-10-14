@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-29-mauritania-two-consular-digital-platforms-gulf-maldives",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme numerique des services consulaires", "country_label": "Mauritania consular services platform", "class": "other", "platform": "", "owner": "Ministry of Foreign Affairs", "tiers": ""},
+    {"system": "Communautes", "country_label": "Mauritania Communautes platform", "class": "other", "platform": "", "owner": "Ministry of Foreign Affairs", "tiers": ""}
+  ],
+  "note": "Announces two consular platforms but does not state who built or runs them, so no staff fact."
+}

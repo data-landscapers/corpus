@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-29-sita-annual-report-2024-25",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "SITA's 2024/25 annual report states the State Information Technology Agency, wholly owned by government, provides information technology, information systems and related services to national, provincial and local government departments as their agent, and records R2.06 billion owed by national departments for ICT services and products at 31 March 2025.", "as_of": "2025-03", "date_precision": "month", "system": "State Information Technology Agency (SITA)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Electronic deeds registration system", "country_label": "Electronic deeds registration system", "class": "other", "platform": "", "owner": "Department of Rural Development and Land Reform", "tiers": "national"},
+    {"system": "Navy secure information portal", "country_label": "Navy secure information portal", "class": "other", "platform": "", "owner": "South African Navy", "tiers": "national"}
+  ],
+  "note": "Only the agency fact is stated; no named system is stated as run or built by government staff, and the deeds system is a contractor's software development."
+}

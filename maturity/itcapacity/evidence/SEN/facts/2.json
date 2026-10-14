@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "Production of Senegal's biometric identity cards is done under contract by a Malaysian firm, and the Interior Minister said production would move progressively to national companies as the contract ends.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Identity card and passport production",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identity card and passport production",
+   "country_label": "Identity cards and passports",
+   "class": "staff",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

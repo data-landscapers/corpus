@@ -1,0 +1,34 @@
+{
+ "slug": "2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Smart Zambia Institute (Electronic Government Division, Office of the President) is stated to be implementing and coordinating platforms for public institutions, including the Government Service Bus, ZamPortal and the Government Wide Area Network, with 55 institutions connected to GWAN; year taken from the document's published date.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Smart Zambia Institute",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Wide Area Network (GWAN)",
+   "country_label": "GWAN",
+   "class": "staff",
+   "platform": "",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "ZamPortal / Government Service Bus",
+   "country_label": "ZamPortal",
+   "class": "staff",
+   "platform": "",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "2026-09-25-gab-tmafrica-digital-state-oil-base-analysis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Human Resources Management System",
+   "country_label": "Human Resources Management System",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  },
+  {
+   "system": "Interoperability platform",
+   "country_label": "Interoperability platform",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  },
+  {
+   "system": "National digital identity system",
+   "country_label": "National digital identity system",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  },
+  {
+   "system": "Government messaging system",
+   "country_label": "Government messaging system",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic document management platform (GED)",
+   "country_label": "Electronic document management platform (GED)",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF",
+   "tiers": ""
+  }
+ ],
+ "note": "Analysis piece; names ANINF-overseen projects but does not state who built or runs them with their own staff."
+}

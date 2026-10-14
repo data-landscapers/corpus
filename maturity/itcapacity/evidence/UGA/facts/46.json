@@ -1,0 +1,14 @@
+{"slug":"2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24","facts":[
+{"sub_indicator":"inhouse","aspect":"agency","value":"operating","fact":"The Ministry of Finance monitoring report states the Unified Messaging and Collaboration System was rolled out to seven more government entities, bringing the total to 145 entities with 26,034 active users, under the NITA-U programme.","as_of":"2023-12","date_precision":"month","system":"Unified Messaging and Collaboration System (UMCS)","class":"staff"},
+{"sub_indicator":"inhouse","aspect":"agency","value":"operating","fact":"The report states nine more entities were integrated on the Whole-of-Government integration and data-sharing platform, 126 in total, with 73 using its services and 97,176,756 cumulative transactions.","as_of":"2023-12","date_precision":"month","system":"Whole-of-Government integration and data-sharing platform","class":"staff"},
+{"sub_indicator":"inhouse","aspect":"agency","value":"operating","fact":"The report states 23 new systems were hosted at the National Data Centre during July to December 2023.","as_of":"2023-12","date_precision":"month","system":"National Data Centre","class":"staff"}
+],"systems":[
+{"system":"Unified Messaging and Collaboration System (UMCS)","country_label":"UMCS","class":"staff","platform":"","owner":"NITA-U","tiers":""},
+{"system":"Whole-of-Government integration and data-sharing platform","country_label":"","class":"staff","platform":"","owner":"NITA-U","tiers":""},
+{"system":"National Data Centre","country_label":"NDC","class":"staff","platform":"","owner":"NITA-U","tiers":""},
+{"system":"Parish Development Model Information System","country_label":"PDMIS","class":"","platform":"","owner":"MoICT&NG","tiers":""},
+{"system":"Electronic Document and Records Management System","country_label":"EDRMS","class":"","platform":"","owner":"MoICT&NG","tiers":""},
+{"system":"Online Business Registration System","country_label":"OBRS","class":"","platform":"","owner":"URSB","tiers":""},
+{"system":"Education Management Information System","country_label":"EMIS","class":"","platform":"","owner":"","tiers":""},
+{"system":"Electronic Government Procurement","country_label":"E-GP","class":"","platform":"","owner":"","tiers":""}
+],"note":""}

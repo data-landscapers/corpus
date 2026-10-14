@@ -1,0 +1,18 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "1",
+   "inhouse": "outsourced",
+   "agency": "",
+   "built": "",
+   "cadre": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "GovInsider describes NOSi as Cabo Verde's digital-government agency, whose notable systems include the Consular Portal, the Justice Information System (SIJ) and the IGRP framework underpinning digital government; date is the document's published year.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NOSi",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Consular Portal",
+   "country_label": "Consular Portal",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "SIJ",
+   "country_label": "SIJ",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "IGRP",
+   "country_label": "IGRP",
+   "class": "",
+   "platform": "open-source microservices framework",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "NOSiAkademia",
+   "country_label": "NOSiAkademia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WebLab",
+   "country_label": "WebLab",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

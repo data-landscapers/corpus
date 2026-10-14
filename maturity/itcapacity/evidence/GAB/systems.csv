@@ -1,0 +1,42 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,Integrated human resources management system (Single Master File migration),Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,Government interoperability platform,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,National Digital Identity System,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,Government messaging system,Gabon,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,Fichier unique de référence (FUR),Gabon,staff,,Ministry of Public Service,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
+GAB,Système intégré de gestion des ressources humaines de l'État (SIGRH),Gabon,,,Ministry of Public Service,,2026-08-27-sonapresse-fur-redynamiser-fonction-publique
+GAB,Portail gouvernemental des services (PGS),Gabon,,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
+GAB,GED (electronic document management),Gabon,,,,,2026-07-11-agp-gabon-ateliers-renforcement-capacites-digitalisation-services-publics
+GAB,KEWA,KEWA,staff,online exam results platform,ANINF,,2026-06-27-gabon-cep-2026-kewa-publication-resultats-aninf
+GAB,e-Gabon,GAB,other,,,,2026-06-22-gabon-aninf-worldbank-progress-review
+GAB,Gabon Digital,GAB,other,,,,2026-06-22-gabon-aninf-worldbank-progress-review
+GAB,Réseau de l'Administration Gabonaise (RAG),GAB,staff,fibre network,ANINF,local,2026-04-01-rag-operationnel-oyem-aninf-modernisation-administrative-province
+GAB,RAG (Réseau de l'Administration Gabonaise),Réseau de l'Administration Gabonaise,other,secure government network,ANINF,,2025-12-22-gab-allafrica-aninf-souverainete-numerique
+GAB,Government SOC,centre opérationnel de sécurité gouvernemental,other,,ANINF,,2025-12-22-gab-allafrica-aninf-souverainete-numerique
+GAB,Data Center national,Data Center national de l'ANINF,other,data centre,ANINF,,2025-06-29-gab-presidence-data-center-national-aninf
+GAB,SecBOM,Security Bill of Material,staff,,ANINF,,2025-06-01-gabon-aninf-secbom-cybersecurity
+GAB,SIGRH,Système Intégré de Gestion des Ressources Humaines,other,,Ministère de la Fonction Publique,,2026-10-13-gab-fonction-publique-sigrh-preparatifs
+GAB,PROXIGAB,PROXIGAB,staff,,ANINF,,2026-10-02-plateforme-numerique-proxigab-officiellement-presentee
+GAB,Human Resources Management System,Human Resources Management System,other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,Interoperability platform,Interoperability platform,other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,National digital identity system,National digital identity system,other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,Government messaging system,Government messaging system,other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,Electronic document management platform (GED),Electronic document management platform (GED),other,,ANINF,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,GED,GED,staff,,ANINF,,2026-09-17-techafricanews-gabon-electronic-document-management
+GAB,GED,GED,staff,,ANINF,,2026-09-16-gabonreview-ged-basculement-administration-numerique
+GAB,"National data centre, Nkok",Gabon national data centre,,,,,2026-09-09-gab-agenceecofin-900000-alertes-intrusion-cybersecurite
+GAB,Digital driving licence registration system,Gabon digital driving licence,,,"Ministry of Digital Economy, Digitalisation and Innovation",,2026-09-01-techafricanews-gabon-makokou-wifi-driving-licence
+GAB,Makokou public Wi-Fi,Makokou public Wi-Fi,other,,ANINF,,2026-09-01-techafricanews-gabon-makokou-wifi-driving-licence
+GAB,eGabon-SIS,eGabon-SIS,other,,Ministry of Health,,2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis
+GAB,e-Gabon-SIS,e-Gabon-SIS,other,,"Ministry of Health; World Bank financed, led by Gabon Digital group with ANINF support",about ten hospitals and health centres in pilot,2025-07-03-gab-gabon-digitalisation-du-systeme-de-sante-dix-structures-hospitalieres
+GAB,Data Center national,Data Center national,other,,"ANINF, with Cybastion group",,2025-06-29-gabon-lunion-national-datacenter
+GAB,National Digital Identity System (SNID),SNID,other,,ANINF / Gabon Digital,,2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
+GAB,Digital Payments System (SPD),SPD,other,,ANINF / Gabon Digital,,2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
+GAB,Interoperability platform (ARTEMIS MQ trial),Interoperability platform,other,ARTEMIS MQ,ANINF / Gabon Digital,"proof of concept linking tax, customs and treasury directorates",2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
+GAB,Financial data visualization platform (VDRF),VDRF,other,,ANINF / Gabon Digital,,2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
+GAB,Government Portal,Government Portal,other,,ANINF / Gabon Digital,,2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets
+GAB,Fichier unique de référence (FUR),Fichier unique de référence,staff,"packaged software (progiciel), about twenty years old",Ministry of the Civil Service; ANINF technical teams,,2026-08-26-gabonreview-fur-carrieres-soldes-fonctionnaires
+GAB,Réseau de l'Administration Gabonaise (RAG),RAG,staff,government fibre network,ANINF,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,VECTIS,VECTIS,,budget execution system,Ministry of Budget,central level only; document says in-house capacities to manage it are limited,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,X-Gest,X-Gest,other,school management information system,Ministry of Education,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,e-education applications,e-education,staff,applications developed and managed by private providers,Ministry of Education; ANINF support,,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report

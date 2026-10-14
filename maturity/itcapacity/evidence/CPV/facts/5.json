@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-18-nosi-alegado-ciberataque-divulgacao-resultados-legislativas-anacao",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NOSi supplied election data to TCV under a protocol and to state public servers through the State Private Technology Network it runs.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "Rede Tecnologica Privativa do Estado",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NOSi operated the site publishing the legislative election results and secured data delivery through the State Private Technology Network.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "NOSi election results site",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rede Tecnologica Privativa do Estado",
+   "country_label": "RTPE",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "NOSi election results site",
+   "country_label": "NOSi site",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

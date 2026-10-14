@@ -1,0 +1,60 @@
+{
+ "slug": "2024-07-09-zambia-government-service-bus-services-update",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "SMART Zambia's e-Government division is stated to have developed the Citizens Support Portal, a Public Service Portal, an e-KYC system, the electronic Constituency Development System and the Contract Tracking System; no date for the development is given, so the document's publication date is used.",
+   "as_of": "2024-07-09",
+   "date_precision": "day",
+   "system": "Citizens Support Portal",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The SMART Zambia National Coordinator said 290 services were deployed on the Government Service Bus in the past six months and the e-Government division had digitised 400 health facilities in 20 districts using SmartCare Pro; publication date used as no other date is given.",
+   "as_of": "2024-07-09",
+   "date_precision": "day",
+   "system": "Government Service Bus",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus",
+   "country_label": "Government Service Bus",
+   "class": "staff",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "Citizens Support Portal",
+   "country_label": "Citizens Support Portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "Contract Tracking System",
+   "country_label": "Contract Tracking System",
+   "class": "staff",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "SmartCare Pro",
+   "country_label": "SmartCare Pro",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

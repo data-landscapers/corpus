@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-25-gouvernement-inaugure-deux-datacenters",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Modular datacenters of the public administration",
+   "country_label": "Modular datacenters of the public administration",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Technical teams run the datacenters but the document does not say they are government staff."
+}

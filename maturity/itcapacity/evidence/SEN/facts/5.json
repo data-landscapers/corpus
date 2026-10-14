@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-13-enqueteplus-senum-tentatives-cyberattaques",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Sénégal Numérique SA said its own Cyberdefense, Systems and Networks teams were mobilised to protect its information systems after attempted cyberattacks, per its communique of 9 February 2026.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "SENUM information systems",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SENUM information systems",
+   "country_label": "SENUM information systems",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

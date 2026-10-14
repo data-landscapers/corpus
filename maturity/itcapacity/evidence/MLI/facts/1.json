@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-30-lessor-agetic-intranet-point-ml",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "L'Essor reports AGETIC, the state ICT agency, is progressively interconnecting all public and para-public services into the government Intranet, with 13 services integrated in a single-window portal, and managing 13,441 .ml domain names; the document gives no event date, so its published date is used.", "as_of": "2025-12-30", "date_precision": "day", "system": "Government Intranet (AGETIC)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Government Intranet", "country_label": "Intranet de l'administration", "class": "staff", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Single-window portal of public services", "country_label": "Guichet unique", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Government messaging system", "country_label": "messagerie gouvernementale", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": ".ml country-code domain registry", "country_label": "point ML", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": ""
+}

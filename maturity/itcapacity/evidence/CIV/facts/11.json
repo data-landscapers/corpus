@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-ci-interoperabilite-gouvernance-numerique",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The state company SNDI organised the 21-22 July 2026 seminar and is deploying the interoperability platform for the administration, whose pilot phase covers 12 public bodies; the platform itself is stated to be available (Fraternite Matin, 2026-07-23).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Plateforme d'interoperabilite UXP",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'interoperabilite UXP",
+   "country_label": "Plateforme d'interoperabilite des systemes d'information de l'administration (UXP)",
+   "class": "other",
+   "platform": "Cybernetica UXP",
+   "owner": "SNDI / Ministry of Digital Transition",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

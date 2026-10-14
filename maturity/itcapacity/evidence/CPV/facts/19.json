@@ -1,0 +1,92 @@
+{
+ "slug": "2024-01-01-nosi-operational-nucleus-information-society",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The document states NOSi, the government's technological arm, manages the State's Private Technological Network and the Government Data Center and develops and maintains over 100 e-government solutions including IGRPWeb, the Consular Portal and SNIAC (as of the document's published year).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IGRPWeb; Consular Portal; SNIAC",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The document states NOSi hosts government cloud in data centres in Praia and Mindelo and develops and maintains e-government solutions for the state (as of the document's published year).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NOSi",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RTPE",
+   "country_label": "RTPE",
+   "class": "",
+   "platform": "State's Private Technological Network",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Government Data Center",
+   "country_label": "Government Data Center",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "IGRPWeb",
+   "country_label": "IGRPWeb",
+   "class": "",
+   "platform": "open-source framework",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Consular Portal",
+   "country_label": "Consular Portal",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "SNIAC",
+   "country_label": "SNIAC",
+   "class": "",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "NOSi-CA",
+   "country_label": "NOSi-CA",
+   "class": "",
+   "platform": "PKI",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "NOSiAkademia",
+   "country_label": "NOSiAkademia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WebLab",
+   "country_label": "WebLab",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

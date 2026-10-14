@@ -1,0 +1,18 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "unplaced",
+   "inhouse": "",
+   "agency": "",
+   "built": "",
+   "cadre": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No source held from 2023 or later says government staff run or maintain any of its systems.",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py."
+  }
+ ]
+}

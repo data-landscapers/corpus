@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NITA-U's own UGPass technical lead and director of e-government services describe running UGHub and UGPass and developing a digital signature service on UGPass.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "UGPass",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA-U's director of e-government services says NITA-U is the agency coordinating IT across the public sector and has almost certainly been involved in building or supporting the systems behind any digital government service, with infrastructure and platforms for ministries, agencies and local governments.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "UGHub",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  },
+  {
+   "system": "UGPass",
+   "country_label": "UGPass",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  },
+  {
+   "system": "National Land Information System",
+   "country_label": "National Land Information System",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of Lands, Housing and Urban Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

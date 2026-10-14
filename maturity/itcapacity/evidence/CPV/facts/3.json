@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-27-nosi-relatorio-preliminar-causas-de-ordem-tecnica-anacao",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NOSi stated that its board's investments in infrastructure and staff capacity let it manage the State Private Technology Network and run the election-results publication system and portal eleicoes.cv.",
+   "as_of": "2026-05-17",
+   "date_precision": "day",
+   "system": "eleicoes.cv results portal and RTPE",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eleicoes.cv results portal",
+   "country_label": "eleicoes.cv",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  },
+  {
+   "system": "Rede Tecnologica Privativa do Estado",
+   "country_label": "RTPE",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

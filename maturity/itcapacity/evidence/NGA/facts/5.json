@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Cloud Platform (GxCP)",
+   "country_label": "Galaxy Cloud Platform (GxCP)",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": "Galaxy Backbone offers its sovereign cloud to startups via NITDA's ONDI; no stated staff run, build or cadre fact for government systems."
+}

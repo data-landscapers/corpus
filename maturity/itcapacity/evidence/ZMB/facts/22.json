@@ -1,0 +1,70 @@
+{
+ "slug": "2019-01-01-zmb-parliament-ministerial-statement-smart-zambia",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Smart Zambia Institute is stated to run the Government WAN connecting 87 departments and institutions and shared services (government email, e-Cabinet, electronic payslips) for line ministries and ten provincial headquarters; published date used as the document gives none.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Smart Zambia Institute",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Fifty-two standardised government websites are stated to be developed in-house and hosted on the Zambia National Data Centre, government ICT infrastructure; published date used.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Standardised Government Informational Websites",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Fifty-two standardised government websites for ministries, constitutional offices and provincial administrations are stated to have been developed in-house and deployed to the Zambia National Data Centre; published date used.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Standardised Government Informational Websites",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Wide Area Network",
+   "country_label": "Government WAN",
+   "class": "staff",
+   "platform": "",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  },
+  {
+   "system": "Zambia National Data Centre",
+   "country_label": "ZNDC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier 3"
+  },
+  {
+   "system": "eVisa system",
+   "country_label": "eVisa",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Immigration",
+   "tiers": ""
+  },
+  {
+   "system": "Zambia Social Protection Information System",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

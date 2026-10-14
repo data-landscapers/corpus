@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-senum-teledac-dematerialisation-actes-administratifs",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "SENUM SA's own page presents TeleDAc as a platform offering the whole Administration dematerialised procedures, with dozens online across urbanism, tourism, justice, education, labour, civil service, interior and other sectors; the page carries no date, so as_of is its published date.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "TeleDAc",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TeleDAc",
+   "country_label": "TeleDAc",
+   "class": "staff",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

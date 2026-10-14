@@ -1,0 +1,8 @@
+{
+  "slug": "2015-11-10-bfa-mdenp-arrete-bodi-open-data-initiative",
+  "facts": [],
+  "systems": [
+    {"system": "Burkina Open Data Initiative (BODI) central platform", "country_label": "Burkina Faso", "class": "other", "platform": "open data platform", "owner": "Ministry of Digital Economy (project under it); ANPTIC executing agency", "tiers": ""}
+  ],
+  "note": "The order creates the BODI project with ANPTIC as executing agency; it states no government staff running, building or hosting a named system, so no fact."
+}

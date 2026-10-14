@@ -1,0 +1,18 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "3",
+   "inhouse": "",
+   "agency": "operating",
+   "built": "",
+   "cadre": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-001",
+   "gaps": "No source held says a system built by government staff went live since October 2023.",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py."
+  }
+ ]
+}

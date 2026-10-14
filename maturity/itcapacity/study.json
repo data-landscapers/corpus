@@ -96,10 +96,18 @@
    "key": "inhouse",
    "label": "In-house capacity",
    "subject": "infra.capacity",
-   "text": "Local capacity to maintain, manage and develop government systems: government's own technical staff building and running its systems",
+   "text": "Local capacity to maintain, manage and develop government systems: in-house capacity",
    "indicator_id": "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity",
    "class": "staff",
-   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 21, asks for systematic capacity development across the public service; the Digital Transformation Strategy asks for skills built in state institutions."
+   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 21, asks for systematic capacity development across the public service; the Digital Transformation Strategy asks for skills built in state institutions.",
+   "criteria": [
+    "A source from 2023 or later says a government body relies on outside suppliers or outside help to run its systems.",
+    "A source from 2023 or later says government's own staff run or maintain one of its systems.",
+    "A government agency or state company builds, hosts or runs systems for the rest of government, by a source from 2023 or later.",
+    "A system built by government staff, not a contractor, went live in the last three years.",
+    "The government has adopted an ICT cadre or scheme of service for its IT staff."
+   ],
+   "criteria_of": "4a141541695a"
   }
  ],
  "classes": [
@@ -109,7 +117,7 @@
  "aspects": [
   {
    "key": "inhouse",
-   "name": "Government staff run or maintain a government system",
+   "name": "Government staff",
    "role": "coverage",
    "defer": [
     "outsourced"
@@ -124,7 +132,7 @@
   },
   {
    "key": "agency",
-   "name": "A government technology body runs systems for other bodies",
+   "name": "A technology body for government",
    "role": "coverage",
    "defer": [],
    "prefer": [
@@ -136,7 +144,7 @@
   },
   {
    "key": "built",
-   "name": "A government team built a system that went live in the window",
+   "name": "Built in-house",
    "role": "coverage",
    "defer": [],
    "prefer": [
@@ -148,7 +156,7 @@
   },
   {
    "key": "cadre",
-   "name": "A government IT cadre or scheme of service adopted",
+   "name": "A career structure for IT staff",
    "role": "coverage",
    "defer": [],
    "prefer": [

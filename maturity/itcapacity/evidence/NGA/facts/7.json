@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone's own release says it serves as the digital backbone of the Federal Government, providing shared ICT infrastructure and services including cloud and colocation, and that its Abuja NSSC DC1 Phase 1 won Tier III certification of constructed facility; the page date 2025-01-29 is used as the release has no dateline.",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "National Shared Services Centre Data Center 1, Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Shared Services Centre Data Center 1 (NSSC DC1)",
+   "country_label": "NSSC DC1",
+   "class": "other",
+   "platform": "data centre",
+   "owner": "Galaxy Backbone Limited",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

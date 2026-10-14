@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-11-galaxy-backbone-nptf-smart-police-station-gombe",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone with the Nigeria Police Trust Fund deployed a Smart Police Station in Gombe State, providing connectivity and digital tools for the police.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Smart Police Station",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Police Station",
+   "country_label": "Smart Police Station",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

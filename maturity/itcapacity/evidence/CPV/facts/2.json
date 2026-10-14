@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-cpv-nosi-plano-anual-atividades-orcamento-2024-source",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NOSi's 2024 plan forecasts CVE 333,345,000 of revenue from protocols with the State, plus housing, IaaS, PaaS and SaaS services, as the state enterprise serving state bodies.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NOSi hosting and cloud services",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NOSi housing, IaaS, PaaS, SaaS services",
+   "country_label": "NOSi cloud services",
+   "class": "staff",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-uga-news-nira-to-register-learners-correct-identity-errors-in",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "A NITA-U IT professional said UGHub is a national data integration platform managed by NITA-U, using infrastructure developed by NITA-U.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NITA-U manages UGHub, which connects the NIRA registry to more than 150 ministries, departments and agencies, per a NITA-U IT professional.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "UGHub",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UGHub",
+   "country_label": "UGHub",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

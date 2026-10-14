@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-02-georgetown-aci-china-question-zambia-smart-zambia-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Smart Zambia Project (national data centre, broadband, e-government)",
+   "country_label": "ZMB",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": "Huawei main contractor; Phase II cancelled 2022"
+  }
+ ],
+ "note": "Contractor-built project and dependency on Chinese vendors; no named body's systems stated as run by suppliers."
+}

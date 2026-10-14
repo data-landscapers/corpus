@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Galaxy Backbone, with the communications ministry and KOICA as partner, soft-launched the Government Service Portal (services.gov.ng); the document does not say who wrote the code.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Government Service Portal",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Galaxy Backbone, described as the Federal Government's digital infrastructure and shared services provider, delivers cloud, connectivity and shared platforms to ministries, departments and agencies.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Government Service Portal",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Portal",
+   "country_label": "Government Service Portal",
+   "class": "staff",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

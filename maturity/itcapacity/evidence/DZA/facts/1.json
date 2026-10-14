@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-19-dza-elmoudjahid-hcn-verification-documents-electroniques",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate.", "as_of": "2026-09-17", "date_precision": "day", "system": "Electronic document verification mechanism (Dzair Digital Services portal)", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "Dzair Digital Services", "country_label": "Algeria", "class": "other", "platform": "national digital services portal", "owner": "Haut Commissariat a la Numerisation", "tiers": ""},
+    {"system": "Electronic document verification mechanism", "country_label": "Algeria", "class": "staff", "platform": "", "owner": "Haut Commissariat a la Numerisation", "tiers": ""}
+  ],
+  "note": "Training session is not a fact; the HCN in-house development of the verification mechanism is. The document dates the session to the Thursday before 2026-09-19 (2026-09-17); no go-live date is stated, so no built fact."
+}

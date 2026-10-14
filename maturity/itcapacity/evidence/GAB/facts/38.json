@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Identity System (SNID)", "country_label": "SNID", "class": "other", "platform": "", "owner": "ANINF / Gabon Digital", "tiers": ""},
+    {"system": "Digital Payments System (SPD)", "country_label": "SPD", "class": "other", "platform": "", "owner": "ANINF / Gabon Digital", "tiers": ""},
+    {"system": "Interoperability platform (ARTEMIS MQ trial)", "country_label": "Interoperability platform", "class": "other", "platform": "ARTEMIS MQ", "owner": "ANINF / Gabon Digital", "tiers": "proof of concept linking tax, customs and treasury directorates"},
+    {"system": "Financial data visualization platform (VDRF)", "country_label": "VDRF", "class": "other", "platform": "", "owner": "ANINF / Gabon Digital", "tiers": ""},
+    {"system": "Government Portal", "country_label": "Government Portal", "class": "other", "platform": "", "owner": "ANINF / Gabon Digital", "tiers": ""}
+  ],
+  "note": "ANINF slide deck describes a proof of concept and plans; it does not state that government staff built or run the systems or that ANINF hosts them for ministries."
+}

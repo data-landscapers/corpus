@@ -1,0 +1,11 @@
+{
+  "slug": "2014-06-05-bfa-burkina24-open-data-platform-launch",
+  "facts": [
+    {"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The ANPTIC director general is reported as recalling that the E-conseil (paperless Council of Ministers) was set up thanks to ANPTIC; no date is given for it, so the article's published date is used.", "as_of": "2014-06-05", "date_precision": "day", "system": "E-conseil", "class": "staff"}
+  ],
+  "systems": [
+    {"system": "E-conseil", "country_label": "Burkina Faso", "class": "staff", "platform": "paperless Council of Ministers", "owner": "ANPTIC", "tiers": ""},
+    {"system": "Burkina Open Data Initiative (BODI) platform", "country_label": "Burkina Faso", "class": "other", "platform": "open data platform", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

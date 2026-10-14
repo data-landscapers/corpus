@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centralised national and consular civil-status database",
+   "country_label": "Centralised national and consular civil-status database",
+   "class": "",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  },
+  {
+   "system": "Civil-status management software",
+   "country_label": "Civil-status management software",
+   "class": "",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": ""
+  }
+ ],
+ "note": "ANEC mandate page; says nothing on who builds or runs the systems, only that ANEC works with SENUM SA on interconnection."
+}
