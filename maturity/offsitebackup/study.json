@@ -74,7 +74,7 @@
    "key": "backup",
    "label": "Off-site backup for government systems",
    "subject": "infra.store",
-   "text": "Off-site backup capacity: a separate site that keeps the government's systems and data recoverable",
+   "text": "Off-site backup capacity: a site 200 km or more from the main one that keeps the government's systems and data recoverable",
    "indicator_id": "infra.store--off-site-backup-capacity-off-site-backup-for-government-systems",
    "class": "backupsite"
   }
@@ -86,27 +86,46 @@
  "aspects": [
   {
    "key": "site",
-   "name": "A backup site in service, and for the shared government systems",
+   "name": "A backup site 200 km or more away in service, and for the shared government systems",
    "role": "coverage",
-   "defer": ["none"],
-   "prefer": ["shared", "service"],
-   "values": ["shared", "service", "none"]
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "shared",
+    "service"
+   ],
+   "values": [
+    "shared",
+    "service",
+    "none"
+   ]
   },
   {
    "key": "plan",
    "name": "A recovery plan or test on record",
    "role": "coverage",
    "defer": [],
-   "prefer": ["tested", "plan"],
-   "values": ["tested", "plan"]
+   "prefer": [
+    "tested",
+    "plan"
+   ],
+   "values": [
+    "tested",
+    "plan"
+   ]
   },
   {
    "key": "tier",
    "name": "Primary and backup both Tier III",
    "role": "coverage",
    "defer": [],
-   "prefer": ["both"],
-   "values": ["both"]
+   "prefer": [
+    "both"
+   ],
+   "values": [
+    "both"
+   ]
   }
  ],
  "flags": []
