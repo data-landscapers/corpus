@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-03-uem-centro-de-dados-transformacao-digital",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Diario Economico quotes the communications minister calling MozIX (Mozambique Internet Exchange Point) the national internet traffic exchange point, which the new UEM data centre will help keep running.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "MozIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOZIX",
+   "country_label": "Mozambique Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "CIUEM, Universidade Eduardo Mondlane",
+   "tiers": ""
+  },
+  {
+   "system": "UEM data centre",
+   "country_label": "Centro de Dados da UEM",
+   "class": "other",
+   "platform": "",
+   "owner": "Universidade Eduardo Mondlane",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

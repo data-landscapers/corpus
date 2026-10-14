@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-04-wingu-africa-transforming-connectivity-addix-ixp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Wingu Africa states that ADDIX, Ethiopia's first IXP, launched over a year before 4 September 2025 and is operated by ADDIX Technology Solutions under the Ethiopian Communications Authority, hosted at Wingu's data centre in the ICT Park, keeping local traffic in Ethiopia (as_of is the article date, which gives no launch date).", "as_of": "2025-09-04", "date_precision": "day", "system": "ADDIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "ADDIX", "country_label": "Addis Ababa Internet Exchange (ADDIX)", "class": "exchange", "platform": "", "owner": "ADDIX Technology Solutions", "tiers": ""}
+  ],
+  "note": ""
+}

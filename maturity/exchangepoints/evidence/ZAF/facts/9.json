@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Connecting Africa reports that Africa Data Centres' CPT1 facility in Cape Town houses the Cape Town Internet Exchange (CINX), which it says makes multi-region peering easier (date taken from the article, 2024-07-25).",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "CINX Cape Town",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CINX Cape Town",
+   "country_label": "CINX",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

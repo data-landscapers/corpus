@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-24-ixpn-1tbps-traffic-milestone",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 1 Tbps (peak) at IXPN on 2025-04-24, a record peak announced by IXPN and reported by TechAfrica News; the article gives no earlier date for the peak.",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": "ISPs, content providers, CDNs"
+  }
+ ],
+ "note": "Peak date taken as article date; stated as announced then."
+}

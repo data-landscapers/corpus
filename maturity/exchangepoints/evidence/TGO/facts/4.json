@@ -1,0 +1,15 @@
+{
+  "slug": "2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IXP (WARCIP Togo)",
+      "country_label": "point d'échange internet",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Posts and Digital Economy / WARCIP",
+      "tiers": ""
+    }
+  ],
+  "note": "Minister says an IXP is under construction under WARCIP Togo (2017-08-30); no traffic exchanged stated."
+}

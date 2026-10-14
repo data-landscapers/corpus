@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-kixp-kenya-internet-exchange-point-nairobi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Packet Clearing House lists KIXP in Nairobi as an active association-run exchange point managed by TESPOK, established February 2001; no members or traffic figures are given.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "KIXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIXP",
+   "country_label": "Kenya Internet Exchange Point",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TESPOK",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

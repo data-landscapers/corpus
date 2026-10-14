@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,CIVIX,Civix (Cote d'Ivoire Internet Exchange),exchange,,ARTCI (regulator; organiser of the forum),"operators, ISPs, content networks",2026-06-15-peeringday-2026-artci-appairage-interconnexion-fratmat
+CIV,"CIVIX third PoP, Raxio Grand Bassam",CIVIX third point of presence,other,,Raxio Cote d'Ivoire / ARTCI,,2025-06-30-raxio-artci-civix-ixp-mou-techafricanews
+CIV,CIVIX,Civix,exchange,,ARTCI,14 operators and providers,2025-08-05-forum-peering-interconnexion-artci-civix-fratmat
+CIV,CIVIX Grand-Bassam PoP (Raxio),third PoP of Civix,exchange,,ARTCI / Raxio,,2025-08-05-forum-peering-interconnexion-artci-civix-fratmat
+CIV,Raxio CIV1,Raxio CIV1,other,,Raxio Group,,2026-08-25-raxio-civ1-data-centre-cote-divoire
+CIV,MainOne Abidjan data centre,MainOne data centre in Abidjan,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,MainOne cable Cote d'Ivoire branch,MainOne cable branch,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-city-channels-cable-network-joins-lskix",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "LSKIX's own member registry lists City Channels Cable Network (CCN, AS328817) as a full member that joined in 2025, with a 10 Gbit/s port at LSK-IX in Lusaka (location Infratel) and a route server session.", "as_of": "2025", "date_precision": "year", "system": "LSK-IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LSK-IX", "country_label": "LSKIX", "class": "exchange", "platform": "IXP Manager", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

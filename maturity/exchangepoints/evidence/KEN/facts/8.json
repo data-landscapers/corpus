@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "LINX announced that LINX Mombasa, a multi-site IXP in the iColo MBA1 and MBA2 data centres in Mombasa, is ready for business, after LINX Nairobi launched just over 12 months earlier.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "LINX Mombasa",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "LINX states LINX Mombasa in Mombasa is a second exchange point in service in Kenya alongside LINX Nairobi in Nairobi, the first IXP with a physical presence in both cities.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "LINX Mombasa",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LINX Mombasa",
+   "country_label": "",
+   "class": "exchange",
+   "platform": "Nokia switches",
+   "owner": "LINX",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Nairobi",
+   "country_label": "",
+   "class": "exchange",
+   "platform": "Nokia switches",
+   "owner": "LINX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

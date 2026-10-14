@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-data-centers-in-tunisia",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Inflect, a colocation marketplace, states that TunIXP is Tunisia's primary national exchange point, keeping local traffic in the country and reducing reliance on international transit, as of September 2025.", "as_of": "2025-09", "date_precision": "month", "system": "TunIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "TunIXP", "country_label": "TunIXP", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

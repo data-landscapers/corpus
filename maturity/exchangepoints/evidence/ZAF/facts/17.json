@@ -1,0 +1,26 @@
+{
+ "slug": "2020-11-04-teraco-technical-specification-bredell-johannesburg-jb2",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Teraco's JB2 Bredell specification sheet lists 7 diverse internet exchange points, 250+ networks and peering at NAPAfrica among its services; no issue date is printed, so the published date 2020-11-04 is used.",
+   "as_of": "2020-11-04",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "NAPAfrica",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-cgix-portail-web-point-echange-internet-congo",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The CGIX portal, run with the regulator ARPCE, reports the Congo internet exchange point in operation with 4 connected members and 1 point of presence; the page is undated and the year 2022 is inferred from its own '9 years of existence' counter.", "as_of": "2022", "date_precision": "year", "system": "CGIX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 70 Mb/s (stated per hour, peak or average not given) at CGIX on 2022 (undated portal counter, year inferred), as stated by the CGIX portal.", "as_of": "2022", "date_precision": "year", "system": "CGIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CGIX", "country_label": "Congo Internet eXchange Point", "class": "exchange", "platform": "", "owner": "ARPCE with Airtel and MTN on its board", "tiers": "operators"}
+  ],
+  "note": "Launched May 2013 with 7 operators and chosen by the African Union in August 2017 as Central Africa sub-regional hub (both stated on the portal); no content network, growth figures or second city stated."
+}

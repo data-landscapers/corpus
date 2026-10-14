@@ -1,0 +1,220 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,angonix,Angola Internet Exchange Point - angonix,exchange,,,,2026-06-01-isoc-pulse-ixp-tracker-angola
+AGO,Angola IXP,Angola Internet Exchange point - Angola IXP,exchange,,,,2026-06-01-isoc-pulse-ixp-tracker-angola
+AGO,Rede Nacional de Fibra Optica (Lobito section),Rede Nacional de Fibra Optica,other,,Angola Telecom,,2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta
+AGO,Tudonosso Fibra,Tudonosso Fibra,other,FTTH,Angola Telecom,,2026-09-16-ago-angop-ministro-mario-oliveira-lanca-servico-de-internet-tudonosso
+AGO,Rede de banda larga de fibra optica (DWDM backbone),Rede Nacional de Banda Larga,other,DWDM,Angola Telecom,,2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja
+AGO,Rede Nacional de Banda Larga (RNBL),Rede Nacional de Banda Larga,other,,Government of Angola / MINTTICS,,2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl
+BDI,BDIXP,Burundi Internet Exchange Point,exchange,,,,2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse
+BDI,BDIXP,Burundi Internet Exchange Point,other,,Republic of Burundi; managed by an ISP association authorised by ARCT,,2014-05-13-decret-100-122-cadre-reglementaire-point-echange-internet-national-burundi
+BEN,BENIN-IX,BENIN-IX,exchange,,,"ISOCEL SA, SBIN, PCH (two ASNs)",2026-01-01-pulse-internetsociety-org-ixp-tracker-benin-ix
+BEN,COTIX,Cotonou Internet Exchange,exchange,,Benin technical community (Internet Society Foundation grant),,2026-07-13-isoc-local-peering-africa
+BEN,BENINIX,Benin IX / BENINIX,exchange,,"Association of Benin operators and ISPs, chaired by a Ministry of Digital Affairs official, managed day to day by the incumbent (SBIN)",,2023-06-01-isoc-bj-etude-beninix
+BFA,BFIX,Burkina Faso Internet Exchange (BFIX),exchange,,,,2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability
+BFA,BFIX,Burkina Faso Internet Exchange (BFIX),exchange,,,,2025-04-11 Local Businesses Benefit from Burkina Faso's Internet Development (BFIX)
+BWA,Digital Delta IXP,Digital Delta Internet Exchange Point,exchange,,BoFiNet,,2026-10-06-itweb-bofinet-launches-digital-delta-ixp
+BWA,Digital Delta Data Centre,DDDC,other,,BoFiNet,,2026-10-06-itweb-bofinet-launches-digital-delta-ixp
+BWA,Digital Delta IX,Digital Delta IX,exchange,,BoFiNet,,2026-04-21-peeringdb-digital-delta-ix
+BWA,SADC regional internet exchange,,other,,SADC Secretariat,,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
+BWA,BINX,Botswana Internet Exchange,exchange,,Botswana Internet Exchange (association),,2025-01-01-binx-botswana-internet-exchange-pch-directory
+BWA,Gaborone IXP,Gaborone IXP,exchange,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
+BWA,BINX,Botswana Internet Exchange,exchange,,Internet Service Providers Association,,2026-06-01-bocra-newsletter-issue-003
+CAF,CENIX (Central African Internet Exchange),CENIX,other,,,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
+CIV,CIVIX,Civix (Cote d'Ivoire Internet Exchange),exchange,,ARTCI (regulator; organiser of the forum),"operators, ISPs, content networks",2026-06-15-peeringday-2026-artci-appairage-interconnexion-fratmat
+CIV,"CIVIX third PoP, Raxio Grand Bassam",CIVIX third point of presence,other,,Raxio Cote d'Ivoire / ARTCI,,2025-06-30-raxio-artci-civix-ixp-mou-techafricanews
+CIV,CIVIX,Civix,exchange,,ARTCI,14 operators and providers,2025-08-05-forum-peering-interconnexion-artci-civix-fratmat
+CIV,CIVIX Grand-Bassam PoP (Raxio),third PoP of Civix,exchange,,ARTCI / Raxio,,2025-08-05-forum-peering-interconnexion-artci-civix-fratmat
+CIV,Raxio CIV1,Raxio CIV1,other,,Raxio Group,,2026-08-25-raxio-civ1-data-centre-cote-divoire
+CIV,MainOne Abidjan data centre,MainOne data centre in Abidjan,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,MainOne cable Cote d'Ivoire branch,MainOne cable branch,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CMR,CAMIX Douala,Cameroon Internet Exchange Point - CAMIX Douala,exchange,,CAMIX,,2026-08-01-isoc-pulse-camix-douala-tracker
+CMR,CAMIX,Cameroon Internet Exchange Point (CAMIX),exchange,,CAMIX,,2026-04-07-camix-troisieme-pop-st-digital
+CMR,CAMIX,CAMIX,exchange,,CAMIX,,2026-03-16-camix-site-officiel
+CMR,DOUALA-IX,Douala Internet Exchange,exchange,,ST DIGITAL,,2024-09-11-st-digital-dla01-douala-dc-oix-2-certification-datacenterpost
+COD,KINIX,Kinshasa Internet Exchange,exchange,,ISPA-DRC (RDC-IX project),,2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc
+COD,Raxio DRC,Raxio DRC data centre,other,,Raxio Group,,2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc
+COD,ACIX,Africa Congo Internet Exchange,exchange,DE-CIX-as-a-Service,Internet pour Tous (operated by DE-CIX),,2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb
+COD,OADC Texaf Kinshasa FIH1,,other,,OADC Texaf,,2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb
+COD,Raxio DRC1,Raxio DRC,other,,Raxio Group,,2026-05-19-dr-congo-raxio-group
+COG,CGIX,Congo Internet eXchange Point,exchange,,ARPCE with Airtel and MTN on its board,operators,2022-01-01-cgix-portail-web-point-echange-internet-congo
+COM,Moroni IXP,IXP à Moroni,exchange,,Comores Câbles,Comores Telecom; Yas Comores,2026-01-01-comores-cables-technologies
+COM,IXP (planned),IXP,other,,Comores Câbles,,2025-09-08-com-comores-cables-angola-cables-atelier-retaj
+CPV,CV-IXP,Associação Cabo Verde Internet Exchange Point,exchange,Ethernet,Cabo Verde Internet Exchange Point (association),,2022-11-29-pch-cv-ixp-associacao-cabo-verde-internet-exchange-point
+CPV,CV-IXP,Associação Cabo Verde Internet Exchange Point,exchange,Ethernet,Associação Cabo Verde Internet Exchange Point,,2024-01-01-cv-ixp-cabo-verde-internet-exchange-point
+CPV,DE-CIX Lisbon-Sao Paulo corridor (planned),South Atlantic interconnection corridor,other,,DE-CIX; Cabo Verde Telecom,,2026-09-29-cpv-de-cix-cvtelecom-south-atlantic-interconnection-corridor
+CPV,IXP Cabo Verde,IXP - Internet Exchange Point,exchange,,Government of Cabo Verde (as stated),,2026-04-01-cabo-verde-governo-em-acao-economia-digital
+DJI,Wingu Africa IXP,point d'echange Internet (IXP),exchange,,Wingu Africa,,2026-09-28-dji-adi-helem-wingu-africa-ixp-innovation-centre
+DJI,AMS-IX Djibouti,AMS-IX Djibouti Internet exchange,exchange,,Wingu Africa with AMS-IX,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+DJI,DjIX,DjIX,exchange,,,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+EGY,EG-IX,EG-IX,exchange,AMS-IX IX-as-a-Service,Telecom Egypt (operated on AMS-IX platform),"5 Egyptian members (Telecom Egypt, TE Data, Vodafone Egypt, Etisalat Egypt, Link Egypt), 2 Jordanian carriers, a root server, 10 global content/CDN/cloud networks",2026-09-08-techafrica-eg-ix-egypt-peak-traffic-18-members
+EGY,MEIX,Middle East Internet eXchange (MEIX),exchange,,"GPX Global Systems, Inc.","ISPs, telecom providers, e-businesses and enterprise customers colocated at the site",2007-07-21-gpx-global-systems-inc-launches-neutral-middle-east-internet-exchange-meix-in-ca
+EGY,Amazon CloudFront edge location Cairo,CloudFront Cairo edge,other,Amazon CloudFront,AWS,,2024-05-22 AWS adds a CloudFront edge location in Cairo
+ETH,ADDIX,Addis Ababa Internet Exchange (Addix),exchange,,,,2026-01-01-internet-society-pulse-ixp-tracker-addix
+ETH,ADDIX,Addis Ababa Internet Exchange (ADDIX),exchange,,ADDIX Technology Solutions,,2025-09-04-wingu-africa-transforming-connectivity-addix-ixp
+GAB,Gabon IXP (PeeringDB),,exchange,,,,2026-09-01-isoc-pulse-ixp-tracker-gabon
+GAB,GABIX,Gabon Internet eXchange,exchange,,,,2026-08-08-gabon-gabix-reboot-workshop-interconnection
+GAB,GABIX,Gabon Internet eXchange,exchange,,,,2026-08-03-gabix-reboot-atelier-national-peering-gabon
+GAB,GABIX,Gabon Internet eXchange,exchange,,,,2026-08-03-gabix-reboot-interconnexion-locale-defis
+GAB,GABIX,Gabon Internet eXchange,exchange,,,,2026-05-13-gabon-gabix-ixp-relaunch
+GAB,GABIX,Gabon Internet Exchange,exchange,Ethernet,GABIX association,,2025-09-19-pch-gabix-gabon-internet-exchange-directory
+GAB,GABIX,GABIX,other,,,,2026-09-11-gabonmediatime-afrinic-ipv6-autonomie-reseaux
+GAB,Gabix,Gabix,other,,"Ministry of Digital Economy, Digitalization and Innovation",,2026-07-31-gabon-digital-transformation-review
+GHA,GIXA,Ghana Internet Exchange Association,exchange,,GIXA,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,Accra-IX,Accra-IX,exchange,,,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,LINX Accra,LINX Accra,exchange,,LINX,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,MDXi Appolonia City data centre,MainOne data centre,other,,MDXi (MainOne),,2021-06-21-mainone-data-centre-opens
+GHA,MDXi Appolonia City data centre,MainOne MDXi Ghana,other,,MDXi (MainOne),,2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre
+GIN,IXP-Guinée,IXP-Guinée,exchange,,IXP-Guinée (executive secretary named),,2026-09-01-guinee-afpif-2026-ixp-participation
+GIN,IXP-GUINEE,IXP-GUINEE,exchange,,"IXP-GUINEE association (Koloma, Ratoma, Conakry)",,2018-01-01-ixp-guinee-objet-et-missions
+GIN,Point d'échange Internet (IXP),IXP,exchange,,,Guinean operators,2026-01-01-gin-mpten-realisations-2025
+GMB,SIXP,Serekunda Internet Exchange Point,exchange,,not-for-profit run by an executive committee and three part-time staff,,2015-08-26-afpif-2015-gambia-ixp-experience-sixp
+GMB,SIXP,Serrekunda Internet Exchange Point,exchange,,IXP committee under the Ministry of Information and Communication Infrastructure; AXIS project implemented by the Internet Society,,2014-07-22-isoc-first-internet-exchange-point-gambia-launched-banjul
+GMB,SIXP,Serekunda Internet Exchange Point,exchange,,voluntary non-profit charitable company; 14 founding members,,2013-07-25-sixp-serekunda-internet-exchange-point-about
+GNB,"IXP (WARDIP equipment procurement, Guinea-Bissau)",IXP,other,,WARDIP / Guinea-Bissau government,,2026-03-17-worldbank-wardip-p176932-procurement-plan-guinea-bissau
+GNQ,Equatorial Guinea Internet Exchange Point (IXP),Equatorial Guinea IXP,other,,ORTEL (lead national agency); ECCAS regional coordinator,,2017-01-01-pida-pap-equatorial-guinea-internet-exchange-point
+KEN,LINX Nairobi,LINX Nairobi,exchange,,LINX (London Internet Exchange),,2026-07-10-linx-kenya-peering-network-itweb
+KEN,LINX Mombasa,LINX Mombasa,exchange,,LINX (London Internet Exchange),,2026-07-10-linx-kenya-peering-network-itweb
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,TESPOK,,2026-01-01-kixp-kenya-internet-exchange-point-nairobi
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,TESPOK,,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne
+KEN,LINX Nairobi,LINX Nairobi,exchange,Nokia,LINX,,2024-11-11-icolo-linx-mombasa-mba2
+KEN,LINX Mombasa,LINX Mombasa,other,Nokia,LINX,,2024-11-11-icolo-linx-mombasa-mba2
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,LINX Nairobi,,exchange,,LINX,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,NBOX1,iXAfrica NBOX1 data centre,other,,iXAfrica,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,LINX Mombasa,,exchange,Nokia switches,LINX,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,LINX Nairobi,,exchange,Nokia switches,LINX,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,LINX Nairobi,,exchange,,LINX,,2024-09-11-dcnn-linx-nairobi-expands-to-paix
+KEN,PAIX NBO-1 extension,,other,,LINX / PAIX Data Centres,,2024-09-11-dcnn-linx-nairobi-expands-to-paix
+KEN,KIXP,Kenya Internet eXchange Point,exchange,,,,2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,,,2017-05-16-east-africa-data-centre-receives-tier-iii-certification-liquid-intelligent-techn
+KEN,KIXP,KIXP,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+KEN,LINX Nairobi,LINX Nairobi,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+LBR,Liberia Internet Exchange Point (LIXP),Liberia IXP,exchange,,Cable Consortium of Liberia (host); Liberia Internet Exchange Point Association (LIXPA),,2025-12-05-liberia-lta-strengthen-internet-exchange-point-national-peering-forum
+LBR,Liberian Internet Exchange Point (LIXP),LIXP,exchange,,Ministry of Posts and Telecommunications; African Union Commission (AXIS project),,2015-08-02-au-setting-up-and-launching-internet-exchange-point-liberia
+LBY,Tripoli IXP,Tripoli IXP,exchange,,,,2024-04-25-peeringdb-tripoli-ixp-record
+LSO,LIXP,Lesotho Internet Exchange Point,exchange,,Internet Exchange Point Association of Lesotho,,2026-05-13-peeringdb-lixp-record
+LSO,LIXP,Lesotho Internet Exchange Point,exchange,Ubiquiti USW-Pro switches and EdgeRouter Infinity routers,Lesotho Communications Authority (custodian); Internet Society Lesotho Chapter,"ISPs, higher education, government departments, banks",2026-02-02-thereporter-lixp-revamp
+MAR,CAS-IX,Casablanca Internet Exchange Point,exchange,,,,2026-05-01-morocco-cas-ix-ixp-tracker
+MAR,FEZIX,FEZIX,exchange,,,,2026-01-01-morocco-fezix-ixp-tracker
+MAR,National IXP (INTELCOM turnkey contract),point d'échange Internet,other,,"Itissalat Al-Maghrib, Medi Telecom, Wana Corporate with INTELCOM",,2023-12-21-morocco-anrt-mise-en-place-ixp
+MAR,National IXP project,point d'échange Internet (IXP),other,,ANRT,,2023-01-01-mar-anrt-dates-cles
+MDG,MGIX,Madagascar Global Internet eXchange,exchange,,iRENALA,,2026-02-01-ixp-tracker-madagascar-pulse
+MDG,MGIX,Madagascar Global Internet eXchange,exchange,,iRENALA,,2025-01-27-isoc-foundation-mgix-restart-grant
+MDG,MGIX,Madagascar Global Internet eXchange,exchange,,iRENALA,,2024-01-01-isoc-foundation-mdg-irenala-mgix-2024-mgix-restart-grant
+MDG,MGIX,Madagascar Global Internet eXchange,exchange,,iRENALA,,2026-07-13-isoc-local-peering-africa
+MLI,Point d'Echange Internet du Mali (GIE MLIX),Point d'Echange Internet du Mali,other,,Groupement d'Interet Economique to operate and maintain it; steering committee chaired by the ICT minister,,2017-10-24-mali-decret-2017-0872-comite-pilotage-point-echange-internet
+MLI,Mali IX (MLIX),"Mali IX (MLIX), Bamako",exchange,,,,2026-09-03-ecowas-sigtel-regional-fiber-infrastructure
+MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mondlane",,2026-08-08-mozix-mozambique-internet-exchange-about
+MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mondlane",,2026-07-01-isoc-pulse-ixp-tracker-mozix
+MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mondlane",,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo
+MOZ,Digital Realty MPM1 Maputo,MPM1 data centre (iColo),other,,Digital Realty / iColo,,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo
+MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mondlane",,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
+MOZ,UEM data centre,Centro de Dados da UEM,other,,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
+MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mondlane",,2026-08-03-uem-centro-de-dados-transformacao-digital
+MOZ,UEM data centre,Centro de Dados da UEM,other,,Universidade Eduardo Mondlane,,2026-08-03-uem-centro-de-dados-transformacao-digital
+MRT,Centre national d'échange Internet (national IXP at IMT),Centre national d'échange Internet,exchange,,Ministry of Digital Transformation; Digital Infrastructure Foundation; hosted at IMT,,2025-05-28-mauritanie-lancement-ixp-national
+MRT,"Mauritania IXP (proposed, single site at the IMT ACE landing station in Nouakchott, second site later at the Nouakchott datacenter building)",IXP,other,Layer 2 switch cluster with route servers (scenarios studied),proposed neutral association; IMT hosts,"Mauritel, Mattel, Chinguitel as expected members",2014-06-16-mauritanie-warcip-rapport-faisabilite-point-echange-internet-ixp
+MUS,MIXP,Mauritius Internet Exchange Point,exchange,Bird v2 2.0.8 route servers,MIXP,,2026-06-15-mixp-route-server-looking-glass
+MUS,MIXP,Mauritius Internet Exchange Point - MIXP,exchange,,MIXP Ops (AS327821),,2026-05-01-ixp-tracker-mixp-snapshot
+MUS,Mauritius Internet Exchange Point,Internet Exchange Point in Mauritius,exchange,,"Ministry of Technology, Communication and Innovation with the African Union Commission (AXIS)",,2015-08-26-au-launches-internet-exchange-point-mauritius
+MWI,LIONEX,Lilongwe Open Neutral Internet Exchange,exchange,,,,2026-02-26-lionex-sustainable-peering-infrastructure-grant
+MWI,MIX,Malawi Internet Exchange,exchange,,MISPA,,2024-11-14-mispa-malawi-internet-exchange-mix
+MWI,LLIX,Lilongwe Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-africa
+MWI,Lilongwe IXP,IXP for Lilongwe (Central),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
+MWI,Mzuzu IXP,IXP for Mzuzu (Northern),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
+MWI,"LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)",LIONEX,other,EVPN-VXLAN leaf-spine,LIONEX,,2025-12-21-lionex-leaf-spine-evpn-vxlan-fabric
+NER,Niger IXP (Niamey),Internet Exchange Point (IXP),exchange,,,,2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)
+NER,Niger IXP,Point d'Echange Internet (IXP),exchange,,Smart Villages project (PVI) with Niger Telecoms,,2026-04-15-pvi-900-localites-connectivite
+NER,Point d'echange internet national (IXP),point d'echange internet national,other,,Ministry of Communication and New Information Technologies (committee oversight),,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, telecom operators, content providers, data centres",2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, content providers, CDNs",2025-04-24-ixpn-1tbps-traffic-milestone
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, CDNs, banks, fintechs, enterprises",2026-02-05-ixpn-traffic-growth-local-peering
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,,2026-07-16 Nigeria - Submarine Networks
+NGA,WAF-IX,West Africa Internet Exchange,exchange,,MainOne/MDXi,,2026-07-16 Nigeria - Submarine Networks
+NGA,AF-CIX Lagos,West Africa Interconnection Exchange,exchange,,AF-CIX,,2026-07-16 Nigeria - Submarine Networks
+NGA,MDXi Lagos,MDXi Lagos,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,OADC Lagos LOS1,OADC Lagos,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,Rack Centre LGS 1/2,Rack Centre,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,Kasi Cloud,Kasi Cloud,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,"MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, 2Africa, NCSCS",submarine cables,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,IXPN,IXPN,exchange,,,,2024-05-01-rack-centre-spec-sheet
+NGA,AF-CIX,AF-CIX,exchange,,DE-CIX,,2024-05-01-rack-centre-spec-sheet
+NGA,Rack Centre,Rack Centre,other,,Rack Centre,,2024-05-01-rack-centre-spec-sheet
+NGA,Nigerian Internet Exchange (IXPN),Nigerian Internet Exchange (IXPN),exchange,,,,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+NGA,Medallion Data Centres,Medallion Data Centres,other,,Medallion,,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+NGA,Internet Exchange Point of Nigeria (IXPN),Internet Exchange Point of Nigeria (IXPN),exchange,,,,2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry
+NGA,Medallion interconnect exchange,Medallion interconnect exchange,other,,Medallion,,2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry
+NGA,Internet Exchange Point of Nigeria (IXPN),Internet Exchange Point of Nigeria (IXPN),exchange,,,,2026-09-15-xaf-smbtech-hca-conference-cross-border-buildout
+NGA,IXPN Lagos,IXPN Lagos,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+NGA,AMS-IX Lagos,AMS-IX Lagos,exchange,,AMS-IX,,2026-06-29-starlink-africa-availability-costs-performance
+NGA,Equinix Lekki,Equinix Lekki,other,,Equinix,,2026-06-29-starlink-africa-availability-costs-performance
+RWA,RINEX,RINEX (Rwanda Internet Exchange Point),exchange,,RICTA,,2026-06-04-gewape-cloud-group-rinex-connection-announcement
+RWA,RINEX,RINEX (Rwanda Internet Exchange Point),exchange,,RICTA,,2014-02-01-rinex-terms-and-policies
+RWA,RINEX,Rwanda Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-africa
+SDN,SIXP Sudan,Sudan Internet Exchange Point,exchange,,,,2026-08-01-ixp-tracker-sixp
+SDN,SIXP Sudan,Sudan Internet Exchange Point,exchange,,National Information Center of Sudan,,2020-01-22-sixp-sudan-peeringdb
+SDN,National Internet Exchange Point,National Internet Exchange Point,exchange,,National Information Center,,2016-05-02-sudan-nic-wsis-forum-2016-egov-presentation
+SEN,HubSIX,HubSIX,exchange,,,,2026-09-01-isoc-pulse-ixp-tracker-hubsix
+SEN,SENIX,SENIX,other,,,,2026-09-01-isoc-pulse-ixp-tracker-hubsix
+SEN,HubSIX,HubSIX,exchange,,,,2026-06-30-isoc-senegal-snpif-2026-peering-interconnection-forum
+SEN,SENIX,SENIX,exchange,,,,2026-06-30-isoc-senegal-snpif-2026-peering-interconnection-forum
+SEN,SENIX,SENIX,other,,,,2025-03-26-senum-sonatel-partnership
+SEN,SENIX,"SENIX, Point d'Echange Internet du Sénégal",other,,"Association SENIX (registered office at the Ministère des Postes et des Télécommunications, Dakar)","members need an ASN or public IP block; categories founding, active, adherent",2026-09-03-senix-statuts-point-echange-internet-senegal
+SLE,Michcom-IX,Michcom Internet Exchange Point,exchange,,Michcom Limited,"ISPs, mobile operators, CDNs, cloud, academic and government networks",2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record
+SLE,SLIXP,Sierra Leone Internet Exchange Point,other,,MoCTI with SLDTP,,2025-08-16-slixp-feasibility-study-completed
+SLE,Michcom-IX,Michcom-IX,exchange,,"Michcom Limited, Network Services Division","ISPs, mobile operators, CDNs, cloud, academia, public sector",2025-01-01-michcom-ix
+SOM,SoIXP (MogIX),"Somali Internet Exchange Point, Mogadishu",other,,National Communications Authority Somalia,,2019-09-28-soixp-peeringdb-record
+SOM,"Somcable Submarine Network (2Africa and PEACE landings, Berbera)",Somcable,other,,Somcable (Somaliland-based),,2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route
+SSD,SS-IXP,South Sudan IXP (SS-IXP),other,,Internet Society South Sudan Chapter (implementation lead),,2025-11-01-isoc-south-sudan-ixp-implementation-update
+SWZ,Internet Exchange Point in Swaziland,national IXP,exchange,,Ministry of ICT (committee of stakeholders); AU AXIS-supported,,2014-04-10-au-launching-ixp-swaziland
+SYC,Seychelles Internet Exchange Point,Internet Exchange Point in Seychelles,exchange,,"Department of ICT, Seychelles (set up with African Union Commission AXIS support)",,2015-02-20-au-int-ixp-launch-seychelles
+SYC,Seychelles Internet Exchange Point Association (SEY-IX),SEY-IX,,,"Seychelles Internet Exchange Point Association, Victoria, Mahe",,2024-01-01-peeringdb-organisation-record-sey-ix
+TCD,CENIX,"Central African Internet Exchange (Central African Republic, not TCD)",other,,,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
+TCD,TCHADIX,TCHADIX,exchange,,"GIE of members, promoted by ADETIC","internet access providers, mobile operators",2026-05-21-digitalbusiness-tchadix-ixp-un-an
+TGO,TGIX,Togo Internet Exchange Point,exchange,,"TGIX Management (AS328152, non-profit)",,2026-07-01-isoc-pulse-ixp-tracker-tgix-togo
+TGO,Lomé Data Centre,Lomé Data Center,other,,Lomé Data Centre,,2025-09-24-lome-data-centre-home-page-en
+TGO,IXP (WARCIP Togo),point d'échange internet,other,,Ministry of Posts and Digital Economy / WARCIP,,2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022
+TUN,TUNIXP,point d'echange Internet national (TUNIXP),exchange,,ATI (Agence Tunisienne d'Internet),,2026-09-03-tunisie-ati-a-propos-tunixp
+TUN,TunIXP,TunIXP,exchange,,,,2025-09-01-data-centers-in-tunisia
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2026-09-25-tza-tix-100g-core-upgrade
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,AIXP,AIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,DIXP,DIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,MBIXP,MBIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,MIXP,MIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,ZIXP,ZIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2025-09-24-stellarix-joins-tispa
+TZA,Raxio Tanzania data centre (planned),,other,,Raxio Group,,2026-07-13-raxio-380-million-capital-tanzania-expansion
+UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U with Ministry of ICT; described as neutrally owned,,2026-04-14-nipx-launch
+UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U,,2025-10-17-nipx-establishment-peering-policy
+UGA,UIXP,Uganda Internet eXchange Point,exchange,route servers,UIXP (own executive director),,2025-01-13-uixp-2024-status-report
+UGA,UIXP,Uganda Internet Exchange Point,exchange,,,,2026-08-09-isoc-pulse-uganda-january-2026-shutdown-record
+UGA,Raxio UG1,Raxio Uganda,other,,Raxio Group,,2026-01-01-raxio-ug1-uganda-data-centre
+UGA,Raxio Data Centre,Raxio Data Centre,other,,First Brick Holdings (Roha Group),,2020-12-14-ventureburn-raxio-uganda-uptime-tier-iii-certification
+ZAF,CINX,Cape Town Internet Exchange,exchange,,INX-ZA,,2026-08-11-cinx-oadc-cape-town-expansion
+ZAF,JINX,Johannesburg Internet Exchange,exchange,,INX-ZA,,2026-08-11-cinx-oadc-cape-town-expansion
+ZAF,SADC regional internet exchange,SADC Internet regional exchange,other,,"SADC Secretariat (host sought: BoFiNet, Botswana)",,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
+ZAF,NAPAfrica,NAPAfrica IXP,exchange,,Teraco,,2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2025-11-10-teraco-ct2-50mw-cape-town
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2025-08-12-teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating
+ZAF,JINX Johannesburg,JINX,exchange,,INX-ZA,,2024-10-24-equinix-opens-its-first-data-center-in-johannesburg-enhancing-digital-infrastruc
+ZAF,CINX Cape Town,CINX,exchange,,Africa Data Centres,,2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town
+ZAF,CINX Cape Town,CINX,exchange,,Africa Data Centres,,2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2023-11-15-teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capaci
+ZAF,SITA RFB 2728/2022 colocation with internet exchange points (tender),,other,,SITA,,2023-04-06-sita-rfb2728-2022-colocation-data-centre-gauteng-invitation
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2022-11-07-teraco-breaks-ground-on-jb5-a-30mw-data-centre-expansion-to-isando-campus
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2022-08-01-digital-realty-completes-acquisition-of-teraco
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2021-10-07-teraco-completes-cape-town-hyperscale-data-centre-expansion
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2020-11-04-teraco-technical-specification-bredell-johannesburg-jb2
+ZAF,NAPAfrica,NAPAfrica,exchange,,Teraco,,2018-08-16-vox-selects-teraco-to-grow-data-centre-footprint-vox
+ZAF,JINX,Johannesburg Internet Exchange,exchange,,INX-ZA,,2018-02-02-adc-zaf-sadc-johannesburg-cape-town-expansion-opened
+ZAF,CINX,Cape Town Internet Exchange,exchange,,INX-ZA,,2018-02-02-adc-zaf-sadc-johannesburg-cape-town-expansion-opened
+ZAF,NAPAfrica Johannesburg,NAPAfrica,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+ZAF,JINX,JINX,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+ZMB,Lusaka IXP,Lusaka IXP,exchange,,,,2025-12-08-afrinic-dns-deployment-lusaka-ixp-linkedin
+ZMB,LSK-IX,Lusaka Internet Exchange Point,exchange,,,,2024-08-02-zambia-lsk-ix-exchange-record
+ZMB,LSK-IX,LSKIX,exchange,IXP Manager,,,2025-01-01-city-channels-cable-network-joins-lskix
+ZMB,LSK IX,Lusaka Internet Exchange Point,exchange,,"LSK IX (neutral, non-profit, community-owned)",,2026-08-29-lusaka-internet-exchange-point-lsk-ix-home
+ZWE,HIX,Harare Internet Exchange Point,exchange,,POTRAZ (proposes handover to the community),all internet access providers,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,Zimbabwe Internet Exchange,Zimbabwe Internet Exchange,,,,,2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020
+ZWE,ZINX,Zimbabwe Internet Exchange (ZINX),,,,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration

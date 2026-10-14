@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-21-pch-report-on-internet-exchange-point-locations",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "Packet Clearing House's report of 21 August 2026 lists Guinea-Bissau among 51 countries with no internet exchange point, against 162 countries with one or more.",
+     "as_of": "2026-08-21", "date_precision": "day", "system": "", "class": "exchange"}
+  ],
+  "systems": [],
+  "note": ""
+}

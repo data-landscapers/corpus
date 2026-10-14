@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-15-mixp-route-server-looking-glass",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "MIXP's own public route-server looking glass shows the Mauritius Internet Exchange Point operating, with Route Server 1 (IPv6) reporting 428 days of uptime, last reconfigured 2026-06-15, and about 26 member BGP sessions listed (Emtel, Vodacom, CMC Networks, Canal+ Telecom, PCH and others).", "as_of": "2026-06-15", "date_precision": "day", "system": "MIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "MIXP", "country_label": "Mauritius Internet Exchange Point", "class": "exchange", "platform": "Bird v2 2.0.8 route servers", "owner": "MIXP", "tiers": ""}
+  ],
+  "note": ""
+}

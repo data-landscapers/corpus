@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2026-09-25-tza-tix-100g-core-upgrade
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,AIXP,AIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,DIXP,DIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,MBIXP,MBIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,MIXP,MIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,ZIXP,ZIXP,exchange,,TISPA,,2026-08-28-tispa-internet-exchange-points
+TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2025-09-24-stellarix-joins-tispa
+TZA,Raxio Tanzania data centre (planned),,other,,Raxio Group,,2026-07-13-raxio-380-million-capital-tanzania-expansion

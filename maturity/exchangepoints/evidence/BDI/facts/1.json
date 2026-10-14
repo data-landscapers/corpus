@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Internet Society's IXP Tracker, from PeeringDB data of August 2026, lists BDIXP in Bujumbura with 9 member ASNs, 26 Gbps of cumulative port capacity and no members joining or leaving in the previous 12 months.", "as_of": "2026-08", "date_precision": "month", "system": "BDIXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "The Internet Society's IXP Tracker lists Akamai Technologies (AS20940, 1 Gbps, peers at the route server) and Meta (AS63293, 10 Gbps) as members of BDIXP in Bujumbura, from PeeringDB data of August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "BDIXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "The Internet Society's IXP Tracker shows BDIXP members registered abroad (3 in the United States, including Meta and two PCH ASNs, and 1 in the Netherlands, Akamai) beside 5 registered in Burundi, from PeeringDB data of August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "BDIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "BDIXP", "country_label": "Burundi Internet Exchange Point", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

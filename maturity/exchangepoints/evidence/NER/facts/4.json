@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-24-national-committee-critical-digital-infrastructure-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "Point d'echange internet national (IXP)", "country_label": "point d'echange internet national", "class": "other", "platform": "", "owner": "Ministry of Communication and New Information Technologies (committee oversight)", "tiers": ""}
+  ],
+  "note": "The IXP is listed among critical infrastructure the new committee will oversee for deployment; the article does not say it is in service."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2018-08-16-vox-selects-teraco-to-grow-data-centre-footprint-vox",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Vox says it delivers open peering at Teraco's Riverfields facility near Kempton Park, Gauteng, in addition to NAPAfrica peering, with its services in full production.",
+   "as_of": "2018-08-16",
+   "date_precision": "day",
+   "system": "NAPAfrica Johannesburg",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "NAPAfrica",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

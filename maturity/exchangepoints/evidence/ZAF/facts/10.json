@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Africa Data Centres says its CPT1 facility in Cape Town houses the Cape Town Internet Exchange (CINX), facilitating direct connections between networks (date taken from the release, 2024-07-25).",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "CINX Cape Town",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CINX Cape Town",
+   "country_label": "CINX",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

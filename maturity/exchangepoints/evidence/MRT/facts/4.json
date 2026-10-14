@@ -1,0 +1,10 @@
+{
+  "slug": "2014-06-16-mauritanie-warcip-rapport-faisabilite-point-echange-internet-ixp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The WARCIP-Mauritania feasibility study (consultants Marpij, Neo Telecoms, Eric Veve; final version, June 2014) states that Mauritania has no exchange point yet: operators' traffic to each other is transit, not local peering, and Dakar in effect acts as the IXP for Mauritanian operators, Mauritel and Chinguitel traffic being exchanged there; the study proposes creating one.", "as_of": "2014-06", "date_precision": "month", "system": "", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Mauritania IXP (proposed, single site at the IMT ACE landing station in Nouakchott, second site later at the Nouakchott datacenter building)", "country_label": "IXP", "class": "other", "platform": "Layer 2 switch cluster with route servers (scenarios studied)", "owner": "proposed neutral association; IMT hosts", "tiers": "Mauritel, Mattel, Chinguitel as expected members"}
+  ],
+  "note": "Design study of a planned IXP, none operating; the study also says global content networks (Google, Akamai, Amazon, OVH) are totally absent from Mauritania."
+}

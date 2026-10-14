@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,exchange,exchange,none,"The Internet Society's Pulse IXP Tracker states there are no active internet exchange points in Eritrea and none listed in PeeringDB with three or more member ASNs; the page carries no revision date, so 2026 is its published year.",2026,year,,exchange,2026-01-01-isoc-pulse-ixp-tracker-eritrea,https://pulse.internetsociety.org/en/ixp-tracker/country/ER/

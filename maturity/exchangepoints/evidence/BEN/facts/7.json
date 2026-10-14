@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-01-isoc-bj-etude-beninix",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "BENINIX, Benin's exchange point in Cotonou, was in service in 2021 with 6 networks connected (founded by operators and ISPs, run as an association hosted at the incumbent's premises with a backup at the ACE cable landing site), per the Internet Society Benin chapter's June 2023 study, which also reports it is underfunded and its equipment more than ten years old.", "as_of": "2021", "date_precision": "year", "system": "BENINIX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 859 Mbps (peak) at BENINIX on 2021, against 10,000 Mbps at Burkina Faso's BFIX, per the Internet Society Benin chapter's June 2023 study citing ISOC's 2021 report (Kende); the year of the peak is given, not the day.", "as_of": "2021", "date_precision": "year", "system": "BENINIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "BENINIX", "country_label": "Benin IX / BENINIX", "class": "exchange", "platform": "", "owner": "Association of Benin operators and ISPs, chaired by a Ministry of Digital Affairs official, managed day to day by the incumbent (SBIN)", "tiers": ""}
+  ],
+  "note": "Fetch is cut off in section 1.6; no statement of a second city, foreign members or content networks at BENINIX; redynamisation options (DE-CIX cooperation) are proposals only."
+}

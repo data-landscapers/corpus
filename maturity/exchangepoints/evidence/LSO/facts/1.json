@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-13-peeringdb-lixp-record",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "PeeringDB's record, last updated 2026-05-13, lists the Lesotho Internet Exchange Point (LIXP) in Maseru, run by the Internet Exchange Point Association of Lesotho, with 3 peers, 3 connections, all open-policy, and 30G total declared capacity; Econet Telecom Lesotho is one of the peers.", "as_of": "2026-05-13", "date_precision": "day", "system": "LIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LIXP", "country_label": "Lesotho Internet Exchange Point", "class": "exchange", "platform": "", "owner": "Internet Exchange Point Association of Lesotho", "tiers": ""}
+  ],
+  "note": ""
+}

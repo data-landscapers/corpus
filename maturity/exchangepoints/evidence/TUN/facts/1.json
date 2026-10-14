@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-tunisie-ati-a-propos-tunixp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "ATI (Tunisie Internet) states on its institutional page that it operates and manages Tunisia's national internet exchange point, TUNIXP; the page has no dateline, so the published date is used as as_of.", "as_of": "2026-09-03", "date_precision": "day", "system": "TUNIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "TUNIXP", "country_label": "point d'echange Internet national (TUNIXP)", "class": "exchange", "platform": "", "owner": "ATI (Agence Tunisienne d'Internet)", "tiers": ""}
+  ],
+  "note": ""
+}

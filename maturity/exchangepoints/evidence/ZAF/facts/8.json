@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-24-equinix-opens-its-first-data-center-in-johannesburg-enhancing-digital-infrastruc",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Equinix says the INX-ZA Johannesburg Internet Exchange (JINX) is already established at its new JN1 data centre in Germiston, Johannesburg, opened on 24 October 2024.",
+   "as_of": "2024-10-24",
+   "date_precision": "day",
+   "system": "JINX Johannesburg",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JINX Johannesburg",
+   "country_label": "JINX",
+   "class": "exchange",
+   "platform": "",
+   "owner": "INX-ZA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

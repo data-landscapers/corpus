@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,CAS-IX,Casablanca Internet Exchange Point,exchange,,,,2026-05-01-morocco-cas-ix-ixp-tracker
+MAR,FEZIX,FEZIX,exchange,,,,2026-01-01-morocco-fezix-ixp-tracker
+MAR,National IXP (INTELCOM turnkey contract),point d'échange Internet,other,,"Itissalat Al-Maghrib, Medi Telecom, Wana Corporate with INTELCOM",,2023-12-21-morocco-anrt-mise-en-place-ixp
+MAR,National IXP project,point d'échange Internet (IXP),other,,ANRT,,2023-01-01-mar-anrt-dates-cles

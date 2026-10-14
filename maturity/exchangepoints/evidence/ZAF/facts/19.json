@@ -1,0 +1,54 @@
+{
+ "slug": "2018-02-02-adc-zaf-sadc-johannesburg-cape-town-expansion-opened",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Africa Data Centres says its SADC Johannesburg facility hosts the Johannesburg Internet Exchange (JINX), independently operated by INX-ZA, which was expanded into the site so connected members can peer with members in other data centres.",
+   "as_of": "2018-02-02",
+   "date_precision": "day",
+   "system": "JINX Johannesburg",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Africa Data Centres says its SADC Cape Town facility hosts the Cape Town Internet Exchange (CINX), independently operated by INX-ZA, which was extended into the site.",
+   "as_of": "2018-02-02",
+   "date_precision": "day",
+   "system": "CINX Cape Town",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "Africa Data Centres describes two exchanges operated by INX-ZA in different cities, JINX in Johannesburg and CINX in Cape Town, both in service.",
+   "as_of": "2018-02-02",
+   "date_precision": "day",
+   "system": "JINX Johannesburg",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JINX",
+   "country_label": "Johannesburg Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "INX-ZA",
+   "tiers": ""
+  },
+  {
+   "system": "CINX",
+   "country_label": "Cape Town Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "INX-ZA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

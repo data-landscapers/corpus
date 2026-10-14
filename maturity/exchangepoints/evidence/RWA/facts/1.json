@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-gewape-cloud-group-rinex-connection-announcement",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Gewape Cloud Group says on its own LinkedIn account that it is now connected and live on RINEX, the Rwanda Internet Exchange Point run by RICTA, and can exchange traffic directly with the other local networks connected there; the post gives no city or member count for RINEX.",
+   "as_of": "2026-06-04",
+   "date_precision": "day",
+   "system": "RINEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RINEX",
+   "country_label": "RINEX (Rwanda Internet Exchange Point)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "RICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

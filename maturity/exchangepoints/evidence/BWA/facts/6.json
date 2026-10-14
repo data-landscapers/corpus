@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-01-bocra-newsletter-issue-003",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "BOCRA's newsletter says the Botswana Internet Exchange (BINX), established by the Internet Service Providers Association, continues to play a vital role in local Internet infrastructure; it describes a stakeholder workshop held at BOCRA on 15 October 2025, and notes financial sustainability, outdated equipment and governance delays.", "as_of": "2025-10-15", "date_precision": "day", "system": "BINX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "BOCRA's newsletter says BINX supports local Internet infrastructure through its Google Cache Cluster and a Packet Clearing House node.", "as_of": "2025-10-15", "date_precision": "day", "system": "BINX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "BINX", "country_label": "Botswana Internet Exchange", "class": "exchange", "platform": "", "owner": "Internet Service Providers Association", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service",
+     "fact": "Wingu Africa says it has launched the AMS-IX Djibouti Internet exchange in partnership with AMS-IX, expanding on the existing DjIX infrastructure; no member count given; the article gives no launch date, so as_of is the article's published date (2025-06-06).",
+     "as_of": "2025-06-06", "date_precision": "day", "system": "AMS-IX Djibouti", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service",
+     "fact": "Wingu Africa refers to an existing DjIX exchange infrastructure in Djibouti, which AMS-IX Djibouti expands upon; no members or traffic given; no date given, so as_of is the article's published date (2025-06-06).",
+     "as_of": "2025-06-06", "date_precision": "day", "system": "DjIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "AMS-IX Djibouti", "country_label": "AMS-IX Djibouti Internet exchange", "class": "exchange", "platform": "", "owner": "Wingu Africa with AMS-IX", "tiers": ""},
+    {"system": "DjIX", "country_label": "DjIX", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "ADDIX is in Ethiopia and is not a fact for DJI; Wingu's Djibouti data centres and 12 submarine cables are other classes."
+}

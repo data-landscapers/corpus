@@ -1,0 +1,42 @@
+{
+ "slug": "2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Developing Telecoms reports that the iXAfrica NBOX1 data centre in Nairobi connects to multiple internet exchanges including LINX Nairobi and KIXP, and that KIXP announced a peering point (PoP) there, to localise exchange traffic.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "KIXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIXP",
+   "country_label": "Kenya Internet Exchange Point",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Nairobi",
+   "country_label": "",
+   "class": "exchange",
+   "platform": "",
+   "owner": "LINX",
+   "tiers": ""
+  },
+  {
+   "system": "NBOX1",
+   "country_label": "iXAfrica NBOX1 data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

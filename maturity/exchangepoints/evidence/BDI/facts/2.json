@@ -1,0 +1,8 @@
+{
+  "slug": "2014-05-13-decret-100-122-cadre-reglementaire-point-echange-internet-national-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "BDIXP", "country_label": "Burundi Internet Exchange Point", "class": "other", "platform": "", "owner": "Republic of Burundi; managed by an ISP association authorised by ARCT", "tiers": ""}
+  ],
+  "note": "The 2014 decree creates BDIXP and sets its rules but states no networks exchanging traffic there, so it is an instrument, not evidence of service."
+}

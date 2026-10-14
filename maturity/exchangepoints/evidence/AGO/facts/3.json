@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rede Nacional de Fibra Optica (Lobito section)",
+   "country_label": "Rede Nacional de Fibra Optica",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "No exchange point mentioned for Angola."
+}

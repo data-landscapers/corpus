@@ -55,8 +55,14 @@
    "indicator_id": "infra.connect--internet-exchange-points-exchange-points-keeping-traffic-local",
    "class": "exchange",
    "norm_short": "The African Union's Digital Transformation Strategy and its African Internet Exchange System ask every country for an exchange point that keeps local traffic local and links to the region.",
-   "criteria": [],
-   "criteria_of": ""
+   "criteria": [
+    "A source from the past three years says no internet exchange point operates in the country.",
+    "An exchange point is in service: networks hand each other traffic there directly, whoever runs it.",
+    "A global content network such as Google, Meta, Akamai, Netflix or Cloudflare has a cache at the exchange or peers there.",
+    "The exchange's traffic is shown growing: figures at two dates a year or more apart, the later higher and from the past three years.",
+    "The exchange reaches beyond one city: a second exchange or point of presence in another city, or operators from other countries peering there."
+   ],
+   "criteria_of": "5e5146f294ab"
   }
  ],
  "classes": [
@@ -74,11 +80,13 @@
    "prefer": [
     "growing",
     "content",
+    "traffic",
     "service"
    ],
    "values": [
     "growing",
     "content",
+    "traffic",
     "service",
     "none"
    ]

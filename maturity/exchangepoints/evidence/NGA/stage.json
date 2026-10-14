@@ -1,0 +1,16 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "4",
+   "exchange": "growing",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-008;NGA-007",
+   "gaps": "No source held names a second exchange in another city, or networks from other countries peering at the exchange.",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

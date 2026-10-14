@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "3",
+   "exchange": "content",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-004",
+   "gaps": "No source held gives the exchange's traffic at two dates a year apart showing growth.",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

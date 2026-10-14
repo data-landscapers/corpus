@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,exchange,exchange,coverage,growing,2026-07-10,KEN-004,KEN-006=service;KEN-001=service;KEN-002=content;KEN-003=traffic;KEN-017=service;KEN-007=service;KEN-010=service;KEN-011=service;KEN-013=service;KEN-014=content;KEN-009=service;KEN-015=service;KEN-016=service,
+KEN,exchange,reach,coverage,wider,2026-07-10,KEN-005;KEN-008;KEN-012,,

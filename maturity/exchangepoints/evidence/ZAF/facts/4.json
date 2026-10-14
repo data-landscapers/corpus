@@ -1,0 +1,6 @@
+{
+  "slug": "2026-07-20-cassava-africa-data-centres-azure-expressroute-metro",
+  "facts": [],
+  "systems": [],
+  "note": "Azure ExpressRoute Metro is private cloud on-ramp at a data centre, not an exchange point; no IXP stated."
+}

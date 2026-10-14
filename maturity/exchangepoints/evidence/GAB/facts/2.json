@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-08-gabon-gabix-reboot-workshop-interconnection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GABIX",
+   "country_label": "Gabon Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Workshop report on reviving GABIX; states no exchange in service, members or traffic."
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Capacity Media reports MOZIX, run by CIUEM, is Mozambique's sole IXP with 19 active peering members, and opened a new point of presence at Digital Realty's MPM1 data centre in Maputo.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "MOZIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: over 150 Gbps (peak) at MOZIX on 2025-05-15, with 19 peering members, as stated by CIUEM's director; the article gives no separate measurement date, so the publication date is used.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "MOZIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOZIX",
+   "country_label": "Mozambique Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "CIUEM, Universidade Eduardo Mondlane",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty MPM1 Maputo",
+   "country_label": "MPM1 data centre (iColo)",
+   "class": "other",
+   "platform": "",
+   "owner": "Digital Realty / iColo",
+   "tiers": ""
+  }
+ ],
+ "note": "No reach fact: sole IXP stated but members not described as only local."
+}

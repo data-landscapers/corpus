@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-11-icolo-linx-mombasa-mba2",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "iColo states LINX launched its first African IXP, LINX Nairobi, a year before this announcement (launch month not given).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "LINX Nairobi",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LINX Nairobi",
+   "country_label": "LINX Nairobi",
+   "class": "exchange",
+   "platform": "Nokia",
+   "owner": "LINX",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Mombasa",
+   "country_label": "LINX Mombasa",
+   "class": "other",
+   "platform": "Nokia",
+   "owner": "LINX",
+   "tiers": ""
+  }
+ ],
+ "note": "LINX Mombasa only announced, due live early Q1 2025; Google, Akamai and Netflix are in Mombasa data centres, not stated at an exchange."
+}

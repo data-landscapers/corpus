@@ -1,0 +1,66 @@
+{
+ "slug": "2026-09-25-tza-tix-100g-core-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "TIX in Dar es Salaam, run by TISPA, connects 66 networks, per TISPA's member list and the exchange's portal, as reported by tech.africa.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: about 205 Gbps (average) at TIX on 2026-09 (last week of September), on the exchange's own statistics as reported by tech.africa.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: about 110 Gbps (average) at TIX on 2025-09 (a year before late September 2026), on the exchange's own statistics as reported by tech.africa.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "TIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "TIX average traffic rose from about 110 Gbps in September 2025 to about 205 Gbps in late September 2026, an increase of more than 80% in a year, on the exchange's own statistics.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "TISPA's member list also covers smaller exchanges in Mwanza, Dodoma and Zanzibar besides TIX in Dar es Salaam, so local traffic in those cities need not go to Dar es Salaam.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "TIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIX",
+   "country_label": "Tanzania Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

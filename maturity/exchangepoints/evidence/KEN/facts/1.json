@@ -1,0 +1,74 @@
+{
+ "slug": "2026-07-10-linx-kenya-peering-network-itweb",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ITWeb Africa, citing LINX, reports that LINX Nairobi, an IXP reachable from multiple Nairobi data centres and launched in 2023, now supports more than 55 active networks.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "LINX Nairobi",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "ITWeb Africa, citing LINX, lists TikTok among the platforms active on the LINX Nairobi exchange (alongside Starlink).",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "LINX Nairobi",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: more than 330 Gbps (peak) at LINX Nairobi and LINX Mombasa combined on 2026-07-10 (the article gives no peak date; the figure is the peak reached over the past year), per the companies.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "LINX Nairobi and LINX Mombasa (combined)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "The companies say combined traffic across the two Kenyan LINX exchange points rose twentyfold over the past year, reaching a peak above 330 Gbps (no starting figure given).",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "LINX Nairobi and LINX Mombasa (combined)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "LINX operates two interconnected exchange points in Kenya, Nairobi and Mombasa; a cloud provider connected to Mombasa in 2025 and to Nairobi in 2026, and both are described as providing routing options.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "LINX Mombasa",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LINX Nairobi",
+   "country_label": "LINX Nairobi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "LINX (London Internet Exchange)",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Mombasa",
+   "country_label": "LINX Mombasa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "LINX (London Internet Exchange)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

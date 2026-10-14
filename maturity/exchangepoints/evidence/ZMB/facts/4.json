@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-29-lusaka-internet-exchange-point-lsk-ix-home",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The operator's own page describes LSK IX in Lusaka as Zambia's neutral, non-profit exchange where ISPs and network operators interconnect, with 14+ networks connected and public peering and route server services running; the page is undated, so its retrieval date 2026-08-29 is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "LSK IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 2.8 Tbps (peak) at LSK IX on 2026-08-29, as the operator's page states (\"2.8 Tbps Peak Traffic Handled\"); the page is undated and gives no date for the peak, so the retrieval date is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "LSK IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LSK IX", "country_label": "Lusaka Internet Exchange Point", "class": "exchange", "platform": "", "owner": "LSK IX (neutral, non-profit, community-owned)", "tiers": ""}
+  ],
+  "note": "The page offers hosting for caches and CDNs but names no content network present, so no content fact."
+}

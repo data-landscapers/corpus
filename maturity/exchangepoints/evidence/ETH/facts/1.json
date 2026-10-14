@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-internet-society-pulse-ixp-tracker-addix",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse, from self-reported PeeringDB data last updated January 2026, lists ADDIX in Addis Ababa with 3 members (AddIX Technology Solutions, Bank of Abyssinia, WebSprix), 21 Gbps cumulative port capacity, and all 3 peering at the route server.", "as_of": "2026-01", "date_precision": "month", "system": "ADDIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "ADDIX", "country_label": "Addis Ababa Internet Exchange (Addix)", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

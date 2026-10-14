@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-03-nga-techtv-ixpn-at-20-internet-exchange",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "IXPN, established 2006, is a neutral exchange where ISPs, operators, content providers and data centres exchange traffic locally; TechTV Network reports IXPN says it is trusted by more than 130 networks, with several points of presence in Lagos data centres.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "IXPN has regional connectivity in Abuja and Enugu as well as multiple points of presence in Lagos, per TechTV Network; Digital Realty announced a new IXPN point of presence at its Ibeju-Lekki data centre in April 2026 (Lagos).",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": "ISPs, telecom operators, content providers, data centres"
+  }
+ ],
+ "note": ""
+}

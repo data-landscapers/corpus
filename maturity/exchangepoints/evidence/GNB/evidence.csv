@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNB-001,GNB,exchange,exchange,none,"Packet Clearing House's report of 21 August 2026 lists Guinea-Bissau among 51 countries with no internet exchange point, against 162 countries with one or more.",2026-08-21,day,,exchange,2026-08-21-pch-report-on-internet-exchange-point-locations,https://www.pch.net/ixp/summary

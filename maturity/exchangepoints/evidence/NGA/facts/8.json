@@ -1,0 +1,34 @@
+{
+ "slug": "2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Tech.Africa says Medallion's Victoria Island data centre in Lagos is the busiest node for the Internet Exchange Point of Nigeria, hosting about 90 networks including IXPN itself; date is the article's, none given for the statement.",
+   "as_of": "2021-07-07",
+   "date_precision": "day",
+   "system": "IXPN Lagos",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Internet Exchange Point of Nigeria (IXPN)",
+   "country_label": "Internet Exchange Point of Nigeria (IXPN)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Medallion interconnect exchange",
+   "country_label": "Medallion interconnect exchange",
+   "class": "other",
+   "platform": "",
+   "owner": "Medallion",
+   "tiers": ""
+  }
+ ],
+ "note": "Google and Facebook are listed as clients of the Medallion data centre, not stated as members or caches at the exchange, so no content fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2020-10-06-potraz-harare-regional-internet-exchange-point-itu-rdf-afr-2020",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Harare Internet Exchange Point (HIX), housed at the TelOne Exchange in Harare and set up with a USD 200,000 African Union grant, is operating, and POTRAZ says all internet access providers are connected to it; the document has no publication date and is placed at the October 2020 ITU forum.", "as_of": "2020-10", "date_precision": "month", "system": "HIX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "POTRAZ says HIX has two international peers, Packet Clearing House and Quad9 (Quad Nine Secure DNS), while it still needs to attract more regional players; the document has no publication date and is placed at the October 2020 ITU forum.", "as_of": "2020-10", "date_precision": "month", "system": "HIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "HIX", "country_label": "Harare Internet Exchange Point", "class": "exchange", "platform": "", "owner": "POTRAZ (proposes handover to the community)", "tiers": "all internet access providers"},
+    {"system": "Zimbabwe Internet Exchange", "country_label": "Zimbabwe Internet Exchange", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

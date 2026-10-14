@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rede Nacional de Banda Larga (RNBL)",
+   "country_label": "Rede Nacional de Banda Larga",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Angola / MINTTICS",
+   "tiers": ""
+  }
+ ],
+ "note": "No exchange point mentioned for Angola."
+}

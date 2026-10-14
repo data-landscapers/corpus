@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TZA,exchange,exchange,coverage,growing,2026-09,TZA-004,TZA-001=service;TZA-002=traffic;TZA-006=service;TZA-003=traffic,
+TZA,exchange,reach,coverage,wider,2026-09,TZA-005;TZA-007,,

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "O.Economico reports the university's rector saying UEM runs the national traffic exchange point MOZIX, which lets part of the traffic between national networks be exchanged locally without crossing international infrastructure.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "MOZIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOZIX",
+   "country_label": "Mozambique Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "CIUEM, Universidade Eduardo Mondlane",
+   "tiers": ""
+  },
+  {
+   "system": "UEM data centre",
+   "country_label": "Centro de Dados da UEM",
+   "class": "other",
+   "platform": "",
+   "owner": "Universidade Eduardo Mondlane",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

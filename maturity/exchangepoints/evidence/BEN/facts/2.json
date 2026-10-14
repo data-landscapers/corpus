@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-13-isoc-local-peering-africa",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Internet Society says the technical community completed deployment of the Cotonou Internet Exchange (COTIX) at the end of 2024, launching with four members, with Internet Society training of local engineers in IXP operations and BGP.", "as_of": "2024-12", "date_precision": "month", "system": "COTIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "COTIX", "country_label": "Cotonou Internet Exchange", "class": "exchange", "platform": "", "owner": "Benin technical community (Internet Society Foundation grant)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+STP-001,STP,exchange,exchange,none,"The Internet Society Pulse IXP Tracker states there are no active Internet Exchange Points in Sao Tome and Principe and none listed in PeeringDB with three or more member ASNs (page read 2026-09-04, dated 2026 at year precision).",2026,year,,exchange,2026-01-01-sao-tome-isoc-pulse-ixp-tracker,https://pulse.internetsociety.org/en/ixp-tracker/country/ST/

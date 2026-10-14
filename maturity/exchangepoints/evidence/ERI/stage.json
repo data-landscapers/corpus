@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "1",
+   "exchange": "none",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

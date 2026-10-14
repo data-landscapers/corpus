@@ -1,0 +1,10 @@
+{
+  "slug": "2014-07-22-isoc-first-internet-exchange-point-gambia-launched-banjul",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Internet Society reports that the first Internet Exchange Point in The Gambia, the Serrekunda Internet Exchange Point (SIXP), was launched on 12 July 2014 in Banjul with African Union AXIS support.", "as_of": "2014-07-12", "date_precision": "day", "system": "SIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "SIXP", "country_label": "Serrekunda Internet Exchange Point", "class": "exchange", "platform": "", "owner": "IXP committee under the Ministry of Information and Communication Infrastructure; AXIS project implemented by the Internet Society", "tiers": ""}
+  ],
+  "note": ""
+}

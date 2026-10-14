@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-raxio-civ1-data-centre-cote-divoire",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Raxio says its Cote d'Ivoire data centre at Grand Bassam hosts carriers, cloud providers and Internet Exchange Points present in the facility; no exchange is named, no member count and no date, so the page date is used.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "IXP at Raxio CIV1 (unnamed)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "Raxio CIV1",
+   "class": "other",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Vendor page; IXP unnamed; parent may discard the service fact as weak."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "no evidence",
+   "exchange": "",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names an exchange point, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

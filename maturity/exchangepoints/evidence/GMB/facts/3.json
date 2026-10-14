@@ -1,0 +1,8 @@
+{
+  "slug": "2013-07-25-sixp-serekunda-internet-exchange-point-about",
+  "facts": [],
+  "systems": [
+    {"system": "SIXP", "country_label": "Serekunda Internet Exchange Point", "class": "exchange", "platform": "", "owner": "voluntary non-profit charitable company; 14 founding members", "tiers": ""}
+  ],
+  "note": "Page states the founding of SIXP on 25 July 2013 by 14 members and its goal of providing peering; it gives no statement that traffic is exchanged and no figures."
+}

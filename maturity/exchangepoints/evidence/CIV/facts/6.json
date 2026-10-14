@@ -1,0 +1,9 @@
+{
+  "slug": "2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks",
+  "facts": [],
+  "systems": [
+    {"system": "MainOne Abidjan data centre", "country_label": "MainOne data centre in Abidjan", "class": "other", "platform": "", "owner": "MainOne", "tiers": ""},
+    {"system": "MainOne cable Cote d'Ivoire branch", "country_label": "MainOne cable branch", "class": "other", "platform": "", "owner": "MainOne", "tiers": ""}
+  ],
+  "note": "No exchange point in CIV is stated; the document describes a cable branch and a carrier-neutral data centre in Abidjan, and cable connectivity to IXPN, GIX, LINX and AMS-IX abroad."
+}

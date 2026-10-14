@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-isoc-pulse-ixp-tracker-mozix",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse lists MOZIX (Mozambique Internet Exchange) in its IXP tracker, from PeeringDB data as of July 2026, with 143 Gbps cumulative member port capacity (capacity, not measured traffic) and no members joined or left.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MOZIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOZIX",
+   "country_label": "Mozambique Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "CIUEM, Universidade Eduardo Mondlane",
+   "tiers": ""
+  }
+ ],
+ "note": "143 Gbps is port capacity, not a traffic figure, so no traffic fact."
+}

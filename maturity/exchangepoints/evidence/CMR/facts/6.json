@@ -1,0 +1,12 @@
+{
+  "slug": "2024-09-11-st-digital-dla01-douala-dc-oix-2-certification-datacenterpost",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service",
+     "fact": "ST DIGITAL says its DLA01 data centre in Douala houses DOUALA-IX, an open, neutral peering point whose members include AFRI-IX Telecom, CAMIX NAP, INQ Digital Cameroon SA, Opex Network and SWECOM; it holds IXP OIX-1 certification from the Open-IX Association (no date given for the service, so the 2024-09-11 publication date is used; no member count given).",
+     "as_of": "2024-09-11", "date_precision": "day", "system": "DOUALA-IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "DOUALA-IX", "country_label": "Douala Internet Exchange", "class": "exchange", "platform": "", "owner": "ST DIGITAL", "tiers": ""}
+  ],
+  "note": "One service fact; no traffic figure, content network, second city or foreign members named."
+}

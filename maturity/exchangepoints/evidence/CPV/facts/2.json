@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-cv-ixp-cabo-verde-internet-exchange-point",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "PeeringDB lists CV-IXP in Praia with 5 peers (Banco Caboverdiano de Negocios, CV Telecom, NOSi EPE, UNITEL T and the CV-IXP route servers), 6 connections and 23G total capacity; the document is dated 2024 only to the year.", "as_of": "2024", "date_precision": "year", "system": "CV-IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CV-IXP", "country_label": "Associação Cabo Verde Internet Exchange Point", "class": "exchange", "platform": "Ethernet", "owner": "Associação Cabo Verde Internet Exchange Point", "tiers": ""}
+  ],
+  "note": ""
+}

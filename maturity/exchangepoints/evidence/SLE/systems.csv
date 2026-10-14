@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,Michcom-IX,Michcom Internet Exchange Point,exchange,,Michcom Limited,"ISPs, mobile operators, CDNs, cloud, academic and government networks",2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record
+SLE,SLIXP,Sierra Leone Internet Exchange Point,other,,MoCTI with SLDTP,,2025-08-16-slixp-feasibility-study-completed
+SLE,Michcom-IX,Michcom-IX,exchange,,"Michcom Limited, Network Services Division","ISPs, mobile operators, CDNs, cloud, academia, public sector",2025-01-01-michcom-ix

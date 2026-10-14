@@ -1,0 +1,23 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, telecom operators, content providers, data centres",2026-10-03-nga-techtv-ixpn-at-20-internet-exchange
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, content providers, CDNs",2025-04-24-ixpn-1tbps-traffic-milestone
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,"ISPs, CDNs, banks, fintechs, enterprises",2026-02-05-ixpn-traffic-growth-local-peering
+NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,IXPN,,2026-07-16 Nigeria - Submarine Networks
+NGA,WAF-IX,West Africa Internet Exchange,exchange,,MainOne/MDXi,,2026-07-16 Nigeria - Submarine Networks
+NGA,AF-CIX Lagos,West Africa Interconnection Exchange,exchange,,AF-CIX,,2026-07-16 Nigeria - Submarine Networks
+NGA,MDXi Lagos,MDXi Lagos,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,OADC Lagos LOS1,OADC Lagos,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,Rack Centre LGS 1/2,Rack Centre,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,Kasi Cloud,Kasi Cloud,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,"MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, 2Africa, NCSCS",submarine cables,other,,,,2026-07-16 Nigeria - Submarine Networks
+NGA,IXPN,IXPN,exchange,,,,2024-05-01-rack-centre-spec-sheet
+NGA,AF-CIX,AF-CIX,exchange,,DE-CIX,,2024-05-01-rack-centre-spec-sheet
+NGA,Rack Centre,Rack Centre,other,,Rack Centre,,2024-05-01-rack-centre-spec-sheet
+NGA,Nigerian Internet Exchange (IXPN),Nigerian Internet Exchange (IXPN),exchange,,,,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+NGA,Medallion Data Centres,Medallion Data Centres,other,,Medallion,,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+NGA,Internet Exchange Point of Nigeria (IXPN),Internet Exchange Point of Nigeria (IXPN),exchange,,,,2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry
+NGA,Medallion interconnect exchange,Medallion interconnect exchange,other,,Medallion,,2021-07-07-nga-techafrica-interxion-medallion-nigeria-entry
+NGA,Internet Exchange Point of Nigeria (IXPN),Internet Exchange Point of Nigeria (IXPN),exchange,,,,2026-09-15-xaf-smbtech-hca-conference-cross-border-buildout
+NGA,IXPN Lagos,IXPN Lagos,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+NGA,AMS-IX Lagos,AMS-IX Lagos,exchange,,AMS-IX,,2026-06-29-starlink-africa-availability-costs-performance
+NGA,Equinix Lekki,Equinix Lekki,other,,Equinix,,2026-06-29-starlink-africa-availability-costs-performance

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Agence Ecofin reports that Niger inaugurated a new Internet Exchange Point in Niamey on 19 August 2025, opened by the Minister of Communication and New Information Technologies, as a place where ISPs interconnect directly to exchange traffic locally; no member count is given.", "as_of": "2025-08-19", "date_precision": "day", "system": "Niger IXP (Niamey)", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Niger IXP (Niamey)", "country_label": "Internet Exchange Point (IXP)", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

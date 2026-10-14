@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-28-dji-adi-helem-wingu-africa-ixp-innovation-centre",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Wingu Africa presented to Djibouti's communications minister an internet exchange point (IXP) that is already in service within its data centre in Djibouti, per the Agence Djiboutienne d'Information report of the 28 September 2026 meeting; no member count or city beyond the country is given.", "as_of": "2026-09-28", "date_precision": "day", "system": "Wingu Africa IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Wingu Africa IXP", "country_label": "point d'echange Internet (IXP)", "class": "exchange", "platform": "", "owner": "Wingu Africa", "tiers": ""}
+  ],
+  "note": ""
+}

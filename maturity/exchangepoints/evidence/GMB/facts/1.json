@@ -1,0 +1,12 @@
+{
+  "slug": "2015-08-26-afpif-2015-gambia-ixp-experience-sixp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The SIXP administrator told AfPIF 2015 that the Serekunda Internet Exchange Point (AS37698), established in July 2014, is the first and only IXP in The Gambia and has seven ASNs peering.", "as_of": "2015-08-26", "date_precision": "day", "system": "SIXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 50.541 Mbit/s (maximum reached) at SIXP, Serekunda, as stated by the SIXP administrator; the deck gives no date for the peak, so the talk date of 26 August 2015 is used.", "as_of": "2015-08-26", "date_precision": "day", "system": "SIXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Of the seven ASNs peering at SIXP, five are local and two are international (PCH), per the SIXP administrator.", "as_of": "2015-08-26", "date_precision": "day", "system": "SIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "SIXP", "country_label": "Serekunda Internet Exchange Point", "class": "exchange", "platform": "", "owner": "not-for-profit run by an executive committee and three part-time staff", "tiers": ""}
+  ],
+  "note": "Google Global Cache servers are described as installed but awaiting a router and an Akamai agreement as unsigned, so no content fact; no growth figures at two dates."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-01-ixp-tracker-mixp-snapshot",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse, from PeeringDB data of May 2026, lists the Mauritius Internet Exchange Point (MIXP) in Ebene with 19 members, 95 Gbps cumulative port capacity, and 15 of 19 members peering at the route server.", "as_of": "2026-05", "date_precision": "month", "system": "MIXP", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Internet Society Pulse, from PeeringDB data of May 2026, shows MIXP members registered abroad: 2 in the United States (PCH AS42 and AS3856), 2 in South Africa (CMC Networks, Vodacom) and 1 in Guadeloupe (Canal+ Telecom), against 14 in Mauritius.", "as_of": "2026-05", "date_precision": "month", "system": "MIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "MIXP", "country_label": "Mauritius Internet Exchange Point - MIXP", "class": "exchange", "platform": "", "owner": "MIXP Ops (AS327821)", "tiers": ""}
+  ],
+  "note": ""
+}

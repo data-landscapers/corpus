@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,BENIN-IX,BENIN-IX,exchange,,,"ISOCEL SA, SBIN, PCH (two ASNs)",2026-01-01-pulse-internetsociety-org-ixp-tracker-benin-ix
+BEN,COTIX,Cotonou Internet Exchange,exchange,,Benin technical community (Internet Society Foundation grant),,2026-07-13-isoc-local-peering-africa
+BEN,BENINIX,Benin IX / BENINIX,exchange,,"Association of Benin operators and ISPs, chaired by a Ministry of Digital Affairs official, managed day to day by the incumbent (SBIN)",,2023-06-01-isoc-bj-etude-beninix

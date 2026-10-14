@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-dr-congo-raxio-group",
+  "facts": [],
+  "systems": [
+    {"system": "Raxio DRC1", "country_label": "Raxio DRC", "class": "other", "platform": "", "owner": "Raxio Group", "tiers": ""}
+  ],
+  "note": "Undated operator page says only that unnamed IXPs are present in the data centre; no named exchange, no date."
+}

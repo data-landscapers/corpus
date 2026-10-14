@@ -1,0 +1,26 @@
+{
+  "slug": "2022-11-07-teraco-breaks-ground-on-jb5-a-30mw-data-centre-expansion-to-isando-campus",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "service",
+      "fact": "Teraco states that its Isando campus data centres in Ekurhuleni, Johannesburg already provide peering at NAPAfrica and regional IXPs.",
+      "as_of": "2022-11-07",
+      "date_precision": "day",
+      "system": "NAPAfrica",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NAPAfrica",
+      "country_label": "NAPAfrica",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Teraco",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

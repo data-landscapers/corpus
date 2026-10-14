@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "5",
+   "exchange": "growing",
+   "reach": "wider",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-002;KEN-004;KEN-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-isoc-pulse-ixp-tracker-eritrea",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none", "fact": "The Internet Society's Pulse IXP Tracker states there are no active internet exchange points in Eritrea and none listed in PeeringDB with three or more member ASNs; the page carries no revision date, so 2026 is its published year.", "as_of": "2026", "date_precision": "year", "system": "", "class": "exchange"}
+  ],
+  "systems": [],
+  "note": ""
+}

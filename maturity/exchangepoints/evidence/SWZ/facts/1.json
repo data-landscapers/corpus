@@ -1,0 +1,10 @@
+{
+  "slug": "2014-04-10-au-launching-ixp-swaziland",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The African Union Commission, with Swaziland's Ministry of ICT and the Internet Society, launched the national Internet Exchange Point in Mbabane on 10 April 2014 under the AXIS project, the AU saying it donated equipment and services for it; no member count is given.", "as_of": "2014-04-10", "date_precision": "day", "system": "Internet Exchange Point in Swaziland", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Internet Exchange Point in Swaziland", "country_label": "national IXP", "class": "exchange", "platform": "", "owner": "Ministry of ICT (committee of stakeholders); AU AXIS-supported", "tiers": ""}
+  ],
+  "note": ""
+}

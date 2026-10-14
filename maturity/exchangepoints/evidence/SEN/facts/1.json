@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-01-isoc-pulse-ixp-tracker-hubsix",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Internet Society Pulse IXP Tracker lists HubSIX, an exchange point in Dakar, with 6 member ASNs in PeeringDB, 5 of 6 peering at the route server, and 260 Gbps cumulative member port capacity (PeeringDB self-declared data, September 2026).", "as_of": "2026-09", "date_precision": "month", "system": "HubSIX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Two of the six HubSIX members in Dakar are registered in the United States (PCH AS3856 and PCH AS42), so networks from another country peer at the exchange, per PeeringDB data shown by Internet Society Pulse.", "as_of": "2026-09", "date_precision": "month", "system": "HubSIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "HubSIX", "country_label": "HubSIX", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SENIX", "country_label": "SENIX", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No traffic figure (capacity is port speed, not traffic); 6 new ASNs in 12 months is membership, not traffic growth; no content network among members."
+}

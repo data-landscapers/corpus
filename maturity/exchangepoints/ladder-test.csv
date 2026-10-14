@@ -1,0 +1,55 @@
+iso3,stage,exchange,reach,stage_sources
+AGO,2,service,,AGO-001
+BDI,3,content,,BDI-002
+BEN,2,service,,BEN-001
+BFA,2,service,,BFA-002
+BWA,3,content,,BWA-006
+CAF,no evidence,,,
+CIV,3,content,,CIV-003
+CMR,3,content,,CMR-002
+COD,2,service,,COD-001
+COG,2,service,,COG-001
+COM,2,service,,COM-001
+CPV,2,service,,CPV-003
+DJI,2,service,,DJI-001
+DZA,no evidence,,,
+EGY,3,content,,EGY-004
+ERI,1,none,,ERI-001
+ETH,2,service,,ETH-001
+GAB,2,service,,GAB-001
+GHA,3,content,,GHA-003
+GIN,2,service,,GIN-001
+GMB,2,service,,GMB-001
+GNB,1,none,,GNB-001
+GNQ,no evidence,,,
+KEN,5,growing,wider,KEN-002;KEN-004;KEN-005
+LBR,2,service,,LBR-001
+LBY,1,none,,LBY-001;LBY-002
+LSO,2,service,,LSO-001
+MAR,2,service,,MAR-001
+MDG,2,service,,MDG-005
+MLI,2,service,,MLI-001
+MOZ,2,service,,MOZ-001
+MRT,2,service,,MRT-001
+MUS,2,service,,MUS-001
+MWI,2,service,,MWI-004
+NAM,no evidence,,,
+NER,2,service,,NER-002
+NGA,4,growing,,NGA-008;NGA-007
+RWA,2,service,,RWA-003
+SDN,2,service,,SDN-001
+SEN,2,service,,SEN-001
+SLE,3,content,,SLE-003
+SOM,no evidence,,,
+SSD,1,none,,SSD-001
+STP,1,none,,STP-001
+SWZ,2,service,,SWZ-001
+SYC,2,service,,SYC-001
+TCD,2,service,,TCD-001
+TGO,2,service,,TGO-001
+TUN,2,service,,TUN-001
+TZA,2,service,,TZA-001
+UGA,3,content,,UGA-003
+ZAF,3,content,,ZAF-003
+ZMB,2,service,,ZMB-004
+ZWE,2,service,,ZWE-001

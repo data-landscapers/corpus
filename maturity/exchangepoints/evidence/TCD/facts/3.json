@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-digitalbusiness-tchadix-ixp-un-an",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Digital Business Africa reports TCHADIX, Chad's internet exchange point run by ADETIC as an economic interest group (GIE), has been operational for a year, with internet access providers and mobile operators attending its members' general assembly opened on 20 May 2026; no member count is given.", "as_of": "2026-05-20", "date_precision": "day", "system": "TCHADIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "TCHADIX", "country_label": "TCHADIX", "class": "exchange", "platform": "", "owner": "GIE of members, promoted by ADETIC", "tiers": "internet access providers, mobile operators"}
+  ],
+  "note": ""
+}

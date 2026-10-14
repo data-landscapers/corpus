@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COM-001,COM,exchange,exchange,service,"Comores Câbles states on its own undated corporate page that an IXP has been installed at Moroni to enable local traffic exchange between Comores Telecom and Yas Comores (page dated here by its published year 2026, as it gives no date).",2026,year,Moroni IXP,exchange,2026-01-01-comores-cables-technologies,https://www.comorescables.km/Technologies

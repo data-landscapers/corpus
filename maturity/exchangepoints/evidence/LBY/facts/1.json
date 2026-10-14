@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-25-peeringdb-tripoli-ixp-record",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "none",
+     "fact": "PeeringDB's record for Tripoli IXP (IX 4450, city Tripoli) shows 0 peers, 0 connections, 0 open peers and an empty peer table, with three IPv4 peering prefixes allocated; the record was last updated 2024-04-25 and, per the document's retrieval, served this state on 2026-09-03, so no networks are exchanging traffic there.",
+     "as_of": "2026-09-03", "date_precision": "day", "system": "Tripoli IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Tripoli IXP", "country_label": "Tripoli IXP", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

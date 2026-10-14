@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration",
+  "facts": [],
+  "systems": [
+    {"system": "ZINX", "country_label": "Zimbabwe Internet Exchange (ZINX)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "ZINX is named only as a proposed peering partner and CDN caches are proposed for a Starlink Harare PoP; no statement that an exchange is in service."
+}

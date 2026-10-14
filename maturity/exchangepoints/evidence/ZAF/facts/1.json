@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-11-cinx-oadc-cape-town-expansion",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "CINX, the Cape Town Internet Exchange run by INX-ZA, is in service with 122 connected networks on 153 ports across six Cape Town data-centre locations, per INX-ZA's IX-F member export of 10 August 2026; two new OADC nodes (Rondebosch, Bellville) went live per its 3 August 2026 announcement.", "as_of": "2026-08-10", "date_precision": "day", "system": "CINX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "JINX, INX-ZA's Johannesburg exchange, is in service with 208 networks on 289 ports across 9 facilities, per INX-ZA's IX-F member export of 10 August 2026.", "as_of": "2026-08-10", "date_precision": "day", "system": "JINX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "Microsoft, Cloudflare, Akamai, Meta and Fastly hold 100 Gbps ports at CINX Cape Town (Teraco Rondebosch), and Amazon holds 100 Gbps at Africa Data Centres Diep Rivier, per INX-ZA's member export of 10 August 2026.", "as_of": "2026-08-10", "date_precision": "day", "system": "CINX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "Content delivery network CDN77 has joined JINX Johannesburg as a new member since March 2026, per the article.", "as_of": "2026-08", "date_precision": "month", "system": "JINX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "South Africa has two exchanges in different cities run by INX-ZA: CINX in Cape Town (122 networks) and JINX in Johannesburg (208 networks), per INX-ZA's member export of 10 August 2026.", "as_of": "2026-08-10", "date_precision": "day", "system": "CINX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CINX", "country_label": "Cape Town Internet Exchange", "class": "exchange", "platform": "", "owner": "INX-ZA", "tiers": ""},
+    {"system": "JINX", "country_label": "Johannesburg Internet Exchange", "class": "exchange", "platform": "", "owner": "INX-ZA", "tiers": ""}
+  ],
+  "note": "Port capacities (3,897 Gbps CINX, 10,132 Gbps JINX) are provisioned capacity, not traffic, so no traffic fact."
+}

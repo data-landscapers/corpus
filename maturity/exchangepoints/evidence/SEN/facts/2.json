@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-30-isoc-senegal-snpif-2026-peering-interconnection-forum",
+  "facts": [],
+  "systems": [
+    {"system": "HubSIX", "country_label": "HubSIX", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SENIX", "country_label": "SENIX", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Provisional forum programme only; names HubSIX and SENIX as technical supporters but does not state either is operating, no members, traffic or cities beyond the Dakar venue."
+}

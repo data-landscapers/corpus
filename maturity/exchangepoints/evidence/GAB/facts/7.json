@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-11-gabonmediatime-afrinic-ipv6-autonomie-reseaux",
+  "facts": [],
+  "systems": [
+    {"system": "GABIX", "country_label": "GABIX", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Outreach event after GABIX REBOOT (3-8 Aug 2026) with IXP/peering training; the document does not state that an exchange is in service, its members or traffic."
+}

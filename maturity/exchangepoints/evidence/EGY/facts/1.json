@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-08-techafrica-eg-ix-egypt-peak-traffic-18-members",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "tech.africa reports EG-IX, Egypt's main internet exchange, is operating in Cairo (Telecom Egypt's Regional Data Hub at Smart Village, run on AMS-IX's IX-as-a-Service platform) with 18 member networks and 31 ports.", "as_of": "2026-09-07", "date_precision": "day", "system": "EG-IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 722.19 Gb/s (peak over the preceding day) at EG-IX on 2026-09-07, with 528.80 Gb/s flowing at the time and average traffic of about 443 Gb/s in each direction, per the exchange's live counter as cited by tech.africa.", "as_of": "2026-09-07", "date_precision": "day", "system": "EG-IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "Traffic: 875 Gb/s (peak across the year) at EG-IX in 2026, a figure AMS-IX gave informally and which tech.africa says has not appeared in a formal company statement; no exact date is given.", "as_of": "2026", "date_precision": "year", "system": "EG-IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "Global content, CDN and cloud networks are members at EG-IX: Meta (AS32934), Amazon (AS16509), Microsoft (AS8075), CDN77/DataPacket, ACE CDN, Medianova, Zenlayer, G-Core Labs, Kaopu Cloud and Huawei Cloud, per bgp.tools data cited by tech.africa.", "as_of": "2026-09-07", "date_precision": "day", "system": "EG-IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Two Jordanian carriers, Jordan Telecommunications (AS8697) and Al Bahrainia al Urdunia Liltaknia (AS9038), are members at EG-IX in Cairo, alongside global content networks and ICANN's L-root.", "as_of": "2026-09-07", "date_precision": "day", "system": "EG-IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "EG-IX", "country_label": "EG-IX", "class": "exchange", "platform": "AMS-IX IX-as-a-Service", "owner": "Telecom Egypt (operated on AMS-IX platform)", "tiers": "5 Egyptian members (Telecom Egypt, TE Data, Vodafone Egypt, Etisalat Egypt, Link Egypt), 2 Jordanian carriers, a root server, 10 global content/CDN/cloud networks"}
+  ],
+  "note": "Document also says AMS-IX put peak traffic at 250 to 875 Gb/s in under two years, but gives no dates and under two years, so no growing fact."
+}

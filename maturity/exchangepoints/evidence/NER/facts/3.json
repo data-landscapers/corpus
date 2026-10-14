@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-15-pvi-900-localites-connectivite",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "ANP, citing the Smart Villages project (PVI), reports that the project achieved the creation of Niger's first Internet Exchange Point with the operator Niger Telecoms, improving the resilience of data exchange and the quality of internet traffic; the article gives no launch date or member count, so the date is the article's own (15 April 2026).", "as_of": "2026-04-15", "date_precision": "day", "system": "Niger IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Niger IXP", "country_label": "Point d'Echange Internet (IXP)", "class": "exchange", "platform": "", "owner": "Smart Villages project (PVI) with Niger Telecoms", "tiers": ""}
+  ],
+  "note": ""
+}

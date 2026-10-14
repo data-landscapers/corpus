@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-27-isoc-foundation-mgix-restart-grant",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "none",
+   "fact": "Internet Society Foundation says MGIX, the first Malagasy IXP, suspended operation in 2019; the iRENALA grant of USD 49,958 aims to restart it for a preliminary test period.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MGIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MGIX",
+   "country_label": "Madagascar Global Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "iRENALA",
+   "tiers": ""
+  }
+ ],
+ "note": "Restart is planned in this document, not stated as in service."
+}

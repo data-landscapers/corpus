@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-29-starlink-africa-availability-costs-performance",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "TechnoMag says Starlink's Johannesburg gateway sits at the Teraco campus and peers at the NAPAfrica exchange, so NAPAfrica in Johannesburg is in service with networks peering; the article gives no member count and no event date, so the 2026-06-29 publication date is used.", "as_of": "2026-06-29", "date_precision": "day", "system": "NAPAfrica Johannesburg", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "TechnoMag says Starlink's Johannesburg gateway at the Teraco campus peers at the JINX exchange, so JINX in Johannesburg is in service with networks peering; no member count and no event date are given, so the 2026-06-29 publication date is used.", "as_of": "2026-06-29", "date_precision": "day", "system": "JINX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "NAPAfrica Johannesburg", "country_label": "NAPAfrica", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "JINX", "country_label": "JINX", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional Starlink article; only the Johannesburg gateway peering lines concern ZAF exchanges. Starlink is a satellite ISP, so not recorded as a content network; no traffic, growth or reach statement."
+}

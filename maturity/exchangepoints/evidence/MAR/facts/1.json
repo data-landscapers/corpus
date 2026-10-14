@@ -1,0 +1,4 @@
+{"slug":"2026-05-01-morocco-cas-ix-ixp-tracker","facts":[
+{"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"Casablanca Internet Exchange Point (CAS-IX) in Casablanca has 3 members listed in PeeringDB and 30 Gbps aggregate capacity, per Internet Society Pulse's IXP Tracker (data as of May 2026).","as_of":"2026-05","date_precision":"month","system":"CAS-IX","class":"exchange"},
+{"sub_indicator":"exchange","aspect":"reach","value":"wider","fact":"Two of CAS-IX's three members are registered in the United States (PCH AS3856 and PCH AS42, open peering) and one in Morocco (NPONE AS328055), per Internet Society Pulse (PeeringDB data, May 2026).","as_of":"2026-05","date_precision":"month","system":"CAS-IX","class":"exchange"}
+],"systems":[{"system":"CAS-IX","country_label":"Casablanca Internet Exchange Point","class":"exchange","platform":"","owner":"","tiers":""}],"note":""}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-15-peeringday-2026-artci-appairage-interconnexion-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "CIVIX (Cote d'Ivoire Internet Exchange), the national exchange point, has been operational for more than a decade and federates telecom operators and ISPs, per Fraternite Matin reporting the ARTCI PeeringDay 2026 in Abidjan.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 36 Gbps (average daily) at CIVIX on 2026-06-15, as stated at the ARTCI PeeringDay 2026; the article gives no measurement date, so the forum date is used.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "Netflix and Akamai are among the international content players that CIVIX federates alongside operators and ISPs, per the article on PeeringDay 2026.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIVIX",
+   "country_label": "Civix (Cote d'Ivoire Internet Exchange)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ARTCI (regulator; organiser of the forum)",
+   "tiers": "operators, ISPs, content networks"
+  }
+ ],
+ "note": ""
+}

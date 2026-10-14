@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rede de banda larga de fibra optica (DWDM backbone)",
+   "country_label": "Rede Nacional de Banda Larga",
+   "class": "other",
+   "platform": "DWDM",
+   "owner": "Angola Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "No exchange point mentioned for Angola."
+}

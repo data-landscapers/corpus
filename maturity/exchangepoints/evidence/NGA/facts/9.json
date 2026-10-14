@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-xaf-smbtech-hca-conference-cross-border-buildout",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet Exchange Point of Nigeria (IXPN)",
+   "country_label": "Internet Exchange Point of Nigeria (IXPN)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "IXPN named only as a conference supporter; cross-border peering incentives are an agenda item, no exchange state stated."
+}

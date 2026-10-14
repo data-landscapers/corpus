@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-senix-statuts-point-echange-internet-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "SENIX", "country_label": "SENIX, Point d'Echange Internet du Sénégal", "class": "other", "platform": "", "owner": "Association SENIX (registered office at the Ministère des Postes et des Télécommunications, Dakar)", "tiers": "members need an ASN or public IP block; categories founding, active, adherent"}
+  ],
+  "note": "Undated statutes of the SENIX association (object, membership, governance); they do not state the exchange is carrying traffic, name members, give a traffic figure, or state a date of service."
+}

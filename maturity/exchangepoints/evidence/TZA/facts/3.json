@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-24-stellarix-joins-tispa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TIX",
+   "country_label": "Tanzania Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  }
+ ],
+ "note": "STELLARIX joined TISPA on 2025-09-19 and partners with the TIX community; no statement of membership at, or traffic over, an exchange."
+}

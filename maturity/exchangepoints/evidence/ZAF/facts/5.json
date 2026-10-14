@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Teraco says its Cape Town campus offers seamless peering via the NAPAfrica internet exchange point; no member count or traffic is given.", "as_of": "2025-11-10", "date_precision": "day", "system": "NAPAfrica", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "NAPAfrica", "country_label": "NAPAfrica IXP", "class": "exchange", "platform": "", "owner": "Teraco", "tiers": ""}
+  ],
+  "note": "Mostly data-centre capacity; the only exchange statement is the NAPAfrica peering mention. Date is the article's, as it gives none for the statement."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-pulse-internetsociety-org-ixp-tracker-benin-ix",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse, from PeeringDB data last updated January 2026, lists BENIN-IX in Cotonou with 4 member networks (ISOCEL SA, SBIN, PCH AS3856, PCH AS42), 12 Gbps cumulative port capacity and 1 of 4 members peering at the route server.", "as_of": "2026-01", "date_precision": "month", "system": "BENIN-IX", "class": "exchange"},
+    {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Internet Society Pulse (PeeringDB, January 2026) shows BENIN-IX in Cotonou with 2 of its 4 members registered in the United States (PCH AS3856 and PCH AS42) and 2 in Benin, so networks from another country are members at an exchange in Benin.", "as_of": "2026-01", "date_precision": "month", "system": "BENIN-IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "BENIN-IX", "country_label": "BENIN-IX", "class": "exchange", "platform": "", "owner": "", "tiers": "ISOCEL SA, SBIN, PCH (two ASNs)"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-19-pch-gabix-gabon-internet-exchange-directory",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The PCH IXP directory lists GABIX (Gabon Internet Exchange) in Libreville as an association-run exchange, status Active, established 2014, with IPv4 and IPv6 peering subnets; no member count given, and the page carries no date of its own so the 2025-09-19 capture date is used.", "as_of": "2025-09-19", "date_precision": "day", "system": "GABIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "GABIX", "country_label": "Gabon Internet Exchange", "class": "exchange", "platform": "Ethernet", "owner": "GABIX association", "tiers": ""}
+  ],
+  "note": ""
+}

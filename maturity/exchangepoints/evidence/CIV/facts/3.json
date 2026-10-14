@@ -1,0 +1,54 @@
+{
+ "slug": "2025-08-05-forum-peering-interconnexion-artci-civix-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "CIVIX, the national exchange point created in July 2013, has 14 connected operators and providers, per ARTCI at its first peering forum in Abidjan.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 20 Gbps (average, per day) at CIVIX on 2025-08-05, as stated by ARTCI at the first Ivorian peering forum.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "ARTCI announced recently the official launch of a third point of presence for CIVIX with Raxio in the neutral data centre at Grand-Bassam, a city other than Abidjan; the article gives no launch date and no members there, so the forum date is used.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIVIX",
+   "country_label": "Civix",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": "14 operators and providers"
+  },
+  {
+   "system": "CIVIX Grand-Bassam PoP (Raxio)",
+   "country_label": "third PoP of Civix",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ARTCI / Raxio",
+   "tiers": ""
+  }
+ ],
+ "note": "Netflix, Google, Meta named as state partnerships in general, not as members or caches at CIVIX, so no content fact."
+}

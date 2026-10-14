@@ -1,0 +1,11 @@
+# Malawi
+
+## Exchange points keeping traffic local
+
+**In service, with a content network, and growing.** [The Internet Society says that in Malawi the Lilongwe Internet Exchange (LLIX) launched with five peers](<https://www.internetsociety.org/blog/2026/07/how-local-peering-is-strengthening-africas-internet/>). [The Internet Society Foundation announced on 2026-02-26 a 2025 Sustainable Peering Infrastructure grant to upgrade the switching fabric of the Lilongwe Open Neutral Internet Exchange (LIONEX) in Malawi for higher port speeds that benefit current peers and let more members join](<https://www.isocfoundation.org/2026/02/introducing-the-2025-sustainable-peering-infrastructure-grantee/>). [MISPA's table of 14 November 2024 shows 11 networks peering at the MIX at the College of Medicine and 9 (TNM, Afrimax, Airtel, Globe, INQ, MAREN, MTL, OCL, Simbanet) already peering after its migration to the National Data Centre](<http://www.mispa.org.mw/mix.html>). These place an exchange point in service, which answers the first of the study's four questions. A global content network serving from it is not stated. Member counts and traffic are given where a source states them; only traffic shown growing sets a stage.
+
+**A second city or networks from abroad.** [The MACRA deck states Malawi has only one IXP, in Blantyre; no networks from abroad are mentioned](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
+
+***Noted, not assessed***. [Lilongwe IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [Mzuzu IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)](<https://www.linkedin.com/posts/lionexmw_the-first-part-of-our-new-leaf-spine-evpn-vxlan-activity-7408382789039071232-bP85>).
+
+***Not held***. No source held says a global content network has a cache at the exchange or peers there.

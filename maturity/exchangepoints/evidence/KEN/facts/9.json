@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-11-dcnn-linx-nairobi-expands-to-paix",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "DCNN reports LINX Nairobi, launched November 2023, is operating with local ISPs (ICON Fiber, Mtaani Telecom, Mymanga Networks, PepeaNet), global content networks and partners interconnected and traffic starting to build; no figure given.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "LINX Nairobi",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "DCNN reports global content networks such as Meta are present at LINX Nairobi, peering with local ISPs.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "LINX Nairobi",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LINX Nairobi",
+   "country_label": "",
+   "class": "exchange",
+   "platform": "",
+   "owner": "LINX",
+   "tiers": ""
+  },
+  {
+   "system": "PAIX NBO-1 extension",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "LINX / PAIX Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Fourth-site PAIX extension is about to go live, not yet in service."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-01-isoc-pulse-ixp-tracker-tgix-togo",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "service",
+      "fact": "ISOC Pulse, from self-reported PeeringDB data, lists the Togo Internet Exchange Point (TGIX) in Lomé with 9 member ASNs and 18 Gbps cumulative port capacity, 7 of 9 peering at the route server, one ASN joined and none left in the last 12 months.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "TGIX",
+      "class": "exchange"
+    },
+    {
+      "sub_indicator": "exchange",
+      "aspect": "reach",
+      "value": "wider",
+      "fact": "TGIX members registered outside Togo include PCH (two ASNs, United States), and GVA (Côte d'Ivoire), per ISOC Pulse/PeeringDB; 6 of 9 members are registered in Togo.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "TGIX",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "TGIX",
+      "country_label": "Togo Internet Exchange Point",
+      "class": "exchange",
+      "platform": "",
+      "owner": "TGIX Management (AS328152, non-profit)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,exchange,exchange,service,"The Internet Society Pulse IXP Tracker, drawing on PeeringDB self-reported data, lists the Angola Internet Exchange Point (angonix) in Luanda as active with 23 members, at one physical location, as of June 2026; Pulse says 86% of Angola's 63 active networks are members or customers of members of an IXP.",2026-06,month,angonix,exchange,2026-06-01-isoc-pulse-ixp-tracker-angola,https://pulse.internetsociety.org/en/ixp-tracker/country/AO/

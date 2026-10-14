@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-21-lionex-leaf-spine-evpn-vxlan-fabric",
+  "facts": [],
+  "systems": [
+    {"system": "LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)", "country_label": "LIONEX", "class": "other", "platform": "EVPN-VXLAN leaf-spine", "owner": "LIONEX", "tiers": ""}
+  ],
+  "note": "LinkedIn post by LIONEX (2025-12-21) describes a new switching fabric and a CDN installed but not yet live; it does not state that an exchange point is in service, that networks peer, or that a cache sits at an exchange."
+}

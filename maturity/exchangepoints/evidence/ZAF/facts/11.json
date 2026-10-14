@@ -1,0 +1,26 @@
+{
+  "slug": "2023-11-15-teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capaci",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "service",
+      "fact": "Teraco states that clients at its DB1 Durban facility have direct peering at NAPAfrica, which it calls Africa's largest internet exchange point.",
+      "as_of": "2023-11-15",
+      "date_precision": "day",
+      "system": "NAPAfrica",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NAPAfrica",
+      "country_label": "NAPAfrica",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Teraco",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2015-08-26-au-launches-internet-exchange-point-mauritius",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The African Union Commission, with Mauritius's Ministry of Technology, Communication and Innovation, officially operationalised the Internet Exchange Point in Mauritius on 26 August 2015 under the AXIS project.", "as_of": "2015-08-26", "date_precision": "day", "system": "Mauritius Internet Exchange Point", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Mauritius Internet Exchange Point", "country_label": "Internet Exchange Point in Mauritius", "class": "exchange", "platform": "", "owner": "Ministry of Technology, Communication and Innovation with the African Union Commission (AXIS)", "tiers": ""}
+  ],
+  "note": ""
+}

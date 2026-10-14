@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-peeringdb-organisation-record-sey-ix",
+  "facts": [],
+  "systems": [
+    {"system": "Seychelles Internet Exchange Point Association (SEY-IX)", "country_label": "SEY-IX", "class": "", "platform": "", "owner": "Seychelles Internet Exchange Point Association, Victoria, Mahe", "tiers": ""}
+  ],
+  "note": "PeeringDB organisation record only (address, last updated 2020-02-19, empty networks list); it does not state that an exchange is in service, members or traffic."
+}

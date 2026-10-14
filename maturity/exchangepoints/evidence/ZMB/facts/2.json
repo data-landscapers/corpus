@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-02-zambia-lsk-ix-exchange-record",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "PeeringDB's record of LSK-IX in Lusaka, last updated 2024-08-02, lists 12 peers and 12 connections (10 open peers) with 76G total capacity, all IPv6-ready.", "as_of": "2024-08-02", "date_precision": "day", "system": "LSK-IX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LSK-IX", "country_label": "Lusaka Internet Exchange Point", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 76G figure is port capacity, not traffic, so no traffic fact."
+}

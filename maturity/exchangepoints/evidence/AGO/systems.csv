@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,angonix,Angola Internet Exchange Point - angonix,exchange,,,,2026-06-01-isoc-pulse-ixp-tracker-angola
+AGO,Angola IXP,Angola Internet Exchange point - Angola IXP,exchange,,,,2026-06-01-isoc-pulse-ixp-tracker-angola
+AGO,Rede Nacional de Fibra Optica (Lobito section),Rede Nacional de Fibra Optica,other,,Angola Telecom,,2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta
+AGO,Tudonosso Fibra,Tudonosso Fibra,other,FTTH,Angola Telecom,,2026-09-16-ago-angop-ministro-mario-oliveira-lanca-servico-de-internet-tudonosso
+AGO,Rede de banda larga de fibra optica (DWDM backbone),Rede Nacional de Banda Larga,other,DWDM,Angola Telecom,,2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja
+AGO,Rede Nacional de Banda Larga (RNBL),Rede Nacional de Banda Larga,other,,Government of Angola / MINTTICS,,2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl

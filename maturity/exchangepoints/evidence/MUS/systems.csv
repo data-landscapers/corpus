@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,MIXP,Mauritius Internet Exchange Point,exchange,Bird v2 2.0.8 route servers,MIXP,,2026-06-15-mixp-route-server-looking-glass
+MUS,MIXP,Mauritius Internet Exchange Point - MIXP,exchange,,MIXP Ops (AS327821),,2026-05-01-ixp-tracker-mixp-snapshot
+MUS,Mauritius Internet Exchange Point,Internet Exchange Point in Mauritius,exchange,,"Ministry of Technology, Communication and Innovation with the African Union Commission (AXIS)",,2015-08-26-au-launches-internet-exchange-point-mauritius

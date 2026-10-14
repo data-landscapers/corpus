@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-08-afrinic-dns-deployment-lusaka-ixp-linkedin",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "AFRINIC states its DNS deployment at the Lusaka IXP in Lusaka went live on 2025-12-08, cutting DNS query response time from 23.188 ms to 1.524 ms (about 93.4%), which shows the exchange is operating.", "as_of": "2025-12-08", "date_precision": "day", "system": "Lusaka IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Lusaka IXP", "country_label": "Lusaka IXP", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "AFRINIC is a registry running a DNS node, not a global content or CDN network, so no content fact."
+}

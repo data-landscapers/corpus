@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-13-gabon-gabix-ixp-relaunch",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "GabonReview reports GABIX, the national IXP created in 2014, is relaunched: Gabon Telecom and Airtel Gabon recently reconnected, joining ANINF and CanalBox/GVA, the two that had kept activity since 2019.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "GABIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: over 250 Mbps (level, type not given) at GABIX on 2026-05, local traffic after Gabon Telecom and Airtel Gabon reconnected, per GabonReview; date is the article's, which gives none.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "GABIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: about 80 Mbps (level, type not given) at GABIX before the reconnection, over a period the article dates only as since 2019; as_of is the article's date, 2026-05-13.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "GABIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GABIX",
+   "country_label": "Gabon Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

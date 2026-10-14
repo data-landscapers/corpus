@@ -1,0 +1,52 @@
+{
+ "slug": "2024-05-01-rack-centre-spec-sheet",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Rack Centre, the Lagos data centre, states it offers public peering with the Internet Exchange Point of Nigeria (IXPN); date taken from the sheet's published date, 2024-05.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "IXPN Lagos",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Rack Centre, the Lagos data centre, states it offers public peering with African Interconnection Exchange (AF-CIX), powered by DE-CIX; date taken from the sheet's published date, 2024-05.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "AF-CIX Lagos",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "IXPN",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "AF-CIX",
+   "country_label": "AF-CIX",
+   "class": "exchange",
+   "platform": "",
+   "owner": "DE-CIX",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre",
+   "country_label": "Rack Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

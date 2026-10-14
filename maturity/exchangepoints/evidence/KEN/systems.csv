@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,LINX Nairobi,LINX Nairobi,exchange,,LINX (London Internet Exchange),,2026-07-10-linx-kenya-peering-network-itweb
+KEN,LINX Mombasa,LINX Mombasa,exchange,,LINX (London Internet Exchange),,2026-07-10-linx-kenya-peering-network-itweb
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,TESPOK,,2026-01-01-kixp-kenya-internet-exchange-point-nairobi
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,TESPOK,,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne
+KEN,LINX Nairobi,LINX Nairobi,exchange,Nokia,LINX,,2024-11-11-icolo-linx-mombasa-mba2
+KEN,LINX Mombasa,LINX Mombasa,other,Nokia,LINX,,2024-11-11-icolo-linx-mombasa-mba2
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,LINX Nairobi,,exchange,,LINX,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,NBOX1,iXAfrica NBOX1 data centre,other,,iXAfrica,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,LINX Mombasa,,exchange,Nokia switches,LINX,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,LINX Nairobi,,exchange,Nokia switches,LINX,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,LINX Nairobi,,exchange,,LINX,,2024-09-11-dcnn-linx-nairobi-expands-to-paix
+KEN,PAIX NBO-1 extension,,other,,LINX / PAIX Data Centres,,2024-09-11-dcnn-linx-nairobi-expands-to-paix
+KEN,KIXP,Kenya Internet eXchange Point,exchange,,,,2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet
+KEN,KIXP,Kenya Internet Exchange Point,exchange,,,,2017-05-16-east-africa-data-centre-receives-tier-iii-certification-liquid-intelligent-techn
+KEN,KIXP,KIXP,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
+KEN,LINX Nairobi,LINX Nairobi,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance

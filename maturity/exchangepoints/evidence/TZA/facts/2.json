@@ -1,0 +1,76 @@
+{
+ "slug": "2026-08-28-tispa-internet-exchange-points",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "TISPA describes TIX in Dar es Salaam as its main and most successful project, a local facility for exchanging internet traffic; the page has no date, so published date 2026-08-28 is used.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "TIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "TISPA manages six IXPs: TIX (Dar es Salaam) plus Arusha (AIXP), Dodoma (DIXP), Mbeya (MBIXP), Mwanza (MIXP) and Zanzibar (ZIXP); the page has no date, so published date 2026-08-28 is used.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "TIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIX",
+   "country_label": "Tanzania Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  },
+  {
+   "system": "AIXP",
+   "country_label": "AIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  },
+  {
+   "system": "DIXP",
+   "country_label": "DIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  },
+  {
+   "system": "MBIXP",
+   "country_label": "MBIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  },
+  {
+   "system": "MIXP",
+   "country_label": "MIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  },
+  {
+   "system": "ZIXP",
+   "country_label": "ZIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TISPA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

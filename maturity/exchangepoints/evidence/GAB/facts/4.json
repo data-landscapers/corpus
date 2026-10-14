@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-03-gabix-reboot-interconnexion-locale-defis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GABIX",
+   "country_label": "Gabon Internet eXchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Workshop day-one report; no statement of members, traffic or operating state."
+}

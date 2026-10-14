@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-11 Local Businesses Benefit from Burkina Faso's Internet Development (BFIX)",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "BFIX, the Burkina Faso Internet Exchange, launched in June 2015 and is described by the Internet Society as in service as the resilience backbone keeping local traffic flowing.",
+   "as_of": "2015-06",
+   "date_precision": "month",
+   "system": "BFIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 6 Gbps (peak) at BFIX, up from 0.5 Gbps after 2019 Internet Society support; the document gives no date for the figure, so its publication date is used (Internet Society).",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "BFIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BFIX",
+   "country_label": "Burkina Faso Internet Exchange (BFIX)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

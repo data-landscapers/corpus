@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-teraco-ct2-50mw-cape-town",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Teraco says its Cape Town CT2 data centre gives clients peering via the NAPAfrica internet exchange point (date taken from the article, 2025-11-10).",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "NAPAfrica",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

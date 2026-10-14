@@ -1,0 +1,26 @@
+{
+ "slug": "2014-02-01-rinex-terms-and-policies",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "RICTA's terms and policies for RINEX state that a February 2014 RURA-RICTA memorandum gives RICTA the mandate to manage and operate RINEX, a layer-2 peering LAN with route servers and member peers; the document gives no member count or city.",
+   "as_of": "2014-02",
+   "date_precision": "month",
+   "system": "RINEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RINEX",
+   "country_label": "RINEX (Rwanda Internet Exchange Point)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "RICTA",
+   "tiers": ""
+  }
+ ],
+ "note": "Policy document; dated only by the 2014 MoU, and no later date for operation is given."
+}

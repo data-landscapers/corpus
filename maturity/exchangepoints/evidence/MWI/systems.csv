@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,LIONEX,Lilongwe Open Neutral Internet Exchange,exchange,,,,2026-02-26-lionex-sustainable-peering-infrastructure-grant
+MWI,MIX,Malawi Internet Exchange,exchange,,MISPA,,2024-11-14-mispa-malawi-internet-exchange-mix
+MWI,LLIX,Lilongwe Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-africa
+MWI,Lilongwe IXP,IXP for Lilongwe (Central),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
+MWI,Mzuzu IXP,IXP for Mzuzu (Northern),other,,MISPA,,2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service
+MWI,"LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)",LIONEX,other,EVPN-VXLAN leaf-spine,LIONEX,,2025-12-21-lionex-leaf-spine-evpn-vxlan-fabric

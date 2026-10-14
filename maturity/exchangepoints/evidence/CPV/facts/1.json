@@ -1,0 +1,10 @@
+{
+  "slug": "2022-11-29-pch-cv-ixp-associacao-cabo-verde-internet-exchange-point",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "PCH's Internet Exchange Directory lists CV-IXP (Associação Cabo Verde Internet Exchange Point) in Praia as an Active Ethernet exchange established 29 November 2022; the record lists no switches, facilities or participants, and the page has no date of its own so the established date is used.", "as_of": "2022-11-29", "date_precision": "day", "system": "CV-IXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "CV-IXP", "country_label": "Associação Cabo Verde Internet Exchange Point", "class": "exchange", "platform": "Ethernet", "owner": "Cabo Verde Internet Exchange Point (association)", "tiers": ""}
+  ],
+  "note": ""
+}

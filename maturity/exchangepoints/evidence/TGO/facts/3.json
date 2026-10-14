@@ -1,0 +1,26 @@
+{
+  "slug": "2025-09-24-lome-data-centre-home-page-en",
+  "facts": [
+    {
+      "sub_indicator": "exchange",
+      "aspect": "exchange",
+      "value": "service",
+      "fact": "Lomé Data Centre's own home page lists a local Internet Exchange Point among its connectivity features and peering among its interconnection services; it does not name the exchange or give members. As_of is the page date.",
+      "as_of": "2025-09-24",
+      "date_precision": "day",
+      "system": "Local Internet Exchange Point (Lomé Data Centre)",
+      "class": "exchange"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lomé Data Centre",
+      "country_label": "Lomé Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Lomé Data Centre",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

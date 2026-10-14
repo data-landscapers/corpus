@@ -1,0 +1,92 @@
+{
+ "slug": "2026-07-16 Nigeria - Submarine Networks",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "IXPN is hosted at the MDXi Lekki data centre in Lagos, with direct peering available through MainOne to Amsterdam, Ghana and London exchanges, per Submarine Networks; no date for the statement, so the page date is used.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "AF-CIX, an interconnection exchange in Lagos, is hosted at Rack Centre Lagos with free ports and cross connects, per Submarine Networks; no date for the statement, so the page date is used.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "AF-CIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": ""
+  },
+  {
+   "system": "WAF-IX",
+   "country_label": "West Africa Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "MainOne/MDXi",
+   "tiers": ""
+  },
+  {
+   "system": "AF-CIX Lagos",
+   "country_label": "West Africa Interconnection Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "AF-CIX",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi Lagos",
+   "country_label": "MDXi Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos LOS1",
+   "country_label": "OADC Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre LGS 1/2",
+   "country_label": "Rack Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Kasi Cloud",
+   "country_label": "Kasi Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, 2Africa, NCSCS",
+   "country_label": "submarine cables",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Page describes data centres and cables; exchange statements undated. WAF-IX named as hosted with IXPN, no separate fact."
+}

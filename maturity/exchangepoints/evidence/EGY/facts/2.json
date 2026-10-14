@@ -1,0 +1,10 @@
+{
+  "slug": "2007-07-21-gpx-global-systems-inc-launches-neutral-middle-east-internet-exchange-meix-in-ca",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "GPX Global Systems announced the opening of MEIX, a carrier-neutral internet exchange and colocation hub in Heliopolis, Cairo, licensed by the Ministry of Communications and Information Technology, letting local and international customers and ISPs interconnect inside Egypt; the document gives no member count and its publication date is used as the event date.", "as_of": "2007-07-21", "date_precision": "day", "system": "MEIX", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "MEIX", "country_label": "Middle East Internet eXchange (MEIX)", "class": "exchange", "platform": "", "owner": "GPX Global Systems, Inc.", "tiers": "ISPs, telecom providers, e-businesses and enterprise customers colocated at the site"}
+  ],
+  "note": ""
+}

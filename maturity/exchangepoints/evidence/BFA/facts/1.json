@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "BFIX (Burkina Faso Internet Exchange) is in service: the Internet Society says 80% of networks in Burkina Faso are IXP members or customers of IXP members, citing Internet Society Pulse data.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "BFIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 6 Gbps (peak) at BFIX, reached after Internet Society training from 2019, up from 0.5 Gbps; the article gives no date for the figure, so its publication date is used (Internet Society).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "BFIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BFIX",
+   "country_label": "Burkina Faso Internet Exchange (BFIX)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

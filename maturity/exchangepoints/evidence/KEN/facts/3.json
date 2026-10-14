@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "iColo and TESPOK state that KIXP, run by TESPOK, is the largest and most established IXP in East Africa, exchanging traffic among networks, ISPs and content providers.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "KIXP",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "iColo announced on this date that KIXP has entered its Mombasa MBA2 data centre with a new point of presence, giving KIXP presence in Mombasa as well as its existing sites; over 100 networks are connected at iColo's Mombasa campus.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "KIXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIXP",
+   "country_label": "Kenya Internet Exchange Point",
+   "class": "exchange",
+   "platform": "",
+   "owner": "TESPOK",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "exchange",
+   "stage": "2",
+   "exchange": "service",
+   "reach": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-001",
+   "gaps": "No source held says a global content network has a cache at the exchange or peers there.",
+   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
+  }
+ ]
+}

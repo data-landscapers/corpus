@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,GIXA,Ghana Internet Exchange Association,exchange,,GIXA,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,Accra-IX,Accra-IX,exchange,,,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,LINX Accra,LINX Accra,exchange,,LINX,,2026-08-16-ghana-accra-ix-200gbps-three-exchanges
+GHA,MDXi Appolonia City data centre,MainOne data centre,other,,MDXi (MainOne),,2021-06-21-mainone-data-centre-opens
+GHA,MDXi Appolonia City data centre,MainOne MDXi Ghana,other,,MDXi (MainOne),,2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre

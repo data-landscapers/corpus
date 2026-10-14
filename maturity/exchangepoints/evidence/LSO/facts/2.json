@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-02-thereporter-lixp-revamp",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The Lesotho Internet Exchange Point (LIXP), hosted at the Lesotho Communications Authority in Maseru, was officially relaunched after a revamp reported on 2026-02-02, with the LCA saying it hosts five ISPs and two content delivery networks (unnamed); the exchange was founded in 2011, stopped, and resumed in 2016.", "as_of": "2026-02-02", "date_precision": "day", "system": "LIXP", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "LIXP", "country_label": "Lesotho Internet Exchange Point", "class": "exchange", "platform": "Ubiquiti USW-Pro switches and EdgeRouter Infinity routers", "owner": "Lesotho Communications Authority (custodian); Internet Society Lesotho Chapter", "tiers": "ISPs, higher education, government departments, banks"}
+  ],
+  "note": "The two CDNs are not named, so no content fact."
+}

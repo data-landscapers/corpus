@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-isoc-local-peering-africa",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Burkina Faso has IXP peering in operation: per Internet Society Pulse, 80% of networks are IXP members or customers of IXP members and traffic exchange capacity has grown consistently over five years; the exchange is not named in this document.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": "Other exchanges named (COTIX, RINEX, MGIX, LLIX) are in other countries."
+}

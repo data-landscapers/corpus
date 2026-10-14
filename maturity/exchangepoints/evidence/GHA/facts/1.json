@@ -1,0 +1,19 @@
+{
+  "slug": "2026-08-16-ghana-accra-ix-200gbps-three-exchanges",
+  "facts": [
+    {"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"tech.africa, citing bgp.tools and PeeringDB on 10 August 2026, reports GIXA (Ghana Internet Exchange Association) in service in Accra since 2013 with 24 connected networks on 27 routers.","as_of":"2026-08-10","date_precision":"day","system":"GIXA","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"tech.africa, citing bgp.tools and PeeringDB on 10 August 2026, reports Accra-IX in service in Accra since 2023 with 22 connected networks and 525 Gbps of connected port capacity.","as_of":"2026-08-10","date_precision":"day","system":"Accra-IX","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"tech.africa, citing bgp.tools and PeeringDB on 10 August 2026, reports LINX Accra (a LINX fabric registered in mid-2025) in service with 8 connected networks and 171 Gbps of port capacity.","as_of":"2026-08-10","date_precision":"day","system":"LINX Accra","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"traffic","fact":"Traffic: 200 Gbps (aggregate, operator's own figure announced 10 August 2026, against 525 Gbps of connected ports) at Accra-IX on 2026-08-10; the article notes no public traffic graph exists and that connected ports are not traffic.","as_of":"2026-08-10","date_precision":"day","system":"Accra-IX","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"content","fact":"Google and Akamai connect at GIXA in Accra, and nowhere else in Accra, per bgp.tools and PeeringDB data of 10 August 2026; Meta is also present there.","as_of":"2026-08-10","date_precision":"day","system":"GIXA","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"content","fact":"Fastly connects at Accra-IX only, and Meta is present on a 100 Gbps port there, per bgp.tools and PeeringDB data of 10 August 2026.","as_of":"2026-08-10","date_precision":"day","system":"Accra-IX","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"exchange","value":"content","fact":"Meta is present at LINX Accra, mostly through a single 100 Gbps port, per bgp.tools and PeeringDB data of 10 August 2026.","as_of":"2026-08-10","date_precision":"day","system":"LINX Accra","class":"exchange"},
+    {"sub_indicator":"exchange","aspect":"reach","value":"wider","fact":"GVA of Cote d'Ivoire holds one of four 100 Gbps ports at Accra-IX, as seen in public routing data in August 2026, so a network from another country is a member there.","as_of":"2026-08-10","date_precision":"day","system":"Accra-IX","class":"exchange"}
+  ],
+  "systems": [
+    {"system":"GIXA","country_label":"Ghana Internet Exchange Association","class":"exchange","platform":"","owner":"GIXA","tiers":""},
+    {"system":"Accra-IX","country_label":"Accra-IX","class":"exchange","platform":"","owner":"","tiers":""},
+    {"system":"LINX Accra","country_label":"LINX Accra","class":"exchange","platform":"","owner":"LINX","tiers":""}
+  ],
+  "note": ""
+}

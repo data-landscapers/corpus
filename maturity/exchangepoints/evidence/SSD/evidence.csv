@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,exchange,exchange,none,"Internet Society Pulse's Internet Resilience Index (PCH and PeeringDB data, July 2025) scores South Sudan 0/100 on IXP coverage of population centres and 0/100 on peering efficiency, the share of networks peering at an IXP, so no operating exchange point is shown.",2025-07,month,,exchange,2025-07-01-isoc-pulse-south-sudan-resilience-index,https://pulse.internetsociety.org/en/resilience/ss/

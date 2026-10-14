@@ -1,0 +1,10 @@
+{
+  "slug": "2015-02-20-au-int-ixp-launch-seychelles",
+  "facts": [
+    {"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "The African Union Commission says the Internet Exchange Point in Seychelles (dateline Victoria) was launched on 20 February 2015, officiated by the Vice President and ICT Minister, with the AU listing Seychelles among eight Member States that have set up IXPs with its AXIS support; no member count or traffic figure is given.", "as_of": "2015-02-20", "date_precision": "day", "system": "Seychelles Internet Exchange Point", "class": "exchange"}
+  ],
+  "systems": [
+    {"system": "Seychelles Internet Exchange Point", "country_label": "Internet Exchange Point in Seychelles", "class": "exchange", "platform": "", "owner": "Department of ICT, Seychelles (set up with African Union Commission AXIS support)", "tiers": ""}
+  ],
+  "note": ""
+}

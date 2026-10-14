@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,exchange,exchange,service,"ECOWAS SIGTEL's regional inventory lists one Internet Exchange Point in Mali, Mali IX (MLIX) in Bamako, among 14 in the ECOWAS member states; no member count or traffic is given. The page carries no date, so as_of is its published date.",2026-09-03,day,Mali IX (MLIX),exchange,2026-09-03-ecowas-sigtel-regional-fiber-infrastructure,https://sigtel.ecowas.int/regional-fiber-infrastructure/

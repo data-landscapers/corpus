@@ -1,0 +1,66 @@
+{
+ "slug": "2026-02-05-ixpn-traffic-growth-local-peering",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "IXPN is operating, with a participant list of ISPs, banks, fintechs and enterprises, per IT Pulse Nigeria quoting IXPN CEO Muhammed Rudman; the article does not state a member count.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 4 Gbps (aggregate peak) at IXPN in 2015, per IT Pulse Nigeria.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "Traffic: 1.7 Tbps (aggregate peak) at IXPN in 2025, per IT Pulse Nigeria.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "IXPN aggregate peak traffic grew from 4 Gbps in 2015 to 1.7 Tbps in 2025, a 42,400% increase over ten years, per IT Pulse Nigeria.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "Global content networks Google, Meta, Microsoft and TikTok are among the current participants (members) at IXPN, per IT Pulse Nigeria; the article gives no date, so its publication date is used.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": "ISPs, CDNs, banks, fintechs, enterprises"
+  }
+ ],
+ "note": "Planned nationwide PoP expansion beyond Lagos is announced, not in service; no reach fact."
+}

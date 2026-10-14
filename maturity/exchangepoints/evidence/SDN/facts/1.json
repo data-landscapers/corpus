@@ -1,0 +1,4 @@
+{"slug":"2026-08-01-ixp-tracker-sixp","facts":[
+{"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"Internet Society Pulse, from PeeringDB data of August 2026, shows SIXP Sudan (Sudan Internet Exchange Point) with four members at 1 Gbps each, three using RPKI, and no ASN joined or left in the previous 12 months; city not given.","as_of":"2026-08","date_precision":"month","system":"SIXP Sudan","class":"exchange"},
+{"sub_indicator":"exchange","aspect":"reach","value":"wider","fact":"Internet Society Pulse lists two PCH autonomous systems (AS3856 and AS42), registered in the United States, among the four members of SIXP Sudan in August 2026, alongside Sudatel and Zain.","as_of":"2026-08","date_precision":"month","system":"SIXP Sudan","class":"exchange"}],
+"systems":[{"system":"SIXP Sudan","country_label":"Sudan Internet Exchange Point","class":"exchange","platform":"","owner":"","tiers":""}],"note":""}
