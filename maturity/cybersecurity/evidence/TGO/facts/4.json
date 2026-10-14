@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-03-3000-jeunes-formes-reflexes-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states the national incident response centre CERT.tg was created and that ANCy is the national cybersecurity agency; no creation date is given, so the publication date of 2025-11-03 is used.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "CERT.tg",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The article cites a national cybersecurity strategy 2024-2028 among Togo's cybersecurity initiatives; no adoption date is given, so the publication date of 2025-11-03 is used.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "National cybersecurity strategy 2024-2028",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.tg",
+   "country_label": "Togo",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANCy (Agence nationale de la Cybersecurite)",
+   "country_label": "Togo",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

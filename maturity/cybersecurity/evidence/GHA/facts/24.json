@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-csa-to-establish-press-corps-to-strengthen-cybercrime-reporting",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority, led by Director-General Divine Selase Agbeti, is stated to operate and to collaborate with police, National Security and EOCO to investigate and disrupt cybercriminal networks.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

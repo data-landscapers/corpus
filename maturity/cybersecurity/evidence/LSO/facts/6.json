@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-24-lso-lestimes-cybersecurity-bill-2026-consultation",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The MICSTI Acting Principal Secretary said the government had designated the Lesotho Communications Authority as the agency for the national Computer Security Incident Response Team (CSIRT), ahead of the Cybersecurity Bill 2026; the article gives no designation date, so the article date is used.", "as_of": "2026-09-24", "date_precision": "day", "system": "Computer Security Incident Response Team (CSIRT), designated agency Lesotho Communications Authority", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Computer Security Incident Response Team (CSIRT)", "country_label": "Lesotho", "class": "response", "platform": "", "owner": "Lesotho Communications Authority", "tiers": ""},
+    {"system": "National Cybersecurity Agency (proposed under Cybersecurity Bill 2026)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cybersecurity Forum (launched July 2026)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "MICSTI", "tiers": ""}
+  ],
+  "note": ""
+}

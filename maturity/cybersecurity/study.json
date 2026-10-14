@@ -106,7 +106,15 @@
    "text": "National cybersecurity readiness: national cyber response",
    "indicator_id": "infra.cybersec--national-cybersecurity-readiness-national-cyber-response",
    "class": "response",
-   "norm_short": "The Malabo Convention, chapter III, asks each party for a national cybersecurity policy and strategy (Art. 24) and a body that governs cybersecurity (Art. 27). It sets no test of whether the body works."
+   "norm_short": "The Malabo Convention, chapter III, asks each party for a national cybersecurity policy and strategy (Art. 24) and a body that governs cybersecurity (Art. 27). It sets no test of whether the body works.",
+   "criteria": [
+    "A source from the past three years says the country has no cybersecurity strategy and no national cyber body or response team.",
+    "The country has adopted a national cybersecurity strategy, or created a national cyber agency or response team by law, decree or order.",
+    "The national body has handled a cyber incident or issued a public alert in the past three years.",
+    "The country has designated its critical information infrastructure, or bound the operators of critical systems to report incidents to the national body.",
+    "The national body publishes a count of incidents it handled, for a quarter or more ending within the past two years."
+   ],
+   "criteria_of": "13bdab22c286"
   }
  ],
  "classes": [

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-12-civ-cote-divoire-ne-pas-signaler-une-cyberattaque-expose-a-des-p",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Digital Mag reports ANSSI's director of audits and compliance describing the agency's work with companies on cyber incidents, in July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The source states that reporting cyber incidents to ANSSI is a legal obligation for companies, with administrative sanctions for non-declaration; no decree is named.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Côte d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CICERT",
+   "country_label": "Côte d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": "No specific incident or advisory stated; CICERT support is described generally."
+}

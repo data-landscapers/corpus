@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-revistatempo-mozambique-intic-finlandia-estrategia-ciberseguranca-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The INTIC board chairman and Finland's ambassador reviewed results of the 2021-2025 strategy evaluation, which cite creation of the National Cyber Security Incident Response Team and a national network of sector teams; as_of is the 18 August 2026 meeting, creation date not given.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica",
+   "country_label": "Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "2026-2030 strategy is only a draft proposal, so no fact for it."
+}

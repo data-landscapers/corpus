@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-22-zambiamonitor-zcsa-hate-speech-cyberbullying-warning",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Zambia Cyber Security Agency is stated to exist and issue public statements, here a statement in Lusaka on 22 August 2026 (the document's published date).",
+   "as_of": "2026-08-22",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Cyber Security Agency",
+   "country_label": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Body fact only; the warning concerns hate speech and cyberbullying conduct, not a cyber threat alert or incident, so no response fact."
+}

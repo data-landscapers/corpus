@@ -1,0 +1,60 @@
+{
+ "slug": "2026-10-02-ago-nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-in",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Lei n.º 9/26 of 28 September 2026, in force on publication, creates a National Cybersecurity System comprising the Conselho Nacional de Cibersegurança, the Centro Nacional de Cibersegurança and a national CSIRT network; CERT.ao is the Centre's operational arm (PTI, 2 October 2026).",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Centro Nacional de Cibersegurança / CERT.ao",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Lei n.º 9/26 requires operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services to register with the Centre within 180 days and notify significant incidents to CERT.ao, with deadlines to be set by separate instrument.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Centro Nacional de Cibersegurança / CERT.ao",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centro Nacional de Cibersegurança",
+   "country_label": "Centro Nacional de Cibersegurança",
+   "class": "response",
+   "platform": "",
+   "owner": "National Cybersecurity System",
+   "tiers": ""
+  },
+  {
+   "system": "CERT.ao",
+   "country_label": "CERT.ao",
+   "class": "response",
+   "platform": "",
+   "owner": "Centro Nacional de Cibersegurança",
+   "tiers": ""
+  },
+  {
+   "system": "Rede Nacional de CSIRT",
+   "country_label": "Rede Nacional de CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Conselho Nacional de Cibersegurança",
+   "country_label": "Conselho Nacional de Cibersegurança",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Law text itself not held; facts rest on the PTI report. No incident handled or figures stated."
+}

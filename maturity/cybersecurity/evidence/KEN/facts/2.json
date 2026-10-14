@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-ken-kenya-appoints-two-members-to-national-cybersecurity-agency-board",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Kenya appointed two board members, effective 2026-09-11 under Gazette Notice 14420, to the newly established National Cybersecurity Agency created under the State Corporations (National Cybersecurity Agency) Order, 2026.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency",
+   "country_label": "National Cybersecurity Agency (NCA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior and National Administration",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

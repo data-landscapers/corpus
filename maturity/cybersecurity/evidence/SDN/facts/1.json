@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-sudan-cybersecurity-authority-launched",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Sudanese Cybersecurity Authority announced its official launch, mandated to lead national cybersecurity policy and regulatory frameworks.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Sudanese Cybersecurity Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Cybersecurity Authority",
+   "country_label": "Sudan",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

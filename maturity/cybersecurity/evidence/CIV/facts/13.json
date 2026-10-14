@@ -1,0 +1,54 @@
+{
+ "slug": "2023-08-10-ncsi-cote-divoire-country-profile",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The NCSI profile (version 10 Aug 2023) cites a National Cyber Security Strategy 2021-2025 as the established national strategy.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "National Cyber Security Strategy 2021-2025",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The NCSI profile cites the Côte d'Ivoire Computer Emergency Response Team (CI-CERT) as the government unit specialised in national-level cyber incident detection and response.",
+   "as_of": "2023-08-10",
+   "date_precision": "day",
+   "system": "CI-CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The NCSI profile cites the list of critical sectors, sub-sectors and services in Annex 2 to Decree No. 2021-916 (RGSSI and Critical Infrastructure Protection Plan) as the legal act identifying operators of essential services.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Critical Infrastructure Protection Plan (PPIC)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CI-CERT",
+   "country_label": "Côte d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Critical Infrastructure Protection Plan (PPIC)",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Index rank, cooperation and drills not recorded."
+}

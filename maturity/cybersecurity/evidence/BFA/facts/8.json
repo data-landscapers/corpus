@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-16-bfa-libreinfo-fasosign-lancement-signature-electronique",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI's director-general presented the security mechanisms of the FasoSign e-signature platform at its launch on 15 September 2026, showing ANSSI in operation.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Burkina Faso",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  },
+  {
+   "system": "FasoSign",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

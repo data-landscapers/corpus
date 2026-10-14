@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-cert-sc-takes-the-lead-in-third-seychelles-national-cyberdri",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Seychelles Nation reports that the National Computer Emergency Response Team of Seychelles (CERT-SC) designed and delivered the third National Cyberdrill hosted by the Department of ICT, so the national team exists and operates; the date is the article's published date.", "as_of": "2026-10-06", "date_precision": "day", "system": "CERT-SC", "class": "response"}
+  ],
+  "systems": [
+    {"system": "CERT-SC", "country_label": "Seychelles", "class": "response", "platform": "", "owner": "Department of Information and Communication Technology", "tiers": ""}
+  ],
+  "note": ""
+}

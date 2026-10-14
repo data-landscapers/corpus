@@ -1,0 +1,62 @@
+{
+ "slug": "2026-07-01-ca-go-ke-cyber-security-report-q4-2025-2026",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The report states the government established the National KE-CIRT/CC, domiciled at the Communications Authority, launched officially in 2014, coordinating cyber response at national level.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The National KE-CIRT/CC states it issued 20,748,489 cyber threat advisories in April-June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The National KE-CIRT/CC's 42nd quarterly report gives 2,355,938,192 threat events detected and 20,748,489 advisories issued for April-June 2026, plus 358 digital investigations.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "NC4",
+   "country_label": "National Computer and Cybercrimes Coordination Committee",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "Banking Sector SOC (BS-SOC)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

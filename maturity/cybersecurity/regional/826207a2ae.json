@@ -1,0 +1,29 @@
+{
+ "slug": "2018-02-20-iati-46002-p-z1-gz0-001-gabon-ict-backbone-feasibility-study",
+ "countries": {
+  "CMR": {
+   "facts": [],
+   "systems": [],
+   "note": "Names Cameroon only as a fibre interconnection partner."
+  },
+  "GNQ": {
+   "facts": [],
+   "systems": [],
+   "note": "Names Equatorial Guinea only as a fibre interconnection partner."
+  },
+  "GAB": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "CSIRT (Computer Attack Warning and Response Centre)",
+     "country_label": "Gabon CSIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "A feasibility study for a CSIRT; none stated created or operating."
+  }
+ }
+}

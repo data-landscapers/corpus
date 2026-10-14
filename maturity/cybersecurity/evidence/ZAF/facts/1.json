@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-cybersecurity-hub-south-africa-national-csirt-incident-management-and-reporting",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Cybersecurity Hub, South Africa's National CSIRT, was established in 2015 by the then Department of Telecommunications and Postal Services, mandated by the National Cybersecurity Policy Framework passed by Cabinet in March 2012, and receives and routes incident reports on weekdays.", "as_of": "2026-08-04", "date_precision": "day", "system": "Cybersecurity Hub (South African National CSIRT)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Cybersecurity Hub (South African National CSIRT)", "country_label": "South Africa", "class": "response", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"}
+  ],
+  "note": "Page states the body exists and operates; it states no dated handled incident or alert, no designated critical infrastructure, and says the site publishes no incident statistics."
+}

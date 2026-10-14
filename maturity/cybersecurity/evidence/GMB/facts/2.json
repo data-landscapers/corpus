@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-mocde-data-governance-trends-gambia",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The ministry's presentation lists a Gambia National Cybersecurity Strategy and policy for 2020-2026 among the country's existing policies and strategies; date is the document's published year.", "as_of": "2025", "date_precision": "year", "system": "National Cybersecurity Strategy and Policy 2020-2026", "class": "response"}
+  ],
+  "systems": [
+    {"system": "GMCSirt", "country_label": "GMCSirt", "class": "response", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "GMCSirt is only named as to be enhanced and a National Cybersecurity Authority as to be established; no incident, designation or figures stated."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-30-cpv-governo-lancamento-soc-csirt-rtpe",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Government states the SOC and CSIRT of the State's Private Technological Network, developed by NOSi, were publicly launched in Praia on Wednesday 29 October 2025, to monitor, prevent and respond to cyber incidents.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "CSIRT RTPE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT RTPE",
+   "country_label": "Cabo Verde",
+   "class": "response",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  },
+  {
+   "system": "SOC RTPE",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled, alert, critical infrastructure designation or figures stated."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-02-zwe-herald-cyber-strong-zimbabwe-cybersecurity-strategy-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "National Computer Incident Response Team", "country_label": "Zimbabwe", "class": "response", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""},
+    {"system": "National Cybersecurity Authority (proposed)", "country_label": "Zimbabwe", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The strategy 2026-2030 is stated as still being advanced, the Authority is to be established and the CIRT is only to be made stronger; no adoption, creation, incident, designation or figures stated."
+}

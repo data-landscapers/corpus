@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-05-csa-ghana-opens-ncsam-2026",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The national CERT, coordinated by the CSA, recorded 3,876 cybersecurity incidents between January and July 2026, about 47 percent online fraud, as cited at the NCSAM 2026 opening.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National CERT (CERT-GH)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The CSA marked its fifth anniversary and its Director-General opened NCSAM 2026; a national CERT is coordinated by the CSA and the public can report incidents to it; published date used as the opening date is not stated.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana National CERT (CERT-GH)",
+   "country_label": "National CERT, coordinated by the CSA",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

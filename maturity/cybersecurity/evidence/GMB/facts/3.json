@@ -1,0 +1,10 @@
+{
+  "slug": "2022-09-01-gambia-national-cybersecurity-strategy-action-plan-2022-2026-revised",
+  "facts": [],
+  "systems": [
+    {"system": "GM-CSIRT (The Gambia Computer Security Incident Response Team)", "country_label": "GM-CSIRT", "class": "response", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cybersecurity Coordination Directorate (NCCD)", "country_label": "NCCD", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cybersecurity Commission (NCSC)", "country_label": "NCSC", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is a 2022-2026 strategy and action plan (revised edition, September 2022) that states no adoption and describes GM-CSIRT and the institutions in future terms (establish, expedite operationalization); no incident, designation of critical information infrastructure or figures stated."
+}

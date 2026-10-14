@@ -1,0 +1,23 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,Autorité nationale de cybersécurité (provided for by the adopted bill),Autorité nationale de cybersécurité,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
+SEN,CERT national (provided for by the adopted bill),CERT national,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
+SEN,Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI),DCSSI,,,,,2026-08-21-dcssi-protection-infrastructures-information-critiques
+SEN,Autorité nationale de cybersécurité (planned),Autorité nationale de cybersécurité,response,,,national,2026-08-18-digitalbusiness-senegal-cybastion-mou-cybersecurite
+SEN,CERT national (planned),CERT national,response,,,national,2026-08-18-digitalbusiness-senegal-cybastion-mou-cybersecurite
+SEN,Autorité nationale de cybersécurité (planned),Autorité nationale de cybersécurité,response,,,national,2026-08-17-senegal-autorite-nationale-cybersecurite
+SEN,CERT national (planned),CERT national,response,,,national,2026-08-17-senegal-autorite-nationale-cybersecurite
+SEN,CSIRT ADIE/SN,CSIRT ADIE/SN,other,,ADIE / Sénégal Numérique S.A.,administrative intranet only,2022-01-01-senum-adie-securite-igc-certificats-electroniques
+SEN,Autorité nationale de cybersécurité,Autorité nationale de cybersécurité,response,,,,2026-08-20-seneweb-loi-securite-numerique-adoption
+SEN,National Cybersecurity Authority (proposed),National Cybersecurity Authority (proposed),response,,,,2026-08-17-senegal-critical-infrastructure-bill-ministry-details
+SEN,National CERT (proposed),National CERT (proposed),response,,,,2026-08-17-senegal-critical-infrastructure-bill-ministry-details
+SEN,Sector-specific CERTs (proposed),Sector-specific CERTs (proposed),response,,,,2026-08-17-senegal-critical-infrastructure-bill-ministry-details
+SEN,Autorité nationale de cybersécurité (projected),Autorité nationale de cybersécurité (projected),response,,,,2026-08-14-senegal-critical-infrastructure-cybersecurity-bill
+SEN,CERT national (projected),CERT national (projected),response,,,,2026-08-14-senegal-critical-infrastructure-cybersecurity-bill
+SEN,DCSSI (Direction générale du chiffre et de la sécurité des systèmes d'information),DCSSI (Direction générale du chiffre et de la sécurité des systèmes d'information),response,,,,2026-10-07-sen-aps-forum-prestataires-cybersecurite-optic-dcssi
+SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-09-01-senegal-national-cybersecurity-authority-law
+SEN,CERT national,SEN,response,,,,2026-09-01-senegal-national-cybersecurity-authority-law
+SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-20-aps-senegal-hebergement-donnees-personnelles-pleniere
+SEN,CERT national,SEN,response,,,,2026-08-20-aps-senegal-hebergement-donnees-personnelles-pleniere
+SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-20-aps-senegal-khady-sarr-cybersecurite-continuite-soins
+SEN,Autorité nationale de Cybersécurité du Sénégal,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure
+SEN,CERT national,SEN,response,,,,2026-08-14-senegal-moves-to-safeguard-digital-infrastructure

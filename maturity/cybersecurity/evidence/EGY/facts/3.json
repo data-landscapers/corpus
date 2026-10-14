@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-22-egy-youm7-data-corridor-to-data-hub-minister",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The ICT minister said the state, through the Supreme Council for Cybersecurity, continues to implement the second edition of the National Cybersecurity Strategy 2023-2027, while preparation of a third edition has begun.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The ICT minister named the Supreme Council for Cybersecurity as the body implementing the national strategy.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Supreme Council for Cybersecurity",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Supreme Council for Cybersecurity",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

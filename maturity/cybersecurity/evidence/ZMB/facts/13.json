@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-15-zambia-cyber-security-act-no-3-of-2025",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Cyber Security Act, 2025 (Act No. 3 of 2025) establishes the Zambia Cyber Security Agency in the Office of the President (s.3) and has it constitute the Zambia Cyber Incident Response Team (s.6) to handle incidents and issue alerts; the Act commenced on 12 May 2025.", "as_of": "2025-05-12", "date_precision": "day", "system": "Zambia Cyber Security Agency", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "Under the Cyber Security Act, 2025 the Agency designates critical information infrastructure by Gazette notice (s.9), and controllers must register it (s.11) and immediately notify the Agency of cyber security incidents affecting it (s.17); commenced 12 May 2025.", "as_of": "2025-05-12", "date_precision": "day", "system": "Zambia Cyber Security Agency", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Zambia Cyber Security Agency", "country_label": "Zambia", "class": "response", "platform": "", "owner": "Office of the President", "tiers": "national"},
+    {"system": "Zambia Cyber Incident Response Team", "country_label": "Zambia", "class": "response", "platform": "", "owner": "Zambia Cyber Security Agency", "tiers": "national"},
+    {"system": "Sectoral cyber incident response teams", "country_label": "Zambia", "class": "other", "platform": "", "owner": "sector institutions, overseen by the Agency", "tiers": "sector"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-08-ncc-19000-fibre-cuts-eight-months",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "TechCabal reports the Critical National Information Infrastructure (CNII) Order was signed by President Tinubu in 2024 and mandates stricter security standards for telecom sites; no month is given.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

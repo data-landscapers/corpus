@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-24-kbc-koyabe-national-cybersecurity-agency-kenya",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "KBC reports the National Cybersecurity Agency was established through the National Cybersecurity Agency Order 2026 under the State Corporations Act, and its Board chair was appointed effective 2026-08-21.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "KBC, citing the Communications Authority, reports the National KE-CIRT/CC issued advisories in January to March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Communications Authority data cited by KBC states the National KE-CIRT/CC issued 20.6 million advisories between January and March 2026, against 21.8 million in the preceding quarter.",
+   "as_of": "2026-03-31",
+   "date_precision": "day",
+   "system": "KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency",
+   "country_label": "National Cybersecurity Agency (NCA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior and National Administration",
+   "tiers": "national"
+  },
+  {
+   "system": "KE-CIRT/CC",
+   "country_label": "Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

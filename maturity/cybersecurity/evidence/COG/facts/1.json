@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-anssi-congo-re-passi-audit-provider-referential-validation",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI, the national information systems security agency, is stated to hold a working session at its Brazzaville headquarters on 28 July 2026 to validate a draft qualification standard for cybersecurity audit providers.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "State, under the Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

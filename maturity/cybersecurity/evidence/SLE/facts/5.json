@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-sierra-leone-natca-cybersecurity-incidents",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NatCA, the telecom regulator, issued a public notice on 30 July 2026 acknowledging ongoing cybersecurity incidents, saying it coordinates a response and advising the public on precautions; no incident detail is given.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "NatCA (National Communications Authority)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NatCA (National Communications Authority)",
+   "country_label": "Sierra Leone",
+   "class": "response",
+   "platform": "",
+   "owner": "NatCA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

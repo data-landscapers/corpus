@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-maliactuel-anssi-agence-cybersecurite-creee",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Mali Actuel reports the Council of Ministers of 10 June 2026 adopted the texts creating, organising and operating ANSSI, to ensure national cybersecurity and coordinate response to cyberattacks.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "Mali Actuel reports the National Cybersecurity Strategy and its 2026-2030 Action Plan as adopted in February 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Stratégie nationale de Cybersécurité du Mali",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

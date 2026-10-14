@@ -1,0 +1,26 @@
+{
+ "slug": "2019-10-17-cog-loi-30-2019-creation-anssi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Loi n° 30-2019 of 10 October 2019 creates ANSSI as a public administrative body under the Presidency, charged with managing information security incidents and issuing security alerts.",
+   "as_of": "2019-10-10",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "State, under the Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": "Mandate to issue alerts is not a stated alert; no response fact."
+}

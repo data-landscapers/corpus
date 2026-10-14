@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-02-securisation-personnes-biens-maillage-territoire-national",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme de lutte contre la cybercriminalite (PLCC)", "country_label": "PLCC", "class": "other", "platform": "", "owner": "police/security services", "tiers": "national"}
+  ],
+  "note": "Only a police cybercrime platform is named; no national cyber response body or strategy fact."
+}

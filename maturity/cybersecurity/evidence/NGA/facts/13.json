@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-26-nga-thisdaylive-ai-agent-cybersecurity-op-ed",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The op-ed states the Nigeria Computer Emergency Response Team (ngCERT) provides a national incident-response function and publishes security advisories; no event date is given, so the document's published date is used.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The op-ed states the 2024 Designation and Protection of Critical National Information Infrastructure Order provides a policy foundation for critical information infrastructure.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Designation and Protection of Critical National Information Infrastructure Order 2024",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "Nigeria Computer Emergency Response Team (ngCERT)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

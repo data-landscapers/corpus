@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-19-nga-ngcert-router-implant-advisory",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ngCERT, published on the NCC CSIRT site, issued advisory ngCERT-2026-010003 on 2026-09-19: a critical-rated advisory on a router implant campaign against Cisco Catalyst and IOS-based routers.",
+   "as_of": "2026-09-19",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ngCERT, hosted by the Nigerian Communications Commission, is shown operating by issuing advisory ngCERT-2026-010003 on 2026-09-19.",
+   "as_of": "2026-09-19",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "ngCERT (Nigeria Computer Emergency Response Team)",
+   "class": "response",
+   "platform": "csirt.ncc.gov.ng",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

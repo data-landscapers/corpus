@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-27-zcsa-disinformation-warning-zedgossip",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article describes the Zambia Cyber Security Agency (ZCSA) as operating and issuing a public advisory; it is dated by the article's publication, 2026-08-27.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The Zambia Cyber Security Agency issued a public advisory on 26 August 2026 warning of rising online disinformation after the electoral period.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Cyber Security Agency (ZCSA)",
+   "country_label": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-07-anssi-guinee-csirt-cedeao-ecowas-isac",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI Guinée, through its GN-CERT directorate, took part in the ECOWAS CSIRT meeting of 12-17 November 2024, so the agency is stated to exist and operate (document published 2025-03-07).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "ANSSI Guinée (GN-CERT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI Guinée (GN-CERT)",
+   "country_label": "Agence Nationale de la Sécurité des Systèmes d'Information de Guinée",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministère des Postes, des Télécommunications et de l'Économie Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

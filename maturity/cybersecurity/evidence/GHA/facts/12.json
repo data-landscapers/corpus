@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-18-ghana-csa-fines-ey-ghana",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority fined EY Ghana GH¢360,000 on 18 August 2026 under the Cybersecurity Act, 2020 (Act 1038), which it enforces through licensing of cybersecurity service providers.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The article refers to owners of Critical Information Infrastructure under Act 1038 as clients subject to the licensing rules, which treats such owners as a defined category.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "Sanctions are not incidents handled or alerts issued, so no response fact."
+}

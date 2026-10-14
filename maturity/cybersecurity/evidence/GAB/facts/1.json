@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-08-gabon-cybersecurite-attaques-ia-kaspersky-libreville",
+  "facts": [],
+  "systems": [
+    {"system": "ANINF", "country_label": "Gabon", "class": "", "platform": "", "owner": "Gabon government", "tiers": ""}
+  ],
+  "note": "Strategy only described as planning a CSIRT and SOC, not stated adopted; no national body stated created or operating as a response team; 900,000-alert figure is attributed to the government, not a national body's published count; ANINF-Kaspersky competence centre is planned."
+}

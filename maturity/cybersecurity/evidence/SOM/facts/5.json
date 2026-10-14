@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-21-somalia-national-cybersecurity-risk-management-framework",
+  "facts": [],
+  "systems": [
+    {"system": "National Communications Authority (NCA)", "country_label": "Somalia", "class": "", "platform": "", "owner": "NCA", "tiers": ""}
+  ],
+  "note": "Framework is a risk-assessment instrument; CII operators must submit annual risk assessment reports, not incident reports; no strategy, incident handling or figures stated."
+}

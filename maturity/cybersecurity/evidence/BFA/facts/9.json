@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-burkina-faso-balai-citoyen-digital-governance-dialogue",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI's secretary general co-opened a digital governance consultation in Ouagadougou on 28 July 2026, described as head of the national information systems security agency.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Burkina Faso",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

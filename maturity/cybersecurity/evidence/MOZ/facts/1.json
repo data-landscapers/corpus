@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-08-moz-aim-cybersecurity-measures",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "AIM reports the minister said the National CSIRT Network already has operational teams in government, the Cyber Defence Unit, MoRENet, INCM, telecoms and four provinces.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Rede Nacional de CSIRTs",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "AIM reports critical information infrastructure sectors identified as energy, telecoms, transport, health, finance and public security, with their protection part of the measures.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Infra-estruturas Criticas de Informacao",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rede Nacional de CSIRTs",
+   "country_label": "Rede Nacional de CSIRTs",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "Date inferred from weekday (article 8 Oct, 'esta quarta-feira'); strategy 2026-2030 only being updated; no incident or figures."
+}

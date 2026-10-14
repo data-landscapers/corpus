@@ -1,0 +1,42 @@
+{
+ "slug": "2025-05-22-cybercriminalite-rapport-2024-anssi-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI is stated to have specialised centres including CI-CERT, SOC and Alertes 100, per its director general at the 2025-05-22 report presentation.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "CI-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  },
+  {
+   "system": "CI-CERT",
+   "country_label": "Côte d'Ivoire Computer Emergency Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  },
+  {
+   "system": "PLCC",
+   "country_label": "Plateforme de Lutte Contre la Cybercriminalité",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": "The 12,100 cases are cybercrime complaints to the PLCC, not CERT incidents or alerts, so no response or figures fact."
+}

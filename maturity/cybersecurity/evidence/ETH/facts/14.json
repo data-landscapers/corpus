@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-eth-2024-135-02",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The 2024/25 executive budget proposal (proposed, not appropriated) put ETB 450,145,000 to INSA's Information Assurance programme, described as the cyber-security programme of the national information-network-security agency.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Ethiopia",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": "Proposed-stage budget line."
+}

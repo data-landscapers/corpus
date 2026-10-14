@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-11-chad-cameroon-online-job-scams-cybercrime-report",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The ISS report states that a 2015 law created ANSICE, Chad's national cybersecurity agency, which operates with minimal staff and budget.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "ANSICE (National Agency for Computer Security and eCertification)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The report calls ANSICE largely inactive and recommends establishing CERTs; no response, designation or figures stated."
+}

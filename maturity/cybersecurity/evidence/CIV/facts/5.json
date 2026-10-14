@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-25-cote-divoire-anssi-national-pki-commissioned",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states ANSSI-CI is the national authority for cybersecurity and digital trust, implementing the national cybersecurity strategy.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-CI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Technological Innovation (supervising ministry)",
+   "tiers": ""
+  }
+ ],
+ "note": "PKI commissioning is class other, no response fact."
+}

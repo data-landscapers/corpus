@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-07-tunisia-cyberattacks-ransomware-surge-economiste-maghrebin",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states incidents are declared to the Agence nationale de la sécurité informatique (ANSI), so the national body exists and operates; as_of is the 2022 count year.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ANSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The article states incidents declared to ANSI rose by over 146% in 2022, from 63,000 in 2021 to over 155,000.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ANSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSI",
+   "country_label": "ANSI",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "National Cybersecurity Strategy 2026-2030 is only stated finalised, not adopted, so no strategy fact."
+}

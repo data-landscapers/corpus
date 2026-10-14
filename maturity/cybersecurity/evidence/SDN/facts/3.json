@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-29-sudan-sudapass-platform-page",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SUDAPASS",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Sudanese Cybersecurity Authority",
+   "tiers": ""
+  },
+  {
+   "system": "Sudanese Cybersecurity Authority",
+   "country_label": "Sudan",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": "Platform page for a digital ID; no dated statement about the national body's creation or response."
+}

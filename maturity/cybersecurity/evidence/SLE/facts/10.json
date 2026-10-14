@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-23-sierraloaded-whatsapp-takeover-scam",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The article states NC3 published an advisory on its website in July 2024 warning of a surge in WhatsApp takeover attacks.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "National Cybersecurity Coordination Centre (NC3)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article reports interviewing NC3, whose Director of Cyber Resilience commented on WhatsApp takeovers, so the national centre was operating in 2026; it also says no national statistics on such takeovers exist.",
+   "as_of": "2026-08-23",
+   "date_precision": "day",
+   "system": "National Cybersecurity Coordination Centre (NC3)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Coordination Centre (NC3)",
+   "country_label": "National Cybersecurity Coordination Centre (NC3)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Sierra Leone Police Cyber Unit",
+   "country_label": "Sierra Leone Police Cyber Unit",
+   "class": "other",
+   "platform": "",
+   "owner": "Sierra Leone Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

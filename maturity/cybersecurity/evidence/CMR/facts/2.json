@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states ANTIC's Computer Incident Response Team (CIRT) exists and handles nearly 200 urgent requisitions from across the country; the date is the article's published date, 2026-01-27.",
+   "as_of": "2026-01-27",
+   "date_precision": "day",
+   "system": "ANTIC Computer Incident Response Team (CIRT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANTIC Computer Incident Response Team (CIRT)",
+   "country_label": "ANTIC CIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "National Agency for Information and Communication Technologies (ANTIC)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

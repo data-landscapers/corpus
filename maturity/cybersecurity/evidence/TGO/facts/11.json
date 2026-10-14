@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-21-togo-luxembourg-appui-transformation-numerique-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "ANCy director-general Gbota Gwaliba is quoted giving more than 333,000 incidents handled between 2021 and 2024.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "ANCy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "More than 333,000 incidents were handled between 2021 and 2024, per ANCy's director-general.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "ANCy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANCy is named as the national cybersecurity agency headed by a director-general; document published 2026-07-21 gives no creation date.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCy",
+   "country_label": "Agence nationale de la cybersécurité (ANCy)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "TogoCyber+",
+   "country_label": "TogoCyber+",
+   "class": "other",
+   "platform": "",
+   "owner": "Togo with Luxembourg funding",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

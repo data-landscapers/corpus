@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-nam-csirt-namibia-cyber-security-landscape-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT states it has entered its operational phase and commenced providing incident handling services to its constituents; no date of issue is printed, so the published date (2025, proxy) is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of incidents handled stated in the text; vulnerability and ransomware counts only."
+}

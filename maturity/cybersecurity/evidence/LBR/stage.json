@@ -1,0 +1,18 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "2",
+   "foundation": "strategy",
+   "response": "",
+   "cii": "",
+   "figures": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-001",
+   "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

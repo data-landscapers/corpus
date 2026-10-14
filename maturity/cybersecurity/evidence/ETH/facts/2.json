@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-07-ethiopia-critical-infrastructure-cybersecurity-proclamation-insa",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INSA is stated to be the national body under Critical Infrastructure Cybersecurity Proclamation No. 1426/2026, which sets the foundation for cybersecurity monitoring and coordinated incident response; the document gives no proclamation date, so the publication date is used.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The proclamation identifies 12 critical infrastructure sectors (ICT, finance, transport, health, energy and others) and requires owners and operators to meet 18 cybersecurity obligations; the document gives no enactment date, so the publication date is used.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

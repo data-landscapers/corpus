@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The minister told Parliament that the ministry runs public education campaigns in collaboration with NatCA, the National Cyber Security Coordination Centre and mobile operators, so the Centre is stated to exist and operate.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "National Cyber Security Coordination Centre",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cyber Security Coordination Centre",
+   "country_label": "Sierra Leone",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile-money fraud reporting systems",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "mobile operators",
+   "tiers": ""
+  }
+ ],
+ "note": "Body named only in passing; fraud strategy itself is a coordination statement, not a cybersecurity strategy."
+}

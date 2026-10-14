@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-15-cybersecurite-strategie-nationale-midi",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article names Eric Rakotomaniraka as team head of the CIRT, which is described as taking part in the December 2025 strategy launch workshop; as_of is the article's published date.", "as_of": "2025-12-15", "date_precision": "day", "system": "CIRT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "CIRT", "country_label": "Madagascar", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Strategy is to be put in place within three months; not adopted, so no strategy fact."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-20-savoirnews-togo-cert-tg-piratage-comptes-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "CERT.tg is described as Togo's national centre for responding to cybersecurity incidents, with a mission of detection, prevention and response.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "CERT.tg",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CERT.tg issued a public alert on a surge of compromises of WhatsApp, Facebook and other online accounts in Togo; the article dates it to Thursday 20 August 2026 (inferred from its publication date).",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "CERT.tg",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.tg (Centre national de reponse aux incidents de cybersecurite)",
+   "country_label": "Togo",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

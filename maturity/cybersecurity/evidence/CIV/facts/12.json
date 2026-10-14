@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-cote-divoire-anssi-esatic-cybersecurity-masters",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "AIP describes ANSSI-CI as the state's technical body for information systems security and protection of national cyberspace, under the digital transition ministry, and reports it operating in July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Côte d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Technological Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Master's programmes are training, not a fact; the strategy is said to be piloted by ANSSI but not stated adopted."
+}

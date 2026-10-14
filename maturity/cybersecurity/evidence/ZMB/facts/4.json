@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-journalists-urged-learn-cybersecurity-laws",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Act No. 3 of 2025 is stated to provide for the establishment of the Zambia Cyber Security Agency, which has a Director for Critical Information Infrastructure and is mandated to provide incident response services.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Zambia Cyber Security Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Cyber Security Agency",
+   "country_label": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled or alert stated; protection of critical information infrastructure is described, not a designation."
+}

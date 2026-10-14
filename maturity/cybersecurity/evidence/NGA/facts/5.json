@@ -1,0 +1,62 @@
+{
+ "slug": "2026-02-23-cyber-resilience-framework-nigeria-communication-sector-crf-ncs",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The framework names ngCERT as national technical coordination centre and final coordinating CERT, and the National Cybersecurity Coordination Centre for national oversight.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The framework states alignment with the National Cybersecurity Policy and Strategy (NCPS) 2021 as the national strategy in force.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "National Cybersecurity Policy and Strategy 2021",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The framework cites the official gazette on designation and protection of Critical National Information Infrastructure, Executive Order 2024, as the basis of CNII designation.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CNII Designation and Protection Order 2024",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "ngCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  },
+  {
+   "system": "National Cybersecurity Coordination Centre",
+   "country_label": "National Cybersecurity Coordination Centre",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NCC-CSIRT",
+   "country_label": "NCC-CSIRT",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

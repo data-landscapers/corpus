@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-15-nga-ngcert-advisory-escalating-cybersecurity-threats",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ngCERT issued advisory ngCERT-2026-040007 on 15 September 2026 on a rise in phishing, ransomware, BEC and data breaches in Nigeria.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ngCERT is stated to operate as Nigeria's national CERT, taking incident reports by phone and email and issuing advisories.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "ngCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The advisory tells organisations to report incidents in line with the National Cybersecurity Policy Strategy 2015 (as amended 2024), treated as in force; document date used as no adoption date is given.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "National Cybersecurity Policy and Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ngCERT",
+   "country_label": "ngCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

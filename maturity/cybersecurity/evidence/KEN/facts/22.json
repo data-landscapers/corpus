@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-20-kenya-presidential-website-defacement-ransom",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "State House said its ICT team worked with the National Kenya Computer Incident Response Team Coordination Centre to contain the July 2026 presidential website defacement, so the national response team exists and operates.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The National Kenya Computer Incident Response Team Coordination Centre, with State House ICT, restricted access to the defaced president.go.ke site to contain the attack detected 18 July 2026.",
+   "as_of": "2026-07-18",
+   "date_precision": "day",
+   "system": "Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Computer Incident Response Team Coordination Centre",
+   "country_label": "Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Computer and Cybercrime Coordination Committee",
+   "country_label": "National Computer and Cybercrime Coordination Committee",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

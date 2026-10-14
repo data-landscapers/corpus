@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-14-senegal-critical-infrastructure-cybersecurity-bill",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autorité nationale de cybersécurité (projected)",
+   "country_label": "Autorité nationale de cybersécurité (projected)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CERT national (projected)",
+   "country_label": "CERT national (projected)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Bill would create the authority and CERT; incidents cited were at Treasury, Court of Audit and tax directorate, not handled by a national body."
+}

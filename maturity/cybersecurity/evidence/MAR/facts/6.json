@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01-morocco-dgssi-recrutement-ingenieurs-cybersecurite",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "DGSSI (Direction Generale de la Securite des Systemes d'Information), under the National Defence Administration, is stated to exist and operate, opening a competition for 10 State engineers in information systems security for it, applications due before 10 April 2026; the page carries no date and the published date (2026-03) is derived.", "as_of": "2026-03", "date_precision": "month", "system": "DGSSI", "class": "response"}
+  ],
+  "systems": [
+    {"system": "DGSSI", "country_label": "Morocco", "class": "response", "platform": "", "owner": "National Defence Administration", "tiers": ""}
+  ],
+  "note": ""
+}

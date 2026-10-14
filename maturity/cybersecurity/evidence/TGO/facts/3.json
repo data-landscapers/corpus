@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-palakiyem-assih-chairman-cyber-defense-africa",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "CERT.tg is stated to be Togo's national cybersecurity incident response center, run by Cyber Defense Africa, which was set up in 2019 by the Togolese government and Asseco Data Systems.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "CERT.tg",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT.tg",
+   "country_label": "Togo",
+   "class": "response",
+   "platform": "",
+   "owner": "Cyber Defense Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

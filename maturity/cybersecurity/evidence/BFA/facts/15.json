@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-06-burkina-faso-digital-transition-minister-noc-site-visit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Backbone Network Operations Centre (NOC)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Network operations centre under construction; no cybersecurity body, strategy or incident handling stated."
+}

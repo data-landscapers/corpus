@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Conselho Nacional de Cibersegurança",
+   "country_label": "Conselho Nacional de Cibersegurança",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidência da República",
+   "tiers": ""
+  },
+  {
+   "system": "Centro Nacional de Cibersegurança",
+   "country_label": "Centro Nacional de Cibersegurança",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Creates a consultative coordination council, not a monitoring or response body; the Centro is named only as a member and budget source, with no description of what it does."
+}

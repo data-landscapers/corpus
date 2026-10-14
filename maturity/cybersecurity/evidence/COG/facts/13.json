@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cybersécurité, SOC et CERT nationaux",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of digital economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Op-ed lists a planned programme to set up a national SOC and CERT; a plan, not a created body or a strategy adopted."
+}

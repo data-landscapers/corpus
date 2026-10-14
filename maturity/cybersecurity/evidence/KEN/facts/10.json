@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-22-puzzle-ruto-cybersecurity-unit-nation",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The President gazetted the National Cybersecurity Agency Order, 2026, as Legal Notice No. 89, creating the agency as a State corporation; MPs disputed whether Parliament had approved it.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency (NCSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency (NCSA)",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": "Paywalled page, text read as available; no incident, designation or figure stated."
+}

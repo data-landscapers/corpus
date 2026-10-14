@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-02-100-visages-du-burkina-digital-michael-folane",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The profile states ANSSI, the national information systems security agency, was newly created in 2018 with Folané as its first director-general, tasked with protecting national cyberspace.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "National strategy is said to have been drafted under him, not stated adopted; no incident, CII or figures."
+}

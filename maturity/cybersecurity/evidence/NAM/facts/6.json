@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-13-namibia-reports-37-surge-cyberattacks-2025-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT, housed at CRAN, is stated to exist and to have published its annual Namibia Cybersecurity Landscape Report 2025.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "NAM-CSIRT's report states 1.7 million cyberattacks recorded in Namibia from January to December 2025, up about 37% on 2024, and 2,231,970 vulnerabilities identified.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

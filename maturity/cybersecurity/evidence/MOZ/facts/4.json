@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-22-fast-tracks-ai-cyber-strategy-itweb",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "ITWeb says the National Cyber Security Policy and Implementation Strategy 2021-2025 established the national incident response capability and governance, and is to be replaced by a 2026-2030 strategy; as_of is the period start.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "National Cyber Security Policy and Implementation Strategy 2021-2025",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer Security Incident Response Team",
+   "country_label": "National Computer Security Incident Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "Attack counts (36,330 in H1 2025) come from the Ministry, not the national body, so no figures fact; 2026-2030 strategy is proposed only."
+}

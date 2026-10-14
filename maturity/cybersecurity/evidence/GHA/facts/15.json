@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-12-ghana-csa-sanctions-orc-purpleline",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority's own press release of 12 August 2026 states it sanctioned the ORC and Purpleline under Sections 92 of the Cybersecurity Act, 2020 (Act 1038).",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The press release refers to institutions designated as Critical Information Infrastructure, and says the CSA directed the ORC on 15 June 2026 to engage Tier 1 licensed providers for its CII.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "Sanctions are not incidents handled or alerts issued, so no response fact."
+}

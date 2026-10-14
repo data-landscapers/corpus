@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-alwihda-cellule-lutte-cybercriminalite-ansice",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Decree 2010/PR/2026 of 1 June 2026 created a cybercrime unit inside ANSICE and appointed its coordinator and deputy, showing the agency exists and operates.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": "The cybercrime unit itself is not a fact."
+}

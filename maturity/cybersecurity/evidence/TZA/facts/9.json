@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-14-tanzania-39000-numbers-blocked-fraud-tcra",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TCRA fraud number and domain blocking via short code 15040",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "TCRA",
+   "tiers": ""
+  }
+ ],
+ "note": "TCRA fraud blocking and 56 incident reports to police are regulator fraud work; no national CERT or published incident count is named."
+}

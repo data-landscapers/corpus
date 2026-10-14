@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-02-brazzaville-premiere-conference-cybersecurite-afrique-centrale-ldb",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document describes ANSSI as a state structure that supervises and coordinates national cybersecurity, manages security incidents and responds to cyberattacks, with its director general speaking on 30 April 2026.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI (Agence nationale de securite des systemes d'information)",
+   "country_label": "Agence nationale de la securite des systemes d'information (ANSSI)",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

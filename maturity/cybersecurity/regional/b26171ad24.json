@@ -1,0 +1,192 @@
+{
+ "slug": "2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill",
+ "countries": {
+  "MUS": {
+   "facts": [
+    {
+     "sub_indicator": "readiness",
+     "aspect": "foundation",
+     "value": "body",
+     "fact": "The SADC statement of 13 September 2018 says Mauritius has an established and operational national CIRT.",
+     "as_of": "2018-09-13",
+     "date_precision": "day",
+     "system": "Mauritius national CIRT",
+     "class": "response"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Mauritius national CIRT",
+     "country_label": "Mauritius national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ZAF": {
+   "facts": [
+    {
+     "sub_indicator": "readiness",
+     "aspect": "foundation",
+     "value": "body",
+     "fact": "The SADC statement of 13 September 2018 says South Africa has an established and operational national CIRT.",
+     "as_of": "2018-09-13",
+     "date_precision": "day",
+     "system": "South Africa national CIRT",
+     "class": "response"
+    }
+   ],
+   "systems": [
+    {
+     "system": "South Africa national CIRT",
+     "country_label": "South Africa national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ZMB": {
+   "facts": [
+    {
+     "sub_indicator": "readiness",
+     "aspect": "foundation",
+     "value": "body",
+     "fact": "The SADC statement of 13 September 2018 says Zambia has an established and operational national CIRT.",
+     "as_of": "2018-09-13",
+     "date_precision": "day",
+     "system": "Zambia national CIRT",
+     "class": "response"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Zambia national CIRT",
+     "country_label": "Zambia national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "AGO": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Angola national CIRT",
+     "country_label": "Angola national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "BWA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Botswana national CIRT",
+     "country_label": "Botswana national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "LSO": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Lesotho national CIRT",
+     "country_label": "Lesotho national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "MOZ": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Mozambique national CIRT",
+     "country_label": "Mozambique national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "NAM": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Namibia national CIRT",
+     "country_label": "Namibia national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "SWZ": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Eswatini national CIRT",
+     "country_label": "Eswatini national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "ZWE": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Zimbabwe national CIRT",
+     "country_label": "Zimbabwe national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "Completed ITU CIRT assessment, awaiting legislation; not created or operating."
+  },
+  "MWI": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Malawi national CIRT",
+     "country_label": "Malawi national CIRT",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "CIRT being designed; not created or operating."
+  }
+ }
+}

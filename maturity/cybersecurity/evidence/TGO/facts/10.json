@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-03-togo-confiance-numerique-ancy-incidents-2021-2024",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "ANCy is reported to have recorded and handled 333,000 incidents over 2021-2024, rising from 39,168 in 2021 to 181,088 in 2024.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "ANCy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANCy is stated to have recorded and handled 333,000 incidents between 2021 and 2024.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "ANCy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANCy is described as the national agency with permanent monitoring and rapid response operating.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCy",
+   "country_label": "Agence nationale de la cybersécurité (ANCy)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

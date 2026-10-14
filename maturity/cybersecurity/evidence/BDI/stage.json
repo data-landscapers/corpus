@@ -1,0 +1,18 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "no evidence",
+   "foundation": "",
+   "response": "",
+   "cii": "",
+   "figures": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether the country has a cybersecurity strategy or a national cyber body.",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

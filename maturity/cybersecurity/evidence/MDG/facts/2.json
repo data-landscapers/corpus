@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-16-madagascar-launches-drafting-national-cybersecurity-strategy",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article states Madagascar created a national cybersecurity body in 2023, and quotes the head of the digital incident response team at the Computer Incident Response Team (CIRT).", "as_of": "2023", "date_precision": "year", "system": "CIRT (Computer Incident Response Team)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "CIRT (Computer Incident Response Team)", "country_label": "Madagascar", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Strategy drafting only launched; no adopted strategy stated."
+}

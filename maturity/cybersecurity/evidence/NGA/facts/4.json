@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-05-ncc-4-hour-cyber-incident-reporting-crf",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NCC Computer Security Incident Response Team",
+   "country_label": "NCC Computer Security Incident Response Team",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "NCC CSIRT receives reports from telecom operators only (one sector); no national-body fact."
+}

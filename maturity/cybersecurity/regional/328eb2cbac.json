@@ -1,0 +1,35 @@
+{
+ "slug": "2025-07-01-cog-cybersecurite-experts-sous-region-strategies-riposte-gouvernement",
+ "countries": {
+  "COG": {
+   "facts": [
+    {
+     "sub_indicator": "readiness",
+     "aspect": "foundation",
+     "value": "body",
+     "fact": "On 1 July 2025 the Secretary General of the National Security Council described ANSSI as the government's technical arm for cybersecurity.",
+     "as_of": "2025-07-01",
+     "date_precision": "day",
+     "system": "ANSSI Congo",
+     "class": "response"
+    }
+   ],
+   "systems": [
+    {
+     "system": "ANSSI Congo",
+     "country_label": "Agence nationale de la sécurité des systèmes d'information",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "The ITU Cyberdrill is an exercise, not a response."
+  },
+  "GAB": {
+   "facts": [],
+   "systems": [],
+   "note": "Gabon is not named; the drill drew on central African countries generally."
+  }
+ }
+}

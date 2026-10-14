@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-insa-it-products-security-clearance-directive-1135-2026",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INSA issued Directive No. 1135/2026 on IT products security clearance and control in May 2026, showing the body exists and operates; the directive concerns product clearance, not incident response.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": "national"
+  }
+ ],
+ "note": "Product-control directive; no incident, CII or figures stated."
+}

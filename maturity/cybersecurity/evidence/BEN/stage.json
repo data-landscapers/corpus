@@ -1,0 +1,18 @@
+{
+ "iso3": "BEN",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "5",
+   "foundation": "body",
+   "response": "",
+   "cii": "",
+   "figures": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BEN-005;BEN-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

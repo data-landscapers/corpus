@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-11-anssi-lancement-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Fraternité Matin reports that a decree creating ANSSI and setting its legal framework, tasks and organisation was adopted by the Council of Ministers on 30 October 2024; the agency's online activities were launched on 11 February 2025.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Côte d'Ivoire",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "CI-CERT",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

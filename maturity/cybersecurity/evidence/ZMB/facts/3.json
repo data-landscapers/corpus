@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-zambia-ai-driven-human-trafficking-cyber-agency",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "A Home Affairs permanent secretary states the Cyber Security Agency has been established and its director general spoke at the 30 July 2026 event (the document's published date).",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Zambia Cyber Security Agency",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Cyber Security Agency",
+   "country_label": "Zambia Cyber Security Agency (ZCSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Body fact only; no incident or alert."
+}

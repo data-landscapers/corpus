@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-17-hackers-government-websites-presidency-nation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Interior PS names the National KE-CIRT only as a place to report; no handling or alert by it is stated, and the CA's 842 threat events for July-September is a detection count quoted from the CA, not a count of incidents handled or alerts issued."
+}

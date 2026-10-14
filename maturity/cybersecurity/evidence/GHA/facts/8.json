@@ -1,0 +1,64 @@
+{
+ "slug": "2026-09-07-myjoyonline-ghana-cert-gh-3363-incidents",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority operates CERT-GH, which the Communications Minister said responded to incidents in the first half of 2026.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "CERT-GH",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "CERT-GH of the Cyber Security Authority responded to 3,363 cybersecurity incidents between January and June 2026, per the Communications Minister.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CERT-GH",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Communications Minister disclosed that CERT-GH handled 3,363 incidents for January to June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CERT-GH",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The Minister said vulnerability assessments were completed for 25 Critical Information Infrastructure institutions in education, health, public administration, security and utilities.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ghana government",
+   "tiers": ""
+  },
+  {
+   "system": "CERT-GH",
+   "country_label": "CERT-GH",
+   "class": "response",
+   "platform": "",
+   "owner": "Cyber Security Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-31 Cabo Verde launches national SOC and CSIRT",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Ecofin Agency reports Cabo Verde launched a CSIRT within the State's Private Technological Network (RTPE), described as a national cyber alert-and-response hub for public institutions and private organisations; no event date is given, so the publication date 2025-10-31 is used.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "CSIRT RTPE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT RTPE",
+   "country_label": "Cabo Verde",
+   "class": "response",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  },
+  {
+   "system": "SOC RTPE",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled, alert, critical infrastructure designation or figures stated."
+}

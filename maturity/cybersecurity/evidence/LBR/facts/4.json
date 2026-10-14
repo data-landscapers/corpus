@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The March 2026 National Data Governance Policy lists the National Cybersecurity Strategy (2024-2029) among the policy instruments Liberia has adopted; no adoption date is given, so as_of is the document's published date (2026-03).", "as_of": "2026-03", "date_precision": "month", "system": "National Cybersecurity Strategy (2024-2029)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "National Cybersecurity Strategy (2024-2029)", "country_label": "Liberia", "class": "response", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": ""},
+    {"system": "Liberia National CERT (proposed)", "country_label": "Liberia", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Forensic Lab", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": ""}
+  ],
+  "note": "Liberia National CERT is only a policy prescription (to be established under the Cybercrime Act, which the document calls not yet enacted); no incident, CII designation or published figures stated."
+}

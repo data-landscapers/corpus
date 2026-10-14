@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-14-bfa-libreinfo-bclcc-cybercriminalite-prejudice-interview",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "A police cybercrime officer says the Agence nationale de sécurité des systèmes d'information (ANSSI) carried the 2024 law on information systems security (loi 014-2024/ALT of 9 July 2024) and that the law obliges structures to be accompanied by ANSSI for audits, security protocols and measures; as_of is the document's published date, 2026-09-14, as no event date is given for the body's operation.", "as_of": "2026-09-14", "date_precision": "day", "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "country_label": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "class": "response", "platform": "", "owner": "Burkina Faso", "tiers": "national"},
+    {"system": "Brigade centrale de lutte contre la cybercriminalité (BCLCC)", "country_label": "Brigade centrale de lutte contre la cybercriminalité (BCLCC)", "class": "other", "platform": "Alerte BCLCC reporting platform (web and mobile)", "owner": "Ministère de la Sécurité", "tiers": "national police cybercrime unit"}
+  ],
+  "note": "BCLCC is a police cybercrime unit (set up 2020; complaints, arrests, 6,288 complaints in 2025) and is not a response-class fact; no ANSSI alert, incident handling, CII designation or published count is stated."
+}

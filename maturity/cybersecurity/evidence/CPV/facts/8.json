@@ -1,0 +1,4 @@
+{"slug":"2025-12-31-cpv-2026-ciber-seguranca","facts":[
+{"sub_indicator":"readiness","aspect":"foundation","value":"body","fact":"The record states that Decreto-lei n.º 9/2021 (cybersecurity legal regime) and Decreto-Regulamentar n.º 1/2021 created the national CSIRT; the exact day of the decree is not given, so the year is used.","as_of":"2021","date_precision":"year","system":"national CSIRT","class":"response"},
+{"sub_indicator":"readiness","aspect":"foundation","value":"body","fact":"The record states the national SOC and CSIRT were launched on 30 October 2025.","as_of":"2025-10-30","date_precision":"day","system":"national CSIRT","class":"response"}
+],"systems":[{"system":"national CSIRT","country_label":"Cabo Verde","class":"response","platform":"","owner":"NOSi","tiers":""},{"system":"national SOC","country_label":"Cabo Verde","class":"response","platform":"","owner":"NOSi","tiers":""}],"note":""}

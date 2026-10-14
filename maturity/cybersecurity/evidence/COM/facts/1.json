@@ -1,0 +1,10 @@
+{
+  "slug": "2021-11-04-ancs-about-direction-nationale-cybersecurite",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The page states that under Article 6 of Law 21-012/AU the Comoros national digital development agency (ANADEN), through its cybersecurity directorate, was designated the competent national cybersecurity authority, in charge of oversight of information-system and network security and trust services; no date for the designation is given, so the page's published date is used.", "as_of": "2021-11-04", "date_precision": "day", "system": "Direction Nationale de la Cybersecurite (ANADEN)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Direction Nationale de la Cybersecurite (ANADEN)", "country_label": "Comoros", "class": "response", "platform": "", "owner": "ANADEN", "tiers": "national"}
+  ],
+  "note": ""
+}

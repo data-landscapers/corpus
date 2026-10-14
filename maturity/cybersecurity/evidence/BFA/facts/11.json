@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-27-bfa-lf-2026-volume-integral-companion",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The FY2026 finance law (Loi n°021-2025/ALT of 27 December 2025) funds the Agence nationale de sécurité des systèmes d'information (ANSSI) through action 13604 of the digital ministry's vote, with 489,236 thousand F CFA for its operation and staff.", "as_of": "2025-12-27", "date_precision": "day", "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "country_label": "ANSSI", "class": "response", "platform": "", "owner": "Ministère de la Transition digitale (section 31)", "tiers": ""}
+  ],
+  "note": ""
+}

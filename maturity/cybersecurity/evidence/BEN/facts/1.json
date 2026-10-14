@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-26-cyber-africa-forum-2025-rapport-vulnerabilites",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article calls bjCSIRT the national cybersecurity incident response team and the Asin director general says its recommendations should be implemented; the document gives its date as the 2025-06-26 publication date.", "as_of": "2025-06-26", "date_precision": "day", "system": "bjCSIRT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "bjCSIRT", "country_label": "bjCSIRT (equipe nationale de reponse aux incidents de cybersecurite)", "class": "response", "platform": "", "owner": "ASIN", "tiers": ""}
+  ],
+  "note": "The first national vulnerability and incident report (2021-2024) is presented by the Cnin director, not stated as published by the national response body, so no figures or response fact; critical infrastructure operators are named as scope but no designation is stated."
+}

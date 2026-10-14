@@ -1,0 +1,10 @@
+{
+  "slug": "2016-11-04-malawi-electronic-transactions-and-cyber-security-act",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Electronic Transactions and Cyber Security Act (33 of 2016, published 4 November 2016) establishes the Malawi CERT as a unit under the regulator and national coordination base for responding to ICT security threats; the Act commenced on 1 June 2017.", "as_of": "2017-06-01", "date_precision": "day", "system": "Malawi CERT (MCERT)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Malawi CERT (MCERT)", "country_label": "Malawi CERT", "class": "response", "platform": "", "owner": "Malawi Communications Regulatory Authority", "tiers": ""}
+  ],
+  "note": ""
+}

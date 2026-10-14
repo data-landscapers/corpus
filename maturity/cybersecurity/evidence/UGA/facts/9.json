@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-15-nita-u-nisf-2026",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The NITA-U National Information Security Policy 2026 states that the Uganda National Cybersecurity Strategy (2022-2026), developed by the Government through the Ministry of ICT and National Guidance, is in place and that the policy translates its objectives into mandatory requirements.", "as_of": "2022", "date_precision": "year", "system": "Uganda National Cybersecurity Strategy (2022-2026)", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The document defines CERT-UG as Uganda's national computer emergency response team, operated under NITA-U, providing incident coordination, vulnerability advisories and threat intelligence, and states it functions as the national CSIRT; the document gives no date of creation, so its publication date is used.", "as_of": "2026-07-15", "date_precision": "day", "system": "CERT-UG", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "The policy, stated to be mandatory for operators of critical information infrastructure, requires MDAs, local governments and critical infrastructure operators to report information security breaches to the National CSIRT/CERT-UG; this is a national policy requirement, and the document lists no designated CII operators.", "as_of": "2026-07-15", "date_precision": "day", "system": "CERT-UG", "class": "response"}
+  ],
+  "systems": [
+    {"system": "CERT-UG", "country_label": "Uganda", "class": "response", "platform": "", "owner": "NITA-U", "tiers": "national"},
+    {"system": "National Cybersecurity Coordination Centre (NCCC)", "country_label": "Uganda", "class": "response", "platform": "", "owner": "NITA-U", "tiers": "national, listed as a strategy initiative to establish"},
+    {"system": "National Information Security Framework (NISF)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "No incident handled, alert issued or published count is stated; the NCCC is only an initiative to establish."
+}

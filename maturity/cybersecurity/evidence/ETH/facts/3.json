@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-07-ethiopia-cybersecurity-proclamation-1426-insa",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "A National Computer Emergency Response Team is stated to exist as the body receiving incident reports under the newly enacted Proclamation No. 1426/2026, alongside INSA; the document gives no enactment date, so the publication date is used.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "National Computer Emergency Response Team (CERT)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Proclamation No. 1426/2026 identifies 12 critical infrastructure sectors and requires their owners and operators to report cyber incidents to the National CERT within 48 hours, among 18 obligations; the publication date is used as no enactment date is given.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "National Computer Emergency Response Team (CERT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Computer Emergency Response Team (CERT)",
+   "country_label": "National CERT",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

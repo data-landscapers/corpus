@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-cote-divoire-anssi-1200-certified-experts",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states ANSSI-CI is the national authority for security and defence of information systems, setting security standards and supporting critical infrastructure operators; the national cybersecurity strategy is cited as in force (no period given).",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-CI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Technological Innovation (supervising ministry)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

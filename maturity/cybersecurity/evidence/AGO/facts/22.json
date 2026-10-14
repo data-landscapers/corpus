@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body",
+     "fact": "Presidential Decree 263/25, published in the Diario da Republica on 10 December 2025 and in force on publication, creates the Centro Nacional de Ciberseguranca, a public institute charged with preventing, detecting, responding to and recovering from cyber incidents, and approves its statute; the statute makes CERT.ao a department of the Centre.",
+     "as_of": "2025-12-10", "date_precision": "day", "system": "Centro Nacional de Ciberseguranca (CERT.ao)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Centro Nacional de Ciberseguranca", "country_label": "Centro Nacional de Ciberseguranca", "class": "response", "platform": "", "owner": "Angolan state public institute under the telecoms and IT ministry", "tiers": "national"},
+    {"system": "CERT.ao", "country_label": "Departamento de Resposta a Emergencias Informaticas (CERT.ao)", "class": "response", "platform": "", "owner": "Centro Nacional de Ciberseguranca", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-tcd-alwihda-nominations-direction-generale-ansice",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Decree 2011/PR/2026 of 1 June 2026 appointed directors across ANSICE's directorates, including information systems security, cyberdefence and personal data protection.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

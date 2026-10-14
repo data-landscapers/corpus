@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-29 Somali Parliament approves Cybersecurity Law amid rising threats",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cybersecurity Law approved by the House of the People on 26 January 2026 provides for the creation of the Somalia Computer Incident Response Team (SOM-CIRT), a nine-member cybersecurity committee and an emergency intervention centre.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "SOM-CIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOMCIRT (SOM-CIRT)",
+   "country_label": "Somalia",
+   "class": "response",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

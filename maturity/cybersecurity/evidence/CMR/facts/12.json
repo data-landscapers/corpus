@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-11-chad-cameroon-online-job-scams-cybercrime-report",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The ISS report of August 2026 states that ANTIC is the institutional hub for cyber governance in Cameroon and operates a national computer emergency response team; no creation date is given, so as_of is the report's publication date.",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "ANTIC national CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The ISS report states that ANTIC's national CERT issues public alerts; no alert is dated, so as_of is the report's publication date.",
+   "as_of": "2026-08-11",
+   "date_precision": "day",
+   "system": "ANTIC national CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANTIC national CERT",
+   "country_label": "ANTIC (National Agency for Information and Communication Technologies)",
+   "class": "response",
+   "platform": "",
+   "owner": "ANTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "ANTIC's 12.2 billion FCFA loss estimate for 2021 is not a count of incidents handled; the 2010 cybercrime law is other."
+}

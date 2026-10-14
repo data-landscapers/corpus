@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-12-egy-youm7-superhero-academy-amn-sibrani-dufaa-thalitha",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The National Center for Computer and Network Emergency Readiness (EG-CERT) is stated as the NTRA's representative running a training academy with NTI, showing the body exists and operates; the ministry's cybersecurity priority is stated.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "EG-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EG-CERT (National Center for Computer and Network Emergency Readiness)",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

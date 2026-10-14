@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-06-nca-national-cyber-incident-management-framework",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The National Communication Authority, through its South Sudan Computer Incident Response Team (SS-CIRT), convened stakeholders at Gumbo and adopted a National Cyber Incident Management Framework; the CIRT's Assistant Director said SS-CIRT has a clear mandate as the national hub for cyber incident coordination.", "as_of": "2025-11-06", "date_precision": "day", "system": "South Sudan Computer Incident Response Team (SS-CIRT)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "South Sudan Computer Incident Response Team (SS-CIRT)", "country_label": "South Sudan", "class": "response", "platform": "", "owner": "National Communication Authority", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-31-rca-loi-cybersecurite-creation-agence-nationale-ancy",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Africa Top Success reports the National Assembly voted by acclamation a cybersecurity law that authorises the creation of a National Cybersecurity Agency (ANCY), under the ministries of Public Security and Digital Economy, to secure information systems and handle alerts; promulgation was still to come.", "as_of": "2024-01-25", "date_precision": "day", "system": "Agence nationale de la cybersécurité (ANCY)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de la cybersécurité (ANCY)", "country_label": "Central African Republic", "class": "response", "platform": "", "owner": "Ministry of Public Security and Ministry of Digital Economy (joint tutelle)", "tiers": ""}
+  ],
+  "note": ""
+}

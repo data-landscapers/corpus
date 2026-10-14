@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-cybersecurity.md — the fifty-third maturity study: whether a country has a working national cyber response, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map; waits for Bill to accept
 ---
 
 # Maturity study: cybersecurity
@@ -73,10 +73,12 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Read.**
-- [ ] **D3. Stage** as at 2026-09-30, and the second drafter's 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**, 2026-10-14, the questions as prepared.
+- [x] **D2. Read**: 167 drafters over 587 readings, nine regional stories read once; 398 facts after 14 rows removed by the parent (`corrections.csv`). Gabon's count covers two months and its sector mapping designates nothing; Senegal's authority law is passed but not promulgated; South Sudan's and Zambia's acts bind only systems not yet designated; Zambia's and Guinea's alerts are on disinformation, not an attack.
+- [x] **D3. Staged** as at 2026-09-30: stage 5 seven, 4 six, 3 four, 2 thirty-one, unplaced two, no evidence four; none at 1, the two statements of absence held (Eritrea 2015, Lesotho March 2023) being older than three years. The second drafter agreed on 18 of 20; its two readings (Guinea, Sao Tome) were right and are corrected, so 20 of 20.
+- [x] **D4. Written, rendered and linted**, by `study-cybersecurity-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 57.3M of 55M, step 1's thread counted.
+
+**Decided in the run**: a duty to report that binds only systems a minister or agency has yet to designate is not a yes to question 3; a duty laid directly on named categories or on public bodies is. A strategy whose stated period has ended counts no longer, which leaves Mauritania (2022-2025) unplaced.
 
 ## Boundary
 

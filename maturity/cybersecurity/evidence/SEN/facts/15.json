@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-14-senegal-moves-to-safeguard-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autorité nationale de Cybersécurité du Sénégal",
+   "country_label": "SEN",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CERT national",
+   "country_label": "SEN",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Reports the bill as presented to the Assembly's intercommission on 13 August 2026 and proposing an authority and CERT; a proposal, not a fact."
+}

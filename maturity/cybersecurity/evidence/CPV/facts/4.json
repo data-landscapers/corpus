@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-30-cabo-verde-nosi-lancamento-soc-e-csirt-rtpe",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NOSi states the public launch started the activities of the CSIRT of the State's Private Technological Network, with World Bank financing and Visionware as partner, to help public administration and the private sector; the document is dated 2025-10-30 and gives no other event date.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "CSIRT RTPE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT RTPE",
+   "country_label": "Cabo Verde",
+   "class": "response",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  },
+  {
+   "system": "SOC RTPE",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled, alert, critical infrastructure designation or figures stated."
+}

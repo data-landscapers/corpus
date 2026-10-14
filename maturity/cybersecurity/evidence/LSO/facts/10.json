@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-19-lesotho-budget-speech-2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "Government Security Operations Centre (GovSOC)", "country_label": "GovSOC", "class": "other", "platform": "", "owner": "Government of Lesotho", "tiers": "government systems; to be established"}
+  ],
+  "note": "Budget speech says a government SOC will be established; a planned government-only centre, no national body, strategy, incident or figure stated."
+}

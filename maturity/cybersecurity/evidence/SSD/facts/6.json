@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-world-bank-eardip-isr-seq7",
+  "facts": [],
+  "systems": [
+    {"system": "National CSIRT (South Sudan), planned under EARDIP", "country_label": "South Sudan", "class": "response", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": ""}
+  ],
+  "note": "The results table lists a national CSIRT-established indicator for South Sudan with baseline No and last recorded actual No (2 Aug 2024); the Yes at 16 Jun 2026 sits beside the Apr 2028 closing target, so no established body is stated; no strategy-absence statement, so no foundation fact."
+}

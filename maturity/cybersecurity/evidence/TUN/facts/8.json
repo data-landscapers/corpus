@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-30-ansi-tunisia-phishing-sms-warning",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Assabah reports that the national cybersecurity agency (الوكالة الوطنية للسلامة السيبرنية) issued a statement on 30 July 2026, so the agency exists and operates.", "as_of": "2026-07-30", "date_precision": "day", "system": "الوكالة الوطنية للسلامة السيبرنية", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "The national cybersecurity agency issued a public warning on 30 July 2026 about an SMS phishing campaign using fake traffic-fine notices from foreign numbers to harvest banking data.", "as_of": "2026-07-30", "date_precision": "day", "system": "الوكالة الوطنية للسلامة السيبرنية", "class": "response"}
+  ],
+  "systems": [
+    {"system": "الوكالة الوطنية للسلامة السيبرنية", "country_label": "TUN", "class": "response", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

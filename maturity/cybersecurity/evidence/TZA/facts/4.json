@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-25-thecitizen-tza-tcra-communications-sector-interview",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TCRA fraud reporting (SMS 15040)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "SMS",
+   "owner": "Tanzania Communications Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Regulator interview gives reported mobile-fraud counts, but names no national cyber response body, strategy, alert or designation."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-30-gov-t-reviews-electronic-communications-and-transactions-act",
+  "facts": [],
+  "systems": [
+    {"system": "National Public Key Infrastructure (ZICTA as National Root Certification Authority)", "country_label": "ZMB", "class": "other", "platform": "", "owner": "ZICTA", "tiers": ""}
+  ],
+  "note": "Consultation on amending the ECT Act; mentions CII designation only as a licensing link under cybersecurity legislation, not a stated designation, and no national cyber body, incident or figures."
+}

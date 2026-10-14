@@ -1,0 +1,18 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "unplaced",
+   "foundation": "",
+   "response": "",
+   "cii": "",
+   "figures": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No source held says the country adopted a cybersecurity strategy or created a national cyber body, or that it has neither.",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

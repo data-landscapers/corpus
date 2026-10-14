@@ -1,0 +1,18 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "3",
+   "foundation": "body",
+   "response": "responded",
+   "cii": "",
+   "figures": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-003;SLE-001",
+   "gaps": "No source held says the country has designated its critical information infrastructure.",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

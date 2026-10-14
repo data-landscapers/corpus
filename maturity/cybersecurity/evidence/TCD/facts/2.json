@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSICE, with its Deputy General Manager present, signed a tripartite agreement on 5 February 2026 to audit the security of the National Data Center.",
+   "as_of": "2026-02-05",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE",
+   "country_label": "Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

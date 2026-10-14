@@ -1,0 +1,50 @@
+{
+ "slug": "2025-05-22-anssi-cote-divoire-rapport-2024-etat-cybercriminalite",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI is stated to run CI-CERT (Côte d'Ivoire Computer Emergency Response Team), mandated to manage and respond to major incidents nationally or by sector; document published 2025-05-22, no other date.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "CI-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  },
+  {
+   "system": "CI-CERT",
+   "country_label": "Côte d'Ivoire Computer Emergency Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  },
+  {
+   "system": "PLCC",
+   "country_label": "Plateforme de Lutte Contre la Cybercriminalité",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  },
+  {
+   "system": "SOC",
+   "country_label": "Security Operation Center",
+   "class": "response",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Front matter only; no handled incident, alert or published count stated."
+}

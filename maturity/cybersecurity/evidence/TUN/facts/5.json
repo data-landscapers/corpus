@@ -1,0 +1,26 @@
+{
+ "slug": "2023-09-13-tunisie-arrete-label-g-cloud-n-cloud",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The order of 13 September 2023 has the Agence Nationale de la Cybersécurité award and withdraw G-cloud and N-cloud labels, citing decree-law 2023-17 of 11 March 2023 on cybersecurity.",
+   "as_of": "2023-09-13",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCS",
+   "country_label": "ANCS",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-22-tun-cybersecurite-circulaire-entreprises-publiques",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states ANCS published a list of N-Cloud entries on 17 September 2026, showing the national agency operating.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "ANCS",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCS",
+   "country_label": "ANCS",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A list of labelled cloud providers is not an alert."
+}

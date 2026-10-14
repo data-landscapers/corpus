@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-wearetech-burkina-faso-cybersecurite-plateformes-publiques",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ministry of Digital Transition stated that the National Cybersecurity Incident Response Center supported 783 organisations in 2025, so the body exists and operates; the source gives no count of incidents or alerts.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Cybersecurity Incident Response Center",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Incident Response Center",
+   "country_label": "Burkina Faso",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

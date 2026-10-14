@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-cog-2025-anssi-operations",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The government is stated to have allocated XAF 800,000,000 (about USD 1.3 million) to the operations of ANSSI, its National Cybersecurity Agency, for 2025; the document gives no event date, so its published date 2025-01 is used.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "State, under the Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

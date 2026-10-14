@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-cybersecurite-la-cote-d-ivoire-prepare-deux-formations-de-master",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document names ANSSI-CI as Côte d'Ivoire's national information systems security agency, working with ESATIC on two cybersecurity master's programmes from a workshop on 28 July 2026, and states it issues professional certifications.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-CI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Training programmes are not facts; only the body's existence is recorded."
+}

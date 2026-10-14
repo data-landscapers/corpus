@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-ghana-csa-operation-blackout-not-fbi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority issued a press release on 8 October 2026 saying it led and coordinated a cybercrime operation in Greater Accra (8 arrests, 120 suspected trafficking victims rescued), showing the national authority exists and operates.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

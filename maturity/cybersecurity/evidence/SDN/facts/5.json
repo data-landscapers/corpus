@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-12-sudan-sca-pki-national-root-key-launch",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Sudanese Cybersecurity Authority officially launched the National Root Key for the Public Key Infrastructure at a ceremony.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Sudanese Cybersecurity Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Cybersecurity Authority",
+   "country_label": "Sudan",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

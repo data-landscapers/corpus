@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-11-nam-csirt-namibia-cybersecurity-landscape-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The report states NAM-CSIRT's operationalisation is mandated by the National Cybersecurity Strategy and Awareness Raising Plan (2022-2027).",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "National Cybersecurity Strategy and Awareness Raising Plan (2022-2027)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The report states the national CSIRT was officially launched by the Minister of ICT on 14 April 2025 and completed Phase 3 of its three-year plan, marking full operationalisation.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "NAM-CSIRT states 1,701,883 cyber-attack events and 2,231,970 reported vulnerabilities for January to December 2025.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

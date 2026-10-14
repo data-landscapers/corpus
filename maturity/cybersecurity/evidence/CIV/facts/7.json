@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-23-cote-divoire-anssi-national-cybersecurity-strategy-2026-2030",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The national cybersecurity strategy (SNCS) 2021-2025 is stated adopted in December 2021, per ANSSI's director general; the 2026-2030 text is only a draft.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "SNCS 2021-2025",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI, headed by a director general, is stated to be evaluating the 2021-2025 strategy and preparing the 2026-2030 one at a workshop on 2026-07-23.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

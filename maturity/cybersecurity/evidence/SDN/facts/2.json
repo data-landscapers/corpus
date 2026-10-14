@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-19-sudan-cert-training-workshop",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Sudan Computer Emergency Response Team, at the Telecommunications and Post Regulatory Authority, is stated to operate and protect the state's information infrastructure; it ran a training workshop that ended 18 December 2025.",
+   "as_of": "2025-12-18",
+   "date_precision": "day",
+   "system": "Sudan-CERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan-CERT",
+   "country_label": "Sudan",
+   "class": "response",
+   "platform": "",
+   "owner": "Telecommunications and Post Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

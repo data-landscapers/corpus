@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-lesotho-computer-crime-cyber-security-bill-2024",
+  "facts": [],
+  "systems": [
+    {"system": "National Cyber Security Incident Response Team (proposed under 2024 Bill)", "country_label": "Lesotho", "class": "response", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cybersecurity Advisory Council (proposed under 2024 Bill)", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A bill proposing a national incident response team, council and critical information infrastructure designation; none stated as enacted or in operation."
+}

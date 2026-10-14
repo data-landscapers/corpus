@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-10-mali-conseil-des-ministres-creation-anssi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Council of Ministers communique of 10 June 2026 states the adopted texts create ANSSI, mandated for cybersecurity and coordinating the response to cyberattacks.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The communique states the Government adopted the National Cybersecurity Strategy and its 2026-2030 Action Plan by Decree n°2026-0097/PT-RM of 25 February 2026.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "Stratégie nationale de Cybersécurité du Mali",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

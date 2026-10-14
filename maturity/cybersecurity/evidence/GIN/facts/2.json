@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-18-anssi-atelier-validation-pssie",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI, under the Ministry of Posts, Telecommunications and the Digital Economy, organised a workshop on 18 April 2025 to validate the state information systems security policy (PSSIE), which still awaited formal adoption.",
+   "as_of": "2025-04-18",
+   "date_precision": "day",
+   "system": "ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information)",
+   "country_label": "ANSSI Guinée",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Posts, Telecommunications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "PSSIE only validated, not adopted, so no strategy fact."
+}

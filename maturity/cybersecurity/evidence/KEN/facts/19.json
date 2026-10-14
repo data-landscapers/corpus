@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-kenya-interpol-cyberattacks-ranking",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Communications Authority of Kenya data cited shows 2.35 billion cyber threat events in the three months to June 2026, with 10.6 million web application attacks and 8.4 million system attacks.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Communications Authority of Kenya cyber threat reporting",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Communications Authority of Kenya cyber threat reporting",
+   "country_label": "Communications Authority of Kenya",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Interpol ranking, defacement and court findings are not facts."
+}

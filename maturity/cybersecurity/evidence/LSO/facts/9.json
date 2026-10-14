@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Ministry of ICT, with the Lesotho Communications Authority, officially launched the Interim Lesotho National Computer Security Incident Response Team (LesComCSIRT) in Maseru, per the government announcement of 29 July 2026 (published date used, no event date given).", "as_of": "2026-07-29", "date_precision": "day", "system": "LesComCSIRT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "LesComCSIRT", "country_label": "Interim Lesotho National Computer Security Incident Response Team (LesComCSIRT)", "class": "response", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation with the Lesotho Communications Authority", "tiers": "national, interim"},
+    {"system": "National Cybersecurity Forum", "country_label": "Lesotho National Cybersecurity Forum", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

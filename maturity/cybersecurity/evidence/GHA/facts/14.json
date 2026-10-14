@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-13-ghana-orc-fined-cybersecurity-breach",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority sanctioned the ORC and Purpleline on 12 August 2026 under the Cybersecurity Act, 2020 (Act 1038); the article is dated 13 August 2026.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The CSA is stated to treat the Office of the Registrar of Companies as a designated critical information infrastructure institution, directed on 15 June 2026 to engage only licensed providers.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "Sanctions are not incidents handled or alerts issued, so no response fact."
+}

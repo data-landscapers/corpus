@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-12-anssi-guinee-alerte-manipulations-par-ia",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article describes ANSSI as the national agency, operating an official Facebook page and stating it has technical means to trace online activity.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANSSI issued a public alert on its official Facebook page about illicit AI-generated images and videos targeting public figures, reported 12 September 2025.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information)",
+   "country_label": "ANSSI Guinée",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Posts, Telecommunications and the Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

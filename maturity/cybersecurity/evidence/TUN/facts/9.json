@@ -1,0 +1,11 @@
+{
+  "slug": "2023-03-11-tunisie-decret-loi-2023-17-cybersecurite",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Decree-law 2023-17 of 11 March 2023 (Art. 4) creates the Agence nationale de la cybersécurité as a public establishment under the communication technologies ministry, succeeding the earlier ANSI (Art. 27); it takes effect six months after publication.", "as_of": "2023-03-11", "date_precision": "day", "system": "Agence nationale de la cybersécurité", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "Decree-law 2023-17 (Arts. 6, 20-21) defines vital digital infrastructure, subjects it to mandatory audit, requires operators to report incidents immediately to the national cyber-emergency contact point, and says the list of operators is fixed by decree; the document does not state that the list was issued.", "as_of": "2023-03-11", "date_precision": "day", "system": "Agence nationale de la cybersécurité", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de la cybersécurité", "country_label": "TUN", "class": "response", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-19-civ-lf-2026-annexe-1-annexe-fiscale-companion",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The 2026 finance law's fiscal annex (Article 22) earmarks 2% of the tax on telecoms and money-transfer companies to ANSSI, showing the agency exists and is funded by law; dated by the law of 19 December 2025.", "as_of": "2025-12-19", "date_precision": "day", "system": "ANSSI", "class": "response"}
+  ],
+  "systems": [
+    {"system": "ANSSI", "country_label": "ANSSI", "class": "response", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

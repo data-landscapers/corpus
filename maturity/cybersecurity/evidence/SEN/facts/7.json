@@ -1,0 +1,31 @@
+{
+ "slug": "2026-08-17-senegal-critical-infrastructure-bill-ministry-details",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Cybersecurity Authority (proposed)",
+   "country_label": "National Cybersecurity Authority (proposed)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National CERT (proposed)",
+   "country_label": "National CERT (proposed)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Sector-specific CERTs (proposed)",
+   "country_label": "Sector-specific CERTs (proposed)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Bill only proposes the authority and CERTs; a proposal is not a fact."
+}

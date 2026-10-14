@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-03-ken-odpp-rapid-reference-guide-cybercrimes-act-cap-79c",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The guide states the National KE-CIRT/CC, housed within the Communications Authority, functions as Kenya's operational national point of contact for cybersecurity incidents; published 2026-09-03, no earlier date given.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The guide states the National Computer and Cybercrimes Coordination Committee (NC4) is established under section 4 of the Computer Misuse and Cybercrimes Act as the multi-agency body responsible for national cybersecurity policy and coordination.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NC4",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The guide states NC4 may designate systems in the sectors of the second schedule of the 2024 Critical Information Infrastructure and Cybercrime Management Regulations as CII, with operators subject to audit, risk assessment and mandatory 24-hour breach reporting.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "NC4 CII regime",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "NC4",
+   "country_label": "National Computer and Cybercrimes Coordination Committee",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Kenya (CMCA s.4)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-22-nga-ngcert-ransomware-phobos-advisory
+NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-15-nga-ngcert-advisory-escalating-cybersecurity-threats
+NGA,National Cybersecurity Coordination Centre,National Cybersecurity Coordination Centre,response,,Office of the National Security Adviser,,2026-08-22-businessday-nigeria-uk-cyber-alliance-ai-threats
+NGA,NCC Computer Security Incident Response Team,NCC Computer Security Incident Response Team,other,,Nigerian Communications Commission,,2026-03-05-ncc-4-hour-cyber-incident-reporting-crf
+NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-02-23-cyber-resilience-framework-nigeria-communication-sector-crf-ncs
+NGA,National Cybersecurity Coordination Centre,National Cybersecurity Coordination Centre,response,,,,2026-02-23-cyber-resilience-framework-nigeria-communication-sector-crf-ncs
+NGA,NCC-CSIRT,NCC-CSIRT,other,,Nigerian Communications Commission,,2026-02-23-cyber-resilience-framework-nigeria-communication-sector-crf-ncs
+NGA,ngCERT,ngCERT (Nigeria Computer Emergency Response Team),response,csirt.ncc.gov.ng,Nigerian Communications Commission,,2026-09-24-nga-ngcert-whatsapp-vulnerability-advisory
+NGA,ngCERT,ngCERT (Nigeria Computer Emergency Response Team),response,csirt.ncc.gov.ng,Nigerian Communications Commission,,2026-09-19-nga-ngcert-router-implant-advisory
+NGA,"National Cybersecurity Centre, Bayero University Kano",NITDA National Cybersecurity Centre (BUK),other,,NITDA,,2025-05-28-nitda-cybersecurity-centre-kano-buk
+NGA,NCC-CSIRT,NCC-CSIRT (Nigerian Communications Commission),response,,Nigerian Communications Commission,,2026-09-30-nga-ncc-csirt-ddos-malware-advisory-communications-sector
+NGA,ngCERT,Nigeria Computer Emergency Response Team (ngCERT),response,,,,2026-09-26-nga-thisdaylive-ai-agent-cybersecurity-op-ed
+NGA,Ng-CERT,Ng-CERT,response,,,,2024-11-17-india-nigeria-joint-statement-modi-visit
+NGA,National Cybercrime Centre (NCCC) reporting portal,Nigeria,other,,Nigeria Police Force,,2026-09-07-nigeria-police-vigilant-app-fraud-reporting
+NGA,Cyber Resilience Framework for the Nigeria Communication Sector (CRF-NCS),CRF-NCS,other,,Nigerian Communications Commission,,2026-08-07-ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos
+NGA,Ministerial Advisory Council on Cybersecurity,Ministerial Advisory Council on Cybersecurity,other,,"Ministry of Communications, Innovation and Digital Economy",,2026-08-04-nigeria-now-west-africas-digital-powerhouse-says-tijani
+NGA,NPF National Cybercrime Centre (NPF-NCCC),Nigeria Police Force National Cybercrime Centre,other,,Nigeria Police Force,,2025-01-09-nigeria-police-cybercrime-unit-interpol
+NGA,ngCERT,ngCERT,response,,,,2026-07-01-ncc-guidance-note-implementation-crf-ncs
+NGA,NCC-CSIRT,NCC-CSIRT,other,incident reporting portal; incident@csirt.ncc.gov.ng,Nigerian Communications Commission,,2026-07-01-ncc-guidance-note-implementation-crf-ncs

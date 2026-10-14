@@ -1,0 +1,26 @@
+{
+ "slug": "2021-10-02-cert-gh-rfc-2350-profile",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The CERT-GH RFC 2350 profile v2.0 describes the Ghana National Computer Emergency Response Team as a unit under the Cyber Security Authority providing 24-hour incident response.",
+   "as_of": "2021-10-02",
+   "date_precision": "day",
+   "system": "Ghana National Computer Emergency Response Team (CERT-GH)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National Computer Emergency Response Team (CERT-GH)",
+   "country_label": "CERT-GH",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

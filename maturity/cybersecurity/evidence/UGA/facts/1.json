@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-23-uga-ugcert-cybersecurity-training-drill",
+  "facts": [],
+  "systems": [
+    {"system": "UgCERT (Uganda Computer Emergency Response Team)", "country_label": "Uganda", "class": "response", "platform": "", "owner": "Uganda Communications Commission", "tiers": ""}
+  ],
+  "note": "Document describes UCC's UgCERT running a training and drill for communications-sector operators; it does not call the team national, and a drill is not a fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-29-tcd-budget-general-2024-fascicule-companion",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The 2024 budget volume lists ANSICE, the data-protection and cybersecurity agency, with a new 400,000,000 FCFA transfer line under the Ministry of Public Security, against nil in 2023.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE (Agence Nationale de Sécurité Informatique et de Certification Électronique)",
+   "country_label": "ANSICE",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-12-dgssi-circulaire-02-2023-directive-nationale-securite-si-v2",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The DGSSI is stated to have updated the national information security directive (DNSSI v2.0, Circulaire 2/2023) drawing on its own control, audit and incident-handling actions across organisations.",
+   "as_of": "2023-01-12",
+   "date_precision": "day",
+   "system": "DGSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSSI",
+   "country_label": "DGSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Directive scope covers vital-importance infrastructures but states no designation or incident reporting duty to the body."
+}

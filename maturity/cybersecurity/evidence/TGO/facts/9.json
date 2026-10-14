@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-19-republicoftogo-ancy-alerte-compromission-comptes",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "ANCy issued a high-severity alert on an active account-compromise campaign hitting WhatsApp, Facebook and other services, urging two-factor verification.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document describes ANCy as the national cybersecurity agency issuing alerts to users.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCy",
+   "country_label": "Agence nationale de la cybersécurité (ANCy)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

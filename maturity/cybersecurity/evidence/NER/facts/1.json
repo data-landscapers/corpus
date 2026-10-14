@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-24-national-committee-critical-digital-infrastructure-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "centre national de cyber-sécurité (CNAC), with a Security Operations Centre and a CERT", "country_label": "Centre national de cyber-sécurité (CNAC)", "class": "response", "platform": "", "owner": "Ministry of Communication and New Information Technologies", "tiers": ""}
+  ],
+  "note": "The CNAC is named only as one of the critical digital infrastructures a new committee is to deploy and operationalise; no creation instrument, operation, incident, designation or figures are stated."
+}

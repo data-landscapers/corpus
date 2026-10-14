@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-12-ken-css-cj-koome-make-new-appointments-as-lorna-ogolla",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "A gazette notice dated 2026-09-11 appointed two members to the board of the National Cybersecurity Agency (NCA) for three-year terms, showing the agency exists and operates.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency (NCA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency (NCA)",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Kenya (Interior CS appoints board)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

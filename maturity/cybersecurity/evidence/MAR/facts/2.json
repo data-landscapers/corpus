@@ -1,0 +1,46 @@
+{
+ "slug": "2024-01-01-dgssi-strategie-nationale-cybersecurite-2030",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The strategy states Morocco adopted its first national cybersecurity strategy in 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Stratégie Nationale de Cybersécurité (2012)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The DGSSI publishes the Stratégie Nationale de Cybersécurité 2030 as the successor to the 2012 strategy, with 4 pillars, 11 objectives, 26 initiatives and 60 actions; the document is undated and its date here is the 2024 published proxy.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Stratégie Nationale de Cybersécurité 2030",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The strategy's legal timeline states Décret n° 2-11-509 created the DGSSI in 2011.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "DGSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSSI",
+   "country_label": "DGSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

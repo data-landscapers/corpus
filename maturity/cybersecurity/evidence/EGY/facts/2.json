@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-27-egy-technotime-cybersecurity-digital-sovereignty-arab-security-conference",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "An NTRA vice president and a deputy minister are reported saying the National Cybersecurity Strategy 2023-2027 is being implemented.",
+   "as_of": "2026-09-27",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The NTRA vice president for cybersecurity is reported saying Egypt established the Supreme Cybersecurity Council and that NTRA monitors cyber threats around the clock; national computer emergency response capabilities are cited.",
+   "as_of": "2026-09-27",
+   "date_precision": "day",
+   "system": "Supreme Cybersecurity Council",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Supreme Cybersecurity Council",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "NTRA national computer emergency response capabilities",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

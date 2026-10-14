@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-01-liberia-national-cybersecurity-strategy-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "National Cybersecurity Council (NCC)", "country_label": "Liberia", "class": "", "platform": "", "owner": "Ministry of State for Presidential Affairs and Ministry of Posts and Telecommunications (proposed co-chairs)", "tiers": ""},
+    {"system": "National Cybersecurity Agency (NCA)", "country_label": "Liberia", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Incident Response Unit / CSIRT", "country_label": "Liberia", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Strategy text (cover July 2024, period 2025-2029) carries 'Draft' running headers and no adoption instrument; the body, council, CSIRT and incident reporting are all proposed actions, and it states no national response team exists, so no foundation, response, cii or figures fact."
+}

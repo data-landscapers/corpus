@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-16-bfa-conseil-ministres-mtdpce-projets-specifiques-9113-millions",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Council of Ministers of 16 April 2026 appointed a director-general of ANSSI.",
+   "as_of": "2026-04-16",
+   "date_precision": "day",
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Burkina Faso",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-18-tra-egypt-tier1-itu-cybersecurity-index",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NTRA, through the Egyptian Computer Emergency Readiness Team (EG-CERT), is stated to represent Egypt in the ITU index; EG-CERT is stated to exist and play a role in cybersecurity cooperation. No date given, so the published date 2024-09-18 is used.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "EG-CERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The document cites Egypt's National Cybersecurity Strategy (2023-2027) as a driver of its progress. No adoption date given, so the published date 2024-09-18 is used.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EG-CERT (Egyptian Computer Emergency Readiness Team)",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "NTRA",
+   "tiers": ""
+  },
+  {
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "country_label": "Egypt",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-sen-aps-forum-prestataires-cybersecurite-optic-dcssi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "DCSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DCSSI (Direction générale du chiffre et de la sécurité des systèmes d'information)",
+   "country_label": "DCSSI (Direction générale du chiffre et de la sécurité des systèmes d'information)",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident response, designation or figures stated; law adopted 2026-08-20 described only in general terms."
+}

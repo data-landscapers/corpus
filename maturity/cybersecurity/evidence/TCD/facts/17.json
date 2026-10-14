@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The National Agency for Information Security and Electronic Certification (ANSICE) is stated to operate: on 5 February 2026 it signed a tripartite agreement with ADETIC and Techso Group for a security audit and certification of the national data center, with its deputy director general quoted.", "as_of": "2026-02-05", "date_precision": "day", "system": "ANSICE (National Agency for Information Security and Electronic Certification)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "ANSICE (National Agency for Information Security and Electronic Certification)", "country_label": "Chad", "class": "response", "platform": "", "owner": "Government of Chad", "tiers": "national"}
+  ],
+  "note": ""
+}

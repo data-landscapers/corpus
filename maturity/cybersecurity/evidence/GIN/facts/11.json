@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Smart Africa's profile of Guinea names ANSSI as one of the newly structured agencies, in charge of cybersecurity; no date of creation is given, so the document's publication date is used.", "as_of": "2025-09-09", "date_precision": "day", "system": "ANSSI", "class": "response"}
+  ],
+  "systems": [
+    {"system": "ANSSI", "country_label": "Guinea", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

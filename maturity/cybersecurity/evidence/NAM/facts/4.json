@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-23-namibia-cyber-vulnerabilities-surge-cran-namcsirt",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT, the national cyber security incident response team housed at CRAN, is stated to exist and operate: it is housed under CRAN and headed by CRAN's CEO.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "NAM-CSIRT's Q2 2026 newsletter reports 513,921 cyber vulnerabilities and 161,547 cyber events detected in April-June 2026, up 39.8% and 56.7% on the previous quarter. (Reported by New Era, 2026-07-23.)",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "After the March 2026 breach of Namibia Airports Company, NAM-CSIRT, CRAN, specialists and the company worked together to contain and investigate it.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "Namibia",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Regulatory Authority of Namibia (CRAN)",
+   "tiers": "national"
+  },
+  {
+   "system": "National Cybersecurity Incident Management Guidelines 2026",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

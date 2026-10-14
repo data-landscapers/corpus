@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-23-kenya-approves-national-cyber-security-agency-itweb",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The National Cyber Security Agency was established through the National Cyber security Agency Order, 2026, issued by the President under the State Corporations Act, and Parliament was reported to have approved it; as_of is the document's published date, as it gives no other.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency (NCSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency (NCSA)",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  },
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National Kenya Computer Incident Response Team Coordination Centre",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident, alert, designation or figure stated."
+}

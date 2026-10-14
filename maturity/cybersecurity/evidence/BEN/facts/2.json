@@ -1,0 +1,13 @@
+{
+  "slug": "2021-10-27-sgg-decret-2021-550-pssie",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Decree 2021-550 cites decree 2018-529 of 14 November 2018 approving the statutes of the Agence nationale de la Securite des Systemes d'Information (ANSSI), and names ANSSI the competent national authority for information systems security, which evaluates state IS security policy yearly.", "as_of": "2018-11-14", "date_precision": "day", "system": "ANSSI", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The annexed policy states Benin has adopted its Strategie Nationale de Securite Numerique (SNSN); no period or adoption date is given, so the decree's 2021-10-27 date is used.", "as_of": "2021-10-27", "date_precision": "day", "system": "Strategie Nationale de Securite Numerique (SNSN)", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The annexed policy's glossary defines bjCSIRT as the national computer security incident response team; the decree is dated 2021-10-27.", "as_of": "2021-10-27", "date_precision": "day", "system": "bjCSIRT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "ANSSI", "country_label": "Agence nationale de la Securite des Systemes d'Information", "class": "response", "platform": "", "owner": "Ministry of Digital Affairs", "tiers": ""},
+    {"system": "bjCSIRT", "country_label": "Equipe nationale de reponse aux incidents de securite informatique", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "State entities must report significant incidents to ANSSI, but that covers state bodies, not designated critical infrastructure operators, so no cii fact; no incident handled or figures stated."
+}

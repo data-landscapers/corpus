@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-eth-2024-135",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Ministry of Finance record states INSA is Ethiopia's national information- and network-security agency, appropriated ETB 1,600,000,000 for 2024/25 with cyber programmes (Information Assurance, National Cyber Capabilities), so it exists and operates; as_of is the appropriation date.",
+   "as_of": "2024-07-04",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": "national"
+  }
+ ],
+ "note": "Budget line; no incident, CII or figures stated."
+}

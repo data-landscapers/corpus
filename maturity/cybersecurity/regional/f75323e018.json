@@ -1,0 +1,6 @@
+{"slug":"2026-10-12-mar-maroc-ma-morocco-cybersecurity-week-rabat-african-network-cybersecurity-authorities","countries":{
+"MAR":{"facts":[
+{"sub_indicator":"readiness","aspect":"foundation","value":"body","fact":"Morocco's DGSSI, under the National Defense Administration, is stated to host Morocco CyberSecurity Week and to have deployed security operations centres and strengthened oversight and auditing in recent years.","as_of":"2026-10-12","date_precision":"day","system":"DGSSI","class":"response"}],
+"systems":[{"system":"DGSSI","country_label":"General Directorate of Information Systems Security","class":"response","platform":"","owner":"National Defense Administration","tiers":""}],
+"note":"The conference, ITU exercise and ANCA meetings are not facts; no alert, designation or figures stated."},
+"GHA":{"facts":[],"systems":[],"note":"Ghana is not named in the story's text."}}}

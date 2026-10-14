@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-11-gouv-conseil-ministres-cnac-ance",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The Council of Ministers communiqué of 11 October 2025 states that Niger equipped itself in 2022 with a national cybersecurity strategy, aiming at a secure and resilient cyberspace.", "as_of": "2022", "date_precision": "year", "system": "Stratégie Nationale en matière de cybersécurité (2022)", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Council of Ministers adopted on 11 October 2025 the decrees creating the Centre National de Cybersécurité (CNAC) as a public administrative establishment and approving its statutes, to coordinate national cybersecurity strategy including critical systems.", "as_of": "2025-10-11", "date_precision": "day", "system": "Centre National de Cybersécurité (CNAC)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Centre National de Cybersécurité (CNAC)", "country_label": "NER", "class": "response", "platform": "", "owner": "State (public administrative establishment)", "tiers": ""},
+    {"system": "Agence Nigérienne de Certification Electronique (ANCE)", "country_label": "NER", "class": "other", "platform": "", "owner": "State", "tiers": ""}
+  ],
+  "note": ""
+}

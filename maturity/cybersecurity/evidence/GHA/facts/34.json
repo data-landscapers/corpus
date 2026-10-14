@@ -1,0 +1,56 @@
+{
+ "slug": "2026-09-07-ghana-sam-george-government-accountability-series-full-text",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The minister states the Cyber Security Authority operates a CERT-GH, which handled incidents in January-June 2026 (published 2026-09-07).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Cyber Security Authority (CERT-GH)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The Cyber Security Authority's CERT-GH responded to 3,363 cybersecurity incidents between January and June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Cyber Security Authority (CERT-GH)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "Vulnerability assessments were completed for 25 Critical Information Infrastructure institutions across education, health, public administration, security and utilities in January-June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Cyber Security Authority (CERT-GH)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The minister reported CERT-GH responded to 3,363 incidents for January-June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Cyber Security Authority (CERT-GH)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CERT-GH)",
+   "country_label": "Ghana",
+   "class": "response",
+   "platform": "",
+   "owner": "Cyber Security Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

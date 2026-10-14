@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-11-premier-atelier-reseau-national-rssi-linfodrome",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document states ANSSI's Director General, General Guelpétchin Ouattara, spoke at the 10 June 2026 launch of the national network of public-administration information security officers (RN-RSSI).",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-CI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "RN-RSSI",
+   "country_label": "Réseau National des RSSI de l'administration publique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": "Network launch is a government coordination network, not an incident or alert by the national body."
+}

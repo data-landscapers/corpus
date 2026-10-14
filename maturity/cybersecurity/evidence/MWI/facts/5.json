@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-11-malawi-macra-cert-mikrotik-vulnerability-alert",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "Malawi CERT, through MACRA, publicly alerted individuals, businesses and ISPs to the actively exploited MikroTik RouterOS vulnerabilities (CVE-2026-67276, CVE-2026-86060, CVE-2026-67277) and advised patching.", "as_of": "2026-09-11", "date_precision": "day", "system": "Malawi CERT", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article states Malawi CERT is a specialised unit under MACRA and the national focal point for coordinating cybersecurity incidents and threat responses.", "as_of": "2026-09-11", "date_precision": "day", "system": "Malawi CERT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Malawi CERT", "country_label": "Malawi CERT", "class": "response", "platform": "", "owner": "Malawi Communications Regulatory Authority", "tiers": ""}
+  ],
+  "note": ""
+}

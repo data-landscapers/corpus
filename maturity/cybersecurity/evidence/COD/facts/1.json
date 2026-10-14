@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-rdc-chaine-responsabilite-visible-cybersecurite",
+  "facts": [],
+  "systems": [
+    {"system": "Agence nationale de cybersécurité", "country_label": "Agence nationale de cybersécurité", "class": "response", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Conseil national de cybersécurité", "country_label": "Conseil national de cybersécurité", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Minister calls for clearer roles among existing cyber bodies and a map of critical infrastructure still to be done; no creation, incident, designation or figures stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-12-adetic-audit-certification-data-center-national",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSICE's deputy director general took part on 10 February 2026 in a joint ADETIC, ANSICE and TECHSO-GROUP visit launching the security audit of the national data centre.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE (Agence nationale de sécurité informatique et de certification électronique)",
+   "country_label": "Chad",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

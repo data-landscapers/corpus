@@ -1,0 +1,35 @@
+{
+ "slug": "2026-07-09-anc-dj-cert-igad-cyber-exercise-lanation",
+ "countries": {
+  "DJI": {
+   "facts": [
+    {
+     "sub_indicator": "readiness",
+     "aspect": "foundation",
+     "value": "body",
+     "fact": "The report of 9 July 2026 states Djibouti created the Autorité Nationale de Cybersécurité, with an operational team, the DJ-CERT, that took part in the IGAD exercise of 26-30 June 2026.",
+     "as_of": "2026-06",
+     "date_precision": "month",
+     "system": "ANC Djibouti (DJ-CERT)",
+     "class": "response"
+    }
+   ],
+   "systems": [
+    {
+     "system": "ANC Djibouti (DJ-CERT)",
+     "country_label": "Autorité Nationale de Cybersécurité",
+     "class": "response",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "The IGAD exercise is a drill, not a response."
+  },
+  "ETH": {
+   "facts": [],
+   "systems": [],
+   "note": "Ethiopia only hosted the exercise in Addis Ababa."
+  }
+ }
+}

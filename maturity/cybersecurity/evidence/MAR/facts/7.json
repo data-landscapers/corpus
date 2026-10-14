@@ -1,0 +1,8 @@
+{
+  "slug": "2020-12-31-morocco-loi-43-20-services-confiance-transactions-electroniques",
+  "facts": [],
+  "systems": [
+    {"system": "DGSSI", "country_label": "Morocco", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Law 43-20 covers electronic trust services and cryptology and an Autorite nationale des services de confiance; it states nothing on a national cyber response body, strategy, incidents or critical infrastructure."
+}

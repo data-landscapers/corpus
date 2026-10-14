@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-18-citi-orc-challenges-csa-sanction-attorney-general",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The report says the Cyber Security Authority sanctioned the Office of the Registrar of Companies on 12 August 2026 over non-compliance with requirements for critical information infrastructure institutions, so the ORC is treated as one.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The report states the Cyber Security Authority issued Tier One directives on 20 May and 15 June 2026 and imposed a sanction on 12 August 2026, so it exists and operates.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Cyber Security Authority (CSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority (CSA)",
+   "country_label": "Cyber Security Authority",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "Sanctions are not incidents handled or alerts issued, so no response fact."
+}

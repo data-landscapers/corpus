@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-10-experts-back-tanzania-cyber-security-push",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The article says Tanzania recently launched a National Cybersecurity Strategy (2023-2028); no launch date is given, so as_of is the document's published date.", "as_of": "2025-04-10", "date_precision": "day", "system": "National Cybersecurity Strategy (2023-2028)", "class": "response"},
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article says the Tanzania Computer Emergency Response Team (TZ-CERT) reports a steady increase in cyber incidents in the country, so it exists and operates; as_of is the document's published date.", "as_of": "2025-04-10", "date_precision": "day", "system": "TZ-CERT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "TZ-CERT", "country_label": "Tanzania Computer Emergency Response Team (TZ-CERT)", "class": "response", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cybersecurity Strategy (2023-2028)", "country_label": "National Cybersecurity Strategy", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

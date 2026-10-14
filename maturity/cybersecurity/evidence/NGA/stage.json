@@ -1,0 +1,18 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "4",
+   "foundation": "body",
+   "response": "responded",
+   "cii": "designated",
+   "figures": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-015;NGA-017;NGA-018",
+   "gaps": "No source held says the national body published a count of incidents for a period ending since September 2024.",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

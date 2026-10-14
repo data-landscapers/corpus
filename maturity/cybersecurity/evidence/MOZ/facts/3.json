@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-23-mozambique-intic-cybersecurity-seminar-laws-13-14-2026-csirt",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INTIC says Law 13/2026 (Cybersecurity Law) formally creates the national-level cyber incident response team and sets its operation at INTIC.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Equipa Nacional de Resposta a Incidentes Ciberneticos",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "INTIC's cybersecurity head says the National Cybersecurity Policy and Implementation Strategy was approved by Resolution 69/2021 of 31 December.",
+   "as_of": "2021-12-31",
+   "date_precision": "day",
+   "system": "Politica Nacional de Seguranca Cibernetica e Estrategia de Implementacao (PNCS)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equipa Nacional de Resposta a Incidentes Ciberneticos",
+   "country_label": "Equipa Nacional de Resposta a Incidentes Ciberneticos",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "2026-2030 strategy under revision (not a fact); training, SIM3 certification and ACIPOL CSIRT proposal are not facts."
+}

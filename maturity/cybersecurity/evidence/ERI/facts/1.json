@@ -1,0 +1,11 @@
+{
+  "slug": "2015-03-12-eritrea-itu-cyberwellness-profile",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "none",
+     "fact": "The ITU Cyberwellness Profile, last updated 12 March 2015, states Eritrea has no officially recognized national cybersecurity strategy, no officially recognized national CIRT and no agency responsible for cybersecurity.",
+     "as_of": "2015-03-12", "date_precision": "day",
+     "system": "National cybersecurity strategy and national CIRT", "class": "response"}
+  ],
+  "systems": [],
+  "note": ""
+}

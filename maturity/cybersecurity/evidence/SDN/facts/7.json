@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-suna-sudan-arab-experts-cybercrime-meeting-tunisia",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Sudan's Justice Ministry undersecretary told an Arab experts meeting in Tunis that a cybersecurity agency has been created; the source gives no date for its creation, so as_of is the publication date, 2026-07-30.", "as_of": "2026-07-30", "date_precision": "day", "system": "Cybersecurity agency (Sudan)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Cybersecurity agency (Sudan)", "country_label": "Sudan", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-03-tgo-ancy-cybersecurity-talent-pool",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The document states that Togo has a 2024-2028 National Cybersecurity Strategy, which the ANCy call for a national expert pool supports.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Cybersecurity Strategy 2024-2028",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The National Cybersecurity Agency (ANCy) is stated to operate, issuing a call for expressions of interest dated 27 August 2026 to build a national pool of cyber experts.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCy (National Cybersecurity Agency)",
+   "country_label": "Togo",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

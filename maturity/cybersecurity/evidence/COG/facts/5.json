@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-aicto-anssi-congo-joins-aaeca-net",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI of the Republic of the Congo is stated to have signed the AAECA-Net accession charter in Tunis on 26 June 2026.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "State, under the Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

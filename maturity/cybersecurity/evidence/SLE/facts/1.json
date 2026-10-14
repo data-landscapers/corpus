@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-26-sierraloaded-digital-protection-plans-critical-sectors",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The National Cyber Security Coordination Centre (NC3) is stated to exist and to have developed, with MoCTI, draft sector-specific critical information infrastructure protection plans for energy, health, education and defence and security, presented for validation on 2026-08-26.", "as_of": "2026-08-26", "date_precision": "day", "system": "National Cyber Security Coordination Centre (NC3)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "National Cyber Security Coordination Centre (NC3)", "country_label": "National Cyber Security Coordination Centre", "class": "response", "platform": "", "owner": "MoCTI", "tiers": ""}
+  ],
+  "note": "CII plans are drafts at validation and the law's mandatory protection is not a designation or reporting duty, so no cii fact."
+}

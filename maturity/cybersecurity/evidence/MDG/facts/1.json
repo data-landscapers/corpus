@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-19-ecofin-madagascar-cybersecurity-strategy-groundwork",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article quotes the head of digital incident response at Madagascar's national Computer Incident Response Team (CIRT), which is described as operating at the December 2025 strategy kickoff workshop; as_of is the article's published date.", "as_of": "2025-12-19", "date_precision": "day", "system": "CIRT (national Computer Incident Response Team)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "CIRT (national Computer Incident Response Team)", "country_label": "Madagascar", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "National cybersecurity strategy is only being drafted (kickoff workshop, three-month target), so no strategy fact."
+}

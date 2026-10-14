@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-03-nation-africa-web-attacks-up-44pc-state-isp-systems",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "The Communications Authority of Kenya's cyber-threat update says 10.6 million advisories on web application attacks were issued in the quarter ended June 2026, and it advised organisations to disable SSL 3.0 and patch.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Communications Authority of Kenya cyber threat reporting",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "The Communications Authority of Kenya reported 2.36 billion cyber threat events for April to June 2026 (system attacks 2.25 billion, malware 59 million, brute-force 24.2 million) and 10.6 million advisories issued, a 1.9% rise on the prior quarter.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Communications Authority of Kenya cyber threat reporting",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Communications Authority of Kenya cyber threat reporting",
+   "country_label": "Communications Authority of Kenya",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

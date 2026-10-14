@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-29-congo-arpce-anssi-cybersecurity-pact-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document states ANSSI, the National Agency for Information Systems Security, signed an incident-handling cooperation MoU with the telecom regulator ARPCE on 25 April 2025 and received a government allocation of $1.3 million for its 2025 operations.",
+   "as_of": "2025-04-25",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI (Agence nationale de securite des systemes d'information)",
+   "country_label": "Agence nationale de la securite des systemes d'information (ANSSI)",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

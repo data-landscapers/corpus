@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-eth-fana-day-of-resilience-insa-ai-institute-capabilities",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Fana reports INSA is recognised on the Day of Resilience for its efforts to counter cyberattacks targeting the country, stating it operates as a national cyber body; no specific incident or alert is given.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": "national"
+  }
+ ],
+ "note": "Operating body only; no dated incident handled or alert."
+}

@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,interim CSIRT,Interim Cybersecurity Incident Response Team,response,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems
+LSO,Lesotho Communications Authority as interim CSIRT,Lesotho Communications Authority (interim CSIRT),response,,Lesotho Communications Authority,,2026-09-23-lso-govls-cybersecurity-bill-2026-consultation
+LSO,Lesotho national CIRT,Lesotho national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
+LSO,Computer Security Incident Response Team (CSIRT),Lesotho,response,,Lesotho Communications Authority,,2026-09-24-lso-lestimes-cybersecurity-bill-2026-consultation
+LSO,National Cybersecurity Agency (proposed under Cybersecurity Bill 2026),Lesotho,other,,,,2026-09-24-lso-lestimes-cybersecurity-bill-2026-consultation
+LSO,National Cybersecurity Forum (launched July 2026),Lesotho,other,,MICSTI,,2026-09-24-lso-lestimes-cybersecurity-bill-2026-consultation
+LSO,National Cyber Security Incident Response Team (proposed under 2024 Bill),Lesotho,response,,,,2024-01-01-lesotho-computer-crime-cyber-security-bill-2024
+LSO,National Cybersecurity Advisory Council (proposed under 2024 Bill),Lesotho,other,,,,2024-01-01-lesotho-computer-crime-cyber-security-bill-2024
+LSO,National Computer Security Incident Response Team,Lesotho National CSIRT,response,,"Ministry of Information, Communications, Science, Technology and Innovation",national,2026-07-31-lesotho-national-cybersecurity-itweb
+LSO,National Cybersecurity Forum,Lesotho National Cybersecurity Forum,other,,,,2026-07-31-lesotho-national-cybersecurity-itweb
+LSO,LesComCSIRT,Interim Lesotho National Computer Security Incident Response Team (LesComCSIRT),response,,"Ministry of Information, Communications, Science, Technology and Innovation with the Lesotho Communications Authority","national, interim",2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum
+LSO,National Cybersecurity Forum,Lesotho National Cybersecurity Forum,other,,,,2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum
+LSO,Government Security Operations Centre (GovSOC),GovSOC,other,,Government of Lesotho,government systems; to be established,2025-02-19-lesotho-budget-speech-2025-26

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-ict-gov-sc-national-cybersecurity-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "CERT-SC", "country_label": "Seychelles", "class": "response", "platform": "", "owner": "Department of ICT", "tiers": ""}
+  ],
+  "note": "The 2019-2024 strategy document says CERT-SC has yet to be set up and proposes its governance; it does not state the strategy adopted or any body created, and gives no incident, CII designation or figures."
+}

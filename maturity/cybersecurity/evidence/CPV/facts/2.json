@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-30-governo-lanca-soc-csirt-rtpe-nosi-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Expresso das Ilhas reports the minister announced the public launch of the CSIRT of the State's Private Technological Network, built by NOSi, to strengthen the State's capacity to respond to cyber incidents; no event date is given, so the publication date 2025-10-30 is used.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "CSIRT RTPE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT RTPE",
+   "country_label": "Cabo Verde",
+   "class": "response",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  },
+  {
+   "system": "SOC RTPE",
+   "country_label": "Cabo Verde",
+   "class": "other",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "No incident handled, alert, critical infrastructure designation or figures stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-kenya-national-cybersecurity-agency-chair",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Kenya's ICT Principal Secretary announced the appointment of the inaugural non-executive board chair of the National Cybersecurity Agency, describing the agency's establishment as a milestone; as_of is the document's published date, as it gives no other.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "National Cybersecurity Agency (NCSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency (NCSA)",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

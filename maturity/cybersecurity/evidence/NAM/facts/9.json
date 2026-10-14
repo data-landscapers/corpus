@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-nam-csirt-data-protection-advisory",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "NAM-CSIRT is stated to be housed at the Communications Regulatory Authority of Namibia (CRAN) and to have issued an advisory.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NAM-CSIRT issued a public advisory urging stronger data protection and responsible handling of data leaked in cyber incidents.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

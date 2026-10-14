@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,readiness,foundation,coverage,body,2025-10-11,NER-002,NER-001=strategy,
+NER,readiness,response,coverage,,,,,nothing held
+NER,readiness,cii,coverage,,,,,nothing held
+NER,readiness,figures,coverage,,,,,nothing held

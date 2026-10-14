@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-30-nga-ncc-csirt-ddos-malware-advisory-communications-sector",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NCC-CSIRT of the Nigerian Communications Commission issued a public security advisory on DDoS threats driven by botnet malware strains (Andromeda, BruteForceBot, Win.AsyncRAT, Gamut, StealRat) in the communications sector, rating damage and probability high.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "NCC-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NCC-CSIRT",
+   "country_label": "NCC-CSIRT (Nigerian Communications Commission)",
+   "class": "response",
+   "platform": "",
+   "owner": "Nigerian Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,18 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "readiness",
+   "stage": "5",
+   "foundation": "body",
+   "response": "responded",
+   "cii": "",
+   "figures": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-013;KEN-016;KEN-017",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
+  }
+ ]
+}

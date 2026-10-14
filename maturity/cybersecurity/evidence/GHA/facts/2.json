@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-08-gha-techafricanews-csa-ot-critical-infrastructure-resilience",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The communications minister said Ghana has 13 designated Critical Information Infrastructure sectors and about 200 institutions identified as CII Owners, and that compliance is mandatory; event date not stated, published date used.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Cyber Security Authority is stated to hold a regulatory and enforcement mandate and ran a workshop on critical information infrastructure in Accra; published date used as event date is not stated.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

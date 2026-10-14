@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The World Bank restructuring paper lists an activity to enhance the National CERT Forensic Laboratory with mobile forensic kits (US$600,000), which presupposes an existing national CERT; no date given for the CERT, so the paper's published date is used.", "as_of": "2025-06-27", "date_precision": "day", "system": "National CERT", "class": "response"}
+  ],
+  "systems": [
+    {"system": "National CERT", "country_label": "Uganda", "class": "response", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

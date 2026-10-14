@@ -1,0 +1,26 @@
+{
+ "slug": "2018-12-07-togo-loi-2018-026-cybersecurite-lutte-contre-cybercriminalite-jo",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Article 6 of law 2018-026 creates the Agence nationale de la cybersécurité (ANCy), national authority for essential infrastructure security, with an alert and response structure attached.",
+   "as_of": "2018-12-07",
+   "date_precision": "day",
+   "system": "ANCy",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCy",
+   "country_label": "Agence nationale de la cybersécurité (ANCy)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

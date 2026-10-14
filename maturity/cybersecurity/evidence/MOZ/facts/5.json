@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-02-intic-relatorio-avaliacao-nacional-riscos-ciberneticos-infraestruturas-criticas",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "INTIC's report says it acts as National Cybersecurity Authority through the National CSIRT (CSIRT Nacional) under the national strategy.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "CSIRT Nacional",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The report says the national cybersecurity policy and strategy were approved by Resolution 69/2021 of 31 December.",
+   "as_of": "2021-12-31",
+   "date_precision": "day",
+   "system": "Politica e Estrategia Nacional de Seguranca Cibernetica",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "The report says the national risk assessment identified 29 critical information infrastructure systems from 18 institutions in five sectors; no register or operator reporting duty is stated.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Avaliacao Nacional de Riscos Ciberneticos (NCRA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSIRT Nacional",
+   "country_label": "CSIRT Nacional",
+   "class": "response",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "Risk assessment is not incident handling, so no response fact."
+}

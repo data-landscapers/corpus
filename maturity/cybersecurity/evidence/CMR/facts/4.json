@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-13-cmr-armp-ami-etude-datacenter-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CSIRT/SOC/PKI platform (planned, feasibility study)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Mines, Industry and Technological Development (MINMIDT)",
+   "tiers": ""
+  }
+ ],
+ "note": "A May 2024 call for consultants for a feasibility study of a planned CSIRT/SOC/PKI platform; it states no existing body, strategy, incident or figure."
+}

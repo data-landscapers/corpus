@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-anssi-congo-patn-bei-tender-national-cybersecurity-strategy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSSI is stated to have launched an international tender on 23 July 2026, under the EIB-financed PATN project, for drafting a national cybersecurity strategy; the strategy is not stated adopted.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "Congo",
+   "class": "response",
+   "platform": "",
+   "owner": "State, under the Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": "Strategy is being tendered for, not adopted: no strategy fact."
+}

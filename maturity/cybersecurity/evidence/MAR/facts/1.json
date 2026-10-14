@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-21-hespress-morocco-fortibleed-macert-cyber-alert",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "maCERT, the DGSSI's cyber watch and response centre, issued a security warning bulletin (ref. 65471806/26) on the FortiBleed leak affecting Fortinet firewalls and SSL VPN gateways, saying several Moroccan institutions were affected and urging MFA and password changes.",
+   "as_of": "2026-06-21",
+   "date_precision": "day",
+   "system": "maCERT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "maCERT is described as the DGSSI's centre for vigilance, monitoring and response to cyber attacks, operating under the National Defence Administration.",
+   "as_of": "2026-06-21",
+   "date_precision": "day",
+   "system": "maCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "maCERT",
+   "country_label": "maCERT / DGSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "DGSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

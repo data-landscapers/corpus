@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-23-guinea-ecuatorial-ley-7-2024-redes-sociales-delitos-informaticos-ciberdelincuencia",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Article 21 of Ley 7/2024 of 23 December 2024 creates the National Agency for Cybersecurity and Critical Infrastructures (ANCIC) as an autonomous public body under the Presidency of the Government, with functions to manage cybersecurity through coordinated CERT/CSIRT teams, issue alerts on cyber incidents and respond to them.", "as_of": "2024-12-23", "date_precision": "day", "system": "Agencia Nacional de Ciberseguridad e Infraestructuras Críticas (ANCIC)", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Agencia Nacional de Ciberseguridad e Infraestructuras Críticas (ANCIC)", "country_label": "ANCIC", "class": "response", "platform": "", "owner": "Presidencia del Gobierno", "tiers": "national"},
+    {"system": "Ley 7/2024 cybercrime provisions and police cybercrime unit", "country_label": "Ley 7/2024", "class": "other", "platform": "", "owner": "Ministerio de Seguridad Nacional", "tiers": "national"}
+  ],
+  "note": "Foundation fact only: law creates ANCIC but states no incident handled, alert issued, designated infrastructure list or published figures; the national list of critical infrastructure is only to be proposed by ANCIC."
+}

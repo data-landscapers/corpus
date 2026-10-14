@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-09-thisdaysl-sierra-leone-cyberattack-44-websites",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CoCCA domain management system (.sl)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "MoCTI",
+   "tiers": ""
+  }
+ ],
+ "note": "Ministry (not a national cyber body) reports breach of the .sl registry; no national CERT or agency named."
+}

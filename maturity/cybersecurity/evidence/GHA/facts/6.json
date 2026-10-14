@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-08-gha-gna-csa-health-data-safeguards",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Ghana's Cyber Security Authority is stated to run engagements and assessments in the health sector that identified outdated systems and weak passwords (reported 8 October 2026).",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ghana government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

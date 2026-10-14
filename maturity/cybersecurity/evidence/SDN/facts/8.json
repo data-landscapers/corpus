@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Prime Minister Kamil Idris signed a decree on 5 November 2025 establishing the Sudanese Cybersecurity Authority, with two other authorities, under the Ministry of Digital Transformation and Communications.", "as_of": "2025-11-05", "date_precision": "day", "system": "Sudanese Cybersecurity Authority", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Sudanese Cybersecurity Authority", "country_label": "Sudan", "class": "response", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}
+  ],
+  "note": ""
+}

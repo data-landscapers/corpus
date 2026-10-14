@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-24-cote-divoire-health-ministry-cybersecurity-strategy",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "The document states a national workshop on 23 July 2026 reviewed the results (bilan) of the National Cybersecurity Strategy (SNCS) 2021-2025 and examined the draft for 2026-2030; only the 2021-2025 strategy is recorded, the 2026-2030 draft is not.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "SNCS 2021-2025",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The document states ANSSI-CI, with a Director General and a supervisory board, organised the 23 July 2026 national workshop on the cybersecurity strategy.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "ANSSI-CI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSSI-CI",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI-CI)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

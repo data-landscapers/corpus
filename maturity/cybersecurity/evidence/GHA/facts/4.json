@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-19-graphic-academic-city-digital-accountability-white-paper",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "published",
+   "fact": "A white paper co-released with the Cyber Security Authority reports 14,425 cybersecurity reports and enquiries in January to September 2025, of which 3,286 were confirmed incidents; the count is attributed to the white paper rather than stated as a CSA publication.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Authority",
+   "country_label": "Cyber Security Authority (CSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

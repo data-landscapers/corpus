@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-23-bfa-2025-31-anssi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The 2025 finance law (23 Dec 2024) appropriates XOF 498,036,000 to ANSSI, described as the national cybersecurity agency, under the digital ministry.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de sécurité des systèmes d'information (ANSSI)",
+   "country_label": "ANSSI",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

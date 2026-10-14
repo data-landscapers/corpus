@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-itu-dfs-security-lab-eyeradio",
+  "facts": [],
+  "systems": [
+    {"system": "NCA DFS Security Lab", "country_label": "South Sudan", "class": "other", "platform": "", "owner": "National Communication Authority", "tiers": ""}
+  ],
+  "note": "Describes a mobile-payment application security-testing lab at the telecom regulator, a sector-only team and training; no national CERT, strategy, alert or figures stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ANSICE, led by its director general, held a videoconference with US CISA on 24 January 2025 on threat monitoring, incident response and critical infrastructure protection.",
+   "as_of": "2025-01-24",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE (Agence nationale de sécurité informatique et de certification électronique)",
+   "country_label": "Chad",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

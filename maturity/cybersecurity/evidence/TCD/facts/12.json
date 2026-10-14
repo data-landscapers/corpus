@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-atpe-conseil-ordinaire-des-ministres-reforme-ansice",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The council of ministers record states that ANSICE was created by Law No. 006/PR/2015 of 10 February 2015 to protect information systems and electronic certification.",
+   "as_of": "2015-02-10",
+   "date_precision": "day",
+   "system": "ANSICE",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSICE (Agence Nationale de Sécurité Informatique et de Certification Électronique)",
+   "country_label": "ANSICE",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

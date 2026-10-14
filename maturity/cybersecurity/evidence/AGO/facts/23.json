@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola",
+  "facts": [
+    {"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy",
+     "fact": "Presidential Decree 256/25, published in the Diario da Republica on 3 December 2025 and in force on publication, approves Angola's Estrategia Nacional de Ciberseguranca; the text sets a five-year review and does not state a period for the strategy.",
+     "as_of": "2025-12-03", "date_precision": "day", "system": "Estrategia Nacional de Ciberseguranca", "class": "response"}
+  ],
+  "systems": [
+    {"system": "Estrategia Nacional de Ciberseguranca", "country_label": "Estrategia Nacional de Ciberseguranca", "class": "response", "platform": "", "owner": "Presidency of the Republic", "tiers": "national"}
+  ],
+  "note": ""
+}

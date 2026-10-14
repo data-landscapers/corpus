@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-07-eth-2026-135",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The 2026/27 federal budget appropriates ETB 3,108,049,744 to INSA, described as the national information- and network-security agency and the state's central cyber-security institution.",
+   "as_of": "2026-07-07",
+   "date_precision": "day",
+   "system": "Information Network Security Administration (INSA)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Network Security Administration (INSA)",
+   "country_label": "Information Network Security Administration (INSA)",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
