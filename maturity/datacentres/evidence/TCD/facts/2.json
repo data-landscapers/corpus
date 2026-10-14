@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-12-adetic-audit-certification-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Centre national des données numériques)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "State (ADETIC)",
+   "tiers": "government"
+  }
+ ],
+ "note": "National data centre awaiting audit/certification before official operation; state use only."
+}

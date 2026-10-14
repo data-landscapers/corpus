@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-07-bankygate-cib-egypt-svdc-uptime-tier-iii-certification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SVDC main data centre, Giza",
+      "country_label": "SVDC main data centre, Giza",
+      "class": "other",
+      "platform": "",
+      "owner": "Commercial International Bank (CIB) Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "Uptime Tier III Constructed Facility certification is for CIB's own bank data centre; no statement it sells space or computing to others."
+}

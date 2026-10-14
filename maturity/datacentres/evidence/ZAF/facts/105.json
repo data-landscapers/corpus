@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-visa-zaf-datacenter-johannesburg-2025-visa-south-africa-data-centre-and",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Visa Johannesburg data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "VisaNet",
+      "owner": "Visa Inc.",
+      "tiers": ""
+    }
+  ],
+  "note": "Visa's own data centre for localising its transactions; not stated as renting to others."
+}

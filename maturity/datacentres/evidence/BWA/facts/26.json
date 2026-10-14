@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-bofinet-appoints-ceo-gaone-seleka-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "BoFiNet, 100% government-owned, introduced the carrier-neutral Digital Delta Data Centre in Gaborone in November 2025 and runs it; the article is dated 2026-03-06.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Digital Delta Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (100% government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

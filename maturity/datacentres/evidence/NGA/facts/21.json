@@ -1,0 +1,26 @@
+{
+  "slug": "2025-04-04-equinix-opens-expansion-in-lagos-nigeria",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Equinix launched LG2.3, a colocation and interconnection data centre expansion in Lagos, Nigeria; the article gives no opening date, so the date is its publication date, and no specifications are shared (DCD, 2025-04-04).",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "Equinix LG2.3 Lagos",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Equinix LG2.3 Lagos",
+      "country_label": "Equinix LG2.3 Lagos",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

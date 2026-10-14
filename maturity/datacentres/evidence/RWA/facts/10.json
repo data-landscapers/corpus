@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-01-data-center-market-brief-rwanda",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 4 live commercial data centre facilities in Rwanda in 2024, with about 1MW live IT load and about 60% occupancy by third-party customers; facilities are mostly hybrid, leasing excess capacity to external customers, and none are named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "unnamed commercial facilities",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics lists AOS, a state agency, among Rwanda's market players as offering IT services including colocation to outside customers, in its 2024 estimates.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "AOS",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PAIX",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No Tier III facility or cloud region stated; the brief says no pure-play carrier-neutral provider existed in 2024."
+}

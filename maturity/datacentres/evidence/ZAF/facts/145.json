@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-cassava-pemhiwa-keep-africa-data-at-home",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Cassava Technologies operates an AI data centre (its data factory) in Johannesburg; it launched a GPU-as-a-service offering in November 2025 and began GPU deployment at its South African data centres in March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Cassava AI factory, Johannesburg",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cassava AI factory, Johannesburg",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

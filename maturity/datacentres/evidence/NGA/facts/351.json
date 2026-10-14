@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-dailytrust-cbn-payment-data-localisation-critique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Rack Centre LGS2 (Rack Centre), colocation/carrier-neutral, in service; this document names it (published 2026-08-20).",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Rack Centre LGS2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

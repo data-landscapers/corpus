@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-27-datacentresafrica-ibtc-dc-academy-master-power-digital-parks",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "service",
+      "value": "service",
+      "fact": "Digital Parks Africa is described as providing a live, operational data centre in South Africa where IBTC DC Academy students observe a production environment (no date given; article date used).",
+      "as_of": "2026-08-27",
+      "date_precision": "day",
+      "system": "Digital Parks Africa",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Parks Africa",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Parks Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

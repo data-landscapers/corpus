@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-07-mwi-airtel-itu-national-broadband-mapping-presentation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Malawi primary data centre (Blantyre) and DR data centre (Lilongwe)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "Operator's own network data centres; not stated as hired to others."
+}

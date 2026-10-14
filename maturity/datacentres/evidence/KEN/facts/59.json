@@ -1,0 +1,42 @@
+{
+ "slug": "2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "iColo (a Digital Realty company) operates two carrier-neutral data centres in Mombasa, including MBA2, which hosts over 100 networks on the campus and received a new KIXP point of presence on 2025-08-13.",
+   "as_of": "2025-08-13",
+   "date_precision": "day",
+   "system": "iColo Mombasa MBA2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo Mombasa MBA2",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "iColo Mombasa MBA1",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "KIXP",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "TESPOK",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centres Dodoma and Zanzibar (under construction)",
+      "country_label": "National Data Centres",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Information, Communication and Information Technology",
+      "tiers": ""
+    }
+  ],
+  "note": "State data centres in budget for construction; no fact on a data centre for hire or cloud region."
+}

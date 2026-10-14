@@ -1,0 +1,31 @@
+{
+ "slug": "2025-04-03-djibouti-telecom-at-a-crossroads",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Afridata-Park",
+   "country_label": "DJI",
+   "class": "other",
+   "platform": "",
+   "owner": "AfriFiber",
+   "tiers": ""
+  },
+  {
+   "system": "TO7 Network / Wingu Africa hosting",
+   "country_label": "DJI",
+   "class": "other",
+   "platform": "",
+   "owner": "TO7 Network",
+   "tiers": ""
+  },
+  {
+   "system": "Paix / FSD / Djibouti Telecom data project",
+   "country_label": "DJI",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centres only in development (Afridata-Park), a partnership project, or described without service status; no in-service fact."
+}

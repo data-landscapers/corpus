@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Access Data Centres (OADC)",
+      "country_label": "NGA",
+      "class": "other",
+      "platform": "",
+      "owner": "WIOCC Group",
+      "tiers": "Tier III strategy, no facility named"
+    }
+  ],
+  "note": "Equity investment and Tier III strategy; no named in-service NGA facility or certification stated."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2022-09-26-icolo-io-completes-construction-of-second-mombasa-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "icolo.io (Digital Realty) opened its MBA2-Nyali data centre in Mombasa in September 2022, with 1,200 sqm of floorspace, 1.7MW and about 580 racks.",
+   "as_of": "2022-09",
+   "date_precision": "month",
+   "system": "iColo MBA2-Nyali, Mombasa",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "icolo.io opened its Nairobi One (NBO1) campus in Karen, Nairobi, in September 2019, with 624 sqm of floorspace.",
+   "as_of": "2019-09",
+   "date_precision": "month",
+   "system": "iColo NBO1, Nairobi",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo MBA2-Nyali, Mombasa",
+   "country_label": "iColo MBA2-Nyali, Mombasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "icolo.io (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "iColo NBO1, Nairobi",
+   "country_label": "iColo NBO1, Nairobi",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "icolo.io (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "iColo MBA1 Mombasa One, Miritini",
+   "country_label": "iColo MBA1 Mombasa One, Miritini",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "icolo.io (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": "MBA1 is listed as existing without an opening date, so no fact."
+}

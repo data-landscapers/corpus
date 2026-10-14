@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-31 Vodacom opens data center in Maputo, Mozambique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Vodacom Lekokoaneng Data Center (Vodacom Business / Vodacom Lesotho), colocation/carrier-neutral, in service; this document names it (published 2025-03-31).",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Vodacom Lekokoaneng Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Vodacom Maseru West Data Center (Vodacom Business / Vodacom Lesotho), colocation/carrier-neutral, in service; this document names it (published 2025-03-31).",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Vodacom Maseru West Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

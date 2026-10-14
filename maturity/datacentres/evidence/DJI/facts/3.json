@@ -1,0 +1,54 @@
+{
+ "slug": "2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu Africa inaugurated its TO7 Technology Park in Djibouti, which includes a carrier-neutral data centre, in a ceremony attended by the President.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "Wingu TO7 Technology Park data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Wingu Africa describes the TO7 carrier-neutral data centre in Djibouti as Tier-3 with 99.982% uptime (operator's own statement, no Uptime Institute certification named).",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "Wingu TO7 Technology Park data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu's existing Djibouti data centre, operating for over a decade, continues alongside the new TO7 facility; date is the article's published date.",
+   "as_of": "2024-11-25",
+   "date_precision": "day",
+   "system": "Wingu Djibouti data centre (existing)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu TO7 Technology Park data centre",
+   "country_label": "TO7",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": "Tier-3 (operator-stated)"
+  },
+  {
+   "system": "Wingu Djibouti data centre (existing)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

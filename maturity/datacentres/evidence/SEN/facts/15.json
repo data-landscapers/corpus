@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-23-dcd-senegal-diamniadio-national-datacenter-state-data-migration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Diamniadio National Datacenter",
+      "country_label": "",
+      "class": "other",
+      "platform": "Huawei equipment",
+      "owner": "State IT Agency (ADIE)",
+      "tiers": ""
+    }
+  ],
+  "note": "State data center commissioned June 2021 for government data; hosting for enterprises only expected in about six months, so no for-hire service stated."
+}

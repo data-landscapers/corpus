@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ST Digital and SIN signed a partnership at Lomé on 26 May 2026 to deploy a private-cloud catalogue at the Lomé Data Centre, operated by SIN, to be sold to businesses and organisations.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "Lomé Data Centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "SIN and ST Digital state that the SIN-operated Lomé Data Centre is Tier 3 certified with a 99.982% SLA; operator statement, certifying body not named.",
+   "as_of": "2026-05-26",
+   "date_precision": "day",
+   "system": "Lomé Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Centre (LDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN), state-owned",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

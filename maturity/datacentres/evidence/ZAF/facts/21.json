@@ -1,0 +1,47 @@
+{
+  "slug": "2026-10-05-sa-land-availability-edge-data-centre-race",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Teraco",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "Africa Data Centres",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Vantage Data Centres",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Open Access Data Centres",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Equinix",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Names operators and hyperscalers as investing or having local infrastructure; no facility stated in service, no cloud region stated live."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-zimbabwe-2025",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 6 live commercial data centre facilities in Zimbabwe in 2024, leasing colocation to third parties, with about 2MW live critical IT load and 40% occupancy; none is named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zimbabwe commercial data centres (about 6, unnamed)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam says state-owned TelOne manages facilities offering colocation to third parties, alongside a Huawei-built national data center, as of the July 2025 brief (no opening date given).",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "TelOne data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne data centres",
+   "country_label": "TelOne facilities",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre",
+   "country_label": "national data center",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "Econet Wireless data centre",
+   "country_label": "Econet largest facility",
+   "class": "other",
+   "platform": "",
+   "owner": "Econet Wireless",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

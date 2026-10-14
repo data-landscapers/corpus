@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-30-mesrs-baddari-ensia-ai-data-centre-gpus",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ENSIA AI data centre",
+   "country_label": "ENSIA AI data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "National Higher School of Artificial Intelligence",
+   "tiers": "students and researchers"
+  }
+ ],
+ "note": "Owner-only academic GPU centre."
+}

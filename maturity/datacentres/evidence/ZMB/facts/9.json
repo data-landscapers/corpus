@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-27-zambia-huawei-smart-zambia-ai-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Artificial Intelligence Data Centre",
+      "country_label": "National AI Data Centre",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "SMART Zambia",
+      "tiers": ""
+    }
+  ],
+  "note": "MoU to support development of a national AI data centre: planned, no fact."
+}

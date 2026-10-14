@@ -1,0 +1,44 @@
+{
+  "slug": "2025-03-24-door-cloud-souverain-africain-linfodrome",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Orange's Groupement Orange Services data centre at Grand Bassam, built in 2016 (16,600 sq m), is operating and GOS lists a colocation service among its offers; advertorial copy.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Groupement Orange Services data centre, Grand Bassam",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "An advertorial states the GOS data centre at Grand Bassam is Tier III per the Uptime Institute; no certificate date or stage given, as_of is the article date.",
+      "as_of": "2025-03-24",
+      "date_precision": "day",
+      "system": "Groupement Orange Services data centre, Grand Bassam",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Groupement Orange Services data centre, Grand Bassam",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Groupement Orange Services S.A (Orange MEA)",
+      "tiers": ""
+    },
+    {
+      "system": "Door sovereign cloud",
+      "country_label": "Door",
+      "class": "other",
+      "platform": "Kubernetes",
+      "owner": "Cloudoor",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

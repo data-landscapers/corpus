@@ -1,0 +1,15 @@
+{
+  "slug": "2021-12-10-uga-pctechmag-ict-ministry-mtn-mutundwe-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mutundwe switch and data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "MTN Uganda",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator's own network data centre, no hire to others stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-26-cerist-cloud-drone-incubator--wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "CERIST cloud computing platform", "country_label": "CERIST cloud platform", "class": "other", "platform": "OpenStack; Kubernetes", "owner": "CERIST", "tiers": ""}
+  ],
+  "note": "A research-centre cloud platform launched at CERIST in March 2025; the article does not say it rents to outside organisations or name a data centre, so no fact."
+}

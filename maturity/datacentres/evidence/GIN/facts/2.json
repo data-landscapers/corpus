@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-14-gin-guineenews-data-center-national-koloma-operationnalisation",
+ "facts": [],
+ "systems": [
+  {
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea, Ministry of Communication, Digital Economy and Innovation",
+   "tiers": "",
+   "system": "Guinea national data centre (Koloma)"
+  }
+ ],
+ "note": "State national data centre about 90% executed, not fully operational; no for-hire service in service."
+}

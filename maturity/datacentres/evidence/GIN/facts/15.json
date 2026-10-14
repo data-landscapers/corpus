@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-guinee-penurie-actes-naissance-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Civil-registry data center (formerly at Maison centrale)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "civil registry contractor",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centre relocated serves the civil-registry system only, not for hire; no fact."
+}

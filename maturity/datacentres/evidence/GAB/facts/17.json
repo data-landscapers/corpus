@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-29-gab-presidence-data-center-national-aninf",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national de l'ANINF",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF / Cybastion",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre for ANINF with Cybastion: convention signed, construction due to start; state-use, not in service."
+}

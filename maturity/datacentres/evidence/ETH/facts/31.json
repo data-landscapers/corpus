@@ -1,0 +1,23 @@
+{
+  "slug": "2020-09-25-dcd-ethiopia-plans-national-data-center-cloud-storage",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data center (ICT Park, Addis Ababa)",
+      "country_label": "National data center",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Innovation & Technology",
+      "tiers": "planned Tier III"
+    },
+    {
+      "system": "Ministry data center",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Innovation & Technology",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned Tier III national data center only; nothing in service stated for hire."
+}

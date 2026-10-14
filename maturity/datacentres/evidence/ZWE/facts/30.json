@@ -1,0 +1,34 @@
+{
+  "slug": "2015-01-01-eximbank-cn-zwe-001-china-eximbank-provides-986-million-preferential",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "A development-history line in the record says DatacenterDynamics, citing Techzim, reported on 2017-03-24 that two TelOne colocation and cloud data centres, in Harare and Mazoe, were open; it says they were reportedly Tier III but names no certifier or operator statement.",
+      "as_of": "2017-03-24",
+      "date_precision": "day",
+      "system": "TelOne Harare and Mazoe data centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "TelOne Harare data centre",
+      "country_label": "TelOne data centre (Harare)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TelOne",
+      "tiers": ""
+    },
+    {
+      "system": "TelOne Mazoe data centre",
+      "country_label": "TelOne data centre (Mazoe)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TelOne",
+      "tiers": ""
+    }
+  ],
+  "note": "Tier III is only 'reportedly', with no certifier or operator statement, so no tier3 fact."
+}

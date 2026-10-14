@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio Data Centres Uganda",
+   "country_label": "Raxio Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Loan funds first-phase development of colocation data centres incl. Uganda; planned, no in-service statement, no tier."
+}

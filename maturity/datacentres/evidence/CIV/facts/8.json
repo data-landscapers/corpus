@@ -1,0 +1,23 @@
+{
+  "slug": "2023-03-14-deux-nouveaux-centres-de-donnees-d-orange-vont-etre-solarises-en-afrique-pv-maga",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Assabou data centre (Yamoussoukro)",
+      "country_label": "Assabou",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Cote d'Ivoire",
+      "tiers": ""
+    },
+    {
+      "system": "Orange Grand-Bassam data centre",
+      "country_label": "Grand-Bassam",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange",
+      "tiers": ""
+    }
+  ],
+  "note": "Orange data centres named for solar supply only; the document does not say they rent to outside customers."
+}

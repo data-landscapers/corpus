@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-19-water-policy-data-centres-newtimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AOS data centre, Kigali",
+   "country_label": "AOS data centre, Kigali",
+   "class": "",
+   "platform": "",
+   "owner": "AOS",
+   "tiers": ""
+  }
+ ],
+ "note": "Names AOS as a data centre in Kigali but does not state it rents space or computing to others, nor any opening; no hyperscale centres in RWA is not a dated no-for-hire statement."
+}

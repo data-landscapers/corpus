@@ -1,0 +1,36 @@
+{
+ "slug": "2019-01-01-zmb-parliament-ministerial-statement-smart-zambia",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Zambian government's ministerial statement says the Zambia National Data Centre (ZNDC) is active and has been commercialised and opened to the private sector, with banks and mobile providers using it for a fee; as_of is the document's year 2019, no event date given.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Zambian government's ministerial statement describes the active Zambia National Data Centre (ZNDC), which hosts private clients for a fee, as a Tier 3 facility (stated by the government; no certifier named); as_of is the document's year 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Zambia National Data Centre (ZNDC)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia National Data Centre (ZNDC)",
+   "country_label": "Zambia National Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": "government; banks and mobile providers as paying tenants"
+  }
+ ],
+ "note": ""
+}

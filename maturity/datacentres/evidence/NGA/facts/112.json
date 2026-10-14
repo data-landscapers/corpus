@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-29-nga-businessday-cbn-data-localisation-deadline-too-short",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Open Access Data Centre",
+   "country_label": "OADC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centre",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions existing commercial data centres (about 20MW spare) and OADC's CEO, but names no facility as in service for hire and gives no tier or cloud region."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea, Ministry of Communication, Digital Economy and Innovation",
+   "tiers": "",
+   "system": "Guinea national data centre (Koloma)"
+  }
+ ],
+ "note": "State national data centre at Koloma about 90% executed, not operational as of 2026-09-15; no for-hire service stated."
+}

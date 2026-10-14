@@ -1,0 +1,26 @@
+{
+ "slug": "2014-07-31-vodacom-opens-new-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vodacom Business opened Data Park, a 3,000 sq m data centre in Midrand and its eighth, in July 2014, to provide cloud services to its clients (TechCentral, 2014-07-31).",
+   "as_of": "2014-07-31",
+   "date_precision": "day",
+   "system": "Vodacom Data Park",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Data Park",
+   "country_label": "Vodacom Data Park",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Business",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

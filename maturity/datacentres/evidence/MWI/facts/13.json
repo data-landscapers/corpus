@@ -1,0 +1,23 @@
+{
+ "slug": "2025-04-22-lilongwe-data-centre-ready-may",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lilongwe Government Data Centre",
+   "country_label": "Lilongwe Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalisation",
+   "tiers": ""
+  },
+  {
+   "system": "Blantyre National Data Centre",
+   "country_label": "Blantyre National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalisation, ESCOM, Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": "Lilongwe data centre described as Tier 3 but still under construction (commissioning planned May 2025), government use; Blantyre centre launched 2022 is government-operated with no stated outside customers."
+}

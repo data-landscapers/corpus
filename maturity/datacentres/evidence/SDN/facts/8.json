@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-sudatel-data-center",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Sudatel's operator page presents the Sudatel Data Center (SDC) as operating and offering services to institutions in Sudan and to customers in north and east Africa, and calls it the largest data centre in Sudan; the page has no event date, so the 2024-01-01 published date is used.", "as_of": "2024", "date_precision": "year", "system": "Sudatel Data Center (SDC)", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Sudatel itself states, on its operator page and with no certification body named, that the Sudatel Data Center (SDC) is a Tier IV data centre with 99.995% availability; the page has no event date, so the 2024-01-01 published date is used.", "as_of": "2024", "date_precision": "year", "system": "Sudatel Data Center (SDC)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Sudatel Data Center (SDC)", "country_label": "SDC", "class": "datacentre", "platform": "", "owner": "Sudatel (Sudani)", "tiers": "Tier IV stated by operator"}
+  ],
+  "note": ""
+}

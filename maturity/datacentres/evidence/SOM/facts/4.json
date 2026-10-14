@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-28-moct-national-data-center-tour",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": "government"
+  }
+ ],
+ "note": "National Data Center under construction, for government data only; no fact."
+}

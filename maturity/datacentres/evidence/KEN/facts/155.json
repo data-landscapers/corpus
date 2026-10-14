@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-24-lancet-africa-ai-health-infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Lancet Global Health piece, citing the Africa Data Centres Association economic report, says 19 of Africa's just over 200 operational data centre facilities are in Kenya; it names no facility or operator and does not say they rent to others (no date given, so published 2026-07-24).",
+      "as_of": "2026-07-24",
+      "date_precision": "day",
+      "system": "Kenya operational data centres (19, unnamed)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [],
+  "note": "One count-only fact for Kenya; Raxio Tier III passage names other countries, not Kenya."
+}

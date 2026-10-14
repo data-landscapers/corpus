@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-07-dcd-fringe-infrastructure-ikoyi-edge-launch",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Fringe Infrastructure launched its first edge data centre in Ikoyi, Lagos, with 1 MW behind-the-meter capacity and up to 72 racks, offering colocation and interconnection (DCD, launch announced the week of the article).",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Fringe Infrastructure Ikoyi",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fringe Infrastructure Ikoyi",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Fringe Infrastructure",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch date taken as the article's month."
+}

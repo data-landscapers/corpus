@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-12-iafrica-vodafone-egypt-cassava-ai-factory",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vodafone Egypt and Cassava Technologies launched Egypt's first AI factory, a facility offering government entities and businesses GPU-as-a-Service on NVIDIA hardware with data hosted and processed inside Egypt; the document gives no launch date, so the 2026-09-12 publication date is used.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "Vodafone Egypt-Cassava AI factory",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodafone Egypt-Cassava AI factory",
+   "country_label": "Egypt's first AI factory",
+   "class": "datacentre",
+   "platform": "NVIDIA GPU-as-a-Service",
+   "owner": "Vodafone Egypt and Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Hassan Allam and A15 data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Hassan Allam; A15",
+   "tiers": "licensed June 2026, USD 400 million, not stated in service"
+  }
+ ],
+ "note": ""
+}

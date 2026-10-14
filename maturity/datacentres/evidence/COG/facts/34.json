@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The ministry reports that on 28 February 2024 the President commissioned in Pointe-Noire the ARPCE data centre (54 racks), connected to the WACS and 2Africa cables and able to host the data of public administration and of the private sector.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE data centre, Pointe-Noire",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The ministry describes the ARPCE Pointe-Noire data centre, put into service 28 February 2024, as Tier 3+ (operator/ministry statement, no Uptime or TIA-942 certification cited).",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE data centre, Pointe-Noire",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARPCE data centre, Pointe-Noire",
+   "country_label": "Datacenter Tier 3+",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ARPCE",
+   "tiers": "Tier 3+ (stated)"
+  }
+ ],
+ "note": ""
+}

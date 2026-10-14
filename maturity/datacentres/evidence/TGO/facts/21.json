@@ -1,0 +1,12 @@
+{
+  "slug": "2022-12-21-tgo-conseil-des-ministres-21-decembre-2022-lome-data-center",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "The Council of Ministers communiqué of 21 December 2022 states that a data centre built by the state's digital infrastructure company (SIN) in Lomé is operating and offers storage services to economic operators, and authorises its transfer to a private operator not yet named; the document gives no opening date, so the date is that of the council meeting.",
+     "as_of": "2022-12-21", "date_precision": "day", "system": "Lomé data centre (SIN)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Lomé data centre (SIN)", "country_label": "centre de données", "class": "datacentre", "platform": "", "owner": "Société d'infrastructures numériques (SIN), state; transfer to a private operator authorised 2022-12-21", "tiers": ""}
+  ],
+  "note": ""
+}

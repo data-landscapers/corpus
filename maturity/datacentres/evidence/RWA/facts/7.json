@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS Outposts",
+   "country_label": "AWS Outposts",
+   "class": "other",
+   "platform": "AWS",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  }
+ ],
+ "note": "AWS Outposts is on-premises hybrid hardware connected to AWS regions elsewhere, not a cloud region in Rwanda."
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-23-compcom-stanlib-africa-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "Africa Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "ADC Dev",
+   "country_label": "ADC Dev",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava ADC",
+   "tiers": ""
+  },
+  {
+   "system": "ADC Sam",
+   "country_label": "ADC Sam",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava ADC",
+   "tiers": ""
+  }
+ ],
+ "note": "Ownership transaction only; no statement that a named facility is in service, tiered or closed."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Somcable Submarine Network",
+   "country_label": "Somcable Submarine Network",
+   "class": "other",
+   "platform": "",
+   "owner": "Somcable",
+   "tiers": ""
+  }
+ ],
+ "note": "no fact: Kenya capacity figure is not SOM; Somcable (Somaliland) is a cable/connectivity firm, no data centre or cloud region stated."
+}

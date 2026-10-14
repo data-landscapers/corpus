@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-20-epassport-second-instance-ndc-bid-opening",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (NDC)",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": "Bid-opening record for firewall and switch supply at the state National Data Center for the e-Passport system; nothing on hire, tiers or cloud regions."
+}

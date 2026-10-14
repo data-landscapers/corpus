@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-06 Chad invests 175m in national data center and networks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (PMICE Phase I)",
+   "country_label": "National Data Center (PMICE Phase I)",
+   "class": "",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  },
+  {
+   "system": "N'Djamena 2016 data centre (Flexenclosure)",
+   "country_label": "N'Djamena 2016 data centre (Flexenclosure)",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Phase I national data centre only started; 2016 facility is not stated to rent to others."
+}

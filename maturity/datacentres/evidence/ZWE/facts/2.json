@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Econet AI Data Centre",
+   "country_label": "Econet's AI Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Econet",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Centre ecosystem",
+   "country_label": "National Data Centre ecosystem",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Minister names TelOne and Econet's AI Data Centre as infrastructure spine; no statement that any is in service or for hire."
+}

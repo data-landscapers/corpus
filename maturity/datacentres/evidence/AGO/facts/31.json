@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-15-angola-minttics-cloud-nacional-ecossistema-digital",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cloud Nacional de Angola",
+      "country_label": "Cloud Nacional de Angola",
+      "class": "other",
+      "platform": "",
+      "owner": "MINTTICS / INFOSI",
+      "tiers": "government"
+    }
+  ],
+  "note": "State government cloud on government data centres at Camama, Luanda, serving the state only; not for hire."
+}

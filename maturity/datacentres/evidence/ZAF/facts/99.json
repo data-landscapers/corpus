@@ -1,0 +1,70 @@
+{
+ "slug": "2023-11-15-africa-data-centres-to-open-new-cape-facility-in-q1",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres, a carrier-neutral colocation provider, has three South African data centres already established: Midrand (JHB1), Centurion (JHB2) and Elfindale, Cape Town (CPT1); its fourth, CPT2, is not yet open (document published 2023-11-15, no other date given).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Amazon Web Services has established a local cloud region in South Africa, per ITWeb (no date given; published 2023-11-15).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "AWS Africa (Cape Town) region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Microsoft Azure has established a local cloud region in South Africa, per ITWeb (no date given; published 2023-11-15).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Microsoft Azure South Africa region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres JHB1",
+   "country_label": "Africa Data Centres JHB1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres JHB2",
+   "country_label": "Africa Data Centres JHB2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "Africa Data Centres CPT1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT2",
+   "country_label": "CPT2",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "CPT2 20MW is under construction, go-live expected Q1 2024: not a fact."
+}

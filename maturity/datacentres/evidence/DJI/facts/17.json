@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-17-djibouti-telecom-connectivity-hub",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Djibouti Telecom's own overview presents the Ras Dika cable landing station and data centre in Djibouti City, a three-floor building whose third floor is a dedicated colocation centre; the page gives no opening date, so the page date is used.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "RAS DIKA CLS and Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Djibouti Telecom's own page, as summarised in the capture's header, describes a Tier-3 data centre (DDC) with colocation, operator-stated rather than certified; the page body shown names the Ras Dika data centre; no opening date, so the page date is used.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "RAS DIKA CLS and Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAS DIKA CLS and Data Center",
+   "country_label": "DJI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier-3 claim rests on the capture's note and hero line, not on the body text shown; parent may weigh."
+}

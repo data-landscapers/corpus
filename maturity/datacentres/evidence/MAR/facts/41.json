@@ -1,0 +1,36 @@
+{
+ "slug": "2020-08-26-infomediaire-ocp-benguerir-data-center-lancement",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "OCP Group, with UM6P, launched the Benguerir Data Center (2,000 m2 of white rooms, 5 MW IT load, Benguerir Tech Park), offering data centre and cloud services to national operators; as_of is the article date, which gives no other date.",
+   "as_of": "2020-08-26",
+   "date_precision": "day",
+   "system": "Benguerir Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Infomediaire states the Benguerir Data Center, launched by OCP Group, is certified Tier III and Tier IV by the Uptime Institute; as_of is the article date.",
+   "as_of": "2020-08-26",
+   "date_precision": "day",
+   "system": "Benguerir Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Benguerir Data Center",
+   "country_label": "Benguerir Data Center (BDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OCP Group with UM6P",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

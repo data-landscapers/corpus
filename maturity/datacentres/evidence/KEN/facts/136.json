@@ -1,0 +1,15 @@
+{
+ "slug": "2022-10-05-google-zaf-cloud-region-intent-1bn-africa-commitment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Google Cloud Dedicated Cloud Interconnect Nairobi",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Cloud region announced for South Africa only; Nairobi is a planned interconnect site, not a region or data centre for hire."
+}

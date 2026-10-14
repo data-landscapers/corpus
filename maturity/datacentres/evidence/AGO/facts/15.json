@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-01-data-center-e-cloud-do-governo-tem-a-certificacao-tier-iii-em-banho-maria",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center e Cloud do Governo (Camama, Luanda)",
+      "country_label": "Data Center Nacional / Data Center e Cloud do Governo",
+      "class": "other",
+      "platform": "12 container modules, certified in the name of Presight (G42)",
+      "owner": "INFOSI",
+      "tiers": "Tier III on the 12 modules only; building not yet Uptime-certified"
+    }
+  ],
+  "note": "Government data centre; no statement it rents to outside customers and only its modules, not the facility, hold Tier III, so no centre fact. Parent may judge it for hire."
+}

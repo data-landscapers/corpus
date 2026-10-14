@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-31-dza-apn-boughali-inaugure-centre-de-donnees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "APN data centre",
+      "country_label": "مركز البيانات الخاص بالمجلس الشعبي الوطني",
+      "class": "other",
+      "platform": "",
+      "owner": "National People's Assembly (APN)",
+      "tiers": ""
+    }
+  ],
+  "note": "Data centre hosts only the assembly's own systems, inaugurated 2024-10-31 with phases still to finish; owner-only, no fact."
+}

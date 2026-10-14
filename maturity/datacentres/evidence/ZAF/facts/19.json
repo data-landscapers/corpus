@@ -1,0 +1,46 @@
+{
+ "slug": "2019-03-05-huawei-cloud-now-available-in-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "TechCentral reports Huawei said on 5 March 2019 that Huawei Cloud is now available in South Africa, with localised public cloud services deployed from a Johannesburg data centre.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "Huawei Cloud South Africa",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Huawei is leasing a data centre in Johannesburg from an unnamed partner from which it runs public cloud services, announced 5 March 2019.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "Huawei Cloud Johannesburg data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Huawei states its South African (Johannesburg) data centre, leased from an unnamed partner and in service from March 2019, complies with tier 3+ standards; this is the operator's own statement, not a certification.",
+   "as_of": "2019-03-05",
+   "date_precision": "day",
+   "system": "Huawei Cloud Johannesburg data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Huawei Cloud Johannesburg data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Huawei Cloud",
+   "owner": "Huawei (leased from an unnamed partner)",
+   "tiers": "tier 3+ (operator statement)"
+  }
+ ],
+ "note": ""
+}

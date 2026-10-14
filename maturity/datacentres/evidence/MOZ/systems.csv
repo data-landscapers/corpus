@@ -1,0 +1,45 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,Raxio MZ1,Raxio Mozambique (MZ1),datacentre,,Raxio Group,,2026-08-08-raxio-mozambique-mz1-data-centre-specification
+MOZ,Raxio MZ1,Raxio Mozambique,datacentre,,Raxio Group,,2026-07-23-raxio-afr-ix-data-centres-angola-mozambique
+MOZ,Vodacom Tchumene data centre,Vodacom Business Data Centre,datacentre,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
+MOZ,Vodacom Matola modular data centre (2013),,,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
+MOZ,Vodacom Tchumene data centre,,datacentre,,Vodacom Mozambique,,2025-03-29-pm-opens-vodacom-data-centre-clubofmozambique
+MOZ,Raxio MZ1,Raxio Mozambique,datacentre,,Raxio Group,,2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)
+MOZ,Maputo One (MPM1),MPM1,datacentre,,iColo (a Digital Realty company),,2023-02-07-icolo-mpm1-maputo-data-centre-opening
+MOZ,Maputo One (MPM1),MPM1,datacentre,,iColo (a Digital Realty company),,2023-02-07-icolo-mpm1-technical-specification-sheet
+MOZ,UEM Centro de Dados,Centro de Dados da UEM,other,,Universidade Eduardo Mondlane (CIUEM),,2026-08-11-uem-eduardo-mondlane-university-inaugurates-data-centre
+MOZ,Regional AI data centre,regional AI data centre,other,,,,2026-08-07-mozambique-southern-africa-ai-hub
+MOZ,UEM Centro de Dados,Centro de Dados da UEM,other,,Universidade Eduardo Mondlane (CIUEM),,2026-08-06-mozambique-inaugurates-uem-data-center-to-advance-digital-transformation
+MOZ,UEM Centro de Dados,Centro de Dados da Universidade Eduardo Mondlane,other,,Universidade Eduardo Mondlane,,2026-08-04-mozambique-govt-universities-cyberattacks-uem-data-centre
+MOZ,UEM Centro de Dados,Centro de Dados da Universidade Eduardo Mondlane,other,,Universidade Eduardo Mondlane,,2026-08-03-lusa-uem-centro-de-dados-morenet-60-gbps-financiada-15-anos
+MOZ,UEM Centro de Dados,Centro de Dados da Universidade Eduardo Mondlane,other,,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
+MOZ,UEM Centro de Dados,Centro de Dados da Universidade Eduardo Mondlane,other,,Universidade Eduardo Mondlane,,2026-08-03-uem-centro-de-dados-transformacao-digital
+MOZ,Cedsif Secondary Data Center,Secondary Data Center,other,,"Cedsif, IP",,2026-07-24-cedsif-tender-ups-batteries-secondary-data-center
+MOZ,Bubble availability zones (Maputo City and Beluluane),Bubble,other,,Bubble,,2026-07-23-bubble-data-centers-moz
+MOZ,Raxio Mozambique data centre,Raxio,datacentre,,Raxio Group,Tier III (stated),2026-07-14 Raxio raises data centre funding
+MOZ,Maluana data centre,Maluana data centre,other,,Government of Mozambique,,2025-08-14-clubofmozambique-africa50-mous-power-lines-maputo-data-centre
+MOZ,Centro de Dados de Maluana,Centro de Dados de Maluana,other,,State,,2025-07-24-intic-joanguete-podemos-falar-da-inteligencia-artificial-sem-data-center
+MOZ,Raxio,Raxio,datacentre,,Raxio,,2025-07-01-xalam-mozambique-data-center-market-briefing
+MOZ,iColo (Digital Realty),iColo,datacentre,,Digital Realty,,2025-07-01-xalam-mozambique-data-center-market-briefing
+MOZ,Vodacom data centre,Vodacom,other,,Vodacom,,2025-07-01-xalam-mozambique-data-center-market-briefing
+MOZ,MPM1,MPM1,datacentre,,Digital Realty (iColo),,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo
+MOZ,MOZIX,MOZIX,other,,CIUEM,,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo
+MOZ,Vodacom Business Data Centre (Matola),Vodacom Business Data Centre,datacentre,,Vodacom Mozambique,,2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique
+MOZ,Raxio Data Centres Mozambique,Raxio,other,,Raxio Group,,2023-10-25-raxio-46m-equity-roha-meridiam-ceo-succession
+MOZ,Raxio Data Centres Mozambique,Raxio,other,,Raxio Group,,2023-04-17-raxio-170m-sustainability-linked-debt-facility
+MOZ,Maluana Park and four other government data centres,Maluana Park,other,,Government of Mozambique,,2021-12-22-moz-tradegov-mozambique-digital-transformation
+MOZ,Raxio Mozambique data centre,Raxio Mozambique data centre,other,,Raxio Group,,2021-08-24-dcd-raxio-appoints-master-power-technologies-builder
+MOZ,Raxio Mozambique data centre,Raxio Mozambique data centre,datacentre,,Raxio Group,,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+MOZ,Raxio Mozambique data centre,Raxio Mozambique data centre,datacentre,,Raxio Group,,2023-10-25-roha-raxio-group-2023-raxio-46m-equity
+MOZ,Paratus Angola DC3,,other,,Paratus Group,Tier IV (Angola),2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion
+MOZ,Raxio Mozambique data centre,Raxio Mozambique data centre,datacentre,,Raxio Group,,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+MOZ,Raxio colocation data centres,Raxio colocation data centres,other,,Raxio Data Centres,,2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data
+MOZ,Raxio metro edge data centre (Mozambique),Raxio metro edge data centre (Mozambique),other,,Raxio Group,,2022-09-23-miga-raxio-group-2022-political-risk-guarantee
+MOZ,Government Data Centre,Government Data Centre,other,,Government of Mozambique,,2026-09-21-moz-aim-transformacao-digital-servicos-publicos-2029
+MOZ,"Alibaba Cloud Africa Local Public (ALP) Cloud, Maputo",ALP Cloud,other,Alibaba Cloud,"BCX (Telkom), distributor",,2024-06-07-itweb-bcx-alibaba-alp-cloud-mozambique
+MOZ,iColo Maputo data centre,iColo Maputo,other,,iColo (Digital Realty / Pembani Remgro),planned,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+MOZ,Vodacom Mozambique Matola eCentre,MOZ,other,Flexenclosure eCentre,Vodacom Mozambique,,2013-09-18-itonline-vodacom-mozambique-flexenclosure-ecentre-matola
+MOZ,Vodacom Mozambique Maputo rooftop eCentre,MOZ,other,Flexenclosure eCentre,Vodacom Mozambique,,2013-05-10-itnewsafrica-flexenclosure-ecentre-vodacom-mozambique-maputo-rooftop
+MOZ,Raxio data centres,Raxio Group,other,,Raxio Group,"Tier III-certified, carrier-neutral; World Bank $100m backing; MOZ listed among countries; in-service status in MOZ not stated",2026-07-24-lancet-africa-ai-health-infrastructure
+MOZ,Huawei-built data centres,,other,Huawei,,"MOZ listed among countries with new Huawei-built data centres established or in development; no facility named, no for-hire status",2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+MOZ,Raxio Mozambique data centre,Raxio (Mozambique),datacentre,,Raxio Group,Tier III (operator-stated),2026-07-15 Raxio data-centre capital tops $380m on investor boost

@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-02-wingu-africa-60m-rmb-press-release-adca",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Wingu Africa's release says the carrier-neutral colocation operator has a Tanzania location, with the second phase of its Dar es Salaam facility underway to triple capacity; no opening date is given, so the release date is used.",
+      "as_of": "2025-06-02",
+      "date_precision": "day",
+      "system": "Wingu Dar es Salaam data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Wingu Dar es Salaam data centre",
+      "country_label": "Wingu Africa Dar es Salaam facility",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

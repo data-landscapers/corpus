@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-04-abq-cloud-launch-observer",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Raxio Data Centre in Namanve, operated by Raxio (general manager Caroline Kamaitha), is operating and hosts the ABQ Cloud sovereign cloud platform, launched there officially on a Thursday reported on 2026-03-04 (the article gives no date for the centre's own opening).",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Raxio Data Centre (Namanve)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Data Centre (Namanve)",
+      "country_label": "Raxio Data Centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio",
+      "tiers": ""
+    },
+    {
+      "system": "ABQ Cloud",
+      "country_label": "ABQ Cloud",
+      "class": "other",
+      "platform": "",
+      "owner": "ABQ Cloud / Roke Cloud / AfriQloud",
+      "tiers": ""
+    }
+  ],
+  "note": "Service fact for Raxio; the article says 'globally certified' but gives no Tier rating. ABQ Cloud is a local sovereign cloud, not a global provider region."
+}

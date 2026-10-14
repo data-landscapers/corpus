@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-04-mozambique-govt-universities-cyberattacks-uem-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "UEM Centro de Dados",
+      "country_label": "Centro de Dados da Universidade Eduardo Mondlane",
+      "class": "other",
+      "platform": "",
+      "owner": "Universidade Eduardo Mondlane",
+      "tiers": ""
+    }
+  ],
+  "note": "UEM data centre inaugurated 2026-08-03 for the university's own use; no statement that it rents to outsiders."
+}

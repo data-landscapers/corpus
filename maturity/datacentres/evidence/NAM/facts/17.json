@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-08-namibia-china-smart-city-grant",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "Huawei (discussed)",
+   "owner": "Government of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "China grant and Huawei talks on an AI-ready National Data Centre; planned, state use."
+}

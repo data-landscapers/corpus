@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-31-googles-first-africa-cloud-region-now-operational",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Google said on 31 January 2024 that its Johannesburg cloud region, its first in Africa, is operational.",
+   "as_of": "2024-01-31",
+   "date_precision": "day",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "The article states Google joins AWS, Microsoft Azure and Oracle, among others, in having cloud regions in South Africa; no date is given, so this uses the article's published date.",
+   "as_of": "2024-01-31",
+   "date_precision": "day",
+   "system": "AWS, Azure and Oracle cloud regions in South Africa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

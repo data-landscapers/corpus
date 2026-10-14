@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center Nacional",
+      "country_label": "Data Center Nacional",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Angola",
+      "tiers": ""
+    },
+    {
+      "system": "Cloud Nacional",
+      "country_label": "Cloud Nacional",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Angola",
+      "tiers": ""
+    }
+  ],
+  "note": "Names a national Data Center and Cloud as part of the architecture; no status, for-hire service, Tier or date stated."
+}

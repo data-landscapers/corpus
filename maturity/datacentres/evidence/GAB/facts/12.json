@@ -1,0 +1,39 @@
+{
+  "slug": "2026-02-05-dcd-cybastion-20mw-data-center-gabon",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cybastion 20MW data center, Libreville",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Cybastion",
+      "tiers": ""
+    },
+    {
+      "system": "ST Digital data center, Nkok",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": ""
+    },
+    {
+      "system": "Gabon Internet eXchange data center",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Airtel Gabon data center",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Airtel Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": "Cybastion and ST Digital projects only in development; the Data Center Journal listing of three Libreville sites states no service, rental or tier."
+}

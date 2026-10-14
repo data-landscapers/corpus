@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-world-bank-cmr-2024-prsec-electricity-reform-bw12",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Douala data centre (PRSEC smart-meter data)",
+   "country_label": "Douala data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Water and Energy (MINEE)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Douala data centre is under construction and holds the state's smart-meter data; not for hire."
+}

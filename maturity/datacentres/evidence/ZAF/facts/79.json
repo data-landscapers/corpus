@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-05-vantage-johannesburg-ii-jnb2-data-center-page",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Vantage JNB2 (Johannesburg II)",
+      "country_label": "Vantage JNB2 (Johannesburg II)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Vantage Data Centers",
+      "tiers": ""
+    },
+    {
+      "system": "Vantage JNB1 Midrand",
+      "country_label": "Vantage JNB1 Midrand",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Vantage Data Centers",
+      "tiers": ""
+    }
+  ],
+  "note": "Standing product page in future tense: JNB2 'will be operational in mid-2024'; it does not state that JNB2 is in service. JNB1 is only named as a growing campus."
+}

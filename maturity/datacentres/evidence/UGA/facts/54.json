@@ -1,0 +1,15 @@
+{
+ "slug": "2015-06-10-uga-gazette-nita-u-egovernment-regulations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre",
+   "country_label": "national data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Regulation 5 requires NITA-U to establish a national data centre; a legal duty, with no statement of an operating for-hire centre."
+}

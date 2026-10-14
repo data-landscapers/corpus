@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-11-microsoft-and-g42-kenya-data-centre-project-stalls",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Kenya data centre",
+   "country_label": "Microsoft-G42 Kenya data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft; G42",
+   "tiers": ""
+  },
+  {
+   "system": "EcoCloud 60MW facility",
+   "country_label": "EcoCloud 60MW facility",
+   "class": "other",
+   "platform": "",
+   "owner": "EcoCloud",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned and stalled projects only."
+}

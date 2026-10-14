@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-30-barrow-qgroup-house-first-data-centre-thepoint",
+ "facts": [],
+ "systems": [
+  {
+   "system": "QGroup",
+   "country_label": "QGroup",
+   "class": "",
+   "platform": "",
+   "owner": "QGroup",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: no statement that the data centre rents space or computing to others; Huawei remarks on QCell cloud computing services are undated and not a cloud region."
+}

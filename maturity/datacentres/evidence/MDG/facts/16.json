@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-prodigy-pges-tsimbazaza-datacenter-principal",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center Principal, Tsimbazaza", "country_label": "DATA CENTER Principal", "class": "other", "platform": "", "owner": "Government of Madagascar (Presidency, Digital Governance Unit; PRODIGY project, World Bank financed)", "tiers": ""}
+  ],
+  "note": "Environmental plan for fitting out a Ministry of the Interior building as the state's main data centre; planned works for state use, no statement of a data centre for hire in service, Tier rating or cloud region."
+}

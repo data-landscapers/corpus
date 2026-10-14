@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-10-dabafinance-morocco-data-centre-pipeline-power-gaps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Iozera Tetouan data centre (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Iozera",
+   "tiers": ""
+  },
+  {
+   "system": "Naver Tetouan project (announced)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Naver",
+   "tiers": ""
+  }
+ ],
+ "note": "Announced projects only; no in-service facility stated."
+}

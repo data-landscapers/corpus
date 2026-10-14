@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Planned national datacenter for civil-status, ID and passport data",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": "state only"
+  }
+ ],
+ "note": "Announced state-only datacentre; no data centre for hire stated."
+}

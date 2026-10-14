@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-mpten-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National (Congo National Data Centre)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo (MPTEN), financed by the African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "Undated ministry programme page describes the national data centre for state data; gives no opening date, no outside customers, no tier."
+}

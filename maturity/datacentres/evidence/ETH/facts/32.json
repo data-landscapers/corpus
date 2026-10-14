@@ -1,0 +1,23 @@
+{
+  "slug": "2020-09-11-national-data-centre-to-break-ground-in-addis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre (ICT Park, Addis Ababa)",
+      "country_label": "National Data Centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Innovation & Technology",
+      "tiers": "planned Tier III"
+    },
+    {
+      "system": "Ministry data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Innovation & Technology",
+      "tiers": "hosts government networks only"
+    }
+  ],
+  "note": "Planned facility and owner-use data centres only; no data centre for hire stated in service."
+}

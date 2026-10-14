@@ -1,0 +1,23 @@
+{
+ "slug": "2020-04-07-intelligentcio-zaf-adc-acquires-standard-bank-samrand-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Samrand data centre",
+   "country_label": "Samrand data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Standard Bank (being acquired by Africa Data Centres)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Midrand campus",
+   "country_label": "Africa Data Centres Midrand campus",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Samrand Tier IV facility is a bank-owned centre with the sale pending competition approval and not yet open to the market; Midrand 10 MW build only started."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-proparco-reg-wiocc-oadc-2024-wiocc-group-open-access-data-centres",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Access Data Centres (OADC)",
+      "country_label": "NGA",
+      "class": "other",
+      "platform": "",
+      "owner": "WIOCC Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Loan for expansion of data centres in DRC, Nigeria, South Africa; names no in-service facility, tier or cloud region in NGA."
+}

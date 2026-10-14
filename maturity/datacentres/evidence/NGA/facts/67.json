@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-12 UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "BDIC Makurdi data center",
+      "country_label": "",
+      "class": "other",
+      "platform": "UniCloud Africa cloud infrastructure",
+      "owner": "Benue Digital Infrastructure Company",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned build under an MoU (Makurdi, with Abuja DR site); nothing in service."
+}

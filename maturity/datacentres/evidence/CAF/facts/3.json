@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Tier III data centre (Huawei)",
+   "country_label": "centre de données national",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "State",
+   "tiers": "state"
+  }
+ ],
+ "note": "Tier III national data centre is planned for public data; no fact."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-12-zaf-dailymaverick-foxglove-cape-town-data-centre-appeal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equinix King Air Industria, Cape Town",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Appellant op-ed on a planned Cape Town hyperscale site (land rights only); no data centre in service stated."
+}

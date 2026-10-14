@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-28-swz-times-interpol-rstp-incident",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (NDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": ""
+  }
+ ],
+ "note": "Cyber incident at the National Data Centre; no statement of opening, tier, closure or cloud region."
+}

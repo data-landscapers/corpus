@@ -1,0 +1,15 @@
+{
+  "slug": "2022-10-05-google-zaf-cloud-region-intent-1bn-africa-commitment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Google Cloud South Africa region",
+      "country_label": "Google Cloud region in South Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "Google",
+      "tiers": ""
+    }
+  ],
+  "note": "Google only announces intent to establish a South Africa cloud region; not live."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The National Data Centre in Blantyre, built by Huawei and run with the Ministry of Information and ESCOM, was launched in July 2022 and by February 2024 hosted 78 virtual machines, each for one client, with ESCOM reporting demand from both government bodies and the private sector.",
+      "as_of": "2022-07",
+      "date_precision": "month",
+      "system": "National Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Data Centre",
+      "country_label": "National Data Centre",
+      "class": "datacentre",
+      "platform": "Huawei",
+      "owner": "Government of Malawi; operated with Ministry of Information and ESCOM",
+      "tiers": ""
+    },
+    {
+      "system": "Lilongwe data centre",
+      "country_label": "another facility being constructed in Lilongwe",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Service fact taken from the stated private-sector clients; no Tier rating stated; Lilongwe facility only under construction."
+}

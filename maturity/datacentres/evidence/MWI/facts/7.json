@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-14-malawi-mra-backup-data-centre-world-bank",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MRA secondary data centre",
+      "country_label": "secondary data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Malawi Revenue Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "Owner-only disaster-recovery data centre of the tax authority."
+}

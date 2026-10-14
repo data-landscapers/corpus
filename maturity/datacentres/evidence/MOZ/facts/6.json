@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-07-icolo-mpm1-maputo-data-centre-opening",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "iColo, a Digital Realty company, announced on 7 February 2023 the opening of MPM1, its carrier-neutral colocation data centre in Maputo, with about 350 square metres of net rentable space for roughly 80 racks in phase one.",
+   "as_of": "2023-02-07",
+   "date_precision": "day",
+   "system": "Maputo One (MPM1)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maputo One (MPM1)",
+   "country_label": "MPM1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (a Digital Realty company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

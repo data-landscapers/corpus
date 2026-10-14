@@ -1,0 +1,26 @@
+{
+  "slug": "2025-04-29-cable-consortium-of-liberia-co-location-services",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Cable Consortium of Liberia offers co-location in its Monrovia landing facility (racks of 2-10U at 1 kW, 24U at 3 kW and 42U at 5 kW, with UPS and generator power); the page gives no date, so the 2025-04-29 publication date is used, and it claims no Tier certification.",
+      "as_of": "2025-04-29",
+      "date_precision": "day",
+      "system": "Cable Consortium of Liberia Monrovia landing facility",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cable Consortium of Liberia Monrovia landing facility",
+      "country_label": "Co-location services",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Cable Consortium of Liberia",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

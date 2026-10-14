@@ -1,0 +1,26 @@
+{
+ "slug": "2019-11-26-emtel-iso-9001-27001-certification",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Emtel states its Emtel Data Centre is ISO 27001 certified with the Mauritius Standards Bureau for secured data centre operations and services, first certified in 2013 and upgraded to the 2013 version in 2015, and refers to protecting its customers' data; the document's own date is derived (November 2019) and no tier is stated.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Emtel Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Emtel Data Centre",
+   "country_label": "MUS",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Emtel Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "Service fact is weak: customers are mentioned but hire is not explicit; ISO 27001 is not a tier."
+}

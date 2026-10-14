@@ -1,0 +1,10 @@
+{
+  "slug": "2023-10-25-raxio-46m-equity-roha-meridiam-ceo-succession",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Raxio Data Centres states it has launched its first facility in Uganda and operates there as a carrier-neutral colocation provider; release dated 25 October 2023, which gives no opening date.", "as_of": "2023-10-25", "date_precision": "day", "system": "Raxio UG1", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Raxio UG1", "country_label": "Raxio Uganda facility", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": ""}
+  ],
+  "note": "Tier III claim is made for Raxio's network generally, not for a named Ugandan facility, so no tier3 fact."
+}

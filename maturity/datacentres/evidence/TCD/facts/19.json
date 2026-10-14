@@ -1,0 +1,15 @@
+{
+  "slug": "2019-01-01-eximbank-cn-tcd-001-china-eximbank-provides-rmb-1316-billion",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data centre (PMICE, Huawei EPC)",
+      "country_label": "National data centre (PMICE, Huawei EPC)",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Chad",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre financed and under construction; no in-service, for-hire or tier statement."
+}

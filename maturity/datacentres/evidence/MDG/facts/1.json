@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-21-publication-documents-gres-prodigy-datacenters",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PRODIGY Tsimbazaza primary data centre",
+   "country_label": "Data Center principal Tsimbazaza",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY (state)",
+   "tiers": ""
+  },
+  {
+   "system": "PRODIGY Iavoloha secondary data centre",
+   "country_label": "Data Center secondaire Iavoloha",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / PRODIGY (state)",
+   "tiers": ""
+  }
+ ],
+ "note": "Lists safeguard documents for fit-out works of two state data centres; no in-service or for-hire statement."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2022-09-01-safaricom-ethiopia-to-build-data-centre-in-ict-park",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Safaricom Ethiopia Akaki-Qality data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Safaricom Ethiopia",
+      "tiers": ""
+    },
+    {
+      "system": "Safaricom Ethiopia ICT Park data centre (planned)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Safaricom Ethiopia",
+      "tiers": ""
+    }
+  ],
+  "note": "Safaricom data centres are the operator's own and the ICT Park one is only being built; no for-hire statement."
+}

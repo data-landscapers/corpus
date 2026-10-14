@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus Angola DC3",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": "Tier IV (Angola, not COG)"
+  }
+ ],
+ "note": "Financing covers Congo only as a fibre/data business country; the Tier IV data centre is in Angola."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-06-dcd-solecrypt-schneider-bizerte-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SoleCrypt Bizerte data center",
+   "country_label": "Bizerte, Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "SoleCrypt",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned 20MW Bizerte data center under a non-binding MoU; nothing in service."
+}

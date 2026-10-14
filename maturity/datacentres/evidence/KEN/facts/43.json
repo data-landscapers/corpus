@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Oracle Cloud Infrastructure Kenya facility",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle Cloud Infrastructure facility in Kenya is listed only as planned; no in-service fact for KEN."
+}

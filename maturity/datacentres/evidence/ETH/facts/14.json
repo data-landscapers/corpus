@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-31-wingu-africa-launches-wingu-cloud-exchange-ethiopia",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Wingu Africa, a carrier-neutral data centre operator, announced on 31 March 2026 the launch of Wingu Cloud Exchange, a private cloud (compute, Kubernetes, storage, security) now available in Ethiopia and keeping customer data in-country; no facility is named.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Wingu Cloud Exchange",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Wingu Cloud Exchange",
+      "country_label": "ETH",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu Africa",
+      "tiers": "operator describes itself as Tier III-standard (East Africa, no Ethiopian facility named)"
+    }
+  ],
+  "note": "No tier3 fact: Tier III-standard claim is about Wingu's East Africa data centres generally, not a named Ethiopian facility. Service fact is inferred from in-country hosting; weak on facility identity."
+}

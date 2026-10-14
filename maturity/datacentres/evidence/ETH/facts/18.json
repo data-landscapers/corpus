@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-26-india-ministry-of-external-affairs-eth-2025-mofa-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MoFA data centre, Addis Ababa",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethiopia Ministry of Foreign Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "Work order for a ministry's own data centre; not for hire, no fact."
+}

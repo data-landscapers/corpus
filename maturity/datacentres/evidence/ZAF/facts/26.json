@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-businessday-equinix-data-centres-sa-investment",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Equinix opened JN1 in Johannesburg in 2024, its first South African data centre, and operates it (Business Day).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "JN1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JN1",
+   "country_label": "JN1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Equinix 160MW expansion and Cape Town sites are planned, not facts."
+}

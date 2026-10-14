@@ -1,0 +1,52 @@
+{
+ "slug": "2026-02-15-ramaphosa-data-centres-r50bn",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business Day reports that Equinix opened a R3bn facility east of Johannesburg in October 2024, its first in South Africa.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Equinix Johannesburg facility",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business Day reports that Vantage Data Centres opened its first South African unit in the Waterfall precinct in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Vantage Waterfall",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix Johannesburg facility",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Waterfall",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vantage Data Centers",
+   "tiers": ""
+  },
+  {
+   "system": "Visa Africa data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Visa",
+   "tiers": ""
+  }
+ ],
+ "note": "The 55 data centres built figure is a presidential claim without hire or tier detail; Visa's centre is owner use. Cloud hyperscalers named without a stated live region."
+}

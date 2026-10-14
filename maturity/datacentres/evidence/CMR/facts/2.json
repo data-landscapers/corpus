@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-cmr-biometricupdate-cybastion-sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cybastion Douala data center (planned)",
+   "country_label": "CMR",
+   "class": "other",
+   "platform": "",
+   "owner": "Cybastion",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned Cybastion data center and power plant in Douala; no operating data centre or cloud region stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-uptime-institute-bofinet-client-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Botswana Fibre Networks (BoFiNet)",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier III design-document certification (2020) of a facility not yet built per this page (groundbreaking 2021, completion planned); not in service, so no fact."
+}

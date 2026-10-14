@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-24-lancet-africa-ai-health-infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio Tanzania data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": "Raxio's Tier III data centres in Tanzania named only as World Bank-backed, no in-service or dated statement for TZA."
+}

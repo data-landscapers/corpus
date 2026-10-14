@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-30-vertiv-signs-mou-with-morocco-to-develop-sovereign-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sovereign data centre, Rabat (50 MW)",
+   "country_label": "centre de données souverain de 50 MW à Rabat",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Morocco",
+   "tiers": ""
+  },
+  {
+   "system": "N+One Datacenters",
+   "country_label": "N+One",
+   "class": "",
+   "platform": "",
+   "owner": "N+One",
+   "tiers": ""
+  }
+ ],
+ "note": "MoU and talks only; the 50 MW Rabat sovereign data centre is announced, not in service; N+One named without description of its facilities."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NCRA Tier III-compliant data centre",
+   "country_label": "NCRA data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "National Civil Registration Authority (NCRA)",
+   "tiers": "government"
+  }
+ ],
+ "note": "NCRA says it has a Tier III-compliant data centre for national data sovereignty; own-use government facility, no statement that it rents to others."
+}

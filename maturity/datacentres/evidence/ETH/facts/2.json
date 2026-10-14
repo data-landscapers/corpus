@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-02-wingu-africa-60m-rmb-press-release-adca",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu Africa, a carrier-neutral colocation operator, runs a data centre campus in Ethiopia that hosts the ADDIX exchange (press release dated 2025-06-02; no opening date given).",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Wingu Africa Ethiopia campus",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Wingu Africa states its Ethiopia campus is Tier III-certified (certifying body not named); date is the press release's, no certification date given.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Wingu Africa Ethiopia campus",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ADDIX",
+   "country_label": "ADDIX exchange",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

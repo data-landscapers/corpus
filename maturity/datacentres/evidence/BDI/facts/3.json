@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-world-bank-burundi-digital-economy-assessment",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The World Bank reports that Burundi Backbone System (BBS) has one level-3 data center, built at a cost of USD 2 million, which it uses to offer hosting to customers and which other public agencies use to back up their systems; the report gives no opening date, so as_of is the report's 2020 publication date.", "as_of": "2020", "date_precision": "year", "system": "BBS national data center", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "BBS national data center", "country_label": "national data center", "class": "datacentre", "platform": "", "owner": "Burundi Backbone System (BBS)", "tiers": "level-3 (not stated as Uptime or TIA-942)"},
+    {"system": "Burundi IXP", "country_label": "Burundi Internet Exchange Point", "class": "other", "platform": "", "owner": "BBS", "tiers": ""},
+    {"system": "OBR data center", "country_label": "", "class": "other", "platform": "", "owner": "Burundi Revenue Authority (OBR)", "tiers": ""},
+    {"system": "Central Bank data center", "country_label": "", "class": "other", "platform": "", "owner": "Central Bank of Burundi", "tiers": ""},
+    {"system": "Presidency data center", "country_label": "", "class": "other", "platform": "", "owner": "Presidency", "tiers": ""},
+    {"system": "Ministry of Health data center (PNDIS II plan)", "country_label": "", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Only the BBS data center is a data centre for hire; 'level-3' is not tied to a Tier III standard, so no tier3 fact is recorded."
+}

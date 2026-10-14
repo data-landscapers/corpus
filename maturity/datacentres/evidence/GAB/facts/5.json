@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-31-gabon-tier-iii-datacenter",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ACE Gabon Carrier Hotel Tier III datacenter",
+   "country_label": "Carrier Hôtel neutre Datacenter Tier III",
+   "class": "other",
+   "platform": "",
+   "owner": "ACE Gabon SA (state-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "Carrier hotel datacenter under construction (160 racks, over 1 MW), completion expected late Nov to early Dec 2026; not in service."
+}

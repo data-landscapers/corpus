@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-21-moz-aim-transformacao-digital-servicos-publicos-2029",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Data Centre",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "Government Data Centre and Cloud Gov are planned and state use only."
+}

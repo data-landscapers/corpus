@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-mwi-linkedin-longwe-ctn-ai-edge-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CTN AI-enabled edge data centre, Lilongwe",
+   "country_label": "MWI",
+   "class": "other",
+   "platform": "",
+   "owner": "Converged Technology Networks",
+   "tiers": ""
+  }
+ ],
+ "note": "CTN's Lilongwe edge site (live Feb 2026) is not stated to rent space or computing to others; Blantyre, Mzuzu, Zomba sites are pipeline; the statement that hyperscalers chose four African countries, none Malawi, is about deployment plans, not a dated no-region statement."
+}

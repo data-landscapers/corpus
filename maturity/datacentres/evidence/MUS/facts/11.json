@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-16-mauritius-telecom-ceo-aws-partnership-interview",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS partnership (training)",
+   "country_label": "AWS",
+   "class": "other",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "CEO says MT is investing in local data centres with GPU infrastructure and partnered with AWS for training; no in-service facility, tier or cloud region stated."
+}

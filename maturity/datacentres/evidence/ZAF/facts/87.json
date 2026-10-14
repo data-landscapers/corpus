@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres (Cassava Technologies) operates three data centre facilities in Midrand, Centurion and Cape Town serving hundreds of clients including cloud providers, banks and hyperscalers, totalling 30MW before a 20MW expansion to 50MW; the article gives no opening dates, so as_of is its publication date.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "Africa Data Centres (Midrand, Centurion, Cape Town)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres (Midrand, Centurion, Cape Town)",
+   "country_label": "Africa Data Centres (Midrand, Centurion, Cape Town)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres / Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "CPT2 (Cape Town)",
+   "country_label": "CPT2 (Cape Town)",
+   "class": "",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "CPT2 under construction is not a fact."
+}

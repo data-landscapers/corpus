@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04 Guinea opens Tier 3 national data centre to strengthen digital transition",
+ "facts": [],
+ "systems": [
+  {
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea, Ministry of Communication, Digital Economy and Innovation",
+   "tiers": "Tier III (Uptime Institute, per Ecofin)",
+   "system": "Guinea national data centre (Koloma)"
+  }
+ ],
+ "note": "National data centre inaugurated 2025-09-04, Uptime Tier III certified, but the document does not say it rents space to outside customers, and later documents say it is not operational; no fact recorded."
+}

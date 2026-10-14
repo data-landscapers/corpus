@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-19-congo-pose-jalons-regulation-ia-ldb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National (Congo National Data Centre)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo (MPTEN), financed by the African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "Minister mentions in passing the inauguration of the national data centre; no facility detail, no customers, no tier, and a later source says it is not yet operational."
+}

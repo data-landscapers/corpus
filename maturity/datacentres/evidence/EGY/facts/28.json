@@ -1,0 +1,23 @@
+{
+  "slug": "2021-11-06-dailynewsegypt-orange-egypt-new-capital-data-centre-135m",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Egypt New Administrative Capital data centre",
+      "country_label": "data centre in the New Administrative Capital",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Orange Egypt Al-Awayd Alexandria data centre",
+      "country_label": "data centre, Al-Awayd, Alexandria",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "New Capital centre under construction; Alexandria first phase only said to be 'opening', no completed opening stated."
+}

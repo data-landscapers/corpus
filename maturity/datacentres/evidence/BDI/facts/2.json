@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-18-adb-appel-offres-racks-data-center-stabilisateurs-projecteurs",
+  "facts": [],
+  "systems": [
+    {"system": "ADB data center (server room)", "country_label": "data center de l'ADB", "class": "other", "platform": "", "owner": "Agence de Développement du Burundi", "tiers": ""}
+  ],
+  "note": "National tender by the Burundi Development Agency to buy one server-room rack, 14 voltage stabilisers and 2 projectors for its own site; no data centre for hire or cloud region is stated."
+}

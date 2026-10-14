@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-08-burkina-faso-explores-digital-partnership-united-states",
+  "facts": [],
+  "systems": [
+    {"system": "Burkina Faso government data centres", "country_label": "data centers", "class": "other", "platform": "", "owner": "Government of Burkina Faso (Ministry of Digital Transition)", "tiers": ""}
+  ],
+  "note": "Data centres only 70 percent complete (under construction, state project); no facility in service, no cloud region; AWS named only as a possible partner."
+}

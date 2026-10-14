@@ -1,0 +1,34 @@
+{
+  "slug": "2026-09-16-from-konza-s-cloud-expansion-to-a-coastal-spaceport-kenya-pitches-its-tech-ambit",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The Konza National Data Centre is described, in a feasibility study summarised by TechTrendsKE, as an existing multi-zone Tier III cloud environment on OpenStack/KVM, run for the Konza Technopolis Development Authority; the tier claim is the study's own, not a certification, and the document says the expansion (not the existing facility) is meant to serve counties, agencies and private enterprises, so sale to outside customers today is not stated. Date is the article's published date.",
+      "as_of": "2026-09-16",
+      "date_precision": "day",
+      "system": "Konza National Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Konza National Data Centre",
+      "country_label": "Konza National Data Centre",
+      "class": "datacentre",
+      "platform": "OpenStack, KVM",
+      "owner": "Konza Technopolis Development Authority",
+      "tiers": "Tier III (stated)"
+    },
+    {
+      "system": "Konza National Data Centre Cloud Expansion Project",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "KoTDA",
+      "tiers": ""
+    }
+  ],
+  "note": "One fact; expansion is a proposed DBFOT PPP, not a fact."
+}

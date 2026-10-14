@@ -1,0 +1,15 @@
+{
+  "slug": "2022-07-28-dcd-malawi-launches-national-data-centre-blantyre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre",
+      "country_label": "National Data Centre",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    }
+  ],
+  "note": "Launch of a Huawei-built government data centre in Blantyre hosting government systems; document does not state it rents to outside customers, so no fact."
+}

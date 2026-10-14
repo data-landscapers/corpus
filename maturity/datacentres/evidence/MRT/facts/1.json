@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-11-mauritania-world-bank-national-data-centre-visit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre, Nouakchott",
+   "country_label": "Centre de données national",
+   "class": "other",
+   "platform": "",
+   "owner": "AN-ETAT (state digital agency)",
+   "tiers": "government"
+  }
+ ],
+ "note": "State-run national data centre and government cloud under WARDIP; no for-hire service stated."
+}

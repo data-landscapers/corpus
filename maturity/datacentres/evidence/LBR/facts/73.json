@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-17-telecel-group-about-us",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Telecel Liberia Data Centre (Telecel Liberia), colocation/carrier-neutral, in service; this document names it (published 2025-12-17).",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Telecel Liberia Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

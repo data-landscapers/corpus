@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-19-microsoft-136bn-ai-cross-border-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS Outposts",
+   "country_label": "",
+   "class": "other",
+   "platform": "AWS",
+   "owner": "Amazon Web Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Only MAR statement is AWS Outposts racks expansion (Jan 2026), which is not a cloud region."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-angola-infraestruturas-tecnologicas-ciberataques",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center",
+      "country_label": "Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Angola",
+      "tiers": ""
+    }
+  ],
+  "note": "Government cites its Data Center programme as cyber defence; no for-hire service, Tier or opening stated."
+}

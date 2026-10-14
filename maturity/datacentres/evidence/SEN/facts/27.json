@@ -1,0 +1,36 @@
+{
+ "slug": "2017-06-21-financialafrik-sonatel-dakar-datacenter-inauguration",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Financial Afrik reports Sonatel inaugurated its Dakar data centre on 20 June 2017 (2,224 m2 building, three 250 m2 server rooms), letting companies and administrations outsource their servers.",
+   "as_of": "2017-06-20",
+   "date_precision": "day",
+   "system": "Sonatel Dakar data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Financial Afrik states Sonatel's Dakar data centre is Tier 3+ (a stated rating, no certifier named).",
+   "as_of": "2017-06-20",
+   "date_precision": "day",
+   "system": "Sonatel Dakar data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sonatel Dakar data centre",
+   "country_label": "Datacenter Sonatel",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Sonatel",
+   "tiers": "companies; administrations"
+  }
+ ],
+ "note": ""
+}

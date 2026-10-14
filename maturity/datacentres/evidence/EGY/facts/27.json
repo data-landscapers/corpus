@@ -1,0 +1,15 @@
+{
+  "slug": "2022-06-28-safqa-agricultural-bank-of-egypt-tier-iii-data-centre-raya-it",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Agricultural Bank of Egypt data centre",
+      "country_label": "مركز البيانات, Dokki/Giza HQ",
+      "class": "other",
+      "platform": "",
+      "owner": "Agricultural Bank of Egypt (built by Raya IT)",
+      "tiers": "Tier 3 design, Uptime-certified"
+    }
+  ],
+  "note": "Bank's own data centre, no statement it rents to outside customers."
+}

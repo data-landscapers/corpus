@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-25-ticmaroc-gsm-al-maghrib-data-centre-2-2mw",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GAM Business Solutions data centre (GSM Al Maghrib)",
+   "country_label": "Data center GSM Al Maghrib",
+   "class": "other",
+   "platform": "",
+   "owner": "GAM Business Solutions",
+   "tiers": "Tier III (Uptime Institute) planned"
+  }
+ ],
+ "note": "Facility under construction, to be certified Tier III; national 12 MW figure does not say which centres rent to others."
+}

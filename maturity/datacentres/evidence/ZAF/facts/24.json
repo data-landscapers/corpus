@@ -1,0 +1,39 @@
+{
+  "slug": "2026-09-11-iafrikan-africa-ai-data-centre-rush-power-water",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Teraco",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Vantage",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Open Access Data Centres",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Africa Data Hub Holding Limited (MTN, planned)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "MTN Group",
+      "tiers": ""
+    }
+  ],
+  "note": "ZAF has 55 facilities and AWS, Google, Azure 'present' but no region or named in-service facility stated; MTN venture is planned."
+}

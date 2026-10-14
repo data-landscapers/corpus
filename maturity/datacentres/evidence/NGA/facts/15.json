@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-26-techbooky-mtn-nigeria-dabengwa-tier-iii-tccf",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechBooky reports MTN Nigeria's Dabengwa Data Centre in Lagos, built from 96 prefabricated containers in its initial phase, opened in July 2025 and serves enterprise clients.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Dabengwa Data Centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "TechBooky reports the Uptime Institute awarded MTN Nigeria's Dabengwa Data Centre in Lagos Tier III Certification for Constructed Facility (it also holds Tier III Design Documentation), announced 2025-09-25.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Dabengwa Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dabengwa Data Centre",
+   "country_label": "Dabengwa Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "Article says Dabengwa is one of four Nigerian facilities with both certifications but names no others."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Regional Data Hub 2 (RDH 2)",
+      "country_label": "Egypt",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": "Tier III design certification (Uptime Institute), not yet in service"
+    },
+    {
+      "system": "Regional Data Hub 1 (RDH 1)",
+      "country_label": "Egypt",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "RDH 2 holds a design certificate only; execution expected end-2025, so not in service. RDH 1 service status and tier not stated."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2021-08-24-dcd-raxio-appoints-master-power-technologies-builder",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "DCD states Raxio launched a new 400-rack facility in Kampala, Uganda in May 2021.",
+      "as_of": "2021-05",
+      "date_precision": "month",
+      "system": "Raxio Kampala data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Kampala data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Tier III statement is a design commitment for the sites being built, not a certification of the Kampala facility."
+}

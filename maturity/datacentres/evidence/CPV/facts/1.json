@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-31-nosi-relatorio-de-gestao-e-contas-2024",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "NOSi's 2024 accounts report revenue from Housing (22,172 mCVE) and IaaS (60,556 mCVE) services, alongside the Praia data centre it operates; the document dates this to the 2024 exercise.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "NOSi's 2024 accounts state the Praia data centre holds Uptime Institute Tier III certification; the document gives no certification date, so 2024 (exercise) is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "country_label": "Data Center do Estado",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-24-lome-data-centre-home-page-en",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The Lomé Data Centre's own home page, published 24 September 2025, describes a carrier-neutral facility in operation offering racks, cages, suites, disaster recovery, interconnection and managed services, with 1+ MW critical power and a 99.982% availability SLA.", "as_of": "2025-09-24", "date_precision": "day", "system": "Lomé Data Centre", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "The Lomé Data Centre's operator describes it as Togo's first Tier III+ facility (operator statement; no certifier named), per its home page dated 24 September 2025.", "as_of": "2025-09-24", "date_precision": "day", "system": "Lomé Data Centre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Lomé Data Centre", "country_label": "Lomé Data Center (LDC)", "class": "datacentre", "platform": "", "owner": "", "tiers": "carrier-neutral colocation customers"}
+  ],
+  "note": ""
+}

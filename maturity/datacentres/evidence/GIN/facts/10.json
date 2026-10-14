@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-04-gin-guineenews-data-center-national-tier3",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The national Data Center (600 m2, COREX) was officially launched on 4 September 2025, and the presidency's chief of cabinet said it is open to offering hosting services, including for other countries' data.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Data Center national",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "COREX's deputy director-general said the national Data Center is certified Tier 3 Design by Uptime Institute, with Tier 3 construction certification still to come; the article calls it the country's first Tier III data centre.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "Data Center national",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Data Center national Tier III",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "State; COREX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

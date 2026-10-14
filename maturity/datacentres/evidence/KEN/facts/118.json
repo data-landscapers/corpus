@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iXAfrica-Oracle public cloud region",
+   "country_label": "Kenya's first public cloud region",
+   "class": "other",
+   "platform": "Oracle",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft-G42 Kenya data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft/G42",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle-iXAfrica region is described as being delivered (not live); Microsoft-G42 centre stalled; no in-service fact."
+}

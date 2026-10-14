@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-21-paix-accra-1-2mw-expansion-apo-release",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "PAIX Data Centres announced on 21 May 2024 the expansion of its Accra colocation facility to 1.2 MW, hosting ISPs, carriers and cloud and CDN customers, with named customers quoted.",
+   "as_of": "2024-05-21",
+   "date_precision": "day",
+   "system": "PAIX Accra data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Accra data centre",
+   "country_label": "PAIX Data Centres Accra (ACC-1)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

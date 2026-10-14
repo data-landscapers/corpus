@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-09-cmr-dgb-cenadi-etude-datacenters",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ENSPY datacenter",
+      "country_label": "datacenter de l'ENSPY",
+      "class": "other",
+      "platform": "",
+      "owner": "University of Yaoundé I / ENSPY",
+      "tiers": ""
+    }
+  ],
+  "note": "CENADI study says most Cameroonian data centres are Tier I or II, none ISO 27001; names no for-hire facility and states no in-service Tier III or absence of commercial centres."
+}

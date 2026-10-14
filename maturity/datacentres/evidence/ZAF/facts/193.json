@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-06-microsoft-zaf-azure-expansion-2025-microsoft-azure-south-africa-zar-54b",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Microsoft Azure second region, Centurion",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft",
+      "tiers": ""
+    }
+  ],
+  "note": "Second Azure region in Centurion is under construction; no live fact stated here."
+}

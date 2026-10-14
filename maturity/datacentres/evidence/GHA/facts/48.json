@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty (with joint venture partner Pembani Remgro) opened ACR2, a 1.7MW, 1,100 sq m colocation data centre near Accra, in November 2025, and says it already hosts a mix of ISPs and enterprise customers.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Digital Realty ACR2",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Realty ACR2",
+      "country_label": "Accra",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Realty ACR1",
+      "country_label": "Accra",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": "No tier rating or cloud region stated for Ghana."
+}

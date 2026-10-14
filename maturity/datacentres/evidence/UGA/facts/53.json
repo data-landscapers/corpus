@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-press-chn-uga-2023-001-national-data-transmission-backbone-infrastructuree-government-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Namanve data centre (NBI/EGI Phase V)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "New Namanve government data centre (180 cabinets) is part of a loan-financed project, not stated as in service or sold to outside customers."
+}

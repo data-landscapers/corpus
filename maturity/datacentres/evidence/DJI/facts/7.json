@@ -1,0 +1,54 @@
+{
+  "slug": "2024-11-26-wingu-africa-tier-iii-data-center-djibouti",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Wingu.Africa officially launched its second carrier-neutral data centre in Djibouti, at the T07 Technology Park (3 MW design capacity), at a ceremony attended by President Guelleh.",
+      "as_of": "2024-11-26",
+      "date_precision": "day",
+      "system": "Wingu.Africa T07 data centre, Djibouti",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "tier3",
+      "value": "tier3",
+      "fact": "The operator, Wingu.Africa, describes the newly launched T07 Technology Park data centre in Djibouti as a Tier 3 certified data centre; the certifying body is not named.",
+      "as_of": "2024-11-26",
+      "date_precision": "day",
+      "system": "Wingu.Africa T07 data centre, Djibouti",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The article states Wingu.Africa's first carrier-neutral facility, the Djibouti Data Center, was launched in 2013.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "Wingu.Africa Djibouti Data Center",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Wingu.Africa T07 data centre, Djibouti",
+      "country_label": "Djibouti",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu.Africa",
+      "tiers": "Tier 3 (operator-stated)"
+    },
+    {
+      "system": "Wingu.Africa Djibouti Data Center",
+      "country_label": "Djibouti",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu.Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

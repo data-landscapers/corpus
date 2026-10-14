@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-09-caf-alwihda-centre-donnees-criminelles",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Criminal databases building",
+   "country_label": "centre de données criminelles",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": "state"
+  }
+ ],
+ "note": "Government-only criminal database facility, not for hire; no fact."
+}

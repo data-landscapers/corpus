@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-30-aws-wavelength-zone-casablanca",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Wavelength Zone Casablanca", "country_label": "AWS Wavelength Zone", "class": "other", "platform": "AWS Wavelength", "owner": "Amazon Web Services with Orange", "tiers": ""}
+  ],
+  "note": "A Wavelength Zone is an edge zone, not a cloud region; no data centre for hire or region stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Telecom Egypt said on 17 July 2026 that it continues to provide data center services from its Regional Data Center Hub (RDH) while expanding operations in Egypt.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Telecom Egypt Regional Data Center Hub (RDH)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecom Egypt Regional Data Center Hub (RDH)",
+   "country_label": "RDH",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "Stake sale cancellation is ownership, not a fact; Tier III mentions concern other countries."
+}

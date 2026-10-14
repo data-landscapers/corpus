@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "IFC's description of its 2025 $100M facility states that Raxio operates carrier-neutral colocation data centres in Cote d'Ivoire (no facility named; date is the document's published year 2025).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Raxio Data Centres",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "IFC's description states that Raxio operates carrier-neutral Tier III data centres in Cote d'Ivoire, among seven countries; operator-stated Tier III, no facility named (date is the document's published year 2025).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Raxio Data Centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Data Centres",
+      "country_label": "Raxio Data Centres",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

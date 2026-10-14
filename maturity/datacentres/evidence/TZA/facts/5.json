@@ -1,0 +1,26 @@
+{
+  "slug": "2023-10-10-liquid-wingu-tanzania-second-azure-stack-hci",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Liquid Intelligent Technologies says it hosts Tanzania's second Azure Stack HCI in wingu.africa's carrier-neutral data centre in Tanzania, which the release describes as already providing carrier-neutral data centre services.",
+      "as_of": "2023-10-10",
+      "date_precision": "day",
+      "system": "Wingu Africa Mbezi data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Azure Stack HCI (Liquid Tanzania)",
+      "country_label": "Azure Stack HCI",
+      "class": "other",
+      "platform": "Microsoft Azure Stack HCI",
+      "owner": "Liquid Intelligent Technologies Tanzania",
+      "tiers": ""
+    }
+  ],
+  "note": "Azure Stack is not a cloud region; no cloud fact."
+}

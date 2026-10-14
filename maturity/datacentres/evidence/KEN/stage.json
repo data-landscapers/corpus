@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "5",
+   "centre": "two",
+   "cloud": "region",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-011;KEN-033;KEN-028",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

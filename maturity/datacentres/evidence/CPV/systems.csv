@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
+CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2026-02-17-cpv-nosi-sistema-fotovoltaico-data-center
+CPV,Technology Park Data Center (DC3),DC3,other,,UGPE / Cabo Verde Technology Park Phase II,,2024-09-09-cabo-verde-technology-park-phase-ii-ifb-011-dc3-datacom
+CPV,Technology Park two PPP data centres (planned),,other,,,,2023-08-01-dcd-cabo-verde-afdb-eur14m-techpark-phase-ii-loan-two-data-centres
+CPV,"NOSi data center, Praia",existing data center,other,,NOSi,,2023-08-01-dcd-cabo-verde-afdb-eur14m-techpark-phase-ii-loan-two-data-centres
+CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
+CPV,"NOSi Government Data Center (Praia, with disaster recovery site in Mindelo)",Government Data Center / National Data Center,datacentre,"Huawei government cloud, 'One Cloud, One Lake, One Platform'","NOSi, E.P.E.",described as Tier-III equivalent (no certification stated),2024-01-01-nosi-operational-nucleus-information-society
+CPV,RTPE (State's Private Technological Network),RTPE,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
+CPV,National Data Center,National Data Center,datacentre,"Huawei eGovernment Cloud, FusionCloud",NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,"eGovernment network (1,142 organisations)",eGovernment network,other,Huawei routers and switches,NOSi,,2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
+CPV,"Public data centre, Praia",data center público,other,,State; managed by NOSi,,2025-05-05-vozdoarchipelago-techpark-cv-carlos-monteiro-entrevista
+CPV,"Disaster recovery data centre, São Vicente (Tech Park)",data center disaster recovery,other,,Tech Park Cabo Verde S.A.,,2025-05-05-vozdoarchipelago-techpark-cv-carlos-monteiro-entrevista
+CPV,"Third data centre, Praia (planned)",terceiro data center,other,,"Tech Park, earmarked for private management",,2025-05-05-vozdoarchipelago-techpark-cv-carlos-monteiro-entrevista
+CPV,Data Center 1 (DC1),Data Center 1,other,,Government of Cabo Verde (financed by Portugal),,2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report
+CPV,Data Center II (DC2),Data Centre II,other,,"Cabo Verde Technology Park (government; financed by AfDB under Phase I), to be run by a private firm under a PPP concession",,2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report
+CPV,Data Center III (DC3),Data Center III,other,,"Government of Cabo Verde (disaster recovery, government data only)",,2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report
+CPV,"Data Center 1 (DC1), Parque Tecnologico de Cabo Verde, Achada Grande, Praia",Data Center 1,other,,State; NOSi executing agency for data centres,,2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii
+CPV,"Data Center 2 (DC2), Achada Grande, Praia",Data Center 2,other,,State; planned concession to a private operator,,2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii
+CPV,"Data Center 3 (DC3), Ribeira de Juliao, Sao Vicente",Data Center 3,other,,State,,2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii

@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-01-numerique-gouv-bj-datacenter-national-tests",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacenter national (Abomey-Calavi)",
+      "country_label": "Datacenter national (Abomey-Calavi)",
+      "class": "other",
+      "platform": "",
+      "owner": "ASSI",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre only in first technical tests on 2021-06-01, TIA-942 level 3 certification in progress; not in service, so no fact."
+}

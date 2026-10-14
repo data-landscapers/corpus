@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-20 Google in Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "South Africa",
+   "class": "",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Namibia appears only as an Equiano cable landing; the only Google Cloud region in Africa is stated to be Johannesburg, not NAM."
+}

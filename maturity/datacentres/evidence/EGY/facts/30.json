@@ -1,0 +1,26 @@
+{
+  "slug": "2020-02-29-orange-egypt-business-cloud-huawei-alexandria-data-centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Orange Egypt announced the inauguration of its Alexandria data center, launched together with its subscription-based Orange Business Cloud IaaS for corporate clients, built with Huawei; the document gives no event date other than its 2020-02-29 publication date, which is used.",
+      "as_of": "2020-02-29",
+      "date_precision": "day",
+      "system": "Orange Alexandria data center",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Orange Alexandria data center",
+      "country_label": "Orange Business Cloud data center, Alexandria",
+      "class": "datacentre",
+      "platform": "Huawei",
+      "owner": "Orange Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "No cloud-region fact: Orange-operated cloud on Huawei technology, not a Huawei Cloud region stated."
+}

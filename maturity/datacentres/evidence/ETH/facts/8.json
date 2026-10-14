@@ -1,0 +1,15 @@
+{
+  "slug": "2022-02-24-business-insider-safaricom-ethiopia-first-data-centre-huawei-nokia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Safaricom Ethiopia first data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "Huawei and Nokia",
+      "owner": "Safaricom Ethiopia",
+      "tiers": ""
+    }
+  ],
+  "note": "Safaricom's own network data centre; document does not say it rents to others."
+}

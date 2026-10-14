@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-09-airtel-africa-and-ericsson-launch-data-center-in-seychelles",
+  "facts": [],
+  "systems": [
+    {"system": "Airtel Seychelles data center", "country_label": "data center in Seychelles", "class": "other", "platform": "Ericsson hybrid network cloud", "owner": "Airtel Africa / Airtel Seychelles", "tiers": ""}
+  ],
+  "note": "Data center is Airtel's own core-network facility (relocation of its network and core services); no statement that it rents space or computing to others, no tier, no cloud region."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "TechCentral states that Google launched its first African cloud region in Johannesburg in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechCentral describes Teraco, owned by Digital Realty, as South Africa's largest data centre operator with nearly 190MW of IT load, its Isando campus being the largest at 70MW.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "Teraco Isando",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando campus",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  },
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Vantage Waterfall campus",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage Data Centers",
+   "tiers": ""
+  }
+ ],
+ "note": "Article date used for Teraco as no opening date is given. Azure and AWS facilities mentioned without a stated live region; Vantage campus described as being built."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-27-benin-secondary-national-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre, Abomey-Calavi",
+   "country_label": "Benin national data center",
+   "class": "other",
+   "platform": "",
+   "owner": "SBIM (state-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "Alink Telecom data centre",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Alink Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Feasibility study for a second national data centre is a plan; the 300 sqm national facility is not stated to sell to outside customers; MTN, Alink and Isocel named only as operators without detail."
+}

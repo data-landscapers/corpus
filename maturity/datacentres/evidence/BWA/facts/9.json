@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre (Tier III National Data Centre)",
+   "country_label": "Delta Digital Data Centre",
+   "class": "",
+   "platform": "",
+   "owner": "Government / BoFiNet",
+   "tiers": "government"
+  }
+ ],
+ "note": "Minister says Tier III National Data Centre commissioned (2026-03) and used for government core systems; document does not say it rents to others, so no fact."
+}

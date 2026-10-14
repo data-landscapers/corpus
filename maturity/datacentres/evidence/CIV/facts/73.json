@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": ""
+    },
+    {
+      "system": "Axian / Stellarix",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Axian",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator table lists CIV among countries of ST Digital, Axian/Stellarix and MTN/Bayobab, but names no CIV facility in service; Stellarix is 'building out' CIV (not in service); Onix Tier IV sites are Ghana and Senegal."
+}

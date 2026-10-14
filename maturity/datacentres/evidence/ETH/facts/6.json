@@ -1,0 +1,26 @@
+{
+  "slug": "2022-09-19-ena-redfox-launches-rfeth-mdc01-130m-usd",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ENA reports RedFox Solutions Group launched its RedFox Modular Data Center (RFETH-MDC01) at the ICT Park in Addis Ababa on 19 September 2022, built at USD 130 million, with its CEO saying the first modular data centre is operational and offers capacity to customers.",
+      "as_of": "2022-09-19",
+      "date_precision": "day",
+      "system": "RFETH-MDC01",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "RFETH-MDC01",
+      "country_label": "RedFox Modular Data Center",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "RedFox Solutions Group",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

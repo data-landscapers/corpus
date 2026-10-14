@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-18-guinee-atelier-aila-feuille-de-route-ia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data center national Tier III",
+      "country_label": "data center national de standard Tier III",
+      "class": "other",
+      "platform": "",
+      "owner": "State",
+      "tiers": ""
+    }
+  ],
+  "note": "Minister lists an inaugurated national Tier III data centre, but the document does not say it rents space or computing to outside customers, so it is not a data centre for hire fact."
+}

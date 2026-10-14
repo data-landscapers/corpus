@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-04-congo-national-data-centre-80pc-complete-wearetech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre (Brazzaville)",
+      "country_label": "Datacenter national",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Congo, co-financed by AfDB",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre only under construction (not in service); no fact for a data centre in service or a cloud region."
+}

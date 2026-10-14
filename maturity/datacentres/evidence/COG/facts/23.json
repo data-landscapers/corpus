@@ -1,0 +1,31 @@
+{
+  "slug": "2024-05-20-developingtelecoms-brazzaville-data-centre-due-end-of-year-adb",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Congo National Data Centre (Brazzaville, Bacongo)",
+      "country_label": "Data Center national",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Congo, AfDB-funded (Central African Backbone)",
+      "tiers": ""
+    },
+    {
+      "system": "ARPCE Pointe-Noire data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "ARPCE",
+      "tiers": ""
+    },
+    {
+      "system": "MTN Congo data centre (Brazzaville)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "MTN Congo",
+      "tiers": ""
+    }
+  ],
+  "note": "Existing Brazzaville data centres (ARPCE, Finance Ministry, MTN) listed as of 2021 with no statement that any rents to others; national centre under construction."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2023-10-25-raxio-46m-equity-roha-meridiam-ceo-succession",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio Angola data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Data Centres",
+   "tiers": "Tier III (operator's general claim)"
+  }
+ ],
+ "note": "Lists Angola among Raxio's operating countries but names no Angola facility or its status; Tier III claim is for the operator generally."
+}

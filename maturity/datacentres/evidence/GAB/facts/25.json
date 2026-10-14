@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-11-gabon-digital-id-interoperability-implementation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gabon national data center (Tier III-certified)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "Describes the national data centre as hosting government services only; no for-hire statement, so no fact."
+}

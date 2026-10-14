@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The president of Gabon's data-protection authority (APDPVP) says the data centre operated by ST Digital Gabon, a main site with a mirror site in Haut-Ogooue, was cleared after an impact study and authorised; the document gives no authorisation date, so the date is its publication date.",
+      "as_of": "2026-09-04",
+      "date_precision": "day",
+      "system": "ST Digital Gabon data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital Gabon data centre",
+      "country_label": "data center gabonais",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

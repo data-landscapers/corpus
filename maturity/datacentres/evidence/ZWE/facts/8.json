@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-zimbabwe-ministry-of-ict-priority-projects-national-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre",
+      "country_label": "National Data Centre Project",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT, Postal and Courier Services",
+      "tiers": ""
+    }
+  ],
+  "note": "Government data centre project for state data only; no data centre for hire or cloud region stated."
+}

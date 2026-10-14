@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-16 The digital sovereignty dividing line",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "The article lists the Johannesburg cloud region among Google's existing commercial-track assets in Africa; no launch date is given, so as_of is the article's publication date.",
+      "as_of": "2026-06-16",
+      "date_precision": "day",
+      "system": "Google Cloud Johannesburg region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cassava AI factories (South Africa site)",
+      "country_label": "AI factory, South Africa",
+      "class": "other",
+      "platform": "NVIDIA GPUs",
+      "owner": "Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Cloud region fact for Google only; a Johannesburg data centre is mentioned generically, no facility or status."
+}

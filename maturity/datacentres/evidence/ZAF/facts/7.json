@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-29-southafrica-vexa-coega-ai-data-hub-power",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vexa Coega SEZ hyperscale AI/cloud campus",
+   "country_label": "Vexa SA data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Vexa Infrastructure",
+   "tiers": ""
+  }
+ ],
+ "note": "Proposed campus at pre-feasibility stage; nothing in service."
+}

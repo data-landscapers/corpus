@@ -1,0 +1,15 @@
+{
+ "slug": "2021-06-03-tripolipost-litc-microsoft-azure-expressroute-partner",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LITC International Cloud Connect (ICC)",
+   "country_label": "ICC",
+   "class": "other",
+   "platform": "Microsoft Azure ExpressRoute",
+   "owner": "LITC",
+   "tiers": ""
+  }
+ ],
+ "note": "Private link from Libya to Microsoft data centres abroad; an on-ramp, not a cloud region or a data centre in LBY."
+}

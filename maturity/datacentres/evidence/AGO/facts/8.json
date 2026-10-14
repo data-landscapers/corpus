@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-zap-fibra-benguela-angola",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ZAP Fibra data centre, Lobito",
+      "country_label": "ZAP Fibra data centre, Lobito",
+      "class": "other",
+      "platform": "",
+      "owner": "ZAP",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator data centre supporting its own internet and TV services; no hire to outside customers stated."
+}

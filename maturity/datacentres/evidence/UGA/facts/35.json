@@ -1,0 +1,15 @@
+{
+ "slug": "2022-09-23-miga-raxio-group-2022-political-risk-guarantee",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio Data Centres Uganda",
+   "country_label": "Raxio Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Guarantee for planned Raxio subprojects incl. Uganda; design, finance, construction stage, nothing in service or tiered."
+}

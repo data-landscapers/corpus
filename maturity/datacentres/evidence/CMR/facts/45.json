@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-08-leconomie-diplomatic-documents-impact-palmares",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Impact Palmares sovereign data centre (Yaounde)",
+      "country_label": "Data Center a Yaounde",
+      "class": "other",
+      "platform": "",
+      "owner": "Impact Palmares R&D SAS",
+      "tiers": "planned, state documents only"
+    }
+  ],
+  "note": "Data centre in Yaounde is only a commitment to build for state use; no fact."
+}

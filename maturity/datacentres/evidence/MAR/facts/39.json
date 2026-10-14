@@ -1,0 +1,34 @@
+{
+  "slug": "2025-07-16-dcd-morocco-dakhla-500mw-renewable-data-centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Oracle launched a cloud region in Morocco in March 2024 in collaboration with data centre operator N+One (DatacenterDynamics, passing mention).",
+      "as_of": "2024-03",
+      "date_precision": "month",
+      "system": "Oracle Cloud region Morocco",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Oracle Cloud region Morocco",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "Oracle Cloud",
+      "owner": "Oracle",
+      "tiers": ""
+    },
+    {
+      "system": "N+One",
+      "country_label": "N+One",
+      "class": "",
+      "platform": "",
+      "owner": "N+One",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned Dakhla 500 MW and other sites are not facts; Naver/Nvidia 500 MW is announced only."
+}

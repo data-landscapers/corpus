@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-la-guinee-inaugure-son-premier-data-center-national-et-lance-son-domaine-gn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national (Koloma)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "Dell and Cisco servers",
+   "owner": "State of Guinea",
+   "tiers": "Tier III certified (as stated, certifier not named)"
+  }
+ ],
+ "note": "State national data centre at Koloma inaugurated 4 Sep 2025, stated Tier III certified, but the document does not say it rents to outside customers, so no fact."
+}

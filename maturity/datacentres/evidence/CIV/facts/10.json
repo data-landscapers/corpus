@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-23-dcd-orange-gos-solar-plant-commissioned-grand-bassam",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange GOS (Groupement Orange Services) data centre",
+      "country_label": "GOS",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": "GOS is Tier III-certified but described as hosting Orange's own subsidiaries' equipment, with no sale to outside customers stated, so not a data centre for hire."
+}

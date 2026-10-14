@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-senum-transformation-digitale-administration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SENUM data centres Orana, Technopole, Diamniadio",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Senegal Numerique SA",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centres hosting public bodies' data only; no statement of renting to outside customers, no tier, no cloud region."
+}

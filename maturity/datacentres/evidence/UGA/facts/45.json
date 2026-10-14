@@ -1,0 +1,42 @@
+{
+  "slug": "2026-01-28 Uganda to Launch Africa's First Home-Grown AI Supercomputer Center at Karuma Hydropower Plant",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The article says Raxio Group runs a data centre in Namanve, Uganda; it gives no opening date, so as_of is the article's publication date.",
+      "as_of": "2026-01-28",
+      "date_precision": "day",
+      "system": "Raxio Data Centre (Namanve)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Data Centre (Namanve)",
+      "country_label": "Raxio Data Centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio",
+      "tiers": ""
+    },
+    {
+      "system": "Aeonian Project",
+      "country_label": "Aeonian Project",
+      "class": "other",
+      "platform": "NVIDIA (USIO supercomputer)",
+      "owner": "Synectic Technologies",
+      "tiers": ""
+    },
+    {
+      "system": "Centenary Group green data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Centenary Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Aeonian and Centenary centres are planned or opening soon; not facts."
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "2",
+   "centre": "service",
+   "cloud": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-003",
+   "gaps": "No source held says a data centre for hire in the country is Tier III or above.",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

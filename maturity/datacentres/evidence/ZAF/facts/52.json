@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Microsoft's president referred to increasing capacity in Microsoft's existing data centre regions in South Africa; the article gives no launch date (date is the article's published date).",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Microsoft cloud regions South Africa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Microsoft cloud regions South Africa",
+   "country_label": "Microsoft cloud regions South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

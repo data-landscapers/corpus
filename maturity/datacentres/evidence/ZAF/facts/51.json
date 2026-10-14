@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Ecofin reports WIOCC operates data centres including a Durban site (part of six across South Africa, Nigeria and DRC, 5.6 MW combined), with a Durban expansion funded by IFC.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "WIOCC Durban data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Ecofin reports OADC (WIOCC) closed its acquisition of seven NTT data centres in South Africa on 31 December 2025, operational and tenanted, over 25 MW, with NTT DATA South Africa remaining primary client interface.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "OADC NTT South Africa data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WIOCC Durban data centre",
+   "country_label": "WIOCC Durban data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "WIOCC / OADC",
+   "tiers": ""
+  },
+  {
+   "system": "OADC NTT South Africa data centres (seven)",
+   "country_label": "OADC NTT South Africa data centres (seven)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "OADC PropCo South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

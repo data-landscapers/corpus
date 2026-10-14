@@ -1,0 +1,44 @@
+{
+ "slug": "2021-02-22-dcd-um6p-toubkal-supercomputer-benguerir-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "UM6P formally opened its Benguerir Data Center, built with OCP Group, which also houses managed cloud services provider Atlas Cloud Services (the document gives 'published' date as the opening date; it does not say the centre rents capacity to others beyond hosting Atlas).",
+   "as_of": "2021-02-22",
+   "date_precision": "day",
+   "system": "Benguerir Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Benguerir Data Center, now open, is described as Tier IV Design certified (design certification, 5MW IT load; certifier not named in the text).",
+   "as_of": "2021-02-22",
+   "date_precision": "day",
+   "system": "Benguerir Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Benguerir Data Center",
+   "country_label": "Benguerir Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "UM6P with OCP Group",
+   "tiers": ""
+  },
+  {
+   "system": "Toubkal supercomputer",
+   "country_label": "Toubkal",
+   "class": "other",
+   "platform": "Dell PowerEdge C6420, Infiniband HDR100",
+   "owner": "UM6P",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

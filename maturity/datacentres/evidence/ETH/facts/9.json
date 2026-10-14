@@ -1,0 +1,31 @@
+{
+  "slug": "2022-01-20-dcd-safaricom-ethiopia-first-prefab-data-centre-usd100m",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Safaricom Ethiopia first data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "prefabricated",
+      "owner": "Safaricom Ethiopia",
+      "tiers": ""
+    },
+    {
+      "system": "Ethio Telecom modular data centre",
+      "country_label": "",
+      "class": "",
+      "platform": "Huawei",
+      "owner": "Ethio Telecom",
+      "tiers": ""
+    },
+    {
+      "system": "Raxio Addis Ababa data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Raxio",
+      "tiers": ""
+    }
+  ],
+  "note": "Safaricom's own site; Ethio Telecom opening and Raxio groundbreaking are passing mentions with no for-hire or in-service statement for a hire facility."
+}

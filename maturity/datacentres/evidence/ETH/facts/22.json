@@ -1,0 +1,31 @@
+{
+  "slug": "2023-09-10-addis-fortune-raxio-et1-doubling-capacity-3mw",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio Ethiopia data centre (IT Park, Qilinto)",
+      "country_label": "Raxio data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": "Tier III (planned)"
+    },
+    {
+      "system": "RedFox",
+      "country_label": "RedFox",
+      "class": "other",
+      "platform": "",
+      "owner": "RedFox",
+      "tiers": ""
+    },
+    {
+      "system": "Wingu Africa International",
+      "country_label": "Wingu Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "Wingu Africa International",
+      "tiers": ""
+    }
+  ],
+  "note": "Raxio centre not yet operating in Sept 2023; RedFox and Wingu said to have started operations but the document does not say they rent to others."
+}

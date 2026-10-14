@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-25-ken-citizendigital-ai-conference-data-sovereignty-smartafrica",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Olkaria geothermal data center (Microsoft, proposed)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft",
+      "tiers": ""
+    }
+  ],
+  "note": "Only aggregate capacity and utilisation figures and a suspended, unbuilt Microsoft data center; no named in-service facility or live cloud region."
+}

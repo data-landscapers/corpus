@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,PRODIGY Tsimbazaza primary data centre,Data Center principal Tsimbazaza,other,,UGD / PRODIGY (state),,2026-04-21-publication-documents-gres-prodigy-datacenters
+MDG,PRODIGY Iavoloha secondary data centre,Data Center secondaire Iavoloha,other,,UGD / PRODIGY (state),,2026-04-21-publication-documents-gres-prodigy-datacenters
+MDG,STELLARIX data centres (Galaxy Andraharo; Analakely),Nos Datacenters,datacentre,,STELLARIX,"described as Tier III ready, not certified",2025-12-11-stellarix-colocation-housing-antananarivo
+MDG,PRODIGY Iavoloha data centre,Data Center Iavoloha,other,,UCP-PRODIGY (state),,2025-08-28-prodigy-iavoloha-datacenter-aircon-tender
+MDG,Hodi managed PRA,PRA managé,other,Acronis Disaster Recovery,Hodi,Tier IV backup site is outside Madagascar,2026-08-31-hodi-pra-manage-offsite-backup
+MDG,Datacenter Cloud (ARTEC Andohatapenaka),Datacenter Cloud du gouvernement,other,,Government of Madagascar,government,2021-03-19-2424mg-madagascar-government-cloud-datacenter-artec-andohatapenaka
+MDG,premier datacenter de l'Etat,premier datacenter de l'Etat,other,Huawei,Ministry of Digital Development (MDNPT),government,2022-03-10-2424mg-huawei-200km-metro-fibre-antananarivo-state-datacenter
+MDG,data management centers (Telecommunications Network Modernization Project),data management centers,other,Huawei,Government of Madagascar,government,2020-01-01-eximbank-cn-mdg-002-china-eximbank-provides-rmb-3379-million
+MDG,Stellarix data centres (Axian),Stellarix,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+MDG,"PRODIGY government data centres (Tsimbazaza, Iavoloha)",,other,,UGD / PRODIGY,,2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin
+MDG,"UGD government data centres (Site A, Site B)",,other,,UGD / PRODIGY,,2026-02-12-appel-offres-datacenters-ugd-prodigy
+MDG,"PRODIGY government data centres (Tsimbazaza, Iavoloha)",,other,,UGD / PRODIGY,,2025-12-22-prodigy-tenders-data-center-biometricupdate
+MDG,"PRODIGY government data centres (Tsimbazaza, Iavoloha)",,other,,UGD / PRODIGY,,2025-08-01-prodigy-pges-iavoloha-datacenter-secondaire
+MDG,"Data Center Principal, Tsimbazaza",DATA CENTER Principal,other,,"Government of Madagascar (Presidency, Digital Governance Unit; PRODIGY project, World Bank financed)",,2025-08-01-prodigy-pges-tsimbazaza-datacenter-principal

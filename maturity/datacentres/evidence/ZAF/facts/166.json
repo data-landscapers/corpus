@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-19 What Google's latest startup cohort says about AI in Africa",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Google's Africa managing director says Google is investing in 'our cloud region in South Africa', which he presents as existing; no launch date is given, so as_of is the article's publication date.",
+      "as_of": "2026-06-19",
+      "date_precision": "day",
+      "system": "Google Cloud South Africa region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Google Cloud South Africa region",
+      "country_label": "Google cloud region in South Africa",
+      "class": "datacentre",
+      "platform": "Google Cloud",
+      "owner": "Google",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

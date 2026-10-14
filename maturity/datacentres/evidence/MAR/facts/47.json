@@ -1,0 +1,31 @@
+{
+  "slug": "2026-09-11-mar-detafour-siyada-raqmiya-dhaka-istinai",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dakhla green data centre complex (up to 500 MW)",
+      "country_label": "Dakhla green data centre complex (up to 500 MW)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Rabat data centre 50 MW with sovereign cloud",
+      "country_label": "Rabat data centre 50 MW with sovereign cloud",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Benguerir data centre expansion",
+      "country_label": "Benguerir data centre expansion",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Ministry announcements of planned or expanded state data centres and a national capacity target; no in-service data centre for hire or live cloud region stated."
+}

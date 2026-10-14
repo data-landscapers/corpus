@@ -1,0 +1,36 @@
+{
+ "slug": "2015-04-07-leconomistemaghrebin-orange-tunisie-eo-data-center-housing-mou",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Orange Tunisie and EO Data Center (Meninx Holding) signed an MoU on housing/hosting offers (U, quarter or half rack, dedicated racks) across EO's Tunis and Enfidha sites.",
+   "as_of": "2015-04-07",
+   "date_precision": "day",
+   "system": "EO Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The article says EO Data Center is designed to Tier III+ across its Tunis and Enfidha sites (design claim, no certification named).",
+   "as_of": "2015-04-07",
+   "date_precision": "day",
+   "system": "EO Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EO Data Center",
+   "country_label": "EO Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Meninx Holding",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

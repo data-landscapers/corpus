@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03 The system's crashed. Where's the backup",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Microsoft Azure South Africa West (Cape Town) (Microsoft Corporation), hyperscale, in service; this document names it (published 2026-06-03).",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Microsoft Azure South Africa West (Cape Town)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2013-12-03-dcd-airtel-malawi-new-data-centre-blantyre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Airtel Malawi Blantyre data centre",
+      "country_label": "new data center",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Malawi",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator data centre opened Dec 2013; document does not say it rents space or computing to others (cloud services only promised)."
+}

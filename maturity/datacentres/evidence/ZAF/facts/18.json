@@ -1,0 +1,72 @@
+{
+ "slug": "2022-01-19-oracles-johannesburg-data-centre-goes-live",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ITWeb reports Oracle officially opened its Johannesburg data centre on 19 January 2022; Oracle declined to disclose its location and size.",
+   "as_of": "2022-01-19",
+   "date_precision": "day",
+   "system": "Oracle Cloud Johannesburg Region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "ITWeb reports Oracle opened the Oracle Cloud Johannesburg Region on 19 January 2022, its first cloud region in Africa.",
+   "as_of": "2022-01-19",
+   "date_precision": "day",
+   "system": "Oracle Cloud Johannesburg Region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "ITWeb states Microsoft opened two data centre regions in South Africa in March 2019 to deliver Azure cloud services.",
+   "as_of": "2019-03",
+   "date_precision": "month",
+   "system": "Microsoft Azure South Africa regions",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "ITWeb states Amazon Web Services announced the opening of the AWS Africa (Cape Town) Region, with three availability zones, in April 2020.",
+   "as_of": "2020-04",
+   "date_precision": "month",
+   "system": "AWS Africa (Cape Town) Region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Oracle Cloud Johannesburg Region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Oracle Cloud Infrastructure",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "Dimension Data data centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Dimension Data",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Data Environments",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

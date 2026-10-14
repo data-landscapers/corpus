@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-23-bfa-2026-transition-digitale-mini-datacenters",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government data centres (two)",
+   "country_label": "data centers de l'administration publique",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Burkina Faso (Ministry of Digital Transition)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Two government data centres serve public administration only; not for hire."
+}

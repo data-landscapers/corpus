@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-01-cameroon-data-center-market-briefing-xalam",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 5-7 live commercial (third-party colocation) data centre facilities in Cameroon in 2025 with about 4 MW live critical IT load, mostly telco and state facilities, with independent carrier-neutral provider ST Digital also offering cloud services.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Commercial data centres (unnamed), incl. ST Digital",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital",
+   "country_label": "ST Digital",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  },
+  {
+   "system": "Camtel data centre",
+   "country_label": "Camtel",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

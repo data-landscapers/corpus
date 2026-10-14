@@ -1,0 +1,15 @@
+{
+ "slug": "2021-07-14-korea-edcf-tun-2021-land-information-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OTC land information data centre",
+   "country_label": "centre de donnees foncier",
+   "class": "other",
+   "platform": "",
+   "owner": "Office de la topographie et du cadastre",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned state data centre for the land office only; not for hire."
+}

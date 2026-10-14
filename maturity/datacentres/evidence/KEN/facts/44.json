@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-ifc-data-center-ai-investment-emerging-markets",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Kenya Azure cloud region",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft; G42",
+   "tiers": ""
+  }
+ ],
+ "note": "Kenya project announced 2024 to host a future Azure region; no in-service fact."
+}

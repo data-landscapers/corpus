@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Onix Accra",
+      "class": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The article (2026-06-11) says Onix, majority-owned by AIIM under Old Mutual, operates a carrier-neutral data centre in Accra that is built and selling capacity; no opening date is given, so as_of is the article's published month."
+    },
+    {
+      "sub_indicator": "datacentre",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Onix Accra",
+      "class": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The article (2026-06-11) says Onix's Accra facility is certified Tier IV and is Ghana's only Tier IV certified facility; the certifying body and date are not given, so as_of is the article's published month."
+    }
+  ],
+  "systems": [
+    {
+      "system": "Onix Accra",
+      "country_label": "Onix Accra",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Onix (majority-owned by AIIM, Old Mutual)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

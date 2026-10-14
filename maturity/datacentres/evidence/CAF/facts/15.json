@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-26-car-plan-e-finances-publiques-note-cadrage",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacenter Tiers IV (MFB)",
+      "country_label": "Datacenter Tiers IV",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Finance and Budget",
+      "tiers": "Tier IV (planned, build or acquire)"
+    }
+  ],
+  "note": "Tier IV data centre is a planned priority action of the finance ministry for its own use; no fact."
+}

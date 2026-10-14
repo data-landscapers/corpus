@@ -1,0 +1,5 @@
+{"slug":"2025-07-15-btw-virtual-technologies-solutions-burkina-virtix","facts":[
+{"sub_indicator":"datacentre","aspect":"centre","value":"service","fact":"BTW Media reports that Virtual Technologies & Solutions (VTS) runs the Virtix data centre in Ouagadougou, which offers colocation, cloud and hosting services; the article gives no opening date, so as_of is the article's published date.","as_of":"2025-07-15","date_precision":"day","system":"Virtix","class":"datacentre"},
+{"sub_indicator":"datacentre","aspect":"centre","value":"tier3","fact":"BTW Media describes VTS's Virtix data centre in Ouagadougou, in service and offering colocation, as Tier III, with no certifying body named (an operator-profile claim); no date given, so as_of is the article's published date.","as_of":"2025-07-15","date_precision":"day","system":"Virtix","class":"datacentre"}],
+"systems":[{"system":"Virtix","country_label":"Virtix","class":"datacentre","platform":"","owner":"Virtual Technologies & Solutions (VTS)","tiers":"Tier III (stated)"}],
+"note":""}

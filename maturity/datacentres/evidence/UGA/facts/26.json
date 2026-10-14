@@ -1,0 +1,26 @@
+{
+  "slug": "2021-03-29-meridiam-48m-raxio-data-centres-partnership",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Meridiam and Raxio say Raxio's first flagship data centre is in Uganda and operating as a neutral facility for customers; Meridiam invests $48m in Raxio's network (document published 2021-03-29, which gives no opening date).",
+      "as_of": "2021-03-29",
+      "date_precision": "day",
+      "system": "Raxio Uganda data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Uganda data centre",
+      "country_label": "Raxio Uganda data centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Tier III statement is generic to all Raxio facilities, not naming the Uganda site, so no tier3 fact; Ethiopia and DRC sites are not UGA."
+}

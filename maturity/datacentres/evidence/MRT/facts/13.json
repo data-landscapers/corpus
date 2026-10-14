@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-04-mauritania-somelec-pppm-2024-procurement-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SOMELEC datacentre fit-out (Aménagement DATACENTER)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "SOMELEC",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement-plan line for a utility's own data-centre fit-out; no for-hire data centre or cloud region stated."
+}

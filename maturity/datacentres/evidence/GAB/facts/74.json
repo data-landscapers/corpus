@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-25-businessincameroon-st-digital-unctad-wir-2025",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: ST Digital Datacenter Gabon (Nkok SEZ) (ST Digital Gabon), colocation/carrier-neutral, in service; this document names it (published 2025-06-25).",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "ST Digital Datacenter Gabon (Nkok SEZ)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

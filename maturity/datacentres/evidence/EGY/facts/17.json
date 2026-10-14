@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-10-raya-holding-africa50-15m-raya-data-center-tier-iii",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raya Data Center",
+      "country_label": "Raya Data Center",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raya Information Technology",
+      "tiers": ""
+    },
+    {
+      "system": "New Raya Tier III data centre (construction to begin early 2025)",
+      "country_label": "New Raya Tier III data centre (construction to begin early 2025)",
+      "class": "other",
+      "platform": "",
+      "owner": "Raya Data Center",
+      "tiers": ""
+    }
+  ],
+  "note": "Announces funding for a new Tier III data centre not yet built; says nothing of existing facilities' tier or service."
+}

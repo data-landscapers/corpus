@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-airtel-kenya-regional-mega-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Kenya data centre (Nxtra)",
+   "country_label": "Airtel Kenya data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Facility under construction, due July 2027; not in service."
+}

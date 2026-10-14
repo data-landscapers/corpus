@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-14-northbay-ibl-data-centre-migration-to-aws",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IBL Ltd on-premises data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "IBL Ltd",
+   "tiers": "owner use only"
+  }
+ ],
+ "note": "Vendor case study of IBL moving its own on-premises data centre to AWS; region not stated and no data centre for hire or cloud region in Mauritius is stated."
+}

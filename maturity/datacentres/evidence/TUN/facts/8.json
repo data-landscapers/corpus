@@ -1,0 +1,26 @@
+{
+ "slug": "2019-05-18-meninx-holding-eo-datacenter-obtient-la-certification-pci-dss",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "EO Datacenter (Meninx Holding), a hosting operator described as leader of hosting in Tunisia, was operating and obtained PCI-DSS certification; also ISO 27001.",
+   "as_of": "2019-05-18",
+   "date_precision": "day",
+   "system": "EO Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EO Datacenter",
+   "country_label": "EO Datacenter",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Meninx Holding",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-14-xna-aljazeera-shamal-afriqia-dhakaa-istinai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bizerte 20 MW data centre",
+   "country_label": "Bizerte",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "For Tunisia only a planned 20 MW renewable-powered data centre in Bizerte and the ViaTunisia cable; no in-service facility or cloud region stated."
+}

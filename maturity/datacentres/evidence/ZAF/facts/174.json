@@ -1,0 +1,31 @@
+{
+ "slug": "2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teraco (hosting Altron Nvidia GPU service)",
+   "country_label": "Teraco",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres (hosting Cassava Nvidia GPUs)",
+   "country_label": "Africa Data Centres",
+   "class": "other",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "Cassava Cape Town GPU facility",
+   "country_label": "",
+   "class": "other",
+   "platform": "Nvidia",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Teraco and Africa Data Centres named as hosts of announced GPU deals; no explicit in-service, ZAF-located statement of a facility for hire."
+}

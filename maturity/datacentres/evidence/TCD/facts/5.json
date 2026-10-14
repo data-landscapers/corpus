@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Centre national des données numériques)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "State (ADETIC)",
+   "tiers": "government"
+  }
+ ],
+ "note": "National data centre under construction in Jan 2025; state-only; no fact."
+}

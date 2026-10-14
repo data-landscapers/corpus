@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-06-insa-empowering-ethiopia-digital-sovereignty-gotera-cloud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Gotera Cloud (G-Cloud)",
+      "country_label": "Gotera Cloud",
+      "class": "other",
+      "platform": "IaaS/PaaS/SaaS/backup",
+      "owner": "INSA (Information Network Security Administration)",
+      "tiers": "government institutions"
+    }
+  ],
+  "note": "INSA announces Gotera Cloud for government institutions; no stated opening, facility, location or outside customers, so no centre fact."
+}

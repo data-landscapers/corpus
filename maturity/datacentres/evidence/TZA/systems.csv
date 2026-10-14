@@ -1,0 +1,40 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,National Internet Data Center (Mikocheni),National Internet Data Center,,,"TTCL, on behalf of the government",,2026-08-05-world-bank-tanzania-digital-dividend
+TZA,Tanzania Internet Exchange (TIX),TIX,,,hosted at Wingu Africa facility,,2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub
+TZA,Wingu Cloud Exchange (WCX),WCX,datacentre,"Wingu Compute, Kubernetes",Wingu Africa,,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview
+TZA,Azure Stack HCI (Liquid Tanzania),Azure Stack HCI,other,Microsoft Azure Stack HCI,Liquid Intelligent Technologies Tanzania,,2023-10-10-liquid-wingu-tanzania-second-azure-stack-hci
+TZA,Vodacom Tanzania data centres,Vodacom colocation,datacentre,,Vodacom Tanzania,,2022-04-19-vodacom-tanzania-colocation-privacy-supplement
+TZA,Government AI data centres (planned),AI data centres,other,,Government of Tanzania,,2026-09-11-tza-dailynews-tanzania-plans-ai-data-centres
+TZA,Raxio Tanzania data centre (under development),Raxio,other,,Raxio Group,,2026-07-14 Raxio raises data centre funding
+TZA,Raxio Tanzania data centre (planned),Raxio,other,,Raxio Group,,2026-07-13-raxio-380-million-capital-tanzania-expansion
+TZA,Public data centres Dodoma and Zanzibar,,other,,Government of Tanzania,,2026-06-19-liquid-tanzania-government-align-digital-transformation
+TZA,"Public data centres (four, per TCRA)",public data centres,other,,Government,,2026-04-10-communications-sector-surges-400pc
+TZA,Raxio TZ1,Raxio Tanzania,other,,Raxio Group,,2026-01-01-raxio-tanzania-data-centre
+TZA,"National data centres, Dodoma and Zanzibar",,other,,Government of Tanzania,,2025-05-16-tanzania-allocates-sh73-billion-ict-backbone
+TZA,Wingu.Africa Dar es Salaam data centre,,datacentre,,Wingu.Africa (founders and Africa Capitalworks),,2025-03-20-wingu-africa-breaks-grounds-on-data-center-expansion-in-dar-es-salaam-tanzania
+TZA,Wingu.Africa Dar es Salaam data centre,Wingu Africa Mbezi data centre,datacentre,,Wingu Africa,Tier 3,2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02
+TZA,Nxtra Africa Dar es Salaam data centre,,other,,Nxtra Africa (Airtel Africa),,2024-12-13 Nxtra - Airtel's leap into Africa's growing data center market
+TZA,Raxio Tanzania,,,,Raxio Group,,2023-10-25-raxio-46m-equity-roha-meridiam-ceo-succession
+TZA,Raxio Tanzania,,,,Raxio Group,,2023-04-17-raxio-170m-sustainability-linked-debt-facility
+TZA,Raxio Tanzania (planned),,other,,Raxio Group,,2021-08-24-dcd-raxio-appoints-master-power-technologies-builder
+TZA,TTCL Kijitonyama data centre,,datacentre,,TTCL,,2017-01-18-dcd-tanzania-ttcl-data-centre-underused-agencies-told-to-move-in
+TZA,"Government data centre, Kijitonyama",,other,,Government of Tanzania,,2015-06-24-dcd-tanzania-94m-government-data-centre-huawei-adviser
+TZA,"National Internet Data Centre (IDC), Kijitonyama",National Internet Data Centre,other,,"Government (Ministry of Communications, Science and Technology)",,2015-06-23-pctechmag-tanzania-national-internet-data-centre-kijitonyama-huawei
+TZA,CAIMSA AI Data Centre,AI Data Centre,other,,CAIMSA,,2026-07-13 CAIMSA unveils Africa AI data centre plan
+TZA,Raxio Tanzania data centre,,,,Raxio,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+TZA,Raxio Tanzania data centre,,datacentre,,Raxio Group,Tier III,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+TZA,Raxio Data Centres,Raxio,datacentre,,"Raxio Group (Roha, Meridiam)","Tier III (operator's claim, platform-wide, not TZA-specific)",2023-10-25-roha-raxio-group-2023-raxio-46m-equity
+TZA,Raxio Data Centres,Raxio,datacentre,,"Raxio Group (Roha, Meridiam)",,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+TZA,Raxio Data Centres,Raxio,datacentre,,"Raxio Group (Roha, Meridiam)",,2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data
+TZA,Government Tier 3/4 data centres (planned),data centers nationaux,other,,Government of Tanzania,four Tier 3 and one Tier 4 planned,2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031
+TZA,National Data Centres Dodoma and Zanzibar (under construction),National Data Centres,other,,"Ministry of Information, Communication and Information Technology",,2026-09-17-tza-tmafrica-feature-phone-economy-built-rails-device-ceiling
+TZA,National Internet Data Centre (NIDC),NIDC,datacentre,,TTCL,,2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity
+TZA,Dodoma government data centre,Data Center Dodoma,other,,Government of Tanzania,,2026-03-18-kamati-ya-bunge-yaipongeza-ttcl-data-center-dodoma
+TZA,TTCL Data Center,Data Center,,,TTCL,,2026-03-18-kamati-ya-bunge-yaipongeza-ttcl-data-center-dodoma
+TZA,STELLARIX,STELLARIX,,,STELLARIX,,2025-09-24-stellarix-joins-tispa
+TZA,Wingu Dar es Salaam data centre,Wingu Africa Dar es Salaam facility,datacentre,,Wingu Africa,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+TZA,Wingu Tanzania second facility,,datacentre,,Wingu Africa,,2025-06-05-wingu-60m-rmb-funding-biometricupdate
+TZA,Wingu Dar es Salaam data centre,Wingu Africa Dar es Salaam facility,datacentre,,Wingu Africa,,2025-06-02-wingu-africa-60m-rmb-press-release-adca
+TZA,Raxio Tanzania data centre,,datacentre,,Raxio Group,Tier III,2026-07-24-lancet-africa-ai-health-infrastructure
+TZA,Wingu,Wingu,other,,Wingu,,2026-06-11 Can Africa supply it's own digital infrastructure
+TZA,Raxio Tanzania data centre,Raxio Tanzania site,other,,Raxio Group,under development,2026-07-15 Raxio data-centre capital tops $380m on investor boost

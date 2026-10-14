@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-07-telecom-egypt-helios-binding-offer-regional-data-hub",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Telecom Egypt Regional Data Hub (RDH) (Telecom Egypt), colocation/carrier-neutral, in service; this document names it (published 2025-09-07).",
+   "as_of": "2025-09-07",
+   "date_precision": "day",
+   "system": "Telecom Egypt Regional Data Hub (RDH)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

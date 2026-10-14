@@ -1,0 +1,15 @@
+{
+ "slug": "2021-02-26-dcd-zimbabwe-national-data-centre-commissioned",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Center (NDC)",
+   "class": "other",
+   "platform": "Inspur",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre to centralise state services; no statement it rents to outside customers."
+}

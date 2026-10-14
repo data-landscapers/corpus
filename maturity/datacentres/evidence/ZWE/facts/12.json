@@ -1,0 +1,26 @@
+{
+ "slug": "2022-03-25-dcd-telone-mazowe-earth-station-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TelOne launched its fourth data centre at the Mazowe Earth Station, expanded from 14 to 34 racks over 1,300 sqm; the minister said it lets entrepreneurs and corporates host and distribute local content. Dated to the week of the article's publication.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "TelOne Mazowe Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TelOne Mazowe Data Centre",
+   "country_label": "Mazowe Earth Station data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TelOne (with ZINGSA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

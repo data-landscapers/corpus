@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Wingu",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu",
+   "tiers": ""
+  },
+  {
+   "system": "Safaricom data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "Names Ethiopia only as a footprint of Safaricom and Wingu, with counts spanning several countries; no facility, service date or tier stated for ETH."
+}

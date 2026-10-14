@@ -1,0 +1,26 @@
+{
+  "slug": "2020-04-22-zaf-aws-announcing-africa-cape-town-region",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "AWS announced the immediate availability of the AWS Africa (Cape Town) Region on 22 April 2020, with three Availability Zones.",
+      "as_of": "2020-04-22",
+      "date_precision": "day",
+      "system": "AWS Africa (Cape Town) Region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "AWS Africa (Cape Town) Region",
+      "country_label": "af-south-1",
+      "class": "datacentre",
+      "platform": "AWS",
+      "owner": "Amazon Web Services",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

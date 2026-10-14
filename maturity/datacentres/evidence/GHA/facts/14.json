@@ -1,0 +1,15 @@
+{
+  "slug": "2022-03-27-scancom-plc-mtn-ghana-accra-tetteh-quarshie-accra02-switching-and-data-center-ti",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Accra Tetteh Quarshie Accra02 Switching and Data Center",
+      "country_label": "Scancom PLC (MTN Ghana) Accra Tetteh Quarshie Accra02 Switching and Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Scancom PLC (MTN Ghana)",
+      "tiers": "ANSI/TIA-942-B Constructed Facility rating 3, EPI, certificate TIA942GH220327002, awarded 2022-03-27, expired 2025-03-26"
+    }
+  ],
+  "note": "TIA-942 level 3 certificate, expired; the page does not say the facility rents to others (MTN switching and data center), so no for-hire fact."
+}

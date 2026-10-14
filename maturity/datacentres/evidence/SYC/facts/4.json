@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-uptime-institute-bon-espoir-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center 1 - Bon Espoir",
+   "country_label": "Data Center 1 - Bon Espoir, Anse Boileau",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cable & Wireless (Seychelles) Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "Uptime record is a Tier IV design-document award (file code TIVCDD) valid to 2027; design only, not a facility in service."
+}

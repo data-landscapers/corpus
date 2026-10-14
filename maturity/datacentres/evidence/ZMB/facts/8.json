@@ -1,0 +1,31 @@
+{
+  "slug": "2015-01-01-eximbank-cn-zmb-001-china-eximbank-provides-654-million-loan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ZICTA national data centre (Smart Zambia Phase 1)",
+      "country_label": "National data center, Lusaka",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "ZICTA",
+      "tiers": ""
+    },
+    {
+      "system": "Zamtel Roma backup data centre",
+      "country_label": "Roma switch office backup data center",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "Zamtel",
+      "tiers": ""
+    },
+    {
+      "system": "Zamtel Kitwe backup data centre",
+      "country_label": "Kitwe switch office backup data center",
+      "class": "other",
+      "platform": "Huawei",
+      "owner": "Zamtel",
+      "tiers": ""
+    }
+  ],
+  "note": "Government data centres financed by a loan; the cloud platform is only stated as designed to serve government and enterprise, not as sold to outside customers in service."
+}

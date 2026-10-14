@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-03-south-africa-s-xneelo-starts-construction-on-second-data-center-in-johannesburg",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DCD reports xneelo, a South African colocation and hosting firm, operates a Samrand Business Park data centre at 21 Landmarks Avenue near Johannesburg with about 300 racks; as_of is the article date.",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "xneelo Samrand data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "xneelo Samrand data centre",
+   "country_label": "xneelo Samrand data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "xneelo",
+   "tiers": ""
+  },
+  {
+   "system": "xneelo second Samrand data centre",
+   "country_label": "xneelo second Samrand data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "xneelo",
+   "tiers": ""
+  }
+ ],
+ "note": "Second Samrand facility is under construction (due October 2026), not a fact."
+}

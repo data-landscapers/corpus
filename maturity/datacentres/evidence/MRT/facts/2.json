@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre / national cloud",
+   "country_label": "cloud national",
+   "class": "other",
+   "platform": "HCI (hyperconverged)",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": "government"
+  }
+ ],
+ "note": "State centre serving public administration only; no outside customers stated."
+}

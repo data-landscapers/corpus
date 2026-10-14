@@ -1,0 +1,34 @@
+{
+ "slug": "2011-12-24-developpement-du-vitib-mtn-offre-un-data-center-de-275-millions-de-fcfa-abidjan",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "MTN-funded data centre (FCFA 275m) at the VITIB free zone, Grand-Bassam, handed over to VITIB to sell hosting, data backup and computing services to others. The document gives no event date ('recemment'), so its published date is used.",
+   "as_of": "2011-12-24",
+   "date_precision": "day",
+   "system": "VITIB data center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VITIB data center",
+   "country_label": "Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "VITIB (donated by MTN)",
+   "tiers": ""
+  },
+  {
+   "system": "Government data centre (announced)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-11-hormuud-data-centers-dcd",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hormuud data centres",
+   "country_label": "Hormuud data centres",
+   "class": "other",
+   "platform": "",
+   "owner": "Hormuud Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "no fact: Hormuud operates 11 data centres (10MW) but the document does not say they rent to outside customers; further ones only planned."
+}

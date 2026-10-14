@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National",
+   "country_label": "Data Center National (DCA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the national data centre as sovereign hosting for state systems; no opening, tier or hire to outsiders stated."
+}

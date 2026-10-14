@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Africa Data Centres Nigeria",
+      "country_label": "NGA",
+      "class": "other",
+      "platform": "",
+      "owner": "Africa Data Centres (Liquid Intelligent Technologies)",
+      "tiers": ""
+    }
+  ],
+  "note": "Investment to grow hyperscale capacity incl. Nigeria; no in-service NGA facility stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2023-09-13-tunisie-arrete-label-g-cloud-n-cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "G-cloud / N-cloud labels",
+   "country_label": "G-cloud, N-cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Regulation on cloud provider labels; no data centre or cloud region is stated as existing or absent."
+}

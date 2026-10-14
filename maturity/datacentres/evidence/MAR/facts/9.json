@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-18-forcinews-dxc-technology-morocco-tccf-tier-iii",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "tier3",
+   "value": "tier3",
+   "fact": "Forci News reports DXC Technology Morocco, a DXC and CDG joint venture, obtained Uptime Institute Tier III Tier Certification of Constructed Facility (TCCF) for its DXC-CDG data centre, which it says serves current and future customers.",
+   "as_of": "2024-07-18",
+   "date_precision": "day",
+   "system": "DXC-CDG data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DXC-CDG data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "DXC Technology Morocco (DXC and Groupe CDG)",
+   "tiers": "Tier III TCCF (Uptime Institute)"
+  }
+ ],
+ "note": ""
+}

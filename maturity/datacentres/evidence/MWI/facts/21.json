@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre upgrade planned only; no data centre for hire or cloud region stated."
+}

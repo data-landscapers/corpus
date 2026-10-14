@@ -1,0 +1,15 @@
+{
+ "slug": "2021-10-04-lso-afdb-contract-award-mohales-hoek-data-centre-integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mohale's Hoek Data Centre",
+   "country_label": "Mohale's Hoek Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Lesotho",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centres (Mohale's Hoek and two others), state use only; no data centre for hire stated."
+}

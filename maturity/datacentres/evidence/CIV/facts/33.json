@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-25-us-exim-66m-data-center-guarantee-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data center (Cybastion/EXIM)",
+   "country_label": "national data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "Guarantee for construction of a state data centre; nothing in service."
+}

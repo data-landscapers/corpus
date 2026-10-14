@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "5",
+   "centre": "two",
+   "cloud": "region",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-019;EGY-008;EGY-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

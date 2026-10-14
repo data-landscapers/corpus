@@ -1,0 +1,10 @@
+{
+  "slug": "2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center 1 (DC1)", "country_label": "Data Center 1", "class": "other", "platform": "", "owner": "Government of Cabo Verde (financed by Portugal)", "tiers": ""},
+    {"system": "Data Center II (DC2)", "country_label": "Data Centre II", "class": "other", "platform": "", "owner": "Cabo Verde Technology Park (government; financed by AfDB under Phase I), to be run by a private firm under a PPP concession", "tiers": ""},
+    {"system": "Data Center III (DC3)", "country_label": "Data Center III", "class": "other", "platform": "", "owner": "Government of Cabo Verde (disaster recovery, government data only)", "tiers": ""}
+  ],
+  "note": "October 2022 appraisal of a project: DC2 in Praia is to be concessioned to a private operator and is not stated to be taking outside customers; DC1 and DC3 are government-only; the Tier-3 line is a project output target, not a certification; no cloud region mentioned."
+}

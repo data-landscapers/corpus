@@ -1,0 +1,36 @@
+{
+  "slug": "2022-08-11-paratus-launches-namibian-data-center-in-windhoek",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Paratus opened its Armada data centre just outside Windhoek in August 2022, offering hosting services to Namibian businesses; it is described as the largest in the country.",
+      "as_of": "2022-08",
+      "date_precision": "month",
+      "system": "Armada",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Paratus states that the Armada data centre near Windhoek is built to Tier III standards (operator statement; no Uptime Institute certification is mentioned).",
+      "as_of": "2022-08",
+      "date_precision": "month",
+      "system": "Armada",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Armada",
+      "country_label": "Paratus Armada DC",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Paratus",
+      "tiers": "Tier III (operator-stated)"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-16-tcd-ialtchad-data-center-national-hebergement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "National Data Center",
+   "class": "",
+   "platform": "",
+   "owner": "Government of Chad / ADETIC",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre only awaited ('prochaine reception'); no for-hire service stated."
+}

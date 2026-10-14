@@ -1,0 +1,47 @@
+{
+ "slug": "2026-08-19-dcd-omantel-otech-bsc-rwanda-data-centre-mou",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Otech / Broadband Systems Tier III data centre, Rwanda (planned)",
+   "country_label": "Otech / Broadband Systems Tier III data centre, Rwanda (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Otech and Broadband Systems Corporation",
+   "tiers": ""
+  },
+  {
+   "system": "Paix data centre, Kigali",
+   "country_label": "Paix data centre, Kigali",
+   "class": "",
+   "platform": "",
+   "owner": "Paix",
+   "tiers": ""
+  },
+  {
+   "system": "TransAfrica Communications data centre, Kigali",
+   "country_label": "TransAfrica Communications data centre, Kigali",
+   "class": "",
+   "platform": "",
+   "owner": "TransAfrica Communications",
+   "tiers": ""
+  },
+  {
+   "system": "AOS data centre, Kigali",
+   "country_label": "AOS data centre, Kigali",
+   "class": "",
+   "platform": "",
+   "owner": "AOS",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres Kigali (planned, status unclear)",
+   "country_label": "Africa Data Centres Kigali (planned, status unclear)",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "MoU for a planned Tier III centre; directory (Data Center Map) listing of three Kigali facilities does not state in-service, for-hire or tier; ADC status unclear."
+}

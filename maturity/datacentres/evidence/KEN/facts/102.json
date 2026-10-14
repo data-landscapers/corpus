@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-28-itwebafrica-microsoft-east-africa-lead-azure-region",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft Azure East Africa region",
+   "country_label": "Azure cloud region (planned)",
+   "class": "other",
+   "platform": "Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "Azure region and data centre only described as being prepared, undated; not live."
+}

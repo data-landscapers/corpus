@@ -1,0 +1,36 @@
+{
+ "slug": "2023-11-09-paratus-group-us31m-eaif-ninety-one-funding",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Paratus Group says it has two existing carrier-neutral data centres in Luanda, Angola; neither is named, and no opening date is given, so as_of is the publication date.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Paratus Angola Luanda data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Paratus Group says its two existing Luanda data centres are Tier III by design (operator statement); the facilities are not named individually.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Paratus Angola Luanda data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Angola Tier IV data centre (DC3)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned 10 MW Tier IV Paratus data centre and its financing are not facts."
+}

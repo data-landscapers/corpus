@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Citizen reports Wingu Africa operates carrier-neutral data centres in Dar es Salaam and promotes colocation, renting fractions of a rack to start-ups and serving banks, fintechs and logistics firms; no operating date is given, so as_of is the publication date.",
+      "as_of": "2026-04-30",
+      "date_precision": "day",
+      "system": "Wingu Africa Mbezi data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Tanzania Internet Exchange (TIX)",
+      "country_label": "TIX",
+      "class": "",
+      "platform": "",
+      "owner": "hosted at Wingu Africa facility",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

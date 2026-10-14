@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-12-sars-rfp-20-2025a-data-centre-generators-erratum",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SARS data centres (Le Hae la, Alberton)",
+   "country_label": "SARS data centers",
+   "class": "other",
+   "platform": "",
+   "owner": "South African Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": "Generator tender erratum for SARS's own data centres; no for-hire fact."
+}

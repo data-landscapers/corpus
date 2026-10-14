@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Nairobi One (NBOX1) campus of iXAfrica Data Centres, a carrier-neutral hyperscale data centre, hosts TouchNet's Zadara AI Sovereign Cloud, said to be available soon; dated by publication date 2025-07-17.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "iXAfrica Data Centres Nairobi One",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica Data Centres Nairobi One",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Zadara AI Sovereign Cloud (TouchNet)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "TouchNet",
+   "tiers": ""
+  }
+ ],
+ "note": "Zadara cloud is a hosted service, not a global cloud region; no cloud fact."
+}

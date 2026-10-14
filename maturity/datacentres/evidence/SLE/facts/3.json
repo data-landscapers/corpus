@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-17-natca-hq-national-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "NatCA / MoCTI (Southridge HQ, Freetown)",
+   "tiers": "government"
+  }
+ ],
+ "note": "Same commissioning as doc 2: government National Data Centre, no hire to others stated."
+}

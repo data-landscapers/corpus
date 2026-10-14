@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-guilab-datacenter-colocation-kipe",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "GUILAB's own page describes its operating data centre at the Centre Emetteur de Kipé, Conakry (228.91 m2, colocation room linked to a meet-me room) serving telecom operators, ISPs and other customers; the page carries no date, so as_of is its 2025 copyright year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "GUILAB data centre, Kipé",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUILAB data centre, Kipé",
+   "country_label": "Datacenter de GUILAB",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "GUILAB S.A",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-15-ninety-one-open-access-data-centres-2025-local-currency-loan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OADC new South African data centre (under construction/planned)",
+   "country_label": "OADC new South African data centre (under construction/planned)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres (Wiocc)",
+   "tiers": ""
+  }
+ ],
+ "note": "Financing for a new data centre and expansion of existing facilities; nothing in service, tier or cloud-region stated."
+}

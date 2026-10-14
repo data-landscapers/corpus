@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAIX Dakar data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": "carrier-neutral colocation, ground broken January 2025, not in service"
+  }
+ ],
+ "note": "Only SEN mention is PAIX breaking ground in Dakar in January 2025 (planned, not in service)."
+}

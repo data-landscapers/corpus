@@ -1,0 +1,38 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,Carrier-Neutral Green Centre,Carrier-Neutral Green Centre,other,,Government of Mauritius (announced),,2026-08-19-lexpress-mu-sadc-ramgoolam-carrier-neutral-green-centre
+MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Rogers Capital Port Louis Data Center,Rogers Capital Port Louis Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Harel Mallac Technologies Data Center,Harel Mallac Technologies Data Center,datacentre,,Harel Mallac Technologies,Tier III,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Rogers Capital La Tour Koenig Data Center,Rogers Capital La Tour Koenig Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Rogers Capital Les Cascades Data Center,Rogers Capital Les Cascades Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Bhumishq Data Center,Bhumishq Data Center,datacentre,,Bhumishq,Tier IV-designed,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Rogers Capital Ebene Data Center,Rogers Capital Ebene Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Emtel Data Center,Emtel Data Center,datacentre,,Emtel,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,BIRGER Candos Recovery Center,BIRGER Candos Recovery Center,datacentre,,BIRGER,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Rose Belle Data Center,Rose Belle Data Center,datacentre,,,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
+MUS,Emtel Data Centre,Emtel Data Centre (Arsenal),datacentre,,Emtel,TIA-942-B Rated 3 (expired 2023-09-23),2020-11-03-emtel-data-centre-arsenal-tia-942-rated-3
+MUS,Mauritius Telecom Tier IV data centres (planned),Tier IV data centres,other,,Mauritius Telecom,Tier IV (planned),2026-03-22-build-ai-ecosystem-before-infrastructure-mauritiustimes
+MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,datacentre,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
+MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
+MUS,Mauritius Telecom data centres,,datacentre,,Mauritius Telecom,,2025-07-01-xalam-mauritius-data-center-market-briefing
+MUS,Emtel data centres,,datacentre,,Emtel,,2025-07-01-xalam-mauritius-data-center-market-briefing
+MUS,IBL Ltd on-premises data centre,,other,,IBL Ltd,owner use only,2025-05-14-northbay-ibl-data-centre-migration-to-aws
+MUS,Rogers Capital Technology data centre,,datacentre,,Rogers Capital Technology Services,,2024-09-25-highly-secured-rogers-capital-technology-data-centre
+MUS,Mauritius Telecom Rose-Belle data centre,Data Centre de Rose-Belle,datacentre,,Mauritius Telecom,,2024-03-28-communication-nouvelles-technologies-mtius-telecom-ouvre-son-data-centre-et-lanc
+MUS,My.t Cloud,My.t Cloud / Cloud.MT,other,Elastic Cloud Servers,Mauritius Telecom,,2024-03-28-communication-nouvelles-technologies-mtius-telecom-ouvre-son-data-centre-et-lanc
+MUS,AWS partnership (training),AWS,other,,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
+MUS,Mauritius Telecom Tier IV data centre,,datacentre,,Mauritius Telecom,Tier IV (operator-stated),2026-02-22-lexpress-mauritius-seeks-b300-gpus
+MUS,GOC Data centre and DR site,Government Online Centre,other,,"Ministry of Information Technology, Communication and Innovation",,2026-01-01-goc-san-executive-summary-bid-evaluation
+MUS,Emtel Data Centre,,other,,Emtel Ltd,,2025-12-31-msb-isms-registered-firms-list
+MUS,Rose Belle Data Centre,,other,,Mauritius Telecom Ltd,,2025-12-31-msb-isms-registered-firms-list
+MUS,"Rose Hill Data Centre (2, 3 and 4)",,other,,Mauritius Telecom Ltd,,2025-12-31-msb-isms-registered-firms-list
+MUS,GOC data centre (Ebene),Government Online Centre,other,,MITCI,Tier III compliant (state-stated),2025-09-19-sovereign-cloud-rfi-clarification-no-2
+MUS,MITCI secondary site (Rose-Belle),,other,,MITCI,Tier IV certified (state-stated),2025-09-19-sovereign-cloud-rfi-clarification-no-2
+MUS,Rose Belle Data Centre,MUS,datacentre,,Mauritius Telecom,Tier IV (stated by CEO),2024-03-30-mauritius-telecom-myt-cloud-rose-belle-defimedia
+MUS,Emtel Data Centre,MUS,datacentre,,Emtel Ltd,,2019-11-26-emtel-iso-9001-27001-certification
+MUS,Virtual Servers,Virtual Servers,other,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+MUS,MCS Cloud,MCS Cloud,other,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+MUS,Mauritius Telecom Tier IV data centre,,datacentre,,Mauritius Telecom,Tier IV,2025-01-01-mauritius-data-centre-market-report
+MUS,Africa50-backed 30 MW build,,other,,,,2025-01-01-mauritius-data-centre-market-report
+MUS,Rogers Capital Technology Services data centre,,,,Rogers Capital,,2025-01-01-mauritius-data-centre-market-report
+MUS,Emtel data centre,,,,Emtel,,2025-01-01-mauritius-data-centre-market-report

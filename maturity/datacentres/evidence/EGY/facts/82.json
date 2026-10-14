@@ -1,0 +1,39 @@
+{
+  "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raya Data Center",
+      "country_label": "Raya Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Raya",
+      "tiers": ""
+    },
+    {
+      "system": "GPX Egypt",
+      "country_label": "GPX Egypt",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Link Datacenter",
+      "country_label": "Link Datacenter",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Huawei Cloud",
+      "country_label": "Huawei Cloud (Cairo)",
+      "class": "other",
+      "platform": "",
+      "owner": "Huawei",
+      "tiers": ""
+    }
+  ],
+  "note": "Aggregator counts (14 data centres in Egypt, operators named) with no statement that any rents to outsiders, no Tier rating and no dated region launch; listing of Huawei Cloud under Cairo providers is not a dated region statement."
+}

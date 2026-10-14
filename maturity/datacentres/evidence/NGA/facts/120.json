@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-11-udutech-baro-ai-gpu-supply-africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AGH Cloud (Africa GPU Hub)",
+      "country_label": "AGH Cloud (Africa GPU Hub)",
+      "class": "other",
+      "platform": "",
+      "owner": "Udu Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "UduTech GPU cloud has deployments in Nigeria but no facility is named or dated as in service; no fact."
+}

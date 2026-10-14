@@ -1,0 +1,36 @@
+{
+  "slug": "2025-06-30-raxio-artci-civix-ixp-mou-techafricanews",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Raxio Cote d'Ivoire operates a carrier-neutral data centre in Grand Bassam (VITIB free zone) that hosts the CIVIX exchange point under an MoU with ARTCI; as_of is the article date, none other given.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "Raxio Grand Bassam data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The article describes Raxio's carrier-neutral Grand Bassam (VITIB) data centre as Tier III-certified, with no certifying body named; as_of is the article date.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "Raxio Grand Bassam data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Grand Bassam data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Cote d'Ivoire",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

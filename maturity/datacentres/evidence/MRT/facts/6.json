@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott National Data Centre",
+   "country_label": "Nouakchott National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritania; to be managed by International Mauritania Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "EIB release says a Tier 3 centre was inaugurated 2025-05-08 but does not state that it rents space or computing to outside customers; no fact taken."
+}

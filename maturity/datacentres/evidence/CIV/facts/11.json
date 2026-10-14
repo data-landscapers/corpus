@@ -1,0 +1,15 @@
+{
+ "slug": "2022-04-05-equinix-closes-mainone-acquisition-us320m",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne data centres",
+   "country_label": "MainOne",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix (MainOne, an Equinix company)",
+   "tiers": ""
+  }
+ ],
+ "note": "Names no data centre in Cote d'Ivoire; CIV appears only as a MainOne cable landing and PoP country."
+}

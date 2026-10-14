@@ -1,0 +1,50 @@
+{
+  "slug": "2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "WIOCC's data centre business OADC operates a Lagos (Lekki) facility, with a new block being added using IFC financing; the article gives no opening date, so the 19 May 2026 publication date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "OADC Lagos (Lekki) data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OADC Lagos (Lekki) data centre",
+      "country_label": "OADC Lagos (Lekki) data centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "OADC (WIOCC)",
+      "tiers": ""
+    },
+    {
+      "system": "OADC Lagos hyperscale facility",
+      "country_label": "OADC Lagos hyperscale facility",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "OADC (WIOCC)",
+      "tiers": "planned, 12 MW expected within 18 months of March 2025"
+    },
+    {
+      "system": "Equinix LG3 Lagos",
+      "country_label": "Equinix LG3 Lagos",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": "scheduled early 2026"
+    },
+    {
+      "system": "Equinix PR1 Port Harcourt",
+      "country_label": "Equinix PR1 Port Harcourt",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": "intended"
+    }
+  ],
+  "note": "Other content is financing, planned facilities and pan-African figures; no tier or cloud region stated."
+}

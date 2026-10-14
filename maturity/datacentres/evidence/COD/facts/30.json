@@ -1,0 +1,26 @@
+{
+ "slug": "2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "EAIF's project page states Raxio operates carrier-neutral data centres in DRC among seven countries; no facility named; date is the published year 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Raxio Data Centres (DRC)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centres (DRC)",
+   "country_label": "Raxio DRC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

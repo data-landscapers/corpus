@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-gitge-informe-anual",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Sipopo Datacenter (GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)), colocation/carrier-neutral, in service; this document names it (published 2025-07-01).",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Sipopo Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

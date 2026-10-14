@@ -1,0 +1,62 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechTrends Africa reports Rack Centre's 12 MW LGS2 carrier- and cloud-neutral facility in Ikeja, Lagos, has been completed, giving 13.5 MW across Rack Centre's two Lagos sites; the article gives no completion date, so as_of is its published date 2026-06-23.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Rack Centre LGS2",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechTrends Africa reports MTN Nigeria launched phase I of its Dabengwa Sifiso Data Centre in Ikeja in July 2025 (4.5 MW, 780 racks) together with a local cloud service billed in naira for Nigerian businesses and government entities.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Dabengwa Sifiso Data Centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "TechTrends Africa says phase I of MTN Nigeria's Dabengwa Sifiso Data Centre, in service since July 2025, was built to Tier III standards; no Uptime Institute certification or TIA-942 rating is named, so this is the article's statement of design standard.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Dabengwa Sifiso Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS2",
+   "country_label": "Rack Centre LGS2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Dabengwa Sifiso Data Centre",
+   "country_label": "Dabengwa Sifiso Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra by Airtel Victoria Island (38 MW, construction)",
+   "country_label": "Nxtra by Airtel Victoria Island (38 MW, construction)",
+   "class": "",
+   "platform": "",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

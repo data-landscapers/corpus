@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-12-lejour-camtel-zamengoe-datacenter-digital-sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data center de Zamengoe",
+   "country_label": "Data center de Zamengoe",
+   "class": "other",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "Tier III (stated)"
+  }
+ ],
+ "note": "Describes Zamengoe as certified Tier III but as a state tool for sovereignty; no statement that it rents to outside customers."
+}

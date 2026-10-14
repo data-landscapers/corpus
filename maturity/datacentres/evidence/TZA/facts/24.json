@@ -1,0 +1,26 @@
+{
+  "slug": "2017-01-18-dcd-tanzania-ttcl-data-centre-underused-agencies-told-to-move-in",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The TTCL data centre at Kijitonyama, Dar es Salaam, described as Tanzania's largest, was operating and offering services to both public and commercial organisations, though barely occupied; operated by Tanzania Telecommunication Company Limited (TTCL). Article gives no opening date, so as_of is its published date. It is described as built to Tier Three specifications, with no certification or operator statement.",
+      "as_of": "2017-01-18",
+      "date_precision": "day",
+      "system": "TTCL Kijitonyama data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "TTCL Kijitonyama data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    }
+  ],
+  "note": "Tier III only as built-to-specification per DCD, so no tier3 fact."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-equinix-zaf-2026-south-africa-data-centre-expansion-bw10",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equinix South Africa data centres (Johannesburg, Cape Town)",
+   "country_label": "Equinix South Africa data centres (Johannesburg, Cape Town)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Announced USD 438m self-funded expansion with new facilities planned; no in-service, tier or cloud-region statement."
+}

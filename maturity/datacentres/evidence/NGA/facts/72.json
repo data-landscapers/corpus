@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-26-aws-launches-new-aws-local-zones-location-in-lagos-nigeria-techcabal",
+  "facts": [],
+  "systems": [
+    {"system": "AWS Local Zones, Lagos", "country_label": "AWS Local Zones Lagos", "class": "other", "platform": "", "owner": "Amazon Web Services", "tiers": ""}
+  ],
+  "note": "AWS Local Zone in Lagos is not a cloud region; the document states it connects to AWS Regions elsewhere. No data centre for hire is named."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [],
+  "systems": [
+    {"system": "Royal Science and Technology Park (RSTP) hosting", "country_label": "RSTP", "class": "other", "platform": "", "owner": "RSTP", "tiers": "government ministries (hosting, maintenance, development for the state only)"}
+  ],
+  "note": "Says ministries rely on RSTP for hosting but names no data centre, service status, tier, cloud region or outside customers; state-only hosting is not a fact."
+}

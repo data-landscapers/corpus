@@ -1,0 +1,26 @@
+{
+  "slug": "2021-10-20 Africell opens high-tech data center in Angola",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Africell opened a cloud-based data centre at its Kings Tower HQ in Luanda on 20 October 2021, supporting its mobile network and offering low-cost hosting to Angolan developers.",
+      "as_of": "2021-10-20",
+      "date_precision": "day",
+      "system": "Africell Angola data center, Luanda",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Africell Angola data center, Luanda",
+      "country_label": "Africell data center",
+      "class": "datacentre",
+      "platform": "HP, Nokia, Dell, Oracle",
+      "owner": "Africell",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-15-nira-press-statement-mass-enrolment-status",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIRA data centre (co-location site, Tier II minimum)",
+   "country_label": "New NIRA Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "NIRA's own data centre hardware to be installed at a co-location site meeting Tier II is a planned owner-use facility, not a for-hire in-service Tier III fact."
+}

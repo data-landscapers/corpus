@@ -1,0 +1,27 @@
+{
+  "slug": "2025-03-19 Tanzania's digital shift gathers pace with $50 million data centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Citizen reports Wingu Africa launched the second phase of its Mbezi Industrial Area data centre in Dar es Salaam, a $50 million investment adding 80 racks to reach 110 and interconnecting 13 operators.",
+      "as_of": "2025-03-19",
+      "date_precision": "day",
+      "system": "Wingu Africa Mbezi data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Wingu Africa's CEO described the newly launched Mbezi phase 2 as a Tier 3 data centre (operator statement; no Uptime Institute or TIA-942 certification is cited), with a stated 99.983 percent uptime guarantee.",
+      "as_of": "2025-03-19",
+      "date_precision": "day",
+      "system": "Wingu Africa Mbezi data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

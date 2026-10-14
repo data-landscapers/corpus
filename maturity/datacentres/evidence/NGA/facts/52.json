@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-10-dcd-equinix-lg3-lagos-facility-detail",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DCD reports MainOne's Nigerian data centre, under construction when Equinix acquired MainOne in 2021, opened in April 2022; LG1 and LG2 are in Lekki, Lagos, and an expansion of LG2 was launched in 2025.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "Equinix LG2 (MainOne)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix LG1",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (ex-MainOne)",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG2",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (ex-MainOne)",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG3",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix PR1 Port Harcourt",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "LG3 (Q1 2026) and Port Harcourt are planned, not facts."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-agenceecofin-tchad-cybastion-finaliser-datacenter",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Centre national des données numériques)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "State (ADETIC)",
+   "tiers": "government"
+  }
+ ],
+ "note": "National data centre not yet in service; state-only, awaiting audit and certification."
+}

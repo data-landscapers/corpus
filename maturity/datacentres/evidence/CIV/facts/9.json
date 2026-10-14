@@ -1,0 +1,23 @@
+{
+  "slug": "2023-03-10-orange-deploying-solar-panels-at-data-centers-in-cote-d-ivoire-and-burkina-faso",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Assabou data centre (Yamoussoukro)",
+      "country_label": "Assabou",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Cote d'Ivoire",
+      "tiers": ""
+    },
+    {
+      "system": "Orange GOS data centre (Grand Bassam)",
+      "country_label": "GOS",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange",
+      "tiers": ""
+    }
+  ],
+  "note": "Solar-power story; no statement that either Orange data centre is for hire."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Oracle launched its public cloud region in Casablanca, Morocco, announced up and running on 7 April 2026 (one availability domain reportedly available since late February 2026); Oracle calls it the first hyperscaler region in North Africa.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Oracle Cloud Casablanca Region",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "N+One Datacenters hosts Oracle's Casablanca cloud region and operates six data centre buildings (4.5 MW IT, 4,000 sqm) split between Nouaceur and Settat, per its website; date is the region's launch.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "N+One Datacenters (Nouaceur and Settat)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Oracle Cloud Casablanca Region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Oracle Cloud Infrastructure",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "N+One Datacenters",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle Settat region (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

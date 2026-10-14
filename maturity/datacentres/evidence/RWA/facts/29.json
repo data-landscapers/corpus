@@ -1,0 +1,15 @@
+{
+ "slug": "2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (NDC)",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Rwanda; run by a selected managing company",
+   "tiers": "Government institutions"
+  }
+ ],
+ "note": "NDC serves Government institutions on a fee-for-service basis (state use only, no sale to outside customers stated); no tier or date of opening beyond 'completed' by March 2012."
+}

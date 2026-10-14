@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital",
+      "country_label": "ST Digital",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": ""
+    }
+  ],
+  "note": "Names CIV only as an operating country; the three certified data centres are not placed in CIV or tiered."
+}

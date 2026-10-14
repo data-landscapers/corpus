@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-25-botswana-internet-price-cuts-tshere-briefing-techafricanews",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "Says the Digital Delta Data Centre is ready and set to open officially on 25 November; opening not yet stated as done, so no fact."
+}

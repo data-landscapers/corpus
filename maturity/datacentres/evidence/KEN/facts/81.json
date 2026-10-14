@@ -1,0 +1,15 @@
+{
+  "slug": "2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Konza National Cloud Data Center",
+      "country_label": "Konza Data Centre",
+      "class": "other",
+      "platform": "Huawei (EPC contractor)",
+      "owner": "Government of Kenya",
+      "tiers": ""
+    }
+  ],
+  "note": "Loan-financed Konza national cloud data centre, build stage only; government project, no for-hire facility in service stated."
+}

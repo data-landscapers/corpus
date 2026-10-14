@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-29-aci-bad-datacenter-national-congo-pays-sous-region",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacentre national (Brazzaville)",
+      "country_label": "Datacenter national",
+      "class": "other",
+      "platform": "",
+      "owner": "State of Congo with AfDB financing; built by Sumec",
+      "tiers": ""
+    }
+  ],
+  "note": "Official visit to the national data centre; no statement that it is in service, no tier or hire statement, no cloud statement."
+}

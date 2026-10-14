@@ -1,0 +1,36 @@
+{
+ "slug": "2021-05-25-raxio-uganda-ug1-launch-press-release",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio launched its carrier-neutral Raxio Data Centre at Kampala Industrial and Business Park on 25 May 2021, offering colocation of up to 400 racks and 1.5MW of IT power.",
+   "as_of": "2021-05-25",
+   "date_precision": "day",
+   "system": "Raxio Data Centre Uganda",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio says its Kampala Raxio Data Centre holds Tier III certification from the Uptime Institute, as of the launch.",
+   "as_of": "2021-05-25",
+   "date_precision": "day",
+   "system": "Raxio Data Centre Uganda",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centre Uganda",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

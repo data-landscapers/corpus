@@ -1,0 +1,34 @@
+{
+ "slug": "2014-10-07-thd-meninx-eo-data-center-enfidha-rebrand-spinoffs",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Meninx Technologies, the first neutral data centre in Tunisia, based in Enfidha, was operating and was renamed EO Data Center; it offers hosting and cloud backup to customers.",
+   "as_of": "2014-10-07",
+   "date_precision": "day",
+   "system": "EO Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EO Data Center",
+   "country_label": "Meninx Technologies",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Meninx Holding",
+   "tiers": ""
+  },
+  {
+   "system": "Atlax",
+   "country_label": "Atlax",
+   "class": "other",
+   "platform": "",
+   "owner": "Meninx Holding",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

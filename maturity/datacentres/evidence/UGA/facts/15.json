@@ -1,0 +1,42 @@
+{
+ "slug": "2026-01-01-xalam-uganda-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 5 live commercial data centre facilities in Uganda in 2025 with about 1.5MW live IT load, about 75% occupied by third-party customers, and names Raxio as the only carrier-neutral facility and the largest, holding nearly half of capacity; no tier is stated.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio",
+   "country_label": "Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  },
+  {
+   "system": "State agency data centre (colocation)",
+   "country_label": "National Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government agency",
+   "tiers": ""
+  },
+  {
+   "system": "Synectics AI cluster",
+   "country_label": "Synectics AI cluster",
+   "class": "other",
+   "platform": "",
+   "owner": "Synectics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

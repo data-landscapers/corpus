@@ -1,0 +1,34 @@
+{
+ "slug": "2025-06-02-wingu-africa-60m-rmb-press-release-adca",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu Africa, a carrier-neutral colocation operator, says it recently launched its second site in Djibouti, hosting the country's first integrated cable landing station and data centre; its two Djibouti facilities give access to 12 operational submarine cables. No launch date is given, so the release date 2025-06-02 is used.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Wingu Africa Djibouti facilities",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa Djibouti facilities",
+   "country_label": "Djibouti",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "AMS-IX Djibouti",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "AMS-IX/Wingu",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier III certification stated is for the Ethiopia campus only; no DJI tier3 fact."
+}

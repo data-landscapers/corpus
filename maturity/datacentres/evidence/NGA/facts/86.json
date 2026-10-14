@@ -1,0 +1,15 @@
+{
+ "slug": "2019-06-05-ncw-21st-century-technologies-tier-iv-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "21st Century Technologies data centre",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "21st Century Technologies",
+   "tiers": "Tier IV (Uptime Institute)"
+  }
+ ],
+ "note": "Tier IV certification reported, but the document does not say the data centre rents space or computing to others, so no fact."
+}

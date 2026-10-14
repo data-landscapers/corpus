@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-11-ago-angop-imprensa-nacional-data-center",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center da Imprensa Nacional",
+      "country_label": "Data Center da Imprensa Nacional",
+      "class": "other",
+      "platform": "",
+      "owner": "Imprensa Nacional",
+      "tiers": ""
+    },
+    {
+      "system": "Data Center e Cloud do Governo",
+      "country_label": "Data Center e Cloud do Governo",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Angola",
+      "tiers": ""
+    }
+  ],
+  "note": "Imprensa Nacional data centre is for its own systems; government data centre and cloud (April 2026) only mentioned in passing."
+}

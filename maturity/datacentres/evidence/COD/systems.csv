@@ -1,0 +1,55 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COD,"Lofoyi HPC data centre (Universite Nouveaux Horizons, Lubumbashi)",HPC Lofoyi,other,,Universite Nouveaux Horizons,,2026-06-28-laguardia-unh-lubumbashi-datacenter-supercalculateur-lofoyi
+COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
+COD,"OADC Silikin Village, Kinshasa",OADC Kinshasa,datacentre,,Open Access Data Centres,,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
+COD,"Lofoy data centre (Universite Nouveaux Horizons, Lubumbashi)",Lofoy,other,,Universite Nouveaux Horizons,,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
+COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2025-10-31-mbtp-raxio-datacenter-actualite
+COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2024-08-22-raxio-data-centre-drc
+COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2026-07-14 Raxio raises data centre funding
+COD,Data Center National de Santé,Data Center National de Santé,other,,"ANICNS (Ministry of Health), PPP",,2026-06-16-anicns-ami-data-center-national-sante
+COD,OADC Texaf Kinshasa FIH1,Kinshasa FIH1,datacentre,,OADC Texaf DC,,2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb
+COD,ACIX,Africa Congo Internet Exchange,other,DE-CIX,DE-CIX for Internet pour Tous,,2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb
+COD,WIOCC/OADC Kinshasa data centre,,datacentre,,WIOCC / OADC,,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race
+COD,Kinshasa Tier 3 data centre (UIL),,other,,United Investment LMT / government,Tier 3 (planned),2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers
+COD,Data center du Gouvernement (Kinshasa Gombe),Data center du Gouvernement,other,,Government of the DRC,,2025-07-24-sgptntic-visite-data-center-gouvernement
+COD,Raxio Kinshasa data centre,Raxio DRC data centre,datacentre,,Raxio Group,Tier III (Uptime TCCF),2025-02-03-raxio-drc-uptime-tier-iii-tccf
+COD,Nxtra Kinshasa data centre (planned),,other,,Nxtra by Airtel Africa,,2024-12-13 Nxtra - Airtel's leap into Africa's growing data center market
+COD,Raxio DRC1,Raxio DRC1,datacentre,,Raxio Group,Uptime Institute Tier III,"2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)"
+COD,OADC Texaf Digital,OADC Texaf Digital,datacentre,,,Tier III,"2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)"
+COD,OADC Texaf Digital,OADC Texaf Digital,datacentre,,Open Access Data Centres (WIOCC) and TEXAF joint venture,Uptime Institute Tier III,"2024-08-14 DRC's first Tier-III data centre goes live (OADC Texaf Digital, Kinshasa)"
+COD,Raxio DRC1,Raxio DRC1,datacentre,,Raxio,Tier III,"2024-08-14 DRC's first Tier-III data centre goes live (OADC Texaf Digital, Kinshasa)"
+COD,Datacenter national (Kinshasa),premier datacenter national,other,"Huawei-built; 54 servers, 1278 TB",Government of DRC (Primature),,2023-11-08-cod-ciomag-premier-datacenter-national
+COD,Raxio DRC data centre,,other,,Raxio Group,Tier III design (planned),2021-08-24-dcd-raxio-appoints-master-power-technologies-builder
+COD,Raxio DRC data centre,,other,,Raxio Group,Tier III design (planned),2021-03-29-meridiam-48m-raxio-data-centres-partnership
+COD,Open Access Data Centres (OADC),,datacentre,,WIOCC,,2026-09-18-xaf-latribune-wiocc-dfc-data-centres-capacity
+COD,ECCAS data centre reinforcement (DRC existing centre),,other,,ECCAS,,2026-08-25-pida-eccas-data-centre-infrastructures-digital-economy
+COD,Raxio Data Centres (DRC),Raxio DRC,datacentre,,Raxio Group,,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+COD,OADC data centre expansion (DRC),,other,,WIOCC Group / Open Access Data Centres,,2024-01-01-proparco-reg-wiocc-oadc-2024-wiocc-group-open-access-data-centres
+COD,Raxio Data Centres (DRC),Raxio DRC,datacentre,,Raxio Group,,2023-10-25-roha-raxio-group-2023-raxio-46m-equity
+COD,Paratus Angola DC3,,other,,Paratus Group,Tier IV,2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion
+COD,Raxio Data Centres (DRC),Raxio DRC,datacentre,,Raxio Group,,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+COD,Raxio DRC colocation data centre,,other,,Raxio Data Centres,,2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data
+COD,WIOCC / Open Access Data Centres (DRC),,other,,WIOCC Group,,2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres
+COD,Raxio DRC data centre,,other,,Raxio Group,,2021-03-29-meridiam-raxio-group-2021-meridiam-investment-raxio
+COD,Centre de donnees souverain (Kinshasa Technopark),,other,,Ministry of Digital Economy,,2026-10-10-cod-wayeno-moscou-technopark-kinshasa
+COD,Data center souverain (Kinshasa Technopark),,other,,Ministry of Digital Economy,,2026-10-08-cod-actu7-kibassa-skolkovo-technopark-kinshasa
+COD,DRC data centre approval tax schedule (Tier I to IV),,other,,,,2026-08-21-portbrief-drc-digital-sphere-permit-tariff-schedule
+COD,Raxio DRC,Raxio DRC,datacentre,,Raxio,Tier III (stated),2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc
+COD,KINIX,Kinshasa Internet Exchange,other,,ISPA-DRC,,2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc
+COD,DRC data centre declaration fee schedule,,other,,,,2026-08-03-drc-new-digital-service-taxes-fayulu-criticism
+COD,DRC data centre declaration fee schedule,,other,,,,2026-08-02-drc-government-suspends-new-digital-tax-schedule
+COD,Raxio DRC1,Raxio DRC1,datacentre,,Raxio Group,,2026-05-19-dr-congo-raxio-group
+COD,Authorisation regime for data centres and cloud (arrete 004/2026),,other,,Ministry of Digital Economy,,2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques
+COD,ST DIGITAL data centres,RDC,datacentre,,ST DIGITAL AFRICA,,2026-03-03-st-digital-iso-27001-certification
+COD,OADC Texaf Digital data centre,,datacentre,,OADC Texaf Digital (OADC and TEXAF joint venture),,2025-08-29-drc-digital-id-phased-deployment-contract-do-over-biometricupdate
+COD,Axian Telecom data centres,,other,,Axian Telecom,,2025-07-21-eaaif-anchors-axian-telecom-600m-bond
+COD,"Government data centre, back-up facility and government cloud (DRC Digital Transformation Project)",,other,,Government of DRC,,2024-11-19-worldbank-financing-agreement-digital-transformation-project
+COD,OADC Texaf - Kinshasa,,datacentre,,OADC Texaf (Open Access Data Centres and TEXAF),Uptime Institute Tier III,"2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)"
+COD,ST Digital cloud services,,other,,ST Digital,,"2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)"
+COD,Open Access Data Centres,Open Access Data Centres,datacentre,,WIOCC,,2026-08-03-techtrends-edge-computing-africa
+COD,Raxio Group data centres,Raxio,datacentre,,Raxio Group,Tier III (stated),2026-07-24-lancet-africa-ai-health-infrastructure
+COD,ST Digital,ST Digital,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
+COD,OADC,WIOCC/OADC,other,,WIOCC,,2026-06-11 Can Africa supply it's own digital infrastructure
+COD,WIOCC data centres,WIOCC,other,,WIOCC,,2024-01-01-ifc-reg-013-wiocc-group-sustainability-linked-debt-facility-2024
+COD,Africa Data Centres,ADC,other,,Liquid Intelligent Technologies,,2021-01-01-deg-reg-liquid-intelligent-technologies-bond-2021-deg-anchor-investment-in-liquid-telecommunications
+COD,Raxio DR Congo data centre,Raxio,datacentre,,Raxio Group,Tier III (as stated by the article),2026-07-15 Raxio data-centre capital tops $380m on investor boost

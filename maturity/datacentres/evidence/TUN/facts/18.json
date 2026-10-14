@@ -1,0 +1,44 @@
+{
+  "slug": "2025-05-05-orange-tunisie-inaugure-un-data-center-de-pointe-a-sousse-une-infrastructure-tie",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "OnTech.tn reports Orange Tunisie unveiled its new 1,000 m2 data centre at Kalaa Kebira, Sousse, offering colocation, dedicated hosting and private or hybrid cloud to clients; the document gives no event date, so its published date 2025-05-05 is used.",
+      "as_of": "2025-05-05",
+      "date_precision": "day",
+      "system": "Data Center Kalaa Kebira (Sousse)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "tier3",
+      "value": "tier3",
+      "fact": "OnTech.tn reports the Orange Tunisie Kalaa Kebira, Sousse data centre was designed and built to the Tier III standard with N+1 redundancy, and quotes Orange executives citing Tier III certification, without naming a certifier; the document gives no event date, so its published date 2025-05-05 is used.",
+      "as_of": "2025-05-05",
+      "date_precision": "day",
+      "system": "Data Center Kalaa Kebira (Sousse)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Center Kalaa Kebira (Sousse)",
+      "country_label": "Data Center Kalaa Kebira (Sousse)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Orange Tunisie",
+      "tiers": ""
+    },
+    {
+      "system": "Data Center Charguia",
+      "country_label": "Data Center historique de Charguia",
+      "class": "",
+      "platform": "",
+      "owner": "Orange Tunisie",
+      "tiers": ""
+    }
+  ],
+  "note": "Charguia is named as Orange's existing data centre only; no for-hire or tier statement, so no fact."
+}

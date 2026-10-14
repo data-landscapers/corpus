@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-06-moct-national-data-center-nearing-completion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": "government"
+  }
+ ],
+ "note": "National Data Center nearing completion, for government data only; not in service, not for hire."
+}

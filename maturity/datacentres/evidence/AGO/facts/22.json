@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-27-angola-autonomia-armazenamento-documentos-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Angop says Raxio's carrier-neutral data centre in Cacuaco, Luanda, was inaugurated about six months before 27 April 2026 (date approximate, inferred from 'six months'); it is the country's first carrier-neutral Tier III facility.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Raxio data centre, Cacuaco",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Angop describes Raxio's Cacuaco, Luanda facility as the country's first carrier-neutral Tier III data centre, inaugurated about six months before 27 April 2026; the article does not say who rated it (operator or press statement).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Raxio data centre, Cacuaco",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio data centre, Cacuaco",
+   "country_label": "Data Center neutro Tier III da Raxio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Data Center e Cloud do Governo de Angola",
+   "country_label": "Data Center e Cloud do Governo",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI / MINTTICS (built with Presight)",
+   "tiers": ""
+  }
+ ],
+ "note": "Raxio facts taken; government Camama data centre is state-run with no stated sale to outsiders beyond hosting claims, left as systems."
+}

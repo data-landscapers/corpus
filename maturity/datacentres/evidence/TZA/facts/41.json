@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "TTCL's National Internet Data Centre (NIDC) offers cloud computing, virtual server and colocation services to businesses and public institutions, as briefed to Zanzibar's president at the Kizimkazi Festival 2026; the document gives no opening date, so as_of is its publication date, 2026-08-24.",
+      "as_of": "2026-08-24",
+      "date_precision": "day",
+      "system": "National Internet Data Centre (NIDC)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Internet Data Centre (NIDC)",
+      "country_label": "NIDC",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Angola Cables data centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus data centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Paratus",
+   "tiers": ""
+  }
+ ],
+ "note": "Pan-African piece: gives Angola Cables 2 data centres and Paratus 5 across Angola, Namibia and Zambia, but names no Angolan facility, location or in-service status, and no Tier or cloud-region statement for Angola."
+}

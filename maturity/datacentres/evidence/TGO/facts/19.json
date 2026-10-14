@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-25-businessincameroon-st-digital-unctad-wir-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital Togo data centre",
+      "country_label": "Togo facility",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "expected operational in 2025 (per DatacenterDynamics); US$246m project announced"
+    }
+  ],
+  "note": "Togo facility only announced and expected operational in 2025; no in-service statement. Cloud Store Africa is hosted in Cameroon."
+}

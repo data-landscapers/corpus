@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-27-dmap-tors-data-centre-cloud-architect",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre Lilongwe",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi (Dept of e-Government)",
+   "tiers": ""
+  }
+ ],
+ "note": "Terms of reference for a post at the National Data Centre; no in-service, tier or cloud-region statement."
+}

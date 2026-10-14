@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-20-togo-specifications-tic-administrations-acces-internet",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lomé Datacenter",
+      "country_label": "Lomé Datacenter / centre de données national",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": "state; connected to government network, NOC colocated"
+    }
+  ],
+  "note": "Government network connects to the national data centre; no statement of rental to outside customers."
+}

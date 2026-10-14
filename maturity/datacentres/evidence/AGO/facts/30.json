@@ -1,0 +1,23 @@
+{
+ "slug": "2023-02-16-minttics-infosi-projecto-cloud-nacional-dois-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nuvem Nacional de Angola (national cloud, two state data centres)",
+   "country_label": "Cloud Nacional",
+   "class": "other",
+   "platform": "Presight",
+   "owner": "INFOSI / MINTTICS",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center Backup, Centro Nacional de Dados (Rangel)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centres serving the state only, planned/under construction (completion due Q1 2024); no for-hire fact."
+}

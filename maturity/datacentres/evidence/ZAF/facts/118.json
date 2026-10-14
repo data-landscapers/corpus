@@ -1,0 +1,80 @@
+{
+ "slug": "2021-01-01-adc-zaf-johannesburg-capetown-2021-africa-data-centres-south-africa-johannesburg",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres is described as operating JHB1 Midrand in South Africa (14.4 MW); the description cites events up to July 2024, so the year 2024 is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "JHB1 Midrand",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres is described as operating JHB2 Samrand in South Africa (10 MW, expanding to 20 MW); the description cites events up to July 2024, so the year 2024 is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "JHB2 Samrand",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres is described as operating CPT1 Cape Town in South Africa (12 MW, expanding to 20 MW; three new halls added July 2024); the description cites events up to July 2024, so the year 2024 is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CPT1 Cape Town",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres is described as operating CPT2 Cape Town in South Africa (20 MW); the description cites events up to July 2024, so the year 2024 is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CPT2 Cape Town",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JHB1 Midrand",
+   "country_label": "JHB1 Midrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "JHB2 Samrand",
+   "country_label": "JHB2 Samrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "CPT1 Cape Town",
+   "country_label": "CPT1 Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "CPT2 Cape Town",
+   "country_label": "CPT2 Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

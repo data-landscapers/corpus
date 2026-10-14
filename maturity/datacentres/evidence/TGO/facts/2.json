@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-29-togo-top-news-st-digital-launches-its-100-african-cloud-offering",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ST Digital launched cloudstore.africa in Lomé on 17 October 2024, hosting business data on local servers (VPS) in Togo, run in the government-invested data centre its CEO calls the right one; the centre is not named in the document.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Government data centre (Lomé), cloudstore.africa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government data centre (Lomé)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "cloudstore.africa",
+   "country_label": "Cloud 100% africain",
+   "class": "other",
+   "platform": "VPS",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": "No Tier fact: the Tier-3 statement is about ST Digital's datacentres in general, not Togo's."
+}

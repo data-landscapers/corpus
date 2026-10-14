@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Equinix JN1 (Johannesburg IBX) (Equinix Inc.), colocation/carrier-neutral, in service; this document names it (published 2026-04-01).",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Equinix JN1 (Johannesburg IBX)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-27-teaser-isocel",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Isocel Telecom Datacenter (Isocel Telecom), colocation/carrier-neutral, in service; this document names it (published 2025-10-27).",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "Isocel Telecom Datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-08-cod-actu7-kibassa-skolkovo-technopark-kinshasa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data center souverain (Kinshasa Technopark)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Economy",
+      "tiers": ""
+    }
+  ],
+  "note": "Sovereign data centre in Kinshasa is a planned project only; no in-service for-hire facility or cloud region stated."
+}

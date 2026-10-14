@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Oracle Cloud regions Morocco",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "Oracle Cloud",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a descriptive count of 8 Moroccan data centres (aggregator-sourced, no named facility or tier) and Oracle's 2024 plan for two Morocco regions (announced only); no fact."
+}

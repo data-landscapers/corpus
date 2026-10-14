@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-03-mtn-to-decommission-two-data-centres-in-sa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gallo Manor data centre",
+   "country_label": "Gallo Manor (Johannesburg)",
+   "class": "other",
+   "platform": "",
+   "owner": "third party; used by MTN South Africa",
+   "tiers": ""
+  },
+  {
+   "system": "Great Westerford data centre",
+   "country_label": "Great Westerford (Cape Town)",
+   "class": "other",
+   "platform": "",
+   "owner": "third party; used by MTN South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "MTN says it is decommissioning two third-party facilities it used for enterprise hosting (in progress, 2025-10-03); no closure of a for-hire centre by its operator is stated, so no none fact."
+}

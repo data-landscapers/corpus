@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-10-05-itweb-tlou-kala-data-centre-expansion
+BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2026-08-03-itweb-tlou-energy-kala-data-centre-botswana
+BWA,Palapye solar data centre campus (ChillMine/AAAS Energy),,other,,ChillMine; AAAS Energy,,2025-10-06-dutch-us-firms-solar-powered-data-centre-palapye
+BWA,Palapye solar data centre campus (ChillMine/AAAS Energy),,other,,ChillMine; AAAS Energy,,2025-10-02-chillmine-aaas-solar-data-centre-campus-connectingafrica
+BWA,Kala Data Centre,Kala Data Centre,other,,Kala Data FZCO (equipment); Tlou Energy supplies gas,,2025-09-26-kala-data-centre-tlou-energy-itweb
+BWA,"Government-owned Tier IV data centre, Gaborone",,,,Government of Botswana,Tier IV listed by Uptime per article; not stated to rent to others,2023-12-01-orange-opens-data-center-in-gaborone-botswana
+BWA,Digital Delta Data Centre (Tier III National Data Centre),Delta Digital Data Centre,,,Government / BoFiNet,government,2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
+BWA,Kala Data Centre,,,,Tlou Energy,,2026-02-19-tlou-energy-kala-data-centre-commissioned-bse-announcement
+BWA,Botswana commercial data centres (telco and infraco hybrid facilities),,datacentre,,"telcos, infracos, a state agency",,2026-01-01-xalam-botswana-data-center-market-briefing
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-12-03-dcd-botswana-first-national-data-center
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-11-26-digital-delta-data-centre-launch-connectingafrica
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-11-25-botswana-internet-price-cuts-tshere-briefing-techafricanews
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (government-owned),,2025-10-22-bofinet-new-data-centre-boosts-digitisation
+BWA,Botswana Digital and Innovation Hub data centre,,datacentre,,Botswana Digital and Innovation Hub,,2025-10-22-bofinet-new-data-centre-boosts-digitisation
+BWA,Digital Delta Data Centre,Digital Delta Data Centre,other,,Botswana Fibre Networks (BoFiNet),,2025-01-01-uptime-institute-bofinet-client-certification
+BWA,Digital Delta Data Centre,Digital Delta Data Centre,other,,Botswana Fibre Networks (BoFiNet),,2023-06-09-bofinets-data-centre-digital-delta-nears-completion
+BWA,Sentlhaga Data Center,Sentlhaga Data Center,datacentre,,Botswana Telecommunications Corporation (BTC),,2020-11-04-btc-sentlhaga-data-center
+BWA,BDIH Data Centre,BDIH Data Centre,datacentre,,Botswana Digital & Innovation Hub (BDIH),,2020-02-27-bdih-data-centre-guidelines
+BWA,Paratus Angola DC3,Angola's first Tier IV data centre,other,,Paratus Group,,2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet,Uptime Institute Tier III (per BoFiNet),2026-10-06-itweb-bofinet-launches-digital-delta-ixp
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (state),government migration,2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet,,2026-08-17-newsandall-bofinet-agm-digital-delta-data-centre
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet,,2026-08-13-bofinet-integrated-report-2025
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2026-03-06-bofinet-appoints-ceo-gaone-seleka-connectingafrica
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2025-12-01-trade-gov-ccg-botswana-telecommunications
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2025-11-25-bwa-digital-delta-data-centre-launch
+BWA,Digital Delta Data Centre,Digital Delta Data Centre (DDDC),datacentre,,BoFiNet (100% government-owned),,2025-11-25-govt-moves-to-in-house-local-data
+BWA,Sentlhaga Data Centre,Sentlhaga Data Centre,datacentre,,BTC Limited (BTCL),Uptime Institute Tier II,2024-08-28-btcs-fall-from-grace
+BWA,BTCL Cloud Connect,BTCL Cloud Connect,other,,BTC Limited (BTCL),,2024-08-28-btcs-fall-from-grace

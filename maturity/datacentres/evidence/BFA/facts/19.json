@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-23 Burkina Faso steps into the future with digital investment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government mini data centres (two, Ouagadougou)",
+   "country_label": "mini data centres",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "state"
+  },
+  {
+   "system": "National data centre",
+   "country_label": "national data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Two government mini data centres commissioned Jan 2026 for zero-data-abroad; national data centre planned. State use only."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "TNM states it acquired OpenConnect Limited's Tier 3 data centre at Kanengo, Lilongwe, for K12 billion, to be integrated with its Limbe data centre and offer Data Centre as a Service; the tier is stated by the company, with no certification named; as_of is the 2026-09-11 handover, the document's date.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "OCL Tier 3 data centre, Kanengo",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OCL Tier 3 data centre, Kanengo",
+   "country_label": "MWI",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "TNM (acquired from OpenConnect Limited)",
+   "tiers": ""
+  },
+  {
+   "system": "TNM data centre, Limbe",
+   "country_label": "MWI",
+   "class": "",
+   "platform": "",
+   "owner": "TNM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

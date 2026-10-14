@@ -1,0 +1,25 @@
+{
+ "slug": "2018-07-31-telkom-launches-ksh-150m-data-centre-to-boost-colocation-and-data-back-up",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Telkom Kenya launched an open-access KES 150m data centre at Milimani Exchange, Upper Hill, Nairobi, offering colocation and hosting to local and international clients.",
+   "as_of": "2018-07-31",
+   "date_precision": "day",
+   "system": "Telkom Milimani Exchange data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telkom Milimani Exchange data centre",
+   "country_label": "Telkom Milimani Exchange data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Telkom Kenya",
+   "tiers": ""
+  }
+ ]
+}

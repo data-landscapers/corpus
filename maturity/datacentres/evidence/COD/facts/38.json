@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Raxio DRC, a carrier-neutral data centre operated by Raxio in the DRC (general manager Yannick Sukakumu), is operating and hosting the Kinshasa Internet Exchange KINIX, which relocated there per a release of 2026-08-20.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Raxio DRC",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Raxio DRC is described in the release as a Tier III certified carrier-neutral facility; the release does not name the certifying body, and the statement is made by the KINIX/Raxio release itself, dated 2026-08-20.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Raxio DRC",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio DRC",
+      "country_label": "Raxio DRC",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio",
+      "tiers": "Tier III (stated)"
+    },
+    {
+      "system": "KINIX",
+      "country_label": "Kinshasa Internet Exchange",
+      "class": "other",
+      "platform": "",
+      "owner": "ISPA-DRC",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-14 Raxio raises data centre funding",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ITWeb Africa reports Raxio Group operates data centres in Ethiopia (among six countries) as carrier-neutral colocation; no event date given, so as_of is the article's published date.",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "system": "Raxio Ethiopia data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ITWeb Africa reports that Raxio's data centres, including its Ethiopia facility, are all Tier III certified (operator's statement; certifying body not named); no event date given, so as_of is the article's published date.",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "system": "Raxio Ethiopia data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Ethiopia data centre",
+      "country_label": "ETH",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": "Tier III certified, carrier-neutral colocation"
+    }
+  ],
+  "note": "Pan-African funding story; Ethiopia named among countries operated in."
+}

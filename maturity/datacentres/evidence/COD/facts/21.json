@@ -1,0 +1,15 @@
+{
+ "slug": "2021-08-24-dcd-raxio-appoints-master-power-technologies-builder",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio DRC data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III design (planned)"
+  }
+ ],
+ "note": "Raxio's DRC facility is only planned in this document; no in-service fact."
+}

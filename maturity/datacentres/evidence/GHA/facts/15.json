@@ -1,0 +1,26 @@
+{
+  "slug": "2021-10-22-invest-international-dggf-paix-loan-ghana-kenya",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "PAIX, a carrier-neutral data centre operator, has been developing and managing internet nodes in Ghana since 2011; as_of is the page's published date as it gives no event date, and the EUR 2.75m DGGF loan to build more is not itself a fact.",
+      "as_of": "2021-10-22",
+      "date_precision": "day",
+      "system": "PAIX",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "PAIX",
+      "country_label": "PAIX data centres",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "PAIX",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

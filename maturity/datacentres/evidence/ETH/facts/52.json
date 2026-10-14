@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Connecting Africa reports Wingu's Tier III-certified campus in Ethiopia hosts the ADDIX exchange; Wingu also offers colocation, IaaS and CaaS (date is the article's, none given for certification).",
+      "as_of": "2025-06-06",
+      "date_precision": "day",
+      "system": "Wingu Africa Ethiopia campus",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Wingu Africa ICT Park data centre",
+      "country_label": "Ethiopia",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu Africa",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": ""
+}

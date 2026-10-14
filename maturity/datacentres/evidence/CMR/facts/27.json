@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-13-cmr-armp-ami-etude-datacenter-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Technopole digital, datacenter and CSIRT/PKI platform",
+   "country_label": "Datacenter (feasibility study)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Mines, Industry and Technological Development",
+   "tiers": "state"
+  }
+ ],
+ "note": "Call for expressions of interest for a feasibility study of a planned state data centre; planned only."
+}

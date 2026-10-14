@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-centro-de-dados-do-governo-soberania-digital",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Centro de Dados do Governo (Nuvem Nacional de Angola)",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI, Ministry of Telecommunications (MINTTICS)",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre; Tier III only as a design standard, and hosting for companies is a future aim, so no fact."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-30-anptic-nos-realisations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANPTIC mini-datacenters and cloud nodes",
+   "country_label": "mini-datacenters; noeuds cloud",
+   "class": "other",
+   "platform": "IaaS portal",
+   "owner": "ANPTIC",
+   "tiers": "administration"
+  }
+ ],
+ "note": "Administration-only hosting; no data centre for hire stated."
+}

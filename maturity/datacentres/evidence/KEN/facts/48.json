@@ -1,0 +1,31 @@
+{
+ "slug": "2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Kenya data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft/G42",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica second hyperscale facility",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra Tatu City data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a count of 19 Kenyan data centres (no named facility), stalled Microsoft-G42 project, and announced facilities; Azure regions only 'building out'."
+}

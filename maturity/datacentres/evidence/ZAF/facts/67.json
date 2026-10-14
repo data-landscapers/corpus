@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-microsoft-zaf-azure-expansion-2026-microsoft-south-africa-329m-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Microsoft Azure South Africa operates from existing Johannesburg and Cape Town data centre facilities, where Microsoft's April 2026 USD 329m investment adds capacity; the document gives no launch date, so as_of is its published date 2026-01-01.",
+   "as_of": "2026-01-01",
+   "date_precision": "year",
+   "system": "Microsoft Azure South Africa (Johannesburg, Cape Town)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Microsoft Azure South Africa",
+   "country_label": "Microsoft Azure South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "Region liveness is implied by 'existing' facilities and capacity increases; launch date not stated."
+}

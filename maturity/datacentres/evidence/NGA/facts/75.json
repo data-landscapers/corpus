@@ -1,0 +1,11 @@
+{
+  "slug": "2022-11-10-africa-data-centres-unitellas-zadara-edge-cloud-lagos",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Africa Data Centres (Cassava Technologies) announced that Unitellas is bringing Zadara edge cloud services to its new carrier- and cloud-neutral Lagos facility, where customers have access to multiple cloud on-ramps; the article gives the announcement date only.", "as_of": "2022-11-10", "date_precision": "day", "system": "Africa Data Centres Lagos", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Africa Data Centres Lagos", "country_label": "Africa Data Centres Lagos", "class": "datacentre", "platform": "", "owner": "Africa Data Centres (Cassava Technologies)", "tiers": ""},
+    {"system": "Zadara edge cloud via Unitellas", "country_label": "Unitellas Zadara", "class": "other", "platform": "Zadara", "owner": "Unitellas", "tiers": ""}
+  ],
+  "note": ""
+}

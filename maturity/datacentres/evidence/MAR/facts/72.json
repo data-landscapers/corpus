@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-31-atlanticcouncil-ai-stacks-state-capacity-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NVIDIA-Cassava AI infrastructure",
+   "country_label": "",
+   "class": "other",
+   "platform": "NVIDIA",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Morocco named only in the NVIDIA-Cassava programme list, a planned rollout; no in-service data centre or cloud region stated."
+}

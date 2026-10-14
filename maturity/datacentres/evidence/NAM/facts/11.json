@@ -1,0 +1,23 @@
+{
+ "slug": "2022-09-04-nam-should-have-national-data-centre-4ir-task-force",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Office of the Prime Minister data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Office of the Prime Minister",
+   "tiers": ""
+  },
+  {
+   "system": "National data centre (proposed)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a proposed state data centre and a small government-only OPM data centre; no data centre for hire stated."
+}

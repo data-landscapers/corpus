@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-16-datacenter-national-sumec-menace-abandonner-chantier",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacentre national (Brazzaville)",
+      "country_label": "Datacenter national",
+      "class": "other",
+      "platform": "",
+      "owner": "State of Congo with AfDB financing; built by Sumec",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre 95% built and works stopped: under construction, not a fact."
+}

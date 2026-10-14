@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Google Cloud states the Johannesburg cloud region in South Africa is ready for customer use, its first in Africa and the 40th region.",
+   "as_of": "2024-01-31",
+   "date_precision": "day",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google Cloud",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

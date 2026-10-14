@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-18-anp-niger-hub-regional-telecommunications",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Niamey, DTS/FO project)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Minister says civil works finalised and equipment being installed progressively: not yet in service."
+}

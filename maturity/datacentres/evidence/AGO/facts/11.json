@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-25-pti-angola-centro-backup-cloud-governo-48-racks",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centro de backup da cloud do Governo (Luanda)",
+      "country_label": "centro de backup da cloud do Governo",
+      "class": "other",
+      "platform": "",
+      "owner": "INFOSI",
+      "tiers": ""
+    }
+  ],
+  "note": "State cloud backup centre replicating the government data centre; no sign it sells to outside customers."
+}

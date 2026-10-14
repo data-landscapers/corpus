@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-paratus-zambia-zadara-cloud-platform-techtrends",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Paratus Zambia Vanguard Data Centre (Paratus Zambia), colocation/carrier-neutral, in service; this document names it (published 2026-07-17).",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Paratus Zambia Vanguard Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

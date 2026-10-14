@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-26-morocco-finance-ministry-backup-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Economy and Finance disaster-recovery platform",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (hosted by external provider)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Tender for a hosted disaster-recovery data centre with Tier III preferred; requirement, no facility named or in service."
+}

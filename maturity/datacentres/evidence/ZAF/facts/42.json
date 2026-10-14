@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-29-power-eclipses-fibre-in-ai-data-centre-race",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "cloud", "value": "region", "fact": "ITWeb states South Africa hosts cloud regions from hyperscaler Amazon Web Services; the region is not named and the date is the article's published date.", "as_of": "2026-07-29", "date_precision": "day", "system": "Amazon Web Services", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "cloud", "value": "region", "fact": "ITWeb states South Africa hosts cloud regions from hyperscaler Microsoft (Azure); the region is not named and the date is the article's published date.", "as_of": "2026-07-29", "date_precision": "day", "system": "Microsoft Azure", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "cloud", "value": "region", "fact": "ITWeb states South Africa hosts cloud regions from hyperscaler Google (Google Cloud); the region is not named and the date is the article's published date.", "as_of": "2026-07-29", "date_precision": "day", "system": "Google Cloud", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco", "country_label": "ZAF", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Africa Data Centres", "country_label": "ZAF", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Open Access Data Centres", "country_label": "ZAF", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Parks Africa", "country_label": "ZAF", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Operators are named only generically as establishing data centre regions; no facility is stated in service, so no centre fact."
+}

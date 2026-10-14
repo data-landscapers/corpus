@@ -1,0 +1,36 @@
+{
+ "slug": "2010-12-14-techcentral-bcx-midrand-tier-4-data-centres-cloud",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "BCX operates two R260m data centres in Midrand (3000 sq m between them, about two-thirds utilised) providing multi-tenanted private cloud, computing and storage services to large organisations, and also runs two data centres at Sanlam's Bellville head office.",
+   "as_of": "2010-12-14",
+   "date_precision": "day",
+   "system": "BCX Midrand data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "BCX states its two operating Midrand data centres were developed to tier-4 specifications as rated by the Uptime Institute; this is a design specification stated by the operator, with no certification mentioned.",
+   "as_of": "2010-12-14",
+   "date_precision": "day",
+   "system": "BCX Midrand data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCX Midrand data centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Business Connexion (BCX)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

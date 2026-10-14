@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The IFC-backed Raxio press release states Raxio operates carrier-neutral colocation data centres in Uganda, among seven countries; year only, taken from the published date 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Data Centres Uganda",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The release states, as operator claim, that Raxio's Uganda data centre is Tier III (no certifier or facility named); year only, taken from the published date 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Data Centres Uganda",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centres Uganda",
+   "country_label": "Raxio Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

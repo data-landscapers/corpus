@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Virtual Servers",
+   "country_label": "Virtual Servers",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MCS Cloud",
+   "country_label": "MCS Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a count of 10 data centres for Mauritius (TechCabal tiering) and two local cloud providers in Port Louis/Reduit (Virtual Servers, MCS Cloud); no facility named, no for-hire or tier statement, no region."
+}

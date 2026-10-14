@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-10-gabon-datacenter-readiness-apdpvp-compliance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital Gabon data centre, Nkok",
+      "country_label": "Data Center national et souverain",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": "Pre-opening: the minister announced the first datacentre would launch officially on 30 June 2026; announced, not yet in service."
+}

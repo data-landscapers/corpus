@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-09-paratus-group-us31m-eaif-ninety-one-funding",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus Angola Tier IV data center",
+   "country_label": "AGO",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Zambia is named only as a fibre-route country; the data centres are in Angola."
+}

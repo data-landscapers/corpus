@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-07-cmr-businessincameroon-cybastion-75m",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Business in Cameroon states that CAMTEL already operates a Tier III-certified data center in Zamengoe, near Yaounde, as of the article; the certifying body is not named and the article does not say whether it sells to outside customers.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CAMTEL Zamengoe data center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAMTEL Zamengoe data center",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "ST Digital Douala data center",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  },
+  {
+   "system": "Cybastion Douala AI data center (planned)",
+   "country_label": "CMR",
+   "class": "other",
+   "platform": "",
+   "owner": "Cybastion",
+   "tiers": ""
+  }
+ ],
+ "note": "Cybastion USD 75m Douala data center is planned, not a fact; ST Digital Douala centre called private, no for-hire statement."
+}

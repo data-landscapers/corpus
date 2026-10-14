@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-10-digital-economy-country-commercial-guide-tradegov",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The US Country Commercial Guide says the government inaugurated a national data centre in Nouakchott in May 2025, EIB-backed; the document does not say it rents to outside customers.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nouakchott national data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The US Country Commercial Guide states the Nouakchott national data centre inaugurated in May 2025 is Tier III (stated by the guide, no certifier named).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nouakchott national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott national data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

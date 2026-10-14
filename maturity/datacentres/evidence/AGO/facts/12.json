@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-14 Raxio raises data centre funding",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "system": "Raxio data centre, Angola",
+      "class": "datacentre",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Raxio Group, a carrier-neutral colocation operator, says it operates a data centre in Angola (among six countries); the facility is not named and the article gives no opening date, so as_of is the article date."
+    },
+    {
+      "sub_indicator": "datacentre",
+      "system": "Raxio data centre, Angola",
+      "class": "datacentre",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Raxio says all its data centres, Angola's included, are Tier III certified; the certifying body or type of certification is not stated and the facility is not named, so this is the operator's own statement and as_of is the article date."
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio data centre, Angola",
+      "country_label": "Raxio Angola",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": "Tier III (operator statement)"
+    }
+  ],
+  "note": ""
+}

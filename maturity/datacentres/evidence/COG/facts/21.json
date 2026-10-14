@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-28-aci-congo-bad-kone-data-center-75pc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Congo National Data Centre (Brazzaville, Bacongo)",
+      "country_label": "Data Center national",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Congo, AfDB-funded (Central African Backbone)",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre 75% built and not yet in service; no in-service data centre for hire stated."
+}

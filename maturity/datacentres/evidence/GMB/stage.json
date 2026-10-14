@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "unplaced",
+   "centre": "",
+   "cloud": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No source held says a data centre in the country rents space or computing to others, and none dated in the last three years says there is none.",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

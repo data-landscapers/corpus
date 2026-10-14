@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-24-raxio-civ1-abidjan-launch-press-release",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio Group inaugurated Raxio Côte d'Ivoire (CIV1), a 2,000 m2 carrier-neutral colocation data centre at VITIB near Abidjan, on 2024-09-24, with six fibre providers connected.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Raxio CIV1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio says CIV1 in Abidjan holds Uptime Institute Tier III certification (stated by the operator; certification type not specified), launched 2024-09-24.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Raxio CIV1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio CIV1",
+   "country_label": "Raxio Côte d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  },
+  {
+   "system": "CIVIX",
+   "country_label": "CIVIX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

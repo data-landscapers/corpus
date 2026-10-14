@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-exim-bank-usa-civ-2026-cybastion-sovereign-data-centre-bw15",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cybastion sovereign national data centre",
+      "country_label": "sovereign national data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Cote d'Ivoire / Cybastion",
+      "tiers": ""
+    }
+  ],
+  "note": "Financed and authorised project for a sovereign data centre, not in service."
+}

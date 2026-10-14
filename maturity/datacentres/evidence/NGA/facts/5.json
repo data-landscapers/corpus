@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-thewill-vertiv-airtel-africa-nigeria-datacentre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nxtra Lagos hyperscale data centre",
+      "country_label": "Nxtra by Airtel Africa, Lagos",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Africa (Nxtra)",
+      "tiers": ""
+    }
+  ],
+  "note": "Nxtra Lagos facility is planned, phased to 2028; not in service."
+}

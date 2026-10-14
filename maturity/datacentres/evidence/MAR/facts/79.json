@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-31 Morocco Digital Economy — US Country Commercial Guide (Digital Morocco 2030)",
+  "facts": [],
+  "systems": [
+    {"system": "Oracle Cloud regions Casablanca and Settat", "country_label": "Oracle cloud regions", "class": "other", "platform": "", "owner": "Oracle", "tiers": ""}
+  ],
+  "note": "Says Casablanca hosts 25+ data centres without saying they rent to others or giving tiers; Oracle regions only announced (May 2024); Microsoft, AWS, Google only exploring."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Niamey, DTS/FO project)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Tier 3 Niamey datacentre described as to be built and put into service later: not in service."
+}

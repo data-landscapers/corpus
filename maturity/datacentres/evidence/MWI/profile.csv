@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,datacentre,centre,coverage,tier3,2026-09-11,MWI-001,MWI-002=service;MWI-003=service;MWI-004=service;MWI-006=service,
+MWI,datacentre,cloud,coverage,,,,,nothing held

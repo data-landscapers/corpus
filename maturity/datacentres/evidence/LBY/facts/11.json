@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-14-libyan-spider-ls-cloud-iaas-tripoli",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Libyan Spider sells LS Cloud, an OpenStack IaaS with fixed vCPU, memory and storage packages, to outside customers, served from its Tripoli region (default and only region listed); the page names no facility and carries no date, so as_of is the 2022-04-14 capture date.",
+   "as_of": "2022-04-14",
+   "date_precision": "day",
+   "system": "LS Cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LS Cloud",
+   "country_label": "LS Cloud",
+   "class": "datacentre",
+   "platform": "OpenStack",
+   "owner": "Libyan Spider",
+   "tiers": ""
+  }
+ ],
+ "note": "Local provider's own cloud, not a global cloud region; no tier stated."
+}

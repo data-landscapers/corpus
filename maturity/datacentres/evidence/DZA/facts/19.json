@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-10-dza-algerie54-hydraulique-trois-services-portail-national",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National sovereign cloud / state data centres",
+      "country_label": "centres de donnees, cloud souverain",
+      "class": "other",
+      "platform": "",
+      "owner": "State",
+      "tiers": ""
+    }
+  ],
+  "note": "Only mentions state data centres and sovereign cloud as portal infrastructure; no dated for-hire or tier statement."
+}

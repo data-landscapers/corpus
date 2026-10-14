@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-atlanticcouncil-ai-stacks-state-capacity-africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Microsoft/G42 US$1bn Kenya data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft; G42",
+      "tiers": ""
+    }
+  ],
+  "note": "Kenya's planned Microsoft/G42 data centre stalled; no data centre in service or cloud region stated for Kenya."
+}

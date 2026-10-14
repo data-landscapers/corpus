@@ -1,0 +1,42 @@
+{
+  "slug": "2026-09-10-amaco-ge-vernova-mombasa-ai-data-centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty opened a second facility in Nairobi in the week of the article (published 2026-09-10), adding 6.4 MW to its existing campus; the article gives no exact date, so the as_of is the publication month.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Hercules (Amaco, Mombasa)",
+      "country_label": "Hercules (Amaco, Mombasa)",
+      "class": "other",
+      "platform": "",
+      "owner": "Amaco Energy Group",
+      "tiers": ""
+    },
+    {
+      "system": "Microsoft/G42 Nakuru data centre",
+      "country_label": "Microsoft/G42 Nakuru data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "country_label": "Digital Realty NBO2 (Nairobi Two)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": "Amaco Hercules is proposed and Microsoft Nakuru is delayed (not facts); only Digital Realty NBO2 opening is a service fact. Operators EADC Liquid, iColo, Africa Data Centre, COMTEC, Access, Safaricom, MTN Business, Telkom Kenya named as running smaller data centres without facility names or dates."
+}

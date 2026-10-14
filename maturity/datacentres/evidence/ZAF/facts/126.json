@@ -1,0 +1,44 @@
+{
+ "slug": "2018-08-15-vox-to-shut-own-data-centre-in-move-to-teraco",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco's Riverfields data centre in Bredell, Johannesburg, a carrier-, cloud- and vendor-neutral facility, is in service: Vox says its colocation and cloud services there are in full production (TechCentral, 2018-08-15).",
+   "as_of": "2018-08",
+   "date_precision": "month",
+   "system": "Teraco Riverfields",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "none",
+   "fact": "Vox said on 2018-08-15 that it will close its own Vox-operated Waverley, Johannesburg data centre, which hosts colocation customers, by November 2018 and move them to Teraco; the closure was announced, not yet done.",
+   "as_of": "2018-08-15",
+   "date_precision": "day",
+   "system": "Vox Waverley data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Riverfields",
+   "country_label": "Teraco Riverfields",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Vox Waverley data centre",
+   "country_label": "Vox Waverley data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vox",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

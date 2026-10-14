@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-19-dr-congo-raxio-group",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio Group's DRC1 in Limete, Kinshasa, a carrier-neutral colocation data centre, was launched in 2024 and offers colocation and cross-connects to customers (operator's own page; undated page, launch year from body).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio Group says DRC1 in Kinshasa is Uptime Institute Tier III certified (operator's own page; no certification date given, 2024 launch year used).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

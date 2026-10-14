@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-05 Safaricom completes first phase of data center in Limuru, Kenya",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Safaricom Limuru (Redhill) data centre",
+      "country_label": "Limuru data center",
+      "class": "other",
+      "platform": "",
+      "owner": "Safaricom",
+      "tiers": "Tier III (built to, planned)"
+    }
+  ],
+  "note": "Safaricom's own Limuru data centre phase one is complete, built to Tier III, but the document does not say it rents space or computing to outside customers, so no centre fact."
+}

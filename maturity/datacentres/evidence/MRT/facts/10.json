@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-30-agenceecofin-mauritanie-cloud-national-lance-sans-calendrier-migration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott National Data Centre",
+   "country_label": "Nouakchott National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "Cloud national",
+   "country_label": "Cloud national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": "National cloud launched 2026-06-29 serves public administrations only; no statement that the centre rents to outside customers; no fact taken."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2020-03-04-rack-centre-actis-majority-stake-jagal",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Rack Centre, Nigeria's colocation and cloud-services data centre in Lagos with 80+ clients and 35+ carriers present, has operated since 2013, with 750 kW installed.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Rack Centre (Lagos)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Rack Centre states it was Tier III Constructed Facility certified in April 2017 (Uptime Institute implied by the term, not named in the document).",
+   "as_of": "2017-04",
+   "date_precision": "month",
+   "system": "Rack Centre (Lagos)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre (Lagos)",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Jagal, majority stake to Actis (2020)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

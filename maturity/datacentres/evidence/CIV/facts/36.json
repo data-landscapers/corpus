@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-exim-bank-usa-civ-2025-cote-divoire-national-data-centre-bw05",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Côte d'Ivoire national data centre",
+   "country_label": "Centre national de données",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de la Transition numérique et de la Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": "Financing approval for a state data centre under construction; no data centre for hire in service stated."
+}

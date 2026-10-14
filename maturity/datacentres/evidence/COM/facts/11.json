@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-digwatch-comoros-country-profile",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "The Data Center of the Public Administration, co-managed by ANADEN and Comores Câbles, was inaugurated on 19 May 2025; Comores Câbles presents it as a secure space for storage, hosting, backup and business services, and it is described as designed to host state and private-sector platforms (the page calls it Tier 3 without naming who certifies or states this).",
+     "as_of": "2025-05-19", "date_precision": "day",
+     "system": "Data Center of the Public Administration", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Data Center of the Public Administration", "country_label": "Data Center of the Public Administration", "class": "datacentre", "platform": "", "owner": "ANADEN and Comores Câbles (co-managed)", "tiers": "described as Tier 3, unattributed"}
+  ],
+  "note": "Tier 3 claim is unattributed (not certification or operator statement), so no tier3 fact; no cloud region stated."
+}

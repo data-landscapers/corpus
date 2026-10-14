@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-08 The Promise and Limits of African Data Sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Kenya data center",
+   "country_label": "",
+   "class": "other",
+   "platform": "Microsoft Azure",
+   "owner": "Microsoft and G42",
+   "tiers": ""
+  }
+ ],
+ "note": "Kenyan data center only announced in 2024 as planned; Teraco and MainOne mentioned generally, nothing stated for KEN."
+}

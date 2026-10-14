@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03-pamfp-licitacion-centros-datos-malabo-bata-reg",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Primary Data Centre Malabo / Backup Data Centre Bata (Ministry of Finance)",
+   "country_label": "Primary Data Centre Malabo / Backup Data Centre Bata (Ministry of Finance)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Equatorial Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": "Ministry-owned data centres, equipment tender only; no for-hire service stated."
+}

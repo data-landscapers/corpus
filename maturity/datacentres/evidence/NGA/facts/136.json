@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-africas-ai-future-power-companies-not-programmers",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "cloud", "value": "none", "fact": "An analyst's opinion piece states that hyperscale regions where AI workloads run exist in only two African countries, South Africa and Egypt, so none in Nigeria; no date beyond the article's own (2026-08-17).", "as_of": "2026-08-17", "date_precision": "day", "system": "hyperscale cloud regions", "class": "datacentre"}
+  ],
+  "systems": [],
+  "note": "Nigeria's roughly 15% share of Africa's data centre load is a figure, not a fact; Kenya's paused data centre is another country."
+}

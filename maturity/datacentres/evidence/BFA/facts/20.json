@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-09 Burkina Faso expands connectivity and data infrastructure, digital public services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Modular data centres (two)",
+   "country_label": "modular data centres",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "state"
+  }
+ ],
+ "note": "Two modular data centres built in 2025 for sovereignty; no for-hire or tier statement."
+}

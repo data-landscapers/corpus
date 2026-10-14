@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-28-xaf-cioafrica-dfc-wiocc-300m-analysis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WIOCC Open Access Data Centres (seven former NTT facilities)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "WIOCC Group",
+   "tiers": ""
+  }
+ ],
+ "note": "States only that WIOCC's OADC arm acquired seven NTT facilities (25MW+) in South Africa in Dec 2025; ownership change, no in-service, hire or tier statement."
+}

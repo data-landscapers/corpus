@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-19-tunisie-cni-hosting-services-data-center-etat",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CNI Data Center",
+      "country_label": "CNI Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Centre National de l'Informatique",
+      "tiers": "government departments, public bodies, municipalities"
+    }
+  ],
+  "note": "State data centre hosting government applications only; no outside customers stated, no tier or date."
+}

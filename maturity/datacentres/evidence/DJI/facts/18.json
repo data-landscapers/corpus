@@ -1,0 +1,15 @@
+{
+ "slug": "2021-10-18-djibouti-telecom-builds-a-new-cable-landing-station-in-djibouti-city",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RAS DIKA CLS",
+   "country_label": "DJI",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Landing station declared fully operational 2023-08-07 and third floor reserved for neutral colocation; the document does not state the colocation centre is operating, so no fact."
+}

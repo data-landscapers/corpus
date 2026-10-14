@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-23-lefaso-burkina-deux-data-centers-administration-inaugures",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government data centres (two)",
+   "country_label": "data centers de l'administration publique",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Burkina Faso (Ministry of Digital Transition)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Inaugurated government data centres serve the state only; international-vocation data centre is a study; minister mentions data held in private centres abroad, none named."
+}

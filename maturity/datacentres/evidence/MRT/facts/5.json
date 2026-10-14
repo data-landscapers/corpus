@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-20 Construction of a Datacenter in Nouakchott, Mauritania (EEAS)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "IMT/GIE (operator)",
+   "tiers": "government/national"
+  }
+ ],
+ "note": "Tier III state data centre inaugurated May 2025, operated by IMT; no statement that it rents to outside customers."
+}

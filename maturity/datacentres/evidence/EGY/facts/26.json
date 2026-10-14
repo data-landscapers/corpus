@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-17-dcd-gulf-data-hub-elsewedy-three-egypt-campuses",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Gulf Data Hub / Elsewedy Data Centers Egypt campuses",
+      "country_label": "three data centre campuses",
+      "class": "other",
+      "platform": "",
+      "owner": "Gulf Data Hub and Elsewedy Data Centers",
+      "tiers": "Uptime Tier III targeted"
+    }
+  ],
+  "note": "MoU for planned campuses only; nothing in service."
+}

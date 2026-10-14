@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,"OCL Tier 3 data centre, Kanengo",MWI,datacentre,,TNM (acquired from OpenConnect Limited),,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"TNM data centre, Limbe",MWI,,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
+MWI,"CTN AI-enabled edge data centre, Lilongwe",MWI,other,,Converged Technology Networks,,2026-09-09-mwi-linkedin-longwe-ctn-ai-edge-data-centres
+MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-data-centre-launch-malawi24
+MWI,"Sparc Systems data centre, Lilongwe",MWI,datacentre,,Sparc Systems,,2026-05-01-sparc-systems-new-data-centre-lilongwe
+MWI,TNM third data centre (planned),MWI,other,,TNM,,2026-03-06-tnm-third-data-centre-volte-itweb
+MWI,Airtel Malawi Blantyre data centre,new data center,other,,Airtel Malawi,,2013-12-03-dcd-airtel-malawi-new-data-centre-blantyre
+MWI,MRA secondary data centre,secondary data centre,other,,Malawi Revenue Authority,,2026-08-14-malawi-mra-backup-data-centre-world-bank
+MWI,National Data Centre,National Data Centre,other,,Government of Malawi,,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
+MWI,National Data Centre (Lilongwe),new data centre,other,,Ministry of ICT,,2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm
+MWI,ESCOM Data Centre,National Data Centre in Blantyre / ESCOM Data Centre,datacentre,,ESCOM (Optic Fibre Communications business),private and government customers,2025-10-07-mwi-escom-itu-africa-broadband-mapping-presentation
+MWI,Lilongwe National Data Centre,Lilongwe National Data Centre,other,,Government of Malawi (Dept of e-Government),,2025-10-03-dmap-implementation-status-report
+MWI,National Data Centre Lilongwe,National Data Centre,other,,Government of Malawi (Dept of e-Government),,2025-06-27-dmap-tors-data-centre-cloud-architect
+MWI,Lilongwe Government Data Centre,Lilongwe Government Data Centre,other,,Ministry of Information and Digitalisation,,2025-04-22-lilongwe-data-centre-ready-may
+MWI,Blantyre National Data Centre,Blantyre National Data Centre,other,,"Ministry of Information and Digitalisation, ESCOM, Huawei",,2025-04-22-lilongwe-data-centre-ready-may
+MWI,Government Data Centre Lilongwe,Government Data Centre,other,,Dept of e-Government / PPPC,,2024-10-31-digmap-government-data-centre-lilongwe-77pc-complete
+MWI,National Data Centre Blantyre,National Data Centre,other,,Government of Malawi with Huawei,,2024-08-15-malawi-dragging-feet-legal-gaps-human-rights
+MWI,"Government Data Centre, Lilongwe",Government Data Centre,other,Hyper-converged infrastructure,"Government of Malawi (PPPC, Department of e-Government), World Bank funded",,2024-03-01 Government Data Center making progress
+MWI,"Government data centre, Blantyre",existing data centre in Blantyre,other,,Government of Malawi,,2024-03-01 Government Data Center making progress
+MWI,National Data Centre,National Data Centre,datacentre,Huawei,Government of Malawi; operated with Ministry of Information and ESCOM,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,Lilongwe data centre,another facility being constructed in Lilongwe,other,,,,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector
+MWI,National Data Centre,National Data Centre,other,Huawei,Government of Malawi,,2022-07-28-dcd-malawi-launches-national-data-centre-blantyre
+MWI,National Data Centre Project,National Data Centre Project,other,,Government of Malawi,,2019-01-01-ccb-mwi-001-china-construction-bank-provides-569-million
+MWI,"National Data Centre, Lilongwe",National Data Centre,other,,Government of Malawi (DMAP),,2026-09-04-broadcastmediaafrica-malawi-dmap-phase2-worldbank
+MWI,National Data Centre,National Data Centre,other,,Government of Malawi,,2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity
+MWI,National Data Centre (Lilongwe),National Data Centre,other,,Department of eGovernment,,2026-02-20-dmap-accelerates-progress-on-key-digital-initiatives
+MWI,National Data Centre,National Data Centre,other,,Government of Malawi,,2026-01-09-mwi-nris-servers-relocation-data-centre
+MWI,Airtel Malawi primary data centre (Blantyre) and DR data centre (Lilongwe),,other,,Airtel Malawi,,2025-10-07-mwi-airtel-itu-national-broadband-mapping-presentation
+MWI,National Data Centre (NDC) meet-me,National Data Centre,other,,,,2024-11-14-mispa-malawi-internet-exchange-mix
+MWI,Airtel Malawi Data Centre (Blantyre),Airtel Malawi data centre,other,,Airtel Malawi,,2013-11-21-nyasatimes-airtel-malawi-data-centre-commissioning-blantyre

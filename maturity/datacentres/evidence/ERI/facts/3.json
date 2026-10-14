@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-31-eritel-private-cloud-services",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "Eritel Telecom Corporation's own service page offers paid Eritel Nextcloud private-cloud subscriptions (Silver, Gold and Platinum tiers, 100 to 500 GB, with monthly charges in nakfa and a 90% uptime SLA) that it says are completely hosted in Eritel's Datacenters, so an operator data centre in Eritrea is selling hosting to outside customers; the page names no individual facility and gives no date, so as_of is the page's published date 2026-08-31.",
+     "as_of": "2026-08-31", "date_precision": "day",
+     "system": "Eritel Datacenters", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Eritel Datacenters", "country_label": "Eritel's Datacenters", "class": "datacentre", "platform": "", "owner": "Eritel Telecom Corporation", "tiers": ""},
+    {"system": "Eritel Nextcloud", "country_label": "Eritel Private Cloud Services", "class": "other", "platform": "Nextcloud", "owner": "Eritel Telecom Corporation", "tiers": "Platinum; Gold; Silver"}
+  ],
+  "note": ""
+}

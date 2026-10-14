@@ -1,0 +1,70 @@
+{
+ "slug": "2022-11-09-construction-to-start-at-africa-data-centres-cape-facility",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres, a carrier-neutral colocation provider owned by Cassava Technologies, has an established data centre in Midrand (JHB1); the document gives no date, so the article date 2022-11-09 is used.",
+   "as_of": "2022-11-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB1 (Midrand)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres has an established Centurion data centre (JHB2) providing colocation to enterprise customers; the document gives no date, so the article date 2022-11-09 is used.",
+   "as_of": "2022-11-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB2 (Centurion)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres has an established Cape Town data centre (CPT1, Elfindale); the document gives no date, so the article date 2022-11-09 is used.",
+   "as_of": "2022-11-09",
+   "date_precision": "day",
+   "system": "Africa Data Centres CPT1 (Elfindale, Cape Town)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JHB1",
+   "country_label": "Africa Data Centres Midrand",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "JHB2",
+   "country_label": "Africa Data Centres Centurion",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "CPT1",
+   "country_label": "Africa Data Centres Elfindale, Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "CPT2",
+   "country_label": "Africa Data Centres Atlantic Hills, Cape Town (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

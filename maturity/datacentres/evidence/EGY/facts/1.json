@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-07-egy-enterpriseam-data-center-equity-consortium",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hassan Allam Digital Infrastructure data center",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Hassan Allam Holding and A15",
+   "tiers": ""
+  }
+ ],
+ "note": "Aggregate MW and announced projects only; no named in-service facility for hire, no tier or cloud region."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Data Landscapers register of operational, carrier-neutral colocation or hyperscale facilities says US-controlled operators run 33 facilities, dominated by Digital Realty's Teraco and iColo, 82% of them in South Africa, Nigeria and Kenya, so carrier-neutral facilities are in operation in Kenya; no facility is named and the document gives no date, so its published date is used.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "iColo (Digital Realty)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo (Digital Realty)",
+   "country_label": "iColo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (US-controlled)",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft-G42 cloud region at Olkaria",
+   "country_label": "",
+   "class": "other",
+   "platform": "Microsoft Azure",
+   "owner": "Microsoft and G42",
+   "tiers": ""
+  },
+  {
+   "system": "Safaricom data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "One fact from the register description; the Microsoft-G42 region collapsed into indefinite delay in May 2026 (planned, not live); Safaricom's single data centre is not stated to rent to others or to be in Kenya."
+}

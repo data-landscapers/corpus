@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Al-Madar Al-Jadid data centres (Tripoli, Benghazi)",
+   "country_label": "Al-Madar Al-Jadid data centres",
+   "class": "",
+   "platform": "",
+   "owner": "Al-Madar Al-Jadid Company",
+   "tiers": ""
+  }
+ ],
+ "note": "Root servers sit in Al-Madar Al-Jadid data centres; the document does not say these centres rent space or computing to others, so no fact."
+}

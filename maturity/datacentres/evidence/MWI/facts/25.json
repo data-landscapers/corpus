@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-14-mispa-malawi-internet-exchange-mix",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre (NDC) meet-me",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "MIX migration to the NDC; no statement of a data centre for hire or cloud region."
+}

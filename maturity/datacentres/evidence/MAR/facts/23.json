@@ -1,0 +1,34 @@
+{
+ "slug": "2018-06-27-immersion-dans-le-datacenter-de-maroc-telecom",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Maroc Telecom's enterprise data center in Casablanca, launched May 2017, sells colocation (full or half racks) to businesses; about ten companies had signed up by the 26 June 2018 press visit.",
+   "as_of": "2017-05",
+   "date_precision": "month",
+   "system": "Maroc Telecom enterprise DataCenter, Casablanca",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maroc Telecom enterprise DataCenter, Casablanca",
+   "country_label": "DataCenter Entreprise",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Maroc Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "MT Cloud IaaS",
+   "country_label": "MT Cloud IaaS",
+   "class": "other",
+   "platform": "",
+   "owner": "Maroc Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-28-rent-not-build-africa-ai-intelligence",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Microsoft/G42 geothermal data centre",
+      "country_label": "KEN",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft; G42",
+      "tiers": ""
+    }
+  ],
+  "note": "Only the unlikely-to-proceed Microsoft/G42 data centre in Kenya; planned, so not a fact."
+}

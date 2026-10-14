@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-12-kenya-paratus-cloud-launch-ixafrica",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "iXAfrica Data Centres' Nairobi One campus is operating as a carrier-neutral colocation and cloud data centre in Nairobi, hosting Paratus's new point of presence for Paratus Cloud (operator iXAfrica; no opening date given, so dated by the publication date 2025-09-12).",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "iXAfrica Data Centres Nairobi One",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "iXAfrica states its in-service Nairobi facility has a Tier III design (operator's own statement, no certifying body named) with 99.999% uptime; dated by publication date 2025-09-12.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "iXAfrica Data Centres Nairobi One",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iXAfrica Data Centres Nairobi One",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Paratus Cloud",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

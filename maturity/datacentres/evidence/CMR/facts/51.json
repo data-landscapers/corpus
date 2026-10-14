@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Data Landscapers' June 2026 table of African-owned infrastructure firms lists ST Digital, a Cameroonian-founded operator of 6 data centres, as having facilities in Cameroon among six countries; no Cameroon facility is named and no date is given, so as_of is the article's publication date.",
+      "as_of": "2026-06-11",
+      "date_precision": "day",
+      "system": "ST Digital",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Anthony Same (majority owner)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

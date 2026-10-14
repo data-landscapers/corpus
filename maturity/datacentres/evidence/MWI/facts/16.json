@@ -1,0 +1,23 @@
+{
+  "slug": "2024-03-01 Government Data Center making progress",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Data Centre, Lilongwe",
+      "country_label": "Government Data Centre",
+      "class": "other",
+      "platform": "Hyper-converged infrastructure",
+      "owner": "Government of Malawi (PPPC, Department of e-Government), World Bank funded",
+      "tiers": ""
+    },
+    {
+      "system": "Government data centre, Blantyre",
+      "country_label": "existing data centre in Blantyre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    }
+  ],
+  "note": "Lilongwe government data centre under construction (51 percent); Blantyre site described only as existing government backup; no for-hire statement."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-09 RailTel to build Data Centre in Ethiopia (press release)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MoFA data centre, Addis Ababa (RailTel)",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethiopia Ministry of Foreign Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "Data centre being built for a ministry's own use; not for hire, no fact."
+}

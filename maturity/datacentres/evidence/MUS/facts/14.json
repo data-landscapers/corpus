@@ -1,0 +1,31 @@
+{
+ "slug": "2025-12-31-msb-isms-registered-firms-list",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Emtel Data Centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Emtel Ltd",
+   "tiers": ""
+  },
+  {
+   "system": "Rose Belle Data Centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Mauritius Telecom Ltd",
+   "tiers": ""
+  },
+  {
+   "system": "Rose Hill Data Centre (2, 3 and 4)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Mauritius Telecom Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": "ISO 27001 certificates for data centre operations; no statement that they rent to others and no Tier rating."
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Heirs Technologies, citing Data Center Map, reports 18 active data centres in Kenya, with a Nairobi/Mombasa cluster of operators including Digital Realty, iXAfrica, Telkom, PAIX and Safaricom; no individual facility, tier or opening date is given, so as_of is the report's published date (2025-11).",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Kenya Nairobi/Mombasa data centre cluster (Digital Realty, iXAfrica, Telkom, PAIX, Safaricom)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Realty Nairobi",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "PAIX",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX",
+   "tiers": ""
+  },
+  {
+   "system": "Safaricom Cloud",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": "No cloud fact: Oracle region in Kenya only announced (2024); Data Center Map lists AWS, Azure and Oracle as Nairobi cloud providers without stating a live region. No Kenya tier statement (Tier III is stated for Nigeria only)."
+}

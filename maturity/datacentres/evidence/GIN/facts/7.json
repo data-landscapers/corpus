@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-15-mceni-corex-data-center-national-technopole",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "State (COREX proposals)",
+   "tiers": ""
+  }
+ ],
+ "note": "Meeting to bring the national data centre into operation; no in-service or tier statement."
+}

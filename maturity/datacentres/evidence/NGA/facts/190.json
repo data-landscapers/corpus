@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-xaf-smbtech-hca-conference-cross-border-buildout",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Oracle cloud region in Nigeria",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle cloud region in Nigeria is only 'development' of, not live; Rack Centre, Equinix, Digital Realty Nigeria, Open Access Data Centres named only as speakers or sponsors, no in-service or tier statement."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2022-06-16-rack-centre-ifc-edge-certification",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Rack Centre, a carrier-neutral colocation data centre in Lagos, has operated since its launch in October 2013 with 100% uptime claimed by the operator.",
+      "as_of": "2013-10",
+      "date_precision": "month",
+      "system": "Rack Centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Rack Centre in Lagos is described by its operator as Tier III Constructed Facility certified (Uptime Institute-style constructed-facility certification, the first in Africa); the document gives no certification date, so the page date is used.",
+      "as_of": "2022-06-16",
+      "date_precision": "day",
+      "system": "Rack Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Rack Centre",
+      "country_label": "Rack Centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Rack Centre (Actis majority owned)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

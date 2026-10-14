@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ST Digital datacenters",
+   "country_label": "ST Digital",
+   "class": "other",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "three certified datacenters, certification unspecified"
+  }
+ ],
+ "note": "Profile; three certified datacenters stated for Africa generally, none named for Cameroon."
+}

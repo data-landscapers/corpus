@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-16-st-digital-togo-colocation-offering-launch",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "ST DIGITAL says it officially launched its colocation offering in Lomé on 15 October 2025, letting companies host their own servers in a data centre in Lomé (facility not named; operator ST DIGITAL).", "as_of": "2025-10-15", "date_precision": "day", "system": "ST DIGITAL colocation data centre, Lomé", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "ST DIGITAL states the data centre in Lomé hosting its new colocation offering is Tier III (operator statement; no certifier named, facility not named).", "as_of": "2025-10-15", "date_precision": "day", "system": "ST DIGITAL colocation data centre, Lomé", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "ST DIGITAL colocation data centre, Lomé", "country_label": "ST DIGITAL Togo colocation offering", "class": "datacentre", "platform": "", "owner": "ST DIGITAL", "tiers": "SMEs, health sector, port"}
+  ],
+  "note": ""
+}

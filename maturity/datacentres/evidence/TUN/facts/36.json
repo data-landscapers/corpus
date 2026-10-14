@@ -1,0 +1,13 @@
+{
+  "slug": "2017-07-11-wmc-tunisie-telecom-kairouan-carthage-data-centres",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "Tunisie Telecom's Data Center Carthage has been operational since June 2014 and offers hosting and outsourcing of IT systems and cloud services to large, medium and small enterprises (WebManagerCenter, 2017-07-11).",
+     "as_of": "2014-06", "date_precision": "month", "system": "Data Center Carthage", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Data Center Carthage", "country_label": "TUN", "class": "datacentre", "platform": "", "owner": "Tunisie Telecom", "tiers": ""},
+    {"system": "Data Center Kairouan", "country_label": "TUN", "class": "other", "platform": "", "owner": "Tunisie Telecom", "tiers": ""}
+  ],
+  "note": "Kairouan is being finalised (not in service); Carthage ISO/IEC 27001 certification is not a Tier rating."
+}

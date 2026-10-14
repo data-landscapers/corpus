@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-19-nita-u-integration-service-ughub",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Data Centre",
+      "country_label": "Government of Uganda data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "NITA-U",
+      "tiers": ""
+    }
+  ],
+  "note": "Government data centre hosts UGHub for state use; no statement that it sells to outside customers."
+}

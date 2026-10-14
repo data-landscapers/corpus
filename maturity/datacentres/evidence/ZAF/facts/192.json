@@ -1,0 +1,34 @@
+{
+  "slug": "2025-03-11 Vantage partners with Attacq for Phase II of 80MW campus in Jo'burg, South Africa",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Vantage Data Centres' first 16MW facility, JNB11, on its Waterfall City JNB1 campus in Johannesburg, was completed in 2022, per DCD.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Vantage JNB11",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Vantage JNB11",
+      "country_label": "JNB1 campus",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Vantage Data Centres",
+      "tiers": ""
+    },
+    {
+      "system": "Vantage JNB1 Phase II",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Vantage / Attacq",
+      "tiers": ""
+    }
+  ],
+  "note": "Phase II is under construction, not a fact."
+}

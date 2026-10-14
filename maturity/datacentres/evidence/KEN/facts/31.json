@@ -1,0 +1,36 @@
+{
+  "slug": "2017-03-30-mtn-business-launches-a-tier-3-datacenter-in-kenya-forges-on-partnerships-to-dri",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "MTN Business launched a tier-3 data centre in Nairobi serving corporations, SMEs and the public sector, offering Microsoft Azure and Office 365 through its platform; the document gives no date beyond its published date, 2017-03-30.",
+      "as_of": "2017-03-30",
+      "date_precision": "day",
+      "system": "MTN Business Nairobi data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "MTN Business states its new Nairobi data centre is tier 3, citing the Uptime Institute definition but giving no Uptime certification; operator-stated, date taken from the published date 2017-03-30.",
+      "as_of": "2017-03-30",
+      "date_precision": "day",
+      "system": "MTN Business Nairobi data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MTN Business Nairobi data centre",
+      "country_label": "MTN Business tier-3 datacenter",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "MTN Business Kenya",
+      "tiers": "tier 3 (operator-stated)"
+    }
+  ],
+  "note": ""
+}

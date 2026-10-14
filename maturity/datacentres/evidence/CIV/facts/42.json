@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-14-ansut-data-center-national-premiere-pierre-marcory",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire (Cybastion)",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Foundation stone of a planned Tier III state data centre at Marcory-Anoumabo; not in service, state-only use."
+}

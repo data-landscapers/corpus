@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-14-agenceecofin-comores-centre-donnees-administration-publique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre de données de l'administration publique",
+   "country_label": "Data Center de l'Administration Publique",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN and Comores Câble (co-managed)",
+   "tiers": "Tier 3 (as stated by the article)"
+  }
+ ],
+ "note": "Inauguration only announced for 19 May 2025 (article dated 14 May); not stated in service, and a state centre, so no fact."
+}

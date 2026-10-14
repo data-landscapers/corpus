@@ -1,0 +1,44 @@
+{
+  "slug": "2025-10-03-cote-divoire-un-nouveau-datacenter-construit-en-huit-mois-un-exploit-mondial-aff",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ST Digital inaugurated its data centre in the VITIB free zone, Grand-Bassam, on 2 October 2025, built in eight months on 4,000 m2 and offered as a cloud to the Ivorian market.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The datasheet of ST Digital's Grand-Bassam data centre states Tier 3 level, compliant with TIA-942 (stated by the operator).",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital Grand-Bassam data centre",
+      "country_label": "datacenter ST Digital, VITIB",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "Tier 3 (TIA-942)"
+    },
+    {
+      "system": "Data Center national",
+      "country_label": "Datacenter national",
+      "class": "other",
+      "platform": "",
+      "owner": "State/ANSUT; Cybastion",
+      "tiers": ""
+    }
+  ],
+  "note": "Operator-by-operator count of about 20 data centres (MTN, Orange, VIPNET, MainOne, New Digital Africa, Raxio) does not say which are for hire, so no further fact."
+}

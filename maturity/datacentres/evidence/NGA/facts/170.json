@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-02-businessday-airtel-nxtra-lagos-38mw-site-inspection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nxtra Lagos data centre (Eko Atlantic)",
+   "country_label": "Nxtra Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nxtra",
+   "tiers": ""
+  }
+ ],
+ "note": "Airtel Nxtra 38MW Lagos centre is under construction, go-live 2028; not in service."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouakchott data centre",
+   "country_label": "centre de données de Nouakchott",
+   "class": "other",
+   "platform": "",
+   "owner": "AN-ETAT / IMT",
+   "tiers": "government"
+  }
+ ],
+ "note": "Only a meeting agenda item on homologation of the Nouakchott centre; nothing stated about for-hire service."
+}

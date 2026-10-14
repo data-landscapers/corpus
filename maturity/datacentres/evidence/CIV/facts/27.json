@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-09-aip-data-center-national-grand-bassam",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center national (DCN), Grand-Bassam",
+      "country_label": "Data Center national",
+      "class": "other",
+      "platform": "",
+      "owner": "State; contractor Cybastion",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre under construction (over 20% done, delivery end-2026) for state data; not in service."
+}

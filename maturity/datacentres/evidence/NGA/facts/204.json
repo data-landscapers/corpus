@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-16 The digital sovereignty dividing line",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cassava AI factory (Nigeria site)",
+      "country_label": "NGA",
+      "class": "other",
+      "platform": "GPU",
+      "owner": "Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Nigeria named only as a planned Cassava AI factory site (not in service); Azure/Google/AWS resold via direct connect, no Nigerian region."
+}

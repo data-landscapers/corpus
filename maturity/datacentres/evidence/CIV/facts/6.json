@@ -1,0 +1,15 @@
+{
+  "slug": "2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DataConnect Africa sovereign cloud",
+      "country_label": "CIV",
+      "class": "other",
+      "platform": "Clever Cloud PaaS",
+      "owner": "DataConnect Africa (New Digital Africa)",
+      "tiers": ""
+    }
+  ],
+  "note": "Colocation in an unnamed TIER III-level datacenter appears only in the group boilerplate with no country or facility stated; the sovereign cloud is a local offer, not a global cloud region."
+}

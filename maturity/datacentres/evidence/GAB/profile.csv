@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,datacentre,centre,coverage,tier3,2026-09-03,GAB-002;GAB-004;GAB-006;GAB-008;GAB-010;GAB-012;GAB-013;GAB-015,GAB-011=service;GAB-005=service;GAB-007=service;GAB-001=service;GAB-003=service;GAB-009=service;GAB-014=service;GAB-016=service,
+GAB,datacentre,cloud,coverage,,,,,nothing held

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-16-anicns-ami-data-center-national-sante",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National de Santé",
+   "country_label": "Data Center National de Santé",
+   "class": "other",
+   "platform": "",
+   "owner": "ANICNS (Ministry of Health), PPP",
+   "tiers": ""
+  }
+ ],
+ "note": "Procurement notice for a planned national health data centre used by the state; not in service, not for hire."
+}

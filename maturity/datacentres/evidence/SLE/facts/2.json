@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-18-sierra-leone-statehouse-natca-hq-national-data-centre-commissioning",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "NatCA / MoCTI (Southridge HQ, Freetown)",
+   "tiers": "government"
+  }
+ ],
+ "note": "National Data Centre commissioned 17 April 2026 for secure storage of government information; government-only, no hire to others stated."
+}

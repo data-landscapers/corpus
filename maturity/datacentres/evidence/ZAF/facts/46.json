@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "ITWeb reports Google Cloud's Johannesburg Cloud Region is live and used by Vodacom, Discovery, Pepkor and Naspers; no launch date is given, so as_of is the article date (2026-07-03).",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "Johannesburg Cloud Region",
+   "class": "datacentre",
+   "platform": "Google Cloud",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

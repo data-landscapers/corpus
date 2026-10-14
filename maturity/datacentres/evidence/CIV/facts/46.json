@@ -1,0 +1,15 @@
+{
+ "slug": "2021-07-27-securisation-des-donnees-le-data-center-mutualise-de-secours-du-ministere-du-bud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data center mutualisé de secours du ministère du Budget (Yamoussoukro)",
+   "country_label": "CIV",
+   "class": "other",
+   "platform": "Huawei technology",
+   "owner": "Ministère du Budget et du Portefeuille de l’Etat",
+   "tiers": "government directorates only"
+  }
+ ],
+ "note": "Ministry-only shared disaster-recovery data centre in Yamoussoukro (opened 2021-07-26); not for hire to outside customers."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2017-12-10-elisabeth-medou-badang-dg-orange-cameroun-les-data-centers-un-des-prealables-de",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Orange Cameroun's Data Center in Makepe, Douala (1,040 m2) was inaugurated on 31 May 2017; its DG says it is open to individuals, startups, SMEs, large firms and institutions to host platforms, data and applications, with 99.98% availability claimed.",
+   "as_of": "2017-05-31",
+   "date_precision": "day",
+   "system": "Orange Cameroun Data Center, Makepe, Douala",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Cameroun Data Center, Makepe, Douala",
+   "country_label": "Orange Cameroun Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

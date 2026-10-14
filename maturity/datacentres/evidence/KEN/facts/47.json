@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "iXAfrica Data Centres operates a carrier-neutral data centre in Nairobi hosting Baobab Cloud Services' sovereign public cloud for outside customers, announced at AI Everything-Gitex Kenya (no opening date given; article date used).",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "iXAfrica Nairobi data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The article describes iXAfrica's Nairobi data centre infrastructure as Tier III (operator and partners' statement, no certifying body named; article date used).",
+   "as_of": "2026-05-22",
+   "date_precision": "day",
+   "system": "iXAfrica Nairobi data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Baobab Cloud Services",
+   "country_label": "Baobab Cloud Services",
+   "class": "other",
+   "platform": "",
+   "owner": "Mitsumi Distribution",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

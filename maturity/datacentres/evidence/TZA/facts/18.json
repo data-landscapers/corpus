@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-20-wingu-africa-breaks-grounds-on-data-center-expansion-in-dar-es-salaam-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu.Africa operates a carrier-neutral data centre in Dar es Salaam, whose first phase launched in 2022; a phase-two expansion to 3MW broke ground in March 2025.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Wingu Africa Dar es Salaam data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu.Africa Dar es Salaam data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu.Africa (founders and Africa Capitalworks)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

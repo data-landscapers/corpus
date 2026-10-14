@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio Data Centres",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Debt financing record; says Raxio operates carrier-neutral data centres in seven countries incl. Ethiopia but names no ETH facility, so no ETH-specific in-service fact."
+}

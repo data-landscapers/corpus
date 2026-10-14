@@ -1,0 +1,34 @@
+{
+ "slug": "2022-12-13-vantage-announces-second-johannesburg-data-center-campus-in-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vantage Data Centers opened its first South African facility, the two-story JBN11 (16MW critical IT capacity) on its JBN1 Midrand campus at Waterfall City, Johannesburg, in July 2022.",
+   "as_of": "2022-07",
+   "date_precision": "month",
+   "system": "Vantage JBN11 (JBN1 campus, Midrand)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JBN11",
+   "country_label": "Vantage JBN1 Midrand, Waterfall City",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vantage Data Centers",
+   "tiers": ""
+  },
+  {
+   "system": "JNB2",
+   "country_label": "Vantage JNB2 Ekurhuleni (planned, mid-2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage Data Centers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

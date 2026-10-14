@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-01-sierra-leone-mocti-orange-bo-data-centre-commissioned",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Sierra Leone Bo data centre",
+   "country_label": "Orange Sierra Leone Data Centre, Bo",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Sierra Leone Freetown data centre",
+   "country_label": "main Freetown centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "Bo data centre opened as Orange's own disaster-recovery hub; no statement it rents space or computing to others, no tier."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-08-dcd-orange-tunisie-data-center-kalaa-kebira-sousse",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Orange Tunisie inaugurated its Kalaa Kebira (Sousse) data centre, 1,000 sqm, serving Orange's own needs and customers with hosting, cloud computing and backup.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Orange Tunisie Kalaa Kebira data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named).",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Orange Tunisie Kalaa Kebira data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Tunisie Kalaa Kebira data centre",
+   "country_label": "Kalaa Kebira data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Tunisie",
+   "tiers": "Tier III (operator)"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-03-aws-launches-wavelength-zone-edge-location-in-morocco-with-orange",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Orange operates two data centres in Casablanca, one a 1MW facility (DC2, built 2015) bought from Etix Everywhere in 2021, and AWS has launched a Wavelength Zone in Orange's Casablanca data centres for customers' applications.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "Orange Casablanca data centres (DC2)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AWS Wavelength zone Casablanca",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "AWS Wavelength",
+   "owner": "Amazon Web Services with Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "Wavelength is an edge zone with Paris as parent region, so no cloud region fact; fact date is the article's date as it gives no other."
+}

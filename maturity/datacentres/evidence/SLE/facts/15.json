@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Finance Data Center",
+   "country_label": "MoF Data Center",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "government"
+  }
+ ],
+ "note": "State data centre hosting a planned prototype; no for-hire statement."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center 1 (DC1), Parque Tecnologico de Cabo Verde, Achada Grande, Praia", "country_label": "Data Center 1", "class": "other", "platform": "", "owner": "State; NOSi executing agency for data centres", "tiers": ""},
+    {"system": "Data Center 2 (DC2), Achada Grande, Praia", "country_label": "Data Center 2", "class": "other", "platform": "", "owner": "State; planned concession to a private operator", "tiers": ""},
+    {"system": "Data Center 3 (DC3), Ribeira de Juliao, Sao Vicente", "country_label": "Data Center 3", "class": "other", "platform": "", "owner": "State", "tiers": ""}
+  ],
+  "note": "The first data centre (DC1, Praia) began operating in 2015 but the document does not say it rents space or computing to outside customers; DC2 (financial sector, 88% built) and DC3 (disaster recovery, 72% built) are under construction in mid-2022; no tier or cloud region stated."
+}

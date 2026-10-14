@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21-ggpen-angosat-2-national-data-center-redundancy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Centro de Dados do Governo (Nuvem Nacional de Angola)",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI, Ministry of Telecommunications (MINTTICS)",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centre redundancy via ANGOSAT-2; no data centre for hire stated."
+}

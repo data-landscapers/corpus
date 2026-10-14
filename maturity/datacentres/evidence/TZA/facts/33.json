@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio Data Centres",
+      "country_label": "Raxio",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group (Roha, Meridiam)",
+      "tiers": ""
+    }
+  ],
+  "note": "Loan funds first-phase development of seven colocation data centres including Tanzania; development, not in service."
+}

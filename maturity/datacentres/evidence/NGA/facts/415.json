@@ -1,0 +1,57 @@
+{
+ "slug": "2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Digital Realty LOS1 (Victoria Island) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty LOS1 (Victoria Island)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Digital Realty LOS2 (Victoria Island) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty LOS2 (Victoria Island)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Digital Realty LKK1 (Lekki Bldg 1) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty LKK1 (Lekki Bldg 1)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Digital Realty LKK2 (Lekki Bldg 2) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty LKK2 (Lekki Bldg 2)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Digital Realty ABV1 (Abuja) (Digital Realty), colocation/carrier-neutral, in service; this document names it (published 2025-11-04).",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Digital Realty ABV1 (Abuja)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

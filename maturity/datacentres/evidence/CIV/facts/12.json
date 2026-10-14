@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-17-orange-engie-gos-data-center-solar-grand-bassam",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GOS (Groupement Orange Services) data center, Grand Bassam",
+   "country_label": "GOS",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": "Orange's Africa data center network is stated to hold Uptime Institute Tier 3 design certification; not stated for the GOS itself"
+  }
+ ],
+ "note": "GOS is a pooled hosting site for Orange's own 18 subsidiaries, not stated to rent to outside customers; Tier 3 claim is for the Orange network, not the GOS by name."
+}

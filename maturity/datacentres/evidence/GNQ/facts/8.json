@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-09-guinea-ecuatorial-bcn-nigeria-acuerdo-cable-submarino-centro-datos",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BCN centro de datos comerciales (planned)",
+   "country_label": "BCN centro de datos comerciales (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Backbone Connectivity Network",
+   "tiers": ""
+  }
+ ],
+ "note": "Commercial data centre only planned; not in service."
+}

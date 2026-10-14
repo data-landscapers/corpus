@@ -1,0 +1,44 @@
+{
+ "slug": "2017-10-04-dcd-n-one-second-morocco-data-centre-disaster-recovery",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "N+One Datacenters launched its second data center, 4MW, 80km from Casablanca, as disaster recovery for its 5,000 sq m Casablanca site; date is the article's, 2017-10-04.",
+   "as_of": "2017-10-04",
+   "date_precision": "day",
+   "system": "N+One second data center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The new N+One data center is stated to be PCI DSS and Tier III Design certified (certifier not named).",
+   "as_of": "2017-10-04",
+   "date_precision": "day",
+   "system": "N+One second data center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One Casablanca data center",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  },
+  {
+   "system": "CASIX",
+   "country_label": "CASIX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

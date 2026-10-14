@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-26-ustda-zenith-bank-nigeria-cloud-digital-banking-grant",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Azure",
+   "country_label": "Azure",
+   "class": "other",
+   "platform": "Microsoft Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: Zenith Bank adopting Azure; no NGA cloud region or data centre for hire stated."
+}

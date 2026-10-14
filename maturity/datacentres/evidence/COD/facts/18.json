@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-08-cod-ciomag-premier-datacenter-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter national (Kinshasa)",
+   "country_label": "premier datacenter national",
+   "class": "other",
+   "platform": "Huawei-built; 54 servers, 1278 TB",
+   "owner": "Government of DRC (Primature)",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centre inaugurated; article does not say it sells space or computing to outside customers, and gives no inauguration date."
+}

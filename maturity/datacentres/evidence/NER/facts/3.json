@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-20-afdb-niger-1000-km-fibre-optique-reception",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Niamey, DTS/FO project)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Tier III national data centre is a project component, described as future: not in service."
+}

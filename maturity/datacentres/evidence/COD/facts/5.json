@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14 Raxio raises data centre funding",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ITWeb Africa reports Raxio operates data centres in the DRC among six countries, as carrier-neutral colocation; the article gives no event date, so its publication date is used.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "ITWeb Africa reports, citing Raxio, that its data centres including the DRC one are all Tier III certified; the article gives no certification date, so its publication date is used.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1, Limete, Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-21-raxio-data-centre-hosts-liquid-intelligent-technologies-microsoft-azure-stack-in",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Raxio Data Centre announced that Liquid Intelligent Technologies' Microsoft Azure Stack is operational in its Ugandan facility, which offers colocation space for up to 400 racks to customers; article dated 21 August 2024.", "as_of": "2024-08", "date_precision": "month", "system": "Raxio UG1", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Raxio Data Centre's general manager states its Ugandan facility is certified to Tier III standards (operator statement, no certifier named).", "as_of": "2024-08", "date_precision": "month", "system": "Raxio UG1", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Raxio UG1", "country_label": "Raxio Data Centre, Uganda", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": ""},
+    {"system": "Microsoft Azure Stack (Liquid Intelligent Technologies)", "country_label": "Azure Stack", "class": "other", "platform": "Microsoft Azure Stack", "owner": "Liquid Intelligent Technologies", "tiers": "businesses, SMEs"}
+  ],
+  "note": ""
+}

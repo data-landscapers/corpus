@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital",
+      "country_label": "Congo",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": ""
+    }
+  ],
+  "note": "Lists ST Digital as operating in 'Congo' (ambiguous with DR Congo) among six data centres, no facility, no COG-specific in-service or tier statement; no fact."
+}

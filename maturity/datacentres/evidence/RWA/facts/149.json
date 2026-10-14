@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-24-cassava-reg-nvidia-ai-factory-cassava-nvidia-ai-factory-africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Liquid Intelligent Technologies Rwanda (Liquid Intelligent Technologies Rwanda), colocation/carrier-neutral, in service; this document names it (published 2025-03-24).",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Liquid Intelligent Technologies Rwanda",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

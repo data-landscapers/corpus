@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NCRA Tier 3 data centre",
+   "country_label": "NCRA data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "National Civil Registration Authority",
+   "tiers": "Tier 3 (stated by the article)"
+  }
+ ],
+ "note": "NCRA Tier 3 data centre houses civil registration and ID systems; hosting other institutions is only discussed as a possibility and no outside customer is stated, so not recorded as for hire."
+}

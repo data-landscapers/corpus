@@ -1,0 +1,87 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,"ST Digital data centre, VITIB Grand-Bassam",data center de dernière génération,datacentre,,ST Digital,,2025-10-03-data-center-inaugure-vitib-fratmat
+CIV,"ST Digital data centre, VITIB Grand-Bassam",first sovereign Tier III data center,other,,ST Digital,"Tier III (planned, not yet inaugurated at publication)",2025-08-12-st-digital-sovereign-tier-iii-data-center-techafricanews
+CIV,PAIX Indigo data centre,,other,,PAIX Indigo B.V. (Paix Group),,2024-12-18-invest-international-paix-indigo-civ-project-disclosure
+CIV,"Kaydan Digital mini data center park, VITIB Grand-Bassam",mini data center Tier 3,datacentre,,Kaydan Digital (Groupe Kaydan),Tier 3 per owners' document; co-located units for sale to buyers,2024-12-04-cote-divoire-specifications-du-mini-data-center-tier-3-de-kaydan-digital
+CIV,PAIX Indigo data centre,,other,,PAIX Indigo B.V. (Paix Group),,2024-11-29-invest-international-paix-data-centres-2024-civ-development-contribution
+CIV,DataConnect Africa sovereign cloud,CIV,other,Clever Cloud PaaS,DataConnect Africa (New Digital Africa),,2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ
+CIV,Raxio CIV1,CIV1,datacentre,,Raxio Group,Tier III,2024-09-25 Raxio launches CIV1 data centre in Abidjan (Cote d'Ivoire)
+CIV,Orange Assabou data centre (Yamoussoukro),Assabou,other,,Orange Cote d'Ivoire,,2023-03-14-deux-nouveaux-centres-de-donnees-d-orange-vont-etre-solarises-en-afrique-pv-maga
+CIV,Orange Grand-Bassam data centre,Grand-Bassam,other,,Orange,,2023-03-14-deux-nouveaux-centres-de-donnees-d-orange-vont-etre-solarises-en-afrique-pv-maga
+CIV,Orange Assabou data centre (Yamoussoukro),Assabou,other,,Orange Cote d'Ivoire,,2023-03-10-orange-deploying-solar-panels-at-data-centers-in-cote-d-ivoire-and-burkina-faso
+CIV,Orange GOS data centre (Grand Bassam),GOS,other,,Orange,,2023-03-10-orange-deploying-solar-panels-at-data-centers-in-cote-d-ivoire-and-burkina-faso
+CIV,Orange GOS (Groupement Orange Services) data centre,GOS,other,,Orange,Tier III,2023-01-23-dcd-orange-gos-solar-plant-commissioned-grand-bassam
+CIV,MainOne data centres,MainOne,other,,"Equinix (MainOne, an Equinix company)",,2022-04-05-equinix-closes-mainone-acquisition-us320m
+CIV,"GOS (Groupement Orange Services) data center, Grand Bassam",GOS,other,,Orange,Orange's Africa data center network is stated to hold Uptime Institute Tier 3 design certification; not stated for the GOS itself,2022-01-17-orange-engie-gos-data-center-solar-grand-bassam
+CIV,"MainOne data centre, Abidjan",MainOne data centre in Abidjan,datacentre,,MainOne Cable Company,Tier III-compliant (operator statement),2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,VITIB Data Center,Data Center VITIB,datacentre,,VITIB S.A.,,2016-02-01-zf-vitib-cote-ivoire-pdf
+CIV,Orange data center beside VITIB (under construction),,other,,Orange,,2016-02-01-zf-vitib-cote-ivoire-pdf
+CIV,"MTN eCentre, Yopougon",eCentre,other,Flexenclosure,MTN Cote d'Ivoire,,2014-09-25-mtn-cote-divoire-construit-un-deuxieme-ecenter-derniere-generation
+CIV,"MTN second eCentre, Bingerville",eCentre,other,Flexenclosure,MTN Cote d'Ivoire,,2014-09-25-mtn-cote-divoire-construit-un-deuxieme-ecenter-derniere-generation
+CIV,MTN Yopougon eCentre,Data Center Nouvelle Generation,datacentre,Flexenclosure eCentre,MTN Cote d'Ivoire,,2014-06-06-mtn-inaugure-le-premier-data-center-nouvelle-generation-de-cote-divoire-abidjan
+CIV,MTN Technology Center data center (Zone 4),,other,,MTN Cote d'Ivoire,,2014-06-06-mtn-inaugure-le-premier-data-center-nouvelle-generation-de-cote-divoire-abidjan
+CIV,MTN Cocody Riviera data centre (planned),,other,,MTN Cote d'Ivoire,,2014-06-06-mtn-inaugure-le-premier-data-center-nouvelle-generation-de-cote-divoire-abidjan
+CIV,VITIB data center,Data Center,datacentre,,VITIB (donated by MTN),,2011-12-24-developpement-du-vitib-mtn-offre-un-data-center-de-275-millions-de-fcfa-abidjan
+CIV,Government data centre (announced),,other,,Government of Cote d'Ivoire,,2011-12-24-developpement-du-vitib-mtn-offre-un-data-center-de-275-millions-de-fcfa-abidjan
+CIV,VITIB data center,Datacenter,datacentre,,VITIB (donated by MTN),,2011-12-17-economie-numerique-mtn-soutient-la-politique-du-gouvernement-un-dispositif-techn
+CIV,"INP-HB data centre, Yamoussoukro",data center,other,,public administration,,2026-09-17-civ-ivoirematin-data-center-inp-hb-yamoussoukro-administration-electronique
+CIV,"State-owned data centre (Cybastion, planned 2027)",,other,,Government of Cote d'Ivoire,,2026-09-09-dcd-ivory-coast-state-owned-data-center-2027
+CIV,Raxio CIV1,Raxio CIV1,datacentre,,Raxio Group,,2026-08-25-raxio-civ1-data-centre-cote-divoire
+CIV,Cybastion sovereign national data centre,sovereign national data center,other,,Government of Cote d'Ivoire / Cybastion,,2026-07-17-us-starlink-approval-170m-data-centre-garcia-techafricanews
+CIV,Raxio CIV1,Raxio CIV1,datacentre,,Raxio Group,,2026-07-14 Raxio raises data centre funding
+CIV,ST Digital,ST Digital,datacentre,,ST Digital,,2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech
+CIV,Cybastion sovereign national data centre,sovereign national data centre,other,,Government of Cote d'Ivoire / Cybastion,,2026-01-01-exim-bank-usa-civ-2026-cybastion-sovereign-data-centre-bw15
+CIV,MainOne,MainOne,datacentre,,MainOne,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
+CIV,Raxio,Raxio,datacentre,,Raxio,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
+CIV,Orange,Orange,datacentre,,Orange,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
+CIV,ST Digital,ST Digital,datacentre,,ST Digital,,2026-01-01-xalam-cote-divoire-data-center-market-briefing
+CIV,"Data Center national (DCN), Grand-Bassam",Data Center national,other,,State; contractor Cybastion,,2025-12-09-aip-data-center-national-grand-bassam
+CIV,ST Digital Grand-Bassam data centre,"ST Digital data centre, VITIB II",datacentre,,ST Digital,Tier III,2025-10-03 ST Digital opens eco-responsible Tier III data centre in Cote d'Ivoire (Grand-Bassam)
+CIV,ST Digital Grand-Bassam data centre,"datacenter ST Digital, VITIB",datacentre,,ST Digital,Tier 3 (TIA-942),2025-10-03-cote-divoire-un-nouveau-datacenter-construit-en-huit-mois-un-exploit-mondial-aff
+CIV,Data Center national,Datacenter national,other,,State/ANSUT; Cybastion,,2025-10-03-cote-divoire-un-nouveau-datacenter-construit-en-huit-mois-un-exploit-mondial-aff
+CIV,ST Digital Grand-Bassam data centre,ST Digital data centre,datacentre,OVHcloud partnership,ST Digital,Tier III,2025-10-03-st-digital-sovereign-data-centre-itweb
+CIV,"ST Digital data center, Grand-Bassam (VITIB)",data center de Grand-Bassam,datacentre,,ST Digital,Tier III claimed,2025-10-01-st-digital-data-center-grand-bassam-fratmat
+CIV,National data center (Cybastion/EXIM),national data center,other,,Government of Cote d'Ivoire,,2025-09-22-us-exim-100m-guarantee-digital-transformation-techafricanews
+CIV,National data center (Cybastion/EXIM),national data center,other,,Government of Cote d'Ivoire,,2025-08-25-us-exim-66m-data-center-guarantee-techafricanews
+CIV,National Data Center (Cybastion/EXIM),national data centre,other,,Ministry of Digital Transition and Digitalization,,2026-09-07-cote-divoire-us-exim-cybastion-data-centre-guarantee
+CIV,Digital City sovereign data center,Digital City,other,,Government of Cote d'Ivoire / Cybastion,,2025-07-21-digital-city-sovereign-data-center-cybastion-techafricanews
+CIV,Côte d'Ivoire national data centre,Centre national de données,other,,Ministère de la Transition numérique et de la Digitalisation,,2025-01-01-exim-bank-usa-civ-2025-cote-divoire-national-data-centre-bw05
+CIV,ST Digital Grand-Bassam data center,,other,,ST Digital,,2024-11-29-dcd-st-digital-construction-grand-bassam
+CIV,"MainOne data center, Cote d'Ivoire",,datacentre,,MainOne (Equinix),,2024-11-29-dcd-st-digital-construction-grand-bassam
+CIV,Raxio CIV1,,datacentre,,Raxio,,2024-11-29-dcd-st-digital-construction-grand-bassam
+CIV,Raxio CIV1,Raxio Côte d'Ivoire,datacentre,,Raxio Group,,2024-09-24-raxio-civ1-abidjan-launch-press-release
+CIV,CIVIX,CIVIX,other,,,,2024-09-24-raxio-civ1-abidjan-launch-press-release
+CIV,ST Digital Côte d'Ivoire data centre,,other,,ST Digital,,2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CIV,Data Center National,Data Center National,other,,Government of Côte d'Ivoire (Cybastion),,2024-02-16-cote-divoire-lancement-construction-data-center-national
+CIV,Data Center National,Data Center National,other,,Government of Côte d'Ivoire (Cybastion),Tier III (planned),2023-12-14-ansut-data-center-national-premiere-pierre-marcory
+CIV,Raxio Abidjan,Raxio Côte d'Ivoire,other,,Raxio Group,,2023-10-25-raxio-46m-equity-roha-meridiam-ceo-succession
+CIV,Raxio Abidjan,Raxio Côte d'Ivoire,other,,Raxio Group,,2023-04-17-raxio-170m-sustainability-linked-debt-facility
+CIV,Raxio Abidjan,Raxio Côte d'Ivoire,other,,Raxio Group,,2021-08-24-dcd-raxio-appoints-master-power-technologies-builder
+CIV,Data center mutualisé de secours du ministère du Budget (Yamoussoukro),CIV,other,Huawei technology,Ministère du Budget et du Portefeuille de l’Etat,government directorates only,2021-07-27-securisation-des-donnees-le-data-center-mutualise-de-secours-du-ministere-du-bud
+CIV,Projet E-Gouvernement data center (Grand-Bassam),CIV,other,,Government of Côte d’Ivoire (Huawei-financed),government,2012-11-12-huawei-lance-un-data-center-en-cote-d-ivoire-aitn
+CIV,Raxio (Côte d’Ivoire),CIV,,,Raxio,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+CIV,Raxio Data Centres,Raxio Data Centres,datacentre,,Raxio Group,,2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility
+CIV,Raxio Data Centres,Raxio Data Centres,datacentre,,Raxio Group,,2023-10-25-roha-raxio-group-2023-raxio-46m-equity
+CIV,Raxio Data Centres,Raxio Data Centres,datacentre,,Raxio Group,,2023-01-01-pidg-reg-raxio-2023-raxio-data-centres---eaif-debt
+CIV,Raxio Data Centres,Raxio Data Centres,other,,Raxio,,2023-01-01-proparco-reg-raxio-2023-raxio-data-centres-pan-african-colocation-data
+CIV,Raxio Data Centres,Raxio Data Centres,other,,Raxio Group / Meridiam,,2022-09-23-miga-raxio-group-2022-political-risk-guarantee
+CIV,PAIX Data Centres CIV,,other,,PAIX Data Centres,,2022-01-01-africa50-reg-paix-data-centers-2022-paix-data-centers-series-b-equity
+CIV,AB1 Abidjan,,datacentre,,Equinix (ex-MainOne),,2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa
+CIV,ST Digital Grand-Bassam data centre,,datacentre,OVHcloud,ST Digital,,2026-08-10-cote-divoire-cybastion-170m-digital-infrastructure-exim
+CIV,Cybastion sovereign national data centre,,other,,Cybastion,,2026-08-10-cote-divoire-cybastion-170m-digital-infrastructure-exim
+CIV,Cybastion sovereign national data centre,,other,,Cybastion,,2026-07-16-civ-starlink-approval-us-agreements
+CIV,ST DIGITAL data centres,,datacentre,,ST DIGITAL AFRICA,,2026-03-03-st-digital-iso-27001-certification
+CIV,Ivorian sovereign/national data centres,,other,,Government of Cote d'Ivoire,,2025-07-02-techcabal-tech-ministers-sovereign-data
+CIV,Raxio Grand Bassam data centre,,datacentre,,Raxio Cote d'Ivoire,,2025-06-30-raxio-artci-civix-ixp-mou-techafricanews
+CIV,Raxio CIV1,,datacentre,,Raxio Group,,2025-06-17-raxio-data-sovereignty-mou-connectingafrica
+CIV,"Groupement Orange Services data centre, Grand Bassam",,datacentre,,Groupement Orange Services S.A (Orange MEA),,2025-03-24-door-cloud-souverain-africain-linfodrome
+CIV,Door sovereign cloud,Door,other,Kubernetes,Cloudoor,,2025-03-24-door-cloud-souverain-africain-linfodrome
+CIV,Raxio Abidjan,Raxio Côte d'Ivoire,other,,Raxio Group,"planned Tier III carrier-neutral colocation, under construction at VITIB, ready for service H2 2023",2022-11-07-raxio-group-breaks-ground-abidjan
+CIV,Ministry of National Education data centre,Digital Education Project data center,other,Huawei,Ministry of National Education and Literacy,"state use only, loan-financed",2018-01-01-boc-civ-001-bank-of-china-provides-cfa-532
+CIV,Raxio Group data centres,Raxio,other,,Raxio Group,"described as Tier III-certified, carrier-neutral; World Bank $100 million backing across several countries including Côte d'Ivoire",2026-07-24-lancet-africa-ai-health-infrastructure
+CIV,ST Digital,,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
+CIV,Axian / Stellarix,,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+CIV,Raxio Côte d'Ivoire data centre,Raxio,datacentre,,Raxio Group,"Tier III, carrier-neutral",2026-07-15 Raxio data-centre capital tops $380m on investor boost
+CIV,GPU Cloud Africa,GPU Cloud Africa,other,NVIDIA GPU servers in Abidjan and Douala,ST Digital,,2025-02-12-st-digital-gpu-cloud-africa-itweb
+CIV,"MTN CI data centres (Marcory, Bingerville, Yopougon, Yamoussoukro)",Datacenter MTN CI,datacentre,,MTN Côte d'Ivoire,Tier 3-type (operator statement),2024-10-25-mtn-ci-catalogue-interconnexion-2024
+CIV,"Raxio Abidjan data centre (Grand-Bassam, VITIB free zone)",Raxio Data Centre SARL,other,,Raxio,,2022-10-01-raxio-cote-divoire-grand-bassam-esia-executive-summary

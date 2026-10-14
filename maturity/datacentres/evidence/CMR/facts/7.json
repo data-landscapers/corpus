@@ -1,0 +1,42 @@
+{
+ "slug": "2017-06-09-orange-opens-data-center-in-cameroon",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DCD reports Orange opened a carrier-neutral data centre in Douala (1,000 m2, 99.98% uptime claimed); the article gives no opening date, so its published date 2017-06-09 is used.",
+   "as_of": "2017-06-09",
+   "date_precision": "day",
+   "system": "Orange Cameroun Data Center, Douala",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Cameroun Data Center, Douala",
+   "country_label": "Orange data center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  },
+  {
+   "system": "MTN data center, Cameroon",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Campost data center",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Campost",
+   "tiers": ""
+  }
+ ],
+ "note": "Orange fact only; MTN and Campost facilities are named as operators without saying they sell to others, and no tier is stated."
+}

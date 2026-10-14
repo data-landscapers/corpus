@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kinshasa Tier 3 data centre (UIL)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "United Investment LMT / government",
+   "tiers": "Tier 3 (planned)"
+  }
+ ],
+ "note": "Tier 3 Kinshasa data centre is planned under an October 2025 deal, not in service."
+}

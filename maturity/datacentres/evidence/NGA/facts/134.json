@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-20-thisday-kashifu-inuwa-national-sovereign-cloud-nigeria",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cassava",
+   "country_label": "Cassava",
+   "class": "",
+   "platform": "",
+   "owner": "Cassava",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone",
+   "country_label": "Galaxy Backbone",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: says some hyperscalers already have a region or zone in Nigeria without naming provider or region or stating it is live; policy and planned hyperscale centres only."
+}

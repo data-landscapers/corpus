@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Tier 3/4 data centres (planned)",
+      "country_label": "data centers nationaux",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Tanzania",
+      "tiers": "four Tier 3 and one Tier 4 planned"
+    }
+  ],
+  "note": "Only plans and investment pitch for state data centres; no in-service data centre for hire or cloud region stated."
+}

@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,"National Data Center (Niamey, DTS/FO project)",Data Center national,other,,Government of Niger,Tier III (planned),2026-06-18-anp-niger-hub-regional-telecommunications
+NER,"National Data Center (Niamey, DTS/FO project)",Data Center national,other,,Government of Niger,Tier III (planned),2026-06-08-sofrecom-etude-faisabilite-data-center-national
+NER,"National Data Center (Niamey, DTS/FO project)",Data Center national,other,,Government of Niger,Tier III (planned),2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"National Data Center (Niamey, DTS/FO project)",Data Center national,other,,Government of Niger,Tier III (planned),2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"National Data Center (Niamey, DTS/FO project)",Data Center national,other,,Government of Niger,Tier III (planned),2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,PK5 Niamey Tier III data centre,"Data Center de niveau 3 (PK5, Niamey)",other,,"State of Niger, AfDB-financed, built by CGPS-SA and LORYNE",state,2025-06-19-anp-niger-chad-ministers-pk5-data-centre-site-visit
+NER,Tier III national data centre (Trans-Sahara Backbone project),national data centre,other,,State of Niger,state,2025-11-20-afdb-trans-sahara-backbone-niger-fibre-handover
+NER,"Infrastructure Data Center & Réseau (Lot 1, ANSI/PVI tender 003/2026)",Niger,other,,ANSI,,2026-02-04-nigermarches-ansi-avis-appel-offres-data-center-pvi
+NER,Data Center national,Niger national data centre,other,,"State (Ministry of Communication, Posts and Digital Economy), AfDB-financed",,2025-03-04-minister-raliou-national-data-center-interview-lesahel

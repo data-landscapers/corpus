@@ -1,0 +1,15 @@
+{
+ "slug": "2023-07-12-dcmag-lome-data-center-cherche-gestionnaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN)",
+   "tiers": ""
+  }
+ ],
+ "note": "States the state-owned Lomé Data Center is seeking an investor/manager; does not itself state it is operating or taking customers, and no tier is stated."
+}

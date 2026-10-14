@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (100% government-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "Calls the DDDC 'newly developed' ahead of its launch; no opening, tier or customer statement, so no fact."
+}

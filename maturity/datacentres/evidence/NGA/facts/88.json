@@ -1,0 +1,36 @@
+{
+ "slug": "2015-04-21-ncw-mtn-nigeria-ojota-tier-iii-design-certification",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "MTN Nigeria's data centre at Ojota, Lagos, sells colocation, managed hosting and cloud solutions to enterprise customers (operator CEO quoted); date is the article date, none given for the event.",
+   "as_of": "2015-04-21",
+   "date_precision": "day",
+   "system": "MTN Data Centre, Ojota",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "MTN Nigeria's Ojota data centre was awarded Uptime Institute Tier III Certification for design, reported 2015-04-21.",
+   "as_of": "2015-04-21",
+   "date_precision": "day",
+   "system": "MTN Data Centre, Ojota",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Data Centre, Ojota",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": "Tier III design (Uptime Institute)"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-29-galaxy-backbone-nssc-dc1-abuja-tier-iii-tccf",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Galaxy Backbone announces its NSSC DC1 Phase 1 in Abuja was awarded Uptime Institute Tier III Certification of Constructed Facility; GBB offers cloud and colocation to public and private sector clients (release undated, page date 2025-01-29 used).",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "National Shared Services Centre Data Center 1 (NSSC DC1) Phase 1, Abuja",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The same release refers to Galaxy Backbone's existing Tier-IV data centre holding a Tier-IV Certification of Constructed Facility; the facility is not named and no date is given (page date 2025-01-29 used).",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone existing Tier-IV data centre (unnamed)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSSC DC1 Phase 1, Abuja",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

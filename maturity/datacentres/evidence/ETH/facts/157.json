@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-raxio-380-million-capital-tanzania-expansion",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Data centres dataset: Raxio Ethiopia ET1 (Raxio Group), colocation/carrier-neutral, in service, Tier III or above certified by the Uptime Institute or TIA-942; this document names it (published 2026-07-13).",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Raxio Ethiopia ET1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype",
+  "facts": [],
+  "systems": [
+    {
+      "system": "BCN Neutral AI factory (Zadara-powered)",
+      "country_label": "",
+      "class": "other",
+      "platform": "Zadara",
+      "owner": "BCN",
+      "tiers": ""
+    },
+    {
+      "system": "Cassava AI factory (planned, Nigeria)",
+      "country_label": "",
+      "class": "other",
+      "platform": "Nvidia",
+      "owner": "Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Only planned or announced Nigerian facilities (BCN neutral AI factory, Cassava expansion); no in-service fact."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-27-cniapge-plan-de-accion-2024-informatizacion-administracion-publica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIAPGE centro de datos",
+   "country_label": "CNIAPGE centro de datos",
+   "class": "other",
+   "platform": "",
+   "owner": "CNIAPGE",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre building mentioned as a plan objective only; no for-hire fact."
+}

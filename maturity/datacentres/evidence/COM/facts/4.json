@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center de l'Administration Publique",
+   "country_label": "Data Center de l'Administration Publique",
+   "class": "other",
+   "platform": "",
+   "owner": "ANADEN and Comores Câble",
+   "tiers": ""
+  }
+ ],
+ "note": "States inauguration on 19 May 2025 but only of public-data hosting for the state; no outside customers stated, so no fact."
+}

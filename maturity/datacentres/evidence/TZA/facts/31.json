@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio Data Centres",
+      "country_label": "Raxio",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group (Roha, Meridiam)",
+      "tiers": "Tier III (operator's claim, platform-wide, not TZA-specific)"
+    }
+  ],
+  "note": "Pan-African release names Tanzania only in the footprint list; Tier III claim is platform-wide, no TZA facility named or stated in service; four more centres only 'due'."
+}

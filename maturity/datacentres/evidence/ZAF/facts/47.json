@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Techtrends states South Africa hosts cloud regions for Amazon Web Services, Google Cloud, Microsoft Azure, Oracle, Alibaba and Huawei; no dates given, so as_of is the article date (2026-06-23).",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Public cloud regions in South Africa (AWS, Google Cloud, Azure, Oracle, Alibaba, Huawei)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres (Cassava Technologies) took a 6 MW expansion of its Cape Town CPT1 facility live in July 2024, doubling the site's capacity with 1,000 racks of white space.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Africa Data Centres CPT1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "CPT1, Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres CPT2",
+   "country_label": "CPT2, Cape Town (20 MW, under construction)",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco JB7",
+   "country_label": "JB7 (40 MW, groundbreaking Nov 2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-05-burkina-faso-izai-toe-double-anchoring-of-national-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Public administration datacentres (two)",
+   "country_label": "datacenters de l'administration publique",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "state"
+  },
+  {
+   "system": "National datacentre",
+   "country_label": "datacenter national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions two public-administration datacentres commissioned and a national datacentre planned for 2028; state use, no for-hire statement."
+}

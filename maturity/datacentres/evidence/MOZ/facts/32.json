@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ifc-reg-014-raxio-data-centres-ifc-debt-facility",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "IFC's description of the 2025 Raxio financing says Raxio operates carrier-neutral colocation data centres in Mozambique (among six other countries); no facility name or address given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Mozambique data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The same description says Raxio operates Tier III data centres in Mozambique, as stated by the operator's press release; no certification body is named and the facility is not named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Raxio Mozambique data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Mozambique data centre",
+   "country_label": "Raxio Mozambique data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

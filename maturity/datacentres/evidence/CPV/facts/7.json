@@ -1,0 +1,11 @@
+{
+  "slug": "2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Huawei's case study says NOSi's national data centre, delivered in 2014 in phase one, saw rapid growth of service leasing to third parties and was expanded in phase two to 1,000 VMs; NOSi also provided data centre hosting services for Equatorial Guinea, Mozambique, Burkina Faso, Guinea-Bissau and Sao Tome and Principe; the page gives no date beyond the 2018-07-05 published date, which is used.", "as_of": "2018-07-05", "date_precision": "day", "system": "National Data Center (NOSi)", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "datacentre", "platform": "Huawei eGovernment Cloud, FusionCloud", "owner": "NOSi", "tiers": ""},
+    {"system": "eGovernment network (1,142 organisations)", "country_label": "eGovernment network", "class": "other", "platform": "Huawei routers and switches", "owner": "NOSi", "tiers": ""}
+  ],
+  "note": "Vendor case study; no Tier rating stated; capacity figures (1,000 VMs, 1,000 TB) are not facts of their own."
+}

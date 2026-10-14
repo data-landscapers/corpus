@@ -1,0 +1,8 @@
+iso3,n,aspect,value,action,why
+CIV,041,centre,tier3,revalued: service,"Tier 3-type characteristics listed by the operator, not a statement that the facility is Tier III."
+KEN,054,centre,tier3,removed,"The source says the expansion, not the existing facility, is to serve outside customers; sale today is not stated."
+KEN,003,cloud,region,removed,"The source calls Nobus's Nairobi site an availability zone, not a region."
+MWI,005,centre,tier3,removed,"ESCOM's own data centre; the source does not say it rents space or computing to others."
+ZMB,004,centre,tier3,removed,"The source calls it a government data centre and does not say it sells to outside customers."
+EGY,023,cloud,region,removed,"An opinion piece naming no provider or region; Huawei Cloud's Cairo region is held from its own announcement."
+NGA,094,cloud,none,removed,"An opinion piece; Digital Realty Nigeria's dated statements say the same."

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-minict-rwanda-ict-sector-strategic-plan-2024-2029",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The ministry's ICT Sector Strategic Plan lists, among the initiatives that improved local hosting, the introduction of the TransAfrica Communications (TrAC) data center in Rwanda; the document gives no opening date, so as_of is its published date 2025-01-01.", "as_of": "2025-01-01", "date_precision": "day", "system": "TransAfrica Communications (TrAC) data center", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The plan states that Liquid Telecom launched a new data center in Rwanda, listed among the local hosting improvements; no date is given, so as_of is the document's published date 2025-01-01.", "as_of": "2025-01-01", "date_precision": "day", "system": "Liquid Telecom data center", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The plan states that MTN launched a new data center in Rwanda, listed among the local hosting improvements; no date is given, so as_of is the document's published date 2025-01-01.", "as_of": "2025-01-01", "date_precision": "day", "system": "MTN data center", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The plan states that Business Services Company (BSC) launched a new data center in Rwanda, listed among the local hosting improvements; no date is given, so as_of is the document's published date 2025-01-01.", "as_of": "2025-01-01", "date_precision": "day", "system": "Business Services Company (BSC) data center", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "National Data Center (NDC)", "country_label": "National Data Center", "class": "other", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": "Plan states no tier ratings, no cloud region, and no absence; hosting localisation 14.9% of 4,660 websites and applications, data center and cloud directives issued 2023 and a 50% hosting price cut at the NDC are context, not facts."
+}

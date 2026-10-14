@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-16 Nigeria - Submarine Networks",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "OADC Lagos (LOS1), a carrier-neutral data centre owned by WIOCC's Open Access Data Centres, is operating in Lagos with up to 20MW load capacity and 3,200 racks; Equiano landed there in April 2022 (Submarine Networks).",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "OADC Lagos LOS1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "MDXi Lagos, a carrier-neutral data centre operated by MDXi (MainOne, an Equinix company), is built and operating in Lagos and hosts the IXPN exchange; the page is dated 2026-07-16 and gives no opening date.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MDXi Lagos",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Rack Centre LGS 1 in Lagos, up to 1.5MW load capacity and 1,094 sqm of rack space, is built and in use; no opening date given, page dated 2026-07-16.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Rack Centre LGS 1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Rack Centre LGS 2 in Lagos, up to 12MW load capacity and 3,240 sqm of rack space, is built and offering rack space; no opening date given, page dated 2026-07-16.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Rack Centre LGS 2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kasi Cloud Lekki",
+   "country_label": "Kasi Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "Kasi Cloud Limited",
+   "tiers": "Tier IV (planned)"
+  }
+ ],
+ "note": "Kasi Cloud hyperscale Tier IV facility is described as under construction, expected 2024: not a fact. No tier statement for in-service centres; no cloud region."
+}

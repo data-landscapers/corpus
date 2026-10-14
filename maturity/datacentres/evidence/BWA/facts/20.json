@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Paratus Angola DC3",
+   "country_label": "Angola's first Tier IV data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional finance record; Botswana appears only as a fibre route country, no data centre statement for BWA."
+}

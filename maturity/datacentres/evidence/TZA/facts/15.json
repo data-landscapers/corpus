@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-raxio-tanzania-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Raxio TZ1",
+      "country_label": "Raxio Tanzania",
+      "class": "other",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Page says Raxio TZ1 in Dar es Salaam is set to launch in 2026 (Tier III claimed); not yet in service, so no fact."
+}

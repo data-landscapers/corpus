@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-24-cassava-reg-nvidia-ai-factory-cassava-nvidia-ai-factory-africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cassava AI factory, South Africa hub",
+      "country_label": "Africa Data Centres South Africa",
+      "class": "other",
+      "platform": "NVIDIA",
+      "owner": "Cassava Technologies / Africa Data Centres",
+      "tiers": ""
+    }
+  ],
+  "note": "AI GPU hub reported live Nov 2025 in Cassava's South African data centres, but no facility named and no statement that space or computing is rented out; no fact."
+}

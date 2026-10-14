@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-04-africa24tv-mali-data-center-bamako",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre (Bamako)",
+   "country_label": "Centre de données national / National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mali (Ministry of Communication, Digital Economy and Administrative Modernization)",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centre, locally financed and run, for state data; no hire to outside customers stated; body misdates inauguration as 2023"
+}

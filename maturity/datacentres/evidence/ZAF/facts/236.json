@@ -1,0 +1,26 @@
+{
+  "slug": "2022-01-08-new-region-in-johannesburg-south-africa",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Oracle states its South Africa Central (Johannesburg) region, af-johannesburg-1 (key JNB), became available on 8 January 2022, with one availability domain.",
+      "as_of": "2022-01-08",
+      "date_precision": "day",
+      "system": "Oracle Cloud South Africa Central (Johannesburg) region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Oracle Cloud South Africa Central (Johannesburg) region",
+      "country_label": "af-johannesburg-1",
+      "class": "datacentre",
+      "platform": "Oracle Cloud Infrastructure",
+      "owner": "Oracle",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

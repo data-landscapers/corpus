@@ -1,0 +1,15 @@
+{
+  "slug": "2013-09-18-itonline-vodacom-mozambique-flexenclosure-ecentre-matola",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Vodacom Mozambique Matola eCentre",
+      "country_label": "MOZ",
+      "class": "other",
+      "platform": "Flexenclosure eCentre",
+      "owner": "Vodacom Mozambique",
+      "tiers": ""
+    }
+  ],
+  "note": "Ordered 2013 for Vodacom's own primary core network; owner-only and not yet built, so no fact."
+}

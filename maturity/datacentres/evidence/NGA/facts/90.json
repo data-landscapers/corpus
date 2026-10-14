@@ -1,0 +1,36 @@
+{
+ "slug": "2014-11-13-businessday-rack-centre-internet-solutions-collocation-ikeja",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Rack Centre's carrier-neutral data centre in Ikeja, Lagos, offers vendor-neutral colocation and was taking Internet Solutions (Dimension Data) as a colocation customer; as_of is the article date.",
+   "as_of": "2014-11-13",
+   "date_precision": "day",
+   "system": "Rack Centre, Ikeja",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Rack Centre, Ikeja, is described by its operator and by Internet Solutions as an officially Tier III certified data centre (certifying body not named); as_of is the article date.",
+   "as_of": "2014-11-13",
+   "date_precision": "day",
+   "system": "Rack Centre, Ikeja",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre, Ikeja",
+   "country_label": "NGA",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre (Jagal Group)",
+   "tiers": "Tier III certified"
+  }
+ ],
+ "note": ""
+}

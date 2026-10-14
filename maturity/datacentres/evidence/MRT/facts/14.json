@@ -1,0 +1,15 @@
+{
+ "slug": "2019-04-04-mrt-mesrstic-secteur-tic-projet-rimpki-itu-tunis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter national (planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MESRSTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "2019 slide lists a planned national datacentre and government datacentre upgrade; nothing in service for hire stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-08-president-tinubu-commissions-lagos-geographic-information-service-lagis-office-a",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ABAT-3 Data Centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Lagos State Government (LAGIS)",
+   "tiers": ""
+  }
+ ],
+ "note": "ABAT-3 hosts the state's own land records; no statement that it rents to others."
+}

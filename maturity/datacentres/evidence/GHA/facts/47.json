@@ -1,0 +1,31 @@
+{
+  "slug": "2026-05-05-ai-future-infrastructure-not-ambition-myjoy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PAIX Data Centres",
+      "country_label": "Ghana",
+      "class": "other",
+      "platform": "",
+      "owner": "PAIX",
+      "tiers": ""
+    },
+    {
+      "system": "Equinix (MainOne)",
+      "country_label": "Ghana",
+      "class": "other",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Realty Ghana",
+      "country_label": "Ghana",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": "Names operators showing interest in Ghana but states no facility in service, no tier and no cloud region."
+}

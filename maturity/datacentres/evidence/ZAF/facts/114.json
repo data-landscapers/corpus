@@ -1,0 +1,26 @@
+{
+  "slug": "2022-01-01-equinix-zaf-johannesburg-jn1-2022-equinix-johannesburg-jn1-data-centre-us160",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Equinix announced on 2024-10-24 that its JN1 carrier-neutral colocation data centre in Germiston, Johannesburg is open, with 700 cabinets in the initial phase and customers including Liquid Intelligent Technologies, SEACOM and JINX already deployed.",
+      "as_of": "2024-10-24",
+      "date_precision": "day",
+      "system": "Equinix Johannesburg JN1",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Equinix Johannesburg JN1",
+      "country_label": "JN1",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Equinix South Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

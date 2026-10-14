@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-09-maroc-data-centers-leader-ia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nouaceur AI data centre (Naver Cloud, Nvidia, Nexus Core Systems)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Naver Cloud/Nvidia/Nexus Core Systems consortium",
+   "tiers": ""
+  },
+  {
+   "system": "Dakhla green data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Projects only planned; eight Casablanca data centres counted (Heirs, 2025) without saying they are for hire or naming them; AWS, Google Cloud partnerships are not regions."
+}

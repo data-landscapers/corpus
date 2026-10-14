@@ -1,0 +1,42 @@
+{
+  "slug": "2026-08-03-techtrends-edge-computing-africa",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Open Access Data Centres (OADC), owned by wholesale operator WIOCC, is stated to already run hyperscale and edge facilities across South Africa, the DRC and Nigeria; no Nigerian facility is named, and no date is given, so the article's publication date of 2026-08-03 is used.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Open Access Data Centres (OADC)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Open Access Data Centres (OADC)",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "WIOCC",
+      "tiers": ""
+    },
+    {
+      "system": "Airtel largest Nigerian data centre (under construction)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel",
+      "tiers": ""
+    },
+    {
+      "system": "Tetracore Atakobo Data Centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Tetracore",
+      "tiers": ""
+    }
+  ],
+  "note": "One service fact for OADC; planned Lagos 24 MW facility, Airtel build, Atakobo and the 17-centre count are not facts."
+}

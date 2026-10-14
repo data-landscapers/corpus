@@ -1,0 +1,44 @@
+{
+  "slug": "2025-12-22-zaf-ccsa-statement-latest-decisions-oadc-ntt-data-centres",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Competition Commission of South Africa states that Open Access Data Centres (OADC, WIOCC group) operates a network of data centres in Johannesburg, Durban and Cape Town providing colocation, connectivity and general services to third parties in South Africa; no opening date is given, so as_of is the statement date 2025-12-22.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "OADC data centres (Johannesburg, Durban, Cape Town)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "The Competition Commission states that NTT Data South Africa operates seven data centre facilities (Bloemfontein, Cape Town, East London, Bryanston and Parklands in Johannesburg, Gqeberha, Umhlanga) providing colocation including racks and power, and approved their acquisition by OADC with conditions on 18 December 2025; no opening date is given, so as_of is the statement date.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "NTT Data South Africa data centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OADC data centres",
+      "country_label": "Open Access Data Centres",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "OADC / WIOCC",
+      "tiers": ""
+    },
+    {
+      "system": "NTT Data South Africa data centres",
+      "country_label": "NTT Data SA",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "NTT Data South Africa",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

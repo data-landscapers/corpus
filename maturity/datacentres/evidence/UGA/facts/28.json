@@ -1,0 +1,15 @@
+{
+  "slug": "2019-07-11-museveni-launches-shs43b-data-centre-in-jinja",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National cloud data centre (NITA-U), Kampala and Jinja",
+      "country_label": "National cloud data centre (NITA-U), Kampala and Jinja",
+      "class": "other",
+      "platform": "",
+      "owner": "NITA-U",
+      "tiers": "Tier 3 features stated"
+    }
+  ],
+  "note": "Government data centre hosting only government applications; not for hire to outside customers, so no fact."
+}

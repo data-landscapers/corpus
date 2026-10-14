@@ -1,0 +1,9 @@
+{
+  "slug": "2022-03-07-worldbank-pad4661-car-public-sector-digital-governance",
+  "facts": [],
+  "systems": [
+    {"system": "MFB government data centre", "country_label": "Ministry of Finance and Budget data centre", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "under construction; to host internal PFM systems only"},
+    {"system": "MDEPT government data centre", "country_label": "Ministry of Digital Economy, Posts and Telecommunications data centre", "class": "other", "platform": "", "owner": "Ministry of Digital Economy, Posts and Telecommunications", "tiers": "under construction; phase 1 Tier II, phase 2 possible Tier III subject to funding; to host public or private institutions' systems, needs co-financing"}
+  ],
+  "note": "Two government data centres are stated as under construction (2022), neither in service; no data centre for hire in service and no cloud region stated, so no fact."
+}

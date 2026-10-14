@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-mict-strategic-plan-2025-2030-data-centre-energy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "MICT",
+   "tiers": ""
+  }
+ ],
+ "note": "Excerpt only mentions a planned National Data Centre; no in-service data centre for hire."
+}

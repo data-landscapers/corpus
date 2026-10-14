@@ -1,0 +1,26 @@
+{
+  "slug": "2021-09-29-paratus-opens-new-data-centre-in-zambia",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Paratus Zambia's new carrier-neutral Lusaka data centre was due to open on 1 October 2021 (opening date per the article of 2021-09-29, after a Covid delay from July), offering colocation (dedicated, shared, caged and private suites) to local and international businesses, with 1 MW capacity.",
+      "as_of": "2021-10-01",
+      "date_precision": "day",
+      "system": "Paratus Zambia Lusaka data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Paratus Zambia Lusaka data centre",
+      "country_label": "Paratus Zambia data centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Paratus Zambia",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

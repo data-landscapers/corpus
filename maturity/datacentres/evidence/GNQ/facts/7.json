@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BCN commercial data centre (planned)",
+   "country_label": "BCN commercial data centre (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "Backbone Connectivity Network",
+   "tiers": ""
+  }
+ ],
+ "note": "Commercial data centre only expected under a signed agreement; not in service."
+}

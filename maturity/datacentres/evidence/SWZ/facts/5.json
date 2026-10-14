@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01 The National Data Centre - Royal Science and Technology Park",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "RSTP's operator page describes the National Data Centre as offering colocation, IaaS, PaaS, SaaS and remote hands, with carrier-neutral connectivity; undated, the published date 2021 is used.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre (NDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (RSTP)",
+   "tiers": ""
+  }
+ ],
+ "note": "No tier stated on this page."
+}

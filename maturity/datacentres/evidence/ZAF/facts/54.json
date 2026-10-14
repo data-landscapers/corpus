@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01 US data centre firm Equinix is investing $438 million in South Africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business Insider Africa (via Bloomberg) states Equinix opened its first South African data centre in Johannesburg in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Equinix Johannesburg data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix Johannesburg data centre",
+   "country_label": "Equinix Johannesburg data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

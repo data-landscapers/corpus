@@ -1,0 +1,42 @@
+{
+ "slug": "2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Red Fox's RFETH-MDC01 modular data centre at the ICT Park in Addis Ababa went live, with Red Fox saying it is open for business to serve customers' data centre needs; 5,733 sqm site.",
+   "as_of": "2022-09",
+   "date_precision": "month",
+   "system": "RFETH-MDC01",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RFETH-MDC01",
+   "country_label": "RFETH-MDC01",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Redfox Solutions",
+   "tiers": ""
+  },
+  {
+   "system": "Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)",
+   "country_label": "Safaricom Ethiopia ICT Park data centre (planned, Tier-III quality)",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom Ethiopia",
+   "tiers": "planned"
+  },
+  {
+   "system": "Ethio Telecom Huawei modular data centre",
+   "country_label": "Ethio Telecom Huawei modular data centre",
+   "class": "",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Safaricom facility is planned only; Ethio Telecom's May 2021 modular centre not stated as for hire."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-06-tnm-third-data-centre-volte-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TNM third data centre (planned)",
+   "country_label": "MWI",
+   "class": "other",
+   "platform": "",
+   "owner": "TNM",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a plan announced 5 March 2026 for a third TNM data centre within three months; no in-service or for-hire statement."
+}

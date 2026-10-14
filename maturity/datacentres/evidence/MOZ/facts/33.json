@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio's 25 October 2023 release names Mozambique in the operating footprint of its carrier-neutral data centres; no facility named, and Tier III is stated only for Raxio generally.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Mozambique data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Mozambique data centre",
+   "country_label": "Raxio Mozambique data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

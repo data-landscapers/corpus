@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SDN,Khartoum State data centre,مركز بيانات الدولة في ولاية الخرطوم,datacentre,"cloud computing, data protection, AI application support",Ministry of Digital Transformation and Communications,,2025-10-10-khartoum-state-data-centre-restored-and-operational
+SDN,Sudani core data centre,core data center,datacentre,,Sudani,,2026-01-07-port-sudan-digital-lifeline-cgtn
+SDN,Sudani Tier-4 data centre,Tier-4 data center,datacentre,,Sudani,Tier IV,2026-01-07-port-sudan-digital-lifeline-cgtn
+SDN,Khartoum State data centre,state data centre in Khartoum,datacentre,"cloud computing, data protection, AI application support",Ministry of Digital Transformation and Communications,,2025-10-17-khartoum-data-centre-reopening-actum
+SDN,Khartoum State data centre,مركز بيانات الدولة في ولاية الخرطوم,datacentre,"cloud computing, data security, AI application support",Ministry of Digital Transformation and Communications,,2025-10-09-sudan-khartoum-state-data-center-restored
+SDN,"Sudani data centre, Port Sudan",new data centre in Port Sudan,other,,Sudani,,2024-02-01-communications-blackout-continues-in-large-parts-of-sudan
+SDN,"Zain Sudan main database/data centre, Jabra, Khartoum",Zain's main database in Jabra,other,,Zain Sudan,,2024-02-01-communications-blackout-continues-in-large-parts-of-sudan
+SDN,Sudatel Data Center (SDC),SDC,datacentre,,Sudatel (Sudani),Tier IV stated by operator,2024-01-01-sudatel-data-center
+SDN,Taxation Chamber data centre (planned),مركز بيانات,other,,Sudan Taxation Chamber,,2026-10-07-sdn-suna-taxation-chamber-digital-transformation-undp-data-centre
+SDN,Sudatel data center,Sudatel data center,datacentre,,Sudatel,,2025-04-05-sudan-tax-chamber-core-system-projects
+SDN,Tax Authority Tower data center,Tax Authority data center,other,,Sudan Taxation Chamber,,2025-04-05-sudan-tax-chamber-core-system-projects
+SDN,"Sudatel data center, Khartoum",Sudatel data center,other,,Sudatel,,2024-09-19-sudan-internet-in-conflict-timep
+SDN,Zain Sudan Port Sudan data centre,,other,,Zain Sudan,,2024-09-19-sudan-internet-in-conflict-timep
+SDN,Sudani Port Sudan data centre,,other,,Sudani,,2024-09-19-sudan-internet-in-conflict-timep
+SDN,National Information Center government data centre,NIC data centre,other,,National Information Center,,2023-10-21-advox-sudan-conflict-impact-ict-digital-transformation
+SDN,Ministry of Higher Education data centre,,other,,Ministry of Higher Education,,2023-10-21-advox-sudan-conflict-impact-ict-digital-transformation
+SDN,Electronic Banking Services data centres,EBS,other,,Electronic Banking Services,,2023-10-21-advox-sudan-conflict-impact-ict-digital-transformation
+SDN,National Data Center,National DataCenter,other,,National Information Center,,2016-05-02-sudan-nic-wsis-forum-2016-egov-presentation
+SDN,"National Data Centre, Port Sudan",مركز البيانات القومي في بورتسودان,other,,Ministry of Digital Transformation,,2026-02-01-sudan-digital-ministry-launches-28-services-baladna
+SDN,"Zain Sudan data center, Port Sudan",,other,,Zain Sudan,,2025-08-13-samena-zain-group-h1-2025-sudan-recovery
+SDN,"Zain Sudan disaster recovery centre, Port Sudan",,other,,Zain Sudan,,2024-05-07-zain-sudan-gradually-restores-network-operations

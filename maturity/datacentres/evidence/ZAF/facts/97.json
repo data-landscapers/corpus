@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-us-dfc-zaf-2024-africa-data-centres-cpt1-bw01",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres (Cassava Technologies) expanded its operating CPT1 Cape Town facility from 5.5MW to 11.5MW of IT load, adding 1,000 racks across two colocation halls and one hyperscale hall, financed by a DFC loan of up to US$300m (dated 2024, no finer date).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Data Centres CPT1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "Africa Data Centres CPT1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

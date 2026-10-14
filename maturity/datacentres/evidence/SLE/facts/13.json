@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zoodlabs CLS MMR",
+   "country_label": "Zoodlabs CLS MMR (Freetown)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Leonecom MMR Jui",
+   "country_label": "Leonecom MMR (Jui)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Internet exchange record; meet-me rooms listed as exchange points of presence, not stated to be data centres for hire."
+}

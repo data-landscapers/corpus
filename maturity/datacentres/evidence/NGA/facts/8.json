@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-28-kasi-cloud-los1-hyperscale-flagoff",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Kasi LOS1 (Lekki, Lagos)",
+      "country_label": "Kasi LOS1 (Lekki, Lagos)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Kasi Cloud Datacenters",
+      "tiers": "TIA-942 Tier III aligned, not certified"
+    }
+  ],
+  "note": "Flag-off and commissioning of Kasi LOS1 on 2026-05-28, but it moves from construction into operational readiness and still proceeds to phased commissioning toward full commercial operations; Tier III only 'aligned', not rated. Parent may judge service."
+}

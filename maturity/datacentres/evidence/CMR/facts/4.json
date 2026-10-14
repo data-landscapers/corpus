@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-11-st-digital-dla01-douala-dc-oix-2-certification-datacenterpost",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data Center POST reports on 2024-09-11 that ST Digital's DLA01 data center in Douala, a carrier-neutral facility serving clients and housing the DOUALA-IX exchange, achieved Open-IX DC OIX-2 certification.",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "ST Digital DLA01",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Data Center POST describes ST Digital's DLA01 in Douala as the first carrier-neutral, tier 3-built data center in Central Africa (operator's own description; no Uptime or TIA-942 certification named; it holds Open-IX DC OIX-2).",
+   "as_of": "2024-09-11",
+   "date_precision": "day",
+   "system": "ST Digital DLA01",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital DLA01",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "tier 3-built"
+  },
+  {
+   "system": "DOUALA-IX",
+   "country_label": "CMR",
+   "class": "other",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

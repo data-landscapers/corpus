@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-16-pamfp-asistencia-tecnica-supervision-centro-datos-sitio-respaldo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Finance principal data centre and backup site (tendered supervision, TIA-942 specified, not built)",
+   "country_label": "Ministry of Finance principal data centre and backup site (tendered supervision, TIA-942 specified, not built)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Equatorial Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": "State data centres of the Ministry of Finance; tender for supervision only, nothing in service for outside customers."
+}

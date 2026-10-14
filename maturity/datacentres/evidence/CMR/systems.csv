@@ -1,0 +1,53 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CMR,CAMTEL Zamengoe data center,CMR,datacentre,,CAMTEL,Tier III,2026-09-07-cmr-businessincameroon-cybastion-75m
+CMR,ST Digital Douala data center,CMR,datacentre,,ST Digital,,2026-09-07-cmr-businessincameroon-cybastion-75m
+CMR,Cybastion Douala AI data center (planned),CMR,other,,Cybastion,,2026-09-07-cmr-businessincameroon-cybastion-75m
+CMR,Cybastion Douala data center (planned),CMR,other,,Cybastion,,2026-09-04-cmr-biometricupdate-cybastion-sovereignty
+CMR,Cybastion Douala AI data center (planned),CMR,other,,Cybastion,,2026-08-29-cameroon-cybastion-douala-ai-data-centre
+CMR,ST Digital DLA01,CMR,datacentre,,ST Digital,tier 3-built,2024-09-11-st-digital-dla01-douala-dc-oix-2-certification-datacenterpost
+CMR,DOUALA-IX,CMR,other,,ST Digital,,2024-09-11-st-digital-dla01-douala-dc-oix-2-certification-datacenterpost
+CMR,ST Digital data centre (Cameroon),CMR,datacentre,,ST Digital,Tier III (portfolio),2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CMR,CAMTEL data centre,CMR,datacentre,,CAMTEL,,2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CMR,Orange data centre,CMR,datacentre,,Orange,,2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries
+CMR,"Orange Cameroun Data Center, Makepe, Douala",Orange Cameroun Data Center,datacentre,,Orange Cameroun,,2017-12-10-elisabeth-medou-badang-dg-orange-cameroun-les-data-centers-un-des-prealables-de
+CMR,"Orange Cameroun Data Center, Douala",Orange data center,datacentre,,Orange,,2017-06-09-orange-opens-data-center-in-cameroon
+CMR,"MTN data center, Cameroon",,other,,MTN,,2017-06-09-orange-opens-data-center-in-cameroon
+CMR,Campost data center,,other,,Campost,,2017-06-09-orange-opens-data-center-in-cameroon
+CMR,Zamengoe Data Centre,Data Center de Zamengoe,datacentre,,CAMTEL,,2026-08-14-cameroon-camtel-zamengoe-data-centre
+CMR,Zamengoe Data Centre,Data Center de Zamengoe,datacentre,,CAMTEL,,2026-08-14-camtel-showcases-zamengoe-data-center-to-plan-international-cameroon
+CMR,Zamengoe Data Centre,Zamengoe Data Centre,datacentre,,CAMTEL,,2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica
+CMR,Data center de Zamengoe,Data center de Zamengoe,other,,CAMTEL,Tier III (stated),2026-06-12-lejour-camtel-zamengoe-datacenter-digital-sovereignty
+CMR,Douala smart-meter data centre,data centre under construction in Douala,other,,MINEE / Socadel,,2026-05-29-rollout-20000-smart-meters-ami-world-bank-wearetech
+CMR,ST Digital datacenters,ST Digital,other,,ST Digital,"three certified datacenters, certification unspecified",2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech
+CMR,ST-DIGITAL Data Center,Data Center ST-DIGITAL,datacentre,,ST Digital,,2026-04-07-camix-troisieme-pop-st-digital
+CMR,CAMPOST Data Center,Data Center de la CAMPOST,,,CAMPOST,,2026-04-07-camix-troisieme-pop-st-digital
+CMR,CAMTEL Zamengoe Data Centre,Data Centre in Zamengoe,datacentre,,CAMTEL,Tier III (stated by operator),2026-01-15-camtel-obc-baccalaureate-framework-agreement
+CMR,ST Digital,ST Digital,datacentre,,ST Digital,,2026-01-01-cameroon-data-center-market-briefing-xalam
+CMR,Camtel data centre,Camtel,datacentre,,Camtel,,2026-01-01-cameroon-data-center-market-briefing-xalam
+CMR,"SRC Datacenter (Yaounde, Douala)",Datacenter SRC,other,VMware vSphere,Societe de Recouvrement des Creances du Cameroun,state agency only,2025-12-19-armp-src-datacenter-upgrade-tender
+CMR,Camtel Data Center (Zamengoe),Camtel Data Center,datacentre,,Camtel,,2025-12-17-beac-national-director-visits-camtel-data-center-techreviewafrica
+CMR,Zamengoe Datacenter,Zamengoe Datacenter,datacentre,,Camtel,,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
+CMR,ST Digital,ST Digital,datacentre,,ST Digital (Cameroon-based),,2025-10-03 ST Digital opens eco-responsible Tier III data centre in Cote d'Ivoire (Grand-Bassam)
+CMR,ST Digital Grand-Bassam data centre (CIV),,other,,ST Digital,,2025-08-12-st-digital-sovereign-tier-iii-data-center-techafricanews
+CMR,ST Digital Douala data centre,Data Center de ST Digital,datacentre,,ST Digital,,2025-07-17-leconomie-minpostel-visits-st-digital-datacenter
+CMR,ST Digital Douala data centre,Data Center de ST Digital,datacentre,,ST Digital,,2025-07-14-minpostel-st-digital-data-center-visite
+CMR,"Technopole digital, datacenter and CSIRT/PKI platform",Datacenter (feasibility study),other,,"Ministry of Mines, Industry and Technological Development",state,2024-05-13-cmr-armp-ami-etude-datacenter-national
+CMR,Douala data centre (PRSEC smart-meter data),Douala data centre,other,,Ministry of Water and Energy (MINEE),state,2024-01-01-african-development-bank-cmr-2024-prsec-electricity-reform-bw12
+CMR,Douala data centre (PRSEC smart-meter data),Douala data centre,other,,Ministry of Water and Energy (MINEE),state,2024-01-01-world-bank-cmr-2024-prsec-electricity-reform-bw12
+CMR,Cloud & Datacenter Services,Cloud & Datacenter Services ST Digital,datacentre,Microsoft (partner),ST Digital,private customers,2021-01-28-un-datacenter-100-africain-s-implante-au-cameroun
+CMR,"Camtel Data Center, Zamengoe",Camtel Data Center,datacentre,,Camtel,,2020-07-11-camtel-s-data-center-compliant-with-modern-standards-news-upfront
+CMR,Campost e.post Data Center,Data Center de la Campost,datacentre,Huawei,Campost,,2018-04-09-cameroun-le-reveil-technologique-de-la-poste-a-travers-son-data-center-ciomag
+CMR,ZTE-funded Yaounde and Douala data centres (National Emergency Telecommunications Network),,other,ZTE,MINEPAT,,2015-01-01-zte-cmr-001-record
+CMR,Cybastion Douala data centre,"Cybastion AI-ready data center, Douala",other,,Cybastion,,2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck
+CMR,ST-DIGITAL data center (Douala),Data Center ST-DIGITAL,datacentre,,ST DIGITAL,,2026-03-16-camix-site-officiel
+CMR,CAMPOST data centre (Yaounde),Centre de donnees de la CAMPOST / DC CAMPOST,other,,CAMPOST,hosts a CAMIX node; no sale to outside customers stated,2026-03-16-camix-site-officiel
+CMR,CAMIX,CAMIX,other,,CAMIX,"Google Global Cache and Akamai cache hosted (CDN caches, not a cloud region)",2026-03-16-camix-site-officiel
+CMR,ST DIGITAL data centres (Cameroon),ST DIGITAL,datacentre,,ST DIGITAL AFRICA,Tier 3 / TIA-942 per operator,2026-03-03-st-digital-iso-27001-certification
+CMR,Zamengoe Data Center,Zamengoe Data Center,other,,CAMTEL,,2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica
+CMR,Impact Palmares sovereign data centre (Yaounde),Data Center a Yaounde,other,,Impact Palmares R&D SAS,"planned, state documents only",2025-12-08-leconomie-diplomatic-documents-impact-palmares
+CMR,CAMTEL secure data centre,centre de données sécurisé,other,,CAMTEL,Ministry of Tourism and Leisure,2025-09-18-camtel-mintoul-tourism-digital-partnership
+CMR,ENSPY datacenter,datacenter de l'ENSPY,other,,University of Yaoundé I / ENSPY,,2025-07-09-cmr-dgb-cenadi-etude-datacenters
+CMR,Cloud Store Africa,Cloud Store Africa,datacentre,,ST Digital,,2025-06-25-businessincameroon-st-digital-unctad-wir-2025
+CMR,ST Digital Tier-3 datacenter,,,,ST Digital,,"2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)"
+CMR,ST Digital Douala data centre,Cloud et Datacenter services,datacentre,,ST Digital,"SMEs, large firms, administrations",2021-01-26-le-cameroun-heberge-le-cloud-de-lafrique-douala-today
+CMR,ST Digital,,datacentre,,Anthony Same (majority owner),,2026-06-11 Can Africa supply it's own digital infrastructure

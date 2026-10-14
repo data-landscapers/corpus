@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-01 Africa's Place in the AI Sovereignty Debate",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "MTN Nigeria launched the $235 million Dabengwa Sifiso Data Centre in Lagos in July 2025, with cloud infrastructure the company claims rivals Amazon, Microsoft and Google offerings.",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The MTN Dabengwa Sifiso Data Centre in Lagos, launched July 2025, is stated to be the largest Tier III facility in West Africa (no certifier named).",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "country_label": "Lagos, Nigeria",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "MTN Nigeria (Bayobab)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

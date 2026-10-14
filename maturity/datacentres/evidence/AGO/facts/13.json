@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-16-namibia-ict-minister-visits-angolas-national-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center e Cloud do Governo (Camama, Luanda)",
+      "country_label": "Data Center Nacional / Data Center e Cloud do Governo",
+      "class": "other",
+      "platform": "",
+      "owner": "INFOSI",
+      "tiers": ""
+    }
+  ],
+  "note": "Government national data centre serving the public sector; no statement it rents to outside customers."
+}

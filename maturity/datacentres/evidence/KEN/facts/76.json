@@ -1,0 +1,36 @@
+{
+ "slug": "2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres' data sheet describes its operating carrier- and cloud-neutral Nairobi NB01 facility, offering colocation (private cages, secured racks, cross connects) with 2.7 MW of client IT load; the document gives no event date, so its published date is used.",
+   "as_of": "2021-02",
+   "date_precision": "month",
+   "system": "Africa Data Centres Nairobi NB01",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Africa Data Centres states that the three data halls of its Nairobi NB01 facility are certified as an Uptime Institute Tier III design facility (design certification); the document gives no date, so its published date is used.",
+   "as_of": "2021-02",
+   "date_precision": "month",
+   "system": "Africa Data Centres Nairobi NB01",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres Nairobi NB01",
+   "country_label": "NB01",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

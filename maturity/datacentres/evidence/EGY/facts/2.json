@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-23-egy-ahramonline-kemet-data-centre-intro-holding",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kemet data centre (Sokhna)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "INTRO Investment Holding",
+   "tiers": "planned Tier 3"
+  },
+  {
+   "system": "National data hub, Ain Sokhna",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "Kemet is planned; the Ain Sokhna national hub is state-only storage for ministries."
+}

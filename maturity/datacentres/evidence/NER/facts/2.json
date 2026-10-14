@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-08-sofrecom-etude-faisabilite-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Niamey, DTS/FO project)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Feasibility study for a planned Tier III+ national data centre: not in service."
+}

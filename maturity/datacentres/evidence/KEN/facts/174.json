@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-07-ken-government-welcomes-digital-investors-nbo2",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "The Standard reports that NBO2, a data centre platform in Nairobi operated by Digital Realty (the rebranded icolo), was launched at an event with the ICT Principal Secretary; the article's own date for the launch (\"Monday, August 7, 2026\") conflicts with its 2026-09-07 publication date, so the month of publication is used.",
+     "as_of": "2026-09", "date_precision": "month", "system": "NBO2", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "NBO2", "country_label": "NBO2", "class": "datacentre", "platform": "", "owner": "Digital Realty (formerly icolo)", "tiers": ""}
+  ],
+  "note": "Launch of NBO2 recorded as service; no Tier or cloud-region statement; 17 data centres and 200 MW figures are continental, not Kenya."
+}

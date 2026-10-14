@@ -1,0 +1,26 @@
+{
+  "slug": "2021-01-01-ifc-zaf-001-liquid-telecom-south-africa-term-loan",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "IFC's project record (2021, no event date, so the published year is used) states that Liquid Telecommunications South Africa has Johannesburg-based data centres serving as regional hubs for cloud, colocation and IP transit services.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Liquid Telecommunications South Africa Johannesburg data centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Liquid Telecommunications South Africa Johannesburg data centres",
+      "country_label": "Liquid Johannesburg data centres",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Liquid Telecommunications South Africa (Pty) Ltd",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

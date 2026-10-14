@@ -1,0 +1,26 @@
+{
+ "slug": "2022-02-16-africa50-paix-data-centres-series-b-completion",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "PAIX Data Centres, a carrier-neutral colocation provider, states it currently operates a data centre in Nairobi, Kenya (and one in Accra, Ghana); stated 2022-02-16, the release gives no opening date.",
+   "as_of": "2022-02-16",
+   "date_precision": "day",
+   "system": "PAIX Nairobi data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Nairobi data centre",
+   "country_label": "PAIX Nairobi data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Ghana facility is not a fact for KEN."
+}

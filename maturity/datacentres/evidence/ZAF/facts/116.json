@@ -1,0 +1,34 @@
+{
+ "slug": "2021-10-07-teraco-completes-cape-town-hyperscale-data-centre-expansion",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco, a vendor-neutral data centre provider, announced on 7 October 2021 that Phase 1 of its CT2 hyperscale colocation data centre in Brackenfell, Cape Town, was complete (8,000 m2 of data halls, 18 MW critical load).",
+   "as_of": "2021-10-07",
+   "date_precision": "day",
+   "system": "Teraco CT2 Brackenfell",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco CT2 Brackenfell",
+   "country_label": "Teraco CT2 Brackenfell",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco CT1 Cape Town",
+   "country_label": "Teraco CT1 Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

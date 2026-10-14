@@ -1,0 +1,26 @@
+{
+ "slug": "2020-01-01-dfc-reg-africa-data-centres-2020-africa-data-centres-dfc-300m-data",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DFC's loan to Africa Data Centres finances acquisition and expansion of existing carrier-neutral data centre assets in South Africa; the record gives no facility names, and as_of is the published year.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Africa Data Centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres Holdings Limited (Cassava)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

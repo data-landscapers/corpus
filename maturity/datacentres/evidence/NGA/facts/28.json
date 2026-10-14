@@ -1,0 +1,44 @@
+{
+ "slug": "2020-08-31-rack-centre-100m-expansion-13mw-lagos",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Rack Centre, a carrier-neutral data centre operator, runs a Lagos campus and announced an expansion to 6,000 sq m of white space and 13 MW; the document gives no opening date, so the as_of is its publication date.",
+   "as_of": "2020-08-31",
+   "date_precision": "day",
+   "system": "Rack Centre (Lagos)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Rack Centre states it was the first carrier-neutral data centre in the region to achieve Uptime Institute Tier III Certification of Constructed Facility; the document gives no date for the certification, so the as_of is its publication date.",
+   "as_of": "2020-08-31",
+   "date_precision": "day",
+   "system": "Rack Centre (Lagos)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre (Lagos)",
+   "country_label": "Rack Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Actis and Jagal",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre Phase 2 expansion",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  }
+ ],
+ "note": "The 13 MW expansion is announced and not a fact; Phase 2 IFC EDGE certification is not a tier."
+}

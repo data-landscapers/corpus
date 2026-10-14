@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-28-nga-businessam-data-localisation-data-centre-investment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud Initiative",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  },
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Policy and interview remarks on data localisation; no data centre opening, tier or cloud region is stated."
+}

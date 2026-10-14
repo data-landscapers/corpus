@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iXAfrica Data Centre",
+   "country_label": "iXAfrica Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle Cloud Infrastructure region, Nairobi",
+   "country_label": "OCI Nairobi region",
+   "class": "other",
+   "platform": "Oracle Cloud Infrastructure",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle's Nairobi cloud region is announced, to launch; iXAfrica is its host partner with infrastructure in advanced stages of deployment; no live region or in-service facility stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2016-01-01-afdb-cog-001-congo---central-africa-backbone-cab",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CAB-Congo national data centre, Bacongo, Brazzaville",
+   "country_label": "national data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo (AfDB financed)",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centre under construction (~60% civil works May 2024); not in service."
+}

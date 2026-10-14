@@ -1,0 +1,36 @@
+{
+ "slug": "2022-03-03-africa-data-centres-los1-lagos-data-sheet",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres' LOS1 in Eko Atlantic City, Lagos, a carrier- and cloud-neutral colocation facility (cages, racks, cross connects), was launched in 2021 with 20.65 MW critical IT load and 10 halls.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Africa Data Centres LOS1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The operator's data sheet describes LOS1 as a 'Rated-3' concurrently maintainable data centre; this is the operator's own statement, with no Uptime Institute certification or TIA-942 rating named.",
+   "as_of": "2022-03-03",
+   "date_precision": "day",
+   "system": "Africa Data Centres LOS1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres LOS1",
+   "country_label": "Lagos Data Centre LOS1",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

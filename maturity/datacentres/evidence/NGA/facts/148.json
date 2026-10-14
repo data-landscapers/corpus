@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-28-nigeria-unveils-unified-government-service-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Galaxy Backbone data centres",
+   "country_label": "Galaxy Backbone",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone (Federal Government)",
+   "tiers": ""
+  }
+ ],
+ "note": "Galaxy Backbone says it runs Tier III and Tier IV data centres and cloud services for government; the document does not say it rents to outside customers, so no fact."
+}

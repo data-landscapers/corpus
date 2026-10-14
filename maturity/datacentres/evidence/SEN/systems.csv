@@ -1,0 +1,44 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,STELLARIX Senegal data centre,STELLARIX Senegal,datacentre,,STELLARIX (AXIAN Group),,2026-10-02-sen-techafricanews-stellarix-data-centre-expansion
+SEN,Sovereign cloud project (with Alibaba Cloud),cloud souverain,other,Alibaba Cloud,Senegalese State,,2026-08-03-afrique-data-centers-souverainete-donnees
+SEN,"STELLARIX Senegal data centre, Diamniadio",datacenter tiers 3 Stellarix,datacentre,,Stellarix Senegal (Axian),,2025-10-27-aps-stellarix-senegal-datacenter-diamniadio
+SEN,Diamniadio National Datacenter (DND),Data center national de Diamniadio,other,Huawei-built,Government of Senegal / Senegal Numerique,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
+SEN,Senegal Numerique and Senegal Connect government facilities,,other,,Senegal Numerique (ex-ADIE); Senegal Connect,,2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025
+SEN,PAIX Dakar,PAIX Dakar,other,,PAIX Data Centres,,2025-01-27-paix-dakar-data-center-connectingafrica
+SEN,PAIX Dakar (Les Mamelles),,other,,PAIX Data Centres,,2025-01-23 PAIX Data Centres breaks ground on Dakar data center
+SEN,Onix; Sonatel; Diamniadio; Free au Senegal,,,,,,2025-01-23 PAIX Data Centres breaks ground on Dakar data center
+SEN,"SENUM data centres Orana, Technopole, Diamniadio",,other,,Senegal Numerique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,N+One Dakar data centres,,other,,N+One,,2023-08-22-dcd-aiim-90m-n-one-pan-african-data-centre-platform
+SEN,N+ONE campus in Senegal,,datacentre,,N+ONE DATACENTERS,,2023-08-01-aiim-usd90m-n-one-datacenters-joint-venture
+SEN,Onix Data Centre Dakar (Almadies 2Africa CLS),,datacentre,,Onix Data Centres,,2023-05-11-onix-dakar-tier-3-almadies-cls-q4-2023-completion
+SEN,Onix Data Centre Dakar (2Africa CLS),,datacentre,,Onix Data Centres (partner La Colombe Group),,2023-02-20-dcd-onix-data-centres-dakar-2africa-cls-colocation
+SEN,"Free Senegal data center, Diamniadio",,other,,Free Senegal,,2022-05-26-dcd-avanti-free-senegal-diamniadio-hylas-4-gateway
+SEN,Diamniadio National Datacenter,,other,Huawei equipment,State IT Agency (ADIE),,2021-06-23-dcd-senegal-diamniadio-national-datacenter-state-data-migration
+SEN,Diamniadio State Data Center,Datacenter de Diamniadio,datacentre,,ADIE (Agence de l'informatique de l'Etat),state; private sector may use space,2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards
+SEN,Diamniadio National Data Center,Diamniadio National Data Center,datacentre,Huawei-built,Government of Senegal / ADIE,government,2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart
+SEN,SenConnect Diamniadio data center (Tigo),,datacentre,,SenConnect (Millicom) for Tigo,enterprise,2017-07-07-dcd-tigo-senconnect-diamniadio-tier-3-data-center
+SEN,"Planned national datacenter for civil-status, ID and passport data",,other,,Government of Senegal,state only,2026-09-30-sen-vipeoples-passports-id-cards-national-expertise
+SEN,PAIX Dakar data centre,,other,,PAIX Data Centres,"carrier-neutral colocation, ground broken January 2025, not in service",2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+SEN,Onix Datacenter Dakar (Almadies),Datacenter Onix,other,,ONIX / La Colombe group,,2023-02-17-ciomag-onix-datacenter-dakar-almadies-4-milliards-fcfa
+SEN,PAIX Dakar data centre,,other,,PAIX Data Centres,,2023-01-10-dcmag-paix-premier-datacenter-afrique-francophone-dakar
+SEN,Datacenter national de Diamniadio,Datacenter de Diamniadio,datacentre,,ADIE / Senegal Numerique SA,state administration; private sector space,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat
+SEN,"National Data Centre, Diamniadio",Datacenter national,datacentre,,ADIE (Agence de l'informatique de l'Etat),public administration; private sector,2021-06-23-sen-ciomag-datacenter-national-diamniadio-souverainete
+SEN,Sonatel Dakar data centre,Datacenter Sonatel,datacentre,,Sonatel,companies; administrations,2017-06-21-financialafrik-sonatel-dakar-datacenter-inauguration
+SEN,Millicom Diamniadio data centre (planned),,other,,Millicom (Tigo Senegal),,2016-06-27-innovation-village-millicom-data-centres-chad-senegal
+SEN,PAIX Data Centres Senegal (pipeline),,other,,PAIX Data Centres,,2022-01-01-africa50-reg-paix-data-centers-2022-paix-data-centers-series-b-equity
+SEN,State datacentre (three sites) hosting ANEC civil-status data,datacenter appartenant a l'Etat,other,,State of Senegal,,2026-09-17-etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec-a
+SEN,Planned sovereign data center (Cybastion),sovereign data center,other,Digital Fast Track,,,2026-09-17-panafricanvisions-senegal-cybastion-digital-fast-track-sovereign-data-centre
+SEN,Diamniadio National Datacenter,Datacenter National de Diamniadio,datacentre,,Senegal Numerique SA (SENUM),,2026-09-03-senum-sa-smart-senegal-datacenter-national-diamniadio
+SEN,Pikine-Guediawaye courthouse mini data center,mini data center,other,,Ministry of Justice (UNDP-supported),,2026-08-25-undp-senegal-e-justice-dakar-pilot
+SEN,Gandoul teleport technical room,salle technique Tier III,other,,Sonatel,,2026-07-10-techafricanews-sonatel-gandoul-oneweb
+SEN,Parc des technologies numeriques de Diamniadio data center,Data center certifie Tier 3 (planned),other,,,,2025-11-04-sanslimitesn-parc-des-technologies-numeriques-diamniadio
+SEN,Pikine-Guediawaye judicial mini data centre,mini centre de donnees (Tier III equipment),other,,Ministry of Justice / UN pilot,,2025-07-24-projet-pilote-e-justice-dakar
+SEN,Door (Cloudoor sovereign cloud),Door,,Kubernetes,Cloudoor with Groupement Orange Services S.A,,2025-03-24-door-cloud-souverain-africain-linfodrome
+SEN,GOS S.A Grand Bassam data centre,Datacenter GOS,other,,Groupement Orange Services S.A,,2025-03-24-door-cloud-souverain-africain-linfodrome
+SEN,"AWS Wavelength Zone in Orange data centre, Senegal",AWS Wavelength,other,AWS,Orange Middle East and Africa / AWS,,2024-05-30-orange-omea-aws-wavelength-morocco-senegal
+SEN,Sonatel Datacenter,Datacenter,other,,Sonatel,,2022-08-23-sonatel-label-et-certifications-datacenter-uptime-iso-27001
+SEN,Onix Dakar data centre,,datacentre,,"Onix (majority-owned by AIIM, Old Mutual)",Tier IV,2026-06-11 Can Africa supply it's own digital infrastructure
+SEN,Stellarix (Axian) Senegal build-out,,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+SEN,AWS Outposts (2nd-generation racks) Senegal,,other,AWS Outposts,Amazon Web Services,,2026-02-19-microsoft-136bn-ai-cross-border-data
+SEN,N+One Datacenters (Senegal campus),SEN,other,,N+One Datacenters,,2023-08-22-african-infrastructure-investment-managers-n-one-datacenters-2023-equity-record
+SEN,Sonatel Rufisque Datacenter,Rufisque Datacenter,datacentre,,Sonatel,Tier III Design and Constructed Facility (Uptime Institute),2021-07-07-sonatel-group-annual-report-2020

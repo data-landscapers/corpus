@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-13-ifc-51154-wiocc-vi-debt-environmental-social-review-summary",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: OADC Durban DUR1 (Amanzimtoti) (Open Access Data Centres (WIOCC Group)), colocation/carrier-neutral, in service; this document names it (published 2026-05-13).",
+   "as_of": "2026-05-13",
+   "date_precision": "day",
+   "system": "OADC Durban DUR1 (Amanzimtoti)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-19-armp-src-datacenter-upgrade-tender",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SRC Datacenter (Yaounde, Douala)",
+   "country_label": "Datacenter SRC",
+   "class": "other",
+   "platform": "VMware vSphere",
+   "owner": "Societe de Recouvrement des Creances du Cameroun",
+   "tiers": "state agency only"
+  }
+ ],
+ "note": "Captive data centre of a state agency, set up 2020; tender for licence upgrade; no hire."
+}

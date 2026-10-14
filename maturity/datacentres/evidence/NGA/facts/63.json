@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-airtel-nigeria-nga-2025-eko-atlantic-38mw-data-centre-bw04",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Nigeria Nxtra Eko Atlantic data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned 38MW carrier-neutral data centre, not in service (go-live later given as 2028)."
+}

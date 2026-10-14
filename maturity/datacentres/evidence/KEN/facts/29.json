@@ -1,0 +1,25 @@
+{
+ "slug": "2017-12-13-group-of-investors-starts-giving-services-at-mombasa-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "icolo.io began commercial services at its carrier-neutral Mombasa One (MBA1) data centre, operating since September 2017.",
+   "as_of": "2017-09",
+   "date_precision": "month",
+   "system": "Mombasa One (MBA1)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mombasa One (MBA1)",
+   "country_label": "Mombasa One (MBA1)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "icolo.io",
+   "tiers": ""
+  }
+ ]
+}

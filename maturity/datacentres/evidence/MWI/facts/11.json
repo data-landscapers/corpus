@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-03-dmap-implementation-status-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lilongwe National Data Centre",
+   "country_label": "Lilongwe National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi (Dept of e-Government)",
+   "tiers": ""
+  }
+ ],
+ "note": "Lilongwe National Data Centre complete, first clients migrated; state-only hosting, no stated outside customers."
+}

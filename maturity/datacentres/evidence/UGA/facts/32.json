@@ -1,0 +1,26 @@
+{
+ "slug": "2023-10-25-roha-raxio-group-2023-raxio-46m-equity",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio's 25 October 2023 release names Uganda in its operating footprint of carrier-neutral data centres; no facility named.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Raxio Data Centres Uganda",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Data Centres Uganda",
+   "country_label": "Raxio Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

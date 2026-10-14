@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-29-ago-ciena-angola-cables-monet-sacs-800g",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MONET",
+      "country_label": "",
+      "class": "other",
+      "platform": "Ciena",
+      "owner": "Angola Cables",
+      "tiers": ""
+    }
+  ],
+  "note": "Subsea cable capacity story; no data centre or cloud region in Angola stated."
+}

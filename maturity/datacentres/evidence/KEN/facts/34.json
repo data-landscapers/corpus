@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-01-xaf-techcabal-space-data-centres-8m",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Satlyt virtual AI data centres in orbit",
+      "country_label": "virtual AI data centres",
+      "class": "other",
+      "platform": "",
+      "owner": "Satlyt",
+      "tiers": ""
+    }
+  ],
+  "note": "Satellite onboard computing startup funding; no terrestrial data centre or cloud region in KEN stated."
+}

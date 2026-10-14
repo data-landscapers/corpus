@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-22 Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Microsoft Azure South Africa North (Johannesburg) (Microsoft Corporation), hyperscale, in service; this document names it (published 2024-05-22).",
+   "as_of": "2024-05-22",
+   "date_precision": "day",
+   "system": "Microsoft Azure South Africa North (Johannesburg)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

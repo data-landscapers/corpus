@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-23-liberianinvestigator-orange-liberia-250m-buchanan-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Orange Liberia Buchanan data center",
+      "country_label": "Tier III+ data center, Buchanan",
+      "class": "other",
+      "platform": "",
+      "owner": "Orange Liberia",
+      "tiers": ""
+    }
+  ],
+  "note": "Buchanan Tier III+ data centre is under construction (2025-07), not in service; no fact."
+}

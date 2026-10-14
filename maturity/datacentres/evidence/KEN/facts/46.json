@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-05-kenya-targets-ai-data-centres-expansion-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Oracle cloud region Kenya",
+   "country_label": "Oracle cloud region",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "Konza National Data Centre",
+   "country_label": "Konza National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle region only a decision to establish; ecosystem list names operators without a dated service statement."
+}

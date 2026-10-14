@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-13-cassava-pemhiwa-keep-africa-data-at-home",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cassava AI factory (Nigeria hub, planned)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Nigeria named only as a planned hub market; deployments stated are in South Africa; no in-service Nigerian facility or cloud region."
+}

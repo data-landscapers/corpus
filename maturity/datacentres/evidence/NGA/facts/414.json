@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-nsia-2024-audited-financial-statements-kasi-cloud",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Kasi Cloud LOS1 Lagos Campus (Kasi Cloud), hyperscale, in service; this document names it (published 2025-03-27).",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "Kasi Cloud LOS1 Lagos Campus",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

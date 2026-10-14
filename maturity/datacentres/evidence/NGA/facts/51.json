@@ -1,0 +1,80 @@
+{
+ "slug": "2025-12-08-data-centre-capacity-400mw-2030-verraki",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Verraki Partners says Rack Centre's LGS1 became Nigeria's first modern carrier-neutral data centre in 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "Rack Centre LGS1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Verraki Partners says MainOne's MDXi Lekki facility opened in 2015 with 600 racks.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "MainOne MDXi Lekki",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Verraki Partners describes MainOne's MDXi Lekki facility (2015) as large-format Tier-III operations; the report gives no certifying body.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "MainOne MDXi Lekki",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Verraki Partners says Africa Data Centres' 10 MW LOS1 facility came into service in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Africa Data Centres LOS1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS1",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne MDXi Lekki",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne",
+   "tiers": ""
+  },
+  {
+   "system": "Africa Data Centres LOS1",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra (Airtel) first hyperscale data centre",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Also states about 17 active and 9 upcoming facilities, with no names beyond those recorded; Nxtra expected live Q1 2026 is planned."
+}

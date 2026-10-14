@@ -1,0 +1,15 @@
+{
+  "slug": "2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MDXi Appolonia City data centre",
+      "country_label": "MDXi Accra",
+      "class": "other",
+      "platform": "",
+      "owner": "MainOne / MDXi",
+      "tiers": ""
+    }
+  ],
+  "note": "Announcement of a planned Tier III data centre due Q4 2020; not in service, so no fact. Its Lagos facility is another country."
+}

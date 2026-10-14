@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-19-iati-xm-dac-46021-2026008-benin-mef-digitalisation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center du Ministère de l'Economie et des Finances",
+      "country_label": "Data Center du Ministère de l'Economie et des Finances",
+      "class": "other",
+      "platform": "",
+      "owner": "MEF",
+      "tiers": ""
+    }
+  ],
+  "note": "Loan to modernise a finance-ministry data centre (own use); no fact."
+}

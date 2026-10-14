@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-icolo-linx-mombasa-mba2",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "iColo, a Digital Realty company, operates carrier-neutral data centres in Kenya, with over 90 networks connected at its Mombasa campuses including the MBA2 facility.",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "iColo Mombasa (MBA1, MBA2)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iColo Mombasa MBA1/MBA2",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iColo (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

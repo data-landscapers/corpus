@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government data centres (two)",
+   "country_label": "data centers de l'administration publique",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Burkina Faso (Ministry of Digital Transition)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Two government data centres serve the state only; planned national Big Data Centre is a plan."
+}

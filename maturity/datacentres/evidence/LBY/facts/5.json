@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-03-uptime-institute-km4-data-center-litc-tripoli",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KM-4 Data Center",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Libyan International Telecom Company",
+   "tiers": ""
+  }
+ ],
+ "note": "Uptime record names KM-4 Data Center, Tripoli, with an award image but no statement of tier, date or that the facility is in service; no fact."
+}

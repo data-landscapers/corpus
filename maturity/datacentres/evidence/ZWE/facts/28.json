@@ -1,0 +1,15 @@
+{
+  "slug": "2021-10-05-zwe-digital-transformation-of-zimbabwe-local-government",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre",
+      "country_label": "National Data Centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Zimbabwe",
+      "tiers": "local government (LADS VPN pilot)"
+    }
+  ],
+  "note": "National Data Centre is a state facility serving government; no statement of it renting to outside customers."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio (Côte d’Ivoire)",
+   "country_label": "CIV",
+   "class": "",
+   "platform": "",
+   "owner": "Raxio",
+   "tiers": ""
+  }
+ ],
+ "note": "Raxio facilities in CIV are described only as operational or in development, undated and unnamed; not specific enough for a service fact."
+}

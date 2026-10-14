@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01-xalam-mauritius-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 6 live commercial data centre facilities in Mauritius in 2024, with about 5 MW live critical IT load, about 60% occupancy, and about 5% of supply carrier-neutral; the facilities are not named, and Mauritius Telecom and Emtel manage 80% of capacity.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mauritius commercial data centres (about six, unnamed)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius Telecom data centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Emtel data centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Emtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

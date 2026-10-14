@@ -1,0 +1,8 @@
+{
+  "slug": "2018-11-15-huawei-cloud-south-africa-region-unveiled-africacom",
+  "facts": [],
+  "systems": [
+    {"system": "Huawei Cloud South Africa region", "country_label": "HUAWEI CLOUD South Africa region", "class": "other", "platform": "Huawei Cloud (ECS, EVS, OBS)", "owner": "Huawei", "tiers": ""}
+  ],
+  "note": "Region unveiled 14 Nov 2018 with services to start at the end of 2018; the document does not state it was live, so no cloud region fact."
+}

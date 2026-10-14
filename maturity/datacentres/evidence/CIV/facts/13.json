@@ -1,0 +1,36 @@
+{
+ "slug": "2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The MainOne data centre in Abidjan, built beside the cable landing station, was reported in service with the cable branch in December 2019, offering carrier-neutral colocation rack space (100 racks, up to 8 kW per rack).",
+   "as_of": "2019-12",
+   "date_precision": "month",
+   "system": "MainOne data centre, Abidjan",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "MainOne states its Abidjan data centre is Tier III-compliant (operator statement; no Uptime Institute or TIA-942 certification is cited), in service December 2019.",
+   "as_of": "2019-12",
+   "date_precision": "month",
+   "system": "MainOne data centre, Abidjan",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne data centre, Abidjan",
+   "country_label": "MainOne data centre in Abidjan",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "MainOne Cable Company",
+   "tiers": "Tier III-compliant (operator statement)"
+  }
+ ],
+ "note": ""
+}

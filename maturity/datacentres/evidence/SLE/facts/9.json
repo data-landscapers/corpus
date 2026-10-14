@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-07-nppa-inspects-e-procurement-data-center-ahead-of-full-system-rollout",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ministry of Finance data center",
+   "country_label": "Ministry of Finance data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre hosting the state e-GP platform only; not for hire."
+}

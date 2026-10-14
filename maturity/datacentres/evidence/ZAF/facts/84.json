@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-google-zaf-2025-google-cloud-region-johannesburg-bw03",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "South Africa's Cabinet statement of 26 March 2025 welcomed the launch of Google South Africa's R2.5-billion cloud region in Johannesburg, Google's first in Africa; no launch day is given, so the year 2025 is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "Google Cloud region, Johannesburg",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

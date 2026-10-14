@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-15 Microsoft secures land for future South Africa data centre growth",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Joburg ETC (via MyBroadband) states Microsoft's prior spending established enterprise-grade data centres in Johannesburg and Cape Town, and that capacity will grow across its existing local data centre regions; no launch date given (date is the article's published date).",
+   "as_of": "2026-04-15",
+   "date_precision": "day",
+   "system": "Microsoft cloud regions Johannesburg and Cape Town",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Microsoft cloud regions Johannesburg and Cape Town",
+   "country_label": "Microsoft cloud regions Johannesburg and Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

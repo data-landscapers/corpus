@@ -1,0 +1,26 @@
+{
+  "slug": "2024-05-21-huawei-egy-cloud-2024-cairo-cloud-region",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Huawei announced it launched the Huawei Cloud Cairo Region on 21 May 2024, its first public cloud region in North Africa, with US$300 million to be invested over five years.",
+      "as_of": "2024-05-21",
+      "date_precision": "day",
+      "system": "Huawei Cloud Cairo Region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Huawei Cloud Cairo Region",
+      "country_label": "Huawei Cloud Cairo Region",
+      "class": "datacentre",
+      "platform": "Huawei Cloud",
+      "owner": "Huawei",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

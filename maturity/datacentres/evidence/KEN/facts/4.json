@@ -1,0 +1,44 @@
+{
+  "slug": "2026-09-08-ken-digital-realty-nbo2-data-centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty (formerly iColo) opened its Nairobi Two (NBO2) colocation data centre in Karen, adding 6.4 MW to its Nairobi campus; the article gives no exact opening date, so the as_of is the publication month.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty's Nairobi One (NBO1) data centre is already operational, forming with NBO2 a Nairobi campus of over 34,000 square metres and more than 14 MW of IT power, per the article.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Digital Realty NBO1 (Nairobi One)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "country_label": "NBO2",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Realty NBO1 (Nairobi One)",
+      "country_label": "NBO1",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": "NBO2 launch date given as 'Monday, August 7, 2026' which is inconsistent; as_of set to publication month. NBO1 as_of is publication date (operational then). LEED Silver is not a tier rating."
+}

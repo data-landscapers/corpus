@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-23-dcd-afdf-grant-liberia-payments-infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Central Bank of Liberia main data center and disaster recovery sites",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Central Bank of Liberia",
+      "tiers": ""
+    }
+  ],
+  "note": "Central bank's own data centres, owner use only; grant for upgrade; no fact."
+}

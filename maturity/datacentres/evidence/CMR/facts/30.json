@@ -1,0 +1,36 @@
+{
+ "slug": "2021-01-28-un-datacenter-100-africain-s-implante-au-cameroun",
+ "facts": [
+  {
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Cloud & Datacenter Services (ST Digital)",
+   "class": "datacentre",
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ST Digital launched its Cloud & Datacenter Services in Cameroon, a data centre offering colocation, rack rental, hosting and cloud to outside customers; the article (published 2021-01-28) gives no separate launch date."
+  },
+  {
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Cloud & Datacenter Services (ST Digital)",
+   "class": "datacentre",
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "ST Digital states its Cloud & Datacenter Services facility in Cameroon is of Tier 3 design with 98.8% availability (operator's own statement; no Uptime Institute certification mentioned); article published 2021-01-28."
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud & Datacenter Services",
+   "country_label": "Cloud & Datacenter Services ST Digital",
+   "class": "datacentre",
+   "platform": "Microsoft (partner)",
+   "owner": "ST Digital",
+   "tiers": "private customers"
+  }
+ ],
+ "note": ""
+}

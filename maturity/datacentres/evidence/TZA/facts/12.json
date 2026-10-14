@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-10-communications-sector-surges-400pc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Public data centres (four, per TCRA)",
+      "country_label": "public data centres",
+      "class": "other",
+      "platform": "",
+      "owner": "Government",
+      "tiers": ""
+    }
+  ],
+  "note": "Four public data centres operational per TCRA, but nothing says they rent to outside customers; not a for-hire fact."
+}

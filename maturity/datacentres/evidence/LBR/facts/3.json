@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data center (planned)",
+      "country_label": "national data center",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Liberia",
+      "tiers": ""
+    }
+  ],
+  "note": "Only an announced plan for a national data centre; no data centre for hire or cloud region stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-03-gabon-aura-son-datacenter-national-20-mw-construit-par-lamericain-cybastion",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacenter national (Cybastion)",
+      "country_label": "Datacenter national",
+      "class": "other",
+      "platform": "",
+      "owner": "Cybastion / Gabonese state",
+      "tiers": ""
+    }
+  ],
+  "note": "National data centre under construction, state-serving; no in-service for-hire facility, no tier stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-03-afrique-data-centers-souverainete-donnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sovereign cloud project (with Alibaba Cloud)",
+   "country_label": "cloud souverain",
+   "class": "other",
+   "platform": "Alibaba Cloud",
+   "owner": "Senegalese State",
+   "tiers": ""
+  }
+ ],
+ "note": "Counts seven data centres in Senegal (mid-2025, African Energy Chamber) without saying any is for hire; sovereign cloud with Alibaba Cloud is a project, not a live region."
+}

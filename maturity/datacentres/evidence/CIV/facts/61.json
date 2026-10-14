@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-03-st-digital-iso-27001-certification",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST DIGITAL data centres",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST DIGITAL AFRICA",
+      "tiers": ""
+    }
+  ],
+  "note": "Pan-African operator blog naming CIV among seven countries and Tier 3/TIA-942 generally; no CIV facility named, so no CIV fact."
+}

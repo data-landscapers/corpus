@@ -1,0 +1,16 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "5",
+   "centre": "two",
+   "cloud": "region",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-145;ZAF-151",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-29-rollout-20000-smart-meters-ami-world-bank-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Douala smart-meter data centre",
+   "country_label": "data centre under construction in Douala",
+   "class": "other",
+   "platform": "",
+   "owner": "MINEE / Socadel",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centre under construction for meter data; not in service, not for hire."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2021-12-22-moz-tradegov-mozambique-digital-transformation",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "none",
+      "fact": "The US Commercial Service states that AWS, Heroku and Microsoft Azure offer cloud services to Mozambique but do not operate their own in-country data centers.",
+      "as_of": "2021-12-22",
+      "date_precision": "day",
+      "system": "AWS; Microsoft Azure",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Maluana Park and four other government data centres",
+      "country_label": "Maluana Park",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Mozambique",
+      "tiers": ""
+    }
+  ],
+  "note": "Government data centres serve the state only; Mocuba and Nacala planned. Cloud none recorded from the 2021 statement (document gives only its publication date)."
+}

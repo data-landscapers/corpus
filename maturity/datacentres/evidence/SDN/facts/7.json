@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-01-communications-blackout-continues-in-large-parts-of-sudan",
+  "facts": [],
+  "systems": [
+    {"system": "Sudani data centre, Port Sudan", "country_label": "new data centre in Port Sudan", "class": "other", "platform": "", "owner": "Sudani", "tiers": ""},
+    {"system": "Zain Sudan main database/data centre, Jabra, Khartoum", "country_label": "Zain's main database in Jabra", "class": "other", "platform": "", "owner": "Zain Sudan", "tiers": ""}
+  ],
+  "note": "Operators' own network data centres (Sudani's new Port Sudan one, Zain's, MTN's); the document does not say any rents space or computing to others."
+}

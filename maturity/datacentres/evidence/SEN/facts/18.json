@@ -1,0 +1,36 @@
+{
+ "slug": "2017-07-07-dcd-tigo-senconnect-diamniadio-tier-3-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DatacenterDynamics reported on 7 July 2017 that a new Tier III data center built by SenConnect for Tigo, both Millicom subsidiaries, had opened in Diamniadio, with Uptime's EMEA head calling it suited to storing enterprise data.",
+   "as_of": "2017-07-07",
+   "date_precision": "day",
+   "system": "SenConnect Diamniadio data center (Tigo)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The SenConnect/Tigo Diamniadio data center opened in July 2017 was Tier 3 Design certified by the Uptime Institute (design certification, not constructed facility).",
+   "as_of": "2017-07-07",
+   "date_precision": "day",
+   "system": "SenConnect Diamniadio data center (Tigo)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SenConnect Diamniadio data center (Tigo)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "SenConnect (Millicom) for Tigo",
+   "tiers": "enterprise"
+  }
+ ],
+ "note": ""
+}

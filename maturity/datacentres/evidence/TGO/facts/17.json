@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-03-st-digital-iso-27001-certification",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ST DIGITAL, a pan-African operator of sovereign data centres serving banks, telcos, administrations and enterprises, says it has infrastructure deployed in Togo among seven countries; facility not named, and as_of is the post date as none is given.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "ST DIGITAL data centres (Togo)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ST DIGITAL states its data centres across its seven countries, Togo included, are Tier 3/TIA-942 constructed; the claim is fleet-wide, no Togo facility is named, and as_of is the post date as none is given.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "ST DIGITAL data centres (Togo)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST DIGITAL data centres",
+      "country_label": "ST DIGITAL",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST DIGITAL AFRICA",
+      "tiers": "Tier 3/TIA-942 (operator)"
+    }
+  ],
+  "note": ""
+}

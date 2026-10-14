@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-10-itweb-africa-liquid-targets-data-centre-gap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cassava AI Factory, South Africa",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions only a deployment under way of an AI Factory in South Africa; no in-service data centre stated."
+}

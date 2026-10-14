@@ -1,0 +1,15 @@
+{
+  "slug": "2024-06-19-dailytrust-bdic-makurdi-data-centre-deal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "BDIC Makurdi data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Benue Digital Infrastructure Company",
+      "tiers": "Tier III standard (planned)"
+    }
+  ],
+  "note": "Tier III Makurdi data centre only agreed and to be built; not in service."
+}

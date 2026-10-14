@@ -1,0 +1,60 @@
+{
+  "slug": "2026-09-09-cioafrica-nobus-nairobi-availability-zone",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Nobus Cloud Services, a Nigerian public cloud provider, went live in Kenya with a Nairobi availability zone, Nobus-EA-AZ1, letting Kenyan organisations provision workloads locally; the article calls it an availability zone, not a region, and gives no date beyond the 2026-09-09 publication.",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Nobus-EA-AZ1",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty (formerly iColo) opened its Nairobi Two (NBO2) colocation data centre in Karen, adding 6.4 MW to its Nairobi campus; the article gives no exact opening date, so the as_of is the publication month.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nobus-EA-AZ1",
+      "country_label": "Nobus-EA-AZ1",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Nkponani Limited (Nobus Cloud Services)",
+      "tiers": ""
+    },
+    {
+      "system": "Oracle Nairobi cloud region (with iXAfrica)",
+      "country_label": "Oracle Nairobi cloud region (with iXAfrica)",
+      "class": "other",
+      "platform": "",
+      "owner": "Oracle",
+      "tiers": ""
+    },
+    {
+      "system": "Airtel Kenya Nairobi data centre",
+      "country_label": "Airtel Kenya Nairobi data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Airtel Kenya",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Realty NBO2 (Nairobi Two)",
+      "country_label": "Digital Realty NBO2 (Nairobi Two)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": "Nobus zone is described as an availability zone; parent should judge whether it counts as a cloud region. Oracle region only being prepared; Airtel under construction (not facts)."
+}

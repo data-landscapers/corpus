@@ -1,0 +1,72 @@
+{
+  "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Heirs Technologies report says Microsoft Azure has Cape Town and Johannesburg cloud regions, dated 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Microsoft Azure South Africa regions",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Heirs Technologies report says AWS has a Cape Town cloud region, dated 2020.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "AWS Cape Town region",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Heirs Technologies report says Google Cloud opened its first African cloud region in Johannesburg in January 2024.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "Google Cloud Johannesburg region",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Heirs Technologies report names Teraco in Johannesburg and Cape Town among Africa's first hyperscale data centres, operating; no opening date given so report date 2025-11 is used.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Teraco",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Teraco",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Teraco",
+      "tiers": ""
+    },
+    {
+      "system": "Equinix South Africa",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": ""
+    },
+    {
+      "system": "NTT Global Data Centers South Africa",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "NTT",
+      "tiers": ""
+    }
+  ],
+  "note": "49 South African data centres is an aggregator count with no hire or certification distinction, so not a fact; Tier III mentions concern Nigeria."
+}

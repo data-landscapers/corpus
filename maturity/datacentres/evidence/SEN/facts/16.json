@@ -1,0 +1,36 @@
+{
+ "slug": "2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Dakaractu reported on 21 June 2021 that the ADIE-run Diamniadio state data centre, built over three years with two computer rooms, was to be inaugurated on 22 June 2021, and that the private sector could also use its space.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio State Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "ADIE's director general described the Diamniadio state data centre (operator ADIE) as a Tier 3 type infrastructure; this is the agency's own statement, with no certification named.",
+   "as_of": "2021-06-22",
+   "date_precision": "day",
+   "system": "Diamniadio State Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Diamniadio State Data Center",
+   "country_label": "Datacenter de Diamniadio",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ADIE (Agence de l'informatique de l'Etat)",
+   "tiers": "state; private sector may use space"
+  }
+ ],
+ "note": ""
+}

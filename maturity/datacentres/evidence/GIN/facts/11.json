@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-04-guinee-premier-data-center-national-domaine-gn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Guinea (Presidency/Ministry of Digital Economy)",
+   "tiers": ""
+  }
+ ],
+ "note": "Inaugurated 4 Sep 2025 for state data; the document does not say it sells space or computing to outside customers and gives no Tier rating, so no fact."
+}

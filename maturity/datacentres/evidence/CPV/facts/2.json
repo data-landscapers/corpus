@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-17-cpv-nosi-sistema-fotovoltaico-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "country_label": "Data Center do Estado",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": "Event notice of a solar power system launch at the state data centre; no statement of hire, tier or cloud."
+}

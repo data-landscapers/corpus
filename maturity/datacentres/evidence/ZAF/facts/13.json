@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-07-microsoft-to-build-another-data-centre-in-south-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft Kosmosdal Centurion data centre campus",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned campus only; existing Microsoft sites are named without regions or dates, and NTT Johannesburg 1 is mentioned only as a location."
+}

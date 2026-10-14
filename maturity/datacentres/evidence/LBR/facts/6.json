@@ -1,0 +1,15 @@
+{
+ "slug": "2017-07-30-frontpageafrica-libtelco-google-csquared-national-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LIBTELCO National Data Center",
+   "country_label": "National Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "LIBTELCO",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre stated as under construction in 2017; not in service, so no fact."
+}

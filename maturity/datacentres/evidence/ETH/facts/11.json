@@ -1,0 +1,31 @@
+{
+  "slug": "2020-11-26-ecofin-redfox-scutix-wingu-eic-mou-ict-park-data-centres",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Wingu Africa data centre (Ethio ICT Park)",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "Wingu Africa",
+      "tiers": "planned"
+    },
+    {
+      "system": "ScutiX data centre (Ethio ICT Park)",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "ScutiX",
+      "tiers": "planned"
+    },
+    {
+      "system": "RedFox data centre (Ethio ICT Park)",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "RedFox Web Solution",
+      "tiers": "planned"
+    }
+  ],
+  "note": "Only MoUs for planned data centres in 2020; nothing in service stated."
+}

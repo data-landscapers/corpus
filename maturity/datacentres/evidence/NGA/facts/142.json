@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-10-thecable-cbn-data-localisation-reaction",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data centres in Nigeria (unnamed)",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Experts discuss CBN data localisation and say local cloud providers exist and Data Centre Map counts 35 Nigerian data centres, but no named facility, opening, tier or region is stated."
+}

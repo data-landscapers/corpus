@@ -1,0 +1,62 @@
+{
+ "slug": "2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DecryptEco reports Raxio opened a commercial Tier III data centre in Kinshasa in May 2024 (USD 30m, up to 400 racks, 1.5 MW) for banks, telecom operators, cloud providers and enterprises, still a main hosting facility in the country.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "DecryptEco describes Raxio's Kinshasa data centre, opened May 2024, as the DRC's first commercial Tier III data centre (certifier not named in this article).",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Raxio DRC1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DecryptEco reports Open Access Data Centres (OADC) opened its first Kinshasa data centre, at Silikin Village, some months before Raxio's May 2024 opening, as a local interconnection point and content hub.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "OADC Silikin Village, Kinshasa",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio DRC1",
+   "country_label": "Raxio DRC1, Limete, Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  },
+  {
+   "system": "OADC Silikin Village, Kinshasa",
+   "country_label": "OADC Kinshasa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  },
+  {
+   "system": "Lofoy data centre (Universite Nouveaux Horizons, Lubumbashi)",
+   "country_label": "Lofoy",
+   "class": "other",
+   "platform": "",
+   "owner": "Universite Nouveaux Horizons",
+   "tiers": ""
+  }
+ ],
+ "note": "Lofoy itself (inaugurated 2026-06-27) is aimed at research and institutions, not stated to rent to others, so no fact for it."
+}

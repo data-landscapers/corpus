@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "MTN Nigeria's $235 million Sifiso Dabengwa Data Centre was launched in July 2025 and paired with a $20 million domestic cloud service sold in naira, per the author.",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "The MTN Sifiso Dabengwa Data Centre, launched July 2025, is described by the author as a 4.5-megawatt Tier III facility (operator or author statement; no certifier named).",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MTN Sifiso Dabengwa Data Centre",
+      "country_label": "Lagos, Nigeria",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "MTN Nigeria (Bayobab)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "CAMTEL said on 2026-06-09 that its Zamengoe Data Centre is the largest in Central Africa and Tier III certified (operator claim via a PR-wire outlet, no certifier named); the document presents it as serving government data and does not state outside rental.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Zamengoe Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zamengoe Data Centre",
+   "country_label": "Zamengoe Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-vantage-zaf-2025-johannesburg-data-centre-jv-bw02",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vantage JNB1 campus, Waterfall City",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Vantage Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Phase II shell under construction (completion expected Q1 2026); the page mentions a JNB1 campus of three facilities but states none in service; no fact."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-10-africa50-raya-data-center-2024-equity-record",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa50's release of 10 December 2024 states Raya Data Center, wholly owned by Raya Holding, currently operates two Tier III data centers in Cairo (facilities not named).",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Raya Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Africa50's release states Raya Data Center currently operates two Tier III data centers in Cairo, as stated by the investor; the certifier is not given and the two facilities are not named, so not recorded as two.",
+   "as_of": "2024-12-10",
+   "date_precision": "day",
+   "system": "Raya Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raya Data Center",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raya Holding",
+   "tiers": ""
+  }
+ ],
+ "note": "New greenfield Tier III build (US$15m Africa50, US$10m Raya IT) is planned, not a fact."
+}

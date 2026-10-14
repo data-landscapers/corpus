@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-31-hodi-pra-manage-offsite-backup",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hodi managed PRA",
+   "country_label": "PRA managé",
+   "class": "other",
+   "platform": "Acronis Disaster Recovery",
+   "owner": "Hodi",
+   "tiers": "Tier IV backup site is outside Madagascar"
+  }
+ ],
+ "note": "Tier IV datacentre is in another African or European country, not MDG; Madagascar datacentre unnamed and its for-hire status not stated."
+}

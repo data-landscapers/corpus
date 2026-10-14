@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-08-maspero-vodafone-elsewedy-cassava-egypt-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Africa Data Centres Egypt",
+      "country_label": "Africa Data Centres Egypt",
+      "class": "other",
+      "platform": "",
+      "owner": "Vodafone Business, Elsewedy Electric, Cassava Technologies",
+      "tiers": ""
+    },
+    {
+      "system": "Sovereign AI data centre (Vodafone Business and Cassava)",
+      "country_label": "first sovereign AI data centre in Egypt",
+      "class": "other",
+      "platform": "Nvidia GPU-as-a-Service",
+      "owner": "Vodafone Business, Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Same announcement as 39: planned data centre and a sovereign AI data centre partnership; no facility stated as in service, no tier, no cloud region."
+}

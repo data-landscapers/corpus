@@ -1,0 +1,23 @@
+{
+  "slug": "2023-06-01-atpe-communication-electronique-tchad-modernise-infrastructures",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Klemat principal data centre",
+      "country_label": "Klemat principal data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Chad",
+      "tiers": ""
+    },
+    {
+      "system": "Farcha secondary data centre",
+      "country_label": "Farcha secondary data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Chad",
+      "tiers": ""
+    }
+  ],
+  "note": "State data centres under construction (Farcha 90% built) in May 2023; not in service, no for-hire or tier statement."
+}

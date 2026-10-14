@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-05-sierra-leone-moctii-un-data-governance-framework",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Data Centre at NatCA Tower",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Technology and Innovation",
+   "tiers": "government"
+  }
+ ],
+ "note": "State data centre shown to UN delegation; no statement that it sells to outside customers; State House redundancy site is only planned."
+}

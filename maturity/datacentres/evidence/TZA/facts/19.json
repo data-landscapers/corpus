@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-wingu-africa-tza-2025-tanzania-data-centre-phase2-bw02",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Wingu Africa launched phase two of its Mbezi Industrial Area, Dar es Salaam data centre in March 2025, adding 80 racks to 110 total, interconnected with 13 operators.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Wingu Africa Dar es Salaam data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The document describes Wingu Africa's Mbezi (Dar es Salaam) facility as Tier 3 with a 99.983% uptime guarantee; it names no certifying body, so this is the operator or press statement.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Wingu Africa Dar es Salaam data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu.Africa Dar es Salaam data centre",
+   "country_label": "Wingu Africa Mbezi data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-dcd-ivory-coast-state-owned-data-center-2027",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DCD reports Cote d'Ivoire has a small private data centre market with a handful of data centres in Abidjan; operators include Equinix, Raxio, ST Digital, Paix Data Centres and Stellarix (no facility names, as of article date).",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Abidjan commercial data centres (Equinix, Raxio, ST Digital, Paix Data Centres, Stellarix)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "State-owned data centre (Cybastion, planned 2027)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "State centre is planned for 2027 and for government bodies only: not a fact."
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "2026-07-05-jeune-independant-centre-national-services-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Constantine data centre, inaugurated in February 2023 and run by Algerie Telecom, offers businesses and economic actors of the region a secure cloud platform.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "Data Center de Constantine",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Iconsnet operates two data centres, in Algiers and Oran, offering cloud computing and off-site backup; the article lists it among operators and private hosts selling colocation, dedicated servers and cloud (no date given, article of 2026-07-05).",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Iconsnet",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Adex Cloud, based at Sidi Abdellah, provides local certified cloud hosting infrastructure (no date given, article of 2026-07-05; certification not specified).",
+   "as_of": "2026-07-05",
+   "date_precision": "day",
+   "system": "Adex Cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national des services numériques (Mohammadia and Blida)",
+   "country_label": "CNSN",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Algeria / Huawei partnership",
+   "tiers": "state"
+  },
+  {
+   "system": "Mohammadia Data Center",
+   "country_label": "Centre de données de Mohammadia",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "Government of Algeria / Huawei",
+   "tiers": "state"
+  },
+  {
+   "system": "Data Center de Constantine",
+   "country_label": "Data Center de Constantine",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Iconsnet",
+   "country_label": "Iconsnet",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Iconsnet",
+   "tiers": ""
+  },
+  {
+   "system": "Adex Cloud",
+   "country_label": "Adex Cloud",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Adex Cloud",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center IA Oran",
+   "country_label": "Data Center IA Oran",
+   "class": "other",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Mohammadia Tier III Design is a state centre with no statement that it sells to outside customers, so no tier3 fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-20 Google in Africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Google Cloud Johannesburg region",
+      "country_label": "ZAF",
+      "class": "other",
+      "platform": "Google Cloud",
+      "owner": "Google",
+      "tiers": ""
+    }
+  ],
+  "note": "Names Google's only African cloud region as Johannesburg and no Ghana facility; nothing stated for GHA by name."
+}

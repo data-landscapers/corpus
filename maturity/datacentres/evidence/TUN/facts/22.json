@@ -1,0 +1,31 @@
+{
+ "slug": "2013-05-30-thd-tunisie-telecom-data-centres-ain-zaghouan-kairouan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center Ain Zaghouan",
+   "country_label": "Ain Zaghouan",
+   "class": "other",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Data Center Kairouan",
+   "country_label": "Kairouan",
+   "class": "other",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Kasbah cloud Pro room",
+   "country_label": "Kasbah",
+   "class": "",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Two data centres announced to open autumn 2013 (planned); Kasbah room only said to be reserved for cloud Pro solutions, no opening stated."
+}

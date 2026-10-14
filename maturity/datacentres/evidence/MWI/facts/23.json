@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-09-mwi-nris-servers-relocation-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "NRB moves its own servers to the government National Data Centre; no data centre for hire stated."
+}

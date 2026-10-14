@@ -1,0 +1,23 @@
+{
+  "slug": "2025-05-12-national-digital-transformation-strategy-announced-echorouk",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mohammadia data centre",
+      "country_label": "Mohammadia data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "State",
+      "tiers": "government"
+    },
+    {
+      "system": "Blida data centre",
+      "country_label": "Blida data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "State",
+      "tiers": "government"
+    }
+  ],
+  "note": "Two state data centres under construction (Mohammadia about 80%, Blida 50%) in May 2025; not in service, no fact."
+}

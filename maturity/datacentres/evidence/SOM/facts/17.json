@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Wingu", "country_label": "Wingu", "class": "other", "platform": "", "owner": "Wingu (Djibouti Telecom a state joint-venture partner in Djibouti)", "tiers": ""}
+  ],
+  "note": "Lists Somalia among Wingu's four countries (6 data centres in total) but names no Somali facility, opening or tier, so no SOM fact; no cloud region or no-data-centre statement for Somalia."
+}

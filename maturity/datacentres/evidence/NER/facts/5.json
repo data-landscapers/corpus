@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Niamey, DTS/FO project)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Niger",
+   "tiers": "Tier III (planned)"
+  }
+ ],
+ "note": "Tier 3 Niamey datacentre under construction; building not yet operating: not in service."
+}

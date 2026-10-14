@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-31 Vodacom opens data center in Maputo, Mozambique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vodacom launched a $25 million carrier-neutral data centre at Tchumene, Matola, said to be the country's largest, with direct access to the 2Africa cable; the Prime Minister attended the launch (reported 2025-03-31).",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Vodacom Tchumene data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Tchumene data centre",
+   "country_label": "Vodacom Business Data Centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "Vodacom Matola modular data centre (2013)",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Vodacom Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": "Other facts in the document (18 data centres in the country, iColo and Raxio presence) are not facts for hire/tier."
+}

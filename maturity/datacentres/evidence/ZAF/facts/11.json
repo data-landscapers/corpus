@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-teraco-ct2-50mw-cape-town",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco, a Digital Realty company offering vendor-neutral colocation, announced on 10 November 2025 completion of its CT2 hyperscale data centre expansion in Cape Town, adding 32MW over eight data halls for a total of 50MW critical IT load; no Tier rating is stated.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "Teraco CT2 Cape Town",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco CT2 Cape Town",
+   "country_label": "CT2",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

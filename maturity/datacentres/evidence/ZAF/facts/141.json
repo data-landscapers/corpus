@@ -1,0 +1,15 @@
+{
+ "slug": "2022-01-01-ifc-reg-012-wiocc-group-equity-investment-data-centres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Open Access Data Centres (Durban, planned)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "WIOCC Group",
+   "tiers": ""
+  }
+ ],
+ "note": "Only expansion and planned Tier III data centres in South Africa; no in-service facility stated."
+}

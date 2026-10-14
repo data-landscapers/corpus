@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-27-aci-umng-onze-etablissements-connectivite-haut-debit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Universite Marien Ngouabi data centre",
+   "country_label": "data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Universite Marien Ngouabi / PATN",
+   "tiers": ""
+  }
+ ],
+ "note": "University's own data centre serving its eleven establishments; not for hire."
+}

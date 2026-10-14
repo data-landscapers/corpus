@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-13-bofinet-integrated-report-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet",
+   "tiers": ""
+  }
+ ],
+ "note": "Calls DDDC Botswana's first carrier-neutral, vendor-neutral data centre; passage says government IT will migrate 'once the DDDC is complete', so in-service status is not stated."
+}

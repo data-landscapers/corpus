@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-28-laguardia-unh-lubumbashi-datacenter-supercalculateur-lofoyi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lofoyi HPC data centre (Universite Nouveaux Horizons, Lubumbashi)",
+   "country_label": "HPC Lofoyi",
+   "class": "other",
+   "platform": "",
+   "owner": "Universite Nouveaux Horizons",
+   "tiers": ""
+  }
+ ],
+ "note": "University data centre launched June 2026, academic use only in first phase; sale of space to banks, miners and others is only expected 'very soon', so not yet for hire."
+}

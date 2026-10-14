@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-13-dcd-railtel-mofa-ethiopia-data-center-contract",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MoFA data centre (RailTel)",
+      "country_label": "ETH",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Foreign Affairs of Ethiopia",
+      "tiers": "planned, government use"
+    }
+  ],
+  "note": "Contract to build a government data centre within a year; planned and state-use only."
+}

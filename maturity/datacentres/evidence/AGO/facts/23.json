@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-25-pti-sonangol-inaugura-data-center-corporativo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sonangol corporate data centre",
+   "country_label": "centro de dados corporativo da Sonangol",
+   "class": "other",
+   "platform": "",
+   "owner": "Sonangol",
+   "tiers": ""
+  }
+ ],
+ "note": "Owner-only corporate data centre consolidating subsidiaries; no third-party hire stated."
+}

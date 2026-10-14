@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-angola-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics (Jan 2026) estimates about 8-10 live commercial colocation data centre facilities in Angola in 2025, around 6.5 MW live critical IT load, about 70% of supply carrier-neutral, all primary facilities in the Luanda metro area; no facility is named in the text.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "commercial data centres (unnamed)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Market brief; no Tier statement or named facility in the text; no cloud region stated (says large hyperscaler deployments unlikely, not a fact)."
+}

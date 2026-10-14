@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-datacentres.md — the forty-fifth maturity study: data centres for hire, in four questions
 last_reviewed: 2026-10-14
-status: prepared 2026-10-14; waits for Bill's word on the questions
+status: run 2026-10-14; on the soft-launch map, waits for Bill to accept
 ---
 
 # Maturity study: datacentres
@@ -58,7 +58,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 
 ## 5. What the run reads
 
-- **Carried first**: the 209 facilities the data centres dataset holds in service and for hire, in 41 countries, 88 of them at Tier III or above, each with its source. No document is opened for them.
+- **Carried first**: the data centres dataset's facilities in service and for hire, filed under a held document the dataset cites that names the facility, by `scripts/study-datacentres-carry.py`. The dataset itself cannot be cited, since every source must be held in `raw/`, and most of its cited documents were already on the reading lists, so 53 facts from 42 documents were carried and the rest were read.
 - **Read**: **2,213 news readings**, in all 54 countries: 2,160 about data centres, which are 1,299 stories about one country and 861 readings of 208 regional stories, a regional story being read once for each country it names, and 53 more that the current cells cite for this row. Twenty-six longer documents the cells cite are opened only where a question turns on one.
 - **Not read**: long texts, reports and passing mentions. **No web search and no handover to OSINT.**
 
@@ -69,10 +69,17 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that 30 % o
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-14.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Carry** the dataset's facilities, then **read**: one fan-out of drafters over the 2,213 readings.
-- [ ] **D3. Stage** as at 2026-09-30, the parent reading every fact that sets stage 4 or 5; agreement on 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-14.
+- [x] **D2. Carried and read**: 53 facts carried; 499 drafters over 2,239 readings; 923 facts in all.
+- [x] **D3. Staged** as at 2026-09-30: 5: 4, 4: 16, 3: 15, 2: 12, 1: 0, one unplaced, six without evidence; 6 rows removed and 1 revalued (`corrections.csv`); agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14.
+
+**Decided in the run**:
+
+- **One facility is counted once.** Drafters name a data centre several ways, Raxio's above all, which runs one per country; `study-ladder-datacentres.py` → `SAME` holds the parent's reading of which rows name one facility. Ghana (Onix Accra), Gabon (ST Digital Nkok), Uganda (Raxio), Togo (the Lomé Data Centre) and Mauritania (Nouakchott) are at stage 3 on one Tier III facility each.
+- **Four are at stage 5**: South Africa (AWS, Microsoft, Google, Oracle, Huawei), Egypt (Huawei Cloud Cairo, 2024), Morocco (Oracle Casablanca, 2026) and Kenya, where one September 2026 story says iXAfrica's campus hosts Oracle's Kenya region, with no launch date.
+- **Nigeria is at stage 4**: Huawei's 2024 "local cloud" is reversed by Digital Realty Nigeria's statement of September 2026 that no hyperscaler runs a region there.
+- **No country is at stage 1**: no source says a country has no data centre for hire. The row's thirteen stage 1 cells are now stage 2, unplaced or without evidence.
 
 ## Boundary
 

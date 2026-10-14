@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-06-bcrg-avis-appel-datacenter-tier-iii",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BCRG Datacenter",
+   "country_label": "Datacenter de la BCRG",
+   "class": "other",
+   "platform": "",
+   "owner": "Banque Centrale de la République de Guinée",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank's own data centre, Tier III certification only being procured; not for hire."
+}

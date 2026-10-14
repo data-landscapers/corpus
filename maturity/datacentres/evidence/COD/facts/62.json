@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-15 Raxio data-centre capital tops $380m on investor boost",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service",
+     "fact": "Tech.africa reports that Raxio, a pan-African independent carrier-neutral data-centre operator, operates a data-centre facility in DR Congo (facility not named beyond the operator); the document gives no opening date, so the 2026-07-15 publication date is used.",
+     "as_of": "2026-07-15", "date_precision": "day", "system": "Raxio DR Congo data centre", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3",
+     "fact": "Tech.africa reports that Raxio operates Tier III, carrier-neutral facilities including one in DR Congo; the tier is stated in the article without naming Uptime Institute or TIA-942 certification, and no date is given, so the 2026-07-15 publication date is used.",
+     "as_of": "2026-07-15", "date_precision": "day", "system": "Raxio DR Congo data centre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Raxio DR Congo data centre", "country_label": "Raxio", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III (as stated by the article)"}
+  ],
+  "note": "Multi-country article; only the statement naming DR Congo among Raxio's operating Tier III carrier-neutral sites is recorded for COD. Funding and power-demand material is not a fact."
+}

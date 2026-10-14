@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-10-cod-wayeno-moscou-technopark-kinshasa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre de donnees souverain (Kinshasa Technopark)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Digital Economy",
+      "tiers": ""
+    }
+  ],
+  "note": "Sovereign data centre in Kinshasa is planned only; state data centre, no for-hire facility or cloud region stated."
+}

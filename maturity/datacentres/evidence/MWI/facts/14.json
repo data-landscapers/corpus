@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-31-digmap-government-data-centre-lilongwe-77pc-complete",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Data Centre Lilongwe",
+   "country_label": "Government Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Dept of e-Government / PPPC",
+   "tiers": ""
+  }
+ ],
+ "note": "Lilongwe government data centre 77% built in Oct 2024 (under construction); Blantyre named backup; no for-hire or tier statement."
+}

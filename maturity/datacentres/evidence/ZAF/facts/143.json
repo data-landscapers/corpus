@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The record describes Liquid Intelligent Technologies as the largest independent data centre operator in sub-Saharan Africa with facilities in South Africa, offering cloud-hosting and colocation; no date is given, so as_of is the published year.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Liquid Intelligent Technologies / Africa Data Centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liquid Telecom Jersey Ltd data centres",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Liquid Intelligent Technologies (Cassava)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

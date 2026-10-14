@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Digital Delta Data Centre (DDDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet (state)",
+   "tiers": "government migration"
+  }
+ ],
+ "note": "Minister says a data centre certified in 2025 (Delta Digital Data Centre, Gaborone) will host a government cloud; state use only, no hire or tier stated, so no fact."
+}

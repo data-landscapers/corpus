@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-09-bfa-refletinfo-750-villages-zones-blanches",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government modular data centres (two)",
+   "country_label": "data centers modulaires",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "state"
+  },
+  {
+   "system": "National data centre",
+   "country_label": "data center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "Two modular government data centres inaugurated for public platforms and data; national data centre studied for 2028 and would let private parties host. State use only, planned centre not in service."
+}

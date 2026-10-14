@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Authorisation regime for data centres and cloud (arrete 004/2026)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": "Licensing rule for data centres and cloud; policy, not a data centre or cloud region in service."
+}

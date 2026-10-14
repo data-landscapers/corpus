@@ -1,0 +1,62 @@
+{
+  "slug": "2022-04-29-dcd-telone-bulawayo-hillside-data-centre",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "TelOne opened a 120-rack, 400kW data centre at its Hillside exchange in Bulawayo, offering managed disaster recovery to banks, telcos, companies, government and IT providers.",
+      "as_of": "2022-04",
+      "date_precision": "month",
+      "system": "TelOne Bulawayo Hillside data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "TelOne says its Bulawayo Hillside data centre is Tier 3 designed with redundant power and cooling; operator statement, no certification mentioned.",
+      "as_of": "2022-04",
+      "date_precision": "month",
+      "system": "TelOne Bulawayo Hillside data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "TelOne opened a 34-rack data centre at the Mazowe Earth Station in March 2022, its fourth data centre.",
+      "as_of": "2022-03",
+      "date_precision": "month",
+      "system": "TelOne Mazowe Earth Station data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "TelOne Bulawayo Hillside data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TelOne",
+      "tiers": ""
+    },
+    {
+      "system": "TelOne Mazowe Earth Station data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "TelOne",
+      "tiers": ""
+    },
+    {
+      "system": "National data centre, Harare",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Zimbabwe",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

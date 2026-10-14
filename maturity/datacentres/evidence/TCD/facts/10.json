@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-21-digitalbusinessafrica-pmice-data-center-national-verifications",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National data centre (PMICE)",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Chad (PMICE; Huawei contractor)",
+   "tiers": ""
+  },
+  {
+   "system": "Micro data centres in public institutions",
+   "country_label": "micros Data Centers",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre built and equipped but not certified or stated to host outside customers; state micro-data-centres awaiting configuration. No for-hire fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Microsoft geothermal-powered data centre, Kenya",
+      "country_label": "KEN",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft",
+      "tiers": ""
+    },
+    {
+      "system": "Nvidia and Cassava AI-ready data centres (Kenya among Egypt, Nigeria, Morocco)",
+      "country_label": "KEN",
+      "class": "other",
+      "platform": "",
+      "owner": "Cassava Technologies",
+      "tiers": ""
+    }
+  ],
+  "note": "Both Kenya data centres are described as being developed; no in-service facility, tier rating or live cloud region stated."
+}

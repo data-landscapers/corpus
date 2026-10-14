@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-vanguard-nigeria-tv-audience-measurement-system-rollout",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Audience Measurement System backend data centre",
+      "country_label": "AMS",
+      "class": "other",
+      "platform": "",
+      "owner": "First Media / NBC",
+      "tiers": ""
+    }
+  ],
+  "note": "Data centre is used only by the TV audience measurement system, not for hire."
+}

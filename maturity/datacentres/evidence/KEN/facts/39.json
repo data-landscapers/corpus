@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-11-ken-techreviewafrica-undp-konza-sovereign-ai",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Konza Data Centre",
+      "country_label": "Konza Data Centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Technopolis Development Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "State data centre; a letter of agreement for sovereign AI use, no statement that it rents to outside customers."
+}

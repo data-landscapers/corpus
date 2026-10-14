@@ -1,0 +1,31 @@
+{
+ "slug": "2025-09-07-trade-gov-egypt-data-centers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Africa Data Centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Gulf Data Hub",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Khazna Data Centers",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names Africa Data Centres, Gulf Data Hub and Khazna as new entrants but states no facility in service; licensing and market size only."
+}

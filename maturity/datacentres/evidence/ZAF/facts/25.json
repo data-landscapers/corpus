@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-africanews-south-africa-data-centres-halt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Equinix hyperscale facility, Cape Town (approved, to be built)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": ""
+    }
+  ],
+  "note": "Civil society halt call; Equinix Cape Town facility is only approved, not built; no in-service facility or cloud region stated."
+}

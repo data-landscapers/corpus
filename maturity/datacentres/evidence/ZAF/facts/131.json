@@ -1,0 +1,34 @@
+{
+ "slug": "2010-11-09-rsaweb-acquires-cape-town-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "RSAWeb, an Internet hosting company serving business customers, already operates a data centre in Bree Street, Cape Town, and offers enterprise and SME cloud services; the document gives no opening date, so the article date is used.",
+   "as_of": "2010-11-09",
+   "date_precision": "day",
+   "system": "RSAWeb Bree Street data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSAWeb Bree Street data centre",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "RSAWeb",
+   "tiers": ""
+  },
+  {
+   "system": "RSAWeb Gardens data centre (acquired, 200 sq m, being refurbished)",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "",
+   "owner": "RSAWeb",
+   "tiers": ""
+  }
+ ],
+ "note": "Gardens site only acquired and to be retrofitted; Bree Street in service."
+}

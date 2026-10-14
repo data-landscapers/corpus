@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-07-somalia-national-data-centre-plans",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Somalia (MoCT)",
+   "tiers": "government"
+  }
+ ],
+ "note": "Planned national data centre for government data only; no data centre for hire stated."
+}

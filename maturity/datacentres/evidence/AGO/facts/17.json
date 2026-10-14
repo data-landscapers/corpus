@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-angola-launches-government-data-center-and-cloud",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Centro de Dados do Governo (Nuvem Nacional de Angola)",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI, Ministry of Telecommunications (MINTTICS)",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre inaugurated; document does not say it rents to outside customers."
+}

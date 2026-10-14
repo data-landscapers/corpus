@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-05-itweb-tlou-kala-data-centre-expansion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kala Data Centre",
+   "country_label": "Kala Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Kala Data FZCO (equipment); Tlou Energy supplies gas",
+   "tiers": ""
+  }
+ ],
+ "note": "Kala Data Centre at Lesedi, commissioned and operating at proof-of-concept scale, but the document does not say it rents space or computing to outside customers (revenue is Tlou's); no fact taken."
+}

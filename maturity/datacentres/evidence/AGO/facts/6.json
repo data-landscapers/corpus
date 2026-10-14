@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-12-ago-correiokianda-imprensa-nacional-data-center-documentos-seguranca",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center da Imprensa Nacional",
+      "country_label": "Data Center da Imprensa Nacional",
+      "class": "other",
+      "platform": "",
+      "owner": "Imprensa Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": "Own-use state printer data centre opened 2026-09-11; offers authentication services to private firms, not space or computing for hire."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-12-kenya-microsoft-differ-on-sh129bn-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Olkaria data centre",
+   "country_label": "Microsoft-G42 Olkaria data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft; G42",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned project stalled; only unnamed existing data centres (19 in Kenya, Oracle's mentioned) with no for-hire or in-service statement for a named facility."
+}

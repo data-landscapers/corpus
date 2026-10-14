@@ -1,0 +1,36 @@
+{
+  "slug": "2025-10-07-mwi-escom-itu-africa-broadband-mapping-presentation",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ESCOM (Electricity Supply Corporation of Malawi), in its own 7 Oct 2025 slides, describes an operating ESCOM data centre in Blantyre offering cloud computing, physical hosting (rack space and bare-metal servers) and virtualization to customers, open to government and private clients; 2 modules of 21 racks, 595TB storage, 99.98% uptime. No opening date is given, so as_of is the document's publication date.",
+      "as_of": "2025-10-07",
+      "date_precision": "day",
+      "system": "ESCOM Data Centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ESCOM states in its own 7 Oct 2025 slides that its operating Blantyre data centre is a Tier 3 data centre; this is the operator's statement, with no Uptime Institute or TIA-942 certification named.",
+      "as_of": "2025-10-07",
+      "date_precision": "day",
+      "system": "ESCOM Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ESCOM Data Centre",
+      "country_label": "National Data Centre in Blantyre / ESCOM Data Centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ESCOM (Optic Fibre Communications business)",
+      "tiers": "private and government customers"
+    }
+  ],
+  "note": ""
+}

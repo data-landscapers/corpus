@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-09-digital-parks-africa-nigeria-data-centre-1-lagos",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nigeria Data Centre 1 (NDC1)",
+      "country_label": "NDC1, Lagos",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Parks Africa",
+      "tiers": "Tier IV constructed-facility assessment engaged, not certified"
+    }
+  ],
+  "note": "NDC1 is being built; Uptime Tier IV constructed-facility assessment only engaged; not in service."
+}

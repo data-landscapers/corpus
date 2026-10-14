@@ -1,0 +1,84 @@
+{
+ "slug": "2026-01-22-dpi-africa-nigeria-data-centre-shortage",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The article names Rack Centre LGS1 and LGS2 in Lagos as an operating carrier-neutral campus among Nigeria's roughly 21 operational data centres (DataCenterMap, cited by DPI Africa); no opening date is given, so the article date is used.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Rack Centre LGS1/LGS2",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The article describes Rack Centre LGS1 and LGS2 in Lagos as a Tier III carrier-neutral campus, without saying which body rated it; no date given, article date used.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Rack Centre LGS1/LGS2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rack Centre LGS1/LGS2",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Rack Centre",
+   "tiers": ""
+  },
+  {
+   "system": "Sifiso Dabengwa Data Centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTN Nigeria",
+   "tiers": "Tier III, 4.5 MW, 780 racks; hire to outsiders not stated"
+  },
+  {
+   "system": "Africa Data Centres LOS1",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Africa Data Centres / Cassava",
+   "tiers": ""
+  },
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Realty LKK1, LKK2, ABV1",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG2",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Galaxy Backbone NSSC",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Galaxy Backbone",
+   "tiers": "0.825 MW"
+  }
+ ],
+ "note": "Also says no AI-ready data centre exists and hyperscale is 2-3 years away; no cloud region statement. Sifiso Dabengwa is called Tier III but its hire status is not stated, so only Rack Centre is recorded and the 'two' value is not used."
+}

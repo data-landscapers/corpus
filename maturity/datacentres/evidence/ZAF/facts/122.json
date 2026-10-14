@@ -1,0 +1,27 @@
+{
+ "slug": "2020-05-03-cio-zaf-aws-cape-town-cloud-region-enterprises",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "CIO reports Amazon Web Services launched its Africa (Cape Town) region (af-south-1, three Availability Zones) earlier in May 2020, serving customers from South Africa.",
+   "as_of": "2020-05",
+   "date_precision": "month",
+   "system": "AWS Africa (Cape Town)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "CIO states Microsoft Azure has cloud regions in Cape Town and Johannesburg, Microsoft having launched its region in the first quarter of 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Microsoft Azure South Africa regions",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Google and Huawei described as not having built their own data centres, Oracle as entering later in 2020: not facts."
+}

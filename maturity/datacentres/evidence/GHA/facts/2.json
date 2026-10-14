@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Digital Realty inaugurated ACR2, a carrier-neutral data centre in Accra with 1.7 MW installed IT capacity and space for 500 racks, at the end of October 2025.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "ACR2",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ACR2",
+      "country_label": "ACR2",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "2025-11-10-equinix-lg3-22m-lagos-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechCabal says Equinix's April 2022 acquisition of MainOne brought it multiple operational data centres in Nigeria, Ghana and Cote d'Ivoire; Nigerian facilities are MainOne's.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "MainOne data centres (Equinix)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equinix LG3",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix PR1 Port Harcourt",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "MTN 9 MW Tier 3 data centre",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "MTN",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel 38 MW Lagos data centre",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nigeria",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos data centre",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Open Access Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "LG3, PR1, MTN and Airtel centres are planned or under construction; OADC expansion is planned."
+}

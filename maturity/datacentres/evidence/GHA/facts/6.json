@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-03-africa50-paix-accra-expansion-1-2mw",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "PAIX Data Centres announced on 3 July 2024 that its Accra facility had been expanded to 1.2 MW, serving ISPs, cloud providers and enterprises.",
+   "as_of": "2024-07-03",
+   "date_precision": "day",
+   "system": "PAIX Accra data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAIX Accra data centre",
+   "country_label": "PAIX Data Centres Accra (ACC-1)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "PAIX Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

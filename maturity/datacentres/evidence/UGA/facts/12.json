@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-12-nilepost-centenary-masaka-tier-iii-data-centre-september-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centenary Masaka Data Centre",
+   "country_label": "Masaka Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Centenary Group (Cente-Tech)",
+   "tiers": "Tier III target"
+  }
+ ],
+ "note": "Masaka facility is not yet open (opening expected September 2026) and Tier III is a target, so no in-service fact."
+}

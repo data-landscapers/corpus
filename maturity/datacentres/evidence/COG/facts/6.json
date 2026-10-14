@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-24-cog-vox-vpm-inspecte-data-center-solaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National (Congo National Data Centre)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo (MPTEN), financed by the African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre at Bacongo inspected 22 Sep 2026 as not yet operational (tests pending, opening end-2026 or early 2027): not in service."
+}

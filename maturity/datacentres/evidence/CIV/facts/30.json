@@ -1,0 +1,36 @@
+{
+  "slug": "2025-10-03-st-digital-sovereign-data-centre-itweb",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ST Digital opened its first Cote d'Ivoire data centre in the VITIB free zone, Grand-Bassam, built with OVHcloud, to serve public and private organisations.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ITWeb Africa reports the ST Digital Grand-Bassam data centre was built to Tier III standards (no certifier named).",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital Grand-Bassam data centre",
+      "country_label": "ST Digital data centre",
+      "class": "datacentre",
+      "platform": "OVHcloud partnership",
+      "owner": "ST Digital",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": ""
+}

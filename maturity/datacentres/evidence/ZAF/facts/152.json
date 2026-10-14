@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-09-zaf-businessday-telkom-legacy-buildings-edge-data-centres",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "service",
+      "value": "service",
+      "fact": "Telkom's Openserve created an edge data centre at its Yzerfontein cable landing station as a pilot and sold space there to local and international customers, per Openserve executive Sunil Piyarlall (no date given; article date used).",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Openserve Yzerfontein edge data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "tier3",
+      "value": "tier3",
+      "fact": "Openserve's Sunil Piyarlall says Telkom, between Openserve and BCX, has 10 large data centres, three of them Tier 4 (operator statement, facilities not named, certifying body not given; article date used).",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Telkom (Openserve/BCX) Tier 4 data centres",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Openserve Yzerfontein edge data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Telkom Openserve",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-29-oracle-to-launch-nairobi-cloud-region",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Oracle Cloud Infrastructure Nairobi region",
+   "country_label": "Oracle Cloud Infrastructure Nairobi region",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica NBOX1 campus",
+   "country_label": "iXAfrica NBOX1 campus",
+   "class": "other",
+   "platform": "",
+   "owner": "iXAfrica Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle Nairobi region is listed as coming soon with no launch date; NBOX1 is described only as expected capacity when fully built, so no in-service fact."
+}

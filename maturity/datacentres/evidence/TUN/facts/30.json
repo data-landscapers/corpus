@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-03-ooredoo-digital-infrastructure-platforms-cmd",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Ooredoo's Capital Markets Day deck says its carrier-neutral data centre platform Syntys is active in Tunisia, with about 2 MW of current capacity and a 25% share of the Tunisian data centre market, offering colocation, cloud and AI hosting; no tier rating is given.",
+      "as_of": "2025-11-03",
+      "date_precision": "day",
+      "system": "Syntys Tunisia data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Syntys Tunisia data centre",
+      "country_label": "Syntys (Ooredoo)",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Ooredoo (Syntys, minority stake Iron Mountain)",
+      "tiers": ""
+    }
+  ],
+  "note": "Deck dated 3 November 2025, used as as_of; no Tier III/IV claim or cloud region for Tunisia."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-03-st-digital-iso-27001-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ST DIGITAL data centres",
+   "country_label": "RDC",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST DIGITAL AFRICA",
+   "tiers": ""
+  }
+ ],
+ "note": "Operator says its infrastructures in seven countries including RDC are Tier 3/TIA-942 constructed, but names no facility and gives no COD-specific statement or date; not recorded."
+}

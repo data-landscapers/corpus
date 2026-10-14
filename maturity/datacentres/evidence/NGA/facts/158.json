@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-19-businessday-kasi-cloud-los1-lagos-ai-facility",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "BusinessDay reports Kasi Cloud has launched LOS1, an AI-ready data centre in Lagos built for hyperscale and wholesale cloud operators, with a first 5.5 MW data hall on a 132kV substation; no event date given, so the article's published date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Kasi Cloud LOS1 (Lagos)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kasi Cloud LOS1",
+      "country_label": "LOS1",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Kasi Cloud",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

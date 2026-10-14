@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-14-dcd-oracle-cloud-region-morocco-n-one",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "N+One, described as a data centre operator that will host Oracle's OCI infrastructure for the Moroccan region, operates data centres in Nouaceur and Settat, being expanded by 2MW to 8MW total by end-2024 (DCD, 14 March 2024; as_of is the article date, none given).",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "N+One data centres (Nouaceur, Settat)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N+One data centres (Nouaceur, Settat)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle OCI Morocco region (not yet live, not on OCI upcoming list)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Oracle region is announced only, so no cloud fact."
+}

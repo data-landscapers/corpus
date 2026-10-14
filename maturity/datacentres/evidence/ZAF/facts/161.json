@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-20-cassava-africa-data-centres-azure-expressroute-metro",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres (Cassava Technologies) operates the JHB1 data centre in Johannesburg, designated a Microsoft Azure ExpressRoute Metro peering location, with Liquid C2 selling Secure CloudConnect to organisations from it; the article gives no opening date, so as_of is its publication date of 2026-07-20.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Africa Data Centres JHB1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres JHB1",
+   "country_label": "ZAF",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Cassava Technologies (Africa Data Centres)",
+   "tiers": ""
+  },
+  {
+   "system": "Microsoft Azure ExpressRoute Metro",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "Microsoft Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "ExpressRoute Metro is a cloud on-ramp, not a cloud region; no cloud fact."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Prime Minister inaugurated the new State Data Center on 29 July 2015 (event date taken from the publication date); the document says the country can offer data storage, processing and website hosting to national and international institutions from it, and urges attracting ECOWAS, banks and universities to host data there.",
+   "as_of": "2015-07-29",
+   "date_precision": "day",
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Praia state data centre (Data Center do Estado de Cabo Verde)",
+   "country_label": "Data Center do Estado",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NOSi, E.P.E.",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-11-22-africa-data-centres-partners-with-ipnx-africa-data-centres",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Africa Data Centres (Cassava Technologies) announced that ISP ipNX has established a presence in its Lagos data centre to provide colocation and ISP services, so the Lagos facility is operating and hosting a customer; the article gives the announcement date only.", "as_of": "2022-11-22", "date_precision": "day", "system": "Africa Data Centres Lagos", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Africa Data Centres (the operator) describes its Lagos data centre as a Tier III data centre; the article gives no certifying body.", "as_of": "2022-11-22", "date_precision": "day", "system": "Africa Data Centres Lagos", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Africa Data Centres Lagos", "country_label": "Africa Data Centres Lagos", "class": "datacentre", "platform": "", "owner": "Africa Data Centres (Cassava Technologies)", "tiers": "Tier III (operator statement)"}
+  ],
+  "note": ""
+}

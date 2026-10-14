@@ -1,0 +1,15 @@
+{
+ "slug": "2024-02-16-cote-divoire-lancement-construction-data-center-national",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Côte d'Ivoire (Cybastion)",
+   "tiers": ""
+  }
+ ],
+ "note": "Works launched 14 Dec 2023 on a state data centre for national administrative entities; planned, not in service, state-only use."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2015-07-01-isocel-data-center-pour-la-sauvegarde-de-vos-donnees-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Isocel Telecom states it launched Benin's first neutral data centre, made available to large-account customers in 2015 (article of July 2015), with hosting offers and neutral interconnection to Benin IX.",
+   "as_of": "2015-07",
+   "date_precision": "month",
+   "system": "Isocel Telecom Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Isocel Telecom Data Center",
+   "country_label": "data center neutre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Isocel Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

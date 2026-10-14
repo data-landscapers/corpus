@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "DCD reports Mauritania's first national data centre, the Nouakchott Data Hub, launched in May 2025 and is managed by International Mauritania Telecom (government via Mauripost plus the three telecom operators); the document does not say it rents to outside customers.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nouakchott Data Hub",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "DCD reports an EUR 15 million EIB loan backed a Tier III-certified Nouakchott Data Hub, managed by International Mauritania Telecom; certifier not named.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nouakchott Data Hub",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott Data Hub",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "International Mauritania Telecom (IMT)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

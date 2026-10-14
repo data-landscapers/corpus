@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-29-sita-annual-report-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "Teraco", "country_label": "Teraco Data Environments", "class": "", "platform": "", "owner": "Teraco Data Environments", "tiers": ""},
+    {"system": "Centurion data centre", "country_label": "Centurion data centre", "class": "other", "platform": "", "owner": "SITA", "tiers": ""},
+    {"system": "Numerus data centre", "country_label": "Numerus data centre", "class": "other", "platform": "", "owner": "SITA", "tiers": ""},
+    {"system": "Gauteng Provincial Government fully managed data centre", "country_label": "Gauteng fully managed data centre", "class": "other", "platform": "", "owner": "Telkom/BCX", "tiers": ""}
+  ],
+  "note": "Procurement and capex tables only: SITA appoints Teraco as carrier-neutral supplier, but no opening, tier or cloud-region statement."
+}

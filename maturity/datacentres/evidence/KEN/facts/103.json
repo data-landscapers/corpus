@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-28-kibabii-university-ict-research-hub-nrf",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Kibabii University data center",
+   "country_label": "ICT Research Hub data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Kibabii University",
+   "tiers": ""
+  }
+ ],
+ "note": "University data centre serves only the university; not for hire."
+}

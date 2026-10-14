@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-goc-san-executive-summary-bid-evaluation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GOC Data centre and DR site",
+   "country_label": "Government Online Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre procurement only; no for-hire facility, tier or cloud region stated."
+}

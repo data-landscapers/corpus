@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-xalam-botswana-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates about 6+ live commercial data centre facilities in Botswana in 2025, with about 3MW of live critical IT load available to third-party customers and about 50% occupancy; no facility is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Botswana commercial data centres (unnamed)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana commercial data centres (telco and infraco hybrid facilities)",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "telcos, infracos, a state agency",
+   "tiers": ""
+  }
+ ],
+ "note": "Estimate covers unnamed facilities; no tier or cloud-region statement for BWA."
+}

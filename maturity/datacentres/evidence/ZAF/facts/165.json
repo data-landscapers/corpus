@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-09 Anthropic's Claude to bolster data sovereignty in SA",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TrendAI locally governed data centre and data lake",
+   "country_label": "ZAF",
+   "class": "other",
+   "platform": "",
+   "owner": "TrendAI",
+   "tiers": ""
+  }
+ ],
+ "note": "Unnamed locally governed South African data centre running Claude for TrendAI; not stated to rent to others, no operator, tier or date."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2017-10-26-huawei-new-ict-helps-build-smart-zambia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zambia National Data Center (ZICTA, Lusaka) with Roma and Kitwe backups",
+   "country_label": "National Data Center",
+   "class": "datacentre",
+   "platform": "Huawei cloud",
+   "owner": "Government of Zambia / ZICTA",
+   "tiers": "government and public institutions"
+  }
+ ],
+ "note": "Press release says the cloud platform was designed to serve government, public institutions and commercial enterprises, but states no customer outside the state using it; no fact for hire."
+}

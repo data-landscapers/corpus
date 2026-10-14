@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Per a Fortren & Company report carried by BusinessDay, Teraco's Isando Campus in Johannesburg is Africa's largest operational data centre, with 70 MW of IT capacity; the date is the article's published date.", "as_of": "2026-07-28", "date_precision": "day", "system": "Teraco Isando Campus", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Teraco Isando Campus", "country_label": "ZAF", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""}
+  ],
+  "note": "Statements on Nigeria, Kenya, Egypt, Ghana and others are not facts for ZAF; South Africa's more than 60 percent share of operational capacity is capacity, not a fact."
+}

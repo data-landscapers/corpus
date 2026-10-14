@@ -1,0 +1,36 @@
+{
+ "slug": "2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Paratus Angola (previously ITA) opened DC1 in Luanda in 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Paratus Angola DC1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Paratus Angola (previously ITA) opened DC2 in Luanda in 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Paratus Angola DC2",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paratus Angola DC3",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": "Tier IV planned"
+  }
+ ],
+ "note": "DC3 Tier IV is under construction, not a tier3 fact; document gives no tier for DC1 and DC2."
+}

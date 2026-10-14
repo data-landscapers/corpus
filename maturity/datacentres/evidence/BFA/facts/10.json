@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-26-mini-data-centers-souverainete-donnees-connectingafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Cloud modular data centres (two mini data centres)",
+   "country_label": "data centers du Cloud gouvernemental",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": "government"
+  }
+ ],
+ "note": "Two government mini data centres in Ouagadougou for state platforms only (ministries host VMs); not for hire, so no fact."
+}

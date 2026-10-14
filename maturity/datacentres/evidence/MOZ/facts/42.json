@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-07-itweb-bcx-alibaba-alp-cloud-mozambique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Alibaba Cloud Africa Local Public (ALP) Cloud, Maputo",
+   "country_label": "ALP Cloud",
+   "class": "other",
+   "platform": "Alibaba Cloud",
+   "owner": "BCX (Telkom), distributor",
+   "tiers": ""
+  }
+ ],
+ "note": "BCX launched Alibaba ALP Cloud in Mozambique (Moztech, June 2024), served from Johannesburg availability zones; BCX says it installed ALP Cloud in Maputo, but no Alibaba region or hired data centre in MOZ is stated, so no fact."
+}

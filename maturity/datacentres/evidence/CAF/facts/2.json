@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03-huawei-egovernance-partnership-four-axes-mbetimedia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Tier III data centre (Huawei)",
+   "country_label": "centre de données national",
+   "class": "other",
+   "platform": "Huawei",
+   "owner": "State",
+   "tiers": "state"
+  }
+ ],
+ "note": "Tier III national data centre is planned, state-use only; no fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-07-certification-tier-iii-facility-pour-le-datacenter-du-ministere-des-finances",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Datacenter du ministère de l'Économie et des Finances",
+      "country_label": "Datacenter principal du MEF",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère de l'Économie et des Finances",
+      "tiers": ""
+    }
+  ],
+  "note": "Tier III Facility certified (Uptime, audits Q4 2024) but the data centre hosts the ministry's own systems only, not for hire."
+}

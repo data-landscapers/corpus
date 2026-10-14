@@ -1,0 +1,15 @@
+{
+ "slug": "2023-01-01-adc-gha-accra-acc1-2023-africa-data-centres-ghana-accra-acc1",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ADC Accra ACC1 (planned/delayed)",
+   "country_label": "Africa Data Centres Ghana Accra ACC1",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "Facility planned, under construction, then delayed; none in service."
+}

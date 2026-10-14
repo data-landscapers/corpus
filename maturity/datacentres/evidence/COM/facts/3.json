@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-22-com-mfbsb-appel-doffres-datacenters-pagf-si",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MFBSB primary and backup datacentres",
+   "country_label": "Datacenter primaire / de secours",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Tender for the finance ministry's own two datacentres, for its own applications; not for hire, nothing in service stated."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-mauritius-data-centre-market-report",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Mordor Intelligence's market report says Mauritius Telecom operates a live Tier IV data centre (a 400-rack hall) in Mauritius, and describes telecom incumbents as offering bundled colocation; the report gives no opening date, so 2025 is its published-year proxy.", "as_of": "2025", "date_precision": "year", "system": "Mauritius Telecom Tier IV data centre", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Mordor Intelligence says Mauritius Telecom's live Tier IV site has N+2 architecture and two independent utility feeds; the report states the tier as a vendor description and names no certifier, and gives no date, so 2025 is its published-year proxy.", "as_of": "2025", "date_precision": "year", "system": "Mauritius Telecom Tier IV data centre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Mauritius Telecom Tier IV data centre", "country_label": "", "class": "datacentre", "platform": "", "owner": "Mauritius Telecom", "tiers": "Tier IV"},
+    {"system": "Africa50-backed 30 MW build", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Rogers Capital Technology Services data centre", "country_label": "", "class": "", "platform": "", "owner": "Rogers Capital", "tiers": ""},
+    {"system": "Emtel data centre", "country_label": "", "class": "", "platform": "", "owner": "Emtel", "tiers": ""}
+  ],
+  "note": "Vendor market report; Tier IV claim is for one named operator facility only, no second tier III/IV facility named, no cloud region stated."
+}

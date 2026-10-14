@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-27 Google launches first African cloud region in Johannesburg (GCP)",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Google officially launched its first African cloud region in Johannesburg, South Africa (Google Cloud); the article gives no launch date, so its published date is used.",
+   "as_of": "2025-03-27",
+   "date_precision": "day",
+   "system": "Google Cloud Johannesburg region",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "Google Cloud region, Johannesburg",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

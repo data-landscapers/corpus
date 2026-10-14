@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cassava AI factory (Nvidia), South Africa",
+   "country_label": "AI factory",
+   "class": "other",
+   "platform": "Nvidia",
+   "owner": "Cassava Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an AI factory launch in ZAF, not described as space or compute for hire; no datacentre-class fact."
+}

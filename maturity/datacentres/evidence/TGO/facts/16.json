@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CNSS data centre",
+      "country_label": "DATA CENTER de la CNSS",
+      "class": "other",
+      "platform": "",
+      "owner": "CNSS Togo",
+      "tiers": "INAM (social-protection body) hosts SIAMU-INAM data there"
+    }
+  ],
+  "note": "CNSS data centre hosts state social-protection bodies only; no sale to outside customers stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2019-12-19-interxion-enters-into-agreement-for-controlling-interest-in-icolo-and-establishe",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Interxion states that Icolo, a Kenyan carrier- and cloud-neutral data centre operator, has two data centres in Kenya currently in operation, with strong demand from cloud, content and enterprise customers; no date given other than the release date.",
+   "as_of": "2019-12-19",
+   "date_precision": "day",
+   "system": "Icolo data centres (Nairobi and Mombasa)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Icolo data centres (Nairobi and Mombasa)",
+   "country_label": "Kenya",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Icolo (Interxion)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

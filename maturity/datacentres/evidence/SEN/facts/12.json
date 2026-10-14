@@ -1,0 +1,26 @@
+{
+  "slug": "2023-05-11-onix-dakar-tier-3-almadies-cls-q4-2023-completion",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Onix Data Centre says its carrier-neutral facility at the Almadies 2Africa cable landing station in Dakar launched on 16 February 2023, with the build still in progress and completion expected Q4 2023.",
+      "as_of": "2023-02-16",
+      "date_precision": "day",
+      "system": "Onix Data Centre Dakar (Almadies 2Africa CLS)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Onix Data Centre Dakar (Almadies 2Africa CLS)",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Onix Data Centres",
+      "tiers": ""
+    }
+  ],
+  "note": "No tier3 fact: Uptime Institute certification is only to be sought (designs ready to submit), completion expected Q4 2023."
+}

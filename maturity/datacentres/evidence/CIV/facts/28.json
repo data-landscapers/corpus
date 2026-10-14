@@ -1,0 +1,36 @@
+{
+  "slug": "2025-10-03 ST Digital opens eco-responsible Tier III data centre in Cote d'Ivoire (Grand-Bassam)",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ST Digital inaugurated its first Cote d'Ivoire data centre at VITIB II, Grand-Bassam, announced 2 October 2025.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "TechAfrica News reports ST Digital's Grand-Bassam data centre as Tier III (operator-stated, no certifier named).",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ST Digital Grand-Bassam data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital Grand-Bassam data centre",
+      "country_label": "ST Digital data centre, VITIB II",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": ""
+}

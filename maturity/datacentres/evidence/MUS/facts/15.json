@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-19-sovereign-cloud-rfi-clarification-no-2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GOC data centre (Ebene)",
+   "country_label": "Government Online Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "Tier III compliant (state-stated)"
+  },
+  {
+   "system": "MITCI secondary site (Rose-Belle)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "Tier IV certified (state-stated)"
+  }
+ ],
+ "note": "Government sites serving the state only; sovereign cloud is an RFI, not a service or a region."
+}

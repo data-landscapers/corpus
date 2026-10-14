@@ -1,0 +1,15 @@
+{
+ "slug": "2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Diamniadio National Data Center",
+   "country_label": "Diamniadio National Data Center",
+   "class": "datacentre",
+   "platform": "Huawei-built",
+   "owner": "Government of Senegal / ADIE",
+   "tiers": "government"
+  }
+ ],
+ "note": "Loan record; describes a government data centre centralising state data, no statement that it rents to outside customers."
+}

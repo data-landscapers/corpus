@@ -1,0 +1,16 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "datacentre",
+   "stage": "no evidence",
+   "centre": "",
+   "cloud": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a data centre for hire, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-datacentres.py."
+  }
+ ]
+}

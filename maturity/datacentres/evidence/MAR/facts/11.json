@@ -1,0 +1,31 @@
+{
+ "slug": "2024-05-08-dcd-iozera-386mw-tetouan-500m",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Iozera / Eureka Park, Tetouan (386MW)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Iozera",
+   "tiers": ""
+  },
+  {
+   "system": "N+One Casablanca data centre (building)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "N+One Datacenters",
+   "tiers": ""
+  },
+  {
+   "system": "Oracle OCI Morocco region (announced)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Oracle",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned 386MW Tetouan project and an announced Oracle region only; nothing in service stated."
+}

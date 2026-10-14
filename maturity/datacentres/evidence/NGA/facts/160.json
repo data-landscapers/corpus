@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "TechAfrica News reports Galaxy Backbone's sovereign Galaxy Cloud Platform, sold to iHatch startups, is supported by Tier III and Tier IV Uptime-certified data centres; the specific facilities are not named and no certification date is given, so the published date is used.",
+      "as_of": "2026-05-05",
+      "date_precision": "day",
+      "system": "Galaxy Backbone data centres (Galaxy Cloud Platform)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Galaxy Cloud Platform (GxCP)",
+      "country_label": "GxCP",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Galaxy Backbone Limited",
+      "tiers": "Tier III and Tier IV (Uptime-certified, per article)"
+    }
+  ],
+  "note": ""
+}

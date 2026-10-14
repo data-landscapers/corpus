@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital",
+      "country_label": "ST Digital",
+      "class": "other",
+      "platform": "",
+      "owner": "ST Digital",
+      "tiers": ""
+    },
+    {
+      "system": "OADC",
+      "country_label": "WIOCC/OADC",
+      "class": "other",
+      "platform": "",
+      "owner": "WIOCC",
+      "tiers": ""
+    }
+  ],
+  "note": "Lists DR Congo only as a country of operation for ST Digital, WIOCC/OADC and CSquared, with multi-country totals; names no COD facility, opening or tier."
+}

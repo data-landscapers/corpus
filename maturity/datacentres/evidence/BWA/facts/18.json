@@ -1,0 +1,26 @@
+{
+ "slug": "2020-11-04-btc-sentlhaga-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "BTC's Sentlhaga Data Center is an operating facility that houses customers' ICT platforms and hosts BTC's Cloud Connect offerings; it is described as Tier II, Uptime certified (not Tier III), 120 sqm floor, 5 kW per rack (page dated by proxy, 2020-11-04).",
+   "as_of": "2020-11-04",
+   "date_precision": "day",
+   "system": "Sentlhaga Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sentlhaga Data Center",
+   "country_label": "Sentlhaga Data Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Botswana Telecommunications Corporation (BTC)",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier II only, so no tier3 fact."
+}

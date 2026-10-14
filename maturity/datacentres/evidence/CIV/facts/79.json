@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-12-st-digital-gpu-cloud-africa-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "GPU Cloud Africa", "country_label": "GPU Cloud Africa", "class": "other", "platform": "NVIDIA GPU servers in Abidjan and Douala", "owner": "ST Digital", "tiers": ""}
+  ],
+  "note": "Announces a GPU hosting service to start Q2 2025 with servers deployed in Abidjan; no data centre named as in service, no tier and no cloud region stated."
+}

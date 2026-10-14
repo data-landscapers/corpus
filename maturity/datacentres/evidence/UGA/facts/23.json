@@ -1,0 +1,52 @@
+{
+  "slug": "2022-02-09-dcd-centenary-group-masaka-data-centre-plan",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "DCD states Raxio opened Uganda's first Uptime-certified Tier III data centre in Kampala in May 2021.",
+      "as_of": "2021-05",
+      "date_precision": "month",
+      "system": "Raxio Kampala data centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "DCD states Raxio opened a data centre in Kampala in May 2021.",
+      "as_of": "2021-05",
+      "date_precision": "month",
+      "system": "Raxio Kampala data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Kampala data centre",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio",
+      "tiers": ""
+    },
+    {
+      "system": "Centenary Group Masaka data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Centenary Group (Cente Tech)",
+      "tiers": ""
+    },
+    {
+      "system": "Government of Uganda Jinja data centre",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Uganda",
+      "tiers": ""
+    }
+  ],
+  "note": "Masaka is planned; Jinja launched 2019 is a state centre claimed Tier III, not Uptime-listed, no outside customers stated."
+}

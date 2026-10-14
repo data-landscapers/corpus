@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-17-nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Cloud Infrastructure Strategy",
+      "country_label": "National Cloud Infrastructure Strategy",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    },
+    {
+      "system": "National Sovereign Cloud Initiative",
+      "country_label": "National Sovereign Cloud Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Policy and investment talk only; no facility or cloud region stated."
+}

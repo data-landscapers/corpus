@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-23-raxio-afr-ix-data-centres-angola-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio's carrier-neutral colocation data centre in Mozambique hosts customers, and AFR-IX Telecom is deploying its network there (article of 2026-07-23, no event date).",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Raxio MZ1",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio is described as having the first independent carrier-neutral data centre in Mozambique to achieve Tier III certification (article of 2026-07-23, no certification date).",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Raxio MZ1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio MZ1",
+   "country_label": "Raxio Mozambique",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

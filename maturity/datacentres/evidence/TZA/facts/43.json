@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-18-kamati-ya-bunge-yaipongeza-ttcl-data-center-dodoma",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dodoma government data centre",
+      "country_label": "Data Center Dodoma",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Tanzania",
+      "tiers": ""
+    },
+    {
+      "system": "TTCL Data Center",
+      "country_label": "Data Center",
+      "class": "",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    }
+  ],
+  "note": "Dodoma government data centre is planned (feasibility done, implementation expected next fiscal year, for government data); TZS 30bn equipment upgrade and USD 3.8m for TTCL data centre are investment, not a service or tier statement."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Kenya data centre",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft/G42",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": "Microsoft-G42 centre unfunded by government, not in service; iXAfrica GPU infrastructure (Nov 2025) not placed at a named Kenyan facility; no fact."
+}

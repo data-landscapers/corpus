@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-dailymaverick-approved-in-the-dark-data-centre-toll",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equinix second hyperscale data centre, Cape Town",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Op-ed: about 60 known ZAF data centres (~500MW) but no named in-service facility, tier or cloud region; second Equinix site only approved for land use."
+}

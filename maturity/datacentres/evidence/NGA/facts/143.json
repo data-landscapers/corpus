@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-09-independent-ng-afcfta-mene-nigeria-customs-digital-reforms",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nigeria Customs Service data centre",
+      "country_label": "NCS data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Nigeria Customs Service",
+      "tiers": ""
+    }
+  ],
+  "note": "Customs' own data centre, state use only; no data centre for hire stated."
+}

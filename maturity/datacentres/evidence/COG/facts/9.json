@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-12-congo-datacenter-national-operationnel-mai-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center National (Congo National Data Centre)",
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo (MPTEN), financed by the African Development Bank",
+   "tiers": "TIER III+ (design, stated)"
+  }
+ ],
+ "note": "National data centre still to open by May 2026 (Feb 2026 article); Tier III+ is a stated design for a facility not yet in service."
+}

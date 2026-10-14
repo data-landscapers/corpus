@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-24-lancet-africa-ai-health-infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "tier3",
+      "value": "tier3",
+      "fact": "The article says Raxio Group's Tier III-certified, carrier-neutral data centres across countries including the DRC are backed by $100 million from the World Bank; it names no DRC facility, gives no certifying body and does not say outright that the DRC centre is open, so as_of is the article's publication date.",
+      "as_of": "2026-07-24",
+      "date_precision": "day",
+      "system": "Raxio Group data centres (DRC)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Raxio Group data centres",
+      "country_label": "Raxio",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Raxio Group",
+      "tiers": "Tier III (stated)"
+    }
+  ],
+  "note": ""
+}

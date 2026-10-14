@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritanian national cloud (السحابة الوطنية الموريتانية)", "country_label": "السحابة الوطنية الموريتانية", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation (state)", "tiers": "public administration"},
+    {"system": "Nouakchott data centre (مركز البيانات في نواكشوط)", "country_label": "مركز البيانات في نواكشوط", "class": "other", "platform": "", "owner": "state", "tiers": "public administration"}
+  ],
+  "note": "State national cloud inaugurated 2026-06-29 at the Nouakchott data centre for digital sovereignty and public services; no statement that it rents space or computing to outside customers, and no Tier rating or foreign cloud region stated."
+}

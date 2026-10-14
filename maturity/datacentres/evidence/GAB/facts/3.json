@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-16-gab-gabonreview-data-center-ia-administration-publique-chine",
+ "facts": [],
+ "systems": [
+  {
+   "system": "La Poste SA Charbonnages data site",
+   "country_label": "site de La Poste SA",
+   "class": "other",
+   "platform": "",
+   "owner": "La Poste SA",
+   "tiers": ""
+  }
+ ],
+ "note": "Proposed AI data centre with China is conditional and unbuilt; La Poste site is a possible location only."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-28-gabon-datacenter-june-launch-set",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital Gabon data centre, Nkok",
+      "country_label": "Data Center national et souverain",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": "Pre-opening: ST Digital's Tier 3 data centre at Nkok was presented as to be inaugurated in June 2026; planned, not in service."
+}

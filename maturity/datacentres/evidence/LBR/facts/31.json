@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-liberia-national-data-governance-policy",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: LTC Mobile National Data Centre (Liberia Telecommunications Corporation (LTC Mobile)), colocation/carrier-neutral, in service; this document names it (published 2026-03-01).",
+   "as_of": "2026-03-01",
+   "date_precision": "day",
+   "system": "LTC Mobile National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-09-dza-echchaab-trois-ans-algerie-numerique-2030",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mohammadia national data centre",
+      "country_label": "مركز البيانات بالمحمدية",
+      "class": "other",
+      "platform": "",
+      "owner": "State (Centre national algerien des services numeriques)",
+      "tiers": "Tier III Design, Feb 2026"
+    },
+    {
+      "system": "Blida national data centre",
+      "country_label": "مركز البيانات بالبليدة",
+      "class": "other",
+      "platform": "",
+      "owner": "State (Centre national algerien des services numeriques)",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": "State government data centres serving the state only; document states no sale to outside customers, so no fact."
+}

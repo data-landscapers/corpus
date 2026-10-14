@@ -1,0 +1,17 @@
+{
+ "slug": "2022-11-08-dcd-helios-50m-ixafrica",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: iXAfrica NBOX1 (iXAfrica Data Centres), colocation/carrier-neutral, in service; this document names it (published 2022-11-08).",
+   "as_of": "2022-11-08",
+   "date_precision": "day",
+   "system": "iXAfrica NBOX1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

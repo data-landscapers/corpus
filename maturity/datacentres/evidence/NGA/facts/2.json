@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-15-ustda-afridata-nigeria-data-center-feasibility-study-rfp",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AFRIDATA Nigeria data centres (Lagos, Delta)",
+      "country_label": "AFRIDATA DATACENTER NIGERIA Ltd",
+      "class": "other",
+      "platform": "",
+      "owner": "Infragora Global Capital SPV",
+      "tiers": "planned Tier IV (Lagos), Tier III or IV (Delta)"
+    }
+  ],
+  "note": "Planned data centres only, feasibility study stage; no in-service facility."
+}

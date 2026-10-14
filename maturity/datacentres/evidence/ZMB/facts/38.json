@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-05-cassava-liquid-mou-government-of-zambia-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Liquid Zambia new data centre (planned)", "country_label": "", "class": "other", "platform": "", "owner": "Liquid Intelligent Technologies (Cassava Technologies)", "tiers": ""}
+  ],
+  "note": "MOU of 7 March 2023 commits Liquid Zambia to launching a new data centre; planned only, no facility in service, no tier, no cloud region stated."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-06-15-deux-solutions-de-cloud-souverain-pour-inwi",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "inwi's datacentres at Sapino (Casablanca) and Technopolis (Rabat/Salé) are operational, as are Tanger, Oujda, Meknès and Agadir, offering about 4,000 m2 of dedicated or shared hosting space to business customers; Settat and Marrakech were planned for 2023; dated 2023-06-14 per the article's publication.",
+   "as_of": "2023-06-14",
+   "date_precision": "day",
+   "system": "inwi business datacenter (Sapino, Technopolis)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "inwi business datacenter",
+   "country_label": "inwibusiness datacenter",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "inwi",
+   "tiers": ""
+  },
+  {
+   "system": "inwi sovereign cloud (VMware, OpenStack)",
+   "country_label": "cloud souverain inwi",
+   "class": "other",
+   "platform": "VMware; OpenStack",
+   "owner": "inwi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

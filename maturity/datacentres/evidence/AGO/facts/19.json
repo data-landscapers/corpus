@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-nj-pr-inaugura-novo-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo",
+   "country_label": "Centro de Dados do Governo (Nuvem Nacional de Angola)",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI, Ministry of Telecommunications (MINTTICS)",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre hosting state data; no sale to outside customers stated."
+}

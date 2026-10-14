@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-22-aps-data-center-tier-iii-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Mohammadia Data Center",
+   "country_label": "Centre national de donnees",
+   "class": "other",
+   "platform": "",
+   "owner": "Government (Haut commissariat a la numerisation)",
+   "tiers": "state"
+  }
+ ],
+ "note": "Tier III Design certificate for the state Mohammadia centre; no statement that it rents to others."
+}

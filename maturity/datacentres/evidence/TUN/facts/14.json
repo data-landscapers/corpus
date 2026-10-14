@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-29-tunisie-stb-extension-datacenter-secours-marche",
+  "facts": [],
+  "systems": [
+    {
+      "system": "STB datacenter principal et de secours",
+      "country_label": "Datacenter STB",
+      "class": "other",
+      "platform": "",
+      "owner": "Societe Tunisienne de Banque",
+      "tiers": ""
+    }
+  ],
+  "note": "Bank's own data centres; tender award, no hire service."
+}

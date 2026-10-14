@@ -1,0 +1,23 @@
+{
+  "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Integrated Data Center",
+      "country_label": "Government Data Center",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": ""
+    },
+    {
+      "system": "New data centre at the IT Park",
+      "country_label": "new data center at IT Park",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Government data centre serving the state only; no data centre for hire or cloud region stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-19-vodacom-tanzania-colocation-privacy-supplement",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vodacom Tanzania's privacy supplement says its colocation service lets customers move infrastructure into its purpose-built data centres in Dodoma, Mwanza, Arusha, Mbeya and Dar es Salaam, which it says hold ISO 27001 certification; the document gives no date, so as_of is the 2022-04-19 file date.",
+   "as_of": "2022-04-19",
+   "date_precision": "day",
+   "system": "Vodacom Tanzania data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodacom Tanzania data centres",
+   "country_label": "Vodacom colocation",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Vodacom Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-gin-webguinee24-data-center-national-operationnalisation",
+ "facts": [],
+ "systems": [
+  {
+   "country_label": "Data Center National",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea, Ministry of Communication, Digital Economy and Innovation",
+   "tiers": "",
+   "system": "Guinea national data centre (Koloma)"
+  }
+ ],
+ "note": "PM visit on operationalisation of national data centre; no for-hire in-service facility stated."
+}

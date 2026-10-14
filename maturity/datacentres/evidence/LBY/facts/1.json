@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-23-alaan-libya-cloud-iaas-colocation-page",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "ALAAN Cloud Services, Tripoli, sells OpenStack cloud IaaS and colocation to business customers with monthly plans from 1,780 LYD, on a product page captured 2026-01-23 (date is the capture date; the page gives none).",
+   "as_of": "2026-01-23",
+   "date_precision": "day",
+   "system": "ALAAN Cloud IaaS",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ALAAN Cloud IaaS",
+   "country_label": "ALAAN Cloud Services",
+   "class": "datacentre",
+   "platform": "OpenStack",
+   "owner": "ALAAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

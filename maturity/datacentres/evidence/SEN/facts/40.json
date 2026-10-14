@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-10-techafricanews-sonatel-gandoul-oneweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gandoul teleport technical room",
+   "country_label": "salle technique Tier III",
+   "class": "other",
+   "platform": "",
+   "owner": "Sonatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier III technical room is part of a satellite gateway teleport, not stated as a data centre for hire."
+}

@@ -1,0 +1,40 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,Data center national (planned sovereign tier 3/4 data centres),data center national,other,,State,planned,2026-07-28-cg-feuille-de-route-numerique-tribune
+COG,"Regional data centre at Cote-Matheve gas plant, Pointe-Noire (feasibility study)",,other,,CEO / Pratic,,2026-06-02-ceo-ong-pratic-souverainete-numerique-ldb
+COG,ST DIGITAL,ST DIGITAL,datacentre,,ST DIGITAL,Tier 3 / TIA-942 (operator statement),2026-03-03-st-digital-iso-27001-certification
+COG,ARPCE datacenter,datacenter de l'ARPCE,other,,ARPCE (regulator),,2021-08-10-congo-brazza-larpce-inaugure-son-nouveau-datacenter-dans-un-batiment-technique-t
+COG,"National data center, Bacongo, Brazzaville",data center national,other,,State (AfDB financed),,2026-09-24-cog-aci-data-center-82-pourcent
+COG,Data Center National (Congo National Data Centre),Data Center National,other,,"Government of Congo (MPTEN), financed by the African Development Bank",,2026-09-24-cog-vox-vpm-inspecte-data-center-solaire
+COG,Data Center National (Congo National Data Centre),Data Center National,other,,"Government of Congo (MPTEN), financed by the African Development Bank",,2026-09-02-mpten-data-center-national
+COG,ST Digital,ST Digital,other,,ST Digital,,2026-05-13-anthony-same-st-digital-african-datacenter-network-wearetech
+COG,Data Center National (Congo National Data Centre),Data Center National,other,,"Government of Congo (MPTEN), financed by the African Development Bank","TIER III+ (design, stated)",2026-02-12-congo-datacenter-national-operationnel-mai-2026
+COG,Data Center National (Congo National Data Centre),Data Center National,other,,"Government of Congo (MPTEN), financed by the African Development Bank",,2026-01-19-congo-pose-jalons-regulation-ia-ldb
+COG,Unnamed telecom-operated commercial data centres,,datacentre,,Telecoms providers,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2026-01-01-xalam-congo-republic-data-center-market-briefing
+COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2025-10-29-aci-bad-datacenter-national-congo-pays-sous-region
+COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2025-10-21-cog-datacenter-national-bloque-defaut-financement-sikafinance
+COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2025-10-16-datacenter-national-sumec-menace-abandonner-chantier
+COG,Datacentre national (Brazzaville),Datacenter national,other,,State of Congo with AfDB financing; built by Sumec,,2025-08-07-congo-national-data-centre-90pc-november-launch-techafricanews
+COG,National Data Centre (Brazzaville),Datacenter national,other,,"Government of Congo, co-financed by AfDB",,2025-08-06-datacenter-national-inaugure-novembre-ldb
+COG,National Data Centre (Brazzaville),Datacenter national,other,,"Government of Congo, co-financed by AfDB",,2025-05-29-bad-sindigne-ralentissement-datacenter-ldb
+COG,National Data Centre (Brazzaville),Datacenter national,other,,"Government of Congo, co-financed by AfDB",,2025-03-11-energycapitalpower-congo-national-data-centre-75pc-complete
+COG,National Data Centre (Brazzaville),Datacenter national,other,,"Government of Congo, co-financed by AfDB",,2025-03-04-congo-national-data-centre-80pc-complete-wearetech
+COG,National Data Centre (Brazzaville),Datacenter national,other,,"Government of Congo, co-financed by AfDB",,2025-03-01-adiac-datacenter-national-siege-inaugure-novembre-80pc
+COG,"Congo National Data Centre (Brazzaville, Bacongo)",Data Center national,other,,"Government of Congo, AfDB-funded (Central African Backbone)",,2025-02-28-aci-congo-bad-kone-data-center-75pc
+COG,"Congo National Data Centre (Brazzaville, Bacongo)",Data Center national,other,,"Government of Congo, AfDB-funded (Central African Backbone)",,"2024-05-20 Congo to build Central Africa's first fibre data centre (Brazzaville, $72.8m)"
+COG,"Congo National Data Centre (Brazzaville, Bacongo)",Data Center national,other,,"Government of Congo, AfDB-funded (Central African Backbone)",,2024-05-20-developingtelecoms-brazzaville-data-centre-due-end-of-year-adb
+COG,ARPCE Pointe-Noire data centre,,other,,ARPCE,,2024-05-20-developingtelecoms-brazzaville-data-centre-due-end-of-year-adb
+COG,MTN Congo data centre (Brazzaville),,other,,MTN Congo,,2024-05-20-developingtelecoms-brazzaville-data-centre-due-end-of-year-adb
+COG,"Congo National Data Centre (Brazzaville, Bacongo)",Data Center national,other,,"Government of Congo, AfDB-funded (Central African Backbone)",,2024-05-17-afdb-congo-national-data-centre-digital-sovereignty
+COG,ARPCE Pointe-Noire data centre,,other,,ARPCE (state telecom regulator),,2024-03-11 Republic of Congo launches Pointe-Noire data centre for 2Africa cable
+COG,ARPCE Pointe-Noire Datacenter,"Datacenter de l'ARPCE, Pointe-Noire",datacentre,,ARPCE,Tier 3+,2024-03-04-digitalbusinessafrica-arpce-datacenter-tier3-pointe-noire-2africa
+COG,ARPCE Brazzaville Datacenter,Datacenter de Brazzaville (bâtiment technique ARPCE),other,,ARPCE,Tier 2,2024-03-04-digitalbusinessafrica-arpce-datacenter-tier3-pointe-noire-2africa
+COG,Paratus Angola DC3,,other,,Paratus Group,"Tier IV (Angola, not COG)",2023-01-01-pidg-reg-paratus-2023-paratus-fibre-and-data-centre-expansion
+COG,Data Center National,Data Center National (DCA),other,,Government of Congo,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
+COG,RSU headquarters data centre,data center du Registre Social Unique,other,,Ministry of Social Affairs,,2026-04-14-registre-social-unique-congo-siege-approprie
+COG,Universite Marien Ngouabi data centre,data center,other,,Universite Marien Ngouabi / PATN,,2026-01-27-aci-umng-onze-etablissements-connectivite-haut-debit
+COG,E2C data centre,data center,other,,Energie electrique du Congo (E2C),,2025-09-13-e2c-visite-ministre-data-center-archives
+COG,National data center (AfDB-backed),national data center,other,,Government of Congo,,2025-07-02-techcabal-tech-ministers-sovereign-data
+COG,"ARPCE data centre, Pointe-Noire",Datacenter Tier 3+,datacentre,,ARPCE,Tier 3+ (stated),2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire
+COG,"CAB-Congo national data centre, Bacongo, Brazzaville",national data centre,other,,Government of Congo (AfDB financed),,2016-01-01-afdb-cog-001-congo---central-africa-backbone-cab
+COG,ST Digital,Congo,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure

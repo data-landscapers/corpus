@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-29-gabon-lunion-national-datacenter",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Data Center national",
+   "class": "other",
+   "platform": "",
+   "owner": "ANINF / Cybastion",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre convention signed; planned, not in service."
+}

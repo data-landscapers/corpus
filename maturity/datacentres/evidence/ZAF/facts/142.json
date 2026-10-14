@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-adc-reg-500m-programme-2021-africa-data-centres-500-million-pan-african",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The record states that, as of 2024, Africa Data Centres (Cassava Technologies), a cloud- and carrier-neutral operator, operates facilities in South Africa; no individual facility is named as opened.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Africa Data Centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres JHB1/JHB2/CPT1/CPT2",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "Operating fact for South Africa is the record's 2024 note; named sites are programme targets."
+}

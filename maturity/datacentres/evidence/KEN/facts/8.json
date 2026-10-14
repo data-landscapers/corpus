@@ -1,0 +1,31 @@
+{
+ "slug": "2026-08-18-econews-amaco-mombasa-ai-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Amaco Hercules offshore AI data centre (proposal)",
+   "country_label": "Amaco Hercules offshore AI data centre (proposal)",
+   "class": "other",
+   "platform": "",
+   "owner": "Amaco Energy Group",
+   "tiers": ""
+  },
+  {
+   "system": "Nxtra Tatu City (under construction)",
+   "country_label": "Nxtra Tatu City (under construction)",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel",
+   "tiers": ""
+  },
+  {
+   "system": "iXAfrica Nairobi",
+   "country_label": "iXAfrica Nairobi",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "iXAfrica",
+   "tiers": ""
+  }
+ ],
+ "note": "Proposal, construction and planned projects only; no in-service fact stated."
+}

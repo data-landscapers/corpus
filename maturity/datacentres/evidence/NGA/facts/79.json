@@ -1,0 +1,36 @@
+{
+  "slug": "2022-03-12-21st-century-concludes-deal-with-siemens-energy",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "21st Century Technologies says its data centres in Ikeja and Lekki, Lagos are running, the first built in 2004 and operating for 18 years, with numerous customers; the article date 2022-03-12 is used.",
+      "as_of": "2022-03-12",
+      "date_precision": "day",
+      "system": "21st Century Technologies data centres (Ikeja and Lekki)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "21st Century Technologies states its Ikeja and Lekki data centres are designed above Tier IV standard; this is an operator claim, with no certifier named; the article date 2022-03-12 is used.",
+      "as_of": "2022-03-12",
+      "date_precision": "day",
+      "system": "21st Century Technologies data centres (Ikeja and Lekki)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "21st Century Technologies data centres (Ikeja and Lekki)",
+      "country_label": "NGA",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "21st Century Technologies Limited",
+      "tiers": ""
+    }
+  ],
+  "note": "Siemens Energy turbine deal is not a fact."
+}

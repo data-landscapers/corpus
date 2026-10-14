@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-16-cape-town-tribunal-data-centre-greenlight",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equinix King Air Industria data centres, Cape Town",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Land-use approval for two planned Equinix data centres; none in service."
+}

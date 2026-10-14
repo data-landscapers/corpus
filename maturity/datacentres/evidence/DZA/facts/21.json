@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-08-elmoudjahid-algerie-a-l-ere-du-tout-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre national algérien des services numériques (Mohammadia)",
+      "country_label": "Centre national algérien des services numériques",
+      "class": "other",
+      "platform": "",
+      "owner": "Haut-Commissariat à la Numérisation",
+      "tiers": "government"
+    }
+  ],
+  "note": "Editorial says the state's Mohammadia national digital services centre was inaugurated in 2026 with Tier III synchronous data centres, but only for hosting national data; no sale to outside customers stated, so no for-hire fact."
+}

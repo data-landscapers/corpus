@@ -1,0 +1,15 @@
+{
+ "slug": "2019-10-15-dcd-trans-saharan-tatweer-libyan-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Trans-Sahara/Tatweer Huawei FusionModule1000A data center, Tripoli",
+   "country_label": "",
+   "class": "other",
+   "platform": "Huawei FusionModule1000A",
+   "owner": "Trans-Sahara and Tatweer",
+   "tiers": ""
+  }
+ ],
+ "note": "2019 article says the Tripoli data centre was planned for early 2020; planned only, no fact."
+}

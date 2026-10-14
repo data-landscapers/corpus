@@ -1,0 +1,26 @@
+{
+ "slug": "2021-06-06-togo-presse-inauguration-lome-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "President Gnassingbé inaugurated Lomé Data Centre on 4 June 2021, a facility hosting servers for several companies on a colocation basis, with 400 sq m of private and 100 sq m of government server halls; owned by SIN.",
+   "as_of": "2021-06-04",
+   "date_precision": "day",
+   "system": "Lomé Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lomé Data Centre",
+   "country_label": "Lomé Data Centre (LDC)",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Société d'Infrastructures Numériques (SIN), state-owned",
+   "tiers": ""
+  }
+ ],
+ "note": "Built to Tier III+ but certification by the Uptime Institute was still in progress, so no tier3 fact."
+}

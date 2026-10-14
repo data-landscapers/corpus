@@ -1,0 +1,90 @@
+{
+ "slug": "2018-08-16-vox-selects-teraco-to-grow-data-centre-footprint-vox",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vox states its co-location and cloud services are in full production at Teraco's Riverfields (Bredell, Kempton Park) carrier-, cloud- and vendor-neutral data centre; stated in an article dated 2018-08-16, which gives no earlier date.",
+   "as_of": "2018-08-16",
+   "date_precision": "day",
+   "system": "Teraco Riverfields",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vox states it also uses Teraco's Isando data centre, a carrier-neutral facility, to deliver its services (article dated 2018-08-16).",
+   "as_of": "2018-08-16",
+   "date_precision": "day",
+   "system": "Teraco Isando",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vox states it uses Teraco's Durban data centre to deliver its services (article dated 2018-08-16).",
+   "as_of": "2018-08-16",
+   "date_precision": "day",
+   "system": "Teraco Durban",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Vox states it uses Teraco's Cape Town data centre to deliver its services (article dated 2018-08-16).",
+   "as_of": "2018-08-16",
+   "date_precision": "day",
+   "system": "Teraco Cape Town",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "none",
+   "fact": "Vox announced it is shutting down its own Waverley data centre, which hosted co-location customers, in November 2018, migrating them to Teraco Riverfields.",
+   "as_of": "2018-11",
+   "date_precision": "month",
+   "system": "Vox Waverley",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Riverfields",
+   "country_label": "Teraco Riverfields",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Isando",
+   "country_label": "Teraco Isando",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Durban",
+   "country_label": "Teraco Durban",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco Cape Town",
+   "country_label": "Teraco Cape Town",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "Waverley closure was announced as upcoming; 6,000 m2 / 24 MW not recorded as facts."
+}

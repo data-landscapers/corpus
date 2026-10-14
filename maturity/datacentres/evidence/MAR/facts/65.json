@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-30-orange-omea-aws-wavelength-morocco-senegal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AWS Wavelength zone Morocco",
+   "country_label": "MAR",
+   "class": "other",
+   "platform": "AWS Wavelength",
+   "owner": "Amazon Web Services with Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "Announcement of planned Wavelength zones in Orange data centres; planned, and not a cloud region; no fact."
+}

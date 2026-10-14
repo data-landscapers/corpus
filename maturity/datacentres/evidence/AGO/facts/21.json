@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-pti-mario-oliveira-data-center-cloud-governo-soberania-digital",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Data Center e Cloud do Governo de Angola",
+   "country_label": "Data Center e Cloud do Governo",
+   "class": "other",
+   "platform": "",
+   "owner": "INFOSI / MINTTICS (built with Presight)",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centre and cloud, state use; no stated sale to outside customers and no Tier or cloud-region statement."
+}

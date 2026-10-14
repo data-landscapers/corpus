@@ -1,0 +1,169 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,"Hercules (Amaco, Mombasa)","Hercules (Amaco, Mombasa)",other,,Amaco Energy Group,,2026-09-10-amaco-ge-vernova-mombasa-ai-data-centre
+KEN,Microsoft/G42 Nakuru data centre,Microsoft/G42 Nakuru data centre,other,,Microsoft,,2026-09-10-amaco-ge-vernova-mombasa-ai-data-centre
+KEN,Digital Realty NBO2 (Nairobi Two),Digital Realty NBO2 (Nairobi Two),datacentre,,Digital Realty,,2026-09-10-amaco-ge-vernova-mombasa-ai-data-centre
+KEN,Digital Realty NBO2 (Nairobi Two),Digital Realty NBO2 (Nairobi Two),datacentre,,Digital Realty,,2026-09-10-connectingafrica-kenya-standalone-data-centre-licence
+KEN,Nobus-EA-AZ1,Nobus-EA-AZ1,datacentre,,Nkponani Limited (Nobus Cloud Services),,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Oracle Nairobi cloud region (with iXAfrica),Oracle Nairobi cloud region (with iXAfrica),other,,Oracle,,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Airtel Kenya Nairobi data centre,Airtel Kenya Nairobi data centre,other,,Airtel Kenya,,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Digital Realty NBO2 (Nairobi Two),Digital Realty NBO2 (Nairobi Two),datacentre,,Digital Realty,,2026-09-09-cioafrica-nobus-nairobi-availability-zone
+KEN,Digital Realty NBO2 (Nairobi Two),NBO2,datacentre,,Digital Realty,,2026-09-08-ken-digital-realty-nbo2-data-centre
+KEN,Digital Realty NBO1 (Nairobi One),NBO1,datacentre,,Digital Realty,,2026-09-08-ken-digital-realty-nbo2-data-centre
+KEN,Digital Realty Nairobi Two (NBO2),Digital Realty Nairobi Two (NBO2),datacentre,,Digital Realty,,2026-09-07-digital-realty-nairobi-nbo2-data-centre
+KEN,Digital Realty Nairobi One (NBO1),Digital Realty Nairobi One (NBO1),datacentre,,Digital Realty,,2026-09-07-digital-realty-nairobi-nbo2-data-centre
+KEN,Amaco Hercules offshore AI data centre (proposal),Amaco Hercules offshore AI data centre (proposal),other,,Amaco Energy Group,,2026-08-18-econews-amaco-mombasa-ai-data-centre
+KEN,Nxtra Tatu City (under construction),Nxtra Tatu City (under construction),other,,Airtel,,2026-08-18-econews-amaco-mombasa-ai-data-centre
+KEN,iXAfrica Nairobi,iXAfrica Nairobi,datacentre,,iXAfrica,,2026-08-18-econews-amaco-mombasa-ai-data-centre
+KEN,"Safaricom cloud data centres (Nairobi, Kisumu)","Safaricom cloud data centres (Nairobi, Kisumu)",datacentre,,Safaricom,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,iXAfrica Data Centres,iXAfrica Data Centres,datacentre,,iXAfrica,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,Konza data centre,Konza data centre,other,,State,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,Oracle Kenya cloud region (coming soon),Oracle Kenya cloud region (coming soon),other,,Oracle,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,Microsoft/G42 East Africa Cloud Region (cancelled),Microsoft/G42 East Africa Cloud Region (cancelled),other,,Microsoft/G42,,2026-08-06-search-for-firm-to-host-sensitive-state-data-on-cloud-begins
+KEN,iXAfrica Nairobi data centre,iXAfrica Nairobi data centre,datacentre,,iXAfrica,,2026-08-04-techtrends-nxtra-kenya-july-2027-target
+KEN,"Nxtra Tatu City (under construction, July 2027 target)","Nxtra Tatu City (under construction, July 2027 target)",other,,Airtel,,2026-08-04-techtrends-nxtra-kenya-july-2027-target
+KEN,Oracle Cloud Infrastructure Nairobi region,Oracle Cloud Infrastructure Nairobi region,other,,Oracle,,2026-07-29-oracle-to-launch-nairobi-cloud-region
+KEN,iXAfrica NBOX1 campus,iXAfrica NBOX1 campus,other,,iXAfrica Data Centres,,2026-07-29-oracle-to-launch-nairobi-cloud-region
+KEN,Microsoft-G42 Olkaria data center,Microsoft-G42 Olkaria data center,other,,Microsoft; G42,,2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity
+KEN,Airtel Nxtra Tatu City data center,Airtel Nxtra Tatu City data center,other,,Airtel Nxtra,,2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity
+KEN,EcoCloud Project Eagle,EcoCloud Project Eagle,other,,EcoCloud,,2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity
+KEN,Microsoft-G42 Olkaria data centre,Microsoft-G42 Olkaria data centre,other,,Microsoft; G42,,2026-05-12-kenya-microsoft-differ-on-sh129bn-data-centre
+KEN,Microsoft-G42 Kenya data centre,Microsoft-G42 Kenya data centre,other,,Microsoft; G42,,2026-05-11-microsoft-and-g42-kenya-data-centre-project-stalls
+KEN,EcoCloud 60MW facility,EcoCloud 60MW facility,other,,EcoCloud,,2026-05-11-microsoft-and-g42-kenya-data-centre-project-stalls
+KEN,NBO1 Nairobi Data Centre,NBO1 Nairobi Data Centre,datacentre,,Africa Data Centres,Uptime Institute Tier III,2026-01-01-nairobi-data-centre
+KEN,Nxtra Tatu City data center,Kenya,other,,Airtel Africa / Nxtra,,"2025-09-12 India's Airtel breaks ground on 44MW data center in Kenya (Nxtra, Tatu City)"
+KEN,NBOX1,Kenya,datacentre,,iXAfrica Data Centres,,2025-09-05 Kenya's iXAfrica secures financing for 20MW expansion to data center
+KEN,NBOX1,Kenya,datacentre,,iXAfrica Data Centres,,2025-05-14-safaricom-ixafrica-ai-data-centre-itweb
+KEN,Safaricom Limuru data centre,Kenya,other,,Safaricom,,2025-03-10-safaricom-completes-first-phase-of-construction-for-tier-3-data-centre
+KEN,iColo Mombasa MBA1/MBA2,Kenya,datacentre,,iColo (Digital Realty),,2024-11-11-icolo-linx-mombasa-mba2
+KEN,PAIX Nairobi NBO-1,PAIX Nairobi NBO-1,datacentre,,PAIX Data Centres,,2024-09-11-dcnn-linx-nairobi-expands-to-paix
+KEN,"EcoCloud-G42 Mega Data Center (Project Eagle), Olkaria",Project Eagle,other,,EcoCloud; G42,,2024-03-08-g42-partners-with-kenyas-ecocloud-for-geothermal-data-center
+KEN,Olkaria EcoCLOUD Data Centre (Project Eagle),Olkaria EcoCLOUD Data Centre,other,,Olkaria EcoCLOUD / KenGen Smart Industrial Park,,2023-09-01-geothermal-powered-data-centre-launched-in-olkaria
+KEN,Mombasa Two (MBA2),MBA2,datacentre,,iColo,,2022-07-19-icolo-mba2-mombasa-technical-specification-sheet
+KEN,MAS101 Data Center,MAS101,other,,Cloudoon,,2022-06-16-dcd-cloudoon-mas101-masinga-data-centre
+KEN,East Africa Data Center,East Africa Data Center,datacentre,,,,2022-06-16-dcd-cloudoon-mas101-masinga-data-centre
+KEN,PAIX data centres,PAIX data centres,other,,PAIX,,2021-10-22-invest-international-dggf-paix-loan-ghana-kenya
+KEN,Safaricom Thika Data Center,Safaricom Thika Data Center,datacentre,,Safaricom,,2018-09-18-safaricom-thika-data-centre-gets-design-certification-from-us-it-firm
+KEN,Telkom Milimani Exchange data centre,Telkom Milimani Exchange data centre,datacentre,,Telkom Kenya,,2018-07-31-telkom-launches-ksh-150m-data-centre-to-boost-colocation-and-data-back-up
+KEN,Mombasa One (MBA1),Mombasa One (MBA1),datacentre,,icolo.io,,2017-12-13-group-of-investors-starts-giving-services-at-mombasa-data-centre
+KEN,East Africa Data Centre (EADC),East Africa Data Centre (EADC),datacentre,,Liquid Intelligent Technologies Kenya,,2017-05-16-east-africa-data-centre-receives-tier-iii-certification-liquid-intelligent-techn
+KEN,MTN Business Nairobi data centre,MTN Business tier-3 datacenter,datacentre,,MTN Business Kenya,tier 3 (operator-stated),2017-03-30-mtn-business-launches-a-tier-3-datacenter-in-kenya-forges-on-partnerships-to-dri
+KEN,AccessKenya Mombasa data centre,Data Center in Mombasa,datacentre,,AccessKenya Group,,2013-09-13-ceo-weekends-why-we-launched-new-data-center-in-mombasa-accesskenya-techmoran
+KEN,AccessKenya data centre,data centre,datacentre,,AccessKenya Group,,2012-01-18-accesskenya-completes-kes-30-million-upgrade-on-state-of-the-art-data-centre
+KEN,Satlyt virtual AI data centres in orbit,virtual AI data centres,other,,Satlyt,,2026-10-01-xaf-techcabal-space-data-centres-8m
+KEN,iXAfrica NBOX1,NBOX1,datacentre,,iXAfrica Data Centres,,2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi
+KEN,TCS Sovereign Secure Cloud,TCS sovereign cloud,other,,Tata Consultancy Services,,2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi
+KEN,iXAfrica Data Centres,iXAfrica Data Centres,,,iXAfrica,,2026-09-23-startupkenya-ibtc-datacentre-academy-kenya
+KEN,NBO2,NBO2,datacentre,,Digital Realty (operated by iColo),,2026-09-15-ken-techtrendske-ai-data-centre-hercules-lulu-pipeline
+KEN,Nxtra Tatu City data centre,,other,,Airtel Nxtra,,2026-09-15-ken-techtrendske-ai-data-centre-hercules-lulu-pipeline
+KEN,Hercules AI data centre,,other,,AMACO Energy Group,,2026-09-15-ken-techtrendske-ai-data-centre-hercules-lulu-pipeline
+KEN,IColo 1,IColo 1,datacentre,,iColo,,2026-09-13-ken-linkedin-beck-starlink-icolo-mombasa
+KEN,Konza Data Centre,Konza Data Centre,other,,Technopolis Development Authority,,2026-09-11-ken-techreviewafrica-undp-konza-sovereign-ai
+KEN,Microsoft-G42 Olkaria data centre,Microsoft-G42 Kenya initiative,other,,Microsoft; G42,,2026-08-24-thisday-biggest-threat-africa-data-centre-race-grid
+KEN,Airtel Kenya data centre (Nxtra),Airtel Kenya data centre,other,,Airtel Kenya,,2026-08-04-airtel-kenya-regional-mega-data-centre
+KEN,Oracle Cloud Infrastructure Kenya facility,,other,,Oracle,,2026-07-28-africa-data-centre-capacity-500mw-890mw-pipeline
+KEN,Microsoft-G42 Kenya Azure cloud region,,other,,Microsoft; G42,,2026-07-01-ifc-data-center-ai-investment-emerging-markets
+KEN,IXAfrica Data Centres Nairobi facility,IXAfrica Data Centres,datacentre,,IXAfrica Data Centres,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+KEN,Servernah Cloud,Servernah Cloud,other,,,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+KEN,Oracle cloud region Kenya,Oracle cloud region,other,,Oracle,,2026-06-05-kenya-targets-ai-data-centres-expansion-itweb
+KEN,Konza National Data Centre,Konza National Data Centre,other,,Government of Kenya,,2026-06-05-kenya-targets-ai-data-centres-expansion-itweb
+KEN,Baobab Cloud Services,Baobab Cloud Services,other,,Mitsumi Distribution,,2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews
+KEN,Microsoft-G42 Kenya data centre,,other,,Microsoft/G42,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+KEN,iXAfrica second hyperscale facility,,other,,iXAfrica,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+KEN,Nxtra Tatu City data centre,,other,,Airtel Africa,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+KEN,Servernah Cloud,Servernah Cloud,other,,Atlancis/EverseTech/iXAfrica,,2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud
+KEN,iXAfrica Data Centre,iXAfrica Data Centres,datacentre,,iXAfrica,,"2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region"
+KEN,"Oracle Cloud Infrastructure region, Nairobi",OCI Nairobi region,other,Oracle Cloud Infrastructure,Oracle,,"2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region"
+KEN,Nxtra Nairobi data centre,Nxtra,datacentre,,Nxtra by Airtel Africa,,2025-10-14-techafricanews-vertiv-nxtra-airtel-africa-lagos-42mw
+KEN,Nxtra Nairobi data centre,Nxtra,datacentre,,Nxtra by Airtel Africa,,2025-10-14-vertiv-nxtra-nigeria-42mw-colo-network-release
+KEN,Olkaria geothermal data centre (Microsoft/G42),Olkaria data center,other,,G42; Microsoft,,2025-09-22 Africa's forgotten battleground in the US-China tech war (Kenya Olkaria data center)
+KEN,iXAfrica Data Centres Nairobi One,Kenya,datacentre,,iXAfrica Data Centres,,2025-09-12-kenya-paratus-cloud-launch-ixafrica
+KEN,Paratus Cloud,Kenya,other,,Paratus Kenya,,2025-09-12-kenya-paratus-cloud-launch-ixafrica
+KEN,"Nxtra by Airtel Tatu City data centre (44MW, groundbreaking)",Kenya,other,,Nxtra Africa / Airtel Africa,,2025-09-10-kenya-tatu-city-airtel-nxtra-data-centre
+KEN,"Nxtra Nairobi data centre (Tatu City, due Q1 2027)",Kenya,other,,Nxtra Africa / Airtel Kenya,,2025-09-09-east-africas-largest-data-centre-breaks-ground-in-nairobi-as-airtel-kenya-target
+KEN,iColo Mombasa MBA2,Kenya,datacentre,,iColo (Digital Realty),,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne
+KEN,iColo Mombasa MBA1,Kenya,datacentre,,iColo (Digital Realty),,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne
+KEN,KIXP,Kenya,other,,TESPOK,,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne
+KEN,iXAfrica Data Centres Nairobi One,Kenya,datacentre,,iXAfrica Data Centres,,2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews
+KEN,Zadara AI Sovereign Cloud (TouchNet),Kenya,other,,TouchNet,,2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews
+KEN,Safaricom Limuru (Redhill) data centre,Limuru data center,other,,Safaricom,"Tier III (built to, planned)","2025-03-05 Safaricom completes first phase of data center in Limuru, Kenya"
+KEN,NBOX1,NBOX1,datacentre,,iXAfrica Data Centres,,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,NBOX1.2 and NBOX2 Tilisi,NBOX1.2; NBOX2,other,,iXAfrica Data Centres,in development,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp
+KEN,iColo MBA1 and MBA2,MBA1; MBA2,datacentre,,iColo,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,LINX Mombasa,LINX Mombasa,other,Nokia switches,LINX,,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news
+KEN,Nxtra Tatu City data centre,Tatu City 44MW data center,other,,Airtel Africa / Nxtra,under construction,2025-01-01-airtel-africa-ken-2025-nxtra-tatu-city-data-centre-bw05
+KEN,Nxtra Nairobi data centre,Nairobi,other,,Nxtra Africa / Airtel Africa,under construction,2024-12-13 Nxtra - Airtel's leap into Africa's growing data center market
+KEN,Microsoft-G42 Olkaria data center campus / East Africa Cloud Region,,other,Microsoft Azure,"G42 (build), Microsoft (cloud), hosted at KenGen Green Energy Park",Tier IV (described as the second Tier IV centre at the park; not built),2024-05-23-kengen-hosts-microsoft-g42-olkaria-green-data-center
+KEN,Microsoft/G42 Olkaria geothermal data center,,other,,Microsoft/G42,,2024-05-22 Microsoft and G42 to build geothermal-powered data center in Kenya
+KEN,Project Eagle (Olkaria Ecocloud Data Centre),,other,,EcoCloud,,2024-05-22 Microsoft and G42 to build geothermal-powered data center in Kenya
+KEN,EcoCloud-G42 Mega Data Center,,other,,EcoCloud and G42,,2024-03-07-prnewswire-ecocloud-g42-mega-data-centre-mou
+KEN,Project Eagle (Olkaria Ecocloud Data Centre),,other,,Ecocloud Data Centre,,2023-09-01-dcd-olkaria-ecocloud-project-eagle-groundbreaking
+KEN,IXAfrica data center campus,,other,,IXAfrica,,2023-09-01-dcd-olkaria-ecocloud-project-eagle-groundbreaking
+KEN,East Africa Data Centre (EADC),East Africa Data Centre (EADC),datacentre,,Africa Data Centres (Cassava Technologies),,2023-01-20-dcd-africa-data-centres-nairobi-expansion-groundbreaking
+KEN,"Africa Data Centres Nairobi expansion (15MW, first 5MW due H1 2024)","Africa Data Centres Nairobi expansion (15MW, first 5MW due H1 2024)",other,,Africa Data Centres,,2023-01-20-dcd-africa-data-centres-nairobi-expansion-groundbreaking
+KEN,"Africa Data Centres Sameer facility, Nairobi","Africa Data Centres Sameer facility, Nairobi",datacentre,,Africa Data Centres (Cassava Technologies),,2022-11-30-africa-data-centres-sameer-nairobi-15mw-expansion
+KEN,Africa Data Centres Nairobi 15MW expansion,Africa Data Centres Nairobi 15MW expansion,other,,Africa Data Centres,,2022-11-30-africa-data-centres-sameer-nairobi-15mw-expansion
+KEN,"iColo MBA2-Nyali, Mombasa","iColo MBA2-Nyali, Mombasa",datacentre,,icolo.io (Digital Realty),,2022-09-26-icolo-io-completes-construction-of-second-mombasa-data-center
+KEN,"iColo NBO1, Nairobi","iColo NBO1, Nairobi",datacentre,,icolo.io (Digital Realty),,2022-09-26-icolo-io-completes-construction-of-second-mombasa-data-center
+KEN,"iColo MBA1 Mombasa One, Miritini","iColo MBA1 Mombasa One, Miritini",datacentre,,icolo.io (Digital Realty),,2022-09-26-icolo-io-completes-construction-of-second-mombasa-data-center
+KEN,PAIX Nairobi data centre,PAIX Nairobi data centre,datacentre,,PAIX Data Centres,,2022-02-16-africa50-paix-data-centres-series-b-completion
+KEN,"IXAfrica hyperscale-ready campus, Nairobi","IXAfrica hyperscale-ready campus, Nairobi",other,,IXAfrica Data Centre Limited,,2022-01-01-helios-ken-ixafrica-2022-ixafrica-data-centre-helios-growth-capital
+KEN,Africa Data Centres Nairobi NB01,NB01,datacentre,,Africa Data Centres,,2021-02-11-africa-data-centres-nbo1-nairobi-data-sheet
+KEN,Africa Data Centres Nairobi NBO1,NBO1,datacentre,,Africa Data Centres,,2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1
+KEN,Africa Data Centres Nairobi NBO2,NBO2,other,,Africa Data Centres,,2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1
+KEN,Africa Data Centres Nairobi NBO3,NBO3,other,,Africa Data Centres,,2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1
+KEN,IX Africa Data Centre Limited,IXDC,other,,IX Africa; Veer Investments; MIIT Investments,,2020-12-10-cak-ixafrica-data-centre-acquisition-of-control-decision
+KEN,Africa Data Centres existing Kenya data centre,,datacentre,,Africa Data Centres Holdings Limited,,2020-12-03-public-information-summary-africa-data-centres-9000093563
+KEN,PAIX Nairobi-1,PAIX Nairobi-1,other,,PAIX Data Centres,,2020-08-27-paix-data-centres-enters-kenyan-market-starts-construction-of-its-nairobi-office
+KEN,Konza National Cloud Data Center,Konza Data Centre,other,Huawei (EPC contractor),Government of Kenya,,2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion
+KEN,Microsoft/G42 Naivasha data centre,,other,,Microsoft; G42,,2026-09-17-techtrends-africa-green-data-centre-solar-server-farms
+KEN,PAIX Nairobi,PAIX Data Centres Nairobi,datacentre,,PAIX Data Centres,,2022-01-01-africa50-reg-paix-data-centers-2022-paix-data-centers-series-b-equity
+KEN,Africa Data Centres NBO1/NBO2,,other,,Africa Data Centres (Cassava Technologies),,2021-01-01-adc-reg-500m-programme-2021-africa-data-centres-500-million-pan-african
+KEN,Liquid Intelligent Technologies / Africa Data Centres Kenya,,datacentre,,Liquid Intelligent Technologies (Cassava Technologies),,2021-01-01-ifc-reg-002-liquid-telecom-equity-investment-pan-ssa-data
+KEN,Africa Data Centres Kenya,,datacentre,,Africa Data Centres Holdings Limited,,2020-01-01-dfc-reg-africa-data-centres-2020-africa-data-centres-dfc-300m-data
+KEN,"Olkaria geothermal data center (Microsoft, proposed)",,other,,Microsoft,,2026-09-25-ken-citizendigital-ai-conference-data-sovereignty-smartafrica
+KEN,Konza National Data Centre,Konza National Data Centre,datacentre,"OpenStack, KVM",Konza Technopolis Development Authority,Tier III (stated),2026-09-16-from-konza-s-cloud-expansion-to-a-coastal-spaceport-kenya-pitches-its-tech-ambit
+KEN,Konza National Data Centre Cloud Expansion Project,,other,,KoTDA,,2026-09-16-from-konza-s-cloud-expansion-to-a-coastal-spaceport-kenya-pitches-its-tech-ambit
+KEN,Konza Technopolis,,other,,,,2026-09-10-ajupress-moef-koafec-ai-infrastructure-day-two
+KEN,Microsoft Azure East Africa region,Azure cloud region (planned),other,Azure,Microsoft,,2026-08-28-itwebafrica-microsoft-east-africa-lead-azure-region
+KEN,Kibabii University data center,ICT Research Hub data center,other,,Kibabii University,,2026-08-28-kibabii-university-ict-research-hub-nrf
+KEN,Microsoft and G42 Olkaria data centre,"Olkaria, Naivasha data centre",other,,Microsoft; G42,,2026-08-26-businessdaily-fiscal-constitution-kenya-digital-future
+KEN,Microsoft/G42 US$1bn Kenya data centre,,other,,Microsoft; G42,,2026-08-17-africas-ai-future-power-companies-not-programmers
+KEN,Konza AI data centre,,other,,,,2026-08-03-kenya-korea-ai-research-digital-infrastructure
+KEN,Microsoft/G42 US$1bn Kenya data centre,,other,,Microsoft; G42,,2026-07-31-atlanticcouncil-ai-stacks-state-capacity-africa
+KEN,Oracle cloud region Kenya,,other,Oracle Cloud,Oracle,"being established, not live",2026-07-27-kenya-regional-data-hub-bcg-report
+KEN,iXAfrica,,datacentre,,iXAfrica,,2026-07-27-kenya-regional-data-hub-bcg-report
+KEN,Africa Data Centres,,datacentre,,Africa Data Centres,,2026-07-27-kenya-regional-data-hub-bcg-report
+KEN,Konza National Data Centre,,datacentre,,Government of Kenya,,2026-07-27-kenya-regional-data-hub-bcg-report
+KEN,iColo (Digital Realty),iColo,datacentre,,Digital Realty (US-controlled),,2026-06-11 Can Africa supply it's own digital infrastructure
+KEN,Microsoft-G42 cloud region at Olkaria,,other,Microsoft Azure,Microsoft and G42,,2026-06-11 Can Africa supply it's own digital infrastructure
+KEN,Safaricom data centre,,other,,Safaricom,,2026-06-11 Can Africa supply it's own digital infrastructure
+KEN,Microsoft-G42 geothermal data centre,,other,,Microsoft and G42,,2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data
+KEN,Microsoft-G42 Kenya data center,,other,Microsoft Azure,Microsoft and G42,,2026-06-08 The Promise and Limits of African Data Sovereignty
+KEN,Microsoft-G42 Kenya data centre,,other,,Microsoft and G42,,2026-06-01 Africa's Place in the AI Sovereignty Debate
+KEN,iXAfrica NBOX1,iXAfrica NBOX1,datacentre,,iXAfrica Data Centres,,2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews
+KEN,Angani,Angani,other,local cloud,Angani,,2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews
+KEN,iXAfrica-Oracle public cloud region,Kenya's first public cloud region,other,Oracle,iXAfrica,,2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty
+KEN,Microsoft-G42 Kenya data centre,,other,,Microsoft/G42,,2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty
+KEN,Microsoft-G42 Kenya data centre,,other,,Microsoft/G42,,2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype
+KEN,iXAfrica,,other,,iXAfrica,,2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype
+KEN,"Microsoft geothermal-powered data centre, Kenya",KEN,other,,Microsoft,,2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa
+KEN,"Nvidia and Cassava AI-ready data centres (Kenya among Egypt, Nigeria, Morocco)",KEN,other,,Cassava Technologies,,2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa
+KEN,Konza data centre,Konza Technopolis data centre,other,,,,2026-02-05 Chinas infrastructure finance in Africa impacts and lessons
+KEN,Digital Realty Nairobi,,datacentre,,Digital Realty,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+KEN,iXAfrica,,datacentre,,iXAfrica,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+KEN,PAIX,,datacentre,,PAIX,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+KEN,Safaricom Cloud,,datacentre,,Safaricom,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+KEN,Cassava AI factory (Kenya),AI factory,other,Nvidia GPUs,Cassava Technologies,,2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure
+KEN,Konza data centre,Konza data centre,other,,Government of Kenya (Ministry of ICT),,2024-06-13-techweez-ict-sector-budget-fy2024-25
+KEN,Olkaria green data center / East Africa Cloud Region,East Africa Cloud Region,other,Microsoft Azure,G42 and partners,,2024-05-22 Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya
+KEN,Google Cloud Dedicated Cloud Interconnect Nairobi,Kenya,other,,Google,,2022-10-05-google-zaf-cloud-region-intent-1bn-africa-commitment
+KEN,Africa Data Centres Kenya,Kenya,other,,Liquid Intelligent Technologies,,2021-11-08-ifc-partners-liquid-intelligent-technologies-data-centres-fibre
+KEN,iColo Nairobi campus,Kenya,datacentre,,iColo (Digital Realty),,2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa
+KEN,Icolo data centres (Nairobi and Mombasa),Kenya,datacentre,,Icolo (Interxion),,2019-12-19-interxion-enters-into-agreement-for-controlling-interest-in-icolo-and-establishe
+KEN,Cassava AI factory Kenya,Kenya,other,,Cassava Technologies,,2026-10-13-cassava-pemhiwa-keep-africa-data-at-home
+KEN,Microsoft/G42 geothermal data centre,KEN,other,,Microsoft; G42,,2026-08-20-restofworld-zuckerberg-ai-for-everyone-global-critique
+KEN,Microsoft/G42 geothermal data centre,KEN,other,,Microsoft; G42,,2026-07-28-rent-not-build-africa-ai-intelligence
+KEN,"Cassava Technologies data centre expansion, Kenya",Kenya,other,,Cassava Technologies,,2025-03-24-cassava-reg-nvidia-ai-factory-cassava-nvidia-ai-factory-africa
+KEN,"Cassava Technologies data centre expansion, Kenya",Kenya,other,,Cassava Technologies,,2024-01-01-dfc-reg-cassava-technologies-2024-cassava-technologies-dfc-50m-strategic-equity
+KEN,NBO2,NBO2,datacentre,,Digital Realty (formerly icolo),,2026-09-07-ken-government-welcomes-digital-investors-nbo2
+KEN,Cassava Nairobi facility (upcoming),,other,NVIDIA GPU-as-a-Service,Cassava Technologies (Africa Data Centres),,2025-11-13-uk-based-firm-cassava-to-deploy-kenyas-first-rentable-ai-servers

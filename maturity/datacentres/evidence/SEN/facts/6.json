@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-senegal-2025",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Xalam Analytics estimates that Senegal had about 5 live commercial data centre facilities leasing colocation space and power to third parties in 2024, with about 1.6MW of live critical IT load, about 60% occupied by third-party customers; no facility is named in the text and telco facilities held about 60% of capacity.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "commercial data centres (about 5, unnamed)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal Numerique and Senegal Connect government facilities",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Senegal Numerique (ex-ADIE); Senegal Connect",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

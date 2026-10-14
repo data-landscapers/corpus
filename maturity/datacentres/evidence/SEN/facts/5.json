@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Diamniadio National Datacenter (DND)",
+   "country_label": "Data center national de Diamniadio",
+   "class": "other",
+   "platform": "Huawei-built",
+   "owner": "Government of Senegal / Senegal Numerique",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a government data centre serving state data; no for-hire, tier or cloud-region statement."
+}

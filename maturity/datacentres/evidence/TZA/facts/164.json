@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-wingu-cloud-exchange-launch",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Wingu Africa Data Centre Dar es Salaam (Phase 1 + Phase 2) (Wingu Africa Group Ltd), colocation/carrier-neutral, in service; this document names it (published 2025-11-19).",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Wingu Africa Data Centre Dar es Salaam (Phase 1 + Phase 2)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

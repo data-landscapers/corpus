@@ -1,0 +1,15 @@
+{
+ "slug": "2012-11-12-huawei-lance-un-data-center-en-cote-d-ivoire-aitn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Projet E-Gouvernement data center (Grand-Bassam)",
+   "country_label": "CIV",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Côte d’Ivoire (Huawei-financed)",
+   "tiers": "government"
+  }
+ ],
+ "note": "Government e-government data centre launched by Huawei near Grand-Bassam; state use only, not for hire."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-30-national-cloud-launch-ecofin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center, Nouakchott",
+   "country_label": "National Data Center",
+   "class": "other",
+   "platform": "national cloud",
+   "owner": "Ministry of Digital Transformation",
+   "tiers": "government"
+  }
+ ],
+ "note": "National cloud for government agencies only, in a state Tier III facility; owner-use, not for hire."
+}

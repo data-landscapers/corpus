@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-23-raxio-afr-ix-data-centres-angola-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Raxio Group operates carrier-neutral colocation data centres in Luanda that host customers, and AFR-IX Telecom is deploying into them; the document gives no opening date, so as_of is its publication date.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Raxio Luanda data centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Raxio says its Luanda carrier-neutral data centre is Tier III certified, the first independent carrier-neutral one in Angola to be so; the document does not name the certifying body, and the as_of is the publication date.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Raxio Luanda data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Raxio Luanda data centre",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2017-02-23-newera-airbus-nust-namibia-virtual-space-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Namibian Virtual Space Data Centre",
+   "country_label": "Virtual Space Data Centre",
+   "class": "other",
+   "platform": "Airbus satellite imagery",
+   "owner": "NUST",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned satellite-imagery centre for government; not a data centre for hire."
+}

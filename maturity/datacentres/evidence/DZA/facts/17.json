@@ -1,0 +1,34 @@
+{
+  "slug": "2023-03-01-dcd-algerie-telecom-constantine-data-center",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Algerie Telecom, the state telco, inaugurated its new Constantine data centre, built by its own teams and equipped with a cloud platform for collecting, processing and storing enterprise data; the document gives no event date beyond 'today' in a statement made 'this week', so its published date 2023-03-01 is used.",
+      "as_of": "2023-03-01",
+      "date_precision": "day",
+      "system": "Algerie Telecom Constantine data centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Algerie Telecom Constantine data centre",
+      "country_label": "data center of Algeria Telecom in Constantine",
+      "class": "datacentre",
+      "platform": "cloud platform (unnamed)",
+      "owner": "Algerie Telecom",
+      "tiers": ""
+    },
+    {
+      "system": "HostArts / Ayrade / ICOSNET / ISSAL hosting",
+      "country_label": "local hosting providers",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "HostArts, Ayrade, ICOSNET, ISSAL",
+      "tiers": ""
+    }
+  ],
+  "note": "Document also says only local players HostArts, Ayrade, ICOSNET and ISSAL offer hosting, mostly in Algiers or Oran, naming no facility; not recorded as a fact."
+}

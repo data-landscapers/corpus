@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechCabal reports Equinix (MainOne Solutions by Equinix) completed PR1, a 1 MW carrier-neutral data centre in Port Harcourt, ready for service since December 2025 and already onboarding customers.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "PR1 Port Harcourt",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PR1 Port Harcourt",
+   "country_label": "PR1 Port Harcourt",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Equinix (MainOne Solutions by Equinix)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

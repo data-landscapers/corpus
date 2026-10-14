@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "L'Express reports that Mauritius Telecom's data centre at Rose-Belle is certified Tier IV and in use, hosting government projects (e-Health, Mobile ID, government portal), as seen on a minister's site visit on 29 December 2025; the article does not name the certifying body.",
+   "as_of": "2025-12-29",
+   "date_precision": "day",
+   "system": "Mauritius Telecom Rose-Belle data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius Telecom Rose-Belle data centre",
+   "country_label": "data centre de Rose-Belle",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Government Online Centre (GOC), Ebene",
+   "country_label": "GOC",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": "government only; about 80 racks"
+  }
+ ],
+ "note": ""
+}

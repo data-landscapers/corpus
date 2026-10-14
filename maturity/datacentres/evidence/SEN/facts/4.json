@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-27-aps-stellarix-senegal-datacenter-diamniadio",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Stellarix Senegal, part of Axian, operates a data centre at Diamniadio offering colocation, cloud, connectivity and cybersecurity to outside customers, including banks and financial institutions.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "STELLARIX Senegal data centre, Diamniadio",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Stellarix Senegal's managing director states its Diamniadio data centre is Tier 3 (operator's statement, no certification named).",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "STELLARIX Senegal data centre, Diamniadio",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STELLARIX Senegal data centre, Diamniadio",
+   "country_label": "datacenter tiers 3 Stellarix",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Stellarix Senegal (Axian)",
+   "tiers": ""
+  }
+ ],
+ "note": "Statement dated by the APS report of 27 Oct 2025."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-08-gabon-sovereign-datacenter-technical-spec",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ITWeb Africa reports that Gabon launched its first sovereign data centre, built with ST Digital, with a first phase that includes a 65 m2 colocation space and hosting for banks, public administrations, telecom operators and businesses; the launch date is not given, so as_of is the article's published date.",
+      "as_of": "2026-07-08",
+      "date_precision": "day",
+      "system": "ST Digital Gabon data centre, Nkok",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ITWeb Africa, citing the Gabonese government portal, calls the ST Digital data centre in Gabon a Tier III facility; the certifying body is not named.",
+      "as_of": "2026-07-08",
+      "date_precision": "day",
+      "system": "ST Digital Gabon data centre, Nkok",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST Digital Gabon data centre, Nkok",
+      "country_label": "Data Center national et souverain",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST Digital Gabon",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

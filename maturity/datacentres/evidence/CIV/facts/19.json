@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-civ-ivoirematin-data-center-inp-hb-yamoussoukro-administration-electronique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INP-HB data centre, Yamoussoukro",
+   "country_label": "data center",
+   "class": "other",
+   "platform": "",
+   "owner": "public administration",
+   "tiers": ""
+  }
+ ],
+ "note": "State e-administration data centre; no statement that it sells to outside customers and no date."
+}

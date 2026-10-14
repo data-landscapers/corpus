@@ -1,0 +1,44 @@
+{
+  "slug": "2026-09-28-cioafrica-tcs-sovereign-cloud-nairobi",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "iXAfrica Data Centres' NBOX1 carrier-neutral campus on Mombasa Road, Nairobi (22.5MW design capacity) is operating and hosts the TCS sovereign cloud platform that went live, reported 2026-09-28; no Tier rating is stated.",
+      "as_of": "2026-09-28",
+      "date_precision": "day",
+      "system": "iXAfrica NBOX1",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "The article states iXAfrica's NBOX1 campus hosts Oracle's Kenya public cloud region, in present tense with no launch date; date taken from the published date 2026-09-28.",
+      "as_of": "2026-09-28",
+      "date_precision": "day",
+      "system": "Oracle Kenya public cloud region",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "iXAfrica NBOX1",
+      "country_label": "NBOX1",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "iXAfrica Data Centres",
+      "tiers": ""
+    },
+    {
+      "system": "TCS Sovereign Secure Cloud",
+      "country_label": "TCS sovereign cloud",
+      "class": "other",
+      "platform": "",
+      "owner": "Tata Consultancy Services",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

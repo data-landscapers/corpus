@@ -1,0 +1,31 @@
+{
+ "slug": "2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 Olkaria data center",
+   "country_label": "Microsoft-G42 Olkaria data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft; G42",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Nxtra Tatu City data center",
+   "country_label": "Airtel Nxtra Tatu City data center",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Nxtra",
+   "tiers": ""
+  },
+  {
+   "system": "EcoCloud Project Eagle",
+   "country_label": "EcoCloud Project Eagle",
+   "class": "other",
+   "platform": "",
+   "owner": "EcoCloud",
+   "tiers": ""
+  }
+ ],
+ "note": "Project stalled and others under construction; operators named as existing (Safaricom, iXAfrica, Digital Realty) without saying they rent to others."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2019-11-16-libyaherald-trans-sahara-dataprotect-first-soc-libya",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Data centres dataset: TransSahara Tripoli Data Center (Trans Sahara ICT (TSIC) / Tatweer JV), colocation/carrier-neutral, in service, Tier III or above on the operator's own statement; this document names it (published 2019-11-16).",
+   "as_of": "2019-11-16",
+   "date_precision": "day",
+   "system": "TransSahara Tripoli Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

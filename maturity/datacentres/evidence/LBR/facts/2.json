@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-30-liberia-national-data-center-investors-power",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National data center (planned)",
+      "country_label": "national data center",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Liberia (Ministry of Posts and Telecommunications)",
+      "tiers": ""
+    }
+  ],
+  "note": "Planned national data centre only; investment model and site undecided; no data centre for hire or cloud region stated."
+}

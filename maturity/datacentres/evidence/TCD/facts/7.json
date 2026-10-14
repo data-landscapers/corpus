@@ -1,0 +1,26 @@
+{
+ "slug": "2016-06-30-osiris-tigo-tchad-inauguration-data-center",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Tigo Tchad (Millicom) inaugurated its data centre in N'Djamena on 21 June 2016 and offers rack space for rent to businesses to host their data; Tigo states it is a modular facility costing over FCFA 3 billion.",
+   "as_of": "2016-06-21",
+   "date_precision": "day",
+   "system": "Tigo Chad data centre, N'Djamena",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tigo Chad data centre, N'Djamena",
+   "country_label": "Data center Tigo Tchad",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Tigo Tchad (Millicom)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

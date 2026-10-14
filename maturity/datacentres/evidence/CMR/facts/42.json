@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-03-st-digital-iso-27001-certification",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "ST DIGITAL, a pan-African operator of sovereign data centres, states it operates data centres in Cameroon (among seven countries) hosting clients such as banks, telecom operators, administrations and enterprises; the post is not specific to a named Cameroonian site and gives no opening date, so the post date is used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "ST DIGITAL data centres (Cameroon)",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "ST DIGITAL states its data centres, including those deployed in Cameroon, are Tier 3 / TIA-942 constructed; the operator's own statement, no Uptime Institute certificate cited and no Cameroonian site named; the post date is used as no other date is given.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "ST DIGITAL data centres (Cameroon)",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ST DIGITAL data centres (Cameroon)",
+      "country_label": "ST DIGITAL",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "ST DIGITAL AFRICA",
+      "tiers": "Tier 3 / TIA-942 per operator"
+    }
+  ],
+  "note": "Facts are for ST DIGITAL's Cameroon infrastructure as stated generically across seven countries."
+}

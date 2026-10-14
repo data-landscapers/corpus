@@ -1,0 +1,36 @@
+{
+  "slug": "2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "MTN Nigeria launched the Sifiso Dabengwa Data Centre in Lagos on 1 July 2025 (phase 1 4.5MW, 9MW planned in total) with a cloud service sold to Nigerian businesses and startups.",
+      "as_of": "2025-07-01",
+      "date_precision": "day",
+      "system": "Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "MTN Nigeria describes the Sifiso Dabengwa Data Centre as West Africa's largest Tier III data centre, launched 1 July 2025 (operator's description; no certifier named).",
+      "as_of": "2025-07-01",
+      "date_precision": "day",
+      "system": "Sifiso Dabengwa Data Centre",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sifiso Dabengwa Data Centre",
+      "country_label": "Sifiso Dabengwa Data Centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "MTN Nigeria",
+      "tiers": "Tier III"
+    }
+  ],
+  "note": ""
+}

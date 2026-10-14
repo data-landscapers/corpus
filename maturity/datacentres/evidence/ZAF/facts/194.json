@@ -1,0 +1,26 @@
+{
+  "slug": "2025-03-06-microsoft-zaf-azure-microsoft-south-africa-datacentres-zar-204bn",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "cloud",
+      "value": "region",
+      "fact": "Microsoft states Azure South Africa North (Johannesburg) and South Africa West (Cape Town) regions opened in March 2019, serving Azure, Office 365, Dynamics 365 and Power Platform from within South Africa.",
+      "as_of": "2019-03",
+      "date_precision": "month",
+      "system": "Microsoft Azure South Africa North and West",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Microsoft Azure South Africa North and West",
+      "country_label": "Johannesburg and Cape Town regions",
+      "class": "datacentre",
+      "platform": "Azure",
+      "owner": "Microsoft",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

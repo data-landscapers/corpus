@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-cioafrica-nobus-nairobi-availability-zone",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Nobus Cloud Services, run by Nkponani Limited from Lagos, is a public cloud provider whose platform is established in Nigeria and hosts workloads for businesses, enterprises and government institutions; the document names no facility and gives no opening date, so the date is the article's publication date (2026-09-09).",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Nobus Cloud Services",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nobus Cloud Services",
+      "country_label": "Nobus",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Nkponani Limited",
+      "tiers": ""
+    }
+  ],
+  "note": "Nigerian providers Galaxy, Suburban, Layer3, Nebula named only as a cohort; Nairobi zone is Kenya; AWS naira payments are not a region."
+}

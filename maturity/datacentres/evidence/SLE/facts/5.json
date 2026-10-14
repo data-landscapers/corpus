@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-02-orange-bo-datacenter-figures-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Orange Sierra Leone Bo data centre",
+   "country_label": "Bo datacenter",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": "operator"
+  },
+  {
+   "system": "Orange Sierra Leone Freetown data centre",
+   "country_label": "Freetown main datacenter",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Sierra Leone",
+   "tiers": "operator"
+  }
+ ],
+ "note": "Orange Bo backup data centre inaugurated 29 Nov 2025 as replica of its Freetown one; operator own-use, no hire to others or tier stated."
+}

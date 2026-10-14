@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,"National data centre, Abomey-Calavi",Benin national data center,other,,SBIM (state-owned),,2026-03-27-benin-secondary-national-data-center
+BEN,Alink Telecom data centre,,,,Alink Telecom,,2026-03-27-benin-secondary-national-data-center
+BEN,MTN Data Center,MTN Data Center,datacentre,,MTN Bénin,,2023-09-27-data-center-mtn-benin
+BEN,MTN Data Center,service data center,datacentre,,MTN Bénin,,2019-06-17-mtn-benin-lance-son-service-data-center-ciomag
+BEN,Isocel Telecom Data Center,data center neutre,datacentre,,Isocel Telecom,,2015-07-01-isocel-data-center-pour-la-sauvegarde-de-vos-donnees-numeriques
+BEN,Isocel planned data centre,premier data center du Bénin,other,,Isocel Telecom,,2012-02-08-benin-robert-aouad-assure-sur-toute-la-ligne
+BEN,Datacenter national (Abomey-Calavi),Datacenter national (Abomey-Calavi),other,,ASSI,,2021-06-01-numerique-gouv-bj-datacenter-national-tests
+BEN,Data Center du Ministère de l'Economie et des Finances,Data Center du Ministère de l'Economie et des Finances,other,,MEF,,2026-05-19-iati-xm-dac-46021-2026008-benin-mef-digitalisation
+BEN,SBIN commercially operated data centre,SBIN commercially operated data centre,datacentre,,SBIN,,2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,Unnamed Tier 3 data centre,Unnamed Tier 3 data centre,other,,,Tier 3 (stated by ASIN official; operator and whether for hire not stated),2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,Two state data centres under modernisation,Two state data centres under modernisation,other,,state,,2026-04-14-ben-ciomag-souverainete-cloud-hebergement
+BEN,Abomey-Calavi national data centre,Abomey-Calavi national data centre,other,,state,,2026-03-11-world-bank-ben-2026-wardip-sop2-benin
+BEN,ST DIGITAL data centre (Bénin),ST DIGITAL data centre (Bénin),datacentre,,ST DIGITAL,"Tier 3/TIA-942 stated for the operator's data centres across all seven countries, not for Bénin by name",2026-03-03-st-digital-iso-27001-certification
+BEN,Grand Parakou data facility,Grand Parakou project,other,,Greenline Technologies,Tier III-ready (planned),2025-08-07-greenline-tech-grand-parakou-agreements
+BEN,"New Digital Africa (DataConnect, DataCloud, DataBridge)",NDA Group,other,,NDA Group,,2022-01-01-ange-kacou-diagou-new-digital-africa-we-are-finalising-the-entry-of-a-strategic
+BEN,Datacenter national,datacenter national (PRSCG),other,,Government of Benin / ASSI,,2021-10-05-numerique-gouv-bj-assi-prscg-formation
+BEN,Data Center national,Data Center national,other,,Government of Benin,,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
+BEN,"Benin CDN 1 (Zogbadje, Abomey-Calavi, ORTB estate)",Benin CDN 1,other,,ASSI (Agence des Services et Systemes d'Information),"ANSI/TIA-942-B Rated 3 design certificate (EPI), awarded 2019-02-04, valid to 2021-08-03",2020-11-03-assi-benin-cdn-1-zogbadje-tia-942-rated-3-design
+BEN,ST Digital,ST Digital,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure

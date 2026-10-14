@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-15 Raxio data-centre capital tops $380m on investor boost",
+  "facts": [
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Tech.africa reports that Raxio, a pan-African independent carrier-neutral data-centre operator, operates a data-centre facility in Côte d'Ivoire (the article names no site), as of its 15 July 2026 report of Raxio's 13 July announcement.", "as_of": "2026-07-13", "date_precision": "day", "system": "Raxio Côte d'Ivoire data centre", "class": "datacentre"},
+    {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Tech.africa states that Raxio operates Tier III, carrier-neutral facilities in six countries including Côte d'Ivoire; the Tier III rating is operator-stated as reported, with no certifier or facility name given (as_of is the 13 July 2026 announcement date).", "as_of": "2026-07-13", "date_precision": "day", "system": "Raxio Côte d'Ivoire data centre", "class": "datacentre"}
+  ],
+  "systems": [
+    {"system": "Raxio Côte d'Ivoire data centre", "country_label": "Raxio", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III, carrier-neutral"}
+  ],
+  "note": ""
+}

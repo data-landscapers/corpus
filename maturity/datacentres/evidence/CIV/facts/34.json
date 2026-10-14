@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-07-cote-divoire-us-exim-cybastion-data-centre-guarantee",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Center (Cybastion/EXIM)",
+   "country_label": "national data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": "EXIM board minutes approving construction financing; nothing in service."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-14-vertiv-nxtra-nigeria-42mw-colo-network-release",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nxtra Nairobi data centre",
+   "country_label": "Nxtra",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Nxtra by Airtel Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Nairobi Nxtra operation only 'anticipated' to surpass the Nigerian site; planned, not in service."
+}

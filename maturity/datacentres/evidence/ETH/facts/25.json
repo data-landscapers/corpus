@@ -1,0 +1,36 @@
+{
+  "slug": "2022-05-24-furtherafrica-ethio-telecom-data-center-lease-five-institutions",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Ethio Telecom's modular data center in Gola Sefer, Addis Ababa, launched in May 2021 and by May 2022 colocated nearly 90 enterprise customers and partners, with five more institutions (Zemen Bank, Rays Micro Finance, ZamZam Bank, Hijira Bank, Websprix) signing leasing agreements for colocation and cloud.",
+      "as_of": "2021-05",
+      "date_precision": "month",
+      "system": "Ethio Telecom Gola Sefer data center",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Ethio Telecom says its Gola Sefer data center, launched May 2021, is Tier 3 (operator statement, no certification body named).",
+      "as_of": "2021-05",
+      "date_precision": "month",
+      "system": "Ethio Telecom Gola Sefer data center",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ethio Telecom Gola Sefer data center",
+      "country_label": "Tier 3 Data Center",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Ethio Telecom",
+      "tiers": "Tier 3 (operator-stated)"
+    }
+  ],
+  "note": ""
+}

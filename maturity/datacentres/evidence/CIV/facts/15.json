@@ -1,0 +1,23 @@
+{
+ "slug": "2014-09-25-mtn-cote-divoire-construit-un-deuxieme-ecenter-derniere-generation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MTN eCentre, Yopougon",
+   "country_label": "eCentre",
+   "class": "other",
+   "platform": "Flexenclosure",
+   "owner": "MTN Cote d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "MTN second eCentre, Bingerville",
+   "country_label": "eCentre",
+   "class": "other",
+   "platform": "Flexenclosure",
+   "owner": "MTN Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": "MTN's eCentres are operator-network sites; second one planned for Oct 2014, cloud services only intended; no for-hire service stated."
+}

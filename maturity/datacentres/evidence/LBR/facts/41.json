@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-11-liberia-mopt-wardip-sop2-esmf",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Data centres dataset: Cable Consortium of Liberia Monrovia Landing Station (Cable Consortium of Liberia (CCL)), colocation/carrier-neutral, in service; this document names it (published 2025-12-11).",
+   "as_of": "2025-12-11",
+   "date_precision": "day",
+   "system": "Cable Consortium of Liberia Monrovia Landing Station",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "carried from outputs/datasets/data-centres; no document opened"
+}

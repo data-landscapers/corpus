@@ -1,0 +1,26 @@
+{
+ "slug": "2022-11-01-microsoft-zaf-dynamics-365-power-platform-local-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Microsoft said on 1 November 2022 that Azure, Microsoft 365, Dynamics 365 and Power Platform are provided from its hyperscale data centres in Johannesburg and Cape Town, with Dynamics 365 and Power Platform newly generally available there and Azure Availability Zones launched in 2021.",
+   "as_of": "2022-11-01",
+   "date_precision": "day",
+   "system": "Microsoft Azure Johannesburg and Cape Town",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Microsoft Azure South Africa data centres",
+   "country_label": "",
+   "class": "datacentre",
+   "platform": "Azure",
+   "owner": "Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

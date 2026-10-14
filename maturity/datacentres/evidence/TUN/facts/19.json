@@ -1,0 +1,23 @@
+{
+  "slug": "2024-07-03-tun-unicef-cims-data-centre-evax",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data centre of the Centre Informatique du Ministère de la Santé (CIMS)",
+      "country_label": "Data centre of the Centre Informatique du Ministère de la Santé (CIMS)",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "EVAX",
+      "country_label": "EVAX",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "Ministry of Health's own data centre upgrade; used by the state only, not for hire."
+}

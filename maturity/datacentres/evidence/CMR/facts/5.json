@@ -1,0 +1,42 @@
+{
+ "slug": "2024-05-17-st-digital-to-build-new-data-centres-in-3-francophone-countries",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "TechCabal reports on 2024-05-17 that Cameroon-based ST Digital runs a data centre in Cameroon whose clients include local banks, government and big companies; the facility is not named in the article.",
+   "as_of": "2024-05-17",
+   "date_precision": "day",
+   "system": "ST Digital data centre (Cameroon)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ST Digital data centre (Cameroon)",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": "Tier III (portfolio)"
+  },
+  {
+   "system": "CAMTEL data centre",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": ""
+  },
+  {
+   "system": "Orange data centre",
+   "country_label": "CMR",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": "Tier III is stated for ST Digital's portfolio of four incl. three new builds in GAB, CIV, TGO; the Cameroon site is not identified as Tier III, so no tier3 fact."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2025-06-24-xneelo-successfully-moves-its-cape-town-data-centre-operations",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "service",
+      "fact": "Open Access Data Centres says xneelo relocated its Cape Town servers (1,492 servers, over 100 custom racks, about six weeks) into a fitted-out floor of OADC's Brackenfell colocation facility, which is operating and hosting customers; no date for the move is given, so the published date is used.",
+      "as_of": "2025-06-24",
+      "date_precision": "day",
+      "system": "OADC Brackenfell",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OADC Brackenfell",
+      "country_label": "OADC Brackenfell",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Open Access Data Centres",
+      "tiers": ""
+    },
+    {
+      "system": "xneelo Samrand data centre",
+      "country_label": "xneelo Samrand data centre",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "xneelo",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

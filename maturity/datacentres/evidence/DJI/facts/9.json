@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-28-dji-adi-helem-wingu-africa-ixp-innovation-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Wingu Africa data centre (hosts IXP)",
+      "country_label": "Djibouti",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wingu Africa",
+      "tiers": ""
+    }
+  ],
+  "note": "Names Wingu as data-centre operator with an IXP in its data centre, but gives no opening, tier or for-hire statement."
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2019-01-01-huawei-zaf-cloud-2019-huawei-cloud-south-africa-multi-year-cloud",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Huawei Cloud launched its first availability zone in South Africa (Johannesburg region) in November 2018 or early 2019, which the document describes as the first international cloud provider with a hyperscale data centre in Africa; as_of is the document's commitment/start year 2019 as the opening date is given only as 2018/2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Huawei Cloud South Africa (Johannesburg)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Huawei Cloud launched a third availability zone in Johannesburg in January 2023, after investing over ZAR 3.5 billion in South African cloud infrastructure in 2019-2022, per Huawei Cloud's regional president.",
+   "as_of": "2023-01",
+   "date_precision": "month",
+   "system": "Huawei Cloud South Africa (Johannesburg)",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Huawei Cloud operates ultra-large cloud data centres in Johannesburg (three availability zones by January 2023) selling IaaS, PaaS and SaaS to public-sector, financial, telecom and SME customers; first zone launched 2018/2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Huawei Cloud Johannesburg data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Huawei Cloud South Africa",
+   "country_label": "Huawei Cloud Johannesburg AZ 1-3",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

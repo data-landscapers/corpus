@@ -1,0 +1,68 @@
+{
+  "slug": "2023-12-05-telkom-investors-site-tours-presentation-2023",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "two",
+      "fact": "Telkom's investor presentation lists BCX Tier IV certified data centres Midrand NDC 1 (2004), Midrand NDC 2 (2006) and Bellville 2 (2009), and says 3 of South Africa's 4 certified Tier IV data centres are owned and operated by BCX.",
+      "as_of": "2006",
+      "date_precision": "year",
+      "system": "BCX Midrand NDC 1; Midrand NDC 2; Bellville 2",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "centre",
+      "value": "tier3",
+      "fact": "Telkom's presentation states BCX's Centurion Hub data centre is Tier III certified (2002), with 2,850 m2 white space and 1.8 MW critical load.",
+      "as_of": "2002",
+      "date_precision": "year",
+      "system": "BCX Centurion Hub DC",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "BCX Centurion Hub DC",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "BCX (Telkom)",
+      "tiers": ""
+    },
+    {
+      "system": "BCX Midrand NDC 1",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "BCX (Telkom)",
+      "tiers": ""
+    },
+    {
+      "system": "BCX Midrand NDC 2",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "BCX (Telkom)",
+      "tiers": ""
+    },
+    {
+      "system": "BCX Bellville 2",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "BCX (Telkom)",
+      "tiers": ""
+    },
+    {
+      "system": "BCX Centurion Nexus DC",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "BCX (Telkom)",
+      "tiers": ""
+    }
+  ],
+  "note": "Document does not say outright that BCX's centres rent to outsiders (a slide lists public data centre operators and BCX managed cloud). Other BCX sites (Tier 2/3 compliant) not recorded as tier3."
+}

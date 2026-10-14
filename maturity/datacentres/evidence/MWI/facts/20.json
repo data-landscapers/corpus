@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-broadcastmediaafrica-malawi-dmap-phase2-worldbank",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Centre, Lilongwe",
+      "country_label": "National Data Centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Malawi (DMAP)",
+      "tiers": ""
+    }
+  ],
+  "note": "Says only that DMAP includes operationalisation of the National Data Centre in Lilongwe; no in-service or for-hire statement."
+}

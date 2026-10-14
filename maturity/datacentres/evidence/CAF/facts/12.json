@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-28-rca-huawei-modernisation-numerique-administration-data-center-tier-iii",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre national de donnees Tier III (Huawei programme)",
+      "country_label": "centre national de donnees",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of CAR with Huawei",
+      "tiers": "Tier III (planned)"
+    }
+  ],
+  "note": "Tier III national data centre is only planned (construction foreseen) and state-serving; no in-service data centre for hire stated."
+}

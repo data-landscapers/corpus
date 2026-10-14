@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-biometricupdate-african-digital-identity-infrastructure-bottleneck",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Open Access Data Centres, a WIOCC subsidiary, has said it invested more than $500 million over eight years in Nigerian digital infrastructure including data-centre and cloud facilities; no individual facility is named and the date of the statement is not given, so as_of is the article's published date.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Open Access Data Centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Access Data Centres",
+   "country_label": "Open Access Data Centres",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "WIOCC Group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

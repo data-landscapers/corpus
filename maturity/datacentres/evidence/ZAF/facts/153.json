@@ -1,0 +1,52 @@
+{
+  "slug": "2026-09-01-wiocc-300m-techcentral",
+  "facts": [
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "service",
+      "value": "service",
+      "fact": "Open Access Data Centres, part of Wiocc, completed purchase of seven NTT Data facilities on 31 December 2025 in a sale-and-leaseback adding over 25MW, with sites in Bloemfontein, Cape Town, East London, Gqeberha, Durban and Johannesburg.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Open Access Data Centres",
+      "class": "datacentre"
+    },
+    {
+      "sub_indicator": "datacentre",
+      "aspect": "service",
+      "value": "service",
+      "fact": "Teraco, owned by Digital Realty, is described as a South African data centre competitor with close to 190MW of IT load (no date given; article date used).",
+      "as_of": "2026-09-01",
+      "date_precision": "day",
+      "system": "Teraco",
+      "class": "datacentre"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Open Access Data Centres",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Wiocc",
+      "tiers": ""
+    },
+    {
+      "system": "Teraco",
+      "country_label": "",
+      "class": "datacentre",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "Vantage Waterfall campus",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Vantage Data Centers",
+      "tiers": "being built"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Africa Data Centres (Cassava Technologies) states its CPT1 colocation facility in Cape Town is operating and has added three halls (two colocation, one hyperscale), 6MW and 1,000 racks of leasable white space; no exact go-live date is given, so the publication date is used.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "Africa Data Centres CPT1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Data Centres CPT1",
+   "country_label": "CPT1, Cape Town",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Africa Data Centres (Cassava Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
