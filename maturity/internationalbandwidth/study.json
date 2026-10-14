@@ -1,0 +1,125 @@
+{
+ "id": "internationalbandwidth",
+ "study_file": "maturity-study-internationalbandwidth.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--international-internet-bandwidth"
+ ],
+ "carry": [
+  "infra.connect--international-internet-bandwidth"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 70000000,
+ "terms": [
+  "submarine cable",
+  "submarine cables",
+  "undersea cable",
+  "undersea cables",
+  "subsea cable",
+  "subsea cables",
+  "submarine fibre",
+  "submarine fiber",
+  "cable landing station",
+  "landing station",
+  "cable landing",
+  "international bandwidth",
+  "international internet bandwidth",
+  "international gateway",
+  "international fibre link",
+  "international fiber link",
+  "international outlet",
+  "WACS",
+  "SAT-3",
+  "SAT3",
+  "ACE cable",
+  "ACE submarine",
+  "Africa Coast to Europe",
+  "MainOne",
+  "Main One",
+  "Equiano",
+  "2Africa",
+  "EASSy",
+  "SEACOM",
+  "TEAMS cable",
+  "LION2",
+  "PEACE cable",
+  "Medusa cable",
+  "SAIL cable",
+  "Glo-1",
+  "NCSCS",
+  "DARE1",
+  "AAE-1",
+  "SAFE cable",
+  "Africa-1",
+  "câble sous-marin",
+  "câbles sous-marins",
+  "station d'atterrissement",
+  "atterrissement",
+  "bande passante internationale",
+  "passerelle internationale",
+  "câble Medusa",
+  "cabo submarino",
+  "cabos submarinos",
+  "estação de amarração",
+  "largura de banda internacional",
+  "الكابل البحري",
+  "الكابلات البحرية",
+  "كابل بحري",
+  "محطة إنزال",
+  "السعة الدولية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "routes",
+   "label": "Fibre routes to the rest of the world",
+   "subject": "infra.connect",
+   "text": "International internet bandwidth: fibre routes to the rest of the world",
+   "indicator_id": "infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world",
+   "class": "route"
+  }
+ ],
+ "classes": [
+  "route",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "routes",
+   "name": "Fibre routes carrying the country's internet traffic abroad, in service: one, two or more, two independent",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "independent",
+    "two",
+    "one"
+   ],
+   "values": [
+    "independent",
+    "two",
+    "one",
+    "none"
+   ]
+  },
+  {
+   "key": "access",
+   "name": "Capacity at the landing station or on the international route sold to other operators",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "open"
+   ],
+   "values": [
+    "open",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
