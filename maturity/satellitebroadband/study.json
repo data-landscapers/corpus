@@ -1,0 +1,99 @@
+{
+ "id": "satellitebroadband",
+ "study_file": "maturity-study-satellitebroadband.md",
+ "subjects": [
+  "infra.connect"
+ ],
+ "stage_topic": "infra.connect",
+ "redraws": [
+  "infra.connect--satellite-broadband-licensing-and-availability"
+ ],
+ "carry": [
+  "infra.connect--satellite-broadband-licensing-and-availability"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 70000000,
+ "terms": [
+  "satellite broadband",
+  "satellite internet",
+  "internet by satellite",
+  "internet via satellite",
+  "Starlink",
+  "OneWeb",
+  "Kuiper",
+  "Konnect",
+  "YahClick",
+  "VSAT",
+  "low earth orbit",
+  "low-earth orbit",
+  "LEO satellite",
+  "NGSO",
+  "internet par satellite",
+  "internet satellitaire",
+  "haut débit par satellite",
+  "connexion satellitaire",
+  "orbite basse",
+  "internet via satélite",
+  "internet por satélite",
+  "banda larga por satélite",
+  "ستارلينك",
+  "الإنترنت الفضائي",
+  "الانترنت الفضائي",
+  "الإنترنت عبر الأقمار الصناعية",
+  "الانترنت عبر الأقمار الصناعية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "satellite",
+   "label": "Satellite broadband licensed and on sale",
+   "subject": "infra.connect",
+   "text": "Satellite broadband licensing and availability: satellite broadband licensed and on sale",
+   "indicator_id": "infra.connect--satellite-broadband-licensing-and-availability-satellite-broadband-licensed-and-on-sale",
+   "class": "satellite",
+   "norm_short": "The African Telecommunications Union's Recommendation 005-0 asks every country to license satellite broadband simply, so that users can buy it from more than one provider.",
+   "criteria": [],
+   "criteria_of": ""
+  }
+ ],
+ "classes": [
+  "satellite",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "service",
+   "name": "Licensed, on sale, and from more than one network",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "choice",
+    "sale",
+    "licensed"
+   ],
+   "values": [
+    "choice",
+    "sale",
+    "licensed",
+    "none"
+   ]
+  },
+  {
+   "key": "counted",
+   "name": "Subscribers counted by the regulator",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "counted"
+   ],
+   "values": [
+    "counted",
+    "none"
+   ]
+  }
+ ],
+ "flags": []
+}
