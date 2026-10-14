@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "Tech Africa News reports that in February 2026 Paratus activated a 2,000 km protected fibre route from Mombasa (Kenyan coast subsea systems) to Goma via Nairobi, Kampala and Kigali, giving operators in Uganda direct access to global capacity.",
+     "as_of": "2026-02", "date_precision": "month", "system": "Paratus Mombasa-Goma protected fibre route", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Paratus Mombasa-Goma protected fibre route", "country_label": "", "class": "route", "platform": "", "owner": "Paratus", "tiers": ""},
+    {"system": "Airtel Telesonic East and Central African backbone", "country_label": "", "class": "other", "platform": "", "owner": "Airtel Telesonic", "tiers": ""}
+  ],
+  "note": "Only the Paratus route names Uganda; the Airtel backbone is planned and names no country."
+}

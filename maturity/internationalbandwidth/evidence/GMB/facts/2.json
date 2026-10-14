@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-08-gamtel-sysroad-50m-ppp-broadband-backbone-standard",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GAMTEL national backbone upgrade (40 to 800 Gbps)",
+   "country_label": "national internet backbone",
+   "class": "other",
+   "platform": "",
+   "owner": "GAMTEL / SYSROAD",
+   "tiers": ""
+  }
+ ],
+ "note": "National core backbone upgrade only; no international route stated."
+}

@@ -1,0 +1,39 @@
+{
+ "slug": "2026-05-20 Google in Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Umoja",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM 2.0",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Google Nairobi interconnect hub",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Equiano landings listed exclude KEN; Umoja, SEACOM 2.0 and the Nairobi hub are planned, not in service."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-potraz-abridged-sector-performance-report-q4-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink Zimbabwe", "country_label": "Starlink Zimbabwe", "class": "other", "platform": "VSAT (satellite)", "owner": "Starlink Zimbabwe", "tiers": "fixed internet subscribers; VSAT subscriptions rose 31.62% in Q4 2025"}
+  ],
+  "note": "Gives equipped and used international bandwidth in Mbps by operator (total 1,688,770 Mbps equipped, Q4 2025) but names no cable, landing station or neighbour route, and says nothing on wholesale access."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-19-airtel-drc-2africa-cable-activation",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Airtel Congo RDC SA says it became the first operator in DRC to put the first phase of the 2Africa submarine cable into service, activating an initial 200 Gbps on 2025-12-18; the document names no landing station.", "as_of": "2025-12-18", "date_precision": "day", "system": "2Africa", "class": "route"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "câble sous-marin 2Africa", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

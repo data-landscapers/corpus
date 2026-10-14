@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Seacom 2.0",
+      "country_label": "planned, not in service",
+      "class": "other",
+      "platform": "",
+      "owner": "Seacom",
+      "tiers": ""
+    },
+    {
+      "system": "SEACOM terrestrial fibre",
+      "country_label": "runs from Kenya through Uganda, Tanzania and Rwanda; transit, no statement of Tanzania's international traffic using it",
+      "class": "other",
+      "platform": "",
+      "owner": "Seacom",
+      "tiers": ""
+    }
+  ],
+  "note": "Seacom owns east-coast landing stations (no country named for Tanzania); open access is only a stated aim of the planned Seacom 2.0."
+}

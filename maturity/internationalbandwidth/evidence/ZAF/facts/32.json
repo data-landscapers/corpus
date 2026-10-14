@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta; WIOCC landing party at Amanzimtoti",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "Seacom",
+   "class": "other",
+   "platform": "",
+   "owner": "Seacom (75% African-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "other",
+   "platform": "",
+   "owner": "WIOCC core investor",
+   "tiers": ""
+  }
+ ],
+ "note": "Names WIOCC as 2Africa landing party at Amanzimtoti but does not state it in service; Seacom/EASSy ZAF landings not stated. No ZAF route fact."
+}

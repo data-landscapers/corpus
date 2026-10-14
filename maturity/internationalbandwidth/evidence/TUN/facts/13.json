@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-26-trade-gov-tunisia-telecommunications-country-commercial-guide",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The US ITA commercial guide says Tunisie Telecom, the leading international connectivity provider, manages three sub-sea cables, including a Kelibia (Tunisia) to Mazara (Italy) cable; the other two are not named.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Kelibia-Mazara cable (three cables managed by Tunisie Telecom)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kelibia-Mazara cable",
+   "country_label": "Kelibia-Mazara cable",
+   "class": "route",
+   "platform": "",
+   "owner": "Tunisie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "Medusa",
+   "class": "other",
+   "platform": "",
+   "owner": "Tunisie Telecom (dedicated 20 Tbps fibre pair)",
+   "tiers": ""
+  }
+ ],
+ "note": "No access fact; Medusa and Bizerte-Marseille link described as upcoming (early 2026)."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2024-10-25-mli-pnden-2025-2029-projet",
+  "facts": [],
+  "systems": [
+    {"system": "Mali/Gao to Niger/Ayorou link", "country_label": "liaison principale manquante Mali/Gao vers Niger/Ayorou", "class": "other", "platform": "", "owner": "", "tiers": "planned, not in service"},
+    {"system": "Mali/Kouremale to Guinea/Kouremale backup link", "country_label": "liaison secours Mali/Kouremalé vers Guinée", "class": "other", "platform": "", "owner": "", "tiers": "planned, not in service"},
+    {"system": "Mali/Mopti to Burkina/Ouahigouya backup link", "country_label": "liaison secours Mali/Mopti vers Burkina/Ouahigouya", "class": "other", "platform": "", "owner": "", "tiers": "planned, not in service"},
+    {"system": "Mali/Koutiala to Burkina/Faramana backup link", "country_label": "liaison secours Mali/Koutiala vers Burkina/Faramana", "class": "other", "platform": "", "owner": "", "tiers": "planned, not in service"},
+    {"system": "Virtual landing point at Bamako", "country_label": "Point d'Atterrissement Virtuel à Bamako", "class": "other", "platform": "", "owner": "", "tiers": "planned"},
+    {"system": "MLIX", "country_label": "Point d'échange Internet MLIX", "class": "other", "platform": "", "owner": "AMRTP", "tiers": "four operators at 1 Gbps each"}
+  ],
+  "note": "PNDEN draft names no cable or international link in service for Mali; Table 5 counts operators' landing points (14) without naming routes; cross-border links are planned only."
+}

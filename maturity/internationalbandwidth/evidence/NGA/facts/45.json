@@ -1,0 +1,23 @@
+{
+  "slug": "2022-10-05-google-zaf-cloud-region-intent-1bn-africa-commitment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Equiano",
+      "country_label": "Equiano",
+      "class": "route",
+      "platform": "",
+      "owner": "Google",
+      "tiers": ""
+    },
+    {
+      "system": "Google Dedicated Cloud Interconnect Lagos",
+      "country_label": "Google Dedicated Cloud Interconnect Lagos",
+      "class": "other",
+      "platform": "",
+      "owner": "Google",
+      "tiers": ""
+    }
+  ],
+  "note": "Google says it is expanding via Equiano and building a Lagos interconnect site; no NGA landing or in-service statement."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2013-11-15-int-decision-165-2013-cables-sous-marins",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "INT decision 165/2013 orders the national operator to offer alternative operators regulated, cost-oriented access to international capacity (STM-1 to STM-64, priced) and co-location at its Bizerte landing station for Sea-Me-We 4 (Bizerte-Marseille).",
+   "as_of": "2013-11-15",
+   "date_precision": "day",
+   "system": "Sea-Me-We 4",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The INT decision treats Sea-Me-We 4 (Bizerte-Marseille) as an operating cable whose international capacity is under-used.",
+   "as_of": "2013-11-15",
+   "date_precision": "day",
+   "system": "Sea-Me-We 4",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Didon",
+   "country_label": "cable Kelibia-Mazara del Vallo, described as deployed by alternative operators; the decision does not say it was in service",
+   "class": "other",
+   "platform": "",
+   "owner": "alternative operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

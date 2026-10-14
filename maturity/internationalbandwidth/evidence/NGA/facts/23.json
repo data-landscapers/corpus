@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-mtn-nigeria-fibre-market-share-techcabal",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal states Nigeria has eight active subsea fibre-optic cable systems landing on its shores, with combined design capacity of about 370 Tbps; the cables are not named.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "subsea cable systems (8, unnamed)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Connecting Africa reports Congo has depended on the WACS submarine cable for international Internet access since 2012.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "WACS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium",
+   "tiers": ""
+  },
+  {
+   "system": "new unnamed cable",
+   "country_label": "new unnamed cable",
+   "class": "other",
+   "platform": "",
+   "owner": "ARPCE (planned connection)",
+   "tiers": ""
+  },
+  {
+   "system": "Dow Africa",
+   "country_label": "Dow Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

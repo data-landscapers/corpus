@@ -1,0 +1,31 @@
+{
+ "slug": "2026-05-27-angola-cables-uniti-wholesale-parceria-de-conectividade",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "MONET",
+   "country_label": "MONET",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": "Partnership news: Angola Cables' SACS, MONET and WACS systems linked to Uniti US fibre; no statement of landing in or service for AGO."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "other",
+   "platform": "",
+   "owner": "MainOne Cable Company",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi Appolonia City data centre",
+   "country_label": "MDXi",
+   "class": "other",
+   "platform": "",
+   "owner": "MDXi (MainOne subsidiary)",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned data centre; no named route in service or landing-station access statement."
+}

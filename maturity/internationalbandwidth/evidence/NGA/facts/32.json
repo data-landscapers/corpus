@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Kasi Cloud's Lagos LOS1 campus is described as adjacent to six subsea cable landings (article by Data Landscapers); no event date given, so as_of is the published date.",
+      "as_of": "2026-06-11",
+      "date_precision": "day",
+      "system": "six subsea cable landings, Lagos",
+      "class": "route"
+    }
+  ],
+  "systems": [],
+  "note": "Other cable and landing-station statements concern other countries."
+}

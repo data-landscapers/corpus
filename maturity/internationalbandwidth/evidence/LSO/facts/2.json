@@ -1,0 +1,10 @@
+{
+  "slug": "2011-01-01-lca-annual-report-2010-11",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The LCA 2010/11 annual report states that the EASSy submarine cable was completed ahead of schedule, Lesotho being a participant, and that the country is now connected through terrestrial backhaul (dated by the 2010/11 reporting year; the document gives no month).", "as_of": "2011", "date_precision": "year", "system": "EASSy", "class": "route"}
+  ],
+  "systems": [
+    {"system": "EASSy", "country_label": "EASSy", "class": "route", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

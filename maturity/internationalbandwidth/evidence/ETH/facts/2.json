@@ -1,0 +1,31 @@
+{
+ "slug": "2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Somcable Berbera terrestrial extension",
+   "country_label": "Berbera to Ethiopia route",
+   "class": "other",
+   "platform": "",
+   "owner": "Somcable",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa (lands Berbera, Somaliland)",
+   "class": "other",
+   "platform": "",
+   "owner": "consortium",
+   "tiers": ""
+  },
+  {
+   "system": "PEACE",
+   "country_label": "PEACE (lands Berbera, Somaliland)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Cables land in Somaliland, not ETH; route into Ethiopia is only being engineered."
+}

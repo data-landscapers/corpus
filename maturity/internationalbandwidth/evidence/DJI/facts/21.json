@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-17-wearetech-djibouti-huawei-infrastructures-numeriques",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Per wearetech.africa, Prime Minister Abdoulkader Kamil Mohamed said in his March 2026 general policy statement that Djibouti has 14 submarine cables; no cable or landing station is named.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Djibouti submarine cables",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

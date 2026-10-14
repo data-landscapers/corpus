@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-19-starlink-broke-potraz-bandwidth-framework",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "satellite LEO",
+   "owner": "Starlink",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives equipped international bandwidth totals by operator and Starlink satellite usage; names no cable or fibre route."
+}

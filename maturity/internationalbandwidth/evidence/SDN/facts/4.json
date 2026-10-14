@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "The Data Landscapers cable factsheet lists EASSy as in service (ready for service 2010, WIOCC-led consortium) with a landing at Port Sudan, Sudan.",
+      "as_of": "2010-07",
+      "date_precision": "month",
+      "system": "EASSy",
+      "class": "route"
+    },
+    {
+      "sub_indicator": "routes",
+      "aspect": "access",
+      "value": "open",
+      "fact": "The factsheet marks EASSy open_access yes, with capacity held by a 16+ member consortium led by WIOCC (about 29%); the factsheet is AI-compiled and flags its figures as needing primary checks.",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "EASSy",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EASSy",
+      "country_label": "EASSy",
+      "class": "route",
+      "platform": "",
+      "owner": "WIOCC-led consortium",
+      "tiers": ""
+    }
+  ],
+  "note": "Other cables in the factsheet do not name Sudan as a landing."
+}

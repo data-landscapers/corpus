@@ -1,0 +1,52 @@
+{
+ "slug": "2026-01-22-djibouti-telecom-monopoly-profile-lanation",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "La Nation's Djibouti Telecom profile says its network comprises seven international submarine cables and two terrestrial cables (Djibouti-Somalia and Djibouti-Ethiopia); landing stations are not named, the figures read as stale boilerplate (mentions 'two new cables for 2021'), and the article gives no date for the count so its publication date is used.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Djibouti Telecom international network",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "none",
+   "fact": "La Nation states Djibouti Telecom, created 20 September 1999, holds the monopoly of national and international telecommunications across Djibouti, under laws of 1998 and 2004; the statement is in the present tense of a January 2026 article.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Djibouti Telecom international network",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djibouti Telecom international submarine cables (seven, unnamed)",
+   "country_label": "Djibouti Telecom international submarine cables (seven, unnamed)",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Djibouti-Somalia terrestrial cable",
+   "country_label": "Djibouti-Somalia terrestrial cable",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Djibouti-Ethiopia terrestrial cable",
+   "country_label": "Djibouti-Ethiopia terrestrial cable",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Cable count flagged stale in file header; monopoly and routes taken as the document states."
+}

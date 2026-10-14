@@ -1,0 +1,42 @@
+{
+ "slug": "2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "AFR-IX (2018-06-06) states Ceiba-2, a 400 km cable linking Malabo, Bata and Kribi (Cameroon), was inaugurated on 4 June 2018 as the first direct international fibre link, alongside the ACE cable: two routes in service.",
+   "as_of": "2018-06-04",
+   "date_precision": "day",
+   "system": "Ceiba-2; ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ceiba-2",
+   "country_label": "Ceiba-2",
+   "class": "route",
+   "platform": "",
+   "owner": "GITGE",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ceiba-1",
+   "country_label": "Ceiba-1",
+   "class": "other",
+   "platform": "",
+   "owner": "GITGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

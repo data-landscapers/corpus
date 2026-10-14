@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-17-linkedin-beck-itw-africa-subsea-lessons",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Daraja",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta; Safaricom Kenyan landing",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta-led consortium",
+   "tiers": ""
+  }
+ ],
+ "note": "2Africa Mombasa-Marseille is said to go live next summer (not in service); Daraja planned; Mombasa called the subsea cable hub without naming routes in service."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "DatacenterDynamics reports that only one subsea cable currently lands in Mauritania, the ACE system at Nouakchott, in which International Mauritania Telecom is the Mauritanian participant.", "as_of": "2025-07-30", "date_precision": "day", "system": "ACE", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE", "country_label": "Africa Coast to Europe", "class": "route", "platform": "", "owner": "International Mauritania Telecom (Mauritanian participant)", "tiers": ""},
+    {"system": "EllaLink Mauritania branch (Nouadhibou)", "country_label": "second international link", "class": "other", "platform": "", "owner": "EllaLink", "tiers": ""}
+  ],
+  "note": "The EllaLink branch is under construction (ready for service early 2027 per the document); date is the article's, as it gives no other."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-11-dcd-horizon-fiber-agreement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber corridor",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Corridor agreed but not built; Djibouti cables are not ETH routes; no in-service route stated for ETH."
+}

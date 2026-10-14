@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-24-digitalbusiness-africa-bilan-2025-numerique-cameroun",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "MINPOSTEL's Secretary General reported that in 2025 Camtel raised the capacity of the NCSCS submarine cable from 100 Gbps to 300 Gbps, with a study towards 2.4 Tbps.", "as_of": "2025", "date_precision": "year", "system": "NCSCS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "NCSCS", "country_label": "NCSCS", "class": "route", "platform": "", "owner": "Camtel", "tiers": ""},
+    {"system": "MEDUSA", "country_label": "MEDUSA", "class": "other", "platform": "", "owner": "Camtel", "tiers": "connection being prepared in 2025, not in service"},
+    {"system": "AVANTI", "country_label": "AVANTI", "class": "other", "platform": "", "owner": "Camtel", "tiers": "satellite optimisation"}
+  ],
+  "note": ""
+}

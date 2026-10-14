@@ -1,0 +1,18 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "The Data Landscapers cable factsheet (AI-compiled, flagged as working analysis) lists three in-service cables landing in Kenya at Mombasa: EASSy, SEACOM and TEAMS (Mombasa to Fujairah); three routes, all at Mombasa.", "as_of": "2026-06-03", "date_precision": "day", "system": "EASSy; SEACOM; TEAMS", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "The factsheet marks EASSy, landing at Mombasa, as open access (open_access yes); it is a largely African consortium led by WIOCC.", "as_of": "2026-06-03", "date_precision": "day", "system": "EASSy", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "The factsheet marks SEACOM, landing at Mombasa, as open access (open_access yes).", "as_of": "2026-06-03", "date_precision": "day", "system": "SEACOM", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "The factsheet marks TEAMS, Mombasa to Fujairah and owned by the Government of Kenya, Kenyan operators and minority Etisalat, as open access (open_access yes).", "as_of": "2026-06-03", "date_precision": "day", "system": "TEAMS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "EASSy", "country_label": "EASSy", "class": "route", "platform": "", "owner": "WIOCC-led consortium", "tiers": ""},
+    {"system": "SEACOM", "country_label": "SEACOM (original)", "class": "route", "platform": "", "owner": "Remgro / IPS (Aga Khan) joint venture", "tiers": ""},
+    {"system": "TEAMS", "country_label": "The East African Marine System", "class": "route", "platform": "", "owner": "TEAMS (Kenya) Ltd", "tiers": ""},
+    {"system": "Umoja", "country_label": "Umoja", "class": "other", "platform": "", "owner": "Google", "tiers": ""},
+    {"system": "SEACOM 2.0", "country_label": "SEACOM 2.0", "class": "other", "platform": "", "owner": "SEACOM", "tiers": ""},
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "", "owner": "Meta-led consortium", "tiers": ""}
+  ],
+  "note": "2Africa, Equiano, WACS, ACE, SAT-3 and MainOne are not stated to land in Kenya here; 2Africa's Kenya landing is not named."
+}

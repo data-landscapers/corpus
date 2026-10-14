@@ -1,0 +1,34 @@
+{
+ "slug": "2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Medusa press release states Orange Tunisia set up the Didon cable in 2014 linking Tunisia to Europe, in partnership with Ooredoo Tunisia.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Didon",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Didon",
+   "country_label": "Didon",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange Tunisia with Ooredoo Tunisia",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "planned Bizerte-Marseille landing, implementation scheduled end 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "Medusa Submarine Cable System",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

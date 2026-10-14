@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-01-dare1-extension-kenya-south-africa-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Connecting Africa states the DARE1 submarine cable has been operational since 2021, linking Djibouti City, Bosaso and Mogadishu in Somalia and Mombasa, Kenya, with 36 Tbit/s over three fibre pairs.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "DARE1",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DARE1",
+   "country_label": "DARE1",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom (partners Hormuud Telecom, Somtel International, Telkom Kenya)",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1 extension to Mtunzini",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

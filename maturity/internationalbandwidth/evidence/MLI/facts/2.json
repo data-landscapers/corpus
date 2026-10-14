@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Agence Ecofin reports SMTD-SA and Senegal Numerique commissioned on 5 October 2026 a fibre link at Kidira-Diboli joining the Malian and Senegalese backbones, giving landlocked Mali a route to submarine cables (2Africa, ACE, SAT-3 landing in Senegal) and described as an additional corridor to a pre-existing terrestrial axis it does not name.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "country_label": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "class": "route",
+   "platform": "",
+   "owner": "SMTD-SA / Senegal Numerique",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Link to Senegal in service 5 Oct 2026; article implies an earlier route but names none, so only one is recorded."
+}

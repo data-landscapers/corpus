@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The Conversation Africa (Jess Auerbach Jahajeeah, 2024-03-15) states that in Liberia and Sierra Leone only one fibre optic cable comes into the country, so internet traffic stops when it breaks; Liberia was among the countries worst hit by the 14 March 2024 cable failures. The cable is not named and the date is the article's.", "as_of": "2024-03-15", "date_precision": "day", "system": "single undersea cable (unnamed)", "class": "route"}
+  ],
+  "systems": [],
+  "note": ""
+}

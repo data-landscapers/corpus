@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "1",
+   "routes": "none",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

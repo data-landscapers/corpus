@@ -1,0 +1,31 @@
+{
+ "slug": "2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa West / Gera",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "WIOCC financing to buy capacity on several cables; no ZAF landing or access statement."
+}

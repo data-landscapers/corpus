@@ -1,0 +1,74 @@
+{
+ "slug": "2023-12-05-telkom-investors-site-tours-presentation-2023",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Telkom's Openserve says three cable landing stations land multiple cables: Mtunzini (EASSy, SEACOM), Yzerfontein (WACS, 2Africa) and Melkbosstrand (SAT-3, Equiano, 2Africa); the slide lists 2Africa, whose service status the document does not give, so it is not counted here.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "EASSy; SEACOM; WACS; SAT-3; Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "Openserve (landing)",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Openserve cable landing stations",
+   "country_label": "Openserve cable landing stations",
+   "class": "other",
+   "platform": "",
+   "owner": "Openserve",
+   "tiers": ""
+  }
+ ],
+ "note": "Openserve describes itself as an open-access operator, but the document does not say landing-station capacity is sold on open terms, so no access fact."
+}

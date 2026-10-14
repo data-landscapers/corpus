@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-xalam-congo-republic-data-center-market-briefing",
+  "facts": [],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Central African Backbone (CAB)",
+      "country_label": "CAB",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Briefing (Jan 2026) calls 2Africa a second submarine cable 'to be' operational; no dated in-service route statement."
+}

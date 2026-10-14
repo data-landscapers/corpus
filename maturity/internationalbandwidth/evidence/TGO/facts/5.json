@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Maroc Telecom's West Africa submarine cable (9,414 km) lands at Lome, Togo; south segment operational July 2021, north segment April 2022; Moov Africa TGO a co-financier.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "Maroc Telecom West Africa Submarine Cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maroc Telecom West Africa Submarine Cable",
+   "country_label": "Maroc Telecom West Africa cable",
+   "class": "route",
+   "platform": "",
+   "owner": "Maroc Telecom / Moov Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

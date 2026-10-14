@@ -1,0 +1,23 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,EASSy,EASSy,route,,BoFiNet is a shareholder/manager of access,,2026-08-13-bofinet-integrated-report-2025
+BWA,WACS,WACS,route,,BoFiNet manages access,,2026-08-13-bofinet-integrated-report-2025
+BWA,Equiano,Equiano,route,,,,2026-08-13-bofinet-integrated-report-2025
+BWA,Digital Delta Data Centre,DDDC,other,,BoFiNet,,2026-08-13-bofinet-integrated-report-2025
+BWA,EASSy,EASSy,other,,WIOCC (largest shareholder),,2026-06-03 Submarine cables serving Africa
+BWA,WACS,WACS,other,,consortium,,2026-06-03 Submarine cables serving Africa
+BWA,Equiano,Equiano,other,,Google,,2026-06-03 Submarine cables serving Africa
+BWA,2Africa,2Africa,other,,Meta-led consortium,,2026-06-03 Submarine cables serving Africa
+BWA,EASSy,EASSy,other,,BoFiNet shareholder,,2025-12-01-trade-gov-ccg-botswana-telecommunications
+BWA,WACS,WACS,other,,BoFiNet shareholder,,2025-12-01-trade-gov-ccg-botswana-telecommunications
+BWA,WIOCC,WIOCC,other,,BoFiNet shareholder,,2025-12-01-trade-gov-ccg-botswana-telecommunications
+BWA,EASSy,EASSy,route,,,,2018-06-01-bwa-national-broadband-strategy
+BWA,WACS,WACS,route,,,,2018-06-01-bwa-national-broadband-strategy
+BWA,WIOCC,WIOCC,other,,WIOCC Group; shareholders include Botswana Fibre Networks,,2026-09-28-xaf-cioafrica-dfc-wiocc-300m-analysis
+BWA,BoFiNet international links via Ramatlabama and Pioneer Gate (South Africa),,route,,BoFiNet,,2026-09-23-botswana-bofinet-international-capacity-upgrade
+BWA,BoFiNet-MTC Namibia cross-border fibre at Mamuno and Ngoma,,other,,BoFiNet; MTC Namibia,,2026-09-23-botswana-bofinet-international-capacity-upgrade
+BWA,"MTC Namibia-BoFiNet fibre, Gobabis-Buitepos to Charles Hill",,other,,MTC Namibia; BoFiNet,,2026-08-10-namibia-botswana-trans-kalahari-4g-mou
+BWA,Powertel-Paratus Plumtree-Bulawayo fibre,,other,DWDM,Powertel; Paratus Zimbabwe,,"2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway"
+BWA,Buitepos-Ngoma corridor,Buitepos-Ngoma corridor,other,,,,2026-02-18-mtc-namibia-bofinet-cross-border-fibre-mou-techafricanews
+BWA,London IXP (BoFiNet international gateway),IXP in London,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
+BWA,Johannesburg IXP (BoFiNet international gateway),IXP in Johannesburg,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
+BWA,Gaborone IXP,Gaborone IXP,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway

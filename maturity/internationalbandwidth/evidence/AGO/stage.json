@@ -1,0 +1,16 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "3",
+   "routes": "two",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-009;AGO-014",
+   "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours.",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

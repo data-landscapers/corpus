@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-techafricanews-orange-medusa-cable-operational",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TechAfrica News reports Orange Tunisia announced the operational launch of the MEDUSA submarine cable, landing at Bizerte, which Orange Tunisia owns along with the Tunisian section.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "MEDUSA",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEDUSA",
+   "country_label": "MEDUSA",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange Tunisia (Tunisian section and Bizerte landing station)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

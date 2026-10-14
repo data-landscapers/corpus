@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-22-qkon-eutelsat-oneweb-leo-satellite-launch-namibia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Twoobii-OneWeb LEO",
+   "country_label": "Twoobii-OneWeb LEO",
+   "class": "other",
+   "platform": "",
+   "owner": "Q-KON; Echo Namibia, Oblixx",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite service launch; not fibre."
+}

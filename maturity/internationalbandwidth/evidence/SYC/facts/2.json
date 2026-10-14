@@ -1,0 +1,19 @@
+{
+  "slug": "2023-01-06-nation-sc-peace-operational-seychelles",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "Seychelles Cable Systems (SCS), via a press release in Seychelles Nation, states the PEACE submarine cable (Pakistan, Seychelles, Kenya, Djibouti, France) landed at Ile Perseverance with its cable landing station at SCS House, and that operators in Seychelles could use it for traffic from 16 November 2022.",
+     "as_of": "2022-11-16", "date_precision": "day", "system": "PEACE", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two",
+     "fact": "SCS states PEACE is Seychelles' second submarine fibre cable landing, in service from 16 November 2022 alongside the SEAS cable commissioned over ten years earlier, giving two submarine routes; the SEAS landing station is not named.",
+     "as_of": "2022-11-16", "date_precision": "day", "system": "SEAS; PEACE", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open",
+     "fact": "SCS states operators in Seychelles could, from 16 November 2022, use the PEACE system to carry their traffic, the system being owned by SCS, a public-private vehicle of the government, Cable & Wireless Seychelles and Airtel Seychelles.",
+     "as_of": "2022-11-16", "date_precision": "day", "system": "PEACE", "class": "route"}
+  ],
+  "systems": [
+    {"system": "PEACE", "country_label": "PEACE", "class": "route", "platform": "submarine cable, Huawei Marine/HMN Tech built branch", "owner": "Seychelles Cable Systems Co. Ltd", "tiers": ""},
+    {"system": "SEAS", "country_label": "Seychelles East-Africa System", "class": "route", "platform": "submarine cable", "owner": "Seychelles Cable Systems Co. Ltd", "tiers": ""}
+  ],
+  "note": ""
+}

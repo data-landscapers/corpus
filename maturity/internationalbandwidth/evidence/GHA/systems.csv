@@ -1,0 +1,46 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,SAT-3,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
+GHA,MainOne,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
+GHA,WACS,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
+GHA,Glo,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
+GHA,ACE,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
+GHA,2Africa West,,other,,CSquared (capacity buyer),,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+GHA,Equiano,,other,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+GHA,Equiano,,other,,Google,,2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa
+GHA,Umoja,,other,,Google,,2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa
+GHA,SAT-3,,route,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
+GHA,ACE,,route,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
+GHA,WACS,,route,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
+GHA,MainOne,,route,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
+GHA,MainOne,MainOne,route,,MainOne Cable Company,,2022-04-05-equinix-closes-mainone-acquisition-us320m
+GHA,MainOne,MainOne,other,,MainOne Cable Company,,2021-06-21-mainone-data-centre-opens
+GHA,MDXi Appolonia City data centre,MDXi,other,,MDXi (MainOne subsidiary),,2021-06-21-mainone-data-centre-opens
+GHA,MainOne,MainOne,other,,MainOne Cable Company,,2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre
+GHA,MDXi Appolonia City data centre,MDXi,other,,MDXi (MainOne subsidiary),,2019-09-25-mainone-mdxi-accra-appolonia-tier-iii-data-centre
+GHA,Main One,Main One,other,,Main One Cable Company,"planned, not yet in service in 2009 (Portugal-Accra-Lagos, open-access wholesale intended)",2009-05-28-afdb-supports-submarine-fiber-optic-cable-for-western-africa
+GHA,2Africa,,route,,"Meta-led consortium (China Mobile International, Orange, Telecom Egypt, center3, WIOCC, MTN, Vodacom)",,2026-02-12-2africa-subsea-cable-complete
+GHA,MainOne,,route,,Equinix,,2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa
+GHA,2Africa,,other,,,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+GHA,Equiano,,other,,,,2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built
+GHA,2Africa,,other,,Meta,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+GHA,Equiano,,other,,Google,,2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem
+GHA,Equiano,,other,,Google,"landings Togo, Nigeria, Namibia, St Helena, South Africa; not Ghana",2026-05-20 Google in Africa
+GHA,2Africa,2Africa,other,,Bayobab (MTN Group),,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,ACR1 cable landing station facility,ACR1 cable landing station facility,other,,Digital Realty,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,ACR2 data centre,ACR2 data centre,other,,Digital Realty,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,Ghana IX,Ghana IX,other,,,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,LINX,LINX,other,,,,2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly
+GHA,2Africa,2Africa,other,,,,2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)
+GHA,ACR2 data centre,ACR2 data centre,other,,Digital Realty,,2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)
+GHA,2Africa,2Africa,other,,,,2025-10-31-digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana
+GHA,ACR2 data centre,ACR2 data centre,other,,Digital Realty,,2025-10-31-digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana
+GHA,2Africa,2Africa,other,,,,2025-10-31-digital-realty-opens-accra-data-center-graphic
+GHA,ACR2 data centre,ACR2 data centre,other,,Digital Realty,,2025-10-31-digital-realty-opens-accra-data-center-graphic
+GHA,Starlink,Starlink,other,,SpaceX,,2026-06-26-africa-telcos-starlink-playbook-techcabal
+GHA,WACS,WACS,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+GHA,SAT-3,SAT-3,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+GHA,ACE,ACE,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+GHA,2Africa,,other,,Meta-led,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+GHA,Equiano,,other,,Google,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+GHA,2Africa,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
+GHA,Equiano,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii

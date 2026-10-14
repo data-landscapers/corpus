@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix Lagos data centre",
+   "country_label": "Equinix Lagos data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": "Nigeria mentioned only for a new Equinix Lagos data centre; route facts concern Ghana."
+}

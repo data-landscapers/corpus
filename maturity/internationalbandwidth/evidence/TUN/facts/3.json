@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-connectingafrica-viatunisia-subsea-live",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Connecting Africa reports Orange announced the ViaTunisia segment of MEDUSA, Marseille to Bizerte, is operational.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "MEDUSA (ViaTunisia)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEDUSA",
+   "country_label": "MEDUSA",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange (landing partner at Marseille and Bizerte)",
+   "tiers": ""
+  }
+ ],
+ "note": "Cable described as an open point-to-point system; no statement on capacity buyers at Bizerte, so no access fact."
+}

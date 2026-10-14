@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-20 Google in Africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Data Landscapers' audit of Google says the Equiano cable has been operational since 2022 with landings in Togo, Nigeria, Namibia, St Helena and South Africa.", "as_of": "2022", "date_precision": "year", "system": "Equiano", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Equiano", "country_label": "Equiano", "class": "route", "platform": "submarine cable", "owner": "Google", "tiers": ""},
+    {"system": "Umoja", "country_label": "Umoja", "class": "other", "platform": "submarine cable", "owner": "Google", "tiers": ""}
+  ],
+  "note": ""
+}

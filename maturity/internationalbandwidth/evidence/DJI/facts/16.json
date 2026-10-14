@@ -1,0 +1,34 @@
+{
+  "slug": "2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "DataCenterDynamics (2026-07-09) reports the original Seacom cable, launched in 2009, runs from Egypt through the Red Sea to Djibouti before branching west to India and south to South Africa, so Djibouti is on the route.",
+      "as_of": "2009",
+      "date_precision": "year",
+      "system": "Seacom",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Seacom",
+      "country_label": "Seacom",
+      "class": "other",
+      "platform": "",
+      "owner": "Seacom",
+      "tiers": ""
+    },
+    {
+      "system": "Seacom 2.0",
+      "country_label": "Seacom 2.0",
+      "class": "other",
+      "platform": "",
+      "owner": "Seacom",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

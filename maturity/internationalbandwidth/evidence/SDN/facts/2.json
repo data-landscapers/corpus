@@ -1,0 +1,34 @@
+{
+  "slug": "2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Djibouti Telecom's CEO said at the 4 Feb 2026 signing that existing submarine cables run between Port Sudan and Jeddah (Saudi Arabia); plural cables, Port Sudan the only station named.",
+      "as_of": "2026-02-04",
+      "date_precision": "day",
+      "system": "submarine cables Port Sudan-Jeddah",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethio Telecom; Djibouti Telecom; Sudatel Group",
+      "tiers": ""
+    },
+    {
+      "system": "Port Sudan-Jeddah submarine cables",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

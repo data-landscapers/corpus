@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "L'Economie reports that the October 2025 internet disruption in Cameroon was attributed to a problem on the WACS submarine cable, described as the cable that links the country to the global network.", "as_of": "2025-10", "date_precision": "month", "system": "WACS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "WACS", "country_label": "WACS", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SAT-3", "country_label": "SAT-3", "class": "route", "platform": "", "owner": "", "tiers": "cut March 2024 with WACS and Main One, affecting Cameroon among other countries"},
+    {"system": "Main One", "country_label": "Main One", "class": "other", "platform": "", "owner": "", "tiers": "cut March 2024; landing in Cameroon not stated"},
+    {"system": "Backbone phase 4", "country_label": "Blackbone phase 4", "class": "other", "platform": "", "owner": "Camtel", "tiers": "national fibre extension, China Eximbank loan of 108.3bn FCFA, Huawei builder"}
+  ],
+  "note": ""
+}

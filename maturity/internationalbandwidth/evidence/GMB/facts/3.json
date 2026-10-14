@@ -1,0 +1,62 @@
+{
+ "slug": "2025-03-25-gambia-gov-gamtel-company-profile-ace-capacity",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Gamtel states it is connected to the ACE (Africa Coast to Europe) submarine fibre cable, with three international gateways totalling 15 Gbps at the time of the page.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "ACE",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Gamtel states two international routes: the ACE submarine cable and a 155 Mbps backup link with Sonatel in Senegal; landing station not named in this document (page date used, as it gives no other).",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "ACE; Sonatel backup link",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Gamtel states it holds 49% of the ACE Gambia segment and the remaining 51% is shared among private GSM operators and ISPs, so operators other than Gamtel hold stakes in the Gambian ACE capacity.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "Africa Coast to Europe",
+   "class": "other",
+   "platform": "",
+   "owner": "ACE consortium; Gamtel 49% of Gambia segment",
+   "tiers": ""
+  },
+  {
+   "system": "Sonatel backup link",
+   "country_label": "155 Mbps backup link with Sonatel, Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Gamtel / Sonatel",
+   "tiers": ""
+  },
+  {
+   "system": "Plan to add 10 Gbps",
+   "country_label": "additional 10 Gbps",
+   "class": "other",
+   "platform": "",
+   "owner": "Gamtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

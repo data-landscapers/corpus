@@ -1,0 +1,26 @@
+{
+  "slug": "2023-08-15-sdxcentral-2africa-live-mozambique-tanzania-airtel-dar",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "SDxCentral reported that the Airtel 2Africa Marine Cable Centre in Dar es Salaam was launched in the week of 15 August 2023 at an event attended by the President, as the East African portion of 2Africa went live.",
+      "as_of": "2023-08",
+      "date_precision": "month",
+      "system": "2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "Airtel 2Africa Marine Cable Centre, Dar es Salaam",
+      "class": "",
+      "platform": "",
+      "owner": "Meta with Telecom Egypt, China Mobile International, MTN GlobalConnect, Orange, STC, Vodafone, WIOCC; Airtel in Tanzania",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-telecom-egypt-completion-of-2africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Telecom Egypt says the 2Africa cable lands in Egypt at Ras Ghareb on the Red Sea and Port Said on the Mediterranean, joined by two trans-Egypt terrestrial routes, and its core infrastructure is complete; as_of is the press release date.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Consortium incl. Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

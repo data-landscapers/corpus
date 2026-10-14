@@ -1,0 +1,13 @@
+{
+  "slug": "2022-11-02-hormuud-telecom-cable-landing-station-construction-completed-in-somalia",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "DatacenterDynamics lists Somalia's current landings as DARE1 at Mogadishu and Bosaso and Gulf2Africa (G2A) at Bosaso and Berbera, so two cables land at different stations.", "as_of": "2022-11-02", "date_precision": "day", "system": "DARE1; G2A", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "DatacenterDynamics reports Hormuud Telecom's newly completed Somali cable landing station (location undisclosed) is open-access and will accommodate various submarine cables.", "as_of": "2022-11-02", "date_precision": "day", "system": "Hormuud cable landing station", "class": "route"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "", "owner": "Meta-led consortium", "tiers": "due to land at Mogadishu and Berbera, not yet in service"},
+    {"system": "Africa-1", "country_label": "Africa-1", "class": "other", "platform": "", "owner": "", "tiers": "due to land at Berbera"},
+    {"system": "PEACE", "country_label": "Peace cable", "class": "other", "platform": "", "owner": "", "tiers": "upcoming at Mogadishu, Kismayo, Bosaso"}
+  ],
+  "note": "Landing list is garbled in the source; Berbera is in Somaliland."
+}

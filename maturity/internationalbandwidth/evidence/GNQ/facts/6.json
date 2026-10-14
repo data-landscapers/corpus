@@ -1,0 +1,52 @@
+{
+ "slug": "2015-01-01-eximbank-cn-gnq-001-china-eximbank-provides-402-million-buyers",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "AidData record of the China Eximbank loan states the Ceiba-2 cable, a 400 km submarine system owned and operated by GITGE connecting Malabo and Bata with a branching unit to Kribi in Cameroon, was built under the loan (status Completed, end year 2017).",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Ceiba-2",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The same record states the Ceiba-2 and ACE submarine stations in Bata sit next to each other and are directly fibre-linked, so GNQ has both ACE and Ceiba-2 at Bata; same station, so two not independent.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Ceiba-2; ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ceiba-2",
+   "country_label": "CEIBA-2",
+   "class": "route",
+   "platform": "",
+   "owner": "GITGE",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE submarine cable",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAIL",
+   "country_label": "SAIL",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Loan record; in-service date inferred from status Completed and end year 2017."
+}

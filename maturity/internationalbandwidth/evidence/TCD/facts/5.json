@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena",
+  "facts": [],
+  "systems": [
+    {
+      "system": "N'Djamena-Mberé fibre link",
+      "country_label": "N'Djamena-Mberé link",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Trans-Saharan Fiber Optic Backbone (DTS)",
+      "country_label": "Dorsale Transsaharienne",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "N'Djamena-Mberé link only said to be under rehabilitation to diversify routes via Cameroon; DTS and links to Niger, Nigeria, Algeria, Libya, Egypt are planned or under construction, not in service."
+}

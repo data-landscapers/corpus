@@ -1,0 +1,10 @@
+{
+  "slug": "2017-05-11-guilab-1st-iso-9001-2015-certified-operator-in-guinea",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Ecofin Agency reports that GUILAB (La Guineenne de Large Bande) operates and maintains the Africa Coast to Europe (ACE) submarine cable landing station in Guinea and manages Guinea's capacity on ACE, ISO 9001:2015 certified since 22 December 2016.", "as_of": "2016-12-22", "date_precision": "day", "system": "ACE (Africa Coast to Europe)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE (Africa Coast to Europe)", "country_label": "ACE", "class": "route", "platform": "submarine cable", "owner": "consortium of 20 members; Guinea capacity managed by GUILAB", "tiers": ""}
+  ],
+  "note": "GUILAB is called the single gateway for international communications, with eight operator shareholders; no statement on whether other operators can or cannot buy capacity, so no access fact."
+}

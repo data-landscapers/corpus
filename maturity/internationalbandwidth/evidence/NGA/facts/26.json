@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-10-nigeria-sovereign-cloud-localisation-nitda-galaxy-backbone",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a March 2024 multi-cable damage off Cote d'Ivoire (since past); no dated route-in-service or access statement for NGA."
+}

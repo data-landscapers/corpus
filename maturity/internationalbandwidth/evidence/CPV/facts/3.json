@@ -1,0 +1,26 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "Data-landscapers cable factsheet lists WACS as in service with a landing in Cape Verde among its West African landings (landing station not named for Cape Verde).",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "WACS",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "WACS",
+      "country_label": "WACS",
+      "class": "route",
+      "platform": "",
+      "owner": "Consortium (14 members)",
+      "tiers": ""
+    }
+  ],
+  "note": "Factsheet row for WACS only mentions Cape Verde; as_of is the factsheet date."
+}

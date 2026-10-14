@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The record states the MainOne submarine cable (about 7,000 km, Portugal to Nigeria) has landing stations in Nigeria, Ghana, Cote d'Ivoire and Portugal, acquired by Equinix with deal closing 5 April 2022.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "MainOne",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

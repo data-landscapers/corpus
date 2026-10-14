@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-09-paratus-goma-mombasa-fibre-highway-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "G2M (Goma-to-Mombasa)",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus Group",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "G2M is an inland cross-border backbone from Mombasa to landlocked neighbours, not stated as a KEN international route; no cable landing in KEN stated."
+}

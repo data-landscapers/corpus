@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "GUILAB's director general said on 2026-05-06 that ACE, the first cable which arrived nearly 13 years ago, is Guinea's only submarine cable and nearing critical load.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa Africa",
+   "country_label": "Medusa Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Medusa open access is a design principle of a cable not yet in service; no access fact."
+}

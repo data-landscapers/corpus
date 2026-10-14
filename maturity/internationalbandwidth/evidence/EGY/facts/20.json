@@ -1,0 +1,26 @@
+{
+  "slug": "2019-02-27-microsoft-telecom-egypt-cloud-network-point-of-presence",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Microsoft's release says Telecom Egypt connects more than 11 cable systems from the east and 13 from the west, linked by the Red-Med Corridor of 7 diversified routes across Egypt; no cable names or stations given.",
+      "as_of": "2019-02-27",
+      "date_precision": "day",
+      "system": "Telecom Egypt Red-Med Corridor",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Microsoft Egypt point of presence",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Microsoft / Telecom Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

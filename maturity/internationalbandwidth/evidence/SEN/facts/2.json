@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-23-techafricanews-sonatel-2africa-cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Sonatel (Orange Group) states the 2Africa submarine cable was commissioned in December 2025 at the Senegal landing station, which Sonatel owns and operates.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The article says 2Africa is run on an Open Access basis ensuring non-discriminatory use of capacity, with carrier-neutral landing stations available to all operators, the Senegal station being Sonatel's; dated by the article's publication, 2026-02-23.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Consortium; Senegal landing station owned by Sonatel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

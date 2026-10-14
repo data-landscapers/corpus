@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "La Razon (2026-06-05) states ACE has been operative in Equatorial Guinea since December 2012 and is the country's one in-service submarine cable, with Medusa to be the second.",
+   "as_of": "2012-12",
+   "date_precision": "month",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "Medusa",
+   "class": "other",
+   "platform": "",
+   "owner": "AFR-IX Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Via Africa",
+   "country_label": "Via Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

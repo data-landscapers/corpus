@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-smartnewsliberia-lta-revenue-disclosure-pressure",
+  "facts": [],
+  "systems": [
+    {"system": "International Gateway Monitoring System", "country_label": "International Gateway Monitoring System", "class": "other", "platform": "traffic monitoring system, not a fibre route", "owner": "LTA (temporary management after suspension of Telecom International Alliance contract)", "tiers": ""}
+  ],
+  "note": "About revenue disclosure for the gateway traffic monitoring system; states nothing on fibre routes or capacity access."
+}

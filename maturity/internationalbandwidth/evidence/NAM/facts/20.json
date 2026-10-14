@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-12-namibia-angola-ink-satellite-deal-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Angosat-2",
+   "country_label": "Angosat-2",
+   "class": "other",
+   "platform": "",
+   "owner": "GGPEN Angola; Telecom Namibia pilot",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite pilot; not fibre."
+}

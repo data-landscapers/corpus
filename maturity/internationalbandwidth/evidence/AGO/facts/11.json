@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The Conversation Africa interview (Jess Auerbach Jahajeeah) says the South Atlantic Cable System (SACS) is in operation for Angola and that Angola Cables runs the Sangano landing station, which connects and routes internet traffic across the country; it dates SACS operation to 2013 (SACS itself is elsewhere dated 2018), so the date is the article's 2024-03-15 publication.", "as_of": "2024-03-15", "date_precision": "day", "system": "SACS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "SACS", "country_label": "South Atlantic Cable System", "class": "route", "platform": "", "owner": "Angola Cables", "tiers": ""},
+    {"system": "Sangano landing station", "country_label": "Sangano", "class": "other", "platform": "", "owner": "Angola Cables", "tiers": ""}
+  ],
+  "note": ""
+}

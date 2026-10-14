@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Telecoms minister Mário Oliveira states in an ANGOP op-ed that WACS links Angola to the west African coast and Europe and SACS links Luanda to Fortaleza, Brazil, together reducing dependence on a single international route; two routes in service, WACS landing station not named.", "as_of": "2026-08-24", "date_precision": "day", "system": "WACS; SACS", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Minister Mário Oliveira says SACS was put into operation in 2018 as the first direct high-capacity submarine link between Africa and South America, joining Luanda to Fortaleza in Brazil.", "as_of": "2018", "date_precision": "year", "system": "SACS", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Minister Mário Oliveira states WACS ensures Angola's link to the west African coast and Europe, as a fundamental route to major international data centres; no landing station named, date is the op-ed's.", "as_of": "2026-08-24", "date_precision": "day", "system": "WACS", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "The minister describes 2Africa, which Angola has joined, as the largest open-access submarine system in the world (about 45,000 km); the text does not say which landing station or whether it is yet carrying Angolan traffic.", "as_of": "2026-08-24", "date_precision": "day", "system": "2Africa", "class": "route"}
+  ],
+  "systems": [
+    {"system": "WACS", "country_label": "", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SACS", "country_label": "", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "2Africa", "country_label": "", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Rede Nacional de Fibra Óptica Terrestre", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Angosat-2", "country_label": "", "class": "other", "platform": "", "owner": "Angola (GGPEN)", "tiers": ""}
+  ],
+  "note": ""
+}

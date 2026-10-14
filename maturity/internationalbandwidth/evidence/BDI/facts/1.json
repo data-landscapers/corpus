@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-03-itweb-africa-east-africa-inland-digital-future",
+  "facts": [],
+  "systems": [
+    {"system": "Seacom Nairobi-Kisumu-Kampala route", "country_label": "", "class": "other", "platform": "", "owner": "Seacom", "tiers": ""},
+    {"system": "2Africa", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Umoja", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Blu Rahman & Dare-1 extension", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional opinion piece; names Burundi only as a destination of inland fibre from East African landing stations, no named route or access term for BDI."
+}

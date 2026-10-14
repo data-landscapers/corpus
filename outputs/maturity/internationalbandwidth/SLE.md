@@ -1,0 +1,11 @@
+# Sierra Leone
+
+## Fibre routes to the rest of the world
+
+**One route, two, and two independent.** [The Conversation Africa (interview) says Sierra Leone, like Liberia, has only one fibre optic cable coming into the country, so its internet traffic stops when that cable breaks; the cable is not named](<https://theconversation.com/undersea-cables-for-africas-internet-retrace-history-225912>). [The ACE consortium lists Freetown, Sierra Leone as an ACE landing station and says ACE is the first international submarine cable to land in Sierra Leone, in service since 15 December 2012 (page undated; in-service date is the consortium's)](<https://ace-submarinecable.com/en/submarine-cable/>). These place one international fibre route in service, which answers the first of the study's four questions. A second route in service is not stated. Bandwidth is given where a source states it; bandwidth sets no stage.
+
+**Capacity sold to other operators.** Nothing held says other operators buy capacity on [these routes](<https://theconversation.com/undersea-cables-for-africas-internet-retrace-history-225912>), or that they run on open-access or wholesale terms. Capacity counts as sold where operators other than the owner buy it at the landing station or on the cable, or where either runs on open-access or regulated wholesale terms.
+
+***Noted, not assessed***. [2Africa West](<https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/>); [Equiano](<https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/>); [WARDIP second submarine cable](<https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/>); [ECOWAS second submarine cable (CPV, LBR, SLE, GNB)](<https://www.ecowas.int/liberia-hosts-workshop-to-validate-ecowass-second-submarine-cable/>); [Second submarine cable landing (planned)](<https://techafricanews.com/2025/07/11/sierra-leone-explores-second-submarine-cable-landing-to-boost-connectivity/>); [TRANSCO CLSG fibre](<https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/>).
+
+***Not held***. No source held names a second international fibre route in service.

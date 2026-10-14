@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-03-il-ministro-bernini-a-gibuti-e-il-progetto-med-or-sull-underwater",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Fondazione Med-Or states Djibouti is crossed by 12 submarine cables, six of them linked to Italy, and that the country carries about 18% of data on international cables; a landing station for the cables is named but not the cables.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Djibouti submarine cables (12)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "One route-count fact; document published 2026-08-03 and gives no other date, so as_of is the publication date."
+}

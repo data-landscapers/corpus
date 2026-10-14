@@ -1,0 +1,58 @@
+{
+  "slug": "2026-03-10-public-and-private-sector-key-to-digital-realty-in-west-africa-computer-weekly",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Computer Weekly states that Meta's 2Africa cable made landfall near Accra in 2025 as the sixth fibre cable to connect Ghana, operated by MTN subsidiary Bayobab; the six cables are not named and the landing stations are not given.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "Bayobab (MTN Group)",
+      "tiers": ""
+    },
+    {
+      "system": "ACR1 cable landing station facility",
+      "country_label": "ACR1 cable landing station facility",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "ACR2 data centre",
+      "country_label": "ACR2 data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "Ghana IX",
+      "country_label": "Ghana IX",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "LINX",
+      "country_label": "LINX",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-10-namibia-botswana-trans-kalahari-4g-mou",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MTC Namibia-BoFiNet fibre, Gobabis-Buitepos to Charles Hill",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTC Namibia; BoFiNet",
+   "tiers": ""
+  }
+ ],
+ "note": "Namibia link built and interconnected at Charles Hill, but commercial discussions on IP transit and international routing only begun; not stated as carrying BWA international traffic, so no route fact."
+}

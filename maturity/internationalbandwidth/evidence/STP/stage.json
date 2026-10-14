@@ -1,0 +1,16 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "2",
+   "routes": "one",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "STP-002;STP-001",
+   "gaps": "No source held names a second international fibre route in service.",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

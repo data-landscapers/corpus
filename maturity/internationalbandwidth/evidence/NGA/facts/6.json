@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal (2026-05-23) states Nigeria hosts eight submarine cables, the most in West Africa; the cables are not named and no landing stations are given.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "submarine cables (8)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Via Africa",
+   "country_label": "planned Atlantic cable, 20,000 km, landing in Nigeria among others, 3-4 years to build",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange-led consortium",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "2026-09-19-ken-techtrendske-fixed-broadband-growth",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Reporting the Communications Authority of Kenya's June 2026 statistics, Kenya's international bandwidth of 28,950 Gbps runs over seven cable systems: SEACOM, TEAMS, EASSy, Lion2, DARE1, PEACE and 2Africa; landing stations not given.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "SEACOM; TEAMS; EASSy; Lion2; DARE1; PEACE; 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TEAMS",
+   "country_label": "TEAMS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lion2",
+   "country_label": "Lion2",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1",
+   "country_label": "DARE1",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PEACE",
+   "country_label": "PEACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Starlink",
+   "country_label": "Starlink",
+   "class": "other",
+   "platform": "",
+   "owner": "Starlink Internet Services Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

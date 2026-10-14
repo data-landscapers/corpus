@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "DataCenterDynamics states Seacom has terrestrial fibre from Kenya through Uganda (and Tanzania, Rwanda); no date given, so the article's publication date of 2026-07-09 is used.", "as_of": "2026-07-09", "date_precision": "day", "system": "Seacom terrestrial fibre Kenya-Uganda", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Seacom 2.0", "country_label": "Seacom 2.0", "class": "other", "platform": "", "owner": "Seacom", "tiers": ""},
+    {"system": "Seacom terrestrial fibre Kenya-Uganda", "country_label": "", "class": "route", "platform": "", "owner": "Seacom", "tiers": ""}
+  ],
+  "note": ""
+}

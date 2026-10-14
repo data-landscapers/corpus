@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,routes,routes,none,"Mesob Journal (10 Aug 2026) states that industry infrastructure directories continue to identify Eritrea as the only coastal African state without an operational submarine cable landing station, and argues it should gain more than one international route; it does not address terrestrial links.",2026-08-10,day,,route,2026-08-10-mesobjournal-eritrea-digital-sovereignty,https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway

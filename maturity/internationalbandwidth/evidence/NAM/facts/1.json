@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Per Developing Telecoms, Telecom Namibia (landing party at its Swakopmund landing station) will give Angola Telecom, another operator, an initial dedicated 1 Tbps of capacity on the Equiano cable and host Angola Telecom's equipment there, under a master service agreement signed 12 June 2026.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Google; Telecom Namibia landing party at Swakopmund",
+   "tiers": ""
+  },
+  {
+   "system": "SARSSy",
+   "country_label": "Southern African Regional Submarine System",
+   "class": "other",
+   "platform": "planned submarine cable, not yet in service",
+   "owner": "Telecom Namibia, Angola Telecom, SATCAB",
+   "tiers": ""
+  },
+  {
+   "system": "Angosat-2",
+   "country_label": "Angosat-2",
+   "class": "other",
+   "platform": "satellite",
+   "owner": "GGPEN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,122 @@
+{
+ "slug": "2026-07-16 Nigeria - Submarine Networks",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Submarine Networks (page dated 2026-07-16) states eight subsea cables are landed in Nigeria: MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, 2Africa and NCSCS (Kribi-Lagos); the page says 'landed', not in service for each.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MainOne; SAT-3; GLO-2; ACE; WACS; Equiano; 2Africa; NCSCS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "route",
+   "platform": "",
+   "owner": "MainOne",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "route",
+   "platform": "",
+   "owner": "Natcom",
+   "tiers": ""
+  },
+  {
+   "system": "GLO-2",
+   "country_label": "GLO-2",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "ACE/Dolphin Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "WIOCC (landing party, OADC Lagos)",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "MainOne (Akwa Ibom); Bayobab (Mopo-Onibeju Lekki, Lagos)",
+   "tiers": ""
+  },
+  {
+   "system": "NCSCS",
+   "country_label": "NCSCS",
+   "class": "route",
+   "platform": "",
+   "owner": "CAMTEL, landed at MainOne Lagos CLS",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos LOS1",
+   "country_label": "OADC Lagos LOS1",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi Lagos",
+   "country_label": "MDXi Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Rack Centre LGS 2",
+   "country_label": "Rack Centre LGS 2",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WAF-IX",
+   "country_label": "WAF-IX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "AF-CIX",
+   "country_label": "AF-CIX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "One count fact; Akwa Ibom vs Lagos landing for 2Africa not recorded as independent because the page gives landing, not service. No access statement."
+}

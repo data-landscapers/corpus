@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "Connecting Africa reports the N'Djamena-Mberé fibre route to the Cameroonian border is currently Chad's only entry point for international capacity from submarine cables, which all land in Cameroon; a revised Sotel-Airtel MoU (suspended by ARCEP) is still needed before the route is adopted.",
+      "as_of": "2026-02-09",
+      "date_precision": "day",
+      "system": "N'Djamena-Mberé fibre route (via Cameroon)",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "N'Djamena-Mberé fibre route",
+      "country_label": "N'Djamena-Mberé fiber-optic route",
+      "class": "route",
+      "platform": "",
+      "owner": "Sotel and Airtel (MoU April 2025, suspended by ARCEP)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

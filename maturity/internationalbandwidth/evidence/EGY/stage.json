@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "5",
+   "routes": "independent",
+   "access": "open",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-012;EGY-013",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

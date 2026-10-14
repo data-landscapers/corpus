@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Data Landscapers' table of African-owned infrastructure companies lists CSquared, operating in Togo among other countries, with one cable landing station, for the Equiano cable at Lomé; the article gives no date for this, so the article's published date is used.", "as_of": "2026-06-11", "date_precision": "day", "system": "Equiano", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Equiano", "country_label": "Equiano", "class": "route", "platform": "submarine cable", "owner": "CSquared (landing station at Lomé)", "tiers": ""}
+  ],
+  "note": ""
+}

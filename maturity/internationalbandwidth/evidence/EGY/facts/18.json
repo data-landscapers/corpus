@@ -1,0 +1,17 @@
+{
+  "slug": "2025-09-07-trade-gov-egypt-data-centers",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "The US International Trade Administration states Egypt is connected to 15 operational submarine cables as of mid-2025, with three more under construction targeting 18 by year-end; no cable names or landing stations are given (page undated, 2025-09-07 is a proxy).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "15 operational submarine cables",
+      "class": "route"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-04-ken-subseacables-beck-daraja-kenya-oman-cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Daraja",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta (sole owner); Safaricom landing partner at Mombasa; iColo 2 as CLS",
+   "tiers": ""
+  },
+  {
+   "system": "Peace",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Daraja is described as a cable that will land at Mombasa, not in service; Peace is said to land at Mombasa at the same station but no service status or date is given."
+}

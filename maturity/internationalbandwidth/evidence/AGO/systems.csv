@@ -1,0 +1,65 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,SACS,SACS,route,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,MONET,MONET,other,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,WACS,WACS,,,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,Equiano,Equiano,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,2Africa,2Africa,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,EllaLink,EllaLink,,,partner of Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
+AGO,SARSSy,SARSSy,other,,Telecom Namibia / Angola Telecom / SATCAB,,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+AGO,Equiano,Equiano,other,,,,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+AGO,2Africa,Cabo submarino 2Africa,route,,Unitel (sole Angolan consortium member),,2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa
+AGO,National fibre network,"fibra óptica nacional, 14,000 km",other,,,,2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa
+AGO,2Africa,2 África,other,,,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,Equiano,Equiano,other,,,,2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina
+AGO,2Africa,2Africa,route,,Unitel,,2026-09-29-ago-techreviewafrica-ggpen-anyconnect-conecta-angola-2africa
+AGO,ANGOSAT-2,ANGOSAT-2,other,,,,2026-09-29-ago-techreviewafrica-ggpen-anyconnect-conecta-angola-2africa
+AGO,Conecta Angola hub,Conecta Angola hub,other,,GGPEN / ANYCONNECT,,2026-09-29-ago-techreviewafrica-ggpen-anyconnect-conecta-angola-2africa
+AGO,domestic submarine cable,cabo submarino doméstico,other,,,,2026-09-02-ago-governo-pretende-estender-fibra-optica-a-todo-o-pais
+AGO,submarine fibre-optic cable landing at Benguela,amarração de um cabo submarino de fibra óptica em Benguela,other,,,,2026-09-02-zap-fibra-benguela-angola
+AGO,Sarssy,Southern African Regional Submarine System,other,,"Telecom Namibia, Angola Telecom, Satcab",,2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano
+AGO,Equiano,Equiano Cable System,other,,,,2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano
+AGO,domestic submarine cable,cabo de fibra óptica submarino doméstico,other,,,,2026-03-26-minttics-projectos-estruturantes-base-tecnologica
+AGO,Equiano,Equiano,other,,,,2026-03-26-minttics-projectos-estruturantes-base-tecnologica
+AGO,SAT-3,SAT-3,route,,,,2025-12-13-cabo-submarino-2africa-unitel-soberania-digital
+AGO,WACS,WACS,route,,,,2025-12-13-cabo-submarino-2africa-unitel-soberania-digital
+AGO,2Africa,2Africa,other,,Unitel (consortium member),,2025-12-13-cabo-submarino-2africa-unitel-soberania-digital
+AGO,SACS,South Atlantic Cable System,route,,Angola Cables,,2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents
+AGO,Sangano landing station,Sangano,other,,Angola Cables,,2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents
+AGO,SACS,South Atlantic Cable System,route,,Angola Cables,,2016-01-01-jbic-ago-sacs-submarine-cable-2016-export-credit-line-for-banco-de
+AGO,SAT-3/WASC,,route,,Consortium (36 operators),,2026-06-03 Submarine cables serving Africa
+AGO,WACS,West Africa Cable System,other,,Consortium (14 members incl. Angola Cables),,2026-06-03 Submarine cables serving Africa
+AGO,2Africa,,other,,Meta-led consortium,,2026-06-03 Submarine cables serving Africa
+AGO,Equiano,,other,,Google,,2026-06-03 Submarine cables serving Africa
+AGO,WACS,,route,,,,2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira
+AGO,SACS,,route,,,,2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira
+AGO,2Africa,,route,,,,2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira
+AGO,Rede Nacional de Fibra Óptica Terrestre,,other,,,,2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira
+AGO,Angosat-2,,other,,Angola (GGPEN),,2026-08-24-angop-soberania-digital-angola-ministro-mario-oliveira
+AGO,Equiano,,other,,Google,,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+AGO,SARSSy,Southern African Regional Submarine System,other,,Telecom Namibia; Angola Telecom; SATCAB,,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+AGO,Angosat-2,,other,,GGPEN,,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+AGO,WACS,WACS,other,,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,SACS,SACS,other,,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,MONET,MONET,other,,Angola Cables,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,2Africa,2Africa,other,,,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,DARE1,DARE1,other,,,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,Equiano,Equiano,other,,,,2026-06-12-angola-cables-uniti-partnership-connectingafrica
+AGO,SACS,SACS,other,,Angola Cables,,2026-06-11 Can Africa supply it's own digital infrastructure
+AGO,WACS,WACS,other,,"Paratus (Swakopmund landing station, Namibia)",,2026-06-11 Can Africa supply it's own digital infrastructure
+AGO,Equiano,Equiano,other,,,,2026-06-11 Can Africa supply it's own digital infrastructure
+AGO,2Africa,2Africa,other,,,,2026-06-11 Can Africa supply it's own digital infrastructure
+AGO,SACS,SACS,other,,Angola Cables,,2026-05-27-angola-cables-uniti-wholesale-parceria-de-conectividade
+AGO,MONET,MONET,other,,Angola Cables,,2026-05-27-angola-cables-uniti-wholesale-parceria-de-conectividade
+AGO,WACS,WACS,other,,Angola Cables,,2026-05-27-angola-cables-uniti-wholesale-parceria-de-conectividade
+AGO,2Africa,2Africa,other,,,,2026-04-29-angola-launches-government-data-center-and-cloud
+AGO,ANGOSAT-2,ANGOSAT-2,other,,,,2026-04-29-angola-launches-government-data-center-and-cloud
+AGO,Government Data Center and Cloud,Government Data Center and Cloud,other,,,,2026-04-29-angola-launches-government-data-center-and-cloud
+AGO,2Africa,2Africa,other,,,,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,SACS,SACS,other,,,,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,WACS,WACS,other,,,,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,ANGOSAT-2,ANGOSAT-2,other,,,,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,Government Data Center and Cloud,Government Data Center and Cloud,other,,,,2026-04-28-centro-de-dados-do-governo-soberania-digital
+AGO,Equiano,Equiano,other,,"Google; lands at Swakopmund, Namibia",,2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb
+AGO,SARSSy,SARSSy,other,,Angola Telecom,,2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb
+AGO,Luanda-Lobito undersea cables,Luanda-Lobito undersea cables,other,,Angola Telecom / Cybastion,,2025-06-25-cybastion-angola-telecom-170m-digital-sovereignty
+AGO,Angola Cables South Atlantic ring,Angola Cables South Atlantic ring,other,,Angola Cables,,2025-06-23-angola-cables-meo-international-connectivity-deal

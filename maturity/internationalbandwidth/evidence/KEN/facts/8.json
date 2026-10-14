@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Umoja",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Umoja (terrestrial link to Kenya) planned for 2027; Equiano not stated to land in KEN; no in-service KEN route stated."
+}

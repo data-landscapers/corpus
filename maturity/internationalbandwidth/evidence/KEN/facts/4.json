@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-ken-lulu-coastal-submarine-cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Existing submarine cables at Mombasa connect Kenya to global internet networks (plural; no names or count given).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Mombasa landed submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LuLu Coastal Cable System",
+   "country_label": "LuLu Coastal Cable System",
+   "class": "other",
+   "platform": "",
+   "owner": "INDOI Ltd (IOX) with Blue Trade Investments, ARISE IIP, AfriTrade, Kingdom Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "LuLu is a domestic coastal system planned for Q2 2028, not in service; recorded as other."
+}

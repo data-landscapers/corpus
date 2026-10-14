@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms",
+  "facts": [],
+  "systems": [
+    {"system": "Equiano", "country_label": "", "class": "other", "platform": "", "owner": "Google", "tiers": ""},
+    {"system": "SARSSy", "country_label": "Southern African Regional Submarine System", "class": "other", "platform": "", "owner": "Telecom Namibia; Angola Telecom; SATCAB", "tiers": ""},
+    {"system": "Angosat-2", "country_label": "", "class": "other", "platform": "", "owner": "GGPEN", "tiers": ""}
+  ],
+  "note": "Equiano lands at Swakopmund, Namibia, not Angola; SARSSy is a project not yet in service; the 1 Tbps for Angola Telecom is a signed deal, not a route in service."
+}

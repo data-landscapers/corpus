@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-03-itweb-africa-east-africa-inland-digital-future",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Seacom's own executive writes that Seacom recently launched a high-capacity route connecting Nairobi, Kisumu and Kampala, running through Kenya; no launch date given, article published 2026-09-03.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Seacom Nairobi-Kisumu-Kampala route",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seacom Nairobi-Kisumu-Kampala route",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Umoja",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

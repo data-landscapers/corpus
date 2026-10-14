@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Google states the recently completed Equiano subsea cable connects Portugal with Togo, Nigeria, Namibia, South Africa and St. Helena; no landing station named, and the as_of is the article date.",
+   "as_of": "2024-01-31",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Google Cloud Johannesburg region",
+   "country_label": "Google Cloud Johannesburg region",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

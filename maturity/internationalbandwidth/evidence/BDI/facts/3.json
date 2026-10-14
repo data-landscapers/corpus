@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-09-ttcl-bbs-tanzania-burundi-capacity",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "TTCL, through the National ICT Broadband Backbone, and Burundi Backbone System agreed to raise connectivity capacity to Burundi from 4Gbps to 10Gbps, so a terrestrial Tanzania-Burundi link was already carrying 4Gbps; reported by Tech Africa News on 9 September 2026.",
+     "as_of": "2026-09", "date_precision": "month",
+     "system": "TTCL NICTBB - BBS Tanzania-Burundi link", "class": "route"}
+  ],
+  "systems": [
+    {"system": "National ICT Broadband Backbone (NICTBB)", "country_label": "", "class": "other", "platform": "", "owner": "TTCL", "tiers": ""},
+    {"system": "Burundi Backbone System", "country_label": "", "class": "other", "platform": "", "owner": "BBS", "tiers": ""}
+  ],
+  "note": ""
+}

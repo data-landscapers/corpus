@@ -1,0 +1,16 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "5",
+   "routes": "independent",
+   "access": "open",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-005;SOM-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

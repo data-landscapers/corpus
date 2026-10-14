@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+  "facts": [],
+  "systems": [
+    {"system": "Equiano", "country_label": "", "class": "other", "platform": "", "owner": "Google", "tiers": ""},
+    {"system": "2Africa", "country_label": "", "class": "other", "platform": "", "owner": "Meta", "tiers": ""},
+    {"system": "MainOne", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Continental report; names cables generically and CIV only in a startup-activity tier, nothing on CIV routes or access."
+}

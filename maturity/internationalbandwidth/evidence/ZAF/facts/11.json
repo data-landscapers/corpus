@@ -1,0 +1,188 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists Equiano as in service since 2023, landing at Melkbosstrand, South Africa, owned 100% by Google.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Equiano",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists SAT-3/WASC as in service since 2001, landing at Melkbosstrand, South Africa, run by a 36-operator consortium including Telkom SA.",
+   "as_of": "2001",
+   "date_precision": "year",
+   "system": "SAT-3/WASC",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists WACS as in service since 2012, landing at Yzerfontein, South Africa, run by a 14-member consortium including MTN, Telkom SA and Vodacom.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "WACS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists ACE as in service since 2012 and extended to Cape Town, South Africa in 2021, led by Orange.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ACE",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists EASSy as in service since 2010, landing at Mtunzini, South Africa, led by WIOCC with Telkom SA among the members.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "EASSy",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists SEACOM (original) as in service since 2009, landing at Mtunzini, South Africa.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "SEACOM",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) lists six in-service cables landing in South Africa at different stations: Melkbosstrand (Equiano, SAT-3/WASC), Yzerfontein (WACS), Cape Town (ACE) and Mtunzini (EASSy, SEACOM).",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Equiano; SAT-3/WASC; WACS; ACE; EASSy; SEACOM",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) flags EASSy as open access and shows a largely African consortium led by WIOCC with 16+ members, including Telkom SA, landing at Mtunzini.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "EASSy",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) flags SEACOM (original) as open access; it lands at Mtunzini, South Africa.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "SEACOM",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Data Landscapers cable factsheet (AI-compiled, published 2026-06-03) says Equiano, though sole-owned by Google, has capacity sold to customers, landing at Melkbosstrand.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3/WASC",
+   "country_label": "SAT-3/WASC",
+   "class": "route",
+   "platform": "",
+   "owner": "Consortium of 36 operators",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "Consortium of 14 members",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange-led consortium",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "WIOCC-led consortium",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "SEACOM",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta-led consortium",
+   "tiers": ""
+  },
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Project Waterworth",
+   "country_label": "Project Waterworth",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM 2.0",
+   "country_label": "SEACOM 2.0",
+   "class": "other",
+   "platform": "",
+   "owner": "SEACOM",
+   "tiers": ""
+  }
+ ],
+ "note": "2Africa lists no South Africa landing in the document; 'no' open-access flags on consortium cables not recorded as access none."
+}

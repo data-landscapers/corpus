@@ -1,0 +1,58 @@
+{
+  "slug": "2026-08-05-world-bank-tanzania-digital-dividend",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "African Business says international traffic reaches Dar es Salaam via several subsea cables, and that Wingu's Dar es Salaam data centre has direct access to the SEACOM, EASSy and 2Africa cables; 2Africa has added bandwidth though some sections are still to be completed (article date used).",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "SEACOM; EASSy; 2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SEACOM",
+      "country_label": "SEACOM",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "EASSy",
+      "country_label": "EASSy",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NICTBB",
+      "country_label": "NICTBB",
+      "class": "other",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    },
+    {
+      "system": "Tanzania Internet Exchange",
+      "country_label": "Tanzania Internet Exchange",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

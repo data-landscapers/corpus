@@ -1,0 +1,26 @@
+{
+ "slug": "2015-01-01-isdb-dji-submarine-telecom-2015-regional-submarine-telecommunications-project",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The IsDB-financed project (US$16.8m, completed with an activity end date of 2016-12-30) financed the AAE-1 submarine cable connecting Djibouti to international broadband infrastructure, recipient Djibouti Telecom; the document does not state a go-live date, so the date is project completion.",
+   "as_of": "2016-12-30",
+   "date_precision": "day",
+   "system": "AAE-1",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AAE-1",
+   "country_label": "AAE-1",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom (Djibouti landing party)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

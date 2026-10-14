@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethio telecom, Djibouti Telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon Fiber (Djibouti-Ethiopia-Sudan terrestrial corridor) is a binding agreement to implement; not stated as in service, so no route fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-09-paratus-goma-mombasa-g2m-fibre-route",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Connecting Africa reports Paratus switched on the 2,000km G2M fibre route from Mombasa via Nairobi, Kampala and Kigali to Goma, live and carrying traffic, linking Uganda to the Kenyan coast cable landings.", "as_of": "2026-02-09", "date_precision": "day", "system": "G2M (Goma-to-Mombasa)", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Paratus says G2M is carrying traffic for its first wholesale customers and is designed for carriers, ISPs and enterprises.", "as_of": "2026-02-09", "date_precision": "day", "system": "G2M (Goma-to-Mombasa)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "G2M (Goma-to-Mombasa)", "country_label": "G2M", "class": "route", "platform": "", "owner": "Paratus Group (with Roke Telekom in Uganda)", "tiers": ""},
+    {"system": "Equiano", "country_label": "Equiano", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

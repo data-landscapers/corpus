@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25-itweb-seacom-remgro-contribution-cable-repairs",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ITWeb reports Seacom's 17,000km cable, launched in 2009, connects South Africa with Mozambique, Tanzania, Kenya, Djibouti, France and India; repairs after Red Sea breaks are noted as a cost, not a closure.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "SEACOM",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "Seacom (Remgro 30%, IPS 30%, Sanlam 15%, Convergence Partners 15%, Brian Herlihy 10%)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

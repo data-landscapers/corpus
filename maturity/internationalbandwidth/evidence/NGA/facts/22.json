@@ -1,0 +1,26 @@
+{
+ "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Equinix closed its acquisition of MainOne on 5 April 2022, taking the MainOne submarine cable (about 7,000 km, Portugal to Nigeria) with a landing station in Nigeria, plus about 1,200 km of terrestrial fibre in Nigeria.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "MainOne",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix (from April 2022)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

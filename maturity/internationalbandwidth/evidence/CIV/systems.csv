@@ -1,0 +1,29 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,2Africa,2Africa,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
+CIV,WACS,WACS,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
+CIV,Via Africa,Via Africa,other,,consortium incl. Orange Cote d'Ivoire,,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
+CIV,MainOne,MainOne,route,,MainOne (acquired by Equinix),,2022-04-05-equinix-closes-mainone-acquisition-us320m
+CIV,MainOne,MainOne,route,,MainOne Cable Company; Orange invested 2018,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,MainOne Abidjan data centre,,other,,MainOne,,2019-12-07-mainone-cote-divoire-branch-abidjan-data-centre-submarinenetworks
+CIV,2Africa,2Africa,route,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+CIV,Equiano,Equiano,other,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+CIV,TRANSCO CLSG fibre network,TRANSCO CLSG,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
+CIV,ACE (Africa Coast to Europe),ACE,other,,,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
+CIV,Via Africa,Via Africa,other,,Orange-led consortium,,"2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries"
+CIV,WACS,West Africa Cable System,other,,,,2026-09-22-techpolicy-munga-un-ai-agenda-undersea-cables
+CIV,ACE,Africa Coast to Europe,other,,,,2026-09-22-techpolicy-munga-un-ai-agenda-undersea-cables
+CIV,MainOne,MainOne,other,,,,2026-09-22-techpolicy-munga-un-ai-agenda-undersea-cables
+CIV,SAT-3,SAT-3,other,,,,2026-09-22-techpolicy-munga-un-ai-agenda-undersea-cables
+CIV,Via Africa,Via Africa,other,,"Canalink, GUILAB, IMT, Orange Group, Orange Cote d'Ivoire, Sonatel, Silverlinks",,2026-05-13-via-africa-subsea-cable-mou
+CIV,MainOne,MainOne,route,,Equinix,,2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa
+CIV,Maroc Telecom West Africa Submarine Cable,West Africa cable,route,,Maroc Telecom / Moov Africa,,2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre
+CIV,ST Digital Grand-Bassam landing station,landing station for submarine cables at VITIB Grand-Bassam data centre,other,,ST Digital,,2024-11-29-dcd-st-digital-construction-grand-bassam
+CIV,Starlink,Starlink (licence granted 17 June 2026),other,,Starlink,,2026-06-26-africa-telcos-starlink-playbook-techcabal
+CIV,2Africa,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+CIV,WACS,,other,,,,2026-06-22-beyond-the-signal-subsea-cables
+CIV,Stellarix data centres (Axian),,other,,Axian,,2026-06-11 Can Africa supply it's own digital infrastructure
+CIV,ST Digital data centres,,other,,ST Digital,,2026-06-11 Can Africa supply it's own digital infrastructure
+CIV,Equiano,,other,,Google,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+CIV,2Africa,,other,,Meta,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+CIV,MainOne,,other,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
+CIV,Equiano,,other,,Google,,2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers

@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-17-ciomag-onix-datacenter-dakar-almadies-4-milliards-fcfa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa (CLS, Almadies, Dakar)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Onix data centre sits at the 2Africa landing station in Dakar; the article does not state the cable is in service, so no route fact."
+}

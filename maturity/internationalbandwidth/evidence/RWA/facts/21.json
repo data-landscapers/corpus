@@ -1,0 +1,10 @@
+{
+  "slug": "2022-04-30-ifc-disclosure-46239-seacom-debt-sii",
+  "facts": [],
+  "systems": [
+    {"system": "Seacom", "country_label": "Seacom", "class": "", "platform": "", "owner": "Seacom Limited (Remgro 30%, IPS Cable System 40%, Convergence Partners 15%, Sanlam 15%)", "tiers": ""},
+    {"system": "2Africa Cable", "country_label": "2Africa Cable", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Equiano Cable", "country_label": "Equiano Cable", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Seacom is said to have a presence in Rwanda, but no route in service for Rwanda is stated; open access is mentioned only as a general expectation, not a Rwanda landing-station fact."
+}

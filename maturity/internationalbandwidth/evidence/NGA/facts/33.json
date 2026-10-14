@@ -1,0 +1,34 @@
+{
+  "slug": "2026-05-28-kasi-cloud-los1-hyperscale-flagoff",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Kasi Cloud says its Lekki, Lagos campus is adjacent to six subsea cable landing stations, including Equiano and 2Africa (TechAfrica News).",
+      "as_of": "2026-05-28",
+      "date_precision": "day",
+      "system": "Equiano; 2Africa; four other systems, Lekki Lagos",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Equiano",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

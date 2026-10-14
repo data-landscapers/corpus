@@ -1,0 +1,44 @@
+{
+ "slug": "2024-07-31-telecom-namibia-equiano-cable-station-swakopmund",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Telecom Namibia states that Namibia has two subsea cables in service, the existing WACS and Equiano, which it activated on 31 July 2024 at its new Equiano Cable Station in Swakopmund (100G Swakopmund-Johannesburg link); the WACS landing station is not named.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "Equiano; WACS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Telecom Namibia states Equiano was co-landed at Swakopmund alongside Paratus, so a second operator (Paratus) holds its own capacity on the cable (minister's remark on collaborative co-landing).",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Google; Telecom Namibia landing party at Swakopmund",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "West Africa Cable System",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

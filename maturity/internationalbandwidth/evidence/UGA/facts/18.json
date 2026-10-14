@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "CSquared Uganda fibre network", "country_label": "", "class": "other", "platform": "", "owner": "CSquared", "tiers": ""},
+    {"system": "Seacom", "country_label": "", "class": "other", "platform": "", "owner": "Seacom", "tiers": ""}
+  ],
+  "note": "Lists Uganda among Seacom's and CSquared's countries but states no UGA route, landing station or access terms."
+}

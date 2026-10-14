@@ -1,0 +1,16 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "no evidence",
+   "routes": "",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names an international fibre route, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

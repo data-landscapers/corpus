@@ -1,0 +1,26 @@
+{
+ "slug": "2022-04-05-equinix-closes-mainone-acquisition-us320m",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Equinix's 2022-04-05 release says MainOne's submarine network runs 7,000 km from Portugal to Lagos, Accra and the West African coast, with landing stations in Nigeria, Ghana and Cote d'Ivoire; the Nigerian landing is at Lagos.",
+   "as_of": "2022-04-05",
+   "date_precision": "day",
+   "system": "MainOne",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "submarine network Portugal-Lagos-Accra",
+   "class": "other",
+   "platform": "",
+   "owner": "MainOne, an Equinix company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

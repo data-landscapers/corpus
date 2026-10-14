@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "",
+   "owner": "Google LLC",
+   "tiers": ""
+  }
+ ],
+ "note": "Cable factsheet; UGA is landlocked and the only UGA mention is Umoja's terrestrial spine (under construction); no in-service route or access fact for UGA."
+}

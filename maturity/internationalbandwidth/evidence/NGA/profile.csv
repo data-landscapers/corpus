@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,routes,routes,coverage,independent,2025-12,NGA-025,NGA-013=two;NGA-015=two;NGA-014=one;NGA-016=two;NGA-017=two;NGA-001=one;NGA-019=two;NGA-020=two;NGA-002=two;NGA-021=two;NGA-003=two;NGA-022=two;NGA-024=two;NGA-010=one;NGA-028=one;NGA-018=one;NGA-023=one;NGA-029=one;NGA-033=one;NGA-027=one;NGA-004=one;NGA-012=one;NGA-031=two;NGA-032=two;NGA-030=one,
+NGA,routes,access,coverage,open,2026-02,NGA-026,,

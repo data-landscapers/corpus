@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Medusa",
+   "country_label": "Medusa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ASD cable",
+   "country_label": "ASD",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Medusa landing at Bome, Bata only studied (possible 2029-2030); ASD cable named as having technical problems without saying what it is."
+}

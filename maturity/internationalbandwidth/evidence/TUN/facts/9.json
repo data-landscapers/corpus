@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TAP/Zawya says Tunisie Telecom already owns the Hannibal and SEA-ME-WE 4 submarine cables (landing stations not named).",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Hannibal; SEA-ME-WE 4",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medusa",
+   "country_label": "landing ceremony at Bizerte 1 Nov 2025, 22 Tbps Bizerte-Marseille fibre pair; article speaks of commissioning but gives no in-service date",
+   "class": "other",
+   "platform": "",
+   "owner": "AFR-IX Telecom / Tunisie Telecom partner",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

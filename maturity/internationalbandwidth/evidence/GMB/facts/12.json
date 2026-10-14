@@ -1,0 +1,18 @@
+{
+  "slug": "2026-09-21-gamtel-company-profile-ace-25-gbps",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "GAMTEL says it is connected to the ACE (Africa Coast to Europe) cable through 4 separate international gateways, with 25,000 Megabit capacity from Portugal and France Telecoms; no landing station is named. The page is undated, so the date is its capture date.",
+     "as_of": "2026-09-21", "date_precision": "day", "system": "ACE", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two",
+     "fact": "GAMTEL states two international routes in service: the ACE cable, and a 28 Gbps backup link with Free (Senegal) on Cross Gambia (CG2) to which traffic is automatically rerouted if ACE fails; no landing station or border point is named. The page is undated, so the date is its capture date.",
+     "as_of": "2026-09-21", "date_precision": "day", "system": "ACE; Free (Senegal) CG2 link", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE", "country_label": "Africa Coast to Europe", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Free (Senegal) CG2 backup link", "country_label": "Cross Gambia (CG2)", "class": "route", "platform": "", "owner": "Free Company (Senegal)", "tiers": ""},
+    {"system": "ECOWAN", "country_label": "ECOWAS Wide Area Network", "class": "other", "platform": "", "owner": "GAMTEL", "tiers": ""},
+    {"system": "NBN", "country_label": "National Broadband Network", "class": "other", "platform": "", "owner": "GAMTEL", "tiers": ""}
+  ],
+  "note": ""
+}

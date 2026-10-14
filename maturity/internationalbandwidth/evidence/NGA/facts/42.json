@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-equinix-nga-lg3-2025-equinix-lg3-lagos-new-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "PR1 Port Harcourt",
+      "country_label": "PR1 Port Harcourt",
+      "class": "other",
+      "platform": "",
+      "owner": "Equinix",
+      "tiers": ""
+    }
+  ],
+  "note": "Equinix plans a Port Harcourt facility to serve as a 2Africa landing station; planned, not stated in service."
+}

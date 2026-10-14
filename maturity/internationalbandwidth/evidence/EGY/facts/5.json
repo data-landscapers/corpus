@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Al-Ahram Gate reports Telecom Egypt, with Cisco, activated capacity on the 2Africa Mediterranean link from Port Said, Egypt to Marseille, France via Genoa, Italy.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "2Africa consortium / Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

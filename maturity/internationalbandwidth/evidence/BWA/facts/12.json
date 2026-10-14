@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-16-bofinet-invests-p100m-internet-gateway",
+  "facts": [],
+  "systems": [
+    {"system": "London IXP (BoFiNet international gateway)", "country_label": "IXP in London", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": ""},
+    {"system": "Johannesburg IXP (BoFiNet international gateway)", "country_label": "IXP in Johannesburg", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": ""},
+    {"system": "Gaborone IXP", "country_label": "Gaborone IXP", "class": "other", "platform": "", "owner": "BoFiNet", "tiers": ""}
+  ],
+  "note": "States equipment upgrades at IXPs in London and Johannesburg that handle Botswana's international traffic (just over 100Gbps in Feb 2025); names no cable or fibre route and no access terms."
+}

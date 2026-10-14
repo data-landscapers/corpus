@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Essay; says Equiano runs from Portugal to South Africa but gives no in-service date or landing station, so no route fact."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2022-10-05-google-zaf-cloud-region-intent-1bn-africa-commitment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Dedicated Cloud Interconnect Nairobi",
+   "country_label": "Dedicated Cloud Interconnect Nairobi",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "No KEN landing or route stated; Equiano is not stated to land in Kenya."
+}

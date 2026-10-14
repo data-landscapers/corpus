@@ -1,0 +1,23 @@
+{
+  "slug": "2023-10-17-medallion-launches-data-center-in-lagos-nigeria",
+  "facts": [],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Lekki cable landing station",
+      "country_label": "Lekki cable landing station",
+      "class": "other",
+      "platform": "",
+      "owner": "Medallion",
+      "tiers": ""
+    }
+  ],
+  "note": "Brochure-based 2023 report of a planned 2Africa landing station at Lekki; planned, not in service."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Zambia's Minister of Technology and Science said at the commissioning ceremony that the Chanida-Cassacatiza cross-border fibre interconnector, built by Bayobab Zambia and Vodacom, was launched and links Zambia's national backbone to Mozambique's submarine cable network; the document gives no date other than its published date, 2026-02-23.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Chanida-Cassacatiza interconnector",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Zambia's Minister of Technology and Science, Felix Mutati, said at the Chanida-Cassacatiza commissioning that Zambia now has fibre links to eight neighbouring countries (added by the parent from the same document).",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "fibre links to eight neighbouring countries",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chanida-Cassacatiza interconnector",
+   "country_label": "Chanida-Cassacatiza cross-border fibre interconnector",
+   "class": "route",
+   "platform": "",
+   "owner": "Bayobab Zambia and Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": "Eight-neighbour fibre claim names no other links and no counts of routes carrying international traffic, so it is not recorded as a two or independent fact; no access statement."
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "2026-04-01-watra-submarine-cable-resilience-recommendations",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NCSCS",
+   "country_label": "Nigeria-Cameroon Submarine Cable System",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Lists 12 cables serving West Africa without saying which land in Nigeria; the 14 March 2024 multi-cable cut affected Nigeria among 12 countries, a temporary outage and more than 12 months old, so no fact."
+}

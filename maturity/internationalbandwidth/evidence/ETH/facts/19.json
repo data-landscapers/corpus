@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-05-horizon-fiber-binding-agreement-connectingafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "other",
+   "platform": "terrestrial corridor via Ethiopia between Djibouti and Sudan landing stations, agreed Feb 2026",
+   "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon is a binding agreement, not in service; no ETH route or access fact."
+}

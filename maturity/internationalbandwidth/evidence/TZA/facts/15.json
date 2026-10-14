@@ -1,0 +1,58 @@
+{
+  "slug": "2026-04-30-wingu-africa-targets-tanzania-regional-digital-hub",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "The Citizen reports Tanzania is linked to the SEACOM, EASSy and expanding 2Africa submarine cable systems, and that submarine cables land in Dar es Salaam (all at one city, so two routes, not independent; article date used).",
+      "as_of": "2026-04-30",
+      "date_precision": "day",
+      "system": "SEACOM; EASSy; 2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SEACOM",
+      "country_label": "SEACOM",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "EASSy",
+      "country_label": "EASSy",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NICTBB",
+      "country_label": "NICTBB",
+      "class": "other",
+      "platform": "",
+      "owner": "TTCL",
+      "tiers": ""
+    },
+    {
+      "system": "Tanzania Internet Exchange",
+      "country_label": "Tanzania Internet Exchange",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

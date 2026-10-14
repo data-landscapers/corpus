@@ -1,0 +1,6 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [],
+ "systems": [{"system":"Umoja","country_label":"Umoja","class":"other","platform":"","owner":"Google LLC","tiers":""},{"system":"WACS","country_label":"WACS","class":"other","platform":"","owner":"14-member consortium","tiers":""}],
+ "note": "Factsheet lists no cable landing in COD; Umoja is under construction with a terrestrial spine via DRC; WACS member Congo Telecom is not stated to be COD and no COD landing is given."
+}

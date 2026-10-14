@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium incl. Congo Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Continental cable table; no statement of Congo landing or routes beyond Congo Telecom as WACS member."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-22-beyond-the-signal-subsea-cables",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Telecom Review Africa, citing a June 2025 report, says Egypt is a landing hub for over a dozen international cable systems (no stations named).",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Egypt cable landings (over a dozen systems)",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Telecom Egypt and NaiTel completed the Coral Bridge cable connecting Egypt and Jordan in mid-2025, per Telecom Review Africa.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Coral Bridge",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Coral Bridge",
+   "country_label": "Coral Bridge",
+   "class": "route",
+   "platform": "",
+   "owner": "Telecom Egypt; NaiTel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

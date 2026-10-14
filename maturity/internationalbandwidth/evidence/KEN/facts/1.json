@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-05-kenya-to-get-two-new-undersea-fibre-optic-cables-in-ai-race",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Business Daily, citing TeleGeography, says Kenya currently has seven subsea cable landings, fifth in Africa; no cable names or landing stations given.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Kenya subsea cable landings (seven)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Daraja",
+   "country_label": "Daraja",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta / Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "Africa-1",
+   "country_label": "Africa-1",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,23 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,ACE,ACE,route,,Guilab SA manages Guinea's capacity,,2026-08-19-data-center-medusa-subsea-cable-land-guinea
+GIN,Medusa,Medusa,other,,AFR-IX Telecom,,2026-08-19-data-center-medusa-subsea-cable-land-guinea
+GIN,Medusa,Medusa,other,,,,2026-06-17-mediaguinee-via-africa-third-submarine-cable
+GIN,Via Africa,Via Africa,other,,consortium incl. GUILAB,,2026-06-17-mediaguinee-via-africa-third-submarine-cable
+GIN,ACE,ACE,route,,,,2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma
+GIN,Medusa Africa,Medusa Africa,other,,,,2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma
+GIN,2Africa,2Africa,other,,,,2025-07-10-mediaguinee-second-submarine-cable-workshop
+GIN,Medusa,Medusa,other,,,,2025-07-10-mediaguinee-second-submarine-cable-workshop
+GIN,2Africa West,2Africa West,other,,,CSquared capacity,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+GIN,Equiano,Equiano,other,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
+GIN,WARDIP second submarine cable (capacity procurement),second submarine cable,other,,ECOWAS Commission / World Bank-financed WARDIP,,2026-07-06-ecowas-wardip-submarine-cable-capacity-evaluation-committee
+GIN,TRANSCO CLSG fibre,TRANSCO CLSG,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
+GIN,Via Africa,Via Africa,other,,Orange-led consortium,,"2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries"
+GIN,ACE,ACE cable,route,,,,2026-05-07-medusa-africa-guinea-cma-signed
+GIN,MEDUSA AFRICA,MEDUSA AFRICA,other,,Medusa Submarine Cable System (AFR-IX Telecom group); landing party GUILAB SA for 25 years,,2026-05-07-medusa-africa-guinea-cma-signed
+GIN,ACE,ACE (Africa Coast to Europe),route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
+GIN,Via Africa,Via Africa,other,,"Consortium incl. GUILAB, Orange, Sonatel",,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
+GIN,Via Africa,Via Africa,other,,"Consortium incl. GUILAB, Orange, Sonatel",,2026-05-13-via-africa-subsea-cable-mou
+GIN,ACE,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+GIN,second submarine cable (unnamed),second submarine cable,other,,,,2025-11-19-transform-africa-summit-2025-guinea-interconnection
+GIN,"terrestrial interconnections with Mali, Cote d'Ivoire, Sierra Leone",,other,,,,2025-11-19-transform-africa-summit-2025-guinea-interconnection
+GIN,ACE (Africa Coast to Europe),ACE,route,submarine cable,consortium of 20 members; Guinea capacity managed by GUILAB,,2017-05-11-guilab-1st-iso-9001-2015-certified-operator-in-guinea

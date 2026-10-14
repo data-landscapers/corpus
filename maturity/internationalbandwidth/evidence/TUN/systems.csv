@@ -1,0 +1,21 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TUN,MEDUSA,MEDUSA,route,,Orange Tunisia (Tunisian section and Bizerte landing station),,2026-06-26-techafricanews-orange-medusa-cable-operational
+TUN,MEDUSA,MEDUSA,route,,Orange Tunisie (Tunisian section and Bizerte landing station),,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,DIDON,DIDON,route,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
+TUN,MEDUSA,MEDUSA,route,,Orange (landing partner at Marseille and Bizerte),,2026-06-05-connectingafrica-viatunisia-subsea-live
+TUN,MEDUSA,MEDUSA,route,,Orange,,2026-06-03-orange-viatunisia-medusa-ready-for-service
+TUN,MEDUSA,MEDUSA,route,,Medusa Submarine Cable System; Orange Tunisia hosts landing at Bizerte,,2025-11-01-medusa-lands-in-bizerte
+TUN,Medusa,"Medusa (Bizerte-Marseille link, agreed 7 Feb 2025, completion expected early 2026, not yet in service)",other,,AFR-IX telecom / Medusa Submarine Cable System,,2025-02-10-tunisie-telecom-joins-medusa-fibre-pair
+TUN,Didon,Didon,route,,Orange Tunisia with Ooredoo Tunisia,,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement
+TUN,Medusa,"planned Bizerte-Marseille landing, implementation scheduled end 2025",other,,Medusa Submarine Cable System,,2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement
+TUN,Didon,"cable Kelibia-Mazara del Vallo, described as deployed by alternative operators; the decision does not say it was in service",other,,alternative operators,,2013-11-15-int-decision-165-2013-cables-sous-marins
+TUN,Medusa,"landing ceremony at Bizerte 1 Nov 2025, 22 Tbps Bizerte-Marseille fibre pair; article speaks of commissioning but gives no in-service date",other,,AFR-IX Telecom / Tunisie Telecom partner,,2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte
+TUN,MEDUSA,"landed at Bizerte 1 Nov 2025; Tunisian segment 1,040 km, up to 24 Tbps 'offrira' (future)",other,,Orange Tunisie owns and runs the Bizerte landing station,,2025-11-01-tunisie-orange-cable-medusa-atterrissement-bizerte
+TUN,DIDON,DIDON,route,,Orange Tunisie,,2025-11-01-tunisie-orange-cable-medusa-atterrissement-bizerte
+TUN,ViaTunisia,ViaTunisia,other,,Orange Wholesale,,2023-01-01-european-union-tun-2023-viatunisia-cef-digital-bw02
+TUN,Kelibia-Mazara cable,Kelibia-Mazara cable,route,,Tunisie Telecom,,2026-02-26-trade-gov-tunisia-telecommunications-country-commercial-guide
+TUN,Medusa,Medusa,other,,Tunisie Telecom (dedicated 20 Tbps fibre pair),,2026-02-26-trade-gov-tunisia-telecommunications-country-commercial-guide
+TUN,Medusa,Medusa,other,,,,2026-02-06-dcd-solecrypt-schneider-bizerte-data-center
+TUN,SoleCrypt Bizerte data centre,SoleCrypt Bizerte data centre,other,,SoleCrypt,,2026-02-06-dcd-solecrypt-schneider-bizerte-data-center
+TUN,MEDUSA,MEDUSA,other,,AFR-IX (lead); Tunisie Telecom connecting,,2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade
+TUN,MEDUSA,MEDUSA submarine cable,other,"subsea cable, Mediterranean, 8,000+ km, about 13 countries","led by AFR-IX, EU supported",,2026-01-16-ebrd-tunisie-telecom-190m-medusa

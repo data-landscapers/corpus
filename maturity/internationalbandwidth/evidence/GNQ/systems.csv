@@ -1,0 +1,21 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNQ,ACE,ACE,route,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Medusa,Medusa,other,,AFR-IX Telecom,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,Via Africa,Via Africa,other,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
+GNQ,ACE,ACE,route,,,,2026-05-06-gitge-anfitrion-consorcio-ace-reg
+GNQ,GITGE,GITGE,other,,,,2026-05-06-gitge-anfitrion-consorcio-ace-reg
+GNQ,ACE,ACE,route,,,,"2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity"
+GNQ,Nigeria-Equatorial Guinea subsea fibre,Nigeria-Equatorial Guinea subsea fibre,other,,Backbone Connectivity Network Nigeria,,"2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity"
+GNQ,Ceiba-2,Ceiba-2,route,,GITGE,,2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom
+GNQ,ACE,ACE,route,,,,2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom
+GNQ,Ceiba-1,Ceiba-1,other,,GITGE,,2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom
+GNQ,ACE,ACE,route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
+GNQ,Ceiba-2,CEIBA-2,route,,GITGE,,2015-01-01-eximbank-cn-gnq-001-china-eximbank-provides-402-million-buyers
+GNQ,ACE,ACE submarine cable,route,,,,2015-01-01-eximbank-cn-gnq-001-china-eximbank-provides-402-million-buyers
+GNQ,SAIL,SAIL,other,,,,2015-01-01-eximbank-cn-gnq-001-china-eximbank-provides-402-million-buyers
+GNQ,ACE,Africa Coast to Europe,route,,GITGE (manages the GNQ connection),,2025-07-01-gitge-informe-anual
+GNQ,Medusa,Medusa,other,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg
+GNQ,ASD cable,ASD,,,,,2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg
+GNQ,Nigeria-GNQ subsea cable (BCN),,other,,Backbone Connectivity Network Nigeria Ltd,,2026-02-12-nigeria-equatorial-guinea-subsea-fibre
+GNQ,Gabon-GNQ terrestrial backbone link (Ebebeyin),,route,,SPIN (Gabon side),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GNQ,"Gabon-Equatorial Guinea fibre-optic network interconnection (agreed 2025-11-10, Mongomo)",GNQ-GAB fibre interconnection,other,,,,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews

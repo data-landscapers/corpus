@@ -1,0 +1,55 @@
+{
+ "slug": "2026-06-12-angola-cables-uniti-partnership-connectingafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "MONET",
+   "country_label": "MONET",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1",
+   "country_label": "DARE1",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names Angola Cables' WACS, SACS and MONET infrastructure in a US fibre partnership but does not state that any lands in or is in service for AGO."
+}

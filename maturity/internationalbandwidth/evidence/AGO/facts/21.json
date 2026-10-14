@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "Google; lands at Swakopmund, Namibia",
+   "tiers": ""
+  },
+  {
+   "system": "SARSSy",
+   "country_label": "SARSSy",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "MoU says Angola Telecom will access Equiano capacity at Swakopmund and plans a regional cable; future, not an in-service AGO route, and Equiano does not land in AGO."
+}

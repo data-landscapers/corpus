@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-15 CSquared boosts internet by integrating with 2Africa West cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa West",
+   "country_label": "2Africa West",
+   "class": "other",
+   "platform": "",
+   "owner": "CSquared (capacity)",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names Mali only as a point on CSquared's inland backbone; no Mali international route is stated."
+}

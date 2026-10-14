@@ -1,0 +1,60 @@
+{
+ "slug": "2024-03-11 Republic of Congo launches Pointe-Noire data centre for 2Africa cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "DCD reports President Sassou N'Guesso activated Congo's connection to the 2Africa cable at Pointe-Noire on 28 February 2024.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "DCD reports the 2Africa landing at Pointe-Noire is near the existing WACS station, so two cables are in service at the same landing area.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "WACS; 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium (Meta, Telecom Egypt, China Mobile, MTN GlobalConnect, Orange, STC, Vodafone, WIOCC)",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium",
+   "tiers": ""
+  },
+  {
+   "system": "Pointe-Noire data centre",
+   "country_label": "Pointe-Noire data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "ARPCE",
+   "tiers": ""
+  },
+  {
+   "system": "Brazzaville National Data Centre",
+   "country_label": "Brazzaville National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

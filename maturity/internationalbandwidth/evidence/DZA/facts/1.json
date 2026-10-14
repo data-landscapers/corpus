@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-15-dza-radioalgerie-zerrouki-bande-passante-internationale",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Minister Zerrouki told the APN that Algeria is connected to the global internet through four submarine cable systems, SEA-ME-WE 4, Medex, Orval (Oran-Valence) and Alval (Alger-Valence), plus an Alger-Palma cable; the document names Oran and Algiers as separate cable origins but does not use the words landing station.", "as_of": "2026-01-15", "date_precision": "day", "system": "SEA-ME-WE 4; Medex; Orval; Alval; Alger-Palma", "class": "route"}
+  ],
+  "systems": [
+    {"system": "SEA-ME-WE 4", "country_label": "SEA-ME-WE 4", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Medex", "country_label": "Medex", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Orval", "country_label": "Orval (Oran-Valence)", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Alval", "country_label": "Alval (Alger-Valence)", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Alger-Palma", "country_label": "Alger-Palma", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Medusa", "country_label": "Medusa", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Medusa (service due early 2028) and the Medex extension (works to June 2026) are not yet in service; international capacity above 10.2 Tbit/s is bandwidth only and is not a fact."
+}

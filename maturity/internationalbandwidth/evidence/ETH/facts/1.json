@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-04-techafricanews-ethio-telecom-business-plan-2026-27",
+ "facts": [],
+ "systems": [
+  {
+   "system": "International Gateway",
+   "country_label": "International gateway and cache capacity 4.3 to 5.2 Tbps target",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Only planned gateway capacity and planned services on submarine capacity; no named route in service."
+}

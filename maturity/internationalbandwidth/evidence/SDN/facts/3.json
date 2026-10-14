@@ -1,0 +1,39 @@
+{
+  "slug": "2026-08-29-sudatel-fy2025-results",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EASSy",
+      "country_label": "EASSy",
+      "class": "route",
+      "platform": "",
+      "owner": "Sudatel (stake)",
+      "tiers": ""
+    },
+    {
+      "system": "SAS-1",
+      "country_label": "SAS-1",
+      "class": "route",
+      "platform": "",
+      "owner": "Sudatel (stake)",
+      "tiers": ""
+    },
+    {
+      "system": "SAS-2",
+      "country_label": "SAS-2",
+      "class": "route",
+      "platform": "",
+      "owner": "Sudatel (stake)",
+      "tiers": ""
+    },
+    {
+      "system": "Arab Submarine Cable Company (ASC)",
+      "country_label": "ASC",
+      "class": "route",
+      "platform": "",
+      "owner": "Sudatel 50%",
+      "tiers": ""
+    }
+  ],
+  "note": "Sudatel states stakes in EASSy, SAS-1, SAS-2 and 50% of ASC but not that they land in or are in service for Sudan, so no fact."
+}

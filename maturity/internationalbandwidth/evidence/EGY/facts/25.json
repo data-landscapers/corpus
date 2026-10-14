@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-04-developingtelecoms-egypt-taba-red2med-cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sharm El Sheikh-Taba cable",
+   "country_label": "Sharm-Taba cable",
+   "class": "other",
+   "platform": "repeaterless, 5 Pbps",
+   "owner": "Telecom Egypt; Power Sub Link",
+   "tiers": ""
+  },
+  {
+   "system": "Red2Med",
+   "country_label": "Red2Med",
+   "class": "other",
+   "platform": "Red Sea Subsea Festoon + Internet Corridor of Egypt",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": "Sharm-Taba is planned (service Q4 2027); Red2Med described as existing but is a domestic festoon/corridor with no stated landing or neighbour, so no route fact."
+}

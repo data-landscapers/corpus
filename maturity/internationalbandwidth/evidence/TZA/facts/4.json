@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Kilimanjaro One",
+      "country_label": "submarine cable system in the investment portfolio, not in service",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National backbone",
+      "country_label": "13,820 of 16,280 km deployed, 109 of 139 districts",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Only planned new landings and the inland backbone; no in-service route or access statement."
+}

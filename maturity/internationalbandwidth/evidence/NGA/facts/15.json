@@ -1,0 +1,39 @@
+{
+ "slug": "2026-09-22-techpolicy-munga-un-ai-agenda-undersea-cables",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Op-ed names four West African cables cut March 2024 (repaired) but does not state which land in NGA or Nigerian landing stations; no fact."
+}

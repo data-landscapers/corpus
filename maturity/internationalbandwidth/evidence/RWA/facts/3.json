@@ -1,0 +1,15 @@
+{
+ "slug": "2024-05-28 Google invests in terrestrial-subsea cable linking Kenya to Australia",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "Liquid Intelligent Technologies overland route",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Umoja overland route crosses Rwanda (Kigali named); document gives no in-service date or traffic, so no fact."
+}

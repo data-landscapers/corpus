@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CMR,SAIL,SAIL,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,WACS,WACS,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,SAT-3,SAT-3,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,NCSCS,Nigeria-Cameroon Submarine Cable System,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,Medusa Africa,Medusa,other,,AFR-IX Telecom Group,"planned, operational 2028, Kribi landing planned, MoU awaiting Presidency approval",2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,CEIBA 2,CEIBA 2,other,,,named only as a two-country link,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
+CMR,WACS,WACS,route,,,,2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan
+CMR,SAT-3,SAT-3,route,,,"cut March 2024 with WACS and Main One, affecting Cameroon among other countries",2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan
+CMR,Main One,Main One,other,,,cut March 2024; landing in Cameroon not stated,2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan
+CMR,Backbone phase 4,Blackbone phase 4,other,,Camtel,"national fibre extension, China Eximbank loan of 108.3bn FCFA, Huawei builder",2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan
+CMR,NCSCS,NCSCS,route,,Camtel,,2026-02-24-digitalbusiness-africa-bilan-2025-numerique-cameroun
+CMR,MEDUSA,MEDUSA,other,,Camtel,"connection being prepared in 2025, not in service",2026-02-24-digitalbusiness-africa-bilan-2025-numerique-cameroun
+CMR,AVANTI,AVANTI,other,,Camtel,satellite optimisation,2026-02-24-digitalbusiness-africa-bilan-2025-numerique-cameroun
+CMR,N'Djamena-Mbere fibre route,N'Djamena-Mberé fiber-optic route,other,,Sotel and Airtel (Chad),,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica
+CMR,Ceiba-2,Ceiba-2,route,,GITGE (Equatorial Guinea link),,2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom
+CMR,ACE,ACE cable,other,,,,2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom
+CMR,Central African Backbone fibre link Cameroon-CAF,Central African Backbone,other,,,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
+CMR,Planned CAF-South Sudan interconnection,,other,,Central African Digital Development Agency with MTN Group,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
+CMR,SAIL (South Atlantic Inter Link),SAIL,other,,"South Atlantic Inter Link Consortium (China Unicom, CAMTEL)",,2016-01-01-eximbank-cn-cmr-003-china-eximbank-provides-rmb-306-billion

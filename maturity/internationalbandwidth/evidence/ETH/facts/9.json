@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TechCabal says Djibouti, which has landing points for 12 submarine cables including 2Africa, serves as the primary gateway for landlocked Ethiopia, i.e. Ethiopia's international traffic runs via Djibouti; no date given, so the published date is used.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "Djibouti gateway",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Project",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti-led with Ethiopia and Sudan",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon terrestrial corridor is described as being spearheaded, not in service; 2Africa lands in Djibouti, not ETH."
+}

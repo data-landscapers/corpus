@@ -1,0 +1,34 @@
+{
+  "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Rack Centre's LGS2 campus in Ikeja, Lagos, connects to all eight undersea cables accessible from Nigeria (TechTrends Africa); the article gives no event date, so as_of is its published date.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "eight undersea cables, Lagos",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Equiano",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

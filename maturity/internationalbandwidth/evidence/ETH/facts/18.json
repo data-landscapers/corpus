@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-tan-ethio-telecom-horizon-fibre-corridor",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "other",
+   "platform": "terrestrial corridor Djibouti-Ethiopia-Sudan-Jeddah, in deployment",
+   "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon in deployment, not in service; gateway capacity figures are not a named route."
+}

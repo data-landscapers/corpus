@@ -1,0 +1,54 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "The Data Landscapers cable factsheet (2026-06-03, AI-compiled) lists both EASSy (RFS 2010) and SEACOM (RFS 2009) as in-service with a landing at Djibouti; landing station not named.",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "EASSy;SEACOM",
+      "class": "route"
+    },
+    {
+      "sub_indicator": "routes",
+      "aspect": "access",
+      "value": "open",
+      "fact": "The factsheet (2026-06-03, AI-compiled) marks EASSy open_access 'yes'; it is a consortium led by WIOCC with 16+ members, and it lands at Djibouti.",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "EASSy",
+      "class": "route"
+    },
+    {
+      "sub_indicator": "routes",
+      "aspect": "access",
+      "value": "open",
+      "fact": "The factsheet (2026-06-03, AI-compiled) marks SEACOM (original) open_access 'yes'; it lands at Djibouti.",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "SEACOM",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EASSy",
+      "country_label": "EASSy",
+      "class": "route",
+      "platform": "",
+      "owner": "WIOCC (largest shareholder, 29%)",
+      "tiers": ""
+    },
+    {
+      "system": "SEACOM",
+      "country_label": "SEACOM",
+      "class": "route",
+      "platform": "",
+      "owner": "Remgro / IPS (Aga Khan)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2021-07-01-arct-rapport-indicateurs-tic-burundi-edition-2020",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two",
+     "fact": "ARCT's 2020 ICT indicators report (July 2021) states Burundi has access to submarine cables (EASSy, SEACOM, TEAMS) via partners and cable operators in neighbouring countries, and lists cross-border fibre connection points with Rwanda (Gasenyi, Kanyaru Haut), the DRC (Ruhwa, Gatumba) and Tanzania (Kobero, Mugina/Manyovu); no per-route traffic or in-service dates are given, and no date is stated beyond the report's own (published 2021-07).",
+     "as_of": "2021-07", "date_precision": "month",
+     "system": "EASSy, SEACOM, TEAMS via Rwanda, DRC and Tanzania connection points", "class": "route"}
+  ],
+  "systems": [
+    {"system": "EASSy", "country_label": "EASSy", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SEACOM", "country_label": "SEACOM", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "TEAMS", "country_label": "TEAMS", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "BBS national fibre backbone", "country_label": "BBS dorsale nationale", "class": "other", "platform": "", "owner": "BBS", "tiers": ""}
+  ],
+  "note": "Cables are reached through neighbours, none lands in Burundi; no access (open/none) statement; international bandwidth in Gbit is listed as an indicator but no figure is given."
+}

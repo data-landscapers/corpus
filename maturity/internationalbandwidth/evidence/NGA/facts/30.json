@@ -1,0 +1,84 @@
+{
+ "slug": "2026-07-07 CBN's local data order puts Nigeria's data centres to test",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal (2026-07-07) states that over the past decade submarine cables including MainOne, Glo-1, WACS, ACE, Equiano and, most recently, 2Africa have increased international bandwidth into Nigeria.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "MainOne; Glo-1; WACS; ACE; Equiano; 2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TechCabal (2026-07-07) states Equiano played a critical role in maintaining connectivity for many Nigerian businesses during the March 2024 cable disruptions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Glo-1",
+   "country_label": "Glo-1",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Lagos",
+   "country_label": "OADC Lagos",
+   "class": "other",
+   "platform": "",
+   "owner": "OADC (WIOCC)",
+   "tiers": ""
+  }
+ ],
+ "note": "Access: OADC claims direct links to submarine cables, not a wholesale-access statement."
+}

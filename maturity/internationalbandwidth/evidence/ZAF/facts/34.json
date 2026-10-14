@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-20 Google in Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Google's Equiano cable has been operational since 2022 with landings including South Africa, per the data-landscapers audit of Google in Africa.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM 2.0",
+   "country_label": "SEACOM 2.0",
+   "class": "other",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

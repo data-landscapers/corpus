@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Seacom states that traffic moves inland from subsea cable landing stations in Mombasa, Kenya, over its Nairobi-Kisumu-Kampala route launched 17 June 2026; no cable is named.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Seacom (Mombasa landing)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seacom Nairobi-Kampala route",
+   "country_label": "",
+   "class": "other",
+   "platform": "DWDM",
+   "owner": "Seacom",
+   "tiers": ""
+  }
+ ],
+ "note": "Terrestrial inland route; the only international-route statement is the Mombasa landing reference."
+}

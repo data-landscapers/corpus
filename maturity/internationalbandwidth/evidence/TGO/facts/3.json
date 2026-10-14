@@ -1,0 +1,68 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Landscapers factsheet lists Equiano as in service (ready for service 2023) with a landing at Lome, Togo; owner Google.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Equiano",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Factsheet states Equiano is sole-owned by Google with capacity sold to customers (its open_access flag reads no).",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "West Africa Cable System",
+   "class": "other",
+   "platform": "",
+   "owner": "14-member consortium incl. Togo Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3/WASC",
+   "country_label": "SAT-3/WASC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "Africa Coast to Europe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta-led consortium",
+   "tiers": ""
+  }
+ ],
+ "note": "Togo landing stated only for Equiano; WACS, ACE, SAT-3 landing lists do not name Togo."
+}

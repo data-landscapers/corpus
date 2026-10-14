@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-xalam-south-africa-data-center-market-briefing",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Xalam Analytics states South Africa's wholesale fibre regulatory regime is the most open in Africa, with highly competitive terrestrial fibre and international bandwidth markets.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "South Africa international bandwidth market",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Landing-station counts (~7 Western Cape, ~5 Durban) mix existing and planned, so no route fact; no cable named in the passages."
+}

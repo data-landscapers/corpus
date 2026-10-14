@@ -1,0 +1,82 @@
+{
+ "slug": "2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "DCD reports the original Seacom cable, launched in 2009, runs from Egypt through the Red Sea to Djibouti then south to South Africa.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "SEACOM",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  },
+  {
+   "system": "Seacom 2.0",
+   "country_label": "Seacom 2.0",
+   "class": "other",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TEAMS",
+   "country_label": "TEAMS",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Main One",
+   "country_label": "Main One",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PEACE",
+   "country_label": "PEACE",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Seacom 2.0 is planned, not in service; capacity on WACS, TEAMS, EASSy, Main One, Equiano, PEACE is stated without saying they land in South Africa."
+}

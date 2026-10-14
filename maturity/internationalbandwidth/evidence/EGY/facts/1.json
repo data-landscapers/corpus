@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-07-capacity-telecom-egypt-red-sea-festoon-bypass",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Capacity reports Telecom Egypt completed SEA-ME-WE-6 landings at Port Said and Ras Ghareb in July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "SEA-ME-WE-6",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Capacity reports an activated 2Africa link connecting Egypt to France via Italy, with Cisco, in January 2025 (Telecom Egypt).",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Red Sea Subsea Festoon Cable System",
+   "country_label": "Red Sea Subsea Festoon Cable System",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  },
+  {
+   "system": "Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)",
+   "country_label": "Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt / Power Sub Link",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned Sharm-Taba extension and terrestrial Sinai crossings are not routes in service."
+}

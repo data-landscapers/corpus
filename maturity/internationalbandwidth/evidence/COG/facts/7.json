@@ -1,0 +1,34 @@
+{
+  "slug": "2024-02-28-mpten-activation-connexion-cable-2africa-meta-datacenter-pointe-noire",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Congo's government postal-telecom ministry site reports that on 28 February 2024 the President activated Congo's connection to the 2Africa cable at Pointe-Noire, and that the Pointe-Noire data centre is connected to two submarine cables, WACS and 2Africa.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "WACS; 2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "WACS",
+      "country_label": "Wax",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "2 Africa Meta",
+      "class": "other",
+      "platform": "",
+      "owner": "Congo Cable consortium (public-private)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

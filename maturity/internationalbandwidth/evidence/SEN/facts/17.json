@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat",
+  "facts": [],
+  "systems": [
+    {
+      "system": "submarine cable (Smart Senegal)",
+      "country_label": "cable sous-marin",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Submarine cable arrival only planned for end 2021 (100 Gb/s extensible to 16 Tb/s); not in service, so no fact."
+}

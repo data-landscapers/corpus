@@ -1,0 +1,12 @@
+{
+  "slug": "2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "The record on Maroc Telecom's 9,414 km West Africa submarine cable states it has a landing point at Abidjan, Cote d'Ivoire, and that the south segment (Casablanca to CIV, Togo, Benin, Gabon, Mauritania; 20 Tbps) became operational in July 2021.",
+     "as_of": "2021-07", "date_precision": "month", "system": "Maroc Telecom West Africa Submarine Cable", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Maroc Telecom West Africa Submarine Cable", "country_label": "West Africa cable", "class": "route", "platform": "", "owner": "Maroc Telecom / Moov Africa", "tiers": ""}
+  ],
+  "note": ""
+}

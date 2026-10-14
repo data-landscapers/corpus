@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-ken-techtrendske-ai-data-centre-hercules-lulu-pipeline",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechTrends Kenya says systems (plural, unnamed, count not given) land on Kenya's coast at Mombasa and give routes into global internet infrastructure, with terrestrial fibre carrying traffic to Nairobi; date is the article's publication date.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Mombasa-landing cable systems (unnamed)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LuLu",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "planned coastal cable; Mombasa, Vipingo, Kilifi, Malindi, Lamu",
+   "tiers": ""
+  }
+ ],
+ "note": "LuLu is planned, not operational."
+}

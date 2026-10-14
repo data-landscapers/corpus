@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-01-tunisie-orange-cable-medusa-atterrissement-bizerte",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Orange Tunisie says its Didon cable succeeded in 2014 (in service since 2014).",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Didon",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEDUSA",
+   "country_label": "landed at Bizerte 1 Nov 2025; Tunisian segment 1,040 km, up to 24 Tbps 'offrira' (future)",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Tunisie owns and runs the Bizerte landing station",
+   "tiers": ""
+  },
+  {
+   "system": "DIDON",
+   "country_label": "DIDON",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": "Medusa landing is not stated as in service; Orange station ownership is not an open-access statement."
+}

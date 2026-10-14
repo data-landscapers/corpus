@@ -1,0 +1,23 @@
+{
+ "slug": "2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria-Equatorial Guinea subsea fibre",
+   "country_label": "Nigeria-Equatorial Guinea subsea fibre",
+   "class": "other",
+   "platform": "",
+   "owner": "Backbone Connectivity Network Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": "Nigeria link is an agreement only, not in service; ACE reliance is an expert's historical remark with no date or route count."
+}

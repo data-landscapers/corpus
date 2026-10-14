@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-01-dare1-extension-kenya-south-africa-itweb",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "ITWeb Africa, citing Djibouti Telecom, reports the DARE1 cable system currently links Djibouti City, Bosaso and Mogadishu in Somalia, and Mombasa in Kenya (Nyali Trunk Station) with 36 Tbps over three fibre pairs.", "as_of": "2025-09-01", "date_precision": "day", "system": "DARE1", "class": "route"}
+  ],
+  "systems": [
+    {"system": "DARE1", "country_label": "Djibouti Africa Regional Express 1", "class": "route", "platform": "", "owner": "Djibouti Telecom", "tiers": ""},
+    {"system": "DARE1 southern extension (Mombasa to Mtunzini)", "country_label": "", "class": "other", "platform": "", "owner": "Djibouti Telecom", "tiers": ""}
+  ],
+  "note": "Extension is planned (start 2026, ready 2028), so no fact; no access statement."
+}

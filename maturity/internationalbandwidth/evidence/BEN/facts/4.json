@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The deal record states Maroc Telecom's West Africa submarine cable lands at Cotonou, Benin, among its landing points, with the south segment (Casablanca to Cote d'Ivoire, Togo, Benin, Gabon, Mauritania) operational in July 2021.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "Maroc Telecom West Africa Submarine Cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maroc Telecom West Africa Submarine Cable",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "Maroc Telecom / Moov Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

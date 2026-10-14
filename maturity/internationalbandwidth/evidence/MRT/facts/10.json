@@ -1,0 +1,10 @@
+{
+  "slug": "2021-09-09-ace-consortium-submarine-cable-overview",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The ACE consortium says the ACE cable was put into service on 15 December 2012 and lists Nouakchott as one of its landing stations, the first international submarine cable to land in Mauritania.", "as_of": "2012-12-15", "date_precision": "day", "system": "ACE", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE", "country_label": "Africa Coast to Europe", "class": "route", "platform": "", "owner": "ACE Consortium", "tiers": ""}
+  ],
+  "note": "Page is undated (published date is a staging proxy); the access statement is only that agreements are being put in place for other operators, not a fact."
+}

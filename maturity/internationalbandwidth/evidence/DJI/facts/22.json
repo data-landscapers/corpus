@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-03-djibouti-sonna-somali-ai-inclusion-forum",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "SONNA reports Finance Minister Ilyas Moussa Dawaleh said at the 2026-09-03 national AI forum that twelve submarine cables currently land in Djibouti, with three more in process; no cable or station is named.",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Djibouti submarine cables",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Djibouti submarine cables (3 in process)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Agence Ecofin, citing TeleGeography's Submarine Cable Map, says two systems land at Moanda, DRC's cable landing: 2Africa (commercial service in DRC with 200 Gbps activated by Airtel on 2025-12-18) and WACS (in service since 2012, serving DRC); both at the same landing point, so two routes, not independent.", "as_of": "2025-12-18", "date_precision": "day", "system": "2Africa; WACS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "route", "platform": "submarine cable, lands at Moanda", "owner": "Meta-led consortium", "tiers": ""},
+    {"system": "WACS", "country_label": "West Africa Cable System", "class": "route", "platform": "submarine cable, 14,530 km, lands at Moanda", "owner": "", "tiers": ""},
+    {"system": "CAR-DRC fibre interconnection", "country_label": "", "class": "other", "platform": "terrestrial fibre, proposed, no timetable or financing", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

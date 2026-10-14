@@ -1,0 +1,11 @@
+{
+  "slug": "2011-01-20-wb-stp-002-central-african-backbone-ace-cable",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The World Bank ICR records that the ACE submarine cable landed in Sao Tome and Principe in November 2011 and was commercially launched in February 2013, with STP's stake held through STP-Cabo SARL.", "as_of": "2013-02", "date_precision": "month", "system": "ACE", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "The World Bank describes its IDA grant of 20 January 2011 as financing STP's participation in the ACE consortium on an open-access basis through STP-Cabo SARL, and says the project led to a second telecoms licence (UNITEL) in 2013 ending CST's monopoly.", "as_of": "2011-01-20", "date_precision": "day", "system": "ACE", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE", "country_label": "ACE", "class": "route", "platform": "", "owner": "STP-Cabo SARL (government and CST) within ACE consortium", "tiers": ""}
+  ],
+  "note": ""
+}

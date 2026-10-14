@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-23-update-on-wacs-2africa-outages",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional WACS repair-logistics piece; mentions Senegal only as a point on the outage stretch, no SEN route or access statement."
+}

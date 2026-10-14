@@ -1,0 +1,66 @@
+{
+  "slug": "2026-02-11-dcd-horizon-fiber-agreement",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "DCD states Djibouti City is a landing station for several cable systems including 2Africa, Seacom, Sea-Me-We-6, AAE-1 and DARE (Djibouti Africa Regional Express), all at the one city (not recorded as independent).",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "2Africa; Seacom; Sea-Me-We-6; AAE-1; DARE",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Seacom",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Sea-Me-We-6",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "AAE-1",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DARE",
+      "country_label": "",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

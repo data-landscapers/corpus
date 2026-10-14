@@ -1,0 +1,164 @@
+{
+ "slug": "2021-10-18-djibouti-telecom-builds-a-new-cable-landing-station-in-djibouti-city",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Djibouti Telecom operates two landing stations: YAC A (AAE1, ADEN-DJIBOUTI, SEACOM, SMW3, DARE1) and Haramous (EIG, EASSy, SMW5), 8 submarine systems in service, plus terrestrial cables to Ethiopia and Somalia.",
+   "as_of": "2021-10-18",
+   "date_precision": "day",
+   "system": "YAC A and Haramous landing stations",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Djibouti Telecom's new Ras Dika (Ras Dika CLS) landing station is described as a neutral digital port providing open-access cable landing service to submarine cable operators; announced fully operational on 7 August 2023.",
+   "as_of": "2023-08-07",
+   "date_precision": "day",
+   "system": "Ras Dika CLS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AAE1",
+   "country_label": "AAE1",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "ADEN-DJIBOUTI",
+   "country_label": "ADEN-DJIBOUTI",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SMW3",
+   "country_label": "SMW3",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1",
+   "country_label": "DARE1",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "EIG",
+   "country_label": "EIG",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SMW5",
+   "country_label": "SMW5",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Terrestrial cable to Ethiopia",
+   "country_label": "Terrestrial cable to Ethiopia",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "Terrestrial cable to Somalia",
+   "country_label": "Terrestrial cable to Somalia",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "PEACE",
+   "country_label": "PEACE",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Africa-1",
+   "country_label": "Africa-1",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SMW6",
+   "country_label": "SMW6",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "IEX",
+   "country_label": "IEX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Blue-Raman",
+   "country_label": "Blue-Raman",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ras Dika CLS",
+   "country_label": "Ras Dika CLS",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

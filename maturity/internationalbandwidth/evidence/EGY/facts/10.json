@@ -1,0 +1,36 @@
+{
+ "slug": "2023-09-27-telecom-egypt-launch-weconnect",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Telecom Egypt states that 14 subsea cable systems land in Egypt's 10 cable stations, linked by 10 terrestrial routes (stations not named).",
+   "as_of": "2023-09-27",
+   "date_precision": "day",
+   "system": "Egypt subsea cable systems",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Telecom Egypt's WeConnect platform lets partners click-to-order cross-connectivity between the 14 subsea cable systems at its 10 Egyptian cable stations on an open and neutral model.",
+   "as_of": "2023-09-27",
+   "date_precision": "day",
+   "system": "WeConnect",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WeConnect",
+   "country_label": "WeConnect",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

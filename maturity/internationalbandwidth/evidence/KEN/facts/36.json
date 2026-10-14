@@ -1,0 +1,66 @@
+{
+ "slug": "2024-11-11-icolo-linx-mombasa-mba2",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "iColo/LINX state that Mombasa is home to several major submarine cables, naming 2Africa, SEACOM, TEAMS and EASSy (four cables, all at Mombasa).",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "2Africa; SEACOM; TEAMS; EASSy",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TEAMS",
+   "country_label": "TEAMS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "LINX Mombasa",
+   "country_label": "LINX Mombasa",
+   "class": "other",
+   "platform": "",
+   "owner": "LINX",
+   "tiers": ""
+  },
+  {
+   "system": "iColo MBA2",
+   "country_label": "iColo MBA2",
+   "class": "other",
+   "platform": "",
+   "owner": "iColo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

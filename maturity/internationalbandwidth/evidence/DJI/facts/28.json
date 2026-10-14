@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-02-wingu-africa-60m-rmb-press-release-adca",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Wingu's release of 2 June 2025 says its two Djibouti facilities give access to 12 operational submarine cables, the second site hosting the country's first integrated cable landing station and data centre; stations not otherwise named.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "12 operational submarine cables",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Wingu describes itself as carrier-neutral and says its Djibouti cable landing station and data centre serve customers including telecom and content providers and hyperscalers, who obtain cable access there.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Wingu Djibouti cable landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa Djibouti cable landing station and data centre",
+   "country_label": "Wingu Africa Djibouti cable landing station and data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "AMS-IX Djibouti",
+   "country_label": "AMS-IX Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu / AMS-IX",
+   "tiers": ""
+  },
+  {
+   "system": "DjIX",
+   "country_label": "DjIX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

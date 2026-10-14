@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,Via Africa,Via Africa,other,,Orange-led consortium,,"2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries"
+MRT,ACE,ACE cable,route,,,,2026-05-05-second-cable-connectivity-baseline-ecofin
+MRT,EllaLink Mauritania branch,second submarine cable,other,,,,2026-05-05-second-cable-connectivity-baseline-ecofin
+MRT,EllaLink Mauritania branch,second international submarine cable,other,,"Mauritanian State, EU, EIB financing; built by EllaLink and Alcatel Submarine Networks",,2026-05-04-ellalink-second-cable-phase1-landing-ami
+MRT,EllaLink Mauritania branch,EllaLink,other,,"EIB-financed, EU supported",,2025-07-28-ellalink-second-cable-launch-ami
+MRT,ACE,Africa Coast to Europe,route,,,,2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)
+MRT,EllaLink Mauritania branch,second submarine cable,other,,,,2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)
+MRT,Nouakchott national data centre,,other,,International Mauritania Telecom,,2025-05-08 Mauritania - Nouakchott data centre inaugurated (EIB)
+MRT,MEDUSA,MEDUSA submarine cable system,other,,,,2022-01-01-eib-mrt-002-medusa-submarine-cable-system-ssa-component
+MRT,EllaLink Mauritania branch (Nouadhibou),second international submarine cable,other,,EllaLink,,2026-05-04-mrt-ellalink-press-release-branch-lands-nouadhibou
+MRT,ACE,Africa Coast to Europe,route,,International Mauritania Telecom (Mauritanian participant),,2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch
+MRT,EllaLink Mauritania branch (Nouadhibou),second international link,other,,EllaLink,,2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch
+MRT,EllaLink Mauritania branch (Nouadhibou),second international link,other,,EllaLink,,2025-07-29-mrt-ellalink-press-release-mauritania-contract-branch
+MRT,ACE,Africa Coast to Europe,route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
+MRT,Mauritania COVID-19 Resilience Submarine Cable,,other,,Government of Mauritania (EIB-financed),,2020-01-01-eib-mrt-001-mauritania-covid-19-resilience-submarine-cable
+MRT,Via Africa,,other,,"Consortium incl. International Mauritania Telecom, Orange, Sonatel",,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
+MRT,Via Africa,,other,,"Consortium incl. International Mauritania Telecom, Orange, Sonatel",,2026-05-13-via-africa-subsea-cable-mou
+MRT,West Africa submarine cable (Maroc Telecom),,route,,Maroc Telecom,,2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre
+MRT,Maroc Telecom transafrican terrestrial fibre cable,,route,terrestrial fibre,Maroc Telecom,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable

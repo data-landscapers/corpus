@@ -1,0 +1,23 @@
+{
+ "slug": "2024-12-17 Google joins $90M investment into Cassava to bolster Africa's digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "",
+   "owner": "Google; Liquid Intelligent Technologies (Cassava)",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Umoja is newly announced, its terrestrial segment ends in ZAF; no in-service date or ZAF landing stated."
+}

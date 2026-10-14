@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Powertel-Paratus Plumtree-Bulawayo fibre",
+   "country_label": "",
+   "class": "other",
+   "platform": "DWDM",
+   "owner": "Powertel; Paratus Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": "Zimbabwe-side corridor; Botswana only as a corridor end, no BWA route or access statement."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Wingu Africa says its two Djibouti facilities give access to 12 operational submarine cables, with more planned; no cable names or separate landing stations given for those cables.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "12 submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wingu Africa Djibouti cable landing station and data centre",
+   "country_label": "Wingu Africa Djibouti cable landing station and data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "AMS-IX Djibouti",
+   "country_label": "AMS-IX Djibouti",
+   "class": "other",
+   "platform": "",
+   "owner": "AMS-IX / Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "DjIX",
+   "country_label": "DjIX",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Access terms not stated."
+}

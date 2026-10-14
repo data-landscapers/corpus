@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-22-beyond-the-signal-subsea-cables",
+  "facts": [],
+  "systems": [
+    {"system": "Algérie Télécom-Sparkle Italy-Algeria cable", "country_label": "", "class": "other", "platform": "", "owner": "Algérie Télécom; Sparkle", "tiers": ""},
+    {"system": "Medusa Africa", "country_label": "Medusa", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional feature; Algeria appears only as a top-five holder of international bandwidth and in the planned Italy-Algeria cable MoU; no in-service route stated."
+}

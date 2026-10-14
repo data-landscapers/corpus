@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "4",
+   "routes": "independent",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-009",
+   "gaps": "No source held says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

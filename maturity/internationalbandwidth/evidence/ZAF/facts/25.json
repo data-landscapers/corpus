@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-12-2africa-subsea-cable-complete",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TechAfrica News says 2Africa was declared complete and activated in late 2025 and that Vodacom oversaw multiple South African landings; no landing station is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "TechAfrica News says 2Africa is built on an open-access principle, with landing station operators providing equitable wholesale access to its capacity (continent-wide statement, applied to its landings including South Africa).",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta (lead), China Mobile International, Orange, Telecom Egypt, STC center3, WIOCC, MTN GlobalConnect, Vodacom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

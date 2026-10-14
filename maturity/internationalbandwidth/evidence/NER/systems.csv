@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,ACE,Africa Coast to Europe,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,SAT-3/WASC,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,WACS,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,MainOne,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,Equiano,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,2Africa,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+NER,Maroc Telecom Transafrican terrestrial fibre cable,,route,,Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+NER,West Africa submarine cable (Maroc Telecom),,other,,Maroc Telecom,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
+NER,Trans-Saharan fibre backbone (Algeria-Niger link),dorsale transsaharienne a fibre optique,route,,Algerie Telecom; Niger Telecom,,2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne
+NER,Trans-Saharan fibre backbone (Algeria-Niger link),dorsale transsaharienne a fibre optique,route,,,,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre
+NER,Niger-Algeria fibre interconnection,interconnexion par fibre optique Niger-Algérie,other,,Governments of Niger and Algeria,,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez
+NER,National Backbone Fiber Optic Cable Network,National Backbone Optical Cable Network,other,,SONITEL / Government of Niger,,2026-08-10-niger-china-eximbank-national-backbone-loan-aiddata
+NER,National backbone modernisation (100 to 800 Gbit/s),backbone national,other,,Government of Niger,,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,Dorsale Transsaharienne phase 2,DTS phase 2,other,,Government of Niger,,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,National data centre,Data Center national,other,,Government of Niger,,2026-06-18-anp-niger-hub-regional-telecommunications
+NER,"Dorsale Transsaharienne a Fibre Optique (DTS), Niger component",DTS-FO,other,,"Government of Niger, AfDB financed",,2026-03-17-lesahel-copil-dts-ptba-2026-2027
+NER,"Dorsale Transsaharienne a Fibre Optique (DTS), Niger component",DTS,other,,"Government of Niger, AfDB financed",,2025-11-20-afdb-niger-1000-km-fibre-optique-reception
+NER,"Trans-Saharan Fibre Backbone (DTS/FO), Niger component",Dorsale Transsaharienne à Fibre Optique,other,,"Niger government, AfDB-financed",,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
+NER,"Trans-Saharan Fibre Backbone (DTS/FO), Niger component",Dorsale Transsaharienne à Fibre Optique,other,,"Niger government, AfDB-financed",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
+NER,"Trans-Saharan Fibre Backbone (DTS/FO), Niger component",Dorsale Transsaharienne à Fibre Optique,other,,"Niger government, AfDB-financed",,2025-11-14-mcnti-niger-receptionne-troncons-dts
+NER,National Backbone Fiber Optic Cable Network,,other,,SONITEL,,2014-01-02-eximbank-cn-ner-001-national-backbone-fiber-optic-cable-network

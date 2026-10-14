@@ -1,0 +1,13 @@
+{
+  "slug": "2023-02-10-axian-telma-2africa-landing-madagascar",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Telma (AXIAN Telecom press release, 10 February 2023) states Madagascar has three existing international subsea cables, EASSy, LION and METISS, all reaching the country through Telma's national backbone; landing stations are not named for these three.", "as_of": "2023-02-10", "date_precision": "day", "system": "EASSy; LION; METISS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "EASSy", "country_label": "EASSy", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "LION", "country_label": "LION", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "METISS", "country_label": "METISS", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "2Africa", "country_label": "2Africa (Mahajanga branch)", "class": "other", "platform": "", "owner": "Telma with Vodafone", "tiers": "landed at Mahajanga; East system expected ready for service Q4 2023, not yet in service at the date of the release"}
+  ],
+  "note": ""
+}

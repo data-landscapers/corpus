@@ -1,0 +1,4 @@
+{"slug":"2025-10-30-morenet-international-bandwidth-5-to-60-gbps-amlight-sacs","facts":[
+{"sub_indicator":"routes","aspect":"routes","value":"two","fact":"MoRENet's deck (30 October 2025) states its international capacity is 60 Gbps with active redundancy over two continental routes (Atlantic via a Cape Town PoP onto AmLight-SACS, and East African routes with IP transit via WIOCC); before this it had 5 Gbps over a single route through South Africa.","as_of":"2025-10-30","date_precision":"day","system":"MoRENet Cape Town PoP routes via South Africa","class":"route"}],
+"systems":[{"system":"AmLight-SACS","country_label":"AmLight-SACS","class":"other","platform":"","owner":"AmLight / SANReN","tiers":""},{"system":"MoRENet Cape Town border PoP","country_label":"","class":"route","platform":"","owner":"MoRENet","tiers":"research and education"}],
+"note":"Covers MoRENet's own international links only; routes run via South Africa."}

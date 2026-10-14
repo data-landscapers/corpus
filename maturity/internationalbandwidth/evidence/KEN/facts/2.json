@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Daraja",
+   "country_label": "Daraja",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta (Edge Network Services); Safaricom operates Kenyan segment",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Meta",
+   "tiers": ""
+  }
+ ],
+ "note": "Daraja (Oman-Mombasa) is scheduled for 2026 service, not yet in service; 2Africa mentioned only as Meta's earlier Kenya cable, no in-service statement."
+}

@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Equiano,Equiano,route,submarine cable,Google; Telecom Namibia landing party at Swakopmund,,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,SARSSy,Southern African Regional Submarine System,other,"planned submarine cable, not yet in service","Telecom Namibia, Angola Telecom, SATCAB",,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,Angosat-2,Angosat-2,other,satellite,GGPEN,,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms"
+NAM,Equiano,Equiano,route,submarine cable,Google; Telecom Namibia landing party at Swakopmund,,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+NAM,SARSSy,Southern African Regional Submarine System,other,"planned submarine cable, not yet in service","Telecom Namibia, Angola Telecom, SATCAB",,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps
+NAM,Equiano,Equiano,route,submarine cable,Google; Telecom Namibia landing party at Swakopmund,,2024-07-31-telecom-namibia-equiano-cable-station-swakopmund
+NAM,WACS,West Africa Cable System,route,submarine cable,,,2024-07-31-telecom-namibia-equiano-cable-station-swakopmund
+NAM,Equiano,Equiano,route,submarine cable,Google; Telecom Namibia landing party at Swakopmund,,2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano
+NAM,SARSSy,Southern African Regional Submarine System,other,"planned submarine cable, not yet in service","Telecom Namibia, Angola Telecom, SATCAB",,2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano
+NAM,Equiano,Equiano,route,submarine cable,Google; Telecom Namibia landing party at Swakopmund,,2026-06-13-namibia-angola-sarssy-equiano-submarine-cable-msa
+NAM,SARSSy,Southern African Regional Submarine System,other,"planned submarine cable, not yet in service","Telecom Namibia, Angola Telecom, SATCAB",,2026-06-13-namibia-angola-sarssy-equiano-submarine-cable-msa
+NAM,Equiano,Equiano,route,,Google,,2026-02-19-grounding-the-cloud-in-namibia-namibiansun
+NAM,Equiano,Equiano,route,,Paratus (landing),,2025-09-04-paratus-launches-namibia-first-private-mobile-network-connectingafrica
+NAM,WACS,WACS,route,,,,2022-06-23-paratus-equiano-cable-landed-swakopmund
+NAM,Equiano,Equiano,other,,Google; landing partners Paratus and Telecom Namibia,,2022-06-23-paratus-equiano-cable-landed-swakopmund
+NAM,Equiano,Equiano,route,,,,2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb
+NAM,SARSSy,SARSSy Subsea Cable System,other,,Angola Telecom,,2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb
+NAM,Equiano,Equiano,other,,Google,,2022-08-11-paratus-launches-namibian-data-center-in-windhoek
+NAM,Equiano,Equiano,other,,Google,,2022-07-25-first-carrier-neutral-data-center-for-namibia
+NAM,WACS,WACS,route,,,,2022-07-18-namibia-telecom-equiano-cable-private-investment
+NAM,Equiano,Equiano,route,,Google; co-landed by Telecom Namibia and Paratus,,2022-07-18-namibia-telecom-equiano-cable-private-investment
+NAM,Equiano,Equiano,route,,Google,,2026-06-11 Can Africa supply it's own digital infrastructure
+NAM,WACS,WACS,route,,,,2026-06-11 Can Africa supply it's own digital infrastructure
+NAM,Swakopmund landing stations,Swakopmund,other,,Paratus,,2026-06-11 Can Africa supply it's own digital infrastructure
+NAM,Equiano,Equiano,route,,Google,,2026-05-20 Google in Africa
+NAM,Umoja,Umoja,other,,Google,,2026-05-20 Google in Africa
+NAM,Equiano,Equiano,other,,Google,,2021-10-06-google-reg-1b-google-1-billion-africa-digital-transformation
+NAM,Eutelsat OneWeb LEO,Eutelsat OneWeb LEO,other,,Eutelsat; Paratus Namibia reseller,,2026-10-07-na-paratus-oneweb-leo
+NAM,Twoobii-OneWeb LEO,Twoobii-OneWeb LEO,other,,"Q-KON; Echo Namibia, Oblixx",,2026-07-22-qkon-eutelsat-oneweb-leo-satellite-launch-namibia
+NAM,Angosat-2,Angosat-2,other,,GGPEN Angola; Telecom Namibia pilot,,2026-06-12-namibia-angola-ink-satellite-deal-itweb

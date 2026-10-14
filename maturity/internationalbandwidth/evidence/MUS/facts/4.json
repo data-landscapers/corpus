@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-22-build-ai-ecosystem-before-infrastructure-mauritiustimes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "T4",
+   "country_label": "T4",
+   "class": "other",
+   "platform": "",
+   "owner": "Mauritius Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM 2.0",
+   "country_label": "SEACOM 2.0",
+   "class": "other",
+   "platform": "",
+   "owner": "SEACOM",
+   "tiers": ""
+  }
+ ],
+ "note": "New subsea cables T4 and SEACOM 2.0 only planned in the MT 2026-2029 roadmap; no in-service route stated."
+}

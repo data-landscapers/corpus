@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-thereporter-vodacom-satellite-broadband",
+  "facts": [],
+  "systems": [
+    {"system": "Vodacom Enterprise Satellite Connectivity (Starlink LEO)", "country_label": "Enterprise Satellite Connectivity", "class": "other", "platform": "Starlink", "owner": "Vodacom Lesotho", "tiers": "enterprises and public institutions"}
+  ],
+  "note": "Satellite service only; no fibre route stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Trans-Saharan Fibre Backbone (DTS/FO), Niger component",
+   "country_label": "Dorsale Transsaharienne \u00e0 Fibre Optique",
+   "class": "other",
+   "platform": "",
+   "owner": "Niger government, AfDB-financed",
+   "tiers": ""
+  }
+ ],
+ "note": "Provisional reception only; 'mise en service prochaine' and commercial interconnection 'bientot'; no route stated in service; open access only an objective."
+}

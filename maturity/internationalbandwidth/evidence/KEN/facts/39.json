@@ -1,0 +1,60 @@
+{
+ "slug": "2018-07-31-telkom-launches-ksh-150m-data-centre-to-boost-colocation-and-data-back-up",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Telkom Kenya's CEO says clients at its Nairobi site get access to international capacity on submarine cables TEAMS, EASSy and LION2 (three cables).",
+   "as_of": "2018-07-31",
+   "date_precision": "day",
+   "system": "TEAMS; EASSy; LION2",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Telkom Kenya describes its Milimani Exchange facility as open access, giving local and international clients access to international capacity on TEAMS, EASSy and LION2.",
+   "as_of": "2018-07-31",
+   "date_precision": "day",
+   "system": "TEAMS; EASSy; LION2",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TEAMS",
+   "country_label": "TEAMS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "LION2",
+   "country_label": "LION2",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Milimani Exchange data centre",
+   "country_label": "Milimani Exchange data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Telkom Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

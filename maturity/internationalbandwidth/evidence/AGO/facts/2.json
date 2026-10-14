@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SARSSy",
+   "country_label": "SARSSy",
+   "class": "other",
+   "platform": "",
+   "owner": "Telecom Namibia / Angola Telecom / SATCAB",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SARSSy and Equiano integration signed 12 June 2026 is still to land and be operationalised; Namibia-hosted capacity, no in-service AGO route stated."
+}

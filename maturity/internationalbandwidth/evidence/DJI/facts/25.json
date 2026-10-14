@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-06-horizon-fiber-corridor-deal-itweb",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "ITWeb Africa describes Djibouti Telecom as anchoring a submarine cable hub linking multiple global systems and Djibouti's 'submarine cable gateways'; no cable named.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "Djibouti submarine cable gateways",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2021-09-09-ace-consortium-submarine-cable-overview",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The ACE Consortium says the ACE cable was put into service on 15 December 2012, with a landing station at Monrovia, and that it is the first international submarine cable to land in Liberia.", "as_of": "2012-12-15", "date_precision": "day", "system": "ACE (Africa Coast to Europe)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE (Africa Coast to Europe)", "country_label": "ACE", "class": "route", "platform": "submarine cable, 17,000 km, landing station Monrovia", "owner": "ACE Consortium", "tiers": ""}
+  ],
+  "note": "Access: the page says agreements are being put in place for other operators to arrive along the route and cites an aggregate access concept, but states nothing specific to Liberia, so no access fact."
+}

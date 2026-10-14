@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The article says Google's Equiano and Meta's 2Africa submarine cables land in Lagos, and that with the new cables Lagos-Europe latency fell to about 40 ms (techmoonshot, published 2026-02-26; as_of is that date).",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Equiano;2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Meta",
+   "tiers": ""
+  },
+  {
+   "system": "Kasi Cloud Lekki campus",
+   "country_label": "Kasi Cloud Lekki campus",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG3",
+   "country_label": "Equinix LG3",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

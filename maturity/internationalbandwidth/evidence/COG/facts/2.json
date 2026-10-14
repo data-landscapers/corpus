@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-17-developingtelecoms-mtn-congo-2africa-pointe-noire",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Developing Telecoms reports MTN Congo connected to the 2Africa cable at Pointe-Noire, giving a link to London and routes via South Africa and Nigeria.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "consortium",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

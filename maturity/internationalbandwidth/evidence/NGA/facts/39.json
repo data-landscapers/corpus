@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-10-equinix-lg3-22m-lagos-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "MainOne's 7,000 km submarine cable linking Nigeria to Portugal came to Equinix with its April 2022 acquisition of MainOne; the article says multiple subsea systems land in Lagos (TechCabal).",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "MainOne",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "route",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Meta",
+   "tiers": ""
+  },
+  {
+   "system": "Equinix LG3",
+   "country_label": "Equinix LG3",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

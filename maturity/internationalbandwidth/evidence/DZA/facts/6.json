@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report",
+  "facts": [],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "", "owner": "Meta-led", "tiers": ""},
+    {"system": "Equiano", "country_label": "Equiano", "class": "other", "platform": "", "owner": "Google", "tiers": ""},
+    {"system": "MainOne regional network", "country_label": "MainOne", "class": "other", "platform": "", "owner": "MainOne", "tiers": ""}
+  ],
+  "note": "Continental report; names cables generally but states no route or access fact for Algeria (Algeria appears only in AI tier lists)."
+}

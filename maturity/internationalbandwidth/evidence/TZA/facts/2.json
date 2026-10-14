@@ -1,0 +1,26 @@
+{
+  "slug": "2024-09-24-airtel-subsea-cable-to-boost-digital-sector-growth-daily-news",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "Airtel Tanzania activated the 2Africa subsea cable landing station at Mbezi, Dar es Salaam, reported 24 September 2024 (officials spoke 23 September; activation date between June and September 2024 per source note).",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "landing station at Mbezi, Dar es Salaam; 45,000 km",
+      "class": "",
+      "platform": "",
+      "owner": "Airtel Tanzania (Tanzanian landing party)",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

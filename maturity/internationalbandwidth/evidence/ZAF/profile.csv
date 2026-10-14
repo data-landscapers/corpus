@@ -1,0 +1,3 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,routes,routes,coverage,independent,2024-03-15,ZAF-014;ZAF-024,ZAF-016=one;ZAF-001=one;ZAF-020=two;ZAF-021=two;ZAF-003=one;ZAF-022=one;ZAF-023=one;ZAF-025=two;ZAF-004=one;ZAF-018=one;ZAF-026=two;ZAF-005=one,
+ZAF,routes,access,coverage,open,2026-01,ZAF-002;ZAF-015;ZAF-019,,

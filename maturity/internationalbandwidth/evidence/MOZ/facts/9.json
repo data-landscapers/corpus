@@ -1,0 +1,34 @@
+{
+  "slug": "2025-03-31 Vodacom opens data center in Maputo, Mozambique",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "Data Center Dynamics reports that Vodacom's carrier-neutral Matola data centre, opened 2025-03-31, has direct access to the 2Africa subsea cable hosted in Vodacom Mozambique's equipment room in Matola.",
+      "as_of": "2025-03-31",
+      "date_precision": "day",
+      "system": "2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "Meta-led consortium",
+      "tiers": ""
+    },
+    {
+      "system": "Vodacom Matola data centre",
+      "country_label": "Vodacom Matola data centre",
+      "class": "other",
+      "platform": "",
+      "owner": "Vodacom Mozambique",
+      "tiers": ""
+    }
+  ],
+  "note": "Cable in service is implied by the data centre's access to it; document gives the opening date, no landing-station operator."
+}

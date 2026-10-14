@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-06-mli-gouvernement-backbones-mali-senegal",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "SMTD-SA (Malian government information portal) states the Mali and Senegal national fibre backbones were interconnected and inaugurated on 5 October 2026 at Kidira-Diboli under ROA-BN, giving onward access to the submarine cable from Portugal and Cape Verde.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "country_label": "Kidira-Diboli Mali-Senegal backbone interconnection",
+   "class": "route",
+   "platform": "",
+   "owner": "SMTD-SA / Senegal Numerique",
+   "tiers": ""
+  },
+  {
+   "system": "ROA-BN",
+   "country_label": "ROA-BN",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

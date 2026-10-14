@@ -1,0 +1,23 @@
+{
+ "slug": "2021-10-25-digital-realty-expands-coverage-and-capacity-of-platformdigital-across-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "iColo Mombasa campus",
+   "country_label": "iColo Mombasa campus",
+   "class": "other",
+   "platform": "",
+   "owner": "iColo",
+   "tiers": ""
+  },
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "other",
+   "platform": "",
+   "owner": "SEACOM",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions new subsea cable landing equipment at iColo Mombasa but names no cable; no route fact."
+}

@@ -78,7 +78,16 @@
    "subject": "infra.connect",
    "text": "International internet bandwidth: fibre routes to the rest of the world",
    "indicator_id": "infra.connect--international-internet-bandwidth-fibre-routes-to-the-rest-of-the-world",
-   "class": "route"
+   "class": "route",
+   "norm_short": "The African Union's Digital Transformation Strategy asks every member state for at least two international connections, and for operators to share infrastructure.",
+   "criteria": [
+    "A source from the past three years says the country has no international fibre route: satellite or microwave only.",
+    "One fibre route carries the country's internet traffic abroad: a submarine cable landing in the country, or a fibre link through a neighbour.",
+    "Two or more international fibre routes are in service, though they share one landing station or one neighbour.",
+    "Two of the routes share no landing station: cables at different stations, a cable and a land link, or for a country without a coast, links through two neighbours.",
+    "Two independent routes, and other operators buy capacity at the landing station or on the cable, or it runs on open-access or regulated wholesale terms."
+   ],
+   "criteria_of": "de4224e0da2c"
   }
  ],
  "classes": [
@@ -88,7 +97,7 @@
  "aspects": [
   {
    "key": "routes",
-   "name": "Fibre routes carrying the country's internet traffic abroad, in service: one, two or more, two independent",
+   "name": "One route, two, and two independent",
    "role": "coverage",
    "defer": [
     "none"
@@ -107,7 +116,7 @@
   },
   {
    "key": "access",
-   "name": "Capacity at the landing station or on the international route sold to other operators",
+   "name": "Capacity sold to other operators",
    "role": "coverage",
    "defer": [
     "none"

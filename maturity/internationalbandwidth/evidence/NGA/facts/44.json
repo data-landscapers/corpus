@@ -1,0 +1,42 @@
+{
+  "slug": "2023-04-03-techeconomy-oadc-lagos-los1-phase-one-live",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "OADC's CEO is quoted as saying OADC is a partner in Google's Equiano cable, which was launched in Nigeria in 2022; no landing station is named.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Equiano",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Equiano",
+      "country_label": "Equiano",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "OADC Lagos LOS1",
+      "country_label": "OADC Lagos LOS1",
+      "class": "other",
+      "platform": "",
+      "owner": "Open Access Data Centres (WIOCC)",
+      "tiers": ""
+    }
+  ],
+  "note": "2Africa described as under construction; OADC Lagos is carrier-neutral but is not stated to be a landing station, so no access fact."
+}

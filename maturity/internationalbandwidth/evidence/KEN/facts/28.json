@@ -1,0 +1,42 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "A register of operators lists Safaricom (Kenya) as co-owner of the TEAMS undersea cable, which serves Kenya; the document gives no landing station and does not say TEAMS is lit.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "TEAMS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Daraja",
+   "country_label": "Daraja",
+   "class": "other",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": "landing station due 2026, not in service"
+  },
+  {
+   "system": "Seacom",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  },
+  {
+   "system": "CSquared",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "CSquared",
+   "tiers": "open-access metro and backbone fibre, not international"
+  }
+ ],
+ "note": "Published date used as as_of (no event date). Daraja not yet in service; Seacom Kenya cable not named so no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "The Star reports Somcable Submarine Network (Somaliland-based) operates two international subsea landings, 2Africa and PEACE, at the Port of Berbera, which its CTO calls two physically diverse routes.", "as_of": "2026-09-14", "date_precision": "day", "system": "2Africa; PEACE", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Somcable terrestrial network", "country_label": "Somcable", "class": "other", "platform": "DWDM", "owner": "Somcable Submarine Network", "tiers": ""}
+  ],
+  "note": "Both landings are at Berbera (same station), so two, not independent; Somcable's wholesale terms are not stated as open or closed."
+}

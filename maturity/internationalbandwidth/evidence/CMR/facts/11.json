@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two",
+     "fact": "Africa Business Insight (2026-05-25) states that Cameroon is connected to five submarine cable systems, without naming them or their landing stations.",
+     "as_of": "2026-05-25", "date_precision": "day",
+     "system": "five submarine cables (unnamed)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone fibre link Cameroon-CAF", "country_label": "Central African Backbone", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Planned CAF-South Sudan interconnection", "country_label": "", "class": "other", "platform": "", "owner": "Central African Digital Development Agency with MTN Group", "tiers": ""}
+  ],
+  "note": "Article is about CAF; only the Cameroon cable count is a fact for CMR, and the CAF-Cameroon link is CAF's route."
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Connecting Africa (2026-02-24) quotes an industry expert saying Nigeria has seven major subsea cables, naming Equiano and 2Africa; no landing stations given.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "submarine cables (7)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "relied on by Equatorial Guinea, not stated to land in Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria-Equatorial Guinea subsea fibre link",
+   "country_label": "agreement signed Feb 2026, no specs or timeline, not in service",
+   "class": "other",
+   "platform": "",
+   "owner": "Backbone Connectivity Network Nigeria",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber",
+   "country_label": "Horizon Fiber Initiative",
+   "class": "other",
+   "platform": "terrestrial fibre Djibouti-Ethiopia-Sudan, planned, pre-commercialisation",
+   "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon is planned, not in service; no ETH route or access fact."
+}

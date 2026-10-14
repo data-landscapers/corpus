@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-22-telecom-egypt-pop-aqaba-digital-hub",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Telecom Egypt says the Coral Bridge subsea cable, a 15 km link from its Taba landing point in Sinai to Aqaba Digital Hub in Jordan, has been launched and activated; no launch date given, so as_of is the release date.",
+   "as_of": "2025-09-22",
+   "date_precision": "day",
+   "system": "Coral Bridge",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Coral Bridge",
+   "country_label": "Coral Bridge",
+   "class": "route",
+   "platform": "",
+   "owner": "Telecom Egypt and NaiTel (ADH)",
+   "tiers": ""
+  }
+ ],
+ "note": "Aqaba open-access facility is in Jordan, so no access fact for EGY."
+}

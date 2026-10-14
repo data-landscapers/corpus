@@ -1,0 +1,26 @@
+{
+  "slug": "2026-02-11-dcd-horizon-fiber-agreement",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "DCD states Port Sudan connects several cables to the Middle East and Europe (no names given).",
+      "as_of": "2026-02-11",
+      "date_precision": "day",
+      "system": "Port Sudan cables",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Horizon Fiber",
+      "country_label": "Horizon Fiber Initiative",
+      "class": "other",
+      "platform": "",
+      "owner": "Ethio Telecom; Djibouti Telecom; Sudatel Group",
+      "tiers": ""
+    }
+  ],
+  "note": "Horizon corridor is an agreement to build, not in service."
+}

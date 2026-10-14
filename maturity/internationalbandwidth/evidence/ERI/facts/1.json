@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks",
+  "facts": [],
+  "systems": [
+    {"system": "2Africa", "country_label": "2AFRICA", "class": "other", "platform": "submarine cable", "owner": "Meta-led consortium", "tiers": "Red Sea eastern part planned; does not land in Eritrea"},
+    {"system": "Trans Europe Asia System (TEAS)", "country_label": "TEAS", "class": "other", "platform": "subsea and terrestrial cable", "owner": "Cinturion Group", "tiers": "planned; Israel, Saudi Arabia, UAE, not Eritrea"}
+  ],
+  "note": "Says Eritrea has not replied to cable industry requests for permission to use its waters; states no cable landing or route in service for Eritrea."
+}

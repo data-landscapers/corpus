@@ -1,0 +1,10 @@
+{
+  "slug": "2016-01-01-jbic-ago-sacs-submarine-cable-2016-export-credit-line-for-banco-de",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The JBIC deal record says SACS, a 6,200 km submarine cable built by Angola Cables and NEC directly linking Angola and Brazil, was ready for service in October 2018 (loan status completed); no landing station is named.", "as_of": "2018-10", "date_precision": "month", "system": "SACS", "class": "route"}
+  ],
+  "systems": [
+    {"system": "SACS", "country_label": "South Atlantic Cable System", "class": "route", "platform": "", "owner": "Angola Cables", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "2026-09-29-ago-ciena-angola-cables-monet-sacs-800g",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Ciena says SACS, owned and operated by Angola Cables, bridges Brazil to Angola over 6,165 km as an existing subsea system, so data runs directly between Angola and the United States at 130 ms round trip when joined to MONET; no landing station is named.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "SACS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Ciena states Angola Cables sells wholesale capacity on its SACS and MONET cables to hyperscale, cloud, wholesale, content and enterprise customers, from a single 100 Gbps to a full fibre pair, including spectrum.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "SACS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "route",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "MONET",
+   "country_label": "MONET",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "",
+   "platform": "",
+   "owner": "partner of Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "",
+   "platform": "",
+   "owner": "partner of Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "EllaLink",
+   "country_label": "EllaLink",
+   "class": "",
+   "platform": "",
+   "owner": "partner of Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

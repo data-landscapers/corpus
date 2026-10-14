@@ -1,0 +1,50 @@
+{
+ "slug": "2024-03-28-nca-update-6-undersea-cable-disruptions",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The NCA says it engaged the four submarine cable service providers SAT-3, ACE, WACS and MainOne on repairing the 14 March 2024 damage that disrupted data services in Ghana, so four routes were in service (temporary outage, repairs scheduled to 9 May 2024).",
+   "as_of": "2024-03-28",
+   "date_precision": "day",
+   "system": "SAT-3; ACE; WACS; MainOne",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAT-3",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

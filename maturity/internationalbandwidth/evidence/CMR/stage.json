@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "routes",
+   "stage": "3",
+   "routes": "two",
+   "access": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-006;CMR-004",
+   "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours.",
+   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
+  }
+ ]
+}

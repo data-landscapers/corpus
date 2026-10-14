@@ -1,0 +1,13 @@
+{
+  "slug": "2018-02-13-lca-state-of-ict-lesotho-2016",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "The LCA/ITU sector review (data collected August 2016) states that Lesotho's operators draw international bandwidth from the WACS, EASSy and SEACOM cables, which Lesotho, being landlocked, reaches via South Africa: Vodacom Lesotho via its group's ownership of WACS and EASSy, Econet Telecom Lesotho via SEACOM and EASSy capacity through Liquid Telecom's terrestrial fibre.", "as_of": "2016", "date_precision": "year", "system": "WACS; EASSy; SEACOM", "class": "route"}
+  ],
+  "systems": [
+    {"system": "WACS", "country_label": "WACS", "class": "route", "platform": "", "owner": "Vodacom group (part-owner)", "tiers": ""},
+    {"system": "EASSy", "country_label": "EASSy", "class": "route", "platform": "", "owner": "Vodacom group (part-owner); capacity also used by Econet Telecom Lesotho", "tiers": ""},
+    {"system": "SEACOM", "country_label": "SEACOM", "class": "route", "platform": "", "owner": "", "tiers": "used by Econet Telecom Lesotho"},
+    {"system": "LECC dark fibre backbone", "country_label": "LECC", "class": "other", "platform": "", "owner": "Lesotho Electricity Company subsidiary", "tiers": "national backbone for Vodacom and Econet"}
+  ],
+  "note": "Wholesale internet bandwidth is described as a duopoly with a price, but the capture is truncated before any statement on capacity sold at a landing station; no access fact."
+}

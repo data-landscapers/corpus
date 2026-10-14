@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Seacom launched on 17 June 2026 a high-capacity terrestrial route Nairobi-Kisumu-Kampala carrying traffic inland from the subsea cable landing stations at Mombasa, crossing into Uganda at Malaba and Busia (both via Kenya), with 1Tbps activated.", "as_of": "2026-06-17", "date_precision": "day", "system": "Seacom Nairobi-Kampala route", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Seacom says the Nairobi-Kampala route offers 1GE to 400GE interfaces to enterprises, service providers and hyperscale customers, i.e. capacity sold to buyers other than the owner.", "as_of": "2026-06-17", "date_precision": "day", "system": "Seacom Nairobi-Kampala route", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Seacom Nairobi-Kampala route", "country_label": "Nairobi-Kampala route", "class": "route", "platform": "DWDM, ASON", "owner": "Seacom", "tiers": ""}
+  ],
+  "note": ""
+}

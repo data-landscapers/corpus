@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15 CSquared boosts internet by integrating with 2Africa West cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Mobile Europe (15 Jul 2026) reports that CSquared's existing West Africa architecture includes the Equiano cable landing in Nigeria/Togo and reaching Benin (with Ghana and Burkina Faso) via terrestrial backbone.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa West",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "CSquared (capacity holder)",
+   "tiers": ""
+  }
+ ],
+ "note": "2Africa West capacity added to CSquared's network is not stated to reach BEN, so it is not a BEN fact."
+}

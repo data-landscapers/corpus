@@ -1,0 +1,23 @@
+{
+  "slug": "2021-02-19-cabo-verde-cabo-submarino-ellalink-aterragem-praia-capacidade",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EllaLink",
+      "country_label": "EllaLink",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SHARE (Dakar-Praia)",
+      "country_label": "SHARE (Dakar-Praia)",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "EllaLink landing at Portinho, Praia on 2021-02-18 is stated but not as in service, so no route fact; SHARE is future; unnamed existing international cables only."
+}

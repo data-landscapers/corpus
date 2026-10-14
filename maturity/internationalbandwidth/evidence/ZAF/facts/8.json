@@ -1,0 +1,34 @@
+{
+ "slug": "2023-03-15-itweb-seacom-live-on-google-equiano-cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ITWeb reports Seacom went live on Google's Equiano cable, which lands at Melkbosstrand, Cape Town, with services available from that day.",
+   "as_of": "2023-03-15",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  },
+  {
+   "system": "Seacom IP-MPLS network",
+   "country_label": "Seacom IP-MPLS network",
+   "class": "other",
+   "platform": "",
+   "owner": "Seacom",
+   "tiers": ""
+  }
+ ],
+ "note": "Landing stations named elsewhere on the cable are outside South Africa."
+}

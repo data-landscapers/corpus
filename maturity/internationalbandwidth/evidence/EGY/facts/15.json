@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Egypt mentioned only as a data-centre hub; no route statement for EGY."
+}

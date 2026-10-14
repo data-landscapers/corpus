@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "Paratus says its 2,000 km Goma-to-Mombasa (G2M) terrestrial fibre route from Goma in eastern DRC, through Kigali (Rwanda), Kampala and Nairobi, is live and carrying traffic, giving access to subsea capacity landing at Mombasa.",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Goma-Mombasa (G2M)",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Goma-Mombasa (G2M)",
+      "country_label": "G2M",
+      "class": "route",
+      "platform": "",
+      "owner": "Paratus",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

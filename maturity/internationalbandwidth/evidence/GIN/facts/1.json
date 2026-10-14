@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-19-data-center-medusa-subsea-cable-land-guinea",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Data Center Dynamics (2026-08-19) says ACE, launched in 2012, lands at Conakry and is Guinea's only cable in service until Medusa becomes the second.",
+   "as_of": "2012",
+   "date_precision": "year",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "Guilab SA manages Guinea's capacity",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "Medusa",
+   "class": "other",
+   "platform": "",
+   "owner": "AFR-IX Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

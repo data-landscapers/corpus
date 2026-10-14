@@ -1,0 +1,34 @@
+{
+  "slug": "2023-02-07-icolo-mpm1-maputo-data-centre-opening",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "iColo's press release says Mozambique is currently connected to two subsea cables (unnamed), with a third, 2Africa, landing in February 2023.",
+      "as_of": "2023-02-07",
+      "date_precision": "day",
+      "system": "unnamed subsea cables",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "Meta-led consortium",
+      "tiers": ""
+    },
+    {
+      "system": "iColo MPM1 Maputo",
+      "country_label": "iColo MPM1 Maputo",
+      "class": "other",
+      "platform": "",
+      "owner": "iColo (Digital Realty)",
+      "tiers": ""
+    }
+  ],
+  "note": "2Africa is described as landing Feb 2023, not stated as in service; iColo MPM1 hosts its landing equipment."
+}

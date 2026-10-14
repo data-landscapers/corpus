@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-04 DARE1 subsea cable expansion to boost internet capacity",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "SubTel Forum reports the DARE1 submarine cable, operational since 2021 with 36 Tbps on three fibre pairs, links Djibouti City with Bosaso and Mogadishu in Somalia and then Mombasa, Kenya, with partners Hormuud Telecom, Somtel International and Telkom Kenya.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "DARE1",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DARE1",
+   "country_label": "DARE1",
+   "class": "route",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1 extension to Mtunzini",
+   "country_label": "DARE1 extension to Mtunzini",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Extension to South Africa is planned only."
+}

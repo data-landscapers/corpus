@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Africa Business Insight (25 May 2026) states that under the Central African Backbone the Central African Republic established fibre links with Cameroon (five submarine cables) and the Republic of the Congo (two), two different neighbours; date is the article's, which gives none for the links.", "as_of": "2026-05-25", "date_precision": "day", "system": "Central African Backbone via Cameroon and Congo-Brazzaville", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "routes", "value": "none", "fact": "The article states the African Development Bank described the Central African Republic in 2018 as the last landlocked African country without terrestrial fibre-optic links to neighbouring states.", "as_of": "2018", "date_precision": "year", "system": "", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Central African Backbone", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CAR-South Sudan interconnection (planned)", "country_label": "", "class": "other", "platform": "", "owner": "Central African Digital Development Agency with MTN Group", "tiers": ""}
+  ],
+  "note": ""
+}

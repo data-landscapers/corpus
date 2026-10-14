@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-20 Google in Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Google",
+   "tiers": "landings Togo, Nigeria, Namibia, St Helena, South Africa; not Ghana"
+  }
+ ],
+ "note": "Equiano does not land in Ghana per this document; no Ghana cable fact."
+}

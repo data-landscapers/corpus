@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,Second submarine cable (WARDIP procurement),second submarine cable,other,,ECOWAS Commission / WARDIP,,2026-07-06-ecowas-wardip-submarine-cable-capacity-evaluation-committee
+GMB,GAMTEL national backbone upgrade (40 to 800 Gbps),national internet backbone,other,,GAMTEL / SYSROAD,,2026-01-08-gamtel-sysroad-50m-ppp-broadband-backbone-standard
+GMB,ACE,Africa Coast to Europe,other,,ACE consortium; Gamtel 49% of Gambia segment,,2025-03-25-gambia-gov-gamtel-company-profile-ace-capacity
+GMB,Sonatel backup link,"155 Mbps backup link with Sonatel, Senegal",other,,Gamtel / Sonatel,,2025-03-25-gambia-gov-gamtel-company-profile-ace-capacity
+GMB,Plan to add 10 Gbps,additional 10 Gbps,other,,Gamtel,,2025-03-25-gambia-gov-gamtel-company-profile-ace-capacity
+GMB,"ACE cable station, Sukuta",ACE cable station,other,,Gamtel (operator named in outage statement),,2026-06-05-nation-hit-by-internet-outage-ace-cable-station-thepoint
+GMB,ACE,Africa Coast to Europe,other,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
+GMB,ACE,ACE - Africa Coast to Europe,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
+GMB,ACE,ACE submarine cable,route,,,,2026-09-09-sen-techgriot-senegal-gambia-cables-spectrum
+GMB,Senegal terrestrial fibre link,cross-border fibre via Senegal,other,,,,2026-09-09-sen-techgriot-senegal-gambia-cables-spectrum
+GMB,ECOWAS fibre optic backbone (Gambia),ECOWAS fiber optics backbone,other,,,,2026-09-03-isdb-ict-sector-ecowas-fibre-backbone-gambia
+GMB,WADIP submarine cable (second cable),submarine cable to be brought under WADIP,other,,,,2026-07-23-wadip-certified-rbm-ict-data-analytics-training-standard
+GMB,ACE,ACE submarine cable,route,,,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,ECOWAN,ECOWAN,other,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,NBN,National Broadband Network,other,,GAMTEL,,2024-05-13-wbba-gamtel-national-broadband-network-case-study
+GMB,ACE,Africa Coast to Europe,route,,,,2026-09-21-gamtel-company-profile-ace-25-gbps
+GMB,Free (Senegal) CG2 backup link,Cross Gambia (CG2),route,,Free Company (Senegal),,2026-09-21-gamtel-company-profile-ace-25-gbps
+GMB,ECOWAN,ECOWAS Wide Area Network,other,,GAMTEL,,2026-09-21-gamtel-company-profile-ace-25-gbps
+GMB,NBN,National Broadband Network,other,,GAMTEL,,2026-09-21-gamtel-company-profile-ace-25-gbps

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-07-togo-isoc-gouvernance-numerique-connecter-les-zones-oubliees",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ISOC-Togo, reported by republicoftogo.com, says Togo stayed connected through Google's Equiano cable during the March 2024 submarine cable cuts; no landing station named.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

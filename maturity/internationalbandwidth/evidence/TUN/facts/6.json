@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-10-tunisie-telecom-joins-medusa-fibre-pair",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Medusa's announcement of Tunisie Telecom's Medusa agreement says Tunisia's existing submarine cable links are PEACE, SeaMeWe-4, Didon and Hannibal (four cables; landing stations not named).",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "PEACE; SeaMeWe-4; Didon; Hannibal",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medusa",
+   "country_label": "Medusa (Bizerte-Marseille link, agreed 7 Feb 2025, completion expected early 2026, not yet in service)",
+   "class": "other",
+   "platform": "",
+   "owner": "AFR-IX telecom / Medusa Submarine Cable System",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
+SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
+SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
+SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
+SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-itweb
+SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-itweb
+SOM,DARE1 southward extension,DARE1 extension,other,,Djibouti Telecom,,2025-09-01-dare1-extension-techafricanews
+SOM,2Africa,2Africa,other,,Meta-led consortium,"due to land at Mogadishu and Berbera, not yet in service",2022-11-02-hormuud-telecom-cable-landing-station-construction-completed-in-somalia
+SOM,Africa-1,Africa-1,other,,,due to land at Berbera,2022-11-02-hormuud-telecom-cable-landing-station-construction-completed-in-somalia
+SOM,PEACE,Peace cable,other,,,"upcoming at Mogadishu, Kismayo, Bosaso",2022-11-02-hormuud-telecom-cable-landing-station-construction-completed-in-somalia
+SOM,2Africa,2Africa,other,,Meta (consortium lead),in service per factsheet; Somali landing not listed,2026-06-03 Submarine cables serving Africa
+SOM,SEACOM,SEACOM,other,,,landings listed exclude Somalia,2026-06-03 Submarine cables serving Africa
+SOM,Somcable terrestrial network,Somcable,other,DWDM,Somcable Submarine Network,,2026-09-14-ken-thestar-itw-datacloud-somcable-berbera-route
+SOM,"Submarine cable landings (five, unnamed)",,route,,,,2026-08-19-sonna-somalia-chinese-tech-import-megawatt-analysis
+SOM,Djibouti-Somalia terrestrial cable,,other,,Djibouti Telecom,,2026-01-22-djibouti-telecom-monopoly-profile-lanation
+SOM,Starlink,,other,satellite,,,"2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
+SOM,"Sixth submarine cable (unnamed, on the way)",,other,,,,2024-11-20-som-devtelecoms-fibre-deployment-policy
+SOM,OADC Mogadishu data centre,,other,,Open Access Data Centres (WIOCC),,2021-11-25-verdant-capital-wiocc-usd-124m-equity-raise
+SOM,Berbera fibre route,Somaliland,other,,,,2026-09-15-ken-businessdaily-somaliland-berbera-fibre-route

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-22-beyond-the-signal-subsea-cables",
+  "facts": [],
+  "systems": [
+    {"system": "2Africa", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "WACS", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Continental piece; names no CIV cable, landing or route (only Abidjan's fibre ranking and a March 2024 outage in Nigeria and Ghana); 2Africa open-access statement is general, not CIV."
+}

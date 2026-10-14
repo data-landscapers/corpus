@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-10-mediaguinee-second-submarine-cable-workshop",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "GUILAB's director general said on 2025-07-10 that Guinea has had one cable for over a decade, which carries about 54% of connectivity (cable not named).",
+   "as_of": "2025-07-10",
+   "date_precision": "day",
+   "system": "unnamed single submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Medusa",
+   "country_label": "Medusa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

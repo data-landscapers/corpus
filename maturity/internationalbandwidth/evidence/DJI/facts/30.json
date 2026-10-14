@@ -1,0 +1,62 @@
+{
+ "slug": "2025-04-03-djibouti-telecom-at-a-crossroads",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "African Business says Djibouti is home to ten submarine cables plus terrestrial cables; the cables come ashore at four monitored self-sufficient stations (not named).",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "10 submarine cables",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Djibouti Telecom says it has invested over $200m in undersea cables and sells connectivity to operators in Ethiopia, Somalia and Kenya, and to more than 60 ISPs in 90 countries.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "Djibouti Telecom international capacity",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "none",
+   "fact": "AfriFiber's CEO says it is a customer of Djibouti Telecom with no alternative for international connectivity; the article calls Djibouti Telecom unrivalled there and Blue Raman at TO7 the first credible alternative.",
+   "as_of": "2025-04-03",
+   "date_precision": "day",
+   "system": "Djibouti Telecom international capacity",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Blue Raman",
+   "country_label": "Blue Raman",
+   "class": "other",
+   "platform": "",
+   "owner": "Google, to be hosted by TO7 Network with Wingu; not yet in service",
+   "tiers": ""
+  },
+  {
+   "system": "TO7 Network",
+   "country_label": "TO7 Network",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "AfriFiber",
+   "country_label": "AfriFiber",
+   "class": "other",
+   "platform": "",
+   "owner": "IIB group",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

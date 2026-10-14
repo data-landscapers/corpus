@@ -1,0 +1,16 @@
+{
+ "slug": "2025-07-01-xalam-d4d-data-centre-market-brief-ghana-2025",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Xalam Analytics states that Accra is connected to six submarine cables (cables and landing stations not named); the brief published July 2025 gives no other date.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "six submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": []
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-29-ago-techreviewafrica-ggpen-anyconnect-conecta-angola-2africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Tech Review Africa reports Conecta Angola's hub is linked to 2Africa through Unitel's 2Africa landing station at Cacuaco, Luanda, with international traffic routed over it; no capacity figure or activation date is given.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Unitel",
+   "tiers": ""
+  },
+  {
+   "system": "ANGOSAT-2",
+   "country_label": "ANGOSAT-2",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Conecta Angola hub",
+   "country_label": "Conecta Angola hub",
+   "class": "other",
+   "platform": "",
+   "owner": "GGPEN / ANYCONNECT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

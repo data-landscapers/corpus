@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-12-2africa-subsea-cable-complete",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TechAfrica News reports the 2Africa subsea cable was declared complete and activated in late 2025, with MTN GlobalConnect (Bayobab) leading the landing in Ghana.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "TechAfrica News states 2Africa is built on an open-access principle, with landing station operators providing equitable wholesale access to its capacity (cable-wide, including the Ghana landing).",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "Meta-led consortium (China Mobile International, Orange, Telecom Egypt, center3, WIOCC, MTN, Vodacom)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

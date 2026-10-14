@@ -1,0 +1,23 @@
+{
+ "slug": "2021-06-21-mainone-data-centre-opens",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "other",
+   "platform": "",
+   "owner": "MainOne Cable Company",
+   "tiers": ""
+  },
+  {
+   "system": "MDXi Appolonia City data centre",
+   "country_label": "MDXi",
+   "class": "other",
+   "platform": "",
+   "owner": "MDXi (MainOne subsidiary)",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centre notice; says only 'direct access to MainOne and other submarine cable systems', no named route or landing-station access terms."
+}

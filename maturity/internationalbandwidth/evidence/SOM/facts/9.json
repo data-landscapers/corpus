@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Data Landscapers' cable factsheet lists EASSy as in service with a landing at Mogadishu, Somalia (a Somali member, Dalkom Somalia, is a shareholder).", "as_of": "2026-06-03", "date_precision": "day", "system": "EASSy", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Data Landscapers' factsheet flags EASSy, which lands at Mogadishu, as open access (AI-compiled table).", "as_of": "2026-06-03", "date_precision": "day", "system": "EASSy", "class": "route"}
+  ],
+  "systems": [
+    {"system": "2Africa", "country_label": "2Africa", "class": "other", "platform": "", "owner": "Meta (consortium lead)", "tiers": "in service per factsheet; Somali landing not listed"},
+    {"system": "SEACOM", "country_label": "SEACOM", "class": "other", "platform": "", "owner": "", "tiers": "landings listed exclude Somalia"}
+  ],
+  "note": "Regional document; only the EASSy Mogadishu landing concerns Somalia."
+}

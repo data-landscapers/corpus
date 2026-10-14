@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-03 Submarine cables serving Africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umoja",
+   "country_label": "Umoja",
+   "class": "other",
+   "platform": "",
+   "owner": "Google (terrestrial spine built with Liquid Intelligent Technologies)",
+   "tiers": ""
+  }
+ ],
+ "note": "Factsheet lists no landing in ZMB (landlocked); Umoja under construction passing Zambia, so no in-service route fact."
+}

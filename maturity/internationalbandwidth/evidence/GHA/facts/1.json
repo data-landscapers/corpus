@@ -1,0 +1,58 @@
+{
+ "slug": "2026-08-05-nca-ghana-submarine-cable-landing",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The NCA states Ghana currently has five submarine cable providers: SAT-3, MainOne, WASC, Glo and ACE (page undated, so as_of is the 2026-08-05 capture date; no landing stations named).",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "SAT-3; MainOne; WACS; Glo-1; ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAT-3",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Glo",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

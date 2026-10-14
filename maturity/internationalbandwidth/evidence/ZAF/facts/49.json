@@ -1,0 +1,31 @@
+{
+ "slug": "2023-11-21-oadc-to-expand-johannesburg-data-center-in-south-africa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names WIOCC's cable consortium memberships generally, nothing stated about routes in service for South Africa."
+}

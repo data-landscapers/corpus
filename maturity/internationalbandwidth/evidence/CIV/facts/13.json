@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "Equinix states that it took full ownership and operational control of the MainOne submarine cable system (about 7,000 km, Portugal to Nigeria) on closing 5 April 2022, with landing stations in Nigeria, Ghana, Cote d'Ivoire (Abidjan) and Portugal.",
+     "as_of": "2022-04-05", "date_precision": "day", "system": "MainOne", "class": "route"}
+  ],
+  "systems": [
+    {"system": "MainOne", "country_label": "MainOne", "class": "route", "platform": "", "owner": "Equinix", "tiers": ""}
+  ],
+  "note": ""
+}

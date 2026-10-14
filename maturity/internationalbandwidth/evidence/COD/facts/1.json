@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-09-paratus-goma-mombasa-fibre-highway-itweb",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Paratus Group (press release republished by ITWeb Africa) says it switched on on 2026-02-09 the 2,000km protected terrestrial G2M fibre route from Goma in eastern DRC via Kigali (Rwanda), Kampala (Uganda) and Nairobi (Kenya) to Mombasa on the coast, now live and carrying traffic, linking DRC to coastal subsea cable capacity.", "as_of": "2026-02-09", "date_precision": "day", "system": "G2M (Goma-to-Mombasa)", "class": "route"},
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Paratus says the G2M Goma-Mombasa route is already carrying traffic for its first wholesale customers and is designed for carriers, ISPs and enterprises, i.e. operators other than the owner buy capacity on it.", "as_of": "2026-02-09", "date_precision": "day", "system": "G2M (Goma-to-Mombasa)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "G2M (Goma-to-Mombasa)", "country_label": "G2M", "class": "route", "platform": "terrestrial fibre via Rwanda, Uganda, Kenya", "owner": "Paratus Group (with ROKE TELKOM in Uganda, MoveOn Telecoms in Kenya)", "tiers": ""}
+  ],
+  "note": "Vendor press release (pr-wire); announcement record only."
+}

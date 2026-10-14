@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Horizon Fiber Initiative",
+   "country_label": "Horizon Fiber",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": "Horizon is pre-commercial and unbuilt; no in-service route for SDN."
+}

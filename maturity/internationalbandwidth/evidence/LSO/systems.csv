@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,WACS,WACS,route,,Vodacom group (part-owner),,2018-02-13-lca-state-of-ict-lesotho-2016
+LSO,EASSy,EASSy,route,,Vodacom group (part-owner); capacity also used by Econet Telecom Lesotho,,2018-02-13-lca-state-of-ict-lesotho-2016
+LSO,SEACOM,SEACOM,route,,,used by Econet Telecom Lesotho,2018-02-13-lca-state-of-ict-lesotho-2016
+LSO,LECC dark fibre backbone,LECC,other,,Lesotho Electricity Company subsidiary,national backbone for Vodacom and Econet,2018-02-13-lca-state-of-ict-lesotho-2016
+LSO,EASSy,EASSy,route,,,,2011-01-01-lca-annual-report-2010-11
+LSO,Vodacom Enterprise Satellite Connectivity (Starlink LEO),Enterprise Satellite Connectivity,other,Starlink,Vodacom Lesotho,enterprises and public institutions,2026-08-26-thereporter-vodacom-satellite-broadband

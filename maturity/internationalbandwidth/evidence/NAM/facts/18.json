@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-07-na-paratus-oneweb-leo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Eutelsat OneWeb LEO",
+   "country_label": "Eutelsat OneWeb LEO",
+   "class": "other",
+   "platform": "",
+   "owner": "Eutelsat; Paratus Namibia reseller",
+   "tiers": ""
+  }
+ ],
+ "note": "Satellite service launch; not fibre."
+}

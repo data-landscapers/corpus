@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-24-tunisie-cable-medusa-operationnel",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "La Presse reports Orange Tunisie announced on 24 June 2026 that MEDUSA is in operational service via the Bizerte landing station, carrying its first international traffic; four fibre pairs of 24 Tbps each.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "MEDUSA",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MEDUSA",
+   "country_label": "MEDUSA",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange Tunisie (Tunisian section and Bizerte landing station)",
+   "tiers": ""
+  },
+  {
+   "system": "DIDON",
+   "country_label": "DIDON",
+   "class": "route",
+   "platform": "",
+   "owner": "Orange Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": "DIDON (in service 2014) is named as an earlier Orange cable but its current service status is not stated, so no fact."
+}

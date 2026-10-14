@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "The Conversation Africa (Jess Auerbach Jahajeeah) says southern Africa's internet comes largely through the landing stations at Melkbosstrand near Cape Town and Mtunzini in northern KwaZulu-Natal, both in South Africa; no cables are named.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "Melkbosstrand and Mtunzini landing stations",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

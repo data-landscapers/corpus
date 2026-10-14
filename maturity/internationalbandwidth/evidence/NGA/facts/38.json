@@ -1,0 +1,96 @@
+{
+ "slug": "2026-02-09-equinix-opens-south-south-data-centre-to-reroute-nigerias-internet",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "2Africa submarine cable landed at Qua Iboe Beach, Akwa Ibom State, on 20 February 2024, via a modular cable landing station built by MainOne Solutions by Equinix; PR1 in Port Harcourt was ready December 2025, fed by 2Africa (TechCabal).",
+   "as_of": "2024-02-20",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal quotes MainOne's legal director saying six or seven cables landed in Lagos, and the article says nearly all of Nigeria's seven subsea cables land in Lagos; ACE, MainOne, SAT-3 and WACS were cut by a landslide off Cote d'Ivoire in March 2024, a temporary outage.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "ACE;MainOne;SAT-3;WACS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Nigeria's international cables land at two stations: most at Lagos, and 2Africa at Qua Iboe, Akwa Ibom, the first landing outside Lagos, with PR1 Port Harcourt providing an alternate route when Lagos is disrupted (TechCabal).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "2Africa;MainOne;ACE;SAT-3;WACS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Equinix/MainOne provides the 2Africa landing facilities, middle-mile fibre and carrier-neutral data centre PR1 so network operators, cloud providers and enterprises can plug into the capacity; the cable itself belongs to a consortium (TechCabal).",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Meta-led consortium",
+   "tiers": ""
+  },
+  {
+   "system": "MainOne",
+   "country_label": "MainOne",
+   "class": "route",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PR1 Port Harcourt",
+   "country_label": "PR1 Port Harcourt",
+   "class": "other",
+   "platform": "",
+   "owner": "Equinix",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

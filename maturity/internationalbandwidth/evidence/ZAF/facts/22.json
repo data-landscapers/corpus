@@ -1,0 +1,42 @@
+{
+ "slug": "2023-02-06-wiocc-lands-worlds-largest-subsea-cable-system-in-kwazulu-natal",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "WIOCC/OADC state that 2Africa is landed at the open-access, carrier-neutral OADC Durban in Amanzimtoti, where service providers can access international capacity on a fair and equitable basis.",
+   "as_of": "2023-02-06",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "2Africa consortium (China Mobile International, Meta, MTN GlobalConnect, Orange, center3, Telecom Egypt, Vodacom, WIOCC)",
+   "tiers": ""
+  },
+  {
+   "system": "METISS",
+   "country_label": "METISS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OADC Durban",
+   "country_label": "OADC Durban",
+   "class": "other",
+   "platform": "",
+   "owner": "Open Access Data Centres (WIOCC Group)",
+   "tiers": ""
+  }
+ ],
+ "note": "2Africa landings (Amanzimtoti, Yzerfontein, Duynefontein, Gqeberha) not yet in service (Amanzimtoti East RFS Q4 2023); METISS lands at Amanzimtoti but is not stated as in service."
+}

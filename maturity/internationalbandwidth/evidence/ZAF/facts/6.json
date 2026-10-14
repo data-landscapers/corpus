@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-04-bayobab-2africa-west-open-for-business",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Bayobab (MTN Group) says the 2Africa West route is open for business with South African landings at Yzerfontein and Duynefontein.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "2Africa West",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Bayobab says capacity on 2Africa West is sold open-access and carrier-neutral, so service providers can buy capacity in carrier-neutral data centres or open-access cable landing stations along the system.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "2Africa West",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa West",
+   "country_label": "2Africa West",
+   "class": "route",
+   "platform": "",
+   "owner": "Bayobab (MTN Group)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

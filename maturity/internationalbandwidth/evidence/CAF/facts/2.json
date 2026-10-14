@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-01-camerounlink-car-submarine-cable-options-beyond-cameroon",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Camerounlink/Agence Ecofin (1 Sep 2026) states Cameroon is the Central African Republic's main gateway to submarine cables via the Central Africa Backbone, and that the planned Congo-Brazzaville interconnection (WACS, 2Africa) remains to be realised per a ministry official on 30 Aug 2026; a Cameroon fibre cut disrupted CAR internet the week before.", "as_of": "2026-09-01", "date_precision": "day", "system": "Central Africa Backbone via Cameroon", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Central Africa Backbone (CAB)", "country_label": "Central Africa Backbone", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Owando-Ouesso section to Congo-Brazzaville (under construction)", "country_label": "", "class": "other", "platform": "", "owner": "Congo Telecom and Silicone Connect (operators of the Congo fibre)", "tiers": ""},
+    {"system": "CAR-South Sudan interconnection (announced May 2026)", "country_label": "", "class": "other", "platform": "", "owner": "ACDD with MTN", "tiers": ""}
+  ],
+  "note": "Contradicts the 12 Oct 2026 Ecofin record on whether the Congo link is in service; the Cameroon cut was a temporary outage, not none."
+}

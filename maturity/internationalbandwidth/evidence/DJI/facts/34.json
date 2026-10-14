@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-telecomreviewafrica-wholesale-broadband-open-access",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "none",
+   "fact": "Telecom Review Africa states that Djibouti's cable landing stations remain gatekept by a single state-owned operator, despite hosting one of the continent's highest concentrations of cable landings.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Djibouti cable landing stations",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "No route count for DJI given; article date used as as_of."
+}

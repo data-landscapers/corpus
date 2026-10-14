@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Wingu Djibouti cable landing station",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  },
+  {
+   "system": "ADDIX",
+   "country_label": "ADDIX",
+   "class": "other",
+   "platform": "",
+   "owner": "Wingu Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "Landing station and 12 cables are in Djibouti, ADDIX is an exchange point in Ethiopia; no ETH route stated."
+}

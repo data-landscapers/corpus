@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Angop reports Unitel inaugurated the 2Africa cable landing station at Cacuaco, Luanda, on 13 December 2025 after investing USD 43 million in the Angolan branch; Angola is now connected to 2Africa through Unitel, with 23.6 Tbps allocated to the country.",
+   "as_of": "2025-12-13",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "Cabo submarino 2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "Unitel (sole Angolan consortium member)",
+   "tiers": ""
+  },
+  {
+   "system": "National fibre network",
+   "country_label": "fibra óptica nacional, 14,000 km",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

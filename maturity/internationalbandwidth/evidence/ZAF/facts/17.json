@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-dare1-extension-kenya-south-africa-itweb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DARE1 extension (Mombasa to Mtunzini)",
+   "country_label": "DARE1 extension",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti Telecom",
+   "tiers": "planned, ready for service targeted 2028"
+  }
+ ],
+ "note": "Planned DARE1 extension to Mtunzini, ready for service 2028; not in service, so no fact."
+}

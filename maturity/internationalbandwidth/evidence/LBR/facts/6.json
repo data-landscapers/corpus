@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-16-transco-clsg-fibre-expansion-techafricanews",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "TechAfrica News reports Liberian officials saying the country depends on a single international route, the ACE submarine cable, landing at one point in Monrovia, a single point of failure; the date of the statement is not given, so the article date 2026-06-16 is used.", "as_of": "2026-06-16", "date_precision": "day", "system": "ACE (Africa Coast to Europe)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "ACE (Africa Coast to Europe)", "country_label": "ACE", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""},
+    {"system": "TRANSCO CLSG terrestrial fibre (via Cote d'Ivoire and Guinea)", "country_label": "TRANSCO CLSG", "class": "other", "platform": "terrestrial fibre on transmission line; planned redundancy links, roadmap to operate before end of 2026, not in service", "owner": "TRANSCO CLSG", "tiers": ""}
+  ],
+  "note": ""
+}

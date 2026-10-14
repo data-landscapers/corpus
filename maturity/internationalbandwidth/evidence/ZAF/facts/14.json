@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-30-morenet-international-bandwidth-5-to-60-gbps-amlight-sacs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM",
+   "class": "route",
+   "platform": "",
+   "owner": "SEACOM",
+   "tiers": ""
+  }
+ ],
+ "note": "Document is about Mozambique's bandwidth via South Africa; nothing stated about ZAF's own routes."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-03-african-business-paix-djibouti-carrier-neutral-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAIX Djibouti data centre",
+   "country_label": "PAIX Djibouti data centre",
+   "class": "other",
+   "platform": "",
+   "owner": "PAIX Data Centres with FSD and Djibouti Telecom; planned, in design phase",
+   "tiers": ""
+  }
+ ],
+ "note": "Calls Djibouti a submarine-cable hub but gives no count, names no cable or station; data centre is planned."
+}

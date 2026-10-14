@@ -1,0 +1,66 @@
+{
+ "slug": "2025-11-10-teraco-completes-ct2-data-centre-expansion-increasing-cape-towns-hyperscale-capa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Teraco states its Cape Town campus is connected to all subsea cable systems landing in the Cape region: ACE, Equiano, SAT-3, SAFE, WACS and 2Africa (six cables), all in the Cape Town area.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "ACE; Equiano; SAT-3; SAFE; WACS; 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAFE",
+   "country_label": "SAFE",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

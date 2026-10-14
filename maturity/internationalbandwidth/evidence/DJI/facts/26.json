@@ -1,0 +1,50 @@
+{
+ "slug": "2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal says Djibouti has landing points for 12 major submarine cables, including the 45,000 km 2Africa system; no landing stations named; date is the article's publication date.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "12 submarine cables incl. 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Horizon Project (Khartoum-Addis Ababa terrestrial corridor)",
+   "country_label": "Horizon Project (Khartoum-Addis Ababa terrestrial corridor)",
+   "class": "other",
+   "platform": "",
+   "owner": "Djibouti-led, planned",
+   "tiers": ""
+  },
+  {
+   "system": "Djibouti Data Centre",
+   "country_label": "Djibouti Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Wingu Group technology park",
+   "country_label": "Wingu Group technology park",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

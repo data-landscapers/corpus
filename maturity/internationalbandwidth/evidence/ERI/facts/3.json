@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-mesobjournal-eritrea-digital-sovereignty",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "none", "fact": "Mesob Journal (10 Aug 2026) states that industry infrastructure directories continue to identify Eritrea as the only coastal African state without an operational submarine cable landing station, and argues it should gain more than one international route; it does not address terrestrial links.", "as_of": "2026-08-10", "date_precision": "day", "system": "", "class": "route"}
+  ],
+  "systems": [],
+  "note": "Opinion piece; document gives no date for the directory statement beyond its own publication date, so as_of is the published date."
+}

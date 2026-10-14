@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-15 CSquared boosts internet by integrating with 2Africa West cable",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2Africa West",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "CSquared (capacity buyer)",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "No fact: 2Africa West landing in Ghana not stated; Equiano lands in Nigeria/Togo and reaches Ghana only via CSquared terrestrial backbone (neighbour link not stated as carrying Ghana's international traffic); June 2026 cuts are outages. Parent may review the Equiano/Togo-Ghana terrestrial link and the 2Africa 'open-access' remark."
+}

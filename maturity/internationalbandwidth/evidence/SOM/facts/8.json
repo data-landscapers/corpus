@@ -1,0 +1,8 @@
+{
+  "slug": "2022-11-02-vertiv-hormuud-cable-landing-station-somalia",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Vertiv says it completed Hormuud Telecom's new open-access cable landing station in Somalia, which will accommodate various submarine cables and ease cross-connections for local and global partners.", "as_of": "2022-11-02", "date_precision": "day", "system": "Hormuud cable landing station", "class": "route"}
+  ],
+  "systems": [],
+  "note": "No route is named in service; the release gives no cable or location."
+}

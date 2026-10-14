@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-02-dcd-zaf-oadc-ntt-seven-data-centres-ccsa-approval",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "other",
+   "platform": "",
+   "owner": "consortium incl. WIOCC",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "consortium incl. WIOCC",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "consortium incl. WIOCC",
+   "tiers": ""
+  }
+ ],
+ "note": "Data-centre acquisition; WIOCC consortium membership in cables is stated but not a ZAF route in service."
+}

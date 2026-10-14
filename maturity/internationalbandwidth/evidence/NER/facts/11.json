@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Trans-Saharan Fibre Backbone (DTS/FO), Niger component",
+   "country_label": "Dorsale Transsaharienne \u00e0 Fibre Optique",
+   "class": "other",
+   "platform": "",
+   "owner": "Niger government, AfDB-financed",
+   "tiers": ""
+  }
+ ],
+ "note": "Provisional reception 14 Nov 2025 of 1,031 km of fibre to five neighbours; commercial interconnection described as upcoming, so no route stated in service; open access is only a government aim."
+}

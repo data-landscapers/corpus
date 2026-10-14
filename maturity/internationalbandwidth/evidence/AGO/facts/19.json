@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-29-angola-launches-government-data-center-and-cloud",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Minister of Telecommunications said at the Government Data Center inauguration that the 2Africa international submarine cable has entered operation, strengthening Angola's connectivity; no landing station is named and the document gives no date for the cable's entry into service, so as_of is the publication date.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANGOSAT-2",
+   "country_label": "ANGOSAT-2",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Government Data Center and Cloud",
+   "country_label": "Government Data Center and Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

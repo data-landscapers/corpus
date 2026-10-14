@@ -1,0 +1,58 @@
+{
+ "slug": "2023-11-15-teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capaci",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Teraco says its Durban DB1 data centre has direct access to the Seacom, EASSy and METISS cable systems (three in service routes); 2Africa is described as soon to be deployed.",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Seacom; EASSy; METISS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seacom",
+   "country_label": "Seacom",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EASSy",
+   "country_label": "EASSy",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "METISS",
+   "country_label": "METISS",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Teraco DB1",
+   "country_label": "Teraco DB1",
+   "class": "other",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "Access is at a data centre, not stated as landing-station terms, so no access fact."
+}

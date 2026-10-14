@@ -1,0 +1,58 @@
+{
+ "slug": "2026-04-28-centro-de-dados-do-governo-soberania-digital",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The minister listed among Angola's sector investments the entry into operation of the 2Africa submarine cable, besides the SACS and WACS systems, i.e. three submarine systems in service; no landing stations are named and the date is the article's date.",
+   "as_of": "2026-04-28",
+   "date_precision": "day",
+   "system": "2Africa;SACS;WACS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANGOSAT-2",
+   "country_label": "ANGOSAT-2",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Government Data Center and Cloud",
+   "country_label": "Government Data Center and Cloud",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

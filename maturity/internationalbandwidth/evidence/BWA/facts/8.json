@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-23-botswana-bofinet-international-capacity-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "BoFiNet (Botswana Fibre Networks) announced on 2026-09-23 a long-term international capacity lease with an unnamed South African partner, raising its available international capacity through the Ramatlabama and Pioneer Gate border crossings (both into South Africa) from 300 Gbit/s to 1 Tbit/s; two crossings, one neighbour, so not independent.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "BoFiNet international links via Ramatlabama and Pioneer Gate (South Africa)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BoFiNet international links via Ramatlabama and Pioneer Gate (South Africa)",
+   "country_label": "",
+   "class": "route",
+   "platform": "",
+   "owner": "BoFiNet",
+   "tiers": ""
+  },
+  {
+   "system": "BoFiNet-MTC Namibia cross-border fibre at Mamuno and Ngoma",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "BoFiNet; MTC Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": "Two crossings recorded as two; parent may downgrade to one if a crossing is not a distinct route. Namibia interconnections mentioned only as completed interconnects and a Feb 2026 MoU, no traffic stated."
+}

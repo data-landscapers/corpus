@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,ACE,système de câble sous-marin ACE,route,,Axione Gabon (operator under DSP for ACE-Gabon and SPIN),,2026-05-29-axione-gabon-communique-incident-cable-sous-marin-ace
+GAB,2Africa,2Africa,route,,,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,ACE,Africa Coast to Europe,route,,,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,West Africa cable,Maroc Telecom's West Africa cable,route,,Maroc Telecom,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,SAT-3/WASC,SAT-3/WASC,route,,,,2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,Medusa,Medusa Africa,other,,,"planned to land at Port-Gentil, target 2028",2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,Lopé/national terrestrial backbone,terrestrial fibre backbone,other,,SPIN; Gabon Fiber S.A.,"1,651 km PPP extension planned",2026-09-25-gab-tmafrica-digital-state-oil-base-analysis
+GAB,ACE,Africa Coast to Europe (ace),route,,ACE Gabon (SPIN subsidiary),,2019-01-24-ace-gabon-societe-de-patrimoine-des-infrastructures-numeriques
+GAB,SAT-3,SAT-3,route,,Gabon Telecom,,2019-01-24-ace-gabon-societe-de-patrimoine-des-infrastructures-numeriques
+GAB,ACE,Africa Coast to Europe,route,,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
+GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,other,,SPIN (Société de Patrimoine des Infrastructures Numériques),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
+GAB,BNG-Equatorial Guinea backbone interconnection (Meyo-Kyé–Ebebeyin),interconnexion Meyo-Kyé – Ebebeyin,route,,SPIN / Equatorial Guinea national network,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales

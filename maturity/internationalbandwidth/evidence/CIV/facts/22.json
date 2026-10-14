@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Stellarix data centres (Axian)", "country_label": "", "class": "other", "platform": "", "owner": "Axian", "tiers": ""},
+    {"system": "ST Digital data centres", "country_label": "", "class": "other", "platform": "", "owner": "ST Digital", "tiers": ""}
+  ],
+  "note": "Names Cote d'Ivoire only for data centres and MTN/Bayobab operating there; MTN landing sites on 2Africa are not placed in CIV, so no route or access fact."
+}

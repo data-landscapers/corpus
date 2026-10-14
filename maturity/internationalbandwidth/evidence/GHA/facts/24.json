@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-22-beyond-the-signal-subsea-cables",
+ "facts": [],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "SAT-3",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ACE",
+   "country_label": "ACE",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional piece; the March 2024 WACS, SAT-3 and ACE cut is said to have caused outages in Nigeria and Ghana, but the text does not say these cables land in or carry GHA traffic, so no route fact."
+}

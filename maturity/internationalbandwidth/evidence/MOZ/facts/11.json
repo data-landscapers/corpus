@@ -1,0 +1,26 @@
+{
+  "slug": "2021-12-22-moz-tradegov-mozambique-digital-transformation",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "The US Department of Commerce's International Trade Administration states Mozambique is currently connected to two subsea cables (not named).",
+      "as_of": "2021-12-22",
+      "date_precision": "day",
+      "system": "two subsea cables (unnamed)",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "Facebook",
+      "tiers": ""
+    }
+  ],
+  "note": "2Africa northern landing announced for 2023 to early 2024 is planned, not in service at the document date."
+}

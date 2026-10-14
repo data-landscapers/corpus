@@ -1,0 +1,10 @@
+{
+  "slug": "2022-04-30-ifc-disclosure-46239-seacom-debt-sii",
+  "facts": [],
+  "systems": [
+    {"system": "Seacom subsea cable", "country_label": "", "class": "other", "platform": "", "owner": "Seacom Ltd", "tiers": ""},
+    {"system": "2Africa Cable", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Equiano Cable", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional IFC loan disclosure: Seacom has a presence in Kenya but the document does not state any cable landing or route in service for Kenya, and its open-access remark is generic, not about Kenya."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one",
+     "fact": "SPIN (the Gabonese state infrastructure holder) states that on 10 November 2025 the Gabonese national backbone (BNG) and the Equatorial Guinean national fibre network were inaugurated as physically and logically interconnected at Meyo-Kyé/Ebebeyin, with traffic tested between Bitam and Ebebeyin and between Libreville and Bata, ensuring continuity of international traffic.",
+     "as_of": "2025-11-10", "date_precision": "day",
+     "system": "BNG-Equatorial Guinea backbone interconnection (Meyo-Kyé–Ebebeyin)", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Backbone National Gabonais (BNG)", "country_label": "Backbone National Gabonais", "class": "other", "platform": "", "owner": "SPIN (Société de Patrimoine des Infrastructures Numériques)", "tiers": ""},
+    {"system": "BNG-Equatorial Guinea backbone interconnection (Meyo-Kyé–Ebebeyin)", "country_label": "interconnexion Meyo-Kyé – Ebebeyin", "class": "route", "platform": "", "owner": "SPIN / Equatorial Guinea national network", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,39 @@
+{
+ "slug": "2026-06-11 Can Africa supply it's own digital infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Angola Cables",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "other",
+   "platform": "",
+   "owner": "Paratus (Swakopmund landing station, Namibia)",
+   "tiers": ""
+  },
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Sector analysis: says Angola Cables owns 3 cables incl. SACS but states no landing in or service for AGO; WACS and Equiano landing stations named are in Namibia."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2026-09-08-cpv-caboverde24-cvtelecom-hub-digital-atlantico",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "two",
+      "fact": "Caboverde24, citing Cabo Verde Telecom, reports that three international submarine cable systems, WACS, EllaLink and SHARE, currently reach Praia, with direct routes to Lisbon, West Africa and Fortaleza (Brazil); all at Praia, so not independent.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "WACS; EllaLink; SHARE",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "WACS",
+      "country_label": "WACS",
+      "class": "route",
+      "platform": "",
+      "owner": "Consortium",
+      "tiers": ""
+    },
+    {
+      "system": "EllaLink",
+      "country_label": "EllaLink",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SHARE",
+      "country_label": "SHARE",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "CVTelecom says it wants to build a neutral, open interconnection platform; an ambition, not a stated open-access fact, so no access fact."
+}

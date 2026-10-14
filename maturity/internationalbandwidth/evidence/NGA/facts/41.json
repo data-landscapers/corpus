@@ -1,0 +1,42 @@
+{
+  "slug": "2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "one",
+      "fact": "DataCenterDynamics reports Digital Realty's LKK1 facility in Lekki, Lagos serves as the cable landing station for the 2Africa subsea cable; the document gives no go-live date, so the publication date is used.",
+      "as_of": "2025-08-25",
+      "date_precision": "day",
+      "system": "2Africa",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "LKK1",
+      "country_label": "LKK1",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    },
+    {
+      "system": "LKK2",
+      "country_label": "LKK2",
+      "class": "other",
+      "platform": "",
+      "owner": "Digital Realty",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

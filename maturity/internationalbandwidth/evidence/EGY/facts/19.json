@@ -1,0 +1,244 @@
+{
+  "slug": "2025-01-10-telecom-egypt-digital-hub-brochure",
+  "facts": [
+    {
+      "sub_indicator": "routes",
+      "aspect": "routes",
+      "value": "independent",
+      "fact": "Telecom Egypt's brochure says it owns and operates 10 in-service subsea landing stations (Abu Talat 1, Abu Talat 2, Alexandria, Hod el Dars, Port Said 1, Ras Ghareb, Sidi Kerir, Suez, Zafarana 1, Zafarana 2) and its network connects 12 subsea systems from the East and 14 from the West, so routes land at different stations on the Red Sea and Mediterranean coasts; brochure dated 2025-01-10 (PDF creation date).",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Telecom Egypt landing stations and subsea systems",
+      "class": "route"
+    },
+    {
+      "sub_indicator": "routes",
+      "aspect": "access",
+      "value": "open",
+      "fact": "Telecom Egypt describes WeConnect as an open, neutral, transparent ecosystem for cross-connecting subsea cable systems landing at different Egyptian stations, with international operators, local ISPs and cloud/OTT players listed as clients, and describes its Smart Village data hub as open access; brochure dated 2025-01-10.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "WeConnect",
+      "class": "route"
+    }
+  ],
+  "systems": [
+    {
+      "system": "2Africa",
+      "country_label": "2Africa",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "AAE-1",
+      "country_label": "AAE-1",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "ALETAR/BERYTAR",
+      "country_label": "ALETAR/BERYTAR",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "EIG",
+      "country_label": "EIG",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Equiano",
+      "country_label": "Equiano",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "FALCON/HAWK",
+      "country_label": "FALCON/HAWK",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "FLAG Europe-Asia",
+      "country_label": "FLAG Europe-Asia",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "GBI",
+      "country_label": "GBI",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "IMEWE",
+      "country_label": "IMEWE",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MENA",
+      "country_label": "MENA",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "PEACE",
+      "country_label": "PEACE",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SEACOM/Tata TGN-Eurasia",
+      "country_label": "SEACOM/Tata TGN-Eurasia",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SeaMeWe-4",
+      "country_label": "SeaMeWe-4",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SeaMeWe-5",
+      "country_label": "SeaMeWe-5",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "TE North",
+      "country_label": "TE North",
+      "class": "route",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Africa-1",
+      "country_label": "Africa-1",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Coral Bridge",
+      "country_label": "Coral Bridge",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "EAGLE",
+      "country_label": "EAGLE",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "ICE IV Project",
+      "country_label": "ICE IV Project",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "IEX",
+      "country_label": "IEX",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Medusa",
+      "country_label": "Medusa",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "SeaMeWe-6",
+      "country_label": "SeaMeWe-6",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Egypt-Sudan Terrestrial Cable",
+      "country_label": "Egypt-Sudan Terrestrial Cable",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Egypt-Libya Terrestrial Cable",
+      "country_label": "Egypt-Libya Terrestrial Cable",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "Taba-Aqaba",
+      "country_label": "Taba-Aqaba",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "WeConnect",
+      "country_label": "WeConnect",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    },
+    {
+      "system": "EG-IX",
+      "country_label": "EG-IX",
+      "class": "other",
+      "platform": "",
+      "owner": "Telecom Egypt",
+      "tiers": ""
+    }
+  ],
+  "note": "Terrestrial cross-border links to Sudan, Libya and Jordan are listed without in-service status, so no fact; planned systems and landing stations are class other."
+}

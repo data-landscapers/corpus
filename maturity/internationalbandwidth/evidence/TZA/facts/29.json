@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-10-communications-sector-surges-400pc",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Daily News, citing TCRA data, reports that international fibre optic submarine cables landing in Tanzania rose from two to three between March 2021 and December 2025, without naming them.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "submarine cables (unnamed)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTBB",
+   "country_label": "National ICT Backbone",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Count-only route statement; NICTBB and data centres are not routes."
+}

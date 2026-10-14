@@ -1,0 +1,26 @@
+{
+ "slug": "2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Ecofin reports Liquid Intelligent Technologies acquired a fibre pair (up to 12 Tbps) on Google's Equiano cable, which landed in Togo days earlier.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": "Cable not yet operational at the time of the article, so no routes fact."
+}

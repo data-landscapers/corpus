@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-12-agenceecofin-centrafrique-rdc-fibre-link",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Agence Ecofin (12 Oct 2026) states the Central African Republic has two terrestrial fibre links to neighbours today, through Cameroon and through Congo-Brazzaville, carried on the Central African Backbone (about 935 km of fibre) and reaching the submarine cables.", "as_of": "2026-10-12", "date_precision": "day", "system": "Central African Backbone (CAB) via Cameroon and Congo-Brazzaville", "class": "route"}
+  ],
+  "systems": [
+    {"system": "Central African Backbone (CAB)", "country_label": "Central African Backbone", "class": "route", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CAR-DRC fibre interconnection to Moanda landing (2Africa, WACS)", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CAR-South Sudan interconnection", "country_label": "", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "DRC link agreed in principle 8 Oct 2026, no timetable or financing, so not a fact; March 2026 vandalism damaged segments, no route stated cut."
+}

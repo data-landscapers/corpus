@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-03 Submarine cables serving Africa",
+  "facts": [
+    {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The Data Landscapers cable factsheet (AI-compiled, flagged as working analysis) lists SAT-3/WASC as in service with a landing at Cacuaco, Angola, as of 2026-06-03; it notes the cable is approaching end of design life (2026).", "as_of": "2026-06-03", "date_precision": "day", "system": "SAT-3/WASC", "class": "route"}
+  ],
+  "systems": [
+    {"system": "SAT-3/WASC", "country_label": "", "class": "route", "platform": "", "owner": "Consortium (36 operators)", "tiers": ""},
+    {"system": "WACS", "country_label": "West Africa Cable System", "class": "other", "platform": "", "owner": "Consortium (14 members incl. Angola Cables)", "tiers": ""},
+    {"system": "2Africa", "country_label": "", "class": "other", "platform": "", "owner": "Meta-led consortium", "tiers": ""},
+    {"system": "Equiano", "country_label": "", "class": "other", "platform": "", "owner": "Google", "tiers": ""}
+  ],
+  "note": "WACS, 2Africa and Equiano landing lists do not name Angola, so no Angola fact is taken for them; the open_access column is a cable-wide flag, not a dated Angola statement."
+}
