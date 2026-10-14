@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: SEN
-ledger_rows: 56
+ledger_rows: 57
 not_held: 3
-record: 357dc91db55d
+record: 786d24741377
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -64,6 +64,8 @@ The commitment was presented to the president in Washington on 14 September: [Cy
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site. The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
+
+[PASSANT, a project supporting the territorial digital-planning strategy contracted to LITEYCA SL for 50 billion FCFA under Banco Santander financing, is among the programmes named in a proposal for a parliamentary commission of inquiry filed on 13 October](https://lesoleil.sn/actualites/politique/session-parlementaire-2026-2027-cinq-propositions-de-commissions-denquete-a-letude/); the Assembly's Bureau has yet to rule on admissibility.
 <!-- /narrative -->
 ### Data Storage
 

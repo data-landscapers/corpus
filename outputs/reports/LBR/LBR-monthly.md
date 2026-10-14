@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: LBR
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: 956954da5071
+record: 3c45611b2974
 ---
 
 # Liberia: monthly update, September – October 2026
@@ -95,6 +95,8 @@ The credit reference arrangement is now in court. A private bureau licensed in N
 
 <!-- narrative: dpi--dpi-mis -->
 A private company [said its offline-first electronic health record went into clinical use on 1 September and reached seven clinics and health centres across Liberia and Ghana in about three weeks](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html), with the national public health institute as its surveillance partner. No link to the national health information system is on record.
+
+The gender ministry [launched an upgraded gender-based violence information management system for incident reporting, survivor case management and referrals, built with UNFPA technical assistance under the EU-backed Spotlight Initiative](https://www.liberianobserver.com/news/govt-launches-upgraded-gbv-information-system-to-strengthen-survivor-services/article_95c91077-4acf-47df-9300-fb0810de1998.html), reported 14 October. No case, user or county coverage figure is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: ZWE
-ledger_rows: 37
+ledger_rows: 38
 not_held: 7
-record: 97e4ad5ec582
+record: 6279be834862
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -66,6 +66,8 @@ The listed tower company [reported a 30% reduction in fuel consumption for the h
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 An industrial automation firm [announced on 1 September 2026 the completion of a security and modernisation project on the control networks of a platinum mine](https://tech.africa/rockwell-mimosa-mine-ot-security/), covering network architecture, segmentation and controlled access.
+
+The ICT minister [opened a multi-agency investigation, including the police cyber crime division, into a wave of WhatsApp Business account takeovers she called unprecedented](https://itweb.africa/article/govt-probes-mass-whatsapp-takeovers-in-zimbabwe/KPNG8v8NYVPM4mwD), reported 14 October; it is examining whether personal or financial data was compromised and the role of SMS aggregators. No count of affected accounts is published.
 <!-- /narrative -->
 
 ## DPI

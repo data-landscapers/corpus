@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: TUN
-ledger_rows: 57
+ledger_rows: 58
 not_held: 5
-record: 48835985ce9a
+record: ba90eee8488f
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -146,6 +146,8 @@ At a finance-ministry seminar on 29 September the director general of the nation
 
 <!-- narrative: capacity--capacity-training -->
 [The first of twelve artificial-intelligence laboratories planned for vocational training centres in 2026-2027 was set up at the Kef centre, in partnership with the state operator](https://www.webdo.tn/fr/actualite/national/formation-professionnelle-le-kef-accueille-son-premier-laboratoire-dia-en-partenariat-avec-tunisie-telecom/404244/), announced by the minister on 17 September. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
+
+On 14 October the employment ministry [signed a five-year renewable framework with the state operator to connect employment offices and training centres by fibre, install AI laboratories in vocational centres and run distance training from the operator's national data centre](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155931-%D8%A7%D9%85%D8%B6%D8%A7%D8%A1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A). No budget, site count or timetable is stated.
 <!-- /narrative -->
 
 ## Data

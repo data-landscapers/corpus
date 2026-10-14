@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: LBY
 ledger_rows: 35
 not_held: 4
-record: 092adfb4f95d
+record: b5b5ef38e133
 ---
 
 # Libya: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 092adfb4f95d
 ## Summary of the month
 
 <!-- narrative: summary -->
-The Attorney General's Office [ordered two National Oil Corporation officials into pre-trial detention over leaked oil-sector data](https://libyaherald.com/2026/10/noc-officials-in-pre-trial-detention-for-leaking-sensitive-oil-related-data/). The central bank [reported about 1.75 million of 2.2 million public employees registered on its real-time payroll system](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/). A decree of 14 September [made registration on the unified digital trade system compulsory for importers and exporters](https://libyaherald.com/2026/09/mandatory-registration-of-importers-exporters-in-unified-digital-system-for-trade-pts-announced-by-ministry-of-economy), and [work began on an integrated national cybersecurity plan on 20 September](https://lana.gov.ly/post.php?id=365878&lang=ar).
+The Attorney General [said a data review had found more than 315,000 national numbers granted in breach of the law](https://alwasat.ly/news/481422). The Attorney General's Office [ordered two National Oil Corporation officials into pre-trial detention over leaked oil-sector data](https://libyaherald.com/2026/10/noc-officials-in-pre-trial-detention-for-leaking-sensitive-oil-related-data/). The central bank [reported about 1.75 million of 2.2 million public employees registered on its real-time payroll system](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/). A decree of 14 September [made registration on the unified digital trade system compulsory for importers and exporters](https://libyaherald.com/2026/09/mandatory-registration-of-importers-exporters-in-unified-digital-system-for-trade-pts-announced-by-ministry-of-economy), and [work began on an integrated national cybersecurity plan on 20 September](https://lana.gov.ly/post.php?id=365878&lang=ar).
 <!-- /narrative -->
 
 ## Governance
@@ -77,7 +77,9 @@ Work [opened on 20 September on an integrated national cybersecurity plan](https
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468), against more than 89,000 forged national numbers in the last official count.
+The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468).
+
+The Attorney General [said on 13 October that a data review had found more than 315,000 national numbers granted in breach of the law and more than 10,000 passports issued on forged data, with 8,662 numbers suspended and LYD 84.5m in salaries and pensions frozen](https://alwasat.ly/news/481422). [The review found the civil-registry and national-number databases disagree with each other and with the voter register](https://alwasat.ly/news/481422).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: NAM
-ledger_rows: 31
+ledger_rows: 32
 not_held: 9
-record: 95715c35e4cd
+record: 346f8a73c11d
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 95715c35e4cd
 ## Summary of the month
 
 <!-- narrative: summary -->
-A National Artificial Intelligence Institute [was launched in Windhoek on 23 September](https://www.namibian.com.na/national-ai-institute-launched/), where the ICT minister said [construction of a national data centre has begun](https://neweralive.na/ncrst-opens-national-ai-institute/). The national incident response team [confirmed a ransomware attack on the defence force](https://technews.com.na/2026/09/20/namibias-defence-ministry-hit-by-double-extortion-ransomware-attack/). The statistics agency [launched a labour market information system on 24 September](https://www.nampa.org/text/23024267), and the mobile operator [extended its 5G network to five more towns](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/).
+A National Artificial Intelligence Institute [was launched in Windhoek on 23 September](https://www.namibian.com.na/national-ai-institute-launched/), where the ICT minister said [construction of a national data centre has begun](https://neweralive.na/ncrst-opens-national-ai-institute/). The national incident response team [confirmed a ransomware attack on the defence force](https://technews.com.na/2026/09/20/namibias-defence-ministry-hit-by-double-extortion-ransomware-attack/). The statistics agency [launched a labour market information system on 24 September](https://www.nampa.org/text/23024267), and the mobile operator [extended its 5G network to five more towns](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). The Auditor-General [found child grants paid to over-age, duplicate and deceased beneficiaries in 2024/25](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/).
 <!-- /narrative -->
 
 ## Governance
@@ -88,8 +88,9 @@ The system acquired a public name. The instant payment solution is [carried publ
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-
 [The home affairs minister told the National Assembly that some marriages remain unregistered because church and court registers reach the ministry late or never, a gap the records digitalisation begun in 2021 exposed](https://www.namibian.com.na/home-affairs-minister-iipumbu-urges-married-couples-to-ensure-they-are-registered/). The system relies on physical submission and does not track delivery.
+
+The Auditor-General's report on 2024/25, reported 13 October, [found 32,890 beneficiaries aged 19-21 still receiving child grants at about N$250m a year, 3,350 duplicate child records with N$28.8m paid twice, and over N$43m paid to deceased recipients](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/). The audit could not establish what was recovered.
 <!-- /narrative -->
 ### Sectoral management information systems
 

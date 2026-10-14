@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: ZMB
-ledger_rows: 41
+ledger_rows: 42
 not_held: 43
-record: 94a061a5cb9f
+record: 7bb0f23596e5
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -78,6 +78,8 @@ A mobile operator is [acquiring about 1,300 km of fibre from a related company i
 
 <!-- narrative: dpi--dpi-exchange -->
 A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe. Bids for the redesign of the Government Service Bus [were evaluated and under the lender's review at June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+
+The regional motor insurance scheme is [piloting online sale of its cross-border Yellow Card in Zambia this year, ahead of a wider rollout, alongside phone-based certificate verification in eight member countries](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

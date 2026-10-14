@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: XWA
-ledger_rows: 25
+ledger_rows: 26
 not_held: 1
-record: 1bea6a824d32
+record: e90b9b7c77c4
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -41,6 +41,8 @@ The region's data-protection authorities met rather than legislated. Senegal's p
 The monetary union's Commission has a draft of its own. [It presented a regional AI strategy to journalists on 14 September](https://www.horonyafinance.com/intelligence-artificielle-luemoa-prepare-une-strategie-regionale-pour-accelerer-la-transformation-economique-de-lunion/), built on four pillars from governance and regulation to innovation finance, with regional compute centres, a sovereign cloud, a regional AI academy and an innovation fund among its instruments; no adoption date or published text is held.
 
 Electoral administration opened a third track. The ECOWAS political affairs directorate [has set up, through the network of electoral commissions, a West Africa Working Group on AI to develop a framework guiding election management bodies on its use](https://thenationonlineng.net/ecowas-high-cost-of-politics-shutting-out-west-african-youths/), its director said on 23 September; the working group's establishment date, membership and timetable are not stated.
+
+The network of electoral commissions [adopted guidelines on the use of AI in electoral processes after a validation meeting on 12 and 13 October, and discussed implementing them with Nigeria's electoral commission](https://dailytrust.com/inec-moves-to-implement-ai-guidelines-for-elections/); the text is not published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

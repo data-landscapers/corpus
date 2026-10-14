@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: TZA
-ledger_rows: 70
+ledger_rows: 71
 not_held: 5
-record: 2de6865b3019
+record: 8cd9b87e90ea
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -75,6 +75,8 @@ The regulator scored quality for the quarter to June 2026: [the state operator h
 The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
 The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
+
+The regulator [gave providers 30 days to fix unsafe cable installations, damaged poles and unmarked plant found in inspections, and now requires its prior approval before any new fibre-optic installation](https://techafricanews.com/2026/10/14/tanzania-tcra-telecom-providers-30-days-fix-infrastructure-faults/), reported 14 October; some providers must also file complete GIS maps of their networks.
 <!-- /narrative -->
 ### Data Storage
 

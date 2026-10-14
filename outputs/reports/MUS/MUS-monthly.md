@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: MUS
-ledger_rows: 24
+ledger_rows: 25
 not_held: 7
-record: 3d3a56b37d1e
+record: 3f9e18baa706
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -77,6 +77,11 @@ Figures presented at a government workshop on 7 October put [reported security i
 
 <!-- narrative: dpi--dpi-id -->
 The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published. The ICT minister [said a driver without a smartphone may go on showing the original physical licence after 1 January 2027, and put MauPass registrations at 500,000](https://lexpress.mu/node/563226); the digital licence carries a QR code the police will use to check authenticity.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The central bank governor, in a speech of 15 July published on 13 October, said [the Bank of Mauritius serves as settlement bank for COMESA's Regional Payment and Settlement System](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: XSA
-ledger_rows: 11
+ledger_rows: 12
 not_held: 2
-record: eb5868a82d53
+record: 56e1431a4dfd
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -42,6 +42,8 @@ COMESA's work then reached validation: member states, the African Union and the 
 
 <!-- narrative: systems--dpi-exchange -->
 Five Southern African customs administrations [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August 2026](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), to exchange trade information before consignments reach the border, phased from priority corridors and building on links already running between Zambia and Malawi and between Zambia and Zimbabwe.
+
+The COMESA Yellow Card motor insurance scheme [is piloting online sale of its cards in Zambia in 2026 and expanding phone-based verification, now in eight countries, on data shared among member states; it issued more than 340,000 cards in 2025](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

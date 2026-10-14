@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: MDG
-ledger_rows: 27
+ledger_rows: 28
 not_held: 5
-record: 0de2f451eb0f
+record: a8066a4f8b58
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -98,6 +98,11 @@ The government outsourcing-skills programme [certified 99 of the 111 trainees in
 
 <!-- narrative: capacity--capacity-literacy -->
 The vocational training ministry [signed a partnership with France's Pix public-interest group on 11 September to develop and certify young people's digital skills, including exam centres, trainer training and a study of putting Pix into vocational curricula](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes). No candidate target, cost or start date is given.
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The technical and vocational training ministry [signed a partnership with the operator Orange on 8 October to develop digital-skills training frameworks and align vocational training with labour-market demand](https://techafricanews.com/2026/10/14/madagascar-orange-digital-skills-vocational-training/). No budget, target or start date is stated.
 <!-- /narrative -->
 
 ## Inclusion
