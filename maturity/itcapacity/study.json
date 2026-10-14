@@ -1,0 +1,163 @@
+{
+ "id": "itcapacity",
+ "study_file": "maturity-study-itcapacity.md",
+ "subjects": [
+  "infra.capacity",
+  "dpi.govtech"
+ ],
+ "stage_topic": "infra.capacity",
+ "redraws": [
+  "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems"
+ ],
+ "carry": [
+  "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 50000000,
+ "terms": [
+  "in-house",
+  "developed in house",
+  "built in house",
+  "developed locally",
+  "locally developed",
+  "locally built",
+  "home-grown system",
+  "homegrown system",
+  "local developers",
+  "own engineers",
+  "government developers",
+  "government ICT officers",
+  "government IT staff",
+  "ICT cadre",
+  "IT cadre",
+  "ICT professionals in the public service",
+  "scheme of service",
+  "ICT directorate",
+  "government ICT agency",
+  "national IT agency",
+  "national information technology agency",
+  "e-government agency",
+  "e-government authority",
+  "government digital service",
+  "digital skills for civil servants",
+  "digital skills for public servants",
+  "public sector digital skills",
+  "capacity building of ICT staff",
+  "developpe en interne",
+  "developpe localement",
+  "concu en interne",
+  "solution locale",
+  "competences nationales",
+  "expertise nationale",
+  "ingenieurs nationaux",
+  "informaticiens de l'Etat",
+  "informaticiens de l'administration",
+  "corps des informaticiens",
+  "cadres informaticiens",
+  "agence nationale des systemes d'information",
+  "agence de l'informatique de l'Etat",
+  "centre national de l'informatique",
+  "direction des systemes d'information",
+  "desenvolvido internamente",
+  "desenvolvido localmente",
+  "quadros nacionais",
+  "tecnicos nacionais",
+  "informaticos do Estado",
+  "تطوير محلي",
+  "كفاءات وطنية",
+  "المركز الوطني للإعلامية",
+  "ICT Authority",
+  "ICTA",
+  "National Information Technology Authority",
+  "NITA-U",
+  "e-Government Agency",
+  "eGA",
+  "Rwanda Information Society Authority",
+  "RISA",
+  "State Information Technology Agency",
+  "Agence nationale des infrastructures numeriques et des frequences",
+  "ANINF",
+  "NOSi",
+  "Nucleo Operacional da Sociedade de Informacao",
+  "Centre National de l'Informatique",
+  "Societe nationale de developpement informatique",
+  "SNDI",
+  "AGETIC",
+  "ANPTIC",
+  "Agence des systemes d'information et du numerique",
+  "Galaxy Backbone",
+  "SMART Zambia",
+  "Department of Information Communications Technology",
+  "Senegal Numerique",
+  "Agence de l'informatique de l'Etat"
+ ],
+ "sub_indicators": [
+  {
+   "key": "inhouse",
+   "label": "In-house capacity",
+   "subject": "infra.capacity",
+   "text": "Local capacity to maintain, manage and develop government systems: government's own technical staff building and running its systems",
+   "indicator_id": "infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems-in-house-capacity",
+   "class": "staff",
+   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 21, asks for systematic capacity development across the public service; the Digital Transformation Strategy asks for skills built in state institutions."
+  }
+ ],
+ "classes": [
+  "staff",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "inhouse",
+   "name": "Government staff run or maintain a government system",
+   "role": "coverage",
+   "defer": [
+    "outsourced"
+   ],
+   "prefer": [
+    "yes"
+   ],
+   "values": [
+    "yes",
+    "outsourced"
+   ]
+  },
+  {
+   "key": "agency",
+   "name": "A government technology body runs systems for other bodies",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "operating"
+   ],
+   "values": [
+    "operating"
+   ]
+  },
+  {
+   "key": "built",
+   "name": "A government team built a system that went live in the window",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "live"
+   ],
+   "values": [
+    "live"
+   ]
+  },
+  {
+   "key": "cadre",
+   "name": "A government IT cadre or scheme of service adopted",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "adopted"
+   ],
+   "values": [
+    "adopted"
+   ]
+  }
+ ],
+ "flags": []
+}
