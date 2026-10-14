@@ -1,0 +1,166 @@
+{
+ "id": "coresystems",
+ "study_file": "maturity-study-coresystems.md",
+ "subjects": [
+  "infra.capacity",
+  "dpi.mis",
+  "dpi.govtech"
+ ],
+ "stage_topic": "infra.capacity",
+ "redraws": [
+  "infra.capacity--robustness-of-government-hardware-and-software"
+ ],
+ "carry": [
+  "infra.capacity--robustness-of-government-hardware-and-software"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "IFMIS",
+  "GIFMIS",
+  "IFMS",
+  "FMIS",
+  "integrated financial management information system",
+  "financial management information system",
+  "integrated financial management system",
+  "public finance management system",
+  "public financial management system",
+  "budget management system",
+  "treasury system",
+  "e-SISTAFE",
+  "SISTAFE",
+  "SIGFE",
+  "SIGFIP",
+  "SIGFiP",
+  "tax administration system",
+  "integrated tax administration system",
+  "ITAS",
+  "revenue management system",
+  "integrated revenue management",
+  "tax management system",
+  "iTax",
+  "e-tax system",
+  "HRMIS",
+  "IPPIS",
+  "human resource management information system",
+  "human capital management system",
+  "payroll system",
+  "payroll management system",
+  "government payroll",
+  "public service payroll",
+  "civil service payroll",
+  "integrated personnel and payroll",
+  "enterprise architecture",
+  "government enterprise architecture",
+  "core government systems",
+  "government systems outage",
+  "systeme integre de gestion des finances publiques",
+  "systeme d'information des finances publiques",
+  "systeme d'information budgetaire",
+  "systeme de gestion de la paie",
+  "fichier de la paie",
+  "logiciel de paie",
+  "systeme integre de gestion des ressources humaines",
+  "SIGRH",
+  "architecture d'entreprise",
+  "systeme d'information fiscale",
+  "sistema integrado de gestao financeira",
+  "sistema de administracao financeira",
+  "folha de salarios",
+  "folha salarial",
+  "sistema de gestao de recursos humanos",
+  "نظام إدارة المعلومات المالية",
+  "نظام الرواتب",
+  "المنظومة المالية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "core",
+   "label": "Core government systems",
+   "subject": "infra.capacity",
+   "text": "Robustness of government hardware and software: the core systems that run public money, tax and the payroll",
+   "indicator_id": "infra.capacity--robustness-of-government-hardware-and-software-core-government-systems",
+   "class": "core",
+   "norm_short": "The African Charter on the Values and Principles of Public Service, Art. 8, asks that modern technologies support public service delivery; the Digital Transformation Strategy asks for mission-critical systems hosted to a standard."
+  }
+ ],
+ "classes": [
+  "core",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "finance",
+   "name": "The financial management system in use",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inuse"
+   ],
+   "values": [
+    "inuse",
+    "down",
+    "none"
+   ]
+  },
+  {
+   "key": "revenue",
+   "name": "The tax system in use",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inuse"
+   ],
+   "values": [
+    "inuse",
+    "down",
+    "none"
+   ]
+  },
+  {
+   "key": "payroll",
+   "name": "The payroll in use",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inuse"
+   ],
+   "values": [
+    "inuse",
+    "down",
+    "none"
+   ]
+  },
+  {
+   "key": "renewed",
+   "name": "One of the three live on a new or upgraded system in the window",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "live"
+   ],
+   "values": [
+    "live"
+   ]
+  },
+  {
+   "key": "architecture",
+   "name": "An enterprise architecture or systems inventory published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}
