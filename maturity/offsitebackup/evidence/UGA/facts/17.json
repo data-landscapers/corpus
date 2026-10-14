@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30",
+  "facts": [],
+  "systems": [
+    {"system": "Disaster Recovery site in Jinja (under UDAP), planned with a third National Data Centre, primary at Entebbe", "country_label": "Uganda", "class": "backupsite", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "National Data Centre (NDC)", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "The plan lists establishing a Disaster Recovery site in Jinja as a planned intervention, not one in service; its business continuity plan mentions concern remote working and a plan still to be developed, not backup."
+}

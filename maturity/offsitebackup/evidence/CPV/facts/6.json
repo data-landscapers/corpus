@@ -1,0 +1,9 @@
+{
+  "slug": "2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center 1 (DC1), Technology Park, Praia", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "Government", "tiers": ""},
+    {"system": "Data Center III (DC3), Technology Park, Sao Vicente (Mindelo)", "country_label": "Cabo Verde", "class": "backupsite", "platform": "", "owner": "Government, managed solely by the Government", "tiers": "Tier-3 stated as a project output target for the park's data centers"}
+  ],
+  "note": "The appraisal (Oct 2022) says DC3 in Mindelo will be the disaster-recovery site for government data, with its equipment still to be bought under the loan: planned, not in service, so no site fact; the Tier-3 and business-continuity-strategy lines are targets, not a stated Tier of main and backup sites or a plan in place."
+}

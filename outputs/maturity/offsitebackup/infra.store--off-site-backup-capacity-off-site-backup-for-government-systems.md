@@ -130,7 +130,7 @@ Not established: No source held names a backup site 200 km or more from the main
 
 No backup site 200 km or more from the main one is held, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
+Not established: No source held names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Tunisia: Unplaced
 

@@ -1,0 +1,9 @@
+{
+  "slug": "2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center 1 (DC1), Technology Park, Praia", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "Government", "tiers": ""},
+    {"system": "Data Center 3 (DC3), Technology Park, Sao Vicente (Mindelo)", "country_label": "Cabo Verde", "class": "backupsite", "platform": "", "owner": "Government (Technology Park project)", "tiers": ""}
+  ],
+  "note": "DC3 in Sao Vicente (Mindelo) is described as one that will function as Disaster Recovery for the main data centre in Praia, with construction wrapping up in Oct 2022: planned, not in service, so no fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-12-malawi-dmap-tor-national-data-centre-managed-services",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "tier", "value": "both",
+     "fact": "The terms of reference state that the National Data Centre in Area 4, Lilongwe (primary site) and the disaster-recovery site at Mandala, Blantyre are both Tier-III facilities; the main facility was expected to be fully operational in March 2025; the document is dated January 2025.",
+     "as_of": "2025-01", "date_precision": "month", "system": "National Data Centre and DR site", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)", "country_label": "Malawi", "class": "backupsite", "platform": "Nutanix NX-3460-G7 HCI", "owner": "Government of Malawi (Department of e-Government)", "tiers": "Tier III (primary and DR)"}
+  ],
+  "note": "Disaster recovery planning and DR test reports are contracted future deliverables of the managed-services consultant, not a plan or test on record; the DR site is not stated to be in service."
+}

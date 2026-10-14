@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Center", "country_label": "Liberia", "class": "other", "platform": "", "owner": "Ministry of Posts and Telecommunications, hosted at LTC-Mobile", "tiers": ""},
+    {"system": "Tier III+ facility, Buchanan", "country_label": "Liberia", "class": "other", "platform": "", "owner": "", "tiers": "Tier III+ (under development)"}
+  ],
+  "note": "The policy only commits the government to a national data centre with disaster recovery and business continuity mechanisms; no backup site in service, no plan or test, no dated statement of absence (GovNet 'inadequate backup systems' is undated and not a no-site statement)."
+}

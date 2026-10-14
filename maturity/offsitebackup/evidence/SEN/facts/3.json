@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-21-sonatel-group-annual-report-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Sonatel Medina site (Rumba secondary site)", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Sonatel (telecom operator)", "tiers": ""}
+  ],
+  "note": "Sonatel is a telecom operator, not a public body; the passages mention its business continuity plans, fallback sites and a Medina secondary site project with no government systems named, so no backupsite fact."
+}

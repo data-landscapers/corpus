@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-updated-esmp-government-data-centre-dmap",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)", "country_label": "Malawi", "class": "backupsite", "platform": "", "owner": "Government of Malawi (Department of e-Government)", "tiers": ""}
+  ],
+  "note": "The Blantyre DR site is described in the future tense (will have identical equipment; counterpart DR infrastructure and dark-fibre link to be supplied under DMAP), so no site in service is stated; main in Lilongwe, backup in Mandala, Blantyre."
+}

@@ -1,0 +1,8 @@
+{
+ "slug": "2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation",
+ "facts": [
+  {"sub_indicator": "backup", "aspect": "site", "value": "shared", "fact": "The communications department's presentation to Parliament says SITA operates two national data centres hosting mission-critical government systems, Centurion as primary and Beta as secondary, both in Pretoria; main site in Centurion (Pretoria), backup at Beta (Pretoria).", "as_of": "2026-02-24", "date_precision": "day", "system": "SITA Beta data centre (secondary)", "class": "backupsite"}
+ ],
+ "systems": [],
+ "note": "Added by the parent: a carried document the drafters did not reopen."
+}

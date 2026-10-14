@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared",
+     "fact": "The MoCDTI request for bids issued 12 June 2026 describes the Government's National Data Center as a Primary Data Center in Accra and a Secondary Data Center in Kumasi, both existing and to be refreshed (main site in Accra, backup in Kumasi); the document does not call the Kumasi site a backup or disaster-recovery site by name.",
+     "as_of": "2026-06", "date_precision": "month",
+     "system": "National Data Center (Primary in Accra, Secondary in Kumasi)", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Center (Primary, Accra)", "country_label": "Ghana", "class": "", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": ""},
+    {"system": "National Data Center (Secondary, Kumasi)", "country_label": "Ghana", "class": "backupsite", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": ""}
+  ],
+  "note": "Tender for refresh and upgrade; the contract is not in service, but the Accra and Kumasi centres it refreshes are stated as existing. No plan, test or Tier statement about the backup."
+}

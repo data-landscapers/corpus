@@ -2,4 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,MRA secondary data centre,Malawi,backupsite,,Malawi Revenue Authority,,2026-08-14-malawi-mra-backup-data-centre-world-bank
 MWI,"National Data Centre, Lilongwe",Malawi,,,Department of e-Government,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
 MWI,Disaster recovery site / Blantyre Data Centre,Malawi,backupsite,,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,National Data Centre DR Site,Malawi,backupsite,"Nutanix HCI, 7 nodes, Veeam backup",Government of Malawi (Department of e-Government),Tier III (DR site),2026-06-11-pppc-expansion-of-national-data-centre-rfb
+MWI,"National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)",Malawi,backupsite,,Government of Malawi (Department of e-Government),,2025-08-01-updated-esmp-government-data-centre-dmap
 MWI,"National Data Centre, Lilongwe",Malawi,,,Department of e-Government,,2025-06-27-dmap-tors-data-centre-cloud-architect
+MWI,"National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)",Malawi,backupsite,Nutanix NX-3460-G7 HCI,Government of Malawi (Department of e-Government),Tier III (primary and DR),2025-02-12-malawi-dmap-tor-national-data-centre-managed-services

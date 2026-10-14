@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-03 The system's crashed. Where's the backup",
+  "facts": [],
+  "systems": [
+    {"system": "Microsoft Azure South Africa West (Cape Town)", "country_label": "South Africa", "class": "other", "platform": "Microsoft Azure", "owner": "Microsoft (commercial provider)", "tiers": ""}
+  ],
+  "note": "Analysis of commercial cloud regions and data centres; states no public body's backup site, plan, test or Tier for South Africa's government."
+}

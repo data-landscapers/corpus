@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-minict-rwanda-ict-sector-strategic-plan-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Center (NDC)", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Plan only lists 'Backup and Disaster Recovery' as a priority (Priority 19, establish comprehensive backup and disaster recovery systems) and 'invest in building and upgrading secure data centers'; no backup site in service, no place, plan, test or Tier stated."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-11-pppc-expansion-of-national-data-centre-rfb",
+  "facts": [
+    {"sub_indicator": "backup", "aspect": "site", "value": "shared",
+     "fact": "The Request for Bids for expanding the National Data Centre describes the existing DR site as a hot site in Blantyre, about 320 km from the production site, mirroring the production site's data over a 10Gbps fibre link; main site place not stated; no date of the state is given, so the document's published date is used.",
+     "as_of": "2026-06-11", "date_precision": "day", "system": "National Data Centre DR Site", "class": "backupsite"}
+  ],
+  "systems": [
+    {"system": "National Data Centre DR Site", "country_label": "Malawi", "class": "backupsite", "platform": "Nutanix HCI, 7 nodes, Veeam backup", "owner": "Government of Malawi (Department of e-Government)", "tiers": "Tier III (DR site)"}
+  ],
+  "note": ""
+}

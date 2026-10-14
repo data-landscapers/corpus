@@ -1,0 +1,8 @@
+{
+  "slug": "2021-07-07-sonatel-group-annual-report-2020",
+  "facts": [],
+  "systems": [
+    {"system": "Sonatel Rufisque Datacenter", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Sonatel (telecom operator)", "tiers": "Tier III Design and Constructed Facility (Uptime Institute), to 2021-12-04"}
+  ],
+  "note": "Only Sonatel's own commercial Rufisque data centre (Tier III certified) and its business continuity coordination appear; no government backup site, plan or test is stated."
+}

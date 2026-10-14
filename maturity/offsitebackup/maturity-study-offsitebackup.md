@@ -76,7 +76,7 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 - [x] **D0. Prepare**: this file, `study.json`, the reading lists and `reopen.csv`, 2026-10-14.
 - [x] **D0a. Distance**: the backup site 200 km or more from the main one, Bill, 2026-10-14.
 - [x] **D1. Bill's word**: run on it, 2026-10-14.
-- [x] **D2. Read**: 89 drafters over 146 readings (79 planned, 67 reopened); 23 facts in 21 countries. No carry: the two data-centre studies hold no fact on backup in this study's terms.
+- [x] **D2. Read**: 102 drafters over 165 readings (79 planned, 67 stories and 19 longer documents reopened); 29 facts. The parent added one, SITA's secondary site, from a document the drafters were not given. No carry: the two data-centre studies hold no fact on backup in this study's terms.
 - [x] **D3. Staged** as at 2026-09-30: 3: 1, 2: 1, 1: 1, 16 unplaced, 35 without evidence; no correction; agreement 3 of 3, the only staged cells.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-14. Tokens 29.4M of 30M.
 
@@ -86,6 +86,8 @@ The Smart Africa Data Center and Cloud Blueprint asks for 24/7 availability of e
 - **A backup abroad counts though no country is named**: Sudan's traffic police keep vehicle-register backups outside the country, which sets stage 2.
 - **Most backups held name no place**: Mali, Morocco, Mozambique, Mauritius, the Malawi Revenue Authority, Senegal, Eswatini and Tunisia's national backup centre. Each is unplaced, and the summary names the site under *Noted, not assessed*.
 - **Angola, Cameroon and Egypt keep their backups within reach of the main site**: Luanda beside Camama, Zamengoe beside Yaoundé, the Sokhna road beside the New Capital.
+- **South Africa's government backup is in Pretoria beside its primary**: SITA's Beta beside Centurion, so it is unplaced.
+- **Malawi stops at stage 3 with both sites at Tier III**: no held source states a recovery plan or test, which stage 4 needs before stage 5.
 - **Nigeria's Kano recovery centre was finished but not stated in service**, so its Tier IV fact sets nothing.
 - **Ethiopia's statement of absence dates from February 2023**, outside the three years, so it does not set stage 1.
 

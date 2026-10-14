@@ -19,6 +19,10 @@ COD,Data center du Gouvernement (Kinshasa Gombe),COD,other,,Government of the DR
 COD,OADC Texaf - Kinshasa,Democratic Republic of the Congo,other,commercial data centre,Open Access Data Centres (OADC),,2025-02-03-oadc-texaf-kinshasa-iso-pci-dss-certifications-techafricanews
 COD,Cloud souverain,COD,,,Ministry of Digital Economy,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
 COG,Data Center National,Congo,other,,"Ministère des Postes, des Télécommunications et de l'Économie numérique",,2026-09-02-mpten-data-center-national
+CPV,"Data Center 1 (DC1), Technology Park, Praia",Cabo Verde,other,,Government,,2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii
+CPV,"Data Center 3 (DC3), Technology Park, Sao Vicente (Mindelo)",Cabo Verde,backupsite,,Government (Technology Park project),,2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii
+CPV,"Data Center 1 (DC1), Technology Park, Praia",Cabo Verde,other,,Government,,2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report
+CPV,"Data Center III (DC3), Technology Park, Sao Vicente (Mindelo)",Cabo Verde,backupsite,,"Government, managed solely by the Government",Tier-3 stated as a project output target for the park's data centers,2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report
 DJI,Horizon Fiber Initiative terrestrial fiber corridor,DJI,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-11-dcd-horizon-fiber-agreement
 DZA,Centre national des services numériques,Algeria,,,Government of Algeria,"Mohammadia (Alger) centre Tier III Design, Uptime Institute; Blida centre tier not stated",2026-07-05-jeune-independant-centre-national-services-numeriques
 EGY,Government Data and Cloud Computing Center (P1),Egypt,backupsite,cloud computing,Ministry of Communications and IT,,2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration
@@ -38,6 +42,8 @@ GHA,"National Data Centre (primary, Accra)",Ghana,,,NITA,,2016-01-26-national-da
 GHA,"National Data Centre (secondary, KNUST Kumasi)",Ghana,backupsite,,NITA,,2016-01-26-national-data-centre-launched-in-accra
 GHA,Digital Realty ACR2,Ghana,other,,Digital Realty,,2025-10-31-digital-realty-opens-accra-data-center-graphic
 GHA,GNPC data center,Ghana,other,,Ghana National Petroleum Corporation,,2020-09-29-energy-bulletin-gnpcs-newly-built-data-center-a-good-initiative-for-accurate-and
+GHA,"National Data Center (Primary, Accra)",Ghana,,,"Ministry of Communication, Digital Technology and Innovations",,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
+GHA,"National Data Center (Secondary, Kumasi)",Ghana,backupsite,,"Ministry of Communication, Digital Technology and Innovations",,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
 GHA,Government cloud storage system (eTransform Ghana),Ghana,other,,Ministry of Communications and Digitalisation,,2013-10-24-wb-gha-002-etransform-ghana
 GNQ,"Centro de Datos principal and sitio de respaldo of the Ministry of Finance (MHPDE), under PAMFP tender; places not stated",GNQ,,,"Ministerio de Hacienda, Planificación y Desarrollo Económico","TIA-942 standard required, tier not stated",2026-06-16-pamfp-asistencia-tecnica-supervision-centro-datos-sitio-respaldo
 GNQ,Principal and backup server rooms of the Ministry of Finance (tender N.º 002-2026/B/PAMFP/GE),GNQ,backupsite,,"Ministerio de Hacienda, Presupuestos y Planificación Nacional (via PAMFP)",,2026-08-07-pamfp-amplia-plazo-licitacion-sala-servidores
@@ -45,6 +51,8 @@ KEN,AccessKenya Mombasa data centre (secondary site for Nairobi clients),KEN,oth
 KEN,AccessKenya data centre (Nairobi),KEN,other,,AccessKenya Group (commercial ISP),,2012-01-18-accesskenya-completes-kes-30-million-upgrade-on-state-of-the-art-data-centre
 KEN,"National Disaster Recovery Site (project, Phase III construction; place not stated)",KEN,backupsite,,The National Treasury,,2025-12-31-kenya-auditor-general-report-national-government-2024-25
 KEN,PDMO Disaster Recovery site (establishment initiated; place not stated),KEN,backupsite,,"Public Debt Management Office, The National Treasury",,2025-12-31-kenya-auditor-general-report-national-government-2024-25
+LBR,National Data Center,Liberia,other,,"Ministry of Posts and Telecommunications, hosted at LTC-Mobile",,2026-03-01-liberia-national-data-governance-policy
+LBR,"Tier III+ facility, Buchanan",Liberia,other,,,Tier III+ (under development),2026-03-01-liberia-national-data-governance-policy
 LBR,LITAS,Liberia,other,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
 LBR,ASYCUDA,Liberia,other,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
 LBR,LRA Datacenter,Liberia,,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
@@ -74,8 +82,13 @@ MUS,Scale-Out Storage Solution for the Government Online Centre,Mauritius,other,
 MWI,MRA secondary data centre,Malawi,backupsite,,Malawi Revenue Authority,,2026-08-14-malawi-mra-backup-data-centre-world-bank
 MWI,"National Data Centre, Lilongwe",Malawi,,,Department of e-Government,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
 MWI,Disaster recovery site / Blantyre Data Centre,Malawi,backupsite,,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
+MWI,National Data Centre DR Site,Malawi,backupsite,"Nutanix HCI, 7 nodes, Veeam backup",Government of Malawi (Department of e-Government),Tier III (DR site),2026-06-11-pppc-expansion-of-national-data-centre-rfb
+MWI,"National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)",Malawi,backupsite,,Government of Malawi (Department of e-Government),,2025-08-01-updated-esmp-government-data-centre-dmap
 MWI,"National Data Centre, Lilongwe",Malawi,,,Department of e-Government,,2025-06-27-dmap-tors-data-centre-cloud-architect
+MWI,"National Data Centre, Lilongwe (primary) and Mandala Data Centre, Blantyre (DR site)",Malawi,backupsite,Nutanix NX-3460-G7 HCI,Government of Malawi (Department of e-Government),Tier III (primary and DR),2025-02-12-malawi-dmap-tor-national-data-centre-managed-services
 NAM,Paratus Backup-as-a-Service and Disaster-Recovery-as-a-Service (Paratus Provider Data Centre),NAM,other,commercial BaaS/DRaaS,Paratus Namibia,,2026-05-08-paratus-namibia-baas-draas-linkedin
+NAM,"Paratus Namibia Data Center, Windhoek (Brakwater)",Namibia,other,,Paratus Namibia Holdings (commercial),Tier III by design,2025-12-03-paratus-namibia-holdings-integrated-annual-report-2025
+NAM,"Paratus Namibia Data Center, Windhoek",Namibia,other,,Paratus Namibia Holdings (commercial),,2024-12-06-paratus-namibia-holdings-integrated-annual-report-2024
 NGA,"Galaxy Backbone second data center (Kano, phase 2)",Nigeria,,Huawei FusionDC1000B prefabricated modular,Galaxy Backbone,Uptime Tier IV design and facility,2024-08-28-huawei-galaxy-backbone-tier-iv-prefabricated-data-centre
 NGA,Galaxy Backbone Kano Data Recovery and Business Continuity center,Nigeria,backupsite,,Galaxy Backbone (Federal Government),meets Tier IV standards,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
 NGA,National Shared Services Center (Abuja),Nigeria,other,,Galaxy Backbone,Uptime Tier III certified,2022-09-07-dcd-galaxy-backbone-kano-tier-iv-data-centre
@@ -83,6 +96,7 @@ NGA,"BDIC data centre, Makurdi, with disaster recovery site in Abuja",Nigeria,ba
 NGA,GFA Abeokuta Technology Zone Data Centre,Nigeria,other,,"GFA Technologies Group (private, planned)",,2026-07-27-cbn-data-localisation-directive-data-centre-investment
 NGA,"Africa Data Centres disaster recovery site, Abuja",Nigeria,backupsite,,"Africa Data Centres for Benue Digital Infrastructure Company (state-run); main site Makurdi, backup Abuja; to be built, not in service",,2024-07-12 UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi
 NGA,MDX-i Lekki Data Centre,Nigeria,other,,MainOne (commercial),Tier III,2015-01-16-businessday-mainone-mdx-i-lekki-tier-iii-data-centre
+RWA,National Data Center (NDC),Rwanda,other,,,,2025-01-01-minict-rwanda-ict-sector-strategic-plan-2024-2029
 RWA,Horus Labs Ltd Tier III data centre (RURA licence),Rwanda,other,"commercial colocation, cloud hosting, AI data centre",Horus Labs Ltd (private),Tier III required or equivalent,2026-04-01-horus-labs-tier-iii-data-centre-licence
 RWA,National Data Centre,Rwanda,other,,RISA,,2024-01-01-risa-digital-adoption-implementation-guidelines-2024
 SDN,Horizon Fiber Initiative terrestrial fiber corridor,Sudan,other,,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-11-dcd-horizon-fiber-agreement
@@ -93,6 +107,8 @@ SEN,ORANA data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-se
 SEN,Technopole data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-senum-transformation-digitale-administration
 SEN,Diamniadio data center,Senegal,other,,Senegal Numerique SA (SENUM),,2025-01-01-senum-transformation-digitale-administration
 SEN,e-Justice platform,Senegal,other,,Ministry of Justice,,2026-08-25-undp-senegal-e-justice-dakar-pilot
+SEN,Sonatel Medina site (Rumba secondary site),Senegal,other,,Sonatel (telecom operator),,2024-06-21-sonatel-group-annual-report-2023
+SEN,Sonatel Rufisque Datacenter,Senegal,other,,Sonatel (telecom operator),"Tier III Design and Constructed Facility (Uptime Institute), to 2021-12-04",2021-07-07-sonatel-group-annual-report-2020
 SEN,"AGEROUTE cloud hosting of critical servers with replication site (tender, lot 1)",Senegal,backupsite,"commercial cloud provider, to be selected; Tier 3 minimum datacentres in Senegal; replication site in Senegal, place not stated",AGEROUTE (for Ministere des Infrastructures),Tier 3 minimum required of bidder,2026-06-01-ageroute-hebergement-cloud-serveurs-critiques-supervision-soc
 SEN,Data Center de Sénégal Numérique (SENUM),Senegal,,,Sénégal Numérique,,2026-08-20-seneweb-loi-securite-numerique-adoption
 SLE,Ministry of Finance data centre hosting e-GP,Sierra Leone,other,,Ministry of Finance,,2026-01-07-nppa-inspects-e-procurement-data-center-ahead-of-full-system-rollout
@@ -136,7 +152,10 @@ UGA,Liquid Azure Stack,Uganda,other,"commercial Azure Stack cloud, host data cen
 UGA,Aeonian Project data centre,Uganda,other,proposed commercial centre offering DRaaS to regional data centres,Synectics Technologies,,2026-02-24-independent-uganda-raw-data-refined-elsewhere
 UGA,Aeonian Project (DHPC),Uganda,other,planned commercial hyperscale data and HPC centre offering DRaaS to regional data centres,Synectics Technologies,"Tier 4+ (stated, planned)",2025-09-11 Another 'first AI factory in Africa' - Uganda is said to have made its entry into the AI race
 UGA,Raxio Data Centre,Uganda,other,"commercial colocation, offers disaster recovery colocation, Kampala",Raxio Group,III (Uptime Institute certified October 2020),2020-12-14-ventureburn-raxio-uganda-uptime-tier-iii-certification
+UGA,"Disaster Recovery site in Jinja (under UDAP), planned with a third National Data Centre, primary at Entebbe",Uganda,backupsite,,NITA-U,,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30
+UGA,National Data Centre (NDC),Uganda,other,,NITA-U,,2026-03-17-uga-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,Cloud Disaster Recovery and Hybrid Backup solution (URSB/NCONS/2025-2026/00377),Uganda,backupsite,cloud DR and hybrid backup,Uganda Registration Services Bureau,,2026-06-01-ursb-dr-cloud-hybrid-backup-rfq
+ZAF,Microsoft Azure South Africa West (Cape Town),South Africa,other,Microsoft Azure,Microsoft (commercial provider),,2026-06-03 The system's crashed. Where's the backup
 ZAF,"Rand Water disaster recovery site, Centurion",South Africa,other,,Rand Water (state-owned bulk water utility),,2026-09-04-itweb-rand-water-cyberattack
 ZAF,PSET Integrated Learner Management System (ILMS),South Africa,other,,MICT SETA / Tshwane University of Technology,,2026-08-20-parliament-ilms-intellectual-property-dispute
 ZAF,Dube Tradeport Data Centre,South Africa,other,,Dube Tradeport,,2026-08-20-parliament-ilms-intellectual-property-dispute

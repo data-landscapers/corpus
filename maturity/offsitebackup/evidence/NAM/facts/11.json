@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-06-paratus-namibia-holdings-integrated-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Paratus Namibia Data Center, Windhoek", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Paratus Namibia Holdings (commercial)", "tiers": ""}
+  ],
+  "note": "Commercial provider's own backup and DR plans and network redundancy; no statement that it holds government systems."
+}

@@ -1,4 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+LBR,National Data Center,Liberia,other,,"Ministry of Posts and Telecommunications, hosted at LTC-Mobile",,2026-03-01-liberia-national-data-governance-policy
+LBR,"Tier III+ facility, Buchanan",Liberia,other,,,Tier III+ (under development),2026-03-01-liberia-national-data-governance-policy
 LBR,LITAS,Liberia,other,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
 LBR,ASYCUDA,Liberia,other,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
 LBR,LRA Datacenter,Liberia,,,Liberia Revenue Authority,,2026-08-20-lra-corporate-strategic-plan-2025-2029
