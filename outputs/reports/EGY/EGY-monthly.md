@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: EGY
-ledger_rows: 91
+ledger_rows: 94
 not_held: 44
-record: 873caa135a01
+record: 00b556916cda
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -62,7 +62,7 @@ Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
+On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost or landing-station arrangement is held either way. On 14 October the incumbent's chief executive said [the cable is expected to be ready for service late next year, and put the company's transit capacity above 330 Tbps, with more than 90% of Europe–Asia and Europe–Africa traffic passing through its infrastructure](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280), the operator's own figures.
 
 Vodafone Egypt [began the commercial rollout of an AI-capable radio-access processor built for 5G-Advanced](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29214-ericsson-modernizes-vodafone-egypts-ran-with-ai-powered-ran-processor-6672/) (21 September), with no site count or value given.
 
@@ -74,6 +74,8 @@ The main exchange, EG-IX, [peaked at 722.19Gb/s on 7 September across 18 member 
 On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
 Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed. An investment company's chief executive put [installed data-centre IT load at about 15 to 20 MW, against 400 to 500 MW announced, of which about 20 MW is committed](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/). The state digital-finance operator [signed a memorandum with a Chinese cloud provider to explore offering its services to Egyptian businesses from locally hosted infrastructure](https://mena.org.eg/en/news/open-efinance-alibaba-cloud-bring-c44faf96-d3bc-4aa1-8ac0-08bee74d4819).
+
+The incumbent's chief executive said on 14 October that [the company has established a dedicated entity to develop its data-centre business](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280); no name, asset list or capacity for it is published.
 <!-- /narrative -->
 ### Energy
 
@@ -140,6 +142,11 @@ Key ration card services [became available on the Digital Egypt platform: heads 
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+On 13 October Cairo Governorate [launched a six-month programme for staff of its citizen service centres, one workshop a month, to produce a unified citizen service guide, a complaint-handling checklist and service-evaluation indicators](https://www.cairo.gov.eg/en/news/2026/october/13/c34e40b9a36345c684c21c448d164f79). The governor listed the services the governorate says it has already digitised, among them real-estate tax, complaints, building-violation reconciliation, cemetery and parking reservations and tenders; no transaction or complaint figure is published.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->

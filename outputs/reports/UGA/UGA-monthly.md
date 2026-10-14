@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: UGA
-ledger_rows: 66
+ledger_rows: 67
 not_held: 11
-record: 14d32f52ed6b
+record: 1008826add06
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -112,7 +112,9 @@ The country's other identifier-bearing register went the other way. Parliament's
 
 The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
 
-The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html). [A former works minister told Parliament's physical infrastructure committee that the digital number plate rollout went ahead without a preliminary feasibility study](https://www.monitor.co.ug/uganda/news/national/how-ignored-warnings-missing-feasibility-studies-plagued-uganda-s-digital-plates-project-5630898).
+The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html). [A former works minister told Parliament's physical infrastructure committee that the digital number plate rollout went ahead without a preliminary feasibility study](https://www.monitor.co.ug/uganda/news/national/how-ignored-warnings-missing-feasibility-studies-plagued-uganda-s-digital-plates-project-5630898). Officials of the Auditor General's office [told the committee that the system had not been audited since implementation began in 2021, the Auditor General's submission saying the project was classified as security-related and financed in full by the contractor](https://nilepost.co.ug/news/378485/mps-order-detention-of-two-auditors-over-unaudited-digital-number-plate-project); the committee ordered two of them detained.
+
+The lands minister of state said [applicants now enter their data at district level and have titles printed without moving between offices, and that a blockchain-based land-records system has been developed](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles), reported on 11 October. No procurement, supplier or count of titles is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 

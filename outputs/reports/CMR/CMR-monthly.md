@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: CMR
-ledger_rows: 29
+ledger_rows: 30
 not_held: 4
-record: 0267bc70bb8d
+record: d0c027c7f426
 ---
 
 # Cameroon: monthly update, September – October 2026
@@ -54,6 +54,8 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 
 The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing. The state operator and the secondary education ministry [signed a framework agreement to interconnect 130 schools in the three northern regions](https://techafricanews.com/2026/10/08/camtel-and-minesec-sign-deal-to-expand-digital-education-across-northern-cameroon/).
+
+The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October; the developer says more than 30,000 of its clients could eventually benefit. No timetable or estate list is published.
 <!-- /narrative -->
 ### Data Storage
 

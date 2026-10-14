@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 place: GHA
-ledger_rows: 100
+ledger_rows: 102
 not_held: 10
-record: 8cf7b09b92a4
+record: add3416e3445
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -37,12 +37,14 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
-On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/).
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/). After the same field exercise it [referred a microfinance company that had not renewed its registration to the police for possible prosecution and directed a clinic to give the police a statement](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html); inspections are to continue into 2027.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee.
+
+On 13 October the central bank governor said [the bank is testing interoperability between central bank digital currencies, stablecoins, bank accounts and mobile wallets in the Ghana–Rwanda and Ghana–Nigeria corridors](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/), and that [more than ten countries are being engaged to join the licence-passporting framework with Rwanda's central bank](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html). No start date, participant or timetable is published.
 <!-- /narrative -->
 ### Standards
 
@@ -131,6 +133,8 @@ The central bank widened its enforcement. On 8 September it [named a second list
 On 23 September a fintech [began opening bank-backed virtual accounts for its Ghanaian customers through an API integration with Universal Merchant Bank](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html), which the central bank and the securities regulator had approved to offer virtual accounts to eligible virtual-asset businesses. The approval date is not stated.
 
 On 6 October [the central bank named a further twenty unlicensed loan apps and told banks and payment providers not to process for them](https://www.bog.gov.gh/wp-content/uploads/2026/10/Notice-No.36-BOG-SEC-GOV-2026-Notice-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS.pdf), the third such list since August. [A new dedicated electronic money issuer began operations the next day](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf), and the governor used the occasion to give the measure of the market: [about 85.8 million registered mobile money accounts in August 2026, of which about 26.4 million had been used in the previous ninety days](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf).
+
+On 13 October the governor said [the Pan-African Payment and Settlement System has been extended to mobile wallets in the Ghana–Nigeria corridor](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html), where it had run bank to bank; no wallet provider or volume is named.
 <!-- /narrative -->
 ### Registries
 
@@ -199,7 +203,7 @@ The ministry said on 7 September that it had [signed memoranda with eleven unive
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
-The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
+In September the minister [said 12 universities had signed memoranda to carry the coders programme's courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/); in October [the ministry said it was restructuring the programme to target third- and final-year students instead](https://techreviewafrica.com/news/7709/x).
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
@@ -223,6 +227,8 @@ Fieldwork for [a research network's first multi-country survey of how people exp
 
 <!-- narrative: inclusion--include-divides -->
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
+
+On 13 October, inspecting four sites in Sekyere Afram Plains district, the minister said [the government will commission an independent audit of the 2,016 sites inherited under the contract to establish which are complete and operational](https://www.myjoyonline.com/government-to-audit-2016-community-network-sites-communications-minister/), and [whether sites reported as operational are providing service](https://techafricanews.com/2026/10/14/ghana-gifec-rural-connectivity-network-upgrades/). No auditor or date is named.
 <!-- /narrative -->
 
 ## Data
