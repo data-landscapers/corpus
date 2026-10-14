@@ -1,15 +1,15 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 64cebf28da4f
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b759a647d565
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -136,6 +136,10 @@ A third bill was set out in public rather than in print. The ICT minister said t
 The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed. A law firm's reading has the amendment Act [recognise electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/). The ICT ministry [held its working session with Meta on faster content removal, Kreol moderation and proposed amendments to the Cybersecurity and Cybercrime Act, with no framework yet signed](https://mitci.govmu.org/mitci/government-engages-meta-to-curb-online-abuse-for-safer-digital-environment/).
 
 [The government said bills and amendments on cybersecurity, cybercrime and the ICT Act are in preparation](https://lexpress.mu/node/563366), and [the minister described a framework agreement being negotiated with a platform operator on takedowns and verified identities](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444). No text or date is published.
+
+## Morocco
+
+The president of the Casablanca commercial court of first instance [refused a payment-order claim on six bills of exchange because the filing omitted the debtor company's email address, which Article 234 of the Civil Procedure Code requires for any legal-person party](https://www.hespress.com/%d8%ba%d9%8a%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%8a%d8%b9%d8%b1%d9%82%d9%84-%d9%85%d8%b3%d8%a7%d8%b7%d8%b1-%d8%aa%d8%ad-1820848.html), a newspaper reported on 13 October. The order's date is not stated.
 
 ## Mozambique
 

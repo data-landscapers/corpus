@@ -1,17 +1,15 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: finance.budget
 places: BFA; LBY; ZAF; TZA
-record: 079bc4229406
+record: 415114c2880a
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, September – October 2026
 
 *4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Burkina Faso
 

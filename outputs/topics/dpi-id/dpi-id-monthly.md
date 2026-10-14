@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 9791205afc0e
+record: 1ac3c45d9314
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -30,6 +30,8 @@ On International Identity Day the identification agency [opened renewal of the b
 Enrolment then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/), and ran special enrolment operations across every region for the seventh International Identity Day. No enrolment count accompanies either.
 
 The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it. The digital-transition minister said [enrolment for the digital identity, budgeted at over FCFA 40bn, was due to start in October 2026](https://lefaso.net/spip.php?article149856).
+
+The security minister [opened biometric passport enrolment at the Oubri regional police directorate in Ziniaré on 13 October, under a programme to put mobile enrolment kits in every region; the confederation passport costs 50,000 FCFA with two weeks' processing](https://www.sidwaya.info/2026/10/14/passeports-biometriques-le-centre-denrolement-de-ziniare-operationnel/).
 
 ## Cameroon
 
@@ -109,7 +111,9 @@ The president's proclamation of a National Identification Day [put enrolment at 
 
 ## Libya
 
-The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468), against more than 89,000 forged national numbers in the last official count.
+The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468).
+
+The Attorney General [said on 13 October that a data review had found more than 315,000 national numbers granted in breach of the law and more than 10,000 passports issued on forged data, with 8,662 numbers suspended and LYD 84.5m in salaries and pensions frozen](https://alwasat.ly/news/481422). [The review found the civil-registry and national-number databases disagree with each other and with the voter register](https://alwasat.ly/news/481422).
 
 ## Madagascar
 
@@ -156,6 +160,8 @@ A second use for election hardware was floated rather than agreed: the admission
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
 On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/). [Katsina State sought a partnership with the national identity commission, reported 10 October 2026, to integrate its identity management system with the national architecture; the two agreed a technical working group to draft a framework and memorandum within eight weeks](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/).
+
+On 14 October the commission said [142 million people had registered for numbers by September 2026, that its core database is hosted entirely in Nigeria and run by its own staff rather than a cloud provider, and that about 63 government agencies have integrated with it](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/). The count is a fourth, reconciled with none of the others.
 
 ## Rwanda
 

@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9e57828bb896
+record: 6b89e9cd345e
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -78,6 +78,8 @@ A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructu
 The government interoperability platform was still being built: the sixth steering committee of the World Bank-financed programmes, on 8 September, [listed it among four projects under way](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), with no delivery date.
 
 The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the repository holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
+
+The transport minister [visited the advance passenger and passenger-name-record installation at Libreville's airport on 12 October to speed its commissioning](https://fr.infosgabon.com/gabon-la-frontiere-entre-dans-lere-des-donnees/). The system runs under [a concession signed with Securiport in May 2026 for three airports, financed by a US$30 levy on each international passenger under two joint orders of 10 June](https://www.wearetech.africa/fr/fils/actualites/tech/aviation-le-gabon-deploie-un-systeme-numerique-danalyse-anticipee-des-passagers). No go-live date, retention rule or data-protection authorisation is published.
 
 ## Gambia
 
@@ -178,6 +180,8 @@ The month's exchange story is a border system working for someone else. The reve
 ## Zambia
 
 A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe. Bids for the redesign of the Government Service Bus [were evaluated and under the lender's review at June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+
+The regional motor insurance scheme is [piloting online sale of its cross-border Yellow Card in Zambia this year, ahead of a wider rollout, alongside phone-based certificate verification in eight member countries](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538).
 
 ## Zimbabwe
 

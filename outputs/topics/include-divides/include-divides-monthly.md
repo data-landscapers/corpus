@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: include.divides
 places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: cc1a936e110e
+record: 1a792fd4c7c0
 ---
 
 # Digital divides: monthly update, September – October 2026
@@ -44,6 +44,8 @@ The schools' side of the divide has a figure for the first time, and it is small
 ## Ghana
 
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
+
+On 13 October, inspecting four sites in Sekyere Afram Plains district, the minister said [the government will commission an independent audit of the 2,016 sites inherited under the contract to establish which are complete and operational](https://www.myjoyonline.com/government-to-audit-2016-community-network-sites-communications-minister/), and [whether sites reported as operational are providing service](https://techafricanews.com/2026/10/14/ghana-gifec-rural-connectivity-network-upgrades/). No auditor or date is named.
 
 ## Guinea-Bissau
 

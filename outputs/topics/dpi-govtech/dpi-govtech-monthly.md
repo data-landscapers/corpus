@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 351df2691e93
+record: 935c54ec3585
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -189,6 +189,8 @@ The road transport institute [moved applications for special transit licences fo
 
 The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began. The digital transformation agency [held the country's first digital service delivery design lab](https://clubofmozambique.com/news/mozambique-launches-its-first-design-lab-to-integrate-digital-public-services/), with the World Bank and a policy institute.
 
+A new industrial licensing regulation [moves applications onto the e-BAU platform, issues licences electronically under a QR code and deems an application approved where the authority misses its deadline, from 8 November](https://clubofmozambique.com/news/mozambique-industrial-licences-to-be-automatically-approved-if-state-misses-statutory-deadlines-digital-licences-to-carry-qr-codes/); its number and gazette date are not stated. The president [opened Centro Pronto in Maputo on 14 October, a single centre issuing identity cards, passports, residence documents and driving licences](https://www.jornalnoticias.co.mz/destaque/digitalizacao-novo-centro-de-emissao-de-documentos-e-uma-realidade/).
+
 ## Namibia
 
 One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
@@ -212,6 +214,8 @@ Ondo State followed its payroll platform with [Ondo AI, launched to automate per
 The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
 
 [The state network operator said more than 30 federal agencies have moved onto one platform for paperless approval of documents and memos](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/), with no list of agencies or adoption target.
+
+The electoral commission's chairman said on 14 October that [its candidate nomination portal had processed more than 15,000 nominations across 22 parties](https://www.vanguardngr.com/2026/10/2027-ive-handed-everything-over-to-god-says-inec-chairman/) for the 2027 elections.
 
 ## Rwanda
 

@@ -1,15 +1,15 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: dpi.pay
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a9ffac43aa9b
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 2ff6b0418635
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -115,6 +115,8 @@ On 23 September a fintech [began opening bank-backed virtual accounts for its Gh
 
 On 6 October [the central bank named a further twenty unlicensed loan apps and told banks and payment providers not to process for them](https://www.bog.gov.gh/wp-content/uploads/2026/10/Notice-No.36-BOG-SEC-GOV-2026-Notice-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS.pdf), the third such list since August. [A new dedicated electronic money issuer began operations the next day](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf), and the governor used the occasion to give the measure of the market: [about 85.8 million registered mobile money accounts in August 2026, of which about 26.4 million had been used in the previous ninety days](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf).
 
+On 13 October the governor said [the Pan-African Payment and Settlement System has been extended to mobile wallets in the Ghana–Nigeria corridor](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html), where it had run bank to bank; no wallet provider or volume is named.
+
 ## Guinea
 
 Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). The regional digital integration project [called on 1 October for a firm to design and implement a national payment scheme over nine months, covering its governance, rules, security and a pilot](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/), in support of the national switching company and the central bank; expressions of interest close on 23 October.
@@ -130,6 +132,8 @@ Tanzania's competition regulator [put KCB Group's stake in the payments company 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
 The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). A tier-one bank's fintech arm [launched a wallet that sends to mobile-money services and bank accounts](https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/); no user figure is published. An industry association reported [the bank-owned instant payment switch's chief executive saying a portable account identifier is ready and institutions must begin mapping customers to it](https://www.linkedin.com/pulse/pesalinks-new-id-makes-bank-transfers-easier-bin1f).
+
+Airtel [plans a Mastercard-backed prepaid virtual card on its wallet for payments to international online merchants, against Safaricom's M-PESA GlobalPay](https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/), a business outlet reported on 14 October, with no launch date or fees published. The same report puts [Airtel Money's share of mobile money at 11.1 per cent in June 2026 against 88.8 per cent for M-PESA, down from nearly 95 per cent in 2023](https://techcabal.com/2026/10/14/airtel-money-virtual-card-kenya/).
 
 ## Lesotho
 
@@ -163,9 +167,15 @@ The police service [introduced electronic payment of traffic fines from the week
 
 A retrospective rather than an operator disclosure, and it is the repository's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
 
+## Mauritius
+
+The central bank governor, in a speech of 15 July published on 13 October, said [the Bank of Mauritius serves as settlement bank for COMESA's Regional Payment and Settlement System](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation).
+
 ## Morocco
 
 The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either. A central bank working paper said [a proof of concept built with the IMF and the World Bank confirmed the technical feasibility of a retail central bank digital currency, with any issuance a long-term prospect](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf).
+
+Cash in circulation [reached 550.3 billion dirham at the end of August, up 12.1% in eight months, and cash withdrawals were 85% of the value of card transactions in 2025](https://www.hespress.com/%d8%b2%d8%ad%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d8%ac%d8%a7%d8%b9%d8%a9-%d8%ae%d8%b7%d8%b7-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1821861.html), on central-bank figures reported on 13 October. Lower caps on card interchange fees [took effect on 1 October](https://conseil-concurrence.ma/communique-conjoint-du-conseil-de-la-concurrence-et-de-bank-al-maghrib/).
 
 ## Mozambique
 
@@ -202,6 +212,8 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
 Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers. The central bank governor said [a digital agricultural lending platform is in a six-month pilot with four lenders, meant to cut farmers' wait for a loan from weeks to under 48 hours](https://www.ktpress.rw/2026/10/rwanda-is-testing-digital-platform-to-get-small-farmers-loans-in-48-hours/). The central bank reported [active accounts on the national payment switch at 10.3 million in September 2026, against 2.03 million a year earlier, and a rejection rate below 2%](https://www.ktpress.rw/2026/10/bnr-moves-to-tackle-delayed-ekash-transfers/).
+
+The Bank of Ghana's governor said on 13 October that [it is testing payment interoperability with Rwanda across central bank digital currencies, stablecoins, bank accounts and mobile wallets, aiming at live services on existing rails such as PAPSS](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html). No statement from the National Bank of Rwanda is held.
 
 ## Senegal
 

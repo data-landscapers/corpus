@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 731809e958ca
+record: 0591f9d6f568
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -27,6 +27,8 @@ The incumbent operator [reported more than 21.2 million subscribers and 12,302 b
 
 The national cable company [began deploying new optical equipment across its South Atlantic and MONET submarine systems](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology), adding 800G interfaces on a 12,780 km Angola-United States route at 130 ms round trip, on the equipment vendor's announcement of 29 September. No capacity total or completion date is stated.
 
+A reseller of the licensed low-orbit service and a local technology firm [opened a point of presence in Luanda for the Twoobii OneWeb service, giving in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/), reported on 14 October and sold to banks, government, defence and enterprises.
+
 ## Botswana
 
 On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed. The state fibre operator [announced the launch of its internet exchange point for local traffic](https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ); no member count is given.
@@ -46,6 +48,8 @@ International capacity moved for the first time in the record: Tanzania's state 
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 
 The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing. The state operator and the secondary education ministry [signed a framework agreement to interconnect 130 schools in the three northern regions](https://techafricanews.com/2026/10/08/camtel-and-minesec-sign-deal-to-expand-digital-education-across-northern-cameroon/).
+
+The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October; the developer says more than 30,000 of its clients could eventually benefit. No timetable or estate list is published.
 
 ## Cape Verde
 
@@ -81,7 +85,7 @@ The posts and telecommunications minister [presented the commercial launch of 5G
 
 ## Egypt
 
-On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
+On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost or landing-station arrangement is held either way. On 14 October the incumbent's chief executive said [the cable is expected to be ready for service late next year, and put the company's transit capacity above 330 Tbps, with more than 90% of Europe–Asia and Europe–Africa traffic passing through its infrastructure](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280), the operator's own figures.
 
 Vodafone Egypt [began the commercial rollout of an AI-capable radio-access processor built for 5G-Advanced](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29214-ericsson-modernizes-vodafone-egypts-ran-with-ai-powered-ran-processor-6672/) (21 September), with no site count or value given.
 
@@ -203,6 +207,8 @@ A rural network operator [announced a pilot of licensed satellite backhaul at on
 
 An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving. [The Lagos deputy governor put state fibre at about 3,000 km, with a further US$22 million invested towards a unified 6,000 km network, and resident identity enrolment at more than 6.4 million](https://realnewsmagazine.net/hamzat-tasks-govt-businesses-on-technology-driven-jobs-inclusive-growth/). [Internet data use reached 11.94 million TB in January to August 2026, about 90% of the whole of 2025, with 1.76 million TB in August](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/).
 
+The operator of the Lagos station where the ACE cable lands [contracted a Nigerian developer to run a solar system there under a ten-year agreement, to cut the station's diesel use](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos); the account was published on 13 October and gives no signing date.
+
 ## Rwanda
 
 The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
@@ -214,6 +220,8 @@ An independent index put a number on how fragile the connection is. The Internet
 ## Senegal
 
 The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site. The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
+
+[PASSANT, a project supporting the territorial digital-planning strategy contracted to LITEYCA SL for 50 billion FCFA under Banco Santander financing, is among the programmes named in a proposal for a parliamentary commission of inquiry filed on 13 October](https://lesoleil.sn/actualites/politique/session-parlementaire-2026-2027-cinq-propositions-de-commissions-denquete-a-letude/); the Assembly's Bureau has yet to rule on admissibility.
 
 ## Sierra Leone
 
@@ -252,6 +260,8 @@ The regulator scored quality for the quarter to June 2026: [the state operator h
 The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
 The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
+
+The regulator [gave providers 30 days to fix unsafe cable installations, damaged poles and unmarked plant found in inspections, and now requires its prior approval before any new fibre-optic installation](https://techafricanews.com/2026/10/14/tanzania-tcra-telecom-providers-30-days-fix-infrastructure-faults/), reported 14 October; some providers must also file complete GIS maps of their networks.
 
 ## Togo
 

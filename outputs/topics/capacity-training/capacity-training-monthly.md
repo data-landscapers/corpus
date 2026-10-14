@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: a1b2b52fc676
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: bb7dfb79614e
 ---
 
 # Training and skills: monthly update, September – October 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -71,7 +71,7 @@ The ministry said on 7 September that it had [signed memoranda with eleven unive
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
-The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
+In September the minister [said 12 universities had signed memoranda to carry the coders programme's courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/); in October [the ministry said it was restructuring the programme to target third- and final-year students instead](https://techreviewafrica.com/news/7709/x).
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
@@ -102,6 +102,10 @@ Outside government, a foundation-backed computer and robotics laboratory in Monr
 ## Libya
 
 The social affairs ministry and the minister of state for digital economy and artificial intelligence [signed a memorandum launching the Wasl initiative at the Libya AI Forum in Tripoli on 10 October 2026, with one track on digital and artificial-intelligence skills for social-affairs staff and another on the digital empowerment of persons with disabilities](https://lana.gov.ly/post.php?id=367274&lang=ar).
+
+## Madagascar
+
+The technical and vocational training ministry [signed a partnership with the operator Orange on 8 October to develop digital-skills training frameworks and align vocational training with labour-market demand](https://techafricanews.com/2026/10/14/madagascar-orange-digital-skills-vocational-training/). No budget, target or start date is stated.
 
 ## Mali
 
@@ -162,6 +166,8 @@ The first artificial-intelligence summer school finished, [training 100 young pe
 ## Tunisia
 
 [The first of twelve artificial-intelligence laboratories planned for vocational training centres in 2026-2027 was set up at the Kef centre, in partnership with the state operator](https://www.webdo.tn/fr/actualite/national/formation-professionnelle-le-kef-accueille-son-premier-laboratoire-dia-en-partenariat-avec-tunisie-telecom/404244/), announced by the minister on 17 September. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
+
+On 14 October the employment ministry [signed a five-year renewable framework with the state operator to connect employment offices and training centres by fibre, install AI laboratories in vocational centres and run distance training from the operator's national data centre](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155931-%D8%A7%D9%85%D8%B6%D8%A7%D8%A1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A). No budget, site count or timetable is stated.
 
 ## Uganda
 

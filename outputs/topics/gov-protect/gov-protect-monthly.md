@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: gov.protect
 places: AGO; BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f72cc8490477
+record: 7232a89e6081
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -49,7 +49,7 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
-On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/).
+On 12 October the Data Protection Commission [directed an Accra hospital to report to the police criminal investigations department over an expired registration certificate, after an enforcement operation](https://www.myjoyonline.com/nyaho-medical-centre-referred-to-cid-over-allegedly-expired-data-protection-registration/); the length of the lapse is not stated. [The commission said it had registered 2,575 data controllers in 2026, above any previous year, and was adding spot checks, inspections, complaint investigations and registration checks](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/). After the same field exercise it [referred a microfinance company that had not renewed its registration to the police for possible prosecution and directed a clinic to give the police a statement](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html); inspections are to continue into 2027.
 
 ## Kenya
 

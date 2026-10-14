@@ -1,10 +1,10 @@
 ---
 title: Access to services — progress report, October 2025 – October 2026
-compiled: 2026-10-13
-period: 2025-10-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2025-10-01 to 2026-10-14
 subject: include.access
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3ea4a9ee9a6a
+record: 5678c9a35c9d
 ---
 
 # Access to services: progress report, October 2025 – October 2026

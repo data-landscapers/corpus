@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: infra.cybersec
 places: DZA; BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 78b18063aecb
+record: 7b97ec05aeac
 ---
 
 # Cybersecurity: monthly update, September – October 2026
@@ -145,6 +145,8 @@ Fake traffic-fine messages quoting motorists' correct number plates led the road
 
 Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised. The capacity added was commercial, not state: a 40-desk [security operations centre opened in Cape Town under a R55m investment](https://www.itweb.co.za/article/integrity360-invests-r55m-in-ct-base-and-its-largest-soc/8OKdWMDXLoYMbznQ), serving customers across Africa and internationally. [The legislature's committees said after a joint meeting on 5 October 2026 that the department notified the Information Regulator only that morning, about two weeks after it was alerted, and could not say how many records were exposed](https://nyakaza.org.za/accountability-over-alleged-e-panic-button-security-breach/).
 
+A [free, round-the-clock helpline for victims of online fraud, hacked accounts and digital abuse began a 12-month pilot](https://www.itweb.co.za/article/free-cyber-crime-victim-helpline-launches/6GxRKMYQLdYMb3Wj), reported on 14 October, run by a training organisation and a UK charity on funding from a US cloud provider and staffed by supervised students. It refers victims to banks and the police and does not investigate.
+
 ## Tanzania
 
 August gave the national series the earlier account lacked. The regulator's director general later [set the June 2026 count against 23,328 reported cases in September 2023, a 69% fall, and said awareness campaigns may have raised reporting](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
@@ -164,3 +166,5 @@ The bankers' association [counted 6,533 cyber and fraud incidents in the financi
 ## Zimbabwe
 
 An industrial automation firm [announced on 1 September 2026 the completion of a security and modernisation project on the control networks of a platinum mine](https://tech.africa/rockwell-mimosa-mine-ot-security/), covering network architecture, segmentation and controlled access.
+
+The ICT minister [opened a multi-agency investigation, including the police cyber crime division, into a wave of WhatsApp Business account takeovers she called unprecedented](https://itweb.africa/article/govt-probes-mass-whatsapp-takeovers-in-zimbabwe/KPNG8v8NYVPM4mwD), reported 14 October; it is examining whether personal or financial data was compromised and the role of SMS aggregators. No count of affected accounts is published.

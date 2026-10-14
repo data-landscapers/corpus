@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN; UGA
-record: f7bfbf6de16f
+record: 7533c092e308
 ---
 
 # Data Storage: monthly update, September – October 2026
@@ -54,6 +54,8 @@ A data centre was [installed at the national polytechnic institute in Yamoussouk
 On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
 Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed. An investment company's chief executive put [installed data-centre IT load at about 15 to 20 MW, against 400 to 500 MW announced, of which about 20 MW is committed](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/). The state digital-finance operator [signed a memorandum with a Chinese cloud provider to explore offering its services to Egyptian businesses from locally hosted infrastructure](https://mena.org.eg/en/news/open-efinance-alibaba-cloud-bring-c44faf96-d3bc-4aa1-8ac0-08bee74d4819).
+
+The incumbent's chief executive said on 14 October that [the company has established a dedicated entity to develop its data-centre business](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280); no name, asset list or capacity for it is published.
 
 ## Eswatini
 

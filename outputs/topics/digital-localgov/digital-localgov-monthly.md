@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: digital.localgov
-places: BFA; CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 7f2f36a37c61
+places: BFA; CMR; TCD; EGY; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 59f22bb3535f
 ---
 
 # Digitalisation of sub-national government: monthly update, September – October 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The housing and telecoms ministries [launched a National Action Plan for Smart C
 A second town began digitising its own services. The Abeche town hall, the provincial telecommunications delegation and the ICT development agency [met to strengthen a partnership digitising municipal services and training staff in digital tools](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). No service, budget or delivery date is published.
 
 In the capital, N'Djamena city hall and the secure-documents agency ANATS [signed a memorandum on 23 September launching a project, supported by the Francophonie organisation, to digitise civil registers and connect the town hall's systems securely to the national population and secure-documents system](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/). No budget or completion date was given.
+
+## Egypt
+
+On 13 October Cairo Governorate [launched a six-month programme for staff of its citizen service centres, one workshop a month, to produce a unified citizen service guide, a complaint-handling checklist and service-evaluation indicators](https://www.cairo.gov.eg/en/news/2026/october/13/c34e40b9a36345c684c21c448d164f79). The governor listed the services the governorate says it has already digitised, among them real-estate tax, complaints, building-violation reconciliation, cemetery and parking reservations and tenders; no transaction or complaint figure is published.
 
 ## Ghana
 
@@ -62,6 +66,8 @@ One state measured its own agencies rather than announcing a platform. The Anamb
 [A UK-funded programme of state-level digital policy and institutional reform was inaugurated in Abia on 17 September](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/), run by a Nigerian NGO and starting from a baseline report on the state.
 
 Edo State [replaced a foreign-owned e-governance platform, for which it paid licence fees after funding its build, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), the head of the state ICT agency said on 23 September. The date of the switch is not stated.
+
+Adamawa State [began implementing an enterprise resource planning system on 9 October to hold one personnel and payroll record across its civil service commission, head of service and accountant-general, hosted on state infrastructure](https://dailytrust.com/adamawa-launches-civil-service-digitisation-erp-reform/). No cost, vendor or completion date is published.
 
 ## Rwanda
 

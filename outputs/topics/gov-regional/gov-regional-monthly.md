@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 5183b7bdd7b9
+record: 67f1ee189a42
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -78,6 +78,8 @@ On 23 September the foreign minister [signed the United Nations Convention again
 ## Ghana
 
 Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee.
+
+On 13 October the central bank governor said [the bank is testing interoperability between central bank digital currencies, stablecoins, bank accounts and mobile wallets in the Ghana–Rwanda and Ghana–Nigeria corridors](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/), and that [more than ten countries are being engaged to join the licence-passporting framework with Rwanda's central bank](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html). No start date, participant or timetable is published.
 
 ## Guinea
 

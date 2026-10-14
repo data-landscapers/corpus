@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: c10c21778aef
+record: 8ad2bd6c6231
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -143,6 +143,8 @@ Birth registration is moving into the maternity ward. The justice sector [is ins
 
 [The home affairs minister told the National Assembly that some marriages remain unregistered because church and court registers reach the ministry late or never, a gap the records digitalisation begun in 2021 exposed](https://www.namibian.com.na/home-affairs-minister-iipumbu-urges-married-couples-to-ensure-they-are-registered/). The system relies on physical submission and does not track delivery.
 
+The Auditor-General's report on 2024/25, reported 13 October, [found 32,890 beneficiaries aged 19-21 still receiving child grants at about N$250m a year, 3,350 duplicate child records with N$28.8m paid twice, and over N$43m paid to deceased recipients](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/). The audit could not establish what was recovered.
+
 ## Nigeria
 
 The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own and no register audit or duplicate rate accompanies them, though on 15 September the commission told an African Union mission it [has integrated national identity numbers into cleaning the register](https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/); and the devices that read the roll failed at a state election three weeks earlier.
@@ -173,6 +175,8 @@ Somaliland's central bank [met banks and mobile-money operators on 11 September 
 
 The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping. KwaZulu-Natal [announced the launch of a portal listing its 10,067 audited public-works properties](https://www.sanews.gov.za/south-africa/kzn-launches-public-works-and-infrastructure-property-finding-portal).
 
+The social development department said on 12 October that [its legacy non-profit registration and reporting system closes on 15 October and manual submissions end, leaving the online compliance system introduced in September 2025 as the only channel](https://www.citizen.co.za/news/south-africa/dsd-introduces-new-npo-system-heres-what-you-need-to-know/); it says the system is linked to the companies registry, the revenue service and home affairs. No count of organisations migrated is published.
+
 ## Sudan
 
 [Company commercial registration was added to the national e-government platform](https://alghadalsudani.com/34214/), with two services for the legal profession, reported on 1 October. It is the first movement on the register since administrative work in Port Sudan was suspended in December 2025; no count of registrations made online is published. [A survivors' fund opened a tender for a secure, offline-capable digital victims' registry, built with a national organisation in an 18-month project from 1 November 2026, with about 500 survivors to be documented first and hosting outside the country](https://www.globalsurvivorsfund.org/wp-content/uploads/2026/10/VAC_TRF_termofref-sudan-registry_SDN_EN_2026.pdf).
@@ -193,7 +197,9 @@ The country's other identifier-bearing register went the other way. Parliament's
 
 The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
 
-The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html). [A former works minister told Parliament's physical infrastructure committee that the digital number plate rollout went ahead without a preliminary feasibility study](https://www.monitor.co.ug/uganda/news/national/how-ignored-warnings-missing-feasibility-studies-plagued-uganda-s-digital-plates-project-5630898).
+The Judiciary [is digitising the Chief Registrar's records on advocates and bailiffs: all files have been scanned, data capture into a searchable system comes next, and the first phase is due by the end of October 2026](https://allafrica.com/stories/202610090157.html). [A former works minister told Parliament's physical infrastructure committee that the digital number plate rollout went ahead without a preliminary feasibility study](https://www.monitor.co.ug/uganda/news/national/how-ignored-warnings-missing-feasibility-studies-plagued-uganda-s-digital-plates-project-5630898). Officials of the Auditor General's office [told the committee that the system had not been audited since implementation began in 2021, the Auditor General's submission saying the project was classified as security-related and financed in full by the contractor](https://nilepost.co.ug/news/378485/mps-order-detention-of-two-auditors-over-unaudited-digital-number-plate-project); the committee ordered two of them detained.
+
+The lands minister of state said [applicants now enter their data at district level and have titles printed without moving between offices, and that a blockchain-based land-records system has been developed](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles), reported on 11 October. No procurement, supplier or count of titles is published.
 
 ## Zambia
 

@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-14
+period: 2026-09-01 to 2026-10-14
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 526eccac3f52
+record: 6d0816256b39
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
@@ -82,6 +82,8 @@ The non-bank financial regulator [will launch a second sandbox cohort, on crowdf
 At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
 
 A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction with the small-enterprise agency and UNDP, US$5.9m for the building and US$6.1m for equipment and programmes](https://statehouse.gov.ng/tinubu-welcomes-12-million-abuja-entrepreneurship-centre-to-strengthen-nigerias-msme-ecosystem/), targeting 1,500 small businesses; no completion date is given.
+
+A growth-stage founder platform and Sterling Bank [set up a first-loss fund of a stated US$200m on 14 October to back up to US$1bn of bank loans to start-ups and small firms nominated by their investors](https://techcabal.com/2026/10/14/cascador-sterling-startup-loans/). Its capital is still to be raised.
 
 ## Senegal
 
