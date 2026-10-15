@@ -1107,9 +1107,9 @@ date,page,rows,bytes_gz,elements
 2026-10-13,finance/budgets/index.html,11676,1084125,2547
 2026-10-13,finance/index.html,1336,429942,2951
 2026-10-15,countries/AGO/budgets.html,145,29443,2209
-2026-10-15,countries/AGO/finance.html,13,5665,553
+2026-10-15,countries/AGO/finance.html,12,5246,526
 2026-10-15,countries/BDI/budgets.html,133,18951,2103
-2026-10-15,countries/BDI/finance.html,5,1844,339
+2026-10-15,countries/BDI/finance.html,6,2748,367
 2026-10-15,countries/BEN/budgets.html,121,22138,2207
 2026-10-15,countries/BEN/finance.html,14,7039,577
 2026-10-15,countries/BFA/budgets.html,495,74342,2208
@@ -1138,7 +1138,7 @@ date,page,rows,bytes_gz,elements
 2026-10-15,countries/EGY/finance.html,12,5661,522
 2026-10-15,countries/ERI/finance.html,3,2129,286
 2026-10-15,countries/ETH/budgets.html,370,46973,2213
-2026-10-15,countries/ETH/finance.html,38,14213,1166
+2026-10-15,countries/ETH/finance.html,39,14496,1190
 2026-10-15,countries/GAB/budgets.html,35,7171,865
 2026-10-15,countries/GAB/finance.html,8,2285,418
 2026-10-15,countries/GHA/budgets.html,147,27192,2170
@@ -1168,7 +1168,7 @@ date,page,rows,bytes_gz,elements
 2026-10-15,countries/MOZ/budgets.html,110,18456,2107
 2026-10-15,countries/MOZ/finance.html,20,11966,723
 2026-10-15,countries/MRT/budgets.html,339,55891,2205
-2026-10-15,countries/MRT/finance.html,9,4188,445
+2026-10-15,countries/MRT/finance.html,10,4777,468
 2026-10-15,countries/MUS/budgets.html,317,38519,2183
 2026-10-15,countries/MUS/finance.html,2,2605,263
 2026-10-15,countries/MWI/budgets.html,554,48678,2205
@@ -1213,13 +1213,13 @@ date,page,rows,bytes_gz,elements
 2026-10-15,countries/XSS/finance.html,268,78562,2720
 2026-10-15,countries/XWA/finance.html,25,9643,848
 2026-10-15,countries/ZAF/budgets.html,235,43478,2212
-2026-10-15,countries/ZAF/finance.html,55,18583,1582
+2026-10-15,countries/ZAF/finance.html,56,18929,1606
 2026-10-15,countries/ZMB/budgets.html,130,28225,2206
 2026-10-15,countries/ZMB/finance.html,20,9897,714
 2026-10-15,countries/ZWE/budgets.html,92,20032,2026
 2026-10-15,countries/ZWE/finance.html,8,5242,426
 2026-10-15,datasets/data-centres/index.html,580,439112,2964
 2026-10-15,datasets/institution-hosting/index.html,1830,58327,2692
-2026-10-15,finance/all/index.html,12155,891548,2303
+2026-10-15,finance/all/index.html,12159,893472,2303
 2026-10-15,finance/budgets/index.html,11676,1084125,2547
-2026-10-15,finance/index.html,1335,429334,2952
+2026-10-15,finance/index.html,1338,430912,2952
