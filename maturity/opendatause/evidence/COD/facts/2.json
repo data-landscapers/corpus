@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-23-rhinoceros-data-gouv-cd-lancement",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The Institut National de la Statistique (INS), the national statistics office, officially launched data.gouv.cd on 2026-02-23, described as the national open data platform of the DRC and framed as part of the Government's vision for transparency; the document names no open data policy, strategy or decree behind it, so it does not tie the portal to a policy.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "data.gouv.cd"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The INS releases datasets on data.gouv.cd covering demography, economy, health, education, public finance, agriculture and infrastructure in CSV, XLSX and JSON; the document gives no count of datasets or of publishing bodies and names no ministry other than the INS.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "data.gouv.cd"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gouv.cd",
+   "country_label": "plateforme nationale des données ouvertes",
+   "class": "other",
+   "platform": "Rhinoceros Software (host site)",
+   "owner": "Institut National de la Statistique (INS)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

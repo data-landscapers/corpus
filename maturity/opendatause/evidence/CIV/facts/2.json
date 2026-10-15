@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The 2024-2026 national open government action plan lists the creation of an open data portal among the government's initiatives since joining the OGP and, under commitment 6, speaks of the Côte d'Ivoire Open Data portal as running and to be enriched with datasets; it names no running body and does not tie the portal to an open data policy, and it gives no date for the portal, so the plan's publication date of 2025-01 is used.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "portail Open Data de la Côte d'Ivoire"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail Open Data de la Côte d'Ivoire",
+   "country_label": "portail open data",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Engagement 6 : promotion de l'open data (hackathons, renforcement de capacités, campagne digitale)",
+   "country_label": "Engagement 6 du PAN 2024-2026",
+   "class": "other",
+   "platform": "",
+   "owner": "CICG (responsible), June 2026 end",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

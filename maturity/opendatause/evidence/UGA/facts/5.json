@@ -1,0 +1,26 @@
+{
+ "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The same report says work continued to operationalise an open data portal and that staff reviewed it and gave input for further development; it names no publishing bodies or dataset count, the ministry's report does not say who runs the portal beyond the ministry's own activity, and it does not tie the portal to the draft policy.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "Open data portal"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open data portal",
+   "country_label": "open data portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

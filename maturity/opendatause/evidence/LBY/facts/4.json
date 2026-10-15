@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-11-gia-open-data-platform-91-datasets",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Open Data Platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Platform",
+   "country_label": "Open Data Platform (opendata.gia.gov.ly)",
+   "class": "other",
+   "platform": "",
+   "owner": "General Information Authority (GIA)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

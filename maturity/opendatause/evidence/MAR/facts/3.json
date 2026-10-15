@@ -1,0 +1,42 @@
+{
+ "slug": "2024-12-01-add-maroc-manuel-operationnel-standards-formats-donnees-ouvertes",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The ADD's December 2024 operational manual on open data standards says the national open data portal was launched in 2011, that the Agence de Développement du Digital coordinates the Open Data programme and is responsible for the portal, and that every dataset published there must meet its minimum quality criteria; it states that the portal hosts datasets of some administrations and references datasets on sector portals, names no ministry or agency that has released data and gives no dataset or publisher count, and ties the portal to no open data policy, strategy or law.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "portail national de données ouvertes (data.gov.ma)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail national de données ouvertes (data.gov.ma)",
+   "country_label": "Portail national de données ouvertes",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence de Développement du Digital (ADD), coordinator of the Open Data programme and responsible for the national portal",
+   "tiers": "national; structures publiques publish directly or connect their own open data portals, which are referenced on it"
+  },
+  {
+   "system": "Loi n°31-13 relative au droit d'accès à l'information",
+   "country_label": "Loi 31-13",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Morocco",
+   "tiers": "national; access to information law on which the document says open data in Morocco currently rests"
+  },
+  {
+   "system": "Open Data Readiness Assessment (ODRA)",
+   "country_label": "étude sur la préparation du Maroc à l'ouverture des données publiques",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national; a 2019-2020 study including an analysis of the legal framework"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

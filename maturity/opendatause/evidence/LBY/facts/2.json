@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-27-gia-open-government-data-platform-launch",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The GIA, which runs the platform, launched the Open Government Data Platform at opendata.gia.gov.ly on 27 November 2025, simultaneously with the draft national open data policy, with first-phase datasets, APIs and indicators but no dataset count or named publishing bodies.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "Open Government Data Platform"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Government Data Platform",
+   "country_label": "Open Government Data Platform (opendata.gia.gov.ly)",
+   "class": "other",
+   "platform": "",
+   "owner": "General Information Authority (GIA)",
+   "tiers": "national"
+  },
+  {
+   "system": "National Data Distributor (LY-NDEX)",
+   "country_label": "National Data Distributor (LY-NDEX)",
+   "class": "other",
+   "platform": "",
+   "owner": "General Information Authority (GIA)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

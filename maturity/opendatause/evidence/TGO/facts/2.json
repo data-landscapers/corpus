@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-18-togofirst-observatoire-national-du-numerique",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "Togo First, 18 November 2025, recalls that in December 2024 Togo launched two public data dissemination platforms, Open Data and the Geoportail Open Data, run by the Agence Togo Digital; it does not tie them to an open data policy.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Open Data"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data",
+   "country_label": "Open Data",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  },
+  {
+   "system": "Géoportail Open Data",
+   "country_label": "Géoportail Open Data",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Togo Digital",
+   "tiers": ""
+  },
+  {
+   "system": "Observatoire national du numérique (ONN)",
+   "country_label": "Observatoire national du numérique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Efficacité de l'action publique et de la Transformation numérique, with GIZ support",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

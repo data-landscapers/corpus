@@ -1,0 +1,26 @@
+{
+ "slug": "2023-02-01-add-maroc-guide-methodologique-inventaire-de-donnees",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The Agence de Développement du Digital's data-inventory guide (v1.3, published February 2023, no event date given) refers to a national open data portal on which public bodies publish datasets, with a COPIL Open Data and the ADD setting the common framework; it names no open data policy behind the portal, does not say who runs it, and gives no dataset or publisher count.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "portail national de données ouvertes"
+  }
+ ],
+ "systems": [
+  {
+   "system": "portail national de données ouvertes (data.gov.ma)",
+   "country_label": "Ouverture des données publiques au Maroc",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Morocco; ADD with the COPIL Open Data sets the inventory framework",
+   "tiers": "national; public bodies with a Responsable Open Data (ROD)"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

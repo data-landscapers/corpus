@@ -1,0 +1,52 @@
+{
+ "slug": "2018-07-08-world-bank-isr-ethiopia-open-data-initiative",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The report says the national open data portal, data.gov.et, launched in March 2016 under a project run by the Ministry of Communication and Information Technology; it does not say the portal is tied to an adopted open data policy, and says the draft policy guideline is still to clarify the initiative's institutional home.",
+   "as_of": "2016-03",
+   "date_precision": "month",
+   "system": "data.gov.et"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The report says the Ministry of Communications and Information Technology and the Central Statistics Agency, under a signed memorandum of understanding, had posted 29 datasets in open format on the national open data portal, with three CSA experts trained to upload data (status as at the report's 25 June 2018 indicator date).",
+   "as_of": "2018-06",
+   "date_precision": "month",
+   "system": "data.gov.et"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gov.et",
+   "country_label": "National Open Data Portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology, with the Central Statistics Agency",
+   "tiers": "national"
+  },
+  {
+   "system": "open data policy guideline",
+   "country_label": "national open data guideline / open data policy guideline",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": "national"
+  },
+  {
+   "system": "apps.gov.et",
+   "country_label": "apps.gov.et",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-03-add-base-de-donnees-startups-marocaines",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The Agence de Développement du Digital (ADD) is the organisation publishing a dataset of 1,028 Moroccan startups on data.gov.ma, whose resource was created and last modified on 2025-01-03 (dataset first created 2021-11-16); the document does not say who runs the portal or tie it to an open data policy.",
+   "as_of": "2025-01-03",
+   "date_precision": "day",
+   "system": "data.gov.ma"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The document shows data.gov.ma operating as a CKAN-based open data portal hosting datasets under an ODbL licence, with ADD as a listed publishing organisation; it does not state who runs the portal or tie it to an open data policy, and gives its date as the 2025-01-03 release.",
+   "as_of": "2025-01-03",
+   "date_precision": "day",
+   "system": "data.gov.ma"
+  }
+ ],
+ "systems": [
+  {
+   "system": "data.gov.ma",
+   "country_label": "data.gov.ma",
+   "class": "other",
+   "platform": "CKAN",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

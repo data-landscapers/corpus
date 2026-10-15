@@ -1,0 +1,44 @@
+{
+ "slug": "2016-01-01-sle-worldbank-open-data-readiness-assessment",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "Vice President Victor Bockarie Foh formally launched the national open data portal opendata.gov.sl on 2015-05-15, fulfilling a June 2014 OGP commitment; the World Bank assessment says its strategy, governance and management were not yet set.",
+   "as_of": "2015-05-15",
+   "date_precision": "day",
+   "system": "opendata.gov.sl"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The World Bank readiness assessment of November 2015 says few datasets had been uploaded to the portal since launch, and names only the NERC Ebola care facilities list as released under an open licence (CC-BY).",
+   "as_of": "2015-11",
+   "date_precision": "month",
+   "system": "opendata.gov.sl"
+  }
+ ],
+ "systems": [
+  {
+   "system": "opendata.gov.sl",
+   "country_label": "national Open Data Portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Sierra Leone (Open Government Initiative, Ministry of Information and Communications)",
+   "tiers": "national"
+  },
+  {
+   "system": "Open Data Council",
+   "country_label": "Open Data Council",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Communications / Right to Access Information Commission",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-08-democratisation-de-l-acces-aux-donnees-publiques-au-togo",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "La Voix de la Nation reports that the Open Data portal (opendata.gouv.tg) and the Geoportail (geodata.gouv.tg) were officially launched in December 2024 by the digital ministry through its operational arm, the Agence Togo Digital; the article names no open data policy.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Open Data"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The article states the Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project; the article is dated 2025-01-08 and gives no date for the figure, so that date is used.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "Géoportail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data",
+   "country_label": "Open Data",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Togo Digital (digital ministry)",
+   "tiers": ""
+  },
+  {
+   "system": "Géoportail",
+   "country_label": "Géoportail",
+   "class": "other",
+   "platform": "",
+   "owner": "Agence Togo Digital (digital ministry)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

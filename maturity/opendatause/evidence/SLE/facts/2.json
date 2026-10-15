@@ -1,0 +1,26 @@
+{
+ "slug": "2017-01-18-sierra-leone-raic-open-data-programme",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The Right to Access Information Commission's open data page names the national Open Data Portal for Sierra Leone (www.opendatasl.gov.sl), says the Commission provides overall management and the Ministry of Information and Communications technical guidance, and lists a 2016 Open Data policy among the documents on the page; it states no dataset count or publishing ministry, and the date used is the page's own publication date, 2017-01-18.",
+   "as_of": "2017-01-18",
+   "date_precision": "day",
+   "system": "Open Data Portal for Sierra Leone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Portal for Sierra Leone (www.opendatasl.gov.sl)",
+   "country_label": "Open Data Portal for Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Right to Access Information Commission (overall management) with the Ministry of Information and Communications (technical guidance)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

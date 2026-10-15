@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-03-malawi-launches-new-open-data-portal",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The OGP Malawi Secretariat announced on 2025-09-03 that Malawi had officially launched its new Open Data Portal, giving citizens access to government budget, development project and public service delivery data through dashboards and downloadable datasets, as part of the Third OGP National Action Plan; the document names no publishing ministry or dataset count and does not tie the portal to an open data policy.",
+   "as_of": "2025-09-03",
+   "date_precision": "day",
+   "system": "Malawi Open Data Portal"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Open Data Portal",
+   "country_label": "Open Data Portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Malawi (announced by the OGP Malawi Secretariat)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}

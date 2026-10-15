@@ -1,0 +1,120 @@
+{
+ "id": "opendatause",
+ "study_file": "maturity-study-opendatause.md",
+ "subjects": [
+  "data.open"
+ ],
+ "stage_topic": "data.open",
+ "redraws": [
+  "data.open--use-of-open-data"
+ ],
+ "carry": [
+  "data.open--use-of-open-data"
+ ],
+ "carry_studies": [
+  "opendatapolicy"
+ ],
+ "carry_map": {
+  "opendatapolicy": {
+   "sub_indicator": "use",
+   "class": "open",
+   "aspects": {
+    "use": {
+     "to": "access",
+     "values": {
+      "published": "published",
+      "portal": "published",
+      "none": "no_portal"
+     }
+    }
+   }
+  }
+ },
+ "token_ceiling": 40000000,
+ "terms": [
+  "open data",
+  "open-data",
+  "opendata",
+  "open government data",
+  "open datasets",
+  "open licence",
+  "open license",
+  "data portal",
+  "Open Data Inventory",
+  "Open Data Barometer",
+  "Open Data Day",
+  "données ouvertes",
+  "donnees ouvertes",
+  "ouverture des données",
+  "ouverture des donnees",
+  "licence ouverte",
+  "portail de données",
+  "portail des données",
+  "dados abertos",
+  "abertura de dados",
+  "portal de dados",
+  "datos abiertos",
+  "البيانات المفتوحة",
+  "بوابة البيانات",
+  "منصة البيانات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "use",
+   "label": "Use of open data",
+   "subject": "data.open",
+   "text": "Use of open data: use of open data",
+   "indicator_id": "data.open--use-of-open-data-use-of-open-data",
+   "class": "open",
+   "norm_short": "The African Union's Data Policy Framework (2022) and the Africa Data Consensus (2015) ask governments to open the data they hold for anyone to use, and to see it used."
+  }
+ ],
+ "classes": [
+  "open",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "access",
+   "name": "Data published for download, and under an open licence",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "licensed",
+    "published"
+   ],
+   "values": [
+    "licensed",
+    "published",
+    "none"
+   ]
+  },
+  {
+   "key": "breadth",
+   "name": "Several public bodies publishing",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  },
+  {
+   "key": "reuse",
+   "name": "Reuse on record",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reused"
+   ],
+   "values": [
+    "reused"
+   ]
+  }
+ ],
+ "flags": []
+}

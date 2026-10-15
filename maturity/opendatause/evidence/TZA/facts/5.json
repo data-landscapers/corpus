@@ -1,0 +1,34 @@
+{
+ "slug": "2018-06-25-tza-worldbank-sogdat-year3-open-data-policy",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "class": "open",
+   "fact": "The report says the national open data portal opendata.go.tz, launched in September 2015 and managed by the eGovernment Agency, held 163 datasets (755 resources) from 11 institutions in 4 sectors by June 2017, double the year before, under the Chief Secretary's January 2015 circular as the interim directive.",
+   "as_of": "2017-06",
+   "date_precision": "month",
+   "system": "National Open Data Policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Open Data Policy",
+   "country_label": "Takwimu Huria",
+   "class": "other",
+   "platform": "",
+   "owner": "Open Data Task Force (National Bureau of Statistics chairing, eGovernment Agency, National Archives), reporting to the Ministry of Finance",
+   "tiers": "national"
+  },
+  {
+   "system": "Tanzania Open Data Portal",
+   "country_label": "opendata.go.tz",
+   "class": "other",
+   "platform": "",
+   "owner": "eGovernment Agency, coordinated by the National Bureau of Statistics",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from opendatapolicy; no document opened"
+}
