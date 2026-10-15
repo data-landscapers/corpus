@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-22-undp-statistics-mauritius-maustats-platform-launch",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "UNDP reports that Statistics Mauritius, with UNDP, officially launched the MauStats web-based data platform on 22 October 2025, a one-stop hub to collect, analyse and share data through interactive dashboards, built to SDMX data exchange standards.",
+     "as_of": "2025-10-22", "date_precision": "day", "system": "MauStats", "class": "open"}
+  ],
+  "systems": [
+    {"system": "MauStats", "country_label": "MauStats", "class": "open", "platform": "open-source web-based SDMX data system", "owner": "Statistics Mauritius", "tiers": ""}
+  ],
+  "note": "Document does not state a dataset count, licence, other publishing bodies or reuse; downloads are not stated explicitly."
+}

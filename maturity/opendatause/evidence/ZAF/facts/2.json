@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-31 SA finally has a broadband map - and it reveals where the gaps are",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SADIS broadband GIS map",
+   "country_label": "SADIS broadband map",
+   "class": "other",
+   "platform": "",
+   "owner": "DBSA",
+   "tiers": ""
+  }
+ ],
+ "note": "Map data is DBSA-owned and not public; ICASA said to make only mobile coverage data available, with no portal or download stated."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2022-12-23-worldbank-odra-benin",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail national de données ouvertes",
+   "country_label": "Benin national open data portal (no address given)",
+   "class": "other",
+   "platform": "CKAN",
+   "owner": "ASIN",
+   "tiers": ""
+  },
+  {
+   "system": "AfDB data portal (INStaD datasets)",
+   "country_label": "African Development Bank data portal",
+   "class": "other",
+   "platform": "",
+   "owner": "African Development Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal built 2021 by ASIN but official launch still recommended in Dec 2022, so not at work; INStaD publishes on the AfDB's portal (donor-run); no licence or reuse stated. Read via passages file: lines 1-307 whole, remainder by targeted search only (token budget)."
+}

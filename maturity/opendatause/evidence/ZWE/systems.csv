@@ -1,2 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,National Data Commons,National Data Commons (planned; no address given),other,,"Ministry of ICT, Postal and Courier Services",,2026-08-04-zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge
+ZWE,National AI and Data Platform,National AI and Data Platform (to be introduced gradually; no address given),other,,"Ministry of ICT, Postal and Courier Services",,2026-03-16-mnangagwa-launches-five-year-ai-strategy
+ZWE,ZIMSTAT Open Data Portal (ODP 2.0),"ZIMSTAT ODP 2.0 public frontend, zw.dbr.afdb.org",open,SDMX-based portal,Zimbabwe National Statistics Agency (ZIMSTAT),,2025-01-01-zimstat-odp2-tutorial-guide
+ZWE,OpenSDG,ZIMSTAT OpenSDG SDG portal,open,"OpenSDG, SDMX foundation",Zimbabwe National Statistics Agency (ZIMSTAT),,2025-01-01-zimstat-odp2-tutorial-guide
+ZWE,Zimbabwe eCadastre,"Zimbabwe eCadastre, www.zimcadastre.co.zw",other,,Department of the Surveyor General,,2026-01-01-zimbabwe-ecadastre-portal
+ZWE,Open Data Portal 2.0,ZimStat Open Data Portal 2.0,other,,ZimStat,,2025-12-05-zimstat-un-dfdi-meeting
+ZWE,OpenSDG,OpenSDG national SDG reporting platform,other,,ZimStat,,2025-12-05-zimstat-un-dfdi-meeting
+ZWE,Zimbabwe Data Portal (Open Data for Africa),zimbabwe.opendataforafrica.org,other,Open Data for Africa,African Development Bank,,2022-08-12-zwe-frma-feasibility-open-data-policy
+ZWE,Zimbabwe Open Data Initiative (ZODI),zimbabweopendata.org,other,,"Institute of Data Science Management, Data Management Society, Pan African Business Council",,2022-08-12-zwe-frma-feasibility-open-data-policy
+ZWE,ZimStat website,www.zimstat.co.zw,,,ZimStat,,2022-08-12-zwe-frma-feasibility-open-data-policy
 ZWE,National Data Marketplace (Gov-Data-Hub),National Data Marketplace or Gov-Data-Hub (planned),other,,,,2026-01-01-zimbabwe-national-ai-strategy-2026-2030

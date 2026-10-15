@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-05-vox-congo-accord-partenariat-capitaliser-donnees-statistiques-open-data-portal",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The director general of the Institut national de la statistique said on 5 June 2026 that the Open Data Portal is at work and anyone can access and download data from it in Excel, PDF and Word formats.", "as_of": "2026-06-05", "date_precision": "day", "system": "Open Data Portal", "class": "open"},
+    {"sub_indicator": "use", "aspect": "breadth", "value": "several", "fact": "The INS director general said the institute has begun loading onto the Open Data Portal not only its own data but the output of sectoral ministries and other national agencies with statistics; no body other than the INS is named.", "as_of": "2026-06-05", "date_precision": "day", "system": "Open Data Portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Open Data Portal", "country_label": "Open Data Portal (INS)", "class": "open", "platform": "", "owner": "Institut national de la statistique", "tiers": ""}
+  ],
+  "note": ""
+}

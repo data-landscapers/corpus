@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-instat-mali-atelier-sdmx-migration-odp-2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP) 2.0", "country_label": "ODP 2.0 (INSTAT migration, UEMOA regional rollout)", "class": "", "platform": "ODP 2.0", "owner": "INSTAT", "tiers": ""}
+  ],
+  "note": "A five-day training workshop on SDMX and migration to ODP 2.0 from 30 June 2026; it does not state that datasets are published for download or that a portal is at work."
+}

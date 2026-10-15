@@ -1,0 +1,17 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "3",
+   "access": "licensed",
+   "breadth": "",
+   "reuse": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-002",
+   "gaps": "No source held since October 2023 names two or more public bodies publishing data.",
+   "note": "Counted from the four questions by study-ladder-opendatause.py."
+  }
+ ]
+}

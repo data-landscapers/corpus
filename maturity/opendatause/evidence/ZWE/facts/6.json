@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-05-zimstat-un-dfdi-meeting",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal 2.0", "country_label": "ZimStat Open Data Portal 2.0", "class": "other", "platform": "", "owner": "ZimStat", "tiers": ""},
+    {"system": "OpenSDG", "country_label": "OpenSDG national SDG reporting platform", "class": "other", "platform": "", "owner": "ZimStat", "tiers": ""}
+  ],
+  "note": "Enhanced Open Data Portal 2.0 is only scheduled for launch in Q1 2026 (planned); OpenSDG is a reporting platform with no download stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-24-ami-lancement-portail-electronique-journal-officiel-rim",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail électronique du Journal Officiel",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Secrétariat général du Gouvernement",
+   "tiers": ""
+  }
+ ],
+ "note": "The launched portal gives access to legal texts (Journal Officiel), not datasets or tables for download, so no fact for class open."
+}

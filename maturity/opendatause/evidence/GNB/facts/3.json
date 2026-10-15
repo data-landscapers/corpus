@@ -1,0 +1,26 @@
+{
+ "slug": "2015-04-01-anp-guine-bissau-portal-dados-abertos",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The National Assembly's open data page says it publishes 4 open datasets in JSON via APIs (institution, ombudsman e-SIC, legislative process, transparency); dated to the page's last modification, 1 April 2015.",
+   "as_of": "2015-04-01",
+   "date_precision": "day",
+   "system": "Dados Abertos - Assembleia Nacional Popular",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dados Abertos - Assembleia Nacional Popular",
+   "country_label": "National Assembly open data page (https://www.parlamento.gw/transparencia/dados-abertos)",
+   "class": "open",
+   "platform": "Interlegis portal",
+   "owner": "Assembleia Nacional Popular",
+   "tiers": ""
+  }
+ ],
+ "note": "Page refers to an open licence in the site footer but names none, so no licensed fact."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-29-south-sudan-nbs-open-data-portal",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The National Bureau of Statistics describes an operational Open Data Portal with publicly accessible datasets, multiple download formats (CSV, Excel) and API access; the page is undated, so its 2026-08-29 capture date is used.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "NBS Open Data Portal",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The NBS page states its Public Data tier is freely available to be accessed, used and shared without restrictions for any purpose; the page is undated, so its 2026-08-29 capture date is used.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "NBS Open Data Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NBS Open Data Portal",
+   "country_label": "Open Data Portal (NBS, nbs.gov.ss)",
+   "class": "open",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": "Public; Registered; Restricted"
+  },
+  {
+   "system": "National Data Archive",
+   "country_label": "National Data Archive (NBS microdata)",
+   "class": "",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Food Security Statistics Portal",
+   "country_label": "Food Security Statistics Portal (NBS)",
+   "class": "",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+ "slug": "2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0",
+ "facts": [
+  {"sub_indicator": "use", "aspect": "access", "value": "published", "class": "open",
+   "fact": "INSEED reports that in April 2026 a national workshop in Lome trained about thirty statistical-system staff to migrate datasets from Togo's existing Open Data Portal 1.0 to ODP 2.0, the national open data platform for INSEED and sector ministries; no dataset count or licence is stated.",
+   "as_of": "2026-04", "date_precision": "month", "system": "Open Data Portal (ODP) 1.0 / 2.0"}
+ ],
+ "systems": [
+  {"system": "Open Data Portal (ODP) 1.0 / 2.0", "country_label": "Plateforme de Donnees Ouvertes (ODP) du Togo", "class": "open", "platform": "SDMX-based ODP", "owner": "INSEED and national statistical system", "tiers": ""}
+ ],
+ "note": ""
+}

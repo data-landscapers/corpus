@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-14-portail-td-mise-en-ligne-journal-officiel-republique-du-tchad",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Journal Officiel digital platform (journalofficiel.td)",
+   "country_label": "journalofficiel.td",
+   "class": "other",
+   "platform": "",
+   "owner": "Secrétariat Général du Gouvernement",
+   "tiers": ""
+  }
+ ],
+ "note": "Official texts online, not datasets; no fact."
+}

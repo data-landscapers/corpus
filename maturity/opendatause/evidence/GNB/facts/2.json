@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-08-imf-pr24262-guinea-bissau-implements-egdds-national-summary-data-page",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The IMF reports Guinea-Bissau launched the National Summary Data Page on its national Open Data Platform, giving macroeconomic data in human- and machine-readable form; dated to the release date as no launch date is given.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "National Summary Data Page",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "The IMF states the data on the page is provided by the National Institute of Statistics, the Ministry of Finance and the Central Bank of West African States.",
+   "as_of": "2024-07-08",
+   "date_precision": "day",
+   "system": "National Summary Data Page",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Summary Data Page",
+   "country_label": "National Summary Data Page on Guinea-Bissau's Open Data Platform (guinebissau.opendataforafrica.org/nsdp)",
+   "class": "open",
+   "platform": "African Development Bank Open Data Platform",
+   "owner": "National Institute of Statistics, Ministry of Finance, BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": "No open licence stated; platform is AfDB-provided but the release says the national bodies provide the data."
+}

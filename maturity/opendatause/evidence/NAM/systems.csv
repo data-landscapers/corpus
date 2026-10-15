@@ -1,3 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,NSA Central Data Catalog (NADA microdata archive),microdata.nsanamibia.com,open,NADA,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Data Portal,nsa.org.na/data-portals/,,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,National Summary Data,nsa.org.na/data-portals/,,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Geo Portal (NSDI),nsa.org.na/data-portals/,,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,COVID 19 Dashboard,nsa.org.na/data-portals/,other,,Namibia Statistics Agency,national,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,National Spatial Data Infrastructure (NSDI),"NSDI policy, Namibia Statistics Agency",,,Namibia Statistics Agency; Ministry of Lands and Resettlement,national,2015-03-06-namibia-nsdi-policy-gazette-5684
+NAM,NSDI Geographic Portal (Digital Namibia map viewer and Geofind online metadata catalogue),NSDI Geographic Portal,,,Namibia Statistics Agency,,2025-10-13-nsa-nsdi-geoportal-redesign-tender
 NAM,CityMender Namibia,"CityMender Namibia app (Apple App Store, Google Play)",other,mobile app,"CityMender (private, founder Keyuren Maharaj)",,2026-08-14-namibia-citymender-infrastructure-reporting-app
 NAM,Multilateral Environmental Agreements (MEA) Monitoring and Reporting Online Platform,MEFT MEA Monitoring and Reporting Online Platform,other,online platform,"Ministry of Environment, Forestry and Tourism (with UNDP, GEF, UNAM)",,2026-08-07-namibia-mea-monitoring-platform-gef-undp

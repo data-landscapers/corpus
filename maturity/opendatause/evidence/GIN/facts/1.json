@@ -1,0 +1,8 @@
+{"slug":"2017-01-01-itie-guinee-politique-gmp-donnees-ouvertes","facts":[
+{"sub_indicator":"use","aspect":"access","value":"published","fact":"The ITIE-Guinee steering committee's policy states that the Ministry of Mines (www.mines.gov.gn), CPDM, SOGUIPAMI, the Chambre des Mines and the central bank (BCRG) publish revenue data, including extractive revenues, on their own sites, and that mining contracts are online at www.contratsminiersguinee.com; no event date is given, so the document's 2017 date is used.","as_of":"2017","date_precision":"year","system":"Government sites of the Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines and BCRG","class":"open"},
+{"sub_indicator":"use","aspect":"breadth","value":"several","fact":"The policy names the Ministry of Mines, CPDM, SOGUIPAMI, the Chambre des Mines and the BCRG as bodies each publishing revenue data on its own site; no event date is given, so the document's 2017 date is used.","as_of":"2017","date_precision":"year","system":"Government sites of the Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines and BCRG","class":"open"}],
+"systems":[
+{"system":"Government sites of the Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines and BCRG","country_label":"www.mines.gov.gn; www.cpdm.org; www.soguipami-gn.com; www.chambredesmines.gn.org","class":"open","platform":"","owner":"Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines, BCRG","tiers":""},
+{"system":"Contrats miniers Guinee","country_label":"www.contratsminiersguinee.com","class":"open","platform":"","owner":"","tiers":""},
+{"system":"ITIE-Guinee website (Excel and PDF publication)","country_label":"ITIE-Guinee website","class":"other","platform":"","owner":"ITIE-Guinee steering committee","tiers":""}],
+"note":""}

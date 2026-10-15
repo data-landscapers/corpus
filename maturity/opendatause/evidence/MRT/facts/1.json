@@ -1,0 +1,15 @@
+{
+ "slug": "2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail des données ouvertes de la Mauritanie",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "MTNIMA / ANETAT (proposed)",
+   "tiers": ""
+  }
+ ],
+ "note": "The strategy designs a national open data portal (Priority 2.2) and recommends one; it states no portal publishing data, so no fact."
+}

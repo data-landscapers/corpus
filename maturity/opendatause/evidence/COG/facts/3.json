@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-09-congo-hiswaca-plateforme-statistiques",
+  "facts": [],
+  "systems": [
+    {"system": "Hiswaca platform", "country_label": "Hiswaca statistical data platform", "class": "other", "platform": "", "owner": "ONG Pratic, built by startup Génération numérique, World Bank-funded HISWACA project", "tiers": ""}
+  ],
+  "note": "Platform presented 8 January 2026 by an NGO with downloads in Excel, PDF, JSON and an API, but the document does not say a public body publishes on it, so no fact."
+}

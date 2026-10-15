@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-opendatause.md — government data published for anyone to reuse, and reused, in four questions
 last_reviewed: 2026-10-15
-status: run on Bill's word of 2026-10-15; stopped at the token ceiling during the read; waits for Bill
+status: run 2026-10-15; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
 # Maturity study: opendatause
@@ -71,9 +71,17 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 - [x] **D0. Prepare**: this file, `study.json`, the carry and the reading lists, 2026-10-15.
 - [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
-- [ ] **D2. Read**: the 65 planned drafters read, the regional story once: 23 facts, 56 with the 30 carried, and not one open licence. **The carry passes over every document the open data policy study read**, 232 of them, though it carried facts from only 24: the licence pages Burundi, Mali and Somalia's cells cite went unread. A second fan-out over the 232 was stopped at the ceiling, 26.1M, with 20 read; 212 remain in 48 countries, about 17M more. Staged on what is held it would be 5: 1, 2: 17, unplaced 6, no evidence 30.
-- [ ] **D3. Stage** as at 2026-09-30; the parent's corrections; the second drafter's 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D2. Read**: the 65 planned drafters, the regional story read once, then, on Bill's word, the 232 documents the open data policy study had read: the carry passes over every one of them though it carried facts from only 24, and the licence pages Burundi, Mali and Somalia's cells cite were among them. 113 facts after the parent's corrections (`corrections.csv`).
+- [x] **D3. Staged** as at 2026-09-30: stage 5 Liberia, Senegal; 4 Guinea-Bissau, Libya, Togo, Zambia; 3 Burundi, Central African Republic, Madagascar, Mali, Mozambique, Somalia, South Sudan; 2 twenty-three; none at 1; unplaced Burkina Faso, Algeria, Kenya, Nigeria, Sierra Leone; no evidence thirteen. The second drafter agreed on 18 of 20.
+- [x] **D4. Written, rendered and linted**, by `study-opendatause-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 43.0M of 25M: the second read, about 17M, was Bill's call at the ceiling.
+
+**Decided in the run**:
+
+- **Stage 5 rests on usage figures**: Liberia's microdata catalogue shows 273 downloads of a 2024 survey, Senegal's national data archive per-dataset view counts. Neither has an open licence on record; the later answer places them (method §3.3), and the summary says so.
+- **Mauritania's EITI news articles are removed as reuse**: articles citing a report's figures are a report quoted, not data reused.
+- **A count of bodies tagged as access is moved to question 3**: Libya's platform counts nine government entities, Togo's geoportal 23 ministries. Congo's statement that ministries' data is being loaded names and counts none, and is removed.
+- **Data you must ask for, or reports, are not data published**: Tunisia's registry for viewing and requesting inventoried data, Niger's nutrition portal of reports and Nigeria's education platform with no download stated are removed.
+- **Guinea-Bissau's summary data page** lists the statistics institute, the finance ministry and the regional central bank as providers; it stands at 4.
 
 ## Boundary
 

@@ -1,2 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,"Government sites of the Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines and BCRG",www.mines.gov.gn; www.cpdm.org; www.soguipami-gn.com; www.chambredesmines.gn.org,open,,"Ministry of Mines, CPDM, SOGUIPAMI, Chambre des Mines, BCRG",,2017-01-01-itie-guinee-politique-gmp-donnees-ouvertes
+GIN,Contrats miniers Guinee,www.contratsminiersguinee.com,open,,,,2017-01-01-itie-guinee-politique-gmp-donnees-ouvertes
+GIN,ITIE-Guinee website (Excel and PDF publication),ITIE-Guinee website,other,,ITIE-Guinee steering committee,,2017-01-01-itie-guinee-politique-gmp-donnees-ouvertes
+GIN,Open Data Platform (ODP) 2.0,INS statistical dissemination platform (www.stat-guinee.org),open,ODP,Institut National de la Statistique,,2026-07-01-ins-atelier-sdmx-migration-odp-2-0
 GIN,"World Bank Microdata Library (Global Findex 2025 Guinea file, GIN_2024_FINDEX_v02_M)",https://microdata.worldbank.org/catalog/7911,other,World Bank Microdata Library,World Bank Development Research Group,,2025-10-01-guinea-global-findex-2025-microdata

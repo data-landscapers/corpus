@@ -15,7 +15,8 @@ The ladder is `maturity-study-opendatause.md` §2 and §3, every window three ye
 **A later yes answers the earlier ones** (method §3.3). Stage 1 is an `access` of `none` with no
 other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
-`corrections.csv`, where the parent's reading removed or revalued a row, is applied to
+`corrections.csv`, where the parent's reading removed or revalued a row (`revalued: aspect:value`
+moves it to another aspect), is applied to
 `evidence.csv` first, once. Writes each `stage.json` and `ladder-test.csv`.
 
 Exit: 0 written, 2 the study cannot be read.
@@ -58,8 +59,11 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
         if f and f["action"] == "removed":
             changed += 1
             continue
-        if f and f["action"].startswith("revalued: ") and r["value"] != f["action"].split(": ", 1)[1]:
-            r, changed = {**r, "value": f["action"].split(": ", 1)[1]}, changed + 1
+        if f and f["action"].startswith("revalued: "):
+            to = f["action"].split(": ", 1)[1]
+            aspect, value = to.split(":", 1) if ":" in to else (r["aspect"], to)   # a count of bodies tagged `access`
+            if (r["aspect"], r["value"]) != (aspect, value):
+                r, changed = {**r, "aspect": aspect, "value": value}, changed + 1
         out.append(r)
     return out, changed
 

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-24-alwihdainfo-cdig-geoportail-national-eau-portes-ouvertes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Géoportail national de l'eau",
+   "country_label": "Géoportail national de l'eau",
+   "class": "other",
+   "platform": "geoportal",
+   "owner": "CDIG, Ministère de l'Eau et de l'Énergie",
+   "tiers": ""
+  }
+ ],
+ "note": "Geoportal presented at an open day; no download, licence or dataset count stated."
+}

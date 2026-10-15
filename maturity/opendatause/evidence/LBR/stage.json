@@ -1,0 +1,17 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "5",
+   "access": "licensed",
+   "breadth": "several",
+   "reuse": "reused",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-005",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-opendatause.py."
+  }
+ ]
+}

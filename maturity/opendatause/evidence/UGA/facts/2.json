@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-national-sdg-task-force-july-2026",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Data Technical Working Group chaired by the Uganda Bureau of Statistics reported that all 155 reported SDG indicators and their metadata have been uploaded to the National SDG Open Data Portal, of 201 SDG indicators.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "National SDG Open Data Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National SDG Open Data Portal",
+   "country_label": "National SDG Open Data Portal",
+   "class": "open",
+   "platform": "",
+   "owner": "National SDG Secretariat, Office of the Prime Minister",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

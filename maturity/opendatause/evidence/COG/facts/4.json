@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data platform", "country_label": "INS Open Data platform", "class": "open", "platform": "", "owner": "Institut national de la statistique", "tiers": ""}
+  ],
+  "note": "Says validated census results will be published on the INS site and the Open Data platform: a future intention, not a dated publication, so no fact."
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,use,access,published,"The Namibia Statistics Agency runs a NADA microdata catalogue (microdata.nsanamibia.com) listing 16 Namibian studies, most marked Open data access, including the 2023 census PUMS last modified 21 July 2026; the document is a capture dated 9 August 2026.",2026-08-09,day,NSA Central Data Catalog (NADA microdata archive),open,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue,https://nsa.org.na/data-portals/

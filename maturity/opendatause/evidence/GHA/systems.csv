@@ -1,5 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GHA,Ghana Open Data Initiative portal (data catalogue),Ghana Open Data Initiative (GODI),other,"OGPL (first portal, 2012); rebooted and upgraded 2018-2019","National Information Technology Agency (NITA), Ministry of Communications",national; 154 staff from 20 MDAs trained in the revamp,2026-08-29-about-ghana-open-data-initiative
+GHA,District Development Data Platform,"District Development Data Platform (NDPC, with GIZ support)",,,National Development Planning Commission,,2026-06-05-ndpc-data-literacy-week-myjoy
+GHA,StatsBank 2.0,"StatsBank, Ghana Statistical Service (statsghana.gov.gh)",other,,Ghana Statistical Service,,2026-03-01-statsbank-2-0-release
+GHA,GHEITI open data portal,GHEITI open data portal and GHEITI website,other,,Ghana Extractive Industries Transparency Initiative Multi-Stakeholder Group,,2016-12-01-ghana-gheiti-open-data-policy
 GHA,Ghana Open Data portal,Ghana Open Data portal,open,,Ministry of Communications and Digitalisation,,2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report
 GHA,National Air Quality Data Hub,"National Air Quality Data Hub (KNUST/EPA, no address given)",other,PostgreSQL/PostGIS with map dashboard,"KNUST CDAI Lab, to pass to the Environmental Protection Authority",,2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub
 GHA,Fisheries Information System,"Fisheries Information System (online, no address given)",other,,Ministry of Fisheries and Aquaculture,,2026-08-17-ghana-news-funding-constraints-threaten-ghana-fisheries-transparency

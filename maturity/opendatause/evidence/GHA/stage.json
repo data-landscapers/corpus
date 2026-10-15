@@ -1,0 +1,17 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "access": "published",
+   "breadth": "",
+   "reuse": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-001;GHA-002",
+   "gaps": "No source held since October 2023 states an open licence for the data.",
+   "note": "Counted from the four questions by study-ladder-opendatause.py."
+  }
+ ]
+}

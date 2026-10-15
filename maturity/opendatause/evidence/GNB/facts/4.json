@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-14-gnb-ine-egdds-portal-dados-abertos",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The National Institute of Statistics communique says the National Summary Data Page, hosted on the national Open Data Portal, was launched on 14 June 2024 giving public access to key economic information.",
+   "as_of": "2024-06-14",
+   "date_precision": "day",
+   "system": "National Summary Data Page",
+   "class": "open"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "breadth",
+   "value": "several",
+   "fact": "The communique says the page was developed with the National Institute of Statistics, the Ministry of Finance and the BCEAO national directorate.",
+   "as_of": "2024-06-14",
+   "date_precision": "day",
+   "system": "National Summary Data Page",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Summary Data Page",
+   "country_label": "National Summary Data Page on Guinea-Bissau's Open Data Platform (guinebissau.opendataforafrica.org/nsdp)",
+   "class": "open",
+   "platform": "African Development Bank Open Data Platform",
+   "owner": "National Institute of Statistics, Ministry of Finance, BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": "No open licence stated."
+}

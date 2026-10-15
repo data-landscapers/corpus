@@ -1,0 +1,17 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "use",
+   "stage": "2",
+   "access": "published",
+   "breadth": "",
+   "reuse": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-002;MAR-006",
+   "gaps": "No source held since October 2023 states an open licence for the data.",
+   "note": "Counted from the four questions by study-ladder-opendatause.py."
+  }
+ ]
+}

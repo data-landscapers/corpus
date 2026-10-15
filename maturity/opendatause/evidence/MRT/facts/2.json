@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-26-mtnma-wardip-plan-annuel-achats-2026-portail-national-data-gov-mr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Portail national (data.gov.mr)",
+   "country_label": "data.gov.mr",
+   "class": "other",
+   "platform": "",
+   "owner": "MTNMA / WARDIP Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": "The purchase plan lists the portal as a planned procurement (consultant selection March-April 2026), not a live portal, so no fact."
+}

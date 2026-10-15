@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "INE states the definitive 2024 census results are also available on the INE portal (ine.gov.ao); the document is dated 2025-11-20.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "INE portal (ine.gov.ao)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INE portal",
+   "country_label": "INE portal https://www.ine.gov.ao",
+   "class": "open",
+   "platform": "",
+   "owner": "Instituto Nacional de Estatistica",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

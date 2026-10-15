@@ -1,2 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,Portail des données ouvertes de la Mauritanie,,other,,MTNIMA / ANETAT (proposed),,2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables
+MRT,Portail national (data.gov.mr),data.gov.mr,other,,MTNMA / WARDIP Mauritanie,,2025-12-26-mtnma-wardip-plan-annuel-achats-2026-portail-national-data-gov-mr
+MRT,Portail électronique du Journal Officiel,,other,,Secrétariat général du Gouvernement,,2025-11-24-ami-lancement-portail-electronique-journal-officiel-rim
+MRT,Data Warehouse (Mauritania EITI),Mauritania EITI Data Warehouse portal,open,,Mauritania EITI,,2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard
 MRT,Open Data Mauritania — NLP Hub,https://github.com/mwimlmauritania-byte/Open-Data-Mauritania,other,GitHub,MWiML — Mauritanian Women in Machine Learning,,2026-05-16-github-mwiml-open-data-mauritania-nlp-langues-nationales

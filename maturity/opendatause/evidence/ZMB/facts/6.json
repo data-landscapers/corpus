@@ -1,0 +1,8 @@
+{
+  "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "Zamportal", "country_label": "Zamportal", "class": "other", "platform": "", "owner": "Electronic Government Division", "tiers": ""}
+  ],
+  "note": "The plan only schedules an Open Government Data framework and says legislation to address open data is inadequate; no dataset publication, licence or reuse is stated. Zamportal is a services portal, not a data download portal."
+}

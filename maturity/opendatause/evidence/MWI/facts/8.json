@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-mwi-csea-advancing-open-data-governance-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "National open data portal (none central)", "country_label": "No centralised open data portal or standardised framework currently exists (Nov 2025)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Sectoral dashboards (health, education)", "country_label": "Ministry-specific dashboards and datasets, non-standardised", "class": "other", "platform": "", "owner": "ministries", "tiers": ""}
+  ],
+  "note": "States no centralised national open data portal exists and data is mostly in PDFs and Excel files; no dated statement that no public body publishes downloadable data, and no named published dataset, body count or reuse, so no fact."
+}

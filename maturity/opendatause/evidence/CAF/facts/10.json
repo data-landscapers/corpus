@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-15-xca-7joursinfo-cemac-sdmx-odp2-cemac-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CEMAC-Data",
+   "country_label": "CEMAC-Data regional platform (planned)",
+   "class": "other",
+   "platform": "",
+   "owner": "CEMAC Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional workshop on migrating national platforms from ODP 1.0 to 2.0; states nothing specific to CAR's published data, so no fact."
+}

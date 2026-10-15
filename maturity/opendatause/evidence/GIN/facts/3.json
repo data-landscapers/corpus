@@ -1,0 +1,4 @@
+{"slug":"2026-07-01-ins-atelier-sdmx-migration-odp-2-0","facts":[
+{"sub_indicator":"use","aspect":"access","value":"published","fact":"The INS, with African Development Bank support, held a workshop on 20-25 July 2026 on migrating to its Open Data Platform (ODP) 2.0 for disseminating official statistics, and its participants recommended regular feeding of the platform, which the document describes as the INS's statistical dissemination system; it states no dataset count.","as_of":"2026-07","date_precision":"month","system":"Open Data Platform (ODP) 2.0","class":"open"}],
+"systems":[{"system":"Open Data Platform (ODP) 2.0","country_label":"INS statistical dissemination platform (www.stat-guinee.org)","class":"open","platform":"ODP","owner":"Institut National de la Statistique","tiers":""}],
+"note":""}

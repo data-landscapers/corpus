@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The Fundo de Estradas, a Mozambican public fund, runs the Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP), which publishes data on road, bridge and other public infrastructure projects and was validated as an OC4IDS publisher in 2026; the page has no date, so the capture date 2026-08-08 is used.",
+     "as_of": "2026-08-08", "date_precision": "day", "system": "Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP)", "class": "open"},
+    {"sub_indicator": "use", "aspect": "access", "value": "licensed",
+     "fact": "The IPDP portal of the Fundo de Estradas states its data is available under a Creative Commons licence with attribution; the page has no date, so the capture date 2026-08-08 is used.",
+     "as_of": "2026-08-08", "date_precision": "day", "system": "Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP)", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Portal de Divulgacao de Dados de Infra-estruturas Publicas (IPDP)", "country_label": "IPDP portal, Fundo de Estradas (https://www.dadosinfra.co.mz/)", "class": "open", "platform": "OC4IDS", "owner": "Fundo de Estradas, FP", "tiers": ""}
+  ],
+  "note": ""
+}

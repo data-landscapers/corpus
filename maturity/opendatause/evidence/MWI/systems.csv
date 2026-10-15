@@ -1,4 +1,10 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,CDF dashboard,Malawi real-time Constituency Development Fund dashboard (no address given),other,,Ministry of Local Government and Rural Development,,2026-07-31-malawi-real-time-cdf-dashboard-council-oversight
+MWI,Malawi Low Resource Language Data Trust Initiative,Malawi Low Resource Language Data Trust Initiative,other,,"Government of Malawi, supported by World Bank and Gates Foundation",,2026-06-24-chichewa-ai-language-data-trust-techafricanews
+MWI,MANePS,Malawi National Electronic Procurement System,other,,PPDA / Treasury,,2026-03-06-govt-issues-circular-on-mandatory-use-of-maneps
 MWI,Malawi Open Data Portal,Open Data Portal,other,,Government of Malawi (announced by the OGP Malawi Secretariat),,2025-09-03-malawi-launches-new-open-data-portal
+MWI,MWEITI website,MWEITI website (mweiti.gov.mw),open,,Malawi Extractive Industries Transparency Initiative,,2022-06-01-malawi-open-data-policy
+MWI,National open data portal (none central),No centralised open data portal or standardised framework currently exists (Nov 2025),other,,,,2025-11-01-mwi-csea-advancing-open-data-governance-malawi
+MWI,"Sectoral dashboards (health, education)","Ministry-specific dashboards and datasets, non-standardised",other,,ministries,,2025-11-01-mwi-csea-advancing-open-data-governance-malawi
 MWI,Education Data Portal (EDaP),"Education Data Portal (EDaP), Malawi",other,,"Unlocking Data Initiative Malawi team (to transfer to CERT, University of Malawi)",tiered access,2026-07-06-mwi-education-data-portal-edap
 MWI,Education Management Information System (EMIS),"EMIS, Ministry of Education, Science and Technology",,,MoEST,,2026-07-06-mwi-education-data-portal-edap

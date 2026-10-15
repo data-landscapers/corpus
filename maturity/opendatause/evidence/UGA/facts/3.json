@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-24-cost-uganda-gpp-data-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "CoST Uganda says that since July 2025 a project with the PPDA has worked to reverse the decline in infrastructure data disclosures on the Government Procurement Portal and to upgrade it; the date is the document's publication date.",
+   "as_of": "2025-12-24",
+   "date_precision": "day",
+   "system": "Government Procurement Portal (GPP)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Procurement Portal (GPP)",
+   "country_label": "Government Procurement Portal (GPP)",
+   "class": "open",
+   "platform": "",
+   "owner": "Public Procurement and Disposal of Public Assets Authority (PPDA)",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

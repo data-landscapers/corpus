@@ -1,0 +1,15 @@
+{
+  "slug": "2024-11-12-eiti-board-decision-mauritania-moderate-score-2019-eiti-standard",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The EITI Board decision of 12 November 2024 states that Mauritania EITI, the government-backed multi-stakeholder body set up by Decree 2018-135, makes extractive revenue, production and export data available on its Data Warehouse portal with data sets downloadable in CSV; the date is the decision's, as it describes the portal running.",
+     "as_of": "2024-11-12", "date_precision": "day", "system": "Data Warehouse (Mauritania EITI)", "class": "open"},
+    {"sub_indicator": "use", "aspect": "reuse", "value": "reused",
+     "fact": "The Board decision reports that Mauritania EITI's outcomes template cites three 2023 news articles (Agence Ecofin, taqas.net, Mines actu), two of which make use of EITI data.",
+     "as_of": "2023", "date_precision": "year", "system": "Data Warehouse (Mauritania EITI)", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Data Warehouse (Mauritania EITI)", "country_label": "Mauritania EITI Data Warehouse portal", "class": "open", "platform": "", "owner": "Mauritania EITI", "tiers": ""}
+  ],
+  "note": "No open licence stated (Board recommends stating the reuse licence); no count of publishing bodies."
+}

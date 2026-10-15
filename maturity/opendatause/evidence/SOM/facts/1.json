@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-13-somalia-open-data-portal-terms-of-use",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Somali National Bureau of Statistics (SNBS) states that data and datasets are published on its Open Data Portal, free of charge and available in human- and machine-readable formats; no dataset count is given. The date is the document's published date.", "as_of": "2024-07-13", "date_precision": "day", "system": "SNBS Open Data Portal", "class": "open"},
+    {"sub_indicator": "use", "aspect": "access", "value": "licensed", "fact": "SNBS states that all data and datasets published on its Open Data Portal are provided under the Creative Commons Attribution 4.0 International licence (CC-BY 4.0), allowing users to download, copy, redistribute and make derivative works with attribution. The date is the document's published date.", "as_of": "2024-07-13", "date_precision": "day", "system": "SNBS Open Data Portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "SNBS Open Data Portal", "country_label": "Somali National Bureau of Statistics Open Data Portal (nbs.gov.so)", "class": "open", "platform": "", "owner": "Somali National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": "No breadth or reuse fact: the document names only SNBS as publisher and cites no application or usage figure."
+}

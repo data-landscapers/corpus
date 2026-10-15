@@ -1,6 +1,11 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,Stats SL Microdata Catalog (Annual Agricultural Survey 2023),microdata.statistics.sl,,,Statistics Sierra Leone,,2025-11-28-sierra-leone-statsl-annual-agricultural-survey-2023-public-use-file
 SLE,Open Data Portal for Sierra Leone (www.opendatasl.gov.sl),Open Data Portal for Sierra Leone,other,,Right to Access Information Commission (overall management) with the Ministry of Information and Communications (technical guidance),national,2017-01-18-sierra-leone-raic-open-data-programme
+SLE,Government of Sierra Leone Online Repository,Government of Sierra Leone Online Repository (mining cadastre data); http://www.nma.gov.sl/resourcecontracts/ for contracts,open,,Government of Sierra Leone,,2016-01-01-sierra-leone-sleiti-open-data-policy
+SLE,GoSL Open Data Portal,GoSL's new Open Data Portal,other,,Government of Sierra Leone,,2016-01-01-sierra-leone-sleiti-open-data-policy
 SLE,opendata.gov.sl,national Open Data Portal,other,,"Government of Sierra Leone (Open Government Initiative, Ministry of Information and Communications)",national,2016-01-01-sle-worldbank-open-data-readiness-assessment
 SLE,Open Data Council,Open Data Council,other,,Ministry of Information and Communications / Right to Access Information Commission,national,2016-01-01-sle-worldbank-open-data-readiness-assessment
+SLE,Open Data Portal,Sierra Leone government Open Data Portal,open,,Ministry of Information and Communications; National Open Data Council,,2019-11-01-sle-ogp-nap-iii-2019-2021
+SLE,Government of Sierra Leone online Repository,online Repository for mining and forestry licences,other,,National Minerals Agency; Forestry Department,,2019-11-01-sle-ogp-nap-iii-2019-2021
 SLE,Stats SL microdata catalogue (microdata.statistics.sl),https://microdata.statistics.sl/index.php/catalog/16,,,Statistics Sierra Leone,,2026-04-15-sierra-leone-stats-sl-annual-agricultural-survey-2024-public-use-microdata
 SLE,Stats SL microdata catalogue,microdata.statistics.sl,,,Statistics Sierra Leone,,2026-05-01-sierra-leone-stats-sl-women-empowerment-nutrition-survey-2024-microdata-v2

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,use,access,coverage,published,2026-08-10,MLI-001,,
+MLI,use,access,coverage,licensed,2026-08-04,MLI-002,MLI-001=published;MLI-003=published,
 MLI,use,breadth,coverage,,,,,nothing held
 MLI,use,reuse,coverage,,,,,nothing held

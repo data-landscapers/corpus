@@ -1,4 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,Tanzania Integrated Statistical Portal (TISP),Tanzania Integrated Statistical Portal (tisp.nbs.go.tz),open,,National Bureau of Statistics / Office of the Chief Government Statistician,,2026-08-28-tanzania-integrated-statistical-portal-tisp
+TZA,NeST Open Contracting Data Portal,NeST Open Contracting Data Portal (data.nest.go.tz),open,Open Contracting Data Standard,Public Procurement Regulatory Authority,,2025-01-01-ppra-ocds-publication-policy
+TZA,TEITI Data dashboard,TEITI Data dashboard (teiti.go.tz/dashboard),open,,"Tanzania Extractive Industries Transparency Initiative, Ministry of Minerals",,2023-03-01-tza-teiti-open-data-policy
 TZA,National Open Data Policy,Takwimu Huria,other,,"Open Data Task Force (National Bureau of Statistics chairing, eGovernment Agency, National Archives), reporting to the Ministry of Finance",national,2018-06-25-tza-worldbank-sogdat-year3-open-data-policy
 TZA,Tanzania Open Data Portal,opendata.go.tz,other,,"eGovernment Agency, coordinated by the National Bureau of Statistics",national,2018-06-25-tza-worldbank-sogdat-year3-open-data-policy
 TZA,Digital Earth Africa,Digital Earth Africa (Open Data on AWS Registry),other,AWS Registry of Open Data,Digital Earth Africa (continental programme),,2026-08-19-digital-earth-africa-aws-satellite-data

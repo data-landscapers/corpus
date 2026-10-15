@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-02-inseed-anad-politique-dacces-microdonnees",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANAD (Archive Nationale des Données du Tchad)",
+   "country_label": "https://anad.inseed.td",
+   "class": "other",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": "Access policy bars copying or passing on microdata without INSEED written consent; restriction, not a dated statement of no publication."
+}

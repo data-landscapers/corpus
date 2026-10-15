@@ -1,4 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+COG,Open Data Portal,Open Data Portal (INS),open,,Institut national de la statistique,,2026-06-05-vox-congo-accord-partenariat-capitaliser-donnees-statistiques-open-data-portal
+COG,Hiswaca platform,Hiswaca statistical data platform,other,,"ONG Pratic, built by startup Génération numérique, World Bank-funded HISWACA project",,2026-01-09-congo-hiswaca-plateforme-statistiques
+COG,Open Data platform,INS Open Data platform,open,,Institut national de la statistique,,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5
 COG,"Open Data Platform (ODP) 1.0 / ODP 2.0, Congo ODP project",ODP Congo (national ODP project led by Clarbin Rudy Vanilli Okoua); no web address given,other,AfDB Open Data Platform,African Development Bank (platform); national statistics institute not stated as publisher,,2026-09-20-cemac-data-governance-roadmap-gabonactu
 COG,CEMAC-Data (planned),"CEMAC regional statistics platform, future; no web address given",other,,CEMAC Commission,,2026-09-20-cemac-data-governance-roadmap-gabonactu
 COG,IGN digital platform of maps (planned),"Institut géographique national (IGN), Congo; no web address given",other,,Institut géographique national,,2026-08-12-congo-ign-pratic-geospatial-data-digitisation

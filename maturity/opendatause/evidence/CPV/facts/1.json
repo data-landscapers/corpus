@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-cabo-verde-commitment-cv0004",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The OGP IRM review says open data is available but dispersed across government websites and not often updated, with the Ministry of Finance publishing updated budget execution and expenditure data on its website; no date is given for the state described, so the document's published year 2024 applies, though the review's interviews date from March 2023 (stated 2023 used).",
+     "as_of": "2023", "date_precision": "year", "system": "Ministry of Finance Orçamentos e contas dados abertos page", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Ministry of Finance Orçamentos e contas dados abertos page", "country_label": "Orçamentos e contas dados abertos (mf.gov.cv)", "class": "open", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "Open Data Portal (Cabo Verde)", "country_label": "Open Data Portal", "class": "other", "platform": "", "owner": "Ministry of State Modernization and Public Administration", "tiers": "under development; launch planned by January 2025"}
+  ],
+  "note": ""
+}

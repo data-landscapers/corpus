@@ -1,0 +1,47 @@
+{
+ "slug": "2026-01-01-inseed-portails-de-donnees-et-chiffres-cles",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Open Data Portal (ODP) du Tchad",
+   "country_label": "Open Data Portal (ODP) du Tchad",
+   "class": "",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "Page Nationale Récapitulative des Données (PNRD)",
+   "country_label": "Page Nationale Récapitulative des Données (PNRD)",
+   "class": "",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "Archive Nationale des Données Statistiques",
+   "country_label": "Archive Nationale des Données Statistiques",
+   "class": "",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "Suivi des Indicateurs ODD (Goal Tracker)",
+   "country_label": "Suivi des Indicateurs ODD (Goal Tracker)",
+   "class": "",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "Suivi des Indicateurs du PND Tchad Connexion2030",
+   "country_label": "Suivi des Indicateurs du PND Tchad Connexion2030",
+   "class": "",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": "Portals are only listed by name under portals of data; nothing says what they publish or for download."
+}

@@ -1,0 +1,5 @@
+{"slug":"2026-08-09-madagascar-assemblee-nationale-open-data-api","facts":[
+{"sub_indicator":"use","aspect":"access","value":"published","fact":"The Assemblée nationale de Madagascar publishes five parliamentary datasets (deputies, legislative texts, sittings, commissions, parliamentary groups) as JSON and CSV on its open data page and read-only REST API; the page was captured 2026-08-09 and carries no date of its own.","as_of":"2026-08-09","date_precision":"day","system":"Open Data Parlementaire","class":"open"},
+{"sub_indicator":"use","aspect":"access","value":"licensed","fact":"The page states the Assembly's data is published under Licence Ouverte v2.0 (compatible CC-BY), free to reuse including commercially with attribution; date is the capture date as the page has none.","as_of":"2026-08-09","date_precision":"day","system":"Open Data Parlementaire","class":"open"}],
+"systems":[{"system":"Open Data Parlementaire","country_label":"parlement.mg/opendata","class":"open","platform":"REST API with JSON and CSV","owner":"Assemblée nationale de Madagascar","tiers":""}],
+"note":"One body only, so no breadth fact; no reuse stated."}

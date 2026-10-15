@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-09-south-sudan-climis-ipc-population-dashboard",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CLIMIS",
+   "country_label": "CLIMIS dashboard (climis-southsudan.org)",
+   "class": "other",
+   "platform": "",
+   "owner": "South Sudan IPC Technical Working Group / CLIMIS Data Warehouse",
+   "tiers": ""
+  }
+ ],
+ "note": "Dashboard of IPC figures with no stated download and no stated public-body publisher; not a fact."
+}

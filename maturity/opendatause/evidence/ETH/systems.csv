@@ -1,4 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+ETH,STATBANK,"STATBANK, Ethiopian Statistics Service (https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/)",open,,Ethiopian Statistics Service,,2026-05-06-ess-statistical-data-dissemination-and-access
+ETH,Ethiopia OpenAgriNet,Ethiopia OpenAgriNet (https://ati.gov.et/the-ati-in-partnership-with-coss-and-protean-egov-launch-ethiopia-openagrinet/),other,OpenAgriNet,Agricultural Transformation Institute with COSS and Protean eGov,,2026-02-03-ethiopia-openagrinet-launch
 ETH,data.gov.et,National Open Data Portal,other,,"Ministry of Communications and Information Technology, with the Central Statistics Agency",national,2018-07-08-world-bank-isr-ethiopia-open-data-initiative
 ETH,open data policy guideline,national open data guideline / open data policy guideline,other,,Ministry of Communications and Information Technology,national,2018-07-08-world-bank-isr-ethiopia-open-data-initiative
 ETH,apps.gov.et,apps.gov.et,other,,,national,2018-07-08-world-bank-isr-ethiopia-open-data-initiative

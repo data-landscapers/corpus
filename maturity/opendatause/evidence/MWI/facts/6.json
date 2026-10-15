@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-01-malawi-open-data-policy",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The MWEITI open data policy says that after its first open data policy of December 2016 MWEITI started producing a summary data sheet and publishing it on the MWEITI website; as_of is that December 2016 policy date, the start date being not stated precisely.",
+   "as_of": "2016-12",
+   "date_precision": "month",
+   "system": "MWEITI website",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MWEITI website",
+   "country_label": "MWEITI website (mweiti.gov.mw)",
+   "class": "open",
+   "platform": "",
+   "owner": "Malawi Extractive Industries Transparency Initiative",
+   "tiers": ""
+  }
+ ],
+ "note": "Policy intends open licence release but does not state data is so licensed; no breadth or reuse stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-04-instat-mali-accord-licence-donnees-ouvertes",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "licensed", "fact": "INSTAT's open data licence agreement grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derived products from its datasets, tables, indicators and dashboards, for commercial and non-commercial use, with source attribution; the document carries no date of its own and 2026-08-04 is its published date.", "as_of": "2026-08-04", "date_precision": "day", "system": "INSTAT open data licence agreement", "class": "open"},
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The agreement defines the licensed data as datasets, statistical tables and other products published by INSTAT on its official website, its open data portal or other official dissemination platforms; dated by the document's published date 2026-08-04.", "as_of": "2026-08-04", "date_precision": "day", "system": "INSTAT website and open data portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "INSTAT website and open data portal", "country_label": "INSTAT open data portal / instat-mali.org", "class": "open", "platform": "", "owner": "Institut National de la Statistique (INSTAT)", "tiers": ""}
+  ],
+  "note": ""
+}

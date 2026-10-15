@@ -1,0 +1,8 @@
+iso3,n,aspect,value,action,why
+MRT,002,reuse,reused,removed,"news articles citing figures from EITI reports are a report quoted, not reuse of data published for download"
+COG,002,breadth,several,removed,"the statistics director says sectoral ministries' data is being loaded but names none and counts none: question 3 needs two bodies named or a count"
+NER,001,access,published,removed,"the portal gives access to reports and studies, not data to download; found by the second drafter"
+NGA,003,access,published,removed,"an interactive platform with no download stated; found by the second drafter"
+LBY,003,access,published,revalued: breadth:several,"it counts nine government entities publishing on the platform, which answers question 3; found by the second drafter"
+TGO,003,access,published,revalued: breadth:several,"the geoportal centralises data from 23 ministries, which answers question 3"
+TUN,001,access,published,removed,"a registry where citizens view and request inventoried data is not data published for download"

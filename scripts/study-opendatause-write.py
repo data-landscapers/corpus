@@ -32,7 +32,7 @@ SUB = "use"
 WINDOW = {"access:published": ("2023-10", "three"), "access:licensed": ("2023-10", "three"),
           "access:none": ("2023-10", "three"), "breadth:several": ("2023-10", "three"),
           "reuse:reused": ("2023-10", "three")}   # study §2
-ROOM = {"access": 100, "breadth": 60, "reuse": 60}
+ROOM = {"access": 90, "breadth": 50, "reuse": 60}
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"
                     r"gives no (?:\w+ )?date|no (?:launch )?date|undated|dated by|date .*not stated|period is used|"
@@ -130,9 +130,13 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             k = a["key"]
             mine = [r for r in rows if r["aspect"] == k]
             body = sentences(mine, [i for i in src if i in {r["row_id"] for r in mine}], ROOM[k])
+            if body and src[0] in {r["row_id"] for r in mine}:   # the top fact is printed: point back to it
+                used = True
             if not body:   # the nearest held fact is linked once; a second empty aspect points back to it
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], "the one given above"))]
                 used = True
+            if k == "access" and cell["stage"] in ("4", "5") and not any(r["value"] == "licensed" for r in mine):
+                body.append("No source held states an open licence; a later answer places the country above that step.")   # method §3.3
             if k == "access" and len(rows) <= 5:   # few facts held: say so, as the statistics law study did
                 body.append(("It is the only fact" if len(rows) == 1 else f"{['', '', 'Two', 'Three', 'Four', 'Five'][len(rows)]} facts are")
                             + " held on the country's published government data" + ("" if len(rows) == 1 else ", all given here")

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-imf-car-egdds-implementation",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The IMF reports that CAR launched its National Summary Data Page, a one-stop portal disseminating macroeconomic data (national accounts, prices, government operations, debt, monetary and external sectors) compiled by multiple statistical agencies, hosted by ICASEES with BEAC and the Ministry of Finance and Budget; no licence or dataset count is given.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National Summary Data Page (NSDP)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Summary Data Page (NSDP)",
+   "country_label": "CAR National Summary Data Page (e-GDDS)",
+   "class": "open",
+   "platform": "IMF e-GDDS",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

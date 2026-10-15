@@ -66,7 +66,15 @@
    "text": "Use of open data: use of open data",
    "indicator_id": "data.open--use-of-open-data-use-of-open-data",
    "class": "open",
-   "norm_short": "The African Union's Data Policy Framework (2022) and the Africa Data Consensus (2015) ask governments to open the data they hold for anyone to use, and to see it used."
+   "norm_short": "The African Union's Data Policy Framework (2022) and the Africa Data Consensus (2015) ask governments to open the data they hold for anyone to use, and to see it used.",
+   "criteria": [
+    "A source from the past three years says no public body publishes data for anyone to download.",
+    "A public body publishes data online for anyone to download, on a portal or its own site, in the past three years. A dashboard with nothing to download, or a portal only planned, does not count.",
+    "That data is published under an open licence or terms that let anyone reuse it, such as Creative Commons or the Licence Ouverte.",
+    "Two or more public bodies publish data that way, named or counted by a source from the past three years.",
+    "The data is reused: a source from the past three years names an application, research, a news report or a business built on it, or gives a figure for its downloads or users."
+   ],
+   "criteria_of": "a884509fb912"
   }
  ],
  "classes": [

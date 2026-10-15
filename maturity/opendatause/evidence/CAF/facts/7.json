@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-07-car-icasees-rgph4-census-data-cleaning",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "ICASEES's Director General described its digital dissemination ecosystem as including the Portail Open Data (ODP RCA) and the NADA data archive portal, and the ODIN/ODP administrator reported more than fifty indicators updated on ICASEES platforms; no licence or dataset count is given.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Portail Open Data (ODP RCA)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail Open Data (ODP RCA)",
+   "country_label": "ICASEES Open Data Portal (ODP RCA)",
+   "class": "open",
+   "platform": "ODP",
+   "owner": "ICASEES",
+   "tiers": ""
+  },
+  {
+   "system": "NADA",
+   "country_label": "ICASEES national data archive portal",
+   "class": "open",
+   "platform": "NADA",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

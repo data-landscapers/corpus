@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-12-zwe-frma-feasibility-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe Data Portal (Open Data for Africa)", "country_label": "zimbabwe.opendataforafrica.org", "class": "other", "platform": "Open Data for Africa", "owner": "African Development Bank", "tiers": ""},
+    {"system": "Zimbabwe Open Data Initiative (ZODI)", "country_label": "zimbabweopendata.org", "class": "other", "platform": "", "owner": "Institute of Data Science Management, Data Management Society, Pan African Business Council", "tiers": ""},
+    {"system": "ZimStat website", "country_label": "www.zimstat.co.zw", "class": "", "platform": "", "owner": "ZimStat", "tiers": ""}
+  ],
+  "note": "Portal named is run by a development bank and ZODI by non-government bodies; document states no government-run portal, data mostly summaries or print, and no evidence of use (ODB 2018 score 2 of 100)."
+}

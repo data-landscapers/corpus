@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-19-sudan-state-of-land-information-soli",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Inventory (ODIN)", "country_label": "Open Data Inventory", "class": "other", "platform": "", "owner": "Open Data Watch", "tiers": ""}
+  ],
+  "note": "States no open land data available online since 2023 and an ODIN rating (2018, score 24); scope is land data, not all public bodies, and a rating is not a fact, so no fact."
+}
