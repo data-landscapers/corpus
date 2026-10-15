@@ -1,0 +1,57 @@
+{
+ "slug": "2026-08-19-digital-earth-africa-aws-satellite-data",
+ "countries": {
+  "BWA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Digital Earth Africa",
+     "country_label": "Digital Earth Africa (Open Data on AWS Registry)",
+     "class": "other",
+     "platform": "AWS Registry of Open Data",
+     "owner": "Digital Earth Africa (continental programme)",
+     "tiers": ""
+    }
+   ],
+   "note": "Digital Earth Africa is a continental programme hosted on AWS, not a public body of this country; use by researchers is not said to be of the government's published data."
+  },
+  "TZA": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Digital Earth Africa",
+     "country_label": "Digital Earth Africa (Open Data on AWS Registry)",
+     "class": "other",
+     "platform": "AWS Registry of Open Data",
+     "owner": "Digital Earth Africa (continental programme)",
+     "tiers": ""
+    }
+   ],
+   "note": "Digital Earth Africa is a continental programme hosted on AWS, not a public body of this country; use by researchers is not said to be of the government's published data."
+  },
+  "SEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Digital Earth Africa",
+     "country_label": "Digital Earth Africa (Open Data on AWS Registry)",
+     "class": "other",
+     "platform": "AWS Registry of Open Data",
+     "owner": "Digital Earth Africa (continental programme)",
+     "tiers": ""
+    }
+   ],
+   "note": "Digital Earth Africa is a continental programme hosted on AWS, not a public body of this country; use by researchers is not said to be of the government's published data."
+  },
+  "KEN": {
+   "facts": [],
+   "systems": [],
+   "note": "Kenya is named only as the author's base; nothing stated about data published by a Kenyan public body."
+  },
+  "ZAF": {
+   "facts": [],
+   "systems": [],
+   "note": "South Africa is named only as the AWS Cape Town hosting location; nothing stated about data published by a South African public body."
+  }
+ }
+}

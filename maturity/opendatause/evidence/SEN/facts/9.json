@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-07-anads-ansd-rnu-2025-enquete-mise-a-jour-extension",
+  "facts": [],
+  "systems": [
+    {"system": "ANADS (Archivage national des données du Sénégal), ANSD catalogue", "country_label": "http://anads.ansd.sn", "class": "other", "platform": "NADA/DDI catalogue", "owner": "Agence nationale de la Statistique et de la Démographie (ANSD)", "tiers": ""}
+  ],
+  "note": "The record describes a survey in the ANSD catalogue but states access needs written ANSD authorisation, no onward copying and all rights reserved; it does not state open download or an open licence."
+}

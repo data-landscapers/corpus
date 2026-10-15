@@ -1,0 +1,12 @@
+{
+  "slug": "2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The World Bank completion report (23 Dec 2024) says the eTransform project, implemented by the Ministry of Communications and Digitalisation, built the Ghana Open Data portal, to which 315 datasets had been uploaded since 2020, but that the count had not grown for 3 years and the portal was down at the time of writing; as_of is the document date.",
+     "as_of": "2024-12-23", "date_precision": "day", "system": "Ghana Open Data portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Ghana Open Data portal", "country_label": "Ghana Open Data portal", "class": "open", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""}
+  ],
+  "note": ""
+}

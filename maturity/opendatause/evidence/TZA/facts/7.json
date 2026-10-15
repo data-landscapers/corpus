@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-19-digital-earth-africa-aws-satellite-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Earth Africa",
+   "country_label": "Digital Earth Africa (Open Data on AWS Registry)",
+   "class": "other",
+   "platform": "AWS Registry of Open Data",
+   "owner": "Digital Earth Africa (continental programme)",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital Earth Africa is a continental programme hosted on AWS, not a public body of this country; use by researchers is not said to be of the government's published data."
+}

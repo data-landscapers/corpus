@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-15-sierra-leone-stats-sl-annual-agricultural-survey-2024-public-use-microdata",
+  "facts": [],
+  "systems": [
+    {"system": "Stats SL microdata catalogue (microdata.statistics.sl)", "country_label": "https://microdata.statistics.sl/index.php/catalog/16", "class": "", "platform": "", "owner": "Statistics Sierra Leone", "tiers": ""}
+  ],
+  "note": "Catalogue page for the 2024 Annual Agricultural Survey; the Data Access section is elided and the passages say only that sampling errors were estimated 'for open data publishing purposes', so no download, licence, several bodies or reuse is stated."
+}

@@ -1,0 +1,5 @@
+{"slug":"2025-10-01-lisgis-liberia-2024-annual-agriculture-survey-final-report","facts":[
+{"sub_indicator":"use","aspect":"access","value":"published","fact":"The LISGIS final report says the LAAS-2024 final report is available online on the LISGIS site and the survey microdata can be obtained from the LISGIS microdata catalogue; document dated October 2025.","as_of":"2025-10","date_precision":"month","system":"LISGIS microdata catalogue","class":"open"}],
+"systems":[{"system":"LISGIS microdata catalogue","country_label":"LISGIS microdata catalogue (https://microdata.lisgislr.org)","class":"open","platform":"","owner":"Liberia Institute of Statistics and Geo-Information Services","tiers":""},
+{"system":"Liberia Open Data Portal","country_label":"Liberia Open Data Portal (https://liberia.opendataforafrica.org)","class":"","platform":"","owner":"","tiers":""}],
+"note":""}

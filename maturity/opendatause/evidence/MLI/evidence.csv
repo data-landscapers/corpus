@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MLI-001,MLI,use,access,published,"INSTAT, Mali's statistics institute, runs a data catalogue on its own domain (microdata.instat.ml) listing 107 studies, including the 2022 census (RGPH5) and agricultural surveys, as captured on 10 August 2026 (the capture date; the page has no date of its own).",2026-08-10,day,Catalogue de données — INSTAT Mali,open,2026-08-10-mali-instat-microdata-catalogue,https://microdata.instat.ml/index.php/catalog/

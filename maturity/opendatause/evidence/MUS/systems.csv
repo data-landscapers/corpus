@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MUS,BOMStats,"BOMStats, Bank of Mauritius statistical data platform (https://bomstats.bom.mu)",open,"Open Data Platform (ODP) 2.0, SDMX",Bank of Mauritius,,2026-09-03-bom-bomstats-platform-launch-mauritius
+MUS,National Open Data Portal,"National Open Data Portal (Mauritius), initially on the Government Portal's SharePoint platform",open,SharePoint,"Ministry of Information Technology, Communication and Innovation (Central Open Data Team)",,2026-01-28-mauritius-national-data-strategy
+MUS,Info Highway,Info Highway (Mauritius),other,,Government of Mauritius,"G2G and G2B data-sharing platform for authorised subscribers, not public download",2026-01-28-mauritius-national-data-strategy

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-16-github-mwiml-open-data-mauritania-nlp-langues-nationales",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Mauritania — NLP Hub", "country_label": "https://github.com/mwimlmauritania-byte/Open-Data-Mauritania", "class": "other", "platform": "GitHub", "owner": "MWiML — Mauritanian Women in Machine Learning", "tiers": ""}
+  ],
+  "note": "The CC BY 4.0 NLP datasets are published by a community group (MWiML), not a public body of the country, so no fact for class open."
+}

@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SYC,Seychelles Fisheries Information Management System (FIMS),Seychelles Fisheries Information Management System (FIMS),open,,"Ministry of Fisheries, Agriculture and Blue Economy",,2026-06-12-mofbe-fiti-nmsg-fims-open-data
+SYC,Open MIND (Zenodo) CCG Whole Energy System Model Starter Data Kit for Seychelles,Zenodo dataset https://doi.org/10.5281/zenodo.18942184,other,Zenodo,Loughborough University (Climate Compatible Growth),,2026-05-27-zenodo-ccg-whole-energy-system-model-seychelles
+SYC,Seychelles WebGIS,https://www.webgis.gov.sc/map_default.phtml?config=default,other,,"Ministry of Habitat, Infrastructure and Land Transport",,2024-01-01-seychelles-webgis

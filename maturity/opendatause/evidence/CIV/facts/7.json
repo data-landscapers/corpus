@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-civ-ogp-ci0024-open-data-commitment",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The OGP/IRM page reports that the Government Information and Communication Centre (CICG) launched the open data portal data.gouv.ci under the 2016-2018 action plan, and that after training the Ministry in charge of Petroleum and Renewable Energies published around 50 new datasets on it by June 2020 (document dated 2020 as inferred; no earlier launch date given).",
+     "as_of": "2020-06", "date_precision": "month",
+     "system": "data.gouv.ci", "class": "open"}
+  ],
+  "systems": [
+    {"system": "data.gouv.ci", "country_label": "Open data portal, https://data.gouv.ci", "class": "open", "platform": "", "owner": "Government Information and Communication Centre (CICG)", "tiers": ""}
+  ],
+  "note": "No licence, no two named publishing bodies and no reuse stated; the page says data was limited, formats did not meet open data standards and not all institutions published."
+}

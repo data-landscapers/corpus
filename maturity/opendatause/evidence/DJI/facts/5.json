@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-cadre-interoperabilite-djibouti-cid",
+  "facts": [],
+  "systems": [
+    {"system": "Infrastructure de données ouvertes", "country_label": "Djibouti open data infrastructure (named as an e-government component in the interoperability framework; no web address)", "class": "other", "platform": "", "owner": "ANSIE", "tiers": ""}
+  ],
+  "note": "Interoperability framework (excerpt) lists an open data infrastructure as an e-government component; it states no dataset published for download, licence, bodies or reuse."
+}

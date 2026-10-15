@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-opendatause.md — government data published for anyone to reuse, and reused, in four questions
 last_reviewed: 2026-10-15
-status: step 1 prepared 2026-10-15; waits for Bill's word on the questions
+status: run on Bill's word of 2026-10-15; stopped at the token ceiling during the read; waits for Bill
 ---
 
 # Maturity study: opendatause
@@ -70,8 +70,8 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json`, the carry and the reading lists, 2026-10-15.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Read**: 65 drafters, the regional story read once.
+- [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
+- [ ] **D2. Read**: the 65 planned drafters read, the regional story once: 23 facts, 56 with the 30 carried, and not one open licence. **The carry passes over every document the open data policy study read**, 232 of them, though it carried facts from only 24: the licence pages Burundi, Mali and Somalia's cells cite went unread. A second fan-out over the 232 was stopped at the ceiling, 26.1M, with 20 read; 212 remain in 48 countries, about 17M more. Staged on what is held it would be 5: 1, 2: 17, unplaced 6, no evidence 30.
 - [ ] **D3. Stage** as at 2026-09-30; the parent's corrections; the second drafter's 20 cells.
 - [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
 

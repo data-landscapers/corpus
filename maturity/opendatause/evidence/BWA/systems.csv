@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,SmartBots Lab (Botswana Digital Innovation Hub),"SmartBots Lab, Botswana Digital Innovation Hub, no web address given",other,sandbox environments with open datasets exposed through secure interfaces,Botswana Digital Innovation Hub,,2026-03-14-bwa-haus-open-data-hackathon-tor-phase2
+BWA,Tourism Statistics Dashboard,"Tourism Statistics Dashboard (Ministry of Environment and Tourism, with JICA)",other,dashboard,Ministry of Environment and Tourism,,2026-04-15-tourism-statistics-dashboard
+BWA,Statistics Botswana microdata portal,Statistics Botswana microdata portal,open,data portal,Statistics Botswana,,2026-08-24-erkkola-data-is-botswanas-new-diamond
+BWA,Digital Earth Africa,Digital Earth Africa (Open Data on AWS Registry),other,AWS Registry of Open Data,Digital Earth Africa (continental programme),,2026-08-19-digital-earth-africa-aws-satellite-data

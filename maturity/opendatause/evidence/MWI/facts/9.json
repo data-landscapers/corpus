@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-06-mwi-education-data-portal-edap",
+  "facts": [],
+  "systems": [
+    {"system": "Education Data Portal (EDaP)", "country_label": "Education Data Portal (EDaP), Malawi", "class": "other", "platform": "", "owner": "Unlocking Data Initiative Malawi team (to transfer to CERT, University of Malawi)", "tiers": "tiered access"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS, Ministry of Education, Science and Technology", "class": "", "platform": "", "owner": "MoEST", "tiers": ""}
+  ],
+  "note": "EDaP is being developed by a donor-backed initiative and is not yet published; EMIS is named with no statement that its data is published for download."
+}

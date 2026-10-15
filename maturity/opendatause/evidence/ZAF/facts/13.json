@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-29-zaf-gautengnews-tshwane-data-analytics-platform-dashboard-internal",
+  "facts": [],
+  "systems": [
+    {"system": "Service Delivery War Room dashboard", "country_label": "Tshwane Service Delivery War Room dashboard", "class": "other", "platform": "", "owner": "City of Tshwane", "tiers": ""},
+    {"system": "Enterprise Data and Analytics Platform", "country_label": "Tshwane Enterprise Data and Analytics Platform", "class": "other", "platform": "", "owner": "City of Tshwane with CSIR", "tiers": ""}
+  ],
+  "note": "Internal dashboard and platform for officials; residents cannot access the live dashboard, and no data is said to be published for download."
+}

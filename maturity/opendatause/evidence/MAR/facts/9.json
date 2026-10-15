@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-mar-ogp-open-data-commitment-national-data-policy",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Open Government Partnership commitment page says Morocco set up the open data platform data.gov.ma in 2011, a pioneer, though its use remains very limited.", "as_of": "2011", "date_precision": "year", "system": "data.gov.ma", "class": "open"},
+    {"sub_indicator": "use", "aspect": "breadth", "value": "several", "fact": "The commitment sets as baseline, doubling by 2020, 10 institutions adhering to open data and 100 datasets published on data.gov.ma; the baseline is dated to the start of the commitment period (August 2018), the page giving no other date.", "as_of": "2018-08", "date_precision": "month", "system": "data.gov.ma", "class": "open"}
+  ],
+  "systems": [
+    {"system": "data.gov.ma", "country_label": "data.gov.ma", "class": "open", "platform": "", "owner": "Government of Morocco", "tiers": ""}
+  ],
+  "note": ""
+}

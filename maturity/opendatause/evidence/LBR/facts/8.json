@@ -1,0 +1,5 @@
+{"slug":"2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use","facts":[
+{"sub_indicator":"use","aspect":"access","value":"published","fact":"The LISGIS microdata catalogue lists the anonymised Liberia Annual Agricultural Survey 2024 household dataset as a Public Use File accessible to all for statistical and research purposes, released as version 1.0 (record last modified 1 July 2026); redistribution needs LISGIS written agreement, so no open licence is stated.","as_of":"2026-07-01","date_precision":"day","system":"LISGIS microdata catalogue","class":"open"},
+{"sub_indicator":"use","aspect":"reuse","value":"reused","fact":"The catalogue record for the survey dataset shows 273 downloads and 21,875 page views, as shown on the record at the document date (1 July 2026).","as_of":"2026-07-01","date_precision":"day","system":"LISGIS microdata catalogue","class":"open"}],
+"systems":[{"system":"LISGIS microdata catalogue","country_label":"LISGIS microdata catalogue (https://microdata.lisgislr.org)","class":"open","platform":"","owner":"Liberia Institute of Statistics and Geo-Information Services","tiers":""}],
+"note":""}

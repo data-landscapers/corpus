@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-13-libya-digital-mineral-map-trial-launch",
+  "facts": [],
+  "systems": [
+    {"system": "National system for the digital mineral map of Libya (trial version)", "country_label": "Digital mineral map of Libya", "class": "other", "platform": "SQL database with digital geological maps", "owner": "Ministry of Industry and Minerals", "tiers": ""}
+  ],
+  "note": "Trial geological database and maps; document does not say the data is published for anyone to download."
+}

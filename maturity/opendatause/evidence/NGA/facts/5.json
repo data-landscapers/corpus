@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-anambra-launches-digital-gateway-to-unify-government-services-open-data-and-citi",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Anambra State Government launched a redesigned official website at anambrastate.gov.ng whose Open Government section gives access to budgets, audit reports, procurement plans, contract awards and open data; no dataset count is given and the document's date, 2026-10-01, is used as the launch date.", "as_of": "2026-10-01", "date_precision": "day", "system": "anambrastate.gov.ng Open Government section", "class": "open"}
+  ],
+  "systems": [
+    {"system": "anambrastate.gov.ng Open Government section", "country_label": "Anambra State Government website (https://anambrastate.gov.ng/)", "class": "open", "platform": "", "owner": "Anambra State Government", "tiers": ""}
+  ],
+  "note": ""
+}

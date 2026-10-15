@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-openup-policy-lessons-data-classroom",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal Money", "country_label": "Municipal Money (https://municipalmoney.gov.za/)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Climate Observer", "country_label": "Climate Observer (https://www.africadatahub.org/dashboards/climate-observer?city=alexandria)", "class": "other", "platform": "", "owner": "OpenUp", "tiers": ""},
+    {"system": "Wazimap", "country_label": "Wazimap (https://open.wazimap.com/)", "class": "other", "platform": "", "owner": "OpenUp", "tiers": ""}
+  ],
+  "note": "The document lists the portals as OpenUp's own (a non-governmental organisation) and does not say a public body publishes data on them, so no fact."
+}

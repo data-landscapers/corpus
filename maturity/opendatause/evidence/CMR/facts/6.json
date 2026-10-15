@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-19-leconomie-open-sdg-platform-sdg-monitoring",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "Cameroon's National Institute of Statistics (INS) officially launched the Open SDG platform on 17 September 2025 to give the public access to data on the Sustainable Development Goals, set up in 2024 with UNECA support; the document does not state a dataset count or a licence.", "as_of": "2025-09-17", "date_precision": "day", "system": "Open SDG", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Open SDG", "country_label": "Open SDG platform (INS Cameroon)", "class": "open", "platform": "Open SDG", "owner": "Institut national de la Statistique (INS)", "tiers": "national"}
+  ],
+  "note": ""
+}

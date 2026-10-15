@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-14-bwa-haus-open-data-hackathon-tor-phase2",
+  "facts": [],
+  "systems": [
+    {"system": "SmartBots Lab (Botswana Digital Innovation Hub)", "country_label": "SmartBots Lab, Botswana Digital Innovation Hub, no web address given", "class": "other", "platform": "sandbox environments with open datasets exposed through secure interfaces", "owner": "Botswana Digital Innovation Hub", "tiers": ""}
+  ],
+  "note": "Terms of Reference for hackathons; mentions accessible government datasets and open datasets exposed through interfaces, but names no public body publishing datasets for download, no portal, licence, count or reuse product."
+}

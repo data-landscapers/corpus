@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-20-cemac-data-governance-roadmap-gabonactu",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Platform (ODP) 1.0 / ODP 2.0, Congo ODP project", "country_label": "ODP Congo (national ODP project led by Clarbin Rudy Vanilli Okoua); no web address given", "class": "other", "platform": "AfDB Open Data Platform", "owner": "African Development Bank (platform); national statistics institute not stated as publisher", "tiers": ""},
+    {"system": "CEMAC-Data (planned)", "country_label": "CEMAC regional statistics platform, future; no web address given", "class": "other", "platform": "", "owner": "CEMAC Commission", "tiers": ""}
+  ],
+  "note": "Workshop on SDMX and migration to ODP 2.0; the AfDB-built ODP is named for Congo but the document does not say a Congolese body publishes downloadable data on it, and CEMAC-Data is future."
+}

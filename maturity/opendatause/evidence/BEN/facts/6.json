@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-25-ben-dgb-opendata-budget-classifications",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The document says the Direction generale du Budget (Ministry of Economy and Finance) runs a public, unauthenticated open-data API at opendata.budgetbenin.bj serving budget classification data (113 aggregates, held extract 5,351 rows across seven datasets, covering 2008-2024 and some 2025); the date is the document's published date, 2026-07-25, when it was retrieved.",
+     "as_of": "2026-07-25", "date_precision": "day",
+     "system": "Base de donnees financiere de la DGB (open-data API, opendata.budgetbenin.bj)", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Base de donnees financiere de la DGB (open-data API, opendata.budgetbenin.bj)",
+     "country_label": "opendata.budgetbenin.bj; API at https://backdata.budgetbenin.bj/public/api/agregats",
+     "class": "open", "platform": "Angular single-page app over a JSON API", "owner": "Direction generale du Budget, Ministere de l'Economie et des Finances", "tiers": ""}
+  ],
+  "note": "Single body (DGB) and no licence or reuse stated, so no licensed, breadth or reuse fact."
+}

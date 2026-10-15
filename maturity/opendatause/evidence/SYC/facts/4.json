@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-12-mofbe-fiti-nmsg-fims-open-data",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The Ministry of Fisheries, Agriculture and Blue Economy describes its Fisheries Information Management System (FIMS) as running and giving the public access to fisheries statistics, licensing and export data, which it calls open data; no dataset count is given, and the as_of is the document's published date.",
+     "as_of": "2026-06-12", "date_precision": "day", "system": "Seychelles Fisheries Information Management System (FIMS)", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Seychelles Fisheries Information Management System (FIMS)", "country_label": "Seychelles Fisheries Information Management System (FIMS)", "class": "open", "platform": "", "owner": "Ministry of Fisheries, Agriculture and Blue Economy", "tiers": ""}
+  ],
+  "note": ""
+}

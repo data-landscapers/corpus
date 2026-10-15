@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-20-inseed-rga2-2025-agricultural-census-microdata",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "INSEED, the national statistics institute, lists the RGA-2 2025 agricultural census (73,818 family holdings enumerated, 11,454-holding sample) as an entry in its NADA microdata catalogue; no date of release is given in the body, so the document's published date is used.", "as_of": "2026-05-20", "date_precision": "day", "system": "INSEED NADA microdata catalogue", "class": "open"}
+  ],
+  "systems": [
+    {"system": "INSEED NADA microdata catalogue", "country_label": "INSEED microdata catalogue (https://www.nada.inseed-comores.org)", "class": "open", "platform": "NADA", "owner": "INSEED", "tiers": ""}
+  ],
+  "note": ""
+}

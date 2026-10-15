@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-10-inseed-ehcvm-2024-microdata",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "INSEED's NADA microdata catalogue lists the EHCVM 2024 household survey (5,487 households) with version 1.0 of the cleaned data files and a public anonymised version, dated April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "INSEED NADA microdata catalogue", "class": "open"}
+  ],
+  "systems": [
+    {"system": "INSEED NADA microdata catalogue", "country_label": "INSEED microdata catalogue (https://www.nada.inseed-comores.org)", "class": "open", "platform": "NADA", "owner": "INSEED", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-guinea-global-findex-2025-microdata",
+  "facts": [],
+  "systems": [
+    {"system": "World Bank Microdata Library (Global Findex 2025 Guinea file, GIN_2024_FINDEX_v02_M)", "country_label": "https://microdata.worldbank.org/catalog/7911", "class": "other", "platform": "World Bank Microdata Library", "owner": "World Bank Development Research Group", "tiers": ""}
+  ],
+  "note": "Data about Guinea released by the World Bank, not published by a Guinean public body; no fact for class open."
+}

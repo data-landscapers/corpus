@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-08-smart-zambia-expands-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZNSDI GeoPortal",
+   "country_label": "Zambia National Spatial Data Infrastructure GeoPortal (no address given)",
+   "class": "other",
+   "platform": "",
+   "owner": "SMART Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "GeoPortal described as a mapping platform that will support districts; no data for download stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-17 Zambia's govt leans towards open-source",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NSDI Portal",
+   "country_label": "National Spatial Data Infrastructure Portal (no address given)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "NSDI portal launch reported, but the document does not say data is published for download."
+}

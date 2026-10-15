@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (common portal for sharing open data between government and private sector)", "country_label": "Ethiopia common open data portal (MInT); no web address given", "class": "other", "platform": "", "owner": "Ministry of Innovation and Technology", "tiers": ""}
+  ],
+  "note": "Feb 2023 assessment finds no open data sharing between government agencies and the private sector and recommends MInT revive the common open data portal; it does not state that no public body publishes data for download, so no fact."
+}

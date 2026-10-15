@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-23-eiti-liberia-2026-validation-report",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The EITI validation report says LEITI's online Data Portal has significantly improved the openness of extractive data, and that the LEITI Data Warehouse provides production and export data disaggregated by company; no dataset count or licence is stated. The date is the report's own (2026-07-23), as it describes the portal at work.", "as_of": "2026-07-23", "date_precision": "day", "system": "LEITI Data Portal / LEITI Data Warehouse", "class": "open"},
+    {"sub_indicator": "use", "aspect": "breadth", "value": "several", "fact": "The EITI validation report names two public data sources providing production and export data by company, the LEITI Data Warehouse and the Ministry of Mines and Energy's online cadastre. The date is the report's own (2026-07-23).", "as_of": "2026-07-23", "date_precision": "day", "system": "LEITI Data Warehouse; Ministry of Mines and Energy online cadastre", "class": "open"}
+  ],
+  "systems": [
+    {"system": "LEITI Data Portal", "country_label": "Liberia EITI online Data Portal (no address given)", "class": "open", "platform": "", "owner": "LEITI", "tiers": ""},
+    {"system": "LEITI Data Warehouse", "country_label": "Liberia EITI Data Warehouse (no address given)", "class": "open", "platform": "", "owner": "LEITI", "tiers": ""},
+    {"system": "Ministry of Mines and Energy online cadastre", "country_label": "Liberia mining cadastre (no address given)", "class": "open", "platform": "", "owner": "Ministry of Mines and Energy", "tiers": ""}
+  ],
+  "note": "Reuse not recorded: civil society is said to use EITI data for advocacy and fact-checking, but no application, study or figure is named."
+}

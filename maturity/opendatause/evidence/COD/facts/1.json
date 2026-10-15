@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-numerico-bcc-nouveau-site-donnees-economiques",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Banque Centrale du Congo launched its new website on 14 August 2026, on which the public can consult exchange rates, inflation, interest rates, statistics and economic indicators, and publications; the document does not say the data can be downloaded or give a licence.", "as_of": "2026-08-14", "date_precision": "day", "system": "Banque Centrale du Congo website", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Banque Centrale du Congo website", "country_label": "BCC site (new version launched 2026-08-14)", "class": "open", "platform": "", "owner": "Banque Centrale du Congo", "tiers": ""}
+  ],
+  "note": ""
+}

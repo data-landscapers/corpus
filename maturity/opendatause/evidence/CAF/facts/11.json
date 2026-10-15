@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-10-caf-icasees-evaluation-mi-parcours-snds2",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The ICASEES mid-term review of the national statistics strategy (7-9 October 2026) says the Open Data Portal of the Central African Republic, administered by an ICASEES webmaster, has changed the conditions of access to official statistics; no dataset count is given and the date is the document's own, 2026-10-10.", "as_of": "2026-10-10", "date_precision": "day", "system": "Portail Open Data de la République centrafricaine (ODP-RCA)", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Portail Open Data de la République centrafricaine (ODP-RCA)", "country_label": "Portail Open Data de la République centrafricaine", "class": "open", "platform": "", "owner": "ICASEES", "tiers": ""},
+    {"system": "Archives nationales de données", "country_label": "Archives nationales de données", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "REDATAM", "country_label": "REDATAM platform", "class": "", "platform": "REDATAM", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

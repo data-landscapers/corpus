@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-som-dawan-somaliren-datacite-national-consortium",
+  "facts": [],
+  "systems": [
+    {"system": "DataCite National Consortium (SomaliREN)", "country_label": "SomaliREN DataCite consortium", "class": "other", "platform": "DataCite DOI services", "owner": "SomaliREN", "tiers": ""}
+  ],
+  "note": "Document describes a DOI-minting research consortium run by SomaliREN; it states no public body publishing datasets for download, so no open-class fact."
+}

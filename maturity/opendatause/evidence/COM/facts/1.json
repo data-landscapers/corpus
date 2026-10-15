@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-23-inseed-archive-nationale-microdonnees",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "INSEED, the national statistics institute, runs a national microdata archive (NADA) whose catalogue held 15 datasets on 23 August 2026, including the 2025 agricultural census and the 2024 household survey; the page states no open licence.", "as_of": "2026-08-23", "date_precision": "day", "system": "Archive nationale de microdonnees", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Archive nationale de microdonnees (NADA)", "country_label": "INSEED national microdata archive, https://www.nada.inseed-comores.org/index.php/home", "class": "open", "platform": "NADA", "owner": "INSEED", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-02-zaf-citizen-tshwane-data-platform-csir",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The City of Tshwane's mayor said its new Enterprise Data and Analytics Platform supports the continued development of the city's Open Data Portal; the document gives no dataset count and does not describe its contents (document published 2026-10-02, which is the date used).", "as_of": "2026-10-02", "date_precision": "day", "system": "City of Tshwane Open Data Portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "City of Tshwane Open Data Portal", "country_label": "City of Tshwane Open Data Portal", "class": "open", "platform": "", "owner": "City of Tshwane", "tiers": ""},
+    {"system": "Enterprise Data and Analytics Platform", "country_label": "Tshwane Enterprise Data and Analytics Platform", "class": "other", "platform": "", "owner": "City of Tshwane with CSIR", "tiers": ""}
+  ],
+  "note": "Fact is the document's only mention of the municipal open data portal; the analytics platform is an internal management tool, not published data."
+}

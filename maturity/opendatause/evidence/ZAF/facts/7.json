@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-27-parker-open-data-misses-the-streetlight-ogp-south-africa",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The author, writing for the OGP Results Report, says South Africa has national open government portals, Vulekamali, Municipal Money and GoMuni, that aggregate public data, and that more data is being published than ever; the document does not name the publishing body, and is dated 2026-07-27, which is used as as_of.", "as_of": "2026-07-27", "date_precision": "day", "system": "Vulekamali", "class": "open"}
+  ],
+  "systems": [
+    {"system": "Vulekamali", "country_label": "Vulekamali (national fiscal transparency portal)", "class": "open", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Municipal Money", "country_label": "Municipal Money (national fiscal transparency portal)", "class": "open", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "GoMuni", "country_label": "GoMuni (national portal)", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Open data sharing framework", "country_label": "open data sharing framework piloted across key municipalities", "class": "other", "platform": "", "owner": "", "tiers": "municipal"}
+  ],
+  "note": "Publishing bodies are not named, no licence, no count of bodies, and no use figure or named product built on the data (usage described as rare), so only access/published is recorded."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-bom-bomstats-platform-launch-mauritius",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The Bank of Mauritius launched BOMStats, its statistical data platform at https://bomstats.bom.mu, on 3 September 2026, giving access to the Bank's official statistics with self-service analytics, an API and SDMX-format data sharing; the release gives no dataset count and no licence.", "as_of": "2026-09-03", "date_precision": "day", "system": "BOMStats", "class": "open"}
+  ],
+  "systems": [
+    {"system": "BOMStats", "country_label": "BOMStats, Bank of Mauritius statistical data platform (https://bomstats.bom.mu)", "class": "open", "platform": "Open Data Platform (ODP) 2.0, SDMX", "owner": "Bank of Mauritius", "tiers": ""}
+  ],
+  "note": ""
+}

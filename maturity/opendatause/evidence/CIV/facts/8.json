@@ -1,0 +1,8 @@
+{
+  "slug": "2014-01-01-cote-divoire-initiative-ivoirienne-open-data",
+  "facts": [],
+  "systems": [
+    {"system": "data.gouv.ci (Open Data Côte d'Ivoire)", "country_label": "data.gouv.ci national platform, https://data.gouv.ci/pages/open-data", "class": "", "platform": "", "owner": "CICG (pilot), with CAIDP, OGP Côte d'Ivoire, Ministère de l'Économie Numérique et de la Poste, CODE.CI", "tiers": ""}
+  ],
+  "note": "The page describes data.gouv.ci as a project and aim (initiative since 2014; 'vise', 'contribuera') and states no datasets published, no licence, no bodies publishing and no reuse, so no fact."
+}

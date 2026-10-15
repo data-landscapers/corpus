@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub",
+  "facts": [],
+  "systems": [
+    {"system": "National Air Quality Data Hub", "country_label": "National Air Quality Data Hub (KNUST/EPA, no address given)", "class": "other", "platform": "PostgreSQL/PostGIS with map dashboard", "owner": "KNUST CDAI Lab, to pass to the Environmental Protection Authority", "tiers": ""}
+  ],
+  "note": "Hub is in utility testing before launch, built by a university with donor support; no data said to be published for download."
+}

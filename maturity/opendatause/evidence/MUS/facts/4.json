@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-28-mauritius-national-data-strategy",
+  "facts": [
+    {"sub_indicator": "use", "aspect": "access", "value": "published",
+     "fact": "The strategy describes the National Open Data Portal, set up under the May 2017 National Open Data Policy of the Ministry of Information Technology, Communication and Innovation and administered by the Central Open Data Team, as the primary platform for discovery of and access to government datasets released as open data in CSV and XML; it gives no dataset count, and the as_of is the document's published date, as it describes the portal as running.",
+     "as_of": "2026-01-28", "date_precision": "day",
+     "system": "National Open Data Portal", "class": "open"}
+  ],
+  "systems": [
+    {"system": "National Open Data Portal", "country_label": "National Open Data Portal (Mauritius), initially on the Government Portal's SharePoint platform", "class": "open", "platform": "SharePoint", "owner": "Ministry of Information Technology, Communication and Innovation (Central Open Data Team)", "tiers": ""},
+    {"system": "Info Highway", "country_label": "Info Highway (Mauritius)", "class": "other", "platform": "", "owner": "Government of Mauritius", "tiers": "G2G and G2B data-sharing platform for authorised subscribers, not public download"}
+  ],
+  "note": "No licence, multi-body publishing or reuse is stated; the 2017 policy and portal are described, with no licence terms."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-11 UXP Directory",
+  "facts": [],
+  "systems": [
+    {"system": "UXP Directory (Benin national data-exchange dashboard)", "country_label": "statistiques.xroad.bj", "class": "other", "platform": "UXP / X-Road (Cybernetica)", "owner": "Government of Benin", "tiers": ""}
+  ],
+  "note": "Live dashboard of government system-to-system exchange statistics (requests, members, services); no datasets for download, so not open data."
+}
