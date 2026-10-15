@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: GIN
-ledger_rows: 19
+ledger_rows: 20
 not_held: 4
-record: c40a2d30ea98
+record: 7d711c09657a
 ---
 
 # Guinea: monthly update, September – October 2026
@@ -65,6 +65,14 @@ The agriculture ministry [presented its farmer-card pilot on 16 September, with 
 
 <!-- narrative: dpi--dpi-govtech -->
 A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the repository records either system being used as an argument rather than described as a service. The civil service minister [presented the one-stop public-service counter project to the mayors of Conakry's 13 communes](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/). The procurement regulator and the World Bank [reviewed the e-procurement platform, in a new phase of use since September 2026, with the price reference list and partnerships not yet integrated and a new procurement law in draft](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/).
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+
 <!-- /narrative -->
 
 ## Capacity

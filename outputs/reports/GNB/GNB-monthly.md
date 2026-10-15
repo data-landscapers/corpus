@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: GNB
-ledger_rows: 7
+ledger_rows: 8
 not_held: 2
-record: 2791088448b1
+record: 8fc33d3a241b
 ---
 
 # Guinea-Bissau: monthly update, September – October 2026
@@ -44,6 +44,11 @@ The satellite operator's licence stayed provisional. The regulator [extended Sta
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->

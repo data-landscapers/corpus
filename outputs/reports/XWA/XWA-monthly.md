@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: XWA
-ledger_rows: 26
+ledger_rows: 27
 not_held: 1
-record: e90b9b7c77c4
+record: 523ebeb1c04b
 ---
 
 # West Africa: monthly update, September – October 2026

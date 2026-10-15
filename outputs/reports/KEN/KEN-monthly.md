@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: KEN
-ledger_rows: 134
+ledger_rows: 137
 not_held: 7
-record: 2ac445fdd234
+record: 259801bf0568
 ---
 
 # Kenya: monthly update, September – October 2026

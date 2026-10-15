@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: UGA
-ledger_rows: 67
+ledger_rows: 68
 not_held: 11
-record: 1008826add06
+record: 601ff03db237
 ---
 
 # Uganda: monthly update, September – October 2026

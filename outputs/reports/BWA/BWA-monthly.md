@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: BWA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 8
-record: b3bda43ff073
+record: cbd4d1c9afcd
 ---
 
 # Botswana: monthly update, September – October 2026

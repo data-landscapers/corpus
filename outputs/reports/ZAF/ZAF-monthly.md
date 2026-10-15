@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: ZAF
-ledger_rows: 139
+ledger_rows: 140
 not_held: 21
-record: dc95132eea7b
+record: c3ff6ea5e23a
 ---
 
 # South Africa: monthly update, September – October 2026

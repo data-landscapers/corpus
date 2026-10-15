@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: MWI
-ledger_rows: 42
+ledger_rows: 43
 not_held: 35
-record: 80aeac34df12
+record: 841d4dd14840
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -30,6 +30,11 @@ A gap the repository has carried since April closed this month, though not by th
 
 <!-- narrative: governance--gov-regional -->
 Officials of Malawi and Japan [discussed stronger digital and innovation ties](https://itweb.africa/article/japan-deepens-malawi-innovation-ties/dgp45MaBQYBqX9l8), reported on 1 September. No agreement is on record.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+
 <!-- /narrative -->
 
 ## Finance

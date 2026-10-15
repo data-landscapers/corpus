@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: CAF
-ledger_rows: 17
+ledger_rows: 18
 not_held: 4
-record: fd2df027ae9c
+record: b59e0c623dd5
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -77,6 +77,11 @@ The regulator's first-half 2026 market observatory [counts more than 702,000 act
 
 <!-- narrative: dpi--dpi-mis -->
 [The first integrated criminal database was established on 9 October 2026, the UN mission financing the centre, equipment and servers and UNODC providing expertise, training and connectivity; extension to the judicial police and the regions is the stated next step](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en). [A second report records the centre's inauguration at the interior ministry](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/).
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+
 <!-- /narrative -->
 
 ## Technology

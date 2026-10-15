@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: SOM
-ledger_rows: 16
+ledger_rows: 17
 not_held: 2
-record: ff1896aaaf60
+record: 2572177c2279
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -20,6 +20,11 @@ The identity authority [reported more than 1.5 million people registered since 2
 
 ## Governance
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->

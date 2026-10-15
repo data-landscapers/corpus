@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: MRT
-ledger_rows: 21
+ledger_rows: 22
 not_held: 3
-record: f42b3fe2d013
+record: 6c57ae8e47b1
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -30,6 +30,14 @@ On 16 September the Council of Ministers [took a statement proposing a national 
 <!-- narrative: governance--gov-standards -->
 
 The state asked for outside help with the numbers behind its own borrowing. The finance minister [received an International Monetary Fund technical assistance mission on public finance statistics and state-owned enterprise debt, working on compilation in line with the 2014 government finance statistics manual and reviewing progress on the collection, reliability and consolidation of state-enterprise financial data](https://ami.mr/fr/archives/301765). No baseline, target or publication commitment is stated for that data, so what is currently held about state-enterprise debt stays unknown.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
 <!-- /narrative -->
 
 ## ICT Infrastructure

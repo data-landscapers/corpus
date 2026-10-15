@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: TZA
-ledger_rows: 71
+ledger_rows: 72
 not_held: 5
-record: 8cd9b87e90ea
+record: 3528cc8330de
 ---
 
 # Tanzania: monthly update, September – October 2026
