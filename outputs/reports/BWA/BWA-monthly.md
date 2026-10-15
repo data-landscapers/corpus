@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: BWA
 ledger_rows: 17
 not_held: 8
-record: cbd4d1c9afcd
+record: 2e8e287057a7
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -95,5 +95,5 @@ One absence in that system was dated this month. No gambling participation stati
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
-[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm).
+[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm). [Botswana signed a cooperation agreement on digital transformation with Huawei, covering government cloud hosting, smart education, telemedicine and AI-powered public security](https://dailynews.gov.bw/news-detail/93668); no sum is stated.
 <!-- /narrative -->

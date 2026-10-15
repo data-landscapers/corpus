@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: MWI
 ledger_rows: 43
 not_held: 35
-record: 841d4dd14840
+record: 2cd594b39505
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -34,7 +34,7 @@ Officials of Malawi and Japan [discussed stronger digital and innovation ties](h
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-
+2026 — [the Open Government Partnership's review of Malawi's 2026-2029 action plan](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/) found it continuing political-party financing and beneficial-ownership reforms and adding public-participation commitments in extractive revenues and climate action.
 <!-- /narrative -->
 
 ## Finance

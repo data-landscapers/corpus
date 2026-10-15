@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: MRT
 ledger_rows: 22
 not_held: 3
-record: 6c57ae8e47b1
+record: ddaf7948d6d1
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -37,7 +37,7 @@ The state asked for outside help with the numbers behind its own borrowing. The 
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
+[An IDA additional financing of EUR 25.8m was signed for the programme](https://futureafrique.net/node/20052), and [its ratification bill was adopted in Council of Ministers on 2026-10-14](https://futureafrique.net/node/20052).
 <!-- /narrative -->
 
 ## ICT Infrastructure

@@ -3,9 +3,9 @@ title: Libya — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 place: LBY
-ledger_rows: 37
+ledger_rows: 36
 not_held: 4
-record: a68c93fde6d2
+record: ee9dbc105620
 ---
 
 # Libya: monthly update, September – October 2026
@@ -100,7 +100,7 @@ The economy ministry [made registration on the unified digital trade system comp
 <!-- narrative: dpi--dpi-govtech -->
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
-Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion.
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion. [The Audit Bureau presented its Athar platform for managing audit tasks to more than 140 audited bodies](https://lana.gov.ly/post.php?id=367159&lang=ar).
 <!-- /narrative -->
 
 ## Digitalisation

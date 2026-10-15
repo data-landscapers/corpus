@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: SOM
 ledger_rows: 17
 not_held: 2
-record: 2572177c2279
+record: f4abd1ca46a4
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The identity authority [reported more than 1.5 million people registered since 2
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+[The House of the People is reviewing a draft Penal Code to replace the 1962 code, with offences involving digital platforms and information systems](https://en.goobjoog.com/somalia-moves-to-modernise-penal-code-to-address-cybercrime-and-emerging-offences/); no vote is scheduled.
 <!-- /narrative -->
 ### Regional collaboration
 

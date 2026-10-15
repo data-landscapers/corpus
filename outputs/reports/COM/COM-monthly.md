@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: COM
 ledger_rows: 10
 not_held: 24
-record: 4f011f8c3fff
+record: 5311276cd681
 ---
 
 # Comoros: monthly update, September – October 2026
@@ -49,7 +49,7 @@ An account of the central bank's 2025 annual report, published on 3 September, [
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The government's secretary-general said on 16 September that [the investment agency is deploying an EU-financed platform to put business creation and investment procedures online](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html); the economy minister states an objective of a fully operational system by the end of 2026. The agency, [with a United Nations trade experts' mission and the economy minister, discussed deploying the operational phase of a European Union-financed platform to move business-creation and investment procedures online, adding artificial-intelligence features to simplify the user path; the minister stated an objective of a fully operational system by the end of 2026](https://fr.linkedin.com/posts/anpi-comores_anpicomores-transformationnum%C3%A9rique-cnuced-activity-7476580734892367872-44ph).
+The government's secretary-general said on 16 September that [the investment agency is deploying an EU-financed platform to put business creation and investment procedures online](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html); the economy minister states an objective of a fully operational system by the end of 2026. The agency, [with a United Nations trade experts' mission and the economy minister, discussed deploying the operational phase of a European Union-financed platform to move business-creation and investment procedures online, adding artificial-intelligence features to simplify the user path; the minister stated an objective of a fully operational system by the end of 2026](https://fr.linkedin.com/posts/anpi-comores_anpicomores-transformationnum%C3%A9rique-cnuced-activity-7476580734892367872-44ph). [The second phase of the civil-registry modernisation project was reported 84% complete and extended by three months, with centres mapped, the pre-digitisation study finished and new forms designed](https://alwatwan.net/societe/%C3%A9tat-civil-%C2%AB84-du-projet-amecc-2-r%C3%A9alis%C3%A9s%C2%BB.html).
 <!-- /narrative -->
 
 ## Technology

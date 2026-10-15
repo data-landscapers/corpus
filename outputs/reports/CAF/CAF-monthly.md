@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: CAF
 ledger_rows: 18
 not_held: 4
-record: b59e0c623dd5
+record: 55f9f63bf731
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -81,7 +81,7 @@ The regulator's first-half 2026 market observatory [counts more than 702,000 act
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-
+[A national portal for online government services was launched, covering driving licences, criminal-record extracts, nationality and school certificates and medical appointments, in a country where about 12% of the population was online at the end of 2025](https://africabusinessinsight.com/central-african-republics-digital-public-services-face-connectivity-barriers/).
 <!-- /narrative -->
 
 ## Technology

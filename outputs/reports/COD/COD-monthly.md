@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: COD
 ledger_rows: 57
 not_held: 7
-record: 6c8ba28007f1
+record: ac42e9508162
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -107,7 +107,7 @@ The revenue side of the digitisation put a number on itself. On a broadcast acco
 <!-- narrative: dpi--dpi-govtech -->
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 
-The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated.
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated. [The foreign and digital economy ministers met to advance an integrated electronic-visa platform](https://ecomine.cd/web/index.php/actualite/2026/10/14/rdc-kinshasa-accelere-la-mise-en-oeuvre-du-visa-electronique-afin-de); no timetable is stated.
 <!-- /narrative -->
 
 ## Technology

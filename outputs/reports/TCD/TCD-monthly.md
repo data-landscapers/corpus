@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, September – October 2026
-compiled: 2026-10-13
-period: 2026-09-01 to 2026-10-13
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: TCD
 ledger_rows: 31
 not_held: 22
-record: 02cfef177a62
+record: 44d68795e864
 ---
 
 # Chad: monthly update, September – October 2026
@@ -95,7 +95,7 @@ A regional platform for digitising health campaigns [was piloted in a district o
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record. [The freight bureau signed a convention with a mobile-money operator to let road-freight users pay the compulsory waybill and the axle tax by mobile phone](https://www.atpe.td/tchad-le-bnft-et-moov-money-digitalisent-le-paiement-des-taxes-du-fret-terrestre/).
+The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record. [The freight bureau signed a convention with a mobile-money operator to let road-freight users pay the compulsory waybill and the axle tax by mobile phone](https://www.atpe.td/tchad-le-bnft-et-moov-money-digitalisent-le-paiement-des-taxes-du-fret-terrestre/). [The freight bureau signed a second mobile-money convention, with Konoom, to take payment of the mandatory waybill and axle tax](https://www.ndjamenaactu.com/2026/10/14/tchad-le-bnft-signe-avec-konoom-pour-dematerialiser-le-paiement-de-la-lvo-et-de-la-tae/).
 <!-- /narrative -->
 
 ## Digitalisation

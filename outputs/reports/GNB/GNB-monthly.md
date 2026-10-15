@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: GNB
 ledger_rows: 8
 not_held: 2
-record: 8fc33d3a241b
+record: 8ab19bb15788
 ---
 
 # Guinea-Bissau: monthly update, September – October 2026
@@ -47,7 +47,7 @@ The satellite operator's licence stayed provisional. The regulator [extended Sta
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-
+[The customs directorate put the migration to SYDONIA World at more than 80% executed, with the remaining applications and modules still to be installed for full operation](https://alfandegas.mef.gw/dga-e-missao-tecnica-do-bad-avaliam-a-execucao-dos-projetos-de-modernizacao-e-formacao-aduaneira/).
 <!-- /narrative -->
 ### Sectoral management information systems
 

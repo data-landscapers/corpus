@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: UGA
 ledger_rows: 68
 not_held: 11
-record: 601ff03db237
+record: 6c4d4295aa0f
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The internal affairs minister [launched the integration of the national identifi
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The revenue authority [began implementing a compliance risk management strategy for 2026/27 that uses taxpayer information, business transactions and sector trends to find compliance gaps](https://eagle.co.ug/2026/09/14/ura-unveils-data-driven-tax-compliance-strategy-for-fy2026-27/). The science, technology and innovation minister said [a national artificial intelligence strategy is under development](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says), reported on 10 September.
+The revenue authority [began implementing a compliance risk management strategy for 2026/27 that uses taxpayer information, business transactions and sector trends to find compliance gaps](https://eagle.co.ug/2026/09/14/ura-unveils-data-driven-tax-compliance-strategy-for-fy2026-27/). The science, technology and innovation minister said [a national artificial intelligence strategy is under development](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says), reported on 10 September. [The ICT ministry launched the National Communication Policy, 2026, requiring every ministry, agency and local government to adopt an aligned communication strategy with citizen-feedback mechanisms](https://ict.go.ug/media/news/government-launches-national-communication-policy-2026).
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -32,7 +32,7 @@ January’s shutdown directive reached the record in its own words. A newspaper 
 
 Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
 
-The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints).
+The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints). [The regulator said it had assessed about 4,000 unlicensed public Wi-Fi resellers and was moving to enforcement, with equipment imports to be blocked](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/).
 <!-- /narrative -->
 ### Data protection
 

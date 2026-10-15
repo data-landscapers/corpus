@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: GHA
 ledger_rows: 104
 not_held: 10
-record: 1659da2303f8
+record: 04b7deb70440
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -53,7 +53,7 @@ The central bank [directed banks to give their fraud functions direct access to 
 
 On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
 
-The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published.
+The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published. [The communications minister said the ministry is building a national data exchange hub to connect 48 government data registries](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/); no design, cost or timetable is stated.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -93,7 +93,7 @@ On 25 September in New York the President [discussed with Amazon's chief global 
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre).
+The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre). [The communications minister said US$250m had been committed to the first phase of a national AI compute centre](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/); nothing is sited or procured on the record.
 <!-- /narrative -->
 ### Cybersecurity
 

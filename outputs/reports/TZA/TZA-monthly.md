@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: TZA
 ledger_rows: 72
 not_held: 5
-record: 3528cc8330de
+record: 3a795ae5551f
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -133,7 +133,7 @@ A development partner said [its tool mapping disability care and support service
 <!-- narrative: dpi--dpi-govtech -->
 Zanzibar's automated road cameras [reached the House of Representatives](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252), members calling the 50 km/h limit too low and the Sh230,000 fine too high and asking why government vehicles go unpenalised.
 
-The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them.
+The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them. [The Vice President directed the integration of the YES, Ajira and Kazi employment platforms, after YES had registered over 22,000 young people against seven listed opportunities](https://ippmedia.co.tz/the-guardian/news/local-news/read/vp-govt-digital-platforms-still-not-helping-the-youth-2026-10-15-103404).
 <!-- /narrative -->
 
 ## Digitalisation

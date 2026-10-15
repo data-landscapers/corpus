@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: XWA
 ledger_rows: 27
 not_held: 1
-record: 523ebeb1c04b
+record: da3f95a01533
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -25,7 +25,7 @@ The central bank [published a list of 175 institutions authorised to offer the i
 <!-- narrative: institutions--gov-regional -->
 The [third Mano River Union Internet Governance Forum met in Paynesville on 21-22 September](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/), where a Sierra Leonean MP called for harmonised legislation on artificial intelligence across Liberia, Sierra Leone, Guinea and Côte d'Ivoire; no communique or instrument is published.
 
-The three Sahel states' telecoms regulators [announced a cooperation convention for signing in Ouagadougou on 25 September, creating a permanent Sahel regulators' council to coordinate roaming inside the AES, consumer protection, cybersecurity, spectrum and mutual recognition of type-approved equipment](https://lefaso.net/spip.php?article149443). The notice is one regulator's own; the signing is not yet on record. [Ten member states held the constitutive interministerial meeting of the backbone network's council in Dakar on 8 October 2026; its founding texts, a 2026-2030 strategic plan and its bodies are still to be adopted](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/).
+The three Sahel states' telecoms regulators [announced a cooperation convention for signing in Ouagadougou on 25 September, creating a permanent Sahel regulators' council to coordinate roaming inside the AES, consumer protection, cybersecurity, spectrum and mutual recognition of type-approved equipment](https://lefaso.net/spip.php?article149443). The notice is one regulator's own; the signing is not yet on record. [Ten member states held the constitutive interministerial meeting of the backbone network's council in Dakar on 8 October 2026; its founding texts, a 2026-2030 strategic plan and its bodies are still to be adopted](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/). [The media regulators of Burkina Faso, Mali and Niger adopted the founding texts of a joint regulation platform, PAREMEC](https://www.csc.bf/index.php/actualite/349-souverainete-informationnelle-dans-l-espace-aes-la-plateforme-des-autorites-de-regulation-des-medias-et-de-la-communication-portee-sur-les-fonts-baptismaux).
 <!-- /narrative -->
 
 ## Instruments and harmonisation

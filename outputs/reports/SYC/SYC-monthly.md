@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: 6e6a2141d6ca
+record: 8c77522c22b6
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -69,7 +69,7 @@ The social protection registry gained a use: [an agreement signed in September p
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-
+[The Vice-President said the public service is expected to begin moving to a digital human resource management system in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027).
 <!-- /narrative -->
 
 ## Technology

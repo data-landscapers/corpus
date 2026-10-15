@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: CIV
 ledger_rows: 41
 not_held: 10
-record: 31b52a91c7d2
+record: 41e505f31588
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -51,7 +51,7 @@ A further figure was attached to the digitalisation programme at the prioritisat
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The largest operator said [construction works severed several of its cables in an Abidjan district on 2 September, cutting service to more than 1,121 customers](https://techafricanews.com/2026/09/04/orange-cote-divoire-warns-legal-action-after-telecom-cables-damaged-cocody/). It named the construction company and threatened legal action.
+The largest operator said [construction works severed several of its cables in an Abidjan district on 2 September, cutting service to more than 1,121 customers](https://techafricanews.com/2026/09/04/orange-cote-divoire-warns-legal-action-after-telecom-cables-damaged-cocody/). It named the construction company and threatened legal action. [The Council of Ministers adopted a decree setting the financial terms for freeing 5G spectrum in the 3300-3600 MHz band, including compensation for current assignees](https://www.aip.ci/aip-transition-numerique-en-cote-divoire-le-gouvernement-adopte-un-decret-cle-pour-encadrer-la-liberation-des-frequences-de-la-5g); its number and text were not published.
 <!-- /narrative -->
 ### Data Storage
 

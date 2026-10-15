@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: NGA
 ledger_rows: 151
 not_held: 9
-record: 999ffbe79b7e
+record: 6436582abe29
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -88,7 +88,7 @@ A rural network operator [announced a pilot of licensed satellite backhaul at on
 
 An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving. [The Lagos deputy governor put state fibre at about 3,000 km, with a further US$22 million invested towards a unified 6,000 km network, and resident identity enrolment at more than 6.4 million](https://realnewsmagazine.net/hamzat-tasks-govt-businesses-on-technology-driven-jobs-inclusive-growth/). [Internet data use reached 11.94 million TB in January to August 2026, about 90% of the whole of 2025, with 1.76 million TB in August](https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/).
 
-The operator of the Lagos station where the ACE cable lands [contracted a Nigerian developer to run a solar system there under a ten-year agreement, to cut the station's diesel use](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos); the account was published on 13 October and gives no signing date.
+The operator of the Lagos station where the ACE cable lands [contracted a Nigerian developer to run a solar system there under a ten-year agreement, to cut the station's diesel use](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos); the account was published on 13 October and gives no signing date. [The government, the EU and the EBRD signed a EUR 14m grant for scoping, detailed network design and preparation of the backbone](https://businessday.ng/news/article/fg-eu-ebrd-sign-e14m-deal-to-drive-90000-km-fibre-optic-backbone-project/).
 <!-- /narrative -->
 ### Data Storage
 

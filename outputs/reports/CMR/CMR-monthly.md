@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: CMR
 ledger_rows: 31
 not_held: 4
-record: 9138c7bdaa9c
+record: 2dc641b4230c
 ---
 
 # Cameroon: monthly update, September – October 2026
@@ -110,7 +110,7 @@ The water utility [awarded a CFA721.76 million contract on 17 August 2026 for 3,
 <!-- narrative: digitalisation--digital-localgov -->
 Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
 
-The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published.
+The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published. [The Mboa City municipal app, through which residents report local infrastructure problems, was handed to the local-government fund for national rollout](https://en.journalducameroun.com/cameroon-advances-local-governance-through-digital-innovation-and-citizen-engagement/); no user count is published.
 <!-- /narrative -->
 ### Rural digital data capture
 

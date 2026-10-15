@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-15
 place: GIN
 ledger_rows: 20
 not_held: 4
-record: 7d711c09657a
+record: f5db1a739b5e
 ---
 
 # Guinea: monthly update, September – October 2026
@@ -72,7 +72,7 @@ A second citizen-facing platform launched, and one already running was presented
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-
+[The prime minister said public procurement will be digitised and AI used to check road-construction prices against the market, aiming to be operational by the end of 2026](https://guineejet.info/routes-en-guinee-bah-oury-veut-reduire-les-couts-grace-a-lintelligence-artificielle/).
 <!-- /narrative -->
 
 ## Capacity
