@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: capacity.literacy
 places: CPV; TCD; COM; EGY; GHA; KEN; MDG; MOZ; NER; RWA; SEN; SLE; TZA; TGO; UGA
-record: 7b636ffab566
+record: 3bbf92bb95f6
 ---
 
 # Literacy: monthly update, September – October 2026

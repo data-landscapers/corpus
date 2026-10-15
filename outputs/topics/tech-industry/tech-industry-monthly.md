@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: tech.industry
 places: DZA; AGO; CAF; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: 1d6d0c2846f6
+record: f8ea775c2de5
 ---
 
 # ICT Industry: monthly update, September – October 2026
@@ -19,7 +19,7 @@ The state electronics firm INATEL, in a consortium with two other companies, [si
 
 ## Angola
 
-The sector was given a growth rate and nothing to read it against. The secretary of state for telecommunications told the close of the seventeenth technology innovation fair that [the telecommunications, information technology and media sector grew 14.3% in its contribution to gross domestic product in the second quarter of 2026, among the five best-performing sectors](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/). It is a rate given in a speech: no level, no base, no statistical release, and a sector that bundles media with telecommunications and IT.
+The secretary of state for telecommunications told the close of the seventeenth technology innovation fair that [the telecommunications, information technology and media sector grew 14.3% in its contribution to gross domestic product in the second quarter of 2026, among the five best-performing sectors](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/). No level, base or statistical release accompanies the figure, and the sector as named bundles media with telecommunications and IT.
 
 ## Central African Republic
 

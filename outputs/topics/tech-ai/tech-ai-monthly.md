@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 12219c725582
+record: 503d1534c2d3
 ---
 
 # AI: monthly update, September – October 2026
@@ -21,7 +21,7 @@ A follow-up meeting on the strategy, reported on 22 September, [approved an upda
 
 ## Angola
 
-Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the repository holds no national instrument on artificial intelligence in government against which to read the spend.
+A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/); [the money is World Bank funding run through the digital acceleration project](https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/). What the platform is to do, which bodies would use it and on what data are not stated.
 
 ## Benin
 
@@ -37,7 +37,7 @@ Camera enforcement of road offences [recorded 19,910 offences over August 2026, 
 
 ## Burundi
 
-The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the repository already had it: adopted, unfunded and unimplemented.
+The finance and budget minister carried the artificial-intelligence strategy's ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, and no budget or implementation plan for the strategy is published.
 
 ## Chad
 

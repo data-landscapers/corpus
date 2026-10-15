@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 6d0816256b39
+record: ba543caad714
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 6d0816256b39
 
 ## Angola
 
-The month’s startup news is a lawsuit. The founders of Paga3, owned by Cafeje-Comércio e Indústria, [accuse Standard Bank Angola of using strategic information shared in a pilot project to develop a similar product, in a case that entered court about a year ago and awaits a decision on interim relief; the bank rejects the accusation and calls the claim abusive](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html). The source is paywalled beyond its opening, so neither party’s pleadings nor the case number is on record.
+The founders of Paga3, owned by Cafeje-Comércio e Indústria, [accuse Standard Bank Angola of using strategic information shared in a pilot project to develop a similar product, in a case that entered court about a year ago and awaits a decision on interim relief; the bank rejects the accusation and calls the claim abusive](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html). Neither party’s pleadings nor the case number is held.
 
 ## Burkina Faso
 

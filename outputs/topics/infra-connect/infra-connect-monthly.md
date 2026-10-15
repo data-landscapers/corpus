@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0591f9d6f568
+record: 90c32c923a34
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -41,7 +41,7 @@ The communications minister said [the Universal Access and Service Fund's broadb
 
 ## Burundi
 
-International capacity moved for the first time in the record: Tanzania's state operator and the Burundi Backbone System [agreed to raise the Tanzanian route from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/) on 9 September. Nothing is published for the Rwandan or Congolese routes, so the country's total is still unknown.
+Tanzania's state operator and the Burundi Backbone System [agreed on 9 September to raise capacity on the Tanzanian route from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/). No capacity figure is published for the Rwandan or Congolese routes, so the country's total international capacity is unknown.
 
 ## Cameroon
 
@@ -49,7 +49,7 @@ The state operator [took delivery of a second shipment of equipment from China f
 
 The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing. The state operator and the secondary education ministry [signed a framework agreement to interconnect 130 schools in the three northern regions](https://techafricanews.com/2026/10/08/camtel-and-minesec-sign-deal-to-expand-digital-education-across-northern-cameroon/).
 
-The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October; the developer says more than 30,000 of its clients could eventually benefit. No timetable or estate list is published.
+The state operator and the state housing developer [signed a framework agreement to prewire public housing estates for fibre, starting with about 40 households and offering subscriptions from CFAF 15,000 a month](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing), reported on 14 October. The developer [says more than 30,000 of its clients could eventually benefit](https://www.businessincameroon.com/public-management/1410-16970-cameroon-s-camtel-sic-sign-agreement-to-bring-fibre-internet-to-public-housing). No timetable or estate list is published.
 
 ## Cape Verde
 

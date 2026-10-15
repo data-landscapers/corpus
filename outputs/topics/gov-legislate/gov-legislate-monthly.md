@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b759a647d565
+record: 6b5ba6fefe6b
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -19,7 +19,7 @@ The high commission for digitalisation says [a digitalisation law covering data,
 
 ## Angola
 
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/). [The telecommunications ministry said a national commission would be formed to create, within 180 days, the conditions to implement the National Cybersecurity Centre](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/).
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026 gives the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/). [The telecommunications ministry said a national commission would be formed to create, within 180 days, the conditions to implement the National Cybersecurity Centre](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/).
 
 ## Benin
 
@@ -31,7 +31,7 @@ Civil status abroad got a new legal base: the Council of Ministers [adopted a de
 
 ## Burundi
 
-The Senate [unanimously adopted the access to information bill on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/), after its committee reviewed the government's and the National Assembly's versions. The bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees. The account rests on a Senate committee report as read by one outlet; no text is published. Mandatory SIM registration, begun in mid-June, [was about 70 per cent complete on the regulator's count](https://www.connectingafrica.com/regulation/burundi-sim-registration-process-faces-challenges-scams-persist), amid long queues, few service points, slow systems and continuing scams; operators must keep customer data for at least five years.
+The Senate [unanimously adopted the access to information bill on 29 September 2026, after its committee reviewed the government's and the National Assembly's versions; the bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/). Promulgation is not on record and no text is published. Mandatory SIM registration, begun in mid-June, [was about 70 per cent complete on the regulator's count](https://www.connectingafrica.com/regulation/burundi-sim-registration-process-faces-challenges-scams-persist), amid long queues, few service points, slow systems and continuing scams; operators must keep customer data for at least five years.
 
 ## Cameroon
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 8ad2bd6c6231
+record: a0962aea8f00
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -19,7 +19,7 @@ The prime minister [ordered an immediate national census of economic land on a u
 
 ## Angola
 
-The education ministry made school enrolment independent of documentation. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html); it gave no provincial breakdown, so the audit the opposition asked for is still not possible.
+The electoral-register update drew two objections in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html), with no provincial breakdown.
 
 ## Benin
 
@@ -31,7 +31,7 @@ Civil registration is being digitised one commune at a time, and the training is
 
 ## Burundi
 
-The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this repository holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
+The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025; its president said a voter who loses their card keeps the right to vote provided they are in the electoral database](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/). No register size, audit terms or duplicate-detection method is published. An ordinance of 7 February [makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/); no enrolment count, register or digital component is described.
 
 ## Cameroon
 

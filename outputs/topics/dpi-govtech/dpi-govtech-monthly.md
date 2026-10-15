@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 935c54ec3585
+record: 9783efbaf229
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -25,7 +25,7 @@ The national pension fund [added a website chatbot on 24 September](https://obse
 
 ## Angola
 
-The in-person counterpart to the missing online service inventory does publish numbers. The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown, a waiting-time measure or any online equivalent — so the state can say how many people came through a door and still not say what it does online.
+The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown or a waiting-time measure. On 1 October the public e-services system [was reported online after a ransomware group claimed an attack on it](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/); the claimed intrusion is unconfirmed.
 
 The Constitutional Court is preparing its own systems for the 2027 elections: on 22 September it [opened a limited tender with pre-qualification, valued at Kz 20 billion, to modernise its platform for registering candidacies and to migrate the records of earlier electoral cycles in full](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html). The tender document is not published.
 

@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: gov.discourse
 places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f512dcd0bcf0
+record: 7f2dbe136240
 ---
 
 # Public debate and participation in policymaking: monthly update, September – October 2026

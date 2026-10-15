@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: d31a57a0887d
+record: f9bc1c5c9591
 ---
 
 # Access to services: monthly update, September – October 2026
@@ -21,7 +21,7 @@ The social card's working group reached its fifth session, [setting the card's i
 
 ## Angola
 
-The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), and now by a national total: [17,166,000 cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate.
+The registries director put [17,166,000 identity cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate. The telecommunications minister [put the free public internet programme at 180 access points in 18 of the 21 provinces on 16 September](https://angop.ao/en/noticias/tecnologia/projecto-angola-digital-ja-dispoe-de-180-pontos-de-acesso-livre-a-internet/); no usage figure is published.
 
 ## Benin
 

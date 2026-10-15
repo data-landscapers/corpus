@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ce29e3b4a50b
+record: 8413794a1b1b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -23,7 +23,7 @@ The industry sector's PRODNAT platform [closed first-half 2026 production declar
 
 ## Angola
 
-Customs control got its own procurement in September. A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable, and does not say how the project relates to the logistics single window announced in July.
+A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable.
 
 ## Benin
 

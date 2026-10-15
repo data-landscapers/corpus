@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: 29c3e1c028a6
+record: 5ba721acdf01
 ---
 
 # New investments: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 29c3e1c028a6
 
 ## Angola
 
-The higher-education programme entered the repository with its digital content itemised. A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
+A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/) under the World Bank's tertiary education project, with no per-institution split or results framework published. [The project's appraisal, dated November 2023, itemises US$10m to digitalise higher-education services, US$15m for a national research and education network and US$15m for the sector's management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf).
 
 The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html). The regional programme's half-year report [records the three memoranda that are withdrawal conditions under the digital acceleration loan signed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), for broadband, digital inclusion and digital identification, with 17 contracts signed, 29 tenders under way and about US$100m available to spend; coordination with the ICT ministry on the broadband component is the stated obstacle.
 
