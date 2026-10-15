@@ -2,7 +2,7 @@
 
 ## Long-distance fibre across the country
 
-**Built, in service and reaching every region.** [Tunisie Telecom's CEO Lassaad Ben Dhiab said on 29 September 2026 that the operator relies on a national network of more than 70,000 km of optical fibre; no regions or towns are listed](<https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/>). These place backbone fibre in service between the capital and at least one other region, which answers the first two of the study's four questions. That it reaches every province or region is not stated. A length in kilometres is given where a source states one; length sets no stage.
+**Built, in service and reaching every region.** [Tunisie Telecom's CEO Lassaad Ben Dhiab said on 29 September 2026 that the operator relies on a national network of more than 70,000 km of optical fibre](<https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/>). These place backbone fibre in service between the capital and at least one other region, which answers the first two of the study's four questions. That it reaches every province or region is not stated. A length in kilometres is given where a source states one; length sets no stage.
 
 **Capacity sold to other operators.** Nothing held says other operators buy capacity on [this fibre](<https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/>), or that it runs on open-access or wholesale terms. A backbone counts as open where other operators buy or lease capacity on it, or where it runs on open-access or wholesale terms, whoever owns it.
 
