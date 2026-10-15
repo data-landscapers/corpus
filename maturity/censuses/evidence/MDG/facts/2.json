@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-07-presentation-plateforme-microdonnees-instat-rgph3",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The document states the third general population and housing census (RGPH-3) was held in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "RGPH-3 2018",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-3 2018",
+   "country_label": "RGPH-3 2018",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "EPM 2021-2022",
+   "country_label": "EPM 2021-2022",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "Microdata platform launch of 2025-08-07 is not a results release; EPM microdata access stated without a results publication."
+}

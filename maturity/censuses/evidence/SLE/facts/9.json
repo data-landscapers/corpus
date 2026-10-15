@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-iati-xm-dac-21-1-2025000348b1sierraoc4gov-statistics-sierra-leone-digital-census-mapping",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Irish Aid disbursed EUR 200,000 in 2025 to build Stats SL capacity for digital census mapping, the pilot census and a digital census system ahead of the 2026 census; the date is the reporting year, not a day.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Statistics Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-lesotho-completed-2026-census-enumeration",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Government states enumeration of the 2026 Housing and Population Census concluded, with mop-up in Maseru and cattle pounds; results not yet published; no enumeration date given, so the document date 2026-06-05 is used.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "2026 Housing and Population Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Housing and Population Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Lesotho Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken",
+     "fact": "The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province; the document gives no enumeration date, so the document's published date is used.",
+     "as_of": "2026-08-21", "date_precision": "day", "system": "RGPL 2026", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPL 2026", "country_label": "RGPL 2026", "class": "census", "platform": "", "owner": "Ministry of Planning and Prospective", "tiers": "national"}
+  ],
+  "note": "Definitive results await Constitutional Court homologation, so no final-results fact."
+}

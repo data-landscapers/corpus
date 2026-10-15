@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-01-unfpa-guinea-bissau-rgph4-census-field-launch",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "UNFPA reports the field enumeration of RGPH-4 was launched on 1 June 2026, scheduled to run 1 to 21 June, using CAPI tablets across 46 sectors, 145 enumeration areas and 2,987 census zones.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "RGPH-4 2026",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Before the count the document reports over 5,000 field agents trained, 350 national trainers and nine regional statistical offices equipped, with the country mapped into 46 sectors, 145 enumeration areas and 2,987 census zones.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "RGPH-4 2026",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4 2026",
+   "country_label": "RGPH-4 2026",
+   "class": "census",
+   "platform": "CAPI tablets",
+   "owner": "INE Guinea-Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

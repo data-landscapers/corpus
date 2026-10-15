@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-gbos-gambia-labour-market-progress-trends-2023-2026",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "The Gambia Bureau of Statistics published a report comparing its labour force survey across three rounds, 2023 Q1, 2025 Q1 and 2026 Q1; the document gives no release date, so the 2026-07-30 retrieval date stands in, and it was disseminated at a national workshop in the second half of July 2026.",
+     "as_of": "2026-07-30", "date_precision": "day", "system": "GLFS 2026 (Q1)", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Gambia Labour Force Survey (GLFS)", "country_label": "GLFS 2023-2026", "class": "survey", "platform": "", "owner": "Gambia Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

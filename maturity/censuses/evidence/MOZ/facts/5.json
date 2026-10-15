@@ -1,0 +1,26 @@
+{
+ "slug": "2018-07-03-iati-se-0-se-6-12296-12296a0101-unfpa-statistics-trust-fund-ine-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The record states a population and housing census was conducted during 2017, with data to be processed in 2018 and 2019 (Sida SEK 40m support via UNFPA); no exact dates.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Census 2017",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Census 2017",
+   "country_label": "Census 2017",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

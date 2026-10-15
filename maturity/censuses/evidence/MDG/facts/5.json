@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-05-un-madagascar-mics7-2025",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "A UN Madagascar account dated 2026-03-05 describes MICS7 2025, carried out by INSTAT with UNICEF, on 21,000 households in 23 regions with 99% response, as a reference data source; no separate release date is given.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "MICS7 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MICS7 2025",
+   "country_label": "MICS7 2025",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

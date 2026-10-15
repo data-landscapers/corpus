@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-namibia-bon-nsa-statistics-awareness-day-admin-records-ai",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The NSA Statistician-General cited the 2023 Population and Housing Census as the country's first fully digital census; no enumeration date is given beyond the year 2023.", "as_of": "2023", "date_precision": "year", "system": "2023 Population and Housing Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2023 Population and Housing Census", "country_label": "PHC 2023", "class": "census", "platform": "digital enumeration", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

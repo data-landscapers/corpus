@@ -1,0 +1,26 @@
+{
+ "slug": "2018-01-01-lesotho-2016-phc-summary-key-findings",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Bureau's summary of the 2016 Population and Housing Census reports a population of 2,007,201; enumeration date not given, so the census year is used.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "2016 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2016 Population and Housing Census",
+   "country_label": "PHC 2016",
+   "class": "census",
+   "platform": "",
+   "owner": "Lesotho Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "Summary key findings are not stated to be final results, so no results fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-08-lesotho-statistics-boss-suspended",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "The Bureau of Statistics was engaging and deploying enumerators for the 2026 Population and Housing Census, with payment delays and an internal probe into enumerators outside the approved lists; the article does not say the count was completed, and is dated by its published date.", "as_of": "2026-08-08", "date_precision": "day", "system": "2026 Population and Housing Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2026 Population and Housing Census", "country_label": "Population and Housing Census 2026", "class": "census", "platform": "", "owner": "Bureau of Statistics", "tiers": "national"}
+  ],
+  "note": ""
+}

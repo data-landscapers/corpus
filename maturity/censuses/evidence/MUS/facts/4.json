@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-30-labour-force-employment-unemployment-q1-2026",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "Statistics Mauritius released online on 30 June 2026 its first-quarter 2026 labour force estimates from the Continuous Multi-Purpose Household Survey (CMPHS), a national household survey covering all private households in Mauritius and Rodrigues, run monthly since 2005 with about 11,280 households sampled a year.", "as_of": "2026-06-30", "date_precision": "day", "system": "CMPHS Q1 2026", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The document says the 2022 Housing and Population Census results were used to review sampling strata from 2023 and to revise the population figures behind the labour force estimates; no enumeration date is given, so the year is used.", "as_of": "2022", "date_precision": "year", "system": "2022 Housing and Population Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "CMPHS", "country_label": "CMPHS Q1 2026", "class": "survey", "platform": "", "owner": "Statistics Mauritius", "tiers": ""},
+    {"system": "2022 Housing and Population Census", "country_label": "2022 Census", "class": "census", "platform": "", "owner": "Statistics Mauritius", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-21-hcp-jms-2025-allocution",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The High Commissioner's World Statistics Day 2025 address cites the 2024 General Population and Housing Census (RGPH 2024) as carried out; it gives no enumeration day or count.", "as_of": "2024", "date_precision": "year", "system": "RGPH 2024", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPH 2024", "country_label": "RGPH 2024", "class": "census", "platform": "", "owner": "HCP", "tiers": ""},
+    {"system": "Enquete nationale sur l'emploi (reformed from 2026)", "country_label": "Enquete nationale sur l'emploi 2026", "class": "survey", "platform": "", "owner": "HCP", "tiers": ""},
+    {"system": "Enquete nationale sur la famille", "country_label": "Enquete nationale sur la famille", "class": "survey", "platform": "", "owner": "HCP", "tiers": ""},
+    {"system": "Enquete sur le niveau de vie des menages", "country_label": "Enquete niveau de vie des menages", "class": "survey", "platform": "", "owner": "HCP", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-25-rgph4-resultats-preliminaires",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Ministry of Plan, through INS, published preliminary results of RGPH-4 on 25 February 2026 (population 17,521,167), and the Prime Minister called the census completed; enumeration date not given.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "RGPH-4",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4",
+   "country_label": "RGPH-4 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "INS / MPCID",
+   "tiers": ""
+  },
+  {
+   "system": "RGPH-4 post-enumeration survey",
+   "country_label": "RGPH-4 post-enumeration survey",
+   "class": "other",
+   "platform": "",
+   "owner": "INS Guinea",
+   "tiers": ""
+  },
+  {
+   "system": "Recensement Général des Entreprises (RGE)",
+   "country_label": "RGE-1",
+   "class": "other",
+   "platform": "",
+   "owner": "INS Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": "Results stated are preliminary, so no results fact."
+}

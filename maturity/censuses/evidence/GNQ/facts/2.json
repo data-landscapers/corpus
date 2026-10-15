@@ -1,0 +1,50 @@
+{
+ "slug": "2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The National Statistics Council's 27 August 2026 session was to validate the project document, social-mobilisation communication document and resource-mobilisation strategy for the fifth General Population and Housing Census (CGPV-V) and hear progress on it as an operation under way.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "CGPV-V",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CGPV-V",
+   "country_label": "V Censo General de Población y Vivienda 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "CGA-I",
+   "country_label": "I Censo General Agropecuario",
+   "class": "other",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "EDS-II",
+   "country_label": "Segunda Encuesta Demográfica y de Salud",
+   "class": "survey",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "EPA-II",
+   "country_label": "Segunda Encuesta de Población Activa, Formación y Empleo",
+   "class": "survey",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

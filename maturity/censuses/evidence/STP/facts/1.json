@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-24-sao-tome-terceiro-recenseamento-geral-agricola-recolha-dados",
+  "facts": [],
+  "systems": [
+    {"system": "Terceiro Recenseamento Geral Agrícola", "country_label": "Agricultural census 2025-2026", "class": "other", "platform": "", "owner": "Ministério da Agricultura with INE", "tiers": ""}
+  ],
+  "note": "Agricultural census only; not a population and housing census, so no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-02-gia-confirms-technical-readiness-general-population-census-project",
+  "facts": [],
+  "systems": [
+    {"system": "General Population Census and accompanying censuses project", "country_label": "General Population Census (planned)", "class": "census", "platform": "national data distributor; national database", "owner": "Ministry of Planning; Statistics and Census Department; General Authority for Information", "tiers": "national"}
+  ],
+  "note": "Meeting of 1 July 2026 reviewed digital and technical preparations only; no mapping, pilot, funding, decree, date or enumerator step is stated, so no census fact."
+}

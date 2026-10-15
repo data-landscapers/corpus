@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-moz-mznews-ine-reuniao-planificacao-censo-2027",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "INE's national planning meeting of 9-10 September 2026 in Maputo put the operational preparation of the 2027 Population and Housing Census at the centre of its agenda.", "as_of": "2026-09-09", "date_precision": "day", "system": "Censo da Populacao e Habitacao 2027", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Censo da Populacao e Habitacao 2027", "country_label": "Census 2027", "class": "census", "platform": "", "owner": "INE", "tiers": ""}
+  ],
+  "note": ""
+}

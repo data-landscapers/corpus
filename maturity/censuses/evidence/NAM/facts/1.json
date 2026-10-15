@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-namibia-bon-eid-administrative-data-sharing-census-costs",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The NSA Statistician General said the 2023 Population and Housing Census, Namibia's first fully digital census, showed the population exceeded three million.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2023 Population and Housing Census",
+   "country_label": "PHC 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2013-01-01-lesotho-iec-2012-national-assembly-elections-report",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The Independent Electoral Commission report states the last population census before the 2012 elections was conducted in 2006.", "as_of": "2006", "date_precision": "year", "system": "2006 Population Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2006 Population Census", "country_label": "Population Census 2006", "class": "census", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "2026-09-10-mwi-efficacynews-zamstats-nso-census-knowledge-exchange",
+ "countries": {
+  "MWI": {
+   "facts": [
+    {
+     "sub_indicator": "census",
+     "aspect": "census",
+     "value": "taken",
+     "fact": "The story says Malawi held a 2018 Population and Housing Census; the enumeration date is not given.",
+     "as_of": "2018",
+     "date_precision": "year",
+     "system": "Population and Housing Census",
+     "class": "census"
+    },
+    {
+     "sub_indicator": "census",
+     "aspect": "census",
+     "value": "preparing",
+     "fact": "The story says Malawi is preparing its 7th Population and Housing Census, scheduled for September 2028, and its statistics office held a benchmarking mission in Zambia on 7-11 September 2026.",
+     "as_of": "2026-09",
+     "date_precision": "month",
+     "system": "7th Population and Housing Census",
+     "class": "census"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Population and Housing Census",
+     "country_label": "PHC 2018",
+     "class": "census",
+     "platform": "",
+     "owner": "National Statistical Office",
+     "tiers": ""
+    },
+    {
+     "system": "7th Population and Housing Census",
+     "country_label": "PHC 2028",
+     "class": "census",
+     "platform": "",
+     "owner": "National Statistical Office",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ZMB": {
+   "facts": [
+    {
+     "sub_indicator": "census",
+     "aspect": "census",
+     "value": "taken",
+     "fact": "The Zambia Statistics Agency says Zambia's 2022 Census of Population and Housing, its sixth and first electronic census, was conducted; the enumeration date is not given.",
+     "as_of": "2022",
+     "date_precision": "year",
+     "system": "Census of Population and Housing",
+     "class": "census"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Census of Population and Housing",
+     "country_label": "Census 2022",
+     "class": "census",
+     "platform": "",
+     "owner": "ZamStats",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  }
+ }
+}

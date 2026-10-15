@@ -1,0 +1,31 @@
+{
+ "slug": "2026-09-17-gin-bambouguinee-rge-1-lancement-recensement-general-entreprises",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGE-1 2026",
+   "country_label": "RGE-1 2026",
+   "class": "other",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  },
+  {
+   "system": "RGPH-4 2025",
+   "country_label": "RGPH-4 2025",
+   "class": "census",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  },
+  {
+   "system": "Sixth DHS",
+   "country_label": "DHS-6",
+   "class": "survey",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  }
+ ],
+ "note": "RGE-1 is a business census (other); RGPH-4 and sixth DHS only named in passing, no date or publication stated."
+}

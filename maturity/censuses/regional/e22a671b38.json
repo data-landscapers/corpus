@@ -1,0 +1,24 @@
+{
+ "slug": "2026-07-01-gpsdd-midn-dakar-peer-exchange",
+ "countries": {
+  "NGA": {
+   "facts": [],
+   "systems": [],
+   "note": "Inclusive-data peer exchange; no census or survey fact."
+  },
+  "SEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "national business census",
+     "country_label": "business census 2026",
+     "class": "other",
+     "platform": "",
+     "owner": "ANSD",
+     "tiers": ""
+    }
+   ],
+   "note": "Only a national business census is launched, which is not a population census; no fact."
+  }
+ }
+}

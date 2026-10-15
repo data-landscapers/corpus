@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Liberia Annual Agricultural Survey 2024 (LAAS)",
+   "country_label": "LAAS 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "LISGIS",
+   "tiers": ""
+  },
+  {
+   "system": "Liberia Agriculture Census 2024",
+   "country_label": "LAC 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "LISGIS",
+   "tiers": ""
+  }
+ ],
+ "note": "Agricultural survey and agricultural census only; no population census or household survey fact."
+}

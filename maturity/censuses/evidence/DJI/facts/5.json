@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-geohorn-portail-interactif-djibouti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH-3 2024",
+   "country_label": "RGPH-3 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAD",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal dashboard of RGPH 2024 data; no census event or final-results release stated."
+}

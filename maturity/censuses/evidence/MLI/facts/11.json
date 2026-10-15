@@ -1,0 +1,16 @@
+{
+  "slug": "2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken",
+     "fact": "The report states the EMOP 2025 used the fifth general population and housing census (RGPH-5), carried out in 2022, as its sampling frame; no month is given for the count.",
+     "as_of": "2022", "date_precision": "year", "system": "RGPH-5 2022", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "INSTAT, with Statistics Sweden, published the synthesis report of the first pass (January-March 2025) of the EMOP household survey: 12,945 of 15,438 sampled households surveyed (83.9 per cent), results representative nationally and by region and urban/rural, with weak coverage in Kidal, Menaka and Nara for insecurity. Dated to the document's published month, as it gives no release date.",
+     "as_of": "2026-04", "date_precision": "month", "system": "EMOP 2025", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "RGPH-5 2022", "country_label": "RGPH-5 2022", "class": "census", "platform": "", "owner": "INSTAT", "tiers": ""},
+    {"system": "EMOP 2025", "country_label": "EMOP 2025", "class": "survey", "platform": "", "owner": "INSTAT with Statistics Sweden", "tiers": ""}
+  ],
+  "note": ""
+}

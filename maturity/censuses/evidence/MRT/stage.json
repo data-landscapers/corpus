@@ -1,0 +1,17 @@
+{
+ "iso3": "MRT",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "4",
+   "census": "taken",
+   "results": "final",
+   "survey": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MRT-004;MRT-002",
+   "gaps": "No source held reports results of a national household survey published since October 2023.",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

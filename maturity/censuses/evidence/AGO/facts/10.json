@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "INE Angola states the RGPH 2024 population count was carried out with reference date 19 September 2024, counting 36,604,681 residents; it was the first digital census, and the previous census was in 2014.", "as_of": "2024-09-19", "date_precision": "day", "system": "RGPH 2024", "class": "census"},
+    {"sub_indicator": "census", "aspect": "results", "value": "final", "fact": "INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey.", "as_of": "2025-11-20", "date_precision": "day", "system": "RGPH 2024", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPH 2024", "country_label": "RGPH 2024", "class": "census", "platform": "CAPI with CATI for control visits; GIS cartography", "owner": "Instituto Nacional de Estatística (INE)", "tiers": ""}
+  ],
+  "note": ""
+}

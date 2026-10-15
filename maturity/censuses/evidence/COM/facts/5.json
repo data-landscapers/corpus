@@ -1,0 +1,94 @@
+{
+ "slug": "2026-08-23-inseed-archive-nationale-microdonnees",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The INSEED microdata archive lists the Recensement General de la Population et de l'Habitat 2017 (data years 2017-2018), added 24 October 2025.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "RGPH 2017",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The INSEED microdata archive lists the EHCVM 2024 household living-conditions survey, added 12 May 2026.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "EHCVM 2024",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The INSEED microdata archive lists the MICS 2022 survey, added 24 October 2025.",
+   "as_of": "2025-10-24",
+   "date_precision": "day",
+   "system": "MICS 2022",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2017",
+   "country_label": "RGPH 2017",
+   "class": "census",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "EHCVM 2024",
+   "country_label": "EHCVM 2024",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "MICS 2022",
+   "country_label": "MICS 2022",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "EHCVM 2020",
+   "country_label": "EHCVM 2020",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "DHS-MICS 2012",
+   "country_label": "DHS-MICS 2012",
+   "class": "survey",
+   "platform": "",
+   "owner": "DGSP",
+   "tiers": ""
+  },
+  {
+   "system": "DHS 1996",
+   "country_label": "DHS 1996",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "RGA-2 2025",
+   "country_label": "RGA-2 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

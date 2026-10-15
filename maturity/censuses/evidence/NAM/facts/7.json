@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The report says its institutional maternal mortality figures are consistent with those in the 2023 census report; it gives no enumeration date, so the year 2023 is used.", "as_of": "2023", "date_precision": "year", "system": "2023 census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2023 census", "country_label": "Census 2023", "class": "census", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Demographic and Health Survey 2013", "country_label": "DHS 2013", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The DHS 2013 is described as the last DHS, with no statement of when its results were published, so no survey fact."
+}

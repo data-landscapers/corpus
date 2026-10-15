@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-20-angop-censo-2024-luanda-populacao-definitivos",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Angop reports the RGPH 2024 enumeration began on 19 September 2024 and ended on 19 November 2024, counting 36,604,681 residents.",
+   "as_of": "2024-11-19",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "INE released the definitive RGPH 2024 results on 20 November 2025, per Angop.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "CAPI/CATI",
+   "owner": "INE Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

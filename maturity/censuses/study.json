@@ -70,10 +70,21 @@
    "key": "census",
    "label": "Censuses and surveys",
    "subject": "data.statistics",
-   "text": "Censuses and surveys: population census and household surveys",
+   "text": "Censuses and surveys: censuses and surveys",
    "indicator_id": "data.statistics--censuses-and-surveys-censuses-and-surveys",
    "class": "census",
-   "norm_short": "The African Charter on Statistics and SHaSA 2 ask each country to produce its core statistics from censuses and surveys; the UN's 2030 round asks for a population and housing census at least once every ten years."
+   "also_assessed": [
+    "survey"
+   ],
+   "norm_short": "The African Charter on Statistics and SHaSA 2 ask each country to produce its core statistics from censuses and surveys; the UN's 2030 round asks for a population and housing census at least once every ten years.",
+   "criteria": [
+    "A source from the past three years says no population census has been counted in ten years and none is being prepared.",
+    "A census is being prepared: mapping, a pilot, funding or a date set in the past three years. A census only promised does not count.",
+    "A population census has been counted in the past ten years, with its results preliminary or not yet out.",
+    "The final results of that census have been published.",
+    "The census's final results are out and a national household survey (DHS, MICS, living standards or labour force) has published results in the past three years."
+   ],
+   "criteria_of": "79a3b7ebe5c7"
   }
  ],
  "classes": [
@@ -82,9 +93,47 @@
   "other"
  ],
  "aspects": [
-  {"key": "census", "name": "A census taken or in preparation", "role": "coverage", "defer": ["none"], "prefer": ["taken", "preparing"], "values": ["taken", "preparing", "none"]},
-  {"key": "results", "name": "Final results published", "role": "coverage", "defer": [], "prefer": ["final"], "values": ["final"]},
-  {"key": "survey", "name": "A household survey published", "role": "coverage", "defer": [], "prefer": ["published"], "values": ["published"]}
+  {
+   "key": "census",
+   "name": "A census taken or in preparation",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "taken",
+    "preparing"
+   ],
+   "values": [
+    "taken",
+    "preparing",
+    "none"
+   ]
+  },
+  {
+   "key": "results",
+   "name": "Final results published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "final"
+   ],
+   "values": [
+    "final"
+   ]
+  },
+  {
+   "key": "survey",
+   "name": "A household survey published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
  ],
  "flags": []
 }

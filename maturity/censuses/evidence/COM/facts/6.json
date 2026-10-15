@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-20-inseed-rga2-2025-agricultural-census-microdata",
+  "facts": [],
+  "systems": [
+    {"system": "RGA-2 2025", "country_label": "RGA-2 2025", "class": "other", "platform": "INSEED NADA microdata archive", "owner": "INSEED with DNSAE", "tiers": ""}
+  ],
+  "note": "Agricultural census (other class); no population census or household survey fact."
+}

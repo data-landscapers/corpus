@@ -1,0 +1,50 @@
+{
+ "slug": "2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "A State Minister of Planning and Development cited full dissemination of the Demographic and Health Survey at a national conference on 18 May 2026.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Demographic and Health Survey",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Demographic and Health Survey",
+   "country_label": "DHS",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  },
+  {
+   "system": "Agricultural census",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  },
+  {
+   "system": "Economic census",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  },
+  {
+   "system": "Household, tourism and business surveys",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

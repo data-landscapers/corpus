@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-02-hcp-enquete-emploi-du-temps-2026-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ENET 2026-2027",
+   "country_label": "ENET 2026-2027",
+   "class": "survey",
+   "platform": "",
+   "owner": "HCP",
+   "tiers": ""
+  }
+ ],
+ "note": "Time-use survey in preparation, no results published; not a census or survey fact."
+}

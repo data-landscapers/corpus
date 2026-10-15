@@ -1,0 +1,15 @@
+{
+  "slug": "2023-06-01-liberia-2022-population-and-housing-census-final-results",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "LISGIS enumerated the 2022 Liberia Population and Housing Census, the fifth and first fully digital one, with census night on 11 November 2022 and a total enumerated population of 5,250,187.", "as_of": "2022-11-11", "date_precision": "day", "system": "2022 Liberia Population and Housing Census", "class": "census"},
+    {"sub_indicator": "census", "aspect": "results", "value": "final", "fact": "LISGIS published the final results of the 2022 Liberia Population and Housing Census (preliminary results had been released in February 2023); the document gives June 2023 for its map and is published 2023-06-01.", "as_of": "2023-06", "date_precision": "month", "system": "2022 Liberia Population and Housing Census", "class": "census"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "LISGIS released preliminary results of the 2022 census in February 2023.", "as_of": "2023-02", "date_precision": "month", "system": "2022 Liberia Population and Housing Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2022 Liberia Population and Housing Census", "country_label": "LPHC 2022", "class": "census", "platform": "CAPI tablets, CSPro", "owner": "LISGIS", "tiers": ""},
+    {"system": "National Labor Force Survey", "country_label": "Labor Force Survey", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Liberia Demographic and Health Survey 2019/2020", "country_label": "LDHS 2019/2020", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Liberia Malaria Indicator Survey 2022", "country_label": "LMIS 2022", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

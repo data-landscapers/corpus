@@ -1,0 +1,8 @@
+{
+  "slug": "2006-09-08-kenya-statistics-act-2006",
+  "facts": [],
+  "systems": [
+    {"system": "Population and Housing Census", "country_label": "Kenya Population and Housing Census", "class": "census", "platform": "", "owner": "Kenya National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": "Statute mandating a decennial census; states no enumeration date, results release or concrete preparation step (it only lists census orders of 2008 and 2018 in a schedule of subsidiary legislation)."
+}

@@ -1,0 +1,378 @@
+# Censuses and surveys: censuses and surveys
+
+*As at 2026-09-30.*
+
+## The norm
+
+The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce its core statistics from censuses and surveys. ECOSOC resolution E/RES/2025/13 sets the 2030 round of population and housing censuses, 2025 to 2034, and asks for one at least every ten years.
+
+## The ladder
+
+| Stage | Answers |
+|---|---|
+| 1 Absent | A source from the last three years says no census has been counted in ten years and none is being prepared |
+| 2 Preparing | Yes to 1 only: a census in preparation |
+| 3 Counted | Yes to 2: a census counted, results preliminary or not yet out |
+| 4 Published | Yes to 3: its final results published |
+| 5 Surveyed | Yes to 4: a household survey published as well |
+
+## Countries by stage
+
+| Stage | Countries |
+|---|---|
+| 5 Leading | 3 |
+| 4 Operating | 9 |
+| 3 Established | 24 |
+| 2 Nascent | 5 |
+| 1 Absent | 0 |
+| Unplaced | 8 |
+| No evidence | 5 |
+
+## Countries
+
+### Morocco: 5 Leading
+
+A national household survey published results in 2026, after final census results.
+
+- HCP published the first Q1 2026 results of the new national labour force survey (EMO2026), which replaces the Enquete nationale sur l'emploi and has an annual sample of 135,000 households ([source, 2026-05-04](https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-premier-trimestre-de-2026-a-partir-de-la-nouvelle-enquete-sur-la-main-d_a4309.html)).
+- The government adopted decree 2.24.1009 fixing the legal population by region, province and commune from the RGPH 2024 results; date is the document's published date ([source, 2024-11-07](https://www.hcp.ma/Population-legale-du-Royaume-du-Maroc-repartie-par-regions-provinces-et-prefectures-et-communes-selon-les-resultats-du_a3974.html)).
+
+### Uganda: 5 Leading
+
+A national household survey published results in 2025, after final census results.
+
+- UBOS released the findings of the 8th Uganda National Household Survey in May 2025, per the article ([source, 2025-05](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey)).
+- UBOS presents the final report (Volume I, Main) of the National Population and Housing Census 2024, dated December 2024; preliminary results came out on 27 June 2024 and provisional on 3 October 2024 ([source, 2024-12](https://www.ubos.org/wp-content/uploads/publications/National-Population-and-Housing-Census-2024-Final-Report-Volume-1-Main.pdf)).
+
+### Zambia: 5 Leading
+
+A national household survey published results in 2025, after final census results.
+
+- The Zambia Statistics Agency, Ministry of Health and ICF published the final report of the 2024 Zambia Demographic and Health Survey in November 2025; fieldwork ran in 2024 ([source, 2025-11](https://www.zamstats.gov.zm/wp-content/uploads/2025/12/ZDHS-2024.pdf)).
+- The Zambia Statistics Agency's Population Summary Report Volume Two, dated June 2024, gives final population figures of the 2022 census (total 19,693,423) ([source, 2024-06](https://www.zamstats.gov.zm/wp-content/uploads/2024/09/2022-Census-of-Population-and-Housing-Summary-Report-Part-2.pdf)).
+
+### Angola: 4 Operating
+
+Final results of the RGPH 2024 were published in 2025; no household survey published since 2023 is known.
+
+- INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey ([source, 2025-11-20](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf)).
+- INE states the definitive national results of the RGPH 2024 were published on 20 November 2025, and this Icolo e Bengo provincial report followed ([source, 2025-11-20](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf)).
+
+### Burkina Faso: 4 Operating
+
+Final results of the 5e RGPH were published in 2022; no household survey published since 2023 is known.
+
+- INSD published the key final results (definitive results) of the 5th RGPH in June 2022 ([source, 2022-06](https://www.insd.bf/fr/file-download/download/public/2073)).
+
+### Djibouti: 4 Operating
+
+Final results of the RGPH-3 2024 were published in 2026; no household survey published since 2023 is known.
+
+- UNFPA Djibouti lists the 73-page definitive-results report of the third census (RGPH-3) as published; the site's date reads 1 January 2026 and may be a system default ([source, 2026-01](https://djibouti.unfpa.org/fr/publications/le-rapport-des-r%C3%A9sultats-d%C3%A9finitifs-du-troisi%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population)).
+
+### Liberia: 4 Operating
+
+Final results of the 2022 Liberia Population and Housing Census were published in 2023; no household survey published since 2023 is known.
+
+- LISGIS published the final results of the 2022 Liberia Population and Housing Census (preliminary results had been released in February 2023); the document gives June 2023 for its map and is published 2023-06-01 ([source, 2023-06](https://lisgis.gov.lr/admin_area/uploads/census/CENSUS_PUBLICATION_20260826152056_039d1199.pdf)).
+
+### Mauritania: 4 Operating
+
+Final results of the RGPH 2023 were published in 2026; no household survey published since 2023 is known.
+
+- A regional workshop opened in Nouadhibou on 18 February 2026 to disseminate the definitive results of the fifth RGPH 2023, attended by ANSADE's deputy director general ([source, 2026-02-18](https://ami.mr/fr/archives/289781)).
+- ANSADE held a workshop in Atar on 3 August 2026 presenting the final results of the fifth general population and housing census for Adrar wilaya ([source, 2026-08-03](https://www.ami.mr/archives/265803)).
+
+### Namibia: 4 Operating
+
+Final results of the 2023 Population and Housing Census were published in 2024; no household survey published since 2023 is known.
+
+- The NSA released the 2023 PHC Main Report on 30 October 2024, which it says contains final results; preliminary results had been launched in March 2024 ([source, 2024-10-30](https://nsa.org.na/wp-content/uploads/2024/10/Media-Statement-2023-Census-Main-Report-30-October-2024.pdf)).
+
+### Seychelles: 4 Operating
+
+Final results of the Population and Housing Census 2022 were published in 2024; no household survey published since 2023 is known.
+
+- The NBS published Volume 2, the main census report with results at national, regional and district level, in March 2024, and refers to its compilation as the final report ([source, 2024-03](https://www.nbs.gov.sc/downloads/1555-seychelles-population-and-housing-census-2022/download)).
+
+### Sierra Leone: 4 Operating
+
+Final results of the 2021 Mid-Term Population and Housing Census were published in 2022; no household survey published since 2023 is known.
+
+- Statistics Sierra Leone published the final results of the 2021 Mid-Term Population and Housing Census in a report dated September 2022 (total population 7,548,702), after provisional results announced on 31 May 2022 changed by only 7,061 persons ([source, 2022-09](https://statistics.sl/images/StatisticsSL/Documents/Census/MTPHC_Preliminary_Report/Final_Preliminary_Report_2021_MTPHC.pdf)).
+
+### Togo: 4 Operating
+
+Final results of the RGPH-5 were published in 2023; no household survey published since 2023 is known.
+
+- INSEED published the definitive results of RGPH-5 (November 2022) by region, prefecture, sex and urban/rural, totalling 8,095,498 residents ([source, 2023-09-25](https://inseed.tg/resultats-definitifs-du-rgph-5-novembre-2022/)).
+
+### Botswana: 3 Established
+
+The PHC 2022 was counted in 2022; its final results are not known to be out.
+
+- The brief refers to the 2022 Population and Housing Census as a de facto count of the entire population ([source, 2022](https://www.statsbots.org.bw/sites/default/files/publications/BOTSWANA%20MULTI%20TOPIC%20HOUSEHOLD%20SURVEY%202024%205%20%20%20%20Labour%20Force%20Preliminary%20Stats%20Brief.pdf)).
+- The annual report gives a 2022 actual count of 2,359,609 people and states the Population and Housing Census was conducted ([source, 2022](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf)).
+
+### Burundi: 3 Established
+
+The RGPHAE 2024 was counted in 2024; its final results are not known to be out.
+
+- Burundi carried out its combined population, housing, agriculture and livestock census (RGPHAE) in 2024, run entirely in digital mode ([source, 2024](https://burundi.unfpa.org/fr/news/coop%C3%A9ration-sud-sud-la-guin%C3%A9e-%C3%A9quatoriale-sinspire-de-lexp%C3%A9rience-burundaise-du-recensement)).
+- INSBU's results pages state the RGPHAE 2024 census was carried out in 2024, counting 12,332,788 residents by exhaustive enumeration; the results shown are preliminary, published under decree 100/032 of 27 March 2025 ([source, 2024](https://www.insbu.bi/resultatRGPHAE2024)).
+
+### Cameroon: 3 Established
+
+The RGPH-4 was counted in 2026; its final results are not known to be out.
+
+- Counting for Cameroon's 4th general population and housing census, launched 24 April 2026 and coupled with the agriculture and livestock census, closed on 15 September 2026 with unofficial, unconsolidated coverage of about 75% (60% at 31 July), below the 90-95% standards ([source, 2026-09-15](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/)).
+
+### Central African Republic: 3 Established
+
+The RGPH-4 was counted in 2026; its final results are not known to be out.
+
+- ICASEES held the restitution of the third phase of data cleaning of the RGPH-4, the country's first digital census, whose results are not yet final; no enumeration date is given, so the document's published date is used ([source, 2026-08-07](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement)).
+
+### Chad: 3 Established
+
+The RGPH-3 2026 was counted in 2026; its final results are not known to be out.
+
+- INSEED states that collection operations of the third general population and housing census (RGPH-3) officially ended on 6 August 2026, the country's first fully digital census (news item dated 7 August 2026) ([source, 2026-08-06](https://www.inseed.td/)).
+
+### Comoros: 3 Established
+
+The RGPH 2017 was counted in 2017; its final results are not known to be out.
+
+- The INSEED microdata archive lists the Recensement General de la Population et de l'Habitat 2017 (data years 2017-2018), added 24 October 2025 ([source, 2017](https://www.nada.inseed-comores.org/index.php/home)).
+
+### Congo: 3 Established
+
+The RGPH-5 was counted in 2025; its final results are not known to be out.
+
+- The INS opened a workshop on 27 November 2025 to validate indicators and tables drawn from the fifth national population and housing census (RGPH-5), whose data were already collected and whose preliminary results were on display; the article gives no enumeration date, so the document's publication date is used ([source, 2025-11-29](https://www.adiac-congo.com/content/statistiques-lins-ouvre-latelier-national-de-validation-des-indicateurs-du-rgph-5-168128)).
+
+### Cote d'Ivoire: 3 Established
+
+The RGPH 2021 was counted in 2021; its final results are not known to be out.
+
+- The report says the clean cooking access figure for Cote d'Ivoire is based on data from the latest RGPH 2021, implying a population and housing census was counted in 2021; no enumeration date or results status is given ([source, 2021](https://www.worldbank.org/content/dam/theworldbankgroupasset/document/2026/m300-energy-compacts/progress-reports/cote-divoire-(en)_mission-300_compact-progress-report-_q12026.pdf)).
+
+### Eswatini: 3 Established
+
+The Population and Housing Census 2017 was counted in 2017; its final results are not known to be out.
+
+- The minister said the last population and housing census was conducted in 2017 and was the country's first digital census ([source, 2017](https://times.co.sz/27831/news/ministry-unfpa-launch-population-housing-economic-census/)).
+
+### Gabon: 3 Established
+
+The RGPL 2026 was counted in 2026; its final results are not known to be out.
+
+- The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province; the document gives no enumeration date, so the document's published date is used ([source, 2026-08-21](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/)).
+
+### Guinea: 3 Established
+
+The RGPH-4 was counted in 2026; its final results are not known to be out.
+
+- A PN-RAVEC official cites results of the fourth general population census (RGPH-4) giving a resident population of 17,521,167, of which 3,407,327 in Conakry; no enumeration date is given, so the document's published date is used ([source, 2026-03-03](https://mediaguinee.com/2026/03/conakry-le-pn-ravec-dote-les-13-communes-dun-important-lot-dintrants-detat-civil-dont-les-certificats-de-non-remariage/)).
+- The Ministry of Plan, through INS, published preliminary results of RGPH-4 on 25 February 2026 (population 17,521,167), and the Prime Minister called the census completed; enumeration date not given ([source, 2026-02-25](https://mpcid.gov.gn/index.php/rgph-4-la-guinee-revele-son-nouveau-visage-et-sancre-dans-la-gouvernance-par-la-donnee/)).
+
+### Guinea-Bissau: 3 Established
+
+The RGPH-4 2026 was counted in 2026; its final results are not known to be out.
+
+- The World Bank resident representative spoke at the 23 July 2026 ceremony presenting preliminary results of the fourth population and housing census (RGPH4), so the count had been carried out; the document gives no enumeration date, so the results ceremony date is used ([source, 2026-07-23](https://ang.gw/ivo-rgph4-banco-mundial-diz-que-guine-bissau-acaba-de-reforcar-a-sua-capacidade-de-tomar-decisoes-com-a-realizacao-do-novo-recenseamento/)).
+- INE released preliminary results of RGPH4 on 23 July 2026 after data collection closed: 2,191,300 residents (raw base 2,246,300), 304,939 households, 559,303 dwellings and 376,258 buildings; the enumeration date is not given ([source, 2026-07-23](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/)).
+
+### Lesotho: 3 Established
+
+The 2026 Housing and Population Census was counted in 2026; its final results are not known to be out.
+
+- Government states enumeration of the 2026 Housing and Population Census concluded, with mop-up in Maseru and cattle pounds; results not yet published; no enumeration date given, so the document date 2026-06-05 is used ([source, 2026-06-05](https://www.gov.ls/government/lesotho-completed-2026-housing-and-population-census-enumeration-successfully/)).
+- Enumeration of the 2026 Population and Housing Census, reference night 11 April 2026, has concluded with mop-up operations continuing in Maseru and cattle pounds; over 8,000 temporary field staff were employed; Bureau of Statistics says results come after review ([source, 2026-04-11](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/)).
+
+### Madagascar: 3 Established
+
+The RGPH-3 2018 was counted in 2018; its final results are not known to be out.
+
+- The document states the third general population and housing census (RGPH-3) was held in 2018 ([source, 2018](http://mail.mfb.gov.mg/page_personnalisee/index/news/1673)).
+- The document states RGPH-3 was carried out in 2018 ([source, 2018](https://www.instat.mg/p/presentation-du-document-de-projet-prodoc-du-rgph-4)).
+
+### Malawi: 3 Established
+
+The Population and Housing Census was counted in 2018; its final results are not known to be out.
+
+- The story says Malawi held a 2018 Population and Housing Census; the enumeration date is not given ([source, 2018](https://efficacynews.africa/2026/09/10/zamstats-hosts-malawi-statistical-office-for-census-knowledge-exchange/)).
+
+### Mali: 3 Established
+
+The RGPH5 was counted in 2026; its final results are not known to be out.
+
+- INSTAT's Q4 2025 bulletin reports validation, on 16-18 December 2025 in Bamako, of the Directory of Localities of Mali produced from RGPH5 data, so the fifth general population census has been counted; the bulletin gives no enumeration date, so the bulletin's published date is used ([source, 2026-01-20](https://www.instat-mali.org/laravel-filemanager/files/shares/pub/khideux51_pub.pdf)).
+- INSTAT's microdata catalogue lists the fifth general population and housing census (RGPH5) of Mali, dated 2022 ([source, 2022](https://microdata.instat.ml/index.php/catalog/)).
+
+### Mauritius: 3 Established
+
+The 2022 Housing and Population Census was counted in 2022; its final results are not known to be out.
+
+- The document says the 2022 Housing and Population Census results were used to review sampling strata from 2023 and to revise the population figures behind the labour force estimates; no enumeration date is given, so the year is used ([source, 2022](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1936/LF_Emp_Unemp_1Qtr26_300626.pdf)).
+- Statistics Mauritius says its labour force estimates from 2025 use population figures revised to the results of the 2022 population census; the document gives no enumeration day, so 2022 is the year of the census ([source, 2022](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1925/LF_Emp_Unemp_Yr25_190526.pdf)).
+
+### Mozambique: 3 Established
+
+The Census 2017 was counted in 2017; its final results are not known to be out.
+
+- INE's estimate cites the last census in 2017 as having recorded just over 26 million inhabitants; no enumeration date is given ([source, 2017](https://www.diarioeconomico.co.mz/2026/08/02/desenvolvimento-2/governo-testa-piloto-digital-do-censo-populacional-investimento-de-430-mil-dolares/)).
+- The last census in 2017 recorded just over 26 million inhabitants, per INE; no enumeration date is given ([source, 2017](https://360mozambique.com/innovation/tech/mozambique-invests-430000-in-digital-census-pilot-ahead-of-2027-count/)).
+
+### Rwanda: 3 Established
+
+The RPHC5 2022 was counted in 2022; its final results are not known to be out.
+
+- NISR states the Fifth Rwanda Population and Housing Census was enumerated in fieldwork from 16 to 30 August 2022; a Main Indicators Report followed in February 2023 ([source, 2022-08-30](http://alpha.statistics.gov.rw/sites/default/files/documents/2025-02/RPHC5_MainIndicatorsReport_Final.pdf)).
+
+### Sao Tome and Principe: 3 Established
+
+The Housing and population census was counted in 2024; its final results are not known to be out.
+
+- The World Bank ISR states the enumeration phase of the housing and population census (Component 3 of the Digital STP project) was completed in December 2024; final population counts were still to come after the post-enumeration survey, which ended on 4 April 2025 ([source, 2024-12](https://documents1.worldbank.org/curated/en/099041125035024996/pdf/P177158-11847402-82b3-4460-9bf4-0fe106ed4291.pdf)).
+- The 5th national population and housing census (RGPH) was enumerated nationwide from 15 November to 15 December 2024, counting 212,017 people (209,607 legal population); preliminary results were published on 31 December 2024 and this July 2025 report calls its own figures provisional results ([source, 2024-12-15](https://www.ine.st/phocadownload/userupload/Documentos/Recenseamentos/2024/Resultado_VRGPH%202024.pdf)).
+
+### Senegal: 3 Established
+
+The RGPH-5 2023 was counted in 2023; its final results are not known to be out.
+
+- ANSD's national data archive lists the fifth general population and housing census, Senegal 2023 (RGPH-5), as a catalogued dataset with licensed files and 19,910 views; no enumeration date is given, so the year is used ([source, 2023](http://anads.ansd.sn/index.php/catalog)).
+- The ANEC director general cites RGPH-5 data showing 5.3% of the population and 8.9% of under-5s have no birth certificate, so the fifth census has been taken; the document gives no enumeration date and the year 2023 is inferred from his comparison with 2023 survey data ([source, 2023](https://www.seneweb.com/fr/news/Dossier/enquete-nes-mais-invisibles-33-un-enfant-sur-cinq-nest-toujours-pas-enregistre-a-letat-civil-au-senegal-les-eclairages-du-dg-de-lanec_n_500404.html)).
+
+### South Africa: 3 Established
+
+The Census 2022 was counted in 2022; its final results are not known to be out.
+
+- The Deputy Minister in the Presidency says Census 2022 was conducted during the pandemic and 62 million South Africans were counted; the speech gives no enumeration date beyond the year ([source, 2022](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census)).
+- Statistics South Africa states Census 2022 was enumerated with reference night 2 February 2022 and provinces completing enumeration at different times between February and May 2022, counting 62,027,503 people ([source, 2022-05](https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf)).
+
+### Tanzania: 3 Established
+
+The Population and Housing Census 2022 was counted in 2022; its final results are not known to be out.
+
+- The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used ([source, 2022](https://microdata.nbs.go.tz/index.php/catalog/65)).
+- The article refers to voter-eligibility estimates derived from the 2022 Population and Housing Census, showing a census was counted in 2022; it gives no enumeration date, so the year is used ([source, 2022](https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/)).
+
+### Tunisia: 3 Established
+
+The RGPH 2024 was counted in 2024; its final results are not known to be out.
+
+- The document states the 2024 general census of population and housing was taken and counted 11.97 million inhabitants. Document gives no enumeration date; year 2024 used ([source, 2024](https://www.ins.tn/publication/flash-projection-de-la-population-2025-2054)).
+- The document reports 2024 census housing counts (4,265,636 dwellings) from INS, stating the dwellings were enumerated at the date of the 2024 census. Document gives no enumeration date; year 2024 used ([source, 2024](https://www.ins.tn/sites/default/files-ftp3/files/publication/pdf/LOGEMENTS-FR.pdf)).
+
+### DR Congo: 2 Nascent
+
+A population census was being prepared in 2026; none counted since 2016 is known.
+
+- Census-cartography operations for the second census (RGPH-2) were launched on 28 September 2026, with general enumeration planned from July 2027; operations are costed at USD 192 million ([source, 2026-09-28](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir)).
+- Training of 1,868 census cartographic operators began in Kinshasa on 9 September 2026, with fieldwork from 15 September and general enumeration scheduled for July 2027 ([source, 2026-09-09](https://actualite.cd/2026/09/18/rgph-2-le-gouvernement-implique-les-operateurs-de-telecommunication-pour-renforcer-la)).
+
+### Egypt: 2 Nascent
+
+A population census was being prepared in 2026; none counted since 2016 is known.
+
+- The Prime Minister reviewed preparations for the 2027 census; CAPMAS reported steps taken with the planning ministry to secure funding and technical support and with the ICT ministry to approve technical specifications, and the PM ordered the High Committee decree and secretariat completed before a presidential decree to run the census ([source, 2026-07-20](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323)).
+- The Prime Minister chaired the High Committee for the 2027 population, housing and establishments census and announced its launch; CAPMAS presented the methodology and reported funding and technical-specification steps taken with the planning and ICT ministries ([source, 2026-02-02](https://www.cabinet.gov.eg/News/Details/84892)).
+
+### Equatorial Guinea: 2 Nascent
+
+A population census was being prepared in 2026; none counted since 2016 is known.
+
+- The National Statistics Council's 27 August 2026 session was to validate the project document, social-mobilisation communication document and resource-mobilisation strategy for the fifth General Population and Housing Census (CGPV-V) and hear progress on it as an operation under way ([source, 2026-08-27](https://www.guineaecuatorialpress.com/noticias/el_consejo_nacional_de_estadistica_analiza_los_avances_de_las_principales_operaciones_estadisticas_del_pais)).
+- The Scientific Committee validated the project document, communication strategy and resource-mobilisation strategy for the fifth census on 20 August 2026 (reported date) ([source, 2026-08-20](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/)).
+
+### Niger: 2 Nascent
+
+A population census was being prepared in 2025; none counted since 2016 is known.
+
+- The acting INS Director General said at the 8 October 2025 SYNPIS congress that the 5th population and housing census (after 1977, 1988, 2001 and 2012) is fully financed with partners' support, budget estimated above 35 billion FCFA, and in active preparation ([source, 2025-10-08](https://www.lesahel.org/7e-congres-ordinaire-du-syndicat-national-du-personnel-de-linformation-statistique-synpis-le-recensement-general-de-la-population-le-bilan-du-mandat-ecoule-et-le-renouvellement-du-b/)).
+- A related-posts list on the INS page carries a headline, dated 7 April 2025, on the continued pilot enumeration of the 5th general population and housing census ([source, 2025-04-07](https://www.stat-niger.org/?p=5392)).
+
+### Nigeria: 2 Nascent
+
+A population census was being prepared in 2025; none counted since 2016 is known.
+
+- The document states the National Population Commission has produced digital maps, procured tablets, demarcated the whole country and trained staff for the first biometric census, with a N980 billion budget proposed to the President and biometric devices still to be procured; no census date is set (dated by publication, 2025-03-08) ([source, 2025-03-08](https://www.thisdaylive.com/2025/03/08/nigerias-first-biometric-census)).
+
+### Benin: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Cape Verde: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Ethiopia: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Gambia: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Somalia: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### South Sudan: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Sudan: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Zimbabwe: Unplaced
+
+No census counted since 2016 or in preparation is on record, so no stage is set.
+
+Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+
+### Algeria: No evidence
+
+Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+
+Not established: Nothing held names a population census or a household survey, or says there is none.
+
+### Eritrea: No evidence
+
+Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+
+Not established: Nothing held names a population census or a household survey, or says there is none.
+
+### Ghana: No evidence
+
+Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+
+Not established: Nothing held names a population census or a household survey, or says there is none.
+
+### Kenya: No evidence
+
+Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+
+Not established: Nothing held names a population census or a household survey, or says there is none.
+
+### Libya: No evidence
+
+Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+
+Not established: Nothing held names a population census or a household survey, or says there is none.

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-21-portail-td-decret-2087-prorogation-denombrement-rgph3",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Decree no. 2087/PR/PM/MFBEPCI/2026 of 20 July 2026 extended the RGPH-3 main enumeration, first set for 21 June to 21 July 2026, to 6 August 2026 to sweep uncovered areas and complete the count.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "RGPH-3",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-3",
+   "country_label": "RGPH-3 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "INSEED / Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

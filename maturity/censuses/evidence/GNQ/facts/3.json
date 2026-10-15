@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-20-ahoraeg-comite-cientifico-censo-poblacion-agropecuario",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Decree 25/2025 of 3 March orders the fifth General Population and Housing Census, with the census set for 2027 and preparatory work begun in 2024, per INEGE's director general.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "CGPV-V",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Scientific Committee validated the project document, communication strategy and resource-mobilisation strategy for the fifth census on 20 August 2026 (reported date).",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "CGPV-V",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CGPV-V",
+   "country_label": "V Censo General de Población y Vivienda 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "CGA-I",
+   "country_label": "I Censo General Agropecuario",
+   "class": "other",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-09-01-sierra-leone-stats-sl-2021-mid-term-population-housing-census-final-results",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "Statistics Sierra Leone states the 2021 Mid-Term Population and Housing Census, its first digital census, was enumerated in December 2021 with census night on 9 December 2021, counting 7,548,702 people across 23,736 enumeration areas.", "as_of": "2021-12", "date_precision": "month", "system": "2021 Mid-Term Population and Housing Census", "class": "census"},
+    {"sub_indicator": "census", "aspect": "results", "value": "final", "fact": "Statistics Sierra Leone published the final results of the 2021 Mid-Term Population and Housing Census in a report dated September 2022 (total population 7,548,702), after provisional results announced on 31 May 2022 changed by only 7,061 persons.", "as_of": "2022-09", "date_precision": "month", "system": "2021 Mid-Term Population and Housing Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2021 Mid-Term Population and Housing Census", "country_label": "MTPHC 2021", "class": "census", "platform": "digital CAPI enumeration with digital cartographic mapping (EAPaD)", "owner": "Statistics Sierra Leone", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2015-06-01-instad-bj-rgph4-resultats-definitifs",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "INSAE states the fourth census (RGPH4) was enumerated nationwide from 11 to 31 May 2013 by about 17,500 field staff and counted 10,008,749 residents.", "as_of": "2013-05-31", "date_precision": "day", "system": "RGPH4", "class": "census"},
+    {"sub_indicator": "census", "aspect": "results", "value": "final", "fact": "INSAE states the Council of Ministers adopted the definitive RGPH4 results on 21 May 2015, and the definitive results leaflet is dated June 2015.", "as_of": "2015-06", "date_precision": "month", "system": "RGPH4", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPH4", "country_label": "RGPH4 2013", "class": "census", "platform": "", "owner": "INSAE", "tiers": "national"},
+    {"system": "RGPH3", "country_label": "RGPH3 2002", "class": "census", "platform": "", "owner": "INSAE", "tiers": "national"}
+  ],
+  "note": ""
+}

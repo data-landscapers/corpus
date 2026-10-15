@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-10-mali-instat-microdata-catalogue",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "INSTAT's microdata catalogue lists the fifth general population and housing census (RGPH5) of Mali, dated 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "RGPH-5 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2022",
+   "country_label": "RGPH-5 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "MICS-ELIM 2010",
+   "country_label": "MICS-ELIM 2009-2010",
+   "class": "survey",
+   "platform": "NADA",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

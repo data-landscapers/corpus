@@ -1,0 +1,15 @@
+{
+ "slug": "2022-04-01-namibia-statistics-agency-strategic-plan-2022-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "2021 Population and Housing Census (planned)",
+   "country_label": "PHC 2021 (not held)",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": "States the planned 2021 census slipped past August 2021 and August 2022 for lack of funds; no concrete preparation step or date in the excerpt."
+}

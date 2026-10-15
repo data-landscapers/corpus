@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-unfpa-dji-rapport-resultats-definitifs-rgph3",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "UNFPA Djibouti lists the 73-page definitive-results report of the third census (RGPH-3) as published; the site's date reads 1 January 2026 and may be a system default.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "RGPH-3 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The page describes RGPH-3 as conducted in 2024 by INSTAD, the previous census being 2009.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH-3 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-3 2024",
+   "country_label": "RGPH-3 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-20-zw-mobile-internet-survey",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "ZIMSTAT and POTRAZ jointly released the 2025 ICT Access by Households and Use by Individuals Survey, a nationwide survey of 9,245 households in all 10 provinces with a 91.3% response rate; no exact release date is given, so the document's published date is used.",
+     "as_of": "2026-07-20", "date_precision": "day",
+     "system": "ICT Access by Households and Use by Individuals Survey 2025", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "ICT Access by Households and Use by Individuals Survey 2025", "country_label": "ICT Households Survey 2025", "class": "survey", "platform": "", "owner": "ZIMSTAT; POTRAZ", "tiers": ""}
+  ],
+  "note": ""
+}

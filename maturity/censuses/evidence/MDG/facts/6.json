@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-28-instat-mics-7-2025",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "INSTAT, with UNICEF support, published results of the MICS-7 2025 national household survey (19,785 households, representative sample, fieldwork late December 2024 to May 2025) on its site; the document gives 28 February 2026 as its date.", "as_of": "2026-02-28", "date_precision": "day", "system": "MICS-7 2025", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "MICS-7 2025", "country_label": "MICS-7 2025", "class": "survey", "platform": "", "owner": "INSTAT with UNICEF", "tiers": ""}
+  ],
+  "note": ""
+}

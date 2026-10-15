@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-15-integrated-labour-force-survey-2025",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The NBS microdata catalogue released the Integrated Labour Force Survey 2025 (14,232 households, fieldwork January to December 2025, 99.63 percent response) on 15 July 2026 as edited final data for public use, with a 2026 NBS key-indicators report cited.", "as_of": "2026-07-15", "date_precision": "day", "system": "Integrated Labour Force Survey 2025", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The ILFS 2025 sampling frame was derived from the inventory of enumeration areas compiled during the 2022 Population and Housing Census; the document gives no enumeration date, so the year 2022 is used.", "as_of": "2022", "date_precision": "year", "system": "Population and Housing Census 2022", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Integrated Labour Force Survey 2025", "country_label": "ILFS 2025", "class": "survey", "platform": "NBS microdata catalogue (DDI)", "owner": "National Bureau of Statistics and Office of the Chief Government Statistician, Zanzibar", "tiers": ""},
+    {"system": "Population and Housing Census 2022", "country_label": "PHC 2022", "class": "census", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

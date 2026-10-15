@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-09-rgph5-population-census-official-launch-lagazette",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The government and INSEED officially launched RGPH-5 on 5 June 2026; about 60% of the funding still to be mobilised was already secured, a pilot phase starts September 2026 and general enumeration is planned for September 2027.",
+   "as_of": "2026-06-05",
+   "date_precision": "day",
+   "system": "RGPH-5 2027",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2027",
+   "country_label": "RGPH-5 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

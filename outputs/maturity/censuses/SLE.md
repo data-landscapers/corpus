@@ -1,0 +1,13 @@
+# Sierra Leone
+
+## Censuses and surveys
+
+**A census taken or in preparation.** [Statistics Sierra Leone said the 2026 census budget rose from US$7 million to nearly US$60 million after the nationwide cartographic mapping](<https://sierraloaded.sl/news/census-budget-million-stats-andrew-johnny/>). [Stats SL took delivery of 25,000 government-funded tablets for electronic data collection in the 2026 census, handed over 7 October 2026, with Census Night set for 1 December 2026](<https://sierraleonews.com/2026/10/09/stats-sl-receives-25000-tablets-for-2026-census/>). [Stats SL announced on 7 October 2026 deployment of 500 tablets and mapping software, completion of the cartographic mapping begun in October 2025, and enumeration set for 2-16 December 2026; government has invested over US$20 million](<https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/>).
+
+**Final results published.** [Statistics Sierra Leone published the final results of the 2021 Mid-Term Population and Housing Census in a report dated September 2022 (total population 7,548,702), after provisional results announced on 31 May 2022 changed by only 7,061 persons](<https://statistics.sl/images/StatisticsSL/Documents/Census/MTPHC_Preliminary_Report/Final_Preliminary_Report_2021_MTPHC.pdf>).
+
+**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [Statistics Sierra Leone published the final results of the 2021 Mid-Term Population and Housing Census in a report dated September 2022 (total population 7,548,702), after provisional results announced on 31 May 2022 changed by only 7,061 persons](<https://statistics.sl/images/StatisticsSL/Documents/Census/MTPHC_Preliminary_Report/Final_Preliminary_Report_2021_MTPHC.pdf>). Named in what was read, with no results dated: [DHS 2026](<https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and>).
+
+***Noted, not assessed***. [Annual school census](<https://dhis2.org/sierra-leone-national-education-data-hub/>); [Agricultural surveys (50x2030)](<https://blogs.worldbank.org/en/opendata/can-today-s-agricultural-surveys-power-tomorrow-s-agricultural-a>); [DPI Inclusivity Survey](<https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/>).
+
+***Not held***. No source held reports results of a national household survey published since October 2023.

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Enquete harmonisee sur les conditions de vie des menages (EHCVM), second edition", "country_label": "EHCVM 2026", "class": "survey", "platform": "", "owner": "INS with HISWACA/World Bank", "tiers": ""},
+    {"system": "Enquete sur l'emploi et le secteur informel du Congo (ESIC)", "country_label": "ESIC 2026", "class": "survey", "platform": "", "owner": "INS with HISWACA/World Bank", "tiers": ""},
+    {"system": "Recensement general de l'agriculture", "country_label": "Agricultural census", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Surveys are only planned for 2026 with no results; agricultural census is class other."
+}

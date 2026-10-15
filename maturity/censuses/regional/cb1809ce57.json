@@ -1,0 +1,20 @@
+{
+ "slug": "2023-09-30-xss-iati-44000-p180085-harmonizing-and-improving-statistics-in-west",
+ "countries": {
+  "CAF": {
+   "facts": [],
+   "systems": [],
+   "note": "Regional statistics project; no census or survey fact for this country."
+  },
+  "CMR": {
+   "facts": [],
+   "systems": [],
+   "note": "Only a plan to renovate the census building (BUCREP); no census fact."
+  },
+  "TCD": {
+   "facts": [],
+   "systems": [],
+   "note": "Regional statistics project; no census or survey fact for this country."
+  }
+ }
+}

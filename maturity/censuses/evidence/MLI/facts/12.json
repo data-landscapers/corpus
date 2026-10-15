@@ -1,0 +1,17 @@
+{
+  "slug": "2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "INSTAT's Q4 2025 bulletin reports validation, on 16-18 December 2025 in Bamako, of the Directory of Localities of Mali produced from RGPH5 data, so the fifth general population census has been counted; the bulletin gives no enumeration date, so the bulletin's published date is used.", "as_of": "2026-01-20", "date_precision": "day", "system": "RGPH5", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "INSTAT made public in November 2025 the synthesis report of the third round of the 2025 EMOP household survey (12,938 households nationwide, fieldwork July-September 2025), with a national morbidity rate of 24.4% and household consumption spending of 2,722.9 billion FCFA a quarter.", "as_of": "2025-11", "date_precision": "month", "system": "EMOP 2025", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The bulletin lists the final report of the seventh Demographic and Health Survey (EDS VII), published by INSTAT in Q4 2025, with stunting among under-5s and anaemia among women 15-49 as indicators; no month is given.", "as_of": "2025", "date_precision": "year", "system": "EDS VII", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "RGPH5", "country_label": "RGPH-5", "class": "census", "platform": "", "owner": "INSTAT", "tiers": ""},
+    {"system": "EMOP 2025", "country_label": "EMOP 2025", "class": "survey", "platform": "tablet collection", "owner": "INSTAT", "tiers": ""},
+    {"system": "EDS VII", "country_label": "DHS 2023-24 (EDS VII)", "class": "survey", "platform": "", "owner": "INSTAT", "tiers": ""},
+    {"system": "EHCVM III, Vague I", "country_label": "EHCVM III 2025", "class": "survey", "platform": "", "owner": "INSTAT", "tiers": "fieldwork October-December 2025, all regions; no results"},
+    {"system": "Recensement General Agricole (RGA)", "country_label": "RGA", "class": "other", "platform": "", "owner": "CPS/SDR", "tiers": "agricultural census; provisional results to be validated 29 December 2025"},
+    {"system": "ENSAN 2025", "country_label": "ENSAN 2025", "class": "other", "platform": "", "owner": "AVASAN", "tiers": "national food security and nutrition survey, enumerator training September 2025"}
+  ],
+  "note": ""
+}

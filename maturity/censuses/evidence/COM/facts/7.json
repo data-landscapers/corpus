@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-10-inseed-ehcvm-2024-microdata",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "INSEED released version 1.0 (April 2026) of the EHCVM 2024 data and documentation, a nationally representative survey of 5,487 households fielded May to November 2024, in its open microdata catalogue.", "as_of": "2026-04", "date_precision": "month", "system": "EHCVM 2024", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "EHCVM 2024", "country_label": "EHCVM 2024", "class": "survey", "platform": "INSEED NADA microdata archive", "owner": "INSEED with World Bank and SADC regional statistics project", "tiers": ""}
+  ],
+  "note": ""
+}

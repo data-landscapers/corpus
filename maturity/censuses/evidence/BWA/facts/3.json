@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-09-bwa-itu-statsbots-ict-data-collection",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Statistics Botswana presented findings of the nationally representative 2024 Household Access and Individual Use of ICTs Survey (fieldwork June to August 2024), e.g. internet use 57.5%; no release date given, so the document's published date is used.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "ICT Household Survey 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICT Household Survey 2024",
+   "country_label": "ICT Household Survey 2024",
+   "class": "survey",
+   "platform": "CAPI",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  },
+  {
+   "system": "ICT Household Survey 2014",
+   "country_label": "ICT Household Survey 2014",
+   "class": "survey",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  },
+  {
+   "system": "Quarterly Multi-Topic Survey",
+   "country_label": "BQMTHS",
+   "class": "survey",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

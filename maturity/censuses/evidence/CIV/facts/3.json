@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-07-recensement-general-entreprises-etablissements-rgee-ci",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGEE-CI",
+   "country_label": "RGEE-CI 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "ANStat",
+   "tiers": ""
+  }
+ ],
+ "note": "Census of enterprises and establishments is not a population census."
+}

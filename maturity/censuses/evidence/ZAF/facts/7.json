@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-11-quarterly-labour-force-survey-q2-2026",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "Statistics South Africa released the Quarterly Labour Force Survey Q2 2026 (P0211, fieldwork April to June 2026), a household-based sample survey of about 30,000 dwellings, reporting an unemployment rate of 33.6%.",
+     "as_of": "2026-08-11", "date_precision": "day", "system": "Quarterly Labour Force Survey", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Quarterly Labour Force Survey", "country_label": "QLFS Q2 2026", "class": "survey", "platform": "", "owner": "Statistics South Africa", "tiers": ""},
+    {"system": "Census 2011", "country_label": "Census 2011", "class": "census", "platform": "", "owner": "Statistics South Africa", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-cod-cartographie-recensement-numerique-okapi",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The census cartography phase of RGPH-2 is under way using digital tools and satellite imagery, per the Bureau central de recensement's technical coordinator (document date used; no event date given).",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "RGPH-2 2026",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-2",
+   "country_label": "RGPH-2 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Institut national de la statistique, Bureau central de recensement; Ministry of Plan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

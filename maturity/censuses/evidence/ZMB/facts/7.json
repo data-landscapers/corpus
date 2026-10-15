@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-oag-simplified-report-2023-accounts-e-census-wasteful-expenditure",
+  "facts": [],
+  "systems": [
+    {"system": "M-SAT E-census software / MoE Statistical Tables", "country_label": "Ministry of Education e-census 2024", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "The e-census is a Ministry of Education school data tool, not a population census or household survey."
+}

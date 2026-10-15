@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual School Census",
+   "country_label": "Annual School Census 2024/25",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the education ministry's school census; no national population census or household survey stated."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-ine-rejeita-acusacoes-manipulacao-independencia-tecnica-expressodasilhas",
+  "facts": [],
+  "systems": [
+    {"system": "IV IDRF 2023", "country_label": "IDRF 2023", "class": "survey", "platform": "", "owner": "INE Cabo Verde", "tiers": ""},
+    {"system": "New digital IDRF planned July 2026", "country_label": "IDRF 2026", "class": "survey", "platform": "digital", "owner": "INE Cabo Verde", "tiers": ""}
+  ],
+  "note": "Gives no release of survey results or census event; a new IDRF is only planned for July 2026 (fieldwork, no results)."
+}

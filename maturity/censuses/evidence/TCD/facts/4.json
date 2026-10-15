@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-07-tchadinfos-arrete-070-2026-organes-locaux-rgph3",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Joint order no. 070/2026 of 6 May 2026, under decree 0538/2025 of 2 April 2025, set up provincial, departmental and sub-prefectoral commissions for RGPH-3; they are dissolved after final results are published.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "RGPH-3",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-3",
+   "country_label": "RGPH-3 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "INSEED / Government of Chad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

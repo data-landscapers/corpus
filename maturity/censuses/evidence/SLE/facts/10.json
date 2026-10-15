@@ -1,0 +1,62 @@
+{
+ "slug": "2026-09-15-sle-sltelegraph-us61m-headcount-political-calculator",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The opinion piece refers to the 2021 mid-term census as held, and says it drew condemnation and scepticism over methodology and credibility.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "2021 Mid-Term Population and Housing Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The opinion piece refers to the 2015 census as held, and says it was criticised for alleged manipulation of figures.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "2015 Population and Housing Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "President Bio says US$61 million is needed for the 2026 census, which has a known date; about US$24 million is reportedly disbursed.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Government of Sierra Leone",
+   "tiers": ""
+  },
+  {
+   "system": "2021 Mid-Term Population and Housing Census",
+   "country_label": "MTPHC 2021",
+   "class": "census",
+   "platform": "",
+   "owner": "Statistics Sierra Leone",
+   "tiers": ""
+  },
+  {
+   "system": "2015 Population and Housing Census",
+   "country_label": "PHC 2015",
+   "class": "census",
+   "platform": "",
+   "owner": "Statistics Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

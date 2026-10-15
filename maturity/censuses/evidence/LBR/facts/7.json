@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-13-lbr-moe-apo-standardize-school-records",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual School Census",
+   "country_label": "Annual School Census 2024/25",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the school census; no national population census or household survey stated."
+}

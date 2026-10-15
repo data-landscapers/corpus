@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-08-cameroon-tribune-cnis-ptba-2027-snis",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "The national statistical information council's session of 7 April 2026 recalled that the 2026 annual budget plan of FCFA 31.5bn (12.8bn domestic, 18.2bn external) funds the main 2026 actions, including the fourth General Population and Housing Census (RGPH); Cameroon Tribune reports this.", "as_of": "2026", "date_precision": "year", "system": "RGPH-4", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPH-4", "country_label": "RGPH-4 2026", "class": "census", "platform": "", "owner": "National Institute of Statistics", "tiers": ""},
+    {"system": "ECAM 6", "country_label": "ECAM 6 2026", "class": "survey", "platform": "", "owner": "National Institute of Statistics", "tiers": ""},
+    {"system": "MICS 7", "country_label": "MICS 7 2026", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "RGAE", "country_label": "RGAE 2026", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "EESI4", "country_label": "EESI4 2026", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Surveys ECAM 6, MICS 7 and EESI4 are listed as 2026 funded actions with no results stated, so no survey fact; text is paywalled and cut off."
+}

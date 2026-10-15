@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-25-lancado-vi-recenseamento-geral-agricultura",
+  "facts": [],
+  "systems": [
+    {"system": "VI Recenseamento Geral da Agricultura", "country_label": "RGA 2025", "class": "other", "platform": "", "owner": "Ministry of Agriculture and Environment", "tiers": ""}
+  ],
+  "note": "Agricultural census only; not a population census or household survey, so no fact."
+}

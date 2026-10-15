@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-18-instat-mali-session-ordinaire-conseil-national-statistique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH-5 2022",
+   "country_label": "RGPH-5 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions only a localities repertory drawn from RGPH5 work; no census enumeration date or results stated."
+}

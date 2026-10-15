@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-09-zaf-presidency-keynotes-address-deputy-minister-presidency-nonceba-mhlauli-",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The Deputy Minister in the Presidency says Census 2022 was conducted during the pandemic and 62 million South Africans were counted; the speech gives no enumeration date beyond the year.", "as_of": "2022", "date_precision": "year", "system": "Census 2022", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Census 2022", "country_label": "Census 2022", "class": "census", "platform": "", "owner": "Statistics South Africa", "tiers": ""},
+    {"system": "Census 2031", "country_label": "Census 2031", "class": "census", "platform": "", "owner": "Statistics South Africa", "tiers": ""},
+    {"system": "General Household Survey", "country_label": "General Household Survey", "class": "survey", "platform": "", "owner": "Statistics South Africa", "tiers": ""},
+    {"system": "Income and Expenditure Survey", "country_label": "Income and Expenditure Survey", "class": "survey", "platform": "", "owner": "Statistics South Africa", "tiers": ""}
+  ],
+  "note": "Census 2031 is only said to be 'in development', no concrete step; surveys are named in thanks with no results published."
+}

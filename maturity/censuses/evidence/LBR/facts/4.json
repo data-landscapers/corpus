@@ -1,0 +1,15 @@
+{
+ "slug": "2013-01-01-iati-se-0-se-6-52090066-liberia-household-income-expenditure-survey",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Liberia Household Income and Expenditure Survey",
+   "country_label": "HIES 2015-2016",
+   "class": "survey",
+   "platform": "",
+   "owner": "World Bank / LISGIS",
+   "tiers": ""
+  }
+ ],
+ "note": "Funding request for a planned survey in 2015-2016; no results published stated, so no survey fact."
+}

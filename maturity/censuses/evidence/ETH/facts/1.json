@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-08-edhs-2024-25-summary-report",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Ethiopian Statistical Service and ICF published the Summary Report of the 2024-25 EDHS, a nationally representative survey of 22,540 households fielded August 2024 to April 2025; the date is the document's proxy published date.",
+   "as_of": "2026-07-08",
+   "date_precision": "day",
+   "system": "EDHS 2024-25",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EDHS 2024-25",
+   "country_label": "DHS 2024-25",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

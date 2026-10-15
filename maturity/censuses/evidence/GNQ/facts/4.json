@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-28-ahoraeg-inege-validacion-censos",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "INEGE's director general says the last population census was held in 2015, more than a decade earlier.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Censo de población 2015",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "INEGE opened a 27-29 July 2026 workshop to validate the project document and mobilisation strategies for the fifth census, authorised by Decree 25/2025 of 3 March.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "CGPV-V",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Censo de población 2015",
+   "country_label": "Censo de población 2015",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "CGPV-V",
+   "country_label": "V Censo General de Población y Vivienda 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "CGA-I",
+   "country_label": "I Censo General Agropecuario",
+   "class": "other",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

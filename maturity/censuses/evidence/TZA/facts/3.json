@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The article refers to voter-eligibility estimates derived from the 2022 Population and Housing Census, showing a census was counted in 2022; it gives no enumeration date, so the year is used.", "as_of": "2022", "date_precision": "year", "system": "Population and Housing Census 2022", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Population and Housing Census 2022", "country_label": "PHC 2022", "class": "census", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Permanent voter register", "country_label": "Permanent voter register 2025", "class": "other", "platform": "", "owner": "Independent National Electoral Commission", "tiers": ""}
+  ],
+  "note": ""
+}

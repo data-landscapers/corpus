@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-conseil-ministres-mauritanie-epcv-2025-resultats-preliminaires-pauvrete",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "The Council of Ministers communique of 5 August 2026 reports the Minister of Economic Affairs presenting preliminary results of the eighth Enquete Permanente sur les Conditions de Vie des menages (EPCV), fielded across 2025-2026, with monetary poverty falling from 28.2% in 2019 to 25.7% in 2025.",
+     "as_of": "2026-08-05", "date_precision": "day", "system": "EPCV 2025", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "EPCV 2025", "country_label": "EPCV 2025", "class": "survey", "platform": "", "owner": "Ministry of Economic Affairs and Development", "tiers": ""}
+  ],
+  "note": ""
+}

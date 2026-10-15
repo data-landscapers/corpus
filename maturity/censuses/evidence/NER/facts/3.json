@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-24-ins-niger-regen-rapport-general",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "A related-posts list on the INS page carries a headline, dated 7 April 2025, on the continued pilot enumeration of the 5th general population and housing census.", "as_of": "2025-04-07", "date_precision": "day", "system": "5e RGPH", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "A related-posts list on the INS page carries a headline, dated 30 March 2023, for the final report of the national fertility survey.", "as_of": "2023-03-30", "date_precision": "day", "system": "Enquete nationale sur la fecondite", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "5e RGPH", "country_label": "RGPH-5", "class": "census", "platform": "", "owner": "Institut National de la Statistique", "tiers": ""},
+    {"system": "Enquete nationale sur la fecondite", "country_label": "Enquete nationale sur la fecondite 2023", "class": "survey", "platform": "", "owner": "Institut National de la Statistique", "tiers": ""},
+    {"system": "ReGEN", "country_label": "ReGEN 2025", "class": "other", "platform": "", "owner": "Institut National de la Statistique", "tiers": ""}
+  ],
+  "note": "Main item is the ReGEN business census (class other); facts come from dated headlines in the related-posts list."
+}

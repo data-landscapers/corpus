@@ -1,0 +1,514 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,RGPH 2024,RGPH 2024,census,CAPI/CATI,INE Angola,,2025-11-20-angop-censo-2024-luanda-populacao-definitivos
+AGO,RGPH 2024,RGPH 2024,census,,INE Angola,,2025-11-20-ine-resultados-definitivos-do-rgph-2024
+AGO,REMPE 2019-2020,REMPE 2019-2020,other,,INE Angola,,2023-01-21-registadas-83-mil-empresas-em-angola
+AGO,RGPH 2024,RGPH 2024,census,,INE Angola,,2026-02-24-angop-luanda-censo-relatorio-provincial
+AGO,RGPH 2024,RGPH 2024,census,Portal do Censo 2024,INE Angola,,2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel
+AGO,RGPH 2024,RGPH 2024,census,,INE Angola,,2026-02-20-angop-icolo-e-bengo-censo-relatorio-provincial
+AGO,RGPH 2024,RGPH 2024,census,CAPI tablets,INE Angola,,2026-02-20-ine-angola-rgph-2024-relatorio-provincial-icolo-e-bengo
+AGO,Inquérito de Cobertura do Censo 2024,Census post-enumeration survey 2025,other,,INE Angola,,2026-02-20-ine-angola-rgph-2024-relatorio-provincial-icolo-e-bengo
+AGO,RGPH 2024,RGPH 2024,census,CAPI with CATI for control visits; GIS cartography,Instituto Nacional de Estatística (INE),,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos
+BDI,RGPHAE 2024,RGPHAE 2024,census,digital enumeration,INSBU,,2026-08-28-bdi-gnq-cooperation-sud-sud-recensement-numerique
+BDI,RGPHAE 2024,RGPHAE 2024,census,,INSBU,,2025-03-27-bdi-insbu-rgphae-2024-tableaux-resultats
+BDI,RGPHAE 2024,RGPHAE 2024,census,,Bureau Central du Recensement / INSBU,,2025-03-27-burundi-decret-100-032-resultats-preliminaires-rgphae-2024
+BDI,RGPHAE 2024,RGPHAE 2024,census,,INSBU,,2026-08-04-insbu-actualites-et-evenements
+BDI,EICVMB 2025-2026,EICVMB 2025-2026,survey,,INSBU,,2026-08-04-insbu-actualites-et-evenements
+BDI,RPPCUB 2026,RPPCUB 2026,other,tablets,INSBU,,2026-08-04-insbu-actualites-et-evenements
+BDI,RGPHAE,RGPHAE,census,ArcGIS Pro,Bureau Central du Recensement,,2026-02-09-aco-burundi-cartographie-censitaire-apurement-base-rgphae
+BDI,RGPHAE 2024,RGPHAE 2024,census,,Bureau Central du Recensement (BCR) / INSBU,,2026-07-14-bdi-ppm-du-bcr-sur-le-budget-du-rgphae-2026-2027-companion
+BDI,RGPHAE 2024,RGPHAE 2024,census,,Bureau Central du Recensement (BCR) / INSBU,,2025-09-09-bdi-ppm-revise-du-bcr-sur-le-budget-du-rgphae-2025-2026-companion
+BDI,RGPHAE 2024,RGPHAE 2024,census,,Bureau Central du Recensement (BCR),,2025-01-01-burundi-population-estimates-metadata-dyb-2025
+BDI,RGPH 2008,RGPH 2008,census,,,,2025-01-01-burundi-population-estimates-metadata-dyb-2025
+BDI,Voter census 2024,Voter census 2024,other,,CENI,,2024-05-24 Burundi - biometric national ID card will not be available for 2025 voter enrolment
+BEN,Recensement National de l'Agriculture (RNA),RNA Benin,other,,FAO/Benin,,2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census
+BEN,EHCVM,EHCVM 2021-2022,survey,,INStaD,national,2026-01-22-instad-bj-ehcvm2-indicateurs
+BEN,RGPH4,RGPH4 2013,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
+BEN,RGPH3,RGPH3 2002,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
+BEN,ENBT1-2023,ENBT 2023,,,INStaD,,2026-03-31-instad-bj-enbt1-2023-tableaux
+BFA,Recensement general des entreprises (RGE) 2024,RGE 2024,other,,INSD,,2026-05-07-recensement-general-des-entreprises-burkina-faso
+BFA,5e RGPH,RGPH-5 2019,census,smartphones for data collection,INSD,,2022-06-01-insd-rgph-2019-resultats-definitifs
+BFA,Enquete Multisectorielle Continue,EMC (continuous multipurpose household survey),survey,,INSD,,2013-01-01-iati-se-0-se-6-51200020-continous-multipurpose-household-survey
+BFA,5e RGPH,RGPH-5,census,,INSD,,2025-09-23-systeme-information-localites-analyse-geospatiale
+BFA,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+BFA,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+BFA,Recensement general des entreprises (RGE) 2024,RGE 2024,other,,INSD,,2025-10-01-insd-recensement-general-des-entreprises-rge-2024-resultats-definitifs
+BFA,RGPH 2019,RGPH 2019,census,,INSD,,2025-10-01-insd-recensement-general-des-entreprises-rge-2024-resultats-definitifs
+BWA,BMTHS 2024/25,BMTHS 2024/25,survey,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
+BWA,BMTHS 2015/16,BMTHS 2015/16,survey,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
+BWA,PHC 2022,PHC 2022,census,,Statistics Botswana,,2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief
+BWA,ICT Household Survey 2024,ICT Household Survey 2024,survey,CAPI,Statistics Botswana,,2026-09-09-bwa-itu-statsbots-ict-data-collection
+BWA,ICT Household Survey 2014,ICT Household Survey 2014,survey,,Statistics Botswana,,2026-09-09-bwa-itu-statsbots-ict-data-collection
+BWA,Quarterly Multi-Topic Survey,BQMTHS,survey,,Statistics Botswana,,2026-09-09-bwa-itu-statsbots-ict-data-collection
+BWA,PHC 2022,PHC 2022,census,,Statistics Botswana,,2025-02-17-statistics-botswana-annual-report-2023-24
+BWA,Agricultural Census,Agricultural Census,other,,Statistics Botswana,,2025-02-17-statistics-botswana-annual-report-2023-24
+BWA,National Energy Use Survey,NEUS,other,,Statistics Botswana,,2025-02-17-statistics-botswana-annual-report-2023-24
+BWA,Census 2011,Census 2011,census,,,,2019-08-01-bwa-botswana-his-indicators
+BWA,MICS2 2000,MICS2 2000,survey,,,,2019-08-01-bwa-botswana-his-indicators
+BWA,DHS 1988,DHS 1988,survey,,,,2019-08-01-bwa-botswana-his-indicators
+BWA,2025 Inbound Visitor Survey,Inbound Visitor Survey 2025,other,,Ministry of Environment and Tourism,,2026-07-08-tourism-satellite-account-inbound-visitor-survey
+CAF,RGPH-4,RGPH-4,census,CSPro,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,EHCVM2,EHCVM2,survey,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,ECTI (informal cross-border trade survey),ECTI,other,,ICASEES,,2026-10-10-caf-icasees-evaluation-mi-parcours-snds2
+CAF,RGPH-4,RGPH-4,census,CSPro,ICASEES,,2026-08-07-car-icasees-rgph4-census-data-cleaning
+CAF,EHCVM 2026,EHCVM 2026,survey,tablets,ICASEES,,2026-07-23-car-icasees-ehcvm-2026-household-survey
+CAF,RGPH4,RGPH4,census,,ICASEES,,2025-09-08-jointdatacenter-displaced-stateless-populations-car
+CAF,MICS 2025,MICS 2025,survey,,ICASEES,,2025-09-08-jointdatacenter-displaced-stateless-populations-car
+CAF,EHCVM 2021,EHCVM 2021,survey,,ICASEES,,2025-09-08-jointdatacenter-displaced-stateless-populations-car
+CAF,MICS7,MICS7 2026,survey,,ICASEES with UNICEF-programme partners,,2026-08-18-icasees-mics7-comite-pilotage-rca
+CIV,MICS 2026,MICS 2026,survey,,ANStat with UNICEF,,2026-05-11-cote-divoire-mics-2026-phase-nationale-collecte-anstat-unicef
+CIV,MICS 2026,MICS 2026,survey,,ANStat with UNICEF,,2026-05-11-unicef-civ-2026-mics-2026-equipment
+CIV,RGEE-CI,RGEE-CI 2025,other,,ANStat,,2025-06-07-recensement-general-entreprises-etablissements-rgee-ci
+CIV,RGPH 2021,RGPH 2021,census,,,,2026-03-01-cote-divoire-mission-300-compact-progress-report-q1-2026
+CIV,IEEA cashew producer and plantation identification,IEEA cashew producer census 2026,other,,CCAK,,2026-08-17-cote-divoire-cashew-producer-census-traceability
+CMR,RGPH-4,RGPH-4 2026,census,,,,2026-09-15-cmr-journalducameroun-4e-rgph-couverture-75-pourcent
+CMR,RGAE,RGAE 2026,other,,,,2026-09-15-cmr-journalducameroun-4e-rgph-couverture-75-pourcent
+CMR,RGPH-4,RGPH-4 2026,census,,,,2026-08-03-cameroon-population-census-extended-by-45-days
+CMR,RGPH-4,RGPH-4 2026,census,smartphones and satellite imagery,INS,,2026-03-11-leconomie-census-2026-digital-satellite-data-collection
+CMR,RGAE,RGAE 2026,other,,,,2026-03-11-leconomie-census-2026-digital-satellite-data-collection
+CMR,Finance Ministry birth-certificate verification census,Payroll census 2026,other,,Ministry of Finance,,2026-08-10-cameroon-fake-birth-certificates-payroll-fraud-census
+CMR,RGPH-4,RGPH-4 2026,census,,Prime Minister,,2026-07-30-order-111-cab-pm-rgph4-additional-census-period
+CMR,RGAE,RGAE 2026,other,,,,2026-07-30-order-111-cab-pm-rgph4-additional-census-period
+CMR,RGPH-4,RGPH-4 2026,census,,National Institute of Statistics,,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis
+CMR,ECAM 6,ECAM 6 2026,survey,,National Institute of Statistics,,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis
+CMR,MICS 7,MICS 7 2026,survey,,,,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis
+CMR,RGAE,RGAE 2026,other,,,,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis
+CMR,EESI4,EESI4 2026,survey,,,,2026-04-08-cameroon-tribune-cnis-ptba-2027-snis
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-10-01-cod-recensement-identification-et-enrolement-en-rdc-ce-quil-faut
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-09-01-cod-cartographie-recensement-numerique-okapi
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-07-11-rgph-2-donnees-fiables-planification-actualite
+COD,EDS III RDC,DHS 2024,survey,,,,2026-07-11-rgph-2-donnees-fiables-planification-actualite
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-09-18-rgph-2-le-gouvernement-implique-les-operateurs-de-telecommunication-pour-renfo
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-09-13-cod-beto-onip-rgph2-deux-comptages-autorite-protection-donnees
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-09-10-cod-actualite-rgph2-formation-operateurs-cartographes
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-08-08-drc-ive-never-been-counted-first-census-in-42-years
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-08-06-drc-nyembo-on-census-preparations-and-challenges
+COD,RGPH-2,RGPH-2 2026,census,,"Institut national de la statistique, Bureau central de recensement; Ministry of Plan",,2026-04-17-worldbank-decide-project-pid
+COD,RGPH2,RGPH-2 (in preparation),census,,"Institut national de la statistique (INS), with Bureau central du recensement",,2026-08-20-elitenews-ins-rgph2-cartographie-censitaire
+COG,RGPH-5,RGPH-5 2025,census,,Institut national de la statistique (INS),,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5
+COG,"Enquete harmonisee sur les conditions de vie des menages (EHCVM), second edition",EHCVM 2026,survey,,INS with HISWACA/World Bank,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Enquete sur l'emploi et le secteur informel du Congo (ESIC),ESIC 2026,survey,,INS with HISWACA/World Bank,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Recensement general de l'agriculture,Agricultural census,other,,,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Informal cross-border trade baseline survey 2027,Informal cross-border trade baseline survey 2027,other,,INS Congo,,2026-10-06-cog-brazzavillois-ins-commerce-transfrontalier-informel
+COG,Quarterly labour market survey,Quarterly labour force survey 2026,survey,,INS Congo with ILO,,2026-07-11-statistiques-marche-du-travail-bit-ins-ldb
+COM,RGPH-5 2027,RGPH-5 2027,census,,INSEED,,2026-08-18-lagazettedescomores-rgph5-digital-census-tools
+COM,RGA-2 2025,RGA-2 2025,other,,INSEED,,2026-08-07-com-inseed-enquete-agricole-annuelle
+COM,Enquete Agricole Annuelle 2026,Enquete Agricole Annuelle 2026,other,,INSEED,,2026-08-07-com-inseed-enquete-agricole-annuelle
+COM,RGPH-5 2027,RGPH-5 2027,census,,INSEED,,2026-06-09-rgph5-population-census-official-launch-lagazette
+COM,RGPH-5 2027,RGPH-5 2027,census,,INSEED,,2026-04-17-inseed-rgph5-gis-cartography-training-statcap-esri-lagazette
+COM,RGPH 2017,RGPH 2017,census,,INSEED,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,EHCVM 2024,EHCVM 2024,survey,,INSEED,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,MICS 2022,MICS 2022,survey,,INSEED,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,EHCVM 2020,EHCVM 2020,survey,,INSEED,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,DHS-MICS 2012,DHS-MICS 2012,survey,,DGSP,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,DHS 1996,DHS 1996,survey,,,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,RGA-2 2025,RGA-2 2025,other,,INSEED,,2026-08-23-inseed-archive-nationale-microdonnees
+COM,RGA-2 2025,RGA-2 2025,other,INSEED NADA microdata archive,INSEED with DNSAE,,2026-05-20-inseed-rga2-2025-agricultural-census-microdata
+COM,EHCVM 2024,EHCVM 2024,survey,INSEED NADA microdata archive,INSEED with World Bank and SADC regional statistics project,,2026-05-10-inseed-ehcvm-2024-microdata
+CPV,VI Recenseamento Geral da Agricultura,RGA 2025,other,,Ministry of Agriculture and Environment,,2025-07-25-lancado-vi-recenseamento-geral-agricultura
+CPV,IV IDRF 2022-2023,IDRF 2022-2023,survey,,INE Cabo Verde,,2026-07-25-anacao-banco-mundial-ine-pobreza-estatisticas
+CPV,III IDRF 2015,IDRF 2015,survey,,INE Cabo Verde,,2026-07-25-anacao-banco-mundial-ine-pobreza-estatisticas
+CPV,IV IDRF 2023,IDRF 2023,survey,,INE Cabo Verde,,2026-06-01-ine-rejeita-acusacoes-manipulacao-independencia-tecnica-expressodasilhas
+CPV,New digital IDRF planned July 2026,IDRF 2026,survey,digital,INE Cabo Verde,,2026-06-01-ine-rejeita-acusacoes-manipulacao-independencia-tecnica-expressodasilhas
+DJI,RGPH-3 2024,RGPH-3 2024,census,,INSTAD,,2026-01-01-unfpa-dji-rapport-resultats-definitifs-rgph3
+DJI,MICS-7,MICS-7 2025,survey,,INSTAD,,2025-12-31-instad-linkedin-lancement-mics7
+DJI,RGPH-3 2024,RGPH-3 2024,census,,INSTAD,,2025-11-18-instad-repertoire-localites-populations
+DJI,RGPH-3 2024,RGPH-3 2024,census,,INSTAD,,2025-09-08-jointdatacenter-displaced-populations-djibouti
+DJI,EDAM5,EDAM5,survey,,INSTAD,,2025-09-08-jointdatacenter-displaced-populations-djibouti
+DJI,RGPH-3 2024,RGPH-3 2024,census,,INSTAD,,2026-01-01-geohorn-portail-interactif-djibouti
+EGY,"General Census of Population, Housing and Establishments 2027",Census 2027,census,,CAPMAS,,2026-07-20-youm7-pm-census-2027-implementation
+EGY,6th Economic Census 2022/2023,Economic Census 2022/2023,other,,CAPMAS,,2025-10-27-sixth-economic-census-results-and-new-capmas-website
+EGY,6th Economic Census 2022/2023,Economic Census 2022/2023,other,,CAPMAS,,2024-06-10-minister-of-planning-discusses-national-statistics-strategy
+EGY,"General Census of Population, Housing and Establishments 2027",Census 2027,census,,CAPMAS,,2026-02-02-prime-minister-chairs-high-committee-2027-census
+ERI,Eritrean Population and Health Survey (EPHS) 2025,EPHS 2025,survey,,National Statistics Office,,2026-06-01-undp-eritrea-annual-report-2025-ndp
+ERI,Household Income and Expenditure Survey (HIES),HIES,survey,,National Statistics Office,,2026-06-01-undp-eritrea-annual-report-2025-ndp
+ERI,Living Standards Measurement Study (LSMS),LSMS,survey,,National Statistics Office,,2026-06-01-undp-eritrea-annual-report-2025-ndp
+ERI,DHS 1995,DHS 1995,survey,,,,2025-01-01-eritrea-2025-vital-statistics-metadata-questionnaire
+ERI,DHS 2002,DHS 2002,survey,,,,2025-01-01-eritrea-2025-vital-statistics-metadata-questionnaire
+ERI,DHS 2010,DHS 2010,survey,,,,2025-01-01-eritrea-2025-vital-statistics-metadata-questionnaire
+ERI,Public census with residential cards 2003,Residency registration 2003,other,,Public Registration Office,,2010-11-05-eri-shabait-public-registration-office-central-region
+ERI,EDHS 1995,EDHS 1995,survey,,,,2002-10-21-eritrea-demographic-profile-birth-registration
+ERI,Household Income and Expenditure Survey 1996/97,HIES 1996/97,survey,,,,2002-10-21-eritrea-demographic-profile-birth-registration
+ERI,EDHS 2002,EDHS 2002,survey,,,,2002-10-21-eritrea-demographic-profile-birth-registration
+ERI,Eritrea Population and Health Survey (EPHS) 2025,EPHS 2025,survey,CAPI tablets,National Statistics Office with Ministry of Health,,2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)
+ERI,Eritrea Household Income and Expenditure Survey (EHIS),EHIS,survey,,National Statistics Office,,2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)
+ETH,EDHS 2024-25,DHS 2024-25,survey,,Ethiopian Statistical Service,,2026-07-08-edhs-2024-25-summary-report
+ETH,EDHS 2024-25,DHS 2024-25,survey,,Ethiopian Statistical Service,,2026-01-01-edhs-2024-25-key-indicators-report
+ETH,Population and Housing Census 2007,PHC 2007,census,,Ethiopian Statistics Service,,2024-10-16-ess-population-census
+ETH,Demographic and Health Survey,DHS,survey,,Ethiopian Statistical Service,,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+ETH,Agricultural census,,other,,Ethiopian Statistical Service,,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+ETH,Economic census,,other,,Ethiopian Statistical Service,,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+ETH,"Household, tourism and business surveys",,,,Ethiopian Statistical Service,,2026-05-18-ethiopia-data-sovereignty-ai-monitoring-platform
+GAB,RGPL 2026,RGPL 2026,census,,Ministry of Planning and Prospective,national,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres
+GAB,"Recensement general des Gabonais economiquement faibles (GEF), second round 2026",GEF census 2026,other,,Vice-presidence du gouvernement,national,2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles
+GAB,RGPH,RGPH,census,,,national,2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles
+GHA,National school census,National school census (Ghana),other,,Ministry of Education,,2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools
+GHA,DPI Inclusivity Survey,DPI Inclusivity Survey 2026,other,,Global Development Network,,2026-09-07-gdn-dpi-inclusivity-survey-deployment-linkedin
+GHA,Governance Series (Wave 3 panel survey),Governance Series Wave 3 2025,other,,Ghana Statistical Service,,2026-08-06-governance-reforms-yielding-results-but-remain-fragile-government-statistician
+GIN,RGE-1 2026,RGE-1 2026,other,,INS,,2026-09-19-gin-africaguinee-decret-recensement-general-entreprises-rge1
+GIN,RGE-1 2026,RGE-1 2026,other,,INS,,2026-09-17-gin-bambouguinee-rge-1-lancement-recensement-general-entreprises
+GIN,RGPH-4 2025,RGPH-4 2025,census,,INS,,2026-09-17-gin-bambouguinee-rge-1-lancement-recensement-general-entreprises
+GIN,Sixth DHS,DHS-6,survey,,INS,,2026-09-17-gin-bambouguinee-rge-1-lancement-recensement-general-entreprises
+GIN,RGE-1 2026,RGE-1 2026,other,,INS,,2026-09-17-kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique
+GIN,RGPH-4 2025,RGPH-4 2025,census,,INS,,2026-09-11-gin-nimba224-rgph4-donnees-recensement-handicap
+GIN,RGPH-4 2025,RGPH-4 2025,census,,INS,,2026-03-06-decret-publication-resultats-rgph-4
+GIN,RGPH-4,RGPH-4 2026,census,,INS Guinea,,2026-03-03-mediaguinee-pn-ravec-secured-civil-registry-intrants-rgph4
+GIN,RGPH-4,RGPH-4 2026,census,,INS / MPCID,,2026-02-25-rgph4-resultats-preliminaires
+GIN,RGPH-4 post-enumeration survey,RGPH-4 post-enumeration survey,other,,INS Guinea,,2026-02-25-rgph4-resultats-preliminaires
+GIN,Recensement Général des Entreprises (RGE),RGE-1,other,,INS Guinea,,2026-02-25-rgph4-resultats-preliminaires
+GIN,EHCVM-2,EHCVM-2 2025,survey,,INS Guinea,,2025-11-16-ehcvm-2-lancement-collecte
+GIN,RGPH-4,RGPH-4,census,,INS Guinea,,2025-10-30-rgph-4-lancement-enquete-post-censitaire
+GIN,RGPH-4 post-enumeration survey,RGPH-4 post-enumeration survey 2025,other,,INS Guinea,,2025-10-30-rgph-4-lancement-enquete-post-censitaire
+GMB,GLFS 2026 (Q1),GLFS 2026 Q1,survey,,Gambia Bureau of Statistics,,2026-07-30-gbos-glfs-2026-q1-findings-report
+GMB,GLFS 2026 (Q1),GLFS 2026 Q1,survey,,Gambia Bureau of Statistics,,2026-07-30-standard-gm-gbos-labour-force-survey-2026-q1
+GMB,GLFS 2026 Round 2,GLFS 2026 Round 2,survey,,Gambia Bureau of Statistics,,2026-07-30-standard-gm-gbos-labour-force-survey-2026-q1
+GMB,Annual school census (MoBSE),Education annual census,other,DHIS2-Ed,Ministry of Basic and Secondary Education,,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix
+GMB,Gambia Labour Force Survey (GLFS),GLFS 2023-2026,survey,,Gambia Bureau of Statistics,,2026-07-30-gbos-gambia-labour-market-progress-trends-2023-2026
+GNB,RGPH-4 2026,RGPH-4 2026,census,CAPI tablets,INE Guinea-Bissau,,2026-07-24-ang-rgph4-banco-mundial-capacidade-estatistica
+GNB,RGPH-4 2026,RGPH-4 2026,census,CAPI tablets,INE Guinea-Bissau,,2026-07-23-ang-rgph4-resultados-preliminares-ine
+GNB,RGPH-4 2026,RGPH-4 2026,census,CAPI tablets,INE Guinea-Bissau,,2026-07-23-guinea-bissau-rgph4-first-fully-digital-census-preliminary-results
+GNB,RGPH-4 2026,RGPH-4 2026,census,CAPI tablets,INE Guinea-Bissau,,2026-06-01-unfpa-guinea-bissau-rgph4-census-field-launch
+GNB,RGPH-4 2026,RGPH-4 2026,census,CAPI tablets,INE Guinea-Bissau,,2025-09-02-ang-ine-gb-plataforma-recrutamento-rgph4
+GNB,RGPH 2019,RGPH 2019,census,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
+GNB,IHCVF 2018,IHCVF 2018,survey,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
+GNB,MICS-6 2018,MICS-6 2018,survey,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
+GNB,RGAP 2019,RGAP 2019,other,,INE,,2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final
+GNQ,5th RGPH,RGPH-5,census,,INEGE,,2026-08-28-bdi-gnq-cooperation-sud-sud-recensement-numerique
+GNQ,CGPV-V,V Censo General de Población y Vivienda 2027,census,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
+GNQ,CGA-I,I Censo General Agropecuario,other,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
+GNQ,EDS-II,Segunda Encuesta Demográfica y de Salud,survey,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
+GNQ,EPA-II,"Segunda Encuesta de Población Activa, Formación y Empleo",survey,,INEGE,,2026-08-27-guineaecuatorialpress-el-consejo-nacional-de-estadistica-analiza-los-avances
+GNQ,CGPV-V,V Censo General de Población y Vivienda 2027,census,,INEGE,,2026-08-20-ahoraeg-comite-cientifico-censo-poblacion-agropecuario
+GNQ,CGA-I,I Censo General Agropecuario,other,,INEGE,,2026-08-20-ahoraeg-comite-cientifico-censo-poblacion-agropecuario
+GNQ,Censo de población 2015,Censo de población 2015,census,,INEGE,,2026-07-28-ahoraeg-inege-validacion-censos
+GNQ,CGPV-V,V Censo General de Población y Vivienda 2027,census,,INEGE,,2026-07-28-ahoraeg-inege-validacion-censos
+GNQ,CGA-I,I Censo General Agropecuario,other,,INEGE,,2026-07-28-ahoraeg-inege-validacion-censos
+GNQ,CGPV-V,V Censo General de Población y Vivienda 2027,census,,INEGE,,2026-09-25-gnq-ahoraeg-inege-anuario-estadistico
+GNQ,CGA-I,I Censo General Agropecuario,other,,INEGE,,2026-09-25-gnq-ahoraeg-inege-anuario-estadistico
+GNQ,CGPV-V (V Censo General de Poblacion y Vivienda),CGPV-V (RGPH-5),census,,INEGE,,2026-08-20-inege-comite-cientifico-censo-decreto-25-2025-resolucion-006-2025
+GNQ,CGA-I (I Censo General Agropecuario),CGA-I,other,,INEGE,,2026-08-20-inege-comite-cientifico-censo-decreto-25-2025-resolucion-006-2025
+GNQ,INSESO pensioner census 2024,Pensioner census 2024,other,,INSESO,,2025-09-16-inseso-comparecencia-camara-diputados
+GNQ,Censo Electoral 2022,Electoral census 2022,other,,Ministerio del Interior y Corporaciones Locales,,2022-04-05-decreto-34-2022-levantamiento-censo-electoral
+KEN,Kenya Mini Demographic and Health Survey (KMDHS) 2025/2026,KMDHS 2025/2026,survey,,KNBS with Ministry of Health,,2025-10-29-kmdhs-2025-2026-fieldwork-launch
+KEN,Kenya Demographic and Health Survey (KDHS) 2022,KDHS 2022,survey,,,,2025-10-29-kmdhs-2025-2026-fieldwork-launch
+KEN,National survey on child online protection and safety,CA/UoN child online safety survey 2026,other,,Communications Authority of Kenya with University of Nairobi IDS,,2026-09-09-techafricanews-kenya-child-online-protection-survey
+KEN,Population and Housing Census,Kenya Population and Housing Census,census,,Kenya National Bureau of Statistics,,2006-09-08-kenya-statistics-act-2006
+LBR,Liberia Annual Agricultural Survey 2024 (LAAS),LAAS 2024,other,,LISGIS,,2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use
+LBR,Liberia Agriculture Census 2024,LAC 2024,other,,LISGIS,,2026-07-01-lisgis-microdata-liberia-annual-agricultural-survey-2024-public-use
+LBR,Annual School Census,School census 2025/2026,other,,Ministry of Education,,2026-03-30-liberia-moe-launches-2025-2026-national-school-census
+LBR,Annual School Census,School census 2022,other,,Ministry of Education,,2025-10-01-iped-liberia-emis-peer-review
+LBR,Liberia Household Income and Expenditure Survey,HIES 2015-2016,survey,,World Bank / LISGIS,,2013-01-01-iati-se-0-se-6-52090066-liberia-household-income-expenditure-survey
+LBR,Annual School Census,Annual School Census 2024/25,other,,Ministry of Education,,2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy
+LBR,Annual School Census,Annual School Census 2024/25,other,,Ministry of Education,,2026-09-13-lbr-moe-apo-standardize-school-records
+LBR,Annual School Census,Annual School Census 2024-2025,other,,Ministry of Education,,2026-02-04-lbr-strengthening-emis-through-peer-learning-how-liberia-is-leading-its-ow
+LBR,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+LBR,Liberia Agriculture Census 2024,Agriculture Census 2024,other,,LISGIS,,2025-10-01-lisgis-liberia-2024-annual-agriculture-survey-final-report
+LBR,Liberia 2024 Annual Agriculture Survey (LAAS-2024),LAAS 2024,other,,LISGIS with MOA,,2025-10-01-lisgis-liberia-2024-annual-agriculture-survey-final-report
+LBR,2022 Liberia Population and Housing Census,LPHC 2022,census,"CAPI tablets, CSPro",LISGIS,,2023-06-01-liberia-2022-population-and-housing-census-final-results
+LBR,National Labor Force Survey,Labor Force Survey,survey,,,,2023-06-01-liberia-2022-population-and-housing-census-final-results
+LBR,Liberia Demographic and Health Survey 2019/2020,LDHS 2019/2020,survey,,,,2023-06-01-liberia-2022-population-and-housing-census-final-results
+LBR,Liberia Malaria Indicator Survey 2022,LMIS 2022,other,,,,2023-06-01-liberia-2022-population-and-housing-census-final-results
+LBY,General Population Census and accompanying censuses project,General Population Census (planned),census,national data distributor; national database,Ministry of Planning; Statistics and Census Department; General Authority for Information,national,2026-07-02-gia-confirms-technical-readiness-general-population-census-project
+LSO,2026 Population and Housing Census,PHC 2026,census,,Lesotho Bureau of Statistics,,2026-09-17-lso-publiceye-census-lgbtiq-national-data
+LSO,2026 Housing and Population Census,PHC 2026,census,,Lesotho Bureau of Statistics,,2026-06-05-lesotho-completed-2026-census-enumeration
+LSO,2026 Housing and Population Census,PHC 2026,census,,Lesotho Bureau of Statistics,,2026-03-13-statistics-south-africa-handed-over-gadgets
+LSO,2016 Population and Housing Census,PHC 2016,census,,Lesotho Bureau of Statistics,,2018-01-01-lesotho-2016-phc-summary-key-findings
+LSO,2026 Population and Housing Census,Population and Housing Census 2026,census,,Bureau of Statistics,national,2026-08-08-lesotho-statistics-boss-suspended
+LSO,2006 Population Census,Population Census 2006,census,,,national,2013-01-01-lesotho-iec-2012-national-assembly-elections-report
+MAR,EMO2026,EMO2026,survey,,HCP,,2026-05-04-emo2026-marche-travail-t1-2026
+MAR,RGPH 2024,RGPH 2024,census,,HCP,,2026-05-04-emo2026-marche-travail-t1-2026
+MAR,ENET 2026-2027,ENET 2026-2027,survey,,HCP,,2026-04-02-hcp-enquete-emploi-du-temps-2026-2027
+MAR,RGPH 2024,RGPH 2024,census,,HCP,,2024-11-07-population-legale-rgph-2024
+MAR,RGPH 2024,RGPH 2024,census,,HCP,,2026-03-24-personnes-situation-handicap-maroc-rgph-2024
+MAR,RGPH 2024,RGPH 2024,census,,HCP,,2025-11-01-hcp-residents-etrangers-au-maroc
+MAR,RGPH 2024,RGPH 2024,census,,HCP,,2025-10-21-hcp-jms-2025-allocution
+MAR,Enquete nationale sur l'emploi (reformed from 2026),Enquete nationale sur l'emploi 2026,survey,,HCP,,2025-10-21-hcp-jms-2025-allocution
+MAR,Enquete nationale sur la famille,Enquete nationale sur la famille,survey,,HCP,,2025-10-21-hcp-jms-2025-allocution
+MAR,Enquete sur le niveau de vie des menages,Enquete niveau de vie des menages,survey,,HCP,,2025-10-21-hcp-jms-2025-allocution
+MAR,Recensement de la population et de l'habitat,Recensement de la population et de l'habitat,census,,HCP Direction de la statistique,,2018-04-06-hcp-direction-de-la-statistique-missions
+MAR,Enquete nationale sur l'emploi,Enquete nationale sur l'emploi,survey,,HCP Direction de la statistique,,2018-04-06-hcp-direction-de-la-statistique-missions
+MDG,RGPH 3,RGPH-3,census,,INSTAT,,2026-08-09-madagascar-instat-microdata-platform
+MDG,ERISC Ménages,ERISC Ménages 2020-2022,survey,,INSTAT,,2026-08-09-madagascar-instat-microdata-platform
+MDG,RGPH-3 2018,RGPH-3 2018,census,,INSTAT,,2025-08-07-presentation-plateforme-microdonnees-instat-rgph3
+MDG,EPM 2021-2022,EPM 2021-2022,survey,,INSTAT,,2025-08-07-presentation-plateforme-microdonnees-instat-rgph3
+MDG,RGPH-4,RGPH-4 2028,census,,INSTAT,,2026-05-11-presentation-prodoc-rgph-4
+MDG,RGPH-3 2018,RGPH-3 2018,census,,INSTAT,,2026-05-11-presentation-prodoc-rgph-4
+MDG,MICS7 2025,MICS7 2025,survey,,INSTAT,,2026-03-05-un-madagascar-mics7-2025
+MDG,MICS-7 2025,MICS-7 2025,survey,,INSTAT with UNICEF,,2026-02-28-instat-mics-7-2025
+MDG,MICS 2025,MICS 2025,survey,,INSTAT and UNICEF,,2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
+MLI,MICS-ELIM 2010,MICS-ELIM 2009-2010,survey,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-02-18-instat-mali-session-ordinaire-conseil-national-statistique
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2024-04-01-iati-se-0-se-6-11793-11793a0201-mali-rgph5-census-special-review
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2018-12-04-iati-se-0-se-6-11793-11793a0101-mali-rgph5-population-census
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2018-12-04-iati-se-0-se-6-11793-11793a0103-mali-rgph5-census-agreement-amendment
+MLI,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MLI,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT,,2026-06-25-instat-mali-rapport-annuel-emop-2025
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EHCVM III,EHCVM III 2026,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EHCVM 2022,EHCVM 2022,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EDSM,EDSM,survey,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGPH,RGPH,census,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGA,RGA,other,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,School and education establishment census 2026,Recensement des ecoles 2026,other,,CPS/SE,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT with Statistics Sweden,,2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese
+MLI,RGPH5,RGPH-5,census,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,EMOP 2025,EMOP 2025,survey,tablet collection,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,EDS VII,DHS 2023-24 (EDS VII),survey,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"EHCVM III, Vague I",EHCVM III 2025,survey,,INSTAT,"fieldwork October-December 2025, all regions; no results",2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Recensement General Agricole (RGA),RGA,other,,CPS/SDR,agricultural census; provisional results to be validated 29 December 2025,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,ENSAN 2025,ENSAN 2025,other,,AVASAN,"national food security and nutrition survey, enumerator training September 2025",2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"RGPH (latest census, sampling frame)",RGPH,census,,INSTAT,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EMOP,EMOP,survey,,INSTAT,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EHCVM,EHCVM,survey,,INSTAT / UEMOA,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,MICS,MICS,survey,,INSTAT with partners,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EDSM,EDSM,survey,,,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,RGPH5 2020,RGPH5 2020,census,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EHCVM,EHCVM,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EMOP,EMOP,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,MICS,MICS,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EDS 7th edition,EDS,survey,,CPS-SS-DS-PF/INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,LSMS income and living conditions survey,LSMS,survey,,CPS-SDR,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,Recensement general de l'agriculture,RGA,other,,CPS-SDR,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MOZ,RGPH-5 2027 (pilot 2026),RGPH-5 2027 (pilot 2026),census,,INE,,2026-08-22-diarioeconomico-ine-mozambique-censo-2027-sistema-digital
+MOZ,RGPH-5 2027 (pilot 2026),RGPH-5 2027 (pilot 2026),census,,INE,,2026-08-02-governo-testa-piloto-digital-do-censo-populacional-investimento-de-430-mil-dolares
+MOZ,Census 2017,Census 2017,census,,INE,,2026-08-02-governo-testa-piloto-digital-do-censo-populacional-investimento-de-430-mil-dolares
+MOZ,RGPH-5 2027 (pilot 2026),RGPH-5 2027 (pilot 2026),census,,INE,,2026-08-02-mozambique-invests-430000-in-digital-census-pilot-ahead-of-2027-count
+MOZ,Census 2017,Census 2017,census,,INE,,2026-08-02-mozambique-invests-430000-in-digital-census-pilot-ahead-of-2027-count
+MOZ,RGPH-5 2027 (pilot 2026),RGPH-5 2027 (pilot 2026),census,,INE,,2026-07-29-jornal-noticias-formacao-censo-piloto-magude
+MOZ,Census 2017,Census 2017,census,,INE,,2018-07-03-iati-se-0-se-6-12296-12296a0101-unfpa-statistics-trust-fund-ine-mozambique
+MOZ,2017 Population Census,Census 2017,census,,INE,,2015-12-01-sida-moz-ine-census-2015-ine-census-2015-2017
+MOZ,Censo da Populacao e Habitacao 2027,Census 2027,census,,INE,,2026-09-10-moz-mznews-ine-reuniao-planificacao-censo-2027
+MOZ,MICS (Inquerito de indicadores multiplos),MICS,survey,,,,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,IDS (Inquerito Demografico e de Saude),DHS,survey,,,,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,Census 2007 population projections 2007-2040,Census 2007,other,,,,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MRT,RGPH-5,RGPH-5,census,"fully digital mapping, collection, processing and analysis",ANSADE,national,2026-08-03-mauritania-census-digitization
+MRT,RGPH 2023,RGPH 2023,census,,ANSADE,national,2026-02-18-nouadhibou-atelier-regional-resultats-definitifs-rgph-2023
+MRT,Land census (Nouakchott first),Land census 2026,other,,Ministry of Domains,,2026-05-04-mrt-atelier-foncier-projet-aakar-entrepot-donnees-foncieres-basira
+MRT,Recensement Général de l'Elevage,Livestock census 2024,other,,Ministry of Livestock,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
+MRT,EPCV 2025,EPCV 2025,survey,,Ministry of Economic Affairs and Development,,2026-08-05-conseil-ministres-mauritanie-epcv-2025-resultats-preliminaires-pauvrete
+MUS,Continuous Multi-Purpose Household Survey (CMPHS),CMPHS 2024,survey,,Statistics Mauritius,,2026-07-10-ict-statistics-2025-internet-usage
+MUS,Survey of Employment and Earnings in large establishments,Survey of Employment and Earnings 2025,other,,Statistics Mauritius,,2026-07-10-ict-statistics-2025-internet-usage
+MUS,Annual Survey in Schools,Annual Survey in Schools 2025,other,,Ministry of Education,,2026-07-10-ict-statistics-2025-internet-usage
+MUS,CMPHS,CMPHS Q1 2026,survey,,Statistics Mauritius,,2026-06-30-labour-force-employment-unemployment-q1-2026
+MUS,2022 Housing and Population Census,2022 Census,census,,Statistics Mauritius,,2026-06-30-labour-force-employment-unemployment-q1-2026
+MUS,Continuous Multi-Purpose Household Survey (CMPHS) 2025,CMPHS 2025,survey,,Statistics Mauritius,,2026-05-19-labour-force-employment-unemployment-year-2025
+MUS,2022 Housing and Population Census,Census 2022,census,,Statistics Mauritius,,2026-05-19-labour-force-employment-unemployment-year-2025
+MWI,Malawi national census (upcoming),Population census (upcoming),census,,National Statistical Office,,2026-09-11-mwi-nation-afdb-census-gdp-rebasing
+MWI,Economic surveys related to the census,Economic surveys,other,,,,2026-09-11-mwi-nation-afdb-census-gdp-rebasing
+MWI,Population and Housing Census,PHC 2018,census,,National Statistical Office,,2026-09-10-mwi-efficacynews-zamstats-nso-census-knowledge-exchange
+MWI,7th Population and Housing Census,PHC 2028,census,,National Statistical Office,,2026-09-10-mwi-efficacynews-zamstats-nso-census-knowledge-exchange
+MWI,National census (AfDB support sought),Population census (upcoming),census,,National Statistical Office,,2026-09-10-mwi-nation-mwanamvekha-seoul-grants-budget-support
+MWI,Malawi Census,Malawi Census (year not stated),census,"digital data collection, mobile survey tools",,,2018-01-01-fcdo-mwi-001-making-technology-work-for-malawi
+MWI,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MWI,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MWI,Fourth National ICT Survey 2026,National ICT Survey 2026,survey,,National Statistical Office with MACRA,,2026-08-19-malawi24-nso-macra-ict-survey-jobs
+MWI,Fourth National ICT Survey 2026,National ICT Survey 2026,survey,,National Statistical Office with MACRA,,2026-08-14-malawi-national-ict-survey-nso-macra
+NAM,2023 Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2026-07-27-namibia-bon-eid-administrative-data-sharing-census-costs
+NAM,2023 Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2024-10-30-nsa-2023-census-media-release-rural-electrification
+NAM,EMIS Annual Education Census,EMIS 2023,other,,"Ministry of Education, Arts and Culture",,2024-01-01-education-management-information-system-emis
+NAM,2021 Population and Housing Census (planned),PHC 2021 (not held),census,,Namibia Statistics Agency,,2022-04-01-namibia-statistics-agency-strategic-plan-2022-2027
+NAM,2023 Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Population and Housing Census 2011,PHC 2011,census,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Demographic and Health Survey 2000,DHS 2000,survey,,Ministry of Health and Social Services,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Household Income and Expenditure Survey 2015/16,NHIES 2015/16,survey,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Labour Force Survey 2016,LFS 2016,survey,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Intercensal Demographic Survey 2016,NIDS 2016,survey,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Financial Inclusion Survey 2017,NFIS 2017,other,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,Namibia Census of Agriculture 2013/2014,Census of Agriculture 2013/14,other,,Namibia Statistics Agency,,2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue
+NAM,2023 National Population and Housing Census,PHC 2023,census,,Namibia Statistics Agency,,2025-10-14-namibia-national-disability-policy-gazette
+NAM,2011 National Population and Housing Census,PHC 2011,census,,Namibia Statistics Agency,,2025-10-14-namibia-national-disability-policy-gazette
+NAM,2023 census,Census 2023,census,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
+NAM,Demographic and Health Survey 2013,DHS 2013,survey,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
+NAM,2023 Population and Housing Census,PHC 2023,census,digital enumeration,Namibia Statistics Agency,,2026-07-30-namibia-bon-nsa-statistics-awareness-day-admin-records-ai
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2026-07-29-lesahel-diffa-chefs-traditionnels-5e-rgph
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-10-09-niger-lesahel-synpis-congres-recensement
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,Enquete nationale sur la fecondite,Enquete nationale sur la fecondite 2023,survey,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,ReGEN,ReGEN 2025,other,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+NER,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+NGA,Katsina State General Household Survey,Katsina General Household Survey 2026,other,,Katsina State Government,,2026-08-28-vanguard-katsina-data-driven-governance
+NGA,Nigeria population census 2006,Census 2006,census,,National Population Commission,,2025-03-08-nigerias-first-biometric-census
+NGA,Nigeria biometric population census,Biometric census (planned),census,"digital tablets, biometric devices",National Population Commission,,2025-03-08-nigerias-first-biometric-census
+NGA,Nigeria digital census,Digital census (planned),census,Milsat Technologies mapping,National Population Commission,,2026-10-07-nigerian-company-milsat-technologies-powers-new-national-digital-postc
+NGA,annual school census,School census,other,DHIS2 EMIS,education authorities,,2026-03-12-classroom-attendance-nigeria-relies-on-paper
+NGA,Annual School Census 2024/25,Annual School Census 2024/25,other,DHIS2 (DNEMIS),Federal Ministry of Education,,2026-01-01-nga-dhis2-education-implementation-nigeria
+NGA,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+NGA,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+RWA,Foreign Private Capital Census 2025,Foreign Private Capital Census 2025,other,,NISR,,2026-02-17-foreign-private-capital-census-2025
+RWA,RDHS 2025,DHS 2025,survey,,NISR,,2026-01-06-seventh-rdhs-released
+RWA,RPHC5 2022,RPHC5 2022,census,,NISR,,2023-02-01-rphc5-main-indicators-report
+RWA,Establishment Census 2023,Establishment Census 2023,other,,NISR,,2026-07-27-ktpress-nisr-establishment-census-women-urban-enterprises
+RWA,Establishment Census 2023,Establishment Census 2023,other,,NISR,,2026-06-30-nisr-establishment-census-2023-gender-thematic-report
+RWA,RDHS 2025,DHS 2025,survey,,"NISR, Ministry of Health, ICF",national,2026-08-01-rwanda-dhs-2025-final-report
+SDN,School censuses under EMIS,EMIS school census,other,,Ministries of Education,federal;state,2012-09-01-sudan-nsds-2012-2016
+SDN,Population census 2008,Census 2008,census,,,,2026-01-29 How to build trust alongside Sudan's digital identity system
+SDN,Welfare Monitoring Survey Round IV 2025 (SWMS R4),SWMS R4 2025,other,mobile phone survey,World Bank,national,2025-11-11-sudan-welfare-monitoring-survey-round-iv-2025
+SDN,Sudan Multidimensional Poverty Survey 2023,S-MPS 2023,survey,,Central Bureau of Statistics with UNDP,"national, state, locality",2026-07-26-sudan-multidimensional-poverty-survey-2023-report
+SDN,2008 national census,Census 2008,census,,Central Bureau of Statistics,national,2026-07-26-sudan-multidimensional-poverty-survey-2023-report
+SDN,2022 Labor Force Survey,LFS 2022,survey,,,national,2026-07-26-sudan-multidimensional-poverty-survey-2023-report
+SDN,2008 national census,Census 2008,census,,,national,2025-12-05-unfpa-sudan-country-programme-document
+SDN,Common Operational Dataset on Population Statistics (COD-PS),COD-PS 2024,other,,UNFPA and humanitarian partners,national,2025-12-05-unfpa-sudan-country-programme-document
+SEN,RGPH-5 2023,RGPH-5 2023,census,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,RGPHAE 2013,RGPHAE 2013,census,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,ENES 2025,ENES 2025,survey,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,RNU update and extension survey 2025,RNU 2025,other,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,Enquete Agricole Annuelle 2024-2025,EAA 2024-2025,other,ANADS catalogue,DAPSA,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,ENDES 2025,ENDES 2025,other,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,ENTICS 2024,ENTICS 2024,other,ANADS catalogue,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
+SEN,RGPH-5,RGPH-5,census,,ANSD,,2026-08-05-senegal-civil-registration-digitalization-anec
+SEN,EDS Continue 2023,DHS 2023,survey,,,,2026-08-05-senegal-civil-registration-digitalization-anec
+SEN,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+SEN,national business census,business census 2026,other,,ANSD,,2026-07-01-gpsdd-midn-dakar-peer-exchange
+SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-13-sle-sierra-leone-counts-down-to-first-fully-digital-census
+SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-12-sle-2026-census-budget-rises-from-7-million-to-nearly-60-million
+SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed
+SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-09-18-sle-sierraloaded-stats-sl-census-mapping-completion
+SLE,2026 Population and Housing Census,PHC 2026,census,CAPI on tablets,Statistics Sierra Leone,national,2026-09-11-sle-statehouse-bio-depac-data-digitalisation-census
+SLE,DHS 2026,DHS 2026,survey,,Ministry of Health and Statistics Sierra Leone,,2026-08-04-sierra-leone-launch-2026-demographic-and-health-survey
+SLE,2026 Population and Housing Census,PHC 2026,census,,Statistics Sierra Leone,,2025-12-01-sierra-leone-launch-2026-population-housing-census-power-of-data
+SLE,2026 Population and Housing Census,PHC 2026,census,,Statistics Sierra Leone,,2026-10-09-sierraleonews-sle-statssl-25000-tablets-census
+SLE,2026 Population and Housing Census,PHC 2026,census,,Statistics Sierra Leone,,2025-01-01-iati-xm-dac-21-1-2025000348b1sierraoc4gov-statistics-sierra-leone-digital-census-mapping
+SLE,2026 Population and Housing Census,PHC 2026,census,,Government of Sierra Leone,,2026-09-15-sle-sltelegraph-us61m-headcount-political-calculator
+SLE,2021 Mid-Term Population and Housing Census,MTPHC 2021,census,,Statistics Sierra Leone,,2026-09-15-sle-sltelegraph-us61m-headcount-political-calculator
+SLE,2015 Population and Housing Census,PHC 2015,census,,Statistics Sierra Leone,,2026-09-15-sle-sltelegraph-us61m-headcount-political-calculator
+SLE,Annual school census,Annual school census,other,,MBSSE,,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub
+SLE,Annual School Census,Annual School Census,other,,MBSSE,,2026-01-01-sierra-leone-mbsse-emis-education-management-information-system
+SLE,Midterm Population and Housing Census,Midterm Census 2021,census,,,,2021-06-01-sierra-leone-country-report-ecowas-parliament
+SLE,Population and Housing Census 2015,Census 2015,census,,,,2021-06-01-sierra-leone-country-report-ecowas-parliament
+SLE,Annual School Census,Annual School Census 2019,other,,MBSSE,,2020-01-01-sierra-leone-dsti-education-data-hub
+SLE,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+SLE,DPI Inclusivity Survey,DPI Inclusivity Survey 2026,other,,Global Development Network,,2026-09-07-gdn-dpi-inclusivity-survey-deployment-linkedin
+SLE,2021 Mid-Term Population and Housing Census,MTPHC 2021,census,digital CAPI enumeration with digital cartographic mapping (EAPaD),Statistics Sierra Leone,national,2022-09-01-sierra-leone-stats-sl-2021-mid-term-population-housing-census-final-results
+SOM,MICS-7,MICS-7 2026,survey,,"SNBS with World Bank, UNICEF, WHO",,2026-03-26-snbs-mics-7-launch
+SOM,Somali Population and Housing Census (SPHC),SPHC,census,,SNBS,,2025-09-21-somalia-population-housing-census-programme
+SOM,Somalia Demographic and Health Survey,DHS 2020,survey,,,,2026-03-02-somali-women-financial-inclusion-digital-divide-study
+SOM,Household Budget Survey,HBS 2025,survey,,SNBS,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,Socioeconomic and Demographic Survey,Socioeconomic and Demographic Survey,survey,,SNBS,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,Business Establishment Census,Business Establishment Census,other,,SNBS,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,Food Security and Vulnerability Survey,Food Security and Vulnerability Survey,other,,,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,2024 Business Establishment Census,Business Establishment Census 2024,other,,Somalia National Bureau of Statistics,,2026-01-29-somalia-business-establishment-analysis-booklet
+SOM,Socio-Demographic Survey 2026,SDS 2026,other,,Somalia National Bureau of Statistics,,2026-07-26-snbs-socio-demographic-survey-2026
+SSD,Annual Education Census 2023,Annual Education Census 2023,other,Android tablets and web repository,MoGEI,,2023-01-01-mogei-national-education-census-report-2023
+SSD,MICS 2025,MICS 2025,survey,,National Bureau of Statistics,,2026-04-21-south-sudan-mics7-national-survey-released
+SSD,MICS 2025,MICS 2025,survey,,National Bureau of Statistics,,2025-09-16-statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections
+SSD,Census Development Tool,Census Development Tool,other,,National Bureau of Statistics,,2025-09-16-statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections
+SSD,Sudan Population and Housing Census 2008,Census 2008,census,,,,2020-01-01-south-sudan-national-disability-action-plan
+SSD,Food Security and Livelihood Cluster household survey 2016,FSL Cluster survey 2016,other,,Food Security and Livelihood Cluster,,2020-01-01-south-sudan-national-disability-action-plan
+SSD,Population and Housing Census 2014,Census 2014,census,,National Bureau of Statistics,,2014-01-01-south-sudan-nsds-strategic-plan
+SSD,Integrated Household Surveys,Integrated Household Surveys,survey,,National Bureau of Statistics,,2014-01-01-south-sudan-nsds-strategic-plan
+SSD,NBS population projection to 2030,Population projection 2021-2030,other,,National Bureau of Statistics,,2026-07-23-onecitizendaily-nbs-population-projection-2030
+STP,Terceiro Recenseamento Geral Agrícola,Agricultural census 2025-2026,other,,Ministério da Agricultura with INE,,2025-07-24-sao-tome-terceiro-recenseamento-geral-agricola-recolha-dados
+STP,Housing and population census,Population and housing census 2024,census,,INE with World Bank financing,,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
+STP,Post-enumeration survey,Post-enumeration survey 2025,other,,,,2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report
+STP,Enterprise Census,Enterprise census 2023,other,,INE,,2024-11-20-worldbank-sao-tome-institutional-capacity-isr-sirp-registo-propriedade
+STP,Inquerito ao Orcamento Familiar 2017,IOF 2017,survey,,Instituto Nacional de Estatistica,,2026-03-26-sao-tome-ine-inquerito-orcamentos-familiares-terreno
+STP,Inquerito ao Orcamento Familiar,"IOF 2026 (fieldwork started March 2026, results expected by end of 2026)",survey,,Instituto Nacional de Estatistica,,2026-03-26-sao-tome-ine-inquerito-orcamentos-familiares-terreno
+STP,V Recenseamento Geral da Populacao e Habitacao 2024,RGPH-5 2024,census,,Instituto Nacional de Estatistica,,2025-07-01-sao-tome-ine-v-rgph-2024-resultados
+SWZ,Population and Housing Census 2017,PHC 2017,census,digital census,Central Statistical Office,,2025-11-07-eswatini-ministry-unfpa-launch-census
+SWZ,Population and Housing Census 2027,PHC 2027,census,,Central Statistical Office / Ministry of Economic Planning and Development,,2025-11-07-eswatini-ministry-unfpa-launch-census
+SWZ,Economic Census 2025/2026,Economic Census 2025/26,other,,Central Statistical Office,,2025-11-07-eswatini-ministry-unfpa-launch-census
+SWZ,Annual Education Census,Annual Education Census,other,EMIS,Ministry of Education and Training,,2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis
+SWZ,Population census 2007,Census 2007,census,,,,2019-08-01-swz-eswatini-his-indicators
+SWZ,MICS5 2014,MICS5 2014,survey,,,,2019-08-01-swz-eswatini-his-indicators
+SWZ,DHS 2006-07,DHS 2006-07,survey,,,,2019-08-01-swz-eswatini-his-indicators
+SWZ,FinScope Eswatini 2026 Consumer Survey,FinScope 2026,survey,,"Central Bank of Eswatini with CSO, ESEPARC, FinMark Trust",,2026-09-10-swz-positivenews-finscope-2026-financial-inclusion-survey
+SWZ,FinScope Eswatini 2026 Consumer Survey,FinScope 2026,survey,,"Central Bank of Eswatini with CSO, ESEPARC, FinMark Trust",,2026-07-24-cbe-launches-survey-financial-inclusion-eswatini
+SYC,Census of Economic Activities,CEA 2026-27,other,,National Bureau of Statistics,,2026-04-01-nbs-seychelles-linkedin-census-economic-activities-second-pilot
+SYC,Census of Economic Activities,CEA 2026-27,other,,National Bureau of Statistics,,2025-11-11-nation-sc-census-economic-activities-pilot
+SYC,Population and Housing Census 2022,PHC 2022,census,digital,National Bureau of Statistics,,2024-03-01-nbs-seychelles-population-housing-census-2022-main-report
+SYC,Quarterly Labour Force Survey,QLFS,survey,,National Bureau of Statistics,,2024-03-01-nbs-seychelles-population-housing-census-2022-main-report
+SYC,Population and Housing Census 2022,PHC 2022,census,digital,National Bureau of Statistics,,2025-08-29-nbs-seychelles-mid-2025-estimated-resident-population
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED / Government of Chad,,2026-07-30-lendjampost-rgph3-batha-populations-nomades
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED / Government of Chad,,2026-07-20-lepaystchad-rgph3-prorogation-denombrement
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED / Government of Chad,,2026-07-21-portail-td-decret-2087-prorogation-denombrement-rgph3
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED / Government of Chad,,2026-05-07-tchadinfos-arrete-070-2026-organes-locaux-rgph3
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED / Government of Chad,,2025-11-26-lepaystchad-inseed-formation-journalistes-donnees-statistiques
+TCD,RGPH-3,RGPH-3 2026,census,,INSEED,,2025-09-16-lepaystchad-inseed-bourses-laureats-ecoles-statistique
+TCD,MICS,MICS 2019,survey,,,,2026-07-24-tchadinfos-un-enfant-un-acte-de-naissance-nniu
+TCD,RGPH-3 2026,RGPH-3 2026,census,digital collection,INSEED,,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
+TCD,MICS-6 2019,MICS-6 2019,survey,,,,2023-11-16-tchadinfos-campagne-enregistrement-universel-etat-civil-tasdjil
+TCD,EDS-MICS 2014-2015,EDS-MICS 2014-2015,survey,,,,2023-11-16-tchadinfos-campagne-enregistrement-universel-etat-civil-tasdjil
+TCD,MICS6 2019,MICS6 2019,survey,,,,2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad
+TCD,DHS-MICS 2014-2015,DHS-MICS 2014-2015,survey,,,,2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad
+TCD,MICS 2010,MICS 2010,survey,,,,2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad
+TCD,DHS 2004,DHS 2004,survey,,,,2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED with WAEMU Commission and World Bank,,2026-09-04-togofirst-inseed-household-living-conditions-survey
+TGO,EHCVM-2,EHCVM-2 2021-2022,survey,,INSEED,,2026-09-04-togofirst-inseed-household-living-conditions-survey
+TGO,EDST-IV,DHS 2026,survey,,INSEED with Ministry of Health,,2026-03-20-inseed-lancement-edst-iv
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED,,2026-02-09-togofirst-ehcvm-3e-edition
+TGO,EHCVM-2,EHCVM-2 2021-2022,survey,,INSEED,,2026-02-09-togofirst-ehcvm-3e-edition
+TGO,RGPH-5,RGPH-5 2022,census,,INSEED,,2023-09-25-inseed-resultats-definitifs-rgph5
+TGO,RGPH-5,RGPH-5,census,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EDST-4,DHS 2026,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EHCVM 2018 and 2021,"EHCVM 2018, 2021",survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,ENI-ESI,ENI-ESI,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RNA-5,RNA-5,other,,,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RGE-2,RGE-2,other,,,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RGPH-5,RGPH-5,census,,,,2026-09-07-togopresse-alphabetisation-numerique-paaff
+TGO,EHCVM 2021,EHCVM 2021,survey,,,,2026-09-07-togopresse-alphabetisation-numerique-paaff
+TGO,Annual school census (StatEduc),School census,other,StatEduc; DHIS2,Ministry of Primary and Secondary Education,,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,RNA-5 (5th National Agricultural Census),RNA-5,other,,,,2025-01-01-togo-rna5-land-security-smallholder-households
+TUN,RGPH 2024,RGPH 2024,census,,INS Tunisia,,2026-05-15-tunisie-ins-flash-projection-population-2025-2054
+TUN,RGPH 2024,RGPH 2024,census,,INS Tunisia,,2025-09-01-ins-flash-logements-rgph2024-electrification
+TUN,RGPH 2024,RGPH 2024,census,,INS Tunisia,,2025-09-01-ins-protection-sociale-rgph-2024-administrative
+TUN,RGPH 2024,RGPH 2024,census,,INS Tunisia,,2025-09-28-tunisie-ins-flash-tic-usage-internet
+TUN,INT national ICT usage barometer,INT national ICT usage barometer,other,,Instance Nationale des Telecommunications (regulator),,2026-10-01-tun-lechotunisien-int-barometre-usages-tic-85-9
+TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-28-tunisie-enquete-observatoire-int-2026-ia-achats-en-ligne
+TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-27-tunisie-enquete-int-2026-usage-internet-competences-numeriques
+TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-24-int-tunisie-synthese-enquete-internet-competences-numeriques-2026
+TUN,INT Internet use and digital skills survey 2026,INT Internet use and digital skills survey 2026,other,,Instance Nationale des Telecommunications (regulator),,2026-07-24-tunisie-int-enquete-internet-competences-numeriques-2026
+TZA,Integrated Labour Force Survey 2025,ILFS 2025,survey,NBS microdata catalogue (DDI),"National Bureau of Statistics and Office of the Chief Government Statistician, Zanzibar",,2026-07-15-integrated-labour-force-survey-2025
+TZA,Population and Housing Census 2022,PHC 2022,census,,National Bureau of Statistics,,2026-07-15-integrated-labour-force-survey-2025
+TZA,Population and Housing Census 2022,PHC 2022,census,,,,2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers
+TZA,Permanent voter register,Permanent voter register 2025,other,,Independent National Electoral Commission,,2025-08-04-inec-tanzania-responds-to-concerns-over-voter-register-numbers
+TZA,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+TZA,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+TZA,Annual Agricultural Sample Survey 2023/24,AASS 2023/24,other,,National Bureau of Statistics / Office of the Chief Government Statistician Zanzibar,,2025-10-16-annual-agricultural-sample-survey-2023-24-key-findings
+UGA,"Uganda National Household Survey (9th round, 2026/27)",UNHS 2026/27,survey,,UBOS,,2026-08-04-ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey
+UGA,Uganda National Household Survey (8th round),UNHS 8th round,survey,,UBOS,,2026-08-04-ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey
+UGA,Baseline Education Census 2025,Baseline Education Census 2025,other,statistics.ubos.org portal,UBOS with Ministry of Education and Sports,,2026-05-28-ubos-baseline-education-census-2025
+UGA,National Population and Housing Census 2024,NPHC 2024,census,tablets,UBOS,,2026-02-12-ubos-donates-census-tablets
+UGA,Uganda National Household Survey,UNHS,survey,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,Uganda Harmonized Integrated Survey,UHIS,survey,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,Uganda Demographic and Health Survey,UDHS,survey,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,Census of Business Establishments,COBE,other,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,National Livestock Census,NLC,other,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,Uganda Census of Agriculture - Crop,UCA Crop,other,,UBOS,,2026-01-01-ubos-vote143-budget-performance
+UGA,Annual School Census,Annual School Census,other,EMIS,Ministry of Education and Sports,,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,NPHC 2024,NPHC 2024,census,,Uganda Bureau of Statistics,,2026-01-01-ubos-vote-143-budget-performance
+UGA,UDHS 2022,UDHS 2022,survey,,Uganda Bureau of Statistics,,2026-01-01-ubos-vote-143-budget-performance
+UGA,Baseline Education Census 2025,BEC 2025,other,,Uganda Bureau of Statistics,,2026-01-01-ubos-vote-143-budget-performance
+UGA,Uganda Malaria Indicator Survey 2024/25,UMIS 2024/25,other,,,,2026-01-01-ubos-vote-143-budget-performance
+UGA,"National Governance, Peace and Security Survey 2024/25",NGPSS 2024/25,other,,Uganda Bureau of Statistics,,2026-01-01-ubos-vote-143-budget-performance
+UGA,Annual Schools Census,Annual School Census,other,EMIS,Ministry of Education and Sports,,2019-08-14-moes-emis-overview
+UGA,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+UGA,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+UGA,National Population and Housing Census 2024 (NPHC 2024),NPHC 2024,census,CAPI on tablets with CSPro,Uganda Bureau of Statistics,national,2025-09-30-ubos-nphc2024-final-report-vol1
+UGA,Post Enumeration Survey 2024,PES 2024,other,,Uganda Bureau of Statistics (independent expert team),,2025-09-30-ubos-nphc2024-final-report-vol1
+ZAF,Census 2022,Census 2022,census,,Statistics South Africa,,2026-10-09-zaf-presidency-keynotes-address-deputy-minister-presidency-nonceba-mhlauli-
+ZAF,Census 2031,Census 2031,census,,Statistics South Africa,,2026-10-09-zaf-presidency-keynotes-address-deputy-minister-presidency-nonceba-mhlauli-
+ZAF,General Household Survey,General Household Survey,survey,,Statistics South Africa,,2026-10-09-zaf-presidency-keynotes-address-deputy-minister-presidency-nonceba-mhlauli-
+ZAF,Income and Expenditure Survey,Income and Expenditure Survey,survey,,Statistics South Africa,,2026-10-09-zaf-presidency-keynotes-address-deputy-minister-presidency-nonceba-mhlauli-
+ZAF,Continuous Population Survey (CPS-HSPR),CPS-HSPR,survey,,Statistics South Africa,,2026-08-26-cps-hspr-frame-update
+ZAF,Census 2022,Census 2022,census,,Statistics South Africa,,2026-09-30-zaf-timeslive-lehohla-numerical-conscience
+ZAF,Quarterly Labour Force Survey,QLFS Q2 2026,survey,,Statistics South Africa,,2026-08-11-quarterly-labour-force-survey-q2-2026
+ZAF,Census 2011,Census 2011,census,,Statistics South Africa,,2026-08-11-quarterly-labour-force-survey-q2-2026
+ZAF,Census 2022,Census 2022,census,"CAPI, CAWI and CATI digital collection",Statistics South Africa,national,2023-10-10-census-2022-statistical-release
+ZMB,Census of Population and Housing,Census 2022,census,,ZamStats,,2026-09-10-mwi-efficacynews-zamstats-nso-census-knowledge-exchange
+ZMB,ZDHS 2024,DHS 2024,survey,,Zambia Statistics Agency,,2025-11-01-zambia-demographic-and-health-survey-2024
+ZMB,2022 Census of Population and Housing,Census 2022,census,,Zambia Statistics Agency,,2024-06-01-zambia-2022-census-population-summary-report-volume-two
+ZMB,2022 census tablets,Census 2022,census,tablets,Zambia Statistics Agency,,2026-09-12-zmb-diggers-zamstats-15000-tablets-ministries
+ZMB,Household Budget Survey,"Household Budget Survey (yearly, Sida-supported)",survey,,ZamStats,,2025-08-01-iati-se-0-se-6-17479-17479a0201-zamstats-ministry-of-finance-2025-2028
+ZMB,M-SAT E-census software / MoE Statistical Tables,Ministry of Education e-census 2024,other,,Ministry of Education,,2024-01-01-oag-simplified-report-2023-accounts-e-census-wasteful-expenditure
+ZMB,2022 Census of Population and Housing,Census 2022,census,,Zambia Statistics Agency,,2025-08-01-zambia-census-literacy-education
+ZWE,Household Budget Survey 2026/27,HBS 2026/27,survey,,ZIMSTAT,,2026-08-06-zimbabwe-zimstat-household-survey-preparations
+ZWE,2023 Economic Census,Economic Census 2023,other,,ZIMSTAT,,2025-07-24-zimbabwenow-76-percent-businesses-unregistered
+ZWE,ED46 annual school census,ED46 school census,other,,Ministry of Primary and Secondary Education,,2025-07-21-zimbabwe-climate-smart-school-census
+ZWE,Zimbabwe Demographic and Health Survey,DHS 2023-24,survey,,ZIMSTAT,,2025-01-22-zwe-zdhs-2023-24
+ZWE,Census 2012,Census 2012,census,,ZIMSTAT,,2020-09-04-census-and-statistics-act
+ZWE,MICS7 2025,MICS7 2025,survey,,ZIMSTAT,,2025-10-22-zimstat-outdated-laws-hinder-delivery-of-statistics
+ZWE,ICT Access by Households and Use by Individuals Survey 2025,ICT Households Survey 2025,survey,,ZIMSTAT; POTRAZ,,2026-07-20-zw-mobile-internet-survey

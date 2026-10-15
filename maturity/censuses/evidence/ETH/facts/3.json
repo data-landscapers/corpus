@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-16-ess-population-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "ESS states Ethiopia has conducted three national censuses, in 1984, 1994 and 2007; the 2007 census is the latest.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2007",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "ESS lists the country-level Statistical Report and Analytical Report on Housing Characteristics of the 2007 census as downloadable main reports; no release date is given, so the census year is used.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2007",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population and Housing Census 2007",
+   "country_label": "PHC 2007",
+   "class": "census",
+   "platform": "",
+   "owner": "Ethiopian Statistics Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

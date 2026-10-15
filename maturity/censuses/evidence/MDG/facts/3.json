@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-11-presentation-prodoc-rgph-4",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "INSTAT presented the RGPH-4 project document to partners on 12 May 2026, with enumeration planned for 2028, digital cartography and data collection, and WB STATCAP II and UNFPA support.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "RGPH-4",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The document states RGPH-3 was carried out in 2018.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "RGPH-3 2018",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4",
+   "country_label": "RGPH-4 2028",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "RGPH-3 2018",
+   "country_label": "RGPH-3 2018",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

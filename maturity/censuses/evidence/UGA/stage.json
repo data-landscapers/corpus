@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "5",
+   "census": "taken",
+   "results": "final",
+   "survey": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-001;UGA-006",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

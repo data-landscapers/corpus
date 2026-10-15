@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-01-sao-tome-ine-v-rgph-2024-resultados",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The 5th national population and housing census (RGPH) was enumerated nationwide from 15 November to 15 December 2024, counting 212,017 people (209,607 legal population); preliminary results were published on 31 December 2024 and this July 2025 report calls its own figures provisional results.", "as_of": "2024-12-15", "date_precision": "day", "system": "V Recenseamento Geral da Populacao e Habitacao 2024", "class": "census"}
+  ],
+  "systems": [
+    {"system": "V Recenseamento Geral da Populacao e Habitacao 2024", "country_label": "RGPH-5 2024", "class": "census", "platform": "", "owner": "Instituto Nacional de Estatistica", "tiers": ""}
+  ],
+  "note": "No results fact: the report describes itself as provisional results after preliminary results of 31 Dec 2024, not final."
+}

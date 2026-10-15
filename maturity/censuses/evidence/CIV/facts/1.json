@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-11-cote-divoire-mics-2026-phase-nationale-collecte-anstat-unicef",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MICS 2026",
+   "country_label": "MICS 2026",
+   "class": "survey",
+   "platform": "",
+   "owner": "ANStat with UNICEF",
+   "tiers": ""
+  }
+ ],
+ "note": "MICS 2026 fieldwork launching 14 May 2026, no results published; no census fact."
+}

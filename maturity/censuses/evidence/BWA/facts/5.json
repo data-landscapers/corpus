@@ -1,0 +1,62 @@
+{
+ "slug": "2019-08-01-bwa-botswana-his-indicators",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The profile lists a population census within the last 10 years as yes, dated 2011.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "Census 2011",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The profile lists MICS2 (2000) as an available national health survey.",
+   "as_of": "2000",
+   "date_precision": "year",
+   "system": "MICS2 2000",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The profile lists a DHS (1988) as an available national health survey.",
+   "as_of": "1988",
+   "date_precision": "year",
+   "system": "DHS 1988",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Census 2011",
+   "country_label": "Census 2011",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MICS2 2000",
+   "country_label": "MICS2 2000",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHS 1988",
+   "country_label": "DHS 1988",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

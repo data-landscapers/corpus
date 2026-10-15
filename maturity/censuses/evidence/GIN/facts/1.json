@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-19-gin-africaguinee-decret-recensement-general-entreprises-rge1",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGE-1 2026",
+   "country_label": "RGE-1 2026",
+   "class": "other",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  }
+ ],
+ "note": "Business census (RGE1), class other; no population census or household survey fact."
+}

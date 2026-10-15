@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-14-namibia-national-disability-policy-gazette",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The policy cites data from the 2023 National Population and Housing Census, which found 4.4 percent of the population (about 108,992 people) living with a functional disability; the document gives no enumeration date, so the year 2023 is used.", "as_of": "2023", "date_precision": "year", "system": "2023 National Population and Housing Census", "class": "census"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The policy cites a 2011 Disability Report based on the 2011 National Population and Housing Census, published in 2016, with earlier counts for 1991 and 2001; the document gives no enumeration date, so the year 2011 is used.", "as_of": "2011", "date_precision": "year", "system": "2011 National Population and Housing Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2023 National Population and Housing Census", "country_label": "PHC 2023", "class": "census", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""},
+    {"system": "2011 National Population and Housing Census", "country_label": "PHC 2011", "class": "census", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

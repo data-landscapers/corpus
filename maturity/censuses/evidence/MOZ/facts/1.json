@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-22-diarioeconomico-ine-mozambique-censo-2027-sistema-digital",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "INE president said the pilot census in Magude, run from 1 Aug 2026 at a cost of EUR 372,900, closed on 21 Aug 2026 and the digital system will be improved before the first digital census planned for 2027.",
+   "as_of": "2026-08-21",
+   "date_precision": "day",
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "country_label": "RGPH-5 2027 (pilot 2026)",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

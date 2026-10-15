@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-11-nation-sc-census-economic-activities-pilot",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Census of Economic Activities",
+   "country_label": "CEA 2026-27",
+   "class": "other",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "Economic census pilot only; not a population census."
+}

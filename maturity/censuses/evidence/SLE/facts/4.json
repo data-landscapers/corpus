@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-18-sle-sierraloaded-stats-sl-census-mapping-completion",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "A joint technical meeting on 15 September 2026 reviewed the National Mapping Completion Report for the December 2026 census, and an August 2026 mock census.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "CAPI on tablets",
+   "owner": "Statistics Sierra Leone",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

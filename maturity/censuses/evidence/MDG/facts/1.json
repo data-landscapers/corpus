@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-09-madagascar-instat-microdata-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH 3",
+   "country_label": "RGPH-3",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  },
+  {
+   "system": "ERISC Ménages",
+   "country_label": "ERISC Ménages 2020-2022",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "Login page lists holdings (RGPH 3, ERISC household surveys 2020-2022) with no dated event or results release."
+}

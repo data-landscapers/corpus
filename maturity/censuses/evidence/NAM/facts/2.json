@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-30-nsa-2023-census-media-release-rural-electrification",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The NSA says the 2023 PHC counted all persons present on census night 24 September 2023; enumeration ran 25 September to 6 October 2023 with mop-up to 30 October 2023 (population 3,022,401).",
+   "as_of": "2023-10-30",
+   "date_precision": "day",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The NSA released the 2023 PHC Main Report on 30 October 2024, which it says contains final results; preliminary results had been launched in March 2024.",
+   "as_of": "2024-10-30",
+   "date_precision": "day",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2023 Population and Housing Census",
+   "country_label": "PHC 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

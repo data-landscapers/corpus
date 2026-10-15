@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31-instad-bj-enbt1-2023-tableaux",
+  "facts": [],
+  "systems": [
+    {"system": "ENBT1-2023", "country_label": "ENBT 2023", "class": "", "platform": "", "owner": "INStaD", "tiers": ""}
+  ],
+  "note": "Page body gives only a title and a concepts-table lead-in for a time-use survey; it does not state a household sample or results, so no survey fact."
+}

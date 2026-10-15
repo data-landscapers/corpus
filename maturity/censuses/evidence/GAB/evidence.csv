@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,census,census,taken,"The national population and housing census (RGPL) has been enumerated, with the Estuaire governor reporting coverage above 95% in her province; the document gives no enumeration date, so the document's published date is used.",2026-08-21,day,RGPL 2026,census,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres,https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/

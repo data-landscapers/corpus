@@ -1,0 +1,7 @@
+{"slug":"2026-09-07-togopresse-alphabetisation-numerique-paaff","facts":[
+{"sub_indicator":"census","aspect":"census","value":"taken","fact":"The document cites results of the 5th general population and housing census (RGPH-5) as showing 141,757 children aged 9-14 out of formal school; it gives no enumeration date, so the document's publication date is used.","as_of":"2026-09-07","date_precision":"day","system":"RGPH-5","class":"census"},
+{"sub_indicator":"census","aspect":"survey","value":"published","fact":"The document cites the harmonised survey on household living conditions (EHCVM) 2021 as giving a 70.8% literacy rate for people aged 15 and over; no release date is given, so the document's publication date is used.","as_of":"2026-09-07","date_precision":"day","system":"EHCVM 2021","class":"survey"}],
+"systems":[
+{"system":"RGPH-5","country_label":"RGPH-5","class":"census","platform":"","owner":"","tiers":""},
+{"system":"EHCVM 2021","country_label":"EHCVM 2021","class":"survey","platform":"","owner":"","tiers":""}],
+"note":""}

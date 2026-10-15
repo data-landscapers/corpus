@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-07-population-legale-rgph-2024",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The 2024 national census (RGPH 2024) was taken, giving a legal population of 36,828,330 at 1 September 2024.",
+   "as_of": "2024-09-01",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The government adopted decree 2.24.1009 fixing the legal population by region, province and commune from the RGPH 2024 results; date is the document's published date.",
+   "as_of": "2024-11-07",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "HCP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

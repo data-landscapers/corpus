@@ -1,0 +1,11 @@
+{
+  "slug": "2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final",
+  "facts": [],
+  "systems": [
+    {"system": "RGPH 2019", "country_label": "RGPH 2019", "class": "census", "platform": "", "owner": "INE", "tiers": ""},
+    {"system": "IHCVF 2018", "country_label": "IHCVF 2018", "class": "survey", "platform": "", "owner": "INE", "tiers": ""},
+    {"system": "MICS-6 2018", "country_label": "MICS-6 2018", "class": "survey", "platform": "", "owner": "INE", "tiers": ""},
+    {"system": "RGAP 2019", "country_label": "RGAP 2019", "class": "other", "platform": "", "owner": "INE", "tiers": ""}
+  ],
+  "note": "The strategy lists the 2019 census and 2018 surveys only as planned operations awaiting donor funding; no enumeration, preparation step or published results is stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-10-10-census-2022-statistical-release",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "Statistics South Africa states Census 2022 was enumerated with reference night 2 February 2022 and provinces completing enumeration at different times between February and May 2022, counting 62,027,503 people.", "as_of": "2022-05", "date_precision": "month", "system": "Census 2022", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Census 2022", "country_label": "Census 2022", "class": "census", "platform": "CAPI, CAWI and CATI digital collection", "owner": "Statistics South Africa", "tiers": "national"}
+  ],
+  "note": "The release reports Census 2022 results (published 2023-10-10) but does not call them final or definitive, so no results fact is recorded."
+}

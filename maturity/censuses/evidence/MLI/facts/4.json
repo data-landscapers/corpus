@@ -1,0 +1,26 @@
+{
+ "slug": "2018-12-04-iati-se-0-se-6-11793-11793a0101-mali-rgph5-population-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Sida activity record says the fifth census (RGPH5), planned for 2016-2021, was delayed and concluded in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "RGPH-5 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2022",
+   "country_label": "RGPH-5 2022",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

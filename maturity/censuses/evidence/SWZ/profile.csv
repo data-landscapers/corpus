@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,census,census,coverage,taken,2017,SWZ-001;SWZ-003,SWZ-002=preparing,
+SWZ,census,results,coverage,,,,,nothing held
+SWZ,census,survey,coverage,published,2014,SWZ-004;SWZ-005,,nothing dated since 2023-09-28

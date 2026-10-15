@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-07-com-inseed-enquete-agricole-annuelle",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGA-2 2025",
+   "country_label": "RGA-2 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  },
+  {
+   "system": "Enquete Agricole Annuelle 2026",
+   "country_label": "Enquete Agricole Annuelle 2026",
+   "class": "other",
+   "platform": "",
+   "owner": "INSEED",
+   "tiers": ""
+  }
+ ],
+ "note": "Agricultural census and agricultural survey only; class other."
+}

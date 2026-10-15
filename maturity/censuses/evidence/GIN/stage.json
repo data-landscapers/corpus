@@ -1,0 +1,17 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "3",
+   "census": "taken",
+   "results": "",
+   "survey": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-002;GIN-003",
+   "gaps": "No source held reports final results of the census published.",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

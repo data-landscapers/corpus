@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "3",
+   "census": "taken",
+   "results": "",
+   "survey": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-001",
+   "gaps": "No source held reports final results of the census published.",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

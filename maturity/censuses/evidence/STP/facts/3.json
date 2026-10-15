@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-20-worldbank-sao-tome-institutional-capacity-isr-sirp-registo-propriedade",
+  "facts": [],
+  "systems": [
+    {"system": "Enterprise Census", "country_label": "Enterprise census 2023", "class": "other", "platform": "", "owner": "INE", "tiers": ""}
+  ],
+  "note": "Mentions a 2024 census only as an expected input to a capacity score, with no enumeration or preparation step stated; the published census is the enterprise census."
+}

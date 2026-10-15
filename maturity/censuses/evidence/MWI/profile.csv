@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,census,census,coverage,taken,2018,MWI-002,MWI-003=preparing;MWI-001=preparing,
+MWI,census,results,coverage,,,,,nothing held
+MWI,census,survey,coverage,,,,,nothing held

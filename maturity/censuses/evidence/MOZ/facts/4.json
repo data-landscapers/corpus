@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-29-jornal-noticias-formacao-censo-piloto-magude",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Training of 260 candidates (216 to be selected: 178 enumerators, 38 controllers) was launched on 27 Jul 2026 in Magude for the census pilot of 1-15 Aug, ahead of the fifth census scheduled for 2027.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "country_label": "RGPH-5 2027 (pilot 2026)",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

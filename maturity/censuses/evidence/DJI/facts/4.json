@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-08-jointdatacenter-displaced-populations-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Joint Data Center refers to the 2024 census (RGPH3) as the basis for the EDAM5 survey sample.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH-3 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-3 2024",
+   "country_label": "RGPH-3 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "INSTAD",
+   "tiers": ""
+  },
+  {
+   "system": "EDAM5",
+   "country_label": "EDAM5",
+   "class": "survey",
+   "platform": "",
+   "owner": "INSTAD",
+   "tiers": ""
+  }
+ ],
+ "note": "EDAM5 collected in person but no published results are stated."
+}

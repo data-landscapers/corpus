@@ -1,0 +1,17 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "2",
+   "census": "preparing",
+   "results": "",
+   "survey": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-001;NER-002",
+   "gaps": "No source held reports a census counted since October 2016.",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

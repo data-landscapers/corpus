@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-02-governo-testa-piloto-digital-do-censo-populacional-investimento-de-430-mil-dolares",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "A pilot census was launched on 1 Aug 2026 in Magude district (177 enumeration areas, 177 enumerators, 38 controllers, about USD 430,000) ahead of the fifth general census of 2027; World Bank initial financing of USD 12.7m and a USD 68m gap of USD 110m were reported.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "INE's estimate cites the last census in 2017 as having recorded just over 26 million inhabitants; no enumeration date is given.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Census 2017",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "country_label": "RGPH-5 2027 (pilot 2026)",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  },
+  {
+   "system": "Census 2017",
+   "country_label": "Census 2017",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

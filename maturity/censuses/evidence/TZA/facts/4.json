@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LSMS-ISA",
+   "country_label": "LSMS-ISA",
+   "class": "survey",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  },
+  {
+   "system": "Agricultural surveys (50x2030)",
+   "country_label": "Agricultural surveys",
+   "class": "other",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "LSMS-ISA named as supported, no results release date stated; agricultural surveys are class other; no fact."
+}

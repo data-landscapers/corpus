@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-13-statistics-south-africa-handed-over-gadgets",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Statistics South Africa handed 2,750 tablets and 1,045 power banks to the Bureau of Statistics for the 2026 census, which was set for 12 April, and the Bureau was running supervisor training.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "2026 Housing and Population Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Housing and Population Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Lesotho Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

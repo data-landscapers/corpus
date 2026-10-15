@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-ang-rgph4-resultados-preliminares-ine",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "INE released preliminary results of RGPH4 on 23 July 2026 after data collection closed: 2,191,300 residents (raw base 2,246,300), 304,939 households, 559,303 dwellings and 376,258 buildings; the enumeration date is not given.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "RGPH-4 2026",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4 2026",
+   "country_label": "RGPH-4 2026",
+   "class": "census",
+   "platform": "CAPI tablets",
+   "owner": "INE Guinea-Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": "Results are stated as preliminary, so no results=final fact."
+}

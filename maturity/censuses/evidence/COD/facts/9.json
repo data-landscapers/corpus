@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-17-worldbank-decide-project-pid",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH-2",
+   "country_label": "RGPH-2 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Institut national de la statistique, Bureau central de recensement; Ministry of Plan",
+   "tiers": ""
+  }
+ ],
+ "note": "States no census since 1984 and the Government's renewed commitment to a second census, with no concrete preparation step; a 2024 household survey is described as completed, not as published."
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-28-bdi-gnq-cooperation-sud-sud-recensement-numerique",
+ "countries": {
+  "BDI": {
+   "facts": [
+    {
+     "sub_indicator": "census",
+     "aspect": "census",
+     "value": "taken",
+     "fact": "Burundi carried out its combined population, housing, agriculture and livestock census (RGPHAE) in 2024, run entirely in digital mode.",
+     "as_of": "2024",
+     "date_precision": "year",
+     "system": "RGPHAE 2024",
+     "class": "census"
+    }
+   ],
+   "systems": [
+    {
+     "system": "RGPHAE 2024",
+     "country_label": "RGPHAE 2024",
+     "class": "census",
+     "platform": "digital enumeration",
+     "owner": "INSBU",
+     "tiers": ""
+    }
+   ],
+   "note": "Definitive results only before the Council of Ministers as a draft decree on 2026-08-28; not stated as published, so no results fact."
+  },
+  "GNQ": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "5th RGPH",
+     "country_label": "RGPH-5",
+     "class": "census",
+     "platform": "",
+     "owner": "INEGE",
+     "tiers": ""
+    }
+   ],
+   "note": "Says Equatorial Guinea is preparing its 5th census; only a study visit to Burundi, no dated concrete step, so no fact."
+  }
+ }
+}

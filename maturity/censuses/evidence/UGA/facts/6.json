@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-ubos-vote-143-budget-performance",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "UBOS reports finalising and disseminating a thematic report (Disability monograph) from the National Population and Housing Census (NPHC) 2024, showing the census was enumerated in 2024; the document gives no enumeration date.", "as_of": "2024", "date_precision": "year", "system": "NPHC 2024", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "UBOS reports producing and disseminating UDHS 2022 thematic reports (water quality, refugee health status, family planning, gender-based violence) in FY2025/26; no release date is given, so the document's published date (2026) is used.", "as_of": "2026", "date_precision": "year", "system": "UDHS 2022", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "NPHC 2024", "country_label": "NPHC 2024", "class": "census", "platform": "", "owner": "Uganda Bureau of Statistics", "tiers": ""},
+    {"system": "UDHS 2022", "country_label": "UDHS 2022", "class": "survey", "platform": "", "owner": "Uganda Bureau of Statistics", "tiers": ""},
+    {"system": "Baseline Education Census 2025", "country_label": "BEC 2025", "class": "other", "platform": "", "owner": "Uganda Bureau of Statistics", "tiers": ""},
+    {"system": "Uganda Malaria Indicator Survey 2024/25", "country_label": "UMIS 2024/25", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Governance, Peace and Security Survey 2024/25", "country_label": "NGPSS 2024/25", "class": "other", "platform": "", "owner": "Uganda Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

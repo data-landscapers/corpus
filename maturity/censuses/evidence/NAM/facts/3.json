@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-education-management-information-system-emis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS Annual Education Census",
+   "country_label": "EMIS 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Education, Arts and Culture",
+   "tiers": ""
+  }
+ ],
+ "note": "Annual education census of schools only; not a population census or household survey."
+}

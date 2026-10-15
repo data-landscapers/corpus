@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles",
+  "facts": [],
+  "systems": [
+    {"system": "Recensement general des Gabonais economiquement faibles (GEF), second round 2026", "country_label": "GEF census 2026", "class": "other", "platform": "", "owner": "Vice-presidence du gouvernement", "tiers": "national"},
+    {"system": "RGPH", "country_label": "RGPH", "class": "census", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The GEF census is a social-register enumeration of vulnerable citizens, not a population census; RGPH is only mentioned as a data source, with no date or status."
+}

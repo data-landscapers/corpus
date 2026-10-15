@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-20-ine-resultados-definitivos-do-rgph-2024",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "INE states it carried out the RGPH nationwide in 2024, reference date 19 September 2024, with collection extended to 20 December 2024.",
+   "as_of": "2024-12-20",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "INE published the definitive RGPH 2024 results report in November 2025.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "INE Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,Recensement National de l'Agriculture (RNA),RNA Benin,other,,FAO/Benin,,2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census
+BEN,EHCVM,EHCVM 2021-2022,survey,,INStaD,national,2026-01-22-instad-bj-ehcvm2-indicateurs
+BEN,RGPH4,RGPH4 2013,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
+BEN,RGPH3,RGPH3 2002,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
+BEN,ENBT1-2023,ENBT 2023,,,INStaD,,2026-03-31-instad-bj-enbt1-2023-tableaux

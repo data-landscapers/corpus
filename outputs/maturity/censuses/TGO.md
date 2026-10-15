@@ -1,0 +1,13 @@
+# Togo
+
+## Censuses and surveys
+
+**A census taken or in preparation.** [The document cites results of the 5th general population and housing census (RGPH-5) as showing 141,757 children aged 9-14 out of formal school](<https://togopresse.tg/60e-journee-de-lalphabetisation-le-togo-mise-sur-linitiative-paaff-et-le-numerique-pour-faire-reculer-lillettrisme/>). [The document gives the RGPH-5 census as November 2022 and reports a resident population of 8,095,498 counted](<https://inseed.tg/resultats-definitifs-du-rgph-5-novembre-2022/>). Three facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+
+**Final results published.** [INSEED published the definitive results of RGPH-5 (November 2022) by region, prefecture, sex and urban/rural, totalling 8,095,498 residents](<https://inseed.tg/resultats-definitifs-du-rgph-5-novembre-2022/>).
+
+**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [INSEED published the definitive results of RGPH-5 (November 2022) by region, prefecture, sex and urban/rural, totalling 8,095,498 residents](<https://inseed.tg/resultats-definitifs-du-rgph-5-novembre-2022/>). Named in what was read, with no results dated: [EHCVM-3](<https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december>); [EHCVM-2](<https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december>); [EDST-IV](<https://inseed.tg/lancement-officiel-de-la-quatrieme-enquete-demographique-et-de-sante-au-togo-edst-iv/>); [EHCVM-3](<https://www.togofirst.com/fr/gouvernance-economique/0902-18182-le-togo-prepare-la-3e-edition-de-l-enquete-harmonisee-sur-les-conditions-de-vie-des-menages>).
+
+***Noted, not assessed***. [RNA-5](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [RGE-2](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [Annual school census (StatEduc)](<https://www.gpekix.org/blog/togo-empowering-schools-and-districts-data>); [RNA-5 (5th National Agricultural Census)](<https://thefarmersjournal.com/togos-farming-crisis-78-of-smallholders-live-without-land-security/>).
+
+***Not held***. No source held reports results of a national household survey published since October 2023.

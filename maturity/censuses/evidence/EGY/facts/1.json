@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-youm7-pm-census-2027-implementation",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Prime Minister reviewed preparations for the 2027 census; CAPMAS reported steps taken with the planning ministry to secure funding and technical support and with the ICT ministry to approve technical specifications, and the PM ordered the High Committee decree and secretariat completed before a presidential decree to run the census.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "General Census of Population, Housing and Establishments 2027",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "General Census of Population, Housing and Establishments 2027",
+   "country_label": "Census 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "CAPMAS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

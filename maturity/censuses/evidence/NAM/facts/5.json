@@ -1,0 +1,82 @@
+{
+ "slug": "2026-08-09-namibia-statistics-agency-data-portals-microdata-catalogue",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The NSA microdata catalogue lists the Namibia Population and Housing Census PUMS 2023 (microdata last modified 21 July 2026) and the portal shows 2023 census headline figures (population 3,022,401).",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "2023 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2023 Population and Housing Census",
+   "country_label": "PHC 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Population and Housing Census 2011",
+   "country_label": "PHC 2011",
+   "class": "census",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Demographic and Health Survey 2000",
+   "country_label": "DHS 2000",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ministry of Health and Social Services",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Household Income and Expenditure Survey 2015/16",
+   "country_label": "NHIES 2015/16",
+   "class": "survey",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Labour Force Survey 2016",
+   "country_label": "LFS 2016",
+   "class": "survey",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Intercensal Demographic Survey 2016",
+   "country_label": "NIDS 2016",
+   "class": "survey",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Financial Inclusion Survey 2017",
+   "country_label": "NFIS 2017",
+   "class": "other",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  },
+  {
+   "system": "Namibia Census of Agriculture 2013/2014",
+   "country_label": "Census of Agriculture 2013/14",
+   "class": "other",
+   "platform": "",
+   "owner": "Namibia Statistics Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

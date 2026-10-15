@@ -1,0 +1,7 @@
+{"slug":"2025-11-07-eswatini-ministry-unfpa-launch-census","facts":[
+{"sub_indicator":"census","aspect":"census","value":"taken","fact":"The minister said the last population and housing census was conducted in 2017 and was the country's first digital census.","as_of":"2017","date_precision":"year","system":"Population and Housing Census 2017","class":"census"},
+{"sub_indicator":"census","aspect":"census","value":"preparing","fact":"The Ministry of Economic Planning and Development with UNFPA launched the 2027 Population and Housing Census, with the Central Statistical Office conducting the first phase, the mapping and listing exercise (launch said to be 'yesterday' relative to the 7 Nov 2025 article).","as_of":"2025-11-06","date_precision":"day","system":"Population and Housing Census 2027","class":"census"}],
+"systems":[{"system":"Population and Housing Census 2017","country_label":"PHC 2017","class":"census","platform":"digital census","owner":"Central Statistical Office","tiers":""},
+{"system":"Population and Housing Census 2027","country_label":"PHC 2027","class":"census","platform":"","owner":"Central Statistical Office / Ministry of Economic Planning and Development","tiers":""},
+{"system":"Economic Census 2025/2026","country_label":"Economic Census 2025/26","class":"other","platform":"","owner":"Central Statistical Office","tiers":""}],
+"note":""}

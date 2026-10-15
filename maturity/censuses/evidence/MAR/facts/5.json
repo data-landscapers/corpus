@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-hcp-residents-etrangers-au-maroc",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The RGPH 2024 census counted 36.8 million inhabitants in 2024, including 148,152 foreign residents, with a new immigration module.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "HCP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

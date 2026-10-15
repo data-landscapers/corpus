@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-09-sierraleonews-sle-statssl-25000-tablets-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Stats SL took delivery of 25,000 government-funded tablets for electronic data collection in the 2026 census, handed over 7 October 2026, with Census Night set for 1 December 2026.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Stats SL received 4,000 tablets in 2025 for the national cartographic mapping exercise for the census.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Statistics Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

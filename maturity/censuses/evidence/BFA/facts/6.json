@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-01-insd-recensement-general-des-entreprises-rge-2024-resultats-definitifs",
+  "facts": [],
+  "systems": [
+    {"system": "Recensement general des entreprises (RGE) 2024", "country_label": "RGE 2024", "class": "other", "platform": "", "owner": "INSD", "tiers": ""},
+    {"system": "RGPH 2019", "country_label": "RGPH 2019", "class": "census", "platform": "", "owner": "INSD", "tiers": ""}
+  ],
+  "note": "Document is a business census (other); RGPH 2019 is named only as the source of enumeration zones, with no enumeration or results statement."
+}

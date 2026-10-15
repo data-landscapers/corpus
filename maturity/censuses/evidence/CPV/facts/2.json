@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-25-anacao-banco-mundial-ine-pobreza-estatisticas",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published",
+     "fact": "The author states INE published partial poverty data in October 2024 (extreme poverty 2.28% in 2023 against 4.56% in 2015), while the definitive results of the IV IDRF, begun in December 2022, remain unpublished after more than three years; the criticism is of partial, inconsistent releases.",
+     "as_of": "2024-10", "date_precision": "month", "system": "IV IDRF 2022-2023", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "IV IDRF 2022-2023", "country_label": "IDRF 2022-2023", "class": "survey", "platform": "", "owner": "INE Cabo Verde", "tiers": ""},
+    {"system": "III IDRF 2015", "country_label": "IDRF 2015", "class": "survey", "platform": "", "owner": "INE Cabo Verde", "tiers": ""}
+  ],
+  "note": ""
+}

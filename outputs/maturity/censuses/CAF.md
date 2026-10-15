@@ -1,0 +1,13 @@
+# Central African Republic
+
+## Censuses and surveys
+
+**A census taken or in preparation.** [ICASEES held the restitution of the third phase of data cleaning of the RGPH-4, the country's first digital census, whose results are not yet final](<https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement>). [ICASEES states that after enumeration the fourth general population and housing census (RGPH-4) entered its processing phase, with data cleaning run May-September 2026 before tabulation and publication of results](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>). Two facts are held on the country's census and surveys, all given here: no news story or official notice read for this study says more, and the census and survey reports themselves were not read.
+
+**Final results published.** No source held reports final results of a census counted since October 2016. The nearest held fact: [ICASEES held the restitution of the third phase of data cleaning of the RGPH-4, the country's first digital census, whose results are not yet final](<https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement>).
+
+**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [the one given above](<https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement>). Named in what was read, with no results dated: [EHCVM2](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>); [EHCVM 2026](<https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques>); [MICS 2025](<https://www.jointdatacenter.org/activites/displaced-and-stateless-populations-in-car/>); [EHCVM 2021](<https://www.jointdatacenter.org/activites/displaced-and-stateless-populations-in-car/>).
+
+***Noted, not assessed***. [ECTI (informal cross-border trade survey)](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>).
+
+***Not held***. No source held reports final results of the census published.

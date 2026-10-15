@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-14-moes-emis-overview",
+  "facts": [],
+  "systems": [
+    {"system": "Annual Schools Census", "country_label": "Annual School Census", "class": "other", "platform": "EMIS", "owner": "Ministry of Education and Sports", "tiers": ""}
+  ],
+  "note": "Describes the education ministry's Annual Schools Census only; no population census or household survey."
+}

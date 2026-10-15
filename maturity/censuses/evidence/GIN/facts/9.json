@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-30-rgph-4-lancement-enquete-post-censitaire",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "On 30 October 2025 the Minister launched the post-enumeration survey of RGPH-4, which assesses the coverage of the census's main enumeration already carried out; the enumeration date is not given, so the document date is used.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "RGPH-4",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4",
+   "country_label": "RGPH-4",
+   "class": "census",
+   "platform": "",
+   "owner": "INS Guinea",
+   "tiers": ""
+  },
+  {
+   "system": "RGPH-4 post-enumeration survey",
+   "country_label": "RGPH-4 post-enumeration survey 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "INS Guinea",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

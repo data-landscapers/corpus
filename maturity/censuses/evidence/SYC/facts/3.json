@@ -1,0 +1,44 @@
+{
+ "slug": "2024-03-01-nbs-seychelles-population-housing-census-2022-main-report",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The report states the 2022 Population and Housing Census, Seychelles' sixth since independence and first digital census, was carried out in 2022 under the Census Act; no enumeration date is given in the captured text.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2022",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The NBS published Volume 2, the main census report with results at national, regional and district level, in March 2024, and refers to its compilation as the final report.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Population and Housing Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population and Housing Census 2022",
+   "country_label": "PHC 2022",
+   "class": "census",
+   "platform": "digital",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Quarterly Labour Force Survey",
+   "country_label": "QLFS",
+   "class": "survey",
+   "platform": "",
+   "owner": "National Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

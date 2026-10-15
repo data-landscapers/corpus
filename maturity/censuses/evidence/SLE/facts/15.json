@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Agricultural surveys (50x2030)",
+   "country_label": "Agricultural surveys",
+   "class": "other",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": "Agricultural surveys only (class other); no fact."
+}

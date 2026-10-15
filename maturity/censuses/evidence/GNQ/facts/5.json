@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-25-gnq-ahoraeg-inege-anuario-estadistico",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CGPV-V",
+   "country_label": "V Censo General de Población y Vivienda 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "CGA-I",
+   "country_label": "I Censo General Agropecuario",
+   "class": "other",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": "Fifth census only announced as planned with no dates or steps; no fact."
+}

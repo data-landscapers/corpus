@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-sle-sierraloaded-stats-sl-census-digital-systems-deployed",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Stats SL announced on 7 October 2026 deployment of 500 tablets and mapping software, completion of the cartographic mapping begun in October 2025, and enumeration set for 2-16 December 2026; government has invested over US$20 million.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "CAPI on tablets",
+   "owner": "Statistics Sierra Leone",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-11-gin-nimba224-rgph4-donnees-recensement-handicap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RGPH-4 2025",
+   "country_label": "RGPH-4 2025",
+   "class": "census",
+   "platform": "",
+   "owner": "INS",
+   "tiers": ""
+  }
+ ],
+ "note": "RGPH-4 data use discussed; no enumeration date or release stated in this document."
+}

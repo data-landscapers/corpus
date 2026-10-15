@@ -1,0 +1,10 @@
+{
+  "slug": "2020-09-04-census-and-statistics-act",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The Census and Statistics Act refers to the census of 2012 as already held, setting the next census to be completed by 1 July 2021 (enumeration date not given).", "as_of": "2012", "date_precision": "year", "system": "Census 2012", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Census 2012", "country_label": "Census 2012", "class": "census", "platform": "", "owner": "ZIMSTAT", "tiers": ""}
+  ],
+  "note": ""
+}

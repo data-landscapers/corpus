@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-24-angop-luanda-censo-relatorio-provincial",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Angop reports INE counted 8,665,510 people in Luanda province in the RGPH 2024; the document gives no enumeration date beyond 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "INE presented the definitive RGPH 2024 results for Luanda province on 24 February 2026, closing the national exercise.",
+   "as_of": "2026-02-24",
+   "date_precision": "day",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "INE Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

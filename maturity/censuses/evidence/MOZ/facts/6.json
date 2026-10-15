@@ -1,0 +1,10 @@
+{
+  "slug": "2015-12-01-sida-moz-ine-census-2015-ine-census-2015-2017",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "Sida committed SEK 25,000,000 (US$2.96m) on 2015-12-01 to co-finance Mozambique's 2017 population census, with the government allocating 367.5 million meticais for 2015 and enumeration set for 2017.", "as_of": "2015-12-01", "date_precision": "day", "system": "2017 Population Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "2017 Population Census", "country_label": "Census 2017", "class": "census", "platform": "", "owner": "INE", "tiers": ""}
+  ],
+  "note": ""
+}

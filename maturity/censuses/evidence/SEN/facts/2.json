@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-senegal-civil-registration-digitalization-anec",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The ANEC director general cites RGPH-5 data showing 5.3% of the population and 8.9% of under-5s have no birth certificate, so the fifth census has been taken; the document gives no enumeration date and the year 2023 is inferred from his comparison with 2023 survey data.", "as_of": "2023", "date_precision": "year", "system": "RGPH-5", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The document cites EDS Continue 2023 as establishing that 81.4% of under-5s are registered; it gives no release date, so the document's published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "EDS Continue 2023", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "RGPH-5", "country_label": "RGPH-5", "class": "census", "platform": "", "owner": "ANSD", "tiers": ""},
+    {"system": "EDS Continue 2023", "country_label": "DHS 2023", "class": "survey", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

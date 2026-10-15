@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-01-tun-lechotunisien-int-barometre-usages-tic-85-9",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INT national ICT usage barometer",
+   "country_label": "INT national ICT usage barometer",
+   "class": "other",
+   "platform": "",
+   "owner": "Instance Nationale des Telecommunications (regulator)",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a telecom-regulator ICT survey is described; no census or national statistics office household survey is stated."
+}

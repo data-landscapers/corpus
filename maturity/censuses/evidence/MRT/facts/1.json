@@ -1,0 +1,4 @@
+{"slug":"2026-08-03-mauritania-census-digitization","facts":[
+{"sub_indicator":"census","aspect":"census","value":"taken","fact":"The ANSADE regional head in Adrar says the fifth general population and housing census was carried out, for the first time entirely electronically from mapping and collection to processing and analysis; no enumeration date is given, so the document's published date is used.","as_of":"2026-08-03","date_precision":"day","system":"RGPH-5","class":"census"},
+{"sub_indicator":"census","aspect":"results","value":"final","fact":"ANSADE held a workshop in Atar on 3 August 2026 presenting the final results of the fifth general population and housing census for Adrar wilaya.","as_of":"2026-08-03","date_precision":"day","system":"RGPH-5","class":"census"}],
+"systems":[{"system":"RGPH-5","country_label":"RGPH-5","class":"census","platform":"fully digital mapping, collection, processing and analysis","owner":"ANSADE","tiers":"national"}],"note":""}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-edhs-2024-25-key-indicators-report",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Ethiopian Statistical Service and ICF released the Key Indicators Report of the 2024-25 EDHS (22,540 households, fieldwork August 2024 to April 2025), dated January 2026 on its cover.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "EDHS 2024-25",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EDHS 2024-25",
+   "country_label": "DHS 2024-25",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ethiopian Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

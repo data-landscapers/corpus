@@ -1,0 +1,4 @@
+{"slug":"2026-02-18-nouadhibou-atelier-regional-resultats-definitifs-rgph-2023","facts":[
+{"sub_indicator":"census","aspect":"census","value":"taken","fact":"The document describes the fifth general population and housing census (RGPH) of 2023 as carried out under government supervision; no enumeration date beyond the year is given.","as_of":"2023","date_precision":"year","system":"RGPH 2023","class":"census"},
+{"sub_indicator":"census","aspect":"results","value":"final","fact":"A regional workshop opened in Nouadhibou on 18 February 2026 to disseminate the definitive results of the fifth RGPH 2023, attended by ANSADE's deputy director general.","as_of":"2026-02-18","date_precision":"day","system":"RGPH 2023","class":"census"}],
+"systems":[{"system":"RGPH 2023","country_label":"RGPH 2023","class":"census","platform":"","owner":"ANSADE","tiers":"national"}],"note":""}

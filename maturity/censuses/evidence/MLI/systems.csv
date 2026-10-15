@@ -1,0 +1,37 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
+MLI,MICS-ELIM 2010,MICS-ELIM 2009-2010,survey,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-02-18-instat-mali-session-ordinaire-conseil-national-statistique
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2024-04-01-iati-se-0-se-6-11793-11793a0201-mali-rgph5-census-special-review
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2018-12-04-iati-se-0-se-6-11793-11793a0101-mali-rgph5-population-census
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2018-12-04-iati-se-0-se-6-11793-11793a0103-mali-rgph5-census-agreement-amendment
+MLI,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MLI,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT,,2026-06-25-instat-mali-rapport-annuel-emop-2025
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EHCVM III,EHCVM III 2026,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EHCVM 2022,EHCVM 2022,survey,,INSTAT,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,EDSM,EDSM,survey,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGPH,RGPH,census,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGA,RGA,other,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,School and education establishment census 2026,Recensement des ecoles 2026,other,,CPS/SE,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese
+MLI,EMOP 2025,EMOP 2025,survey,,INSTAT with Statistics Sweden,,2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese
+MLI,RGPH5,RGPH-5,census,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,EMOP 2025,EMOP 2025,survey,tablet collection,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,EDS VII,DHS 2023-24 (EDS VII),survey,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"EHCVM III, Vague I",EHCVM III 2025,survey,,INSTAT,"fieldwork October-December 2025, all regions; no results",2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Recensement General Agricole (RGA),RGA,other,,CPS/SDR,agricultural census; provisional results to be validated 29 December 2025,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,ENSAN 2025,ENSAN 2025,other,,AVASAN,"national food security and nutrition survey, enumerator training September 2025",2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"RGPH (latest census, sampling frame)",RGPH,census,,INSTAT,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EMOP,EMOP,survey,,INSTAT,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EHCVM,EHCVM,survey,,INSTAT / UEMOA,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,MICS,MICS,survey,,INSTAT with partners,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,EDSM,EDSM,survey,,,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,RGPH5 2020,RGPH5 2020,census,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EHCVM,EHCVM,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EMOP,EMOP,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,MICS,MICS,survey,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,EDS 7th edition,EDS,survey,,CPS-SS-DS-PF/INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,LSMS income and living conditions survey,LSMS,survey,,CPS-SDR,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,Recensement general de l'agriculture,RGA,other,,CPS-SDR,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024

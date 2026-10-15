@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,RGPH-5,RGPH-5 2025,census,,Institut national de la statistique (INS),,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5
+COG,"Enquete harmonisee sur les conditions de vie des menages (EHCVM), second edition",EHCVM 2026,survey,,INS with HISWACA/World Bank,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Enquete sur l'emploi et le secteur informel du Congo (ESIC),ESIC 2026,survey,,INS with HISWACA/World Bank,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Recensement general de l'agriculture,Agricultural census,other,,,,2026-02-11-aci-hiswaca-comite-pilotage-valide-ptba-2026
+COG,Informal cross-border trade baseline survey 2027,Informal cross-border trade baseline survey 2027,other,,INS Congo,,2026-10-06-cog-brazzavillois-ins-commerce-transfrontalier-informel
+COG,Quarterly labour market survey,Quarterly labour force survey 2026,survey,,INS Congo with ILO,,2026-07-11-statistiques-marche-du-travail-bit-ins-ldb

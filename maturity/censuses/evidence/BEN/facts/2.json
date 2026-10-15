@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-22-instad-bj-ehcvm2-indicateurs",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "INStaD published the main indicators of the national EHCVM (2021-2022, fieldwork 2021 and 2022), representative for the 12 departments and by residence area, across 13 themes and about ten SDG indicators.", "as_of": "2026-01-22", "date_precision": "day", "system": "EHCVM", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "EHCVM", "country_label": "EHCVM 2021-2022", "class": "survey", "platform": "", "owner": "INStaD", "tiers": "national"}
+  ],
+  "note": ""
+}

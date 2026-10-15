@@ -1,0 +1,18 @@
+{
+  "slug": "2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "ANSD's national data archive lists the fifth general population and housing census, Senegal 2023 (RGPH-5), as a catalogued dataset with licensed files and 19,910 views; no enumeration date is given, so the year is used.", "as_of": "2023", "date_precision": "year", "system": "RGPH-5 2023", "class": "census"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "ANSD's national data archive lists the 2013 general census of population, housing, agriculture and livestock (RGPHAE) as a catalogued dataset with licensed files and 4,808,203 views.", "as_of": "2013", "date_precision": "year", "system": "RGPHAE 2013", "class": "census"},
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "ANSD's archive lists the national employment survey (ENES) first quarter 2025 as a dataset with licensed files, last modified 21 October 2025; the page gives no release date, so the last-modified date is used.", "as_of": "2025-10-21", "date_precision": "day", "system": "ENES 2025", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "RGPH-5 2023", "country_label": "RGPH-5 2023", "class": "census", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""},
+    {"system": "RGPHAE 2013", "country_label": "RGPHAE 2013", "class": "census", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""},
+    {"system": "ENES 2025", "country_label": "ENES 2025", "class": "survey", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""},
+    {"system": "RNU update and extension survey 2025", "country_label": "RNU 2025", "class": "other", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""},
+    {"system": "Enquete Agricole Annuelle 2024-2025", "country_label": "EAA 2024-2025", "class": "other", "platform": "ANADS catalogue", "owner": "DAPSA", "tiers": ""},
+    {"system": "ENDES 2025", "country_label": "ENDES 2025", "class": "other", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""},
+    {"system": "ENTICS 2024", "country_label": "ENTICS 2024", "class": "other", "platform": "ANADS catalogue", "owner": "ANSD", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-sle-sierra-leone-counts-down-to-first-fully-digital-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "A mock census was held in July 2026 and 25,000 tablets were received for field operations ahead of Census Night on 1 December 2026, per the UNFPA communications analyst's article.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "CAPI on tablets",
+   "owner": "Statistics Sierra Leone",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

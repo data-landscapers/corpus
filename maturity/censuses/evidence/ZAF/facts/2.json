@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-cps-hspr-frame-update",
+  "facts": [],
+  "systems": [
+    {"system": "Continuous Population Survey (CPS-HSPR)", "country_label": "CPS-HSPR", "class": "survey", "platform": "", "owner": "Statistics South Africa", "tiers": ""}
+  ],
+  "note": "Master sample frame update fieldwork (4 June to 11 September 2025) for a survey redesign; no census step and no survey results."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-cod-recensement-identification-et-enrolement-en-rdc-ce-quil-faut",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Census-cartography operations for the second census (RGPH-2) were launched on 28 September 2026, with general enumeration planned from July 2027; operations are costed at USD 192 million.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "RGPH-2 2026",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-2",
+   "country_label": "RGPH-2 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Institut national de la statistique, Bureau central de recensement; Ministry of Plan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

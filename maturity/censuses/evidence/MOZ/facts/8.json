@@ -1,0 +1,10 @@
+{
+  "slug": "2022-03-01-ins-mozambique-catalogo-bases-de-dados",
+  "facts": [],
+  "systems": [
+    {"system": "MICS (Inquerito de indicadores multiplos)", "country_label": "MICS", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "IDS (Inquerito Demografico e de Saude)", "country_label": "DHS", "class": "survey", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Census 2007 population projections 2007-2040", "country_label": "Census 2007", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Health-database catalogue lists MICS and IDS rows and 2007 census projections with no dated release or enumeration statement."
+}

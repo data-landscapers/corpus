@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census",
+ "countries": {
+  "BEN": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Recensement National de l'Agriculture (RNA)",
+     "country_label": "RNA Benin",
+     "class": "other",
+     "platform": "",
+     "owner": "FAO/Benin",
+     "tiers": ""
+    }
+   ],
+   "note": "Agricultural census only (class other); no fact."
+  },
+  "GHA": {
+   "facts": [],
+   "systems": [],
+   "note": "Not named in the story; no fact."
+  },
+  "KEN": {
+   "facts": [],
+   "systems": [],
+   "note": "Not named in the story; no fact."
+  },
+  "MLI": {
+   "facts": [],
+   "systems": [],
+   "note": "Not named in the story; no fact."
+  },
+  "SOM": {
+   "facts": [],
+   "systems": [],
+   "note": "Not named in the story; no fact."
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-24-int-tunisie-synthese-enquete-internet-competences-numeriques-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INT Internet use and digital skills survey 2026",
+   "country_label": "INT Internet use and digital skills survey 2026",
+   "class": "other",
+   "platform": "",
+   "owner": "Instance Nationale des Telecommunications (regulator)",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a telecom-regulator ICT survey is described; no census or national statistics office household survey is stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-04-sierra-leone-launch-2026-demographic-and-health-survey",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHS 2026",
+   "country_label": "DHS 2026",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ministry of Health and Statistics Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": "Survey launch and interviewer training only; no results published."
+}

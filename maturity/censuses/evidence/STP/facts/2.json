@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The World Bank ISR states the enumeration phase of the housing and population census (Component 3 of the Digital STP project) was completed in December 2024; final population counts were still to come after the post-enumeration survey, which ended on 4 April 2025.", "as_of": "2024-12", "date_precision": "month", "system": "Housing and population census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Housing and population census", "country_label": "Population and housing census 2024", "class": "census", "platform": "", "owner": "INE with World Bank financing", "tiers": ""},
+    {"system": "Post-enumeration survey", "country_label": "Post-enumeration survey 2025", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED with WAEMU Commission and World Bank,,2026-09-04-togofirst-inseed-household-living-conditions-survey
+TGO,EHCVM-2,EHCVM-2 2021-2022,survey,,INSEED,,2026-09-04-togofirst-inseed-household-living-conditions-survey
+TGO,EDST-IV,DHS 2026,survey,,INSEED with Ministry of Health,,2026-03-20-inseed-lancement-edst-iv
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED,,2026-02-09-togofirst-ehcvm-3e-edition
+TGO,EHCVM-2,EHCVM-2 2021-2022,survey,,INSEED,,2026-02-09-togofirst-ehcvm-3e-edition
+TGO,RGPH-5,RGPH-5 2022,census,,INSEED,,2023-09-25-inseed-resultats-definitifs-rgph5
+TGO,RGPH-5,RGPH-5,census,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EDST-4,DHS 2026,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EHCVM-3,EHCVM-3 2026,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,EHCVM 2018 and 2021,"EHCVM 2018, 2021",survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,ENI-ESI,ENI-ESI,survey,,INSEED,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RNA-5,RNA-5,other,,,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RGE-2,RGE-2,other,,,,2026-07-04-inseed-cns-13e-session-orientations
+TGO,RGPH-5,RGPH-5,census,,,,2026-09-07-togopresse-alphabetisation-numerique-paaff
+TGO,EHCVM 2021,EHCVM 2021,survey,,,,2026-09-07-togopresse-alphabetisation-numerique-paaff
+TGO,Annual school census (StatEduc),School census,other,StatEduc; DHIS2,Ministry of Primary and Secondary Education,,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts
+TGO,RNA-5 (5th National Agricultural Census),RNA-5,other,,,,2025-01-01-togo-rna5-land-security-smallholder-households

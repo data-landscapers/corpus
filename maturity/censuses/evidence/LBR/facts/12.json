@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-01-lisgis-liberia-2024-annual-agriculture-survey-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "Liberia Agriculture Census 2024", "country_label": "Agriculture Census 2024", "class": "other", "platform": "", "owner": "LISGIS", "tiers": ""},
+    {"system": "Liberia 2024 Annual Agriculture Survey (LAAS-2024)", "country_label": "LAAS 2024", "class": "other", "platform": "", "owner": "LISGIS with MOA", "tiers": ""}
+  ],
+  "note": "Agricultural census and agricultural survey only; class other, no fact."
+}

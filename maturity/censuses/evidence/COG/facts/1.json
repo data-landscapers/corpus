@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The INS opened a workshop on 27 November 2025 to validate indicators and tables drawn from the fifth national population and housing census (RGPH-5), whose data were already collected and whose preliminary results were on display; the article gives no enumeration date, so the document's publication date is used.", "as_of": "2025-11-29", "date_precision": "day", "system": "RGPH-5", "class": "census"}
+  ],
+  "systems": [
+    {"system": "RGPH-5", "country_label": "RGPH-5 2025", "class": "census", "platform": "", "owner": "Institut national de la statistique (INS)", "tiers": ""}
+  ],
+  "note": ""
+}

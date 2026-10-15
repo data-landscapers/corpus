@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-26-sao-tome-ine-inquerito-orcamentos-familiares-terreno",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "The article says the 2017 household budget survey (Inquerito ao Orcamento Familiar) put the poverty rate at 55.5%, so its results were published; the INE president gave further poverty shares.", "as_of": "2017", "date_precision": "year", "system": "Inquerito ao Orcamento Familiar 2017", "class": "survey"}
+  ],
+  "systems": [
+    {"system": "Inquerito ao Orcamento Familiar 2017", "country_label": "IOF 2017", "class": "survey", "platform": "", "owner": "Instituto Nacional de Estatistica", "tiers": ""},
+    {"system": "Inquerito ao Orcamento Familiar", "country_label": "IOF 2026 (fieldwork started March 2026, results expected by end of 2026)", "class": "survey", "platform": "", "owner": "Instituto Nacional de Estatistica", "tiers": ""}
+  ],
+  "note": "The 2026 survey is in fieldwork only (more than 100 enumerators, two months, results due by year end), so no published fact for it."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-nga-dhis2-education-implementation-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census 2024/25", "country_label": "Annual School Census 2024/25", "class": "other", "platform": "DHIS2 (DNEMIS)", "owner": "Federal Ministry of Education", "tiers": ""}
+  ],
+  "note": "Document concerns the school census of the education ministry, not a national population census or household survey; no fact."
+}

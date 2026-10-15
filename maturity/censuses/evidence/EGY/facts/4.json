@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-02-prime-minister-chairs-high-committee-2027-census",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Prime Minister chaired the High Committee for the 2027 population, housing and establishments census and announced its launch; CAPMAS presented the methodology and reported funding and technical-specification steps taken with the planning and ICT ministries.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "General Census of Population, Housing and Establishments 2027",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "General Census of Population, Housing and Establishments 2027",
+   "country_label": "Census 2027",
+   "class": "census",
+   "platform": "",
+   "owner": "CAPMAS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

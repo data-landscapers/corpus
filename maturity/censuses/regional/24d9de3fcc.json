@@ -1,0 +1,40 @@
+{
+ "slug": "2017-01-01-fcdo-reg-012-geo-referenced-infrastructure-and-demographic-data-for",
+ "countries": {
+  "COD": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "MDG": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "MOZ": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "NGA": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "SSD": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "ZMB": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  },
+  "ZWE": {
+   "facts": [],
+   "systems": [],
+   "note": "Generic donor geodata project; names no census or survey for this country."
+  }
+ }
+}

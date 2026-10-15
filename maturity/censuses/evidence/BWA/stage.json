@@ -1,0 +1,17 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "census",
+   "stage": "3",
+   "census": "taken",
+   "results": "",
+   "survey": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-002;BWA-004",
+   "gaps": "No source held reports final results of the census published.",
+   "note": "Counted from the four questions by study-ladder-censuses.py."
+  }
+ ]
+}

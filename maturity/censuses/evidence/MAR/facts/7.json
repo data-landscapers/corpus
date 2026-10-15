@@ -1,0 +1,9 @@
+{
+  "slug": "2018-04-06-hcp-direction-de-la-statistique-missions",
+  "facts": [],
+  "systems": [
+    {"system": "Recensement de la population et de l'habitat", "country_label": "Recensement de la population et de l'habitat", "class": "census", "platform": "", "owner": "HCP Direction de la statistique", "tiers": ""},
+    {"system": "Enquete nationale sur l'emploi", "country_label": "Enquete nationale sur l'emploi", "class": "survey", "platform": "", "owner": "HCP Direction de la statistique", "tiers": ""}
+  ],
+  "note": "Institutional mandate page only; it states no dated census or survey event."
+}

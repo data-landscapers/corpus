@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)",
+  "facts": [],
+  "systems": [
+    {"system": "Eritrea Population and Health Survey (EPHS) 2025", "country_label": "EPHS 2025", "class": "survey", "platform": "CAPI tablets", "owner": "National Statistics Office with Ministry of Health", "tiers": ""},
+    {"system": "Eritrea Household Income and Expenditure Survey (EHIS)", "country_label": "EHIS", "class": "survey", "platform": "", "owner": "National Statistics Office", "tiers": ""}
+  ],
+  "note": "EPHS 2025 fieldwork completed (9,794 households) but report only scheduled for 2026, so no published results; EHIS only a next step; no census stated."
+}

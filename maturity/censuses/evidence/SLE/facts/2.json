@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-sle-2026-census-budget-rises-from-7-million-to-nearly-60-million",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "Statistics Sierra Leone said the 2026 census budget rose from US$7 million to nearly US$60 million after the nationwide cartographic mapping; date is the document's published date, as the event day is not stated.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "2026 Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2026 Population and Housing Census",
+   "country_label": "PHC 2026",
+   "class": "census",
+   "platform": "CAPI on tablets",
+   "owner": "Statistics Sierra Leone",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

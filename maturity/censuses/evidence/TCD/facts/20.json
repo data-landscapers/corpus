@@ -1,0 +1,80 @@
+{
+ "slug": "2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Table reports birth-registration rates from MICS6 2019: 25.5% national, 50% urban, 21.1% rural; release date not given, dated to survey year.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "MICS6 2019",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Table reports birth-registration rates from DHS-MICS 2014-2015: 12% national; release date not given, dated to survey year.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "DHS-MICS 2014-2015",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Table reports birth-registration rates from MICS 2010: 15.7% national; release date not given, dated to survey year.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "MICS 2010",
+   "class": "survey"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Table reports birth-registration rates from DHS 2004: 9% national; release date not given, dated to survey year.",
+   "as_of": "2004",
+   "date_precision": "year",
+   "system": "DHS 2004",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MICS6 2019",
+   "country_label": "MICS6 2019",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHS-MICS 2014-2015",
+   "country_label": "DHS-MICS 2014-2015",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MICS 2010",
+   "country_label": "MICS 2010",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHS 2004",
+   "country_label": "DHS 2004",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

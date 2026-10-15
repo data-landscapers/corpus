@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-personnes-situation-handicap-maroc-rgph-2024",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "HCP's analysis of disability draws on the RGPH 2024 national census, which was taken in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2024",
+   "country_label": "RGPH 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "HCP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

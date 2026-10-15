@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-19-labour-force-employment-unemployment-year-2025",
+  "facts": [
+    {"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "Statistics Mauritius released online on 19 May 2026 its 2025 annual labour force, employment and unemployment estimates from the Continuous Multi-Purpose Household Survey (about 11,280 households a year), covering Mauritius and Rodrigues.", "as_of": "2026-05-19", "date_precision": "day", "system": "Continuous Multi-Purpose Household Survey (CMPHS) 2025", "class": "survey"},
+    {"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "Statistics Mauritius says its labour force estimates from 2025 use population figures revised to the results of the 2022 population census; the document gives no enumeration day, so 2022 is the year of the census.", "as_of": "2022", "date_precision": "year", "system": "2022 Housing and Population Census", "class": "census"}
+  ],
+  "systems": [
+    {"system": "Continuous Multi-Purpose Household Survey (CMPHS) 2025", "country_label": "CMPHS 2025", "class": "survey", "platform": "", "owner": "Statistics Mauritius", "tiers": ""},
+    {"system": "2022 Housing and Population Census", "country_label": "Census 2022", "class": "census", "platform": "", "owner": "Statistics Mauritius", "tiers": ""}
+  ],
+  "note": ""
+}

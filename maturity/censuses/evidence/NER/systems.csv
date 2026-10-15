@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2026-07-29-lesahel-diffa-chefs-traditionnels-5e-rgph
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-10-09-niger-lesahel-synpis-congres-recensement
+NER,5e RGPH,RGPH-5,census,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,Enquete nationale sur la fecondite,Enquete nationale sur la fecondite 2023,survey,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,ReGEN,ReGEN 2025,other,,Institut National de la Statistique,,2025-09-24-ins-niger-regen-rapport-general
+NER,LSMS-ISA,LSMS-ISA,survey,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai
+NER,Agricultural surveys (50x2030),Agricultural surveys,other,,World Bank,,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai

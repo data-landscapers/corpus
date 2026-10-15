@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-02-mozambique-invests-430000-in-digital-census-pilot-ahead-of-2027-count",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "A pilot census was launched on 1 Aug 2026 in Magude (177 enumeration areas, 177 enumerators, 38 controllers, about USD 430,000) ahead of the 2027 census; World Bank initial financing of USD 12.7m against a USD 68m gap of USD 110m was reported.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The last census in 2017 recorded just over 26 million inhabitants, per INE; no enumeration date is given.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Census 2017",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2027 (pilot 2026)",
+   "country_label": "RGPH-5 2027 (pilot 2026)",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  },
+  {
+   "system": "Census 2017",
+   "country_label": "Census 2017",
+   "class": "census",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

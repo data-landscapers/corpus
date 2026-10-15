@@ -78,7 +78,8 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     listed = {str(r["n"]): r for r in readlist if r.get("kind") == "raw"}
     held = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"])
             for r in existing}
-    sub_class = {s["key"]: s["class"] for s in study["sub_indicators"]}
+    # `also_assessed` names further classes a sub-indicator stages (the censuses study's surveys).
+    sub_class = {s["key"]: [s["class"], *s.get("also_assessed", [])] for s in study["sub_indicators"]}
     done = {r["source_slug"] for r in existing}
     named = [f.get("row_id") or f"{f.get('iso3', '')}-{f.get('n', '')}" for f in fixes or []]
     held_ids = {r["row_id"] for r in existing}
@@ -108,9 +109,9 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
             continue
         for f in doc.get("facts") or []:
             sub = f.get("sub_indicator", "")
-            if sub in sub_class and f.get("class") != sub_class[sub]:
+            if sub in sub_class and f.get("class") not in sub_class[sub]:
                 problems.append(f"{iso} facts/{n}.json: a {sub} fact classed `{f.get('class')}`; "
-                                f"only `{sub_class[sub]}` systems are assessed there")
+                                f"only `{'`, `'.join(sub_class[sub])}` systems are assessed there")
                 continue
             key = (src["slug"], *(str(f.get(k, "") or "").strip()
                                   for k in ("sub_indicator", "aspect", "value", "as_of")))

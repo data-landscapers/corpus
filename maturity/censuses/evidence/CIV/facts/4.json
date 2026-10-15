@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-cote-divoire-mission-300-compact-progress-report-q1-2026",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The report says the clean cooking access figure for Cote d'Ivoire is based on data from the latest RGPH 2021, implying a population and housing census was counted in 2021; no enumeration date or results status is given.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "RGPH 2021",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH 2021",
+   "country_label": "RGPH 2021",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

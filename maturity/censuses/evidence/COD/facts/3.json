@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-11-rgph-2-donnees-fiables-planification-actualite",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Plan minister announced on 1 June 2026 the official launch of recruitment of census-cartography agents for RGPH-2 and general enumeration in July 2027.",
+   "as_of": "2026-06-01",
+   "date_precision": "day",
+   "system": "RGPH-2 2026",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Plan minister cited published results of the Demographic and Health Survey EDS III RDC 2024, showing under-18s are 56% of the population; the release date is not given, so the survey year is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "EDS III RDC 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-2",
+   "country_label": "RGPH-2 2026",
+   "class": "census",
+   "platform": "",
+   "owner": "Institut national de la statistique, Bureau central de recensement; Ministry of Plan",
+   "tiers": ""
+  },
+  {
+   "system": "EDS III RDC",
+   "country_label": "DHS 2024",
+   "class": "survey",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
