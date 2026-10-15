@@ -1,0 +1,14 @@
+{
+  "slug": "2023-09-01-gbos-national-strategy-development-of-statistics-nsds-iii-2024-2028",
+  "facts": [
+    {"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"The document states the Gambia implemented its second national strategy for the development of statistics, NSDS II 2018-2022, which has since come to term.","as_of":"2018","date_precision":"year","system":"NSDS II 2018-2022","class":"strategy"},
+    {"sub_indicator":"strategy","aspect":"standing","value":"preparing","fact":"NSDS III 2024-28 was technically approved on 13 September 2023 by the national statistical system after a validation workshop in Banjul, and was submitted for endorsement by the National Statistics Council and Cabinet.","as_of":"2023-09-13","date_precision":"day","system":"NSDS III 2024-2028","class":"strategy"},
+    {"sub_indicator":"strategy","aspect":"evaluation","value":"evaluated","fact":"A mid-term evaluation of NSDS II 2018-2022 was carried out remotely with PARIS21 support from November 2020 to January 2021, with recommendations for the remaining period.","as_of":"2021-01","date_precision":"month","system":"NSDS II 2018-2022","class":"strategy"},
+    {"sub_indicator":"strategy","aspect":"evaluation","value":"evaluated","fact":"A final evaluation of NSDS II 2018-2022 was undertaken in July 2022 with PARIS21 support, and its report was presented and validated at a national workshop on 13-15 February 2023.","as_of":"2022-07","date_precision":"month","system":"NSDS II 2018-2022","class":"strategy"}
+  ],
+  "systems": [
+    {"system":"NSDS II 2018-2022","country_label":"NSDS II 2018-2022","class":"strategy","platform":"","owner":"GBoS","tiers":""},
+    {"system":"NSDS III 2024-2028","country_label":"NSDS III 2024-2028","class":"strategy","platform":"","owner":"GBoS","tiers":""}
+  ],
+  "note": ""
+}

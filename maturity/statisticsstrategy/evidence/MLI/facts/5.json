@@ -1,0 +1,9 @@
+{"slug": "2026-02-18-instat-mali-session-ordinaire-conseil-national-statistique",
+ "facts": [
+  {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "INSTAT describes the Schema Directeur de la Statistique (SDS IV) as the roadmap guiding the national statistical system, in force in February 2026; the document gives no period.", "as_of": "2026-02-17", "date_precision": "day", "system": "Schema Directeur de la Statistique (SDS IV)", "class": "strategy"},
+  {"sub_indicator": "strategy", "aspect": "review", "value": "reviewed", "fact": "The 'Programmes statistiques' specialised commission of the Conseil National de la Statistique met on 17 February 2026 to monitor SDS IV, assessed progress on the 2025 statistical review recommendations, validated the 2025 action-plan scorecard and updated the action-plan trajectory for the whole SDS IV.", "as_of": "2026-02-17", "date_precision": "day", "system": "Schema Directeur de la Statistique (SDS IV)", "class": "strategy"}
+ ],
+ "systems": [
+  {"system": "Schema Directeur de la Statistique (SDS IV)", "country_label": "SDS IV", "class": "strategy", "platform": "", "owner": "INSTAT / Conseil National de la Statistique", "tiers": ""}
+ ],
+ "note": ""}

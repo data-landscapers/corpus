@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-12-lesotho-nss-peer-review-report",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The STATAFRIC peer review (mission 25-29 August 2025) describes NSDS II, covering 2022/23-2026/27, as Lesotho's most recent statistical strategy, with five strategic goals and over 80% of its budget allocated to the Bureau.", "as_of": "2025-08", "date_precision": "month", "system": "NSDS II 2022/23-2026/27", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS II 2022/23-2026/27", "country_label": "NSDS II 2022/23-2026/27", "class": "strategy", "platform": "", "owner": "Lesotho Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

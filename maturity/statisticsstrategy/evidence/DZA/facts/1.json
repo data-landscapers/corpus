@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-20-radioalgerie-modernisation-systemes-ons",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The ONS Director General recalled the national statistics strategy 2024-2028, stated as existing and resting on technological infrastructure, statistics training and wider cooperation, at a Finance Ministry information day held on Tuesday 19 November 2024.", "as_of": "2024-11-19", "date_precision": "day", "system": "National statistics strategy 2024-2028", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National statistics strategy 2024-2028", "country_label": "National statistics strategy 2024-2028", "class": "strategy", "platform": "", "owner": "Office national des statistiques", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -68,7 +68,15 @@
    "text": "National strategy for development of statistics: statistics strategy",
    "indicator_id": "data.statistics--national-strategy-for-development-of-statistics-statistics-strategy",
    "class": "strategy",
-   "norm_short": "The African Charter on Statistics and the Strategy for the Harmonisation of Statistics in Africa (SHaSA 2) ask each country to design, carry out and evaluate a national strategy for the development of statistics."
+   "norm_short": "The African Charter on Statistics and the Strategy for the Harmonisation of Statistics in Africa (SHaSA 2) ask each country to design, carry out and evaluate a national strategy for the development of statistics.",
+   "criteria": [
+    "A source from the past three years says the country has no current statistics strategy and none in preparation.",
+    "A national statistics strategy is being designed, drafted, validated or put to cabinet, or one adopted in the past three years has run out. A strategy only promised does not count.",
+    "An adopted strategy is current: its stated period covers today. One with no stated period counts for five years.",
+    "Progress on the current strategy has been reviewed in the past three years: an annual review, a progress report or a meeting of its steering body.",
+    "A mid-term or final evaluation of the current strategy, or the final evaluation of the one it replaced, has been completed in the past three years."
+   ],
+   "criteria_of": "82cea57b2102"
   }
  ],
  "classes": [
@@ -76,9 +84,47 @@
   "other"
  ],
  "aspects": [
-  {"key": "standing", "name": "A strategy adopted or in preparation", "role": "coverage", "defer": ["none"], "prefer": ["adopted", "preparing"], "values": ["adopted", "preparing", "none"]},
-  {"key": "review", "name": "Progress reviewed", "role": "coverage", "defer": [], "prefer": ["reviewed"], "values": ["reviewed"]},
-  {"key": "evaluation", "name": "Evaluated", "role": "coverage", "defer": [], "prefer": ["evaluated"], "values": ["evaluated"]}
+  {
+   "key": "standing",
+   "name": "A strategy adopted or in preparation",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "adopted",
+    "preparing"
+   ],
+   "values": [
+    "adopted",
+    "preparing",
+    "none"
+   ]
+  },
+  {
+   "key": "review",
+   "name": "Progress reviewed",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "reviewed"
+   ],
+   "values": [
+    "reviewed"
+   ]
+  },
+  {
+   "key": "evaluation",
+   "name": "Evaluated",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "evaluated"
+   ],
+   "values": [
+    "evaluated"
+   ]
+  }
  ],
  "flags": []
 }

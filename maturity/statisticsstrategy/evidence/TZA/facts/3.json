@@ -1,0 +1,17 @@
+{
+  "slug": "2021-12-01-tanzania-statistical-master-plan-phase-two-tsmp-ii",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The document, published by NBS and OCGS in December 2021 with a ministerial foreword, presents the Tanzania Statistical Master Plan Phase Two (TSMP II) as the country's second National Strategy for Development of Statistics, in force for 2022/23 to 2026/27; it gives no adoption date, so as_of is its publication date.",
+     "as_of": "2021-12", "date_precision": "month", "system": "Tanzania Statistical Master Plan Phase Two (TSMP II)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated",
+     "fact": "The document states TSMP I (2011/12 to 2017/18) was reviewed in 2019 and that its evaluation reports informed the design of TSMP II; the evaluation covers TSMP I, the predecessor strategy, and no TSMP II evaluation is reported as done (mid-term and end-term evaluations are only planned).",
+     "as_of": "2019", "date_precision": "year", "system": "Tanzania Statistical Master Plan I (TSMP I) 2011/12-2017/18", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Tanzania Statistical Master Plan Phase Two (TSMP II)", "country_label": "TSMP II 2022/23-2026/27", "class": "strategy", "platform": "", "owner": "NBS and OCGS", "tiers": ""},
+    {"system": "Tanzania Statistical Master Plan I (TSMP I)", "country_label": "TSMP I 2011/12-2017/18", "class": "strategy", "platform": "", "owner": "NBS and OCGS", "tiers": ""},
+    {"system": "Zanzibar Strategy for the Development of Statistics (ZSDS)", "country_label": "ZSDS 2020/21-2024/25", "class": "other", "platform": "", "owner": "OCGS", "tiers": ""}
+  ],
+  "note": ""
+}

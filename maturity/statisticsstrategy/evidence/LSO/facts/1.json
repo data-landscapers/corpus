@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-lesotho-bos-about-nsds",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Lesotho Bureau of Statistics lists the National Strategy for the Development of Statistics (NSDS) 2022/23-2026/27 among its current strategic documents; the page carries no date, so the published date 2026-08-29 is used.", "as_of": "2026-08-29", "date_precision": "day", "system": "NSDS 2022/23-2026/27", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS 2022/23-2026/27", "country_label": "NSDS 2022/23-2026/27", "class": "strategy", "platform": "", "owner": "Lesotho Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

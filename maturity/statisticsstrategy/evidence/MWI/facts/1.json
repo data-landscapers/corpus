@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-04-nso-renews-strategic-plan-batch6_data_geo",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Nation reports that Malawi's National Statistical Office has finalised the National Statistical System Strategic Plan (NSS SP IV) 2025-2030, covering 35 ministries, departments and agencies, with the NSO to oversee its implementation; the document gives no adoption date, so its published date is used.", "as_of": "2026-04-04", "date_precision": "day", "system": "National Statistical System Strategic Plan (NSS SP IV) 2025-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Statistical System Strategic Plan (NSS SP IV) 2025-2030", "country_label": "NSS SP IV 2025-2030", "class": "strategy", "platform": "", "owner": "National Statistical Office", "tiers": ""}
+  ],
+  "note": ""
+}

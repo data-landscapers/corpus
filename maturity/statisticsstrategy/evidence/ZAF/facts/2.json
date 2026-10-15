@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-parliament-atc-109-2026",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "Stats SA told Parliament's Appropriations Committee on 28 April 2026 that it has put in place, as a risk mitigation, the development of the National Strategy for Developmental Statistics to determine data gaps; the document gives no adoption date.", "as_of": "2026-04-28", "date_precision": "day", "system": "National Strategy for Developmental Statistics (NSDS)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Strategy for Developmental Statistics (NSDS)", "country_label": "National Strategy for Developmental Statistics (NSDS)", "class": "strategy", "platform": "", "owner": "Statistics South Africa", "tiers": ""}
+  ],
+  "note": ""
+}

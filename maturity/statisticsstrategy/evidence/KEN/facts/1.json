@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-09-second-kenya-strategy-development-statistics",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "KNBS publishes the second Kenya Strategy for Development of Statistics (KSDS II) for 2023/24-2027/28 for download as the national statistical system strategy; no adoption date is given, so the document's published date is used.", "as_of": "2025-07-09", "date_precision": "day", "system": "KSDS II 2023/24-2027/28", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The first Kenya Strategy for Development of Statistics (KSDS I) was developed and implemented for 2019/20-2022/23, a period that has ended; KSDS II followed it.", "as_of": "2023", "date_precision": "year", "system": "KSDS I 2019/20-2022/23", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "KSDS I was evaluated in 2023, with document reviews, stakeholder consultations and risk analyses, and the evaluation informed the development of KSDS II.", "as_of": "2023", "date_precision": "year", "system": "KSDS I 2019/20-2022/23", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "KSDS II 2023/24-2027/28", "country_label": "KSDS II 2023/24-2027/28", "class": "strategy", "platform": "", "owner": "KNBS", "tiers": ""},
+    {"system": "KSDS I 2019/20-2022/23", "country_label": "KSDS I 2019/20-2022/23", "class": "strategy", "platform": "", "owner": "KNBS", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-17-statistics-botswana-annual-report-2023-24",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "Statistics Botswana's 2023/24 annual report states it secured PARIS21 support in that financial year to develop BSDS II for 2025-2029; year end 31 March 2024 used as the date.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "BSDS II 2025-2029",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The report states the first BSDS (BSDS I) covered 2015-2020 and was extended from April 2020 to March 2023, so it has ended.",
+   "as_of": "2023-03",
+   "date_precision": "month",
+   "system": "BSDS I 2015-2020",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BSDS II 2025-2029",
+   "country_label": "BSDS II 2025-2029",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  },
+  {
+   "system": "BSDS I 2015-2020",
+   "country_label": "BSDS I 2015-2020",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

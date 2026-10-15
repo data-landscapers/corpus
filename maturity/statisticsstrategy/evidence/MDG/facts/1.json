@@ -1,0 +1,12 @@
+{
+  "slug": "2024-03-11-instat-snds-ii-2023",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "INSTAT presents the second-generation national statistics development strategy, SNDS 2023-2030, as the government's reference framework, with the minister's foreword urging actors to mobilise for its implementation; the document gives no adoption date, so the page's published date is used.", "as_of": "2024-03-11", "date_precision": "day", "system": "SNDS-II 2023-2030", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The first national statistics development strategy covered 2007-2017 and is stated as having run its period, hampered by funding shortages and the 2009 political crisis; a priority action plan for 2015-2017 followed.", "as_of": "2017", "date_precision": "year", "system": "SNDS 2007-2017", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS-II 2023-2030", "country_label": "SNDS-II 2023-2030", "class": "strategy", "platform": "", "owner": "INSTAT / Government of Madagascar", "tiers": ""},
+    {"system": "SNDS 2007-2017", "country_label": "SNDS 2007-2017", "class": "strategy", "platform": "", "owner": "Government of Madagascar", "tiers": ""}
+  ],
+  "note": ""
+}

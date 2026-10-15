@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-10-minister-of-planning-discusses-national-statistics-strategy",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "The Ministry of Planning and Economic Development states the national strategy for developing Egypt's statistical system has been in preparation for nearly two years with 18 ministries and government and research entities, with the first draft expected the following month.", "as_of": "2024-06-10", "date_precision": "day", "system": "National strategy for developing Egypt's statistical system", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National strategy for developing Egypt's statistical system", "country_label": "National strategy for developing Egypt's statistical system (in preparation)", "class": "strategy", "platform": "", "owner": "Ministry of Planning and Economic Development; CAPMAS", "tiers": ""}
+  ],
+  "note": ""
+}

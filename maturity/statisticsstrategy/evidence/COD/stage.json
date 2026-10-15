@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "no evidence",
+   "standing": "",
+   "review": "",
+   "evaluation": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held names a national statistics strategy, or says there is none.",
+   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
+  }
+ ]
+}

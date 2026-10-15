@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-rapport-etat-statistique-2024-niger",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The INS/STP-CNS state-of-statistics report says the government adopted in 2022 the third national statistics development strategy (SNDS III), covering 2022-2026, and that 2024 coordination activities implemented its action plan; the adoption month is not given.", "as_of": "2022", "date_precision": "year", "system": "SNDS III 2022-2026", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS III 2022-2026", "country_label": "SNDS III 2022-2026", "class": "strategy", "platform": "", "owner": "Government of Niger, coordinated by INS and the Conseil National de la Statistique", "tiers": ""}
+  ],
+  "note": ""
+}

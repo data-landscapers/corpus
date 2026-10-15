@@ -1,0 +1,13 @@
+{
+  "slug": "2023-11-01-sierra-leone-extended-second-national-strategy-development-of-statistics",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Statistics Sierra Leone issued the Extended Second National Strategy for the Development of Statistics (E-NSDS-II), extending NSDS II (2016-2020) so that NSDS III can be designed later to match the next national development plan; the document is dated November 2023.", "as_of": "2023-11", "date_precision": "month", "system": "E-NSDS-II (extension of NSDS II 2016-2020)", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "A mid-term review of the second National Strategy for the Development of Statistics (NSDS II) was carried out in 2018 and identified weaknesses in the Statistics Act.", "as_of": "2018", "date_precision": "year", "system": "NSDS II 2016-2020", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "E-NSDS-II", "country_label": "E-NSDS-II (extended NSDS II)", "class": "strategy", "platform": "", "owner": "Statistics Sierra Leone", "tiers": ""},
+    {"system": "NSDS II", "country_label": "NSDS II 2016-2020", "class": "strategy", "platform": "", "owner": "Statistics Sierra Leone", "tiers": ""},
+    {"system": "NSDS I", "country_label": "NSDS I 2008-2012", "class": "strategy", "platform": "", "owner": "Statistics Sierra Leone", "tiers": ""}
+  ],
+  "note": ""
+}

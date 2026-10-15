@@ -1,0 +1,70 @@
+{
+ "slug": "2022-01-01-inege-estrategia-nacional-desarrollo-estadistica-2022-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document is the Estrategia Nacional de Desarrollo de la Estadística (ENDE) 2022-2026, a five-year national plan prepared by INEGE with the Executive Committee (CPE) evaluating it and the National Statistics Council (CNE) validating it; no adoption date is given, so as_of is the document's published date.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ENDE 2022-2026",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document states the earlier ENDE 2016-2020 was adopted as the national reference framework for statistics and ran to 2020, with 47.8% of its activities done, 37.7% not done and 14.5% under way; the period has ended.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "ENDE 2016-2020",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "The ENDE 2022-2026 logical framework states the successor ENDE (variously 2027-2031 or 2027-2032) is being drafted under INEGE with CPE validation, with CNE validation and government adoption targeted for the second half of 2026; as_of is the document's published date.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ENDE 2027-2031",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ENDE 2022-2026",
+   "country_label": "ENDE 2022-2026",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INEGE / Consejo Nacional de Estadística",
+   "tiers": ""
+  },
+  {
+   "system": "ENDE 2016-2020",
+   "country_label": "ENDE 2016-2020",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  },
+  {
+   "system": "ENDE 2003-2008",
+   "country_label": "ENDE 2003-2008 (not implemented)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ENDE 2027-2031",
+   "country_label": "ENDE 2027-2031 (in preparation)",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INEGE / CPE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

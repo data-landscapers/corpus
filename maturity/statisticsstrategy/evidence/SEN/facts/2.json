@@ -1,0 +1,14 @@
+{
+ "slug": "2019-12-01-senegal-snds-iii-2019-2023-rapport-final",
+ "facts": [
+  {"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"The document states the second national statistics strategy, SNDS 2014-2019, was adopted by the Conseil national de la statistique on 12 May 2016.","as_of":"2016-05-12","date_precision":"day","system":"SNDS 2014-2019","class":"strategy"},
+  {"sub_indicator":"strategy","aspect":"evaluation","value":"evaluated","fact":"A joint mid-term evaluation mission (AFRISTAT, PARIS21, INSEE) of SNDS 2014-2019 was held 20-24 November 2017 and found 52% physical implementation after four of six years.","as_of":"2017-11","date_precision":"month","system":"SNDS 2014-2019","class":"strategy"},
+  {"sub_indicator":"strategy","aspect":"standing","value":"preparing","fact":"The final report of the third strategy, SNDS III 2019-2023, was presented to the steering committee on 18 December and to the CTPS on 19 December 2019 after its action plans were validated by the CTPS on 4-5 December, and delivered to ANSD on 23 December 2019.","as_of":"2019-12-19","date_precision":"day","system":"SNDS III 2019-2023","class":"strategy"}
+ ],
+ "systems": [
+  {"system":"SNDS III 2019-2023","country_label":"SNDS III 2019-2023","class":"strategy","platform":"","owner":"ANSD / Conseil national de la statistique","tiers":""},
+  {"system":"SNDS 2014-2019","country_label":"SNDS 2014-2019","class":"strategy","platform":"","owner":"Conseil national de la statistique","tiers":""},
+  {"system":"SDS 2008-2013","country_label":"SDS 2008-2013","class":"strategy","platform":"","owner":"","tiers":""}
+ ],
+ "note": ""
+}

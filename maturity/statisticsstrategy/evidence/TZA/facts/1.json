@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-15-tsmp-ii-steering-committee-review-budget",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The document states the Tanzania Statistical Master Plan Phase Two (TSMP II) has been under implementation since 2022/23 and will end in June 2027; it is dated to the document's publication date as it states the plan in force.", "as_of": "2026-07-15", "date_precision": "day", "system": "TSMP II 2022/23-2026/27", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "review", "value": "reviewed", "fact": "The fourth meeting of the TSMP II Steering Committee, chaired by the Ministry of Finance Permanent Secretary, met on 15 July 2026 and reviewed implementation for 2025/26, reporting 88.9% implementation since 2022/23, and approved the 2026/27 work plan and budget.", "as_of": "2026-07-15", "date_precision": "day", "system": "TSMP II 2022/23-2026/27", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "TSMP II 2022/23-2026/27", "country_label": "TSMP II 2022/23-2026/27", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics and Office of the Chief Government Statistician Zanzibar", "tiers": ""}
+  ],
+  "note": ""
+}

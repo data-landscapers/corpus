@@ -1,0 +1,10 @@
+{
+  "slug": "2020-08-01-togo-snds-ii-2020-2024",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The document states Togo's second national statistics development strategy, SNDS 2020-2024, was adopted by the Conseil National de la Statistique on 27 August 2020, with an action plan costed at 34.81 billion FCFA.", "as_of": "2020-08-27", "date_precision": "day", "system": "SNDS 2020-2024", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS 2020-2024", "country_label": "SNDS 2020-2024", "class": "strategy", "platform": "", "owner": "Conseil National de la Statistique / INSEED", "tiers": ""}
+  ],
+  "note": ""
+}

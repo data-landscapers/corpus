@@ -1,0 +1,10 @@
+{
+  "slug": "2014-01-01-south-sudan-nsds-strategic-plan",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The National Bureau of Statistics presents the National Strategy for Development of Statistics (NSDS) 2014-2020, implementation period 2014-2020, estimated budget US$58 million, with an NSS/NSDS Coordination Unit established at the Bureau; the document gives no adoption date, so its published year is used.", "as_of": "2014", "date_precision": "year", "system": "NSDS 2014-2020", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS 2014-2020", "country_label": "NSDS 2014-2020", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

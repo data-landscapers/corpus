@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "3",
+   "standing": "adopted",
+   "review": "",
+   "evaluation": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-003;UGA-001",
+   "gaps": "No source held dates a review of progress on the strategy in the last three years.",
+   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
+  }
+ ]
+}

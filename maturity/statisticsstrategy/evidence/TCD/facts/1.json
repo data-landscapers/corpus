@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-22-uneca-arfsd-tchad-donnees-revues-nationales-volontaires",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "A Chadian planning ministry adviser lists, among reforms strengthening the national statistical system, the adoption of the National Strategy for the Development of Statistics (SNDS 2021-2025) by Decree N°0573/PCMT/PMT/MEPDCI/2021 of 14 October 2021.", "as_of": "2021-10-14", "date_precision": "day", "system": "SNDS 2021-2025", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS 2021-2025", "country_label": "SNDS 2021-2025", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie, du Plan et de la Coopération Internationale", "tiers": ""}
+  ],
+  "note": ""
+}

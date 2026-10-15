@@ -1,0 +1,17 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "strategy",
+   "stage": "2",
+   "standing": "preparing",
+   "review": "",
+   "evaluation": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001",
+   "gaps": "No source held shows an adopted strategy whose period is still running.",
+   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
+  }
+ ]
+}

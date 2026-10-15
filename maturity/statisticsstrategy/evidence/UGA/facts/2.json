@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-ubos-vote143-budget-performance",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The FY2026/27 plan lists implementation of PNSD IV in the National Statistical System, with 67% of MDAs/LGs/CSOs implementing it at the 2023/24 base and 75% proposed; the document is dated 2026 by proxy only.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "PNSD IV",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PNSD IV",
+   "country_label": "PNSD IV",
+   "class": "strategy",
+   "platform": "",
+   "owner": "UBOS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

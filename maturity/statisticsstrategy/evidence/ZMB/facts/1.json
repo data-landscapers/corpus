@@ -1,0 +1,13 @@
+{
+  "slug": "2023-07-01-second-national-strategy-for-development-of-statistics-2023-2027",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Minister of Finance and National Planning's foreword, dated July 2023, presents the Second National Strategy for the Development of Statistics (NSDS2) for 2023-2027 as the national strategy for Zambia's statistical system.", "as_of": "2023-07", "date_precision": "month", "system": "NSDS2 2023-2027", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The document states the first NSDS (NSDS1) ended in 2018.", "as_of": "2018", "date_precision": "year", "system": "NSDS1", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The document states NSDS1 was evaluated in 2017 by an inter-agency team of the African Development Bank, UN Economic Commission for Africa, COMESA and PARIS21, which recommended a second NSDS.", "as_of": "2017", "date_precision": "year", "system": "NSDS1", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS2 2023-2027", "country_label": "NSDS2 2023-2027", "class": "strategy", "platform": "", "owner": "Ministry of Finance and National Planning; Zambia Statistics Agency", "tiers": ""},
+    {"system": "NSDS1", "country_label": "NSDS1", "class": "strategy", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-07-uganda-finance-minister-stronger-statistics",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The UBOS Board chairman said coordination was strengthened through the Plan for National Statistics Development (PNSD), aligned with the National Development Plan; no period is given.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "PNSD",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PNSD",
+   "country_label": "PNSD",
+   "class": "strategy",
+   "platform": "",
+   "owner": "UBOS",
+   "tiers": ""
+  },
+  {
+   "system": "UBOS Strategic Plan 2025/26-2029/30",
+   "country_label": "UBOS Strategic Plan 2025/26-2029/30",
+   "class": "other",
+   "platform": "",
+   "owner": "UBOS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

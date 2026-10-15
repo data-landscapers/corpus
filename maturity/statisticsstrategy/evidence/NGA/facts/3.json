@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-14-nsds-iii-2024-2028-catalogue",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The NBS catalogue states the second NSDS, 2017-2021, expired, after which the National Consultative Committee on Statistics recommended designing NSDS III; the NSDS II period ended in 2021.", "as_of": "2021", "date_precision": "year", "system": "NSDS II 2017-2021", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The catalogue says the design of NSDS III involved the evaluation of NSDS II (2017-2021); no date is given, so the document's published date is used.", "as_of": "2025-12-14", "date_precision": "day", "system": "NSDS II 2017-2021", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS II 2017-2021", "country_label": "NSDS II 2017-2021", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""},
+    {"system": "NSDS III 2024-2028", "country_label": "NSDS III 2024-2028", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-09-cote-divoire-indicateurs-logement-foncier-cadre-de-vie-anstat",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "A press release of the Ministry of Planning and Development describes the national statistical system as structured around the National Statistics Council, the National Statistics Development Fund and the National Statistics Development Strategy 2026-2030, aligned with the PND, so the strategy is stated in force; the date is that of the 8 June 2026 working session at which the minister presented this.", "as_of": "2026-06-08", "date_precision": "day", "system": "SNDS 2026-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS 2026-2030", "country_label": "SNDS 2026-2030", "class": "strategy", "platform": "", "owner": "Ministère du Plan et du Développement", "tiers": ""}
+  ],
+  "note": ""
+}

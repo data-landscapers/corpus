@@ -1,0 +1,12 @@
+{
+  "slug": "2018-10-01-ine-guine-bissau-ende-2018-2020-resumo-relatorio-final",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "The final document of the ENDE 2018-2020 (national statistics development strategy) was validated at a workshop on 8-12 October 2018, following drafting steps from April 2018; no adoption is stated.", "as_of": "2018-10-12", "date_precision": "day", "system": "ENDE 2018-2020", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The first strategy, ENDE-1 (2015-2017), was evaluated from 27 November to 1 December 2017, finding an execution rate of 24.13%.", "as_of": "2017-12-01", "date_precision": "day", "system": "ENDE-1 2015-2017", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "ENDE 2018-2020", "country_label": "ENDE 2018-2020", "class": "strategy", "platform": "", "owner": "Instituto Nacional de Estatistica (INE)", "tiers": ""},
+    {"system": "ENDE-1 2015-2017", "country_label": "ENDE-1 2015-2017", "class": "strategy", "platform": "", "owner": "Instituto Nacional de Estatistica (INE)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-cabo-verde-ine-estrategia-nacional-desenvolvimento-estatistica-2022-2026",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "The document presents itself as the fourth ENDE, covering 2022-2026, finalised after a five-phase process ending in validation, and lists its approval by the State as a condition of success, so approval is not stated; it carries no date, so the published date 2022-01-01 (year precision, inferred) is used.", "as_of": "2022", "date_precision": "year", "system": "ENDE 2022-2026", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The document summarises a completed evaluation of the previous ENDE 2017-2021 on three dimensions (execution, ownership, impact), reported as positive overall, with a financial execution rate of 83% of the estimated cost for actions; the evaluation report's date is not given, so the document's published date is used.", "as_of": "2022", "date_precision": "year", "system": "ENDE 2017-2021", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "ENDE 2022-2026", "country_label": "ENDE 2022-2026", "class": "strategy", "platform": "", "owner": "Instituto Nacional de Estatistica (INE), for the Sistema Estatistico Nacional", "tiers": ""},
+    {"system": "ENDE 2017-2021", "country_label": "ENDE 2017-2021", "class": "strategy", "platform": "", "owner": "Instituto Nacional de Estatistica (INE), for the Sistema Estatistico Nacional", "tiers": ""}
+  ],
+  "note": "No dated review is stated; mid-term and final evaluations of ENDE 2022-2026 and annual follow-up reports are only planned instruments."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-nbs-statistician-general-2026-message",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Statistician-General says the National Strategy for the Development of Statistics was launched in 2025 and the Bureau will implement its reforms in 2026; no period is given in this document.", "as_of": "2025", "date_precision": "year", "system": "National Strategy for the Development of Statistics (NSDS)", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Development of Statistics (NSDS)", "country_label": "NSDS", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

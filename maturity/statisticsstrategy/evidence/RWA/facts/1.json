@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-01-nsds4",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The document presents Rwanda's fourth National Strategy for the Development of Statistics (NSDS4), covering July 2024 to June 2029, produced by NISR and introduced by the Minister of Finance and Economic Planning and the NISR Director General; it gives no adoption date, so as_of is its February 2025 citation date.",
+     "as_of": "2025-02", "date_precision": "month", "system": "NSDS4 2024-2029", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS4", "country_label": "NSDS4 2024-2029", "class": "strategy", "platform": "", "owner": "National Institute of Statistics of Rwanda (NISR)", "tiers": ""}
+  ],
+  "note": ""
+}

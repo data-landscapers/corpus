@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The December 2025 INSTAT manual refers to the Schéma Directeur de la Statistique (SDS) 2020-2024 as stipulating harmonisation of data collection methodologies across the national statistical system; it does not say whether the SDS has ended or a successor exists; dated by the manual's publication date.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "SDS 2020-2024",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Schéma Directeur de la Statistique (SDS)",
+   "country_label": "SDS 2020-2024",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INSTAT / Conseil national de la statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

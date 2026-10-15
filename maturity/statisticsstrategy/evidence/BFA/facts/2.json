@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-01-insd-plan-strategique-2026-2030",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The INSD plan states Burkina Faso drew up and implemented successive statistics master plans (SDS), the latest being the SDS 2021-2025; the document gives no adoption date, so its published date of 2025-10-01 is used.", "as_of": "2025-10-01", "date_precision": "day", "system": "Schema directeur de la statistique (SDS) 2021-2025", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Schema directeur de la statistique (SDS) 2021-2025", "country_label": "SDS 2021-2025", "class": "strategy", "platform": "", "owner": "", "tiers": ""},
+    {"system": "INSD Plan strategique 2026-2030", "country_label": "INSD Plan strategique 2026-2030", "class": "other", "platform": "", "owner": "INSD", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-07-somalia-nsdsii-launch",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Somalia National Bureau of Statistics unveiled the Second National Strategy for the Development of Statistics (NSDS 2, 2024-2029 per the document's header note) on 2025-12-07, building on the first NSDS.", "as_of": "2025-12-07", "date_precision": "day", "system": "NSDS II 2024-2029", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The first NSDS was in effect from 2017 to 2023, developed under the Directorate of Statistics in the Ministry of Planning, Investment and Economic Development; it has ended and been succeeded by NSDS 2.", "as_of": "2023", "date_precision": "year", "system": "NSDS 2017-2023", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS II 2024-2029", "country_label": "NSDS II 2024-2029", "class": "strategy", "platform": "", "owner": "Somalia National Bureau of Statistics", "tiers": ""},
+    {"system": "NSDS 2017-2023", "country_label": "NSDS 2017-2023", "class": "strategy", "platform": "", "owner": "Ministry of Planning, Investment and Economic Development (Directorate of Statistics)", "tiers": ""}
+  ],
+  "note": ""
+}

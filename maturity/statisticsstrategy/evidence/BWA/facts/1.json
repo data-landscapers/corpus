@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-12-botswana-bsds-statistics-strategy-launch",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Statistics Botswana and the University of Botswana launched the second Botswana Strategy for Development of Statistics (BSDS 2026-2030), a five-year national roadmap for the statistical system; no launch date is given, so the document's published date is used.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "BSDS 2026-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BSDS 2026-2030",
+   "country_label": "BSDS 2026-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

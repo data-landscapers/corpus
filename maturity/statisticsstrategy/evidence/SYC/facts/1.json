@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-17-statafric-seychelles-peer-review-report",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The STATAFRIC/African Union peer review report on Seychelles' national statistical system records adoption of the first National Strategy for the Development of Statistics (NSDS 2023-2027), aligned with Vision 2033 and Agenda 2063; the document gives no adoption date, so as_of is its publication date, 17 October 2025.", "as_of": "2025-10-17", "date_precision": "day", "system": "NSDS 2023-2027", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS 2023-2027", "country_label": "NSDS 2023-2027", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

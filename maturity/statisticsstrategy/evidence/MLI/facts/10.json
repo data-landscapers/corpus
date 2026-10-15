@@ -1,0 +1,44 @@
+{
+ "slug": "2020-03-01-instat-mali-schema-directeur-statistique-2020-2024",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document is the Schéma Directeur de la Statistique 2020-2024 of the Conseil national de la statistique, dated March 2020, with a logical framework and costed activities for the national statistical system; it does not state its approval date, so it is dated by the document.",
+   "as_of": "2020-03",
+   "date_precision": "month",
+   "system": "SDS 2020-2024",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "evaluation",
+   "value": "evaluated",
+   "fact": "The document's contents list a section drawing lessons from the evaluation of the SDS 2015-2019 and a synthesis of its implementation, including an achievement rate; the evaluation's own date is not given, so it is dated by the SDS 2020-2024 document.",
+   "as_of": "2020-03",
+   "date_precision": "month",
+   "system": "SDS 2015-2019",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Schéma Directeur de la Statistique (SDS)",
+   "country_label": "SDS 2020-2024",
+   "class": "strategy",
+   "platform": "",
+   "owner": "INSTAT / Conseil national de la statistique",
+   "tiers": ""
+  },
+  {
+   "system": "Schéma Directeur de la Statistique 2015-2019",
+   "country_label": "SDS 2015-2019",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

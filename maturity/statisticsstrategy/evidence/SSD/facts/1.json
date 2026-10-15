@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-12-south-sudan-fao-agricultural-statistics-diagnostic-workshop",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "FAO states the agricultural statistics plan SPARS 2026-2031 is being aligned with South Sudan's Second National Strategy for the Development of Statistics (NSDS II), treating NSDS II as an existing national framework; no period or adoption date is given, so the document's published date is used.", "as_of": "2026-05-12", "date_precision": "day", "system": "NSDS II", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS II", "country_label": "NSDS II", "class": "strategy", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""},
+    {"system": "Strategic Plan for Agricultural and Rural Statistics (SPARS) 2026-2031", "country_label": "SPARS 2026-2031", "class": "other", "platform": "", "owner": "National Bureau of Statistics with FAO", "tiers": ""}
+  ],
+  "note": ""
+}

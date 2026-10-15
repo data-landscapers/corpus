@@ -1,0 +1,12 @@
+{
+  "slug": "2016-07-01-ethiopia-nsds-ii-2015-16-2019-20",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Second National Strategy for the Development of Statistics (NSDS II, 2015/16-2019/20) is stated adopted by the Statistics Council; the document gives no adoption date, so the July 2016 publication date is used.", "as_of": "2016-07", "date_precision": "month", "system": "NSDS II 2015/16-2019/20", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The preface states a mid-term and a final evaluation of NSDS I (2010/11-2014/15) was conducted with PARIS21, AfDB and ECA; no evaluation date is given, so the July 2016 publication date is used.", "as_of": "2016-07", "date_precision": "month", "system": "NSDS I 2010/11-2014/15", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS II 2015/16-2019/20", "country_label": "NSDS II 2015/16-2019/20", "class": "strategy", "platform": "", "owner": "Central Statistical Agency / National Planning Commission", "tiers": ""},
+    {"system": "NSDS I 2010/11-2014/15", "country_label": "NSDS I 2010/11-2014/15", "class": "strategy", "platform": "", "owner": "Central Statistical Agency", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-25-zimbabwe-nsds-iii-2021-2025",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing", "fact": "The document presents NSDS III 2021-2025 as a final text that the ZIMSTAT Board 'presents for adoption' as the national framework for planning, budgeting and implementing statistical activities; it does not state that it has been adopted, and gives no adoption date (as_of is the document's published date).", "as_of": "2024-01-25", "date_precision": "day", "system": "NSDS III 2021-2025", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The document states NSDS III design was informed by the NSDS II (2016-2020) terminal evaluation, which is stated as completed; no date is given (as_of is the document's published date).", "as_of": "2024-01-25", "date_precision": "day", "system": "NSDS II 2016-2020", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS III 2021-2025", "country_label": "NSDS III 2021-2025", "class": "strategy", "platform": "", "owner": "ZIMSTAT", "tiers": ""},
+    {"system": "NSDS II 2016-2020", "country_label": "NSDS II 2016-2020", "class": "strategy", "platform": "", "owner": "ZIMSTAT", "tiers": ""},
+    {"system": "NSDS I 2010-2015", "country_label": "NSDS I 2010-2015", "class": "strategy", "platform": "", "owner": "ZIMSTAT", "tiers": ""}
+  ],
+  "note": ""
+}

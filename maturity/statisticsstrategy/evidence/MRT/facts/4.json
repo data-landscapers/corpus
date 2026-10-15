@@ -1,0 +1,44 @@
+{
+ "slug": "2021-01-01-mauritanie-snds-strategie-nationale-decennale-developpement-statistique-2021-2030",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document sets out Mauritania's ten-year national statistical development strategy SNDDS 2021-2030 with an action plan for 2021-2025; it gives no adoption date, so the published date is used.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "SNDDS 2021-2030",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "evaluation",
+   "value": "evaluated",
+   "fact": "The document contains a strategic evaluation and operational review of the previous SNDS 2016-2020, with results rated by axis; it gives no completion date, so the published date is used.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "SNDS 2016-2020",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDDS 2021-2030",
+   "country_label": "SNDDS 2021-2030",
+   "class": "strategy",
+   "platform": "",
+   "owner": "ANSADE",
+   "tiers": ""
+  },
+  {
+   "system": "SNDS 2016-2020",
+   "country_label": "SNDS 2016-2020",
+   "class": "strategy",
+   "platform": "",
+   "owner": "ONS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2018-04-01-libyan-national-statistics-development-strategy-2018-2023",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The Libyan National Statistics Development Strategy (NSDS) 2018-2023, issued by the Bureau of Statistics and Census under the Ministry of Planning with PARIS21 and UNFPA, is presented as Libya's first national statistics strategy, to be applied over 2018-2023, with the Minister of Planning recommending it and asking stakeholders to support its implementation; no adoption decree is stated and the date is the document's published date (2018-04).",
+     "as_of": "2018-04", "date_precision": "month", "system": "Libyan National Statistics Development Strategy 2018-2023", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Libyan National Statistics Development Strategy 2018-2023", "country_label": "NSDS 2018-2023", "class": "strategy", "platform": "", "owner": "Bureau of Statistics and Census, Ministry of Planning", "tiers": ""}
+  ],
+  "note": "No dated review or completed evaluation is stated; the monitoring chapter only plans committee meetings and reports."
+}

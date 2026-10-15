@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SWZ-001,SWZ,strategy,standing,preparing,PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: national statistics strategy.,2026-01,month,national statistics strategy,strategy,2026-01-01-nsds-status-of-countries-2026,https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf

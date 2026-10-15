@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-15-liberia-lisgis-nsds-iii-2026-2030",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The document, signed at Monrovia on 15 December 2025, presents the launch of Liberia's third-generation NSDS III for 2026-2030 as its Foreword states, though chapter 6 also says activities proceed once the LISGIS Board approves it.",
+     "as_of": "2025-12-15", "date_precision": "day", "system": "NSDS III 2026-2030", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The first strategy, NSDS I 2008-2013, is stated as having guided post-war recovery of the statistical system; that period has ended.",
+     "as_of": "2013", "date_precision": "year", "system": "NSDS I 2008-2013", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS III 2026-2030", "country_label": "NSDS III 2026-2030", "class": "strategy", "platform": "", "owner": "LISGIS", "tiers": ""},
+    {"system": "NSDS II 2017-2021 (extended to 2022-2026)", "country_label": "NSDS II 2017-2021", "class": "strategy", "platform": "", "owner": "LISGIS", "tiers": ""},
+    {"system": "NSDS I 2008-2013", "country_label": "NSDS I 2008-2013", "class": "strategy", "platform": "", "owner": "LISGIS", "tiers": ""}
+  ],
+  "note": "NSDS II is stated not implemented, with a period extended to 2026 and no end stated, so no fact; the annual reviews and mid-term (2028) and endline (2030) evaluations of NSDS III are only planned."
+}

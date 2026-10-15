@@ -1,0 +1,1253 @@
+{
+ "slug": "2026-01-01-nsds-status-of-countries-2026",
+ "countries": {
+  "MWI": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): National Statistical System Strategic Plan 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "National Statistical System Strategic Plan 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "National Statistical System Strategic Plan 2026-2030",
+     "country_label": "NSS Strategic Plan 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SWZ": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: national statistics strategy.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "national statistics strategy",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "national statistics strategy",
+     "country_label": "national statistics strategy",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "AGO": {
+   "facts": [],
+   "systems": [],
+   "note": "No status stated: Status blank in table."
+  },
+  "BDI": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2022-2026",
+     "country_label": "NSDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "BEN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2021-2023/25.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2021-2023/25",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2021-2023/25",
+     "country_label": "SNDS 2021-2023/25",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "BFA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SDS 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SDS 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SDS 2026-2030",
+     "country_label": "SDS 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "BWA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): BSDS 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "BSDS 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "BSDS 2026-2030",
+     "country_label": "BSDS 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "CAF": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2021-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2021-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2021-2025",
+     "country_label": "SNDS 2021-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "CIV": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: SNDS 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2026-2030",
+     "country_label": "SNDS 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "CMR": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2021-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2021-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2021-2030",
+     "country_label": "SNDS 2021-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "COD": {
+   "facts": [],
+   "systems": [],
+   "note": "No status stated: Status blank in table; SNDS 2012/13-17 listed."
+  },
+  "COG": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2022-2026",
+     "country_label": "SNDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "COM": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: SNDS 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2026-2030",
+     "country_label": "SNDS 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "CPV": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2022-2026",
+     "country_label": "SNDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "DJI": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2025-2029",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2025-2029",
+     "country_label": "SNDS 2025-2029",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "DZA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): National Strategy for the Development of Statistics 2015-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "National Strategy for the Development of Statistics 2015-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "National Strategy for the Development of Statistics 2015-2025",
+     "country_label": "SNDS 2015-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "EGY": {
+   "facts": [],
+   "systems": [],
+   "note": "No status stated: Status blank in table; strategy 2017-2021 listed."
+  },
+  "ERI": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Statistical Master Plan 2023-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Statistical Master Plan 2023-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Statistical Master Plan 2023-2026",
+     "country_label": "Statistical Master Plan 2023-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ETH": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2021-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2021-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2021-2026",
+     "country_label": "NSDS 2021-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GAB": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2023-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2023-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2023-2025",
+     "country_label": "SNDS 2023-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GHA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: NSDS (successor to NSDS 2018-2022).",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS (successor to NSDS 2018-2022)",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS (successor to NSDS 2018-2022)",
+     "country_label": "NSDS",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GIN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2021-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2021-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2021-2025",
+     "country_label": "SNDS 2021-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GMB": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2024-2028.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2024-2028",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2024-2028",
+     "country_label": "NSDS 2024-2028",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GNB": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): ENDE 2021-2024.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "ENDE 2021-2024",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "ENDE 2021-2024",
+     "country_label": "ENDE 2021-2024",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "GNQ": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2022-2026",
+     "country_label": "SNDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "KEN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): KSDS 2023-2028.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "KSDS 2023-2028",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "KSDS 2023-2028",
+     "country_label": "KSDS 2023-2028",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "LBR": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: national strategy for the development of statistics.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "national strategy for the development of statistics",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "national strategy for the development of statistics",
+     "country_label": "NSDS",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "LBY": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2018-2023.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2018-2023",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2018-2023",
+     "country_label": "NSDS 2018-2023",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "LSO": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2027.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2022-2027",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2022-2027",
+     "country_label": "NSDS 2022-2027",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "MAR": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Plan d'action a long terme de la Direction de la Statistique",
+     "country_label": "Plan d'action a long terme de la Direction de la Statistique",
+     "class": "other",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "No status stated: Only an office long-term action plan listed, no strategy status."
+  },
+  "MDG": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2023-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2023-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2023-2030",
+     "country_label": "SNDS 2023-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "MLI": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Schema Directeur de la Statistique 2026-2030.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Schema Directeur de la Statistique 2026-2030",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Schema Directeur de la Statistique 2026-2030",
+     "country_label": "SDS 2026-2030",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "MOZ": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2025-2029.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2025-2029",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2025-2029",
+     "country_label": "NSDS 2025-2029",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "MRT": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDDS 2021-2023.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDDS 2021-2023",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDDS 2021-2023",
+     "country_label": "SNDDS 2021-2023",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "MUS": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Strategy for Official Statistics 2020-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Strategy for Official Statistics 2020-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Strategy for Official Statistics 2020-2025",
+     "country_label": "SOS 2020-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "NAM": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2023-2027.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2023-2027",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2023-2027",
+     "country_label": "NSDS 2023-2027",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "NER": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2022-2026",
+     "country_label": "SNDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "NGA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2024-2028.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2024-2028",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2024-2028",
+     "country_label": "NSDS 2024-2028",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "RWA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2025-2029.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2025-2029",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2025-2029",
+     "country_label": "NSDS 2025-2029",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SDN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2017-2021.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2017-2021",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2017-2021",
+     "country_label": "NSDS 2017-2021",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SEN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2025-2029.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2025-2029",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2025-2029",
+     "country_label": "SNDS 2025-2029",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SLE": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2022-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2022-2025",
+     "country_label": "NSDS 2022-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SOM": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2024-2029.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2024-2029",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2024-2029",
+     "country_label": "NSDS 2024-2029",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SSD": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Master Plan for Statistics Development in Southern Sudan 2021-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Master Plan for Statistics Development in Southern Sudan 2021-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Master Plan for Statistics Development in Southern Sudan 2021-2025",
+     "country_label": "Master Plan 2021-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "STP": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2018-2021.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2018-2021",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2018-2021",
+     "country_label": "SNDS 2018-2021",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SYC": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSPS 2023-2027.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSPS 2023-2027",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSPS 2023-2027",
+     "country_label": "NSPS 2023-2027",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "TCD": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2022-2026.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2022-2026",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2022-2026",
+     "country_label": "SNDS 2022-2026",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "TGO": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SNDS 2020-2025.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "SNDS 2020-2025",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "SNDS 2020-2025",
+     "country_label": "SNDS 2020-2025",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "TUN": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Programme National de la Statistique 2016-2020.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Programme National de la Statistique 2016-2020",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Programme National de la Statistique 2016-2020",
+     "country_label": "PNS 2016-2020",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "TZA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Tanzania Statistical Master Plan 2022-2027.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "Tanzania Statistical Master Plan 2022-2027",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "Tanzania Statistical Master Plan 2022-2027",
+     "country_label": "TSMP 2022-2027",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "UGA": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "preparing",
+     "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: PNSD (successor to PNSD 2020-2025).",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "PNSD (successor to PNSD 2020-2025)",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "PNSD (successor to PNSD 2020-2025)",
+     "country_label": "PNSD",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ZAF": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Statistics South Africa Strategic Plan 2020-2025",
+     "country_label": "Statistics South Africa Strategic Plan 2020-2025",
+     "class": "other",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": "No status stated: Only the statistics office corporate strategic plan listed."
+  },
+  "ZMB": {
+   "facts": [
+    {
+     "sub_indicator": "strategy",
+     "aspect": "standing",
+     "value": "adopted",
+     "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2023-2027.",
+     "as_of": "2026-01",
+     "date_precision": "month",
+     "system": "NSDS 2023-2027",
+     "class": "strategy"
+    }
+   ],
+   "systems": [
+    {
+     "system": "NSDS 2023-2027",
+     "country_label": "NSDS 2023-2027",
+     "class": "strategy",
+     "platform": "",
+     "owner": "",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "ZWE": {
+   "facts": [],
+   "systems": [],
+   "note": "No status stated: Status blank in table; NSDS 2021-2025 listed."
+  }
+ }
+}

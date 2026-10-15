@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-11-bfa-lefaso-conseil-national-statistique-session-2026",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "At the 11 September 2026 session of the Conseil national de la statistique, the INSD director general described the 2026-2030 schema directeur de la statistique as the new framework governing statistical activities, and the 2027 national statistical programme as aligned with it.",
+     "as_of": "2026-09-11", "date_precision": "day",
+     "system": "Schema directeur de la statistique 2026-2030", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Schema directeur de la statistique 2026-2030", "country_label": "Schema directeur de la statistique 2026-2030", "class": "strategy", "platform": "", "owner": "INSD", "tiers": ""}
+  ],
+  "note": ""
+}

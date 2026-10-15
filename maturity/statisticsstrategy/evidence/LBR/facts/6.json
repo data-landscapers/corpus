@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-nsds-status-of-countries-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "preparing",
+   "fact": "PARIS21's January 2026 NSDS status table lists a strategy as being designed or awaiting adoption: national strategy for the development of statistics.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "national strategy for the development of statistics",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national strategy for the development of statistics",
+   "country_label": "NSDS",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

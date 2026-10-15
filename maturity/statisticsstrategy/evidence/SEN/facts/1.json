@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-03-imf-senegal-economic-data-coordination",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted",
+     "fact": "The article states Senegal's authorities will pursue the IMF ROSC recommendations through the 2024-2028 national statistical development strategy, which is thus in force; no adoption date is given, so as_of is the document's published date of 2026-09-03.",
+     "as_of": "2026-09-03", "date_precision": "day",
+     "system": "National statistical development strategy 2024-2028", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "National statistical development strategy 2024-2028", "country_label": "SNDS 2024-2028", "class": "strategy", "platform": "", "owner": "ANSD", "tiers": ""}
+  ],
+  "note": ""
+}

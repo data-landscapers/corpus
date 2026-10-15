@@ -1,0 +1,5 @@
+{"slug":"2026-10-10-caf-icasees-evaluation-mi-parcours-snds2","facts":[
+{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"ICASEES states the Central African Republic adopted its second national statistics development strategy (SNDS2, period 2024-2028, envelope of nearly FCFA 60 billion) in August 2023.","as_of":"2023-08","date_precision":"month","system":"SNDS2 2024-2028","class":"strategy"},
+{"sub_indicator":"strategy","aspect":"review","value":"reviewed","fact":"ICASEES held a workshop on 7-9 October 2026 in Bangui, with members of the statistical programming committee (CTPAS), to review implementation of SNDS2 2024-2028 at mid-term against its commitments, funded by UNDP.","as_of":"2026-10-07","date_precision":"day","system":"SNDS2 2024-2028","class":"strategy"}],
+"systems":[{"system":"SNDS2 2024-2028","country_label":"SNDS2 2024-2028","class":"strategy","platform":"","owner":"ICASEES","tiers":""}],
+"note":"Mid-term evaluation workshop held 7-9 Oct 2026; the document lists outputs as expected and does not state the evaluation completed, so no evaluation fact."}

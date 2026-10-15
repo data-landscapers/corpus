@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-04-insbu-actualites-et-evenements",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "INSBU's account of the Groupe Sectoriel Statistique meeting of 28 July 2026 refers to the SNDS-III as the national statistical development strategy in force; no period is given, and the date is that of the meeting.", "as_of": "2026-07-28", "date_precision": "day", "system": "SNDS-III", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used.", "as_of": "2026-07-28", "date_precision": "day", "system": "SNDS-III", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS-III", "country_label": "SNDS-III", "class": "strategy", "platform": "", "owner": "INSBU", "tiers": ""},
+    {"system": "Stratégie de Communication et de Diffusion des Statistiques du SSN 2026-2030", "country_label": "SSN communication strategy 2026-2030", "class": "other", "platform": "", "owner": "INSBU", "tiers": ""}
+  ],
+  "note": ""
+}

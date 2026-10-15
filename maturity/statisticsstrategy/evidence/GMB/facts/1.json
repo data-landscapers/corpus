@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-17-statafric-peer-review-report-national-statistical-system-gambia",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "STATAFRIC's announcement of the peer review report says The Gambia has adopted NSDS III 2024-2028; the document gives no adoption date, so the publication date 2025-11-17 is used.", "as_of": "2025-11-17", "date_precision": "day", "system": "NSDS III 2024-2028", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS III 2024-2028", "country_label": "NSDS III 2024-2028", "class": "strategy", "platform": "", "owner": "Gambia Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

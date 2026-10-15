@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-nsds-status-of-countries-2026",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2025-2029.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "NSDS 2025-2029",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSDS 2025-2029",
+   "country_label": "NSDS 2025-2029",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

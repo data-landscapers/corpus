@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-30-instad-snds3-national-statistics-strategy-lanation",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "preparing",
+     "fact": "INSTAD and stakeholders validated the draft third national statistics development strategy SNDS 3 (2025-2029) at a workshop held the day before publication, with formal adoption stated to be expected in the coming weeks; the work was financed with the World Bank.",
+     "as_of": "2025-04-29", "date_precision": "day",
+     "system": "SNDS 3 2025-2029", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "SNDS 3 2025-2029", "country_label": "SNDS 3 2025-2029", "class": "strategy", "platform": "", "owner": "INSTAD", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-02-01-namibia-nsds-2023-24-2026-27",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Namibia Statistics Agency published the National Strategy for the Development of Statistics (NSDS) 2023/24-2026/27 in February 2023, with a four-year implementation plan costed at N$58,995,000 across ten sector statistics plans; the document gives no separate adoption date, so its publication date is used.", "as_of": "2023-02", "date_precision": "month", "system": "NSDS 2023/24-2026/27", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "NSDS 2023/24-2026/27", "country_label": "NSDS 2023/24-2026/27", "class": "strategy", "platform": "", "owner": "Namibia Statistics Agency", "tiers": ""}
+  ],
+  "note": ""
+}

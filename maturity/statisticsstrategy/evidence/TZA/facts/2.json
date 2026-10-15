@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-16-nbs-big-data-gaps-opportunities-assessment",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The report states that NBS and OCGS are implementing the second phase of the Tanzania Statistical Master Plan (TSMP II, 2022/23 - 2026/27), described as the operational roadmap for the National Statistical System; the document's published date is used as no event date is given.", "as_of": "2025-10-16", "date_precision": "day", "system": "Tanzania Statistical Master Plan II (TSMP II) 2022/23-2026/27", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "Tanzania Statistical Master Plan II (TSMP II)", "country_label": "TSMP II 2022/23-2026/27", "class": "strategy", "platform": "", "owner": "NBS and OCGS", "tiers": ""}
+  ],
+  "note": ""
+}

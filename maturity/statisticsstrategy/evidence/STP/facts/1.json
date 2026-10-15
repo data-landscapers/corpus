@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-sao-tome-ine-ende-2025-2029",
+  "facts": [
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The document is the national statistics strategy ENDE 2025-2029, the third for the Sistema Estatistico Nacional, presented as the one to be implemented; it states no adoption date, so the year is the document's published date (2025).", "as_of": "2025", "date_precision": "year", "system": "ENDE 2025-2029", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The ENDE 2018-2021 was a national statistics strategy that ended in 2021; no successor was drawn up immediately, and some of its activities continued ad hoc until 2024.", "as_of": "2021", "date_precision": "year", "system": "ENDE 2018-2021", "class": "strategy"},
+    {"sub_indicator": "strategy", "aspect": "evaluation", "value": "evaluated", "fact": "An evaluation report of the ENDE 2018-2021 found a physical execution rate of 52.8% of 144 planned actions and 41.0% financial execution of EUR 6.973 million; the final evaluation planned for the period was not carried out. Dated by the document's published year, 2025.", "as_of": "2025", "date_precision": "year", "system": "ENDE 2018-2021", "class": "strategy"}
+  ],
+  "systems": [
+    {"system": "ENDE 2025-2029", "country_label": "ENDE 2025-2029", "class": "strategy", "platform": "", "owner": "INE / Sistema Estatistico Nacional", "tiers": ""},
+    {"system": "ENDE 2018-2021", "country_label": "ENDE 2018-2021", "class": "strategy", "platform": "", "owner": "INE / Sistema Estatistico Nacional", "tiers": ""}
+  ],
+  "note": ""
+}
