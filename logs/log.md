@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-15 22:49 · **REVIEW** · 3m · XSA: status 0 sections revised, progress 5 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
+2026-10-15 22:46 · **REVIEW** · 3m · XNA: status 0 sections revised, progress 2 cells, monthly 2 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-15 22:43 · **BUILD** · 37m · catalogue 28,462, finance 62 places, scan 44 units, 18 rows minted, 14 moved, 1 duplicate withdrawn; data centres 8 read; maturity held; bulletin 32; budgets: poll run, none waiting; register 30 standing — ok
 2026-10-15 22:06 · **ANALYTICS** · unclocked · 2026-10-13..2026-10-14 written; 14 Oct: dl.io 40 views / 2 clicks, corpus 35 views / 5 clicks
 2026-10-15 19:55 · **MATURITY-STUDY** · unclocked · opendatause, run: on Bill's word the 212 carried documents left at the ceiling were read; 113 facts; 7 corrections (EITI articles as reuse, unnamed bodies, a request registry, a reports portal, a platform with no download removed; two body counts moved to question 3); as at 2026-09-30 stage 5: Liberia, Senegal; 4: 4; 3: 7; 2: 23; none at 1; 5 unplaced, 13 no evidence; agreement 18/20; on the map. Tokens 43.0M of 25M.
