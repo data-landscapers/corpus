@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "In a reply to parliamentary question NW6007, the Acting Minister of Police states that SAPS compiles quarterly crime statistics from dockets registered on its CAS/ICDMS case systems and releases them, while having halted the women-and-children breakdown over data inconsistencies; the reply is undated, so the question date of 31 December 2025 is used.",
+     "as_of": "2025-12-31", "date_precision": "day",
+     "system": "SAPS quarterly crime statistics", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "SAPS quarterly crime statistics", "country_label": "SAPS quarterly crime statistics", "class": "admin", "platform": "CAS/ICDMS", "owner": "South African Police Service", "tiers": ""},
+    {"system": "Crime Administration System (CAS)/Investigate Case Docket Management System (ICDMS)", "country_label": "CAS/ICDMS", "class": "other", "platform": "", "owner": "South African Police Service", "tiers": ""}
+  ],
+  "note": ""
+}

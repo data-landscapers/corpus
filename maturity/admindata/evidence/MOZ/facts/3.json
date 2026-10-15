@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-e-sircev-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-SIRCEV",
+   "country_label": "e-SIRCEV",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Direcção Nacional dos Registos e Notariado",
+   "tiers": ""
+  }
+ ],
+ "note": "Landing page of navigation links; no dated published statistics product."
+}

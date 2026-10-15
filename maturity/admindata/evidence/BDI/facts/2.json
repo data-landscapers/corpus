@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-menrs-annuaire-statistique-education-2024-2025-tome-2",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The education ministry's planning and statistics bureau (BPSE) published the education statistical yearbook 2024-2025, Tome 2 (post-fundamental, technical and vocational schools, data at 15 November 2024), in December 2025, compiled from the annual school census.", "as_of": "2025-12", "date_precision": "month", "system": "Annuaire statistique de l'education 2024-2025, Tome 2", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique de l'education 2024-2025, Tome 2", "country_label": "Annuaire statistique de l'education 2024-2025", "class": "admin", "platform": "", "owner": "MENRS, Bureau de la Planification et des Statistiques de l'Education", "tiers": ""}
+  ],
+  "note": ""
+}

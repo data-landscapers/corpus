@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-19-icasees-hiswaca-motos-chefs-secteur-scolaire",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "On 18 February 2026 the World Bank-financed HISWACA-SOP 2 project handed 300 motorcycles (357 million FCFA) to school sector chiefs to supervise and speed the collection and transmission of school data for the education statistics system, so that statistical yearbooks can be produced regularly.", "as_of": "2026-02-18", "date_precision": "day", "system": "HISWACA-SOP 2 education statistics collection support", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Education statistics system (school data collection, annuaires statistiques)", "country_label": "Education statistics (Ministry of National Education / ICASEES)", "class": "admin", "platform": "", "owner": "Ministry of National Education; ICASEES", "tiers": ""}
+  ],
+  "note": ""
+}

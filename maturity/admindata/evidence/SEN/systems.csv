@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,Annuaire statistique des données d'état civil (ANEC mandate),"Civil-status statistical yearbook (mandated, no edition named)",vital,,Agence nationale de l'État civil (ANEC),,2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales
+SEN,Annuaire national statistique de l'éducation (DPRE),"National education statistical yearbook (mandated, no edition named)",admin,,"Direction de la Planification et de la Réforme de l'Education (DPRE), Ministry of Education",,2023-02-27-men-dpre-missions-statistiques-scolaires
+SEN,Registre national unique (RNU),Registre national unique,other,,Government of Senegal (social protection),,2026-06-17-aps-rnu-extension-996194-menages
+SEN,ANEC-ANSD interoperability protocol,Protocole d'interopérabilité ANEC-ANSD,admin,,ANEC; ANSD,,2026-01-23-anec-ansd-protocole-interoperabilite-etat-civil
+SEN,Registre national unique (RNU),Registre national unique,other,,Government of Senegal (social protection),,2026-07-16-presidence-conseil-des-ministres-16-juillet-2026
+SEN,Observatoire National du Numérique (ONN),Observatoire National du Numérique,other,web platform,Ministry of Telecommunications and Digital Affairs (CEP),,2026-07-01-sen-paens-tdr-observatoire-national-du-numerique

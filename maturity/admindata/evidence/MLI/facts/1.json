@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-03-mali-snisi-a-propos-de-ce-systeme",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SNISI",
+   "country_label": "SNISI",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a health information system in general terms; no statistics product named."
+}

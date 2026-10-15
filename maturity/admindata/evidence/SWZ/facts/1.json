@@ -1,0 +1,11 @@
+{
+  "slug": "2022-09-28-icap-eswatini-civil-registration",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The 2021 Eswatini Vital Statistics Report (figures for 2021, including over 10,000 births registered late) was presented at the CRVS commemoration day launch on 10 August 2022, per ICAP.", "as_of": "2022-08-10", "date_precision": "day", "system": "Eswatini Vital Statistics Report 2021", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The 2021 Eswatini Vital Statistics Report, compiled from civil registration, was presented on 10 August 2022; it covers 2021.", "as_of": "2022-08-10", "date_precision": "day", "system": "Eswatini Vital Statistics Report 2021", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Eswatini Vital Statistics Report 2021", "country_label": "Vital Statistics Report 2021", "class": "vital", "platform": "", "owner": "Ministry of Home Affairs / Ministry of Health with ICAP support", "tiers": ""}
+  ],
+  "note": ""
+}

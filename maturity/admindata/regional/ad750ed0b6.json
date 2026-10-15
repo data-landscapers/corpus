@@ -1,0 +1,44 @@
+{
+ "slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr",
+ "countries": {
+  "BWA": {
+   "facts": [],
+   "systems": [],
+   "note": "UNICEF global birth registration report is an international compilation; no national statistics product or work on records for statistics stated."
+  },
+  "CIV": {
+   "facts": [],
+   "systems": [],
+   "note": "UNICEF global birth registration report is an international compilation; no national statistics product or work on records for statistics stated."
+  },
+  "RWA": {
+   "facts": [],
+   "systems": [],
+   "note": "UNICEF global birth registration report is an international compilation; no national statistics product or work on records for statistics stated."
+  },
+  "SLE": {
+   "facts": [],
+   "systems": [],
+   "note": "UNICEF global birth registration report is an international compilation; no national statistics product or work on records for statistics stated."
+  },
+  "TZA": {
+   "facts": [],
+   "systems": [],
+   "note": "UNICEF global birth registration report is an international compilation; no national statistics product or work on records for statistics stated."
+  },
+  "ZWE": {
+   "facts": [],
+   "systems": [
+    {
+     "system": "Zimbabwe civil registration and vital statistics system",
+     "country_label": "Zimbabwe CRVS strategic action plan 2023-2027",
+     "class": "other",
+     "platform": "",
+     "owner": "civil registration",
+     "tiers": ""
+    }
+   ],
+   "note": "CRVS assessment (2023) and plan 2023-2027 and computerised offices are registry work, not a stated statistics product or statistical-use work."
+  }
+ }
+}

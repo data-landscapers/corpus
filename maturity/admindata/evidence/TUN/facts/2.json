@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-03-tunisie-ins-statistiques-repertoire-national-entreprises-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "INS published Statistiques issues du Repertoire National des Entreprises (edition 2024, figures 2005-2023), compiled from tax (DGI) and social security (CNSS) files plus APII and customs data; document dated 2025-06-03 on the INS site.",
+     "as_of": "2025-06-03", "date_precision": "day",
+     "system": "Statistiques issues du Repertoire National des Entreprises 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Statistiques issues du Repertoire National des Entreprises 2023", "country_label": "Statistiques issues du RNE, edition 2024 (data to 2023)", "class": "admin", "platform": "PDF publication", "owner": "Institut National de la Statistique", "tiers": ""},
+    {"system": "Repertoire National des Entreprises (RNE)", "country_label": "Repertoire National des Entreprises", "class": "other", "platform": "", "owner": "Institut National de la Statistique", "tiers": ""}
+  ],
+  "note": ""
+}

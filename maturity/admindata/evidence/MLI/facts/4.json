@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-08-techgriot-mali-national-digital-health-portal",
+ "facts": [],
+ "systems": [
+  {
+   "system": "sante.gov.ml portal",
+   "country_label": "Portail national de santé numérique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": "Digital portal launch; no statistics product named."
+}

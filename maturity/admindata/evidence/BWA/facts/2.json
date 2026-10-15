@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-17-statistics-botswana-annual-report-2023-24",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "Statistics Botswana reports that in the year to 31 March 2024 the assessment, review and digitalisation of administrative data management had been rolled out to twelve sectors, with tablets donated to four ministries and agencies for digital data capture.", "as_of": "2024-03", "date_precision": "month", "system": "Administrative data review and digitalisation programme", "class": "admin"}
+  ],
+  "systems": [],
+  "note": "Report is the office's account of its own activity; only the administrative data work programme is a fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-lesotho-2022-vital-statistics-report",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Bureau of Statistics published Statistical Report No. 04, the 2022 Vital Statistics Report (figures cover 2022), compiled from civil registration records collected by Ministry of Home Affairs staff; release date given only as 2024 (document published date used).", "as_of": "2024", "date_precision": "year", "system": "2022 Vital Statistics Report", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The Bureau of Statistics published the 2022 Vital Statistics Report (Statistical Report No. 04, 2024) on births, deaths, marriages and divorces registered in 2022, disseminated on the BOS website and MOHA dashboard; release date given only as 2024 (document published date used).", "as_of": "2024", "date_precision": "year", "system": "2022 Vital Statistics Report", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "2022 Vital Statistics Report", "country_label": "2022 Vital Statistics Report", "class": "vital", "platform": "BOS website; MOHA dashboard", "owner": "Lesotho Bureau of Statistics (Population Statistics Division)", "tiers": ""}
+  ],
+  "note": ""
+}

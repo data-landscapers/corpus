@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique des données d'état civil (ANEC mandate)", "country_label": "Civil-status statistical yearbook (mandated, no edition named)", "class": "vital", "platform": "", "owner": "Agence nationale de l'État civil (ANEC)", "tiers": ""}
+  ],
+  "note": "Mandate page only: ANEC is charged with producing a civil-status yearbook, but no edition, release or work event is stated with a date."
+}

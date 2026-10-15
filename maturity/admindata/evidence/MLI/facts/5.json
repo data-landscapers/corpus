@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-25-instat-mali-rapport-annuel-emop-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMOP",
+   "country_label": "EMOP Rapport annuel 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "INSTAT",
+   "tiers": ""
+  }
+ ],
+ "note": "Household survey report; not administrative records."
+}

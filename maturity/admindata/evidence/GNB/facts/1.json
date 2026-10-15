@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-08-unfpa-guinea-bissau-civil-registry-statistics-training",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing",
+     "fact": "UNFPA, the National Institute of Statistics (INE) and the Ministry of Justice and Human Rights ran a five-day descriptive statistics training (4-8 August 2025, Bissau) for 42 professionals, including civil registry technicians from all nine regions, to improve the accuracy of vital statistics.",
+     "as_of": "2025-08-08", "date_precision": "day",
+     "system": "Civil registry statistics training", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Civil registration (civil registry offices)", "country_label": "Registo civil", "class": "other", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": ""}
+  ],
+  "note": ""
+}

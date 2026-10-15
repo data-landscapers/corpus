@@ -1,0 +1,14 @@
+{
+  "slug": "2023-12-01-lisgis-socioeconomic-statistical-bulletin-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "LISGIS published the 2023 Socioeconomic Statistical Bulletin (Vol. 4 No. 01, December 2023), compiled mainly from ministry, agency and commission administrative data (education, health, security, trade, transport and others), with most data covering 2016-2022.",
+     "as_of": "2023-12", "date_precision": "month",
+     "system": "2023 Socioeconomic Statistical Bulletin of Liberia", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "2023 Socioeconomic Statistical Bulletin of Liberia", "country_label": "Socioeconomic Statistical Bulletin 2023", "class": "admin", "platform": "", "owner": "LISGIS", "tiers": ""},
+    {"system": "Administrative Data Project (HISWA)", "country_label": "Administrative Data Project", "class": "other", "platform": "", "owner": "LISGIS", "tiers": ""}
+  ],
+  "note": "No vital statistics report named; the bulletin has no birth or death registration tables."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-gnq-ahoraeg-inege-anuario-estadistico",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "INEGE presented the ninth edition of the national Statistical Yearbook, Anuario Estadistico de Guinea Ecuatorial 2026, on 2026-09-25, covering official demographic, social, economic, financial, environmental and administrative data for the last five years.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Anuario Estadistico de Guinea Ecuatorial 2026",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Anuario Estadistico de Guinea Ecuatorial 2026",
+   "country_label": "Anuario Estadistico 2026 (9th ed.)",
+   "class": "admin",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

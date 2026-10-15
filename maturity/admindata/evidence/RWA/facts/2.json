@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01-education-statistical-yearbook-2024-2025",
+  "facts": [
+    {"sub_indicator":"admin","aspect":"use","value":"published","fact":"MINEDUC published the 2024/2025 Education Statistical Yearbook in February 2026, covering the school year July 2024 to June 2025 (institutions, enrolment, staff, infrastructure, learning outcomes), compiled from the annual school census.","as_of":"2026-02","date_precision":"month","system":"2024/2025 Education Statistical Yearbook","class":"admin"}
+  ],
+  "systems": [
+    {"system":"2024/2025 Education Statistical Yearbook","country_label":"Education Statistical Yearbook 2024/2025","class":"admin","platform":"","owner":"Ministry of Education (MINEDUC)","tiers":""}
+  ],
+  "note": ""
+}

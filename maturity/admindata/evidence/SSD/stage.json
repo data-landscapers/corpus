@@ -1,0 +1,17 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "admin",
+   "stage": "3",
+   "use": "published",
+   "vital": "",
+   "series": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-001;SSD-002",
+   "gaps": "No source held reports vital statistics from civil registration published since October 2023.",
+   "note": "Counted from the four questions by study-ladder-admindata.py."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-12-01-mescti-anuario-estatistico-do-ensino-superior-2020-21",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Ministry of Higher Education's planning and statistics office published the 7th edition of the Anuario Estatistico do Ensino Superior in December 2023, covering academic year 2020-21 (graduates of 2019), compiled from seven administrative primary registers supplied by higher-education institutions.", "as_of": "2023-12", "date_precision": "month", "system": "Anuario Estatistico do Ensino Superior 2020-21", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Anuario Estatistico do Ensino Superior 2020-21", "country_label": "Anuario Estatistico do Ensino Superior 2020-21", "class": "admin", "platform": "Excel exchange files from institutions", "owner": "Gabinete de Estudos, Planeamento e Estatistica, MESCTI", "tiers": ""}
+  ],
+  "note": ""
+}

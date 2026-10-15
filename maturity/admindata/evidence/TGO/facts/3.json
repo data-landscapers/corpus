@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-inseed-annuaire-statistique-national-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data.", "as_of": "2026-08-01", "date_precision": "day", "system": "Annuaire statistique national 2024 Version révisée", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique national 2024 Version révisée", "country_label": "Annuaire statistique national 2024", "class": "admin", "platform": "", "owner": "INSEED", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-09-liberia-police-csis-policewoman",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Statistics Information System (CSIS)", "country_label": "LNP CSIS", "class": "other", "platform": "tablet and online portal", "owner": "Liberia National Police", "tiers": ""}
+  ],
+  "note": "Information system for crime reporting; no published crime statistics product named."
+}

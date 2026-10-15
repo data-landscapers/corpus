@@ -1,0 +1,62 @@
+{
+ "slug": "2026-01-01-ubos-vote-143-budget-performance",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "UBOS reports in its FY2025/26 budget performance (to end December 2025) that it disseminated the 2024 UBOS Annual Statistical Abstract; the document gives no release date, so its published date (2026, year precision) is used.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "UBOS Annual Statistical Abstract 2024",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "UBOS reports online training of 750 district officials on compiling local government community and administrative data in FY2025/26; no date given, so the document's published year (2026) is used.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "LG Community and Administrative Data compilation",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "vital",
+   "value": "published",
+   "fact": "UBOS reports that it finalized and disseminated the Vital Statistics Report 2024 (and a CRVS report) during FY2025/26 to end December 2025; no release date given, so the document's published year (2026) is used.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Vital Statistics Report 2024",
+   "class": "vital"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Annual Statistical Abstract",
+   "country_label": "UBOS Annual Statistical Abstract 2024",
+   "class": "admin",
+   "platform": "",
+   "owner": "Uganda Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Vital Statistics Report",
+   "country_label": "Vital Statistics Report 2024",
+   "class": "vital",
+   "platform": "",
+   "owner": "Uganda Bureau of Statistics",
+   "tiers": ""
+  },
+  {
+   "system": "Harmonized Data Portal",
+   "country_label": "Harmonized Data Portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Uganda Bureau of Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

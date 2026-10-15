@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The report says its national institutional maternal and stillbirth rates are consistent with the 2023 vital statistics report; it gives no release date, so the document's published date is used.", "as_of": "2025-06-01", "date_precision": "day", "system": "2023 vital statistics report", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 routine health facility data", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "2023 vital statistics report", "country_label": "2023 vital statistics report", "class": "vital", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-08-mozdata-ine-microdata-catalogue-mozambique",
+  "facts": [],
+  "systems": [
+    {"system": "MOZDATA", "country_label": "MOZDATA microdata catalogue", "class": "other", "platform": "NADA-style catalogue", "owner": "Instituto Nacional de Estatistica", "tiers": "licensed access"}
+  ],
+  "note": "Undated licensed microdata catalogue (79 operations, incl. census, school and higher-education datasets); no release date or statistical product stated, and no vital statistics."
+}

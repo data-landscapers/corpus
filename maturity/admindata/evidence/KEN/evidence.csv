@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+KEN-001,KEN,admin,use,published,"KNBS published the Economic Survey 2025 (figures for 2024), whose statistics draw on administrative data collected by ministries, departments, agencies and county governments; publication dated May 2025, the document giving no day.",2025-05,month,Economic Survey 2025,admin,2025-05-01-knbs-economic-survey-2025,https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf

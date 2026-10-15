@@ -1,0 +1,11 @@
+{
+  "slug": "2018-08-10-seychelles-nation-civil-registration-vital-statistics",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "Seychelles Nation stated on 10 August 2018 that vital statistics compiled by the NBS from Civil Status records are published by the NBS on a bi-annual basis in electronic publications; no report, edition or release date is named, so the article date is used.", "as_of": "2018-08-10", "date_precision": "day", "system": "NBS vital statistics publications", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "NBS vital statistics publications", "country_label": "NBS vital statistics publications", "class": "vital", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""},
+    {"system": "National Population Database", "country_label": "National Population Database", "class": "other", "platform": "", "owner": "Civil Status Division", "tiers": ""}
+  ],
+  "note": ""
+}

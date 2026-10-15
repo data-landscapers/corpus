@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-01-south-sudan-who-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The report states the Ministry of Health, with WHO technical support, produced and launched the Health Statistics Abstract (2025) at the Fourth South Sudan Health Summit, 2-5 December 2025, launched by the Vice President.", "as_of": "2025-12", "date_precision": "month", "system": "Health Statistics Abstract (2025)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Health Statistics Abstract (2025)", "country_label": "Health Statistics Abstract 2025", "class": "admin", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Annual Health Sector Performance Report (2024/25)", "country_label": "Annual Health Sector Performance Report 2024/25", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Trends in Deaths by Cause (2019-2024)", "country_label": "Trends in Deaths by Cause 2019-2024", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Only the Health Statistics Abstract launch is a fact; no civil-registration vital statistics report is stated (Trends in Deaths by Cause is not said to come from civil registration); DHIS2 audit and EWARS linkage are an information system with no product named."
+}

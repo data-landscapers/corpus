@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-south-sudan-2025-health-statistics-abstract",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "The Ministry of Health, with the National Bureau of Statistics, published the inaugural 2025 Health Statistics Abstract covering 2021 to 2024, drawing routine facility data from DHIS2 alongside surveys and modelled estimates; the document gives no release date beyond its 2025 publication year, so the published date is used.",
+     "as_of": "2025", "date_precision": "year",
+     "system": "2025 Health Statistics Abstract", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "2025 Health Statistics Abstract", "country_label": "Republic of South Sudan 2025 Health Statistics Abstract", "class": "admin", "platform": "", "owner": "Ministry of Health; National Bureau of Statistics", "tiers": ""},
+    {"system": "DHIS2", "country_label": "National health information system (DHIS2)", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "No vital statistics report: the abstract says CRVS remains underdeveloped and most indicators are modelled estimates, so nothing is recorded for vital or series."
+}

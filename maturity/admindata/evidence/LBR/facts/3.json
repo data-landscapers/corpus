@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-26-undp-liberia-national-police-crime-statistics-information-system-goes-live",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Statistics Information System (CSIS)", "country_label": "LNP CSIS", "class": "other", "platform": "web application", "owner": "Liberia National Police", "tiers": ""}
+  ],
+  "note": "Launch of a police crime database system with training; no published statistics product and no statistics-office work stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-28-crvs-portal-sircev",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-RCEV (Sistema de Registo Civil e Estatísticas Vitais)",
+   "country_label": "e-RCEV",
+   "class": "other",
+   "platform": "USSD, SMS and web",
+   "owner": "Direcção Nacional dos Registos e Notariado, Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "Portal describes the e-RCEV system and lists statistics menu items, but names no dated published statistics report."
+}

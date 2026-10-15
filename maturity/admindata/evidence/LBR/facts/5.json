@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "NID-CRVS system (proposed)", "country_label": "Liberia NID-CRVS", "class": "other", "platform": "", "owner": "National Identification Registry", "tiers": ""}
+  ],
+  "note": "Planned link of national ID and civil registration under a proposed PPP; an ID/register linkage, not a statistics product."
+}

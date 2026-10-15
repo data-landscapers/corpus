@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-15-oft-stad-plateforme-transports-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "Stad (Système de traitement et d'analyse de données statistiques)", "country_label": "Stad", "class": "other", "platform": "digital platform", "owner": "Observatoire de la fluidité des transports (Oft), with Cntig", "tiers": ""}
+  ],
+  "note": "Transport-flow data platform of an observatory; no published statistics product from administrative records or vital statistics report is stated."
+}

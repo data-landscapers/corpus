@@ -1,0 +1,13 @@
+{
+  "slug": "2017-01-01-mali-adea-revue-par-les-pairs-sige",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published",
+     "fact": "The peer review states that education statistical yearbooks, compiled from school census returns by the ministry's planning and statistics unit (CPS-SE), are produced and published regularly, though more than 12 months after data collection; the document gives no release date, so its 2017 publication year is used.",
+     "as_of": "2017", "date_precision": "year", "system": "Annuaires statistiques de l'education (CPS-SE)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaires statistiques de l'education (CPS-SE)", "country_label": "Annuaires statistiques de l'education", "class": "admin", "platform": "", "owner": "Cellule de Planification et de Statistique du Secteur Education (CPS-SE)", "tiers": ""},
+    {"system": "SIGE / StatEduc-2", "country_label": "SIGE (Systeme d'information pour la gestion de l'education)", "class": "other", "platform": "StatEduc-2 over VPN", "owner": "Ministere de l'Education Nationale", "tiers": ""}
+  ],
+  "note": ""
+}

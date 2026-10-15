@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-31-inege-octava-edicion-anuario-estadistico-nacional",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "INEGE presented the eighth edition of the national statistical yearbook on 2025-10-31, with data to December 2024, compiled from data supplied by ministries and official bodies.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Anuario Estadistico de Guinea Ecuatorial 2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Anuario Estadistico de Guinea Ecuatorial 2025",
+   "country_label": "Anuario Estadistico 2025 (8th ed.)",
+   "class": "admin",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

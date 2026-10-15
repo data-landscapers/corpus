@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31-nbs-seychelles-end-of-year-population-2025",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The National Bureau of Statistics released Population and Vital Statistics December 2025 on 31 March 2026, reporting 1,293 births and 845 deaths registered in 2025, with figures taken from the Civil Status office.", "as_of": "2026-03-31", "date_precision": "day", "system": "Population and Vital Statistics December 2025", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The National Bureau of Statistics released Population and Vital Statistics December 2025 (catalogue Population 2026/1) on 31 March 2026, compiled from Civil Status registered births and deaths and covering 2025.", "as_of": "2026-03-31", "date_precision": "day", "system": "Population and Vital Statistics December 2025", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Population and Vital Statistics December 2025", "country_label": "Population and Vital Statistics December 2025", "class": "vital", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": ""
+}

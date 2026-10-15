@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Statistics Botswana released its Vital Statistics Report 2024 in August 2026, compiled from the Births and Deaths Registration System and Department of Civil and National Registration records, covering births, deaths and marriages registered in 2024 (49,180 births, 14,070 deaths).", "as_of": "2026-08", "date_precision": "month", "system": "Vital Statistics Report 2024", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "Statistics Botswana released its Vital Statistics Report 2024 in August 2026, covering births and deaths registered in 2024 (49,180 births and 14,070 deaths registered) from civil registration data.", "as_of": "2026-08", "date_precision": "month", "system": "Vital Statistics Report 2024", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Vital Statistics Report 2024", "country_label": "Vital Statistics Report 2024", "class": "vital", "platform": "", "owner": "Statistics Botswana", "tiers": ""},
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System", "class": "other", "platform": "partially automated, integrated with the National Identification System", "owner": "Department of Civil and National Registration", "tiers": "35 district offices, 17 on-site health facility points"}
+  ],
+  "note": "No series fact: the document names one report, no second year."
+}

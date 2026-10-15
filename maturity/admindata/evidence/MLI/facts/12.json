@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique de la CPS du secteur de l'éducation", "country_label": "Annuaire statistique (secteur éducation)", "class": "admin", "platform": "", "owner": "CPS education sector", "tiers": ""},
+    {"system": "Statistiques du commerce extérieur", "country_label": "Statistiques du commerce extérieur", "class": "admin", "platform": "", "owner": "Direction des douanes / BCEAO / INSTAT", "tiers": ""}
+  ],
+  "note": "Methods manual naming administrative sources and yearbooks as indicator sources, with no release date or edition of a published product."
+}

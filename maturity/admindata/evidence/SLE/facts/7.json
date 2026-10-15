@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-sierra-leone-mbsse-emis-education-management-information-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Education Management Information System (EMIS)",
+   "class": "other",
+   "platform": "centralised database",
+   "owner": "MBSSE",
+   "tiers": ""
+  },
+  {
+   "system": "Annual School Census",
+   "country_label": "Annual School Census Report series",
+   "class": "other",
+   "platform": "",
+   "owner": "MBSSE",
+   "tiers": ""
+  }
+ ],
+ "note": "Page lists census reports and describes an information system; a school census is not an admin-records product, no dated release stated."
+}

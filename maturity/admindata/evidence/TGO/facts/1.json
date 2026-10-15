@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Portal (ODP 1.0 / ODP 2.0)", "country_label": "Plateforme de Données Ouvertes ODP 2.0", "class": "other", "platform": "SDMX", "owner": "INSEED", "tiers": ""}
+  ],
+  "note": "SDMX and open data portal training; no administrative records or statistics from them are stated."
+}

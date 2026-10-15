@@ -1,0 +1,17 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "admin",
+   "stage": "3",
+   "use": "published",
+   "vital": "",
+   "series": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-002;MLI-003",
+   "gaps": "No source held reports vital statistics from civil registration published since October 2023.",
+   "note": "Counted from the four questions by study-ladder-admindata.py."
+  }
+ ]
+}

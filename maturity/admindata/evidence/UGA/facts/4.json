@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2 eMCCD and mortality surveillance dashboard",
+   "country_label": "DHIS2 eMCCD; excess mortality dashboard",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "eCHIS",
+   "country_label": "eCHIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Progress report on health-facility death notification and digital registers; no vital statistics report published or in preparation stated."
+}

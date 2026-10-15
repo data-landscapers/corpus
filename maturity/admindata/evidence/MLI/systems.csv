@@ -1,0 +1,34 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,SNISI,SNISI,other,,Ministry of Health,,2026-09-03-mali-snisi-a-propos-de-ce-systeme
+MLI,INSTAT microdata catalogue (NADA),Catalogue de données INSTAT,other,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
+MLI,sante.gov.ml portal,Portail national de santé numérique,other,,Ministry of Health and Social Development,,2026-07-08-techgriot-mali-national-digital-health-portal
+MLI,EMOP,EMOP Rapport annuel 2025,other,,INSTAT,,2026-06-25-instat-mali-rapport-annuel-emop-2025
+MLI,Système d'Information et de Gestion de l'Éducation (SIGE),SIGE,other,,"Ministère de l'Éducation nationale, CPS-SE",,2026-03-16-unesco-mali-sige-statistiques-sante-scolaire
+MLI,Annuaire statistique de l'environnement et des changements climatiques 2025,Annuaire statistique de l'environnement et des changements climatiques 2025,admin,,,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,Mali en chiffres 2023,"Bulletin Mali en chiffres, edition 2023",,,DRPSIAP Kita,,2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026
+MLI,Enquête Modulaire et Permanente auprès des Ménages (EMOP),EMOP 2025 first passage,other,,INSTAT,,2026-04-01-instat-mali-emop-2025-passage-1-rapport-synthese
+MLI,Annuaire du commerce international des marchandises,Annuaire du commerce international des marchandises 2022 and 2023,admin,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Bulletin des statistiques du commerce international des marchandises,Bulletin T2 2025,admin,,INSTAT,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Annuaires statistiques régionaux (Sikasso),Annuaires statistiques 2023 et 2024 de la région de Sikasso,admin,,DRPSIAP Sikasso,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Annuaires statistiques régionaux (Gao),Annuaires statistiques 2023 et 2024 de la région de Gao,admin,,DRPSIAP Gao,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Annuaires statistiques des transports,Annuaires statistiques des transports 2023 et 2024,admin,,Observatoire du Transport,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"Annuaire statistique 2024 du secteur Administration territoriale, Fonction publique et Sécurité intérieure","Annuaire statistique 2024 (CPS-SATFPSI), validated 18-19 December 2025, no release stated",admin,,CPS-SATFPSI,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"Annuaire statistique 2024 du secteur Eau, Environnement, Urbanisme et Domaines de l'État","Annuaire statistique 2024 (CPS-SEEUDE), validated 30 December 2025, no release stated",admin,,CPS-SEEUDE,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Annuaire statistique 2023/2024 du secteur CPS SETC,"Annuaire statistique 2023/2024, provisional document available, validation awaited",admin,,CPS SETC,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,Outil de gestion scolaire digitalisé (PADEM),Digitalised school-management tool,other,,CPS/Éducation,,2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025
+MLI,"Annuaire statistique de l'éducation (statistical yearbooks 2023/24, 2024/25)",Annuaire statistique de l'éducation 2023/24,admin,,Ministry of National Education (CPS),,2025-12-19-mali-miqra-isr-seq10-emis
+MLI,Education Management Information System (EMIS),EMIS,other,,Ministry of National Education (CPS),,2025-12-19-mali-miqra-isr-seq10-emis
+MLI,GEMS,GEMS,other,,MIQRA project,,2025-12-19-mali-miqra-isr-seq10-emis
+MLI,Annuaire statistique de la CPS du secteur de l'éducation,Annuaire statistique (secteur éducation),admin,,CPS education sector,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,Statistiques du commerce extérieur,Statistiques du commerce extérieur,admin,,Direction des douanes / BCEAO / INSTAT,,2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn
+MLI,Annuaire statistique du SNIS,Annuaire statistique du SNIS,admin,,"CPS Santé, Développement social et Promotion de la famille",,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,Annuaire des hôpitaux (SIH),Annuaire des hôpitaux,admin,,CPS Santé,,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,Annuaires statistiques du SISo,Annuaires statistiques SISo,admin,,CPS Santé,,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,SLIS (Système local d'information sanitaire),SLIS,other,DHIS2,DGSHP,,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,SIH (Système d'information hospitalier),SIH,other,,CPS Santé,,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,DHIS2,DHIS2,other,DHIS2,Ministry of Health,,2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024
+MLI,Annuaire statistique national,Annuaire statistique national,admin,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,"Annuaires statistiques sectoriels et régionaux (CPS, DRPSIAP)",Annuaires statistiques sectoriels,admin,,CPS and DRPSIAP,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,BiblioStat-Mali,BiblioStat-Mali,other,,INSTAT,,2020-03-01-instat-mali-schema-directeur-statistique-2020-2024
+MLI,Annuaires statistiques de l'education (CPS-SE),Annuaires statistiques de l'education,admin,,Cellule de Planification et de Statistique du Secteur Education (CPS-SE),,2017-01-01-mali-adea-revue-par-les-pairs-sige
+MLI,SIGE / StatEduc-2,SIGE (Systeme d'information pour la gestion de l'education),other,StatEduc-2 over VPN,Ministere de l'Education Nationale,,2017-01-01-mali-adea-revue-par-les-pairs-sige

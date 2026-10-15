@@ -1,0 +1,6 @@
+{"slug":"2026-07-17-egypt-crvs-journey-2017-2026","facts":[
+{"sub_indicator":"admin","aspect":"vital","value":"published","fact":"Egypt's presentation states CAPMAS, the national statistics office, directly updates the monthly and annual reports of births and deaths from the central civil registration database; no release date or covered year is given, so the document's published date is used.","as_of":"2026-07-17","date_precision":"day","system":"CAPMAS monthly and annual births and deaths reports","class":"vital"},
+{"sub_indicator":"admin","aspect":"series","value":"annual","fact":"The presentation states CAPMAS produces annual as well as monthly reports of births and deaths; no report years or release dates are named, so the document's published date is used.","as_of":"2026-07-17","date_precision":"day","system":"CAPMAS monthly and annual births and deaths reports","class":"vital"}],
+"systems":[{"system":"CAPMAS monthly and annual births and deaths reports","country_label":"CAPMAS monthly and annual reports of births and deaths","class":"vital","platform":"central births and deaths database","owner":"CAPMAS","tiers":""},
+{"system":"Central births and deaths database (4,571 health offices)","country_label":"Egypt CRVS automation","class":"other","platform":"","owner":"Ministry of Health","tiers":""}],
+"note":""}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)",
+  "facts": [],
+  "systems": [
+    {"system": "Eritrea Population and Health Survey (EPHS 2025)", "country_label": "EPHS 2025", "class": "other", "platform": "CAPI", "owner": "National Statistics Office", "tiers": ""},
+    {"system": "National accounts 2023", "country_label": "National accounts 2023", "class": "other", "platform": "", "owner": "National Statistics Office", "tiers": ""}
+  ],
+  "note": "Story covers a household survey and national accounts only; nothing on statistics from administrative records or vital statistics."
+}

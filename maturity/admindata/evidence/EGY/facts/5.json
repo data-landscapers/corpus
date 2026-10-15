@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-28-masrawy-national-labour-market-data-platform-egypt",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Labour Platform (منصة العمل الرقمية)", "country_label": "Digital Labour Platform", "class": "other", "platform": "", "owner": "Ministry of Labour", "tiers": ""},
+    {"system": "Proposed national labour-market data and systems platform", "country_label": "National labour-market data platform (proposal)", "class": "other", "platform": "", "owner": "Senate committee proposal", "tiers": ""}
+  ],
+  "note": "Labour ministry digital services platform and a proposed data platform; no statistics product from administrative records, no vital statistics report named."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools.", "as_of": "2024-11-15", "date_precision": "day", "system": "Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022", "country_label": "Annuaire statistique 2021-2022 (education)", "class": "admin", "platform": "", "owner": "ICASEES; Ministry of National Education", "tiers": ""},
+    {"system": "SIGE (education management information system)", "country_label": "SIGE", "class": "other", "platform": "", "owner": "Ministry of National Education", "tiers": ""}
+  ],
+  "note": ""
+}

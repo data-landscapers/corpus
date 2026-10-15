@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-admindata.md — official statistics drawn from administrative records, in four questions
 last_reviewed: 2026-10-15
-status: prepared 2026-10-15; waits for Bill's word on the questions
+status: run 2026-10-15; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
 # Maturity study: admindata
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Have vital statistics from civil registration been published in the last three years? | A report of births or deaths registered, compiled from the civil register, published since 1 October 2023 |
 | 4 | Are those vital statistics published every year? | Reports for two successive years, the later published since 1 October 2023 |
 
-## 3. The ladder
+## 3. The ladders
 
 **Statistics from administrative data**
 
@@ -69,10 +69,19 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file, `study.json` and the reading lists, 2026-10-15.
-- [ ] **D1. Bill's word** on the questions.
-- [ ] **D2. Read**: the 107 calls, one workflow; merged and profiled.
-- [ ] **D3. Stage** as at 2026-09-30 with `study-ladder-admindata.py`; the parent reads every stage 4 and 5 fact; second drafter on 20 cells.
-- [ ] **D4. Write, render and lint**; soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**, 2026-10-15, the questions as prepared.
+- [x] **D2. Read**: 107 drafters, four regional stories read once; 82 facts after the parent's corrections (`corrections.csv`).
+- [x] **D3. Staged** as at 2026-09-30: stage 5 Egypt, Eswatini; 4 Botswana, Cabo Verde, Côte d'Ivoire, Equatorial Guinea, Lesotho, Namibia, Rwanda, Seychelles, Uganda, Zimbabwe; 3 fourteen; 2 Ghana, Guinea-Bissau, Mozambique, Senegal, Sierra Leone; none at 1; unplaced Eritrea, Libya, São Tomé and Príncipe; no evidence twenty. The second drafter agreed on 19 of 20.
+- [x] **D4. Written, rendered and linted**, by `study-admindata-write.py`; on the soft-launch map. **D5. Reported to Bill.** Tokens 35.5M of 40M, step 1's thread counted.
+
+**Decided in the run**:
+
+- **Morocco's fact is removed**: cooperation conventions "being finalised" in October 2025 are not signed. It held nothing else and is *No evidence*.
+- **Uganda's three budget-report facts are redated to December 2025**, the end of the half-year the report covers; dated to the document's year they fell after the as-at. Its 2024 vital statistics report puts it at 4.
+- **Namibia's stage 4 rests on one passing reference** to the 2023 vital statistics report in a 2025 synthesis report; the summary says so.
+- **Egypt's stage 5 rests on a 2026 presentation stating CAPMAS issues annual and monthly birth and death reports**, with no report years named. It stands: the source states the series. Eswatini's 2022 report calls itself the seventh annual one.
+- **Twenty countries are *No evidence***: what the cells cite and the news read named information systems, laws and registration drives, not a published product. Finding their yearbooks and vital statistics is the rotation's search (method §5), not this study's.
+- **Zimbabwe's one report covering 2023 and 2024 is one edition**, not two years running.
 
 ## Boundary
 

@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,e-RCEV (Sistema de Registo Civil e Estatísticas Vitais),e-RCEV,other,"USSD, SMS and web","Direcção Nacional dos Registos e Notariado, Ministry of Justice",,2026-08-28-crvs-portal-sircev
+MOZ,ESSIR-SERV (as named by AIM),e-RCEV,other,,"Ministry of Justice, Constitutional and Religious Affairs",,2026-05-18-mjcr-ine-crvs-statistics-interoperability
+MOZ,e-SIRCEV,e-SIRCEV,other,web portal,Direcção Nacional dos Registos e Notariado,,2024-01-01-e-sircev-portal
+MOZ,SIRCEV (Sistema de Registo Civil e Estatísticas Vitais),SIRCEV,other,,Direcção Nacional dos Registos e Notariado,,2018-12-04-lei-12-2018-revisao-codigo-registo-civil
+MOZ,MOZDATA,MOZDATA microdata catalogue,other,NADA-style catalogue,Instituto Nacional de Estatistica,licensed access,2026-08-08-mozdata-ine-microdata-catalogue-mozambique

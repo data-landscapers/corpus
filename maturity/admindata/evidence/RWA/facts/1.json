@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-16-rwanda-vital-statistics-report-2025",
+  "facts": [
+    {"sub_indicator":"admin","aspect":"use","value":"published","fact":"NISR published the Rwanda Vital Statistics Report 2025 on 16 April 2026, covering January to December 2025 and compiled from the civil registration system (356,838 births and 39,355 deaths registered in 2025).","as_of":"2026-04-16","date_precision":"day","system":"Rwanda Vital Statistics Report 2025","class":"vital"},
+    {"sub_indicator":"admin","aspect":"vital","value":"published","fact":"NISR released the Rwanda Vital Statistics Report 2025 on 16 April 2026; figures cover 2025: 356,838 births and 39,355 deaths registered, birth registration completeness 92.9% and death registration completeness 50.5%.","as_of":"2026-04-16","date_precision":"day","system":"Rwanda Vital Statistics Report 2025","class":"vital"}
+  ],
+  "systems": [
+    {"system":"Rwanda Vital Statistics Report 2025","country_label":"Rwanda Vital Statistics Report 2025","class":"vital","platform":"","owner":"National Institute of Statistics of Rwanda (NISR)","tiers":""},
+    {"system":"NCI_CRVS system","country_label":"NCI_CRVS system","class":"other","platform":"","owner":"","tiers":""}
+  ],
+  "note": ""
+}

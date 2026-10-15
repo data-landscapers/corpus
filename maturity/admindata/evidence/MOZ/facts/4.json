@@ -1,0 +1,17 @@
+{
+ "slug": "2021-01-01-gac-moz-vital-stats-mnch-2021-vital-statistics-in-support-of-maternal",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Global Affairs Canada committed US$5,187,000 to UNICEF Mozambique in 2021 (to end 2023) for a project that expands civil registration digital infrastructure and increases vital statistics data quality.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Vital Statistics in Support of MNCH, Phase 2",
+   "class": "vital"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-mjcr-ine-crvs-statistics-interoperability",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "On 18 May 2026 the Ministry of Justice (MJCR) and the National Statistics Institute (INE) signed an MoU linking the electronic civil registration and vital statistics system to INE's statistical systems to share birth, death, marriage and other event data.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "MJCR-INE MoU on interoperability of vital statistics systems",
+   "class": "vital"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ESSIR-SERV (as named by AIM)",
+   "country_label": "e-RCEV",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice, Constitutional and Religious Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

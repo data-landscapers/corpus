@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23-cote-divoire-lancement-simt",
+  "facts": [],
+  "systems": [
+    {"system": "SIMT (Système d'Information sur le Marché du Travail)", "country_label": "SIMT", "class": "other", "platform": "SDMX-compliant data platform", "owner": "ONEF (Observatoire national de l'emploi et de la formation)", "tiers": ""}
+  ],
+  "note": "Labour-market information platform launched 2026-06-23; no statistics product compiled from administrative records or vital statistics report is named."
+}

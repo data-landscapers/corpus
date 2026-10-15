@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-zwe-crvs-health-integration-egmrg-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS-Health interoperability platform", "country_label": "CRVS-Health interoperability platform", "class": "other", "platform": "secure interoperability platform exchanging birth and death notifications; validation against the National Population Register", "owner": "Civil Registry Department with Ministry of Health and Child Care", "tiers": ""}
+  ],
+  "note": "Presentation on CRVS-health system interoperability (pilot planned Q1-Q2 2027); no statistics product published or statistics work from records stated."
+}

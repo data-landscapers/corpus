@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-ins-annuaire-statistique-adamaoua-2025",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "INS Cameroon published the Adamaoua regional statistical yearbook, 2025 edition, on 7 August 2026, compiling statistics from sectoral administrations, local authorities and enterprises across 22 chapters; its regional agencies produce one every year.", "as_of": "2026-08-07", "date_precision": "day", "system": "Annuaire statistique de la région de l'Adamaoua, édition 2025", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique de la région de l'Adamaoua, édition 2025", "country_label": "Annuaire statistique régional Adamaoua 2025", "class": "admin", "platform": "", "owner": "Institut National de la Statistique (INS), Agence régionale de l'Adamaoua", "tiers": ""}
+  ],
+  "note": ""
+}

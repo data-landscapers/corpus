@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-01-vital-statistics-report-2022",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published",
+     "fact": "The Central Statistical Office released the Annual Vital Statistics Report January-December 2022, drawn from the National Population Register, in October 2023; it covers 2022 and reports birth registration completeness of 36% (31% in 2021) and death registration completeness of 55% (75% in 2021).",
+     "as_of": "2023-10", "date_precision": "month", "system": "Annual Vital Statistics Report 2022", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "annual",
+     "fact": "The 2022 report is stated to be the seventh in a series of annual CRVS reports produced since 2016, released October 2023, and the foreword says producing the annual report is a continuous process.",
+     "as_of": "2023-10", "date_precision": "month", "system": "Annual Vital Statistics Report 2022", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Annual Vital Statistics Report 2022", "country_label": "Annual Vital Statistics Report January 2022 - December 2022", "class": "vital", "platform": "National Population Register", "owner": "Central Statistical Office", "tiers": ""}
+  ],
+  "note": ""
+}

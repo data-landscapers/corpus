@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-01-inege-hechos-vitales-guinea-ecuatorial-2023",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "INEGE published Hechos Vitales Guinea Ecuatorial 2023, edition no. 1, in October 2024, covering births, deaths, marriages and divorces in 2023.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Hechos Vitales Guinea Ecuatorial 2023",
+   "class": "vital"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "vital",
+   "value": "published",
+   "fact": "INEGE published edition no. 1 of Hechos Vitales Guinea Ecuatorial 2023 in October 2024, with chapters on births and deaths for 2023.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Hechos Vitales Guinea Ecuatorial 2023",
+   "class": "vital"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hechos Vitales Guinea Ecuatorial 2023",
+   "country_label": "Hechos Vitales 2023 (ed. 1)",
+   "class": "vital",
+   "platform": "",
+   "owner": "INEGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

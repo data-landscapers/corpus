@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-17-zimstat-vital-statistics-report-2023-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "ZIMSTAT announced it had published the Vital Statistics Report 2023-2024, compiled from Civil Registry Department registrations, covering registered births, deaths, marriages and divorces for 2023 and 2024.", "as_of": "2026-06-17", "date_precision": "day", "system": "Vital Statistics Report 2023-2024", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "ZIMSTAT published the Vital Statistics Report 2023-2024 on registered births and deaths (including causes of death) for 2023 and 2024, compiled by the Civil Registry Department and processed by ZIMSTAT.", "as_of": "2026-06-17", "date_precision": "day", "system": "Vital Statistics Report 2023-2024", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Vital Statistics Report 2023-2024", "country_label": "Vital Statistics Report 2023-2024", "class": "vital", "platform": "", "owner": "ZIMSTAT with Civil Registry Department", "tiers": ""}
+  ],
+  "note": "Series not recorded: the report says it continues ZIMSTAT's series but names no other edition or release date."
+}

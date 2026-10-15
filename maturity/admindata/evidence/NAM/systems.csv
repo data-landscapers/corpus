@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,DHIS2,DHIS2 routine health facility data,other,DHIS2,Ministry of Health,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
+NAM,2023 vital statistics report,2023 vital statistics report,vital,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
+NAM,National Labour Market Information System (NaLMIS),NaLMIS,other,,Namibia Statistics Agency with Ministry of Justice and Labour Relations,,2026-09-25-nam-nampa-labour-market-info-system
+NAM,Namibia Producer Price Index (NPPI),NPPI bulletin Q2 2026,other,Python-based processing system,Namibia Statistics Agency,,2026-08-25-namibian-new-system-rewrites-producer-price-data
+NAM,Namibia Producer Price Index Bulletin Q2 2026,NPPI Bulletin Q2 2026,other,Python-based system,Namibia Statistics Agency,,2026-08-21-nsa-namibia-producer-price-index-bulletin-q2-2026

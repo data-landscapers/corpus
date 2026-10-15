@@ -1,0 +1,9 @@
+{
+  "slug": "2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration and vital statistics (CRVS) system", "country_label": "CRVS Chad", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ANATS civil status digitalisation pilot", "country_label": "Agence nationale des titres securises", "class": "other", "platform": "", "owner": "ANATS", "tiers": ""}
+  ],
+  "note": "States birth registration rates from surveys and a funded CRVS action plan, but names no published vital statistics report or statistics-office work on administrative records."
+}

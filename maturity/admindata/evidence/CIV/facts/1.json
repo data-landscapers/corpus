@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-01-annuaire-statistique-etat-civil-2024-fratmat",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "vital", "value": "published", "fact": "The Ministry of the Interior and Security officially presented the Annuaire statistique d'état civil 2024 and its analysis report on 30 June 2025, covering births, adoptions, marriages, divorces and deaths registered in 2024.", "as_of": "2025-06-30", "date_precision": "day", "system": "Annuaire statistique d'état civil 2024", "class": "vital"},
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Annuaire statistique d'état civil 2024, compiled from civil registration records and covering 2024, was presented on 30 June 2025 by the Ministry of the Interior and Security.", "as_of": "2025-06-30", "date_precision": "day", "system": "Annuaire statistique d'état civil 2024", "class": "vital"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique d'état civil 2024", "country_label": "Annuaire statistique d'état civil 2024", "class": "vital", "platform": "", "owner": "Ministère de l'Intérieur et de la Sécurité", "tiers": ""},
+    {"system": "city web", "country_label": "city web", "class": "other", "platform": "software", "owner": "Ministère de l'Intérieur et de la Sécurité", "tiers": ""}
+  ],
+  "note": ""
+}

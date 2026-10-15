@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31-nbs-seychelles-population-2025-releases",
+  "facts": [],
+  "systems": [
+    {"system": "End of year population 2025", "country_label": "End of year population 2025", "class": "other", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""},
+    {"system": "Mid 2025 Estimated Resident Population", "country_label": "Mid 2025 Estimated Resident Population", "class": "other", "platform": "", "owner": "National Bureau of Statistics", "tiers": ""}
+  ],
+  "note": "Downloads index lists two population releases by title and posting date only; it does not state that they are compiled from administrative records or report vital statistics."
+}

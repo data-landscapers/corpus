@@ -1,0 +1,7 @@
+# Algeria
+
+## Statistics from administrative data
+
+***Noted, not assessed***. [PRODNAT (Production Nationale platform)](<https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7>); [National Agricultural Information System (SNIA)](<https://www.dzair-tube.dz/en/algeria-launches-national-agricultural-information-system-to-strengthen-digital-governance-and-food-security/>); [Système national d'information agricole](<https://www.elmoudjahid.dz/fr/actualite/le-secteur-se-dote-d-un-systeme-national-d-information-integre-l-agriculture-fait-sa-mue-numerique-254754>); [SME economic information system](<https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AE%D8%A7%D8%B5-%D8%A8>); [Unified market supply and price monitoring information system](<https://www.echoroukonline.com/%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D9%85%D9%88%D8%AD%D8%AF-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%88>).
+
+***Not held***. Nothing held names statistics drawn from administrative records, or says there are none.

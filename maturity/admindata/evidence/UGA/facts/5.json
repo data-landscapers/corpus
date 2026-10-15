@@ -1,0 +1,42 @@
+{
+ "slug": "2025-01-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-october",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "NIRA and UBOS held a three-day stakeholder workshop on 12-14 December 2024 to review the first draft of the first annual Vital Statistics report, with completion targeted for January 2025.",
+   "as_of": "2024-12-14",
+   "date_precision": "day",
+   "system": "Vital Statistics Report",
+   "class": "vital"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vital Statistics Report",
+   "country_label": "First annual Vital Statistics report (draft, Dec 2024)",
+   "class": "vital",
+   "platform": "",
+   "owner": "NIRA; UBOS",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2 MCCD application",
+   "country_label": "DHIS2 MCCD",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "MVRS",
+   "country_label": "MVRS",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

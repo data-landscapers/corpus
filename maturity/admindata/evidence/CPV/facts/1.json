@@ -1,0 +1,5 @@
+{"slug":"2025-10-01-cabo-verde-ine-estatisticas-vitais-2023-registo-civil","facts":[
+{"sub_indicator":"admin","aspect":"vital","value":"published","fact":"The Instituto Nacional de Estatistica released its fifth Estatisticas Vitais report on 1 October 2025, covering 2023 (6,760 births, 2,925 deaths, 2,435 marriages), compiled from administrative records of the Registos, Notariado e Identificacao.","as_of":"2025-10-01","date_precision":"day","system":"Estatisticas Vitais 2023","class":"vital"},
+{"sub_indicator":"admin","aspect":"use","value":"published","fact":"INE released the Estatisticas Vitais 2023 report on 1 October 2025, built on civil register administrative records and covering 2016-2023.","as_of":"2025-10-01","date_precision":"day","system":"Estatisticas Vitais 2023","class":"vital"}],
+"systems":[{"system":"Estatisticas Vitais 2023","country_label":"Estatisticas Vitais 2023 (5th report)","class":"vital","platform":"","owner":"Instituto Nacional de Estatistica","tiers":""}],
+"note":""}

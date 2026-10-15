@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-interoperabilite-nationale-instat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rahaka",
+   "country_label": "Rahaka national interoperability platform",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD",
+   "tiers": ""
+  }
+ ],
+ "note": "INSTAT DG signed the first Rahaka use convention, a general interoperability agreement; no statistics-from-records work or product stated."
+}

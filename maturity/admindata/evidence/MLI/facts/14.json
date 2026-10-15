@@ -1,0 +1,15 @@
+{
+  "slug": "2021-02-01-mali-plan-strategique-systeme-national-information-sanitaire-social-2020-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The CPS health sector plan states the health ministry has regularly published the Annuaire statistique du SNIS since 2009, built from the SLIS, hospital and surveillance data, with a hospital yearbook since 2003; no edition or release date is given, so the plan's publication date is used.", "as_of": "2021-02", "date_precision": "month", "system": "Annuaire statistique du Système National d'Information Sanitaire (SNIS)", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique du SNIS", "country_label": "Annuaire statistique du SNIS", "class": "admin", "platform": "", "owner": "CPS Santé, Développement social et Promotion de la famille", "tiers": ""},
+    {"system": "Annuaire des hôpitaux (SIH)", "country_label": "Annuaire des hôpitaux", "class": "admin", "platform": "", "owner": "CPS Santé", "tiers": ""},
+    {"system": "Annuaires statistiques du SISo", "country_label": "Annuaires statistiques SISo", "class": "admin", "platform": "", "owner": "CPS Santé", "tiers": ""},
+    {"system": "SLIS (Système local d'information sanitaire)", "country_label": "SLIS", "class": "other", "platform": "DHIS2", "owner": "DGSHP", "tiers": ""},
+    {"system": "SIH (Système d'information hospitalier)", "country_label": "SIH", "class": "other", "platform": "", "owner": "CPS Santé", "tiers": ""},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

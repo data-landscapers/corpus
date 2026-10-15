@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,Vital Statistics Report 2024,Vital Statistics Report 2024,vital,,Statistics Botswana,,2026-08-01-statistics-botswana-vital-statistics-report-2024
+BWA,Births and Deaths Registration System (BDRS),Births and Deaths Registration System,other,"partially automated, integrated with the National Identification System",Department of Civil and National Registration,"35 district offices, 17 on-site health facility points",2026-08-01-statistics-botswana-vital-statistics-report-2024
+BWA,DHIS2,DHIS2,other,DHIS2,Ministry of Health,all public facilities,2019-08-01-bwa-botswana-his-indicators
+BWA,Integrated Patient Management System (IPMS),IPMS,other,,Ministry of Health,hospitals,2019-08-01-bwa-botswana-his-indicators

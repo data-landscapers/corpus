@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-10-sudan-health-ministry-digital-transformation-year",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2 health reporting",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 reporting coverage and a recommendation to coordinate with Civil Registry and CBS; no published product or concrete agreement."
+}

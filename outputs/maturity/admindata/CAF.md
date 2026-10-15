@@ -1,0 +1,13 @@
+# Central African Republic
+
+## Statistics from administrative data
+
+**Statistics from records published or in preparation.** [ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>). [On 18 February 2026 the World Bank-financed HISWACA-SOP 2 project handed 300 motorcycles (357 million FCFA) to school sector chiefs to supervise and speed the collection and transmission of school data for the education statistics system, so that statistical yearbooks can be produced regularly](<https://www.icasees.org/index.php/actualites/322-icasees-hiswaca-sop-2-ceremonie-officielle-de-remise-des-motos-aux-chefs-de-secteur-scolaire-de-leducation-nationale>). Two facts are held on the country's statistics from administrative records, all given here: no news story or official notice read for this study says more, and the yearbooks and reports themselves were not read.
+
+**Vital statistics published.** No source held reports vital statistics from civil registration published since October 2023. The nearest held fact: [ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
+
+**Published every year.** No source held reports vital statistics published for two successive years. The nearest held fact: [the one given above](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
+
+***Noted, not assessed***. [Civil registration (births, marriages, deaths), paper-based, central registry DGMEC/MATDSI](<https://data.unicef.org/crvs/central-african-republic/>); [SIGE (education management information system)](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
+
+***Not held***. No source held reports vital statistics from civil registration published since October 2023.

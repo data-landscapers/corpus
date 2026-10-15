@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-19-mali-miqra-isr-seq10-emis",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The World Bank MIQRA project report says publication of Mali's education statistical yearbooks for 2023/24 and 2024/25 was delayed and is now being supported by the project, with the latest indicator data still from 2022/23; the document gives no event date, so its publication date is used.", "as_of": "2025-12-19", "date_precision": "day", "system": "Annuaire statistique de l'éducation", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique de l'éducation (statistical yearbooks 2023/24, 2024/25)", "country_label": "Annuaire statistique de l'éducation 2023/24", "class": "admin", "platform": "", "owner": "Ministry of National Education (CPS)", "tiers": ""},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "other", "platform": "", "owner": "Ministry of National Education (CPS)", "tiers": ""},
+    {"system": "GEMS", "country_label": "GEMS", "class": "other", "platform": "", "owner": "MIQRA project", "tiers": ""}
+  ],
+  "note": ""
+}

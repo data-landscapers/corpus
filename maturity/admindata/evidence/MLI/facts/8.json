@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-instat-mali-khi-deux-bulletin-53-avril-juin-2026",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The KHI-DEUX bulletin lists the Annuaire statistique de l'environnement et des changements climatiques, edition 2025, among the national statistical system's publications of the second quarter of 2026; no exact release date is given, so the bulletin's date of 20 July 2026 is used.", "as_of": "2026-07-20", "date_precision": "day", "system": "Annuaire statistique de l'environnement et des changements climatiques 2025", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique de l'environnement et des changements climatiques 2025", "country_label": "Annuaire statistique de l'environnement et des changements climatiques 2025", "class": "admin", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Mali en chiffres 2023", "country_label": "Bulletin Mali en chiffres, edition 2023", "class": "", "platform": "", "owner": "DRPSIAP Kita", "tiers": ""}
+  ],
+  "note": ""
+}

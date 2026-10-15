@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NAM-001,NAM,admin,vital,published,"The report says its national institutional maternal and stillbirth rates are consistent with the 2023 vital statistics report; it gives no release date, so the document's published date is used.",2025-06-01,day,2023 vital statistics report,vital,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn,https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf

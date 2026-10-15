@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-burundi-crvs-transformation-journey",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration (etat civil) system", "country_label": "Burundi civil registration", "class": "other", "platform": "paper registers; digitisation pilot in 12 communes", "owner": "Ministere de l'Interieur, du Developpement Communautaire et de la Securite Publique", "tiers": ""}
+  ],
+  "note": "Presentation states no vital statistics report was published; it says transmission of data to INSBU remains insufficient and an interoperability module for INSBU is only listed as an aim."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-guinea-etat-civil-decentralisation-npi",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'État Civil / plateforme de numérisation de l'état civil", "country_label": "National Civil Registry digitisation platform", "class": "other", "platform": "", "owner": "Ministry of Territorial Administration and Decentralisation", "tiers": ""},
+    {"system": "Registre National des Personnes Physiques (NPI)", "country_label": "National Register of Natural Persons", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Minister's declaration cites a birth registration rate (54% in 2022 to 72% in 2025) and a digitisation platform; no vital statistics report or administrative-records statistics product is named."
+}

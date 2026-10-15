@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-11-sudan-health-sector-digitalization-hms-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Hospital Management System (HMS) incl. CRVS, HMIS",
+   "country_label": "HMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health; Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch of a hospital management system including CRVS module; no published statistics product."
+}

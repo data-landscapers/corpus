@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-01-insbu-annuaire-statistique-du-burundi-edition-2023",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "INSBU published the 86th national statistical yearbook, edition 2023 (22 chapters, reference year 2023), in December 2024, a compilation of figures drawn from ministries' annual reports and other state services.", "as_of": "2024-12", "date_precision": "month", "system": "Annuaire statistique du Burundi, edition 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique du Burundi, edition 2023", "country_label": "Annuaire statistique du Burundi 2023", "class": "admin", "platform": "", "owner": "Institut National de la Statistique du Burundi (INSBU)", "tiers": ""}
+  ],
+  "note": ""
+}

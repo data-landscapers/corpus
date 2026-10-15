@@ -1,0 +1,9 @@
+{
+  "slug": "2019-08-01-bwa-botswana-his-indicators",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "all public facilities"},
+    {"system": "Integrated Patient Management System (IPMS)", "country_label": "IPMS", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": "hospitals"}
+  ],
+  "note": "2019 health information system profile; no statistics product stated as published (last national health statistics report 2009 listed as not current)."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-07-ndjamenaactu-annuaire-statistique-scolaire-2024-2025-validation",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The Ministry of National Education's planning, analysis and school map directorate held a validation workshop on 7 October 2025 in N'Djamena for the 2024-2025 school statistical yearbook; the document gives no release date for it.", "as_of": "2025-10-07", "date_precision": "day", "system": "Annuaire statistique scolaire 2024-2025", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique scolaire 2024-2025", "country_label": "Annuaire statistique scolaire 2024-2025", "class": "admin", "platform": "", "owner": "Direction de la planification, de l'analyse et de la carte scolaire, Ministere de l'Education nationale", "tiers": ""}
+  ],
+  "note": ""
+}

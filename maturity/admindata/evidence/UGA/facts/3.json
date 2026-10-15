@@ -1,0 +1,31 @@
+{
+ "slug": "2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Vital Statistics Report 2025",
+   "country_label": "Vital Statistics Report 2025 (planned)",
+   "class": "vital",
+   "platform": "",
+   "owner": "UBOS",
+   "tiers": ""
+  },
+  {
+   "system": "eAFYA EMR / DHIS2 / eMCCD",
+   "country_label": "eAFYA EMR, DHIS2, eMCCD",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "HMIS e-register",
+   "country_label": "HMIS e-register",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Partner progress report quoting registration counts (76,934 births, 4,485 deaths in Q1 2026; 2025 totals 209,199 births, 18,926 deaths); no vital statistics report published; 2025 report only listed as upcoming support."
+}

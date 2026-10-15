@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-16-unesco-mali-sige-statistiques-sante-scolaire",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "UNESCO and IIPE, funding and supporting the education ministry's planning and statistics unit (CPS-SE), held a workshop at Fana on 11-15 March 2026 to analyse national SIGE school-health data for 2023-2024 and 2024-2025, after building the unit's capacity since 2021 to add routine school-health indicators to the SIGE; no published product is stated.", "as_of": "2026-03-11", "date_precision": "day", "system": "SIGE school-health statistics", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Système d'Information et de Gestion de l'Éducation (SIGE)", "country_label": "SIGE", "class": "other", "platform": "", "owner": "Ministère de l'Éducation nationale, CPS-SE", "tiers": ""}
+  ],
+  "note": ""
+}

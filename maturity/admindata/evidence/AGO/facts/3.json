@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-06-ine-anuario-estatistico-sanitario-2023-minsa",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Anuario Estatistico Sanitario 2023, compiled by the health ministry's planning and statistics office from the Sistema de Informacao Sanitaria records, was released through INE on 6 April 2026, covering 2023.", "as_of": "2026-04-06", "date_precision": "day", "system": "Anuario Estatistico Sanitario 2023", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Anuario Estatistico Sanitario 2023", "country_label": "Anuario Estatistico Sanitario 2023", "class": "admin", "platform": "", "owner": "Gabinete de Estudo, Planeamento e Estatistica, MINSA", "tiers": ""},
+    {"system": "Sistema de Informacao Sanitaria", "country_label": "Sistema de Informacao Sanitaria (SIS)", "class": "other", "platform": "", "owner": "MINSA", "tiers": ""}
+  ],
+  "note": ""
+}

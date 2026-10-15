@@ -1,0 +1,12 @@
+{
+  "slug": "2020-03-01-instat-mali-schema-directeur-statistique-2020-2024",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Schema Directeur de la Statistique says INSTAT continued producing the national statistical yearbook, sectoral and regional yearbooks and foreign trade notes during 2015-2019, and that sectoral yearbooks are published regularly; no edition date is given, so the document's publication date is used.", "as_of": "2020-03", "date_precision": "month", "system": "Annuaire statistique national", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire statistique national", "country_label": "Annuaire statistique national", "class": "admin", "platform": "", "owner": "INSTAT", "tiers": ""},
+    {"system": "Annuaires statistiques sectoriels et régionaux (CPS, DRPSIAP)", "country_label": "Annuaires statistiques sectoriels", "class": "admin", "platform": "", "owner": "CPS and DRPSIAP", "tiers": ""},
+    {"system": "BiblioStat-Mali", "country_label": "BiblioStat-Mali", "class": "other", "platform": "", "owner": "INSTAT", "tiers": ""}
+  ],
+  "note": ""
+}

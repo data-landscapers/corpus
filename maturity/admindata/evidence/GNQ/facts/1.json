@@ -1,0 +1,8 @@
+{
+  "slug": "2017-12-05-unicef-crvs-profile-equatorial-guinea",
+  "facts": [],
+  "systems": [
+    {"system": "Central birth office paper civil registry (Central Register of Notaries)", "country_label": "Civil registration, Equatorial Guinea", "class": "other", "platform": "paper", "owner": "Ministry of Justice, Worship and Correctional Institutions", "tiers": ""}
+  ],
+  "note": "2017 UNICEF profile says birth data are processed on paper with no publications, but this covers birth vital statistics only, not all administrative statistics, so it is not a dated 'none' for use; no vital statistics report stated."
+}

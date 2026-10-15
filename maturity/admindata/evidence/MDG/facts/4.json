@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Rahaka",
+   "country_label": "Rahaka national interoperability platform",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "Unite de Gouvernance Digitale (UGD)",
+   "tiers": ""
+  }
+ ],
+ "note": "Rahaka interoperability platform news; no statistics product from administrative records stated."
+}

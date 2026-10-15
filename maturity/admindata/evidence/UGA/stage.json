@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "admin",
+   "stage": "4",
+   "use": "published",
+   "vital": "published",
+   "series": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-005",
+   "gaps": "No source held reports vital statistics published for two successive years.",
+   "note": "Counted from the four questions by study-ladder-admindata.py."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-28-instat-interoperabilite-nationale",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RAHAKA",
+   "country_label": "RAHAKA national interoperability system",
+   "class": "other",
+   "platform": "",
+   "owner": "UGD / Ministry of Digital Development",
+   "tiers": ""
+  }
+ ],
+ "note": "INSTAT DG signed first RAHAKA usage convention; no statistics from administrative records or data-sharing for statistics stated."
+}

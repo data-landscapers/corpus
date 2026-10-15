@@ -1,0 +1,15 @@
+{
+ "slug": "2023-04-01-sierra-leone-mbsse-2022-annual-school-census-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Annual School Census",
+   "country_label": "2022 Annual School Census Report",
+   "class": "other",
+   "platform": "digital school data collection",
+   "owner": "MBSSE Planning and Policy Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": "School census report, a census collection from schools, not a compiled-from-records product."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-30-dzair-tube-national-agricultural-information-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Agricultural Information System (SNIA)",
+   "country_label": "Système national d'information agricole",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Agriculture, Rural Development and Fisheries",
+   "tiers": ""
+  }
+ ],
+ "note": "Ministry information system with a harvest-monitoring module; no published statistics product named."
+}
