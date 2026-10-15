@@ -3,13 +3,13 @@ title: New investments — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: finance.new
-places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: 5ba721acdf01
+places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; GHA; KEN; MWI; MRT; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
+record: 57ea3e3278a3
 ---
 
 # New investments: monthly update, September – October 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -74,6 +74,10 @@ Under the DigiKen programme a commercial bank and the UN Capital Development Fun
 ## Malawi
 
 The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). A consultation in Blantyre on 3 September then [put the project's second phase at US$35 million to US$75 million over a six-year implementation, covering more than 500 public-sector institutions and more than 2,000 schools](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/) — the first sizing of the next tranche on record, and no commitment or approval date is stated for it.
+
+## Mauritania
+
+[An IDA additional financing of EUR 25.8m was signed for the programme](https://futureafrique.net/node/20052), and [its ratification bill was adopted in Council of Ministers on 2026-10-14](https://futureafrique.net/node/20052).
 
 ## Morocco
 

@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 474230dd1847
+record: dbe4ddd73135
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -101,7 +101,7 @@ The licensing authority [put its DVLAverify biometric identity-verification app 
 
 The hospital-to-registry birth notification system, launched in June, [registered more than 270,000 newborns and assigned each a unique personal identifier within two months](https://www.biometricupdate.com/202609/kenyas-digital-birth-registration-platform-enrols-270k-newborns-in-two-months), according to the immigration and citizen services department, which also put national identity cards issued between January and September 2026 at 2.4 million. Integration with the health ministry's hospital management system and a death e-notification system are planned; no facility count or county coverage is published.
 
-The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government). A National Assembly committee [found identity registration in Bungoma held back by shortages of staff, vehicles, equipment and connectivity](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/), with more live-capture kits awaited. The immigration principal secretary said [electronic birth notification will reach every insurer-contracted hospital by December 2026](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months).
+The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government). A National Assembly committee [found identity registration in Bungoma held back by shortages of staff, vehicles, equipment and connectivity](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/), with more live-capture kits awaited. The immigration principal secretary said [electronic birth notification will reach every insurer-contracted hospital by December 2026](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months). [The Interior Cabinet Secretary announced electronic birth notification in three counties from 2026-10-20, in place of the paper notification parents carry](https://techtrendske.co.ke/2026/10/14/electronic-birth-notifications-kenya/), though the system is reported running since June.
 
 ## Liberia
 

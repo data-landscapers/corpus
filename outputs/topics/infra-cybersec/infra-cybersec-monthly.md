@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: infra.cybersec
 places: DZA; BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 3ddabfae892a
+record: 05a0403f8369
 ---
 
 # Cybersecurity: monthly update, September – October 2026
@@ -167,4 +167,4 @@ The bankers' association [counted 6,533 cyber and fraud incidents in the financi
 
 An industrial automation firm [announced on 1 September 2026 the completion of a security and modernisation project on the control networks of a platinum mine](https://tech.africa/rockwell-mimosa-mine-ot-security/), covering network architecture, segmentation and controlled access.
 
-The ICT minister [opened a multi-agency investigation, including the police cyber crime division, into a wave of WhatsApp Business account takeovers she called unprecedented](https://itweb.africa/article/govt-probes-mass-whatsapp-takeovers-in-zimbabwe/KPNG8v8NYVPM4mwD), reported 14 October; it is examining whether personal or financial data was compromised and the role of SMS aggregators. No count of affected accounts is published.
+The ICT minister [opened a multi-agency investigation, including the police cyber crime division, into a wave of WhatsApp Business account takeovers she called unprecedented](https://itweb.africa/article/govt-probes-mass-whatsapp-takeovers-in-zimbabwe/KPNG8v8NYVPM4mwD), reported 14 October; it is examining whether personal or financial data was compromised and the role of SMS aggregators. No count of affected accounts is published. [The telecoms regulator is developing a Cybersecurity Framework for Critical Infrastructure Protection, its draft regulation cited at a regulators' meeting in Nairobi](https://www.heraldonline.co.zw/potraz-moves-to-tighten-cybersecurity-for-critical-infrastructure/).

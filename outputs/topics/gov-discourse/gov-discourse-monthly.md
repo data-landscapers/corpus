@@ -3,13 +3,13 @@ title: Public debate and participation in policymaking — monthly update, Septe
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: gov.discourse
-places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7f2dbe136240
+places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 48917ae70fb4
 ---
 
 # Public debate and participation in policymaking: monthly update, September – October 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,6 +54,10 @@ The Digital Superhighway's procurement went to court and lost. On 4 September th
 ## Liberia
 
 Ten civil society organisations [signed a founding memorandum for a Digital Advocacy and Rights Alliance](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html), reported on 24 September, committing to press for an independent data protection authority, amendments narrowing the Cybercrime Act, tighter oversight of state interception, and judicial authorisation and public reporting for any internet shutdown. Its founding assembly is due within 90 days of the last signature.
+
+## Malawi
+
+2026 — [the Open Government Partnership's review of Malawi's 2026-2029 action plan](https://www.opengovpartnership.org/documents/malawi-action-plan-review-2026-2029/) found it continuing political-party financing and beneficial-ownership reforms and adding public-participation commitments in extractive revenues and climate action.
 
 ## Mali
 

@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: geopol.china
 places: BWA; DJI; EGY; GMB
-record: 261c955e1c49
+record: 8dc4acb47f6e
 ---
 
 # China activities: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 261c955e1c49
 
 ## Botswana
 
-[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm).
+[China and Botswana raised relations to a comprehensive strategic partnership in a joint statement affirming digital sovereignty, Botswana joining China's digital economy trade-cooperation initiative and agreeing to consider joining the World AI Cooperation Organization](https://tz.china-embassy.gov.cn/chn/zgyw/202610/t20261013_12039645.htm). [Botswana signed a cooperation agreement on digital transformation with Huawei, covering government cloud hosting, smart education, telemedicine and AI-powered public security](https://dailynews.gov.bw/news-detail/93668); no sum is stated.
 
 ## Djibouti
 

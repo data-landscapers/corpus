@@ -3,13 +3,13 @@ title: Data Exchange — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: dpi.exchange
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1330f01a7590
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 726be9bfb9a6
 ---
 
 # Data Exchange: monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -88,6 +88,10 @@ The first register link to be agreed is between education and health rather than
 ## Ghana
 
 Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated. The central bank [counted 25,921,066 credit-bureau enquiries in 2025, down 12.12 per cent, while enquiries on digital borrowers rose from 13.1 million to 19.9 million](https://www.bog.gov.gh/wp-content/uploads/2026/09/2025-Credit-Reporting-Activities-Annual-Report-Final-Report.pdf).
+
+## Guinea-Bissau
+
+[The customs directorate put the migration to SYDONIA World at more than 80% executed, with the remaining applications and modules still to be installed for full operation](https://alfandegas.mef.gw/dga-e-missao-tecnica-do-bad-avaliam-a-execucao-dos-projetos-de-modernizacao-e-formacao-aduaneira/).
 
 ## Kenya
 

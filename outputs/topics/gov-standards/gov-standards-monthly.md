@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: gov.standards
 places: BEN; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 94940ed58b6f
+record: a7d23b74f2bf
 ---
 
 # Standards: monthly update, September – October 2026
@@ -35,7 +35,7 @@ The central bank [directed banks to give their fraud functions direct access to 
 
 On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
 
-The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published.
+The health service, with WHO support, [convened a national workshop to review the Medical Records Strategy and Operational Guidelines, written nearly a decade ago, so that they cover electronic medical records, data governance, interoperability, cybersecurity and artificial intelligence](https://www.afro.who.int/countries/ghana/news/preparing-ghanas-health-records-digital-future). No revised text or adoption date is published. [The communications minister said the ministry is building a national data exchange hub to connect 48 government data registries](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/); no design, cost or timetable is stated.
 
 ## Kenya
 

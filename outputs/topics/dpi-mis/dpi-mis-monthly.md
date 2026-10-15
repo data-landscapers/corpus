@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8413794a1b1b
+record: 5357bc6a51cf
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -119,7 +119,7 @@ The education register failed its first money test. The principal secretary [tol
 
 The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains). The health ministry and the governors' health committee [agreed that current facility contracts will not be extended again and set contracting clinics in every county to 14 October](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts). The health ministry [put migration at 6,427 public, 38 private and 38 of 518 faith-based facilities](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting).
 
-The criminal investigations directorate [extended its biometric police clearance system to the diplomatic community, reported on 14 October; since its launch on 23 July it has reached 26 of 63 application centres, and the directorate says certificates now issue the same day rather than in 14 days](https://www.standardmedia.co.ke/crime-and-justice/article/2001560103/dci-rolls-out-biometric-clearance-to-diplomats).
+The criminal investigations directorate [extended its biometric police clearance system to the diplomatic community, reported on 14 October; since its launch on 23 July it has reached 26 of 63 application centres, and the directorate says certificates now issue the same day rather than in 14 days](https://www.standardmedia.co.ke/crime-and-justice/article/2001560103/dci-rolls-out-biometric-clearance-to-diplomats). [Murang'a's governor said the county's AfyaKE records system had been shut down](https://www.standardmedia.co.ke/central/article/2001560193/health-services-disrupted-in-muranga-after-digital-system-shutdown); [the health ministry denied it and said the system was never submitted for certification](https://citizen.digital/article/moh-denies-tampering-with-muranga-countys-health-portal-n392106).
 
 ## Liberia
 

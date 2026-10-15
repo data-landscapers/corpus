@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6b5ba6fefe6b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4fb4aa4f8e24
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -171,6 +171,10 @@ On 24 September the head of the interior ministry's file-automation directorate 
 
 A [Digital Government Bill with data-governance and child-protection provisions is being prepared with the Attorney-General's office](https://sierraloaded.sl/local/reviews-security-childrens-vaccination-data/), with no draft or timetable published.
 
+## Somalia
+
+[The House of the People is reviewing a draft Penal Code to replace the 1962 code, with offences involving digital platforms and information systems](https://en.goobjoog.com/somalia-moves-to-modernise-penal-code-to-address-cybercrime-and-emerging-offences/); no vote is scheduled.
+
 ## South Africa
 
 Parliament's justice committee [agreed on 23 September that the department may publish proposed amended court rules for access-to-information applications](https://www.parliament.gov.za/press-releases/media-statement-justice-committee-approves-publication-proposed-amended-paia-court-rules-enhance-transparency-and-access-justice), standardising section 78 applications across all courts, requiring sworn section 80 representations five days before a hearing and repealing the old rules. They are proposals, not yet in force.
@@ -197,7 +201,7 @@ January’s shutdown directive reached the record in its own words. A newspaper 
 
 Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
 
-The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints).
+The communications regulator said on 12 October that it was [reviewing its enforcement against unauthorised Wi-Fi and hotspot resellers after complaints from operators, and promised a public notice within the week](https://nilepost.co.ug/news/377658/ucc-reviews-crackdown-on-unauthorised-wi-fi-operators-after-complaints). [The regulator said it had assessed about 4,000 unlicensed public Wi-Fi resellers and was moving to enforcement, with equipment imports to be blocked](https://www.ucc.co.ug/press-release-on-illegal-wi-fi-hotspots/).
 
 ## Zambia
 

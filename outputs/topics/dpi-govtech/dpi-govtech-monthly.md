@@ -3,13 +3,13 @@ title: Other GovTech and e-Gov — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9783efbaf229
+places: DZA; AGO; BEN; BWA; BFA; BDI; CAF; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f61526b56970
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -53,9 +53,13 @@ The state airports company [signed a memorandum with ACI Africa and a German sof
 
 The presidency [adopted a locally built messaging application as a channel for citizens' grievances, with no terms disclosed and no rule stated on control of the servers](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions).
 
+## Central African Republic
+
+[A national portal for online government services was launched, covering driving licences, criminal-record extracts, nationality and school certificates and medical appointments, in a country where about 12% of the population was online at the end of 2025](https://africabusinessinsight.com/central-african-republics-digital-public-services-face-connectivity-barriers/).
+
 ## Chad
 
-The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record. [The freight bureau signed a convention with a mobile-money operator to let road-freight users pay the compulsory waybill and the axle tax by mobile phone](https://www.atpe.td/tchad-le-bnft-et-moov-money-digitalisent-le-paiement-des-taxes-du-fret-terrestre/).
+The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record. [The freight bureau signed a convention with a mobile-money operator to let road-freight users pay the compulsory waybill and the axle tax by mobile phone](https://www.atpe.td/tchad-le-bnft-et-moov-money-digitalisent-le-paiement-des-taxes-du-fret-terrestre/). [The freight bureau signed a second mobile-money convention, with Konoom, to take payment of the mandatory waybill and axle tax](https://www.ndjamenaactu.com/2026/10/14/tchad-le-bnft-signe-avec-konoom-pour-dematerialiser-le-paiement-de-la-lvo-et-de-la-tae/).
 
 ## Cote d'Ivoire
 
@@ -73,7 +77,7 @@ The Senate [opened its second ordinary session of 2026 on 12 October with attend
 
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 
-The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated.
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated. [The foreign and digital economy ministers met to advance an integrated electronic-visa platform](https://ecomine.cd/web/index.php/actualite/2026/10/14/rdc-kinshasa-accelere-la-mise-en-oeuvre-du-visa-electronique-afin-de); no timetable is stated.
 
 ## Egypt
 
@@ -151,7 +155,7 @@ The state auditor is following it: the General Auditing Commission [has begun au
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
-Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion.
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion. [The Audit Bureau presented its Athar platform for managing audit tasks to more than 140 audited bodies](https://lana.gov.ly/post.php?id=367159&lang=ar).
 
 ## Madagascar
 
@@ -225,6 +229,10 @@ The e-government platform's own numbers reached the record this month through an
 
 A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no the removal of paper at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-the removal of paper/).
 
+## Seychelles
+
+[The Vice-President said the public service is expected to begin moving to a digital human resource management system in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027).
+
 ## Sierra Leone
 
 The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself. [Ministries, departments and agencies were shown VISION-SL, a platform to hold ministerial performance contracts, targets and quarterly progress reports in one system](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/); it awaits validation and testing.
@@ -251,7 +259,7 @@ The education ministry [launched online application and electronic fee payment f
 
 Zanzibar's automated road cameras [reached the House of Representatives](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252), members calling the 50 km/h limit too low and the Sh230,000 fine too high and asking why government vehicles go unpenalised.
 
-The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them.
+The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them. [The Vice President directed the integration of the YES, Ajira and Kazi employment platforms, after YES had registered over 22,000 young people against seven listed opportunities](https://ippmedia.co.tz/the-guardian/news/local-news/read/vp-govt-digital-platforms-still-not-helping-the-youth-2026-10-15-103404).
 
 ## Togo
 

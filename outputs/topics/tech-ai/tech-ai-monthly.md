@@ -3,13 +3,13 @@ title: AI — monthly update, September – October 2026
 compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 503d1534c2d3
+places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; COM; CIV; DJI; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c79ce83aad6a
 ---
 
 # AI: monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -96,6 +96,10 @@ Two disability systems came out of one university. Researchers at the Kwame Nkru
 [The central bank's governor said a directive on the use of artificial intelligence in the financial sector is in drafting](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/); no draft or date is published.
 
 The communications minister said [national AI language models will be built locally, tasking a Kumasi university to lead a Twi model and other universities other Ghanaian languages](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/); no budget or timetable is stated.
+
+## Guinea
+
+[The prime minister said public procurement will be digitised and AI used to check road-construction prices against the market, aiming to be operational by the end of 2026](https://guineejet.info/routes-en-guinee-bah-oury-veut-reduire-les-couts-grace-a-lintelligence-artificielle/).
 
 ## Kenya
 

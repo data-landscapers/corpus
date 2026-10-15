@@ -4,7 +4,7 @@ compiled: 2026-10-15
 period: 2026-09-01 to 2026-10-15
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN; UGA
-record: 4eff0f698088
+record: 86880414ccba
 ---
 
 # Data Storage: monthly update, September – October 2026
@@ -73,7 +73,7 @@ The first private data centre was inaugurated on 29 April 2026 and announced fro
 
 ## Ghana
 
-The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre).
+The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre). [The communications minister said US$250m had been committed to the first phase of a national AI compute centre](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/); nothing is sited or procured on the record.
 
 ## Guinea
 
