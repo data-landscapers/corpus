@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-15
+period: 2026-09-01 to 2026-10-15
 place: XSA
-ledger_rows: 12
+ledger_rows: 13
 not_held: 2
-record: 56e1431a4dfd
+record: 20d784cce34e
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -33,7 +33,7 @@ Public accounts committees took digital systems into their remit. SADCOPAC [adop
 ### AI
 
 <!-- narrative: instruments--tech-ai -->
-COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published.
+COMESA's work reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
