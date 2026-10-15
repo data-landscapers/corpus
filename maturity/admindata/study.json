@@ -1,0 +1,124 @@
+{
+ "id": "admindata",
+ "study_file": "maturity-study-admindata.md",
+ "subjects": [
+  "data.statistics"
+ ],
+ "stage_topic": "data.statistics",
+ "redraws": [
+  "data.statistics--statistics-from-administrative-data"
+ ],
+ "carry": [
+  "data.statistics--statistics-from-administrative-data"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "administrative data",
+  "administrative records",
+  "administrative sources",
+  "administrative statistics",
+  "register-based",
+  "vital statistics",
+  "vital statistics report",
+  "statistical yearbook",
+  "statistical abstract",
+  "statistical year book",
+  "education statistics",
+  "health statistics",
+  "crime statistics",
+  "justice statistics",
+  "external trade statistics",
+  "foreign trade statistics",
+  "données administratives",
+  "donnees administratives",
+  "sources administratives",
+  "statistiques administratives",
+  "statistiques de l'état civil",
+  "statistiques de l'etat civil",
+  "statistiques d'état civil",
+  "statistiques d'etat civil",
+  "annuaire statistique",
+  "annuaires statistiques",
+  "statistiques scolaires",
+  "statistiques sanitaires",
+  "statistiques du commerce extérieur",
+  "statistiques du commerce exterieur",
+  "dados administrativos",
+  "registos administrativos",
+  "fontes administrativas",
+  "estatísticas vitais",
+  "estatisticas vitais",
+  "anuário estatístico",
+  "anuario estatistico",
+  "estatísticas do comércio externo",
+  "البيانات الإدارية",
+  "السجلات الإدارية",
+  "الإحصاءات الحيوية",
+  "الكتاب الإحصائي السنوي",
+  "إحصاءات التجارة الخارجية"
+ ],
+ "sub_indicators": [
+  {
+   "key": "admin",
+   "label": "Statistics from administrative data",
+   "subject": "data.statistics",
+   "text": "Statistics from administrative data: statistics from administrative data",
+   "indicator_id": "data.statistics--statistics-from-administrative-data-statistics-from-administrative-data",
+   "class": "admin",
+   "also_assessed": [
+    "vital"
+   ],
+   "norm_short": "The African Charter on Statistics and SHaSA 2 ask each country to draw its official statistics from administrative records as well as censuses and surveys, civil registration first among them."
+  }
+ ],
+ "classes": [
+  "admin",
+  "vital",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "use",
+   "name": "Statistics from records published or in preparation",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "published",
+    "preparing"
+   ],
+   "values": [
+    "published",
+    "preparing",
+    "none"
+   ]
+  },
+  {
+   "key": "vital",
+   "name": "Vital statistics published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  },
+  {
+   "key": "series",
+   "name": "Vital statistics published every year",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "annual"
+   ],
+   "values": [
+    "annual"
+   ]
+  }
+ ],
+ "flags": []
+}
