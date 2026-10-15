@@ -1,0 +1,84 @@
+{
+ "id": "statisticsstrategy",
+ "study_file": "maturity-study-statisticsstrategy.md",
+ "subjects": [
+  "data.statistics"
+ ],
+ "stage_topic": "data.statistics",
+ "redraws": [
+  "data.statistics--national-strategy-for-development-of-statistics"
+ ],
+ "carry": [
+  "data.statistics--national-strategy-for-development-of-statistics"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 40000000,
+ "terms": [
+  "national strategy for the development of statistics",
+  "national strategy for development of statistics",
+  "national strategies for the development of statistics",
+  "strategy for the development of statistics",
+  "strategy for development of statistics",
+  "statistics development strategy",
+  "statistical development strategy",
+  "national statistical development strategy",
+  "national statistics development strategy",
+  "national statistics strategy",
+  "national statistical strategy",
+  "strategy for official statistics",
+  "statistical master plan",
+  "statistics master plan",
+  "plan for national statistical development",
+  "national statistical system strategic plan",
+  "strategic plan for the national statistical system",
+  "Tanzania Statistical Master Plan",
+  "NSDS",
+  "NSDS2",
+  "NSDS3",
+  "NSDS4",
+  "SNDS",
+  "SNDS2",
+  "SNDS3",
+  "KSDS",
+  "BSDS",
+  "TSMP",
+  "PNSD",
+  "ENDE",
+  "strategie nationale de developpement de la statistique",
+  "strategie nationale de developpement statistique",
+  "strategie nationale de developpement des statistiques",
+  "strategie de developpement de la statistique",
+  "schema directeur de la statistique",
+  "schema directeur statistique",
+  "estrategia nacional de desenvolvimento da estatistica",
+  "estrategia nacional de desenvolvimento estatistico",
+  "estrategia nacional de desarrollo estadistico",
+  "estrategia nacional de desarrollo de la estadistica",
+  "estrategia nacional de desarrollo de las estadisticas",
+  "الاستراتيجية الوطنية لتطوير الإحصاء",
+  "الاستراتيجية الوطنية لتطوير الاحصاء",
+  "الاستراتيجية الوطنية للإحصاء",
+  "الاستراتيجية الوطنية للاحصاء"
+ ],
+ "sub_indicators": [
+  {
+   "key": "strategy",
+   "label": "Statistics strategy",
+   "subject": "data.statistics",
+   "text": "National strategy for development of statistics: statistics strategy",
+   "indicator_id": "data.statistics--national-strategy-for-development-of-statistics-statistics-strategy",
+   "class": "strategy",
+   "norm_short": "The African Charter on Statistics and the Strategy for the Harmonisation of Statistics in Africa (SHaSA 2) ask each country to design, carry out and evaluate a national strategy for the development of statistics."
+  }
+ ],
+ "classes": [
+  "strategy",
+  "other"
+ ],
+ "aspects": [
+  {"key": "standing", "name": "A strategy adopted or in preparation", "role": "coverage", "defer": ["none"], "prefer": ["adopted", "preparing"], "values": ["adopted", "preparing", "none"]},
+  {"key": "review", "name": "Progress reviewed", "role": "coverage", "defer": [], "prefer": ["reviewed"], "values": ["reviewed"]},
+  {"key": "evaluation", "name": "Evaluated", "role": "coverage", "defer": [], "prefer": ["evaluated"], "values": ["evaluated"]}
+ ],
+ "flags": []
+}

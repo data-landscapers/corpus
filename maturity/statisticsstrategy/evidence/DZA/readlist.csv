@@ -1,0 +1,4 @@
+n,slice,pass,tier,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,,,DZA,status,data.statistics,,outputs/reports/DZA/DZA-status.md,,National statistics,,,status,,0,267
+1,1,0,news,DZA,raw,2024-11-20-radioalgerie-modernisation-systemes-ons,whole,raw/2024/2024-11-20-radioalgerie-modernisation-systemes-ons.md,http://news.radioalgerie.dz/fr/node/55477,Finances: moderniser les systèmes de l'ONS pour améliorer la qualité des données,2024-11-20,DZA,cell+ledger+subject+considered,national strategy for the development of statistics;nsds,2,962
+2,2,rung,instrument,DZA,raw,2026-03-31 Africa we have a data problem,passages,scripts/.workroot/study/statisticsstrategy/passages/DZA/2026-03-31 Africa we have a data problem.md,https://data-landscapers.com/2026/03/31/africa-data-problem/,"Africa, we have a data problem",2026-03-31,XAF;XSS;ZWE,regional,bsds,1,1161
