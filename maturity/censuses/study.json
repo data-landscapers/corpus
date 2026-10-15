@@ -1,0 +1,90 @@
+{
+ "id": "censuses",
+ "study_file": "maturity-study-censuses.md",
+ "subjects": [
+  "data.statistics"
+ ],
+ "stage_topic": "data.statistics",
+ "redraws": [
+  "data.statistics--censuses-and-surveys"
+ ],
+ "carry": [
+  "data.statistics--censuses-and-surveys"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 50000000,
+ "terms": [
+  "census",
+  "censuses",
+  "population and housing census",
+  "general population census",
+  "census round",
+  "census cartography",
+  "pilot census",
+  "enumeration area",
+  "household survey",
+  "household surveys",
+  "demographic and health survey",
+  "demographic and health surveys",
+  "DHS",
+  "multiple indicator cluster survey",
+  "MICS",
+  "living standards survey",
+  "living standards measurement study",
+  "LSMS",
+  "integrated household survey",
+  "household budget survey",
+  "household income and expenditure survey",
+  "labour force survey",
+  "labor force survey",
+  "harmonised survey on household living conditions",
+  "RGPH",
+  "RGPH-5",
+  "RGPH5",
+  "RGPH-4",
+  "RGPH4",
+  "RGPHAE",
+  "recensement general de la population",
+  "recensement de la population",
+  "recensement general",
+  "enquete demographique et de sante",
+  "enquete harmonisee sur les conditions de vie des menages",
+  "EHCVM",
+  "enquete par grappes a indicateurs multiples",
+  "enquete nationale sur l'emploi",
+  "enquete aupres des menages",
+  "recenseamento geral da populacao",
+  "recenseamento geral",
+  "censo da populacao",
+  "censo de poblacion",
+  "inquerito demografico e de saude",
+  "inquerito aos agregados familiares",
+  "inquerito ao emprego",
+  "التعداد العام للسكان",
+  "التعداد السكاني",
+  "تعداد السكان",
+  "المسح الديموغرافي والصحي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "census",
+   "label": "Censuses and surveys",
+   "subject": "data.statistics",
+   "text": "Censuses and surveys: population census and household surveys",
+   "indicator_id": "data.statistics--censuses-and-surveys-censuses-and-surveys",
+   "class": "census",
+   "norm_short": "The African Charter on Statistics and SHaSA 2 ask each country to produce its core statistics from censuses and surveys; the UN's 2030 round asks for a population and housing census at least once every ten years."
+  }
+ ],
+ "classes": [
+  "census",
+  "survey",
+  "other"
+ ],
+ "aspects": [
+  {"key": "census", "name": "A census taken or in preparation", "role": "coverage", "defer": ["none"], "prefer": ["taken", "preparing"], "values": ["taken", "preparing", "none"]},
+  {"key": "results", "name": "Final results published", "role": "coverage", "defer": [], "prefer": ["final"], "values": ["final"]},
+  {"key": "survey", "name": "A household survey published", "role": "coverage", "defer": [], "prefer": ["published"], "values": ["published"]}
+ ],
+ "flags": []
+}
