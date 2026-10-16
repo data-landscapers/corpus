@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-27-personnes-vulnerables-174-filles-handicapees",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Equal Opportunity Cards, school support and access ramps concern benefits and physical access, not information or digital services."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Says the ministry has structures for displaced people but no exhaustive biometric statistics; no registration, documents or digital service stated."
+    }
+   }
+  }
+ }
+}

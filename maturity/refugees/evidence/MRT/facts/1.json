@@ -1,0 +1,8 @@
+{"slug":"2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national","facts":[
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"UNHCR states around 185,000 refugees were registered in the national population registry by December 2025.","as_of":"2025-12","date_precision":"month","system":"national population registry","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"UNHCR states 166,199 refugees are registered in Hodh Chargui and 91% of refugees are registered in the system, and that registered refugees receive verification via a Biometric Identity Management System and a National Identification Number (NIN) with ANRPTS.","as_of":"2025-12","date_precision":"month","system":"Biometric Identity Management System","class":"displaced"}
+],"systems":[
+{"system":"Biometric Identity Management System","country_label":"Mauritania","class":"displaced","platform":"","owner":"UNHCR","tiers":""},
+{"system":"National population registry (NIN)","country_label":"Mauritania","class":"displaced","platform":"","owner":"ANRPTS","tiers":""},
+{"system":"SIGE-R","country_label":"Mauritania","class":"other","platform":"","owner":"UNHCR / Ministry of Education","tiers":""}
+],"note":""}

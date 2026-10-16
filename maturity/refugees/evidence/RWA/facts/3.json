@@ -1,0 +1,4 @@
+{"slug": "2026-06-23-digital-id-refugees-biometricupdate", "facts": [
+{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"Biometric Update, citing SOS Media Burundi, says refugees in camps and urban areas are being enrolled in Rwanda's national biometric ID registration drive, with face, fingerprint and iris captured.","as_of":"2026-06","date_precision":"month","system":"national biometric ID registration (NIDA)","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"access","value":"open","fact":"Biometric Update, citing SOS Media Burundi, says refugees who have received their ID cards have been able to open bank accounts and buy SIM cards.","as_of":"2026-06","date_precision":"month","system":"national digital ID (NIDA)","class":"displaced"}
+], "systems": [{"system":"National digital ID registration","country_label":"Rwanda","class":"other","platform":"","owner":"National Identification Authority (NIDA)","tiers":""}], "note": ""}

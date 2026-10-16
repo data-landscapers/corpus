@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "ANSUT's Honoré Aka said the rural connectivity emergency programme launched in 2025 connected 500 villages to digital infrastructure and connectivity services.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Programme d'urgence de connectivité rurale",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ANSUT's Honoré Aka said 300 new localities are to be added to the rural digital connectivity effort in 2026.",
+   "as_of": "2026-06-19",
+   "date_precision": "day",
+   "system": "Programme d'urgence de connectivité rurale",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programme d'urgence de connectivité rurale",
+   "country_label": "Côte d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "ANSUT",
+   "tiers": ""
+  },
+  {
+   "system": "Réseau national à haut débit (RNHD)",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSUT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

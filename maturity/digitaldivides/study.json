@@ -1,0 +1,114 @@
+{
+ "id": "digitaldivides",
+ "study_file": "maturity-study-digitaldivides.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.divides"
+ ],
+ "stage_topic": "include.divides",
+ "redraws": [
+  "include.divides--bridging-of-digital-divides"
+ ],
+ "carry": [
+  "include.divides--bridging-of-digital-divides"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 15000000,
+ "terms": [
+  "rural connectivity",
+  "universal service fund",
+  "universal access fund",
+  "universal service and access",
+  "universal service obligation",
+  "underserved areas",
+  "unserved areas",
+  "underserved communities",
+  "rural telephony",
+  "digital divide",
+  "rural internet",
+  "connecting rural",
+  "last mile connectivity",
+  "fracture numérique",
+  "zones blanches",
+  "service universel",
+  "fonds de service universel",
+  "accès universel",
+  "zones rurales connectées",
+  "connectivité rurale",
+  "serviço universal",
+  "fundo de serviço universal",
+  "exclusão digital",
+  "الخدمة الشاملة",
+  "الفجوة الرقمية",
+  "الخدمة الشاملة للاتصالات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "ruralaccess",
+   "label": "Rural internet gap",
+   "subject": "include.divides",
+   "text": "Bridging of digital divides: rural internet gap",
+   "indicator_id": "include.divides--bridging-of-digital-divides-rural-internet-gap",
+   "class": "ruralaccess",
+   "norm_short": "The Digital Transformation Strategy asks for universal, equitable and affordable access for all people wherever they live; the ITU's 2030 targets ask for universal internet use.",
+   "criteria": [
+    "A source from the past three years says no programme brings internet access to rural areas.",
+    "The government or its universal service fund has launched, funded or is preparing a programme to bring internet access to rural or underserved areas.",
+    "A rural connectivity programme has connected a stated number of rural sites, towers, localities or people.",
+    "The share of people using the internet in rural areas and in urban areas is published, from a household survey or the statistics office.",
+    "Rural internet use is 80 per cent or more of the urban rate, from a household survey."
+   ],
+   "criteria_of": "ac0df2f4b686"
+  }
+ ],
+ "classes": [
+  "ruralaccess",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "programme",
+   "name": "Rural connectivity programme",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "delivering",
+    "underway"
+   ],
+   "values": [
+    "delivering",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "measured",
+   "name": "Gap measured",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "measured"
+   ],
+   "values": [
+    "measured"
+   ]
+  },
+  {
+   "key": "narrow",
+   "name": "Gap narrow",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "narrow"
+   ],
+   "values": [
+    "narrow"
+   ]
+  }
+ ],
+ "flags": []
+}

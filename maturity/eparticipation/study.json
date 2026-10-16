@@ -1,0 +1,117 @@
+{
+ "id": "eparticipation",
+ "study_file": "maturity-study-eparticipation.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.access"
+ ],
+ "stage_topic": "include.access",
+ "redraws": [
+  "include.access--citizen-participation-in-policy"
+ ],
+ "carry": [
+  "include.access--citizen-participation-in-policy"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 15000000,
+ "terms": [
+  "online consultation",
+  "online public consultation",
+  "e-participation",
+  "eParticipation",
+  "e-petition",
+  "e-petitions",
+  "online petition",
+  "consultation portal",
+  "public consultation",
+  "call for comments",
+  "public comment",
+  "public comments",
+  "comment period",
+  "draft for comments",
+  "draft for public comment",
+  "Open Government Partnership",
+  "consultation en ligne",
+  "consultation publique",
+  "appel à commentaires",
+  "participation citoyenne",
+  "pétition en ligne",
+  "e-participation citoyenne",
+  "consulta pública",
+  "consulta online",
+  "participação pública",
+  "استشارة عمومية",
+  "الاستشارة الإلكترونية",
+  "المشاركة المواطنة",
+  "استطلاع رأي المواطنين"
+ ],
+ "sub_indicators": [
+  {
+   "key": "eparticipation",
+   "label": "Online participation in policy",
+   "subject": "include.access",
+   "text": "Citizen participation in policy: online participation in policy",
+   "indicator_id": "include.access--citizen-participation-in-policy-online-participation-in-policy",
+   "class": "eparticipation",
+   "norm_short": "The African Charter on Democracy, Elections and Governance asks for citizen participation in the development process; the UN E-Participation Index measures it online.",
+   "criteria": [
+    "A source from the past three years says laws and policies are adopted with no public consultation and no way for citizens to take part.",
+    "A ministry, parliament or regulator posted a named draft law, policy or regulation online for public comment, or ran an online consultation or survey on one.",
+    "A government consultation portal, e-petition system or online platform for comments on drafts is in service and open to the public for more than one draft.",
+    "The government published the comments it received in an online consultation, a report of one, or its answer to them.",
+    "A consultation was held online because a law, decree or published procedure requires drafts to be put online for public comment."
+   ],
+   "criteria_of": "7ac83f61826c"
+  }
+ ],
+ "classes": [
+  "eparticipation",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "online",
+   "name": "Asked online",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "standing",
+    "asked"
+   ],
+   "values": [
+    "standing",
+    "asked",
+    "none"
+   ]
+  },
+  {
+   "key": "published",
+   "name": "Answers published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  },
+  {
+   "key": "required",
+   "name": "Required",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "required"
+   ],
+   "values": [
+    "required"
+   ]
+  }
+ ],
+ "flags": []
+}

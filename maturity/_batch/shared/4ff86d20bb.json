@@ -18,6 +18,24 @@
      "note": "No programme or measured share stated."
     }
    }
+  },
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural connectivity concerns are stated without a programme or survey figures."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The digital system is for medical assessment of disability, not accessible information or services."
+    }
+   }
   }
  }
 }

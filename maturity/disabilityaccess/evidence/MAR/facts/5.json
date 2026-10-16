@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-mar-h24info-inclusion-numerique-societe-civile",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "H24Info reports the digital transition minister held a workshop on improving access of persons with disabilities to digital public services, with recommendations for the update of the third Open Government action plan 2024-2028.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Third National Open Government Action Plan 2024-2028 update",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

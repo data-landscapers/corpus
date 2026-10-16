@@ -1,0 +1,15 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "no evidence",
+   "gap": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held gives the gender gap in internet use.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

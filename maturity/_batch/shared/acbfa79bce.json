@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-30-unhcr-floods-displacement-briefing",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The briefing covers flood displacement and shelter conditions and says nothing on access to information or digital services for persons with disabilities."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The briefing counts people displaced by floods and says some fled without identity documents, but states no registration, documents or digital service for the displaced."
+    }
+   }
+  }
+ }
+}

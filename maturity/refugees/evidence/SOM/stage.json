@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "displaced",
+   "stage": "5",
+   "registration": "documented",
+   "access": "open",
+   "counted": "counted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
+  }
+ ]
+}

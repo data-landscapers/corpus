@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-gsma-refugee-women-digital-inclusion-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "GSMA research cited by Biometric Update says refugee women in Tanzania are more likely than men to rely on relatives or citizens to register SIM cards in third-party names because of identity documentation requirements.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "SIM card registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

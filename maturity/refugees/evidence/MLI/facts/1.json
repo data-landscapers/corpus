@@ -1,0 +1,6 @@
+{"slug": "2026-07-23-unhcr-mali-operational-update-deuxieme-trimestre-2026", "facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNHCR Mali reports that between April and June 2026 4,950 people were registered and enrolled biometrically by the CNCR and UNHCR, and 17,806 refugee ID cards were distributed.", "as_of": "2026-06", "date_precision": "month", "system": "Biometric registration by the Commission nationale pour les réfugiés (CNCR) and UNHCR", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "UNHCR Mali says biometric registration operations and distribution of refugee ID cards continued in the second quarter of 2026, with temporary documents issued to new asylum seekers.", "as_of": "2026-06", "date_precision": "month", "system": "Biometric registration by the Commission nationale pour les réfugiés (CNCR) and UNHCR", "class": "displaced"}
+], "systems": [
+{"system": "Biometric refugee registration and refugee ID cards", "country_label": "Mali", "class": "displaced", "platform": "biometric enrolment", "owner": "CNCR and UNHCR", "tiers": "refugees, asylum seekers"}
+], "note": ""}

@@ -1,0 +1,46 @@
+{
+ "slug": "ref:itu-internet-use-gender-gap@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:21.709",
+   "fact": "The gender gap in internet use in Cote d'Ivoire was 21.7 per cent in 2022, by ITU's internet use series by sex.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  },
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:23.9224",
+   "fact": "The gender gap in internet use in Cote d'Ivoire was 23.9 per cent in 2023, by ITU's internet use series by sex.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  },
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:13.9326",
+   "fact": "The gender gap in internet use in Cote d'Ivoire was 13.9 per cent in 2024, by ITU's internet use series by sex.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITU's internet use series by sex",
+   "country_label": "Cote d'Ivoire",
+   "class": "gendergap",
+   "platform": "",
+   "owner": "International Telecommunication Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

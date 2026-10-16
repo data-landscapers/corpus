@@ -1,0 +1,7 @@
+{"slug": "2026-07-31-eswatini-issues-77-refugees-passports-for-global-travel", "facts": [
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"Eswatini hosts 5 058 registered refugees and asylum seekers, and the Ministry of Home Affairs dispatched 70 refugee status permits and 77 machine-readable Convention Travel Documents in April-June 2026.","as_of":"2026-06","date_precision":"month","system":"Refugee status permit","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"access","value":"open","fact":"The Ministry of Home Affairs says refugee status permits let holders obtain personal identification numbers, national identity cards and access to government and financial services.","as_of":"2026-06","date_precision":"month","system":"Refugee status permit","class":"displaced"}
+], "systems": [
+{"system":"Refugee status permit","country_label":"Eswatini","class":"displaced","platform":"","owner":"Ministry of Home Affairs, Refugee Department","tiers":""},
+{"system":"Eswatini Machine Readable Convention Travel Document (EMCTD)","country_label":"Eswatini","class":"displaced","platform":"","owner":"Ministry of Home Affairs, Refugee Department","tiers":""}
+], "note": ""}

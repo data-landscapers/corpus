@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-07-digital-inclusion-uganda-telecoms-safaricom-vodacom",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The article says Uganda operates the Uganda Communications Universal Service and Access Fund (formerly the Rural Communications Development Fund), financed by a 2 per cent operator revenue levy to support digital inclusion.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "UCUSAF",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UCUSAF",
+       "country_label": "Uganda",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Uganda Communications Universal Service and Access Fund",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Says Uganda lacks a digital inclusion policy but states no government accessibility rule or programme; accessibility findings concern operators."
+    }
+   }
+  }
+ }
+}

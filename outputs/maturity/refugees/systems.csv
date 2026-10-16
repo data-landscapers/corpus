@@ -1,0 +1,93 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,proGres,Angola,displaced,UNHCR proGres database,UNHCR,"documentation, case management and planning",2026-04-30-unhcr-angola-estatisticas-mensais-da-populacao-refugiada-abril-2026
+BDI,Level-2 biometric registration,Burundi,displaced,,ONPRA and UNHCR Burundi,,2026-07-06-onpra-hcr-enregistrement-biometrique-refugies-congolais-busuma
+BDI,Merankabandi,Burundi,other,,"Government of Burundi, World Bank, WFP",,2025-09-22-sos-medias-burundi-fin-merankabandi-transferts-monetaires-refugies
+BDI,Unified Social Registry,Burundi,other,,Government of Burundi,,2026-05-01-worldbank-building-burundi-national-social-protection-systems
+BDI,CORE-MIS,Burundi,other,open-source MIS,Government of Burundi,,2026-05-01-worldbank-building-burundi-national-social-protection-systems
+BDI,CORE-MIS,Burundi,other,openIMIS,Government of Burundi,,2026-01-01 Burundi's growing social protection system now runs on openIMIS
+BFA,Registres d'etat civil numerises,Burkina Faso,other,,Ministere de l'Administration territoriale et de la Mobilite,30 communes,2026-02-02-contrat-objectifs-121000-actes-etat-civil-deplaces
+BFA,Registre Social Unique,Burkina Faso,other,,,,2026-07-15-worldbank-new-financing-economic-opportunities-social-protection
+BFA,IDP database,Burkina Faso,displaced,,,,2026-07-15-worldbank-new-financing-economic-opportunities-social-protection
+BFA,Registre Social Unique,Burkina Faso,other,,,,2025-07-28-saspp-burkina-faso
+BFA,Unique Identifier System (WURI project),Burkina Faso,other,,,,2025-07-28-saspp-burkina-faso
+BFA,IDP databases,Burkina Faso,displaced,,,,2025-07-28-saspp-burkina-faso
+BFA,Digital birth registration platform,Burkina Faso,other,,DGMEC,"Kaya, Tenkodogo, Koupela",2025-01-01-civil-registration-children-burkina-faso-phase-ii
+BWA,Records Management System (Dukwi Refugee Camp),Botswana,other,,Ministry of Justice and Correctional Services,,2026-03-01-mjcs-committee-of-supply-speech-2026
+CAF,SCOPE,Central African Republic,other,WFP beneficiary card system,WFP,,2026-08-19-unhcr-operational-update-q2-2026
+CAF,UNHCR refugee registration,Central African Republic,displaced,,UNHCR with the National Commission for Refugees (CNR),,2026-08-19-unhcr-operational-update-q2-2026
+CIV,national refugee database,Cote d'Ivoire,displaced,,DAARA with UNHCR,,2026-08-17-cote-divoire-unhcr-factsheet-january-june-2026
+CIV,DAARA registration,Cote d'Ivoire,displaced,,DAARA,,2025-02-01-gulf-of-guinea-jrp-2024-cote-divoire-report
+CIV,National Register of Physical Persons (RNPP),Cote d'Ivoire,other,,ONECI,,2025-02-01-gulf-of-guinea-jrp-2024-cote-divoire-report
+CMR,PESOP IDP registration,Cameroon,displaced,,UNHCR,,2026-03-17-giz-pesop-idp-profiling-west-region
+CMR,National biometric ID card system,Cameroon,other,Augentic,DGSN,,2025-08-07-new-biometric-id-card-center-garoua-northern-cameroon-biometricupdate
+CMR,National biometric ID card system,Cameroon,other,Augentic,DGSN,,2025-08-04 Cameroon Launches Rapid Biometric ID Program in Far North to Address Displacement
+CMR,BUNEC civil registration,Cameroon,other,,BUNEC,,2025-01-27-new-civil-registration-law-sdg-16-9-biometricupdate
+COD,ONIP-CNR refugee identification protocol,RDC,displaced,,ONIP and CNR,,2024-11-20-onip-cnr-protocole-identification-refugies
+COD,Registre Social Unique (RSU),RDC,other,,MINAS,,2025-12-12-worldbank-icr-step-eastern-recovery-project
+COG,Biometric refugee travel document (passeport biometrique),Congo,displaced,,Ministry of Foreign Affairs,national,2026-02-07-aci-remise-passeports-biometriques-aux-refugies
+COM,UNHCR Joint Registration Exercise,Comoros,displaced,Power BI Desktop,UNHCR SAMCO,,2025-11-30-com-unhcr-samco-monthly-protection-dashboard-nov2025
+EGY,UNHCR Egypt registration,Egypt,displaced,,UNHCR,,2026-05-01-sudan-unhcr-egypt-fact-sheet-refugee-digital-services
+EGY,GAPIN registration and ID card,Egypt,displaced,,"General Administration of Passports, Immigration and Nationality, Ministry of Interior",,2024-07-03-egypt-foreign-residents-status-regulated
+ETH,Fayda,Ethiopia,displaced,national digital ID,National Identity Program (NIDP),,2026-07-16-fayda-refugee-inclusion-makatet-strategy-biometricupdate
+ETH,Fayda,Ethiopia,displaced,national digital ID,National Identity Program (NIDP),,2026-05-18 WB Ethiopia Digital ID for Inclusion and Services Project - implementation support mission aide-memoire
+ETH,Fayda,Ethiopia,displaced,national digital ID,National Identity Program (NIDP),,2026-05-18-ethiopia-digital-id-isr-seq5
+ETH,Fayda,Ethiopia,other,National digital ID,"National ID Program (NIDP), Prime Minister's Office",,2023-11-20 WB Ethiopia Digital ID for Inclusion and Services Project - project appraisal document
+GHA,Registration of Refugees (NIA),Ghana,displaced,national ID card,National Identification Authority,,2026-01-25-nia-approved-fees-and-charges-2026
+GHA,Foreigner Identification Management System (FIMS),Ghana,other,,National Identification Authority,,2026-01-25-nia-approved-fees-and-charges-2026
+GHA,Ghana Card,Ghana,displaced,three-biometric national ID,National Identification Authority,,2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card
+GIN,CNISR,Commission Nationale pour l'Integration et le Suivi des Refugies,displaced,,MATD,,2026-07-23-matd-cnisr-atelier-appropriation-institutionnelle
+KEN,Refugee Identity Card,Kenya,displaced,,Department of Refugee Services,,2026-04-06-connecting-refugees-in-kenya-overcoming-policy-barriers-to-accessing-digital-services
+LBR,National Identification Registry,Liberia,other,,National Identification Registry,,2026-06-24-liberia-lina-lrrrc-rebrands-to-ramco-expanded-mandate
+LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry,,2026-03-04-liberia-lrrrc-nir-lis-mou-refugee-biometric-id
+LBY,e-Wallet for foreign residents and workers,Libya,other,e-wallet,Bank of Commerce and Development,,2026-03-16-bank-of-commerce-and-development-first-e-wallet-expat-residents-workers
+LSO,Refugee identity card and travel document issuance (Office of the Commissioner for Refugees),Lesotho,displaced,,Ministry of Home Affairs,,2026-08-22-lestimes-refugees-trapped-lesotho-id-freeze
+LSO,MOSIP-based national digital identity ecosystem,Lesotho,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
+MAR,UNHCR registration in Morocco,Morocco,displaced,,UNHCR,,2026-01-29-unhcr-morocco-country-page
+MDG,Office for Refugees and Stateless Persons,Madagascar,displaced,,Government of Madagascar,"legally created 1962, never established in practice",2025-01-01-unhcr-rimap-madagascar
+MLI,Biometric refugee registration and refugee ID cards,Mali,displaced,biometric enrolment,CNCR and UNHCR,"refugees, asylum seekers",2026-07-23-unhcr-mali-operational-update-deuxieme-trimestre-2026
+MLI,Registre Social Unifié (RSU),Mali,other,,"Mali government, with WFP support",,2026-02-01-wfp-mali-country-brief-february-2026
+MOZ,CRVS,Mozambique,other,web-based with some USSD functions,National Directorate of Registries and Notaries,"68 conservatories, 156 hospital posts",2025-01-01-strengthening-civil-registration-mozambique-crvs
+MRT,Biometric Identity Management System,Mauritania,displaced,,UNHCR,,2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national
+MRT,National population registry (NIN),Mauritania,displaced,,ANRPTS,,2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national
+MRT,SIGE-R,Mauritania,other,,UNHCR / Ministry of Education,,2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national
+MRT,Social Registry,Mauritania,other,,Taazour,,2024-09-05-mauritania-adaptive-social-protection
+MRT,National Identification Number (NNI),Mauritania,displaced,,ANRPTS,,2024-03-01-unhcr-mauritania-factsheet-march-2024
+MRT,EMIS,Mauritania,other,,Ministry of Education,,2024-03-01-unhcr-mauritania-factsheet-march-2024
+NAM,Cash-Based Interventions (MTC mobile money),Namibia,displaced,MTC Namibia mobile money,UNHCR with government of Namibia,Osire settlement,2025-02-01 Cash-Based Interventions provide a ray of hope for refugees in Namibia amid severe drought and funding shortages
+NAM,National Population Registration System (NPRS),Namibia,other,e-NPRS,"Ministry of Home Affairs, Immigration, Safety and Security",,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs
+NER,passeport biométrique AES,Niger,other,"biometric enrolment kits, online pre-enrolment via Amana, Nita and Airtel Money",Ministère de l'Intérieur / Direction de la Surveillance du Territoire,national,2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes
+NER,état civil de Diffa,Niger,other,four communes computerised; health-facility declaration centres,"Direction régionale de l'État civil, des Migrations et des Réfugiés de Diffa",regional,2026-07-29-niger-diffa-173000-actes-de-naissance-etat-civil
+RWA,National digital ID registration,Rwanda,other,,National Identification Authority (NIDA),,2026-06-23-digital-id-refugees-biometricupdate
+RWA,Electronic identity card registration for non-Rwandans,Rwanda,other,,Directorate General of Immigration and Emigration,,"2026-02-10 Where can refugees, foreigners register for digital ID"
+RWA,digital ID,Rwanda,other,,National Identification Agency (NIDA),,2026-02-07-digital-id-nearly-15m-enrolled-kigali-newtimes
+SDN,Foreign Number system,Sudan,displaced,smart card,"Commission for Refugees, with UNHCR and Passports and Civil Registry Authority",refugees,2026-05-24-sudan-refugees-commission-foreign-number-system
+SDN,121 Platform,121 Platform,displaced,121 Platform with KoboToolbox registration,Sudanese Red Crescent Society,,2026-03-02-sudan-red-crescent-121-platform-cash
+SEN,Commission Nationale d'Eligibilite (CNE) asylum procedure,Senegal,displaced,paper form and recepisse,CNE,,2026-09-03-unhcr-senegal-demande-asile-procedure-cne
+SOM,Somali National ID system,Somalia,displaced,biometric digital ID,NIRA,,2026-06-25-nira-idp-national-id-registration-initiative
+SOM,Somali National ID system,Somalia,displaced,biometric digital ID,NIRA,,2026-01-13-baidoa-idp-legal-id-registration-pilot
+SOM,Somali National ID system,Somalia,displaced,biometric digital ID,NIRA,,2026-05-13-undp-somalia-digital-transformation-2025-highlights
+SOM,Somalia National Digital Inclusion Policy,Somalia,other,,Ministry of Communications and Technology,,2025-08-01-somalia-digital-inclusion-policy
+SSD,Civil Registry,South Sudan,other,,DCRNPI,,2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)
+SSD,National Identity Card,South Sudan,other,,DCRNPI,,"2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU"
+SSD,Nationality Certificate,South Sudan,other,,DCRNPI,,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
+SSD,National Identity Card,South Sudan,other,,DCRNPI,,2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap
+SSD,Nationality Certificates / national ID and birth registration (Directorate of Civil Registry),South Sudan,other,,"Department of Civil Registry, Nationality, Passport and Immigration",,2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan
+SSD,SNSOP management information system with biometric registration tool,South Sudan,other,MIS linked to a biometric registration tool and payment application,"Ministry of Agriculture and Food Security (temporarily, from UNOPS); MGCSW to take over",,2024-08-21-snsop-additional-financing-project-paper
+SWZ,Refugee status permit,Eswatini,displaced,,"Ministry of Home Affairs, Refugee Department",,2026-07-31-eswatini-issues-77-refugees-passports-for-global-travel
+SWZ,Eswatini Machine Readable Convention Travel Document (EMCTD),Eswatini,displaced,,"Ministry of Home Affairs, Refugee Department",,2026-07-31-eswatini-issues-77-refugees-passports-for-global-travel
+TCD,Integrated Population and Secure Documents Management System (SIGPTS),Chad,displaced,Idemia,ANATS / CNARR with UNHCR,National Refugee Identification Number (NNIR),2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr
+TCD,national database (biometric enrolment of refugees),Chad,displaced,,ANATS,national,2025-11-27-unhcr-tchad-lancement-enrolement-biometrique-anats-abeche
+TCD,Registre Social Unifie (RSU),Chad,other,,,national,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
+TCD,secure ID for refugees,Chad,displaced,,ANATS,national,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
+TGO,ProGres V4,CNAR refugee database,displaced,UNHCR ProGres,CNAR,national,2025-12-11-cnar-togo-atelier-collecte-donnees-socio-economiques-personnes-deplacees-progres-v4
+TGO,ProGres V4,CNAR refugee database,displaced,UNHCR ProGres,CNAR,national,2025-08-09-cnar-togo-mission-delivrance-cartes-identite-refugie-savanes
+UGA,mobile and continuous registration,Uganda,displaced,,UNHCR,,2026-03-01-unhcr-uganda-factsheet-q1-2026
+UGA,Refugee Identity Cards,Uganda,displaced,,"Office of the Prime Minister, Department of Refugees",,2025-12-04-opm-refugee-management-page
+UGA,refugee identification documents and asylum seeker certificates,Uganda,displaced,,OPM and UNHCR,,2025-07-05-nira-refugees-national-ids-citizens-only
+UGA,National Identification card,Uganda,other,,NIRA,,2025-07-05-nira-refugees-national-ids-citizens-only
+UGA,national identity card enrolment and renewal,Uganda,other,biometric digital kits,NIRA,,2025-05-28 Huge turnout as Nira starts mass registration
+ZAF,intention-registration and appointment system,South Africa,displaced,online platform with assisted registration at Refugee Reception Offices,Department of Home Affairs,asylum intention receipt,2026-10-11-zaf-sanews-asylum-court-guidance-intention-registration-system
+ZAF,biometric online asylum platform,South Africa,displaced,online platform,Department of Home Affairs,,2026-10-11-zaf-sanews-home-affairs-biometric-asylum-platform
+ZMB,Zambia Refugee and Host Communities Project (ZRHCP),Zambia,displaced,biometric national registration cards,Ministry of Home Affairs and Internal Security,,2025-10-03 Zambia plans domestic digital ID development with help from international partners
+ZMB,ZamPortal,Zambia,other,Government Service Bus,Smart Zambia Institute,,2025-12-11-zambia-znbc-online-passport-launch
+ZMB,Integrated National Registration Information System (INRIS),Zambia,other,biometric ID,,,2025-10-01-digital-id-kenya-zambia-summary

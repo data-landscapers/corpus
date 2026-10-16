@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,displaced,registration,coverage,documented,2024-03,SSD-003,SSD-002=none;SSD-004=underway,
+SSD,displaced,access,coverage,open,2026-02,SSD-001,,
+SSD,displaced,counted,coverage,,,,,nothing held

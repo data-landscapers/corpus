@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-somalia-digital-inclusion-policy",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Technology's Digital Inclusion Policy sets out actions to improve connectivity, accessibility and digital skills with specific focus on groups including internally displaced people and refugees.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Somalia National Digital Inclusion Policy",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somalia National Digital Inclusion Policy",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

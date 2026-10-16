@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-dza-agenceecofin-generalisation-services-telecoms-service-universel",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Agence Ecofin reports ARPCE launched on 7 September 2026 a tender to extend mobile services to 3,000 localities under 2,000 inhabitants, fully state-funded through the universal service mechanism, with an 18-month maximum build.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "ARPCE universal service tender for 3,000 localities",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "2026-01-13-baidoa-idp-legal-id-registration-pilot",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNDP says a one-month NIRA pilot in Baidoa took mobile ID registration to IDP sites, and expansion to over 3.5 million IDPs nationwide is proposed.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "Somali National ID (NIRA)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNDP says the Baidoa pilot registered 38,026 IDPs with biometric technology, against a target of 25,000, and they obtained the national ID.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "Somali National ID (NIRA)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "UNDP says IDPs in Baidoa could enrol in the national ID free of charge, the $5 registration fee being waived.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "Somali National ID (NIRA)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "UNDP says 38,026 IDPs were enrolled in the national ID in Baidoa, of over 500,000 IDPs there.",
+   "as_of": "2026-01-13",
+   "date_precision": "day",
+   "system": "Somali National ID (NIRA)",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system",
+   "country_label": "Somalia",
+   "class": "displaced",
+   "platform": "biometric digital ID",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

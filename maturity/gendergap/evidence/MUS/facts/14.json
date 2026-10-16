@@ -1,0 +1,26 @@
+{
+ "slug": "ref:itu-internet-use-gender-gap@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:2.4259",
+   "fact": "The gender gap in internet use in Mauritius was 2.43 per cent in 2024, by ITU's internet use series by sex.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITU's internet use series by sex",
+   "country_label": "Mauritius",
+   "class": "gendergap",
+   "platform": "",
+   "owner": "International Telecommunication Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

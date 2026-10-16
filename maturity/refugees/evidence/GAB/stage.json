@@ -1,0 +1,17 @@
+{
+ "iso3": "GAB",
+ "cells": [
+  {
+   "sub_indicator": "displaced",
+   "stage": "no evidence",
+   "registration": "",
+   "access": "",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether refugees or displaced people are registered or can use digital services.",
+   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
+  }
+ ]
+}

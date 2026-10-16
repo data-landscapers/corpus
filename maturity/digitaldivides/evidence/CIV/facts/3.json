@@ -1,0 +1,46 @@
+{
+ "slug": "2025-09-12-rural-broadband-30-towns-wearetech",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "We Are Tech Africa reports the Ministry of Digital Transition is leading PNCR phase II through 25 September 2025 to connect 30 additional localities to high-speed internet.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "National Rural Connectivity Programme (PNCR)",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "We Are Tech Africa reports the villages of Yanfissa, Kangana, Kognimansso and Dougbe in Worodougou are already online under PNCR phase II.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "National Rural Connectivity Programme (PNCR)",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "Citing ITU DataHub, the article gives internet penetration of 52.7% in urban areas against 24.6% in rural areas.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "ITU DataHub",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Rural Connectivity Programme (PNCR)",
+   "country_label": "Côte d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

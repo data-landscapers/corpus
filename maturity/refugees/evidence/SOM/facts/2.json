@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-25-nira-idp-national-id-registration-initiative",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "NIRA launched a National ID Registration Initiative for IDPs so they can obtain the National Identity Card, funded by Switzerland and implemented with the Norwegian Refugee Council.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "Somali National ID (NIRA)",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system",
+   "country_label": "Somalia",
+   "class": "displaced",
+   "platform": "biometric digital ID",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

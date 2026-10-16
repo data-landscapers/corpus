@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-03-burkina-faso-600000-criminal-records-online-rural-gap",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Authorities are currently deploying telecommunications infrastructure in underserved areas and establishing digital community centres, according to the article on the National Forum on the Digitalization of Justice.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "digital community centres",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "Data presented at the National Forum on the Digitalization of Justice showed internet access of about 72% in urban areas and 27% in rural areas.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "National Forum data",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "ref:itu-internet-use-gender-gap@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:34.9112",
+   "fact": "The gender gap in internet use in Sudan was 34.9 per cent in 2016, by ITU's internet use series by sex.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITU's internet use series by sex",
+   "country_label": "Sudan",
+   "class": "gendergap",
+   "platform": "",
+   "owner": "International Telecommunication Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

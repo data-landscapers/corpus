@@ -1,0 +1,110 @@
+{
+ "id": "refugees",
+ "study_file": "maturity-study-refugees.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.access"
+ ],
+ "stage_topic": "include.access",
+ "redraws": [
+  "include.access--inclusion-of-refugees-and-idps"
+ ],
+ "carry": [
+  "include.access--inclusion-of-refugees-and-idps"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 15000000,
+ "terms": [
+  "refugees",
+  "refugee",
+  "asylum seekers",
+  "internally displaced",
+  "IDPs",
+  "displaced persons",
+  "UNHCR",
+  "refugee registration",
+  "refugee ID",
+  "refugee identity card",
+  "réfugiés",
+  "demandeurs d'asile",
+  "déplacés internes",
+  "personnes déplacées",
+  "HCR",
+  "refugiados",
+  "deslocados internos",
+  "deslocados",
+  "اللاجئين",
+  "النازحين",
+  "طالبي اللجوء",
+  "المفوضية السامية لشؤون اللاجئين"
+ ],
+ "sub_indicators": [
+  {
+   "key": "displaced",
+   "label": "Refugees and displaced people",
+   "subject": "include.access",
+   "text": "Inclusion of refugees and IDPs: refugees and displaced people",
+   "indicator_id": "include.access--inclusion-of-refugees-and-idps-refugees-and-displaced-people",
+   "class": "displaced",
+   "norm_short": "The Kampala Convention asks for registers and documents for internally displaced people; the Global Digital Compact and UNHCR ask for their digital inclusion.",
+   "criteria": [
+    "A source from the past three years says refugees or internally displaced people are not registered, hold no documents, are barred from SIM cards, mobile money or digital ID, or that their registration is suspended.",
+    "The government or UNHCR planned, began or resumed registering or documenting refugees or internally displaced people, or piloted a digital service for them.",
+    "Refugees or internally displaced people have been registered and issued identity documents, with a number stated.",
+    "Refugees or internally displaced people may register SIM cards, open mobile money or bank accounts, or enrol in the national digital ID, by law or in practice.",
+    "The number or share of refugees or displaced people with a registered SIM, a mobile money or bank account, or a national digital ID is published."
+   ],
+   "criteria_of": "9f53473aefce"
+  }
+ ],
+ "classes": [
+  "displaced",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "registration",
+   "name": "Registration and documents",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "documented",
+    "underway"
+   ],
+   "values": [
+    "documented",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "access",
+   "name": "Digital services",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "open"
+   ],
+   "values": [
+    "open"
+   ]
+  },
+  {
+   "key": "counted",
+   "name": "Inclusion counted",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "counted"
+   ],
+   "values": [
+    "counted"
+   ]
+  }
+ ],
+ "flags": []
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "displaced",
+   "stage": "unplaced",
+   "registration": "",
+   "access": "",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.",
+   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
+  }
+ ]
+}

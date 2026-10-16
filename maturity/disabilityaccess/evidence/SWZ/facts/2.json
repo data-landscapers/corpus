@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-esccom-advancing-digital-inclusion-universal-access-handover",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "ESCCOM, through the Universal Access Fund, handed over 13 specialised assistive technology devices, including Prodigi Connect and BrailleNote Reader, to the Ministry of Education and Training for learners with visual impairments.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Universal Access Fund",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access Fund",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "",
+   "owner": "ESCCOM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

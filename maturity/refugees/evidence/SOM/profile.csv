@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,displaced,registration,coverage,documented,2026-05-13,SOM-003;SOM-006,SOM-001=underway;SOM-002=underway;SOM-007=underway,
+SOM,displaced,access,coverage,open,2026-01-13,SOM-004,,
+SOM,displaced,counted,coverage,counted,2026-01-13,SOM-005,,

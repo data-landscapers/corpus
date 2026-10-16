@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-techafricanews-cote-divoire-pncr-575-localites",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Tech Africa News reports the Ministry of Digital Transition completed phase one of the PNCR in August 2024 and launched phases two (18 billion CFA, 240 localities) and three (10 billion CFA, 160 localities), within a 38 billion CFA programme to connect 575 rural localities.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Rural Connectivity Programme (PNCR)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Rural Connectivity Programme (PNCR)",
+   "country_label": "Côte d'Ivoire",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

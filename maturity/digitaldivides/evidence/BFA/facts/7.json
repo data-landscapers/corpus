@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-25-ministre-inspecte-sites-zones-blanches",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The minister said the government is committed to covering white zones by end 2027, with a 2025 target of connecting 750 more zones to basic electronic communication services.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Zones blanches coverage operation",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The minister said 138 white zones were covered in 2024, built with a State subsidy via the Fonds d'accès au service universel (FASU).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zones blanches coverage operation",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fonds d'accès au service universel (FASU)",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

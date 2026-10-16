@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "feedback",
+   "stage": "2",
+   "channel": "underway",
+   "reach": "",
+   "results": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-001",
+   "gaps": "No source held since October 2023 says: is one in service with cases on record.",
+   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
+  }
+ ]
+}

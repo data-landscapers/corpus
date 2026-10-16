@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,displaced,registration,underway,"UNHCR Senegal states that on lodging an asylum application with the Commission Nationale d'Eligibilite in Dakar, the applicant receives a recepisse valid six months and renewable, which lets them move freely in Senegal pending the decision.",2026-09-03,day,Commission Nationale d'Eligibilite (CNE) asylum application and recepisse,displaced,2026-09-03-unhcr-senegal-demande-asile-procedure-cne,https://help.unhcr.org/senegal/fr/asile/

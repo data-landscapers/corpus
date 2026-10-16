@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-17-zicta-assesses-uasf-projects-muchinga",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "ZICTA donated to Chinsali Special School in 2024 15 desktop computers, five with JAWS screen-reading software, plus a braille printer and internet connectivity, for a school of 768 learners including 213 with disabilities.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UASF",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

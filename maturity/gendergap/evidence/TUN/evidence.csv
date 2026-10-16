@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TUN-001,TUN,gender,gap,official:15.7241,"The gender gap in internet use in Tunisia was 15.7 per cent in 2019, by ITU's internet use series by sex.",2019,year,ITU's internet use series by sex,gendergap,ref:itu-internet-use-gender-gap@2026-06-30,https://unstats.un.org/sdgs/dataportal

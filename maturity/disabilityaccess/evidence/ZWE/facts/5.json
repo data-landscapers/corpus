@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-10-fawezi-laptops-tvet-refugees",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "FAWEZI with the Ministry of Higher and Tertiary Education handed laptops to 192 TVET bursary participants, 10 of them persons with disabilities.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "Zimbabwe TVET Bursary Programme laptop handover",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-30-bfa-2025-mtdpce-zero-zone-blanche",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The communications minister launched the project to cover 750 white zones on 30 September 2025, with about 37.5 billion FCFA mobilised by the government and operators bearing the rest.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "Chantier zéro zone blanche",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The minister said the State had subsidised the commissioning of 223 sites since 2020.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "Chantier zéro zone blanche",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chantier zéro zone blanche",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

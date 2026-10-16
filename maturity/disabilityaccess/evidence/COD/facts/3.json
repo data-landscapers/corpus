@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-g3ict-country-profile-drc",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "G3ict's DARE Index (2020 tab) records policies and programmes for web, TV and multimedia, mobile telephony and e-books and digital content accessibility in the DRC, each at implementation level 5 of 5.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "DARE Index accessibility policies (web, TV and multimedia, mobile, e-books)",
+   "class": "accessibility"
+  },
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "G3ict's DARE Index (2020 tab) records a procurement of accessible public goods and services policy in the DRC at implementation level 5 of 5.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "DARE Index accessible procurement policy",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DARE Index",
+   "country_label": "Congo, Democratic Republic",
+   "class": "other",
+   "platform": "G3ict Country Dashboard",
+   "owner": "G3ict",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "unplaced",
+   "gap": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for the gender gap in internet use.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

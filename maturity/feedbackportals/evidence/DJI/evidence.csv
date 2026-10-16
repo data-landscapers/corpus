@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DJI-001,DJI,feedback,channel,underway,"ARULoS, the urban rehabilitation and social housing agency, runs an online complaints platform (E-DOLÉANCES) that routes recovery problems to the DOCR division and technical problems to the DLS directorate; no case numbers are given.",2026-08-31,day,E-DOLÉANCES,feedback,2026-08-31-arulos-e-doleances-plateforme-gestion-doleances,https://www.doleances.arulos.dj/

@@ -1,0 +1,5 @@
+{"slug": "2026-09-24-africa-ai-disability-data-haidi-addn", "countries": {
+"GHA": {"facts": [], "systems": [{"system": "Hub for AI and Disability Inclusion (HAIDI)", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Responsible AI Lab, KNUST", "tiers": ""}], "note": "HAIDI is a disability data and AI research hub, not a government rule or programme making information or digital services accessible."},
+"KEN": {"facts": [], "systems": [], "note": "Names Kenya only for Kenyan Sign Language data gaps and the launch venue; no government accessibility rule or programme."},
+"RWA": {"facts": [], "systems": [], "note": "Names Rwanda only as a scoping-study country and for missing Kinyarwanda speech-impairment data; no government accessibility rule or programme."}
+}}

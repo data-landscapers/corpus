@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MAR-001,MAR,displaced,registration,documented,"UNHCR states it had registered 18,900 individuals from 64 countries in Morocco by the end of 2024, including 4,679 new registrations in the year, primarily Sudanese.",2024-12,month,UNHCR registration in Morocco,displaced,2026-01-29-unhcr-morocco-country-page,https://www.unhcr.org/where-we-work/countries/morocco

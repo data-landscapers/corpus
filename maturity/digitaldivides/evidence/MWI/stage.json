@@ -1,0 +1,17 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "ruralaccess",
+   "stage": "3",
+   "programme": "delivering",
+   "measured": "",
+   "narrow": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-004",
+   "gaps": "No source held since October 2023 gives internet use in rural and in urban areas.",
+   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
+  }
+ ]
+}

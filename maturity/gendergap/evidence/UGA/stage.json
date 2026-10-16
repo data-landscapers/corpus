@@ -1,0 +1,15 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "2",
+   "gap": "official:28.3019",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-001",
+   "gaps": "The latest figure, 28.3 per cent for 2024, is above 20.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

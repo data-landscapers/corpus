@@ -1,0 +1,17 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "displaced",
+   "stage": "3",
+   "registration": "documented",
+   "access": "",
+   "counted": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-003;TGO-004",
+   "gaps": "No source held since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
+   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
+  }
+ ]
+}

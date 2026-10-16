@@ -1,0 +1,17 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "ruralaccess",
+   "stage": "no evidence",
+   "programme": "",
+   "measured": "",
+   "narrow": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether rural areas are being connected or how far rural internet use lags urban.",
+   "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
+  }
+ ]
+}

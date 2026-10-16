@@ -1,0 +1,15 @@
+{
+ "iso3": "MWI",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "3",
+   "gap": "official:14.3617",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MWI-001",
+   "gaps": "The latest figure, 14.4 per cent for 2023, is above 10.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

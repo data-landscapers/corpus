@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CPV-001,CPV,gender,gap,official:3.0207,"The gender gap in internet use in Cape Verde was 3.02 per cent in 2019, by ITU's internet use series by sex.",2019,year,ITU's internet use series by sex,gendergap,ref:itu-internet-use-gender-gap@2026-06-30,https://unstats.un.org/sdgs/dataportal

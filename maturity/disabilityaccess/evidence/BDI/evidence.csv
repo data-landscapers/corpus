@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BDI-001,BDI,accessibility,rule,none,"G3ict's DARE Index 2020 data scores Burundi 0/50 on policies and programs, stating it has no policies in any of ten areas including web, e-government, mobile telephony, assistive technologies and procurement of accessible goods and services.",2020,year,DARE Index,accessibility,2025-01-01-g3ict-burundi-dare-index-country-profile,https://g3ict.org/country-profile/burundi

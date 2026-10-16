@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-20-agence-ecofin-cases-numeriques-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government launched pilot cases numériques with satellite internet in Doufiguisso and Lemnogo villages on 19 February 2026, with the FASU and UEMOA, and the current white-zone phase covers 750 zones with no mobile connectivity.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "Cases numériques",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The article states that of 1,700 white zones identified, 283 were covered in 2022 and 138 in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Zones blanches coverage",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cases numériques",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "satellite internet",
+   "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques",
+   "tiers": ""
+  },
+  {
+   "system": "Fonds d'accès au service universel (FASU)",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Burkina Faso",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

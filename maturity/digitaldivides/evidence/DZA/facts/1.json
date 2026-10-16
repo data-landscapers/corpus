@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-13-dza-mpt-arrete-calendrier-adjudication-service-universel",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Ministry of Post and Telecommunications' arrete of 3 September 2026 sets the schedule for a universal service tender, launched 6 September 2026, to cover 3,000 low-density localities with mobile networks.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+   "country_label": "DZA",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Multisectoral commission / Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

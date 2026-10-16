@@ -1,1 +1,101 @@
-{"slug":"2025-08-01-somalia-digital-inclusion-policy","studies":{"civilserviceskills":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The captured text is a policy that only recommends digital skills; it names no civil-servant training."}}},"digitalskills":{"countries":{"SOM":{"facts":[],"systems":[],"note":"The policy only recommends digital literacy and skills; no programme or measured skills share appears in the captured text."}}}}}
+{
+ "slug": "2025-08-01-somalia-digital-inclusion-policy",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The captured text is a policy that only recommends digital skills; it names no civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "The policy only recommends digital literacy and skills; no programme or measured skills share appears in the captured text."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "measured",
+       "value": "measured",
+       "fact": "The Somalia ICT Survey 2023 found internet access of 22.7% in rural areas and 47.1% in urban areas, per the Ministry of Communications and Technology's policy document.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "Somalia ICT Survey 2023",
+       "class": "ruralaccess"
+      },
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The Ministry of Communications and Technology's Digital Inclusion Policy recommends improving broadband connectivity with priority to unserved and underserved areas, with an implementation roadmap budgeted at about $32 million over five years.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Somalia National Digital Inclusion Policy",
+       "class": "ruralaccess"
+      },
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "none",
+       "fact": "The policy document says the absence of government intervention in expanding access to underserved areas means the digital divide remains high in rural areas.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "not recorded",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia National Digital Inclusion Policy",
+       "country_label": "Somalia",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "Ministry of Communications and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The Ministry of Communications and Technology's Digital Inclusion Policy sets out actions to improve connectivity, accessibility and digital skills with specific focus on groups including internally displaced people and refugees.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "Somalia National Digital Inclusion Policy",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia National Digital Inclusion Policy",
+       "country_label": "Somalia",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Communications and Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

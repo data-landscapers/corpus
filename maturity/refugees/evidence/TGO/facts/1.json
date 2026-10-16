@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-04-bad-togo-don-urgence-humanitaire-savanes-enregistrement-documentation",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The African Development Bank approved a $1 million grant, run by UNHCR with the Togolese authorities over twelve months, that will support the registration and documentation of 5,000 new arrivals in the Savanes region.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "registration and documentation of new arrivals",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

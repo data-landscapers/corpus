@@ -1,0 +1,99 @@
+{
+ "slug": "2026-09-10-gsma-closing-digital-divide-refugee-women-connectivity",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural and urban internet use or a rural programme."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural and urban internet use or a rural programme."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural and urban internet use or a rural programme."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural and urban internet use or a rural programme."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No national internet use split by sex; only refugee-group figures."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No national internet use split by sex; only refugee-group figures."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national internet use split by sex; only refugee-group figures."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No national internet use split by sex; only refugee-group figures."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "GSMA states refugee women in Ethiopia are twice as likely to have a SIM registered in the name of a friend or family member, and a refugee woman says it is very difficult to obtain a SIM without an ID.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "SIM registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only fieldwork in Mbera camp is named, with no registration or access statement."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "none",
+       "fact": "GSMA states that in Tanzania national identity requirements mean refugee women often rely on local citizens or intermediaries to register SIMs.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "SIM registration",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives refugee women's internet use only, not SIM, mobile money or ID counts."
+    }
+   }
+  }
+ }
+}

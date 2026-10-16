@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-27-bridging-gender-digital-divide-ghana-research-ict-africa",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives national internet access 57% in 2022 with no rural and urban split."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives phone and smartphone ownership gaps only, no internet use by sex."
+    }
+   }
+  }
+ }
+}

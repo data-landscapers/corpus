@@ -1,0 +1,35 @@
+{
+ "slug": "2026-05-01-sudan-unhcr-egypt-fact-sheet-refugee-digital-services",
+ "countries": {
+  "EGY": {
+   "facts": [
+    {
+     "sub_indicator": "displaced",
+     "aspect": "registration",
+     "value": "documented",
+     "fact": "UNHCR Egypt states 1,100,600 refugees and asylum-seekers were registered with it as of 30 April 2026, Sudanese over three-quarters.",
+     "as_of": "2026-04-30",
+     "date_precision": "day",
+     "system": "UNHCR Egypt registration",
+     "class": "displaced"
+    }
+   ],
+   "systems": [
+    {
+     "system": "UNHCR Egypt registration",
+     "country_label": "Egypt",
+     "class": "displaced",
+     "platform": "",
+     "owner": "UNHCR",
+     "tiers": ""
+    }
+   ],
+   "note": ""
+  },
+  "SDN": {
+   "facts": [],
+   "systems": [],
+   "note": "Fact sheet is about refugees in Egypt, not displaced people in Sudan."
+  }
+ }
+}

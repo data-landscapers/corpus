@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-28-congo-fasuce-connects-miaba-ehota-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "FASUCE, the universal service fund, connected the towns of Miaba and Ehota to the national telecommunications grid, reported by TechAfrica News.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "FASUCE (Fund for Access and Universal Electronic Communications Service)",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "FASUCE officially connected two localities, Miaba and Ehota, with inauguration ceremonies attended by the Minister of Posts and Telecommunications.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "FASUCE (Fund for Access and Universal Electronic Communications Service)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FASUCE",
+   "country_label": "Fonds pour l'accès et le service universel des communications électroniques",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

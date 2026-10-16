@@ -1,0 +1,15 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "3",
+   "gap": "official:14.8148",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-001",
+   "gaps": "The latest figure, 14.8 per cent for 2024, is above 10.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

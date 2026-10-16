@@ -1,0 +1,26 @@
+{
+ "slug": "ref:itu-internet-use-gender-gap@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:30.4569",
+   "fact": "The gender gap in internet use in Ethiopia was 30.5 per cent in 2021, by ITU's internet use series by sex.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITU's internet use series by sex",
+   "country_label": "Ethiopia",
+   "class": "gendergap",
+   "platform": "",
+   "owner": "International Telecommunication Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

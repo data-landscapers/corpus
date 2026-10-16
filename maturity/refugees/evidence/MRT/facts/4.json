@@ -1,0 +1,9 @@
+{"slug":"2024-03-01-unhcr-mauritania-factsheet-march-2024","facts":[
+{"sub_indicator":"displaced","aspect":"registration","value":"underway","fact":"UNHCR states it supported ANRPTS in mobile registration of refugees in remote Hodh Chargui locations to address the registration backlog and speed issuance of National Identification Numbers (NNIs).","as_of":"2024-02","date_precision":"month","system":"National Identification Number (NNI)","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"registration","value":"documented","fact":"UNHCR states 109,000 Malian refugees are registered in Hodh Chargui and 19,000 refugees and asylum-seekers are registered in urban areas, 128,000 in all.","as_of":"2024-02-29","date_precision":"day","system":"UNHCR registration","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"access","value":"open","fact":"UNHCR states refugees in the camp have access to financial products including bank accounts.","as_of":"2023","date_precision":"year","system":"bank accounts","class":"displaced"},
+{"sub_indicator":"displaced","aspect":"counted","value":"counted","fact":"UNHCR states the number of refugees in the camp with access to financial products, including bank accounts, rose from 2,400 in 2022 to 5,600 in 2023.","as_of":"2023","date_precision":"year","system":"bank accounts","class":"displaced"}
+],"systems":[
+{"system":"National Identification Number (NNI)","country_label":"Mauritania","class":"displaced","platform":"","owner":"ANRPTS","tiers":""},
+{"system":"EMIS","country_label":"Mauritania","class":"other","platform":"","owner":"Ministry of Education","tiers":""}
+],"note":""}

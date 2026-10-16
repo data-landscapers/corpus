@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-11-cnar-togo-atelier-collecte-donnees-socio-economiques-personnes-deplacees-progres-v4",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "CNAR and UNHCR trained all CNAR technical staff and external data-entry operators on 2-3 August 2025 in Kara to enter socio-economic data for refugees and asylum seekers in CNAR's ProGres V4 registration database.",
+   "as_of": "2025-08-03",
+   "date_precision": "day",
+   "system": "ProGres V4",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ProGres V4",
+   "country_label": "CNAR refugee database",
+   "class": "displaced",
+   "platform": "UNHCR ProGres",
+   "owner": "CNAR",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

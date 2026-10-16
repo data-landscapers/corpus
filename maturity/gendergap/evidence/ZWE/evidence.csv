@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZWE-001,ZWE,gender,gap,official:-2.7682,"The gender gap in internet use in Zimbabwe was -2.77 per cent in 2020, by ITU's internet use series by sex.",2020,year,ITU's internet use series by sex,gendergap,ref:itu-internet-use-gender-gap@2026-06-30,https://unstats.un.org/sdgs/dataportal

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-pura-gambia-draft-broadcasting-and-online-content-regulations-2026",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "PURA issued for consultation draft Broadcasting and Online Content Regulations, 2026, whose arrangement lists regulations 62 and 63 on content for persons with disabilities and mandatory sign language and aids.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "Broadcasting and Online Content Regulations, 2026 (draft)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Broadcasting and Online Content Regulations, 2026 (draft)",
+   "country_label": "The Gambia",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "PURA / Minister in charge of broadcasting",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

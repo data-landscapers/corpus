@@ -1,0 +1,15 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "4",
+   "gap": "official:2.4259",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-001",
+   "gaps": "The latest figure, 2.43 per cent for 2024, is above 2.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

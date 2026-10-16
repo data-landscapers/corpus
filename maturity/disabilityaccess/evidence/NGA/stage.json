@@ -1,0 +1,17 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "accessibility",
+   "stage": "5",
+   "rule": "inforce",
+   "delivered": "delivered",
+   "audit": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-001;NGA-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
+  }
+ ]
+}

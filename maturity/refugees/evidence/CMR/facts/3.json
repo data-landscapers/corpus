@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04 Cameroon Launches Rapid Biometric ID Program in Far North to Address Displacement",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "ID Tech Wire reports DGSN launched a rapid biometric ID enrolment campaign in the Far North, inaugurated in Maroua, to extend legal identification to displaced people.",
+   "as_of": "2025-08-02",
+   "date_precision": "day",
+   "system": "Rapid biometric ID enrolment campaign",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National biometric ID card system",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "Augentic",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

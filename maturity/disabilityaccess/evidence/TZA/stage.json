@@ -1,0 +1,17 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "accessibility",
+   "stage": "unplaced",
+   "rule": "",
+   "delivered": "",
+   "audit": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.",
+   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
+  }
+ ]
+}

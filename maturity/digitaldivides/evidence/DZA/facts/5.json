@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-06-ooredoo-algeria-interview--telecomreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Ooredoo Algeria's CEO says it takes part in the government-led Universal Telecommunication Service project to extend mobile coverage to remote and underserved areas, aiming to deploy more than 1,200 rural sites.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Universal Telecommunication Service project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

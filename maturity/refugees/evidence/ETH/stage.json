@@ -1,0 +1,17 @@
+{
+ "iso3": "ETH",
+ "cells": [
+  {
+   "sub_indicator": "displaced",
+   "stage": "5",
+   "registration": "documented",
+   "access": "open",
+   "counted": "counted",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ETH-006;ETH-009",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
+  }
+ ]
+}

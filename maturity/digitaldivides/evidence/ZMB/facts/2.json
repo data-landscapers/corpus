@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-01-zicta-uasf-copperbelt-northwestern",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ZICTA's Universal Access and Service Fund committee inspected Fund projects in Copperbelt and Northwestern Provinces that promote digital inclusion in underserved communities, including the Telecommunication Towers Programme.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Universal Access and Service Fund Telecommunication Towers Programme",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Machiya Tower in Mpongwe District, built in 2021 under the 24 Towers Project, provides broadband coverage to over 9,500 people, and Lisomona Tower in Masaiti District, completed in 2025 under the 51 Towers Project, delivers 2G, 3G and 4G within 15 km, per ZICTA's inspection.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "24 Towers Project; 51 Towers Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Universal Access and Service Fund (UASF)",
+   "country_label": "Zambia",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "ZICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

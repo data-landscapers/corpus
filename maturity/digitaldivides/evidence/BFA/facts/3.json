@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "On 30 September 2025 the Ministry launched the 'Zero White Zones' project to extend coverage to 750 rural zones without it, at FCFA 75 billion, with the State committing FCFA 37.5 billion via the FASU and PACTDIGITAL.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "Zéro Zone Blanche",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The article states 750 shared sites are planned in addition to 330 zones already connected since 2019, a closing line by the journalist.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "Zéro Zone Blanche",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fonds pour l'Accès et le Service Universel (FASU)",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": "national"
+  },
+  {
+   "system": "PACTDIGITAL",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

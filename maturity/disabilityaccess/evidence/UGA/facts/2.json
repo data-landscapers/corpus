@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The National Council for Persons with Disabilities, with IDI Uganda and KOICA funding, opened an ICT hub in Kasese giving persons with disabilities computer literacy training in an inclusive learning environment with accessible ICT facilities.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Kasese ICT Hub",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kasese ICT Hub",
+   "country_label": "Uganda",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "National Council for Persons with Disabilities with IDI Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-31-cog-2026-cst-fasuce",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FASUCE",
+   "country_label": "Fonds pour l'accès et le service universel des communications électroniques",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": "Budget appropriation of FCFA 1bn to the fund; states no programme bringing internet to rural areas."
+}

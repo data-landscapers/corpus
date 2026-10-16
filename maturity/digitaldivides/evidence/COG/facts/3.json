@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-20-congo-boosts-internet-access-rural-areas-connectingafrica",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government launched 20 high-speed internet sites in rural areas under the PATN, backed by US$100 million from the World Bank and EU, per Connecting Africa.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "PATN (Digital Transformation Acceleration Project)",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Ibombo said 76 connectivity sites have been built and equipped, of which 20 are connected to high-speed internet.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "PATN (Digital Transformation Acceleration Project)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATN",
+   "country_label": "Digital Transformation Acceleration Project",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Government of Congo, World Bank, EU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

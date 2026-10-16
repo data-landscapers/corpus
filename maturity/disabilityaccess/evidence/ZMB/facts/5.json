@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-zicta-uasf-copperbelt-northwestern",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "Under ZICTA's Inclusive ICT Support Programme, St Mary's Special School for the Visually Impaired in Solwezi received a braille printer, JAWS-enabled computers and other ICT tools in 2020/21.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Inclusive ICT Support Programme",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Inclusive ICT Support Programme",
+   "country_label": "Zambia",
+   "class": "accessibility",
+   "platform": "",
+   "owner": "ZICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

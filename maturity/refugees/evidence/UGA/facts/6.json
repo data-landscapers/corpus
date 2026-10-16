@@ -1,0 +1,7 @@
+{"slug": "2025-07-05-nira-refugees-national-ids-citizens-only", "facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "none", "fact": "NIRA says refugees and asylum seekers in Uganda cannot apply for Ugandan National Identification cards, which are issued only to citizens and legally resident non-citizens.", "as_of": "2025-07-05", "date_precision": "day", "system": "National Identification card (NIRA)", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "NIRA says OPM and UNHCR are carrying out a nationwide verification exercise of all registered refugees and asylum seekers.", "as_of": "2025-07-05", "date_precision": "day", "system": "refugee identification documents and asylum seeker certificates", "class": "displaced"}
+], "systems": [
+{"system": "refugee identification documents and asylum seeker certificates", "country_label": "Uganda", "class": "displaced", "platform": "", "owner": "OPM and UNHCR", "tiers": ""},
+{"system": "National Identification card", "country_label": "Uganda", "class": "other", "platform": "", "owner": "NIRA", "tiers": ""}
+], "note": ""}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-30-dza-algerian-business-mobilis-4g-201-sites-27-milliards",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Algerian Business reports a universal service programme for 201 4G sites given to ATM Mobilis, funded by the State through the universal service support fund at over DZD 27.3bn, for under-covered zones.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fonds d'appui du service universel de la poste et du service universel des communications électroniques",
+   "country_label": "DZA",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

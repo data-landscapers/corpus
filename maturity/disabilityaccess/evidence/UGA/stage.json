@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "accessibility",
+   "stage": "4",
+   "rule": "inforce",
+   "delivered": "delivered",
+   "audit": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-001;UGA-002",
+   "gaps": "No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
+  }
+ ]
+}

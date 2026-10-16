@@ -1,0 +1,114 @@
+{
+ "id": "disabilityaccess",
+ "study_file": "maturity-study-disabilityaccess.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.access"
+ ],
+ "stage_topic": "include.access",
+ "redraws": [
+  "include.access--inclusion-of-persons-with-disabilities"
+ ],
+ "carry": [
+  "include.access--inclusion-of-persons-with-disabilities"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 15000000,
+ "terms": [
+  "persons with disabilities",
+  "people with disabilities",
+  "disability",
+  "disabilities",
+  "digital accessibility",
+  "web accessibility",
+  "assistive technology",
+  "assistive technologies",
+  "assistive devices",
+  "screen reader",
+  "sign language",
+  "braille",
+  "visually impaired",
+  "hearing impaired",
+  "WCAG",
+  "personnes handicapées",
+  "personnes en situation de handicap",
+  "accessibilité numérique",
+  "malvoyants",
+  "langue des signes",
+  "pessoas com deficiência",
+  "acessibilidade digital",
+  "língua de sinais",
+  "ذوي الإعاقة",
+  "الأشخاص ذوي الإعاقة",
+  "ذوي الاحتياجات الخاصة"
+ ],
+ "sub_indicators": [
+  {
+   "key": "accessibility",
+   "label": "Digital accessibility",
+   "subject": "include.access",
+   "text": "Inclusion of persons with disabilities: digital accessibility",
+   "indicator_id": "include.access--inclusion-of-persons-with-disabilities-digital-accessibility",
+   "class": "accessibility",
+   "norm_short": "The AU Disability Protocol asks for public information in accessible formats and technologies and for affordable devices; the UN CRPD asks the same of states.",
+   "criteria": [
+    "A source from the past three years says no law or policy addresses access to information or digital services for persons with disabilities.",
+    "A government body has drafted, launched or is preparing a law, policy, standard or programme to make information or digital services accessible to persons with disabilities.",
+    "A law, regulation, policy or standard in force requires public information, websites or digital services to be accessible to persons with disabilities.",
+    "A government body delivered accessible digital services, assistive technology or devices to persons with disabilities, or made public websites or broadcasts accessible.",
+    "The results of an audit or survey of how accessible public websites or digital services are to persons with disabilities are published."
+   ],
+   "criteria_of": "7f4a170611ea"
+  }
+ ],
+ "classes": [
+  "accessibility",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "rule",
+   "name": "Accessibility rule",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inforce",
+    "underway"
+   ],
+   "values": [
+    "inforce",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "delivered",
+   "name": "Delivered",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "delivered"
+   ],
+   "values": [
+    "delivered"
+   ]
+  },
+  {
+   "key": "audit",
+   "name": "Audited",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

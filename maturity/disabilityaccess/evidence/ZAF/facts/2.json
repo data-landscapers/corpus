@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-10-zaf-sundaytimes-2026-10-10-public-consultation-to-update-universal-access-po",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "USAASA opened a public consultation on updating the 2010 ministerial determination on universal access and service, with a review of accessibility for people with disabilities among its issues.",
+   "as_of": "2026-10-10",
+   "date_precision": "day",
+   "system": "Ministerial determination on universal access and universal service",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

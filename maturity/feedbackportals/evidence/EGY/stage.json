@@ -1,0 +1,17 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "feedback",
+   "stage": "5",
+   "channel": "inservice",
+   "reach": "wide",
+   "results": "published",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-feedbackportals.py."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-18-ethiopia-digital-id-isr-seq5",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The World Bank ISR reports 191,335 refugees had received a Fayda ID by 23 March 2026, up from 120,765 at 30 September 2025.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The World Bank ISR reports refugees holding Fayda IDs, 191,335 by 23 March 2026.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "The World Bank ISR gives 191,335 refugees with a Fayda ID at 23 March 2026.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "displaced",
+   "platform": "national digital ID",
+   "owner": "National Identity Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

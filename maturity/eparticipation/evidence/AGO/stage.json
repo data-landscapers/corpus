@@ -1,0 +1,17 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "eparticipation",
+   "stage": "3",
+   "online": "standing",
+   "published": "",
+   "required": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-002",
+   "gaps": "No source held since October 2023 says the government published what it was told in an online consultation.",
+   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
+  }
+ ]
+}

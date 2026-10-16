@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "eparticipation",
+   "stage": "4",
+   "online": "standing",
+   "published": "published",
+   "required": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-002",
+   "gaps": "No source held since October 2023 says a rule requires drafts to be put online for public comment.",
+   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
+  }
+ ]
+}

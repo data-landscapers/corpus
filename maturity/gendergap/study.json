@@ -1,0 +1,69 @@
+{
+ "id": "gendergap",
+ "study_file": "maturity-study-gendergap.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.access"
+ ],
+ "stage_topic": "include.access",
+ "redraws": [
+  "include.access--gender-equity"
+ ],
+ "carry": [
+  "include.access--gender-equity"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 5000000,
+ "terms": [
+  "gender gap",
+  "gender digital divide",
+  "digital gender divide",
+  "digital gender gap",
+  "women's internet use",
+  "women online",
+  "women using the internet",
+  "fracture numérique de genre",
+  "fracture numérique entre les sexes",
+  "fracture numérique genre",
+  "écart entre les sexes",
+  "inclusion numérique des femmes",
+  "fosso digital de género",
+  "desigualdade de género digital",
+  "الفجوة الرقمية بين الجنسين",
+  "الفجوة بين الجنسين"
+ ],
+ "sub_indicators": [
+  {
+   "key": "gender",
+   "label": "Gender gap in internet use",
+   "subject": "include.access",
+   "text": "Gender equity: gender gap in internet use",
+   "indicator_id": "include.access--gender-equity-gender-gap-in-internet-use",
+   "class": "gendergap",
+   "norm_short": "The Maputo Protocol asks for women's access to and control of information technologies on equal terms; the Digital Transformation Strategy asks for digital skills for women and girls.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts the gender gap in internet use above 30 per cent.",
+    "The gender gap in internet use is 30 per cent or less, in the latest figure for 2023 or later, from ITU's series or a national household survey.",
+    "The gender gap in internet use is 20 per cent or less.",
+    "The gender gap in internet use is 10 per cent or less.",
+    "The gender gap in internet use is 2 per cent or less: parity."
+   ],
+   "criteria_of": "b5ed67034b01"
+  }
+ ],
+ "classes": [
+  "gendergap",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "gap",
+   "name": "Gender gap in internet use",
+   "role": "coverage",
+   "pattern": "official:-?\\d{1,3}(\\.\\d+)?"
+  }
+ ],
+ "flags": []
+}

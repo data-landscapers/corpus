@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-10-gsma-closing-digital-divide-refugee-women-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "none",
+   "fact": "GSMA states that in Tanzania national identity requirements mean refugee women often rely on local citizens or intermediaries to register SIMs.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "SIM registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

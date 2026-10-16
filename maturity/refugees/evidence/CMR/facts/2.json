@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-07-new-biometric-id-card-center-garoua-northern-cameroon-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Biometric Update reports joint efforts by the Cameroon government and UNHCR are in progress to issue biometric ID cards to refugees.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "Biometric ID cards for refugees",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National biometric ID card system",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "Augentic",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-18 WB Ethiopia Digital ID for Inclusion and Services Project - implementation support mission aide-memoire",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "The World Bank mission records approximately 190,000 refugee registrations and 170,000 digital ID issuances, with a joint NIDP-RRS-UNHCR taskforce in place.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The World Bank mission records 170,000 digital ID (Fayda) issuances to refugees.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "The World Bank mission gives approximately 170,000 digital ID issuances to refugees.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "displaced",
+   "platform": "national digital ID",
+   "owner": "National Identity Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

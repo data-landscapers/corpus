@@ -1,0 +1,13 @@
+# Chad
+
+## Rural internet gap
+
+**Rural connectivity programme.** [Chad's Secretary of State for Telecommunications said authorities have identified about 500 communities lacking connectivity or digital services and are seeking World Bank support to extend telecom coverage to them, with no locations or timeline given](<https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+
+**Gap measured.** No source held since October 2023 gives internet use in rural and in urban areas. The nearest held fact: [the one given above](<https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas>).
+
+**Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas>).
+
+***Noted, not assessed***. [Central African Regional Digital Integration Program (CARDIP)](<https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas>).
+
+***Not held***. No source held since October 2023 says: is one delivering, with sites counted.

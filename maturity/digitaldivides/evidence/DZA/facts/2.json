@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-09-algeria-tender-mobile-coverage-underserved-areas",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ARPCE launched a competitive tender announced 7 September 2026 to extend mobile coverage to 3,000 sparsely populated areas under its universal service mandate, to improve internet access.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "ARPCE universal service tender for sparsely populated areas",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

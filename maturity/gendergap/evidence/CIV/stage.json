@@ -1,0 +1,15 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "3",
+   "gap": "official:13.9326",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-003",
+   "gaps": "The latest figure, 13.9 per cent for 2024, is above 10.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}

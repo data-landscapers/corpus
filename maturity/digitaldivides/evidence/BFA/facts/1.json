@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-pactdigital-1000-white-zones-2026",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "PactDigital, a government digital project, is set to extend mobile and internet connectivity to 1,000 underserved communities in 2026 under the 'Zero White Zones' initiative, benefiting 1.5 to 2 million people, mostly rural, per TechAfrica News citing the project.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Zero White Zones / PactDigital",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PactDigital",
+   "country_label": "Burkina Faso",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

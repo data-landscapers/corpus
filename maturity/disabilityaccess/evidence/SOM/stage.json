@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "accessibility",
+   "stage": "2",
+   "rule": "underway",
+   "delivered": "",
+   "audit": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-001",
+   "gaps": "No source held since October 2023 says: is a rule in force.",
+   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
+  }
+ ]
+}

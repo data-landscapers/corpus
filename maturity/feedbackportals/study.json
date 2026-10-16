@@ -1,0 +1,119 @@
+{
+ "id": "feedbackportals",
+ "study_file": "maturity-study-feedbackportals.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "include.access"
+ ],
+ "stage_topic": "include.access",
+ "redraws": [
+  "include.access--citizen-feedback-portals"
+ ],
+ "carry": [
+  "include.access--citizen-feedback-portals"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 15000000,
+ "terms": [
+  "complaints portal",
+  "complaint portal",
+  "complaints platform",
+  "online complaints",
+  "online complaint",
+  "grievance redress",
+  "grievance redressal",
+  "grievance mechanism",
+  "citizen feedback",
+  "citizens' feedback",
+  "feedback platform",
+  "feedback portal",
+  "citizen complaints",
+  "public complaints",
+  "complaints management system",
+  "e-complaint",
+  "service delivery complaints",
+  "citizen report card",
+  "plainte en ligne",
+  "plaintes en ligne",
+  "gestion des plaintes",
+  "plateforme de plaintes",
+  "mécanisme de gestion des plaintes",
+  "plateforme de signalement",
+  "doléances",
+  "reclamações online",
+  "livro de reclamações",
+  "portal de reclamações",
+  "الشكاوى الإلكترونية",
+  "شكاوى المواطنين",
+  "بوابة الشكاوى"
+ ],
+ "sub_indicators": [
+  {
+   "key": "feedback",
+   "label": "Citizen feedback channel",
+   "subject": "include.access",
+   "text": "Citizen feedback portals: citizen feedback channel",
+   "indicator_id": "include.access--citizen-feedback-portals-citizen-feedback-channel",
+   "class": "feedback",
+   "norm_short": "The AU Charter on Decentralisation asks that ICT be used so residents can give feedback to their representatives; the UN E-Participation Index ranks e-information, e-consultation and e-decision-making.",
+   "criteria": [
+    "A source from the past three years says people have no digital channel to complain about or comment on public services.",
+    "A government body has launched, piloted or is preparing a web portal, app or messaging service through which people report problems with or complain about public services.",
+    "A digital complaints or feedback channel is in service and a number of complaints, reports or cases it has received or handled is on record.",
+    "A national channel takes complaints about the services of most ministries or of local governments, or routes them to the bodies responsible across government.",
+    "The share of complaints resolved, response times, or a report of the cases and what was done about them is published."
+   ],
+   "criteria_of": "8df2ee768b66"
+  }
+ ],
+ "classes": [
+  "feedback",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "channel",
+   "name": "Feedback channel",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "Across government",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "wide"
+   ],
+   "values": [
+    "wide"
+   ]
+  },
+  {
+   "key": "results",
+   "name": "Results published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

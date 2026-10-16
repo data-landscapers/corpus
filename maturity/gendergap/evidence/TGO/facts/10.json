@@ -1,0 +1,26 @@
+{
+ "slug": "ref:itu-internet-use-gender-gap@2026-06-30",
+ "facts": [
+  {
+   "sub_indicator": "gender",
+   "aspect": "gap",
+   "value": "official:47.2393",
+   "fact": "The gender gap in internet use in Togo was 47.2 per cent in 2017, by ITU's internet use series by sex.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "ITU's internet use series by sex",
+   "class": "gendergap"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITU's internet use series by sex",
+   "country_label": "Togo",
+   "class": "gendergap",
+   "platform": "",
+   "owner": "International Telecommunication Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

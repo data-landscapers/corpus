@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-bfa-refletinfo-750-villages-zones-blanches",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The digital-transition minister said on 8 October 2026 that 750 villages would get calls, internet and mobile money for the first time by end-2026 and 750 more by 2028, with FCFA 25 billion mobilised by the State, under a zero-white-zone target for 2030.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "zéro zone blanche",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

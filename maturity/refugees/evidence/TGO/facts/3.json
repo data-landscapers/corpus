@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-09-cnar-togo-mission-delivrance-cartes-identite-refugie-savanes",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "CNAR states that after four registration operations between 2023 and 2025, 41,773 Burkinabe officially obtained refugee status in Togo.",
+   "as_of": "2025-08-09",
+   "date_precision": "day",
+   "system": "ProGres V4",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "CNAR states a decentralised operation from 22 May to 16 July 2025 produced and distributed 10,972 refugee identity cards in the Savanes region, produced by the DGDN.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "refugee identity card",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ProGres V4",
+   "country_label": "CNAR refugee database",
+   "class": "displaced",
+   "platform": "UNHCR ProGres",
+   "owner": "CNAR",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

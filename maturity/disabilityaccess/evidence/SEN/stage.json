@@ -1,0 +1,17 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "accessibility",
+   "stage": "1",
+   "rule": "none",
+   "delivered": "",
+   "audit": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-001",
+   "gaps": "No source held since October 2023 says: is digital accessibility under way.",
+   "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
+  }
+ ]
+}

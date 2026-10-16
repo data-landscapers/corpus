@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-16-fayda-refugee-inclusion-makatet-strategy-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Biometric Update reports, citing an MPI paper, that NIDP is issuing Fayda to refugees under the Makatet inclusion framework launched in June 2026.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Biometric Update reports, citing an MPI paper, that Fayda is issued to refugees to enable access to public and private services.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "displaced",
+   "platform": "national digital ID",
+   "owner": "National Identity Program (NIDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

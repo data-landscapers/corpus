@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GNQ-001,GNQ,displaced,registration,none,"UNHCR's Rights Mapping and Analysis Platform states Equatorial Guinea has no domestic framework for refugee status determination, so there are no formal procedures for asylum seekers to apply for refugee status and no established rights or entitlements for refugees.",2026-09-02,day,refugee status determination,displaced,2026-09-02-unhcr-rimap-equatorial-guinea-refugee-legal-framework,https://rimap.unhcr.org/countries/equatorial-guinea

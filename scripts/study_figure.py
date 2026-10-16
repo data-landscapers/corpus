@@ -13,6 +13,9 @@ rows whose figure `reference/measures.csv` carries, so they are staged as
 - **carry**: one fact per country and year from `FROM`, or the country's latest where it has none
   since, filed under `ref:{dataset}@{release}` (`study_lib.reference_held`). A facts file already
   there is left alone. Run it after `study-select.py` and before the drafters.
+A figure whose frame direction is `lower` (the gender gap, the Inclusion batch of 2026-10-16) sets
+all five stages from four lines and has no condition: `lower` and `cond: None` in `FIGURES`.
+
 - **ladder**: **one figure sets stages 1 to 4**, the latest for `FROM` or later and by the as-at,
   against the frame's own three cuts (`lookups/maturity-measures.csv`), fixed and not redrawn as
   quintiles. **Stage 5 adds the frame's condition**, a drafter's fact from the last three years,
@@ -76,7 +79,22 @@ FIGURES = {
         cond_short="and youth unemployment is 14 per cent or less",
         cond_low="Youth unemployment is asked about only once information and communication employs 1 per cent of workers, so with {link} none was looked for in this first pass.",
         caveat="The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone."),
+    "gendergap": dict(
+        owner="International Telecommunication Union", dataset="itu-internet-use-gender-gap", sub="gender", cls="gendergap",
+        figure="gap", cond=None, lines=(30.0, 20.0, 10.0, 2.0), lower=True,
+        source="ITU's internet use series by sex",
+        fact="The gender gap in internet use in {country} was {v} per cent in {y}, by ITU's internet use series by sex.",
+        fig="the gender gap in internet use was {v} per cent",
+        unit="per cent", what="the gender gap in internet use",
+        caveat="The gap is men's rate of internet use less women's, as a share of men's; below zero, women's use is the higher.",
+        reading="It measures the difference between women and men, not how many use the internet: a country where few people are online "
+                "stands high if women and men are online alike, and one where most are online stands low if women lag."),
 }
+
+
+def clears(c: dict, figure: float, line: float) -> bool:
+    """Whether a figure is on the right side of a line: at or above it, or at or below for a `lower` figure."""
+    return figure <= line if c.get("lower") else figure >= line
 
 
 def last_day(as_of: str) -> dt.date:
@@ -176,14 +194,15 @@ def cleared(sid: str) -> list[str]:
     for r in study_lib.read_csv(os.path.join(study_lib.CORPUS, "reference", "measures.csv")):
         if r["dataset"] == c["dataset"] and (r["iso3"] not in last or r["year"] > last[r["iso3"]]["year"]):
             last[r["iso3"]] = r
-    return sorted(i for i, r in last.items() if int(r["year"]) >= FROM and float(r["value"]) >= c["lines"][-1])
+    return sorted(i for i, r in last.items() if int(r["year"]) >= FROM and clears(c, float(r["value"]), c["lines"][-1]))
 
 
 # ---- ladder ------------------------------------------------------------------------------------
 
 def stage(c: dict, rows: list[dict], as_at: dt.date) -> dict:
-    k, (ck, cv), lines = c["figure"], c["cond"], c["lines"]
-    blank = {k: "", ck: ""}
+    k, lines = c["figure"], c["lines"]
+    ck, cv = c["cond"] or (None, None)
+    blank = {k: "", **({ck: ""} if ck else {})}
 
     def when(r: dict) -> dt.date:
         d = last_day(r["as_of"])
@@ -203,7 +222,12 @@ def stage(c: dict, rows: list[dict], as_at: dt.date) -> dict:
                 "gaps": f"No figure for {FROM} or later is held for {c['what']}."}
     _, best = max(live, key=lambda p: (p[0], p[1]["source_slug"].startswith("ref:"), p[1]["row_id"]))
     figure = num(best["value"])
-    up = sum(1 for line in lines if figure >= line)
+    up = sum(1 for line in lines if clears(c, figure, line))
+    if not ck:
+        gap = ("All four lines are passed." if up == len(lines) else
+               "" if up == 0 else
+               f"The latest figure, {fmt(figure)} {c['unit']} for {best['as_of'][:4]}, is above {fmt(lines[up])}.")
+        return {"stage": str(up + 1), k: best["value"], "sources": [best["row_id"]], "gaps": gap}
     conds = sorted(((when(r), r) for r in rows if r["aspect"] == ck and r["value"] == cv and r["as_of"]
                     and last_day(COND_FROM) <= last_day(r["as_of"]) and when(r) <= as_at), key=lambda p: p[0])
     if up == len(lines) and conds:
@@ -225,7 +249,7 @@ def ladder(sid: str, as_at_s: str, dry: bool) -> int:
     here = study_lib.study_dir(sid)
     base = os.path.join(here, "evidence")
     fixes = study_lib.read_csv(os.path.join(here, "corrections.csv"))
-    aspects = (c["figure"], c["cond"][0])
+    aspects = (c["figure"], c["cond"][0]) if c["cond"] else (c["figure"],)
     test, count = [], {}
     for iso in sorted(study_lib.countries()):
         path = os.path.join(base, iso, "evidence.csv")
@@ -269,14 +293,17 @@ def figure_paragraph(c: dict, name: str, rows: list[dict], best: dict) -> str:
         out.append(f"Since {before[0]['as_of'][:4]} the figure {how}.")
     else:
         out.append("The series gives no figure for the years just before, so whether it is rising or falling is not known.")
-    ahead = [line for line in c["lines"] if figure < line]
+    ahead = [line for line in c["lines"] if not clears(c, figure, line)]
     if ahead:
-        out.append(f"It is {fmt(ahead[0] - figure)} points short of {fmt(ahead[0])}, the next line.")
+        out.append(f"It is {fmt(abs(ahead[0] - figure))} points {'above' if c.get('lower') else 'short of'} {fmt(ahead[0])}, the next line.")
     else:
-        out.append(f"At {fmt(c['lines'][-1])} or more, it is past the study's highest line for the figure.")
-    out.append(f"The study's lines are {fmt(c['lines'][0])}, {fmt(c['lines'][1])} and {fmt(c['lines'][2])} {c['unit']}, "
-               f"the frame's own cuts, and the latest figure for {FROM} or later sets the stage, so a fall is a fall.")
+        out.append(f"At {fmt(c['lines'][-1])} or {'less' if c.get('lower') else 'more'}, it is past the study's highest line for the figure.")
+    out.append(f"The study's lines are {listed([fmt(x) for x in c['lines']])} {c['unit']}, "
+               f"the frame's own cuts, and the latest figure for {FROM} or later sets the stage, so a "
+               f"{'rise is a rise' if c.get('lower') else 'fall is a fall'}.")
     out.append(c["caveat"])
+    if c.get("reading"):
+        out.append(c["reading"])
     return " ".join(out)
 
 
@@ -293,7 +320,8 @@ def cond_paragraph(c: dict, name: str, conds: list[dict], top: bool, url: str) -
 
 def write_one(sid: str, study: dict, iso: str, country: str, dry: bool) -> str:
     c = FIGURES[sid]
-    k, (ck, cv) = c["figure"], c["cond"]
+    k = c["figure"]
+    ck, cv = c["cond"] or (None, None)
     names = {a["key"]: a["name"] for a in study["aspects"]}
     here = study_lib.study_dir(sid)
     folder = os.path.join(here, "evidence", iso)
@@ -324,13 +352,14 @@ def write_one(sid: str, study: dict, iso: str, country: str, dry: bool) -> str:
     if cell["stage"].isdigit():
         best = next(r for r in figs if r["row_id"] == srcs[0])
         figure, year = num(best["value"]), best["as_of"][:4]
-        top = figure >= c["lines"][-1]
-        parts += [figure_paragraph(c, names[k], figs, best), "",
-                  cond_paragraph(c, names[ck], conds, top, best["url"]), ""]
+        top = clears(c, figure, c["lines"][-1])
+        parts += [figure_paragraph(c, names[k], figs, best), ""]
+        if ck:
+            parts += [cond_paragraph(c, names[ck], conds, top, best["url"]), ""]
         lead = c["fig"].format(v=fmt(figure))
-        short = f"In {year}, {lead}" + (f", {c['cond_short']}." if cell["stage"] == "5" else ".")
-        ahead = [line for line in c["lines"] if figure < line]
-        held = (f"No figure of {fmt(ahead[0])} {c['unit']} or more is held." if ahead
+        short = f"In {year}, {lead}" + (f", {c['cond_short']}." if cell["stage"] == "5" and ck else ".")
+        ahead = [line for line in c["lines"] if not clears(c, figure, line)]
+        held = (f"No figure of {fmt(ahead[0])} {c['unit']} or {'less' if c.get('lower') else 'more'} is held." if ahead
                 else cell["gaps"] if cell["stage"] != "5" else "Nothing further is asked of this indicator.")
     else:
         old = sorted(figs, key=lambda r: r["as_of"])

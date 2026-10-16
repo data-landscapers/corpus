@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-27-new-civil-registration-law-sdg-16-9-biometricupdate",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Biometric Update reports Cameroon's civil registration law enacted 23 December 2024 lets internally displaced people have lost birth certificates re-issued in their place of residence via the State Counsel.",
+   "as_of": "2024-12-23",
+   "date_precision": "day",
+   "system": "Civil registration law of 23 December 2024",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BUNEC civil registration",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "BUNEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

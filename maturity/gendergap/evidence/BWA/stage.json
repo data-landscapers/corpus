@@ -1,0 +1,15 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "gender",
+   "stage": "5",
+   "gap": "official:-1.9332",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-001",
+   "gaps": "All four lines are passed.",
+   "note": "First pass: counted from the four questions by study-figure.py gendergap."
+  }
+ ]
+}
