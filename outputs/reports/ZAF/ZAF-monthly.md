@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ZAF
 ledger_rows: 140
 not_held: 21
-record: 68058ab9c7d8
+record: 79fd728e989d
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -20,10 +20,31 @@ record: 68058ab9c7d8
 <a href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
@@ -33,91 +54,7 @@ record: 68058ab9c7d8
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#new-investments">New investments</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#energy">Energy</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#technical-capacity">Technical Capacity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
-<div class="monthly-toc__l2">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-industry">ICT Industry</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#access-to-services">Access to services</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#data">Data</a>
-<div class="monthly-toc__l2">
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
-<div class="monthly-toc__l2">
-<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -501,6 +438,12 @@ Research ICT Africa, the Centre for Analytics and Behavioural Change and Moxii A
 
 ## Finance
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
+</nav>
+
 ### Domestic budget appropriations and expenditure
 
 <div class="monthly-story" markdown="1">
@@ -592,6 +535,18 @@ The United States development finance corporation approved an equity investment 
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+</nav>
 
 ### Connectivity
 
@@ -1254,6 +1209,20 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -1961,6 +1930,10 @@ South Africa's home affairs minister said a biometric online platform for asylum
 
 ## Digitalisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
 ### Digitalisation of sub-national government
 
 <div class="monthly-story" markdown="1">
@@ -2028,6 +2001,14 @@ South Africa's City of Tshwane launched an Enterprise Data and Analytics Platfor
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
 
 ### AI
 
@@ -2339,6 +2320,10 @@ Google named 15 South African-led, revenue-generating AI startups to its 2026 Go
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -2370,6 +2355,12 @@ An industry argument that South Africa is not positioning itself as future-ready
 </div>
 
 ## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
 
 ### Access to services
 
@@ -2567,6 +2558,10 @@ The Online Retail in South Africa 2026 report finds 79.1% of adults online but o
 
 ## Data
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
 ### National statistics
 
 <div class="monthly-story" markdown="1">
@@ -2598,6 +2593,10 @@ South Africa's deputy minister in the Presidency, Nonceba Mhlauli, marked 30 yea
 </div>
 
 ## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+</nav>
 
 ### US / hyperscaler activities
 

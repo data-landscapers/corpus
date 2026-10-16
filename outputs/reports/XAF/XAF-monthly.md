@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 197c6dee8e6e
+record: 4b0538398f50
 ---
 
 # Africa: monthly update, September – October 2026
@@ -16,70 +16,25 @@ record: 197c6dee8e6e
 <a href="https://corpus.data-landscapers.io/reports/XAF/XAF-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#data-protection">Data protection</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#standards">Standards</a>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ai">AI</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
+<a href="#coordination-and-collaboration">Coordination and collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#energy">Energy</a>
+<a href="#capacity-and-inclusion">Capacity and inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#coordination-and-collaboration">Coordination and collaboration</a>
-<div class="monthly-toc__l2">
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#china-activities">China activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#india-activities">India activities</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity-and-inclusion">Capacity and inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#mous-and-other-agreements">MoUs and other agreements</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#new-investments">New investments</a>
-</div>
-</div>
+<a href="#finance">Finance</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -463,6 +418,14 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 
 ## Instruments and harmonisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ai">AI</a>
+</nav>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -810,6 +773,22 @@ Paradigm Initiative, a digital rights organisation, told the African Commission 
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+</nav>
 
 ### Connectivity
 
@@ -1607,6 +1586,14 @@ The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative t
 
 ## Coordination and collaboration
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#china-activities">China activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#india-activities">India activities</a>
+</nav>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -1670,6 +1657,12 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia completed a t
 </div>
 
 ## Capacity and inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
 
 ### Training and skills
 
@@ -1796,6 +1789,12 @@ The GSMA's State of Mobile Internet Connectivity 2026 finds 4.8 billion people, 
 </div>
 
 ## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
+</nav>
 
 ### MoUs and other agreements
 

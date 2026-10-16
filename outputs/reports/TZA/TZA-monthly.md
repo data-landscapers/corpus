@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TZA
 ledger_rows: 72
 not_held: 5
-record: e2727376cb7c
+record: af65bc227481
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -20,10 +20,29 @@ record: e2727376cb7c
 <a href="https://corpus.data-landscapers.io/reports/TZA/TZA-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
@@ -31,85 +50,7 @@ record: e2727376cb7c
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#mous-and-other-agreements">MoUs and other agreements</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#new-investments">New investments</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
-<div class="monthly-toc__l2">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-industry">ICT Industry</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#literacy">Literacy</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#access-to-services">Access to services</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#data">Data</a>
-<div class="monthly-toc__l2">
-<a href="#open-data">Open data</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Legislation and regulation
 
@@ -219,6 +160,14 @@ The Tanzanian activist and influencer Mange Kimambi filed a 36-page complaint ag
 
 ## Finance
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
+</nav>
+
 ### Domestic budget appropriations and expenditure
 
 <div class="monthly-story" markdown="1">
@@ -304,6 +253,14 @@ Tanzania presented a digital-infrastructure investment envelope of TZS 7,000 bil
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+</nav>
 
 ### Connectivity
 
@@ -502,6 +459,20 @@ Communications stakeholders in Rukwa have proposed tighter SIM card registration
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -957,6 +928,10 @@ Tanzania's Vice President directed the youth and labour ministries to merge the 
 
 ## Digitalisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
 ### Digitalisation of sub-national government
 
 <div class="monthly-story" markdown="1">
@@ -974,6 +949,14 @@ Tanzania's National Planning Commission has registered 150 development projects 
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
 
 ### AI
 
@@ -1131,6 +1114,12 @@ Summarised under [Data Storage](#data-storage).
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
 ### Literacy
 
 <div class="monthly-story" markdown="1">
@@ -1186,6 +1175,12 @@ Tanzania's deputy education minister Wanu Hafidh Ameir met the 50 beneficiaries 
 </div>
 
 ## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
 
 ### Access to services
 
@@ -1256,6 +1251,10 @@ Tanzania's Universal Communications Service Access Fund said on 5 October 2026 i
 </div>
 
 ## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#open-data">Open data</a>
+</nav>
 
 ### Open data
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ETH
 ledger_rows: 30
 not_held: 5
-record: bd7ab8261959
+record: c4303c873bc6
 ---
 
 # Ethiopia: monthly update, September – October 2026
@@ -20,10 +20,21 @@ record: bd7ab8261959
 <a href="https://corpus.data-landscapers.io/reports/ETH/ETH-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
@@ -33,47 +44,7 @@ record: bd7ab8261959
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#energy">Energy</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#access-to-services">Access to services</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
-<div class="monthly-toc__l2">
-<a href="#india-activities">India activities</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -164,6 +135,14 @@ Internet and phone services were severely disrupted across Ethiopia's Tigray reg
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+</nav>
 
 ### Connectivity
 
@@ -274,6 +253,18 @@ Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired 
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -553,6 +544,10 @@ Ethiopian Shipping and Logistics launched a web and mobile self-service platform
 
 ## Inclusion
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
 ### Access to services
 
 <div class="monthly-story" markdown="1">
@@ -612,6 +607,10 @@ The GSMA published research on 10 September 2026 on refugee women's mobile use, 
 </div>
 
 ## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#india-activities">India activities</a>
+</nav>
 
 ### India activities
 

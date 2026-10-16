@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MUS
 ledger_rows: 25
 not_held: 7
-record: a46c778495fe
+record: eae1540f8495
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -20,10 +20,25 @@ record: a46c778495fe
 <a href="https://corpus.data-landscapers.io/reports/MUS/MUS-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
@@ -33,59 +48,7 @@ record: a46c778495fe
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
-<div class="monthly-toc__l2">
-<a href="#rural-digital-data-capture">Rural digital data capture</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-industry">ICT Industry</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#data">Data</a>
-<div class="monthly-toc__l2">
-<a href="#national-statistics">National statistics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#open-data">Open data</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
-<div class="monthly-toc__l2">
-<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -319,6 +282,14 @@ Mauritius will develop a Digital Service Framework setting mandatory principles 
 
 ## ICT Infrastructure
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+</nav>
+
 ### Connectivity
 
 <div class="monthly-story" markdown="1">
@@ -368,6 +339,14 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Digital Identity and CRVS
 
@@ -463,6 +442,10 @@ Mauritius's ICT ministry says it is building an online application platform with
 
 ## Digitalisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</nav>
+
 ### Rural digital data capture
 
 <div class="monthly-story" markdown="1">
@@ -494,6 +477,12 @@ Summarised under [Rural digital data capture](#rural-digital-data-capture).
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+</nav>
 
 ### AI
 
@@ -529,6 +518,12 @@ A pan-African investment fund took a minority stake in a Mauritian digital trans
 
 ## Data
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
+</nav>
+
 ### National statistics
 
 <div class="monthly-story" markdown="1">
@@ -562,6 +557,10 @@ The Bank of Mauritius launched BOMStats, its statistical data platform, on 3 Sep
 </div>
 
 ## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+</nav>
 
 ### US / hyperscaler activities
 

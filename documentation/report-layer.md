@@ -120,7 +120,7 @@ Prose here. Every interpretive sentence carries its citation.
 
 **The narrative carries its own citations, even where the table above links the same source.** Link the claim, not the sentence: one link where the fact is asserted.
 
-**The monthly update carries no table and no prose** *(Bill, 2026-10-16)*: the bulletin's item cards for the in-window sources of the rows that moved, each row's sources grouped as one story, oldest first. A summary is the bulletin's where one was written, otherwise the record's `catalogue_hero`. It opens on links to the place's other reports, then a contents of sections with their subjects beneath.
+**The monthly update carries no table and no prose** *(Bill, 2026-10-16)*: the bulletin's item cards for the in-window sources of the rows that moved, each row's sources grouped as one story, oldest first. A summary is the bulletin's where one was written, otherwise the record's `catalogue_hero`. It opens on links to the place's other reports, ruled off; then its sections on one line, ruled off; and each section's subjects on a line under its heading.
 
 **A country report's sections are the taxonomy's Level-1 chapters, in `lookups/taxonomy.csv`'s order** — ten, opening on Governance, the same in all three documents and the bulletin (`report-country-skeleton.md` → *Sections*). A region's `report-region-sections.csv` groups its own objects, not the taxonomy.
 

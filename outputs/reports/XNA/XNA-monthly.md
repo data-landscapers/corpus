@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: 66aa9c0c0e5b
+record: a56b2e23175a
 ---
 
 # North Africa: monthly update, September – October 2026
@@ -16,28 +16,19 @@ record: 66aa9c0c0e5b
 <a href="https://corpus.data-landscapers.io/reports/XNA/XNA-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -85,6 +76,10 @@ The League of Arab States hosted a meeting in Cairo on 16 September 2026 between
 
 ## Instruments and harmonisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#standards">Standards</a>
+</nav>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -102,6 +97,10 @@ Summarised under [Regional collaboration](#regional-collaboration).
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#national-statistics">National statistics</a>
+</nav>
 
 ### National statistics
 

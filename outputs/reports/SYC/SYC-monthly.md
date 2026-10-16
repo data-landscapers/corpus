@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: 5671b67b6fb2
+record: 3d58881fb370
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -20,48 +20,27 @@ record: 5671b67b6fb2
 <a href="https://corpus.data-landscapers.io/reports/SYC/SYC-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#new-investments">New investments</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#cybersecurity">Cybersecurity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -135,6 +114,10 @@ Seychelles' Department of Information Communications Technology sets out the man
 
 ## Finance
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
 ### New investments
 
 <div class="monthly-story" markdown="1">
@@ -161,6 +144,10 @@ The African Development Bank approved a US$34 million loan to Seychelles on 22 S
 
 ## ICT Infrastructure
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#cybersecurity">Cybersecurity</a>
+</nav>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -178,6 +165,14 @@ Seychelles' national computer emergency response team designed and delivered the
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -228,6 +223,10 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
 
 ### AI
 

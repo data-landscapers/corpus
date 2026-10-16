@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: CAF
 ledger_rows: 18
 not_held: 4
-record: fd1cfd911c90
+record: cbc7809df27f
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -20,66 +20,31 @@ record: fd1cfd911c90
 <a href="https://corpus.data-landscapers.io/reports/CAF/CAF-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#mous-and-other-agreements">MoUs and other agreements</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#new-investments">New investments</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ict-industry">ICT Industry</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#data">Data</a>
-<div class="monthly-toc__l2">
-<a href="#national-statistics">National statistics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#open-data">Open data</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -131,6 +96,12 @@ The Central African Republic's President Faustin Archange Touadéra signed a dec
 
 ## Finance
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
+</nav>
+
 ### MoUs and other agreements
 
 <div class="monthly-story" markdown="1">
@@ -164,6 +135,12 @@ The country's component of the Central Africa digital integration programme is t
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+</nav>
 
 ### Connectivity
 
@@ -235,6 +212,14 @@ A fire damaged part of the data-processing centre of the Central African Republi
 
 ## DPI
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -293,6 +278,10 @@ The Central African Republic launched a national portal for online government se
 
 ## Technology
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ict-industry">ICT Industry</a>
+</nav>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -311,6 +300,10 @@ Summarised under [Connectivity](#connectivity).
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -328,6 +321,12 @@ The Central African Republic signed a five-year digital governance partnership w
 </div>
 
 ## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
+</nav>
 
 ### National statistics
 

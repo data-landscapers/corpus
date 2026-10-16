@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SDN
 ledger_rows: 27
 not_held: 5
-record: 9fb8ea8acb03
+record: 6f1b39a188bf
 ---
 
 # Sudan: monthly update, September – October 2026
@@ -20,52 +20,25 @@ record: 9fb8ea8acb03
 <a href="https://corpus.data-landscapers.io/reports/SDN/SDN-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
-<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
-<div class="monthly-toc__l2">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
+<a href="#capacity">Capacity</a>
 </nav>
 
 ## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
+</nav>
 
 ### Strategies, plans and policies
 
@@ -101,6 +74,10 @@ The standards and metrology body's White Nile branch began collecting fees elect
 
 ## ICT Infrastructure
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
+
 ### Connectivity
 
 <div class="monthly-story" markdown="1">
@@ -118,6 +95,20 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -505,6 +496,10 @@ Summarised under [Registries](#registries).
 
 ## Digitalisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
 ### Digitalisation of sub-national government
 
 <div class="monthly-story" markdown="1">
@@ -530,6 +525,10 @@ Sudan's Khartoum State government signed six partnership memoranda, including wi
 </div>
 
 ## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
 
 ### Training and skills
 

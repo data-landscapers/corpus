@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: 7596c66905e1
+record: 79cb84899f19
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -20,10 +20,29 @@ record: 7596c66905e1
 <a href="https://corpus.data-landscapers.io/reports/EGY/EGY-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
@@ -31,89 +50,7 @@ record: 7596c66905e1
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#finance">Finance</a>
-<div class="monthly-toc__l2">
-<a href="#new-investments">New investments</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#energy">Energy</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
-<div class="monthly-toc__l2">
-<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#rural-digital-data-capture">Rural digital data capture</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ict-industry">ICT Industry</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#literacy">Literacy</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#training-and-skills">Training and skills</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#research-institutions">Research institutions</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#access-to-services">Access to services</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
-<div class="monthly-toc__l2">
-<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#china-activities">China activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#gulfuae-activities">Gulf/UAE activities</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -355,6 +292,10 @@ Representatives of 11 African diplomatic missions in Cairo agreed to draft a joi
 
 ## Finance
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
 ### New investments
 
 <div class="monthly-story" markdown="1">
@@ -372,6 +313,14 @@ An Egyptian technology company has raised US$10 million for payment tools that a
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+</nav>
 
 ### Connectivity
 
@@ -604,6 +553,20 @@ Summarised under [Data Storage](#data-storage).
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Data Exchange
 
@@ -1191,6 +1154,12 @@ Egypt has put key ration card services on the Digital Egypt platform: heads of h
 
 ## Digitalisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</nav>
+
 ### Digitalisation of sub-national government
 
 <div class="monthly-story" markdown="1">
@@ -1224,6 +1193,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
 
 ### AI
 
@@ -1459,6 +1436,14 @@ After Orange Group's chief executive met President El-Sisi, the operator announc
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
 ### Literacy
 
 <div class="monthly-story" markdown="1">
@@ -1629,6 +1614,12 @@ A peer-reviewed study in Frontiers in Digital Health, published on 3 September 2
 
 ## Inclusion
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
+
 ### Access to services
 
 <div class="monthly-story" markdown="1">
@@ -1684,6 +1675,14 @@ Egypt's IT industry development agency and GIZ launched work with 14 ICT compani
 </div>
 
 ## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#china-activities">China activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</nav>
 
 ### US / hyperscaler activities
 

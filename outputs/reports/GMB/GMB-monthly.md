@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GMB
 ledger_rows: 46
 not_held: 2
-record: dad6e7c97990
+record: 23452d8da229
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -20,60 +20,29 @@ record: dad6e7c97990
 <a href="https://corpus.data-landscapers.io/reports/GMB/GMB-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
-<div class="monthly-toc__l2">
-<a href="#china-activities">China activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#eu-activities">EU activities</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#gulfuae-activities">Gulf/UAE activities</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Strategies, plans and policies
 
@@ -124,6 +93,10 @@ The Gambia Standards Bureau holds Correspondent, non-voting status at the intern
 </div>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
 
 ### Connectivity
 
@@ -188,6 +161,16 @@ The Gambian state operator's undated company profile. It says Gamtel has four in
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Digital Identity and CRVS
 
@@ -363,6 +346,10 @@ The Gambia Public Procurement Authority held training from 8 to 10 October 2026 
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -394,6 +381,10 @@ The Gambia's trade and employment ministry signed memoranda of understanding wit
 </div>
 
 ## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#digital-divides">Digital divides</a>
+</nav>
 
 ### Digital divides
 
@@ -428,6 +419,14 @@ Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to devel
 </div>
 
 ## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eu-activities">EU activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</nav>
 
 ### China activities
 

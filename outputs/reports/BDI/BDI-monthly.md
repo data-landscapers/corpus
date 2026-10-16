@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BDI
 ledger_rows: 10
 not_held: 11
-record: d8b143e22370
+record: 51f4e6bc4fc1
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -20,42 +20,23 @@ record: d8b143e22370
 <a href="https://corpus.data-landscapers.io/reports/BDI/BDI-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
-<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#registries">Registries</a>
+<a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-</div>
-</div>
+<a href="#technology">Technology</a>
 </nav>
 
 ## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
 
 ### Strategies, plans and policies
 
@@ -105,6 +86,10 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 ## ICT Infrastructure
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
+
 ### Connectivity
 
 <div class="monthly-story" markdown="1">
@@ -122,6 +107,16 @@ Tanzania's state operator agreed with Burundi Backbone System to raise cross-bor
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
 
 ### Digital Payments and Fintech
 
@@ -202,6 +197,10 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
 
 ### AI
 

@@ -1323,17 +1323,19 @@ def sibling_nav(unit):
             f'{place_name(unit)}">', links, "</nav>", ""]
 
 
-def topic_toc(tree):
-    """The contents: each Level-1 section on a line, its Level-2 subjects on the line below."""
+def jump_bar(labels, cls, aria):
+    """A row of in-page links in the house jump-nav (`.article-toc`, main.css)."""
     slug = lambda label: bulletin().slugify(label, "-")
     sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
-    out = ['<nav class="monthly-toc" aria-label="Topics in this report">']
-    for section, subjects in tree:
-        l2 = f"\n{sep}\n".join(f'<a href="#{slug(lbl)}">{lbl}</a>' for lbl in subjects)
-        out += ['<div class="monthly-toc__group">',
-                f'<a class="monthly-toc__l1" href="#{slug(section)}">{section}</a>',
-                f'<div class="monthly-toc__l2">\n{l2}\n</div>', "</div>"]
-    return out + ["</nav>", ""]
+    links = f"\n{sep}\n".join(f'<a href="#{slug(lbl)}">{lbl}</a>' for lbl in labels)
+    return [f'<nav class="article-toc {cls}" aria-label="{aria}">', links, "</nav>", ""]
+
+
+# **The contents run in three tiers, each where it is used** *(Bill, 2026-10-16)*: the place's
+# other reports, ruled off; the sections on one line beneath; and each section's subjects on a
+# line under its own heading, not stacked at the top of the page.
+def topic_toc(tree):
+    return jump_bar([section for section, _ in tree], "monthly-toc", "Sections in this report")
 
 
 def row_sources(r, start, end):
@@ -1410,6 +1412,8 @@ def monthly_body(unit, changed, ordered, subj, start, end):
     placed = {}
     for section, subjects in plan:
         lines += [f"## {section}", ""]
+        lines += jump_bar([label for label, _ in subjects], "monthly-subnav",
+                          f"Topics under {section}")
         for label, stories in subjects:
             lines += [f"### {label}", ""]
             for r, items in stories:

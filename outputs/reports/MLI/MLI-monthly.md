@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: f3e9bd8d5b40
+record: 689c2d98d8ba
 ---
 
 # Mali: monthly update, September – October 2026
@@ -20,10 +20,23 @@ record: f3e9bd8d5b40
 <a href="https://corpus.data-landscapers.io/reports/MLI/MLI-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-infrastructure">ICT Infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+</nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
@@ -31,41 +44,7 @@ record: f3e9bd8d5b40
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#dpi">DPI</a>
-<div class="monthly-toc__l2">
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity">Capacity</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#data">Data</a>
-<div class="monthly-toc__l2">
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
 </nav>
-
-## Governance
 
 ### Data protection
 
@@ -211,6 +190,10 @@ Mali's cybercrime tribunal sentenced journalist Abdrahamane KeÃ¯ta, publicatio
 
 ## ICT Infrastructure
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
+
 ### Connectivity
 
 <div class="monthly-story" markdown="1">
@@ -228,6 +211,10 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 </div>
 
 ## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+</nav>
 
 ### Sectoral management information systems
 
@@ -261,6 +248,10 @@ Mali's Ministry of National Education held a workshop on 29 July 2026 that appro
 
 ## Technology
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
 ### AI
 
 <div class="monthly-story" markdown="1">
@@ -279,6 +270,10 @@ Transition president Assimi Goïta opened Mali's artificial intelligence and rob
 
 ## Capacity
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -296,6 +291,10 @@ Mali's digital economy directorate and Kabakoo Academies launched the first coho
 </div>
 
 ## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
 
 ### National statistics
 

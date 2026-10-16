@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XSA
 ledger_rows: 13
 not_held: 2
-record: d47ba110b75b
+record: 5a158d111d03
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -16,44 +16,23 @@ record: d47ba110b75b
 <a href="https://corpus.data-landscapers.io/reports/XSA/XSA-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#ai">AI</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#data-exchange">Data Exchange</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#coordination-and-collaboration">Coordination and collaboration</a>
-<div class="monthly-toc__l2">
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity-and-inclusion">Capacity and inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-divides">Digital divides</a>
-</div>
-</div>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#coordination-and-collaboration">Coordination and collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity-and-inclusion">Capacity and inclusion</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -153,6 +132,10 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 
 ## Instruments and harmonisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#ai">AI</a>
+</nav>
+
 ### AI
 
 <div class="monthly-story" markdown="1">
@@ -178,6 +161,12 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+</nav>
 
 ### Data Exchange
 
@@ -241,6 +230,10 @@ Mozambique's central bank governor said the metical could be used for payments b
 
 ## Coordination and collaboration
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
+
 ### Innovation ecosystem
 
 <div class="monthly-story" markdown="1">
@@ -258,6 +251,12 @@ The South African edtech accelerator Injini has launched an eight-month programm
 </div>
 
 ## Capacity and inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
 
 ### Training and skills
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XEA
 ledger_rows: 20
 not_held: 0
-record: c3c420eb9419
+record: 47e2aa73defb
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -16,44 +16,21 @@ record: c3c420eb9419
 <a href="https://corpus.data-landscapers.io/reports/XEA/XEA-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#standards">Standards</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ai">AI</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#cybersecurity">Cybersecurity</a>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-exchange">Data Exchange</a>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#capacity-and-inclusion">Capacity and inclusion</a>
-<div class="monthly-toc__l2">
-<a href="#training-and-skills">Training and skills</a>
-</div>
-</div>
+<a href="#capacity-and-inclusion">Capacity and inclusion</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -100,6 +77,12 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 </div>
 
 ## Instruments and harmonisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ai">AI</a>
+</nav>
 
 ### Standards
 
@@ -212,6 +195,18 @@ The East African Community, the Inter-University Council for East Africa and the
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#cybersecurity">Cybersecurity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#national-statistics">National statistics</a>
+</nav>
 
 ### Cybersecurity
 
@@ -358,6 +353,10 @@ The IGAD Statistics Committee adopted the second Regional Strategy for the Devel
 </div>
 
 ## Capacity and inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
 
 ### Training and skills
 

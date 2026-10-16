@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XCA
 ledger_rows: 12
 not_held: 0
-record: 142020919993
+record: ac1cf1ff600f
 ---
 
 # Central Africa: monthly update, September – October 2026
@@ -16,34 +16,19 @@ record: 142020919993
 <a href="https://corpus.data-landscapers.io/reports/XCA/XCA-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#standards">Standards</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#data-storage">Data Storage</a>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -93,6 +78,10 @@ Chad's digital ministry and its partners opened the Central Africa Internet Gove
 
 ## Instruments and harmonisation
 
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#standards">Standards</a>
+</nav>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -140,6 +129,16 @@ A five-day African Development Bank, CEMAC and UNFPA workshop closed at Librevil
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#national-statistics">National statistics</a>
+</nav>
 
 ### Connectivity
 

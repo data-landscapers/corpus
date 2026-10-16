@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XWA
 ledger_rows: 27
 not_held: 1
-record: f8f045e8f583
+record: acff619e1de0
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -16,46 +16,21 @@ record: f8f045e8f583
 <a href="https://corpus.data-landscapers.io/reports/XWA/XWA-progress.html">Progress</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#institutions-and-mandates">Institutions and mandates</a>
-<div class="monthly-toc__l2">
-<a href="#regional-collaboration">Regional collaboration</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#instruments-and-harmonisation">Instruments and harmonisation</a>
-<div class="monthly-toc__l2">
-<a href="#data-protection">Data protection</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#ai">AI</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
+<a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#cybersecurity">Cybersecurity</a>
+<a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#national-statistics">National statistics</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#coordination-and-collaboration">Coordination and collaboration</a>
-<div class="monthly-toc__l2">
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
+<a href="#coordination-and-collaboration">Coordination and collaboration</a>
 </nav>
 
 ## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
 
 ### Regional collaboration
 
@@ -160,6 +135,12 @@ Ten member states held the founding interministerial meeting of the West African
 </div>
 
 ## Instruments and harmonisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ai">AI</a>
+</nav>
 
 ### Data protection
 
@@ -268,6 +249,20 @@ The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on t
 </div>
 
 ## Shared systems and infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#national-statistics">National statistics</a>
+</nav>
 
 ### Connectivity
 
@@ -572,6 +567,10 @@ A week-long ECOWAS training for managers of member states' national statistical 
 </div>
 
 ## Coordination and collaboration
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
 
 ### Innovation ecosystem
 

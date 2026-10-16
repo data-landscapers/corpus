@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: STP
 ledger_rows: 1
 not_held: 6
-record: 6643ca6bfd17
+record: b6f62bbb96a1
 ---
 
 # Sao Tome and Principe: monthly update, September – October 2026
@@ -20,16 +20,15 @@ record: 6643ca6bfd17
 <a href="https://corpus.data-landscapers.io/reports/STP/STP-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
-<div class="monthly-toc__l2">
-<a href="#connectivity">Connectivity</a>
-</div>
-</div>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#ict-infrastructure">ICT Infrastructure</a>
 </nav>
 
 ## ICT Infrastructure
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+</nav>
 
 ### Connectivity
 

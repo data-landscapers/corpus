@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ERI
 ledger_rows: 3
 not_held: 23
-record: 6c649cc02f84
+record: 91e1286e8e09
 ---
 
 # Eritrea: monthly update, September – October 2026
@@ -20,24 +20,19 @@ record: 6c649cc02f84
 <a href="https://corpus.data-landscapers.io/reports/ERI/ERI-hosting.html">Institution hosting</a>
 </nav>
 
-<nav class="monthly-toc" aria-label="Topics in this report">
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#governance">Governance</a>
-<div class="monthly-toc__l2">
-<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#legislation-and-regulation">Legislation and regulation</a>
-</div>
-</div>
-<div class="monthly-toc__group">
-<a class="monthly-toc__l1" href="#technology">Technology</a>
-<div class="monthly-toc__l2">
-<a href="#innovation-ecosystem">Innovation ecosystem</a>
-</div>
-</div>
+<a href="#technology">Technology</a>
 </nav>
 
 ## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+</nav>
 
 ### Strategies, plans and policies
 
@@ -72,6 +67,10 @@ An Eritrean human-rights group reports that a central bank legal notice of 9 Sep
 </div>
 
 ## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</nav>
 
 ### Innovation ecosystem
 
