@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: CIV
-ledger_rows: 41
+ledger_rows: 42
 not_held: 10
-record: 973b2f85c6c0
+record: c8fdca7bc2b6
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -208,6 +208,28 @@ $66,138,119 guarantee for Cybastion's Côte d'Ivoire national data centre, appro
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">E-government strengthening support project (PARAE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire : Un nouveau datacenter à Yamoussoukro pour centraliser les données de l'administration publique](https://www.sikafinance.com/marches/cote-d-ivoire-un-nouveau-datacenter-a-yamoussoukro-pour-centraliser-les-donnees-de-l-administration-publique_64417)** — Sika Finance, 22 September 2026
+
+Tier 3 state data centre planned at INP-HB under FCFA 60bn PARAE; four of five state data centres working.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire-AIP/ Administration électronique: le comité de pilotage du PARAE préconise le renforcement de la coordination](https://www.aip.ci/cote-divoire-aip-administration-electronique-le-comite-de-pilotage-du-parae-preconise-le-renforcement-de-la-coordination/)** — Agence Ivoirienne de Presse (AIP), 22 September 2026
+
+Sixth steering committee, 18 Sept 2026: data-centre works delayed; mid-term reviews with ministries proposed.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -274,13 +296,29 @@ Cote d'Ivoire is targeting 2027 for the opening of its first state-owned data ce
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Data centre at the Institut national polytechnique Felix Houphouet-Boigny, Yamoussoukro</p>
+<p class="monthly-story__name">Public-administration data centre at the Institut national polytechnique Felix Houphouet-Boigny, Yamoussoukro</p>
 
 <div class="bulletin-item" markdown="1">
 
 **[Administration électronique : un data center installé à l'INP-HB de Yamoussoukro](https://www.ivoirematin.com/fr/news/Societe/administration-electronique-un-data-center-installe-a-linp-hb-de-yamoussoukro_n_125289.html)** — Ivoirematin, 17 September 2026
 
 A data centre has been installed at the Institut national polytechnique Felix Houphouet-Boigny in Yamoussoukro to support Cote d'Ivoire's electronic administration. It is presented as strengthening national capacity to store, process and secure the public administration's data.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Côte d'Ivoire : Un nouveau datacenter à Yamoussoukro pour centraliser les données de l'administration publique](https://www.sikafinance.com/marches/cote-d-ivoire-un-nouveau-datacenter-a-yamoussoukro-pour-centraliser-les-donnees-de-l-administration-publique_64417)** — Sika Finance, 22 September 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Côte d'Ivoire-AIP/ Administration électronique: le comité de pilotage du PARAE préconise le renforcement de la coordination](https://www.aip.ci/cote-divoire-aip-administration-electronique-le-comite-de-pilotage-du-parae-preconise-le-renforcement-de-la-coordination/)** — Agence Ivoirienne de Presse (AIP), 22 September 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 

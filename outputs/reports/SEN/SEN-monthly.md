@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: SEN
-ledger_rows: 57
+ledger_rows: 58
 not_held: 3
-record: a0dce3f84974
+record: 64f8d956b6b6
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -145,6 +145,20 @@ Senegal's prime minister, Ahmadou Alhaminou Mohamed Lo, set out the government's
 **[Senegal Validates National Blueprint to Unlock Value From Data](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/)** — Tech Africa News, 23 September 2026
 
 Senegal's digital ministry validated a draft national Blueprint on Data Valorisation at a workshop on 21 and 22 September, run with Smart Africa's Data Governance in Africa programme and GIZ. Senegal is a pilot alongside Kenya and Lesotho; the workshop refined the roadmap's implementation and monitoring framework, with no finalisation date given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Restructuring of the national postal company by 2027</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Senegal targets postal sector restructuring by 2027 under New Deal Technologique](https://techreviewafrica.com/news/7747/senegal-targets-postal-sector-restructuring-by-2027-under-new-deal-technologique)** — Tech Review Africa, 15 October 2026
+
+World Post Day priorities: trusted digital services, e-commerce logistics, PPPs; state sole shareholder of La Poste.
 
 </div>
 
