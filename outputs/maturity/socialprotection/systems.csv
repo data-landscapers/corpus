@@ -1,0 +1,94 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,Kwenda program Management Information System,Angola,socialmis,,FAS-IDL / MASFAMU,,2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system
+AGO,SIGAS,Angola,other,,MASFAMU,54 CASIs,2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system
+BDI,CORE-MIS (openIMIS),Burundi,socialmis,openIMIS,"Government of Burundi, World Bank-financed Merankabandi",national programme,2026-01-01 Burundi's growing social protection system now runs on openIMIS
+BDI,Unified Social Registry,Burundi,other,,Government of Burundi,under development,2026-01-01 Burundi's growing social protection system now runs on openIMIS
+BDI,Système d'information de gestion (MIS) modernisé,Burundi,socialmis,,"Merankabandi II, Government of Burundi data centre",national,2026-06-30-le-renouveau-projet-merankabandi-ii-bilan-mi-parcours
+BDI,Registre social unique (RSU),Burundi,other,,Government of Burundi,national,2026-06-30-le-renouveau-projet-merankabandi-ii-bilan-mi-parcours
+BDI,CORE-MIS,Burundi,socialmis,open source,"Government of Burundi, World Bank-supported",national,2026-05-01-worldbank-building-burundi-national-social-protection-systems
+BDI,Unified Social Registry,Burundi,other,,Government of Burundi,national,2026-05-01-worldbank-building-burundi-national-social-protection-systems
+BEN,GBESSOKÉ (PFPSP) electronic transfers onto SIM cards,Benin,other,mobile phone SIM,Ministère des Affaires Sociales et de la Microfinance,,2025-09-22-gbessoke-transferts-monetaires-demarrage
+BEN,Registre Social Unique (RSU),Benin,other,,Government of Benin,,2026-01-21-registre-social-unique-protection-vulnerables
+BFA,Registre Social Unique,Burkina Faso,other,,Government of Burkina Faso,,2025-07-28-saspp-burkina-faso
+CAF,payment platform for safety net interventions (NDOYE project),Central African Republic,other,,Unite de Gestion du Projet Filets Sociaux (NDOYE),,2026-03-03-ndoye-social-safety-net-payment-platform-feasibility-tender
+CIV,Registre Social Unique (RSU),Côte d'Ivoire,other,,BCPFS,,2026-04-03-rsu-convention-bcpfs-oneci
+CIV,SIG-RSU,Côte d'Ivoire,other,,BCPFS,,2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale
+CMR,Unified Social Registry (RESUC) Management Information System,Cameroon,other,,,,2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection
+CMR,Unified Social Registry of Cameroon (RESUC),Cameroon,other,,MINAS,,2025-08-18-worldbank-asneip-additional-financing-project-paper
+CMR,ASNEIP digital G2P payment system,Cameroon,socialmis,,MINEPAT,,2025-08-18-worldbank-asneip-additional-financing-project-paper
+COG,social registry (registre social unique),"Congo, Republic of",other,,,,2025-12-22-world-bank-isr-10-social-protection-youth-productive-inclusion-p174178
+COG,Registre Social Unique,Congo,other,,,,2024-08-16-lancement-programme-national-filets-sociaux-congo
+COG,Registre Social Unique (RSU),Congo,other,,Ministry of Social Affairs,,2026-04-14-registre-social-unique-congo-siege-approprie
+DJI,Social Registry,Djibouti,other,,Ministry of Social Affairs and Solidarities,,2025-03-14-wb-dji-007-djibouti-integrated-community-resilience-project
+EGY,Takaful and Karama,Egypt,socialmis,Meeza cards,Ministry of Social Solidarity,,2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)
+EGY,unified social registry,Egypt,other,,Ministry of Social Solidarity,,2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)
+EGY,Takaful and Karama,Egypt,socialmis,Meeza cards,Ministry of Social Solidarity,,2024-05-28-egypt-takaful-karama-cash-transfer
+EGY,TKP social registry,Egypt,other,,Ministry of Social Solidarity,,2024-05-28-egypt-takaful-karama-cash-transfer
+EGY,Unified National Registry,Egypt,other,,Administrative Control Authority,,2024-05-28-egypt-takaful-karama-cash-transfer
+EGY,Unified Government Services Card,Egypt,socialmis,card linked to Egypt Post accounts,Ministry of Communications and Information Technology,,2026-06-14-egypt-unified-government-services-card-ahram
+ETH,PSNP management information system (MIS),ETH,socialmis,,Ministry of Agriculture,federal to woreda,2025-10-20-ethiopia-seasn-restructuring-paper
+GHA,GISPIS,Ghana,socialmis,ESB then microservices (planned),"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+GHA,GNHR,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+GHA,LEAP MIS,Ghana,socialmis,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+GHA,SWIMS,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+KEN,Enhanced Grievance and Case Management (EGCM),Kenya,other,,Directorate of Social Assistance,,2025-10-01-kseip2-egcm-guidelines
+KEN,Single Registry,Kenya,other,,,,2025-10-01-kseip2-egcm-guidelines
+KEN,CCTP-MIS,Kenya,socialmis,,Directorate of Social Assistance,national,2025-08-01-kseip2-esmp
+KEN,Enhanced Single Registry,Kenya,other,,,national,2025-08-01-kseip2-esmp
+LBR,Liberia Household Social Registry,Liberia,other,,"Ministry of Gender, Children and Social Protection",,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
+LBR,MTN mobile money,Liberia,other,MTN Liberia,MTN Liberia,,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
+MOZ,INAS MIS (eINAS),Mozambique,socialmis,,INAS,,2026-05-19-worldbank-pid-social-registry-af1
+MOZ,National Social Registry,Mozambique,other,,MTGAS,,2026-05-19-worldbank-pid-social-registry-af1
+MOZ,INGD digital humanitarian beneficiary registration system,Mozambique,other,,INGD,,2026-08-10-ingd-sgbah-digital-registration
+MOZ,INGD digital humanitarian beneficiary registration system,Mozambique,other,,INGD,,2026-08-08-ingd-registo-digital-donativos
+MOZ,e-INAS,Mozambique,socialmis,,INAS,,2025-01-01-wb-mozambique-social-protection-economic-resilience-restructuring
+MOZ,social registry,Mozambique,other,,,,2025-01-01-wb-mozambique-social-protection-economic-resilience-restructuring
+MRT,Registre Social,Registre Social,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
+MRT,registre social,registre social,other,,,,2026-10-14-mrt-futureafrique-conseil-ministres-composantes-numerique
+MRT,système de réponse aux chocs,système de réponse aux chocs,other,,,,2026-10-14-mrt-futureafrique-conseil-ministres-composantes-numerique
+MRT,Biometric Identity Management System,Biometric Identity Management System,other,,UNHCR,,2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national
+MRT,Social Registry,Social Registry,other,,Taazour,,2024-09-05-mauritania-adaptive-social-protection
+MRT,social registry databases,Mauritania,other,,Government of Mauritania,,2024-03-01-unhcr-mauritania-factsheet-march-2024
+MWI,Mbwezera MIS,Malawi,socialmis,CORE-MIS,NLGFC,public works programme,2025-03-21-ssrlp-inspire-o-aide-memoire
+MWI,CORE-MIS,Malawi,socialmis,,,foundation for multiple programme MIS,2025-03-21-ssrlp-inspire-o-aide-memoire
+MWI,SCTP MIS,Malawi,socialmis,CORE-MIS,,Social Cash Transfer Programme,2025-03-21-ssrlp-inspire-o-aide-memoire
+MWI,COMSIP Integrated MIS (CIMIS),Malawi,socialmis,CORE-MIS,COMSIP,,2025-03-21-ssrlp-inspire-o-aide-memoire
+MWI,Unified Beneficiary Registry (UBR),Malawi,other,,,social registry,2025-03-21-ssrlp-inspire-o-aide-memoire
+MWI,Management Information System (SCTP),Malawi,socialmis,,Transfer Agency,Social Cash Transfer Programme,2024-07-01-scaling-digital-delivery-malawi-sctp-epayment
+MWI,SCTP management information system,Malawi,socialmis,,,,2024-07-01-malawi-economic-monitor-reforming-with-urgency
+MWI,CS-EPWP management information system,Malawi,socialmis,,,,2024-07-01-malawi-economic-monitor-reforming-with-urgency
+MWI,Unified Beneficiary Registry (UBR),Malawi,other,,MoFEA Directorate for Poverty Reduction and Social Protection,,2024-07-01-malawi-economic-monitor-reforming-with-urgency
+NAM,Integrated Social Assistance System (ISAS),Namibia,socialmis,,"Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-01-01-consolidation-of-social-grants-and-the-food-bank
+NAM,Integrated Beneficiary Registry (IBR),Namibia,other,,"Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-01-01-consolidation-of-social-grants-and-the-food-bank
+NGA,National Cash Transfer Office payments,Nigeria,other,REMITA,National Cash Transfer Office,,2026-09-07-falana-serap-n33-75bn-cash-transfer-probe
+NGA,National Social Register,Nigeria,other,,,,2026-09-06-thisday-orogun-national-social-register-cash-transfer-audit
+NGA,National Beneficiary Register,Nigeria,other,,,,2026-09-06-thisday-orogun-national-social-register-cash-transfer-audit
+NGA,National Social Register,Nigeria,other,,,,2025-09-03-worldbank-nassp-su-implementation-status-results-report
+NGA,Rapid Response Register,Nigeria,other,,,,2025-09-03-worldbank-nassp-su-implementation-status-results-report
+NGA,National Social Safety Net Program-Scale Up payment system,Nigeria,socialmis,,,,2025-09-03-worldbank-nassp-su-implementation-status-results-report
+NGA,National Social Register,Nigeria,other,,Federal Ministry of Humanitarian Affairs and Poverty Reduction,,2026-08-17-businessday-nigeria-social-register-payment-gap
+NGA,National Social Register,Nigeria,other,,,,2026-06-04-fg-disburses-hope-ct-imo-beneficiaries
+SDN,SEND-P (Shared Distribution Network Platform),SDN,other,,Cash Consortium of Sudan and CGAP,,2025-12-15-send-shared-cash-platform-technical-specs
+SEN,Registre national unique (RNU),Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
+SEN,Programme national de bourses de sécurité familiale,Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
+SOM,Social Protection Delivery System (SPDS),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
+SOM,Unified Social Registry (USR),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
+SSD,Management Information System (SNSOP),South Sudan,socialmis,,Ministry of Agriculture and Food Security,,2025-09-18-cash-transfers-helping-women-south-sudan
+SSD,integrated MIS (SNSOP),South Sudan,socialmis,,MAFS (handed over from UNOPS; MGCSW to manage later),,2024-08-21-snsop-additional-financing-project-paper
+SSD,Government-led Management Information System (Shabaka Meisha),South Sudan,socialmis,,Ministry of Agriculture and Food Security,,2024-12-17-mafs-shabaka-meisha-cash-transfer-launch
+SSD,South Sudan Schools' Attendance Monitoring System (SSSAMS),South Sudan,socialmis,SMS-based,Ministry of General Education and Instruction (GESS programme),,2024-12-17-ssd-south-sudan-schools-ana-fii-inni
+STP,Ké-Non,STP,socialmis,CORE-MIS/openIMIS,"Ministry of Labor, Solidarity, and Social Security",,2025-09-12-wb-stp-003-social-protection-additional-financing
+STP,Unique Social Registry,STP,other,,"Ministry of Labor, Solidarity, and Social Security",,2025-09-12-wb-stp-003-social-protection-additional-financing
+SYC,ASP beneficiary registry and payment systems,Seychelles,socialmis,,Agency for Social Protection,,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments
+TCD,Registre social unifié,Chad,other,,,,2026-04-04-manara-kanem-lancement-projet-filets-sociaux-adaptatifs-productifs-mao
+TCD,Registre social unifié (RSU),Chad,other,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
+TCD,Nouveau système de gestion des bénéficiaires,Chad,socialmis,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
+TCD,Plateforme de paiement rapide,Chad,other,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
+TCD,Registre social unifié,Chad,other,,,,2026-04-03-wb-tcd-pfsap-adaptive-social-safety-nets
+TUN,AMEN social registry,Tunisia,other,,Ministry of Social Affairs,,2024-11-14 Tunisians Share How their Life Changed Through the AMEN Program
+TUN,AMEN management information system,Tunisia,socialmis,,Ministry of Social Affairs,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri
+TUN,AMEN social registry,Tunisia,other,,Ministry of Social Affairs,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri
+TZA,social registry,Tanzania,other,,TASAF,,2026-03-31-world-bank-tza-2026-pssn-iii-social-safety-net
+ZMB,GBV management information system,Zambia,socialmis,,"GEWEL 2 project, Gender Division",,2025-11-10-zambia-gewel2-additional-financing-project-paper
+ZMB,national Social Registry,Zambia,other,,,,2025-11-10-zambia-gewel2-additional-financing-project-paper
+ZWE,Zimbabwe Social Registry (ZISO),Zimbabwe,other,,"Ministry of Public Service, Labour and Social Welfare",,2026-07-20-zbc-government-develops-social-registry

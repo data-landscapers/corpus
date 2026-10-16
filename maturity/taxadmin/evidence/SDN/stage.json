@@ -1,0 +1,17 @@
+{
+ "iso3": "SDN",
+ "cells": [
+  {
+   "sub_indicator": "taxsystem",
+   "stage": "no evidence",
+   "filing": "",
+   "payment": "",
+   "uptake": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how taxes are filed and paid.",
+   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
+  }
+ ]
+}

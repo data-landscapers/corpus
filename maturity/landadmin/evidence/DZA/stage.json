@@ -1,0 +1,17 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "landmis",
+   "stage": "no evidence",
+   "system": "",
+   "joined": "",
+   "tax": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how land transactions are processed.",
+   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
+  }
+ ]
+}

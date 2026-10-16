@@ -1,0 +1,8 @@
+{"slug": "2025-01-01-wb-mozambique-social-protection-economic-resilience-restructuring", "facts": [
+{"sub_indicator": "socialmis", "aspect": "system", "value": "underway", "fact": "The World Bank says the project contributes to a government milestone of full operation of e-INAS, the National Social Protection Institute's system.", "as_of": "2025", "date_precision": "year", "system": "e-INAS", "class": "socialmis"},
+{"sub_indicator": "socialmis", "aspect": "system", "value": "inservice", "fact": "The World Bank says the PSSB Child Grant target is set on beneficiaries fully registered on eINAS by January 2025.", "as_of": "2025-01", "date_precision": "month", "system": "eINAS", "class": "socialmis"},
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "The World Bank says INAS contracts payment service providers (M-Pesa, Emola, Mkesh) centrally since 2024, about 136,000 digital accounts were opened by May 2025, and Child Grant payments started in March 2025.", "as_of": "2025-05", "date_precision": "month", "system": "eINAS", "class": "socialmis"}
+], "systems": [
+{"system": "e-INAS", "country_label": "Mozambique", "class": "socialmis", "platform": "", "owner": "INAS", "tiers": ""},
+{"system": "social registry", "country_label": "Mozambique", "class": "other", "platform": "", "owner": "", "tiers": ""}
+], "note": ""}

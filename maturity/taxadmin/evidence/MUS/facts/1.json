@@ -1,0 +1,8 @@
+{"slug": "2026-01-01-mra-vat-digital-services-foreign-suppliers", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Mauritius Revenue Authority says foreign suppliers of digital services can register for VAT and submit VAT returns online through its VAT filing portal.", "as_of": "2026-01-01", "date_precision": "day", "system": "VAT Filing Portal", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The Mauritius Revenue Authority says VAT due from foreign digital-service suppliers must be remitted electronically to it, in several approved foreign currencies.", "as_of": "2026-01-01", "date_precision": "day", "system": "VAT Filing Portal", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "uptake", "value": "most", "fact": "The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems.", "as_of": "2026-01-01", "date_precision": "day", "system": "VAT Filing Portal", "class": "taxsystem"}
+], "systems": [
+{"system": "VAT Filing Portal", "country_label": "Mauritius", "class": "taxsystem", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""},
+{"system": "e-Filing Service Centre", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""}
+], "note": ""}

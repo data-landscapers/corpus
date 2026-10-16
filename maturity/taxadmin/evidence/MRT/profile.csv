@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MRT,taxsystem,filing,coverage,inservice,2026-09-16,MRT-001,,
+MRT,taxsystem,payment,coverage,electronic,2026-09-16,MRT-002,,
+MRT,taxsystem,uptake,coverage,,,,,nothing held

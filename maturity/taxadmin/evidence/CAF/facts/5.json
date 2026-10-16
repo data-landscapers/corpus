@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-25 La Centrafrique lance officiellement e-Tax, sa plateforme de paiement d'impots en ligne",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Agence Ecofin reports the DGID launched the e-Tax platform on 24 March 2025, providing online tax declaration.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Agence Ecofin reports the DGID launched the e-Tax platform on 24 March 2025 for online payment of taxes.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

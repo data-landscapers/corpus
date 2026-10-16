@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2026-09-01-thestar-monari-when-itax-fails-the-taxpayer-still-pays
+KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,iCMS,Kenya,other,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,TIMS/eTIMS,Kenya,other,,Kenya Revenue Authority,,2026-04-23-icms-vat-return-integration
+KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2026-01-01-itax
+KEN,iTax,iTax,taxsystem,,Kenya Revenue Authority,national,2025-12-01-itax-enhancements-nov-dec-2025
+KEN,iTax,Kenya,taxsystem,,Kenya Revenue Authority,,2025-01-01-kenya-country-profile-ati

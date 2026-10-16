@@ -1,0 +1,4 @@
+{"slug":"2025-07-31 Isiolo County Onboarded onto Ardhisasa as More Counties Embrace the Platform","facts":[
+{"sub_indicator":"landmis","aspect":"system","value":"inservice","fact":"The State Department for Lands says Ardhisasa, built on NLIMS, offers searches, transfers and subdivisions online, with Isiolo County Blocks 1-10 live.","as_of":"2025-07-31","date_precision":"day","system":"Ardhisasa","class":"landmis"},
+{"sub_indicator":"landmis","aspect":"system","value":"underway","fact":"The State Department for Lands says it continues rolling out Ardhisasa across counties, with Marsabit and Baringo next after Isiolo and Mombasa Island.","as_of":"2025-07-31","date_precision":"day","system":"Ardhisasa","class":"landmis"}],
+"systems":[{"system":"Ardhisasa","country_label":"Kenya","class":"landmis","platform":"NLIMS","owner":"State Department for Lands","tiers":"national"}],"note":""}

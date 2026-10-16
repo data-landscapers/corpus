@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CIV,justice,cases,coverage,underway,2026-06-29,CIV-001;CIV-002;CIV-003;CIV-004;CIV-005,,
+CIV,justice,filing,coverage,,,,,nothing held
+CIV,justice,public,coverage,,,,,nothing held

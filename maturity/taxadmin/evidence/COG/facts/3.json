@@ -1,0 +1,8 @@
+{"slug": "2026-07-03-cog-switch-monetique-national-mfbpp", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "The Ministry of Finance says the FOUTA online tax payment platform is being deployed in three phases, with a pilot phase engaged, large and medium enterprises next, and all taxpayers by the end of 2026.", "as_of": "2026-07-03", "date_precision": "day", "system": "FOUTA", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Ministry of Finance says the FOUTA pilot phase was engaged with a number of enterprises that already file returns electronically (telediclaration), with the declaration made on E-Tax.", "as_of": "2026-07-03", "date_precision": "day", "system": "E-Tax", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The Ministry of Finance says taxes are paid online through FOUTA after declaration on E-Tax, by mobile money or bank transfer validated by OTP, with a signed electronic receipt, and a live payment demonstration was given on 3 July 2026 (pilot phase).", "as_of": "2026-07-03", "date_precision": "day", "system": "FOUTA", "class": "taxsystem"}
+], "systems": [
+{"system": "FOUTA", "country_label": "Congo", "class": "taxsystem", "platform": "online tax payment platform", "owner": "Ministere des finances, du budget et du portefeuille public", "tiers": "pilot enterprises, then large and medium, then all taxpayers"},
+{"system": "E-Tax", "country_label": "Congo", "class": "taxsystem", "platform": "online declaration portal", "owner": "Ministere des finances, du budget et du portefeuille public", "tiers": ""}
+], "note": ""}

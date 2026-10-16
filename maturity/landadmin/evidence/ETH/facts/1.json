@@ -1,0 +1,7 @@
+{"slug": "2025-01-01-land-et-digital-land-platform", "facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "The eLand platform's own site says citizens submit applications for ownership transfer, lease registration, and mortgage and court injunction registration online, and lists Bishoftu, Adama and Shagar in Oromia Region as cities currently using it.", "as_of": "2025", "date_precision": "year", "system": "eLand (CRPRS)", "class": "landmis"},
+{"sub_indicator": "landmis", "aspect": "joined", "value": "joined", "fact": "The eLand platform's own site says its property search has GIS and map integration and that it includes automated valuation tools alongside land registration.", "as_of": "2025", "date_precision": "year", "system": "eLand (CRPRS)", "class": "landmis"},
+{"sub_indicator": "landmis", "aspect": "tax", "value": "linked", "fact": "The eLand platform's own site says it has tax calculation and an integrated payment system for land taxes, fees and charges, with receipts and revenue reports.", "as_of": "2025", "date_precision": "year", "system": "eLand (CRPRS)", "class": "landmis"}
+], "systems": [
+{"system": "eLand", "country_label": "Ethiopia", "class": "landmis", "platform": "CRPRS (Cadastral Registration and Property Rights System), cloud-based", "owner": "eLand Platform", "tiers": "city (Bishoftu, Adama, Shagar in Oromia)"}
+], "note": ""}

@@ -1,0 +1,5 @@
+{"slug": "2024-06-05-src-customs-epayment-launch", "facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The SRC launched an ePayment module in ASYCUDA for import and export declarations (bills of entry), and its Commissioner of Customs said manifest, courier and excise tax modules had gone online the year before.", "as_of": "2024-06-05", "date_precision": "day", "system": "ASYCUDA", "class": "customs"}
+], "systems": [
+{"system": "ASYCUDA", "country_label": "Seychelles", "class": "customs", "platform": "ASYCUDA", "owner": "Seychelles Revenue Commission", "tiers": ""}
+], "note": ""}

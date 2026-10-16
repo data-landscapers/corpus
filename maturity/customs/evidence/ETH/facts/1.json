@@ -1,0 +1,8 @@
+{"slug": "2026-02-25-ethiopian-customs-commission-fully-digitalized", "facts": [
+{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"The Ethiopian Customs Commission says it has fully digitalized its services and established a digital system that lets importers and exporters execute their activities online (Deputy Commissioner Azezew Chane to ENA).","as_of":"2026-02-25","date_precision":"day","system":"Ethiopian Customs Commission digital system","class":"customs"},
+{"sub_indicator":"customs","aspect":"system","value":"underway","fact":"A Smart Border Custom Management System with AI-enabled cameras covering about 50 kilometers is being implemented at customs stations on the borders, per the Deputy Commissioner.","as_of":"2026-02-25","date_precision":"day","system":"Smart Border Custom Management System","class":"customs"},
+{"sub_indicator":"customs","aspect":"window","value":"window","fact":"The Electronic Single Window (ESW) integrates more than 70 institutions and lets traders submit all import/export requirements in batch, per the Deputy Commissioner.","as_of":"2026-02-25","date_precision":"day","system":"Electronic Single Window (ESW)","class":"customs"}
+], "systems": [
+{"system":"Electronic Single Window (ESW)","country_label":"Ethiopia","class":"customs","platform":"","owner":"Ethiopian Customs Commission","tiers":"national"},
+{"system":"Smart Border Custom Management System","country_label":"Ethiopia","class":"customs","platform":"AI-enabled cameras","owner":"Ethiopian Customs Commission","tiers":"border stations"}
+], "note": ""}

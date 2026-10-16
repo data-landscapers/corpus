@@ -1,0 +1,116 @@
+{
+ "id": "taxadmin",
+ "study_file": "maturity-study-taxadmin.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--tax"
+ ],
+ "carry": [
+  "dpi.mis--tax"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 8000000,
+ "terms": [
+  "e-filing",
+  "electronic filing",
+  "online filing",
+  "file returns online",
+  "e-tax",
+  "iTax",
+  "ITAS",
+  "integrated tax administration system",
+  "tax administration system",
+  "taxpayer portal",
+  "pay taxes online",
+  "electronic tax payment",
+  "e-payment of taxes",
+  "SIGTAS",
+  "e-impôts",
+  "eImpots",
+  "télédéclaration",
+  "télépaiement",
+  "déclaration en ligne",
+  "paiement en ligne des impôts",
+  "e-SINTAX",
+  "SINTAX",
+  "e-Declaração",
+  "declaração electrónica",
+  "declaração eletrónica",
+  "الإقرار الإلكتروني",
+  "الضريبة الإلكترونية",
+  "الدفع الإلكتروني للضرائب"
+ ],
+ "sub_indicators": [
+  {
+   "key": "taxsystem",
+   "label": "Tax",
+   "subject": "dpi.mis",
+   "text": "Tax: tax",
+   "indicator_id": "dpi.mis--tax-tax",
+   "class": "taxsystem",
+   "norm_short": "TADAT asks for electronic filing and payment of all core taxes, filing mandatory for designated taxpayers, with immediate confirmation.",
+   "criteria": [
+    "A source from the past three years says tax returns are filed and taxes paid on paper.",
+    "An integrated tax administration or e-filing system is procured, piloted or being built.",
+    "Taxpayers can file returns online for at least one core tax.",
+    "Taxes can be paid online, by bank transfer or by mobile money, through the tax authority's system.",
+    "Online filing is mandatory for some taxpayers, or half or more of returns are filed online."
+   ],
+   "criteria_of": "381a91dd5c0a"
+  }
+ ],
+ "classes": [
+  "taxsystem",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "filing",
+   "name": "Online filing",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "payment",
+   "name": "Electronic payment",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "electronic"
+   ],
+   "values": [
+    "electronic"
+   ]
+  },
+  {
+   "key": "uptake",
+   "name": "Mostly online",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "most"
+   ],
+   "values": [
+    "most"
+   ]
+  }
+ ],
+ "flags": []
+}

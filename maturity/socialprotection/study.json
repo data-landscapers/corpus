@@ -1,0 +1,115 @@
+{
+ "id": "socialprotection",
+ "study_file": "maturity-study-socialprotection.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--social-protection"
+ ],
+ "carry": [
+  "dpi.mis--social-protection"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 8000000,
+ "terms": [
+  "social protection management information system",
+  "social protection information system",
+  "SPMIS",
+  "beneficiary management information system",
+  "integrated beneficiary registry",
+  "beneficiary management",
+  "cash transfer",
+  "cash transfers",
+  "social cash transfer",
+  "safety net programme",
+  "safety nets",
+  "Inua Jamii",
+  "PSNP",
+  "Productive Safety Net",
+  "NASSP",
+  "Takaful",
+  "Karama",
+  "Tekavoul",
+  "transferts monétaires",
+  "filets sociaux",
+  "bourses familiales",
+  "système d'information de gestion",
+  "transferências sociais",
+  "subsídio social básico",
+  "INAS",
+  "تحويلات نقدية",
+  "تكافل وكرامة"
+ ],
+ "sub_indicators": [
+  {
+   "key": "socialmis",
+   "label": "Social protection",
+   "subject": "dpi.mis",
+   "text": "Social protection: social protection",
+   "indicator_id": "dpi.mis--social-protection-social-protection",
+   "class": "socialmis",
+   "norm_short": "The African Union's Protocol on Social Protection asks for an integrated social protection information system across schemes, with disaggregated data published.",
+   "criteria": [
+    "A source from the past three years says social programmes are administered on paper.",
+    "A management information system for a social programme is procured, piloted or being built.",
+    "A social programme's beneficiaries are enrolled and managed in an information system in service.",
+    "The programme's system sends payments to beneficiaries through banks or mobile money.",
+    "One information system serves two or more social programmes, or contributory and non-contributory schemes together."
+   ],
+   "criteria_of": "5b6552e7fb51"
+  }
+ ],
+ "classes": [
+  "socialmis",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "System in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "payments",
+   "name": "Paid electronically",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "electronic"
+   ],
+   "values": [
+    "electronic"
+   ]
+  },
+  {
+   "key": "integrated",
+   "name": "Several programmes",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "several"
+   ],
+   "values": [
+    "several"
+   ]
+  }
+ ],
+ "flags": []
+}

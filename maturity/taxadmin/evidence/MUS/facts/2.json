@@ -1,0 +1,5 @@
+{"slug": "2025-01-01-mra-individual-e-filing-season-2025", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Mauritius Revenue Authority says individuals file their 2025 income tax returns electronically with a User Id (NID, NCID or TAN) and password, due 15 October 2025.", "as_of": "2025", "date_precision": "year", "system": "Individual e-Filing", "class": "taxsystem"}
+], "systems": [
+{"system": "Individual e-Filing", "country_label": "Mauritius", "class": "taxsystem", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""}
+], "note": ""}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-01-caf-dgb-declaration-risques-budgetaires-plf2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": "Names partial use of e-Tax and resistance to it as a risk but does not state that returns are filed or taxes paid online."
+}

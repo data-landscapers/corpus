@@ -1,0 +1,6 @@
+{"slug":"2024-07-01-scaling-digital-delivery-malawi-sctp-epayment","facts":[
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"IDinsight reports that SCTP beneficiaries are registered with the Transfer Agency, which sets up individual e-wallets and records the details in the Management Information System.","as_of":"2024-05","date_precision":"month","system":"Management Information System (SCTP)","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"payments","value":"electronic","fact":"IDinsight reports that SCTP funds are disbursed via bank-led systems or mobile money platforms in ten districts, with TNM, Airtel, FDH Bank and NBS Bank as providers.","as_of":"2024-05","date_precision":"month","system":"Management Information System (SCTP)","class":"socialmis"}
+],"systems":[
+{"system":"Management Information System (SCTP)","country_label":"Malawi","class":"socialmis","platform":"","owner":"Transfer Agency","tiers":"Social Cash Transfer Programme"}
+],"note":""}

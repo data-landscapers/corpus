@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TCD-002,TCD,taxsystem,filing,inservice,"The DGI portal describes eTAX as a web platform for tele-registration, tele-declaration and tele-payment of taxes, and its events log dates the launch of tele-declaration to 30 January 2023.",2023-01-30,day,eTAX,taxsystem,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement,https://dgi.td/
+TCD-003,TCD,taxsystem,payment,electronic,"The DGI portal says eTAX lets taxpayers make tele-payment of taxes, launched 30 January 2023, with a printable payment receipt tutorial.",2023-01-30,day,eTAX,taxsystem,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement,https://dgi.td/

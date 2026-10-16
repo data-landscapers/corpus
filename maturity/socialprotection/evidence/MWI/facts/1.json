@@ -1,0 +1,11 @@
+{"slug":"2025-03-21-ssrlp-inspire-o-aide-memoire","facts":[
+{"sub_indicator":"socialmis","aspect":"system","value":"underway","fact":"World Bank aide memoire says Mbwezera MIS is being configured to serve the public works programme, with modules under development for project creation, attendance tracking and wage calculation.","as_of":"2025-03","date_precision":"month","system":"Mbwezera MIS","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"system","value":"underway","fact":"World Bank aide memoire says CORE-MIS will be the foundational software for multiple programme MIS, including Mbwezera MIS, SCTP MIS and COMSIP Integrated MIS, sharing core modules and beneficiary IDs.","as_of":"2025-03","date_precision":"month","system":"CORE-MIS","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"payments","value":"electronic","fact":"NLGFC confirmed that 95,520 SCTP and 195,520 CSPWP beneficiaries were enrolled on e-payments in 10 districts in 2024/25 and received payments in e-wallets through payment service providers including TNM, Airtel, FDH, Standard Bank, Kaku Pay and NBS Bank.","as_of":"2025-03","date_precision":"month","system":"SCTP MIS","class":"socialmis"}
+],"systems":[
+{"system":"Mbwezera MIS","country_label":"Malawi","class":"socialmis","platform":"CORE-MIS","owner":"NLGFC","tiers":"public works programme"},
+{"system":"CORE-MIS","country_label":"Malawi","class":"socialmis","platform":"","owner":"","tiers":"foundation for multiple programme MIS"},
+{"system":"SCTP MIS","country_label":"Malawi","class":"socialmis","platform":"CORE-MIS","owner":"","tiers":"Social Cash Transfer Programme"},
+{"system":"COMSIP Integrated MIS (CIMIS)","country_label":"Malawi","class":"socialmis","platform":"CORE-MIS","owner":"COMSIP","tiers":""},
+{"system":"Unified Beneficiary Registry (UBR)","country_label":"Malawi","class":"other","platform":"","owner":"","tiers":"social registry"}
+],"note":""}

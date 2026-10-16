@@ -1,0 +1,54 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,e-Foncier Bénin (e-FB),Benin,landmis,national cadastral database and platform,ANDF,national,2026-09-04-ben-cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-b
+BEN,e-Foncier Bénin (e-FB),Benin,landmis,national cadastral database and platform,ANDF,national,2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles
+BEN,e-Foncier Bénin (e-FB),Benin,landmis,national cadastral database and platform,ANDF,national,2025-02-04-e-foncier-491000-parcelles
+BEN,e-Foncier Bénin (e-FB),Benin,landmis,national cadastral database and platform,ANDF,national,2026-04-22-cadastre-porto-novo-pays-bas
+BEN,e-Foncier Bénin (e-FB),Benin,landmis,national cadastral database and platform,ANDF,national,2026-04-04-parakou-cadastre-netherlands-ambassador
+BWA,Land Information System,Botswana,landmis,,Ministry of Lands and Agriculture,,2026-03-04-mps-approve-ministry-of-lands-and-agriculture-budget
+BWA,Integrated Geographic Information System (IGIS),Botswana,other,,Ministry of Lands and Agriculture,,2026-03-04-mps-approve-ministry-of-lands-and-agriculture-budget
+BWA,Land Information System,Botswana,landmis,,Geospatial Information Centre,,2026-02-10-government-modernises-land-administration-systems
+BWA,Integrated Geographic Information System,Botswana,other,,Geospatial Information Centre,,2026-02-10-government-modernises-land-administration-systems
+CMR,Integrated Tax and Duty Management System (SIGIT),Cameroon,other,,Directorate General of Taxation (DGI),,2026-05-07-cameroon-awards-tax-digitalization-contract-international-consortium-sigit
+COD,e-Foncier,RDC,landmis,"blockchain, built to work offline",Ministry of Land Affairs with Oxinus,,2025-02-04-rdc-numerisation-foncier-relance
+COM,Système de Gestion des Impôts et Taxes (SIGIT),Comoros,other,,Direction Générale des Impôts,,2025-10-07-com-mfbsb-ami-interfacage-sigit-mobile-banking-pagf-si
+ETH,eLand,Ethiopia,landmis,"CRPRS (Cadastral Registration and Property Rights System), cloud-based",eLand Platform,"city (Bishoftu, Adama, Shagar in Oromia)",2025-01-01-land-et-digital-land-platform
+GHA,Enterprise Land Information System (ELIS),Ghana,landmis,,Lands Commission,national,2026-06-08-ghana-digitise-land-registry-system-underwhelming
+GHA,Ghana Enterprise Land Information System (GELIS),Ghana,landmis,,Lands Commission,national,2026-06-08-ghana-digitise-land-registry-system-underwhelming
+GHA,Digital Land Acquisition and Management Platform (DILAP),Ghana,other,,private (MP Kwame Asare Obeng),,2026-06-08-ghana-digitise-land-registry-system-underwhelming
+GHA,Enterprise Land Information System (ELIS),Ghana,landmis,,Lands Commission,"national, Volta regional office",2026-06-03-ghana-elis-volta-digital-client-service-access-unit
+GHA,Ghana Enterprise Land Information System (GELIS),Ghana,landmis,,Lands Commission,,2024-05-02-ghana-auditor-general-land-registration-performance-audit
+GHA,Enterprise Land Information System (ELIS),Ghana,landmis,,Lands Commission,,2024-05-02-ghana-auditor-general-land-registration-performance-audit
+GIN,e-Foncier rural,Guinea,landmis,national database and digital platform (future),Ministry of Agriculture,national,2025-10-14-cartographie-terres-agricoles-e-foncier-rural
+GMB,Land Information System,The Gambia,landmis,,Ministry of Lands and Regional Government,,2026-09-04-gambia-digital-land-information-system-world-bank
+GMB,National Land Administration System (NLAS),The Gambia,other,,,,2026-08-12-gambia-national-land-policy-2026-2035
+GMB,National Land Administration System,The Gambia,other,,,,2025-12-22-op-gov-gm-barrow-launching-statement-national-land-policy
+KEN,ArdhiSasa,Kenya,landmis,,State Department for Lands and Physical Planning,national,2026-09-21-ken-kenyans-ardhisasa-outage-land-services
+KEN,Ardhisasa,Kenya,landmis,,State Department for Lands and Physical Planning,national,2026-09-03-kenya-lsk-ardhisasa-outage-restoration-demand
+KEN,ArdhiSasa,Kenya,landmis,NLIMS,State Department for Lands and Physical Planning,national,2026-02-16-nsdm-countrywide-rollout-land-registries
+KEN,Ardhipay,Kenya,other,,,,2026-02-16-nsdm-countrywide-rollout-land-registries
+KEN,Ardhisasa,Kenya,landmis,NLIMS,State Department for Lands,national,2025-07-31 Isiolo County Onboarded onto Ardhisasa as More Counties Embrace the Platform
+KEN,Ardhisasa,Kenya,landmis,National Land Information Management System (NLIMS),State Department for Lands and Physical Planning,national,2026-07-17-mombasa-ardhisasa-expansion
+LBR,Liberia Land Information System,Liberia,landmis,ALLFORLAND and LTMETRIC,Liberia Land Authority,"national, pilot in Montserrado and Margibi Counties",2025-10-16-liberia-lla-land-information-system-mou-allforland-ltmetric
+MWI,Land Information Management System (LIMS),Malawi,landmis,web-based,"Ministry of Lands, Housing and Urban Development",,2026-08-04-malawi-reviews-digital-land-workflows
+MWI,Land Information Management System (LIMS),Malawi,landmis,,Ministry of Lands and Urban Development,,2026-03-25-dmap-lims-implementation-support-mission
+MWI,Land Information Management System (LIMS),Malawi,landmis,,Ministry of Lands,,2025-01-01-land-information-management-system-lims
+NGA,KW-GIS Digital Land Information System,Nigeria (Kwara State),landmis,Kwara State Geographic Land Information Service,KW-GIS,state,2025-10-20-kwara-launches-kw-gis-digital-land-administration
+NGA,KW-IRS online payment platform,Nigeria (Kwara State),other,,KW-IRS,state,2025-10-20-kwara-launches-kw-gis-digital-land-administration
+NGA,National Digital Land Information System (NDLIS),Nigeria,landmis,,Federal Ministry of Housing and Urban Development,national,2025-03-19-fmhud-keynote-national-land-registration-documentation-programme
+NGA,national digital land information system,Nigeria,landmis,,Federal Ministry of Housing and Urban Development,national,2025-03-20-fg-land-information-system-digitisation
+RWA,The Land Administration Information System (LAIS),Rwanda,landmis,,National Land Authority,,2026-02-23-impamvu-rwanda-rukeneye-abakozi-3000-serivisi-zubutaka
+RWA,Cyamunara System,Rwanda,other,,,,2026-02-23-impamvu-rwanda-rukeneye-abakozi-3000-serivisi-zubutaka
+RWA,Irembo,Rwanda,other,,,,2026-02-23-impamvu-rwanda-rukeneye-abakozi-3000-serivisi-zubutaka
+RWA,LAIS,Rwanda,landmis,,National Land Authority,,2026-01-28-rwanda-land-administration-case-study
+RWA,LDMS,Rwanda,other,,,,2026-01-28-rwanda-land-administration-case-study
+RWA,Irembo,Rwanda,other,,,,2026-01-28-rwanda-land-administration-case-study
+SEN,SIFCOM,Sénégal,landmis,,PROCASEF,communal,2026-05-13-procasef-financement-additionnel-60-communes
+SLE,Land Information System (LIS),Sierra Leone,landmis,,"Ministry of Lands, Housing and Country Planning",,2024-04-10-sierra-leone-land-administration-project-isr-seq-4
+SWZ,Deeds Registry computerised registers and imaging system,Eswatini,landmis,local network with work stations,"Deeds Registry, Ministry of Natural Resources and Energy",national,2026-08-29-gov-sz-deeds-registry
+SWZ,National Land Information System,Eswatini,other,,Ministry of Natural Resources and Energy,national,2026-08-29-gov-sz-deeds-registry
+SWZ,Ardhisasa,Kenya,other,,"State Department for Lands and Physical Planning, Kenya",national,2025-08-25-eswatini-delegation-kenya-lands-benchmarking
+TZA,Land Administration and Registration Information System (LARIS),Zanzibar,landmis,,"Ministry of Lands and Housing Development, Zanzibar",,2026-08-03-laris-zanzibar-official-launch
+UGA,UgNLIS,Uganda National Land Information System,landmis,"IGN FI consortium, World Bank funded","Ministry of Lands, Housing and Urban Development",22 Ministry Zonal Offices,2024-01-01-uganda-national-land-information-system
+ZWE,Laboratory Information Management System (LIMS),Zimbabwe,other,,UNDP / GHSC HPT (procurer),,2026-09-14-zwe-ungm-laboratory-information-management-system-tender
+ZWE,Laboratory Information Management System (LIMS),Zimbabwe,other,,Ministry of Health and Child Care,117 main laboratories linked to lower-level laboratories,2026-09-23-herald-zwe-lims-rural-diagnostics-2026
+ZWE,Impilo,Zimbabwe,other,electronic health records,Ministry of Health and Child Care,,2026-09-23-herald-zwe-lims-rural-diagnostics-2026

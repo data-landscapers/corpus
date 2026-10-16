@@ -1,0 +1,8 @@
+{"slug": "2026-09-16-dgi-mauritanie-teleservices", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Direction Générale des Impôts says its STT system (stt.e-tax.impots.gov.mr) lets taxpayers declare their taxes online.", "as_of": "2026-09-16", "date_precision": "day", "system": "Système de télédéclaration et télépaiement (STT)", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "The Direction Générale des Impôts says its STT system lets taxpayers pay their taxes online and add their means of payment.", "as_of": "2026-09-16", "date_precision": "day", "system": "Système de télédéclaration et télépaiement (STT)", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "The Direction Générale des Impôts says its téléservices portal (www.tele-services.gov.mr) lets all registered taxpayers declare their taxes online.", "as_of": "2026-09-16", "date_precision": "day", "system": "Téléservices (www.tele-services.gov.mr)", "class": "taxsystem"}
+], "systems": [
+{"system": "Système de télédéclaration et télépaiement (STT)", "country_label": "Mauritania", "class": "taxsystem", "platform": "stt.e-tax.impots.gov.mr", "owner": "Direction Générale des Impôts", "tiers": ""},
+{"system": "Téléservices", "country_label": "Mauritania", "class": "taxsystem", "platform": "www.tele-services.gov.mr", "owner": "Direction Générale des Impôts", "tiers": ""}
+], "note": ""}

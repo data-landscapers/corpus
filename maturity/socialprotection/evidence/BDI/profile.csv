@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,socialmis,system,coverage,inservice,2026-06-26,BDI-001;BDI-003;BDI-004,,
+BDI,socialmis,payments,coverage,electronic,2026,BDI-002;BDI-005,,
+BDI,socialmis,integrated,coverage,,,,,nothing held

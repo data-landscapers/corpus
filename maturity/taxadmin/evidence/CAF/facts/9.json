@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-12-digitalisation-finances-publiques-rca-africa24",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Africa24 lists e-Tax among the operational financial applications, serving taxpayers' remote filing (télédéclaration), with the director general of taxes describing taxpayers making declarations through digitalisation.",
+   "as_of": "2024-07-12",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "E-tax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Direction Generale des Impots",
+   "tiers": "national"
+  },
+  {
+   "system": "eTVA",
+   "country_label": "eTVA",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des Finances et du Budget",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

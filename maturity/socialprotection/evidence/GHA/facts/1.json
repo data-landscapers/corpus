@@ -1,0 +1,9 @@
+{"slug": "2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"underway","fact":"The Ministry of Gender, Children and Social Protection issued terms of reference for a software firm to develop the Ghana Integrated Social Protection Information System (GISPIS), a unified platform integrating its social protection systems with beneficiary tracking and case management.","as_of":"2026-08-29","date_precision":"day","system":"GISPIS","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"The terms of reference list LEAP, Labour Intensive Public Works, Productive Inclusion, the Ghana School Feeding Programme and the Capitation Grant among the ministry's existing Management Information Systems, currently integrated peer-to-peer.","as_of":"2026-08-29","date_precision":"day","system":"LEAP, LIPW, PI, GSFP and Capitation Grant MISs","class":"socialmis"}
+], "systems": [
+{"system":"GISPIS","country_label":"Ghana","class":"socialmis","platform":"ESB then microservices (planned)","owner":"Ministry of Gender, Children and Social Protection","tiers":""},
+{"system":"GNHR","country_label":"Ghana","class":"other","platform":"","owner":"Ministry of Gender, Children and Social Protection","tiers":""},
+{"system":"LEAP MIS","country_label":"Ghana","class":"socialmis","platform":"","owner":"Ministry of Gender, Children and Social Protection","tiers":""},
+{"system":"SWIMS","country_label":"Ghana","class":"other","platform":"","owner":"Ministry of Gender, Children and Social Protection","tiers":""}
+], "note": ""}

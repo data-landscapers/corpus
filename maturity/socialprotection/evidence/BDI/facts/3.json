@@ -1,0 +1,6 @@
+{"slug": "2026-06-30-le-renouveau-projet-merankabandi-ii-bilan-mi-parcours", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"Merankabandi II coordinator Michel Nyabenda said a modernised management information system (MIS) has been deployed in the Burundian government's data centre, while enrolment of 249,671 households in the Registre social unique continues.","as_of":"2026-06-26","date_precision":"day","system":"Système d'information de gestion (MIS) modernisé","class":"socialmis"}
+], "systems": [
+{"system":"Système d'information de gestion (MIS) modernisé","country_label":"Burundi","class":"socialmis","platform":"","owner":"Merankabandi II, Government of Burundi data centre","tiers":"national"},
+{"system":"Registre social unique (RSU)","country_label":"Burundi","class":"other","platform":"","owner":"Government of Burundi","tiers":"national"}
+], "note": ""}

@@ -1,0 +1,4 @@
+{"slug": "2025-01-31-car-advances-tax-digitalisation-itweb", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "ITWeb Africa quotes the director general of taxes saying the e-tax registration and e-filing modules were fully operational; the platform allows electronic tax filing.", "as_of": "2025-01-31", "date_precision": "day", "system": "e-tax", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract.", "as_of": "2025-01-31", "date_precision": "day", "system": "e-tax", "class": "taxsystem"}
+], "systems": [{"system": "e-tax", "country_label": "Central African Republic", "class": "taxsystem", "platform": "", "owner": "Direction générale des impôts et des domaines", "tiers": ""}], "note": ""}

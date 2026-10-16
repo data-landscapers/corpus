@@ -1,0 +1,3 @@
+{"slug": "2026-03-25-dmap-lims-implementation-support-mission", "facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "The Digital Malawi Acceleration Project reports 647 District Land Officers trained nationwide on LIMS and the Ministry equipped with over 400 computers, 100+ printers and four GNSS/GPS units, with LIMS optimization still under discussion with the World Bank mission.", "as_of": "2026-03-25", "date_precision": "day", "system": "Land Information Management System (LIMS)", "class": "landmis"}
+], "systems": [{"system": "Land Information Management System (LIMS)", "country_label": "Malawi", "class": "landmis", "platform": "", "owner": "Ministry of Lands and Urban Development", "tiers": ""}], "note": ""}

@@ -1,0 +1,17 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "customs",
+   "stage": "5",
+   "system": "inservice",
+   "window": "window",
+   "exchange": "exchange",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TCD-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-customs.py."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-20-thepoint-gra-senegal-customs-ict-transit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GAINDE",
+   "country_label": "Senegal",
+   "class": "customs",
+   "platform": "GAINDE",
+   "owner": "Senegalese Customs",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMAT",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Article only plans GAINDE installation at Gambian posts and future API exchange; no stated in-service Senegal declaration processing."
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "taxsystem",
+   "stage": "3",
+   "filing": "inservice",
+   "payment": "",
+   "uptake": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-001;KEN-002",
+   "gaps": "No source held since October 2023 says taxes can be paid electronically through the tax authority's system.",
+   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
+  }
+ ]
+}

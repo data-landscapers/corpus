@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-06-sle-sierraloaded-nra-asycuda-world-jendema-consultations",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The NRA has begun stakeholder consultations at the Jendema border crossing as it prepares to launch ASYCUDA World there, to automate import, export and transit regimes, with no launch date stated.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The NRA ASYCUDA Unit supervisor says ASYCUDA++ was introduced at Queen Elizabeth II Quay in 2009 and upgraded to the web-based ASYCUDA World in 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The NRA ASYCUDA Unit supervisor says ASYCUDA World connects multiple agencies through digital modules, routing information by each institution's role.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "Sierra Leone",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

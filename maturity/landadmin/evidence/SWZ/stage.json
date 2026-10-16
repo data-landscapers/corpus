@@ -1,0 +1,17 @@
+{
+ "iso3": "SWZ",
+ "cells": [
+  {
+   "sub_indicator": "landmis",
+   "stage": "3",
+   "system": "inservice",
+   "joined": "",
+   "tax": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SWZ-001",
+   "gaps": "No source held since October 2023 says the land system joins records to survey maps or valuation.",
+   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{"slug":"2026-06-03-ghana-elis-volta-digital-client-service-access-unit","facts":[
+{"sub_indicator":"landmis","aspect":"system","value":"inservice","fact":"A digital Client Service Access Unit inaugurated in Ho on 3 June 2026 enabled deployment of the Enterprise Land Information System in the Volta Region, where clients can submit land applications and track progress.","as_of":"2026-06-03","date_precision":"day","system":"Enterprise Land Information System (ELIS)","class":"landmis"}
+],"systems":[
+{"system":"Enterprise Land Information System (ELIS)","country_label":"Ghana","class":"landmis","platform":"","owner":"Lands Commission","tiers":"national, Volta regional office"}
+],"note":""}

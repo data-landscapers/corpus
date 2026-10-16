@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-13-caf-france-2024-appui-budgetaire-reformes-mfb-simba-sydonia-etax",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The finance ministry says FCFA 3.28 billion of France's budget-support convention signed 13 November 2024 is earmarked to reforms including the implementation of SYDONIA World.",
+   "as_of": "2024-11-13",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "SYDONIA World",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Ministere des Finances et du Budget",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-20-mfdp-lra-cbl-joint-press-conference-gac-revenue-collection-audit",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The joint press conference says the LRA is expanding LITAS across regional tax offices to strengthen domestic tax administration.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LITAS",
+   "country_label": "Liberia Integrated Tax Administration System",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": "regional tax offices"
+  },
+  {
+   "system": "SIGTAS",
+   "country_label": "Standard Integrated Government Tax Administration System",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

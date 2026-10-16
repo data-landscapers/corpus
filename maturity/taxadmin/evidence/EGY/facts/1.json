@@ -1,0 +1,6 @@
+{"slug": "2026-08-29-egypt-etax-ai-identity-verification", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "Egyptian Tax Authority head Rasha Abdel Aal said taxpayers have responded to the electronic systems and the mobile app and have already started creating accounts and submitting returns electronically.", "as_of": "2026-08-29", "date_precision": "day", "system": "Real Estate Transactions mobile application", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "Finance minister Ahmed Kouchouk said real estate transactions tax can be paid electronically by bank cards or direct-debit cards, with a final clearance issued online in five steps.", "as_of": "2026-08-29", "date_precision": "day", "system": "Real Estate Transactions mobile application", "class": "taxsystem"}
+], "systems": [
+{"system": "Real Estate Transactions mobile application", "country_label": "Egypt", "class": "taxsystem", "platform": "mobile app", "owner": "Egyptian Tax Authority with e-Tax", "tiers": ""}
+], "note": ""}

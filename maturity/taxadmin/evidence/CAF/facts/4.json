@@ -1,0 +1,44 @@
+{
+ "slug": "2024-06-24-caf-mfb-discours-ministre-digitalisation-ecadastre",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Finance Minister says the EU-funded E-TAX application, launched in 2023 at the DGID, makes online tax declaration effective.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The Finance Minister says E-TAX, launched in 2023 at the DGID, makes online payment of taxes effective.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "Central African Republic",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  },
+  {
+   "system": "SYSTEMIF",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

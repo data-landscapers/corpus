@@ -1,0 +1,112 @@
+{
+ "id": "landadmin",
+ "study_file": "maturity-study-landadmin.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--land"
+ ],
+ "carry": [
+  "dpi.mis--land"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 8000000,
+ "terms": [
+  "land information system",
+  "land information management system",
+  "land administration system",
+  "land management information system",
+  "LIMS",
+  "LAIS",
+  "NLIS",
+  "Ardhisasa",
+  "e-land",
+  "eLand",
+  "land digitisation",
+  "land digitization",
+  "digitisation of land records",
+  "digitization of land records",
+  "computerised land",
+  "computerized land",
+  "système d'information foncière",
+  "système intégré de gestion foncière",
+  "e-foncier",
+  "dématérialisation foncière",
+  "sistema de informação de gestão de terras",
+  "SiGIT",
+  "نظام المعلومات العقارية",
+  "رقمنة العقار"
+ ],
+ "sub_indicators": [
+  {
+   "key": "landmis",
+   "label": "Land",
+   "subject": "dpi.mis",
+   "text": "Land: land",
+   "indicator_id": "dpi.mis--land-land",
+   "class": "landmis",
+   "norm_short": "The AU Framework and Guidelines on Land Policy asks for a computerised land information system through which rights are registered and tracked across the administration's functions.",
+   "criteria": [
+    "A source from the past three years says land transactions, valuation and planning are run on paper.",
+    "A land information or land administration system is procured, piloted in some regions or being built.",
+    "Transfers, registrations or mortgages are processed in a land information system in service, in some areas at least.",
+    "The system joins land records with the cadastre's survey maps or with property valuation.",
+    "Land or property tax, stamp duty or rates are assessed or paid through, or from, the land system."
+   ],
+   "criteria_of": "fcdf3b532ff2"
+  }
+ ],
+ "classes": [
+  "landmis",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "System in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "joined",
+   "name": "Maps or valuation",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "joined"
+   ],
+   "values": [
+    "joined"
+   ]
+  },
+  {
+   "key": "tax",
+   "name": "Linked to tax",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "linked"
+   ],
+   "values": [
+    "linked"
+   ]
+  }
+ ],
+ "flags": []
+}

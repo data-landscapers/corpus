@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-19-myjoyonline-understanding-ghana-new-integrated-tax-administration",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "MyJoyOnline reports GRA's Integrated Tax Administration System entered a pilot on 1 April 2026 at the Kaneshie Taxpayer Service Centre, with selected Large Taxpayer Office filers onboarded later.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "MyJoyOnline reports the ITAS pilot currently covers filing of PAYE, VAT, VAT Withholding and Withholding VAT for selected taxpayers.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "MyJoyOnline reports the ITAS pilot currently covers payment of PAYE, VAT, VAT Withholding and Withholding VAT, with taxpayers able to pay electronically through portals and mobile channels.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Ghana",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "GITMIS",
+   "country_label": "Ghana",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "ICUMS",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Revenue Authority Customs Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

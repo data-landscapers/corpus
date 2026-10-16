@@ -1,0 +1,364 @@
+# Tax: tax
+
+*As at 2026-09-30.*
+
+## The norm
+
+TADAT asks for electronic filing and payment of all core taxes, filing mandatory for designated taxpayers, with immediate confirmation. This study asks the four questions above; it does not measure a country against the norm.
+
+## The ladder
+
+| Stage | Answers |
+|---|---|
+| 1 Paper | A source from the past three years says tax returns are filed and taxes paid on paper. |
+| 2 Under way | Yes to 1 |
+| 3 Online filing | Yes to 2 |
+| 4 Electronic payment | Yes to 3 |
+| 5 Mostly online | Yes to 4 |
+
+## Countries by stage
+
+| Stage | Countries |
+|---|---|
+| 5 Leading | 3 |
+| 4 Operating | 11 |
+| 3 Established | 5 |
+| 2 Nascent | 8 |
+| 1 Absent | 0 |
+| Unplaced | 2 |
+| No evidence | 25 |
+
+## Countries
+
+### Algeria: 5 Leading
+
+Online filing was mandatory or used by most taxpayers in 2026.
+
+- AlgerieZoom reports that electronic filing is mandatory for DGE taxpayers and, under instruction 31/2026, for real-profit regime and simplified non-commercial-profession taxpayers, though 2025 returns other than series G n°50 may still be filed on paper ([source, 2026-05-06](https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/)).
+
+### Mauritius: 5 Leading
+
+Online filing was mandatory or used by most taxpayers in 2026.
+
+- The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems ([source, 2026-01-01](https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers)).
+
+### Togo: 5 Leading
+
+Online filing was mandatory or used by most taxpayers in 2025.
+
+- The OTR statistics page of 20 February 2026 puts the share of VAT returns filed online at 100% in 2025 for the DGE and DME directorates, and 26% for the DCIG/DOFAN/DOFR directorates ([source, 2025](https://www.otr.tg/index.php/fr/impots/statistiques-performances/teledeclaration-et-telepaiement.html)).
+
+### Central African Republic: 4 Operating
+
+Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
+
+- Agence Ecofin reports the DGID launched the e-Tax platform on 24 March 2025 for online payment of taxes ([source, 2025-03-24](https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne)).
+- ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract ([source, 2025-01-31](https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m)).
+
+### Congo: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- L'Economie reports that since 3 August 2026 taxpayers pay taxes and levies online through the Fouta national switch after declaring on E-Tax, with an electronic Treasury receipt, rollout to all taxpayers by end of 2026 ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
+- The Ministry of Finance says taxes are paid online through FOUTA after declaration on E-Tax, by mobile money or bank transfer validated by OTP, with a signed electronic receipt, and a live payment demonstration was given on 3 July 2026 (pilot phase) ([source, 2026-07-03](https://www.finances.gouv.cg/fr/articles/pr%C3%A9sentation-du-switch-mon%C3%A9tique-national-onec-c_030726)).
+
+### Egypt: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- Finance minister Ahmed Kouchouk said real estate transactions tax can be paid electronically by bank cards or direct-debit cards, with a final clearance issued online in five steps ([source, 2026-08-29](https://www.fintechgate.net/250244)).
+
+### Gabon: 4 Operating
+
+Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
+
+- The Gabon DGI announced on 18 August 2025 that the e-tax portal also takes online payment of taxes ([source, 2025-08-18](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots)).
+
+### Ghana: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- MyJoyOnline reports the ITAS pilot currently covers payment of PAYE, VAT, VAT Withholding and Withholding VAT, with taxpayers able to pay electronically through portals and mobile channels ([source, 2026-08-19](https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/)).
+- The GRA says tax payments initiated through ITAS and GITMIS are processed on the Ghana.gov payment platform and were hit by intermittent faults from 14 August 2026 ([source, 2026-08-14](https://gna.org.gh/2026/08/gra-working-to-resolve-intermittent-tax-payment-challenges-on-ghana-gov-platform/)).
+
+### Lesotho: 4 Operating
+
+Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
+
+- Revenue Services Lesotho's guide says tax payments can be made through its e-Payments platform using mobile money (EcoCash and M-Pesa) and by bank EFT, with Standard Lesotho Bank payments via the Unayo app reflected immediately in the RSL system ([source, 2025-02-06](https://www.rsl.org.ls/sites/default/files/2025-02/Guide%20on%20E-Taxation%20Platform%20%28E-Filing%29.pdf)).
+
+### Liberia: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- The plan says a growing number of taxpayers use direct transfer and mobile money to pay taxes, and lists e-payments among the LRA's strengths ([source, 2026-08-20](https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf)).
+
+### Mali: 4 Operating
+
+Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
+
+- The DGI director-general says telepayment, launched December 2021, is operational for all taxpayers of the computerised centres, who can pay taxes by bank transfer, with no mobile money or card payment yet ([source, 2025-11-26](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html)).
+
+### Mauritania: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- The Direction Générale des Impôts says its STT system lets taxpayers pay their taxes online and add their means of payment ([source, 2026-09-16](https://impots.gov.mr/DGI/teleservices.html)).
+
+### Sierra Leone: 4 Operating
+
+Taxes could be filed online and paid electronically in 2025; mandatory or majority online filing is not known.
+
+- NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically ([source, 2025-12](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/)).
+
+### South Sudan: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
+
+- The SSRA Commissioner General directed that all government revenues, including taxes, be paid exclusively through the National e-Tax System, with electronic receipts as proof of payment, per Sudans Post ([source, 2026-03-13](https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/)).
+
+### DR Congo: 3 Established
+
+Tax returns could be filed online in 2026; electronic payment is not known.
+
+- Finance minister Doudou Fwamba said on RTNC that VAT tele-declaration (e-filing) has been generalised at the Direction generale des impots ([source, 2026-09-03](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux)).
+- Finance minister Doudou Fwamba, on RTNC, listed the generalisation of VAT tele-declaration among the public-finance reforms carried out ([source, 2026-08-25](https://lepotentiel.cd/2026/08/26/2597801/)).
+
+### Ethiopia: 3 Established
+
+Tax returns could be filed online in 2024; electronic payment is not known.
+
+- The ICTD paper uses tax administrative records to examine the adoption rate trend of the e-filing system among large and medium taxpayers in Ethiopia, including timeliness of VAT and corporate income tax return filing ([source, 2024-01](https://www.ictd.ac/publication/e-tax-system-adoption-tax-compliance-ethiopia)).
+- The ICTD paper uses tax administrative records to examine the adoption rate trend of the e-filing system among large and medium taxpayers in Ethiopia, including timeliness of VAT and corporate income tax return filing ([source, 2024-01](https://www.ictd.ac/publication/e-tax-system-adoption-and-tax-compliance-in-ethiopia-large-and-medium-taxpayers-experience/)).
+
+### Kenya: 3 Established
+
+Tax returns could be filed online in 2026; electronic payment is not known.
+
+- The Star column says KRA's iTax portal takes electronically submitted returns, with VAT returns filed on iTax from mid-August 2026 after moving off the offline Excel template ([source, 2026-08](https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays)).
+- KRA's public notice of 23 April 2026 says that from May 2026 validated export values from iCMS are prefilled in the VAT return in iTax, which taxpayers file there ([source, 2026-05](https://www.kra.go.ke/news-center/public-notices/2368-integration-of-the-export-process-in-icms-with-the-vat-return-in-itax)).
+
+### Namibia: 3 Established
+
+Tax returns could be filed online in 2025; electronic payment is not known.
+
+- The Namibia Revenue Agency's Integrated Tax Administration System e-portal (ITAS) states that once logged in, taxpayers can submit their returns online ([source, 2025](https://www.itas.namra.org.na/)).
+
+### Zimbabwe: 3 Established
+
+Tax returns could be filed online in 2025; electronic payment is not known.
+
+- ZIMRA says taxpayers can submit tax returns for selected tax heads online on its E-Taxes platform, launched alongside its E-Services online filing platform ([source, 2025](https://www.zimra.co.zw/news/2239:e-taxes-online-platform-2)).
+
+### Burundi: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- Burundi Times reports that the OBR launched the implementation phase of E-KORI, a new integrated digital platform for online declaration and payment of taxes and duties, with World Bank technical and financial support, and that the Finance Ministry says taxpayers will declare and pay remotely once it is fully operational ([source, 2026-01-19](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/)).
+
+### Cameroon: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- A new project to modernise the Integrated Tax and Duty Management System (SIGIT), estimated at about 4.7 billion FCFA and backed by technical partners, aims to strengthen interconnection of tax services and automate procedures, per L'Economie ([source, 2026-05-13](https://leconomie.info/digitalisation-fiscale-au-cameroun-la-direction-generale-des-impots-opere-sa-mue/)).
+
+### Comoros: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- The Directorate General of Taxes launched a three-day workshop on 15 April 2026, funded by AFD through PAGFSI, to prepare the progressive deployment of tax e-filing (télédéclaration) and e-payment (télépaiement) under the 2026 finance law ([source, 2026-04-15](https://finances.gouv.km/actualite_post/atelier-dgi-au-retaj-sur-la-validation-du-cadre-juridique-des-teleprocedures-fiscales-2026/)).
+- The Directorate General of Taxes, with AFD support through PAGFSI, opened a three-day workshop on 15 April 2026 to validate the legal framework and prepare the progressive deployment of tax e-filing and e-payment ([source, 2026-04-15](https://dgi.gouv.km/fr/actualite.php?article_id=93)).
+
+### Djibouti: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- The World Bank implementation status report for the Economic and Financial Governance Project sets a PDO indicator on the percentage of tax returns filed and paid on time via ITAS, at 0 as of 9 January 2026 against a 70% target for December 2029, so the system is not yet in use ([source, 2026-01-09](https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf)).
+- The World Bank project record for the US$20m Djibouti Economic and Financial Governance Project says it includes tax administration system modernization and revenue administration digitalization ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
+
+### Gambia: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- The GRA Commissioner General said the new Integrated Tax Administration System (ITAS) will let taxpayers register, file returns, pay and access services online, with stakeholder workshops held ahead of rollout ([source, 2026-06-17](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/)).
+- A joint Ministry of Finance and GRA press release says the World Bank-supported ITAS, to provide online services, is being implemented, with an Arabsoft and Tunisie Micro-Informatique consortium selected at USD 7,270,192.20 after the first awardee went bankrupt ([source, 2025-10-23](https://www.gra.gm/news/4f0f3845-b049-11f0-b086-029254d29bb1)).
+
+### Madagascar: 2 Nascent
+
+An electronic tax system was under way in 2025; online filing is not on record.
+
+- Madagascar's tax administration steering committee reported the Integrated Tax Administration System (SAFI), covering online tax declaration and diversified payments, tested and ready for production deployment from the end of September 2025 ([source, 2025-09-19](https://new.moov.mg/actualite/106644-modernisation-fiscale-la-plateforme-safi-prete-pour-la-mise-en-production)).
+
+### Somalia: 2 Nascent
+
+An electronic tax system was under way in 2025; online filing is not on record.
+
+- The World Bank ISR (archived 26 Nov 2025) says the contract for the Integrated Tax Administration System was signed after the September 2025 mid-term review, with online filing by large taxpayers still at 0% awaiting ITAS implementation ([source, 2025-10](https://documents1.worldbank.org/curated/en/099112625052026899/pdf/P177298-a188364c-8fe9-4a23-a8d1-afb09ca7c17a.pdf)).
+
+### Uganda: 2 Nascent
+
+An electronic tax system was under way in 2026; online filing is not on record.
+
+- The Ultimate Post reports URA awarded an e-tax2 electronic tax software supply, installation and operationalization contract (80bn, 10-year) to a joint venture, meant to digitise tax administration, with the rollout late by 4 years and the contractor yet to start work ([source, 2026-07-29](https://ultimatepost.dantty.com/post/10745)).
+
+### Chad: Unplaced
+
+Nothing held since 2023 names online tax filing and payment, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether tax returns can be filed online.
+
+### Malawi: Unplaced
+
+Nothing held since 2023 names online tax filing and payment, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether tax returns can be filed online.
+
+### Angola: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Benin: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Botswana: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Burkina Faso: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Cape Verde: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Cote d'Ivoire: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Equatorial Guinea: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Eritrea: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Eswatini: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Guinea: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Guinea-Bissau: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Libya: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Morocco: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Mozambique: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Niger: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Nigeria: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Rwanda: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Sao Tome and Principe: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Senegal: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Seychelles: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### South Africa: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Sudan: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Tanzania: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Tunisia: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.
+
+### Zambia: No evidence
+
+Nothing held names online tax filing and payment or says there is none, so no stage is set.
+
+Not established: Nothing held says how taxes are filed and paid.

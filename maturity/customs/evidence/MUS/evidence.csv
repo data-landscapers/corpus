@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,customs,system,inservice,"A WCO Smart Customs Project mission of 12-16 January 2026 found the Mauritius Revenue Authority hosts critical systems such as the Customs Management System on a private cloud, supporting risk management and border control.",2026-01,month,Customs Management System,customs,2026-01-20-wco-study-mission-cloud-computing-mauritius-customs,https://scp.wcoomd.org/study-mission-cloud-computing-hosted-mauritius-customs

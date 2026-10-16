@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-sierra-leone-nra-asycuda-audit-integrity-failure",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Anti-Corruption Commission report, per the Telegraph, found customs declarations deleted from the ASYCUDA system after payment, and notes real-time payment visibility within the ASYCUDA platform.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "Sierra Leone",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "National Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

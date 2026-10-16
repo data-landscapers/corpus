@@ -1,0 +1,5 @@
+{"slug": "2026-07-17-nbe-streamlines-account-number-customs-single-window", "facts": [
+{"sub_indicator":"customs","aspect":"window","value":"window","fact":"The National Bank of Ethiopia and the Ethiopia Customs Commission issue NBE Account Numbers to newly licensed importers and exporters through the Customs Electronic Single Window (eSW), joining the central bank to customs (NBE statement).","as_of":"2026-07-17","date_precision":"day","system":"Customs Electronic Single Window (eSW)","class":"customs"}
+], "systems": [
+{"system":"Customs Electronic Single Window (eSW)","country_label":"Ethiopia","class":"customs","platform":"","owner":"Ethiopia Customs Commission","tiers":"national"}
+], "note": ""}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CMR-001,CMR,socialmis,payments,electronic,"The World Bank project paper says ASNEIP is scaling up its digital government-to-person payment system and 9,337 beneficiaries had received digital payments by April 2025.",2025-04,month,digital government-to-person payment system,socialmis,2025-08-18-worldbank-asneip-additional-financing-project-paper,https://documents1.worldbank.org/curated/en/099082625105536477/pdf/BOSIB-c1db46ff-563d-4cc3-b382-1eb9e5eb6876.pdf

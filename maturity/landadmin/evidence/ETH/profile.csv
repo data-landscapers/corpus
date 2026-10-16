@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,landmis,system,coverage,inservice,2025,ETH-001,,
+ETH,landmis,joined,coverage,joined,2025,ETH-002,,
+ETH,landmis,tax,coverage,linked,2025,ETH-003,,

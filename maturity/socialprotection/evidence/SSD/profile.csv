@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,socialmis,system,coverage,inservice,2025-09-18,SSD-001;SSD-003;SSD-004,SSD-002=underway,
+SSD,socialmis,payments,coverage,,,,,nothing held
+SSD,socialmis,integrated,coverage,,,,,nothing held

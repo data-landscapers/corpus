@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-04-e-foncier-491000-parcelles",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "La Nation reports that the e-Foncier platform has been operational since 1 January 2025 with mairies, notaries and surveyors, and that nine e-Services on service-public.bj included 163 property transfer requests and mortgage registration, with 11,418 online requests from May 2022 to December 2024 (ANDF).",
+   "as_of": "2025-01-01",
+   "date_precision": "month",
+   "system": "e-Foncier Bénin",
+   "class": "landmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Foncier Bénin (e-FB)",
+   "country_label": "Benin",
+   "class": "landmis",
+   "platform": "national cadastral database and platform",
+   "owner": "ANDF",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

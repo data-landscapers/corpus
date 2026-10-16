@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+STP,socialmis,system,coverage,inservice,2024,STP-001,,
+STP,socialmis,payments,coverage,electronic,2025-09-12,STP-002,,
+STP,socialmis,integrated,coverage,,,,,nothing held

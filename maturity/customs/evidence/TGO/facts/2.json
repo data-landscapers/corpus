@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-30-togo-otr-plateforme-gest-exo-exonerations-douanieres",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Togo",
+   "class": "customs",
+   "platform": "SYDONIA",
+   "owner": "OTR",
+   "tiers": ""
+  },
+  {
+   "system": "Gest Exo",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": "Gest Exo handles exemption requests and transmits data to SYDONIA; no statement on declaration processing."
+}

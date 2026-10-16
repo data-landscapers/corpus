@@ -1,0 +1,17 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "socialmis",
+   "stage": "3",
+   "system": "inservice",
+   "payments": "",
+   "integrated": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-001",
+   "gaps": "No source held since October 2023 says the programme's system pays beneficiaries electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
+  }
+ ]
+}

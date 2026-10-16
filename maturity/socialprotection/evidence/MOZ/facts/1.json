@@ -1,0 +1,7 @@
+{"slug": "2026-05-19-worldbank-pid-social-registry-af1", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"The World Bank project document says a management information system and a beneficiary registry of over 1.2 million households are in place at INAS, though the MIS needs modernization.","as_of":"2026-05-19","date_precision":"day","system":"INAS MIS (eINAS)","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"system","value":"underway","fact":"The World Bank Additional Financing of US$154.4 million will finance modernization of the core INAS Management Information System for performance, interoperability, data quality and analytics.","as_of":"2026-05-19","date_precision":"day","system":"INAS MIS (eINAS)","class":"socialmis"}
+], "systems": [
+{"system":"INAS MIS (eINAS)","country_label":"Mozambique","class":"socialmis","platform":"","owner":"INAS","tiers":""},
+{"system":"National Social Registry","country_label":"Mozambique","class":"other","platform":"","owner":"MTGAS","tiers":""}
+], "note": ""}

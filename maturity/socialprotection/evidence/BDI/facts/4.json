@@ -1,0 +1,8 @@
+{"slug": "2026-05-01-worldbank-building-burundi-national-social-protection-systems", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"The World Bank states that investments in an open-source management information system (CORE-MIS) have established the foundations of Burundi's national social protection system, supporting the Merankabandi programme nationwide.","as_of":"2026-05-01","date_precision":"day","system":"CORE-MIS","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"payments","value":"electronic","fact":"The World Bank states that investments in CORE-MIS and digital payments enable delivery of Merankabandi assistance nationwide.","as_of":"2026-05-01","date_precision":"day","system":"CORE-MIS","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"integrated","value":"several","fact":"The World Bank states that the Unified Social Registry, CORE-MIS and digital payments are increasingly used across sectors and by other development programmes, with the registry also used by the Soleil-Nyakiriza solar project.","as_of":"2026-05-01","date_precision":"day","system":"CORE-MIS","class":"socialmis"}
+], "systems": [
+{"system":"CORE-MIS","country_label":"Burundi","class":"socialmis","platform":"open source","owner":"Government of Burundi, World Bank-supported","tiers":"national"},
+{"system":"Unified Social Registry","country_label":"Burundi","class":"other","platform":"","owner":"Government of Burundi","tiers":"national"}
+], "note": ""}

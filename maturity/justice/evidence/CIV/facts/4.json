@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-17-e-justice-ci-atelier-sensibilisation-fratmat",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Justice platform (e-justice.ci)",
+   "country_label": "Cote d'Ivoire",
+   "class": "justice",
+   "platform": "e-justice.ci",
+   "owner": "Ministry of Justice",
+   "tiers": "first instance courts"
+  }
+ ],
+ "note": "Describes online issuing of nationality certificates and criminal records and a document-authenticity workshop, not court case management."
+}

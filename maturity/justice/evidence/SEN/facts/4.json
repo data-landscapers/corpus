@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-projet-pilote-e-justice-dakar",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The UN information centre in Dakar reported that the Pikine-Guediawaye court already had the e-justice pilot system on its own computers, to be fully operational in September 2025, with extension to Dakar courts planned from October 2025 and a nationwide roadmap, depending on funding.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "e-Justice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-justice pilot platform",
+   "country_label": "SEN",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

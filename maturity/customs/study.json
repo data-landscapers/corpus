@@ -1,0 +1,116 @@
+{
+ "id": "customs",
+ "study_file": "maturity-study-customs.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--customs"
+ ],
+ "carry": [
+  "dpi.mis--customs"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 8000000,
+ "terms": [
+  "ASYCUDA",
+  "ASYCUDA World",
+  "SYDONIA",
+  "SYDONIA World",
+  "customs management system",
+  "customs automation",
+  "integrated customs management",
+  "e-customs",
+  "electronic customs",
+  "ICUMS",
+  "single window",
+  "trade single window",
+  "national single window",
+  "electronic single window",
+  "GUCE",
+  "guichet unique du commerce extérieur",
+  "guichet unique électronique",
+  "dédouanement en ligne",
+  "dédouanement électronique",
+  "système informatique douanier",
+  "janela única electrónica",
+  "janela única eletrónica",
+  "RECTS",
+  "SIGMAT",
+  "interconnexion des systèmes informatiques douaniers",
+  "النافذة الواحدة",
+  "الشباك الوحيد",
+  "النظام الجمركي الآلي"
+ ],
+ "sub_indicators": [
+  {
+   "key": "customs",
+   "label": "Customs",
+   "subject": "dpi.mis",
+   "text": "Customs: customs",
+   "indicator_id": "dpi.mis--customs-customs",
+   "class": "customs",
+   "norm_short": "The AfCFTA Protocol on Trade in Goods asks for customs automation, a single window connecting border agencies and electronic exchange with trading partners.",
+   "criteria": [
+    "A source from the past three years says customs declarations are processed on paper.",
+    "A customs management system is procured, being installed, piloted at some posts or upgraded.",
+    "Customs declarations are lodged and processed in an automated system at the main port, airport or border posts.",
+    "A trade single window is in service, joining customs and other border agencies.",
+    "The customs system exchanges declaration or transit data electronically with another country's customs."
+   ],
+   "criteria_of": "f39ff252d0ab"
+  }
+ ],
+ "classes": [
+  "customs",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "system",
+   "name": "Automated customs",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "window",
+   "name": "Single window",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "window"
+   ],
+   "values": [
+    "window"
+   ]
+  },
+  {
+   "key": "exchange",
+   "name": "Exchange with partners",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "exchange"
+   ],
+   "values": [
+    "exchange"
+   ]
+  }
+ ],
+ "flags": []
+}

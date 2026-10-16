@@ -1,0 +1,17 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "socialmis",
+   "stage": "5",
+   "system": "inservice",
+   "payments": "electronic",
+   "integrated": "several",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
+  }
+ ]
+}

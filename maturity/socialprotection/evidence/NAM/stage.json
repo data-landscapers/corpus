@@ -1,0 +1,17 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "socialmis",
+   "stage": "unplaced",
+   "system": "",
+   "payments": "",
+   "integrated": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether a social programme runs on an information system.",
+   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
+  }
+ ]
+}

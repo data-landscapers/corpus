@@ -1,0 +1,56 @@
+{
+ "slug": "2026-09-26-zwe-iecms-gweru-justice-digitisation",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The JSC's IECMS, begun in 2022 with the first paperless court, has been extended to the Constitutional Court, Supreme Court, Labour Court and all divisions of the High Court, per JSC deputy secretary Katsande.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "The JSC is rolling IECMS out to Magistrates' Courts in Midlands and Mashonaland West from 1 October 2026 (Phase 4.4), with Harare and Bulawayo planned by year-end.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "filing",
+   "value": "online",
+   "fact": "The Minister of State for Midlands and the JSC say IECMS includes electronic filing so litigants and legal practitioners can file documents electronically, with e-filing offices and internet hubs set up to help users.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  },
+  {
+   "sub_indicator": "justice",
+   "aspect": "public",
+   "value": "open",
+   "fact": "The Minister says IECMS incorporates case tracking for litigants, and the JSC says court users can monitor cases electronically.",
+   "as_of": "2026-09-26",
+   "date_precision": "day",
+   "system": "Integrated Electronic Case Management System (IECMS)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IECMS",
+   "country_label": "Integrated Electronic Case Management System",
+   "class": "justice",
+   "platform": "",
+   "owner": "Judicial Service Commission",
+   "tiers": "Constitutional, Supreme, Labour, High Court; Magistrates rolling out"
+  }
+ ],
+ "note": ""
+}

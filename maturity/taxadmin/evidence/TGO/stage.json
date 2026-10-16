@@ -1,0 +1,17 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "taxsystem",
+   "stage": "5",
+   "filing": "inservice",
+   "payment": "electronic",
+   "uptake": "most",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-taxadmin.py."
+  }
+ ]
+}

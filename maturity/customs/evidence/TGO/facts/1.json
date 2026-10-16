@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Togo",
+   "class": "customs",
+   "platform": "SYDONIA",
+   "owner": "OTR",
+   "tiers": ""
+  },
+  {
+   "system": "Gest-exo",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": "Gest-exo is an exemption-request platform feeding SYDONIA; the document does not say declarations are lodged or processed in SYDONIA."
+}

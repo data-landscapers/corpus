@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-22-cadastre-porto-novo-pays-bas",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Foncier Bénin (e-FB)",
+   "country_label": "Benin",
+   "class": "landmis",
+   "platform": "national cadastral database and platform",
+   "owner": "ANDF",
+   "tiers": "national"
+  }
+ ],
+ "note": "Reports parcel registration and certificate distribution in Porto-Novo; no transaction processing, survey-map or valuation join, or tax link stated."
+}

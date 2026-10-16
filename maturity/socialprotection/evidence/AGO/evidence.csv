@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,socialmis,system,inservice,"The World Bank reports that as of end-June 2024, 1.6 million households had been registered in the Kwenda programme Management Information System, which runs the Kwenda cash transfer.",2024-06,month,Kwenda program Management Information System,socialmis,2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system,https://documents1.worldbank.org/curated/en/099102524042530084/pdf/P169779177dc6e0f518d2610fb44ed3049d.pdf

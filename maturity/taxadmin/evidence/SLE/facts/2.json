@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Integrated Tax Administration System",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "National Revenue Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": "Names ITAS as launched but does not state online filing, electronic payment or uptake."
+}

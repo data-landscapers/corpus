@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-15-ssd-ssra-zambian-delegation-digital-tax",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Commissioner General Rizig Dominic Samuel says that under the electronic system taxpayers pay directly through authorised commercial banks, with transactions recorded in the system; e-Tax was demonstrated to the Zambian delegation.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "e-Tax",
+   "class": "taxsystem",
+   "platform": "CapitalPay",
+   "owner": "South Sudan Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

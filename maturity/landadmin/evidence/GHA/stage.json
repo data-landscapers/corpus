@@ -1,0 +1,17 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "landmis",
+   "stage": "5",
+   "system": "inservice",
+   "joined": "joined",
+   "tax": "linked",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
+  }
+ ]
+}

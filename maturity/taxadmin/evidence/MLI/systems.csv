@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MLI,E-Impôt,Mali,taxsystem,,Direction Générale des Impôts,,2026-04-24-mali-dgi-trois-options-declaration-e-liasse
+MLI,E-Liasse,Mali,taxsystem,www.dgi.gouv.ml,Direction Générale des Impôts,,2026-04-24-mali-dgi-trois-options-declaration-e-liasse
+MLI,Sigtas,Mali,taxsystem,,Direction générale des impôts,"DGE, CIME, Bamako and regional centres",2025-11-26-mali-dgi-recettes-electroniques
+MLI,E-Impôt,Mali,taxsystem,Sigtas teleservices module,Direction générale des impôts,"DGE, CIME",2025-11-26-mali-dgi-recettes-electroniques

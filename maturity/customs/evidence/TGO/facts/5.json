@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-14-togo-ghana-ecowas-enbic-sigmat-border-interoperability",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGMAT",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "ECOWAS",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGMAT is named as a transit system examined at a dialogue; the document does not say it exchanges customs data between countries."
+}

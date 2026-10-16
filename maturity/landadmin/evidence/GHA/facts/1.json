@@ -1,0 +1,9 @@
+{"slug":"2026-06-08-ghana-digitise-land-registry-system-underwhelming","facts":[
+{"sub_indicator":"landmis","aspect":"system","value":"inservice","fact":"Then-Lands Minister Jinapor said in 2024 that ELIS had enabled selected services, including consolidated searches and plan approvals, to be completed online, with full migration from manual operations still in progress.","as_of":"2024","date_precision":"year","system":"Enterprise Land Information System (ELIS)","class":"landmis"},
+{"sub_indicator":"landmis","aspect":"tax","value":"linked","fact":"Then-Lands Minister Jinapor said in 2024 that ELIS had enabled stamp duty assessment to be completed online.","as_of":"2024","date_precision":"year","system":"Enterprise Land Information System (ELIS)","class":"landmis"},
+{"sub_indicator":"landmis","aspect":"system","value":"underway","fact":"Lands Minister Emmanuel Armah-Kofi Buah said in August 2025 that the Commission's ongoing ELIS digitization would eliminate manual inefficiencies and reduce corruption.","as_of":"2025-08","date_precision":"month","system":"Enterprise Land Information System (ELIS)","class":"landmis"}
+],"systems":[
+{"system":"Enterprise Land Information System (ELIS)","country_label":"Ghana","class":"landmis","platform":"","owner":"Lands Commission","tiers":"national"},
+{"system":"Ghana Enterprise Land Information System (GELIS)","country_label":"Ghana","class":"landmis","platform":"","owner":"Lands Commission","tiers":"national"},
+{"system":"Digital Land Acquisition and Management Platform (DILAP)","country_label":"Ghana","class":"other","platform":"","owner":"private (MP Kwame Asare Obeng)","tiers":""}
+],"note":""}

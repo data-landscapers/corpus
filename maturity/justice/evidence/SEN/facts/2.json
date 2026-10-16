@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-04-lesoleil-senegal-numerique-justice-tribunaux",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Le Soleil reported that e-Justice, carried by the Direction de la Dematerialisation et de l'Automatisation numerique with UNDP support, is to bring case enrolment, the general roll, Parquet and Greffe activity, instruction and appeals into one digital environment, with the Pikine-Guediawaye court among the pilot courts and an official launch set for 2026-09-10.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "e-Justice",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Justice",
+   "country_label": "SEN",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "Jokkoo ak Yoon",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "e-Senegal",
+   "country_label": "SEN",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

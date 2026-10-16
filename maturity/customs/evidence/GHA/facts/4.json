@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ICUMS",
+   "country_label": "Integrated Customs Management System",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The article names ICUMS only as a source of payments affected by a fault and states nothing on declarations."
+}

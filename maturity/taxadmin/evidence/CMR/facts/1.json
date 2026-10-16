@@ -1,0 +1,7 @@
+{"slug": "2026-05-13-leconomie-tax-digitalisation-dgi", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "A new project to modernise the Integrated Tax and Duty Management System (SIGIT), estimated at about 4.7 billion FCFA and backed by technical partners, aims to strengthen interconnection of tax services and automate procedures, per L'Economie.", "as_of": "2026-05-13", "date_precision": "day", "system": "Système Intégré de Gestion des Impôts et Taxes (SIGIT)", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "Tele-declaration was introduced progressively from fiscal year 2016 for taxpayers of the Large Taxpayers Directorate (DGE) and extended from 2022 to the Local and Individual Taxpayer Centres, per L'Economie.", "as_of": "2022", "date_precision": "year", "system": "télédéclaration", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "Tele-payment was introduced progressively from fiscal year 2016 for DGE taxpayers and extended from 2022 to the Local and Individual Taxpayer Centres, per L'Economie.", "as_of": "2022", "date_precision": "year", "system": "télépaiement", "class": "taxsystem"}
+], "systems": [
+{"system": "Système Intégré de Gestion des Impôts et Taxes (SIGIT)", "country_label": "Cameroon", "class": "taxsystem", "platform": "", "owner": "Direction Générale des Impôts", "tiers": ""}
+], "note": ""}

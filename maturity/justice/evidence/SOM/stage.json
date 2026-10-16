@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "justice",
+   "stage": "3",
+   "cases": "inservice",
+   "filing": "",
+   "public": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-001",
+   "gaps": "No source held since October 2023 says cases can be filed with the courts online.",
+   "note": "First pass: counted from the four questions by study-ladder-justice.py."
+  }
+ ]
+}

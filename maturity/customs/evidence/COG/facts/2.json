@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "L'Economie reports that from 3 August 2026 importers declare on Sydonia and pay customs duties online via Fouta, doing declaration, payment and receipt online in under five minutes, per ministry IT director Elenga Ngaporo Okina.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Sydonia",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sydonia",
+   "country_label": "Sydonia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministere des Finances, du Budget et du Portefeuille public",
+   "tiers": ""
+  },
+  {
+   "system": "Fouta",
+   "country_label": "Fouta national switch",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des Finances, du Budget et du Portefeuille public",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

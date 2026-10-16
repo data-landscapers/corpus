@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,taxsystem,filing,coverage,inservice,2025,NAM-001,,
+NAM,taxsystem,payment,coverage,,,,,nothing held
+NAM,taxsystem,uptake,coverage,,,,,nothing held

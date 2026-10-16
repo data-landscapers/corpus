@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-20-thepoint-gra-senegal-customs-ict-transit",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Gambia Revenue Authority and Senegalese Customs agreed to install the GAINDE customs system at Karang, Keur Ayib and Selety border posts within three months.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "GAINDE",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GAINDE",
+   "country_label": "Gambia",
+   "class": "customs",
+   "platform": "GAINDE",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMAT",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Data exchange by API is only agreed for after GAINDE is operational."
+}

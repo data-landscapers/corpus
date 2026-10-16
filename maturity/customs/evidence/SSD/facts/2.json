@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-15-ssd-ssra-zambian-delegation-digital-tax",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Customs",
+   "country_label": "e-Customs",
+   "class": "other",
+   "platform": "",
+   "owner": "South Sudan Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "SSCAFFA",
+   "country_label": "SSCAFFA",
+   "class": "other",
+   "platform": "",
+   "owner": "South Sudan Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "e-Customs is described only as an electronic revenue collection platform; declaration processing is not stated."
+}

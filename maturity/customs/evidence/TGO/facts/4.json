@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-12-togo-otr-avis-013-2025-champ-bloquant-tarifs-preferentiels-sydonia",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "An OTR notice says customs declarations (DDU) are entered in SYDONIA, where a blocking field now requires the certificate of origin to be uploaded for preferential-tariff codes.",
+   "as_of": "2025-09-12",
+   "date_precision": "day",
+   "system": "SYDONIA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Togo",
+   "class": "customs",
+   "platform": "SYDONIA",
+   "owner": "OTR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

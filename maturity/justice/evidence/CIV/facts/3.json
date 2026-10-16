@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-20-e-justice-ci-16-juridictions-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Fraternité Matin reports that sixteen more courts were connected to the e-Justice.ci platform on 20 April 2026, bringing the network to 28 jurisdictions, with full national coverage as the stated goal.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "e-Justice platform (e-justice.ci)",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Justice platform (e-justice.ci)",
+   "country_label": "Cote d'Ivoire",
+   "class": "justice",
+   "platform": "e-justice.ci",
+   "owner": "Ministry of Justice",
+   "tiers": "first instance courts"
+  }
+ ],
+ "note": ""
+}

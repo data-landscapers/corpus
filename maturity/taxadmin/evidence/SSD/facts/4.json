@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-26-ssra-pushes-digital-reforms-transparency-efficiency",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "One Citizen Daily reports the SSRA review of its E-Tax reform, a platform designed for tax registration, filing and payment, noting strides in automating tax filing alongside limited infrastructure and low taxpayer awareness.",
+   "as_of": "2025-09-25",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "E-Tax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "South Sudan Revenue Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "customs",
+   "stage": "no evidence",
+   "system": "",
+   "window": "",
+   "exchange": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says how customs declarations are processed.",
+   "note": "First pass: counted from the four questions by study-ladder-customs.py."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-06-05-tra-zanzibar-single-window-launch", "facts": [
+{"sub_indicator":"customs","aspect":"window","value":"window","fact":"The Tanzania Revenue Authority launched the Zanzibar Single Window System at a ceremony on 2 June 2026, a digital platform for customs clearance bringing various government agencies under one electronic gateway.","as_of":"2026-06-02","date_precision":"day","system":"Zanzibar Single Window System","class":"customs"},
+{"sub_indicator":"customs","aspect":"window","value":"window","fact":"The article says the Tanzania Electronic Single Window System has already been established on Mainland Tanzania to connect traders, customs authorities and regulatory agencies.","as_of":"2026-06-05","date_precision":"day","system":"Tanzania Electronic Single Window System","class":"customs"}
+],
+"systems":[
+{"system":"Zanzibar Single Window System","country_label":"Tanzania (Zanzibar)","class":"customs","platform":"","owner":"Tanzania Revenue Authority","tiers":"Zanzibar"},
+{"system":"Tanzania Electronic Single Window System","country_label":"Tanzania (Mainland)","class":"customs","platform":"","owner":"","tiers":"Mainland"}
+],"note":""}

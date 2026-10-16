@@ -1,0 +1,17 @@
+{
+ "iso3": "COD",
+ "cells": [
+  {
+   "sub_indicator": "landmis",
+   "stage": "2",
+   "system": "underway",
+   "joined": "",
+   "tax": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COD-001",
+   "gaps": "No source held since October 2023 says: are land transactions processed electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
+  }
+ ]
+}

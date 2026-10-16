@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-03-leconomie-congo-paiement-impots-taxes-en-ligne",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "L'Economie reports taxpayers declare on the E-Tax platform, and the Fouta pilot was run among firms already familiar with online declaration.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "L'Economie reports that since 3 August 2026 taxpayers pay taxes and levies online through the Fouta national switch after declaring on E-Tax, with an electronic Treasury receipt, rollout to all taxpayers by end of 2026.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "E-Tax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministere des Finances, du Budget et du Portefeuille public",
+   "tiers": "large then medium firms, then all taxpayers by end 2026"
+  },
+  {
+   "system": "Fouta",
+   "country_label": "Fouta national switch",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des Finances, du Budget et du Portefeuille public",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

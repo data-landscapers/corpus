@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-08-eth-getchereta-mor-itas-chief-architect-reoi",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "Ministry of Revenue re-advertised on 8 October 2026 for a Technical Lead/Chief Architect to govern design of the Integrated Tax Administration System (ITAS) and oversee vendor activities, financed by the World Bank.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System (ITAS)",
+   "country_label": "ETH",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Revenue",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

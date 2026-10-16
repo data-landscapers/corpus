@@ -1,0 +1,17 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "justice",
+   "stage": "unplaced",
+   "cases": "",
+   "filing": "",
+   "public": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether courts manage cases electronically.",
+   "note": "First pass: counted from the four questions by study-ladder-justice.py."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-20-lra-corporate-strategic-plan-2025-2029",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The plan tables LITAS with an expected result of all modules functional and rolled out to all Tax Business Offices.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The plan says LITAS registration, return processing and payment modules are operational and rolled out to one Tax Business Office, and lists e-filing among the LRA's strengths.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "The plan says a growing number of taxpayers use direct transfer and mobile money to pay taxes, and lists e-payments among the LRA's strengths.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LITAS",
+   "country_label": "Liberia Integrated Tax Administration System",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": "one Tax Business Office"
+  }
+ ],
+ "note": ""
+}

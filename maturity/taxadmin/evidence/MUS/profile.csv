@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,taxsystem,filing,coverage,inservice,2026-01-01,MUS-001;MUS-004,,
+MUS,taxsystem,payment,coverage,electronic,2026-01-01,MUS-002,,
+MUS,taxsystem,uptake,coverage,most,2026-01-01,MUS-003,,

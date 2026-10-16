@@ -1,0 +1,4 @@
+{"slug": "2026-09-17-tgo-togopresse-otr-etpu-platform-launch", "facts": [
+{"sub_indicator":"taxsystem","aspect":"filing","value":"inservice","fact":"The OTR launched the e-TPU platform on 17 September 2026 for online declaration and assessment of the Taxe Professionnelle Unique by micro and small enterprises, per Togo-Presse.","as_of":"2026-09-17","date_precision":"day","system":"e-TPU","class":"taxsystem"},
+{"sub_indicator":"taxsystem","aspect":"payment","value":"electronic","fact":"The OTR's e-TPU platform, launched 17 September 2026, lets taxpayers pay the Taxe Professionnelle Unique online from a phone, tablet or computer, per the OTR commissioner general quoted by Togo-Presse.","as_of":"2026-09-17","date_precision":"day","system":"e-TPU","class":"taxsystem"}
+], "systems": [{"system":"e-TPU","country_label":"Togo","class":"taxsystem","platform":"","owner":"Office Togolais des Recettes (OTR)","tiers":"micro-enterprises and small industry (TPU)"}], "note": ""}

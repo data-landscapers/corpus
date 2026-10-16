@@ -1,0 +1,13 @@
+# Sierra Leone
+
+## Customs
+
+**Automated customs.** [The Anti-Corruption Commission report, per the Telegraph, found customs declarations deleted from the ASYCUDA system after payment, and notes real-time payment visibility within the ASYCUDA platform](<https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/>). [The Anti-Corruption Commission report states clearing agents' payments for ASYCUDA transactions were recorded in the NRA tax system, and refers to the ASYCUDA World System](<https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y>). [The NRA has begun stakeholder consultations at the Jendema border crossing as it prepares to launch ASYCUDA World there, to automate import, export and transit regimes, with no launch date stated](<https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/>).
+
+**Single window.** [The NRA ASYCUDA Unit supervisor says ASYCUDA World connects multiple agencies through digital modules, routing information by each institution's role](<https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/>).
+
+**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No source held since October 2023 says a trade single window is in service.

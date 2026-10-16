@@ -1,0 +1,8 @@
+{"slug": "2024-07-01-malawi-economic-monitor-reforming-with-urgency", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"The World Bank's Malawi Economic Monitor says the Unified Beneficiary Registry is partially integrated with the management information systems of the Social Cash Transfer Program (SCTP) and the CS-EPWP public works programme, with data shared through a one-way API.","as_of":"2024-06","date_precision":"month","system":"SCTP and CS-EPWP management information systems","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"payments","value":"electronic","fact":"The World Bank's Malawi Economic Monitor says about 440,000 households across 10 districts are paid SCTP benefits or CS-EPWP wages electronically under the SSRLP.","as_of":"2024-06","date_precision":"month","system":"SCTP and CS-EPWP management information systems","class":"socialmis"}
+], "systems": [
+{"system":"SCTP management information system","country_label":"Malawi","class":"socialmis","platform":"","owner":"","tiers":""},
+{"system":"CS-EPWP management information system","country_label":"Malawi","class":"socialmis","platform":"","owner":"","tiers":""},
+{"system":"Unified Beneficiary Registry (UBR)","country_label":"Malawi","class":"other","platform":"","owner":"MoFEA Directorate for Poverty Reduction and Social Protection","tiers":""}
+], "note": ""}

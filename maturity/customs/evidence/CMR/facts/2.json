@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-22-caf-guardianpost-cemac-transit-sigmat-sydonia",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article refers to Cameroon's customs system CAMCIS, whose interoperability with SYDONIA World is being examined by an AFRITAC-supported mission.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "CAMCIS",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "Customs says Cameroon, Chad and the Central African Republic have already linked their systems and introduced joint transit procedures.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "CAMCIS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAMCIS",
+   "country_label": "Cameroon",
+   "class": "customs",
+   "platform": "CAMCIS",
+   "owner": "Cameroon Customs",
+   "tiers": ""
+  },
+  {
+   "system": "SIGMAT",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "",
+   "owner": "CEMAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

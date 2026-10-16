@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-04-eth-2024-156-01-pr034",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The Executive Budget Proposal for 2024/25 lists a Ministry of Revenue capital project, Integrated Tax Adminstration System-ITAS, at ETB 26,671,900.",
+   "as_of": "2024-06-25",
+   "date_precision": "day",
+   "system": "Integrated Tax Adminstration System-ITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Adminstration System-ITAS",
+   "country_label": "ETH",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Revenue",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

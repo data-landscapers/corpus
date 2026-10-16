@@ -1,0 +1,7 @@
+{"slug": "2026-01-01 Burundi's growing social protection system now runs on openIMIS", "facts": [
+{"sub_indicator":"socialmis","aspect":"system","value":"inservice","fact":"openIMIS states that since May 2025 the CORE-MIS solution powered by openIMIS has managed cash transfers and income-generating-activity financing for 1.25 million Merankabandi beneficiaries across five provinces, after over 1 million records were migrated from the legacy system.","as_of":"2025-05","date_precision":"month","system":"CORE-MIS (openIMIS)","class":"socialmis"},
+{"sub_indicator":"socialmis","aspect":"payments","value":"electronic","fact":"openIMIS states that Burundi's multiple payment providers are integrated with the Merankabandi system for automated payments and reconciliation.","as_of":"2026","date_precision":"year","system":"CORE-MIS (openIMIS)","class":"socialmis"}
+], "systems": [
+{"system":"CORE-MIS (openIMIS)","country_label":"Burundi","class":"socialmis","platform":"openIMIS","owner":"Government of Burundi, World Bank-financed Merankabandi","tiers":"national programme"},
+{"system":"Unified Social Registry","country_label":"Burundi","class":"other","platform":"","owner":"Government of Burundi","tiers":"under development"}
+], "note": ""}

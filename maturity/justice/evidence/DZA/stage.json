@@ -1,0 +1,17 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "justice",
+   "stage": "5",
+   "cases": "inservice",
+   "filing": "online",
+   "public": "open",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-ladder-justice.py."
+  }
+ ]
+}

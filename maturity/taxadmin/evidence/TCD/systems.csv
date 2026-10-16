@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TCD,e-Tax,Chad,taxsystem,,Direction Generale des Impots,,2026-02-01-chad-direct-and-indirect-tax-changes-in-finance-law-2026
+TCD,E-TAX,Chad,taxsystem,,Ministry of Finance / DGI,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux
+TCD,SIGFIP,Chad,other,,Ministry of Finance,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux
+TCD,Facturation electronique normalisee (FEN),Chad,other,,DGI,,2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux
+TCD,eTAX,Chad,taxsystem,sigi.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement
+TCD,Facturation Electronique Normalisee (FEN),Chad,other,fen.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement
+TCD,IGL Mobile,Chad,other,igl.finances.gouv.td,Direction Generale des Impots,,2025-02-11-dgi-tchad-portail-etax-immatriculation-declaration-paiement

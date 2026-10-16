@@ -1,0 +1,7 @@
+{"slug": "2024-01-01-uganda-national-land-information-system", "facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "The Ministry of Lands says the UgNLIS, rolled out nationally between February 2015 and February 2020, is a computerized system through 22 Ministry Zonal Offices that reduces the time to check, update and transfer land.", "as_of": "2020-02", "date_precision": "month", "system": "UgNLIS", "class": "landmis"},
+{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "The Ministry of Lands says the UgNLIS is being enhanced under the NaLISEP project run from October 2023 to May 2024 by IGN FI with World Bank support.", "as_of": "2023-10", "date_precision": "month", "system": "UgNLIS", "class": "landmis"},
+{"sub_indicator": "landmis", "aspect": "joined", "value": "joined", "fact": "The Ministry of Lands says the DeSINLISI national roll-out fully integrated land registration, land administration, surveying and mapping, physical planning and property valuation in the UgNLIS.", "as_of": "2020-02", "date_precision": "month", "system": "UgNLIS", "class": "landmis"}
+], "systems": [
+{"system": "UgNLIS", "country_label": "Uganda National Land Information System", "class": "landmis", "platform": "IGN FI consortium, World Bank funded", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": "22 Ministry Zonal Offices"}
+], "note": ""}

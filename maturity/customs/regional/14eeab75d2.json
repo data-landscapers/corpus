@@ -1,0 +1,6 @@
+{"slug":"2026-09-16-xea-thestar-rects-multi-vendor-cargo-tracking","countries":{
+"BDI":{"facts":[],"systems":[],"note":"Only names Burundi as a Northern Corridor country; RECTS is cargo tracking, not clearance."},
+"KEN":{"facts":[],"systems":[{"system":"RECTS","country_label":"Kenya","class":"other","platform":"","owner":"Kenya Revenue Authority","tiers":""}],"note":"RECTS is an electronic cargo tracking system with seals, not a clearance system."},
+"RWA":{"facts":[],"systems":[],"note":"Only names Rwanda as a Northern Corridor country; RECTS is cargo tracking, not clearance."},
+"SSD":{"facts":[],"systems":[],"note":"Only names South Sudan as a Northern Corridor country; RECTS is cargo tracking, not clearance."},
+"UGA":{"facts":[],"systems":[],"note":"Only names Uganda as a Northern Corridor country; RECTS is cargo tracking, not clearance."}}}

@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,taxsystem,filing,coverage,underway,2026-03-10,SSD-003;SSD-004,,
+SSD,taxsystem,payment,coverage,electronic,2026-10-14,SSD-001;SSD-002,,
+SSD,taxsystem,uptake,coverage,,,,,nothing held

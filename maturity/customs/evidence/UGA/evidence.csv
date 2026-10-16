@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+UGA-001,UGA,customs,system,inservice,"The Uganda Revenue Authority says ASYCUDA World is an online system used for processing all goods imported or exported, in which agents capture, validate and assess declarations and importers self-declare and pay taxes.",2024-06-24,day,ASYCUDA World,customs,2024-06-24-ura-asycudaworld,https://ura.go.ug/en/sycuda/

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-itax-enhancements-nov-dec-2025",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "KRA's November/December 2025 release notes describe iTax handling taxpayer income tax returns, with returns validated against eTIMS invoices and customs import records, and a fix letting taxpayers amend monthly rental income returns.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "iTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "iTax",
+   "country_label": "iTax",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

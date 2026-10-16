@@ -1,0 +1,4 @@
+{"slug": "2025-01-29-centrafrique-adopte-e-tax-wearetech", "facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "We Are Tech Africa reports the e-Tax platform has 301 large and 325 medium firms registered and offers online filing (télédéclaration) of taxes.", "as_of": "2025-01-29", "date_precision": "day", "system": "e-Tax", "class": "taxsystem"},
+{"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "We Are Tech Africa reports the e-Tax platform introduces online payment of taxes (télépaiement), with 301 large and 325 medium firms registered.", "as_of": "2025-01-29", "date_precision": "day", "system": "e-Tax", "class": "taxsystem"}
+], "systems": [{"system": "e-Tax", "country_label": "CAF", "class": "taxsystem", "platform": "", "owner": "Direction générale des impôts et des domaines (DGID)", "tiers": "large and medium enterprises registered"}], "note": ""}

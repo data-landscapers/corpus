@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-20-lra-corporate-strategic-plan-2025-2029",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The LRA Corporate Strategic Plan 2025-2029 says ASYCUDA has played a pivotal role in augmenting customs operations and tables its status as extended to Freeport of Liberia, RIA and Buchanan.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The plan tables an ASYCUDA extension project with expected result of extension to five rural ports.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA",
+   "country_label": "ASYCUDA",
+   "class": "customs",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": "Freeport, RIA, Buchanan"
+  },
+  {
+   "system": "National Electronic Single Window",
+   "country_label": "National Electronic Single Window",
+   "class": "customs",
+   "platform": "World Bank LIFT Project",
+   "owner": "Liberia Revenue Authority",
+   "tiers": "funding earmarked, not in service"
+  }
+ ],
+ "note": ""
+}

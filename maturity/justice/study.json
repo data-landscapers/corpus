@@ -1,0 +1,119 @@
+{
+ "id": "justice",
+ "study_file": "maturity-study-justice.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "dpi.mis"
+ ],
+ "stage_topic": "dpi.mis",
+ "redraws": [
+  "dpi.mis--justice"
+ ],
+ "carry": [
+  "dpi.mis--justice"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 8000000,
+ "terms": [
+  "case management system",
+  "court case management",
+  "case tracking system",
+  "e-justice",
+  "e-court",
+  "e-courts",
+  "e-judiciary",
+  "e-filing system",
+  "virtual court",
+  "virtual courts",
+  "digital court",
+  "digital courts",
+  "court automation",
+  "court digitisation",
+  "court digitization",
+  "judicial information system",
+  "judiciary digital",
+  "justice numérique",
+  "dématérialisation de la justice",
+  "juridictions numériques",
+  "tribunal numérique",
+  "chaîne pénale",
+  "gestion des affaires judiciaires",
+  "processo electrónico",
+  "processo eletrónico",
+  "tribunais digitais",
+  "المحكمة الرقمية",
+  "التقاضي الإلكتروني",
+  "التقاضي عن بعد",
+  "رقمنة العدالة",
+  "المحاكمة عن بعد"
+ ],
+ "sub_indicators": [
+  {
+   "key": "justice",
+   "label": "Justice",
+   "subject": "dpi.mis",
+   "text": "Justice: justice",
+   "indicator_id": "dpi.mis--justice-justice",
+   "class": "justice",
+   "norm_short": "The African Commission's Fair Trial Principles ask for systems recording proceedings and storing court information, with public access to decisions.",
+   "criteria": [
+    "A source from the past three years says court proceedings and records are on paper with no case management system.",
+    "A case management or e-justice system is procured, piloted in some courts or being built.",
+    "A case management system is in service in some courts or one tier.",
+    "Lawyers or litigants can file cases or documents with the courts online.",
+    "Court decisions are published online or the public can look up a case's status online."
+   ],
+   "criteria_of": "b4a8b7c0af46"
+  }
+ ],
+ "classes": [
+  "justice",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "cases",
+   "name": "Case management in service",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "filing",
+   "name": "Online filing",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "online"
+   ],
+   "values": [
+    "online"
+   ]
+  },
+  {
+   "key": "public",
+   "name": "Open online",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "open"
+   ],
+   "values": [
+    "open"
+   ]
+  }
+ ],
+ "flags": []
+}
