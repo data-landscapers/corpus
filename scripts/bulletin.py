@@ -44,8 +44,9 @@ build clock's rather than OSINT's, since it is the build that decides what today
 so most items are selected twice; re-summarising it the second time would burn the model stage
 again and word the same item differently on consecutive days. `outputs/bulletins/summaries.json`
 is the store, `--write` is the only way into it, and `--scan` asks for summaries only for items
-that do not have one. Entries age out 30 days after publication, which is 28 days after the last
-window that could cite them.
+that do not have one. **The country and region monthlies read the same store** *(Bill,
+2026-10-16)*, and their window opens on the first of last month, so entries are kept 62 days after
+publication — the longest a monthly can still cite them.
 
 **Detail sits in one place and everything else points at it** *(Bill, 2026-08-17)*. An item
 carrying five topics is written out once and the other four carry a cross-reference to it.
@@ -172,7 +173,7 @@ RAW = CORPUS / "scripts" / ".workroot" / "raw"
 
 SITE_BASE = "https://corpus.data-landscapers.io"
 
-KEEP_DAYS = 30          # how long a written summary is retained after its item's publication date
+KEEP_DAYS = 62          # how long a written summary is retained: a monthly's widest window
 TODAY_ONLY_FROM = 18    # from this hour the window is the run's date alone; before it, and the day before
 UNTOPICED = "\x00untopiced"     # section key for a record carrying no topic at all
 UNTOPICED_LABEL = "Not topic-specific"

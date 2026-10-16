@@ -61,7 +61,7 @@ The page dropped the report apparatus it had inherited without earning: no kicke
 
 ## What it is not
 
-**Not an archive** — one bounded exception: the last week of dated PDFs, listed in the colophon (`documentation/bulletin-archive.md`). The document is rewritten in place and holds only the current window; git holds every prior version; the summaries store is pruned 30 days after an item's publication date.
+**Not an archive** — one bounded exception: the last week of dated PDFs, listed in the colophon (`documentation/bulletin-archive.md`). The document is rewritten in place and holds only the current window; git holds every prior version; the summaries store is pruned 62 days after an item's publication date, because the monthlies cite it too.
 
 **Not a record layer.** Nothing here is a position that can move, nothing is checked against a ledger, nothing downstream derives from it.
 

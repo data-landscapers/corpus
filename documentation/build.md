@@ -47,7 +47,7 @@ The cost of the other reading was **467 false *No evidence* rows across 22 units
 
 **Mapping is part of the move, not a separate job.** The progress report renders from `indicators.csv`, so a ledger the build moves and an `indicators.csv` it does not leaves that document stating a position the base no longer holds. Checks I and L test the frame's own consistency, not whether the mapping was done.
 
-**The three authoring rules in step 5 are stated where the writing happens**, because each fails invisibly. A citation on a summary block's opening sentence does not source the three that follow. The window selects rows by the publication date of the newest record they cite, so a July source restating a 2023 measurement puts its row in the monthly while the measurement belongs in the status report. And a carried narrative sentence describing a period that has moved on **passes every check** — finding it is the point of the revision.
+**The three authoring rules in step 5 are stated where the writing happens**, because each fails invisibly. A citation on a summary block's opening sentence does not source the three that follow. The window selects rows by the publication date of the newest record they cite, so a July source restating a 2023 measurement puts its row in the window while the measurement belongs in the status report. And a carried narrative sentence describing a period that has moved on **passes every check** — finding it is the point of the revision.
 
 **"Residue" is outcomes converted, never work deferred.** The counts in a log line are *Not held* rows written and claims struck — things the pass finished by stating them. A finding the pass could have cleared and did not is neither a finished outcome nor residue; it is unfinished work, and a run has no way to hand it on.
 
@@ -93,4 +93,4 @@ Integrity is maintained where the prose is written. A check in RENDER would be a
 
 `design.md` §8 carries the rule and the argument for retiring its gate. What follows for BUILD is that the rule is the drafter's, at the moment of writing, and that *Narrative integrity* and the register are where a lifted sentence is caught.
 
-**Report initialisation from the wiki** is deferred: `report-country-init.py` is the shell, the authoring is a session's model work, and the current ledgers are the accepted baseline. **Monthly narratives** — some monthly issues carry empty per-subject blocks, and authoring them is tracked.
+**Report initialisation from the wiki** is deferred: `report-country-init.py` is the shell, the authoring is a session's model work, and the current ledgers are the accepted baseline.

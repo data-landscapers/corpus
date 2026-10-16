@@ -193,7 +193,9 @@ def _num(s):
 # budgeting that document while every other check kept reporting normally. That is the shape the
 # rate line makes likelier, being a longer sentence than the flat one, so it is closed here.
 # A country's progress prose is budgeted per indicator, so the country skeleton does not name it.
-REQUIRED = {"country": {"status", "monthly"}, "region": {"progress", "monthly"}}
+# **The monthly carries no prose since 2026-10-16** (Bill: the bulletin's cards, not narrative),
+# so neither skeleton budgets it and a monthly is skipped below as a kind with no band.
+REQUIRED = {"country": {"status"}, "region": {"progress"}}
 
 
 def budgets(kind="country"):

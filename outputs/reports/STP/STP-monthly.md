@@ -1,28 +1,48 @@
 ---
 title: Sao Tome and Principe — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: STP
 ledger_rows: 1
 not_held: 6
-record: d7b43772a5e7
+record: 6643ca6bfd17
 ---
 
 # Sao Tome and Principe: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Sao Tome and Principe">
+<a href="https://corpus.data-landscapers.io/reports/STP/STP-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/STP/STP-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/STP/STP-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-The Internet Society's country page, read on 18 September, [gives the country an Internet Resilience Index score of 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44](https://pulse.internetsociety.org/en/resilience/ST).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+</div>
+</div>
+</nav>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
+<div class="monthly-story" markdown="1">
 
-An independent index put a number on how fragile the connection is. The Internet Society [scores the country's internet resilience at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44](https://pulse.internetsociety.org/en/resilience/ST), across infrastructure, market readiness, performance and security. It is the first such score the repository holds for the country.
-<!-- /narrative -->
+<p class="monthly-story__name">Internet Resilience Index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Internet Society Pulse: Sao Tome and Principe internet resilience](https://pulse.internetsociety.org/en/resilience/ST)** — Internet Society, 18 September 2026
+
+The Internet Society's resilience index scores São Tomé and Príncipe at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44, across infrastructure, market readiness, performance and security.
+
+</div>
+
+</div>

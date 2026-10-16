@@ -1256,6 +1256,148 @@ def render(unit, today):
                  f"{note_drop(dropped, unit)}", today)
 
 
+# ── the monthly's items ────────────────────────────────────────────
+#
+# **The monthly is the bulletin's format over one place and a month and a half** *(Bill,
+# 2026-10-16)*. It carried a narrative block per subject until then; it now carries the bulletin's
+# item cards — headline, publisher, date, summary — with no prose of its own. Two things are the
+# monthly's rather than the bulletin's:
+#
+# - **What is in it is the ledger's choice, not the catalogue's.** The items are the in-window
+#   sources of the rows that moved in the window, so the monthly still reports *what moved* — the
+#   catalogue tags Kenya on 348 records in September and October, the ledger moved on 193.
+# - **The ledger row is the story.** Sources cited by one row are reports of one development, so
+#   they sit together under the row's name, oldest first, and stories run in order of their first
+#   report. That grouping costs no model work: BUILD already made it when it attached each source
+#   to its row.
+#
+# A summary comes from the bulletin's store where the bulletin wrote one, and otherwise from the
+# record's own `catalogue_hero` line, which every record in `raw/` carries. An item cited by two
+# rows is written out once, under the first, and signposted from the second — the bulletin's rule.
+
+_BULLETIN = None
+
+
+def bulletin():
+    """`bulletin.py`, imported on first use: it is the one implementation of an item card."""
+    global _BULLETIN
+    if _BULLETIN is None:
+        import bulletin as mod
+        _BULLETIN = mod
+    return _BULLETIN
+
+
+def catalogue_items():
+    """{slug: record} from the published catalogue, with `hero` beside the catalogue columns."""
+    path = os.path.join(str(bulletin().CORPUS), "outputs", "catalogue", "raw-catalogue.json")
+    with open(path, encoding="utf-8") as fh:
+        items = json.load(fh)["items"]
+    out = {}
+    for i in items:
+        out[i["slug"]] = {
+            "slug": i["slug"], "title": i.get("title") or i["slug"],
+            "publisher": i.get("publisher") or "", "published": str(i.get("published") or ""),
+            "places": "; ".join(i.get("places") or []), "topics": "; ".join(i.get("topics") or []),
+            "url": i.get("url") or "", "hero": (i.get("catalogue_hero") or "").strip()}
+    return out
+
+
+# The three other documents a place has, in the order the country page lists them. A document is
+# linked only where its page exists, so a region — which has no status or hosting report — gets
+# the one it has. Maturity and finance join this list when they become per-place reports.
+SIBLINGS = (("status", "Status"), ("progress", "Progress"), ("hosting", "Institution hosting"))
+
+
+def sibling_nav(unit):
+    # The repository, not `ROOT`: BUILD runs this from the workroot, which carries no `site/`.
+    site = os.path.join(str(bulletin().CORPUS), "site", "reports", unit)
+    found = [(k, label) for k, label in SIBLINGS
+             if os.path.exists(os.path.join(site, f"{unit}-{k}.html"))]
+    if not found:
+        return []
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    base = bulletin().SITE_BASE
+    links = f"\n{sep}\n".join(f'<a href="{base}/reports/{unit}/{unit}-{k}.html">{label}</a>'
+                              for k, label in found)
+    return [f'<nav class="article-toc report-siblings" aria-label="Other reports for '
+            f'{place_name(unit)}">', links, "</nav>", ""]
+
+
+def topic_toc(tree):
+    """The contents: each Level-1 section on a line, its Level-2 subjects on the line below."""
+    slug = lambda label: bulletin().slugify(label, "-")
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    out = ['<nav class="monthly-toc" aria-label="Topics in this report">']
+    for section, subjects in tree:
+        l2 = f"\n{sep}\n".join(f'<a href="#{slug(lbl)}">{lbl}</a>' for lbl in subjects)
+        out += ['<div class="monthly-toc__group">',
+                f'<a class="monthly-toc__l1" href="#{slug(section)}">{section}</a>',
+                f'<div class="monthly-toc__l2">\n{l2}\n</div>', "</div>"]
+    return out + ["</nav>", ""]
+
+
+def monthly_body(unit, changed, ordered, subj, start, end):
+    """(lines, items written out) — the contents bars, then sections of story-grouped cards."""
+    bul = bulletin()
+    cat, store, names = catalogue_items(), bul.load_store(), bul.place_names()
+
+    def story(r):
+        seen, items = set(), []
+        for s in (r.get("sources") or "").split("|"):
+            s = s.strip()
+            if s and s not in seen and s in cat and in_window(slug_date(s), start, end):
+                seen.add(s)
+                items.append(cat[s])
+        return sorted(items, key=lambda i: (slug_date(i["slug"]), i["title"].lower()))
+
+    tree, plan = [], []
+    for _, section, _key in ordered:
+        subjects = []
+        for subject, rows in by_subject([r for r in changed if section_of(r, subj) == section]):
+            stories = [(r, story(r)) for r in rows]
+            stories = sorted(((r, i) for r, i in stories if i),
+                             key=lambda ri: (slug_date(ri[1][0]["slug"]), ri[0]["name"].lower()))
+            if stories:
+                subjects.append((taxonomy_lib.label(subject), stories))
+        if subjects:
+            tree.append((section, [lbl for lbl, _ in subjects]))
+            plan.append((section, subjects))
+
+    def card(item, home):
+        row = dict(item, places="; ".join(c for c in bul.facets(item["places"]) if c != unit))
+        cls = "bulletin-item" if home is None else "bulletin-item bulletin-item--xref"
+        if len(item["published"]) == 10:
+            head = bul.head_line(row, names)
+        else:   # a month- or year-precision record prints the precision it has, not a padded day
+            head = (f"**[{bul.md_escape(row['title'])}]({row['url']})** — {row['publisher']}, "
+                    f"{row['published']} {bul.place_boxes(row, names)}").rstrip()
+        out = [f'<div class="{cls}" markdown="1">', "", head, ""]
+        if home is not None:
+            out += [f"Summarised under {bul.link_to(home)}.", ""]
+        else:
+            text = (store.get(item["slug"]) or {}).get("summary") or item["hero"]
+            if text and text[-1] not in ".!?":
+                text += "."     # a hero line is written as a caption; on the page it is a sentence
+            if text:
+                out += [text, ""]
+        return out + ["</div>", ""]
+
+    lines = sibling_nav(unit) + topic_toc(tree)
+    placed = {}
+    for section, subjects in plan:
+        lines += [f"## {section}", ""]
+        for label, stories in subjects:
+            lines += [f"### {label}", ""]
+            for r, items in stories:
+                lines += ['<div class="monthly-story" markdown="1">', "",
+                          f'<p class="monthly-story__name">{bul.md_escape(r["name"])}</p>', ""]
+                for item in items:
+                    lines += card(item, placed.get(item["slug"]))
+                    placed.setdefault(item["slug"], label)
+                lines += ["</div>", ""]
+    return lines, len(placed)
+
+
 def render_monthly(unit, today, month, end=None):
     """Monthly — what moved in the window, dated. No maturity verdicts; those are the status's.
 
@@ -1274,7 +1416,6 @@ def render_monthly(unit, today, month, end=None):
     start, end = month_bounds(month, 1, end or today)
     changed = moved_in(ledger, start, end)
     ordered, subj = sections(unit)
-    block, keep, dropped = blocker(path, subj)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     # **The title names both months the window covers** *(Bill, 2026-08-25)*. A monthly opens on
@@ -1295,46 +1436,24 @@ def render_monthly(unit, today, month, end=None):
             f"report.*",
             "",
         ]
-        return write(path, out, unit, f"nil — no row moved in {start} to {end}, "
-                     f"{note_drop(dropped, unit)}", today, end)
-    # No table: §5. A monthly is developments, dated and cited, section by section — a table of
-    # rows that moved restates the ledger without telling a reader what happened.
+        return write(path, out, unit, f"nil — no row moved in {start} to {end}", today, end)
+    # No table and no prose: the bulletin's cards, grouped by the ledger row they moved
+    # (`monthly_body()` above, *Bill, 2026-10-16*). A section with nothing in it is not printed
+    # at all *(Bill, 2026-08-14)*: the monthly reports what moved, and a heading over nothing is
+    # a finding about the window rather than the place.
+    body, items = monthly_body(unit, changed, ordered, subj, start, end)
     out = front(f"{name} — monthly update, {pretty}", today, unit, len(changed), not_held,
                 period=f"{start} to {CLOSE}") + [
         f"# {name}: monthly update, {pretty}",
         "",
-        # **The window is described, not dated** *(Bill, 2026-08-25)*. The two ISO dates were the
-        # same window the line above and the `period:` field already state, printed a third time
-        # in the one place a reader arrives at first. What that reader needs from the opening
-        # sentence is what the document covers, and "since the beginning of last month" says it in
-        # the terms the country page's blurb uses, so the two agree without either citing a date
-        # that moves nightly.
-        "*Developments summarised from sources published between the beginning of last month and "
-        "today.*",
+        # **The window is described, not dated** *(Bill, 2026-08-25)*: the dates are already in
+        # the title and `period:`, and this is the sentence the country page's blurb agrees with.
+        "*Developments reported in sources published between the beginning of last month and "
+        "today, grouped by story, oldest first.*",
         "",
-        "## Summary of the month",
-        "",
-        block("summary"),
-    ]
-    for _, section, key in ordered:
-        srows = [r for r in changed if section_of(r, subj) == section]
-        groups = by_subject(srows)
-        # **A section with nothing in it is not printed at all** *(Bill, 2026-08-14)*. Only the
-        # status report states an absence, because only there is "no rows on this subject" a
-        # finding about the place. In a monthly it is a finding about the window — nothing moved
-        # this month — and a heading over an empty box is what handed the drafter 142 blocks to
-        # fill with nothing. Silence is correct: the monthly reports what moved.
-        if not groups:
-            continue
-        out += ["", f"## {section}", ""]
-        # One narrative block per subject that actually moved this month, in taxonomy order.
-        # A subject the section maps but that had nothing move gets no sub-heading and no block.
-        for subject, _srows in groups:
-            subkey = f"{key}--{subject.replace('.', '-')}"
-            out += [f"### {taxonomy_lib.label(subject)}", "", block(subkey)]
-    out.append("")
-    return write(path, out, unit, f"{len(changed)} row(s) in {start} to {end}, "
-                 f"{note_drop(dropped, unit)}", today, end)
+    ] + body
+    return write(path, out, unit, f"{len(changed)} row(s), {items} item(s) in {start} to {end}",
+                 today, end)
 
 
 def render_progress_movement(unit, today, month, window, end=None):

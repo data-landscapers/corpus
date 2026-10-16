@@ -1,102 +1,360 @@
 ---
 title: Equatorial Guinea — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: GNQ
 ledger_rows: 16
 not_held: 6
-record: eeec89d3b8db
+record: a9993250137a
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Equatorial Guinea">
+<a href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/GNQ/GNQ-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-Facebook and TikTok [have been blocked, with bandwidth throttled, since 2 September](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html). The government [launched a satellite broadband service on 9 September and ordered its sales routed through the state operator](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). The Chamber of Deputies [approved a revision of the press law unanimously on 11 September](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno), and [four criminal complaints were lodged on 16 September under the 2024 law on social media and computer crime](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas). The statistics institute [presented its ninth national yearbook on 25 September](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
+<div class="monthly-toc__l2">
+<a href="#access-to-services">Access to services</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#national-statistics">National statistics</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
+<div class="monthly-toc__l2">
+<a href="#eu-activities">EU activities</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Strategies, plans and policies
 
-<!-- narrative: governance--gov-policy -->
-Two plans and no strategy is still the position. The transport ministry's [half-year plan sets the country's first published broadband target, 85 per cent coverage through 34 new towers by the end of 2026](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_transportes_presenta_su_plan_semestral_para_fortalecer_la_conectividad_terrestre_postal_y_digital), and a [World Bank team opened a four-day session in Malabo in early September to finalise a national digital economy strategy](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial) — on a diagnostic that found [no interoperability framework and no digital skills data held](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Ministerio de Telecomunicaciones acelera la transformación digital con el respaldo del Grupo Banco Mundial](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial)** — Oficina de Información y Prensa de Guinea Ecuatorial, 2 September 2026
+
+World Bank team opens 4-day Malabo session to finalise national digital-economy strategy.
+
+</div>
+
+</div>
+
 ### Legislation and regulation
 
-<!-- narrative: governance--gov-legislate -->
-The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
+<div class="monthly-story" markdown="1">
 
-The 2024 social-media and computer-crime law was used in court for the first time on the public record. On 16 September lawyers for the vice-president [lodged four criminal complaints at a Malabo investigating court against a digital newspaper's journalist and three others under articles 2, 50 and 60](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas), using article 2 to reach conduct committed outside the country. The complaints came while Facebook and TikTok remained blocked.
+<p class="monthly-story__name">Taxation of foreign digital platforms</p>
 
-[A Senate committee approved by consensus its final report on the press freedom bill and sent it to the plenary](https://ahoraeg.com/politica/2026/10/08/la-nueva-ley-de-libertad-de-prensa-avanza-al-pleno-del-senado-tras-el-consenso-alcanzado-por-la-comision/).
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno exige a Meta tributar en Guinea Ecuatorial y ordena centralizar la comercialización de Starlink en ORTEL](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/)** — AHORAEG, 9 September 2026
+
+ORTEL given sole legal authority to sell Starlink under the AI state secretariat, and a commission to open Meta talks.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée équatoriale : contribution des plateformes numériques en discussion](https://www.wearetech.africa/fr/fils/actualites/tech/guinee-equatoriale-contribution-des-plateformes-numeriques-en-discussion)** — wearetech.africa, 10 September 2026
+
+Equatorial Guinea intends a mechanism letting the state capture part of the revenue large digital platforms generate in its market, a question sharpened where companies operate from abroad. The vice-president asked in Malabo for talks to be opened with one such platform and with comparable alternatives.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Press law revision</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Camara de los Diputados ha aprobado tres proyectos de leyes presentados por el Gobierno](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno)** — Pagina Oficial del Gobierno de la Republica de Guinea Ecuatorial, 11 September 2026
+
+Mining reform creates Registro Minero, Catastro Minero, Registro Digital Geologico; press bill covers digital journalism.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La nueva Ley de Libertad de Prensa avanza al Pleno del Senado tras el consenso alcanzado por la comisión](https://ahoraeg.com/politica/2026/10/08/la-nueva-ley-de-libertad-de-prensa-avanza-al-pleno-del-senado-tras-el-consenso-alcanzado-por-la-comision/)** — AHORAEG, 8 October 2026
+
+Senate committee consensus; digital journalists covered, access-to-information right, ORTEL split, press college.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite broadband sales routed through the regulator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Equatorial Guinea: Starlink sales to run via ORTEL](https://tech.africa/equatorial-guinea-starlink-ortel/)** — Tech.Africa, 15 September 2026
+
+All satellite internet sales are to run through the telecommunications regulator, under the supervision of the artificial intelligence state secretariat, and contracts citizens obtained outside official channels are to be cancelled, decided at a working session on 9 September.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ley 7/2024 on social media and computer crime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El despacho que representa a S.E. Nguema Obiang Mangue explica las acciones contra Diario Rombe y otras tres personas](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)** — Oficina de Informacion y Prensa de Guinea Ecuatorial, 17 September 2026
+
+Four criminal complaints lodged 2026-09-16 in Malabo under articles 2 and 60 of Ley 7/2024, reaching conduct abroad.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
-<!-- narrative: governance--gov-discourse -->
+<div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Prosecution and anti-corruption commission coordination protocol</p>
 
-Two enforcement bodies agreed to exchange information rather than to publish any. The attorney general's office and the national anti-corruption commission [agreed a permanent coordination mechanism on 3 September: institutional liaison points for continuous contact, an information-exchange protocol and periodic reviews](https://realequatorialguinea.com/sociedad/fiscalia-y-comision-anticorrupcion-pactan-coordinacion-permanente-para-luchar-contra-la-corrupcion-en-guinea-ecuatorial/). No protocol text, data categories, safeguards or first review date is published, and neither body publishes a caseload against which any of it could be read.
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[Fiscalía y Comisión Anticorrupción pactan coordinación permanente para luchar contra la corrupción en Guinea Ecuatorial](https://realequatorialguinea.com/sociedad/fiscalia-y-comision-anticorrupcion-pactan-coordinacion-permanente-para-luchar-contra-la-corrupcion-en-guinea-ecuatorial/)** — Revista Real Equatorial Guinea, 4 September 2026
+
+Liaison points, an information-exchange protocol and periodic reviews agreed at a first institutional meeting.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
+<div class="monthly-story" markdown="1">
 
-Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions. [The Vice-President instructed the finance ministry on 7 October 2026 to investigate and expedite the financing file for the operator's network agreement with the vendor, slowed by Treasury payment arrears to the operator](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
-<!-- /narrative -->
+<p class="monthly-story__name">Starlink service and its centralised distribution</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[El Gobierno exige a Meta tributar en Guinea Ecuatorial y ordena centralizar la comercialización de Starlink en ORTEL](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/)** — AHORAEG, 9 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée équatoriale / Internet satellitaire : Starlink officiellement lancé](https://agpgabon.ga/guinee-equatoriale-internet-satellitaire-starlink-officiellement-lance/)** — Agence Gabonaise de Presse, 9 September 2026
+
+Vice-president announces the launch on X; sales and distribution to be centralised and prior connections deactivated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Block on Facebook and TikTok with throttled bandwidth</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée équatoriale : coupure de Facebook et TikTok](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html)** — Seneweb, 16 September 2026
+
+Facebook and TikTok have been unreachable in Equatorial Guinea without a VPN since 2 September 2026, with internet speeds throttled, AFP reports. The restrictions followed a viral video accusing Vice-President Teodoro Nguema Obiang of corruption; its author was arrested.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GETESA network modernisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GETESA ahorrará 262 millones de francos CFA al mes para reinvertirlos en la mejora de la red nacional](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/)** — AhoraEG, 8 October 2026
+
+Huawei network deal slowed by Treasury arrears; Vice-President orders finance file expedited, 7 Oct 2026.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The Vice-President [named the alleged members of a network leaking official documents of the Presidency of the Government, alleging that a registry official extracted several years of administrative files and handed over a hard drive on the pretext of a project to digitise the Presidency's archives](https://realequatorialguinea.com/destacado/politica/el-vicepresidente-revela-nombres-vinculados-a-una-presunta-masiva-filtracion-de-documentos-oficiales-de-guinea-ecuatorial/). The account is the government's own, and no judicial finding is on file.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Alleged leak of official documents of the Presidency of the Government</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El vicepresidente revela nombres vinculados a una presunta masiva filtración de documentos oficiales de Guinea Ecuatorial](https://realequatorialguinea.com/destacado/politica/el-vicepresidente-revela-nombres-vinculados-a-una-presunta-masiva-filtracion-de-documentos-oficiales-de-guinea-ecuatorial/)** — Revista Real Equatorial Guinea, 9 October 2026
+
+Registry official alleged to have handed archive hard drive to outsider under digitisation pretext; government's account.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Digital Payments and Fintech
 
-<!-- narrative: dpi--dpi-pay -->
-The one payments instrument in the window is a standing one, surfaced by a sales pitch: a [Presidency order of 2025 prohibits cash collection of any tax, fee or contribution in the administration, requiring official bank accounts or authorised electronic platforms](https://www.guineaecuatorialpress.com/noticias/reunion_en_el_ministerio_de_transportes_sobre_la_propuesta_para_digitalizar_el_pago_de_impuestos_en_la_administracion_publica), cited when a domestic e-wallet provider presented itself to the transport ministry as a collection channel. The order's text, and whether collection has moved off cash, are not in the record held.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidency Order 3/2025 prohibiting cash collection of state revenue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Reunión en el Ministerio de Transportes sobre la propuesta para digitalizar el pago de impuestos en la Administración Pública](https://www.guineaecuatorialpress.com/noticias/reunion_en_el_ministerio_de_transportes_sobre_la_propuesta_para_digitalizar_el_pago_de_impuestos_en_la_administracion_publica)** — Guinea Ecuatorial Press, 28 September 2026
+
+An Equatorial Guinean e-wallet provider presented itself to the transport ministry as a channel for collecting state revenue, citing a 2025 Presidency order that bans cash payment of any tax or fee in the administration. The company is seeking a favourable technical review.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
-<!-- narrative: dpi--dpi-mis -->
-Customs also appears on a list of intended work: [an undated page of the PAMFP public finance reform programme names a second phase of the SYDONIA customs software for Bata, Mongomo, Ebebiyin, Corisco, Aconibe, Cogo and Rio Campo, with computer equipment and network links to carry it beyond Malabo](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/). No installation, cost or timetable is attached to it.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SYDONIA customs system extension outside Malabo</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Support for the Reinforcement of the mobilization of non-oil revenues](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/)** — PAMFP, 15 September 2026
+
+An undated page from Equatorial Guinea's public-finance modernisation programme sets out plans for a unique taxpayer identification number and an integrated revenue system linking the tax, customs and treasury administrations. It also lists extending the SYDONIA customs system to seven sites outside Malabo; no timetable or delivery status is given.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
-<!-- narrative: dpi--dpi-govtech -->
-The government [announced a digital edition of the official gazette with free online access and search](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Boletin Oficial del Estado</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno pone en marcha el Boletín Oficial del Estado digital](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital)** — Guinea Ecuatorial Press (Oficina de Información y Prensa), 6 October 2026
+
+Equatorial Guinea's government announced a digital edition of its official gazette at boe.gob.gq, giving free online access to laws, decrees, ministerial orders and circulars with search of past publications.
+
+</div>
+
+</div>
 
 ## Inclusion
 
 ### Access to services
 
-<!-- narrative: inclusion--include-access -->
-The refugee agency's rights mapping put an absence on the record this month: [Equatorial Guinea has acceded to the refugee treaties and enacted no domestic status determination law](https://rimap.unhcr.org/countries/equatorial-guinea), so no registration or documentation system follows from one.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Refugee legal framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Equatorial Guinea | Rights Mapping and Analysis Platform](https://rimap.unhcr.org/countries/equatorial-guinea)** — United Nations High Commissioner for Refugees (UNHCR), Rights Mapping and Analysis Platform, 2 September 2026
+
+UNHCR platform: Equatorial Guinea has no domestic refugee-status law despite treaty accession.
+
+</div>
+
+</div>
 
 ## Data
 
 ### National statistics
 
-<!-- narrative: data--data-statistics -->
-The statistics institute went out to the ministries rather than waiting for their returns. A [ministry-by-ministry supervision tour of statistical services began on 2 September at the interior and education ministries and runs to 9 September, ordered by the national statistics council's eighth session of 27 August, to assess each service's state and consolidate the national statistical system](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/). No findings, service inventory or report from the tour is published, and the account is the institute's own.
+<div class="monthly-story" markdown="1">
 
-On 25 September INEGE [presented the ninth national statistical yearbook, covering the last five years](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/), naming weak administrative registers, undigitised processes and poor interoperability between information systems among its outstanding challenges. It restated the plan for the fifth population census and the first agricultural census without giving dates.
-<!-- /narrative -->
+<p class="monthly-story__name">Statistics from administrative records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE inicia una gira por los servicios estadísticos de los ministerios para consolidar el Sistema Estadístico Nacional](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/)** — Revista Real Equatorial Guinea, 3 September 2026
+
+Ministry-by-ministry audit of statistical units to 9 Sept, ordered by the CNE's eighth session of 27 Aug 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE presenta la novena edición del Anuario Estadístico y llama a convertir los datos en decisiones](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/)** — AHORAEG, 25 September 2026
+
+Equatorial Guinea's statistics institute INEGE presented the ninth edition of the national Statistical Yearbook in Malabo, covering the last five years. It named stronger administrative registers, digitised processes and interoperable information systems as outstanding challenges, and announced a fifth population and housing census and a first agricultural census, with no dates.
+
+</div>
+
+</div>
 
 ## Geopolitics
 
 ### EU activities
 
-<!-- narrative: geopolitics--geopol-eu -->
-The Commission's own country page states the position plainly: [no European Union delegation and no country programme for Equatorial Guinea, with ties run from a neighbouring capital](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">European Union digital cooperation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial - Asociaciones Internacionales - Comisión Europea](https://international-partnerships.ec.europa.eu/countries/equatorial-guinea_es)** — Comisión Europea, Dirección General de Asociaciones Internacionales (DG INTPA), 2 September 2026
+
+EU has no delegation and no NDICI programme for Equatorial Guinea; ties run via Yaoundé.
+
+</div>
+
+</div>

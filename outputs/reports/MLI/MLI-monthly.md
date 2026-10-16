@@ -1,90 +1,314 @@
 ---
 title: Mali — monthly update, September – October 2026
-compiled: 2026-10-12
-period: 2026-09-01 to 2026-10-12
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: d17fb0aef4e1
+record: b6cdede1a4a5
 ---
 
 # Mali: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Mali">
+<a href="https://corpus.data-landscapers.io/reports/MLI/MLI-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/MLI/MLI-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/MLI/MLI-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-The transition president [inaugurated a centre for artificial intelligence and robotics at Kati Sirakoro Niare on 21 September](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/). The telecoms regulators of the three confederation states [signed a cooperation convention, reported on 26 September](https://lefaso.net/spip.php?article149528). The data protection authority [signed a cooperation agreement with Togo's on 23 September](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise) and [presented its regional offices to Benin's authority on 4 September](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/). An AI provider's September misuse report [disclosed a domestic surveillance platform named Lakana 360](https://www.anthropic.com/threat-intelligence-report-september-2026).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ai">AI</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#capacity">Capacity</a>
+<div class="monthly-toc__l2">
+<a href="#training-and-skills">Training and skills</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#national-statistics">National statistics</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Data protection
 
-<!-- narrative: governance--gov-protect -->
-The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
+<div class="monthly-story" markdown="1">
 
-The authority's cooperation with Benin produced its first recorded joint action: [Benin's First Rapporteur visited on 4 September for an exchange on compliance tools, regulatory standards, communication and Mali's regional offices at Kayes, Sikasso, Ségou and Mopti](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/). No joint instrument or work plan from it is on record.
+<p class="monthly-story__name">Lakana 360 domestic surveillance platform</p>
 
-On 23 September the authority [signed a cooperation agreement with Togo's personal-data authority](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise) providing for information exchange, cooperation on complaints handling and compliance checks, and staff training; the talks also covered cross-border data transfers, cybersecurity and artificial intelligence.
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)** — Anthropic, 1 September 2026
+
+Claude built Lakana 360, a warrant-free platform surveilling ~25m Malian SIMs for state intelligence agency ANSE.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Autorite de Protection des Donnees a caractere Personnel</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a>
+
+Benin APDP's First Rapporteur visits Mali APDP, 4 Sept 2026; compliance tools and Mali's four regional offices.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Benin and Mali data-protection cooperation</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BEN/" title="BEN">Benin</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Togo and Mali data-protection cooperation agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Togo's personal data protection authority (IPDCP) and Mali's APDP signed a cooperation agreement on 23 September covering information exchange, joint handling of complaints and compliance checks, and staff training. Their talks also touched on cross-border data transfers, cybersecurity and AI.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
-<!-- narrative: governance--gov-regional -->
-The Burkinabè, Malian and Nigerien telecommunications regulators [signed a cooperation convention creating a Council of Sahel Regulators, reported on 26 September](https://lefaso.net/spip.php?article149528), covering free roaming, frequency coordination at the borders, mutual recognition of type-approved equipment and coordinated 5G introduction; its statutes and first work programme are still to be adopted. They had [announced the signing on 23 September](https://lefaso.net/spip.php?article149443).
+<div class="monthly-story" markdown="1">
 
-The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model. The West African body's [page for its regional fibre infrastructure programme](https://sigtel.ecowas.int/regional-fiber-infrastructure/) is held as at September 2026. The country withdrew from the body in January 2025, and nothing on the page says what that leaves of its participation.
-<!-- /narrative -->
+<p class="monthly-story__name">Common regional framework for regulating social media</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Souverainete numerique : l''AES vers une regulation commune des reseaux sociaux](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/)** — Mali24, 3 September 2026
+
+Burkina Faso's referentiel put forward as the AES model, with trusted flaggers and timed takedowns.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional fibre infrastructure programme after the ECOWAS withdrawal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regional Fiber Infrastructure | Economic Community of West African States (ECOWAS)](https://sigtel.ecowas.int/regional-fiber-infrastructure/)** — Economic Community of West African States (ECOWAS) — SIGTEL, 3 September 2026
+
+ECOWAS inventory: Mali has one IXP in Bamako, no cable landing, data-centre status unconfirmed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cooperation convention of the confederation telecommunications regulators (Conseil des Régulateurs du Sahel)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+
+The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperation agreement in Ouagadougou on 25 September creating a Sahel Regulators' Council. It covers roaming within the Alliance of Sahel States, consumer protection, cybersecurity, spectrum, mutual recognition of type-approved equipment and joint positions in international bodies.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NER/" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+
+Burkina, Mali, Niger regulators sign convention: five priorities, free roaming, border spectrum, coordinated 5G.
+
+</div>
+
+</div>
+
 ### Standards
 
-<!-- narrative: governance--gov-standards -->
-The standards agency's fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malian standardisation and quality promotion agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - AMANORM - Agence Malienne de Normalisation et de Promotion de la Qualité](https://www.iso.org/fr/member/1915.html)** — Organisation internationale de normalisation (ISO), 3 September 2026
+
+ISO's own record: AMANORM is Mali's standards body, also in ECOSHAM, ECOQUAL, UEMOA quality.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
-<!-- narrative: governance--gov-discourse -->
-The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Speech prosecutions before the cybercrime pole</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybercriminalité : le journaliste Abdrahamane Keïta condamné à deux ans de prison ferme](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html)** — Maliweb, 14 September 2026
+
+Mali's cybercrime tribunal sentenced journalist Abdrahamane KeÃ¯ta, publication director of Le TÃ©moin, to two years in prison and 1 million CFA francs in damages over a television remark about Kidal. He has been detained since June, and his defence intends to appeal.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Senegal-Mali national backbone interconnection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+Senegal's and Mali's state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October, to secure and diversify routes between the two countries. No capacity or cost is given.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Sectoral management information systems
 
-<!-- narrative: dpi--dpi-mis -->
-The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028.
+<div class="monthly-story" markdown="1">
 
-The education ministry [validated the specification and mock-up of a portal to manage teacher postings and attendance](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html), under a project funded by the European Union and run by NGOs. No build contract or launch date is stated.
-<!-- /narrative -->
+<p class="monthly-story__name">National digital health portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SNISI | À propos de ce système](https://snisi.sante.gov.ml/about)** — Agence Nationale de Télésanté et d'Informatique Médicale (ANTIM), Ministère de la Santé du Mali, 3 September 2026
+
+ANTIM's own account of Mali's unified health-data platform replacing siloed NGO systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teacher mobility management portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Education : le Mali digitalise la gestion de la mobilité des enseignants](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html)** — Malijet, 17 September 2026
+
+29 July 2026 workshop validated the functional mock-up of an EU-funded teacher-mobility portal.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### AI
 
-<!-- narrative: technology--tech-ai -->
-The transition president [inaugurated a centre for artificial intelligence and robotics on 21 September 2026 on a 50-hectare site at Kati Sirakoro Niare](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/), with teaching facilities, dormitories and a fabrication and assembly workshop, financed from the national budget at FCFA 3.3bn.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Centre d'intelligence artificielle et de robotique</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nouvelles technologies : Le Mali se dote d’un centre d’intelligence artificielle et de robotique](https://burkina24.com/2026/09/21/nouvelles-technologies-le-mali-se-dote-dun-centre-dintelligence-artificielle-et-de-robotique/)** — Burkina24, 21 September 2026
+
+Transition president Assimi Goïta opened Mali's artificial intelligence and robotics centre, CIAR-Mali, at Kati on 21 September 2026. He had laid its foundation stone on 7 June 2023. The 50-hectare site has six buildings, including teaching space, dormitories and a workshop for building intelligent systems, and cost FCFA 3.3 billion, all from the national budget.
+
+</div>
+
+</div>
 
 ## Capacity
 
 ### Training and skills
 
-<!-- narrative: capacity--capacity-training -->
-The youth digital skills convention delivered its [first cohort of 1,000, in bursaried four-month training toward a target of 15,000 over three years](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital-skills programme for 15,000 young people</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kabakoo académies et la DNEN lancent la première cohorte de leur partenariat pour renforcer les compétences numériques des jeunes au Mali](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html)** — Maliweb, 9 September 2026
+
+First cohort of 1,000 under a three-year convention signed 2026-01-31 to train 15,000 youth; four months, bursaried.
+
+</div>
+
+</div>
 
 ## Data
 
 ### National statistics
 
-<!-- narrative: data--data-statistics -->
-The Council of Ministers [took note on 9 October 2026 of the fourth Schéma Directeur de la Statistique and its action plan for 2026 to 2030, on a written communication from the economy and finance minister](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). It sets four axes: [management of the national statistical system, its capacity, statistical production, and analysis with modernised dissemination and use](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/). The text is not held.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fourth Schéma Directeur de la Statistique and its 2026-2030 action plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mali : Communiqué du conseil des ministres du vendredi 9 octobre 2026 - CM N°2026-40/SGG](https://icimali.com/mali-communique-du-conseil-des-ministres-du-vendredi-9-octobre-2026-cm-n2026-40-sgg46239-2/)** — Icimali (communiqué du Secrétariat Général du Gouvernement), 10 October 2026
+
+Fourth statistics master plan and 2026-2030 action plan noted on four axes; digital minister's Cairo mission reported.
+
+</div>
+
+</div>

@@ -1,160 +1,886 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: AGO
 ledger_rows: 44
 not_held: 6
-record: ca06599179bc
+record: 5e9bee6b7ca4
 ---
 
 # Angola: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Angola">
+<a href="https://corpus.data-landscapers.io/reports/AGO/AGO-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/AGO/AGO-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/AGO/AGO-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/). The statistics institute [put a revision of the statistics law and a draft 2026-2032 statistics strategy to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/). The state operator [inaugurated the first link of the national broadband network at Lobito on 16 September](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/), and the registries director [put identity cards issued at home and abroad at 17,166,000](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). The Constitutional Court [opened a limited tender on 22 September for its candidate-registration platform](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#finance">Finance</a>
+<div class="monthly-toc__l2">
+<a href="#new-investments">New investments</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#capacity">Capacity</a>
+<div class="monthly-toc__l2">
+<a href="#training-and-skills">Training and skills</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
+<div class="monthly-toc__l2">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#national-statistics">National statistics</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
+<div class="monthly-toc__l2">
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Legislation and regulation
 
-<!-- narrative: governance--gov-legislate -->
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026 gives the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/). [The telecommunications ministry said a national commission would be formed to create, within 180 days, the conditions to implement the National Cybersecurity Centre](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National statistical system law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INE inicia recolha de contribuições para nova Lei Estatística](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/)** — Angop (Angola Press Agency), 29 September 2026
+
+Angola's statistics institute opened a public consultation, running to 2 October, on a revision of the national statistics law and a new national strategy for the development of statistics.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nova Lei da Cibersegurança impõe registo e notificação de incidentes a operadores](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/)** — PTI, 2 October 2026
+
+Angola's cybersecurity law has been published as Lei n.º 9/26 of 28 September and is in force, revoking the 2017 law. Operators of critical infrastructure, essential services, electronic communications, data centres and cloud services must register with the National Cybersecurity Centre within 180 days, set up incident response teams and notify significant incidents to CERT.ao.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature and certification regime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Lourenço recebe autorização para estabelecer regime da assinatura electrónica](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/)** — PTI, 8 October 2026
+
+Angola's Law 12/26 of 2 October authorises the President to legislate the regime for electronic signatures and digital certification and the rules of the national public key infrastructure, within 90 days.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National cybersecurity centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MINTTICS apresenta Estratégia Nacional de Cibersegurança no CyberSecur Summit 2026](https://pti.ao/minttics-apresenta-estrategia-nacional-de-ciberseguranca-no-cybersecur-summit-2026/)** — PTI, 12 October 2026
+
+Six strategic objectives; 180-day commission to prepare the National Cybersecurity Centre; CyberSecur Summit, Luanda.
+
+</div>
+
+</div>
+
 ### Data protection
 
-<!-- narrative: governance--gov-protect -->
+<div class="monthly-story" markdown="1">
 
-The data protection agency's own register now gives the full run of its penalties: [15 sanctions between 2022 and 2026, from US$75,000 to US$525,000, with banks, telecoms operators, the national airline and the Luanda water utility among those fined](https://apd.ao/ao/gca/index.php?id=218&preview=1).
-<!-- /narrative -->
+<p class="monthly-story__name">Published data-protection fines</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deliberação sobre processos contravencionais](https://apd.ao/ao/gca/index.php?id=218&preview=1)** — Agência de Protecção de Dados, 11 October 2026
+
+Angola's data protection agency publishes its register of fines: 15 sanctions between 2022 and 2026, from US$75,000 to US$525,000, with banks, telecoms operators, the national airline and the Luanda water utility among those penalised. The largest 2026 fine was for storing personal data in a cloud abroad without authorisation.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
-<!-- narrative: governance--gov-regional -->
-Angola is one of 49 states that signed, with the European Space Agency, [a declaration that Earth- and Universe-observation satellite data should be accessible to all under open licences, save justified exceptions](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data), published on 10 September.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">International declaration on space-based scientific data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+
+49 signatory states plus ESA, among them Angola, DR Congo, Madagascar, Mauritius, Rwanda, Tunisia; open licences, FAIR.
+
+</div>
+
+</div>
 
 ## Finance
 
 ### New investments
 
-<!-- narrative: finance--finance-new -->
-A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/) under the World Bank's tertiary education project, with no per-institution split or results framework published. [The project's appraisal, dated November 2023, itemises US$10m to digitalise higher-education services, US$15m for a national research and education network and US$15m for the sector's management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf).
+<div class="monthly-story" markdown="1">
 
-The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html). The regional programme's half-year report [records the three memoranda that are withdrawal conditions under the digital acceleration loan signed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), for broadband, digital inclusion and digital identification, with 17 contracts signed, 29 tenders under way and about US$100m available to spend; coordination with the ICT ministry on the broadband component is the stated obstacle.
-<!-- /narrative -->
+<p class="monthly-story__name">Tertiary Education, Science and Technology Project (TEST)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sete instituições do ensino superior recebem mais 20 milhões de dólares](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/)** — ANGOP — Agência Angola Press, 6 September 2026
+
+US$20,470,284 split across seven Angolan higher-education institutions under TEST's second results-based funding round.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola Tertiary Education, Science, and Technology Project (TEST) — Project Appraisal Document](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)** — World Bank (mirrored by Angola's public consultation portal), 15 November 2023
+
+World Bank PAD for Angola's $550m TEST higher-education programme — NREN, EMIS and digital competency.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">US EXIM loan to Africell for network technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões de dólares à Africell para investimento em tecnologia em Angola](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html)** — Novo Jornal, 11 September 2026
+
+US$99.6m EXIM loan for Africell network technology in Angola, framed as diversifying Angola's technology sources.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital acceleration project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-The national fibre network [opened its first link at Lobito on 16 September](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/), a DWDM route from Luanda through Bengo and Cuanza Sul, with Huambo, Namibe and Cabinda named next; the same day [a fibre-to-the-home service went live for a 1,000-dwelling housing centre at Baia Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/). The ministry [put the section completed to Lobito at about 400 Gb](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/). Separately the national radio [finished the Luanda phase of a transmitter programme meant to raise coverage from 63 to 76 per cent of the population](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/).
+<div class="monthly-story" markdown="1">
 
-The incumbent operator [reported more than 21.2 million subscribers and 12,302 base stations for the first half of 2026, with 5G extended to Namibe, Malanje, Kwanza Sul, Zaire and Cabinda](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/), on its own figures.
+<p class="monthly-story__name">Domestic submarine cable</p>
 
-The national cable company [began deploying new optical equipment across its South Atlantic and MONET submarine systems](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology), adding 800G interfaces on a 12,780 km Angola-United States route at 130 ms round trip, on the equipment vendor's announcement of 29 September. No capacity total or completion date is stated.
+<div class="bulletin-item" markdown="1">
 
-A reseller of the licensed low-orbit service and a local technology firm [opened a point of presence in Luanda for the Twoobii OneWeb service, giving in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/), reported on 14 October and sold to banks, government, defence and enterprises.
-<!-- /narrative -->
+**[Governo pretende estender fibra óptica a todo o país](https://angop.ao/noticias/tecnologia/governo-pretende-estender-fibra-optica-a-todo-o-pais/)** — ANGOP, 2 September 2026
+
+Minister Mario Oliveira announces a domestic submarine cable linking coastal city networks, Sept 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operator fibre network in Benguela</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministro Mário Oliveira inaugura ZAP Fibra em Benguela](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-inaugura-zap-fibra-em-benguela/)** — Angop - Agência Angola Press, 2 September 2026
+
+Angola's telecommunications ministry inaugurated an operator's fibre network in Benguela province, the operator having installed a data centre at Lobito as the platform behind its internet and television services along the coastline. The minister named nationwide fibre coverage as the objective and said a submarine cable landing at Benguela is being prepared.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Benguela backbone link with a private operator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mário Oliveira testemunha lançamento do primeiro link de banda larga na Restinga](https://pti.ao/mario-oliveira-testemunha-lancamento-do-primeiro-link-de-banda-larga-na-restinga/)** — PTI (Portal das Tecnologias de Informação, Angola), 15 September 2026
+
+Ministry agenda dating the Restinga launch to Wednesday 16 September; names MSTelcom as partner.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mercury e Angola Telecom reforçam conectividade em Bengula com novo link de Banda Larga](https://pocnoticias.ao/mercury-e-angola-telecom-reforcam-conectividade-em-bengula-com-novo-link-de-banda-larga/)** — Poc Notícias (Angola), 16 September 2026
+
+Operators' own joint release: 100 Gbps first phase at Restinga, Lobito, 16 September 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ANGOLA TELECOM e MERCURY reforçam conectividade com ligação banda larga em BENGUELA](https://revistaexecutivo.com/angola-telecom-e-mercury-reforcam-conectividade-com-ligacao-banda-larga-em-benguela/)** — Revista Executivo (Angola), 18 September 2026
+
+100 Gbps in the first phase, marked at Lobito on 16 September 2026; first of several planned backbone links.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National radio transmitter expansion and modernisation (PEMIX)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministro destaca processo de modernização da RNA](https://angop.ao/noticias/sociedade/ministro-destaca-processo-de-modernizacao-da-rna/)** — Angop (Angola Press Agency), 15 September 2026
+
+Minister's figures: ~29m mobile subscribers, 18.7-19m mobile internet users, 183 Angola Online free access points.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RNA ganha centro de monitorização de emissores](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/)** — Angop (Angola Press Agency), 15 September 2026
+
+Emitter monitoring centre inaugurated in Luanda; RNA goes digital, PEMIX targets 63% to 76% population coverage.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National broadband network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministro Mário Oliveira lança serviço de internet 'Tudonosso' na Baía Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/)** — Angop (Angola Press Agency), 16 September 2026
+
+Angola Telecom switched on its Tudonosso fibre-to-the-home service at the 1,000-dwelling Baía Farta housing centre in Benguela on 16 September 2026, the first site of a project the telecoms minister placed within the national broadband network.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rede de banda larga de fibra óptica já funciona em Benguela](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/)** — Angop (Angola Press Agency), 16 September 2026
+
+Angola inaugurated the first link of its national fibre broadband network at Lobito on 16 September 2026, on a route from Luanda through Bengo and Cuanza Sul. Angola Telecom named Huambo, Namibe and Cabinda for the next phase, with all 21 provinces as the aim.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fibra óptica de 400 Gb chega ao Lobito e "Tudo Nosso" da Angola Telecom avança na Baía Farta](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/)** — PTI — Portal de Tecnologias de Informação, 21 September 2026
+
+400 Gb national fibre trunk reaches Lobito; Angola Telecom launches Tudo Nosso at Baia Farta.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UNITEL subscribers and network footprint</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNITEL Revenue Rises 17% to 274 Billion Kwanzas in H1 2026 as Data Use Surges](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/)** — Tech Africa News, 22 September 2026
+
+Angolan operator UNITEL reported first-half 2026 revenue of 274 billion kwanzas, up 17%, with EBITDA of 91 billion kwanzas and net income of 66.3 billion. Subscribers passed 21.2 million, data use rose 43% and the network reached 12,302 base stations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Projecto Conecta</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GGPEN, ANYCONNECT partner to bolster Conecta Angola connectivity through 2Africa](https://techreviewafrica.com/news/7492/ggpen-anyconnect-partner-to-bolster-conecta-angola-connectivity-through-2africa)** — Tech Review Africa, 29 September 2026
+
+Traffic from Conecta Angola's satellite terminals is now routed from its hub onto the 2Africa cable through UNITEL's landing station at Cacuaco, to add capacity and a second international route. No capacity figure was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SACS and MONET submarine cable systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola Cables Boosts Capacity Across MONET and SACS Submarine Cable Systems with Ciena Technology](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology)** — Ciena, 29 September 2026
+
+800G on MONET; 12,780 km US-Brazil-Angola route at 130 ms round trip; WaveLogic 6e, 6500, Navigator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Twoobii OneWeb point of presence, Luanda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Q-KON, SISTEC launch sovereign satellite service for Angola](https://cajnewsafrica.com/2026/10/14/q-kon-sistec-launch-sovereign-satellite-service-for-angola/)** — CAJ News Africa, 14 October 2026
+
+Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low-Earth-orbit satellite service, hosted at SISTEC's premises. It gives in-country data breakout with local IP addresses alongside Eutelsat OneWeb's Angolan gateway, and is sold to banks, government, defence and enterprises.
+
+</div>
+
+</div>
+
 ### Data Storage
 
-<!-- narrative: ict-infrastructure--infra-store -->
-The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operator data centre at Lobito</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Ministro Mário Oliveira inaugura ZAP Fibra em Benguela](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-inaugura-zap-fibra-em-benguela/)** — Angop - Agência Angola Press, 2 September 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Press data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Imprensa Nacional inaugura Data Center](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/)** — ANGOP, 11 September 2026
+
+Over 170 TB storage, more than 1 TB processing memory, full redundancy; investment value not disclosed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Imprensa Nacional deixa de depender do exterior para documentos de alta segurança](https://correiokianda.info/imprensa-nacional-deixa-de-depender-do-exterior-para-documentos-de-alta-seguranca/)** — Correio da Kianda, 12 September 2026
+
+New Imprensa Nacional data centre in Luanda ends reliance on foreign high-security document supply.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Data Exchange
 
-<!-- narrative: dpi--dpi-exchange -->
-The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
+<div class="monthly-story" markdown="1">
 
-The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated. The interoperability framework study and its platform roadmap [were completed in the first half of 2026 and the platform, an enterprise service bus on X-Road, is under tender at about US$13.0m](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
-<!-- /narrative -->
+<p class="monthly-story__name">Land rights single window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo do Huambo moderniza práticas de gestão de direitos fundiários](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/)** — Angop (Angola Press Agency), 14 September 2026
+
+Angola's cadastral institute trained Huambo province's 17 municipalities on the land-concession single window created by Presidential Decree 84/25. Provincial officials said it will align municipalities with the government, raise revenue and tighten control of the cadastre.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Logistics single window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Governo lança plataforma para monitorizar a cadeia logística nacional](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt)** — Governo de Angola (via Africa Newsroom), 29 September 2026
+
+Air, sea, road and rail tracked on one platform; built with Finance/AGT, Industry and Interior; still being completed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integration of trade-licensing platforms with the tax and customs administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AGT de Angola trabalha na integração de plataformas para facilitar acompanhamento dos processos](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/)** — Forbes África Lusófona, 30 September 2026
+
+Angola's tax and customs administration AGT is linking the commerce ministry's and other trade agencies' platforms to its own, and plans to let importers track customs processes by tax number, with service deadlines such as three days for the commerce ministry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public administration interoperability platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZMB/" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
-<!-- narrative: dpi--dpi-id -->
-[Tech By Tech released its AngolaID wallet in test mode, reported 9 October 2026: a credential created by video liveness check and facial recognition, verifiable by QR code, with an API and SDK for banks, schools and clinics; the company says it neither issues nor replaces the state identity card](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AngolaID private identity wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tech By Tech disponibiliza versão de testes do AngolaID](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/)** — PTI, 9 October 2026
+
+Private wallet, not a state ID; video liveness and face match, API and SDK for banks, schools and clinics.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
-<!-- narrative: dpi--dpi-pay -->
-A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published. A trade publication reported [the instant-payment scheme processing 4.48 million transfers worth Kz 123.85bn in August 2026, the number of operations up 53.3% in a year](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Renminbi clearing arrangement between BAI and Bank of China</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BAI e Bank of China assinam acordo para pagamentos transfronteiricos](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/)** — ANGOP, 8 September 2026
+
+BAI and Bank of China sign an RMB clearing MoU in Xiamen, opening indirect CIPS access for Angolan trade.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BAI reforca pagamentos em renminbi e cooperacao com a China](https://mercado.co.ao/bai-reforca-pagamentos-em-renminbi-e-cooperacao-com-a-china/)** — Mercado, 8 September 2026
+
+Renminbi clearing account and indirect CIPS access for Angola's largest private bank; no sum published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Afrimoney wallet users</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Operadora de telefonia quer combater enchentes em ATM com “Afrimoney”](https://www.opais.ao/sociedade/operadora-de-telefonia-quer-combater-enchentes-em-atm-com-afrimoney/)** — OPAÍS, 10 September 2026
+
+3 million wallet users of 8 million Africell subscribers (30%); BNA-licensed, pitched against payday ATM queues.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Instant payment scheme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Movimentos entre carteiras digitais valem apenas 0,6% no Kwik](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html)** — Expansão, 21 September 2026
+
+Transfers between digital wallets were only 0.6% (Kz 3.1 billion) of the Kz 557.4 billion that passed through Angola's Kwik instant-payment system in the first half of 2026, according to EMIS data. Wallets sent about 38% of the value, nearly all of it to bank accounts, while banks sent about 62%, and only Kz 2.8 billion of that went to non-bank providers. Only the free opening of the article is held.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[África já tem 36 sistemas de pagamentos instantâneos, o próximo desafio é fazê-los conversar](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/)** — FinTechs, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+KWiK at 4.48m transfers, Kz 123.85bn in August 2026; 36 IPS in 31 countries; Kenya Vision 2028.
+
+</div>
+
+</div>
+
 ### Registries
 
-<!-- narrative: dpi--dpi-registry -->
-The electoral-register update drew two objections in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html), with no provincial breakdown.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral register proof-of-life operation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Brigadas móveis entram em funcionamento para acelerar processo de registo eleitoral oficioso no País](https://www.novojornal.co.ao/politica/detalhe/brigadas-moveis-entram-em-funcionamento-para-acelerar-processo-de-registo-eleitoral-oficioso-no-pais-74487.html)** — Novo Jornal, 8 September 2026
+
+Mobile brigades from late August 2026: over 1.6 million citizens updated, 362 one-stop desks installed and 272 operating.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Caianda inicia actualização do registo eleitoral](https://angop.ao/noticias/politica/caianda-inicia-actualizacao-do-registo-eleitoral/)** — Angop (Angola Press Agency), 10 September 2026
+
+Citizens over 18 in the municipality of Caianda, in Moxico Leste province, began updating their electoral data after a one-stop public service desk opened there. The municipal administrator was the first to update his own, and urged traditional authorities, religious leaders and youth organisations to bring communities in ahead of the 2027 general elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**["Ninguém está a fiscalizar": MUDEI questiona transparência do registo eleitoral em Angola](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola)** — Angola 24 Horas, 13 September 2026
+
+MUDEI lawyer Chipilica Eduardo says nobody is scrutinising the electoral register's proof-of-life step.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNITA acusa Angola de usar registo eleitoral para beneficiar MPLA](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla)** — Notícias ao Minuto (Lusa), 15 September 2026
+
+The main opposition leader accused the government of using state means to register the governing party's own members early in the electoral roll update for the 2027 elections, speaking after completing his own proof-of-life step.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Constitucional abre concurso de 21 milhões USD para actualização e modernização da plataforma técnologica, de modo a preparar processo eleitoral](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html)** — Novo Jornal, 23 September 2026
+
+Kz 20bn (c. USD 21m, outlet's Sept 2026 conversion) limited tender for 2027 polls; voter-data update passes 2m.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
-<!-- narrative: dpi--dpi-mis -->
-A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Education and research network</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Angola Tertiary Education, Science, and Technology Project (TEST) — Project Appraisal Document](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)** — World Bank (mirrored by Angola's public consultation portal), 15 November 2023
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs supervision project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Lourenço aprova ajuste directo de quase 100 milhões USD para projecto de controlo aduaneiro](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/)** — Polígrafo África, 16 September 2026
+
+Despacho 361/26 clears Kz 90.5bn (US$98m, 2026-09-16) sole-source buy for Angola's customs supervision project.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
-<!-- narrative: dpi--dpi-govtech -->
-The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown or a waiting-time measure. On 1 October the public e-services system [was reported online after a ransomware group claimed an attack on it](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/); the claimed intrusion is unconfirmed.
+<div class="monthly-story" markdown="1">
 
-The Constitutional Court is preparing its own systems for the 2027 elections: on 22 September it [opened a limited tender with pre-qualification, valued at Kz 20 billion, to modernise its platform for registering candidacies and to migrate the records of earlier electoral cycles in full](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html). The tender document is not published.
-<!-- /narrative -->
+<p class="monthly-story__name">Digital platform for public-sector internship applications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INFOSI disponibiliza site para candidaturas a estágios](https://pti.ao/infosi-disponibiliza-site-para-candidaturas-a-estagios/)** — Portal de T.I, 3 September 2026
+
+Internship applications for telecoms, IT and cybersecurity move online, with QR-code tracking.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIAC integrated citizen service network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Governante anuncia a construção de mais oito subunidades do SIAC até 2027](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt)** — Ministério da Administração Pública, Trabalho e Segurança Social (Angola), via Africa Newsroom/APO Group, 4 September 2026
+
+Eight more SIAC one-stop shops by 2027; 1.49m visits in H1 2026 and Kz2.47bn paid to the treasury.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Constitutional Court candidate-registration platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Constitucional abre concurso de 21 milhões USD para actualização e modernização da plataforma técnologica, de modo a preparar processo eleitoral](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html)** — Novo Jornal, 23 September 2026
+
+Summarised under [Registries](#registries).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SEPE electronic public services system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SEPE mantém serviços online e acessíveis ao público](https://pti.ao/sepe-mantem-servicos-online-e-acessiveis-ao-publico/)** — Portal de T.I., 1 October 2026
+
+Registration, catalogue and e-services still available after Kazu ransomware claim; intrusion unconfirmed.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### AI
 
-<!-- narrative: technology--tech-ai -->
+<div class="monthly-story" markdown="1">
 
-A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/); [the money is World Bank funding run through the digital acceleration project](https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/). What the platform is to do, which bodies would use it and on what data are not stated.
-<!-- /narrative -->
+<p class="monthly-story__name">Artificial-intelligence platform for the public administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo desembolsa USD 6 milhões para plataforma de inteligência artificial na administração pública](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/)** — Portal de T.I, 1 September 2026
+
+Despacho Presidencial 342/26 of 27 Aug 2026: US$6m public tender for a public-administration AI platform.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[O pais avanca para uma Administracao Publica com Inteligencia Artificial](https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/)** — Portal de T.I (pti.ao), 8 September 2026
+
+Angola authorised US$6 million of World Bank money for an artificial-intelligence platform for the public sector under Presidential Order no. 342/26. The funding runs through the Projecto de Aceleracao Digital de Angola and sits in a sequence of recent authorisations covering public digital infrastructure, interoperability, digital skills and government cybersecurity.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
-<!-- narrative: technology--tech-industry -->
-The secretary of state for telecommunications told the close of the seventeenth technology innovation fair that [the telecommunications, information technology and media sector grew 14.3% in its contribution to gross domestic product in the second quarter of 2026, among the five best-performing sectors](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/). No level, base or statistical release accompanies the figure, and the sector as named bundles media with telecommunications and IT.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecommunications and ICT contribution to GDP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Secretário de Estado reconhece contributo das telecomunicações na economia](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/)** — Angop (Angola Press Agency), 5 September 2026
+
+Telecoms, ICT and media grew 14.3% in GDP contribution in Q2 2026, says secretary of state Angelo Buta Joao.
+
+</div>
+
+</div>
+
 ### Innovation ecosystem
 
-<!-- narrative: technology--tech-innovate -->
-The founders of Paga3, owned by Cafeje-Comércio e Indústria, [accuse Standard Bank Angola of using strategic information shared in a pilot project to develop a similar product, in a case that entered court about a year ago and awaits a decision on interim relief; the bank rejects the accusation and calls the claim abusive](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html). Neither party’s pleadings nor the case number is held.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fintech intellectual-property claim against a commercial bank</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projecto ″Paga3″ acusa Standard Bank Angola de uso indevido de start-up - Banco rejeita acusação e considera reclamação abusiva](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html)** — Novo Jornal, 7 September 2026
+
+The founders of an Angolan payments startup accuse a commercial bank of using information shared in a pilot to build a similar product; the case has run about a year and the bank calls the claim abusive.
+
+</div>
+
+</div>
 
 ## Capacity
 
 ### Training and skills
 
-<!-- narrative: capacity--capacity-training -->
-The telecommunications institute and a cable operator [signed a cooperation protocol on 3 September at the technology innovation fair](https://angop.ao/noticias/economia/itel-e-tv-cabo-assinam-acordo-de-cooperacao-para-capacitar-jovens/), under which the operator offers internships to students and supplies internet service to the institute.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecommunications institute and operator training protocol</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITEL e TV Cabo assinam acordo de cooperação para capacitar jovens](https://angop.ao/noticias/economia/itel-e-tv-cabo-assinam-acordo-de-cooperacao-para-capacitar-jovens/)** — Angop (Angola Press Agency), 4 September 2026
+
+Institutional cooperation protocol signed at FITITEL 2026: internships plus internet provision to the telecoms institute.
+
+</div>
+
+</div>
 
 ## Inclusion
 
 ### Access to services
 
-<!-- narrative: inclusion--include-access -->
-The registries director put [17,166,000 identity cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate. The telecommunications minister [put the free public internet programme at 180 access points in 18 of the 21 provinces on 16 September](https://angop.ao/en/noticias/tecnologia/projecto-angola-digital-ja-dispoe-de-180-pontos-de-acesso-livre-a-internet/); no usage figure is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public computer rooms and free internet points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projecto Angola Digital ja dispoe de 180 pontos de acesso livre a Internet](https://angop.ao/en/noticias/tecnologia/projecto-angola-digital-ja-dispoe-de-180-pontos-de-acesso-livre-a-internet/)** — ANGOP, 16 September 2026
+
+180 free access points across 18 of 21 provinces under FADCOM's Angola Digital project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity-card universalisation plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angolan Government issues more than 17 million citizen's identity cards](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/)** — Angola Newswire (reporting Angola Press Agency), 24 September 2026
+
+17,166,000 BI cards issued by Sep 2026; daily output up from 12,000 to 60,000; all adults targeted by Dec 2026.
+
+</div>
+
+</div>
+
 ### Digital divides
 
-<!-- narrative: inclusion--include-divides -->
-Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September, a local administrator putting the direct free beneficiaries at 1,400 residents](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/). No national site count, tariff or programme budget is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Conecta Angola satellite connectivity points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sistema de Internet em Madimba e Serra da Kanda volta a funcionar](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/)** — Angop (Angola Press Agency), 6 September 2026
+
+Two Conecta Angola Angosat-2 points in Zaire restored after battery and software faults; 1,400 users served free.
+
+</div>
+
+</div>
 
 ## Data
 
 ### National statistics
 
-<!-- narrative: data--data-statistics -->
-The statistics institute [put a revision of the statistics law and a draft national strategy for the development of statistics to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), following an extraordinary plenary of the national statistics council in August. Neither draft text is held.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National statistics development strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[INE inicia recolha de contribuições para nova Lei Estatística](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/)** — Angop (Angola Press Agency), 29 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
 
 ## Geopolitics
 
 ### Gulf/UAE activities
 
-<!-- narrative: geopolitics--geopol-gulf -->
-The national space programme office [signed a letter of intent with the UAE Space Agency at the Africa Space Expo in Abidjan, naming satellite-data exchange, Earth-observation applications and satellite development as areas for cooperation](https://techreviewafrica.com/news/7466/). It carries no money, programme or timetable.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Space cooperation letter of intent with the UAE Space Agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola and UAE strengthen space cooperation through new letter of intent](https://techreviewafrica.com/news/7466/)** — Tech Review Africa, 25 September 2026
+
+Angola's space programme office GGPEN and the UAE Space Agency signed a letter of intent on cooperation in the peaceful uses of outer space, covering space sciences, technologies and applications. It was signed in Abidjan on 25 September at the Africa Space Expo, where Angola is guest country of honour.
+
+</div>
+
+</div>

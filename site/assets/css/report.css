@@ -571,3 +571,46 @@ a.badge:hover::after { opacity: 1; }
   .report-colophon { break-before: page; }
 }
 
+
+/* ── THE MONTHLY'S CONTENTS AND STORIES (Bill, 2026-10-16) ──
+   A country or region monthly is the bulletin's cards over a month and a half,
+   so it carries three tiers of contents: the place's other reports, in the
+   house jump-nav (`.article-toc`, main.css); then each section on its own
+   line with its subjects beneath it. The section links wear the jump-nav's
+   small caps so the two tiers read as one idiom; the subjects are sentence
+   case, a step down, because there are thirty of them. */
+.report-siblings { border-bottom: none; padding-bottom: 0; margin-bottom: 0.9rem; }
+.monthly-toc {
+  border-bottom: 1px solid var(--rule);
+  padding: 0 0 0.7rem;
+  margin: 0 0 1.5rem;
+}
+.monthly-toc__group { margin: 0 0 0.45rem; }
+.monthly-toc__l1 {
+  font-family: var(--mono); font-size: 0.72rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--accent); border: none;
+}
+.monthly-toc__l2 {
+  display: flex; flex-wrap: wrap; align-items: baseline;
+  gap: 0.15rem 0.6rem;
+  padding-left: 1rem;
+}
+.monthly-toc__l2 a { font-size: 0.85rem; color: var(--accent); border: none; }
+.monthly-toc a:hover { color: var(--accent-dk); border-bottom: 1px solid currentColor; }
+
+/* One story: the reports of one development, oldest first, under the name of
+   the ledger row they moved. A rule down the left holds the cards together
+   so the next story visibly starts afresh. */
+.monthly-story {
+  border-left: 2px solid var(--rule);
+  padding-left: 0.85rem;
+  margin: 0 0 1.4rem;
+}
+.monthly-story__name {
+  font-family: var(--mono); font-size: 0.72rem;
+  text-transform: uppercase; letter-spacing: 0.07em;
+  color: var(--ink-faint);
+  margin: 0 0 0.5rem;
+}
+.monthly-story .bulletin-item:last-child { margin-bottom: 0; }

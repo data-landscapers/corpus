@@ -1,3 +1,7 @@
+## 16 October 2026
+
+- Country and region monthly updates now take the bulletin's form: each source is listed with its headline, publisher, date and summary, and reports of the same development are grouped together, oldest first. Each update opens with links to the place's other reports and a contents list of its chapters, with the topics under each.
+
 ## 13 October 2026
 
 - The Maturity Assessment map's criteria panel now opens with a short statement of the indicator's norm. The methodology page gives it in full.

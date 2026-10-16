@@ -1,108 +1,374 @@
 ---
 title: Djibouti — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: DJI
 ledger_rows: 14
 not_held: 11
-record: 1e67cbd33a6a
+record: 2e69e274f933
 ---
 
 # Djibouti: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Djibouti">
+<a href="https://corpus.data-landscapers.io/reports/DJI/DJI-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/DJI/DJI-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/DJI/DJI-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-The [first national strategy was presented on 3 September for 2026 to 2030, alongside a readiness assessment scoring the country about 24.5 out of 100](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee) — the first such measurement the repository holds.
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#finance">Finance</a>
+<div class="monthly-toc__l2">
+<a href="#new-investments">New investments</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#data-exchange">Data Exchange</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ai">AI</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#capacity">Capacity</a>
+<div class="monthly-toc__l2">
+<a href="#training-and-skills">Training and skills</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
+<div class="monthly-toc__l2">
+<a href="#access-to-services">Access to services</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#use-of-satellite-data">Use of satellite data</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
+<div class="monthly-toc__l2">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#china-activities">China activities</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Strategies, plans and policies
 
-<!-- narrative: governance--gov-policy -->
+<div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Cadre d'Interoperabilite de Djibouti</p>
 
-The interoperability framework acquired a statement of intent for the first time since it was published in 2022. The Council of Ministers' [2026 work programme of 1 September names paperless services and interoperability among the state-modernisation priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/). Nothing in it evidences the framework in use, and no system, timetable or budget is attached — so what has changed is that the government has said the word, not that anything is interoperable.
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti – 2026 Government work programme: Omar Guelleh sets out his key priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/)** — Africa24 TV, 6 September 2026
+
+Council of Ministers, 1 Sept 2026: paperless services and interoperability among the state-modernisation priorities.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
-<!-- narrative: governance--gov-regional -->
-In September the Digital Cooperation Organization's secretary-general and the digital-economy minister [discussed cooperation on artificial intelligence, digital skills and capacity building](https://www.techreviewafrica.com/news/7340/djibouti-and-dco-discuss-cooperation-on-ai-and-digital-transformation); no memorandum, programme or budget is stated, and the repository holds no accession date for Djibouti's membership.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Cooperation Organization membership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti and DCO discuss cooperation on AI and digital transformation](https://www.techreviewafrica.com/news/7340/djibouti-and-dco-discuss-cooperation-on-ai-and-digital-transformation)** — TechReviewAfrica, 18 September 2026
+
+DCO chief AlYahya and minister Gadileh discuss AI, skills and capacity building; no instrument or figure.
+
+</div>
+
+</div>
 
 ## Finance
 
 ### New investments
 
-<!-- narrative: finance--finance-new -->
-The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would bring them about](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Private investment pipeline identified by diagnostic</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti Country Private Sector Diagnostic](https://www.ifc.org/en/insights-reports/2026/djibouti-private-sector-diagnostic)** — International Finance Corporation, 13 September 2026
+
+CPSD names data centres one of three sectors for private investment, with energy reform the priority.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[World Bank Group Report Identifies Significant Private Investment Potential for Djibouti](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj)** — World Bank Group, 14 September 2026
+
+CPSD puts at least US$600m of private investment and about 12,000 jobs in reach over five years.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-On 7 September the Djiboutian, Ethiopian and Sudanese operators [presented the Horizon terrestrial fibre corridor to Google, Meta, Microsoft, Amazon, other carriers and equipment makers at a pre-commercialisation meeting in Addis Ababa](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), seeking partners, customers and technical feedback before deployment. The account gives no cost, financing or ready-for-service date, and no attendee commitment.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Horizon terrestrial fibre corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SDN/" title="SDN">Sudan</a>
+
+Addis Ababa meeting pitches the Djibouti-Ethiopia-Sudan corridor to Google, Meta, Microsoft, Amazon and carriers.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Data Exchange
 
-<!-- narrative: dpi--dpi-exchange -->
+<div class="monthly-story" markdown="1">
 
-Customs has begun preparing to put trade procedures on one platform. The administration [set out an electronic single-window project at a preparatory workshop on 1 September, saying it goes beyond strengthening the declaration system customs currently uses and would shorten processing times, increase transparency and make operations more predictable for traders](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade), working with the commerce ministry, the continental free trade secretariat and a Korean agency that has done the same in three other African countries. No design, budget, procurement or timetable is published, and no baseline clearance time exists to measure the shortening against.
-<!-- /narrative -->
+<p class="monthly-story__name">Electronic single window for trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti Plans Electronic Single-window to Streamline Trade](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade)** — Dawan Africa, 2 September 2026
+
+Customs to build a single window with the AfCFTA Secretariat and Korea's CUPIA, beyond SYDONIAWORLD.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### AI
 
-<!-- narrative: technology--tech-ai -->
-The national strategy in preparation since January was presented. The ministry [convened cross-ministerial focal points on 15 August](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) to prepare the country's first national artificial-intelligence forum, which [opened at the Palais du Peuple on the morning of 2 September under the President's patronage](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/). On 3 September the [strategy's main lines were presented for 2026 to 2030 on six axes - data and AI governance, cybersecurity, training, research, innovation and inclusion](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee). Its text is not published.
+<div class="monthly-story" markdown="1">
 
-The readiness assessment presented with it, run on UNESCO's methodology, [rates the country emerging, at about 24.5 out of 100 on AI readiness against an ICT development index of 61.6](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee), and finds no law dealing specifically with artificial intelligence. The report itself is not held.
+<p class="monthly-story__name">First national artificial-intelligence strategy</p>
 
-The forum also [carried a first national AI prototyping competition, putting young Djiboutians' projects in front of it](https://www.lanation.dj/premier-concours-national-de-prototypage-quand-lintelligence-artificielle-revele-les-talents-de-la-jeunesse-djiboutienne/). No entrant count, prize or follow-on support is published.
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[Premier Forum national sur l'intelligence artificielle : Djibouti prend le virage de la révolution technologique](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/)** — La Nation (Djibouti), 2 September 2026
+
+Djibouti opened its first national forum on artificial intelligence at the Palais du Peuple on 2 and 3 September, organised by the ministry for the digital economy and innovation under the president's patronage. The framing is explicitly sovereignty: AI as a lever of independence, innovation and development rather than a technology to be received. The forum sits against Vision Djibouti 2035 and UNESCO's readiness assessment.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali must have a place in artificial intelligence, Djibouti minister tells first national forum](https://sonna.so/en/article/Somali-must-have-a-place-in-artificial-intelligence-Djibouti-minister-tells-first-national-forum)** — Somali National News Agency (SONNA), 3 September 2026
+
+Somali, Afar and Arabic must be in the models or their speakers are out; 12 subsea cables landed, three more in progress.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti se dote d'une stratégie d'IA sur fond de préparation encore limitée](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee)** — wearetech.africa, 4 September 2026
+
+Djibouti presented the main lines of its first national artificial-intelligence strategy, covering 2026 to 2030 around six priorities: data and AI governance, cybersecurity, training, research, innovation and inclusion. A UNESCO-supported readiness assessment presented alongside it classes the country as emerging, with an ICT development index of 61.6 against AI readiness of about 24.5 out of 100 and no legislation dedicated to artificial intelligence beyond the data-protection provisions of the digital code.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : Djibouti lance sa premiere strategie nationale](https://lobservateur.info/article/119465/covid-19/intelligence-artificielle-djibouti-lance-sa-premiere-strategie-nationale)** — L'Observateur, 8 September 2026
+
+Six-axis AI strategy to 2030; UNESCO rates readiness 'emerging', ~24.5/100 against an ICT index of 61.6.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">First national artificial-intelligence forum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : les acteurs d'un écosystème en construction](https://www.lanation.dj/intelligence-artificielle-les-acteurs-dun-ecosysteme-en-construction/)** — La Nation, 3 September 2026
+
+HOOM used by 4,500 terminale pupils, about 57% of the year group; Bouho AI answers in Somali, Afar and Arabic.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Somali must have a place in artificial intelligence, Djibouti minister tells first national forum](https://sonna.so/en/article/Somali-must-have-a-place-in-artificial-intelligence-Djibouti-minister-tells-first-national-forum)** — Somali National News Agency (SONNA), 3 September 2026
+
+Summarised under [AI](#ai).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Premier Concours national de prototypage : Quand l’intelligence artificielle révèle les talents de la jeunesse djiboutienne](https://www.lanation.dj/premier-concours-national-de-prototypage-quand-lintelligence-artificielle-revele-les-talents-de-la-jeunesse-djiboutienne/)** — La Nation, 7 September 2026
+
+First national AI prototyping competition, held at Djibouti's first national AI forum.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI readiness index</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti Telecom forme 35 ingénieurs à l'intelligence artificielle](https://www.adi.dj/article/138906)** — Agence Djiboutienne d'Information (ADI), 17 September 2026
+
+Djibouti's state operator certified 35 of its engineers in artificial intelligence at a ceremony presided over by the communications minister, who cited the national AI readiness assessment run on UNESCO's methodology: it credits engaged digital transformation, strategic infrastructure and a nascent academic base while finding room to improve on skills, governance and research. He called for closer ties between the operator, the university and research centres.
+
+</div>
+
+</div>
 
 ## Capacity
 
 ### Training and skills
 
-<!-- narrative: capacity--capacity-training -->
-Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost. The Francophonie organisation and the education ministry [signed an agreement to train 200 young people in development, networks and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TechKid coding and robotics programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Clôture de TechKid 2026 : Une nouvelle génération de TechLeaders à Djibouti](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/)** — La Nation, 10 September 2026
+
+The first cohort of Djibouti's TechKid programme completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre. Ten children aged 9 to 16 presented their work to parents, mentors and trainers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">D-CLIC digital-skills training programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti et l'OIF ciblent les métiers de la cybersécurité pour insérer la jeunesse](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse)** — wearetech.africa, 7 October 2026
+
+The Francophonie organisation and Djibouti's education and vocational training ministry signed an agreement to train 200 young people in web and mobile development and in network infrastructure and cybersecurity. It extends a programme that the organisation says has trained 200 since 2022.
+
+</div>
+
+</div>
 
 ## Inclusion
 
 ### Access to services
 
-<!-- narrative: inclusion--include-access -->
-The corridor programme put training against formalisation rather than connectivity: [forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). The training was delivered on the Ethiopian side of the corridor and no Djiboutian cohort, customs-system component or digital element is separately costed.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Women traders programme on the Djibouti corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From export readiness to market access: EU-backed support strengthens women's participation in trade along the Djibouti-Ethiopia Corridor](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/)** — Horn Economic Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
+
+40 women traders at Bishoftu, 30-31 Jul 2026, under the EUR 32m EU/AFD Djibouti Corridor programme; 94% unlicensed.
+
+</div>
+
+</div>
 
 ## Data
 
 ### Use of satellite data
 
-<!-- narrative: data--data-satellite -->
-The month's movement was political rather than technical. The head of state [took part on 10 September in the second day of the first International Space Summit at the Grand Palais in Paris, convened at the French president's invitation and gathering delegations from more than 120 countries](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/), arguing for a space ambition serving development. State media used the occasion to set out the programme's own record since 2020: [first specialists trained, two nanosatellites designed and put into orbit, ground capacity developed and cooperation established with major French space institutions](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/). No satellite name, launch date, ground-station location, budget or data-use record accompanies the account, and the summit produced no commitment the repository can read.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HYDROSAT national satellite programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti à la conquête de l’espace : un pari sur la science, la souveraineté et l’avenir](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/)** — La Nation, 10 September 2026
+
+State media traces Djibouti's space programme since its launch in 2020 as the head of state attends the first international space summit in Paris. It records the training of the country's first specialists and the design and orbiting of two nanosatellites among the steps taken.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Président Guelleh au Sommet international sur l’Espace : Djibouti défend une ambition spatiale au service du développement](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/)** — La Nation, 10 September 2026
+
+Djibouti's president took part in the second day of the first International Space Summit in Paris, arguing for a national space ambition serving development. The summit gathered delegations from more than 120 countries, including heads of state and government, institutional leaders, scientists, commercial operators and civil society.
+
+</div>
+
+</div>
 
 ## Geopolitics
 
 ### US / hyperscaler activities
 
-<!-- narrative: geopolitics--geopol-usa -->
-The communications minister [received the United States ambassador on 31 August to discuss American investment in new technologies and telecommunications, and training for media professionals](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/). It was a courtesy call: no instrument, sum or timetable followed. On 7 September Google, Meta, Microsoft and Amazon [were among the prospective partners and customers shown the Horizon terrestrial fibre corridor in Addis Ababa](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), and none of them is reported to have committed to it.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital and media cooperation with the United States</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti–États-Unis : un nouvel élan pour la coopération numérique et médiatique](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/)** — La Nation, 1 September 2026
+
+Minister Moussa Helem meets US Ambassador Kierscht on tech investment, media training.
+
+</div>
+
+</div>
+
 ### China activities
 
-<!-- narrative: geopolitics--geopol-china -->
-The month's only movement here is a conversation. Djibouti [discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes between Africa, Asia and the Middle East and its stated ambition to be a regional digital hub](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques). Nothing held records an agreement, a project or a value behind it.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Talks with Huawei on digital infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti échange avec Huawei sur le développement de ses infrastructures numériques](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques)** — wearetech.africa, 17 September 2026
+
+Djibouti discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes linking Africa, Asia and the Middle East and its stated ambition to become a regional digital hub. No agreement or project has been published.
+
+</div>
+
+</div>

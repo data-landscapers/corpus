@@ -1,117 +1,390 @@
 ---
 title: Central African Republic — monthly update, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: CAF
 ledger_rows: 18
 not_held: 4
-record: 55f9f63bf731
+record: 90c9441d45fc
 ---
 
 # Central African Republic: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Central African Republic">
+<a href="https://corpus.data-landscapers.io/reports/CAF/CAF-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/CAF/CAF-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/CAF/CAF-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-A fire damaged the electoral authority's data-processing centre in the week before 24 September, and [an investigation was opened](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/). The government [signed a memorandum with AMINI on data, AI and security infrastructure](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/), reported on 29 September, and [created a communication-monitoring cell under the government spokesperson by presidential decree](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/). The national component of the World Bank's Central Africa digital integration programme [is to launch in April 2027](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#finance">Finance</a>
+<div class="monthly-toc__l2">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ict-industry">ICT Industry</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#capacity">Capacity</a>
+<div class="monthly-toc__l2">
+<a href="#training-and-skills">Training and skills</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Strategies, plans and policies
 
-<!-- narrative: governance--gov-policy -->
+<div class="monthly-story" markdown="1">
 
-The digital development agency's own presentation establishes its footing: [it was created by law in June 2023 as a public establishment with a mandate to implement the national digital strategy](https://acdd.gouv.cf/agence.php). No budget, staffing or activity report is held.
-<!-- /narrative -->
+<p class="monthly-story__name">Agence Centrafricaine de Développement du Digital (ACDD)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Agence — ACDD : un opérateur public au service de la transformation numérique](https://acdd.gouv.cf/agence.php)** — Agence Centrafricaine de Développement du Digital (ACDD), 11 October 2026
+
+The Central African Republic's digital development agency sets out its own footing: a public industrial and commercial establishment created by a law of June 2023, with a mandate to implement the national digital strategy. The page gives no budget, staffing or activity figures.
+
+</div>
+
+</div>
+
 ### Legislation and regulation
 
-<!-- narrative: governance--gov-legislate -->
-The statistics institute reported that [the bill replacing the statistics law of 16 July 2001 had passed technical validation and strategic review and awaits the commission that examines draft official texts](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics law and its replacement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
+
+UNDP-funded review of the FCFA 60bn 2024-2028 strategy; statistics bill awaits official-texts commission.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
-<!-- narrative: governance--gov-discourse -->
+<div class="monthly-story" markdown="1">
 
-The government gave itself a unit to watch public debate. A presidential decree [created a communication-monitoring cell under the government spokesperson, with a permanent secretariat and three units, one dedicated to crisis communication, to monitoring national and international media and social networks, and to countering rumours](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/). Its staff are to be appointed by decree in Council of Ministers. The decree as reported sets no safeguard on how the monitoring is used, and no budget is published.
-<!-- /narrative -->
+<p class="monthly-story__name">Government spokesperson's communication-monitoring cell (CVC-PG)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Centrafrique : le gouvernement se dote d'une Cellule de veille communicationnelle pour contrer les rumeurs](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/)** — Alwihda Info, 17 September 2026
+
+Presidential decree creates a spokesperson's communication-monitoring cell with a social-media watch unit.
+
+</div>
+
+</div>
 
 ## Finance
 
 ### MoUs and other agreements
 
-<!-- narrative: finance--finance-mou -->
-After President Touadéra met the founder of the data-infrastructure and AI company AMINI at the UN General Assembly, the national internet and security unit [signed a cooperation memorandum with the company providing for a national data centre, a security operations centre, a national computer emergency response team and a digital twin of the mining subsoil](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/), reported on 29 September. No cost, financing, site, timetable or data-hosting terms are published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with AMINI on data, AI and security infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RCA : Touadéra mise sur l’IA et les données pour accélérer la transformation numérique](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/)** — Journal de Bangui, 29 September 2026
+
+CCIS-AMINI MoU at UNGA 81: national data centre, SOC and CERT-RCA; mining geodata and subsoil digital twin.
+
+</div>
+
+</div>
+
 ### New investments
 
-<!-- narrative: finance--finance-new -->
-The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central Africa digital integration programme component</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Centrafrique : connectivité, services publics, données – les chantiers du CARDIP de la Banque mondiale](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale)** — Agence Ecofin, 15 September 2026
+
+The country's component of the Central Africa digital integration programme is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
+<div class="monthly-story" markdown="1">
 
-The digital-economy minister and his Congolese counterpart [agreed in Moscow on 8 October 2026 on the need to carry out a fibre interconnection with the Democratic Republic of Congo, which the ministry says would reach the submarine cable landing at Moanda; no timetable or financing was announced](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique).
-<!-- /narrative -->
+<p class="monthly-story__name">Routes to submarine cable capacity beyond the current transit country</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a>
+
+A fibre cut in Cameroon disrupted internet service in the Central African Republic last week, prompting an assessment of the landlocked country's options for reaching submarine cable capacity by another route.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Internet : qu’est-ce que la liaison par fibre avec la RDC peut apporter à la Centrafrique](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)** — Agence Ecofin, 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+
+The digital-economy ministers of the Central African Republic and DR Congo agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, which would give the Central African Republic a third international route, toward the submarine cable landing at Moanda. No timetable or financing was announced.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet use rate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
+
+Starlink over 70% of fixed-wireless clients by June 2026; 1.56m internet users; FCFA 41.68bn operator revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satellite broadband service</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
 ### Data Storage
 
-<!-- narrative: ict-infrastructure--infra-store -->
-Fire [damaged part of the national elections authority's data-processing centre in the week before 24 September](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/), weeks ahead of the October residual elections. The government opened an investigation and says the vote will go ahead; no cause, damage estimate or continuity arrangement is stated.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral authority data-processing centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RCA : une enquête ouverte après l'incendie du centre de données de l'ANE](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/)** — Journal de Bangui, 24 September 2026
+
+Investigation opened; minister says October 2026 residual elections still go ahead; no cause or damage estimate yet.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Digital Payments and Fintech
 
-<!-- narrative: dpi--dpi-pay -->
-The regulator's first-half 2026 market observatory [counts more than 702,000 active mobile-money clients at the end of June 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0), from operators' returns.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Active mobile-money clients</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
-<!-- narrative: dpi--dpi-mis -->
-[The first integrated criminal database was established on 9 October 2026, the UN mission financing the centre, equipment and servers and UNODC providing expertise, training and connectivity; extension to the judicial police and the regions is the stated next step](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en). [A second report records the centre's inauguration at the interior ministry](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated criminal database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central African Republic establishes first integrated criminal database with United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) and United Nations Office on Drugs and Crime (UNODC) support](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en)** — MINUSCA (via Africa Newsroom / APO Group), 9 October 2026
+
+MINUSCA funded centre and servers, UNODC training and connectivity; judicial police and regions next.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RCA : inauguration du nouveau centre de données criminelles au ministère de l'Intérieur](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/)** — Alwihda Info, 9 October 2026
+
+Inaugurated 8 Oct 2026 at interior ministry; long delayed by budget and logistics; data-protection conditions.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
-<!-- narrative: dpi--dpi-govtech -->
-[A national portal for online government services was launched, covering driving licences, criminal-record extracts, nationality and school certificates and medical appointments, in a country where about 12% of the population was online at the end of 2025](https://africabusinessinsight.com/central-african-republics-digital-public-services-face-connectivity-barriers/).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified public-services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central African Republic’s digital public services face connectivity barriers](https://africabusinessinsight.com/central-african-republics-digital-public-services-face-connectivity-barriers/)** — Africa Business Insight, 15 October 2026
+
+The Central African Republic launched a national portal for online government services on 14 October, covering driving licences, criminal-record extracts, nationality and school certificates, and medical appointments. About 12% of the population used the internet at the end of 2025, which limits who can use it.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### ICT Industry
 
-<!-- narrative: technology--tech-industry -->
-The regulator [published operators' combined revenue for the first half of 2026 in its market observatory](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0). It is turnover reported to the regulator; no contribution to output, employment or firm count is held.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT sector size, revenue, employment or operator financials</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
 
 ## Capacity
 
 ### Training and skills
 
-<!-- narrative: capacity--capacity-training -->
-[The government signed a five-year partnership with Russia on 9 October 2026, implemented through HSE University, for digital-governance training of public servants, joint research and expert seminars](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital-governance training partnership with Russia's HSE University</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Centrafrique tend la main à la Russie pour renforcer sa gouvernance numérique](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique)** — Afrique Sur 7, 9 October 2026
+
+Five-year deal via HSE University: civil-servant training, joint research, seminars; signed at Global Digital Forum.
+
+</div>
+
+</div>
 
 ## Data
 
 ### National statistics
 
-<!-- narrative: data--data-statistics -->
-The statistics institute posted the regulator's first-half 2026 market observatory on 16 September, compiled from the returns operators must file under the regulator's decision of 25 June 2025. [It puts internet clients at more than 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0).
+<div class="monthly-story" markdown="1">
 
-The institute [held the mid-term evaluation of the second national statistics strategy in Bangui on 7 to 9 October 2026, financed by UNDP; the strategy is to be updated with revised indicators and a realigned calendar](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique).
-<!-- /narrative -->
+<p class="monthly-story__name">Independent measurement of internet penetration</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Observatoire des marchés de communications électroniques en République centrafricaine - premier semestre 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0)** — ARCEP Centrafrique (published via ICASEES), 16 September 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fourth general population and housing census (RGPH-4)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second national strategy for the development of statistics</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
 ### Open data
 
-<!-- narrative: data--data-open -->
+<div class="monthly-story" markdown="1">
 
-At a CEMAC workshop in Libreville on 14 to 18 September, the statistics institute ICASEES [presented its national plan for migrating its open data portal from ODP 1.0 to ODP 2.0 and demonstrated a locally installed ODP 2.0 test environment loaded with the national accounts](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville). No migration date or public address for the new platform is published.
-<!-- /narrative -->
+<p class="monthly-story__name">National open government data portal or catalogue</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Atelier SDMX-ODP 2.0 : La délégation centrafricaine affirme sa participation active à la dynamique statistique de la CEMAC à Libreville](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville)** — ICASEES (Institut centrafricain des statistiques et des études économiques et sociales), 20 September 2026
+
+ICASEES demos a local ODP 2.0 install loaded with national accounts 2013–2029; CAR's ODP 2.0 action plan presented.
+
+</div>
+
+</div>

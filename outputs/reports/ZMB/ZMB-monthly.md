@@ -1,174 +1,846 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-14
-period: 2026-09-01 to 2026-10-14
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: ZMB
 ledger_rows: 42
 not_held: 43
-record: 7bb0f23596e5
+record: 80edc587e7ec
 ---
 
 # Zambia: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Zambia">
+<a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-The finance minister [put the national portal at 572 services across 52 providers and about K9.8 billion collected since 2019, and said the 2027-2029 budget call circular names the service bus and payment gateway as the centralised revenue-collection system](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m). Consultations [opened on a review of the Electronic Communications and Transactions Act](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/). Police [made a third arrest inside ten days for online speech under the cyber crimes law](https://diggers.news/local/2026/09/19/police-nab-tiktoker-for-saying-truck-drivers-steal-fuel-have-poor-hygiene/), and a former deputy minister [defended the invalidation of government critics' identity documents](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). A bank [launched direct renminbi settlement in Lusaka on 23 September](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/).
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#finance">Finance</a>
+<div class="monthly-toc__l2">
+<a href="#new-investments">New investments</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#connectivity">Connectivity</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#digitalisation">Digitalisation</a>
+<div class="monthly-toc__l2">
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ai">AI</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#inclusion">Inclusion</a>
+<div class="monthly-toc__l2">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#data">Data</a>
+<div class="monthly-toc__l2">
+<a href="#open-data">Open data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#use-of-satellite-data">Use of satellite data</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#geopolitics">Geopolitics</a>
+<div class="monthly-toc__l2">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#india-activities">India activities</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Strategies, plans and policies
 
-<!-- narrative: governance--gov-policy -->
-The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
+<div class="monthly-story" markdown="1">
 
-The technology and youth ministries [are developing a framework for local content creators to earn from digital platforms, engaging Meta, TikTok and Google and compiling a national database of creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn), after the President made it a priority at the opening of the 14th National Assembly.
-<!-- /narrative -->
+<p class="monthly-story__name">Grow Zambia Agenda 2026-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia places ICT at centre of new economic blueprint](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/)** — CAJ News Africa, 10 September 2026
+
+Smart Zambia to build a real-time Cabinet dashboard for the Grow Zambia Agenda 2026-2031's eight digital targets.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Framework for content-creator earnings from digital platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia unlocks digital earnings for creators](https://itweb.africa/article/zambia-unlocks-digital-earnings-for-creators/wbrpOqg2eyLMDLZn)** — ITWeb Africa, 12 October 2026
+
+Zambia's technology and youth ministries are developing a framework for local content creators to earn from digital platforms, and are talking to Meta, TikTok and Google about the legal and technical arrangements. The President named it a priority when opening the 14th National Assembly, and a national database of creators is being compiled.
+
+</div>
+
+</div>
+
 ### Legislation and regulation
 
-<!-- narrative: governance--gov-legislate -->
-The regulator removed an operator from the market. It [revoked a network and service licence with effect from 14 September, citing persistent failures to meet regulatory, operational and financial obligations](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/), after assessing the operator's representations.
+<div class="monthly-story" markdown="1">
 
-The technology ministry [opened consultations on amending the Electronic Communications and Transactions Act No. 4 of 2021, with a Lusaka Province meeting reported on 30 September](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/): the amendment, approved in principle by Cabinet in September 2025, would end the tie between licensing certification and time-stamping providers and critical-information-infrastructure designation, and strengthen the national public key infrastructure under ZICTA. No draft text is published.
-<!-- /narrative -->
+<p class="monthly-story__name">Revocation of an operator's licences</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZICTA kicks out Zedmobile from Zambia's telecom market over regulatory non-compliance](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/)** — Zambia Monitor, 15 September 2026
+
+The communications regulator revoked an operator's network and service licences with effect from 14 September, citing persistent failures to meet regulatory, operational and financial obligations after considering the operator's representations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Communications and Transactions Act No. 4 of 2021</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gov’t Reviews Electronic Communications and Transactions Act](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/)** — Efficacy News, 30 September 2026
+
+Zambia's technology ministry opened stakeholder consultations on amending the Electronic Communications and Transactions Act of 2021, approved in principle by Cabinet in September 2025. The changes would strengthen the national public key infrastructure under ZICTA and add appeal mechanisms.
+
+</div>
+
+</div>
+
 ### Data protection
 
-<!-- narrative: governance--gov-protect -->
-The technology ministry's permanent secretary said [the country is implementing a national child online protection strategy for 2025 to 2029](https://www.unicef.org/zambia/press-releases/zambia-launches-child-justice-week-2026-call-strengthen-protection-children-digital).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Child Online Protection Strategy 2025-2029</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia launches Child Justice Week 2026 with a call to strengthen protection of children in digital spaces](https://www.unicef.org/zambia/press-releases/zambia-launches-child-justice-week-2026-call-strengthen-protection-children-digital)** — UNICEF Zambia, 7 October 2026
+
+Childline logged 1,208 online-safety cases Jan-Aug 2026, 85% involving children; UNICEF 21-country report presented.
+
+</div>
+
+</div>
+
 ### Standards
 
-<!-- narrative: governance--gov-standards -->
-The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the repository through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check. The [national public key infrastructure was launched with a named security vendor](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9), its master cryptographic keys generated under independently audited conditions, held offline and split among multiple custodians so that no single entity has unilateral control.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Standards technical cooperation agreement with Rwanda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia, Rwanda sign technical cooperation agreement to harmonise standards](https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/)** — Zambia Monitor, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+ZABS-RSB deal signed at the 32nd ARSO Assembly covers mutual recognition of conformity results.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Public Key Infrastructure and Digital Trust Anchor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Bets on Digital Trust](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/)** — Zambia24, 7 September 2026
+
+The communications regulator has operationalised the National Digital Trust Anchor as national root certification authority, under the electronic communications and transactions statute. The framework is to issue and verify the certificates and signatures that establish who a person or organisation is online. No certificate count, list of subordinate authorities or accreditation route accompanies the launch.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia launches national digital trust infrastructure](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9)** — ITWeb Africa, 9 September 2026
+
+Zambia and Altron Security have launched a National Public Key Infrastructure, intended as a sovereign root of trust for digital identity, electronic signatures and secure online government, with certificates carrying legal validity under the country's electronic communications and transactions law. The master cryptographic keys were generated under independently audited conditions in a purpose-built facility and are held offline, split among several custodians so that no single body controls them. The Smart Zambia Institute's national coordinator said the launch is only the beginning and its value depends on whether government can sustain the infrastructure, fund it and get public institutions to adopt it.
+
+</div>
+
+</div>
+
 ### Public debate and participation in policymaking
 
-<!-- narrative: governance--gov-discourse -->
-The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
+<div class="monthly-story" markdown="1">
 
-A second case followed the next day: [a tailor in Mansa was arrested under the cyber crimes statute over a TikTok video insulting the president](https://diggers.news/local/2026/09/12/mansa-tailor-nabbed-for-insulting-hh-on-tiktok/).
+<p class="monthly-story__name">Prosecution of online speech under the Cyber Security and Cyber Crimes Act 2021</p>
 
-The section 54 case ended in custody: [the vlogger was sentenced to nine months on 15 September](https://diggers.news/courts/2026/09/15/vlogger-gets-9-months-for-sharing-screenshot-about-mwanawasas-false-pregnancy/) for forwarding a screenshot.
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[Court convicts vlogger Chishimba over Mwanawasa allegations](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/)** — Mwebantu, 11 September 2026
+
+Lusaka magistrate convicts vlogger under section 54 of the Cyber Security and Cyber Crimes Act No. 2 of 2021.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mansa tailor nabbed for insulting HH on TikTok](https://diggers.news/local/2026/09/12/mansa-tailor-nabbed-for-insulting-hh-on-tiktok/)** — News Diggers, 12 September 2026
+
+Police in Mansa arrested a 38-year-old man over a TikTok video allegedly insulting President Hakainde Hichilema, charging him under Zambia's Cyber Crimes Act with harassment using electronic gadgets. The police statement is dated 11 September 2026, after the Secretary to the Cabinet warned that insulting the President would be prosecuted.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vlogger gets 9 months for sharing screenshot about Mwanawasa's false pregnancy](https://diggers.news/courts/2026/09/15/vlogger-gets-9-months-for-sharing-screenshot-about-mwanawasas-false-pregnancy/)** — News Diggers, 15 September 2026
+
+Nine months for Joseph Chishimba under section 54 of the Cyber Security and Cyber Crimes Act No. 2 of 2021.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Police nab TikToker for saying truck drivers steal fuel, have poor hygiene](https://diggers.news/local/2026/09/19/police-nab-tiktoker-for-saying-truck-drivers-steal-fuel-have-poor-hygiene/)** — News Diggers, 19 September 2026
+
+Ndola arrest of TikToker Natasha Nambeya on a truck drivers' association complaint; the charge is behind the wall.
+
+</div>
+
+</div>
 
 ## Finance
 
 ### New investments
 
-<!-- narrative: finance--finance-new -->
-The regional programme's half-year report [records the acceleration project's unit fully staffed and a second early market engagement on 22 April 2026 for 300 cell towers, 2,000 km of fibre and connectivity for 500 public institutions](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Zambia Acceleration Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+COMESA spent 9% of USD 3.71m 2026 budget by June; Angola, DRC, Malawi, Zambia, Eswatini project status.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: ict-infrastructure--infra-connect -->
-A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and does not reconcile with the ministry's own separate claim for the same period — a reminder that every coverage number here comes from the same source as the target it is measured against.
+<div class="monthly-story" markdown="1">
 
-A mobile operator is [acquiring about 1,300 km of fibre from a related company in the same group for K324.9 million](https://zambianbusinesstimes.com/airtel-invests-k324m-in-1300km-optic-fibre-network/), independently valued and classed as a small related-party transaction (21 September). It moves existing fibre between two companies of one group; it adds no route.
-<!-- /narrative -->
+<p class="monthly-story__name">Mobile and mobile internet subscriptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Giving business and citizens a smart edge](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0)** — Freight News, 3 September 2026
+
+ZamPortal services, 95% mobile coverage 2022-25, internet subscriptions 10.4m (2021) to 14.7m (2025).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt seeks Tech partnerships to build local capacity](https://www.lusakatimes.com/2026/09/18/govt-seeks-tech-partnerships-to-build-local-capacity/)** — Lusaka Times, 18 September 2026
+
+Mobile subscriptions 20.2m to 26m and mobile money K169bn to K486bn 2021-2025; Hikvision-Avit tie-up welcomed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Zambia acquisition of Airtel Telesonic fibre network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel invests K324m in 1,300km optic fibre network](https://zambianbusinesstimes.com/airtel-invests-k324m-in-1300km-optic-fibre-network/)** — Zambian Business Times, 21 September 2026
+
+Related-party deal for about 1,300 km of fibre from Airtel Telesonic, independently valued at K324.9m.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Data Exchange
 
-<!-- narrative: dpi--dpi-exchange -->
-A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe. Bids for the redesign of the Government Service Bus [were evaluated and under the lender's review at June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+<div class="monthly-story" markdown="1">
 
-The regional motor insurance scheme is [piloting online sale of its cross-border Yellow Card in Zambia this year, ahead of a wider rollout, alongside phone-based certificate verification in eight member countries](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538).
-<!-- /narrative -->
+<p class="monthly-story__name">Regional customs-to-customs data exchange roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MOZ/" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Pretoria roadmap for customs-to-customs data exchange across five corridors, 24-26 August.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa Accelerator for Digital Public Infrastructure (AA4DPI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CDPI on its session at the Africa Accelerator for Digital Public Infrastructure, 2–3 September 2026](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba)** — Centre for Digital Public Infrastructure (CDPI), 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Two-day accelerator session, 2–3 Sept 2026: delegations from Ethiopia, Malawi, Rwanda, Sierra Leone, Zambia.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa Accelerator for Digital Public Infrastructure (AA4DPI)](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi)** — United Nations Development Programme, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+UNDP has published the standing description of its Africa Accelerator for Digital Public Infrastructure, led jointly by the Regional Bureau for Africa and the Digital and AI Hub, which supports countries to assess digital readiness, strengthen governance, build implementation capacity and develop investment-ready programmes across digital identity, digital payments and data exchange. Its first published cohort session ran on 2 and 3 September with delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia; no budget, duration or deliverable set is published for the accelerator itself.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP's AA4DPI Programme Deepens South-South Cooperation on Digital Public Infrastructure](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure)** — United Nations Development Programme (UNDP), 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African Union representatives, concluded a two-week South-South learning mission to India on digital public infrastructure. Convened under UNDP's newly launched Africa Accelerator for Digital Public Infrastructure, it took delegates through New Delhi, Pune and Bengaluru to examine India's digital identity, payment and data exchange systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Service Bus</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COMESA Yellow Card online sale pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Online sales piloted in Zambia; phone verification in 8 countries; 340,000 cards and US$27m premiums in 2025.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
-<!-- narrative: dpi--dpi-id -->
-A former deputy minister [defended, on 19 September 2026, the invalidation of the national identity documents of individuals she accuses of abusing cyberspace against the President](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). How many people are affected and under what legal process is unstated, and no government statement of the measure is on file. Re-evaluation of the bids to deploy and integrate the identity and civil registration modules [was complete at June 2026 and awaiting the lender's review](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); no award is on record.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Invalidation of the national identity documents of government critics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Njapau Defends Invalidation Of IDs, Names HH's Online Attackers](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/)** — Lusaka Times, 19 September 2026
+
+Former deputy minister confirms IDs cancelled over online criticism; count, names and legal process unstated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MOSIP-based national digital ID system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XEA/" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
-<!-- narrative: dpi--dpi-pay -->
-The account base under the inclusion figure was stated: [14.7m registered mobile money accounts in 2024 on the monetary fund's financial access survey, of which 77% hold a balance, against one adult in five holding any account at all in 2011](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/), with the central bank phasing out cheque clearing behind it. Registered accounts are not people, and the balance share is the only measure of activity the repository holds against the count.
+<div class="monthly-story" markdown="1">
 
-Trade with China gained a direct channel: a commercial bank [launched renminbi settlement over China's Cross-Border Interbank Payment System in Lusaka on 23 September](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/), with the commerce ministry presenting it as a cut in conversion and intermediary costs. No volume, fee or participant count was published.
-<!-- /narrative -->
+<p class="monthly-story__name">Automated monitoring of mobile money agent activity and liquidity</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African mobile money shifts beyond adoption](https://techtrendske.co.ke/2026/09/04/african-mobile-money-adoption/)** — TechTrendsKE, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
+
+MTN mobile money executives told the group's fintech summit in Johannesburg that high adoption numbers mask weak use of savings and investment products. The Ghanaian chief executive said the platform processes more than 26 million transactions a day but that fewer than 0.3% of users actively invest; the Zambian chief executive said agent numbers were not on their own solving access and that the company had deployed artificial intelligence to monitor agent activity and liquidity to find where customers cannot get cash.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cheque clearing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia: Mobile Money Opened Doors. Fintech Has to Go Further](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/)** — The Fintech Times, 5 September 2026
+
+14.7m registered mobile-money accounts (2024, IMF FAS); 77% hold balances; Bank of Zambia phasing out cheques.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Registered mobile money accounts and their use</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zambia: Mobile Money Opened Doors. Fintech Has to Go Further](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/)** — The Fintech Times, 5 September 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile-money cash-out at a commercial bank's ATMs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoMo, FNB launch Zambia ATM cash-out](https://www.itweb.africa/article/momo-fnb-launch-zambia-atm-cash-out/G98YdqLGnQ9MX2PD)** — ITWeb Africa, 17 September 2026
+
+MTN MoMo and FNB launched a service in Zambia letting mobile-money customers withdraw from their wallets at the bank's ATMs without a card or an account at that bank. It extends a partnership that already carried transfers between wallets and bank accounts and wallet payments at the bank's terminals.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct renminbi settlement through CIPS (Stanbic Bank Zambia)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia says RMB payment system can cut trade costs, deepen China investment](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/)** — Zambia Monitor, 23 September 2026
+
+Stanbic Bank Zambia opens direct renminbi settlement over China's CIPS, backed by the commerce ministry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZamPay and the Government Electronic Payment Gateway</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zamportal revenue crosses $500m mark](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m)** — ITWeb Africa, 1 October 2026
+
+Zambia's finance minister said the national services portal has collected about K9.8 billion across 572 services and 52 providers since 2019. The 2027-2029 budget call circular names the Government Service Bus and payment gateway as the state's centralised revenue-collection system.
+
+</div>
+
+</div>
+
 ### Registries
 
-<!-- narrative: dpi--dpi-registry -->
-One district office in Muchinga Province [reported registering more than 3,000 children under five in the four months to September 2026](https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/), working with the health ministry's environmental health departments.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Continuous civil registration coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia : Govt. Implements Digital Civil Registration](https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/)** — Lusaka Times, 3 September 2026
+
+3,000+ under-fives registered in Lavushimanda in four months; INRIS live in 26 districts since 2022.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
-<!-- narrative: dpi--dpi-mis -->
-Beneficiary checks for the Keeping Girls in School programme [moved from paper forms to a tablet application on which each girl is captured and signs for herself](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/), replacing forms others could sign on her behalf; 25 guidance teachers in Lavushimanda District were trained on it. No national count of schools on the application is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Keeping Girls in School digital beneficiary verification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Trains 25 Teachers In KGS Digital Checklist Verification](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/)** — Lusaka Times, 24 September 2026
+
+GEWEL Keeping Girls in School checks move from paper forms to tablet app; girls now sign for themselves.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
-<!-- narrative: dpi--dpi-govtech -->
-The office platform was ordered across the whole of government. The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and instructed the Smart Zambia Institute to report to his office by the end of October 2026 on the onboarding of ministries, provinces, spending agencies, state-owned enterprises and other public institutions](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/), the direction given at the handover of the system to the airports corporation at Chongwe. It is a direction with a reporting deadline rather than a measured rollout: the repository has carried the platform as a health-ministry pilot since 2025 and holds no count of institutions onboarded.
+<div class="monthly-story" markdown="1">
 
-The office system moved beyond ministries for the first time. The airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/) — the same directive that told every government institution to adopt it now reaching the commercial arm of the state.
+<p class="monthly-story__name">SMART Office Management System</p>
 
-The Public Service Management Division said on 23 September that [a digital platform for the public service funeral scheme, run with an insurer, will roll out in the first week of October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/), letting members update their details, register beneficiaries and track claims by phone or computer instead of on paper. The meteorological department and the agriculture ministry [are building a national digital climate advisory service that sends farmers localised forecast and agronomic advice by text message](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/).
-<!-- /narrative -->
+<div class="bulletin-item" markdown="1">
+
+**[SC encourages Smart Office platform utilisation](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/)** — Lusaka Times, 4 September 2026
+
+Cabinet Secretary orders all public bodies onto the platform; Smart Zambia progress report due end-October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZACL Becomes First State-Owned Enterprise to Adopt SMART Office](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/)** — Efficacy News, 5 September 2026
+
+First SOE onboarded; 406 more staff to be trained across ZACL stations by end-November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tenders published through electronic procurement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia's 103,326 Tenders Reveal the Scale of the Government Procurement Market](https://www.solwezitoday.com/zambias-103326-tenders-reveal-the-scale-of-the-government-procurement-market/)** — Solwezi Today, 14 September 2026
+
+103,326 tenders published on Zambia's eGP in 2025, more than double 2024's 45,724.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public service funeral scheme digital platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Funeral Scheme Digital Platform To Be Rolled Out In October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/)** — Lusaka Times, 24 September 2026
+
+PSMD with Madison Life, first week of Oct 2026; members register beneficiaries and track claims online.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated Media Reporting System (IMRS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt. Launches Integrated Media Reporting System](https://www.lusakatimes.com/2026/09/25/govt-launches-integrated-media-reporting-system/)** — Lusaka Times, 25 September 2026
+
+Ministry-built platform to track the eight presidential priorities for the Presidential Delivery Unit; no cost stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ZamPortal</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zamportal revenue crosses $500m mark](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m)** — ITWeb Africa, 1 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Climate Advisory Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Zambia is building a digital climate advisory service its farmers can act on - TomorrowNow](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/)** — TomorrowNow, 6 October 2026
+
+Met service and agriculture ministry SMS advisories at 4x4 km; 35,000 farmers last season, 1 million targeted next.
+
+</div>
+
+</div>
 
 ## Digitalisation
 
 ### Rural digital data capture
 
-<!-- narrative: digitalisation--digital-rural -->
-A larger programme followed on 15 September: [70 schools are to be connected by satellite with solar power over three years](https://www.lusakatimes.com/2026/09/15/government-launches-digital-learning-programme/), free for the first year and sold at affordable rates after.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Connectivity and Digital Learning programme for 70 schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government launches Digital Learning programme](https://www.lusakatimes.com/2026/09/15/government-launches-digital-learning-programme/)** — Lusaka Times, 15 September 2026
+
+Lynx Zambia Digital Inclusion; 70 schools on Starlink, solar off-grid, targets to 2031.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### AI
 
-<!-- narrative: technology--tech-ai -->
-UNDP [published lessons on 17 September from AI compute it has installed with public institutions in six countries, Zambia among them](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). The lead use here is AI analysis of critical-minerals data with the mines ministry and the environmental agency, with data access still to be confirmed.
+<div class="monthly-story" markdown="1">
 
-The technology ministry [is piloting Njila.ai, an artificial-intelligence career-guidance platform in the technical and vocational training system under a World Bank-backed skills project, expected to reach more than 17,000 young people](https://techafricanews.com/2026/10/12/zambia-ai-career-guidance-platform-youth-skills-gap/).
-<!-- /narrative -->
+<p class="monthly-story__name">Country-hosted AI compute (UNDP AI Infrastructure Activation)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Six-country UNDP review: 21 AI applications identified, and usable data the weakest link, not the GPUs.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Njila.ai career-guidance platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Pilots AI Career Guidance Platform to Bridge Youth Skills Gap](https://techafricanews.com/2026/10/12/zambia-ai-career-guidance-platform-youth-skills-gap/)** — Tech Africa News, 12 October 2026
+
+Zambia's technology ministry is piloting Njila.ai, an artificial-intelligence career-guidance platform, in the technical and vocational training system under a World Bank-backed skills project. The pilot is expected to reach more than 17,000 young people, and feedback is to decide any wider rollout.
+
+</div>
+
+</div>
 
 ## Inclusion
 
 ### Access to services
 
-<!-- narrative: inclusion--include-access -->
-At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure. The operator [launched a self-care application and a short-code digital financial service](https://techreviewafrica.com/news/7580/x); no user figure is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Entry-level home fibre price</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liquid Zambia cuts fibre entry price to K300 and increases speeds](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/)** — Efficacy News, 16 September 2026
+
+Liquid Intelligent Technologies Zambia cut its entry home fibre package to K300 a month for up to 6 Mbps and raised speeds on its other plans at unchanged prices. The company puts Zambian internet penetration at 33% without giving a source.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MyZamtel super app and Kongola Malaiti financial service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zamtel unveils MyZamtel Super App and two Zambia-first digital innovations](https://techreviewafrica.com/news/7580/x)** — Tech Review Africa, 5 October 2026
+
+Zambia's Zamtel launched a self-care application with a build-your-own-bundle option, and Kongola Malaiti, a digital financial service reached by short code. No user figures are given.
+
+</div>
+
+</div>
+
 ### Digital divides
 
-<!-- narrative: inclusion--include-divides -->
+<div class="monthly-story" markdown="1">
 
-A three-year programme run by the presidential delivery unit with private partners [will connect an initial 70 public schools by satellite, adding solar power where schools are off the grid](https://efficacynews.africa/2026/09/18/70-zambian-public-schools-to-receive-starlink-connectivity-under-three-year-programme/). No cost or school list is stated.
-<!-- /narrative -->
+<p class="monthly-story__name">Connectivity and Digital Learning Programme for public schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[70 Zambian Public Schools to Receive Starlink Connectivity Under Three-Year Programme](https://efficacynews.africa/2026/09/18/70-zambian-public-schools-to-receive-starlink-connectivity-under-three-year-programme/)** — Efficacy News, 18 September 2026
+
+Zambia launched a three-year programme to connect an initial 70 public schools by satellite, with solar power for schools off the grid, run by the presidential delivery unit with private partners. No cost or school list is stated.
+
+</div>
+
+</div>
 
 ## Data
 
 ### Open data
 
-<!-- narrative: data--data-open -->
+<div class="monthly-story" markdown="1">
 
-The finance ministry, the statistics agency and UNICEF [launched a national research repository bringing research and evaluations held in hard copy or scattered across institutions onto one platform](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/). No holdings count or licence terms are stated.
-<!-- /narrative -->
+<p class="monthly-story__name">Zambia National Research Repository</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Finance Ministry, ZamStats and UNICEF Launch National Research Repository](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/)** — Efficacy News, 17 September 2026
+
+Central platform for research, evaluations and knowledge products, framed against Vision 2030.
+
+</div>
+
+</div>
+
 ### Use of satellite data
 
-<!-- narrative: data--data-satellite -->
-A Zambian firm founded in 2023, Mytochondria, [uses satellite imagery and artificial intelligence to measure soil moisture, temperature and nutrients and advise farmers on irrigation and fertiliser](https://www.wearetech.africa/fr/fils/tech-stars/zambie-thomas-lungu-optimise-lirrigation-et-les-cultures-grace-au-satellite-et-a-lia), and was placed second in the African Union's startup contest; no user count is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mytochondria soil-monitoring platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambian Entrepreneur Thomas Lungu Brings AI and Satellite Data to Farming](https://www.wearetech.africa/fr/fils/tech-stars/zambie-thomas-lungu-optimise-lirrigation-et-les-cultures-grace-au-satellite-et-a-lia)** — wearetech.africa, 22 September 2026
+
+Zambian start-up Mytochondria, co-founded in 2023 by data scientist Thomas Fred Lungu, uses satellite imagery and AI to assess soil quality, moisture and temperature for farmers. The profile presents it as a response to climate shocks hitting harvests in southern Africa.
+
+</div>
+
+</div>
 
 ## Geopolitics
 
 ### US / hyperscaler activities
 
-<!-- narrative: geopolitics--geopol-usa -->
-The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/). Zambia and the United States [signed the five-year health financing memorandum, put at US$2.49bn, after the specimen-sharing and patient-data clauses were removed](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms). A Zambian outlet reported [a data sharing agreement signed beside the health memorandum, limited to aggregated and de-identified programme data](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">United States health financing memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Ready To Sign US$1.5 Billion US Health Deal After Specimen-Sharing Clause Is Dropped](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/)** — Lusaka Times, 6 October 2026
+
+Zambia's health minister said the five-year health memorandum with the United States is finalised and due for signature this week, after negotiators removed a clause requiring Zambia to share specimens from its disease-surveillance system. The revised text also addresses health data, intellectual property and benefit sharing; this account puts US funding at US$1.5 billion over five years, tapering annually, and an opposition party wants the final text published before signing.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia, US finalise $3.6 billion health deal after public outcry over contentious clauses](https://www.zambiamonitor.com/zambia-us-finalise-3-6-billion-health-deal-after-public-outcry-over-contentious-clauses/)** — Zambia Monitor, 6 October 2026
+
+A second account of the Zambian health minister's briefing puts the money to be mobilised for the sector at US$3.6 billion and gives Thursday as the signing day. The minister said the contested clauses on data protection, intellectual property, benefit sharing and specimens have all been reviewed, and that the specimen-sharing obligation is gone entirely.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[U.S., Zambia sign $2.49-billion health financing pact after removing data and specimen-sharing terms](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms)** — Los Angeles Times, 8 October 2026
+
+Zambia and the United States signed their five-year health financing memorandum in Lusaka after clauses on specimen sharing and patient data were removed. The State Department put it at US$2.49 billion, US$1.52 billion from the United States and US$975 million from Zambia, and Zambia said minerals were not part of it.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia and US Sign Five-Year Health MOU and Data Sharing Agreement — Open Zambia](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership)** — Open Zambia, 8 October 2026
+
+Zambia and the United States signed a five-year health memorandum and a data sharing agreement. On this account the agreement exchanges only aggregated, de-identified programme data, with Zambia keeping ownership under its own laws; the health minister said the money will fund 40,000 health workers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health data sharing agreement with the United States</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zambia and US Sign Five-Year Health MOU and Data Sharing Agreement — Open Zambia](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership)** — Open Zambia, 8 October 2026
+
+Summarised under [US / hyperscaler activities](#us-hyperscaler-activities).
+
+</div>
+
+</div>
+
 ### India activities
 
-<!-- narrative: geopolitics--geopol-india -->
+<div class="monthly-story" markdown="1">
 
-India enters the record as a destination rather than a donor. Officials from the digital and ICT sector and line ministries [joined delegations from Ethiopia, Malawi, Rwanda and Sierra Leone and the African Union Commission on a south-south learning mission hosted by the United Nations Development Programme](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), studying India's digital public infrastructure and the institutions that built it; [the state government of Karnataka received them in Bengaluru on 1 September](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/). No agreement, financing, technology transfer or follow-on commitment is named on either side.
-<!-- /narrative -->
+<p class="monthly-story__name">India digital public infrastructure learning mission</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Karnataka Hosts African Union, Five African Nations For Digital Public Infrastructure Exposure Visit](https://thebengalurulive.com/karnataka-hosts-african-union-five-african-nations-for-digital-public-infrastructure-exposure-visit/)** — The Bengaluru Live, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+AU plus Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia study Karnataka DPI; UNDP-supported.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Delegations Explore India's Digital Public Infrastructure During UNDP Learning Mission](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/)** — Youth Village Zambia, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Five African delegations tour Aadhaar, UPI and DigiLocker on a UNDP South-South mission.
+
+</div>
+
+</div>

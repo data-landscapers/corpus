@@ -1,81 +1,246 @@
 ---
 title: Seychelles — monthly update, September – October 2026
-compiled: 2026-10-15
-period: 2026-09-01 to 2026-10-15
+compiled: 2026-10-16
+period: 2026-09-01 to 2026-10-16
 place: SYC
 ledger_rows: 10
 not_held: 6
-record: 8c77522c22b6
+record: a0e8bb31be79
 ---
 
 # Seychelles: monthly update, September – October 2026
 
-*Developments summarised from sources published between the beginning of last month and today.*
+*Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
-## Summary of the month
+<nav class="article-toc report-siblings" aria-label="Other reports for Seychelles">
+<a href="https://corpus.data-landscapers.io/reports/SYC/SYC-status.html">Status</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/SYC/SYC-progress.html">Progress</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/reports/SYC/SYC-hosting.html">Institution hosting</a>
+</nav>
 
-<!-- narrative: summary -->
-One new financing arrived: the African Development Bank [approved a USD 34 million budget-support loan on 22 September](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998) that names electronic invoicing and a national e-procurement system among its reforms.
-<!-- /narrative -->
+<nav class="monthly-toc" aria-label="Topics in this report">
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#governance">Governance</a>
+<div class="monthly-toc__l2">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#finance">Finance</a>
+<div class="monthly-toc__l2">
+<a href="#new-investments">New investments</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#ict-infrastructure">ICT Infrastructure</a>
+<div class="monthly-toc__l2">
+<a href="#cybersecurity">Cybersecurity</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#dpi">DPI</a>
+<div class="monthly-toc__l2">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</div>
+</div>
+<div class="monthly-toc__group">
+<a class="monthly-toc__l1" href="#technology">Technology</a>
+<div class="monthly-toc__l2">
+<a href="#ai">AI</a>
+</div>
+</div>
+</nav>
 
 ## Governance
 
 ### Strategies, plans and policies
 
-<!-- narrative: governance--gov-policy -->
-Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds. A [commission of inquiry into the border management service agreement between the state and its border-security supplier opened on 2 September 2026, with former ministers testifying](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory); the supplier's system runs the country's digital border control, including the electronic travel authorisation.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commission of Inquiry into the border management service agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Commission of Inquiry opens into Travizory border agreement](https://www.nation.sc/articles/32150/commission-of-inquiry-opens-into-travizory-border-agreement)** — Seychelles Nation, 3 September 2026
+
+Presidential inquiry into the Seychelles-Travizory border agreement opens at the Palais de Justice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Former ministers detail early border system options before Travizory](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory)** — Seychelles Nation, 4 September 2026
+
+Seychelles' Commission of Inquiry into the border management agreement with Travizory Border Security heard testimony from two former ministers on how the country initially explored established international providers before Travizory entered the picture. The report is paywalled beyond that point.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Economic Transformation Forum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabinet Business, Wednesday 09th September 2026](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026)** — State House Seychelles, 9 September 2026
+
+Cabinet clears a Digital Economic Transformation Forum to agree national digital architecture and pilots.
+
+</div>
+
+</div>
+
 ### Data protection
 
-<!-- narrative: governance--gov-protect -->
+<div class="monthly-story" markdown="1">
 
-The information commission's visible work is inducting the officers other public bodies must appoint. It [held the second of its two annual induction sessions for newly appointed information officers, led by its chief executive and a senior information analyst](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios). The enforcement half of its mandate still shows no case: it has been the designated data-protection authority since December 2023, an enforcement-capacity gap was documented in November 2025, and no audit, investigation or fine against any controller has been reported. No count of officers inducted or bodies covered is published.
-<!-- /narrative -->
+<p class="monthly-story__name">Information Commission (data-protection authority)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Commission trains newly appointed IOs](https://nation.sc/articles/32125/information-commission-trains-newly-appointed-ios)** — Seychelles Nation, 2 September 2026
+
+Second 2026 induction for public-body information officers, led by CEO Diana Benoit.
+
+</div>
+
+</div>
+
 ### Standards
 
-<!-- narrative: governance--gov-standards -->
-The department that would write government-wide standards restated its mandate rather than exercising it. Its own Policy, Standards and Research Section [claims adopted technical standards for the seamless interoperability of e-government services, and the integration of every e-government application and database through established software and database standards](https://ict.gov.sc/Sections/PolicySection). None of those standards is published, so the claim can be dated and not checked.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government-wide interoperability standards (DICT Policy, Standards and Research Section)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policy, Standards & Research Section](https://ict.gov.sc/Sections/PolicySection)** — Department of Information Communications Technology (DICT), Government of Seychelles, 1 September 2026
+
+DICT's own mandate statement: government-wide IS standards for e-government interoperability.
+
+</div>
+
+</div>
 
 ## Finance
 
 ### New investments
 
-<!-- narrative: finance--finance-new -->
-The African Development Bank [approved a USD 34 million loan on 22 September for the third and final phase of its Economic Resilience and Green Recovery Support Programme, taking its financing across the three phases to USD 84 million](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998). It is budget support spanning public financial management, the business environment and climate resilience; its named digital reforms are electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal, and no digital share is stated.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB Economic Resilience and Green Recovery Support Programme, phase III (ERGRSP-III)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Development Bank Group — Seychelles, Economic Resilience and Green Recovery Support Programme phase III, 2026](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 22 September 2026
+
+US$34m loan to the Government of Seychelles, approved 22 Sept 2026; e-invoicing and e-procurement among the reforms.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles: African Development Bank approves $34 million loan to strengthen public services, private sector growth and climate resilience](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)** — African Development Bank Group, 23 September 2026
+
+Approved 22 Sept 2026; third and final phase, AfDB total US$84m; funds e-invoicing, e-procurement, investment portal.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
 ### Cybersecurity
 
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The national response team [designed and delivered the third national cyberdrill itself for the first time](https://nation.sc/articles/32649/cert-sc-takes-the-lead-in-third-seychelles-national-cyberdrill).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seychelles National Cyberdrill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CERT-SC takes the lead in third Seychelles National Cyberdrill](https://nation.sc/articles/32649/cert-sc-takes-the-lead-in-third-seychelles-national-cyberdrill)** — Seychelles Nation, 6 October 2026
+
+Seychelles' national computer emergency response team designed and delivered the country's third national cyberdrill itself for the first time. The two-day exercise tests how organisations detect, respond to and recover from cyberattacks.
+
+</div>
+
+</div>
 
 ## DPI
 
 ### Data Exchange
 
-<!-- narrative: dpi--dpi-exchange -->
-Cabinet [approved the establishment of a hydrographic office inside the maritime safety authority](https://statehouse.gov.sc/news/7258/beneath-our-waters-why-seychelles-needs-a-hydrographic-office), reported on 15 September, to bring hydrographic information together from across government and international partners. No start date, staffing or data-sharing arrangement is published.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seychelles Hydrographic Office</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Beneath Our Waters: Why Seychelles Needs a Hydrographic Office](https://statehouse.gov.sc/news/7258/beneath-our-waters-why-seychelles-needs-a-hydrographic-office)** — State House Seychelles, 15 September 2026
+
+Cabinet approved a hydrographic office inside the maritime safety authority, to bring hydrographic information together from across government and international partners for navigation, search and rescue, marine planning and the blue economy.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
-<!-- narrative: dpi--dpi-pay -->
+<div class="monthly-story" markdown="1">
 
-The social protection registry gained a use: [an agreement signed in September puts post-disaster cash transfers on its beneficiary registry and payment rails](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness), with no value or trigger stated.
-<!-- /narrative -->
+<p class="monthly-story__name">Pre-arranged post-disaster cash transfers on the social protection registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles signs cash transfer pact to boost climate preparedness](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness)** — Seychelles Nation, 9 September 2026
+
+ASP beneficiary registry and payment rails to carry post-disaster cash transfers; no value stated.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
-<!-- narrative: dpi--dpi-govtech -->
-[The Vice-President said the public service is expected to begin moving to a digital human resource management system in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027).
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-service digital human resource management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government Targets Introduction of Digital Human Resource Management System in 2027](http://www.statehouse.gov.sc/news/7300/government-targets-introduction-of-digital-human-resource-management-system-in-2027)** — State House Seychelles, 14 October 2026
+
+Vice-President briefs FreeBalance; 2027 transition target; aim to process more digital transactions inside Seychelles.
+
+</div>
+
+</div>
 
 ## Technology
 
 ### AI
 
-<!-- narrative: technology--tech-ai -->
-The tourism minister [told a forum on 1 October that its discussions are to feed a Seychelles Tourism Digital and AI Agenda](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector), with the tourism department to follow up; no text or timetable is stated.
-<!-- /narrative -->
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seychelles Tourism Digital and AI Agenda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Seychelles' tourism minister pushes for AI and data-driven approach to reshape tourism sector](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector)** — Seychelles News Agency, 2 October 2026
+
+Minister sets AI and forecasting direction; Lazio HRM workforce platform; Tourism Digital and AI Agenda to follow.
+
+</div>
+
+</div>

@@ -56,7 +56,7 @@ status: in force; Corpus-owned
 - **On every build**, at BUILD.md stage 4: `report-scan.py` names initialised units holding sources the layer has not looked at; a model reads only those against the ledger and moves any row they move. Places with no ledger are skipped — this pass never initialises. The unconsidered set is a **set difference over slugs, not a date window**, so an interrupted build resumes cleanly.
 - **The status report is refreshed on any build where a row moved.** Its filename carries no period.
 - **The monthly and the progress report move with their windows.** The monthly's opens on the first of the last closed month, the progress report's twelve months earlier; both close on the day the document last changed.
-- **A month in which nothing moved still issues a monthly, and the monthly says so**, in the renderer's voice, with no narrative block.
+- **A month in which nothing moved still issues a monthly, and the monthly says so**, in the renderer's voice.
 
 **Both windows open on a month boundary and run to the present**: on 14 August the monthly covers 1 July–14 August, and says so.
 
@@ -120,13 +120,13 @@ Prose here. Every interpretive sentence carries its citation.
 
 **The narrative carries its own citations, even where the table above links the same source.** Link the claim, not the sentence: one link where the fact is asserted.
 
-**The monthly update carries no table** — prose by section, of dated, cited developments.
+**The monthly update carries no table and no prose** *(Bill, 2026-10-16)*: the bulletin's item cards for the in-window sources of the rows that moved, each row's sources grouped as one story, oldest first. A summary is the bulletin's where one was written, otherwise the record's `catalogue_hero`. It opens on links to the place's other reports, then a contents of sections with their subjects beneath.
 
 **A country report's sections are the taxonomy's Level-1 chapters, in `lookups/taxonomy.csv`'s order** — ten, opening on Governance, the same in all three documents and the bulletin (`report-country-skeleton.md` → *Sections*). A region's `report-region-sections.csv` groups its own objects, not the taxonomy.
 
-**Within a section, every process sub-groups by taxonomy Level-2 subject, in the taxonomy's own order.** Status and progress print one table per subject under a `###` sub-heading carrying its `taxonomy.csv` label. Monthly prints one narrative block per subject, keyed `{section-key}--{subject-slug}` (dots become hyphens: `dpi--dpi-pay`), each under its own `###` sub-heading.
+**Within a section, every process sub-groups by taxonomy Level-2 subject, in the taxonomy's own order.** Status and progress print one table per subject under a `###` sub-heading carrying its `taxonomy.csv` label. Monthly prints that subject's stories under its own `###` sub-heading.
 
-**An empty section or sub-section is not printed at all, and the status report is the only exception.** In the monthly (nothing moved) and the progress report, it gets no heading and no block. The status report states the absence in a renderer sentence: *"The base holds no {section} rows for {place}. A thin evidence base is a finding, not a gap in this document."*
+**An empty section or sub-section is not printed at all, and the status report is the only exception.** In the monthly (nothing moved) and the progress report, it gets no heading. The status report states the absence in a renderer sentence: *"The base holds no {section} rows for {place}. A thin evidence base is a finding, not a gap in this document."*
 
 **Figures are script-emitted from the ledger**; a hand-written number in a narrative block is a defect (check H). A table refresh never touches prose; blocks carry across by marker id.
 

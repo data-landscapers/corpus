@@ -107,7 +107,7 @@ python scripts/topic-render.py --check    # check G over what it wrote
 
 ## Deferred stages — not yet in this build
 
-**Report initialisation from the wiki**, for a place with no ledger, and **monthly narratives** for the issues carrying empty per-subject blocks. Neither is run now; `documentation/build.md` says why.
+**Report initialisation from the wiki**, for a place with no ledger. It is not run now; `documentation/build.md` says why.
 
 ## Source bodies — the rule outlives its gate
 

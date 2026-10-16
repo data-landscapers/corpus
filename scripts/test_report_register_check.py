@@ -105,10 +105,9 @@ check("rate pattern finds nothing in a flat line",
 
 print("\na skeleton that stops naming a document is fatal, not a silent skip")
 for kind, text, want_missing in (
-        ("country", "**Prose only: 1,000–1,450 words for a status report.**\n", "monthly"),
         ("country", "**Prose only: 300 + 25 to 1,200 + 55 words a row for a monthly.**\n", "status"),
-        ("region", "**Prose only: 800–1,150 words for a progress report.**\n", "monthly"),
-        ("country", "**Prose only: no numbers at all.**\n", "monthly, status")):
+        ("region", "**Prose only: 300 + 25 to 900 + 55 words a row for a monthly.**\n", "progress"),
+        ("country", "**Prose only: no numbers at all.**\n", "status")):
     err = io.StringIO()
     code = None
     try:
@@ -125,8 +124,9 @@ for kind in ("country", "region"):
     got = set(rrc.budgets(kind))
     check(f"{kind} skeleton names {sorted(rrc.REQUIRED[kind])}",
           rrc.REQUIRED[kind] <= got, True)
-check("country monthly is a rate", rrc.budgets("country")["monthly"].scaled, True)
-check("region monthly is a rate", rrc.budgets("region")["monthly"].scaled, True)
+# The monthly is item cards with no prose since 2026-10-16, so neither skeleton budgets it.
+check("country skeleton budgets no monthly", "monthly" in rrc.budgets("country"), False)
+check("region skeleton budgets no monthly", "monthly" in rrc.budgets("region"), False)
 
 print("\na rate band with no row count is fatal, not a nought")
 err = io.StringIO()

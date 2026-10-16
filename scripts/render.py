@@ -722,7 +722,9 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # jump to. The bulletin has no standfirst and so puts its bar first — same element, same
     # position relative to the prose. `bulletin` is excluded because it builds its own, pruned by
     # a script to the categories an edition actually reaches.
-    if kind in ("status", "monthly", "progress"):
+    # A document that brings its own contents keeps them: the country and region monthlies carry
+    # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
+    if kind in ("status", "monthly", "progress") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
         if bar:
             lead = re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)',

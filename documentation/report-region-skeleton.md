@@ -71,11 +71,7 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 ## Word budget
 
-**Prose only, tables excluded: 100 to 160 words a section for a progress report, and 300 + 25 to 900 + 55 words a row for a monthly** — the progress report a rate per narrative section it writes, the monthly an intercept plus a rate per ledger row inside its own window, resolved against the `ledger_rows` it prints. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit. **The floor is never above 46 words a row for a monthly** *(2026-10-12)*: a region month of four rows owes four useful blocks, not the 400 words the intercept would ask.
-
-**The deliberately low flat band is now stated as a rate, which is what it was reaching for** *(2026-09-08)*. A region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it — so the budget should be small when the ledger is. A flat 500–1,300 said that by assuming the ledger is always short, and `XAF` is the standing case where it is not: 101 rows moved into its window on 2026-09-08 and the document ran to 6,175 words. A rate says the same thing without the assumption, and it binds harder on the thin regions than the flat number did: three rows buy 375–1,065 words where the old floor allowed 500 for nothing in particular.
-
-The region's ceiling rate matches the country's; its intercept is lower because a region has no status report to carry the standing description, so less of its monthly is fixed overhead. See `report-country-skeleton.md` → *Word budget* for the rest of the reasoning.
+**Prose only, tables excluded: 100 to 160 words a section for a progress report** — a rate per narrative section it writes. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit. **The monthly carries no prose and has no budget** *(Bill, 2026-10-16)*. It is the bulletin's item cards over the window, grouped by the ledger row each source moved, oldest first; `render_monthly()` in `report-render.py` holds the rule.
 
 **The progress band is now per section, and the two standing exceptions retire** *(2026-09-17, strategic review 4 R13)*. A progress report writes one narrative block a section, so the section count is what its length is set by, and a region whose ledger reaches four of the eight sections should be budgeted for four. The flat floor could only be met by writing about what the ledger does not hold — `XNA` sat 397 words under it for nine days as a ruled exception, which is a check reporting a thing nobody intends to fix. Six measured documents fall between 101 and 155 words a section (`XNA` 403 over 4, `XCA` 929 over 6, `XEA` 892 over 6, `XWA` 1,141 over 8, `XAF` 1,150 over 8, `XSA` 1,149 over 8), so the band is **100–160**: every one of them passes, a thin region is held to what it holds, and the ceiling at eight sections is 1,280 rather than 1,150, which is the headroom the note below asked for. `BUDGET_SECTION_LINE` in `report-register-check.py` is the machinery, and the three forms a skeleton may write are flat, a rate per row, and a rate per section.
 
@@ -91,7 +87,7 @@ Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)
 
 **In the progress report**, keys are `summary`, `institutions`, `instruments`, `systems`, `coordination`, `capacity`, `finance`, `gaps` — one block per section.
 
-**In the monthly**, `render_monthly()` is the same code a country's monthly runs (`report-render.py`), and its keys are one block per *subject that moved this month*, not per section: `summary`, then `{section-key}--{subject-slug}` for every Level-2 subject with at least one row published in the window — dots become hyphens, exactly as `report-country-skeleton.md` describes. A section with nothing moved gets no heading and no block; a section with something moved gets one sub-heading and one marker per subject under it, not one marker for the whole section.
+**The monthly carries no markers** *(2026-10-16)*: it is item cards, rendered whole by `render_monthly()`.
 
 Everything outside the markers belongs to the renderer and is overwritten without warning; everything inside belongs to the model and is never touched by a script.
 
