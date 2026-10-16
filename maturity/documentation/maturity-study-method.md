@@ -12,19 +12,15 @@ status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11. The sim
 
 ## 0. What a study is
 
-**One indicator, all 54 countries, in three steps** *(Bill, 2026-10-11)*:
+**One indicator, all 54 countries, prepared and run without stopping** *(Bill, 2026-10-11; the confirmation step removed 2026-10-16)*: Corpus writes the study file (§9), questions included, and runs straight on: read, stage, write, render, the soft-launch map (§4, §7, §8). **Bill is not asked to confirm the questions**; they are written plainly and small (§2) and reported at the end. Every doubt is settled conservatively and reported at the end.
 
-1. **Corpus prepares**: the study file (§9), and stops.
-2. **Bill confirms the questions.**
-3. **Corpus runs without stopping**: read, stage, write, render, the soft-launch map (§4, §7, §8).
-
-**Bill is asked one thing: the questions.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3. **Step 1 starts in a fresh session** *(Bill, 2026-10-12)*: asked to prepare in a session that has done other work, CC asks Bill to clear and does nothing until he has. **Step 3 needs no clearing** and may follow step 1 in the same session. Every other doubt is settled conservatively and reported at the end.
+**Most indicators are first studied in a batch**, cheaply, under `first-pass-batch.md`: "run maturity batch {ids}".
 
 **What Bill reads is in plain words.** A question, a stage and a report line say what is true of a country, in words that need no knowledge of this file.
 
 **A study touches its own row and no other.** Which indicators the frame holds is Bill's decision alone; a study never proposes adding, merging or retiring one.
 
-**A study has a token ceiling, stated at step 1** *(Bill, 2026-10-11)*. Each fan-out runs as one workflow. The run checks `python scripts/study-tokens.py` after each, stops and reports at the ceiling, and puts the total in its log line.
+**A study has a token ceiling, stated in its study file** *(Bill, 2026-10-11)*. Each fan-out runs as one workflow. The run checks `python scripts/study-tokens.py` after each, stops and reports at the ceiling, and puts the total in its log line.
 
 **Where things live** *(Bill)*: anything generic in `maturity/documentation/`, a study's file and working files in `maturity/{id}/`, what it issues in `outputs/maturity/{id}/`.
 
@@ -51,7 +47,7 @@ Output: `systems.csv`, one row per named thing per country.
 5. **Answers are as at the as-at date**: a later dated source that reverses a yes, reverses it.
 6. **An unanswered question stops the count**; the short summary names it. A country with no answer at all is *No evidence*.
 7. **The top stage is reachable**: its question is a published fact, never a statement of alignment with a norm.
-8. **The questions are fixed at step 2.** One that drafters read two ways is reworded during the run, the study file says so, and every country is restaged.
+8. **The questions are fixed when the study file is written.** One that drafters read two ways is reworded during the run, the study file says so, and every country is restaged.
 
 ## 4. Reading
 

@@ -8,8 +8,6 @@ status: first used for maturity study health, task H3
 
 # Drafter brief: read one call, write its facts
 
-*(Method §4 as instructions. The parent merges and checks what you write.)*
-
 ## What you are given
 
 A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` of each of its documents, or regional stories (below). Sometimes also aspects: record only those.
@@ -31,7 +29,7 @@ A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` 
 - `sub_indicator` and `aspect`: keys from `study.json`.
 - `value`: from that aspect's closed list, exactly as spelt. A facet aspect takes one `facet:value`; a `multi` aspect takes its values joined by `;`.
 - `fact`: one sentence, in English, giving what the document states with its figures: numerator, denominator and who says so, where it gives them. No quotation of more than a few words.
-- `as_of`: when the stated thing was true, as `YYYY`, `YYYY-MM` or `YYYY-MM-DD`. **The event's date, not the document's.** Where the document gives none, use its `published` date and say so in `fact`.
+- `as_of`: when the stated thing was true, as `YYYY`, `YYYY-MM` or `YYYY-MM-DD`. **The event's date, not the document's.** Where it gives none, use its `published` date and say so.
 - `date_precision`: `year`, `month` or `day`.
 - `system`: the system's name as the document gives it.
 - `class`: the class the typology gives the system. **A fact is recorded only for a system of the sub-indicator's own class.** A system of any other class is a `systems` entry and gives no fact.
@@ -74,6 +72,10 @@ A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` 
 
 Each listed country gets an entry, shaped as a country file's lists and `note`.
 
+## A shared call
+
+**A shared call** (`first-pass-batch.md`) is a regional call over several studies. Answer each study from its aspects, into `maturity/_batch/shared/{key}.json`: `{"slug", "studies": {id: {"countries": {ISO3: {...}}}}}`.
+
 ## When you finish
 
-Reply in three lines at most: documents read, facts written, and anything the parent must know, such as a file that would not open.
+Reply in three lines at most: documents read, facts written, anything the parent needs.

@@ -64,6 +64,8 @@ Exit 1 from `order` ends the stage. Otherwise work each arrival in turn, a count
 
 ## The rotation — one indicator, whole
 
+**The rotation is the deep dive** *(Bill, 2026-10-16)*: most indicators are first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). A first-pass indicator is owed its rotation first, and the rotation adds what the first pass skipped: the second-drafter check of method §7.3, and a fresh reading of every cell whose `note` opens *First pass:*.
+
 **Stage 4c never looks back.** A cell staged on a 2023 figure stays there until a document happens to arrive; a rung read one way in Angola and another in Zambia passes every check. The rotation re-reads an indicator across all its countries at once.
 
 ```bash
