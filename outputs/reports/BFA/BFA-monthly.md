@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: BFA
-ledger_rows: 35
+ledger_rows: 39
 not_held: 8
-record: 2b74015426b6
+record: 4560a6f50273
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -37,7 +37,11 @@ record: 2b74015426b6
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -72,6 +76,22 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 </div>
 
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Authorisation of personal-data transfers abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Demande d’autorisation de transfert de données vers un pays étranger](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)** — Commission de l’Informatique et des Libertés (CIL), Burkina Faso, 1 September 2026
+
+CIL application form to transfer personal data abroad: recipient, destination authority, consent, security measures.
+
+</div>
+
+</div>
+
 ### Regional collaboration
 
 <div class="monthly-story" markdown="1">
@@ -91,6 +111,22 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 **[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National standardisation, metrology and quality agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ABNORM - Agence Burkinabé de Normalisation, de Métrologie et de la Qualité](https://www.iso.org/member/269997.html)** — International Organization for Standardization, 16 October 2026
+
+ISO lists ABNORM as Burkina Faso's member body, participating in 9 technical committees and observing 5.
 
 </div>
 
@@ -239,6 +275,20 @@ Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of
 **[Ghana, Burkina Faso flood management, what's AV-STEC Project role?](https://gna.org.gh/2026/09/ghana-burkina-faso-flood-management-whats-av-stec-project-role/)** — Ghana News Agency, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 At an AV-STEC project meeting in Bolgatanga, Ghanaian and Burkinabe officials proposed a Bagre-Kompienga release protocol based on real-time data sharing and agreed spill thresholds. Burkina Faso's power utility SONABEL said letters to Ghana's Volta River Authority since October 2025 had gone unanswered. Participants cited slow warnings, weak data sharing between forecasters and responders, and false alarms; the project is funded through Canada's IDRC.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BIC-UEMOA credit information bureau</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Only 20 of 120 Burkina MFIs must report (end-2025); FCFA 2bn Article 70 threshold; client consent now mandatory.
 
 </div>
 
@@ -671,6 +721,20 @@ Burkina Faso's National Statistics Council held its first 2026 session on 11 Sep
 **[Burkina : Le Conseil national de la statistique tient sa première session ordinaire de l’année 2026](https://lefaso.net/spip.php?article149178)** — leFaso.net, 11 September 2026
 
 Summarised under [National statistics](#national-statistics).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute open data licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Licence de données ouvertes](https://www.insd.bf/fr/licence-data-insd)** — INSD, 16 October 2026
+
+Worldwide, free, non-exclusive reuse including commercial, attribution required; governed by Burkina Faso law.
 
 </div>
 

@@ -3,9 +3,9 @@ title: Benin — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: BEN
-ledger_rows: 34
+ledger_rows: 35
 not_held: 4
-record: d59e5288dcc1
+record: 838998dc47a6
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -39,6 +39,20 @@ record: d59e5288dcc1
 </nav>
 
 ### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Code Article 550 on harassment through electronic communications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CPJ letter to President Wadagni: press freedom concerns in Benin](https://cpj.org/wp-content/uploads/2026/09/EN-CPJ-Letter-to-His-Excellency-the-President-of-Benin-September-1-2026.pdf)** — Committee to Protect Journalists, 1 September 2026
+
+CPJ asks the new president to stop Digital Code Article 550 being used against journalists, 100 days in.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
