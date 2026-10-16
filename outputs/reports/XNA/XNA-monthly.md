@@ -5,19 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: a1a1d97842c2
+record: 0be40ec24599
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Region reports: North Africa</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for North Africa">
-<a href="https://corpus.data-landscapers.io/reports/XNA/XNA-progress.html">Progress</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#institutions-and-mandates">Institutions and mandates</a>

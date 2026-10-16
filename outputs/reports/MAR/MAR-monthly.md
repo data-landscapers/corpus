@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: MAR
 ledger_rows: 29
 not_held: 14
-record: f207833094e8
+record: f247c8f5d706
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Morocco</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Morocco">
-<a href="https://corpus.data-landscapers.io/reports/MAR/MAR-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/MAR/MAR-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/MAR/MAR-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: BEN
 ledger_rows: 34
 not_held: 4
-record: 711a52e07a5a
+record: d59e5288dcc1
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Benin</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Benin">
-<a href="https://corpus.data-landscapers.io/reports/BEN/BEN-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/BEN/BEN-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/BEN/BEN-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

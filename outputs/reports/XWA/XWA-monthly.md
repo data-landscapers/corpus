@@ -5,19 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: XWA
 ledger_rows: 27
 not_held: 1
-record: 12838e9e7ca9
+record: a871429cac27
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Region reports: West Africa</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for West Africa">
-<a href="https://corpus.data-landscapers.io/reports/XWA/XWA-progress.html">Progress</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#institutions-and-mandates">Institutions and mandates</a>

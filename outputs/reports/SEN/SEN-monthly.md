@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: SEN
 ledger_rows: 57
 not_held: 3
-record: 75e37fd21226
+record: a0dce3f84974
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Senegal</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Senegal">
-<a href="https://corpus.data-landscapers.io/reports/SEN/SEN-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/SEN/SEN-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/SEN/SEN-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

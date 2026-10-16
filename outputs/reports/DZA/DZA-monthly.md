@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: DZA
 ledger_rows: 36
 not_held: 6
-record: 216b443a2bc8
+record: 5203fce84b72
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Algeria</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Algeria">
-<a href="https://corpus.data-landscapers.io/reports/DZA/DZA-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/DZA/DZA-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/DZA/DZA-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

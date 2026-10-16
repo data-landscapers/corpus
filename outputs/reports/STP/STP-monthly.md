@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: STP
 ledger_rows: 1
 not_held: 6
-record: d77016c02c8b
+record: 102069a7a310
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Sao Tome and Principe</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Sao Tome and Principe">
-<a href="https://corpus.data-landscapers.io/reports/STP/STP-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/STP/STP-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/STP/STP-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#ict-infrastructure">ICT Infrastructure</a>

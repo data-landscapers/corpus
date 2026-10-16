@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: BFA
 ledger_rows: 35
 not_held: 8
-record: f0bbd0d270eb
+record: 2b74015426b6
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Burkina Faso</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Burkina Faso">
-<a href="https://corpus.data-landscapers.io/reports/BFA/BFA-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/BFA/BFA-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/BFA/BFA-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

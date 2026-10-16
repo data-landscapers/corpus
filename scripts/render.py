@@ -434,6 +434,34 @@ def promote_standfirst(html: str) -> str:
 H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
 
 
+# **A place's reports, above the title of each** *(Bill, 2026-10-16)*: "Country reports: Kenya",
+# a rule, then links to the place's other reports, then the page's own title without the place
+# in it. Built here rather than in the source, because the status report is authored by hand
+# and every report passes through this file. The other kinds join `FAMILY_PAGES` as their pages
+# are brought into line.
+FAMILY = (("status", "Status"), ("monthly", "Monthly"), ("progress", "Progress"),
+          ("hosting", "Institution hosting"))
+FAMILY_PAGES = {"status", "monthly"}
+
+
+def report_family(md_path: Path, kind: str, meta: dict) -> str:
+    unit = (meta.get("place") or "").strip()
+    if kind not in FAMILY_PAGES or not unit or tree_of(md_path) != "reports":
+        return ""
+    import bulletin                      # the one map of place names the boxes use too
+    name = bulletin.place_names().get(unit, unit)
+    family = "Region reports" if unit.startswith("X") else "Country reports"
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    links = f"\n{sep}\n".join(
+        f'<a href="{SITE_BASE}/reports/{unit}/{unit}-{k}.html">{label}</a>'
+        for k, label in FAMILY
+        if k != kind and (SITE / "reports" / unit / f"{unit}-{k}.html").exists())
+    return ('<div class="report-family">\n'
+            f'<div class="report-family__kicker">{family}: {name}</div>\n'
+            f'<nav class="article-toc report-siblings" aria-label="Other reports for {name}">\n'
+            f'{links}\n</nav>\n</div>\n')
+
+
 def contents_bar(html: str) -> str:
     """A jump nav over the document's `<h2>`s, or nothing if it has fewer than two."""
     found = H2.findall(html)
@@ -723,23 +751,23 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # position relative to the prose. `bulletin` is excluded because it builds its own, pruned by
     # a script to the categories an edition actually reaches.
     # A document that brings its own contents keeps them: the country and region monthlies carry
-    # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*. **The siblings
-    # bar goes above the header**, since it is about the place rather than this document, and
-    # it is lifted out of the body to sit there.
-    pre_header = ""
-    sib = re.search(r'<div class="report-family">.*?</nav>\s*</div>\s*', html_body, re.S)
-    if sib:
-        pre_header = sib.group(0).strip() + "\n"
-        html_body = html_body[:sib.start()] + html_body[sib.end():]
+    # a three-tier one, siblings then sections then subjects *(Bill, 2026-10-16)*.
+    pre_header = report_family(md_path, kind, meta)
     if kind in ("status", "monthly", "progress") and "monthly-toc" not in html_body:
         bar = contents_bar(html_body)
+        if bar and pre_header:   # under the family heading, the sections hold one line as the monthly's do
+            bar = bar.replace('class="article-toc"', 'class="article-toc monthly-toc"', 1)
         if bar:
-            lead = re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)',
+            lead =re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)',
                             html_body, re.S)
             html_body = (lead.group(1) + bar + html_body[lead.end():]) if lead \
                 else bar + html_body
 
     title = meta.get("title") or h1 or md_path.stem
+    # Under the family heading the place is already named, so the hand-authored status report,
+    # which has no H1 of its own, is titled by its kind alone. The tab keeps `title`.
+    if pre_header and not h1:
+        h1 = KIND_LABEL.get(kind) or None
     # The HTML permalink carries no period *(Bill, 2026-08-13)*: `AGO-monthly.html`,
     # not `AGO-monthly-2026-07.html`. The HTML is always the current document, so a
     # period in its name is a contradiction — it would freeze a permanent URL to one
@@ -1032,6 +1060,7 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     # change and its material has not, the document's source moves but nothing a reader cites
     # has: `--redesign` keeps the edition the page already serves and repages under it. The page
     # records the new source digest, so the next ordinary render holds too.
+    repage = repage or redesign
     if held is None and redesign and not (edition or force):
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         served = html_path.read_text(encoding="utf-8") if html_path.exists() else ""

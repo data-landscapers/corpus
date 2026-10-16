@@ -5,19 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 7e423f0d693e
+record: 196c0c83680b
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Region reports: Africa</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Africa">
-<a href="https://corpus.data-landscapers.io/reports/XAF/XAF-progress.html">Progress</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#institutions-and-mandates">Institutions and mandates</a>

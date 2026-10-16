@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: COM
 ledger_rows: 10
 not_held: 24
-record: 9897674c7d08
+record: abd11d8eeaed
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Comoros</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Comoros">
-<a href="https://corpus.data-landscapers.io/reports/COM/COM-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/COM/COM-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/COM/COM-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

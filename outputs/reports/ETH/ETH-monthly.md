@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: ETH
 ledger_rows: 30
 not_held: 5
-record: b23e098d7e63
+record: 1d5225bf96e7
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Ethiopia</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Ethiopia">
-<a href="https://corpus.data-landscapers.io/reports/ETH/ETH-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/ETH/ETH-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/ETH/ETH-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

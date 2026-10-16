@@ -5,19 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: XCA
 ledger_rows: 12
 not_held: 0
-record: 98d5e1d0b90a
+record: ab4c4f8f9a26
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Region reports: Central Africa</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Central Africa">
-<a href="https://corpus.data-landscapers.io/reports/XCA/XCA-progress.html">Progress</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#institutions-and-mandates">Institutions and mandates</a>

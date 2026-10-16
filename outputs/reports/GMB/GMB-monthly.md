@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: GMB
 ledger_rows: 46
 not_held: 2
-record: 9f220372a566
+record: 4a496c6ecf61
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Gambia</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Gambia">
-<a href="https://corpus.data-landscapers.io/reports/GMB/GMB-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/GMB/GMB-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/GMB/GMB-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

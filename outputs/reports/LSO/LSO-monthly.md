@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: LSO
 ledger_rows: 16
 not_held: 4
-record: 53900fb6e419
+record: 07f35a250686
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Lesotho</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Lesotho">
-<a href="https://corpus.data-landscapers.io/reports/LSO/LSO-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/LSO/LSO-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/LSO/LSO-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

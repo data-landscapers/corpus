@@ -1303,32 +1303,8 @@ def catalogue_items():
     return out
 
 
-# The three other documents a place has, in the order the country page lists them. A document is
-# linked only where its page exists, so a region — which has no status or hosting report — gets
-# the one it has. Maturity and finance join this list when they become per-place reports.
-SIBLINGS = (("status", "Status"), ("progress", "Progress"), ("hosting", "Institution hosting"))
-
-
-def sibling_nav(unit):
-    # The repository, not `ROOT`: BUILD runs this from the workroot, which carries no `site/`.
-    site = os.path.join(str(bulletin().CORPUS), "site", "reports", unit)
-    found = [(k, label) for k, label in SIBLINGS
-             if os.path.exists(os.path.join(site, f"{unit}-{k}.html"))]
-    if not found:
-        return []
-    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
-    base = bulletin().SITE_BASE
-    links = f"\n{sep}\n".join(f'<a href="{base}/reports/{unit}/{unit}-{k}.html">{label}</a>'
-                              for k, label in found)
-    # Headed by its own small caps, ruled off, above the page's title *(Bill, 2026-10-16)*.
-    # One raw block with no blank line inside, so Markdown passes it through whole and
-    # `render.py` can lift it above the header.
-    family = (f"Region reports: {place_name(unit)}" if unit.startswith("X")
-              else f"Country reports: {place_name(unit)}")
-    return ['<div class="report-family">',
-            f'<div class="report-family__kicker">{family}</div>',
-            f'<nav class="article-toc report-siblings" aria-label="Other reports for '
-            f'{place_name(unit)}">', links, "</nav>", "</div>", ""]
+# The place's other reports, above the title, are `render.py`'s (`report_family`): the status
+# report is authored by hand and every report passes through there.
 
 
 def jump_bar(labels, cls, aria):
@@ -1416,7 +1392,7 @@ def monthly_body(unit, changed, ordered, subj, start, end):
                 out += [text, ""]
         return out + ["</div>", ""]
 
-    lines = sibling_nav(unit) + topic_toc(tree)
+    lines = topic_toc(tree)
     placed = {}
     for section, subjects in plan:
         lines += [f"## {section}", ""]

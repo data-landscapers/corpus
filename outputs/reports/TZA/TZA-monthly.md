@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: TZA
 ledger_rows: 72
 not_held: 5
-record: 5a4e32849739
+record: 2240fc0d9fa2
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Tanzania</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Tanzania">
-<a href="https://corpus.data-landscapers.io/reports/TZA/TZA-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/TZA/TZA-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/TZA/TZA-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>

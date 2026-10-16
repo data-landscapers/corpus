@@ -5,23 +5,12 @@ period: 2026-09-01 to 2026-10-16
 place: SWZ
 ledger_rows: 37
 not_held: 3
-record: 2f7dd9be4842
+record: 48d4935395d5
 ---
 
 # Monthly update, Sep – Oct 2026
 
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
-
-<div class="report-family">
-<div class="report-family__kicker">Country reports: Eswatini</div>
-<nav class="article-toc report-siblings" aria-label="Other reports for Eswatini">
-<a href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-status.html">Status</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-progress.html">Progress</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-hosting.html">Institution hosting</a>
-</nav>
-</div>
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
