@@ -3,9 +3,9 @@ title: Madagascar — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: MDG
-ledger_rows: 28
+ledger_rows: 29
 not_held: 5
-record: ebf4ed65990a
+record: e8c97c8017b2
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -225,6 +225,20 @@ Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tuni
 **[Fifandraisan-davitra sy ny nomerika : tolotra maimaimpoana i Madagasikara](https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php)** — Tia Tanindrazana, 8 September 2026
 
 Madagascar's digital development and telecoms ministry obtained 300 Starlink kits with free internet service under a cooperation with Starlink, reported on 8 September 2026, to connect remote areas. It follows free internet installed at the main public universities. No duration or cost of the free service is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unique mobile internet penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[GSMA: Digital Reforms Could Connect 1.12 million More People in Madagascar and Add MGA 4.1 trillion to GDP by 2031](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/)** — GSMA, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Four reform priorities for Madagascar; 14.3% mobile internet penetration (2025); Africa spectrum costs 24% higher.
 
 </div>
 
