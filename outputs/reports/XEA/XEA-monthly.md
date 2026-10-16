@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XEA
 ledger_rows: 20
 not_held: 0
-record: c6bd865290b3
+record: 88baf4877368
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -71,7 +71,7 @@ The IGAD Council of Ministers, meeting in Djibouti on 15 September 2026, endorse
 
 <div class="bulletin-item" markdown="1">
 
-**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html#governance" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#governance" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#governance" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#governance" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#governance" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#institutions-and-mandates" title="XSA">Southern Africa</a>
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 COMESA's half-year progress report on the World Bank-financed Inclusive Digitalisation in Eastern and Southern Africa programme, a US$2.48 billion envelope, covers January to June 2026 in Angola, the DRC, Malawi, Zambia and Eswatini. The COMESA secretariat had spent 9% of its US$3.71 million 2026 budget by June, and moved its AI and regional digital inclusion consultancies from procurement to implementation.
 
@@ -125,7 +125,7 @@ IGAD opened a two-day consultation in Addis Ababa to develop a common Horn of Af
 
 <div class="bulletin-item" markdown="1">
 
-**[EA Universities Rethink Quality as AI Puts Degrees to a New Test](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/)** — KT Press, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#technology" title="RWA">Rwanda</a>
+**[EA Universities Rethink Quality as AI Puts Degrees to a New Test](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/)** — KT Press, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 Rwanda's Education Minister Joseph Nsengimana opened the 15th East African Higher Education Quality Assurance Network forum in Kigali on 7 September 2026, saying the region must rethink how it defines and assures quality in higher education as artificial intelligence changes teaching and work. The Inter-University Council for East Africa said a regional AI network has been launched.
 
@@ -153,7 +153,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 <div class="bulletin-item" markdown="1">
 
-**[AI can drive economic growth across COMESA region - COMESA director](https://eswatinipositivenews.online/ai-can-drive-economic-growth-across-comesa-region-comesa-director/)** — Eswatini Positive News, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#instruments-and-harmonisation" title="XSA">Southern Africa</a>
+**[AI can drive economic growth across COMESA region - COMESA director](https://eswatinipositivenews.online/ai-can-drive-economic-growth-across-comesa-region-comesa-director/)** — Eswatini Positive News, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 A COMESA official told the regional AI validation meeting in Eswatini that AI could improve public services, agriculture, health and education across the region if member states invest in the skills, infrastructure and data it needs.
 
@@ -161,7 +161,7 @@ A COMESA official told the regional AI validation meeting in Eswatini that AI co
 
 <div class="bulletin-item" markdown="1">
 
-**[Eswatini hosts regional push for practical AI policies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/)** — Times of Eswatini, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#technology" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[Eswatini hosts regional push for practical AI policies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/)** — Times of Eswatini, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to validate a draft study on AI and emerging technologies. It precedes work on a regional AI strategy, model policy guidelines and a model regulatory framework under the World Bank-funded IDEA programme.
 
@@ -219,7 +219,7 @@ The East African Community, the Inter-University Council for East Africa and the
 
 <div class="bulletin-item" markdown="1">
 
-**[East Africa Experts End Cybersecurity Summit in Juba](https://radioyei.org/news/technology/east-africa-experts-end-cybersecurity-summit-in-juba/)** — Access Radio Yei News, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#ict-infrastructure" title="SSD">South Sudan</a>
+**[East Africa Experts End Cybersecurity Summit in Juba](https://radioyei.org/news/technology/east-africa-experts-end-cybersecurity-summit-in-juba/)** — Access Radio Yei News, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 An East African Communications Organisation working group, meeting in Juba, finalised frameworks for rapid cyber-threat response among national response teams. It also produced guidelines for users of digital financial services, child online protection measures and mobile data quality standards.
 
@@ -235,7 +235,7 @@ An East African Communications Organisation working group, meeting in Juba, fina
 
 <div class="bulletin-item" markdown="1">
 
-**[Traders support revenue agency’s multi-vendor cargo tracking system](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system)** — The Star (Kenya), 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a>
+**[Traders support revenue agency’s multi-vendor cargo tracking system](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system)** — The Star (Kenya), 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's decision to open the regional electronic cargo tracking system to private seal vendors. The Shippers Council of Eastern Africa expects competition to end seal shortages that have delayed transit cargo at Mombasa.
 
@@ -249,7 +249,7 @@ Importers, exporters and logistics firms welcomed the Kenya Revenue Authority's 
 
 <div class="bulletin-item" markdown="1">
 
-**[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#dpi" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#shared-systems-and-infrastructure" title="XSA">Southern Africa</a>
+**[Digital overhaul targets fraud in Sh3.5bn cross-border motor insurance market](https://www.businessdailyafrica.com/bd/corporate/shipping-logistics/digital-overhaul-targets-fraud-in-sh3.5bn-cross-border-motor-insurance-market-5630538)** — Business Daily (Nation Media Group), 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale of cover in Zambia in 2026 and expanding phone-based certificate verification, now used in eight countries, through data sharing between members, Business Daily reported on 13 October 2026. The scheme issued more than 340,000 cards in 2025, worth about US$27 million (Sh3.5 billion) in premiums.
 
@@ -265,7 +265,7 @@ COMESA's Yellow Card cross-border motor insurance scheme is piloting online sale
 
 <div class="bulletin-item" markdown="1">
 
-**[EAC Payment Systems Integration: Burundi Reaffirms Its Commitment to Regional Financial Integration](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/)** — Ministry of Foreign Affairs, Republic of Burundi, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html#dpi" title="BDI">Burundi</a>
+**[EAC Payment Systems Integration: Burundi Reaffirms Its Commitment to Regional Financial Integration](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/)** — Ministry of Foreign Affairs, Republic of Burundi, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a>
 
 A ten-member East African Legislative Assembly delegation led by Saïd Kibeya held an oversight session in Bujumbura on 22 September 2026 on integrating East African Community payment and settlement systems. Burundi's EAC programme director general backed the regional Payment and Settlement Systems Initiative and named harmonised laws, supervision, cybersecurity and technical capacity as conditions for success.
 

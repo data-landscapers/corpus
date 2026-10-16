@@ -1397,14 +1397,14 @@ def monthly_body(unit, changed, ordered, subj, start, end):
             tree.append((section, [lbl for lbl, _ in subjects]))
             plan.append((section, subjects))
 
-    def card(item, home, subject):
+    def card(item, home):
         row = dict(item, places="; ".join(c for c in bul.facets(item["places"]) if c != unit))
         cls = "bulletin-item" if home is None else "bulletin-item bulletin-item--xref"
         if len(item["published"]) == 10:
-            head = bul.head_line(row, names, subject)
+            head = bul.head_line(row, names)
         else:   # a month- or year-precision record prints the precision it has, not a padded day
             head = (f"**[{bul.md_escape(row['title'])}]({row['url']})** — {row['publisher']}, "
-                    f"{row['published']} {bul.place_boxes(row, names, subject)}").rstrip()
+                    f"{row['published']} {bul.place_boxes(row, names)}").rstrip()
         out = [f'<div class="{cls}" markdown="1">', "", head, ""]
         if home is not None:
             out += [f"Summarised under {bul.link_to(home)}.", ""]
@@ -1428,7 +1428,7 @@ def monthly_body(unit, changed, ordered, subj, start, end):
                 lines += ['<div class="monthly-story" markdown="1">', "",
                           f'<p class="monthly-story__name">{bul.md_escape(r["name"])}</p>', ""]
                 for item in items:
-                    lines += card(item, placed.get(item["slug"]), (r.get("subject") or "").strip())
+                    lines += card(item, placed.get(item["slug"]))
                     placed.setdefault(item["slug"], label)
                 lines += ["</div>", ""]
     return lines, len(placed)

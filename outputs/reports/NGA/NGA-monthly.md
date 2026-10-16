@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NGA
 ledger_rows: 151
 not_held: 9
-record: e47c005df117
+record: 74a43c587602
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -399,7 +399,7 @@ Nigeria's five-year health memorandum with the United States, signed on 19 Decem
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigerian churches drive rising cross-border payments across Africa, PAPSS says](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/)** — Nairametrics, 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Nigerian churches drive rising cross-border payments across Africa, PAPSS says](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/)** — Nairametrics, 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The Pan-African Payment and Settlement System (PAPSS) operates in 30 African countries and aims for about 38 by the end of 2026, its chief executive Mike Ogbalu said on 5 September 2026. He said PAPSS is exploring support for stablecoins, that Nigeria–Rwanda volumes are nearing Nigeria–Ghana volumes, and that church tithes sent to Nigeria from across Africa are a notable share of payments.
 
@@ -407,7 +407,7 @@ The Pan-African Payment and Settlement System (PAPSS) operates in 30 African cou
 
 <div class="bulletin-item" markdown="1">
 
-**[PAPSS: Notes from a briefing with CEO Mike Ogbalu III](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)** — Nigeriaworks (Tolu Ogunlesi), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[PAPSS: Notes from a briefing with CEO Mike Ogbalu III](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)** — Nigeriaworks (Tolu Ogunlesi), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Mike Ogbalu, chief executive of the Pan-African Payment and Settlement System launched by Afreximbank in 2022, briefed journalists in Lagos on its move to a second strategic plan from 2027. He said Afreximbank's settlement guarantee has grown from $500 million to $3 billion, that 15 central bank governors sit on its governing council, and that PAPSS has launched a currency marketplace and a card scheme.
 
@@ -415,7 +415,7 @@ Mike Ogbalu, chief executive of the Pan-African Payment and Settlement System la
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, fintechs critical to Africa's payment integration](https://thesun.ng/nigeria-fintechs-critical-to-africas-payment-integration/)** — The Sun Nigeria, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Nigeria, fintechs critical to Africa's payment integration](https://thesun.ng/nigeria-fintechs-critical-to-africas-payment-integration/)** — The Sun Nigeria, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The chief executive of the Pan-African Payment and Settlement System, Mike Ogbalu III, told journalists in Lagos that the system lets businesses settle cross-border trade in local currencies and is drawing informal trade into the formal economy. He described its fraud controls, currency exchange arrangements and aim of covering the whole continent, and placed Nigeria's fintech sector at the centre of that effort.
 
@@ -429,7 +429,7 @@ The chief executive of the Pan-African Payment and Settlement System, Mike Ogbal
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#governance" title="CMR">Cameroon</a>
+**[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 The Nigeria Customs Service and Cameroon's customs administration began a joint assessment of the Ekok-Mfum one-stop border post on 8 September 2026 and launched a border modernisation initiative to digitise customs workflows. Cameroon's customs director general Fongod Nuvaga called for real-time data sharing and joint risk management; a joint operational agreement is being drafted. No cost or completion date is given.
 
@@ -437,7 +437,7 @@ The Nigeria Customs Service and Cameroon's customs administration began a joint 
 
 <div class="bulletin-item" markdown="1">
 
-**[Bénin-Nigeria : les douanes interconnectent leurs systèmes pour accélérer le commerce](https://www.wearetech.africa/fr/fils/actualites/tech/benin-nigeria-les-douanes-interconnectent-leurs-systemes-pour-accelerer-le-commerce)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#governance" title="BEN">Benin</a>
+**[Bénin-Nigeria : les douanes interconnectent leurs systèmes pour accélérer le commerce](https://www.wearetech.africa/fr/fils/actualites/tech/benin-nigeria-les-douanes-interconnectent-leurs-systemes-pour-accelerer-le-commerce)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 The two countries' customs administrations launched a pilot interconnection of their systems at the Seme-Krake border post on 11 September, to exchange data in real time and cut repeated formalities.
 
@@ -451,7 +451,7 @@ The two countries' customs administrations launched a pilot interconnection of t
 
 <div class="bulletin-item" markdown="1">
 
-**[Le ministre nigerian de l'Innovation en visite de travail au Tchad](https://tchadinfos.com/2026/09/16/le-ministre-nigerian-de-linnovation-en-visite-de-travail-au-tchad/)** — Tchadinfos, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#governance" title="TCD">Chad</a>
+**[Le ministre nigerian de l'Innovation en visite de travail au Tchad](https://tchadinfos.com/2026/09/16/le-ministre-nigerian-de-linnovation-en-visite-de-travail-au-tchad/)** — Tchadinfos, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Chad and Nigeria signed a joint communiqué in N'Djamena on 16 September 2026 during a working visit by Nigeria's digital economy minister, Bosun Tijani. Chad's telecoms minister, Haliki Choua Mahamat, cited interest in Nigeria's 90,000km BRIDGE fibre project, which provides for a Chad–Nigeria fibre link and international capacity from Lagos. Technical teams are to work out the details.
 
@@ -459,7 +459,7 @@ Chad and Nigeria signed a joint communiqué in N'Djamena on 16 September 2026 du
 
 <div class="bulletin-item" markdown="1">
 
-**[Chad and Nigeria Advance Digital Cooperation on Fibre Connectivity and AI](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/)** — Tech Africa News, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#governance" title="TCD">Chad</a>
+**[Chad and Nigeria Advance Digital Cooperation on Fibre Connectivity and AI](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/)** — Tech Africa News, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Chad and Nigeria agreed to strengthen cooperation in telecommunications, digital transformation and artificial intelligence after ministerial talks in N'Djamena on 16 September. Regional fibre-optic connectivity through the BRIDGE project, government service digitalisation and research were named as the areas of collaboration.
 
@@ -473,7 +473,7 @@ Chad and Nigeria agreed to strengthen cooperation in telecommunications, digital
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa: How Ecowas Biometric Card Will Ease Travel for Member States' Citizens Across West Africa - Officials](https://allafrica.com/stories/202609170091.html)** — Premium Times (Abuja), via allAfrica.com, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[Africa: How Ecowas Biometric Card Will Ease Travel for Member States' Citizens Across West Africa - Officials](https://allafrica.com/stories/202609170091.html)** — Premium Times (Abuja), via allAfrica.com, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Officials said at a Lagos workshop that seven ECOWAS member states — Senegal, Guinea-Bissau, Ghana, Benin, The Gambia, Sierra Leone and Nigeria — have deployed the regional biometric identity card, which is intended to replace the handwritten regional travel certificate. The chip carries the issuing authority's digital signature over the stored identity data, so any alteration breaks the trust chain at border authentication; member states committed in April to work towards mutual acceptance at borders by December.
 
@@ -481,7 +481,7 @@ Officials said at a Lagos workshop that seven ECOWAS member states — Senegal, 
 
 <div class="bulletin-item" markdown="1">
 
-**[ECOWAS steps up citizen biometric identity push for seamless cross-border travel](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/)** — Tribune Online, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[ECOWAS steps up citizen biometric identity push for seamless cross-border travel](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/)** — Tribune Online, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 At a Lagos workshop on the regional biometric identity card, Nigeria's immigration service said the card serves the same purpose as the regional passport within the subregion, is renewable every five years, costs N35,500 and is applied for online with a single physical visit for biometric capture. The ECOWAS Commission framed it as harmonising identification and addressing cross-border crime and irregular migration.
 
@@ -1319,7 +1319,7 @@ Nigeria's education minister Tunji Alausa said on 8 September 2026 that his mini
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Cameroon launch border modernisation project to ease trade barriers](https://nairametrics.com/2026/09/10/nigeria-cameroon-launch-border-modernisation-project-to-ease-trade-barriers)** — Nairametrics, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#dpi" title="CMR">Cameroon</a>
+**[Nigeria, Cameroon launch border modernisation project to ease trade barriers](https://nairametrics.com/2026/09/10/nigeria-cameroon-launch-border-modernisation-project-to-ease-trade-barriers)** — Nairametrics, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 Nigeria and Cameroon launched a border modernisation initiative for the Mfum-Ekok corridor during a joint assessment by their customs administrations. It covers border infrastructure, technology-driven solutions and the reduction of trade bottlenecks, and is presented as supporting the continental free trade area.
 
@@ -1347,7 +1347,7 @@ The Nigerian Financial Intelligence Unit is working with banks, fintechs and ins
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#dpi" title="BEN">Benin</a>
+**[Nigeria, Benin Republic move to close trade gaps at Seme Border](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/)** — Nigerian Tribune, 11 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 The Nigeria Customs Service offered Benin's customs a real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts at the Sèmè–Kraké one-stop border post on 11 September 2026. Comptroller-General Adewale Adeniyi said the two services work under one roof but not on one system; Benin's customs chief endorsed the proposal. No timetable is given.
 
@@ -1565,7 +1565,7 @@ The Auditor-General's 2024 report states that the government could not provide a
 
 <div class="bulletin-item" markdown="1">
 
-**[How Remittance Startups Are Undercutting Western Union Across Africa](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/)** — TechTrends Africa, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[How Remittance Startups Are Undercutting Western Union Across Africa](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/)** — TechTrends Africa, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Sending US$200 to sub-Saharan Africa cost an average of 8.46% in the third quarter of 2025, against a global average of 6.36%, according to World Bank figures cited by TechTrends Africa. Apps such as LemFi and Sendwave now run the London to Lagos corridor at about 2-3%, against around 7.8% in 2023.
 
@@ -2299,7 +2299,7 @@ OPay Limited, the Nigerian-operated payments company registered in the Cayman Is
 
 <div class="bulletin-item" markdown="1">
 
-**[Standard Bank to take up to $200-million stake in OPay](https://techcentral.co.za/standard-bank-opay-stake-ipo/287154/)** — TechCentral, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a>
+**[Standard Bank to take up to $200-million stake in OPay](https://techcentral.co.za/standard-bank-opay-stake-ipo/287154/)** — TechCentral, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 OPay, the Nigeria-focused fintech, filed on 9 October 2026 to list in New York; its registration statement shows Standard Bank's Stanbic Africa Holdings will buy up to $200 million of shares in a private placement alongside the IPO, with a 12-month lock-up. OPay reported 50.1 million monthly active users and $339.1 billion of transactions in the first half of 2026.
 
@@ -2359,7 +2359,7 @@ The EU used the Boost Africa Impact Forum in Abuja to argue that access to finan
 
 <div class="bulletin-item" markdown="1">
 
-**[EU, EIB Invest EUR108m to Drive African Entrepreneurship, Create 15,000 Jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/)** — THISDAYLIVE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#coordination-and-collaboration" title="XAF">Africa</a>
+**[EU, EIB Invest EUR108m to Drive African Entrepreneurship, Create 15,000 Jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/)** — THISDAYLIVE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The European Union and the European Investment Bank have invested €108 million through the Boost Africa initiative for African entrepreneurs, attracting a further €400 million and creating up to 15,000 jobs, the EU ambassador to Nigeria, Gautier Mignot, said in Abuja on 9 September 2026. He spoke ahead of the Boost Africa Impact Forum.
 
@@ -2367,7 +2367,7 @@ The European Union and the European Investment Bank have invested €108 million
 
 <div class="bulletin-item" markdown="1">
 
-**[EU, EIB Highlight Boost Africa's Impact On Entrepreneurs](https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/)** — Voice of Nigeria, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#coordination-and-collaboration" title="XAF">Africa</a>
+**[EU, EIB Highlight Boost Africa's Impact On Entrepreneurs](https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/)** — Voice of Nigeria, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The EU and the European Investment Bank said at a forum in Abuja that their Boost Africa programme invested €108 million through venture capital funds over its first decade, attracting about €400 million more from other investors. EU ambassador Gautier Mignot named Nigeria a key beneficiary, and the EIB said it had launched new operations there.
 

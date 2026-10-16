@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: COG
 ledger_rows: 16
 not_held: 6
-record: 8990a3ba5cc8
+record: e344f4113da1
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -99,7 +99,7 @@ Congo's money-transfer regulator ARTF will require every money-transfer operator
 
 <div class="bulletin-item" markdown="1">
 
-**[Congo-RDC : mobilite transfrontaliere, Brazzaville jette les bases d'un nouvel espace commun](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/)** — Groupe Congo Medias, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#governance" title="COD">DRC</a>
+**[Congo-RDC : mobilite transfrontaliere, Brazzaville jette les bases d'un nouvel espace commun](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/)** — Groupe Congo Medias, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 A workshop in Brazzaville from 8 September 2026, run by the association Avenir NEPAD Congo with funding from the Konrad Adenauer Foundation, examined movement and trade between the Republic of Congo and the DRC, which share a border of about 2,400km. It closed with a 'Brazzaville Declaration' proposing measures to ease crossings, secure the border and increase trade.
 
@@ -113,7 +113,7 @@ A workshop in Brazzaville from 8 September 2026, run by the association Avenir N
 
 <div class="bulletin-item" markdown="1">
 
-**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html#institutions-and-mandates" title="XCA">Central Africa</a>
+**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 A regional workshop in Brazzaville on 15 and 16 September worked towards a common framework for national emergency telecommunications plans across central Africa, convened by the international telecommunications union with the regional regulators' assembly and the economic community.
 
@@ -159,7 +159,7 @@ The Republic of Congo's vice-prime minister, Jean-Jacques Bouya, said on 22 Sept
 
 <div class="bulletin-item" markdown="1">
 
-**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html#shared-systems-and-infrastructure" title="XCA">Central Africa</a>
+**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 Experts from eight Central African countries met in Brazzaville on 15–17 September 2026 to review a model national emergency telecommunications plan for keeping communications running in disasters. Figures presented there credit Congo's universal service fund FASUCE with connecting more than 380,000 people in isolated areas and over 250 localities.
 

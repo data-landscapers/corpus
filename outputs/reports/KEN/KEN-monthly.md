@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: KEN
 ledger_rows: 137
 not_held: 7
-record: 1249bf208b22
+record: 04d3f8e3438f
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -473,7 +473,7 @@ A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data brea
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa CDC Calls for Stronger Community Engagement and Behavioural Intelligence to Boost Health Security](https://ommydalla.co.ke/buzz/item/4586-africa-cdc-calls-for-stronger-community-engagement-and-behavioural-intelligence-to-boost-health-security)** — Ommy Dallah, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Africa CDC Calls for Stronger Community Engagement and Behavioural Intelligence to Boost Health Security](https://ommydalla.co.ke/buzz/item/4586-africa-cdc-calls-for-stronger-community-engagement-and-behavioural-intelligence-to-boost-health-security)** — Ommy Dallah, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Africa CDC held a continental workshop in Mombasa to harmonise a common framework for behavioural intelligence and infodemic management in public health. Delegates from Kenya, Ghana, Zimbabwe, Burundi and Mauritania attended, and Africa CDC's senior regional representative urged countries to use available technology for health surveillance and communication. No cost or timetable for the framework is given.
 
@@ -481,7 +481,7 @@ Africa CDC held a continental workshop in Mombasa to harmonise a common framewor
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa CDC advances public health intelligence framework](https://www.the-star.co.ke/counties/2026-09-04-africa-cdc-advances-public-health-intelligence-framework)** — The Star (Kenya), 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Africa CDC advances public health intelligence framework](https://www.the-star.co.ke/counties/2026-09-04-africa-cdc-advances-public-health-intelligence-framework)** — The Star (Kenya), 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Africa CDC and member states validated components of a continental behavioural intelligence and infodemic management framework at a five-day meeting in Mombasa, with participants from six countries alongside the ECOWAS regional surveillance centre and the WHO Africa Infodemic Response Alliance. The framework is to turn community feedback, social listening, service-delivery and programme data and rapid research into decision-ready intelligence; Africa CDC states it is not another database or reporting platform.
 
@@ -679,7 +679,7 @@ The president said about Sh320bn has been raised for the National Infrastructure
 
 <div class="bulletin-item" markdown="1">
 
-**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#finance" title="ZAF">South Africa</a>
+**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Kenya's High Court on 15 September 2026 declared the government's sale of a 15 per cent Safaricom stake to Vodacom's Vodafone Kenya unconstitutional and ordered the shares returned to the state. The three-judge bench found public participation inadequate and the buyer's identity concealed. The June sale raised KSh204.3 billion; Vodacom said it will appeal and seek a stay.
 
@@ -803,7 +803,7 @@ A planned submarine cable would link Mombasa to Lamu through five landing points
 
 <div class="bulletin-item" markdown="1">
 
-**[Paratus expands East Africa connectivity ahead of ITW Africa](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/)** — TechTrendsKE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#ict-infrastructure" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#ict-infrastructure" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#ict-infrastructure" title="UGA">Uganda</a>
+**[Paratus expands East Africa connectivity ahead of ITW Africa](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/)** — TechTrendsKE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and carrying traffic, announced at the ITW and Datacloud Africa conference in Nairobi. The route links eastern DRC to the Kenyan coast through Kigali, Kampala and Nairobi, with access to subsea capacity landing at Mombasa. Starlink services have launched in Uganda alongside it, and the company is introducing a Layer 2 connectivity service over low-earth-orbit satellite for the East African market.
 
@@ -951,7 +951,7 @@ Digital Realty opened its Nairobi Two (NBO2) data centre in Karen, adding 6.4 MW
 
 <div class="bulletin-item" markdown="1">
 
-**[Nobus Opens Nairobi Availability Zone](https://cioafrica.co/nobus-opens-nairobi-availability-zone/)** — CIO Africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#ict-infrastructure" title="NGA">Nigeria</a>
+**[Nobus Opens Nairobi Availability Zone](https://cioafrica.co/nobus-opens-nairobi-availability-zone/)** — CIO Africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Nobus Cloud Services, a Nigerian public cloud provider operated from Lagos, went live with a Nairobi availability zone designated Nobus-EA-AZ1, letting Kenyan organisations provision workloads locally. It opened alongside a programme offering free cloud credits and technical support to African startups and enterprises.
 
@@ -995,7 +995,7 @@ Tata Consultancy Services' sovereign cloud went live in Kenya, hosted at iXAfric
 
 <div class="bulletin-item" markdown="1">
 
-**[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#ict-infrastructure" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html#ict-infrastructure" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[The Rockefeller Foundation and Mission 300 Accelerator Launch Demonstration to Test Whether AI Demand Can Help Finance Energy Access in Africa](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/)** — The Rockefeller Foundation, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The Rockefeller Foundation's Mission 300 Accelerator announced the Emergent Grid Project on 24 September 2026, testing whether AI computing placed at African mini-grids can act as an anchor customer and improve their finances. The first sites are five in Kenya, a solar plant in DR Congo and three in Sierra Leone, serving about 85,000 people, with local electricity demand given priority over computing. No amount is stated.
 
@@ -1125,7 +1125,7 @@ Kenya's ICT minister told the Senate that the national incident response centre'
 
 <div class="bulletin-item" markdown="1">
 
-**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#dpi" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#dpi" title="UGA">Uganda</a>
+**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The Capital Times reports that Uganda's and Kenya's revenue authorities still enforce e-Permit collections at border points for Crawford Capital, a firm the United States sanctioned on 12 May 2026 over diverting South Sudanese public funds. The UK-registered company collects a dollar charge on imports bound for South Sudan; documents cited show the Uganda Revenue Authority shares customs data with South Sudan's revenue authority but do not show a direct contract.
 
@@ -1147,7 +1147,7 @@ Kenya's ABC Bank went live on the Pan-African Payment and Settlement System on 3
 
 <div class="bulletin-item" markdown="1">
 
-**[PAPSS payments grew 1,000% in a year, and Kenya is now on the network](https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/)** — tech-ish, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[PAPSS payments grew 1,000% in a year, and Kenya is now on the network](https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/)** — tech-ish, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Payments across the pan-African settlement network are reported to have grown about tenfold over the year while the average payment fell to about a fifth of its level a year earlier — many small transfers in place of a few large ones. Kenya's national switch is the first of its kind piloted for termination on the network.
 
@@ -1175,7 +1175,7 @@ Kenya's head of public service convened the public service commission, the exami
 
 <div class="bulletin-item" markdown="1">
 
-**[Kenyan President Ruto names Ghana among first countries for portable skills programme](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html)** — Graphic Online, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#dpi" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#dpi" title="RWA">Rwanda</a>
+**[Kenyan President Ruto names Ghana among first countries for portable skills programme](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html)** — Graphic Online, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a>
 
 Kenya's President William Ruto announced Masterkey, a digital wallet holding verifiable records of qualifications and work experience that individuals control and can share across African borders, at an Accra Reset event during the UN General Assembly. Ghana, Rwanda and Kenya are in the first phase, which targets 150,000 placements; Kenya's wallet runs through eCitizen.
 
@@ -1317,7 +1317,7 @@ Kenya's National Assembly committee on administration and internal security hear
 
 <div class="bulletin-item" markdown="1">
 
-**[ABC Bank goes live on intra-African pay system](https://businesstoday.co.ke/abc-banks-goes-live-on-intra-african-pay-system/)** — Business Today Kenya, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[ABC Bank goes live on intra-African pay system](https://businesstoday.co.ke/abc-banks-goes-live-on-intra-african-pay-system/)** — Business Today Kenya, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Kenya's African Banking Corporation (ABC Bank) has gone live on the Pan-African Payment and Settlement System, letting customers send and receive payments across 28 African countries. Customers can pay accounts at more than 190 participating banks, sending either in Kenyan shillings or in the recipient's currency.
 
@@ -1325,7 +1325,7 @@ Kenya's African Banking Corporation (ABC Bank) has gone live on the Pan-African 
 
 <div class="bulletin-item" markdown="1">
 
-**[PAPSS goes live at I&M Bank Kenya to expand cross-border payments](https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments)** — TechReviewAfrica, 20 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[PAPSS goes live at I&M Bank Kenya to expand cross-border payments](https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments)** — TechReviewAfrica, 20 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The Pan-African Payment and Settlement System went live for customers of I&M Bank Kenya, the second Kenyan bank on the network. Customers can send to participating African markets in Kenyan shillings through the bank's branches rather than converting into an international currency; no volume, fee or corridor detail was published.
 
@@ -1425,7 +1425,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 <div class="bulletin-item" markdown="1">
 
-**[Tanzania regulator reveals KCB's 22.23% stake in payments firm Pesapal](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/)** — TechCabal, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#dpi" title="TZA">Tanzania</a>
+**[Tanzania regulator reveals KCB's 22.23% stake in payments firm Pesapal](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/)** — TechCabal, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Tanzania's Fair Competition Commission put KCB Group's stake in Kenyan payments firm Pesapal at 22.23%, the first public figure for a deal KCB announced in 2025 without terms. The stake gives KCB indirect control of Pesapal Tanzania and is under the commission's review; its value is undisclosed.
 
@@ -1561,7 +1561,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 <div class="bulletin-item" markdown="1">
 
-**[Kenya and Lesotho Deepen ICT Regulatory Cooperation on National Addressing System](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/)** — Tech Africa News, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html#dpi" title="LSO">Lesotho</a>
+**[Kenya and Lesotho Deepen ICT Regulatory Cooperation on National Addressing System](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/)** — Tech Africa News, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 Kenya's Communications Authority is hosting a Lesotho Communications Authority delegation to benchmark Kenya's National Addressing System and the legal framework behind it. Kenya's system is designed to give every street, building and parcel of land a verifiable address, supporting last-mile e-commerce delivery and emergency response, and the authority has driven the draft National Addressing System Bill, 2025 with standards developed jointly with the Kenya Bureau of Standards. No visit dates are stated.
 
@@ -1813,7 +1813,7 @@ Kenya's Public Procurement Administrative Review Board ordered the electoral com
 
 <div class="bulletin-item" markdown="1">
 
-**[West African Governments Are Finally Tracking Their Own Vehicles](https://www.liberianobserver.com/business/tech/west-african-governments-are-finally-tracking-their-own-vehicles/article_18727049-497e-4084-9c65-2a736a62ebc2.html)** — Liberian Observer, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#dpi" title="LBR">Liberia</a>
+**[West African Governments Are Finally Tracking Their Own Vehicles](https://www.liberianobserver.com/business/tech/west-african-governments-are-finally-tracking-their-own-vehicles/article_18727049-497e-4084-9c65-2a736a62ebc2.html)** — Liberian Observer, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 A named analyst's column in the Liberian Observer contrasts Kenya's Government Vehicle Management System, announced on 6 August 2026 by head of public service Felix Koskei to track every state vehicle's driver, fuel, mileage and maintenance, with Liberia's handover of 56 untracked vehicles and motorbikes to agriculture officers.
 
@@ -2145,7 +2145,7 @@ Summarised under [Standards](#standards).
 
 <div class="bulletin-item" markdown="1">
 
-**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#technology" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#technology" title="CIV">Côte d'Ivoire</a>
+**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
 
@@ -2195,7 +2195,7 @@ The Maseno Centre for Applied Artificial Intelligence ran a preparatory visit to
 
 <div class="bulletin-item" markdown="1">
 
-**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#technology" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million.
 
@@ -2247,7 +2247,7 @@ A pan-African fibre operator's Kenyan chief executive says the continent's data-
 
 <div class="bulletin-item" markdown="1">
 
-**[Kenya’s High Court voids Vodacom’s $1.5 billion Safaricom takeover](https://techcabal.com/2026/09/15/kenyas-high-court-voids-vodacoms-safaricom-takeover/)** — TechCabal, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a>
+**[Kenya’s High Court voids Vodacom’s $1.5 billion Safaricom takeover](https://techcabal.com/2026/09/15/kenyas-high-court-voids-vodacoms-safaricom-takeover/)** — TechCabal, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 A three-judge High Court bench voided the government's sale of a 15 per cent Safaricom stake, a KES 204.3bn transaction that closed less than three months earlier, ruling it unconstitutional because key information was withheld from the public, the cabinet and parliament.
 
@@ -2255,7 +2255,7 @@ A three-judge High Court bench voided the government's sale of a 15 per cent Saf
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a>
+**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Summarised under [New investments](#new-investments).
 
@@ -2271,7 +2271,7 @@ The Daily Nation's editorial welcomes the Kenyan High Court ruling that annulled
 
 <div class="bulletin-item" markdown="1">
 
-**[Vodacom, Kenya to appeal court ruling voiding Safaricom sale](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale)** — Connecting Africa, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a>
+**[Vodacom, Kenya to appeal court ruling voiding Safaricom sale](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale)** — Connecting Africa, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Vodacom and Kenya's Treasury both said on 16 September 2026 that they will appeal the High Court ruling that voided the sale of a 15% government stake in Safaricom. The court found the deal lacked meaningful public participation and hid material information, and ordered the stake returned to the state.
 

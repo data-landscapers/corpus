@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: CMR
 ledger_rows: 31
 not_held: 4
-record: fa6c5bb96d5e
+record: 6761a726238b
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -119,7 +119,7 @@ Cameroon's telecommunications regulator gave operators until 30 September 2026 t
 
 <div class="bulletin-item" markdown="1">
 
-**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html#institutions-and-mandates" title="XCA">Central Africa</a>
+**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
 
@@ -169,7 +169,7 @@ Cameroon's SME minister, Achille Bassilekin III, and the new EU ambassador agree
 
 <div class="bulletin-item" markdown="1">
 
-**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html#ict-infrastructure" title="CAF">CAR</a>
+**[Accès aux câbles sous-marins : quelles options pour la Centrafrique au-delà du Cameroun](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/)** — Camerounlink (source: Agence Ecofin), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CAF/CAF-monthly.html" title="CAF">CAR</a>
 
 A fibre cut in Cameroon disrupted internet service in the Central African Republic last week, prompting an assessment of the landlocked country's options for reaching submarine cable capacity by another route.
 
@@ -225,7 +225,7 @@ Cameroon's higher education minister, Jacques Fame Ndongo, and a China Exim Bank
 
 <div class="bulletin-item" markdown="1">
 
-**[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html#ict-infrastructure" title="GAB">Gabon</a>
+**[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
 Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have signed a memorandum of understanding and a confidentiality agreement on CAB-CORRIDOR, a terrestrial link between Cameroon, Gabon and the Republic of Congo over the Central African Backbone, SPIN said on 3 October 2026. Implementation terms are expected in October 2026; signing dates are not given.
 
@@ -347,7 +347,7 @@ Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with d
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Cameroon launch border modernisation project to ease trade barriers](https://nairametrics.com/2026/09/10/nigeria-cameroon-launch-border-modernisation-project-to-ease-trade-barriers)** — Nairametrics, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
+**[Nigeria, Cameroon launch border modernisation project to ease trade barriers](https://nairametrics.com/2026/09/10/nigeria-cameroon-launch-border-modernisation-project-to-ease-trade-barriers)** — Nairametrics, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Nigeria and Cameroon launched a border modernisation initiative for the Mfum-Ekok corridor during a joint assessment by their customs administrations. It covers border infrastructure, technology-driven solutions and the reduction of trade bottlenecks, and is presented as supporting the continental free trade area.
 
@@ -355,7 +355,7 @@ Nigeria and Cameroon launched a border modernisation initiative for the Mfum-Eko
 
 <div class="bulletin-item" markdown="1">
 
-**[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
+**[Nigeria, Cameroon Bilateral Customs Coalition Set to Streamline Mfum-Ekok Trade](https://khal-el.com.ng/nigeria-cameroon-bilateral-customs-coalition-set-to-streamline-mfum-ekok-trade/)** — Khal-El, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The Nigeria Customs Service and Cameroon's customs administration began a joint assessment of the Ekok-Mfum one-stop border post on 8 September 2026 and launched a border modernisation initiative to digitise customs workflows. Cameroon's customs director general Fongod Nuvaga called for real-time data sharing and joint risk management; a joint operational agreement is being drafted. No cost or completion date is given.
 
@@ -415,7 +415,7 @@ The youth ministry signed a three-year renewable partnership with a company on 1
 
 <div class="bulletin-item" markdown="1">
 
-**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html#shared-systems-and-infrastructure" title="XCA">Central Africa</a>
+**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 The Bank of Central African States (BEAC) and the Pan-African Payment and Settlement System (PAPSS) held a webinar on 9 September 2026 to bring commercial banks of the CEMAC zone onto the continental payment system, following BEAC's own accession. The session covered terms of participation and next steps; no timetable or number of banks is given.
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TUN
 ledger_rows: 58
 not_held: 5
-record: 0ac6c28d84b0
+record: c8fb07629e0a
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -189,7 +189,7 @@ Tunisia's communications ministry announced child-protection measures resting on
 
 <div class="bulletin-item" markdown="1">
 
-**[3rd African Preparatory Meeting for WRC-27 (APM27-3) and the 11th African Spectrum Management Conference](https://atuuat.africa/event/apm27-3-for-wrc-27/)** — African Telecommunications Union (ATU), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[3rd African Preparatory Meeting for WRC-27 (APM27-3) and the 11th African Spectrum Management Conference](https://atuuat.africa/event/apm27-3-for-wrc-27/)** — African Telecommunications Union (ATU), 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The African Telecommunications Union published the draft agenda and working-group schedule for the third African Preparatory Meeting for the 2027 World Radiocommunication Conference, held in Tunis on 7–11 September 2026 alongside the 11th African Spectrum Management Conference. The agenda covers the ITU's preparatory work plan, other regions' positions and the WRC-27 agenda items.
 
@@ -197,7 +197,7 @@ The African Telecommunications Union published the draft agenda and working-grou
 
 <div class="bulletin-item" markdown="1">
 
-**[African Delegations Seek Common Ground in Tunis Ahead of 2027 World Radiocommunication Conference](https://atuuat.africa/african-delegations-seek-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — African Telecommunications Union (ATU), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[African Delegations Seek Common Ground in Tunis Ahead of 2027 World Radiocommunication Conference](https://atuuat.africa/african-delegations-seek-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — African Telecommunications Union (ATU), 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African governments and telecoms regulators opened four days of talks in Tunis on 8 September 2026 to build common spectrum positions ahead of the 2027 World Radiocommunication Conference. Hosted by Tunisia's National Frequency Agency and coordinated by the African Telecommunications Union, it is the third such preparatory meeting, after Maseru in 2024 and Nairobi in 2025.
 
@@ -205,7 +205,7 @@ African governments and telecoms regulators opened four days of talks in Tunis o
 
 <div class="bulletin-item" markdown="1">
 
-**[ATU calls for stronger spectrum policy as Africa prepares for WRC-27](https://www.techreviewafrica.com/news/7102/atu-calls-for-stronger-spectrum-policy-as-africa-prepares-for-wrc-27)** — TechReviewAfrica, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[ATU calls for stronger spectrum policy as Africa prepares for WRC-27](https://www.techreviewafrica.com/news/7102/atu-calls-for-stronger-spectrum-policy-as-africa-prepares-for-wrc-27)** — TechReviewAfrica, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The African telecommunications union's secretary-general called for stronger alignment among African administrations on spectrum policy, at the 11th Africa spectrum management conference in Tunis. He singled out the mid-band ranges where mobile broadband demand will need capacity and coordination, and argued that policy must extend beyond identifying frequencies to how spectrum is priced and licensed.
 
@@ -219,7 +219,7 @@ The African telecommunications union's secretary-general called for stronger ali
 
 <div class="bulletin-item" markdown="1">
 
-**[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html#institutions-and-mandates" title="XNA">North Africa</a>
+**[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html" title="XNA">North Africa</a>
 
 The AI Forward Summit 2026, organised by the Arab Information and Communication Technologies Organisation and Tunisia's communication technologies ministry, opened in Tunisia on 9 September 2026. Secretary of State Mohamed Ben Ayed told the opening session that Tunisia wants international cooperation on capacity-building, technology transfer and finance so developing countries produce AI rather than only consume it.
 
@@ -241,7 +241,7 @@ The Arab ICT Organisation and Tunisia's communication technologies ministry open
 
 <div class="bulletin-item" markdown="1">
 
-**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html#governance" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#governance" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html#governance" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html#governance" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#governance" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[International declaration on space-based scientific data.](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data)** — Élysée, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
 Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tunisia are among the 49 states that signed, with the European Space Agency, a declaration on space-based scientific data published by France's presidency on 10 September 2026. It commits signatories to open access to satellite observation data, save for exceptions such as security and personal data, and to common exchange standards.
 
@@ -279,7 +279,7 @@ Tunisia's health ministry unveiled a 'Tunis Declaration' on digital health at th
 
 <div class="bulletin-item" markdown="1">
 
-**[African Delegations Demand Common Ground In Tunis Ahead Of 2027 World Radiocommunication Conference](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — Cyber Era, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[African Delegations Demand Common Ground In Tunis Ahead Of 2027 World Radiocommunication Conference](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/)** — Cyber Era, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African governments and regulators opened four days of talks in Tunis to build common positions on the radio frequencies used by mobile, satellite and other wireless services, ahead of the 2027 World Radiocommunication Conference. Broadband capacity, rural connectivity and future communications technologies are the focus.
 
@@ -1023,7 +1023,7 @@ Tunisia's employment and vocational training minister, Riadh Chaoued, announced 
 
 <div class="bulletin-item" markdown="1">
 
-**[Executive Capacity Building Programme on AI Governance, Trust and Digital Sovereignty, Yasmine Hammamet](https://www.linkedin.com/posts/smart-africa-digital-academy-sada_aigovernance-activity-7503059303755542528-PF0G)** — Smart Africa Digital Academy (SADA), 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#capacity-and-inclusion" title="XAF">Africa</a>
+**[Executive Capacity Building Programme on AI Governance, Trust and Digital Sovereignty, Yasmine Hammamet](https://www.linkedin.com/posts/smart-africa-digital-academy-sada_aigovernance-activity-7503059303755542528-PF0G)** — Smart Africa Digital Academy (SADA), 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The Smart Africa Digital Academy held a two-day executive programme on AI governance, trust and digital sovereignty in Yasmine Hammamet, Tunisia, for more than 40 senior policymakers and regulators, with RealTyme and Université Laval. Sessions covered risk-based regulation, AI standards, sovereign infrastructure and adding AI to existing digital public infrastructure.
 

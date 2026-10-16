@@ -1,7 +1,7 @@
 ## 16 October 2026
 
 - Country and region monthly updates now take the bulletin's form: each source is listed with its headline, publisher, date and summary, and reports of the same development are grouped together, oldest first. Each update opens with links to the place's other reports and a contents list of its chapters, with the topics under each.
-- The country and region boxes beside each item in the bulletin and the monthly updates now open that place's monthly update at the item's chapter. Before, they opened the place's country page.
+- The country and region boxes beside each item in the bulletin and the monthly updates now open that place's monthly update. Before, they opened the place's country page.
 
 ## 13 October 2026
 

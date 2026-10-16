@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: LSO
 ledger_rows: 16
 not_held: 4
-record: 8b4bbb3dc7a8
+record: 53900fb6e419
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -109,7 +109,7 @@ Lesotho's ICT ministry has developed safeguards for children in digital public i
 
 <div class="bulletin-item" markdown="1">
 
-**[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#governance" title="ZAF">South Africa</a>
+**[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Lesotho and South Africa concluded a mid-term review of their Bi-National Commission in Pretoria on 9 September 2026 after three days of talks. Outcomes included faster work on Smart One-Stop Border Posts at Maseru and Ficksburg, progress on a new migration model for labour mobility, and Phase II of the Lesotho Highlands Water Project. The next full session is set for South Africa in 2027.
 
@@ -123,7 +123,7 @@ Lesotho and South Africa concluded a mid-term review of their Bi-National Commis
 
 <div class="bulletin-item" markdown="1">
 
-**[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#governance" title="SWZ">Eswatini</a>
+**[Eswatini, Lesotho Join Forces to Tackle Cyber Threats](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/)** — Eswatini Positive News, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 The Eswatini Communications Commission and the Lesotho Communications Authority signed a memorandum of understanding on 3 October 2026 covering information exchange, joint research, staff development and cybersecurity cooperation, including coordinated incident response, awareness campaigns, training and audits. No budget or timetable is given.
 
@@ -245,7 +245,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 <div class="bulletin-item" markdown="1">
 
-**[Kenya and Lesotho Deepen ICT Regulatory Cooperation on National Addressing System](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/)** — Tech Africa News, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a>
+**[Kenya and Lesotho Deepen ICT Regulatory Cooperation on National Addressing System](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/)** — Tech Africa News, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Kenya's Communications Authority is hosting a Lesotho Communications Authority delegation to benchmark Kenya's National Addressing System and the legal framework behind it. Kenya's system is designed to give every street, building and parcel of land a verifiable address, supporting last-mile e-commerce delivery and emergency response, and the authority has driven the draft National Addressing System Bill, 2025 with standards developed jointly with the Kenya Bureau of Standards. No visit dates are stated.
 

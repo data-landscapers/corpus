@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MLI
 ledger_rows: 15
 not_held: 1
-record: a6c0c315f135
+record: 3d7a90e1d15e
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -71,7 +71,7 @@ Anthropic reported in September 2026 that a Claude user, likely a Bamako-based c
 
 <div class="bulletin-item" markdown="1">
 
-**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#governance" title="BEN">Benin</a>
+**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Mali's data protection authority hosted the First Rapporteur of Benin's data protection authority on 4 September 2026 to compare compliance tools, regulatory standards and institutional communication, TechGriot reported on 21 September. The Benin delegation looked at Mali's regional offices in Kayes, Sikasso, Ségou and Mopti, which take local complaints and run awareness campaigns.
 
@@ -85,7 +85,7 @@ Mali's data protection authority hosted the First Rapporteur of Benin's data pro
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
-**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#governance" title="BEN">Benin</a>
+**[Mali and Benin deepen cooperation on data protection 🇲🇱 🇧🇯 - TechGriot](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)** — TechGriot, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Summarised under [Data protection](#data-protection).
 
@@ -99,7 +99,7 @@ Summarised under [Data protection](#data-protection).
 
 <div class="bulletin-item" markdown="1">
 
-**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html#governance" title="TGO">Togo</a>
+**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
 Togo's personal data protection authority (IPDCP) and Mali's APDP signed a cooperation agreement on 23 September covering information exchange, joint handling of complaints and compliance checks, and staff training. Their talks also touched on cross-border data transfers, cybersecurity and AI.
 
@@ -143,7 +143,7 @@ ECOWAS's regional infrastructure inventory lists 14 internet exchange points and
 
 <div class="bulletin-item" markdown="1">
 
-**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperation agreement in Ouagadougou on 25 September creating a Sahel Regulators' Council. It covers roaming within the Alliance of Sahel States, consumer protection, cybersecurity, spectrum, mutual recognition of type-approved equipment and joint positions in international bodies.
 
@@ -151,7 +151,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 <div class="bulletin-item" markdown="1">
 
-**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
@@ -205,7 +205,7 @@ Mali's cybercrime tribunal sentenced journalist Abdrahamane KeÃ¯ta, publicatio
 
 <div class="bulletin-item" markdown="1">
 
-**[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#ict-infrastructure" title="SEN">Senegal</a>
+**[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal's and Mali's state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October, to secure and diversify routes between the two countries. No capacity or cost is given.
 

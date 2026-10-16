@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XCA
 ledger_rows: 12
 not_held: 0
-record: 4534eaa4871b
+record: 98d5e1d0b90a
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -41,7 +41,7 @@ record: 4534eaa4871b
 
 <div class="bulletin-item" markdown="1">
 
-**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#governance" title="CMR">Cameroon</a>
+**[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
 
@@ -71,7 +71,7 @@ Experts from member states of the Economic Community of Central African States m
 
 <div class="bulletin-item" markdown="1">
 
-**[Les travaux du forum sur la gouvernance de l’Internet en Afrique centrale lancés à N’Djamena - Tchadinfos](https://tchadinfos.com/2026/10/13/les-travaux-du-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale-lances-a-ndjamena/)** — Tchadinfos, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#governance" title="TCD">Chad</a>
+**[Les travaux du forum sur la gouvernance de l’Internet en Afrique centrale lancés à N’Djamena - Tchadinfos](https://tchadinfos.com/2026/10/13/les-travaux-du-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale-lances-a-ndjamena/)** — Tchadinfos, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Chad's digital ministry and its partners opened the Central Africa Internet Governance Forum in N'Djamena on 13 October 2026.
 
@@ -101,7 +101,7 @@ Gabon's planning minister, Louise Pierrette Mvono, opened a CEMAC workshop in Li
 
 <div class="bulletin-item" markdown="1">
 
-**[CEMAC: accélération de la modernisation des systèmes statistiques avec l'adoption du SDMX et la migration vers l'ODP 2.0](https://7joursinfo.com/actualites/cemac-acceleration-de-la-modernisation-des-systemes-statistiques-avec-ladoption-du-sdmx-et-la-migration-vers-lodp-2-0/)** — 7 jours info, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html#governance" title="GAB">Gabon</a>
+**[CEMAC: accélération de la modernisation des systèmes statistiques avec l'adoption du SDMX et la migration vers l'ODP 2.0](https://7joursinfo.com/actualites/cemac-acceleration-de-la-modernisation-des-systemes-statistiques-avec-ladoption-du-sdmx-et-la-migration-vers-lodp-2-0/)** — 7 jours info, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a>
 
 The Central African Economic and Monetary Community (CEMAC) held a workshop in Libreville from 14 to 18 September 2026, backed by the African Development Bank and UNFPA, to train experts from its six member states in the SDMX data-exchange standard. It is preparing national statistics sites to move to Open Data Platform 2.0 and a regional platform, CEMAC-Data.
 
@@ -151,7 +151,7 @@ A five-day African Development Bank, CEMAC and UNFPA workshop closed at Librevil
 
 <div class="bulletin-item" markdown="1">
 
-**[Afrique Centrale: Télécoms - La région renforce ses dispositifs face aux catastrophes naturelles](https://fr.allafrica.com/stories/202609150543.html)** — Les Dépêches de Brazzaville (via allAfrica), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html#ict-infrastructure" title="COG">Congo</a>
+**[Afrique Centrale: Télécoms - La région renforce ses dispositifs face aux catastrophes naturelles](https://fr.allafrica.com/stories/202609150543.html)** — Les Dépêches de Brazzaville (via allAfrica), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 About 50 officials from eight Central African states met in Brazzaville on 15–16 September 2026 to draft a model national emergency telecommunications plan for floods, storms and other disasters. The workshop was organised by the ITU, the region's telecoms regulators' assembly and Congo's regulator, ARPCE.
 
@@ -159,7 +159,7 @@ About 50 officials from eight Central African states met in Brazzaville on 15–
 
 <div class="bulletin-item" markdown="1">
 
-**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html#ict-infrastructure" title="COG">Congo</a>
+**[Le Congo et l'Afrique centrale s'organisent pour mieux résister aux catastrophes](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/)** — La Brève Online, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 Experts from eight Central African countries met in Brazzaville on 15–17 September 2026 to review a model national emergency telecommunications plan for keeping communications running in disasters. Figures presented there credit Congo's universal service fund FASUCE with connecting more than 380,000 people in isolated areas and over 250 localities.
 
@@ -167,7 +167,7 @@ Experts from eight Central African countries met in Brazzaville on 15–17 Septe
 
 <div class="bulletin-item" markdown="1">
 
-**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html#ict-infrastructure" title="COG">Congo</a>
+**[Télécoms : l'Afrique centrale renforce ses dispositifs face aux catastrophes naturelles](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)** — Les Dépêches de Brazzaville, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
 A regional workshop in Brazzaville on 15 and 16 September worked towards a common framework for national emergency telecommunications plans across central Africa, convened by the international telecommunications union with the regional regulators' assembly and the economic community.
 
@@ -199,7 +199,7 @@ The governor of the Bank of Central African States, closing the CEMAC Bankers' D
 
 <div class="bulletin-item" markdown="1">
 
-**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#dpi" title="CMR">Cameroon</a>
+**[Intégration financière : la BEAC et le PAPSS mobilisent les banques de la CEMAC](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/)** — Journal du Cameroun, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 The Bank of Central African States (BEAC) and the Pan-African Payment and Settlement System (PAPSS) held a webinar on 9 September 2026 to bring commercial banks of the CEMAC zone onto the continental payment system, following BEAC's own accession. The session covered terms of participation and next steps; no timetable or number of banks is given.
 
@@ -279,7 +279,7 @@ Summarised under [Data Storage](#data-storage).
 
 <div class="bulletin-item" markdown="1">
 
-**[CEMAC : le mobile money brasse 44 000 milliards FCFA en 2025 et génère 47 milliards de bénéfices aux opérateurs](https://ecomatin.net/cemac-le-mobile-money-brasse-44-000-milliards-fcfa-en-2025-et-genere-47-milliards-de-benefices-aux-operateurs)** — Ecomatin, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html#dpi" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html#dpi" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html#dpi" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#dpi" title="TCD">Chad</a>
+**[CEMAC : le mobile money brasse 44 000 milliards FCFA en 2025 et génère 47 milliards de bénéfices aux opérateurs](https://ecomatin.net/cemac-le-mobile-money-brasse-44-000-milliards-fcfa-en-2025-et-genere-47-milliards-de-benefices-aux-operateurs)** — Ecomatin, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Central Africa's seven licensed payment institutions processed 4.6 billion operations worth FCFA 44,037 billion in 2025, against 3.4 billion operations in 2024, on the banking commission's annual report. Two Cameroonian operators' services held 65.4% of the sector's income.
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SEN
 ledger_rows: 57
 not_held: 3
-record: f5e13285226f
+record: 75e37fd21226
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -237,7 +237,7 @@ Senegal's personal data protection commission (CDP) handled 195 files between Ap
 
 <div class="bulletin-item" markdown="1">
 
-**[Gouvernance des données : la CDP réunit plusieurs autorités africaines à Dakar](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/)** — Agence de Presse Sénégalaise, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#instruments-and-harmonisation" title="XWA">West Africa</a>
+**[Gouvernance des données : la CDP réunit plusieurs autorités africaines à Dakar](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/)** — Agence de Presse Sénégalaise, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Senegal's personal data protection commission (CDP) opened a seminar in Dakar for African and international data protection authorities, running from 7 to 10 September 2026. It is meant to strengthen cooperation and share experience on data governance, digital transformation and artificial intelligence.
 
@@ -387,7 +387,7 @@ Senegal plans to connect 6,888 schools to broadband, with satellite for more tha
 
 <div class="bulletin-item" markdown="1">
 
-**[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#ict-infrastructure" title="MLI">Mali</a>
+**[Bakel : inauguration de l’interconnexion des “backbones” du Sénégal et du Mali](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)** — APS, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
 
 Senegal's and Mali's state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October, to secure and diversify routes between the two countries. No capacity or cost is given.
 
@@ -539,7 +539,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 <div class="bulletin-item" markdown="1">
 
-**[Monnaie électronique dans l'UEMOA – le Sénégal concentre 29,7 % des actifs et occupe la première place](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/)** — Digital Mag Côte d'Ivoire, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#shared-systems-and-infrastructure" title="XWA">West Africa</a>
+**[Monnaie électronique dans l'UEMOA – le Sénégal concentre 29,7 % des actifs et occupe la première place](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/)** — Digital Mag Côte d'Ivoire, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Senegal held 29.7% of electronic money outstanding in the West African Economic and Monetary Union at the end of 2025, and 26.5% of large microfinance institutions' assets, according to the union's Banking Commission. E-money outstanding across the union rose 35.2% to CFAF 1,923.2 billion, and 64.9% of its 172.9 million e-money accounts were inactive.
 
@@ -553,7 +553,7 @@ Senegal held 29.7% of electronic money outstanding in the West African Economic 
 
 <div class="bulletin-item" markdown="1">
 
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html#dpi" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#dpi" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html#dpi" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html#dpi" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
 The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
@@ -561,7 +561,7 @@ The African Development Bank and AXIAN Group launched a programme on 2 September
 
 <div class="bulletin-item" markdown="1">
 
-**[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html#dpi" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#dpi" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html#dpi" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html#dpi" title="COM">Comoros</a>
+**[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
 
 The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 
@@ -611,7 +611,7 @@ Seneweb argues Senegal's digital-payments market is no longer an Orange Money-Wa
 
 <div class="bulletin-item" markdown="1">
 
-**[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#shared-systems-and-infrastructure" title="XWA">West Africa</a>
+**[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Mobile money operator Wave Digital Finance appears on the BCEAO's list of participants in its PI-SPI instant payment platform updated on 30 September 2026, authorised to offer the service in Senegal. Wave was absent when the platform launched a year earlier with 45 participants; the list now has 175 across the eight WAEMU states. The central bank had set 30 September 2026 as the connection deadline.
 
@@ -811,7 +811,7 @@ Senegal's National Civil Registry Agency (ANEC) has digitised 77% of the country
 
 <div class="bulletin-item" markdown="1">
 
-**[Préparation à l'IA : Le Sénégal leader dans l'UEMOA, mais la région reste en deçà de la moyenne mondiale](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html)** — Seneweb, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#instruments-and-harmonisation" title="XWA">West Africa</a>
+**[Préparation à l'IA : Le Sénégal leader dans l'UEMOA, mais la région reste en deçà de la moyenne mondiale](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html)** — Seneweb, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The West African Economic and Monetary Union Commission presented a draft regional artificial intelligence strategy at a press session in Ouagadougou, with Oxford Insights' 2025 government AI readiness figures placing Senegal first of the union's eight states on a score of 46.10. The draft covers a common regulatory framework, data governance, skills, computing infrastructure and phased adoption in health, education and agriculture. The rankings as reported are internally inconsistent.
 
@@ -825,7 +825,7 @@ The West African Economic and Monetary Union Commission presented a draft region
 
 <div class="bulletin-item" markdown="1">
 
-**[Atelier régional sur l'IA : le Sénégal appelle à «anticiper les évolutions technologiques»](https://www.pressafrik.com/Atelier-regional-sur-l-IA-le-Senegal-appelle-a-anticiper-les-evolutions-technologiques_a311677.html)** — PressAfrik, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#instruments-and-harmonisation" title="XWA">West Africa</a>
+**[Atelier régional sur l'IA : le Sénégal appelle à «anticiper les évolutions technologiques»](https://www.pressafrik.com/Atelier-regional-sur-l-IA-le-Senegal-appelle-a-anticiper-les-evolutions-technologiques_a311677.html)** — PressAfrik, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Senegal's National Assembly hosted a regional workshop on regulating artificial intelligence in Dakar from 16 to 18 September 2026, with members of parliament from Senegal, Benin, Burkina Faso and Côte d'Ivoire. The chair of the assembly's digital committee, Aliou Sène, called for an African approach to AI regulation based on regional cooperation and protection of citizens.
 
@@ -863,7 +863,7 @@ Senegal's justice ministry judged the first results of the pilot digitising judi
 
 <div class="bulletin-item" markdown="1">
 
-**[Alan acquires Senegal's Tanel in rare Francophone healthtech exit](https://techcabal.com/2026/09/02/alan-tanel/)** — TechCabal, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#technology" title="CIV">Côte d'Ivoire</a>
+**[Alan acquires Senegal's Tanel in rare Francophone healthtech exit](https://techcabal.com/2026/09/02/alan-tanel/)** — TechCabal, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 French health insurer Alan acquired Dakar-based Tanel in a deal that closed in June 2026 for an undisclosed sum, its first move into Africa and a full exit for Ventures Platform, AAIC Investment and a group of angels. Tanel is a licensed insurer carrying its own risk rather than administering another underwriter's cover, selling employer health plans in Senegal and Côte d'Ivoire across a contracted network of more than 1,200 pharmacies and providers, covering about 70,000 lives and profitable in 2025. Alan had backed Tanel's $2.1 million seed round in 2024, giving it two years of visibility before it approached the founders, who stay on as general managers.
 
@@ -907,7 +907,7 @@ Senegal's telecommunications ministry signed a US$150 million partnership conven
 
 <div class="bulletin-item" markdown="1">
 
-**[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#technology" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#technology" title="UGA">Uganda</a>
+**[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 Enabel, the Belgian development agency, issued tender specifications for a consultancy to build a Women in Tech community platform and source 12 EU-Africa ventures under its AEDIB 2.0 programme in Tanzania, Uganda and Senegal for 2026 to 2028. The procedure is negotiated without prior publication; bids close on 23 October 2026. No contract value is stated.
 

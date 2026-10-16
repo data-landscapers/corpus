@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: TGO
 ledger_rows: 54
 not_held: 20
-record: e7437a5e4d40
+record: 3633a883c69a
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -205,7 +205,7 @@ Togo's personal data protection authority, IPDCP, opened its first evaluation an
 
 <div class="bulletin-item" markdown="1">
 
-**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a>
+**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
 
 Togo's personal data protection authority (IPDCP) and Mali's APDP signed a cooperation agreement on 23 September covering information exchange, joint handling of complaints and compliance checks, and staff training. Their talks also touched on cross-border data transfers, cybersecurity and AI.
 
@@ -219,7 +219,7 @@ Togo's personal data protection authority (IPDCP) and Mali's APDP signed a coope
 
 <div class="bulletin-item" markdown="1">
 
-**[L’Instance de Protection des Données à Caractère Personnel (IPDCP) et l’Autorité de Protection des Données Personnelles du Bénin (APDP) renforcent leur coopération à Lomé - IPDCP](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)** — IPDCP Togo, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#governance" title="BEN">Benin</a>
+**[L’Instance de Protection des Données à Caractère Personnel (IPDCP) et l’Autorité de Protection des Données Personnelles du Bénin (APDP) renforcent leur coopération à Lomé - IPDCP](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/)** — IPDCP Togo, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Togo's data-protection authority hosted its Beninese counterpart in Lome on 2 and 3 October for a working session on sharing experience and building skills. It follows the Togolese authority's mission to Benin on 18 August and the two bodies' cooperation agreement.
 
@@ -569,7 +569,7 @@ Togo's revenue office opened online filing and payment of the single business ta
 
 <div class="bulletin-item" markdown="1">
 
-**[Togo Shares Digital Agriculture Experience With Chad](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad)** — Togo First, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#dpi" title="TCD">Chad</a>
+**[Togo Shares Digital Agriculture Experience With Chad](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad)** — Togo First, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 A four-member delegation from Chad's West Africa Food System Resilience Program visited Lomé on 28 August to study three digital agriculture tools built by its Togolese counterpart: SIHAM, TG-ALERTE+ and e-Agri conseil. Togo reported more than 80,000 agrometeorological bulletins in 2024, reaching over 122,000 people. The Togo programme has $96.37 million in World Bank financing.
 
@@ -765,7 +765,7 @@ The Global Alliance for Trade Facilitation launched a project in Lomé on 9 Octo
 
 <div class="bulletin-item" markdown="1">
 
-**[Solutions numériques agricoles : le Tchad s'inspire de l'expérience togolaise](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise)** — Site officiel du Togo, République Togolaise, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html#digitalisation" title="TCD">Chad</a>
+**[Solutions numériques agricoles : le Tchad s'inspire de l'expérience togolaise](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise)** — Site officiel du Togo, République Togolaise, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 A Chadian delegation from the West African food system resilience programme visited Lomé to study Togo's deployment of digital solutions in agriculture. The account is the host government's.
 
@@ -815,7 +815,7 @@ Togo's AI laboratory is recruiting a technical lead for public-sector artificial
 
 <div class="bulletin-item" markdown="1">
 
-**[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#technology" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#technology" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#technology" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
@@ -861,7 +861,7 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 
 <div class="bulletin-item" markdown="1">
 
-**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html#capacity" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#capacity" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#capacity" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html#capacity" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+**[African Development Bank and AXIAN Launch Digital Finance Programme to Support 34,000 Women-led Businesses in Africa](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa)** — African Development Bank Group (distributed by APO Group), 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
 The African Development Bank and AXIAN Group launched a programme on 2 September 2026 to offer digital loans and financial services through AXIAN's Mixx and MVola mobile money platforms to 34,000 women-led small businesses in Madagascar, Tanzania and Senegal. A second component will train 25,000 women in those countries plus Togo and the Comoros. No committed amount is stated.
 
@@ -869,7 +869,7 @@ The African Development Bank and AXIAN Group launched a programme on 2 September
 
 <div class="bulletin-item" markdown="1">
 
-**[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html#capacity" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#capacity" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#capacity" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html#capacity" title="COM">Comoros</a>
+**[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
 
 The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
 

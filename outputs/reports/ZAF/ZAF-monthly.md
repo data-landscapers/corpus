@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: ZAF
 ledger_rows: 140
 not_held: 21
-record: 6fd942e71dfa
+record: 1953c712203c
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -407,7 +407,7 @@ South Africa's National Consumer Commission launched the National Opt-Out Regist
 
 <div class="bulletin-item" markdown="1">
 
-**[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#institutions-and-mandates" title="XSA">Southern Africa</a>
+**[SADC must build its own knowledge to drive industrialisation, says Manamela](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela)** — SAnews (South African Government News Agency), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 South Africa's higher education minister, Buti Manamela, told a meeting of SADC university vice-chancellors in Johannesburg on 31 August 2026 that the region must build its own computing capacity, datasets, African-language technologies and cybersecurity. He set five priorities, including agreement on a regional higher education data system, to show results by the SADC ministers' meeting in June 2027.
 
@@ -415,7 +415,7 @@ South Africa's higher education minister, Buti Manamela, told a meeting of SADC 
 
 <div class="bulletin-item" markdown="1">
 
-**[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#institutions-and-mandates" title="XSA">Southern Africa</a>
+**[Universities should turn regional cooperation into action](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html)** — University of the Witwatersrand, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 University leaders, government representatives, the SADC Secretariat and the Southern African Regional Universities Association met at Wits University on 31 August–1 September 2026. They discussed the SADC higher education strategy, a proposed SADC University of Transformation, a regional higher education data system and micro-credentials. No design, cost or timetable for the data system is given.
 
@@ -897,7 +897,7 @@ A ratings agency rates South Africa’s water resilience relatively low and name
 
 <div class="bulletin-item" markdown="1">
 
-**[AWS puts $2.3bn behind Africa's cloud, AI future](https://www.itweb.co.za/article/aws-puts-23bn-behind-africas-cloud-ai-future/PmxVE7KEYWxqQY85)** — ITWeb South Africa, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[AWS puts $2.3bn behind Africa's cloud, AI future](https://www.itweb.co.za/article/aws-puts-23bn-behind-africas-cloud-ai-future/PmxVE7KEYWxqQY85)** — ITWeb South Africa, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 A large cloud provider says it has invested more than US$819 million in African infrastructure since 2018 and committed a further US$1.5 billion to 2029, with 154 services now available in its Cape Town region. Its general manager for Sub-Saharan Africa told a Johannesburg summit the Africa strategy is increasingly aimed at local developers building for regional markets, and claimed more than a million Africans trained in cloud and AI skills.
 
@@ -1235,7 +1235,7 @@ MiDO Academy and the UK charity The Cyber Helpline, funded by Amazon Web Service
 
 <div class="bulletin-item" markdown="1">
 
-**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#dpi" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#dpi" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html#dpi" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html#dpi" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#shared-systems-and-infrastructure" title="XSA">Southern Africa</a>
+**[Five Southern African countries move to link customs data as trade corridors face pressure to cut delays](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/)** — Southern African Times, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, hosted by the South African Revenue Service and convened by TradeMark Africa. The aim is to share trade data before consignments reach the border, building on existing Zambia-Malawi and Zambia-Zimbabwe links.
 
@@ -1263,7 +1263,7 @@ The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 Septemb
 
 <div class="bulletin-item" markdown="1">
 
-**[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html#dpi" title="LSO">Lesotho</a>
+**[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 Lesotho and South Africa concluded a mid-term review of their Bi-National Commission in Pretoria on 9 September 2026 after three days of talks. Outcomes included faster work on Smart One-Stop Border Posts at Maseru and Ficksburg, progress on a new migration model for labour mobility, and Phase II of the Lesotho Highlands Water Project. The next full session is set for South Africa in 2027.
 
@@ -1517,7 +1517,7 @@ The City of Cape Town will pilot cashless payments at three of its 18 driving li
 
 <div class="bulletin-item" markdown="1">
 
-**[Local stablecoins are great, but who really needs them?](https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/)** — TechCabal, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#dpi" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#shared-systems-and-infrastructure" title="XAF">Africa</a>
+**[Local stablecoins are great, but who really needs them?](https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/)** — TechCabal, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 An analysis arguing that stablecoins tied to African currencies have a weak case for retail use, because mobile money and bank transfers already work at home. It sees more promise in wholesale use and currency exchange on the blockchain. It gives supply as of 21 September 2026: about R74.6 million of ZARP in circulation and more than ₦3.75 billion of cNGN.
 
@@ -2091,7 +2091,7 @@ Airports Company South Africa's annual report sets a plan to 2031 to bring AI, c
 
 <div class="bulletin-item" markdown="1">
 
-**[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html#technology" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#technology" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html#technology" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html#technology" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[Local AI compute infrastructure in Africa: Lessons from six country-hosted deployments on governance and effective use](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)** — United Nations Development Programme (UNDP), Regional Bureau for Africa, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The UN Development Programme's Africa bureau published lessons on 17 September 2026 from the AI computing capacity it deployed in Kenya, Malawi, Rwanda, South Africa, Togo and Zambia. It identified 21 AI applications across the six, and found that data readiness, skills, institutional ownership and financing, not hardware, determine how far the compute is used.
 
@@ -2133,7 +2133,7 @@ Standard Bank and Stellenbosch University's School for Data Science and Computat
 
 <div class="bulletin-item" markdown="1">
 
-**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#technology" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#technology" title="CIV">Côte d'Ivoire</a>
+**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
 
@@ -2213,7 +2213,7 @@ South Africa's crackdown on low-value imports has significantly slowed cross-bor
 
 <div class="bulletin-item" markdown="1">
 
-**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a>
+**[Vodacom's Safaricom deal struck down by Kenyan high court](https://techcentral.co.za/vodacom-safaricom-deal-struck-down-kenyan-high-court/286146/)** — TechCentral, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Kenya's High Court on 15 September 2026 declared the government's sale of a 15 per cent Safaricom stake to Vodacom's Vodafone Kenya unconstitutional and ordered the shares returned to the state. The three-judge bench found public participation inadequate and the buyer's identity concealed. The June sale raised KSh204.3 billion; Vodacom said it will appeal and seek a stay.
 
@@ -2255,7 +2255,7 @@ Summarised under [Data Storage](#data-storage).
 
 <div class="bulletin-item" markdown="1">
 
-**[Standard Bank Group announces strategic investment in OPay and a partnership to advance financial services access in Africa](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa)** — Standard Bank Group, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#technology" title="NGA">Nigeria</a>
+**[Standard Bank Group announces strategic investment in OPay and a partnership to advance financial services access in Africa](https://www.standardbank.com/sbg/standard-bank-group/newsroom/press-releases/standard-bank-group-announces-strategic-investment-in-opay-and-a-partnership-to-advance-financial-services-access-in-africa)** — Standard Bank Group, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Standard Bank Group signed a subscription agreement to invest in Nigerian fintech OPay, to close with or shortly after OPay's proposed New York Stock Exchange listing, for which OPay filed with the US SEC on 9 October 2026. The two also plan to explore digital banking, merchant acquiring, lending and remittances. The release states no amount.
 
@@ -2285,7 +2285,7 @@ South African startups raised $335.9 million in 2025, more than three times the 
 
 <div class="bulletin-item" markdown="1">
 
-**[Injini lance un programme pour soutenir 12 start-up en Afrique australe](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe)** — wearetech.africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html#coordination-and-collaboration" title="XSA">Southern Africa</a>
+**[Injini lance un programme pour soutenir 12 start-up en Afrique australe](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe)** — wearetech.africa, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 The South African edtech accelerator Injini has launched an eight-month programme for twelve teams across Southern Africa building affordable AI tools adapted to local classrooms. The five strongest projects will receive seed funding at the end of it to develop their tools and test their impact with pupils and teachers; no amount is stated.
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: UGA
 ledger_rows: 68
 not_held: 11
-record: 29b0da34cbfe
+record: 96babf920a69
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -219,7 +219,7 @@ Uganda's communications regulator launched a child online protection campaign at
 
 <div class="bulletin-item" markdown="1">
 
-**[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#governance" title="SSD">South Sudan</a>
+**[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 South Sudan and Uganda's health ministers signed a memorandum of understanding in Juba on cross-border health security, reported on 8 September 2026. It provides for real-time sharing of epidemiological information, mutual outbreak notification, joint contact tracing and surveillance, biospecimen transfer and harmonised screening at points of entry.
 
@@ -233,7 +233,7 @@ South Sudan and Uganda's health ministers signed a memorandum of understanding i
 
 <div class="bulletin-item" markdown="1">
 
-**[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#governance" title="SSD">South Sudan</a>
+**[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
 
@@ -325,7 +325,7 @@ Uganda's parliamentary committee on state enterprises questioned the Uganda Elec
 
 <div class="bulletin-item" markdown="1">
 
-**[Paratus expands East Africa connectivity ahead of ITW Africa](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/)** — TechTrendsKE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html#ict-infrastructure" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#ict-infrastructure" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#ict-infrastructure" title="KEN">Kenya</a>
+**[Paratus expands East Africa connectivity ahead of ITW Africa](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/)** — TechTrendsKE, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and carrying traffic, announced at the ITW and Datacloud Africa conference in Nairobi. The route links eastern DRC to the Kenyan coast through Kigali, Kampala and Nairobi, with access to subsea capacity landing at Mombasa. Starlink services have launched in Uganda alongside it, and the company is introducing a Layer 2 connectivity service over low-earth-orbit satellite for the East African market.
 
@@ -431,7 +431,7 @@ The Uganda Bankers' Association counted 6,533 cyber and fraud incidents in the f
 
 <div class="bulletin-item" markdown="1">
 
-**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html#dpi" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a>
+**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 The Capital Times reports that Uganda's and Kenya's revenue authorities still enforce e-Permit collections at border points for Crawford Capital, a firm the United States sanctioned on 12 May 2026 over diverting South Sudanese public funds. The UK-registered company collects a dollar charge on imports bound for South Sudan; documents cited show the Uganda Revenue Authority shares customs data with South Sudan's revenue authority but do not show a direct contract.
 
@@ -709,7 +709,7 @@ MTN Uganda and the Ministry of Works and Transport launched Mobile Money toll pa
 
 <div class="bulletin-item" markdown="1">
 
-**[Afreximbank issues a $29 million guarantee to scale EAC Customs Bond, easing movement of goods across East Africa](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/)** — African Export-Import Bank (Afreximbank), 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html#shared-systems-and-infrastructure" title="XEA">East Africa</a>
+**[Afreximbank issues a $29 million guarantee to scale EAC Customs Bond, easing movement of goods across East Africa](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/)** — African Export-Import Bank (Afreximbank), 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Afreximbank issued a US$29m guarantee to BSMART Technology on 22 September 2026 to scale the EAC Customs Bond, a digital regional customs guarantee that removes the need to post paper bonds at each border. The bond was piloted from August 2025 and launched at the East African Community heads of state summit in March 2026.
 
@@ -1029,7 +1029,7 @@ Ugandan startup SANDI AI Technologies won the 2026 GoGettaz Agripreneur Prize of
 
 <div class="bulletin-item" markdown="1">
 
-**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#technology" title="CIV">Côte d'Ivoire</a>
+**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
 
@@ -1073,7 +1073,7 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 <div class="bulletin-item" markdown="1">
 
-**[CreditChek rachète Algosys pour faciliter le crédit en Afrique de l'Est](https://www.wearetech.africa/fr/fils/breves/breves-simple/creditchek-rachete-algosys-pour-faciliter-le-credit-en-afrique-de-lest)** — wearetech.africa, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#technology" title="NGA">Nigeria</a>
+**[CreditChek rachète Algosys pour faciliter le crédit en Afrique de l'Est](https://www.wearetech.africa/fr/fils/breves/breves-simple/creditchek-rachete-algosys-pour-faciliter-le-credit-en-afrique-de-lest)** — wearetech.africa, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 A Nigerian technology company has acquired a Ugandan banking-software firm, bringing every stage of credit - from verifying the borrower's identity to repayment - onto a single platform. The companies say the combination lets African financial institutions assess loan applications faster and lend more readily; no price is disclosed.
 
@@ -1089,7 +1089,7 @@ A Nigerian technology company has acquired a Ugandan banking-software firm, brin
 
 <div class="bulletin-item" markdown="1">
 
-**[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#technology" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#technology" title="SEN">Senegal</a>
+**[Tender Specifications: Consultancy for Development of a Women in Tech (WiT) Community Platform, and EU-Africa Venture Sourcing (TZA25001-10031)](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf)** — Enabel (Belgian Development Agency), 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Enabel, the Belgian development agency, issued tender specifications for a consultancy to build a Women in Tech community platform and source 12 EU-Africa ventures under its AEDIB 2.0 programme in Tanzania, Uganda and Senegal for 2026 to 2028. The procedure is negotiated without prior publication; bids close on 23 October 2026. No contract value is stated.
 
@@ -1213,7 +1213,7 @@ Makerere University and Japan's international cooperation agency explored streng
 
 <div class="bulletin-item" markdown="1">
 
-**[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html#inclusion" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#inclusion" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Closing the digital divide for refugee women means understanding their full experience of connectivity](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/)** — GSMA Mobile for Humanitarian Innovation (Zainab Moallin), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MRT/MRT-monthly.html" title="MRT">Mauritania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
 The GSMA published research on 10 September 2026 on refugee women's mobile use, drawing on fieldwork with Venezuelan refugees in Colombia and in Mauritania's Mbera camp. It reports that refugee women in Ethiopia are twice as likely to have SIMs registered in someone else's name, that in Uganda about a quarter use the internet against half of men, and that in Tanzania identity rules push women to register SIMs through intermediaries.
 
@@ -1221,7 +1221,7 @@ The GSMA published research on 10 September 2026 on refugee women's mobile use, 
 
 <div class="bulletin-item" markdown="1">
 
-**[Digital inclusion for refugee women must go beyond connectivity: GSMA](https://www.biometricupdate.com/202609/digital-inclusion-for-refugee-women-must-go-beyond-connectivity-gsma)** — Biometric Update, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html#inclusion" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#inclusion" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
+**[Digital inclusion for refugee women must go beyond connectivity: GSMA](https://www.biometricupdate.com/202609/digital-inclusion-for-refugee-women-must-go-beyond-connectivity-gsma)** — Biometric Update, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XGL/" title="XGL">Global</a>
 
 GSMA research finds identity rules for SIM registration push refugee women in Ethiopia and Tanzania to register lines in others' names, limiting control of mobile money and communication. In Uganda about 25% of refugee women use the internet against 50% of men.
 

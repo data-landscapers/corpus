@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: CIV
 ledger_rows: 41
 not_held: 10
-record: 075e893ae77f
+record: 152f1bfc6855
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -151,7 +151,7 @@ The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouatt
 
 <div class="bulletin-item" markdown="1">
 
-**[ATU opens fifth Africa Innovation Challenge with US$60,000 prize pool](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)** — TechReviewAfrica, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[ATU opens fifth Africa Innovation Challenge with US$60,000 prize pool](https://techreviewafrica.com/news/7306/atu-opens-fifth-africa-innovation-challenge-with-us60000-prize-pool)** — TechReviewAfrica, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The African Telecommunications Union opened applications for the fifth Africa Innovation Challenge, with a total prize pool of US$60,000. Côte d'Ivoire's digital minister, Djibril Ouattara, launched it in Abidjan during Africa's final preparatory meeting for the 2026 ITU Plenipotentiary Conference. The call focuses on AI-based software.
 
@@ -159,7 +159,7 @@ The African Telecommunications Union opened applications for the fifth Africa In
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa concludes final preparatory meeting ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7323/africa-concludes-final-preparatory-meeting-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Africa concludes final preparatory meeting ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7323/africa-concludes-final-preparatory-meeting-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African states closed their fourth and final preparatory meeting for the 2026 ITU Plenipotentiary Conference in Abidjan on 17 September 2026 with 46 African Common Proposals for the conference in Doha. The proposals cover connectivity, digital transformation, skills and inclusive digital services; space and spectrum regulation were among the most debated issues.
 
@@ -167,7 +167,7 @@ African states closed their fourth and final preparatory meeting for the 2026 IT
 
 <div class="bulletin-item" markdown="1">
 
-**[ITU Africa Regional Director Emmanuel Manasseh highlights coordinated African priorities ahead of PP-26](https://techreviewafrica.com/news/7334/itu-africa-regional-director-emmanuel-manasseh-highlights-coordinated-african-priorities-ahead-of-pp-26)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[ITU Africa Regional Director Emmanuel Manasseh highlights coordinated African priorities ahead of PP-26](https://techreviewafrica.com/news/7334/itu-africa-regional-director-emmanuel-manasseh-highlights-coordinated-african-priorities-ahead-of-pp-26)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The International Telecommunication Union's Africa director, Emmanuel Manasseh, said African states refined common proposals for the 2026 Plenipotentiary Conference at their fourth and final preparatory meeting in Abidjan, reported on 18 September 2026. The next step is an inter-regional preparatory meeting in Saudi Arabia on 13 and 14 October 2026.
 
@@ -175,7 +175,7 @@ The International Telecommunication Union's Africa director, Emmanuel Manasseh, 
 
 <div class="bulletin-item" markdown="1">
 
-**[Space regulation emerges as key issue ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#institutions-and-mandates" title="XAF">Africa</a>
+**[Space regulation emerges as key issue ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African telecommunications bodies concluded their last preparatory meeting for the 2026 ITU Plenipotentiary Conference in Abidjan, where space regulation was widely debated, reported on 18 September 2026. Eric Fournier, France's candidate to head the ITU Radiocommunication Bureau, presented his candidacy and met Côte d'Ivoire's digital minister and telecoms regulator.
 
@@ -421,7 +421,7 @@ Côte d'Ivoire launched a feasibility study in Abidjan on 5 October 2026 for a n
 
 <div class="bulletin-item" markdown="1">
 
-**[Connexion des Trésors Publics à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'Union Economique et Monétaire Ouest Africaine](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)** — BCEAO, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#shared-systems-and-infrastructure" title="XWA">West Africa</a>
+**[Connexion des Trésors Publics à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'Union Economique et Monétaire Ouest Africaine](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)** — BCEAO, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Central Bank of West African States announced on 8 October 2026 that WAEMU public treasuries are being connected to its PI-SPI instant payment platform, to send and receive salaries, grants, subsidies and taxes whatever the counterpart's account. Côte d'Ivoire's treasury already makes regular bulk payments through it; the others are being integrated progressively.
 
@@ -703,7 +703,7 @@ Côte d'Ivoire's digital transition minister Djibril Ouattara signed a National 
 
 <div class="bulletin-item" markdown="1">
 
-**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html#technology" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#technology" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#technology" title="UGA">Uganda</a>
+**[R101m UCT project brings AI microscopy to Africa](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz)** — ITWeb South Africa, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London.
 

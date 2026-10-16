@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GMB
 ledger_rows: 46
 not_held: 2
-record: e28ca530ac25
+record: 9f220372a566
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -289,7 +289,7 @@ Revising courts set up by The Gambia's Chief Justice began hearing objections to
 
 <div class="bulletin-item" markdown="1">
 
-**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#dpi" title="LBR">Liberia</a>
+**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 The Gambian account of the Liberia–Gambia revenue dashboard agreement, summarised under the GNN Liberia report. It adds that the LRA pays the expert's airfare while the GRA covers lodging and local transport.
 
@@ -297,7 +297,7 @@ The Gambian account of the Liberia–Gambia revenue dashboard agreement, summari
 
 <div class="bulletin-item" markdown="1">
 
-**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#dpi" title="LBR">Liberia</a>
+**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 The Liberia Revenue Authority signed a memorandum of engagement to help the Gambia Revenue Authority build a dashboard that tracks revenue collection; it was announced from Accra on 20 September 2026 and signed during meetings of the West African Tax Administration Forum. The help covers a review of GRA's data sources, choice of indicators, design, a prototype, integration and staff training. The LRA will send the developer of its own dashboard to Banjul for an initial three weeks.
 
@@ -397,7 +397,7 @@ The Gambia's trade and employment ministry signed memoranda of understanding wit
 
 <div class="bulletin-item" markdown="1">
 
-**[Gender checks proposed for digital policies](https://times.co.sz/45787/news/gender-checks-proposed-for-digital-policies/)** — Times of Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#inclusion" title="SWZ">Eswatini</a>
+**[Gender checks proposed for digital policies](https://times.co.sz/45787/news/gender-checks-proposed-for-digital-policies/)** — Times of Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 Eswatini's ICT minister, opening the gender impact assessment workshop in Mbabane, said the government wants such assessments built into digital policies and programmes before they are implemented.
 
@@ -405,7 +405,7 @@ Eswatini's ICT minister, opening the gender impact assessment workshop in Mbaban
 
 <div class="bulletin-item" markdown="1">
 
-**[Gender impact tool targets the digital divide facing women](https://www.finguardmagazine.com/business/gender-impact-tool-targets-the-digital-divide-facing-women/)** — FinGuard Magazine, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#inclusion" title="SWZ">Eswatini</a>
+**[Gender impact tool targets the digital divide facing women](https://www.finguardmagazine.com/business/gender-impact-tool-targets-the-digital-divide-facing-women/)** — FinGuard Magazine, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 A magazine account of the same Eswatini pilot of Smart Africa's gender impact assessment framework, which is meant to test whether digital programmes narrow the divide facing women. It names the tools differently from the ministry's account.
 
@@ -413,7 +413,7 @@ A magazine account of the same Eswatini pilot of Smart Africa's gender impact as
 
 <div class="bulletin-item" markdown="1">
 
-**[Minister Savannah vows to continue advocating for women In tech](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/)** — Independent News Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html#inclusion" title="SWZ">Eswatini</a>
+**[Minister Savannah vows to continue advocating for women In tech](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/)** — Independent News Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a>
 
 Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to develop and pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries. Three instruments are to be tested on selected digital policies before validation.
 

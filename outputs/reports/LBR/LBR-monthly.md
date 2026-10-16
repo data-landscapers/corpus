@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: LBR
 ledger_rows: 31
 not_held: 6
-record: a2e15b986582
+record: 5618474900d4
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -117,7 +117,7 @@ Liberia's Ministry of Gender, Children and Social Protection confirmed on 13 Sep
 
 <div class="bulletin-item" markdown="1">
 
-**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#governance" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html#governance" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html#governance" title="GIN">Guinea</a>
+**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a>
 
 Rwanda Cooperation said it hosted eight government delegations from seven countries in one week in late August 2026: Liberia, Kenya, Nigeria, Benin, Gambia, Gabon and Guinea. A delegation from Gabon's interior ministry spent nearly two weeks studying e-government, AI policy, digital civil registration and identification, cybersecurity, data protection and system interconnection.
 
@@ -131,7 +131,7 @@ Rwanda Cooperation said it hosted eight government delegations from seven countr
 
 <div class="bulletin-item" markdown="1">
 
-**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html#governance" title="GMB">Gambia</a>
+**[GRA and Liberia Revenue Authority sign deal to deepen digital cooperation](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)** — The Point, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
 
 The Gambian account of the Liberia–Gambia revenue dashboard agreement, summarised under the GNN Liberia report. It adds that the LRA pays the expert's airfare while the GRA covers lodging and local transport.
 
@@ -139,7 +139,7 @@ The Gambian account of the Liberia–Gambia revenue dashboard agreement, summari
 
 <div class="bulletin-item" markdown="1">
 
-**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html#governance" title="GMB">Gambia</a>
+**[LRA to Provide Technical Support for Gambia’s Revenue Collection Dashboard](https://gnnliberia.com/lra-to-provide-technical-support-for-gambias-revenue-collection-dashboard/)** — Global News Network Liberia, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
 
 The Liberia Revenue Authority signed a memorandum of engagement to help the Gambia Revenue Authority build a dashboard that tracks revenue collection; it was announced from Accra on 20 September 2026 and signed during meetings of the West African Tax Administration Forum. The help covers a review of GRA's data sources, choice of indicators, design, a prototype, integration and staff training. The LRA will send the developer of its own dashboard to Banjul for an initial three weeks.
 
@@ -153,7 +153,7 @@ The Liberia Revenue Authority signed a memorandum of engagement to help the Gamb
 
 <div class="bulletin-item" markdown="1">
 
-**[Bank of Ghana and Liberia central bank strengthen partnership on payment systems](https://www.ghanaguardian.com/bank-of-ghana-and-liberia-central-bank-strengthen-partnership-on-payment-systems/)** — Ghana Guardian, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#governance" title="GHA">Ghana</a>
+**[Bank of Ghana and Liberia central bank strengthen partnership on payment systems](https://www.ghanaguardian.com/bank-of-ghana-and-liberia-central-bank-strengthen-partnership-on-payment-systems/)** — Ghana Guardian, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visited the Bank of Ghana in Accra on 1 October 2026 to learn how Ghana set up its interbank payment and settlement system, GhIPSS, to inform Liberia's own payment-systems work. The visit falls under a capacity-building memorandum the two central banks signed earlier in 2026.
 
@@ -161,7 +161,7 @@ A Central Bank of Liberia delegation led by Executive Governor Henry Saamoi visi
 
 <div class="bulletin-item" markdown="1">
 
-**[Liberia Studies Ghana’s Payment Switch as It Expands Instant Transfers](https://newsghana.com.gh/liberia-studies-ghanas-payment-switch-as-it-expands-instant-transfers/)** — NewsGhana, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#governance" title="GHA">Ghana</a>
+**[Liberia Studies Ghana’s Payment Switch as It Expands Instant Transfers](https://newsghana.com.gh/liberia-studies-ghanas-payment-switch-as-it-expands-instant-transfers/)** — NewsGhana, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 The governor of the Central Bank of Liberia led a delegation to the Bank of Ghana on 1 October to study how Ghana set up its interbank payment and settlement company. Liberia is working to connect its banks to the instant payment system it switched on in December 2025.
 
@@ -475,7 +475,7 @@ Prime Credit Reference Bureau is suing the Central Bank of Liberia for US$1,180,
 
 <div class="bulletin-item" markdown="1">
 
-**[OneHealthEHR Goes Live in Liberia, Ghana](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html)** — Liberian Observer, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#dpi" title="GHA">Ghana</a>
+**[OneHealthEHR Goes Live in Liberia, Ghana](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html)** — Liberian Observer, 28 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 OneHealthEHR's offline-first health record and disease-surveillance platform went into clinical use in Liberia and Ghana on 1 September, growing from four to seven facilities in three weeks by the company's account. It targets 30-40 clinics by December, with Liberia's public health institute as its surveillance partner.
 
@@ -643,7 +643,7 @@ Liberia's gender ministry signed an agreement with Cybastion, on the sidelines o
 
 <div class="bulletin-item" markdown="1">
 
-**[10 Years of Impact: Helping Africa Foundation calls for nationwide expansion of Nyamransa ICT model](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html)** — ModernGhana, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#capacity" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html#capacity" title="GMB">Gambia</a>
+**[10 Years of Impact: Helping Africa Foundation calls for nationwide expansion of Nyamransa ICT model](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html)** — ModernGhana, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
 
 The US-based Helping Africa Foundation marked its tenth anniversary in Gbawe, Ghana, and called on African governments to expand its youth ICT laboratory model. It has supported more than 19 ICT demonstration labs in Ghana, The Gambia and Liberia, with more planned in Tanzania and Zanzibar. Ghana's education ministry will discuss a scale-up policy; no funding is stated.
 

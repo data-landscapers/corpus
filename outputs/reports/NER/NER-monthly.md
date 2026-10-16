@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: NER
 ledger_rows: 18
 not_held: 1
-record: 952374a86b47
+record: 5f25ead040fc
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -115,7 +115,7 @@ Media and communication regulators of the Alliance of Sahel States founded a joi
 
 <div class="bulletin-item" markdown="1">
 
-**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperation agreement in Ouagadougou on 25 September creating a Sahel Regulators' Council. It covers roaming within the Alliance of Sahel States, consumer protection, cybersecurity, spectrum, mutual recognition of type-approved equipment and joint positions in international bodies.
 
@@ -123,7 +123,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 <div class="bulletin-item" markdown="1">
 
-**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html#institutions-and-mandates" title="XWA">West Africa</a>
+**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
@@ -219,7 +219,7 @@ Niger's electronic communications and post regulator launched a campaign on 27 J
 
 <div class="bulletin-item" markdown="1">
 
-**[Coopération Niger-Algérie : arrivée du ministre Hamani Kargné à Agadez pour le lancement des travaux d'interconnexion par fibre optique](https://mcnti.gouv.ne/cooperation-niger-algerie-arrivee-du-ministre-hamani-kargne-a-agadez-pour-le-lancement-des-travaux-dinterconnexion-par-fibre-optique/)** — Ministère de la Communication et des Nouvelles Technologies de l'Information (Niger), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html#ict-infrastructure" title="DZA">Algeria</a>
+**[Coopération Niger-Algérie : arrivée du ministre Hamani Kargné à Agadez pour le lancement des travaux d'interconnexion par fibre optique](https://mcnti.gouv.ne/cooperation-niger-algerie-arrivee-du-ministre-hamani-kargne-a-agadez-pour-le-lancement-des-travaux-dinterconnexion-par-fibre-optique/)** — Ministère de la Communication et des Nouvelles Technologies de l'Information (Niger), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 Niger's communications ministry reported its minister's arrival at Agadez on 5 October with an Algerian delegation, describing the mission as the launch of fibre interconnection works between the two countries; the ceremony itself is summarised above.
 
@@ -227,7 +227,7 @@ Niger's communications ministry reported its minister's arrival at Agadez on 5 O
 
 <div class="bulletin-item" markdown="1">
 
-**[L'Algérie et le Niger lancent l'exploitation de la dorsale transsaharienne à fibre optique](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Algérie Eco (reporting Algérie Presse Service), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html#ict-infrastructure" title="DZA">Algeria</a>
+**[L'Algérie et le Niger lancent l'exploitation de la dorsale transsaharienne à fibre optique](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Algérie Eco (reporting Algérie Presse Service), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 The Algerian account of the Assamaka ceremony, summarised above, says the link was built by Algerie Telecom and Niger Telecom, starts at 100 Gbps and can be expanded as traffic grows.
 
@@ -235,7 +235,7 @@ The Algerian account of the Assamaka ceremony, summarised above, says the link w
 
 <div class="bulletin-item" markdown="1">
 
-**[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html#ict-infrastructure" title="DZA">Algeria</a>
+**[Niger-Algérie : lancement à Assamaka de l'exploitation de la dorsale transsaharienne à fibre optique](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)** — Agence Nigérienne de Presse, 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 Niger and Algeria launched operation of the fibre link between In Guezzam and the Arlit-Agadez region at a ceremony at Assamaka, on the border, on 6 October, chaired by the two communications ministers. Algeria's account gives a starting capacity of 100 Gbps.
 
@@ -391,7 +391,7 @@ Niger's first national campaign against disinformation, under the slogan 'Check 
 
 <div class="bulletin-item" markdown="1">
 
-**[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html#capacity" title="DZA">Algeria</a>
+**[Cooperation Niger Telecom - Algerie Telecom : Un partenariat pour renforcer les capacites des infrastructures telecoms du Niger](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/)** — Le Sahel, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 Niger's telecoms and post college ESCEP signed a convention with Algérie Télécom's Skills Centers network in Niamey on 8 September 2026, at a meeting chaired by the communication ministry's secretary-general. The agreement provides for a Skills Center at ESCEP with Algérie Télécom's support, aimed at training and the capacity of Niger's telecoms infrastructure. No cost is given.
 
@@ -399,7 +399,7 @@ Niger's telecoms and post college ESCEP signed a convention with Algérie Télé
 
 <div class="bulletin-item" markdown="1">
 
-**[Cooperation Niger - Algerie : Une delegation algerienne visite l'ESCEP dans le cadre d'un partenariat axe sur le numerique](https://www.lesahel.org/cooperation-niger-algerie-une-delegation-algerienne-visite-lescep-dans-le-cadre-dun-partenariat-axe-sur-le-numerique/)** — Le Sahel, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html#capacity" title="DZA">Algeria</a>
+**[Cooperation Niger - Algerie : Une delegation algerienne visite l'ESCEP dans le cadre d'un partenariat axe sur le numerique](https://www.lesahel.org/cooperation-niger-algerie-une-delegation-algerienne-visite-lescep-dans-le-cadre-dun-partenariat-axe-sur-le-numerique/)** — Le Sahel, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 Niger's telecommunications and post college received an Algerian mission led by the adviser for partnership and development of that country's operator skills-centre network. The visit follows a partnership accord of July aimed at establishing a digital competence centre, and is presented as reflecting the two heads of state's intent.
 

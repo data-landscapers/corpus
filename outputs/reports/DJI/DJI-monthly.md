@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: DJI
 ledger_rows: 14
 not_held: 11
-record: c503fddba695
+record: e88ac53645a0
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -127,7 +127,7 @@ The World Bank Group's private sector diagnostic for Djibouti, released on 13 Se
 
 <div class="bulletin-item" markdown="1">
 
-**[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html#ict-infrastructure" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html#ict-infrastructure" title="SDN">Sudan</a>
+**[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
 Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
 
@@ -297,7 +297,7 @@ The Francophonie organisation and Djibouti's education and vocational training m
 
 <div class="bulletin-item" markdown="1">
 
-**[From export readiness to market access: EU-backed support strengthens women's participation in trade along the Djibouti-Ethiopia Corridor](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/)** — Horn Economic Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html#inclusion" title="ETH">Ethiopia</a>
+**[From export readiness to market access: EU-backed support strengthens women's participation in trade along the Djibouti-Ethiopia Corridor](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/)** — Horn Economic Review, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
 Forty Ethiopian women traders and exporters attended an export-readiness workshop in Bishoftu on 30-31 July 2026 under the €32 million Djibouti Corridor programme, financed by the EU through Global Gateway, delegated to the Agence Française de Développement and run by TradeMark Africa. The programme also funds digital trade systems such as electronic phytosanitary certification.
 

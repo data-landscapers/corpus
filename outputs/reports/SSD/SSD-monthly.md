@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: SSD
 ledger_rows: 17
 not_held: 10
-record: 552809401bb2
+record: 1159200c9cbf
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -87,7 +87,7 @@ The African Union Commission, AUDA-NEPAD, GIZ and KICTANet convened a three-day 
 
 <div class="bulletin-item" markdown="1">
 
-**[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#governance" title="UGA">Uganda</a>
+**[South Sudan, Uganda sign agreement on cross-border health security](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security)** — Radio Tamazuj, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 South Sudan and Uganda's health ministers signed a memorandum of understanding in Juba on cross-border health security, reported on 8 September 2026. It provides for real-time sharing of epidemiological information, mutual outbreak notification, joint contact tracing and surveillance, biospecimen transfer and harmonised screening at points of entry.
 
@@ -101,7 +101,7 @@ South Sudan and Uganda's health ministers signed a memorandum of understanding i
 
 <div class="bulletin-item" markdown="1">
 
-**[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#governance" title="UGA">Uganda</a>
+**[South Sudan, Uganda Sign MoU to Strengthen Customs Cooperation](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/)** — Juba Echo TV, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 The South Sudan Revenue Authority and the Uganda Revenue Authority signed their third memorandum of understanding on customs cooperation, reported on 16 September 2026, covering modernisation, digital interoperability, transit trade and capacity building. New areas include enforcement of the electronic permit system. No commencement date or text is given.
 
@@ -117,7 +117,7 @@ The South Sudan Revenue Authority and the Uganda Revenue Authority signed their 
 
 <div class="bulletin-item" markdown="1">
 
-**[South Sudan Advances Satellite Connectivity Agenda at African Telecom Meeting](https://techafricanews.com/2026/09/17/south-sudan-satellite-connectivity-african-telecom-meeting/)** — TechAfrica News, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#instruments-and-harmonisation" title="XAF">Africa</a>
+**[South Sudan Advances Satellite Connectivity Agenda at African Telecom Meeting](https://techafricanews.com/2026/09/17/south-sudan-satellite-connectivity-african-telecom-meeting/)** — TechAfrica News, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 South Sudan's National Communication Authority took part in the third African preparatory meeting for the 2027 World Radiocommunication Conference, held in Tunisia. Non-geostationary satellite systems and direct-to-device connectivity were among the items African regulators worked on for common regional positions.
 
@@ -223,7 +223,7 @@ MTN South Sudan says population broadband coverage rose from 76.6% to 85% and ne
 
 <div class="bulletin-item" markdown="1">
 
-**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html#dpi" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html#dpi" title="KEN">Kenya</a>
+**[On The Spot: URA Links With US-Sanctioned South Sudan Firm Crawford Capital Raises Concern - The Capital Times](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern)** — The Capital Times, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 The Capital Times reports that Uganda's and Kenya's revenue authorities still enforce e-Permit collections at border points for Crawford Capital, a firm the United States sanctioned on 12 May 2026 over diverting South Sudanese public funds. The UK-registered company collects a dollar charge on imports bound for South Sudan; documents cited show the Uganda Revenue Authority shares customs data with South Sudan's revenue authority but do not show a direct contract.
 

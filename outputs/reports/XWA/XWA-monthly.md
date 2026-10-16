@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XWA
 ledger_rows: 27
 not_held: 1
-record: d749b33b347c
+record: 12838e9e7ca9
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -71,7 +71,7 @@ The communique of a youth democracy conference in Dakar urged ECOWAS to finalise
 
 <div class="bulletin-item" markdown="1">
 
-**[Souveraineté informationnelle dans l’espace AES : la Plateforme des Autorités de régulation des médias et de la communication portée sur les fonts baptismaux - CSC - BURKINA FASO](https://www.csc.bf/index.php/actualite/349-souverainete-informationnelle-dans-l-espace-aes-la-plateforme-des-autorites-de-regulation-des-medias-et-de-la-communication-portee-sur-les-fonts-baptismaux)** — Conseil supérieur de la communication (CSC), Burkina Faso, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a>
+**[Souveraineté informationnelle dans l’espace AES : la Plateforme des Autorités de régulation des médias et de la communication portée sur les fonts baptismaux - CSC - BURKINA FASO](https://www.csc.bf/index.php/actualite/349-souverainete-informationnelle-dans-l-espace-aes-la-plateforme-des-autorites-de-regulation-des-medias-et-de-la-communication-portee-sur-les-fonts-baptismaux)** — Conseil supérieur de la communication (CSC), Burkina Faso, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
 
 The media regulators of Burkina Faso, Mali and Niger adopted the founding texts of a joint platform, PAREMEC, at a meeting in Niamey on 17–18 September 2026, according to Burkina Faso's Conseil supérieur de la communication. The platform is to pool the three bodies' skills and resources to harmonise media and communication regulation across the Confederation of Sahel States.
 
@@ -79,7 +79,7 @@ The media regulators of Burkina Faso, Mali and Niger adopted the founding texts 
 
 <div class="bulletin-item" markdown="1">
 
-**[Forum de Bamako : la gouvernance numérique au cœur des priorités du Sahel](https://lagazettedusahel.com/forum-de-bamako-la-gouvernance-numerique-au-coeur-des-priorites-du-sahel/)** — La Gazette du Sahel, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a>
+**[Forum de Bamako : la gouvernance numérique au cœur des priorités du Sahel](https://lagazettedusahel.com/forum-de-bamako-la-gouvernance-numerique-au-coeur-des-priorites-du-sahel/)** — La Gazette du Sahel, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
 
 Media regulators from Mali, Burkina Faso and Niger met at the Bamako Forum on digital technology and social cohesion on 13 October 2026, organised with Mali's communication authority HAC, Search for Common Ground and Meta. HAC president Gaoussou Coulibaly called for talks with Meta on monetising local content and on including national languages in its ranking, moderation and monetisation algorithms.
 
@@ -93,7 +93,7 @@ Media regulators from Mali, Burkina Faso and Niger met at the Bamako Forum on di
 
 <div class="bulletin-item" markdown="1">
 
-**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
+**[Coopération régionale entre les régulateurs de l'AES : Signature d'une convention de coopération le 25 septembre 2026 à Ouagadougou](https://lefaso.net/spip.php?article149443)** — leFaso.net (communiqué of ARCEP Burkina Faso), 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperation agreement in Ouagadougou on 25 September creating a Sahel Regulators' Council. It covers roaming within the Alliance of Sahel States, consumer protection, cybersecurity, spectrum, mutual recognition of type-approved equipment and joint positions in international bodies.
 
@@ -101,7 +101,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 
 <div class="bulletin-item" markdown="1">
 
-**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#governance" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html#governance" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
+**[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
 
@@ -115,7 +115,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger signed a convention crea
 
 <div class="bulletin-item" markdown="1">
 
-**[Hon. Mariama Bangura Calls for Stronger Digital Laws at MRU Internet Governance Forum 2026](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/)** — OWLPRESS, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#governance" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html#governance" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html#governance" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#governance" title="CIV">Côte d'Ivoire</a>
+**[Hon. Mariama Bangura Calls for Stronger Digital Laws at MRU Internet Governance Forum 2026](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/)** — OWLPRESS, 23 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SLE/SLE-monthly.html" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The third Mano River Union Internet Governance Forum met in Paynesville, Liberia, on 21–22 September 2026, bringing together participants from Liberia, Sierra Leone, Guinea and Côte d'Ivoire. Sierra Leonean MP Mariama Bangura urged the region's parliaments to strengthen laws on personal data, privacy and online safety, and to harmonise legislation on artificial intelligence.
 
@@ -129,7 +129,7 @@ The third Mano River Union Internet Governance Forum met in Paynesville, Liberia
 
 <div class="bulletin-item" markdown="1">
 
-**[Souveraineté numérique : Les pays ouest-africains connectent leurs stratégies](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/)** — Le Soleil, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#governance" title="SEN">Senegal</a>
+**[Souveraineté numérique : Les pays ouest-africains connectent leurs stratégies](https://lesoleil.sn/actualites/technologie/souverinete-numerique-les-pays-ouest-africains-connectent-leurs-strategies/)** — Le Soleil, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Ten member states held the founding interministerial meeting of the West African Network of National Backbones, ROA-BN, in Dakar on 8 October 2026. Its founding texts, a 2026–2030 strategic plan and its bodies are still to be adopted. Senegal's telecoms minister Samba Diouf called for common rules on cross-border fibre and keeping West African data in transit within the region.
 
@@ -153,7 +153,7 @@ Ten member states held the founding interministerial meeting of the West African
 
 <div class="bulletin-item" markdown="1">
 
-**[Gouvernance des données : la CDP réunit plusieurs autorités africaines à Dakar](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/)** — Agence de Presse Sénégalaise, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#governance" title="SEN">Senegal</a>
+**[Gouvernance des données : la CDP réunit plusieurs autorités africaines à Dakar](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/)** — Agence de Presse Sénégalaise, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal's personal data protection commission (CDP) opened a seminar in Dakar for African and international data protection authorities, running from 7 to 10 September 2026. It is meant to strengthen cooperation and share experience on data governance, digital transformation and artificial intelligence.
 
@@ -185,7 +185,7 @@ The West African Economic and Monetary Union (UEMOA) Commission presented a draf
 
 <div class="bulletin-item" markdown="1">
 
-**[Préparation à l'IA : Le Sénégal leader dans l'UEMOA, mais la région reste en deçà de la moyenne mondiale](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html)** — Seneweb, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#technology" title="SEN">Senegal</a>
+**[Préparation à l'IA : Le Sénégal leader dans l'UEMOA, mais la région reste en deçà de la moyenne mondiale](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html)** — Seneweb, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 The West African Economic and Monetary Union Commission presented a draft regional artificial intelligence strategy at a press session in Ouagadougou, with Oxford Insights' 2025 government AI readiness figures placing Senegal first of the union's eight states on a score of 46.10. The draft covers a common regulatory framework, data governance, skills, computing infrastructure and phased adoption in health, education and agriculture. The rankings as reported are internally inconsistent.
 
@@ -193,7 +193,7 @@ The West African Economic and Monetary Union Commission presented a draft region
 
 <div class="bulletin-item" markdown="1">
 
-**[Union economique et monetaire ouest-africaine : des journalistes a l'ecole des enjeux et chantiers de l'integration sous regionale](https://www.sidwaya.info/union-economique-et-monetaire-ouest-africaine-des-journalistes-a-lecole-des-enjeux-et-chantiers-de-lintegration-sous-regionale/)** — Sidwaya, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html#technology" title="BFA">Burkina Faso</a>
+**[Union economique et monetaire ouest-africaine : des journalistes a l'ecole des enjeux et chantiers de l'integration sous regionale](https://www.sidwaya.info/union-economique-et-monetaire-ouest-africaine-des-journalistes-a-lecole-des-enjeux-et-chantiers-de-lintegration-sous-regionale/)** — Sidwaya, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
 The West African Economic and Monetary Union Commission held its annual briefing session for economic journalists from its eight member states in Ouagadougou from 14 September 2026, with its media platform PDM-UEMOA. Topics included the regional artificial intelligence strategy, the IMPACT 2030 strategic plan, competition policy and infrastructure projects.
 
@@ -215,7 +215,7 @@ The West African Economic and Monetary Union's Commission opened bids on 11 Sept
 
 <div class="bulletin-item" markdown="1">
 
-**[Atelier régional sur l'IA : le Sénégal appelle à «anticiper les évolutions technologiques»](https://www.pressafrik.com/Atelier-regional-sur-l-IA-le-Senegal-appelle-a-anticiper-les-evolutions-technologiques_a311677.html)** — PressAfrik, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#technology" title="SEN">Senegal</a>
+**[Atelier régional sur l'IA : le Sénégal appelle à «anticiper les évolutions technologiques»](https://www.pressafrik.com/Atelier-regional-sur-l-IA-le-Senegal-appelle-a-anticiper-les-evolutions-technologiques_a311677.html)** — PressAfrik, 16 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal's National Assembly hosted a regional workshop on regulating artificial intelligence in Dakar from 16 to 18 September 2026, with members of parliament from Senegal, Benin, Burkina Faso and Côte d'Ivoire. The chair of the assembly's digital committee, Aliou Sène, called for an African approach to AI regulation based on regional cooperation and protection of citizens.
 
@@ -243,7 +243,7 @@ ECOWAS's director of political affairs, Babatunde Afolabi, said in Dakar that th
 
 <div class="bulletin-item" markdown="1">
 
-**[INEC moves to implement AI guidelines for elections](https://dailytrust.com/inec-moves-to-implement-ai-guidelines-for-elections/)** — Daily Trust, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#technology" title="NGA">Nigeria</a>
+**[INEC moves to implement AI guidelines for elections](https://dailytrust.com/inec-moves-to-implement-ai-guidelines-for-elections/)** — Daily Trust, 14 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 The ECOWAS Network of Electoral Commissions (ECONEC) has adopted guidelines on the use of AI in elections, validated at meetings on 12 and 13 October, its permanent secretary Serigne Mamadou Ka said during a visit to INEC in Abuja. The visit concerned implementing them across West African election bodies; the text has not been published.
 
@@ -321,7 +321,7 @@ The Central Bank of West African States (BCEAO) announced on 7 October 2026 that
 
 <div class="bulletin-item" markdown="1">
 
-**[Africa: How Ecowas Biometric Card Will Ease Travel for Member States' Citizens Across West Africa - Officials](https://allafrica.com/stories/202609170091.html)** — Premium Times (Abuja), via allAfrica.com, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
+**[Africa: How Ecowas Biometric Card Will Ease Travel for Member States' Citizens Across West Africa - Officials](https://allafrica.com/stories/202609170091.html)** — Premium Times (Abuja), via allAfrica.com, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Officials said at a Lagos workshop that seven ECOWAS member states — Senegal, Guinea-Bissau, Ghana, Benin, The Gambia, Sierra Leone and Nigeria — have deployed the regional biometric identity card, which is intended to replace the handwritten regional travel certificate. The chip carries the issuing authority's digital signature over the stored identity data, so any alteration breaks the trust chain at border authentication; member states committed in April to work towards mutual acceptance at borders by December.
 
@@ -329,7 +329,7 @@ Officials said at a Lagos workshop that seven ECOWAS member states — Senegal, 
 
 <div class="bulletin-item" markdown="1">
 
-**[ECOWAS steps up citizen biometric identity push for seamless cross-border travel](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/)** — Tribune Online, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html#dpi" title="NGA">Nigeria</a>
+**[ECOWAS steps up citizen biometric identity push for seamless cross-border travel](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/)** — Tribune Online, 17 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 At a Lagos workshop on the regional biometric identity card, Nigeria's immigration service said the card serves the same purpose as the regional passport within the subregion, is renewable every five years, costs N35,500 and is applied for online with a single physical visit for biometric capture. The ECOWAS Commission framed it as harmonising identification and addressing cross-border crime and irregular migration.
 
@@ -337,7 +337,7 @@ At a Lagos workshop on the regional biometric identity card, Nigeria's immigrati
 
 <div class="bulletin-item" markdown="1">
 
-**[ECOWAS pushes biometric ID toward region-wide border acceptance by December](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december)** — Biometric Update, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html#dpi" title="GHA">Ghana</a>
+**[ECOWAS pushes biometric ID toward region-wide border acceptance by December](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december)** — Biometric Update, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 ECOWAS is running public campaigns in Ghana and Nigeria ahead of its December 2026 target for all member states to accept its biometric identity card at air, land and sea borders. Seven member states have issued the card so far.
 
@@ -353,7 +353,7 @@ ECOWAS is running public campaigns in Ghana and Nigeria ahead of its December 20
 
 <div class="bulletin-item" markdown="1">
 
-**[Monnaie électronique dans l'UEMOA – le Sénégal concentre 29,7 % des actifs et occupe la première place](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/)** — Digital Mag Côte d'Ivoire, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#dpi" title="SEN">Senegal</a>
+**[Monnaie électronique dans l'UEMOA – le Sénégal concentre 29,7 % des actifs et occupe la première place](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/)** — Digital Mag Côte d'Ivoire, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Senegal held 29.7% of electronic money outstanding in the West African Economic and Monetary Union at the end of 2025, and 26.5% of large microfinance institutions' assets, according to the union's Banking Commission. E-money outstanding across the union rose 35.2% to CFAF 1,923.2 billion, and 64.9% of its 172.9 million e-money accounts were inactive.
 
@@ -405,7 +405,7 @@ The West African central bank BCEAO revised fees for person-to-person e-money tr
 
 <div class="bulletin-item" markdown="1">
 
-**[Connexion des Trésors Publics à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'Union Economique et Monétaire Ouest Africaine](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)** — BCEAO, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html#dpi" title="CIV">Côte d'Ivoire</a>
+**[Connexion des Trésors Publics à la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI) de l'Union Economique et Monétaire Ouest Africaine](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)** — BCEAO, 8 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 The Central Bank of West African States announced on 8 October 2026 that WAEMU public treasuries are being connected to its PI-SPI instant payment platform, to send and receive salaries, grants, subsidies and taxes whatever the counterpart's account. Côte d'Ivoire's treasury already makes regular bulk payments through it; the others are being integrated progressively.
 
@@ -427,7 +427,7 @@ The Central Bank of West African States (BCEAO) published an updated list of 175
 
 <div class="bulletin-item" markdown="1">
 
-**[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html#dpi" title="SEN">Senegal</a>
+**[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Mobile money operator Wave Digital Finance appears on the BCEAO's list of participants in its PI-SPI instant payment platform updated on 30 September 2026, authorised to offer the service in Senegal. Wave was absent when the platform launched a year earlier with 45 participants; the list now has 175 across the eight WAEMU states. The central bank had set 30 September 2026 as the connection deadline.
 
@@ -531,7 +531,7 @@ The UN Economic Commission for Africa and the UN Population Fund announced a mee
 
 <div class="bulletin-item" markdown="1">
 
-**[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html#dpi" title="BEN">Benin</a>
+**[Dividende démographique : le Bénin et 7 pays ouest-africains harmonisent leurs données](https://fraternite.bj/dividende-demographique-le-benin-et-7-pays-ouest-africains-harmonisent-leurs-donnees/)** — Fraternite, 8 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a>
 
 Benin and seven other West African states (Burkina Faso, Côte d'Ivoire, Guinea, Mali, Niger, Senegal and Togo) are testing a platform to monitor progress on the demographic dividend at a meeting in Abidjan from 7 to 9 September 2026. The tool aims to harmonise indicators against African Union commitments on health, education, jobs and governance before wider rollout.
 

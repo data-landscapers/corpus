@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: MAR
 ledger_rows: 29
 not_held: 14
-record: 3abb38e9b17a
+record: f207833094e8
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -513,7 +513,7 @@ Morocco's National School of Administration and its Digital Development Agency s
 
 <div class="bulletin-item" markdown="1">
 
-**["Cyber Academy" Cybersecurity Training Program for African Leaders Kicks off in Rabat](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0)** — Maroc.ma (MAP), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html#capacity-and-inclusion" title="XAF">Africa</a>
+**["Cyber Academy" Cybersecurity Training Program for African Leaders Kicks off in Rabat](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0)** — Maroc.ma (MAP), 6 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Morocco's General Directorate of Information Systems Security and the World Bank, with the Smart Africa Digital Academy, opened the Cyber Academy executive training programme in Rabat on 5 October 2026 for leaders of African cybersecurity authorities. It covers strategic leadership, AI-driven threats and cyber crisis response. No participant numbers are given.
 

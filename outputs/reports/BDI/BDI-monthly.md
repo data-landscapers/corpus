@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: BDI
 ledger_rows: 10
 not_held: 11
-record: 28eee6acbe41
+record: 5f31e4262bf0
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -101,7 +101,7 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 <div class="bulletin-item" markdown="1">
 
-**[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html#ict-infrastructure" title="TZA">Tanzania</a>
+**[TTCL and BBS Increase Tanzania-Burundi Connectivity Capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/)** — Tech Africa News, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity.
 

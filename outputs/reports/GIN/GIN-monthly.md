@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: GIN
 ledger_rows: 20
 not_held: 4
-record: 6433e9eb0cde
+record: ee757f6ada61
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -55,7 +55,7 @@ record: 6433e9eb0cde
 
 <div class="bulletin-item" markdown="1">
 
-**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html#governance" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html#governance" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html#governance" title="LBR">Liberia</a>
+**[E-gouvernance : Gabon, Guinée, Liberia… le Rwanda attire les administrations africaines venues étudier son modèle numérique](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/)** — Digital Business Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a>
 
 Rwanda Cooperation said it hosted eight government delegations from seven countries in one week in late August 2026: Liberia, Kenya, Nigeria, Benin, Gambia, Gabon and Guinea. A delegation from Gabon's interior ministry spent nearly two weeks studying e-government, AI policy, digital civil registration and identification, cybersecurity, data protection and system interconnection.
 
@@ -69,7 +69,7 @@ Rwanda Cooperation said it hosted eight government delegations from seven countr
 
 <div class="bulletin-item" markdown="1">
 
-**[PRA-UEMOA-Guinée : la HAC et l’ONC-Niger passent aux actes avec plusieurs résolutions](https://guineenews.org/2026/09/26/pra-uemoa-guinee-la-hac-et-lonc-niger-passent-aux-actes-avec-plusieurs-resolutions/)** — Guineenews, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html#governance" title="NER">Niger</a>
+**[PRA-UEMOA-Guinée : la HAC et l’ONC-Niger passent aux actes avec plusieurs résolutions](https://guineenews.org/2026/09/26/pra-uemoa-guinee-la-hac-et-lonc-niger-passent-aux-actes-avec-plusieurs-resolutions/)** — Guineenews, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
 Guinea's media regulator, the Haute Autorité de la Communication, and Niger's Observatoire national de la communication met in Conakry on 26 September 2026 under the regional audiovisual regulators' platform PRA-UEMOA-Guinée. In a joint communiqué they agreed to press digital platforms for protocols on algorithm transparency, promote media and digital literacy, and pursue the platform's 2026–2028 roadmap.
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-16
 place: XNA
 ledger_rows: 5
 not_held: 0
-record: b82dd1a6f8ad
+record: a1a1d97842c2
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -41,7 +41,7 @@ record: b82dd1a6f8ad
 
 <div class="bulletin-item" markdown="1">
 
-**[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html#governance" title="TUN">Tunisia</a>
+**[كاتب دولة: قمة الذكاء الاصطناعي فضاء للحوار حول السبل الكفيلة بجعل هذه الثروة رافعة للتنمية والتعاون والسلام](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/)** — Radio Nationale Tunisienne, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
 The AI Forward Summit 2026, organised by the Arab Information and Communication Technologies Organisation and Tunisia's communication technologies ministry, opened in Tunisia on 9 September 2026. Secretary of State Mohamed Ben Ayed told the opening session that Tunisia wants international cooperation on capacity-building, technology transfer and finance so developing countries produce AI rather than only consume it.
 
