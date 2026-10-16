@@ -4,8 +4,8 @@ compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: MWI
 ledger_rows: 43
-not_held: 35
-record: 2b93f1c1ca5a
+not_held: 32
+record: 97c63013fe98
 ---
 
 # Monthly update, Sep – Oct 2026
