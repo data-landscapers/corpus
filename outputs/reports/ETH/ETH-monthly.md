@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: ETH
 ledger_rows: 30
 not_held: 5
-record: 77df65750616
+record: bfc89cf2b8ef
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -426,7 +426,7 @@ Ethiopia's non-bank mobile-money operators and payment-service providers are pre
 
 **[Ethiopia Joins PAPSS Network as National Bank of Ethiopia and PAPSS Announce the 2nd Edition of COWRY in Addis Ababa](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)** — African Export-Import Bank (Afreximbank), 15 October 2026
 
-NBE-PAPSS joint announcement at Ethiopia Finance Forum; Addis Ababa to host COWRY 2026 on 26-27 Nov.
+Ethiopia has joined the Pan-African Payment and Settlement System, the National Bank of Ethiopia and PAPSS announced in Addis Ababa on 15 October 2026, letting Ethiopian financial institutions make cross-border payments through the network. Addis Ababa will also host the PAPSS COWRY payments conference on 26-27 November.
 
 </div>
 
@@ -434,7 +434,7 @@ NBE-PAPSS joint announcement at Ethiopia Finance Forum; Addis Ababa to host COWR
 
 **[Ethiopia modernises cross-border payments via PAPSS](https://www.itweb.africa/article/ethiopia-modernises-cross-border-payments-via-papss/RgeVDMPR3w9vKJN3)** — ITWeb Africa, 16 October 2026
 
-NBE data: digital transaction volumes up 146% a year 2020-25; $8.2bn remittances 2025/26; PAPSS in 15+ countries.
+Ethiopia has joined the Pan-African Payment and Settlement System, letting its financial institutions make instant cross-border payments in local currencies with counterparts elsewhere in Africa. The National Bank of Ethiopia reports that digital transaction volumes grew by 146% a year from 2020 to 2025, and the country received $8.2 billion in remittances in 2025/26.
 
 </div>
 

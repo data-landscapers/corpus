@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: ZAF
 ledger_rows: 143
 not_held: 21
-record: 8e6843a5bfbc
+record: 385f2121b2f8
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -596,7 +596,7 @@ Free, through Telco OI, joined the EUR93 million ReuNION consortium led by La Re
 
 **[South Africa's Digital Connectivity Investment Roadmap to 2035 (Digital Infrastructure Investment Study)](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf)** — Development Bank of Southern Africa (DBSA) / National Planning Commission (NPC), 30 March 2026
 
-DBSA/NPC roadmap — R108-142bn needed to connect all SA households; Annex H covers the data-centre market.
+A study by the DBSA and the National Planning Commission estimates that universal high-speed broadband in South Africa will need R108bn to R142bn of additional investment by 2035, in 2025 terms. An annex surveys the data-centre market, which it puts at nearly 500MW of potential IT load, concentrated in Gauteng.
 
 </div>
 
@@ -1614,7 +1614,7 @@ Absa launched institutional digital-asset custody for South African clients on 2
 
 **[Afrique du Sud : la société financière Wise agréée par la Banque centrale](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-societe-financiere-wise-agreee-par-la-banque-centrale)** — wearetech.africa, 16 October 2026
 
-Category 2 forex authorisation for cross-border transfers; Capitec already a partner; approval date not given.
+UK money-transfer firm Wise has received category 2 authorisation from the South African Reserve Bank to deal in foreign exchange and send money abroad under regulation. The approval date is not given; Wise already partners with Capitec.
 
 </div>
 
@@ -2014,7 +2014,7 @@ South Africa's City of Tshwane launched an Enterprise Data and Analytics Platfor
 
 **[City Power’s electricity theft crackdown faces data problem](https://www.itweb.co.za/article/city-powers-electricity-theft-crackdown-faces-data-problem/GxwQDq1DLoZMlPVo)** — ITWeb South Africa, 16 October 2026
 
-R3.96bn non-technical losses in 2024/25; AI risk scores must be explainable and POPIA-compliant; experts warn.
+Johannesburg utility City Power has put out a tender for near-real-time monitoring of prepaid electricity purchases, aimed at non-technical losses of R3.96bn in 2024/25, or 20.85% of electricity bought. Bidders may propose AI for theft prediction and customer risk scoring, but outputs must be explainable, auditable and compliant with POPIA, with humans making decisions and the data staying City Power's. Experts quoted say prepaid meters show token sales, not consumption, which limits what monitoring can find.
 
 </div>
 
@@ -2382,7 +2382,7 @@ An industry argument that South Africa is not positioning itself as future-ready
 
 **[South Africa’s digital jobs drive faces a $152 million funding test](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)** — TechCabal, 16 October 2026
 
-R600m mobilised, 4,000 beneficiaries, 600 organisations; R2.5bn sought from existing funds for 20,000 more by 2028.
+At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collective X, which coordinates South Africa's National Digital Skills Plan, reported R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries so far, against a target of 500,000 young people in digital jobs by 2034. Yellowwoods estimated that reaching 20,000 more by 2028 would take R2.5 billion ($152 million) from existing skills funds, money not yet secured.
 
 </div>
 

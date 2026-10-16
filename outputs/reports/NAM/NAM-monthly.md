@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: NAM
 ledger_rows: 33
 not_held: 9
-record: a0c85bd384c1
+record: 1f3be990e602
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -50,7 +50,7 @@ record: a0c85bd384c1
 
 **[Regulations regarding Accreditation of Security Products and Services and Providers of such Products and Services (Electronic Transactions Act 4 of 2019)](https://www.lac.org.na/laws/annoREG/Electronic%20Transactions%20Act%204%20of%202019-Regulations%202025-953.pdf)** — Legal Assistance Centre (LAC) Namibia, reproducing General Notice 953 of 2025 (Communications Regulatory Authority of Namibia), 17 December 2025
 
-Namibia's CRAN accreditation regime for certification service providers, in force from 15 June 2026.
+CRAN's regulations on the accreditation of security products, services and certification service providers under the Electronic Transactions Act of 2019 came into force on 15 June 2026. They set out which products and services need accreditation and how providers apply, and are the instrument under which the home affairs ministry later became Namibia's first accredited certification service provider.
 
 </div>
 
@@ -134,7 +134,7 @@ Namibia's ICT minister Emma Theofelus launched the Harmonised Government Communi
 
 **[ISO - NSI - Namibian Standards Institution](https://www.iso.org/member/1569.html)** — International Organization for Standardization, 16 October 2026
 
-ISO member body under Standards Act 2005; participating in 21 technical committees, observing 23, as of October 2026.
+ISO lists the Namibian Standards Institution, set up under the Standards Act 2005, as Namibia's member body. As of October 2026 it participates in 21 technical committees and observes 23.
 
 </div>
 

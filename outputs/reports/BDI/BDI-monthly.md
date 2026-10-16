@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: BDI
 ledger_rows: 14
 not_held: 10
-record: 98edacf49862
+record: e1b90029fb68
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -88,7 +88,7 @@ Burundi's mandatory SIM and eSIM registration, begun in mid-June, was about 70 p
 
 **[ISO - BBN - Bureau Burundais de Normalisation et Contrôle de la Qualité](https://www.iso.org/member/1591.html)** — International Organization for Standardization, 16 October 2026
 
-BBN is Burundi's ISO member body; 11 participating and 28 observing technical-committee memberships.
+ISO's member page lists the Bureau Burundais de Normalisation et Contrôle de la Qualité (BBN) as Burundi's member body. As read in October 2026, it participates in 11 ISO technical committees and observes 28.
 
 </div>
 
@@ -130,7 +130,7 @@ Tanzania's state operator agreed with Burundi Backbone System to raise cross-bor
 
 **[Le SETIC](https://setic.gov.bi/?pages%2F10253095=)** — Secrétariat Exécutif des Technologies de l'Information et de la Communication (SETIC), 16 October 2026
 
-Government ICT secretariat's stated services: software for public bodies, network operations centre, platform hosting.
+The home page of Burundi's government ICT secretariat, SETIC, sets out its role coordinating national ICT policy projects. Its listed services for public bodies include software development, cybersecurity, a network operations centre, hosting of national platforms and network maintenance.
 
 </div>
 
@@ -146,7 +146,7 @@ Government ICT secretariat's stated services: software for public bodies, networ
 
 **[Burundi : une stratégie nationale pour renforcer les capacités de cybersécurité](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-une-strategie-nationale-pour-renforcer-les-capacites-de-cybersecurite)** — We are Tech Africa, 16 October 2026
 
-Council of Ministers adopts national cybersecurity strategy 14 October 2026, with a national incident-response team.
+Burundi's Council of Ministers adopted a National Cybersecurity Strategy on 14 October 2026, after work begun by a government commission in 2020 and a World Bank-funded PAFEN consultancy from 2023. The strategy provides for a legal and institutional framework, protection of critical infrastructure and public data, and a national incident-response team.
 
 </div>
 
@@ -218,7 +218,7 @@ Burundi's electoral commission CENI expects more than one million new voters on 
 
 **[La CAM, une avancée vers une protection sociale plus inclusive ?](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/)** — Iwacu, 14 March 2025
 
-Iwacu's own account of Burundi's compulsory CAM ordinance, its 1984 origins and 2012 reform.
+A ministerial ordinance of 7 February 2025 requires every Burundian adult and every household outside a health mutual to hold a Carte d'Assurance Maladie, which the revenue office has priced at 3,000 BIF. Iwacu's editorial welcomes the measure but recalls the card's troubled record since its creation in 1984.
 
 </div>
 

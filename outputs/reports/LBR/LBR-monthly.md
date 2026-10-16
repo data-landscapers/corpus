@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: LBR
 ledger_rows: 34
 not_held: 6
-record: c1a460b932ea
+record: 4d36ba877847
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -166,7 +166,7 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 
 **[Liberia Deepens Cybersecurity Ties With Morocco, Secures Membership In African Digital Security Networks](https://frontpageafricaonline.com/liberia-deepens-cybersecurity-ties-with-morocco-secures-membership-in-african-digital-security-networks/)** — FrontPage Africa, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-Joins ANCA and SMART Africa with Malawi, Lesotho, Mali, Egypt; MoU with DGSSI to be pursued.
+Liberia was admitted to the African Network of Cybersecurity Authorities and SMART Africa, together with Malawi, Lesotho, Mali and Egypt, during Morocco Cyber Security Week in Rabat. Liberia's telecoms minister and the head of Morocco's DGSSI also agreed to pursue a memorandum of understanding on cybersecurity capacity building and technical help.
 
 </div>
 
@@ -258,7 +258,7 @@ Ten Liberian civil society organisations, including CENTAL and the Liberia Equal
 
 **[Specific Procurement Notice — Invitation for Bids: Data Centers Upgrade (Main and DR), IFB CBL/G/PS/2026/01](https://www.emansion.gov.lr/sites/default/files/documents/SPECIFIC%20PROCUREMENT%20NOTICE_CBL%20DATA%20CENTRES%20INFRASTRUCTURE%20UPGRADE_9.28.26%20%282%29.pdf)** — Central Bank of Liberia, 28 September 2026
 
-International tender for CBL's main and disaster-recovery data centres under the AfDB grant; bids due 28 October 2026.
+The Central Bank of Liberia has opened an international tender to upgrade its main and disaster-recovery data centres, financed by the African Development Bank under its payments infrastructure upgrade project. Bids, with a US$18,000 security, are due on 28 October 2026.
 
 </div>
 
@@ -394,7 +394,7 @@ Liberia's National Identification Registry asked the legislature on 16 September
 
 **[House Begins Review of Boakai’s Proposed National Digital ID Overhaul](https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html)** — Liberian Observer, 16 October 2026
 
-OeSD BOT concession for NIDCRVS sent to joint committee with 14 days to report; not ratification.
+Liberia's House of Representatives referred President Boakai's proposed concession with OeSD International for a combined national ID and civil registration system to a joint committee, with 14 days to report; the referral is not ratification. Under the build-operate-transfer deal, OeSD would build and run a system issuing biometric ID numbers and cards and recording births, deaths and marriages, then hand it to the government.
 
 </div>
 
@@ -402,7 +402,7 @@ OeSD BOT concession for NIDCRVS sent to joint committee with 14 days to report; 
 
 **[House Scrutinizes US$52M National ID Deal](https://www.thenewdawnliberia.com/house-scrutinizes-us52m-national-id-deal/)** — The New Dawn, 16 October 2026
 
-US$52m OeSD build-operate-transfer NIDCRVS concession sent to joint committee for two weeks; up to 10 million people.
+Liberia's House of Representatives has sent a proposed US$52 million concession with OeSD International for a national ID and digital civil registry to a joint committee, which has two weeks to report. This account dates the President's communication to plenary on 15 October 2026 and says the build-operate-transfer system would hold demographic and biometric data on up to 10 million people.
 
 </div>
 
@@ -410,7 +410,7 @@ US$52m OeSD build-operate-transfer NIDCRVS concession sent to joint committee fo
 
 **[Liberia: Naymote Urges Legislature to Tighten US$52M National ID Deal, Cites Cost, Electoral and Data Protection Concerns](https://frontpageafricaonline.com/liberia-naymote-urges-legislature-to-tighten-us52m-national-id-deal-cites-cost-electoral-and-data-protection-concerns/)** — FrontPage Africa, 16 October 2026
 
-Naymote statement of 15 Oct 2026: disclosure, value-for-money test, data control, free enrolment, hearings.
+Liberian civil society group Naymote, in a statement of 15 October 2026, urged the Legislature to tighten the proposed national ID agreement, which it values at US$52 million. It asks for full disclosure of financing, fees and contract terms, an independent value-for-money review, government ownership of identity data, free first-time enrolment and public hearings, and says the electoral commission must keep control of the voters' roll.
 
 </div>
 

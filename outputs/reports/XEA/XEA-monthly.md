@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: XEA
 ledger_rows: 21
 not_held: 0
-record: e19faa79840e
+record: f3a0bd08c19f
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -92,7 +92,7 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 
 **[EAC Partner States Advance Measure to Strengthen E-Commerce and Digital Trade](https://www.eac.int/eadrip-news-updates/eardip-press-releases/3609-eac-partner-states-advance-measure-to-strengthen-e-commerce-and-digital-trade)** — East African Community, 16 October 2026
 
-M&E baseline updated at Dar es Salaam platform, 13-15 Oct 2026; intra-EAC trade USD 19.65bn (2025).
+At a regional e-commerce meeting in Dar es Salaam on 13-15 October 2026, EAC Partner States updated the baseline data in the monitoring tool for the EAC E-Commerce Strategy. They also named priority regional actions on consumer protection, online dispute resolution and readiness for the AfCFTA Protocol on Digital Trade.
 
 </div>
 

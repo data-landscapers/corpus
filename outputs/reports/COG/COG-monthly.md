@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: COG
 ledger_rows: 17
 not_held: 6
-record: b4fdebbf24bc
+record: f9683111e81c
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -122,7 +122,7 @@ A regional workshop in Brazzaville on 15 and 16 September worked towards a commo
 
 **[ISO - ACONOQ - Agence Congolaise de Normalisation et de la Qualité](https://www.iso.org/member/11493926.html)** — International Organization for Standardization, 16 October 2026
 
-ISO member body created by Law 19-2015; ARSO member, IEC Affiliate Plus, participant in 2 ISO technical committees.
+ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national standards body and ISO member. It is a member of ARSO and an Affiliate Plus of the IEC, and participates in 2 ISO technical committees.
 
 </div>
 

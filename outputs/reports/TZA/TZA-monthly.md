@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: TZA
 ledger_rows: 73
 not_held: 5
-record: 32043bf5230d
+record: 35b82a97443b
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -700,7 +700,7 @@ KCB Bank Tanzania and the Zanzibar Health Service Fund signed a memorandum of un
 
 **[UBA launches pan-African payment system to ease cross-border transactions](https://www.thecitizen.co.tz/tanzania/news/national/uba-launches-pan-african-payment-system-to-ease-cross-border-transactions-5634430)** — The Citizen (Mwananchi Communications), 16 October 2026
 
-Claimed first Tanzanian bank on PAPSS; 2.5% fee capped at US$20, US$5,000 per transfer, via WhatsApp and Facebook.
+UBA Tanzania has launched cross-border payments over the Pan-African Payment and Settlement System and says it is the first bank in Tanzania to sign up. Its customers can pay into other participating countries from shilling accounts at branches or through WhatsApp and Facebook, for a 2.5% fee capped at US$20, up to US$5,000 a transfer and US$10,000 a day.
 
 </div>
 
@@ -1160,7 +1160,7 @@ Government secondary school teachers in Arusha, Tanzania, took a four-day ICT co
 
 **[ICT Competency Standards for Teachers in Tanzania](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf)** — Ministry of Education and Vocational Training, Tanzania / UNESCO Dar es Salaam, 2015
 
-Tanzania's 2015 ICT-CST framework — six UNESCO modules, two knowledge stages; a 2025 revision is not itself published.
+Tanzania's education ministry and UNESCO's Dar es Salaam office set out ICT competency standards for teachers in 2015, adapting UNESCO's global framework across its six modules and two knowledge stages. The 2015 text revised a first version piloted in 2011 with World Bank and GESCI support, and its annexes add an implementation strategy for pre- and in-service teachers.
 
 </div>
 

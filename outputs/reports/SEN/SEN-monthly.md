@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: SEN
 ledger_rows: 58
 not_held: 3
-record: 64f8d956b6b6
+record: 106c32a6386e
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -158,7 +158,7 @@ Senegal's digital ministry validated a draft national Blueprint on Data Valorisa
 
 **[Senegal targets postal sector restructuring by 2027 under New Deal Technologique](https://techreviewafrica.com/news/7747/senegal-targets-postal-sector-restructuring-by-2027-under-new-deal-technologique)** — Tech Review Africa, 15 October 2026
 
-World Post Day priorities: trusted digital services, e-commerce logistics, PPPs; state sole shareholder of La Poste.
+Senegal's telecoms and digital ministry aims to restructure the postal sector by 2027 under its New Deal Technologique, refocusing the state-owned La Poste on digital and trusted services, e-commerce logistics and private partnerships. The minister set out the plan at World Post Day celebrations.
 
 </div>
 

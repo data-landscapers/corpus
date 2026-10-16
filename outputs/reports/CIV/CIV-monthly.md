@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: CIV
 ledger_rows: 42
 not_held: 10
-record: c8fdca7bc2b6
+record: edb1e38cbefc
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -202,7 +202,7 @@ The World Bank is backing Côte d'Ivoire's digitisation of public services with 
 
 **[EXIM Board Meeting Minutes, 21 August 2025 — Côte d'Ivoire National Data Center Guarantee](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21)** — Export-Import Bank of the United States (EXIM), 21 August 2025
 
-$66,138,119 guarantee for Cybastion's Côte d'Ivoire national data centre, approved 21 Aug 2025.
+The US Export-Import Bank's board approved a guarantee of about US$66.1m to Citibank on 21 August 2025 to finance Côte d'Ivoire's national data centre, with the finance ministry as borrower and Washington-based Cybastion as exporter. EXIM describes it as the first data centre it has backed in sub-Saharan Africa.
 
 </div>
 
@@ -216,7 +216,7 @@ $66,138,119 guarantee for Cybastion's Côte d'Ivoire national data centre, appro
 
 **[Côte d'Ivoire : Un nouveau datacenter à Yamoussoukro pour centraliser les données de l'administration publique](https://www.sikafinance.com/marches/cote-d-ivoire-un-nouveau-datacenter-a-yamoussoukro-pour-centraliser-les-donnees-de-l-administration-publique_64417)** — Sika Finance, 22 September 2026
 
-Tier 3 state data centre planned at INP-HB under FCFA 60bn PARAE; four of five state data centres working.
+A delegation led by the African Development Bank visited the Yamoussoukro site of Côte d'Ivoire's planned Tier 3 administration data centre in September 2026. The centre sits within the PARAE e-government project, budgeted at FCFA 60bn and scheduled to run from January 2025 to 2028.
 
 </div>
 
@@ -224,7 +224,7 @@ Tier 3 state data centre planned at INP-HB under FCFA 60bn PARAE; four of five s
 
 **[Côte d'Ivoire-AIP/ Administration électronique: le comité de pilotage du PARAE préconise le renforcement de la coordination](https://www.aip.ci/cote-divoire-aip-administration-electronique-le-comite-de-pilotage-du-parae-preconise-le-renforcement-de-la-coordination/)** — Agence Ivoirienne de Presse (AIP), 22 September 2026
 
-Sixth steering committee, 18 Sept 2026: data-centre works delayed; mid-term reviews with ministries proposed.
+The steering committee of Côte d'Ivoire's PARAE e-government project met on 18 September 2026 and called for closer coordination to speed up works on the Yamoussoukro administration data centre, which are running late. It also approved the project's revised 2026 work plan and procurement plan.
 
 </div>
 

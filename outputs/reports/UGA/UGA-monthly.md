@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: UGA
 ledger_rows: 69
 not_held: 11
-record: 99b8ff24992f
+record: bc3d22408eda
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -170,7 +170,7 @@ The Uganda Communications Commission said on 13 October 2026 that about 4,000 un
 
 **[Uganda Champions AU single digital market plan to boost cross-border trade](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)** — Daily Monitor, 16 October 2026
 
-Trade minister plans e-commerce trust mark and online consumer redress, EAC first; Jumia-led e-commerce association.
+Ahead of a technology and intellectual property symposium on 22-23 October, Uganda's trade minister set out plans to back the AU's single digital market, including a trust mark for vetted online sellers and rules giving online buyers redress, to be rolled out in the EAC first. A Jumia-led e-commerce industry association and a call for a Consumer Protection Act were also presented.
 
 </div>
 

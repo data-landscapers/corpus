@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: SYC
 ledger_rows: 11
 not_held: 6
-record: 6c7b93a3a4ef
+record: cb80caf1bcca
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -176,7 +176,7 @@ Seychelles' national computer emergency response team designed and delivered the
 
 **[HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)](https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/)** — Africa CDC, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
-Africa CDC seeks consultants to draft national health information exchange interoperability frameworks.
+Africa CDC is recruiting individual consultants to draft national interoperability frameworks for health information exchange in Tunisia and Seychelles, funded by a World Bank grant. Each assignment runs for up to six months.
 
 </div>
 

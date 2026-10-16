@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: BWA
 ledger_rows: 17
 not_held: 7
-record: 23a6cf2cdde2
+record: 59bc6e1442eb
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -142,7 +142,7 @@ Tlou Energy's annual report says Botswana's gas-powered Kala Data Centre ran wel
 
 **[BPC 2026-27 Electricity Tariff Application — Consultation Paper](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf)** — Botswana Energy Regulatory Authority (BERA), 15 December 2025
 
-BPC's own case for a 46% tariff rise — P9.585bn revenue requirement, P3.477bn funding gap.
+Botswana Power Corporation's tariff application for 2026/27, put to consultation by the regulator BERA, seeks a 46% increase from 1 April 2026. BPC puts its revenue requirement at P9.585bn against current revenue of P6.108bn excluding subsidy, a gap of P3.477bn.
 
 </div>
 

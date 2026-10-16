@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: XWA
 ledger_rows: 28
 not_held: 1
-record: 378685bc84ba
+record: c3da9c3d5a41
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -318,7 +318,7 @@ The Central Bank of West African States (BCEAO) announced on 7 October 2026 that
 
 **[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
-Only 20 of 120 Burkina MFIs must report (end-2025); FCFA 2bn Article 70 threshold; client consent now mandatory.
+At the 8th annual meeting of the UEMOA credit information bureau, speakers said most microfinance institutions fall outside the duty to report to the bureau: in Burkina Faso, 20 of 120 licensed institutions met the FCFA 2bn threshold at the end of 2025. Panellists called for reporting by all microfinance institutions and wider use of client consent, which a banker said is now required for bureau access across the eight UEMOA states.
 
 </div>
 

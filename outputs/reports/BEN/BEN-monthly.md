@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: BEN
 ledger_rows: 35
 not_held: 4
-record: 838998dc47a6
+record: 4753b4709ce7
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -48,7 +48,7 @@ record: 838998dc47a6
 
 **[CPJ letter to President Wadagni: press freedom concerns in Benin](https://cpj.org/wp-content/uploads/2026/09/EN-CPJ-Letter-to-His-Excellency-the-President-of-Benin-September-1-2026.pdf)** — Committee to Protect Journalists, 1 September 2026
 
-CPJ asks the new president to stop Digital Code Article 550 being used against journalists, 100 days in.
+The Committee to Protect Journalists wrote to President Wadagni 100 days into his term asking that Benin's Digital Code stop being used against the press and that its Article 550 on electronic harassment be reformed. The letter cites the continued detention of two online journalists, prison sentences over Facebook posts after the December 2025 coup attempt, and repeated suspensions imposed by the media regulator HAAC.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: TCD
 ledger_rows: 32
 not_held: 22
-record: 9b2cb22bc25a
+record: 7b4796ea06b7
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -194,7 +194,7 @@ Chad and Nigeria agreed to strengthen cooperation in telecommunications, digital
 
 **[Afrique centrale : Des engagements pour un espace numérique inclusif et souverain](https://www.atpe.td/afrique-centrale-des-engagements-pour-un-espace-numerique-inclusif-et-souverain/)** — Agence tchadienne de presse et d'édition (ATPE), 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Declaration adopted 15 Oct 2026: harmonise data-protection and cybercrime law, cut transit costs, widen access.
+Participants at the Central Africa Internet Governance Forum adopted a political declaration in N'Djamena on 15 October 2026. It calls for harmonised law on data protection, cybercrime and electronic communications, national control of strategic infrastructure, cheaper data transit and affordable access.
 
 </div>
 
@@ -202,7 +202,7 @@ Declaration adopted 15 Oct 2026: harmonise data-protection and cybercrime law, c
 
 **[Gouvernance de l’Internet-Afrique Centrale: les participants appellent à renforcer la souveraineté numérique - Hamama Média](https://hamama-media.com/a-la-une/gouvernance-de-linternet-afrique-centrale-les-participants-appellent-a-renforcer-la-souverainete-numerique/)** — Hamama Média, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Declaration urges heads of state to prioritise digital sovereignty; Chad backs forum's three-year action plan.
+The declaration closing the Central Africa Internet Governance Forum in N'Djamena asks the sub-region's heads of state to make digital sovereignty a priority, with harmonised rules on electronic communications, cybersecurity and AI. Chad said it supports the forum's three-year action plan.
 
 </div>
 
@@ -210,7 +210,7 @@ Declaration urges heads of state to prioritise digital sovereignty; Chad backs f
 
 **[IGF 2026 : L’Afrique centrale appelle à une coopération numérique renforcée de la sous-région](https://www.digitalbusiness.africa/igf-2026-lafrique-centrale-appelle-a-une-cooperation-numerique-renforcee-de-la-sous-region/)** — Digital Business Africa, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Forum held 13-15 Oct 2026 with ECCAS, AUC, UNECA, ITU; second CASIG cohort launched at ENASTIC.
+The Central Africa Internet Governance Forum, held from 13 to 15 October 2026 with ECCAS, the AU Commission, UNECA and the ITU taking part, ended with a call for closer digital cooperation across the sub-region. A second cohort of the regional internet governance school was launched alongside it.
 
 </div>
 
@@ -218,7 +218,7 @@ Forum held 13-15 Oct 2026 with ECCAS, AUC, UNECA, ITU; second CASIG cohort launc
 
 **[Numérique : clôture de l’édition 2026 du Forum sur la Gouvernance de l’Internet-Afrique Centrale - Dari Infos](https://dari-infos.com/numerique-cloture-de-ledition-2026-du-forum-sur-la-gouvernance-de-linternet-afrique-centrale/)** — Dari Infos, 15 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
-Declaration of N'Djamena: CEEAC/ARTAC anti-cyberattack platform by August 2027; fibre interconnection; AI laws.
+The 2026 Central Africa Internet Governance Forum closed in N'Djamena on 15 October after four days, with the adoption of the Declaration of N'Djamena. Its commitments include a joint CEEAC and ARTAC platform against cyberattacks by August 2027, fibre interconnection and laws on AI.
 
 </div>
 

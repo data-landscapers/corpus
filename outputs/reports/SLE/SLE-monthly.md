@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: SLE
 ledger_rows: 30
 not_held: 5
-record: 6dc6ed562540
+record: 9f6c872db768
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -156,7 +156,7 @@ Sierra Leone's procurement review panel dismissed a bidder's complaint over the 
 
 **[Data Center & Colocation – Afcom](http://afcom.sl/corporate/afcom-data-center-colocation/)** — Afcom, 16 October 2026
 
-Private carrier-neutral Tier III data centre in Freetown offering rack, cage and cloud hosting, per operator.
+Afcom describes its Freetown data centre as a privately owned, carrier-neutral Tier III facility offering rack, cage and cloud hosting. It claims 99.9% availability, with redundant generators able to run for two weeks without refuelling.
 
 </div>
 

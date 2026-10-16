@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: RWA
 ledger_rows: 44
 not_held: 7
-record: 2b77a8feec76
+record: ce80f856a809
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -124,7 +124,7 @@ The Zambia Bureau of Standards and the Rwanda Standards Board signed a technical
 
 **[International and regional technical committees](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)** — Rwanda Standards Board, 16 October 2026
 
-RSB a P-member of ISO/IEC JTC 1/SC 40 and observer on JTC 1 and SC 27; sits on EAC IT standards committee TC 059.
+The Rwanda Standards Board lists the regional and international technical committees it sits on, including EAC standards committees. Among them, it is a participating member of the ISO/IEC JTC 1 subcommittee on IT service management (SC 40), an observer on JTC 1 and its security subcommittee SC 27, and a member of the EAC committee on IT standards.
 
 </div>
 
@@ -542,7 +542,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[IFMIS Upgraded to Modern Platform, Strengthening Public Financial Management](https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management)** — Ministry of Finance and Economic Planning (MINECOFIN), Rwanda, 6 October 2026
 
-End-of-support components replaced; same blueprint to be applied next to the schools data system and SACCO banking.
+Rwanda's finance ministry has finished upgrading its Integrated Financial Management Information System, replacing legacy components that had reached the end of support. It plans to use the same approach on the schools data management system and the SACCO core banking system.
 
 </div>
 
@@ -556,7 +556,7 @@ End-of-support components replaced; same blueprint to be applied next to the sch
 
 **[IPPIS Developer API — api.ippis.rw](https://www.api.ippis.rw/)** — IPPIS Rwanda, 16 October 2026
 
-Bearer-token REST API exposing NID-verified public-servant profiles, education and work records to partner systems.
+Rwanda's public-sector HR platform, IPPIS, offers a REST API through which approved government partner systems can retrieve public servants' NID-verified profiles, education, work history and related records. Access requires partner credentials and bearer tokens.
 
 </div>
 
@@ -818,7 +818,7 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 **[NISR Data Catalog](https://microdatabk.statistics.gov.rw/home)** — National Institute of Statistics of Rwanda, 15 October 2026
 
-75 datasets and 74,146 variables as of 15 October 2026, latest the 2025 Labour Force Survey microdata.
+Rwanda's statistics institute NISR runs an online catalogue of official microdata, listing 75 datasets and 74,146 variables as of 15 October 2026. The most recent addition is the 2025 Labour Force Survey.
 
 </div>
 

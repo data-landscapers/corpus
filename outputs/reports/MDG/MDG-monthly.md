@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MDG
 ledger_rows: 29
 not_held: 5
-record: e8c97c8017b2
+record: 6e40e34709c6
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -238,7 +238,7 @@ Madagascar's digital development and telecoms ministry obtained 300 Starlink kit
 
 **[GSMA: Digital Reforms Could Connect 1.12 million More People in Madagascar and Add MGA 4.1 trillion to GDP by 2031](https://www.gsma.com/newsroom/press-release/gsma-digital-reforms-could-connect-1-12-million-more-people-in-madagascar-and-add-mga-4-1-trillion-to-gdp-by-2031/)** — GSMA, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Four reform priorities for Madagascar; 14.3% mobile internet penetration (2025); Africa spectrum costs 24% higher.
+A GSMA report launched in Antananarivo says four reforms could bring about 1.13 million more people in Madagascar onto mobile internet and add MGA 4.1 trillion to GDP by 2031: cheaper smartphones through lower levies and duties, a costed rural connectivity plan, lower sector taxes, and voice services in Malagasy. Unique mobile internet penetration was 14.3% in 2025. A companion GSMA report finds spectrum pricing and licensing reform across Africa could add more than US$120 billion to GDP between 2026 and 2035.
 
 </div>
 

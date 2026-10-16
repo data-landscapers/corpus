@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: XSA
 ledger_rows: 14
 not_held: 2
-record: 5e3b910b9b56
+record: 07bdfb380f46
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -176,7 +176,7 @@ Eswatini is hosting a three-day COMESA meeting, opened on 16 September 2026, to 
 
 **[SADC STRENGTHENS REGIONAL CYBERSECURITY AND CYBERCRIME COOPERATION](https://www.sadc.int/latest-news/sadc-strengthens-regional-cybersecurity-and-cybercrime-cooperation)** — SADC, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a>
 
-282 delegates, Luanda, 5-9 Oct 2026; SADC operational CIRTs up from 4 (2018) to 13; first cybercrime court simulation.
+SADC, AfricaCERT and Angola's telecoms ministry held the seventh SADC Cyber Drill in Luanda on 5-9 October 2026, with 282 delegates testing incident response and cybercrime cooperation. The Secretariat reports that the number of operational national incident-response teams in the region has risen from 4 in 2018 to 13.
 
 </div>
 

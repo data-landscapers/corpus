@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GNB
 ledger_rows: 8
 not_held: 2
-record: ca70815f314b
+record: 870a3d56503f
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -194,7 +194,7 @@ A University of Iceland doctoral study surveyed 2,039 teenagers aged 14–19 at 
 
 **[Birtingarmyndir ójafnaðar meðal unglinga í Bissá, Gíneu-Bissá (Manifestations of inequality among adolescents in Bissau, Guinea-Bissau)](https://hdl.handle.net/20.500.11815/8043)** — Opin vísindi (University of Iceland repository), 2026
 
-Planet Youth survey of 2,039 Bissau adolescents: computer and internet access lags for girls and public-school pupils.
+A University of Iceland doctoral thesis on inequality among adolescents in Bissau draws on a survey of 2,039 pupils aged 14 to 19 in 16 schools, followed by interviews and focus groups. It finds parental education and income decide access to private schooling, and that access to computers and the internet is limited, more so for girls and public-school pupils.
 
 </div>
 

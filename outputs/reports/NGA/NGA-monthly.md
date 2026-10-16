@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: NGA
 ledger_rows: 154
 not_held: 9
-record: 1c16bd01d871
+record: 3a37cc38013c
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -224,7 +224,7 @@ Lagos State's special adviser on technology, Ganiyu Oseni, delivered Governor Ba
 
 **[NCC Hosts Stakeholders To Chart Course For Future Of Internet, Launches Working Group](https://independent.ng/ncc-hosts-stakeholders-to-chart-course-for-future-of-internet-launches-working-group/)** — Independent Newspaper Nigeria, 15 October 2026
 
-Survey of 47: 2 of 19 licensees ICOP-ready; 73% use AI, 39% have AI policy; NCC promises guidelines.
+Nigeria's communications regulator launched an Internet Governance Working Group at its symposium in Ikeja on 15 October 2026. It said it will publish implementation guidelines and FAQs for the Internet Code of Practice and run workshops for licensees not yet ready to comply.
 
 </div>
 
@@ -232,7 +232,7 @@ Survey of 47: 2 of 19 licensees ICOP-ready; 73% use AI, 39% have AI policy; NCC 
 
 **[NCC survey finds gaps in licensees’ readiness for Internet code](https://www.vanguardngr.com/2026/10/ncc-survey-finds-gaps-in-licensees-readiness-for-internet-code/)** — Vanguard, 15 October 2026
 
-Only 2 of 19 licensees fully ready; cybersecurity and AI provisions hardest; working group launched, guidelines promised.
+An NCC survey found only two of 19 licensees fully ready to implement Nigeria's Internet Code of Practice 2026, with nine partly ready and five not prepared. Licensees named the cybersecurity and AI provisions as the hardest and asked for guidance and reporting templates.
 
 </div>
 
@@ -572,7 +572,7 @@ Nigeria's mobile operators have built 8,526 of 12,179 committed coverage and cap
 
 **[Nigeria’s Phone Crackdown: Protecting Networks or Pricing Out Everyday Users?](https://techafricanews.com/2026/10/16/nigerias-phone-crackdown-protecting-networks-or-pricing-out-everyday-users/)** — Tech Africa News, 16 October 2026
 
-Alerts from 10 Oct 2026; 30 active-day countdown; grey imports flagged; registration fees unconfirmed.
+From 10 October 2026, Nigeria's communications regulator began texting owners of phones not verified under type approval that network access could be blocked after 30 days of active use. The checks run on the NCC's Device Management System against each phone's IMEI, and grey-market and overseas-bought phones are among those flagged. A registration route and official fees had not been clearly published by 16 October.
 
 </div>
 
@@ -642,7 +642,7 @@ The Central Bank of Nigeria signed a memorandum of understanding with the Global
 
 **[Nigeria Digital Identification for Development Project (P167183) — Implementation Status & Results Report, August 2026](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf)** — World Bank, 11 August 2026
 
-World Bank's August 2026 ISR — 117.5m NINs issued of 134.6m enrolled, NIMS 2.0 contract awarded.
+The World Bank's August 2026 status report on Nigeria's digital ID project counts 117.5m people with a National Identification Number at 30 June 2026, against a target of 180m by December. Monthly enrolment would have to rise from under 2m to about 7.4m to reach it, and the NIMS 2.0 integrator contract was due to be signed by end-July.
 
 </div>
 
@@ -762,7 +762,7 @@ Nigeria's communications ministry said at least 200 towers for unconnected commu
 
 **[FG to deploy 3,700 telecom towers to connect 20m Nigerians](https://www.vanguardngr.com/2026/10/fg-to-deploy-3700-telecom-towers-to-connect-20m-nigerians/)** — Vanguard, 16 October 2026
 
-First NUCAP site commissioned in Bende, Abia, 16 Oct 2026; 16 more Bende locations flagged.
+Communications Minister Bosun Tijani commissioned the first tower of Nigeria's National Universal Communications Access Programme in Bende, Abia State, on 16 October 2026. The programme plans 3,700 towers to reach about 20 million Nigerians without phone or internet service, and the Deputy Speaker named 16 more Bende locations needing coverage.
 
 </div>
 
@@ -1730,7 +1730,7 @@ Airtel Money's London listing leaves out its Nigerian business. Its prospectus, 
 
 **[Onafriq shuts down its Nigerian agent banking business after five years](https://techcabal.com/2026/10/16/onafriq-shuts-down-nigeria-agent-banking/)** — TechCabal, 16 October 2026
 
-Inflation and A2A transfers sink 90,000-agent network bought in 2021; Onafriq keeps payments and card issuing.
+Onafriq said on 16 October 2026 that it is closing Baxi, its Nigerian agent-banking business, after five years, citing inflation, naira depreciation, rising costs and the growth of instant account-to-account transfers. Baxi agents have been moved to another principal bank, and Onafriq will stay in Nigeria for payments and card issuing.
 
 </div>
 
@@ -1744,7 +1744,7 @@ Inflation and A2A transfers sink 90,000-agent network bought in 2021; Onafriq ke
 
 **[The hurdles facing contactless payment adoption across Nigeria](https://techcabal.com/2026/10/16/hurdles-facing-contactless-payments/)** — TechCabal, 16 October 2026
 
-CBN caps unverified taps at N15,000, N50,000 a day; 8.3m PoS terminals; CashAfrica-Chicken Republic rollout.
+This TechCabal feature asks why tap-to-pay has not caught on in Nigeria although electronic payments are widespread, starting from CashAfrica's 13 October rollout of mobile tap-to-pay across more than 350 Chicken Republic outlets. It sets that against earlier attempts such as PayAttitude in 2015 and Access Bank's Tap to Phone in 2025, and against the Lagos transport Cowry card, which works because tapping is built into boarding.
 
 </div>
 
@@ -2634,7 +2634,7 @@ Odunayo Ani, finance director at Nigeria's maritime agency NIMASA, told a Lagos 
 
 **[Access to Financial Services in Nigeria (A2F) 2023 Survey Report](https://a2f.ng/wp-content/uploads/2024/07/A2F-2023-SURVEY-REPORT-1.pdf)** — EFInA (Enhancing Financial Innovation & Access), 18 July 2024
 
-Full text; formal inclusion 64% (57% in 2020); about 45% of adults use digital financial services; 26,930 interviews.
+EFInA's eighth Access to Financial Services in Nigeria survey, based on 26,930 interviews, puts formal financial inclusion at 64% in 2023, against 57% in 2020. The full report was published in July 2024.
 
 </div>
 

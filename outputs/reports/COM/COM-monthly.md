@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: COM
 ledger_rows: 11
 not_held: 24
-record: 481f52f8b515
+record: f992befefbba
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -242,7 +242,7 @@ The national university and the United Nations development programme signed a me
 
 **[Cartographie numérique : Les Comores passent à la cartographie numérique](https://www.lagazettedescomores.com/société/cartographie-numérique-les-comores-passent-à-la-cartographie-numérique-.html)** — La Gazette des Comores, 13 October 2026
 
-ArcGIS Pro under World Bank STATCAP; pilot census in 50 enumeration areas; sensitisation still unfunded by the state.
+Comoros's statistics institute INSEED has set up a digital mapping laboratory ahead of the fifth population census, with GIS software bought under a World Bank statistics project. The pilot census covers 50 enumeration areas, and the government has yet to fund the public awareness campaign.
 
 </div>
 

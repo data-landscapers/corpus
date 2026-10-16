@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: SOM
 ledger_rows: 18
 not_held: 2
-record: 87be2979d9ba
+record: 3e8fd9f842c9
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -140,7 +140,7 @@ The chief executive of Somalia's SomLink Telecom says voice calls now interconne
 
 **[Colocation And Web Hosting Services](https://www.dalkomsomalia.com/managed-national.php?id=187)** — Dalkom Somalia, 16 October 2026
 
-Somali telecom offers colocation in its own Mogadishu and Nairobi data centres on a 10 Gbps backbone.
+Somali operator Dalkom offers colocation and hosting in its own data centres in Mogadishu and Nairobi, connected to a redundant 10 Gbps backbone. The company says it holds stakes in the EASSy cable and WIOCC.
 
 </div>
 

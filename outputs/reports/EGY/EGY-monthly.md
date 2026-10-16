@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: EGY
 ledger_rows: 94
 not_held: 44
-record: 48bea8be800d
+record: 6b474a07ca2b
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -1622,7 +1622,7 @@ A peer-reviewed study in Frontiers in Digital Health, published on 3 September 2
 
 **[Year-End Post-Distribution Monitoring Report of UNHCR's Multi-Purpose Cash Assistance to Refugees in Egypt](https://data.unhcr.org/en/documents/details/114784)** — UNHCR Egypt, 28 February 2025
 
-UNHCR's own PDM survey — 393 of 434 sampled MPCA households interviewed, 99% could buy previously unaffordable items.
+UNHCR gave multipurpose cash to an average of 24,335 refugee and asylum-seeker households in Egypt during 2024, paid every two months through Egypt Post offices, and raised transfer values by about 32% over the year. Its December survey reached 393 households, and 99% said the cash let them buy items or services they could not afford before.
 
 </div>
 

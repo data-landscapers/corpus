@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: DZA
 ledger_rows: 37
 not_held: 5
-record: 58f57b8256c0
+record: 2f3c46e65455
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -694,7 +694,7 @@ The Algerian state electronics firm INATEL, with PGS Africa and DABYAN, signed a
 
 **[Algeria reaches preliminary partnership agreement with Roblox to train video game developers](https://techreviewafrica.com/news/7752/algeria-reaches-preliminary-partnership-agreement-with-roblox-to-train-video-game-developers)** — Tech Review Africa, 16 October 2026
 
-Developer training first phase; parental controls, fast-track reports, chat disabled in Algeria pending safeguards.
+Algeria has reached a preliminary agreement with Roblox on a programme to train Algerian video game developers, announced by Sid Ali Zerrouki. It comes with child-protection conditions: wider parental controls, fast-track reporting channels, and the platform's chat feature kept switched off in Algeria until safeguards are judged sufficient.
 
 </div>
 

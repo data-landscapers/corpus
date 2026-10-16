@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: TUN
 ledger_rows: 60
 not_held: 5
-record: 7fdacf463ec9
+record: de47f22267d3
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -462,7 +462,7 @@ An analysis of the head of government's circular of 2 September sets out what it
 
 **[HIRING OF INDIVIDUAL CONSULTANTS TO DEVELOP A NATIONAL INTEROPERABILITY FRAMEWORK FOR HEALTH INFORMATION EXCHANGE IN TWO MEMBER STATES (Tunisia and Seychelles)](https://africacdc.org/opportunity/hiring-of-individual-consultants-to-develop-a-national-interoperability-framework-for-health-information-exchange-in-two-member-states-tunisia-and-seychelles/)** — Africa CDC, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SYC/SYC-monthly.html" title="SYC">Seychelles</a>
 
-Africa CDC seeks consultants to draft national health information exchange interoperability frameworks.
+Africa CDC is recruiting individual consultants to draft national interoperability frameworks for health information exchange in Tunisia and Seychelles, funded by a World Bank grant. Each assignment runs for up to six months.
 
 </div>
 
@@ -1110,7 +1110,7 @@ Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, p
 
 **[Portail National des Données Ouvertes en Tunisie](https://data.gov.tn/fr/)** — Présidence du Gouvernement, Tunisie, 16 October 2026
 
-Open-data portal home: datasets by theme, agriculture 1,210, ICT 0; nine reuse cases listed as of October 2026.
+Tunisia's national open data portal lists datasets by theme and publisher, with agriculture the largest theme, and shows nine recorded reuse cases. Its latest news item, from March 2026, is a workshop on the final draft of a national strategy for the governance and opening of public data.
 
 </div>
 

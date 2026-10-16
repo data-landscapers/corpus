@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MAR
 ledger_rows: 30
 not_held: 14
-record: 01e717d4f8fb
+record: f9a341729f18
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -52,7 +52,7 @@ record: 01e717d4f8fb
 
 **[Morocco appoints Ahmed Rahhou as Minister of Artificial Intelligence, Digital Transformation and Administration Reform](https://techreviewafrica.com/news/7773/morocco-appoints-ahmed-rahhou-as-minister-of-artificial-intelligence-digital-transformation-and-administration-reform)** — Tech Review Africa, 16 October 2026
 
-Sworn in 2026-10-16 in El Mansouri government; replaces Seghrouchni; AI, digital and admin reform in one ministry.
+King Mohammed VI swore in Ahmed Rahhou on 16 October 2026 as Minister of Artificial Intelligence, Digital Transformation and Administration Reform in Fatima Ezzahra El Mansouri's new government. He replaces Amal El Fallah Seghrouchni, and the new ministry brings AI, digital transformation and administrative reform under one portfolio.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: XAF
 ledger_rows: 104
 not_held: 3
-record: 53ab483c5da2
+record: 3fcf39b60184
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -258,7 +258,7 @@ African telecommunications bodies concluded their last preparatory meeting for t
 
 **[ATU secures endorsements for 49 African proposals ahead of ITU Plenipotentiary Conference](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)** — TechReviewAfrica, 16 October 2026
 
-All 49 proposals clear the 15-country bar; Ghana makes 23 endorsing states; Doha, 9-27 November 2026.
+The African Telecommunications Union says all 49 African Common Proposals for the ITU Plenipotentiary Conference in Doha (9-27 November 2026) now have the more than 15 country endorsements each needs, with Ghana making 23 endorsing states. The proposals cover affordable connectivity, cybersecurity, fair access to satellite orbits, AI for development and protection of submarine cables.
 
 </div>
 
@@ -352,7 +352,7 @@ The head of digital health at the Africa Centres for Disease Control and Prevent
 
 **[Foundations First: Transform Health at the Africa HealthTech Summit 2026](https://transformhealthcoalition.org/foundations-first-transform-health-at-the-africa-healthtech-summit-2026/)** — Transform Health, 13 October 2026
 
-100+ stakeholders, 11 health ministries on draft framework; validation 21-22 Oct in Addis, AU adoption early 2027.
+More than 100 stakeholders from 70 organisations, including health ministries from 11 countries, commented on the draft African Continental Health Data Governance Framework at a consultation in Kigali. AU member states are to validate it in Addis Ababa on 21-22 October, ahead of proposed adoption at the AU Summit in early 2027.
 
 </div>
 
@@ -548,7 +548,7 @@ A draft AFRINIC policy would tie any new IPv4 request to IPv6 eligibility, a dep
 
 **[IPv6 as a criteria in IPv4 Soft Landing (AFPUB-2026-v6-001-DRAFT02)](https://afrinic.net/afpub-2026-v6-001-draft02.html)** — AFRINIC, 14 June 2026
 
-AFRINIC's own proposal text and impact assessment for gating IPv4 on measured IPv6 deployment.
+A draft AFRINIC policy proposal would require any IPv4 request to come with an IPv6 request and a deployment plan, with IPv6 reachability targets rising from 25% at 12 months to 75% at 48 months. It cites Africa's IPv6 capability at 6%, against 44% worldwide, after 3 million IPv4 addresses were recovered under Soft Landing without a measurable gain in IPv6.
 
 </div>
 
@@ -820,7 +820,7 @@ Summarised under [Standards](#standards).
 
 **[REGIONAL WEBINAR ON “IPv6 NATIONAL IMPLEMENTATION: ACCELERATING PAN-AFRICA TRANSITION AND CONNECTIVITY”](https://atuuat.africa/event/regional-webinar-on-ipv6-national-implementation-accelerating-pan-africa-transition-and-connectivity/)** — African Telecommunications Union, 15 October 2026
 
-First of four ATU webinars, 15 Oct 2026; Africa IPv6 at 6.1% against 41.7% worldwide in Sept 2026, per APNIC.
+The African Telecommunications Union held a regional webinar on national IPv6 implementation on 15 October 2026, the first of four, with AFRINIC, ISOC, GSMA and ITU among the invited partners. Its concept note puts Africa's IPv6 adoption at 6.1% in September 2026, against 41.7% worldwide.
 
 </div>
 

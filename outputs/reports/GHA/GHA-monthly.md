@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: GHA
 ledger_rows: 106
 not_held: 9
-record: 8d0933282bec
+record: 179507ac7fa6
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -332,7 +332,7 @@ The governor of the Central Bank of Liberia led a delegation to the Bank of Ghan
 
 **[Ghana to host UN convention signing on digital cargo documents on October 26](https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/)** — MyJoyOnline, 16 October 2026
 
-Accra signing set for 26 Oct 2026; Shippers' Authority says benefits hinge on ratification and readiness.
+Ghana will host the signing ceremony for the UN Convention on Negotiable Cargo Documents in Accra on 26 October 2026. The Ghana Shippers' Authority says the convention gives electronic bills of lading and similar documents the legal standing of paper ones, but that the benefits depend on ratification and readiness.
 
 </div>
 
@@ -768,7 +768,7 @@ Telecel Group signed a $200 million, three-year memorandum of understanding with
 
 **[Ghana Plans 2,800 Telecom Site Builds and Upgrades Nationwide](https://techafricanews.com/2026/10/16/ghana-2800-telecom-site-builds-upgrades/)** — Tech Africa News, 16 October 2026
 
-800 new and 2,000 upgraded cell sites across MTN and Telecel; coverage gains due late 2026 into early 2027.
+Communications Minister Samuel Nartey George said Ghana will build 800 new cell sites and upgrade 2,000 more within the year across MTN and Telecel networks, with better coverage expected from late 2026 into early 2027. He also said more spectrum had been released in the past two years than in the previous two decades.
 
 </div>
 
@@ -830,7 +830,7 @@ Ghana's police CID put Interpol's 2026 African Cyber Threat Assessment on the re
 
 **[Ghana records GH¢209m in cybercrime losses in nine months](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html)** — Graphic Online, 15 October 2026
 
-CSA: 4,938 incidents Jan-Sep 2026 vs 4,604 in all 2025; online fraud 48% of cases; Meta, TikTok takedown arrangement.
+Ghana's Cyber Security Authority recorded GH¢209.7m in losses from 4,938 reported cyber incidents in the first nine months of 2026, against GH¢22.5m for the whole of 2025. Online fraud made up 48% of cases, and the authority says it works with Meta and TikTok to take down child sexual exploitation material.
 
 </div>
 
@@ -1588,7 +1588,7 @@ Ghana's local government minister, Mahama Ayariga, announced on 15 September 202
 
 **[AI Readiness Assessment Methodology: Ghana](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana)** — UNESCO, 30 July 2026
 
-UNESCO's Ghana AI Readiness report — one of 77 countries assessed, feeding the National AI Strategy 2025-2035.
+UNESCO has completed its AI Readiness Assessment for Ghana, one of 77 countries assessed, after three rounds of consultation convened by the communications ministry. The findings are meant to guide implementation of Ghana's national AI strategy.
 
 </div>
 

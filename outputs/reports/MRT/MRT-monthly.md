@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: MRT
 ledger_rows: 23
 not_held: 3
-record: 58e87d04d507
+record: ef473b9a0ad2
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -110,7 +110,7 @@ Mauritania's digital ministry opened a week-long training for its officials and 
 
 **[ISO - ONANOR - Office National de la Normalisation et det la Métrologie](https://www.iso.org/member/576513.html)** — International Organization for Standardization, 16 October 2026
 
-ONANOR is Mauritania's ISO correspondent member; participating on 5 technical committees, observing on 10 (October 2026).
+ISO lists Mauritania's ONANOR as a correspondent member, participating in 5 technical committees and observing 10 as of October 2026. The page's description still names an older directorate under the mines and industry ministry.
 
 </div>
 

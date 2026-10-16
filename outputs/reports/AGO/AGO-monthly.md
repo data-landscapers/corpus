@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: AGO
 ledger_rows: 46
 not_held: 6
-record: 6f7086cde4de
+record: 0034a0be61f4
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -156,7 +156,7 @@ Angola's higher education ministry signed results-based agreements on 4 Septembe
 
 **[Angola Tertiary Education, Science, and Technology Project (TEST) — Project Appraisal Document](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf)** — World Bank (mirrored by Angola's public consultation portal), 15 November 2023
 
-World Bank PAD for Angola's $550m TEST higher-education programme — NREN, EMIS and digital competency.
+The World Bank's appraisal document for Angola's Tertiary Education, Science and Technology Project describes a US$150m IBRD loan and a US$50m Global Partnership for Education grant, approved in December 2023 as the first phase of a US$550m programme. The project became effective in December 2024 and runs to 2028.
 
 </div>
 
@@ -698,7 +698,7 @@ Angola's public e-services portal SEPE remained online after the Kazu ransomware
 
 **[Estado da Nação: Presidente destaca progressos nas telecomunicações e transformação digital](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)** — PTI Angola, 16 October 2026
 
-1,300 km fibre added 2022-2026, free access in 18 provinces, National Cloud and govt data centre; EGDI 0.41 (2024).
+In his State of the Nation address, President João Lourenço said Angola added more than 1,300 km of national broadband fibre between 2022 and 2026 and opened free Internet access points in all 18 provinces, reaching about eight million people. He also cited a National Cloud and government data centre, an approved National Cybersecurity Strategy, the World Bank-financed Angola Digital Acceleration Project (PADA), and a UN e-government score of 0.41 in 2024.
 
 </div>
 

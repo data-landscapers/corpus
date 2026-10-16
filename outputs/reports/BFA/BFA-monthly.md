@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-17
 place: BFA
 ledger_rows: 39
 not_held: 8
-record: 4560a6f50273
+record: f3275fc305db
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -86,7 +86,7 @@ Burkina Faso's Council of Ministers, meeting in Bobo-Dioulasso on 10 September 2
 
 **[Demande d’autorisation de transfert de données vers un pays étranger](https://cil.bf/wp-content/uploads/2026/09/FORMULAIRE_ANNEXE-TRANSFERT-DE-DONNEES-A-LETRANGER-1.pdf)** — Commission de l’Informatique et des Libertés (CIL), Burkina Faso, 1 September 2026
 
-CIL application form to transfer personal data abroad: recipient, destination authority, consent, security measures.
+Burkina Faso's data protection authority, the CIL, publishes the form for applying to transfer personal data abroad. It asks for the foreign recipient, whether the destination country has a data protection authority, and the purpose, consent and security arrangements behind the transfer.
 
 </div>
 
@@ -126,7 +126,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger signed a convention crea
 
 **[ISO - ABNORM - Agence Burkinabé de Normalisation, de Métrologie et de la Qualité](https://www.iso.org/member/269997.html)** — International Organization for Standardization, 16 October 2026
 
-ISO lists ABNORM as Burkina Faso's member body, participating in 9 technical committees and observing 5.
+ISO lists ABNORM as Burkina Faso's member body and sole national standards developer. It participates in 9 ISO technical committees and observes 5.
 
 </div>
 
@@ -288,7 +288,7 @@ At an AV-STEC project meeting in Bolgatanga, Ghanaian and Burkinabe officials pr
 
 **[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Only 20 of 120 Burkina MFIs must report (end-2025); FCFA 2bn Article 70 threshold; client consent now mandatory.
+At the 8th annual meeting of the UEMOA credit information bureau, speakers said most microfinance institutions fall outside the duty to report to the bureau: in Burkina Faso, 20 of 120 licensed institutions met the FCFA 2bn threshold at the end of 2025. Panellists called for reporting by all microfinance institutions and wider use of client consent, which a banker said is now required for bureau access across the eight UEMOA states.
 
 </div>
 
@@ -734,7 +734,7 @@ Summarised under [National statistics](#national-statistics).
 
 **[Licence de données ouvertes](https://www.insd.bf/fr/licence-data-insd)** — INSD, 16 October 2026
 
-Worldwide, free, non-exclusive reuse including commercial, attribution required; governed by Burkina Faso law.
+Burkina Faso's national statistics institute, INSD, publishes an open data licence granting free, worldwide, non-exclusive reuse of its data, commercial use included. Users must credit INSD, and the licence is governed by Burkinabè law.
 
 </div>
 
