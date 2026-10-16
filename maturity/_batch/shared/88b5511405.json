@@ -1,1 +1,99 @@
-{"slug": "2026-08-06-eswatini-undp-macetjeni-ihub-digital-skills", "studies": {"startups": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document states no startup law, strategy, labelling or fund."}}}, "techhubs": {"countries": {"SWZ": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "UNDP Eswatini says the Macetjeni iHub in Lubombo Region began operations in May 2026 and was officially launched on 2026-08-06, offering digital skills training and entrepreneurship support, with a first cohort of 15 in a basic computer skills course.", "as_of": "2026-08-06", "date_precision": "day", "system": "Macetjeni iHub", "class": "hub"}], "systems": [{"system": "Macetjeni iHub", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "ESCCOM, SEDCO and UNDP, managed by Tofo Digital", "tiers": ""}, {"system": "Piggs Peak iHub", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-08-06-eswatini-undp-macetjeni-ihub-digital-skills",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no startup law, strategy, labelling or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "UNDP Eswatini says the Macetjeni iHub in Lubombo Region began operations in May 2026 and was officially launched on 2026-08-06, offering digital skills training and entrepreneurship support, with a first cohort of 15 in a basic computer skills course.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni iHub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni iHub",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "ESCCOM, SEDCO and UNDP, managed by Tofo Digital",
+       "tiers": ""
+      },
+      {
+       "system": "Piggs Peak iHub",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Government of Eswatini and UNDP launched the Macetjeni iHub on 6 August 2026, a centre offering digital skills training to young people, women, small business owners and persons with disabilities.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni iHub",
+       "class": "publicskills"
+      },
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The hub enrolled a first cohort of 15 in a basic computer skills programme in June 2026 and completed the two-month course by end of July, per its manager.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Macetjeni iHub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni iHub",
+       "country_label": "Eswatini",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "ESCCOM, SEDCO and UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

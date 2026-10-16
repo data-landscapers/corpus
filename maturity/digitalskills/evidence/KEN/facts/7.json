@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-capitalfm-allafrica-plp-netherlands-digital-skills-garissa",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Power Learn Project, ILO, Microsoft and the Garissa County Government, with Netherlands support, are implementing a 25-week digital skills programme for about 1,700 refugee and host-community youth in Garissa and Turkana, with over 700 enrolled.",
+   "as_of": "2026-09-11",
+   "date_precision": "day",
+   "system": "Power Learn Project digital skills programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Power Learn Project digital skills programme",
+   "country_label": "Kenya",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Power Learn Project, ILO, Microsoft, Garissa County Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

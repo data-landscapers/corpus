@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-16-techafricanews-kenya-digital-literacy-phase-ii-devices",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher training for school educators only; no civil-servant digital-skills programme stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "School device rollout with teacher training; no public digital-skills programme or measured share stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-28-kerrfatou-we-elevate-project-women-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Digital Economy, with the Digital Cooperation Organization and national partners, launched the WE-Elevate Project to improve digital skills of women-owned micro, small and medium enterprises across the country.",
+   "as_of": "2025-10-28",
+   "date_precision": "day",
+   "system": "WE-Elevate Project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WE-Elevate Project",
+   "country_label": "The Gambia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

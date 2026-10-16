@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-10-1000-civil-servants-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Technology and Innovation with MoPAPA, CSTC and HRMO launched a Digital Skills Training Programme to train 1,000 civil servants in its first year, first cohort starting 17 July.",
+   "as_of": "2026-07-10",
+   "date_precision": "day",
+   "system": "Digital Skills Training Programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Skills Training Programme",
+   "country_label": "Sierra Leone",
+   "class": "csskills",
+   "platform": "Public Service Training College, Freetown",
+   "owner": "MoCTI",
+   "tiers": "1,000 first year; 3,000 medium term; 5,000 longer term"
+  }
+ ],
+ "note": ""
+}

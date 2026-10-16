@@ -1,0 +1,16 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "no evidence",
+   "jobs": "",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held gives employment in information and communication.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

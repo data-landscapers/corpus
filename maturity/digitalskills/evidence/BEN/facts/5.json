@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-20-techafricanews-benin-oif-d-clic-training",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Government of Benin, through the School of Digital Professions, launched a national call for applications for OIF D-CLIC digital skills training for young people, per TechAfrica News.",
+   "as_of": "2025-10-20",
+   "date_precision": "day",
+   "system": "D-CLIC",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "D-CLIC",
+   "country_label": "D-CLIC",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "OIF with Ecole des Metiers du Numerique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

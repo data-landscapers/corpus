@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-05-femintech-41-brevets-ia-informatique-actualite",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Femintech trains girls and women, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Femintech, an institution launched in 2017 with partners including Unicef, teaches digital literacy, AI and programming, and about a thousand girls have received the training since its start (Femintech's outgoing president).",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "Femintech",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

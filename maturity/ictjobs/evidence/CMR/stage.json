@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "unplaced",
+   "jobs": "",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for employment in information and communication.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

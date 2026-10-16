@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-01-mcit-egypt-nti-sla-cooperation-protocol",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Egypt's National Telecommunication Institute and the State Lawsuits Authority signed a protocol for digital, AI and cybersecurity training of judicial counselors, extending the AI Ambassadors Program whose second cohort is under way, per MCIT.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "AI Ambassadors Program",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI Ambassadors Program",
+       "country_label": "Egypt",
+       "class": "csskills",
+       "platform": "",
+       "owner": "NTI with State Lawsuits Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for judicial staff only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "research",
+   "stage": "2",
+   "research": "begun",
+   "policy": "",
+   "standing": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BFA-001",
+   "gaps": "No source held since October 2023 says: does a local institution publish on it.",
+   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
+  }
+ ]
+}

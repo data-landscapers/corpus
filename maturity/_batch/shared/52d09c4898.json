@@ -1,0 +1,193 @@
+{
+ "slug": "2025-12-31-unesco-mil-digital-skills-project-status",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (République centrafricaine 10%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "CAF",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (Cameroun 35%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "CMR",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (DR Congo 20%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "COD",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (Congo 10%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "COG",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (Gabon 10%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "GAB",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (Tchad 15%).",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNESCO MIL digital skills project 3210652071",
+       "country_label": "TCD",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNESCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "DZA",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "4",
+   "internet": "official:61.1949",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DZA-003",
+   "gaps": "No source held since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "MUS",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "2",
+   "stem": "official:21.7824",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MUS-003",
+   "gaps": "The latest figure, 21.8 per cent of tertiary graduates for 2023, is below 27.",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

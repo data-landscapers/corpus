@@ -1,16 +1,146 @@
-{"slug":"2026-04-24-somalia-eaqoonsi-app-dpi","studies":{
-"authentication":{"countries":{"SOM":{"facts":[
-{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The eAqoonsi app, linked to the national identification system, is in use: users verify their account with a one-time password and access a digital ID, per NIRA and Hiiraan Online.","as_of":"2026-04","date_precision":"month","system":"eAqoonsi","class":"authentication"},
-{"sub_indicator":"authentication","aspect":"remote","value":"wallet","fact":"A Mogadishu user said she obtained a valid digital ID at home through the eAqoonsi app without revisiting a NIRA center; Google Play shows over 50,000 downloads.","as_of":"2026-04","date_precision":"month","system":"eAqoonsi","class":"authentication"}],
-"systems":[{"system":"eAqoonsi","country_label":"Somalia","class":"authentication","platform":"","owner":"NIRA","tiers":"app with OTP verification"},{"system":"National ID (11-digit number)","country_label":"Somalia","class":"idsystem","platform":"","owner":"NIRA","tiers":"in-person registration"}],"note":""}}},
-"birthidlink":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No civil register link is stated."}}},
-"idcoverage":{"countries":{"SOM":{"facts":[
-{"sub_indicator":"coverage","aspect":"share","value":"below","fact":"Nearly two million people had registered for the national ID by April 2026 against a target of 15 million IDs by 2029, per Hiiraan Online; about 10% of the 19.7 million population (computed from the population given).","as_of":"2026-04","date_precision":"month","system":"National ID (NIRA)","class":"idsystem"}],
-"systems":[],"note":""}}},
-"idfrombirth":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Registration is in person at NIRA centers; no number at birth is stated."}}},
-"idmaintenance":{"countries":{"SOM":{"facts":[],"systems":[],"note":"Who builds or maintains the system is not stated."}}},
-"idregisters":{"countries":{"SOM":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is stated."}}},
-"idrobustness":{"countries":{"SOM":{"facts":[
-{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"NIRA registers people at its centers and gives them an 11-digit national ID number, with nearly two million registered, per NIRA's director and Hiiraan Online.","as_of":"2026-04","date_precision":"month","system":"National ID (NIRA)","class":"idsystem"}],
-"systems":[],"note":""}}}
-}}
+{
+ "slug": "2026-04-24-somalia-eaqoonsi-app-dpi",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The eAqoonsi app, linked to the national identification system, is in use: users verify their account with a one-time password and access a digital ID, per NIRA and Hiiraan Online.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "eAqoonsi",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "A Mogadishu user said she obtained a valid digital ID at home through the eAqoonsi app without revisiting a NIRA center; Google Play shows over 50,000 downloads.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "eAqoonsi",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eAqoonsi",
+       "country_label": "Somalia",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "app with OTP verification"
+      },
+      {
+       "system": "National ID (11-digit number)",
+       "country_label": "Somalia",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": "in-person registration"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil register link is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "below",
+       "fact": "Nearly two million people had registered for the national ID by April 2026 against a target of 15 million IDs by 2029, per Hiiraan Online; about 10% of the 19.7 million population (computed from the population given).",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Registration is in person at NIRA centers; no number at birth is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Who builds or maintains the system is not stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIRA registers people at its centers and gives them an 11-digit national ID number, with nearly two million registered, per NIRA's director and Hiiraan Online.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only calls for digital education; no programme or measured share."
+    }
+   }
+  }
+ }
+}

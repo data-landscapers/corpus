@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-15-ima-tdr-apoio-a-enapp-na-digitalizacao-da-oferta-formativa-e-learning",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The IMA, under the PADA project, issued terms of reference (version 1.1, 15 May 2026) to procure an e-learning platform for the civil-service school ENAPP to carry the Programa de Competências Digitais for the public sector.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Programa de Competências Digitais (ENAPP LMS)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programa de Competências Digitais",
+   "country_label": "Angola",
+   "class": "csskills",
+   "platform": "Learning management system (to be procured)",
+   "owner": "ENAPP / IMA (PADA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

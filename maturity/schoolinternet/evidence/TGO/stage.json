@@ -1,0 +1,16 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "2",
+   "internet": "official:18.1363",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-004",
+   "gaps": "The latest figure, 18.1 per cent of secondary schools for 2024, is below 33.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "policyresearch",
+ "study_file": "maturity-study-policyresearch.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "capacity.research"
+ ],
+ "stage_topic": "capacity.research",
+ "redraws": [
+  "capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy"
+ ],
+ "carry": [
+  "capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "think tank",
+  "think-tank",
+  "policy research",
+  "research institute",
+  "research centre",
+  "research center",
+  "centre de recherche",
+  "institut de recherche",
+  "laboratoire de recherche",
+  "digital rights",
+  "internet policy",
+  "digital policy",
+  "policy brief",
+  "Research ICT Africa",
+  "CIPESA",
+  "Paradigm Initiative",
+  "KICTANet",
+  "Pollicy",
+  "centro de investigação",
+  "مركز أبحاث",
+  "مركز دراسات"
+ ],
+ "sub_indicators": [
+  {
+   "key": "research",
+   "label": "Digital policy research",
+   "subject": "capacity.research",
+   "text": "Think tanks and academic departments contributing to DT policy: digital policy research",
+   "indicator_id": "capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy-digital-policy-research",
+   "class": "research",
+   "norm_short": "STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funded toward 1 per cent of GDP and contributing to policy; neither counts think tanks.",
+   "criteria": [
+    "A source from the past three years says no local institution researches digital policy.",
+    "A local institution has held a research workshop, opened a chair, centre or project on digital policy, or joined a research network on it.",
+    "A local think tank, university centre or department has published research on digital policy, such as a report, study or index.",
+    "A local institution submitted evidence to a consultation, was commissioned by government for a study, or sits on an advisory body, on a digital policy, law or strategy.",
+    "A local research institution holds a standing advisory role in digital policy, or a national research agenda on digital transformation is adopted."
+   ],
+   "criteria_of": "3014196b5a24"
+  }
+ ],
+ "classes": [
+  "research",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "research",
+   "name": "Research published",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "publishing",
+    "begun"
+   ],
+   "values": [
+    "publishing",
+    "begun",
+    "none"
+   ]
+  },
+  {
+   "key": "policy",
+   "name": "Feeding policy",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "contributed"
+   ],
+   "values": [
+    "contributed"
+   ]
+  },
+  {
+   "key": "standing",
+   "name": "Standing role",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "standing"
+   ],
+   "values": [
+    "standing"
+   ]
+  }
+ ],
+ "flags": []
+}

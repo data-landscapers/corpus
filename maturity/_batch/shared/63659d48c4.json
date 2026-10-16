@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-11-techafricanews-senegal-digital-training-plan-civil-servants",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Senegal's Ministry of Public Service with the Ministry of Telecommunications and Digital Affairs validated a National Digital Training Plan for Civil Servants at a workshop, with support from Cheikh Hamidou Kane Digital University (FORCE-N) and the Mastercard Foundation.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "National Digital Training Plan for Civil Servants",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Digital Training Plan for Civil Servants",
+       "country_label": "Senegal",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of Public Service, Labour and Public Sector Reform",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns civil servants only."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-19-lilongwe-to-lupaso-digital-literacy-advocates",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNDP and ICTAM, with the ICT Minister present, launched the Digital Literacy Advocates programme: 30 certified university students are each to train 100 community members, 3,000 Malawians in all.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "Digital Literacy Advocates",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nzeru Hub",
+   "country_label": "Malawi",
+   "class": "publicskills",
+   "platform": "online learning platform",
+   "owner": "ICT Association of Malawi and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

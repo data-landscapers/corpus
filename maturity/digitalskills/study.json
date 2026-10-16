@@ -1,0 +1,112 @@
+{
+ "id": "digitalskills",
+ "study_file": "maturity-study-digitalskills.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "capacity.literacy"
+ ],
+ "stage_topic": "capacity.literacy",
+ "redraws": [
+  "capacity.literacy--digital-literacy-general-population"
+ ],
+ "carry": [
+  "capacity.literacy--digital-literacy-general-population"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "digital skills",
+  "digital literacy",
+  "digital training",
+  "ICT training",
+  "digital skilling",
+  "compétences numériques",
+  "littératie numérique",
+  "formation au numérique",
+  "formation numérique",
+  "alphabétisation numérique",
+  "competências digitais",
+  "alfabetização digital",
+  "literacia digital",
+  "المهارات الرقمية",
+  "محو الأمية الرقمية",
+  "digital skills programme",
+  "digital literacy programme",
+  "basic digital skills",
+  "one million coders",
+  "coding",
+  "digital ambassadors",
+  "SDG 4.4.1",
+  "e-skills",
+  "compétences de base"
+ ],
+ "sub_indicators": [
+  {
+   "key": "publicskills",
+   "label": "Digital skills of the public",
+   "subject": "capacity.literacy",
+   "text": "Digital literacy (general population): digital skills of the public",
+   "indicator_id": "capacity.literacy--digital-literacy-general-population-digital-skills-of-the-public",
+   "class": "publicskills",
+   "norm_short": "The Digital Transformation Strategy asks for 300 million Africans a year trained in e-skills; Agenda 2063's second ten-year plan asks for 80 per cent of primary completers digitally proficient by 2033.",
+   "criteria": [
+    "A source from the past three years says no programme teaches the public digital skills.",
+    "The government, alone or with partners, has launched, piloted or is preparing a programme to teach digital skills to the public.",
+    "A national digital-skills programme for the public is in service and has trained a stated number of people.",
+    "A measured share of adults or of the population with basic digital skills is published, from a survey.",
+    "A measured share of half or more of adults with basic digital skills is published."
+   ],
+   "criteria_of": "0388264ffc93"
+  }
+ ],
+ "classes": [
+  "publicskills",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "training",
+   "name": "Training for the public",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "measured",
+   "name": "Share measured",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "measured"
+   ],
+   "values": [
+    "measured"
+   ]
+  },
+  {
+   "key": "half",
+   "name": "Half or more",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "half"
+   ],
+   "values": [
+    "half"
+   ]
+  }
+ ],
+ "flags": []
+}

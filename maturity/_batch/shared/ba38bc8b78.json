@@ -1,0 +1,63 @@
+{
+ "slug": "2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The record says the World Bank-funded PACTDIGITAL project, reported 2024-03-11, includes public-administration skills among its components.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "PACTDIGITAL",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PACTDIGITAL",
+       "country_label": "Burkina Faso",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The World Bank appraisal document (2023-12-22) for PACTDIGITAL includes a US$22.00m component on developing digital skills and a project aim to increase access to digital skills programs.",
+       "as_of": "2023-12-22",
+       "date_precision": "day",
+       "system": "PACTDIGITAL",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PACTDIGITAL",
+       "country_label": "Burkina Faso",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

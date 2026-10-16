@@ -1,0 +1,53 @@
+{
+ "slug": "2026-08-25-anp-niger-digital-day-tahoua",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for youth, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Governor of Tahoua launched a free digital training for 140 young people on 25 August 2026 as part of the Niger Digital Day national tour, sponsored by the Minister of Communication and New Information Technologies.",
+       "as_of": "2026-08-25",
+       "date_precision": "day",
+       "system": "Niger Digital Day",
+       "class": "publicskills"
+      },
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Niger Digital Day's focal point says it trained more than 300 young people in 6 regions in 2025 and will cover all 8 regions this year.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Niger Digital Day",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Niger Digital Day",
+       "country_label": "Niger",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Niger Digital Day (non-profit)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,1 +1,89 @@
-{"slug": "2026-08-07-eswatini-macetjeni-ihub-launch", "studies": {"startups": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document states no startup law, strategy or fund."}}}, "techhubs": {"countries": {"SWZ": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Times of Eswatini reports the Minister of Commerce, Industry and Trade launched the Macetjeni iHub in the Lubombo Region, the second iHub after Piggs Peak, with a computer lab, internet and co-working spaces, and no incubation programme or cohort is described.", "as_of": "2026-08-06", "date_precision": "day", "system": "Macetjeni Innovation Hub (iHub)", "class": "hub"}], "systems": [{"system": "Macetjeni Innovation Hub (iHub)", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "SEDCO with ESCCOM and UNDP", "tiers": ""}, {"system": "Piggs Peak iHub", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-08-07-eswatini-macetjeni-ihub-launch",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Times of Eswatini reports the Minister of Commerce, Industry and Trade launched the Macetjeni iHub in the Lubombo Region, the second iHub after Piggs Peak, with a computer lab, internet and co-working spaces, and no incubation programme or cohort is described.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni Innovation Hub (iHub)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni Innovation Hub (iHub)",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "SEDCO with ESCCOM and UNDP",
+       "tiers": ""
+      },
+      {
+       "system": "Piggs Peak iHub",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Minister Khumalo launched the Macetjeni iHub, set up by SEDCO with ESCCOM and UNDP, to provide skills training and digital inclusion for youth, women and persons with disabilities.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni iHub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni iHub",
+       "country_label": "Eswatini",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "ESCCOM, SEDCO and UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

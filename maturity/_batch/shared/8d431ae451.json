@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-30-lesotho-undp-intel-ai-for-citizens",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on training for Lesotho civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNDP says Lesotho's 40 Digital Ambassadors will take Intel's 'AI for Citizens' training into their local areas, building on 40 Digital Skills Learning Labs.",
+       "as_of": "2026-03-30",
+       "date_precision": "day",
+       "system": "AI for Citizens (AI Community Experiences)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Skills Learning Labs",
+       "country_label": "Lesotho",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNDP Lesotho Country Office",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

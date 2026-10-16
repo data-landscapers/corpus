@@ -1,0 +1,17 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "csskills",
+   "stage": "2",
+   "training": "underway",
+   "reach": "",
+   "share": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-001",
+   "gaps": "No source held since October 2023 says: is a standing programme in service.",
+   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
+  }
+ ]
+}

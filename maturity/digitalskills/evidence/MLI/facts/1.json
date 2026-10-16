@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-mli-maliweb-dnen-kabakoo-premiere-cohorte",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The communications and digital economy ministry, through DNEN, and Kabakoo Academies announced the launch of a first cohort of 1,000 young people in a programme to train 15,000 youth aged 18-35 in digital skills under a three-year convention signed 31 January 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Kabakoo Academies and DNEN digital skills programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kabakoo Academies and DNEN digital skills programme",
+   "country_label": "Mali",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "MCENMA/DNEN with Kabakoo Academies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

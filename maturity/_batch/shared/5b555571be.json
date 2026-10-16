@@ -1,0 +1,52 @@
+{
+ "slug": "2024-06-10-mtnima-plateforme-nationale-temekoun-competences-numeriques-fonction-publique",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Digital Transformation announced the launch of the Temekoun national platform to give public service staff basic digital skills throughout their careers, with GIZ support and certification.",
+       "as_of": "2024-06-07",
+       "date_precision": "day",
+       "system": "Temekoun",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Temekoun",
+       "country_label": "Mauritania",
+       "class": "csskills",
+       "platform": "national platform",
+       "owner": "MTNIMA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Temekoun",
+       "country_label": "Mauritania",
+       "class": "csskills",
+       "platform": "national platform",
+       "owner": "MTNIMA",
+       "tiers": ""
+      }
+     ],
+     "note": "Temekoun is stated for civil servants; the mention of jobseekers is a single clause with no programme for the public."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "id": "schoolinternet",
+ "study_file": "maturity-study-schoolinternet.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 10,
+ "subjects": [
+  "capacity.training"
+ ],
+ "stage_topic": "capacity.training",
+ "redraws": [
+  "capacity.training--dt-related-training-in-secondary-education"
+ ],
+ "carry": [
+  "capacity.training--dt-related-training-in-secondary-education"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 3000000,
+ "terms": [
+  "curriculum",
+  "programme scolaire",
+  "programmes scolaires",
+  "currículo",
+  "المناهج",
+  "computer science",
+  "informatique",
+  "coding",
+  "codage",
+  "programmation",
+  "ICT subject",
+  "digital literacy",
+  "computer studies",
+  "connected schools",
+  "school connectivity",
+  "écoles connectées",
+  "Giga"
+ ],
+ "sub_indicators": [
+  {
+   "key": "schools",
+   "label": "Internet in secondary schools",
+   "subject": "capacity.training",
+   "text": "DT-related training in secondary education: internet in secondary schools",
+   "indicator_id": "capacity.training--dt-related-training-in-secondary-education-internet-in-secondary-schools",
+   "class": "schoolinternet",
+   "norm_short": "The AU Digital Education Strategy asks for half of institutions connected by 2027 and a digital literacy and coding framework for all students.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts secondary schools with internet for teaching below 17 per cent.",
+    "17 per cent or more of secondary schools have internet for teaching, in the latest figure for 2023 or later, from UNESCO's SDG 4.a.1 series.",
+    "33 per cent or more of secondary schools have internet for teaching.",
+    "50 per cent or more of secondary schools have internet for teaching.",
+    "50 per cent or more of secondary schools have internet for teaching, and digital literacy or computing is a compulsory subject in the national secondary curriculum."
+   ],
+   "criteria_of": "c2e04ade4edc"
+  }
+ ],
+ "classes": [
+  "schoolinternet",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "internet",
+   "name": "Secondary schools with internet for teaching",
+   "role": "coverage",
+   "pattern": "official:\\d{1,3}(\\.\\d+)?"
+  },
+  {
+   "key": "curriculum",
+   "name": "Digital skills in the curriculum",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "compulsory"
+   ],
+   "values": [
+    "compulsory"
+   ]
+  }
+ ],
+ "flags": []
+}

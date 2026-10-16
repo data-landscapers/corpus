@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-18-anp-niger-digital-day-caravane-maradi",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Youth training only; no civil servants mentioned."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Niger Digital Day 2026 caravan, launched in Maradi on 18 August 2026 by the region's delegated administrator, is a youth digital-skills programme the organisers say will run in all eight regions and reach over 800 young people.",
+       "as_of": "2026-08-18",
+       "date_precision": "day",
+       "system": "Niger Digital Day caravan",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Niger Digital Day caravan",
+       "country_label": "Niger Digital Day (NDD) 2026",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Niger Digital Day organisers",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

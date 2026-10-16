@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-02-skodji-digital-skills-wearetech",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Skodji Digital trains young people, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Cabo Verde government launched the Skodji Digital programme to train up to 3,000 young people in digital skills, with 1,050 participants in the first phase and applications open to 25 February.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Skodji Digital",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Skodji Digital",
+       "country_label": "Skodji Digital",
+       "class": "publicskills",
+       "platform": "online application platform",
+       "owner": "Government of Cabo Verde",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

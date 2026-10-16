@@ -1,0 +1,75 @@
+{
+ "id": "ictjobs",
+ "study_file": "maturity-study-ictjobs.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 10,
+ "subjects": [
+  "capacity.training"
+ ],
+ "stage_topic": "capacity.training",
+ "redraws": [
+  "capacity.training--graduates-entering-dt-ecosystem"
+ ],
+ "carry": [
+  "capacity.training--graduates-entering-dt-ecosystem"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 3000000,
+ "terms": [
+  "youth unemployment",
+  "chômage des jeunes",
+  "desemprego jovem",
+  "بطالة الشباب",
+  "labour force survey",
+  "labor force survey",
+  "enquête emploi",
+  "enquête sur l'emploi",
+  "taux de chômage",
+  "unemployment rate"
+ ],
+ "sub_indicators": [
+  {
+   "key": "ictjobs",
+   "label": "ICT employment",
+   "subject": "capacity.training",
+   "text": "Graduates entering DT ecosystem: ICT employment",
+   "indicator_id": "capacity.training--graduates-entering-dt-ecosystem-ict-employment",
+   "class": "ictjobs",
+   "norm_short": "Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM and youth unemployment down to 14 per cent by 2033; the Continental TVET Strategy asks for wider technical training.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts employment in information and communication below 0.3 per cent of all employment.",
+    "Information and communication employs 0.3 per cent or more of all workers, in the latest figure for 2023 or later, from ILOSTAT's series.",
+    "Information and communication employs 0.6 per cent or more of all workers.",
+    "Information and communication employs 1 per cent or more of all workers.",
+    "Information and communication employs 1 per cent or more of all workers, and youth unemployment is 14 per cent or less on the national labour force survey."
+   ],
+   "criteria_of": "c92b7ad48638"
+  }
+ ],
+ "classes": [
+  "ictjobs",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "jobs",
+   "name": "Employment in information and communication",
+   "role": "coverage",
+   "pattern": "official:\\d{1,3}(\\.\\d+)?"
+  },
+  {
+   "key": "youth",
+   "name": "Youth unemployment",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "low"
+   ],
+   "values": [
+    "low"
+   ]
+  }
+ ],
+ "flags": []
+}

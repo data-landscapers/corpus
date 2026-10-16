@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,research,research,publishing,"ISTinaD, described as a Sudan-based research institute, published a policy brief by Elaf Alnayer on 22 March 2026 examining Sudan's financial technology ecosystem through the Digital Public Infrastructure framework, with recommendations for policymakers.",2026-03-22,day,ISTinaD,research,2026-03-22-sudan-istinad-digital-payment-policy-paper,https://istinad.org/policy-paper-digital-payment-technology-in-sudan/

@@ -1,0 +1,26 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:19.9354",
+   "fact": "19.9 per cent of secondary schools in Ghana had internet for teaching in 2018, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Ghana",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

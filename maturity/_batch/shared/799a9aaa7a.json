@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-29-french-tech-abidjan-education-pact-wearetech",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact concerns technical and vocational education, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Pact aligns technical education curricula with industry; no public digital-skills programme or measured share stated."
+    }
+   }
+  }
+ }
+}

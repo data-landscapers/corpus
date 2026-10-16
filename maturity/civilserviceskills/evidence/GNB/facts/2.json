@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-undp-guinea-bissau-newsletter-apr-jun-2026-digital-skills-justice",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The +Digit@l and Justisa pa Tudu Djintis projects, implemented by the Government of Guinea-Bissau and UNDP with EU funding, delivered a roughly 30-hour Word, Excel and PowerPoint course to justice and human rights sector professionals and other professionals, with a 36-hour trainer programme.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Computer Course: Digital Literacy Applied to the Professional Context",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Computer Course: Digital Literacy Applied to the Professional Context",
+   "country_label": "Guinea-Bissau",
+   "class": "csskills",
+   "platform": "Kolibri",
+   "owner": "+Digit@l / Justisa pa Tudu Djintis (Government, UNDP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

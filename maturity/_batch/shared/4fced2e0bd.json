@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-19-liberia-moh-ems-digital-patient-care-report",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is on one health reporting system for EMS staff, not a civil-service digital-skills programme."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for emergency health staff on one system, not the public."
+    }
+   }
+  }
+ }
+}

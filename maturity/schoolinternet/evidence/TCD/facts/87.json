@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:8.6957",
+   "fact": "8.7 per cent of secondary schools in Chad had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:3.5065",
+   "fact": "3.51 per cent of secondary schools in Chad had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:4.0457",
+   "fact": "4.05 per cent of secondary schools in Chad had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Chad",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

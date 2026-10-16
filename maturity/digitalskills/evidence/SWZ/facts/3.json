@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-08-govt-launches-macetjeni-ihub-to-drive-digital-innovation",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Minister of Commerce, Industry and Trade launched the Macetjeni iHub on 6 August 2026, set up by SEDCO with ESCCOM and UNDP, to give beneficiaries training in computer literacy, Microsoft Office, AI and digital marketing.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Macetjeni iHub",
+   "class": "publicskills"
+  },
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "More than 100 participants completed computer literacy, Microsoft Office and AI training in the Macetjeni iHub pilot phase before the official launch.",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "Macetjeni iHub",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Macetjeni iHub",
+   "country_label": "Eswatini",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "SEDCO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-09-techafricanews-mtn-south-sudan-rumbek-ict-hub",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital-skills training is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MTN South Sudan launched the Rumbek ICT Hub in Lakes State with the Lakes State Government on 8 September 2026 to provide ICT training for young people, welcomed by the national ICT minister.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "Rumbek ICT Hub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rumbek ICT Hub",
+       "country_label": "South Sudan",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MTN South Sudan with Lakes State Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

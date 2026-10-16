@@ -1,0 +1,16 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "2",
+   "jobs": "official:0.5959",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-003",
+   "gaps": "The latest figure, 0.6 per cent of employment for 2024, is below 0.6.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

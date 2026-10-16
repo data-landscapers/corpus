@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-07-ai-cybersecurity-skills-civil-servants",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Government has launched a national plan to train 1.5 million coders by 2028, focusing on AI, programming and data science, per the report.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "National plan to train 1.5 million coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

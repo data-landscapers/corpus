@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-mwi-digital-gap-nzika-id-rollout",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "Malawi's ICT minister Shadric Namalomba said only 12.5 percent of the population has basic internet usage skills.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

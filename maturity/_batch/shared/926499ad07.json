@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-30-mtn-south-africa-graduates-80-youth-in-digital-skills-programme",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme is for young people, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MTN South Africa says its Digital Skills for Digital Jobs programme, run with the MTN SA Foundation, MTN Skills Academy, government and other partners, graduated 80 Western Cape youth and has trained more than 1,600 young South Africans over two years.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "Digital Skills for Digital Jobs (DS4DJ)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Skills for Digital Jobs (DS4DJ)",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "MTN South Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

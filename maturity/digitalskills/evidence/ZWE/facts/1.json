@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-ai-gains-ground-zimbabweans-digital-learning",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "The 2025 ZIMSTAT and POTRAZ ICT household survey found 43.7 percent of Zimbabweans have basic digital skills.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "2025 ICT Access by Households and Use by Individuals Survey",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": "43.7 percent is below half; no programme stated."
+}

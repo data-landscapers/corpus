@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-03-undp-somalia-digital-skills-training-youth",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Technology and UNDP held a one-day digital-skills workshop in Mogadishu for 73 youth, part of a project aiming to train 1,000 youth.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Enhancing SDG Localization and Digital Transformation project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enhancing SDG Localization and Digital Transformation project",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "UNDP Somalia and Ministry of Communications and Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "csskills",
+   "stage": "3",
+   "training": "inservice",
+   "reach": "",
+   "share": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-002",
+   "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
+   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
+  }
+ ]
+}

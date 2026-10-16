@@ -1,0 +1,23 @@
+{
+ "slug": "2024-11-01-eswatini-digital-readiness-assessment",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 60% skills gap among government staff and a recommendation; no training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a recommendation to expand digital literacy training; no programme stated."
+    }
+   }
+  }
+ }
+}

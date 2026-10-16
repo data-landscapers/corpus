@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-eswatini-launches-africa-first-womens-digital-academy",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Eswatini launched the She Powers Africa Digital Academy, which begins with 50 women from government and government-related institutions trained in AI, cybersecurity, data science, software development and IT operations, delivered by the UAE's General Women's Union with TDRA and the Digital Government Academy.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "She Powers Africa Digital Academy",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "She Powers Africa Digital Academy",
+   "country_label": "Eswatini",
+   "class": "csskills",
+   "platform": "",
+   "owner": "UAE General Women's Union with TDRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

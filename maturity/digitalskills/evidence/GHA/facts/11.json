@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-20-tan-ghana-national-ict-week",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The One Million Coders Programme aims to equip one million Ghanaians with coding and digital skills, per Deputy Minister Sukparu.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  },
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "More than 12,000 course completions were recorded in the early weeks of Phase Two of the One Million Coders Programme, per Sukparu.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

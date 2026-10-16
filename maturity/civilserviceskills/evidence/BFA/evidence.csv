@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BFA-001,BFA,csskills,training,underway,"The record says the World Bank-funded PACTDIGITAL project, reported 2024-03-11, includes public-administration skills among its components.",2024-03-11,day,PACTDIGITAL,csskills,2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project,https://projects.worldbank.org/en/projects-operations/project-detail/P177022

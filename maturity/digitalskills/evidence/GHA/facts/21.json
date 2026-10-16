@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-13-gha-ghana-needs-tech-builders-not-just-digital-consumers-sam",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Samuel Nartey George said the government's One Million Coders Programme aims to equip one million Ghanaians with digital skills.",
+   "as_of": "2026-09-13",
+   "date_precision": "day",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "Enrolment of 141,954 is not a count trained; Plan/Nokia project is not government."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-02-ai-university-pnd-2026-2030-wearetech",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a planned AI university; no civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "University and higher-education plan; no public digital-skills programme or measured share."
+    }
+   }
+  }
+ }
+}

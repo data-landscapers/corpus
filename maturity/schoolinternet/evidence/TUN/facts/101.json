@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:98.2474",
+   "fact": "98.2 per cent of secondary schools in Tunisia had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:96.1329",
+   "fact": "96.1 per cent of secondary schools in Tunisia had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:99.4652",
+   "fact": "99.5 per cent of secondary schools in Tunisia had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Tunisia",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

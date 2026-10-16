@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-19-lesotho-schools-connectivity-wtdc25-statement",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Lesotho's Community Digital Inclusion Model, launched with UNDP and now run through the Universal Service Fund, deploys village digital ambassadors to train citizens in essential digital skills, per the Minister.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "Community Digital Inclusion Model",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Community Digital Inclusion Model",
+       "country_label": "Lesotho",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Universal Service Fund",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

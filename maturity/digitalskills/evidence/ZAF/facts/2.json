@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-citizenza-gauteng-wifi-digital-skills-smart-safety",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Gauteng Department of e-Government reported 14,085 young people participated in its ICT and technology skills programmes in the reporting period (provincial).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Gauteng ICT and technology skills programmes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

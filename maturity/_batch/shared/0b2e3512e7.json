@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-05-undp-orange-liberia-mou-digital-transformation-youth",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for youth and communities, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNDP and Orange Liberia signed an MoU that will focus on expanding digital literacy and skills training, especially for young women and vulnerable communities.",
+       "as_of": "2025-11-05",
+       "date_precision": "day",
+       "system": "UNDP-Orange Liberia MoU",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

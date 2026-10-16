@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-30-iati-xm-dac-41304-507cmr1000-generationdigital-minedub-cameroun",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Record gives only a title and spend; no civil-servant training described."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Record gives only a title and spend; no public programme described."
+    }
+   }
+  }
+ }
+}

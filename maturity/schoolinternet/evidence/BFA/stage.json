@@ -1,0 +1,16 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "1",
+   "internet": "official:2.4612",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BFA-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

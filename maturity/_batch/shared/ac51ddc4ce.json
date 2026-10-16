@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-29-data-free-junub-academy-brings-ai-supported-education-to-south-sudan",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Platform serves students, teachers and youth, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Junub Academy National E-Learning Platform, launched by MTN South Sudan with two ministries, carries digital skills training and digital literacy resources for students, teachers and young people, zero-rated on MTN.",
+       "as_of": "2026-06-28",
+       "date_precision": "day",
+       "system": "Junub Academy National E-Learning Platform",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Junub Academy National E-Learning Platform",
+       "country_label": "South Sudan",
+       "class": "publicskills",
+       "platform": "MTN network, zero-rated",
+       "owner": "MTN South Sudan; Educare Organization South Sudan; Ministry of General Education and Instruction; Ministry of ICT and Postal Services",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

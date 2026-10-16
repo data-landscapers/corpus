@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-20-techtrends-digital-skills-gap-national-security-africa",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NITDA and the Office of the Head of the Civil Service have trained more than 53,000 civil servants in digital skills, under a programme based on the National Digital Literacy Framework, per TechTrends Africa.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "NITDA and Office of the Head of the Civil Service digital skills training",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "NITDA and the Office of the Head of the Civil Service have trained more than 53,000 civil servants in digital skills, per TechTrends Africa.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "NITDA and Office of the Head of the Civil Service digital skills training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NITDA and Office of the Head of the Civil Service digital skills training",
+   "country_label": "Nigeria",
+   "class": "csskills",
+   "platform": "",
+   "owner": "NITDA; Office of the Head of the Civil Service",
+   "tiers": ""
+  },
+  {
+   "system": "National Digital Literacy Framework",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

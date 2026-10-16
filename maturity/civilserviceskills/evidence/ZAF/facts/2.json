@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-citizenza-gauteng-wifi-digital-skills-smart-safety",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Gauteng Department of e-Government reported that 6,461 government employees received digital skills training in its 2025/26 reporting period.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Gauteng e-Government digital skills training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

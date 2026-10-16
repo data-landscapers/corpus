@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-zwe-applynow-potraz-digital-technologies-policy-research-programme",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "POTRAZ, with the Research Council of Zimbabwe and SIRDC, opened a National Digital Technologies Policy Research Programme calling for digital policy research proposals, closing 3 October 2026.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "National Digital Technologies Policy Research Programme (DTPRP)",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Technologies Policy Research Programme (DTPRP)",
+   "country_label": "Zimbabwe",
+   "class": "research",
+   "platform": "",
+   "owner": "POTRAZ with Research Council of Zimbabwe and SIRDC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

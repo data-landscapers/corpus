@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-08-einpresswire-csquared-ganta-liberia-broadband-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "CSquared states Liberia has begun preparing for AI through AI training for civil servants with the UNDP.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "AI training for civil servants (UNDP)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:31.034",
+   "fact": "Graduates in science, technology, engineering and mathematics were 31 per cent of tertiary graduates in Rwanda in 2022, by UNESCO's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:28.8283",
+   "fact": "Graduates in science, technology, engineering and mathematics were 28.8 per cent of tertiary graduates in Rwanda in 2023, by UNESCO's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:29.5369",
+   "fact": "Graduates in science, technology, engineering and mathematics were 29.5 per cent of tertiary graduates in Rwanda in 2024, by UNESCO's series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Rwanda",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

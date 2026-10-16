@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-23-potraz-internet-society-disability-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for persons with disabilities, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Potraz with the Internet Society Zimbabwe Chapter completed a basic ICT skills training programme for 35 persons with disabilities from Lupane, Dete and Binga districts.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Potraz and Internet Society basic ICT skills training",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Potraz and Internet Society basic ICT skills training",
+       "country_label": "Zimbabwe",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Potraz; Internet Society Zimbabwe Chapter",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "KEN",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "2",
+   "internet": "official:30.5528",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "KEN-001",
+   "gaps": "The latest figure, 30.6 per cent of secondary schools for 2023, is below 33.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

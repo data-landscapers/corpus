@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,schools,internet,official:64.2639,"64.3 per cent of secondary schools in Senegal had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",2021,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+SEN-002,SEN,schools,internet,official:68.2252,"68.2 per cent of secondary schools in Senegal had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",2022,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+SEN-003,SEN,schools,internet,official:67.2693,"67.3 per cent of secondary schools in Senegal had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",2024,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

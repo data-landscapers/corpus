@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-15-sierra-leone-itu-bdd-sl-basic-digital-skills-600-citizens",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for citizens from underserved communities, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Bridge the Digital Divide Sierra Leone, the ITU Digital Transformation Centre, trained 600 citizens in a 20-day basic digital skills course, funded by ITU and Norway, per ITU Academy.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "BDD-SL Digital Transformation Centre",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BDD-SL Digital Transformation Centre",
+       "country_label": "Bridge the Digital Divide Sierra Leone",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "BDD-SL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

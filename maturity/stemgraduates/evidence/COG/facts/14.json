@@ -1,0 +1,26 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:15.1306",
+   "fact": "Graduates in science, technology, engineering and mathematics were 15.1 per cent of tertiary graduates in Congo in 2017, by UNESCO's series.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Congo",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

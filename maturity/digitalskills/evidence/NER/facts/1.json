@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-niger-digital-day-youth-skills-diffa",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Niger Digital Day national caravan, launched at its Diffa leg on 3 September 2026 with about 60 participants, trains young people in digital tools and trades and is to tour all eight regions of Niger.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Niger Digital Day",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Niger Digital Day",
+   "country_label": "Niger",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Niger Digital Day founders with Universite de Diffa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

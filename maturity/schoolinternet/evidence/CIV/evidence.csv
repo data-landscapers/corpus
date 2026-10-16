@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CIV-001,CIV,schools,internet,official:35.2461,"35.2 per cent of secondary schools in Cote d'Ivoire had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",2024,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

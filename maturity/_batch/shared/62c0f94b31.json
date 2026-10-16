@@ -1,0 +1,53 @@
+{
+ "slug": "2026-09-11-techafricanews-kenya-huawei-digitruck-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Training described is for young people, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Kenya's State Department of ICT and Digital Economy, with Huawei TECH4ALL and Computers for Schools Kenya, delivered digital skills training through the Huawei DigiTruck, as stated by the Principal Secretary.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Huawei DigiTruck",
+       "class": "publicskills"
+      },
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "330 young people in Keiyo South completed the DigiTruck digital skills programme.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Huawei DigiTruck",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Huawei DigiTruck",
+       "country_label": "Kenya",
+       "class": "publicskills",
+       "platform": "solar-powered mobile classroom",
+       "owner": "Huawei with Computers for Schools Kenya",
+       "tiers": "local"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

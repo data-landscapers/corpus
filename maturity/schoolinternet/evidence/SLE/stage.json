@@ -1,0 +1,16 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "1",
+   "internet": "official:5.043",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

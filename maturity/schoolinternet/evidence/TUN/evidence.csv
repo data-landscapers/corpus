@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TUN-001,TUN,schools,internet,official:98.2474,"98.2 per cent of secondary schools in Tunisia had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",2021,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+TUN-002,TUN,schools,internet,official:96.1329,"96.1 per cent of secondary schools in Tunisia had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",2022,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+TUN-003,TUN,schools,internet,official:99.4652,"99.5 per cent of secondary schools in Tunisia had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",2023,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "2",
+   "jobs": "official:0.5827",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-002",
+   "gaps": "The latest figure, 0.58 per cent of employment for 2025, is below 0.6.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

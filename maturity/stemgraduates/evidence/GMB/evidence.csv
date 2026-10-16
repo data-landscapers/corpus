@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GMB-001,GMB,graduates,stem,official:2.3663,"Graduates in science, technology, engineering and mathematics were 2.37 per cent of tertiary graduates in Gambia in 2025, by UNESCO's series.",2025,year,UNESCO's tertiary graduates series,stemgraduates,ref:uis-stem-graduates@2026-02-09,https://databrowser.uis.unesco.org/

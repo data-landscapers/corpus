@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-15-namibia-huawei-women-in-tech-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ITWeb Africa reports Huawei launched the Women in Tech Namibia initiative and the 2026 National Talent Cultivation Project (about 1,000 students), which the ICT minister welcomed as supporting government efforts on digital inclusion and ICT skills.",
+   "as_of": "2026-05-15",
+   "date_precision": "day",
+   "system": "Women in Tech Namibia initiative",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Women in Tech Namibia initiative",
+   "country_label": "Namibia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

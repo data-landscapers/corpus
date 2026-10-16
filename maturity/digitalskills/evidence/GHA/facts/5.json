@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-15-gha-graphic-one-million-coders-programme-enrols-141954",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The government's One Million Coders Programme, aimed at equipping one million Ghanaians with digital skills, had enrolled 141,954 accounts as of August 2026, per minister Samuel Nartey George.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "One Million Coders Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "One Million Coders Programme",
+   "country_label": "Ghana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

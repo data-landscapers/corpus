@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SYC-001,SYC,ictjobs,jobs,official:1.6503,"Information and communication employed 1.65 per cent of all workers in Seychelles in 2023, by ILOSTAT's labour force series.",2023,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+SYC-002,SYC,ictjobs,jobs,official:0.8201,"Information and communication employed 0.82 per cent of all workers in Seychelles in 2024, by ILOSTAT's labour force series.",2024,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+SYC-003,SYC,ictjobs,jobs,official:2.1948,"Information and communication employed 2.19 per cent of all workers in Seychelles in 2025, by ILOSTAT's labour force series.",2025,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/

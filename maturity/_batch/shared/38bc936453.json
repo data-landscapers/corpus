@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-01-ang-conselho-ministros-aprova-politica-nacional-competencias-digitais",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Policy is for citizens; civil servants not mentioned."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Council of Ministers approved a draft decree on a National Digital Skills Policy whose purpose is to train Guinean citizens in digital skills, per the cabinet communique reported by ANG.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Política Nacional de Competências Digitais",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Política Nacional de Competências Digitais",
+       "country_label": "Guinea-Bissau",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Conselho de Ministros",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

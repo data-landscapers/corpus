@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SEN-001,SEN,ictjobs,jobs,official:0.792,"Information and communication employed 0.79 per cent of all workers in Senegal in 2022, by ILOSTAT's labour force series.",2022,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+SEN-002,SEN,ictjobs,jobs,official:0.6143,"Information and communication employed 0.61 per cent of all workers in Senegal in 2023, by ILOSTAT's labour force series.",2023,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+SEN-003,SEN,ictjobs,jobs,official:0.5959,"Information and communication employed 0.6 per cent of all workers in Senegal in 2024, by ILOSTAT's labour force series.",2024,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/

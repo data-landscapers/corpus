@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-14-yea-ghana-digital-centres-2000-youth-myjoy",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Youth Employment Agency signed an MoU with Ghana Digital Centres Limited to train 2,000 young Ghanaians in digital skills, fully government-funded, with a pilot in five regions before nationwide expansion.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "YEA and Ghana Digital Centres Microsoft microdegree programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

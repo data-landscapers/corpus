@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-11-mdg-moov-metfp-gip-pix-competences-numeriques",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Partnership concerns young people in vocational training, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Madagascar's Ministry of Technical Education and Vocational Training signed a partnership with GIP Pix on 11 September 2026 to prepare young people for, and certify, digital skills, across eight axes including exam centres and trainer training.",
+       "as_of": "2026-09-11",
+       "date_precision": "day",
+       "system": "Pix certification partnership",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pix certification partnership",
+       "country_label": "Madagascar",
+       "class": "publicskills",
+       "platform": "Pix",
+       "owner": "METFP and GIP Pix",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

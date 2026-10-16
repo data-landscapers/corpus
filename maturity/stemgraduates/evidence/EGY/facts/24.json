@@ -1,0 +1,56 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:16.8792",
+   "fact": "Graduates in science, technology, engineering and mathematics were 16.9 per cent of tertiary graduates in Egypt in 2022, by UNESCO's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:16.8792",
+   "fact": "Graduates in science, technology, engineering and mathematics were 16.9 per cent of tertiary graduates in Egypt in 2023, by UNESCO's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:14.0501",
+   "fact": "Graduates in science, technology, engineering and mathematics were 14.1 per cent of tertiary graduates in Egypt in 2024, by UNESCO's series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:14.0501",
+   "fact": "Graduates in science, technology, engineering and mathematics were 14.1 per cent of tertiary graduates in Egypt in 2025, by UNESCO's series.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Egypt",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

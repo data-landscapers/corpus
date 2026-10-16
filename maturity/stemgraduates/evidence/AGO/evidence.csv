@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+AGO-001,AGO,graduates,stem,official:12.0105,"Graduates in science, technology, engineering and mathematics were 12 per cent of tertiary graduates in Angola in 2015, by UNESCO's series.",2015,year,UNESCO's tertiary graduates series,stemgraduates,ref:uis-stem-graduates@2026-02-09,https://databrowser.uis.unesco.org/

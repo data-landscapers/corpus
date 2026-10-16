@@ -1,0 +1,3 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ETH-001,ETH,schools,internet,official:22.9244,"22.9 per cent of secondary schools in Ethiopia had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",2021,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+ETH-002,ETH,schools,internet,official:10.7688,"10.8 per cent of secondary schools in Ethiopia had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",2022,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

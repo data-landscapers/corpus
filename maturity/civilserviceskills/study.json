@@ -1,0 +1,113 @@
+{
+ "id": "civilserviceskills",
+ "study_file": "maturity-study-civilserviceskills.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 20,
+ "subjects": [
+  "capacity.literacy"
+ ],
+ "stage_topic": "capacity.literacy",
+ "redraws": [
+  "capacity.literacy--digital-literacy-civil-service"
+ ],
+ "carry": [
+  "capacity.literacy--digital-literacy-civil-service"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 14000000,
+ "terms": [
+  "digital skills",
+  "digital literacy",
+  "digital training",
+  "ICT training",
+  "digital skilling",
+  "compétences numériques",
+  "littératie numérique",
+  "formation au numérique",
+  "formation numérique",
+  "alphabétisation numérique",
+  "competências digitais",
+  "alfabetização digital",
+  "literacia digital",
+  "المهارات الرقمية",
+  "محو الأمية الرقمية",
+  "civil servants",
+  "public servants",
+  "fonctionnaires",
+  "agents publics",
+  "funcionários públicos",
+  "public service academy",
+  "school of government",
+  "digital academy",
+  "e-government training",
+  "الموظفين العموميين"
+ ],
+ "sub_indicators": [
+  {
+   "key": "csskills",
+   "label": "Civil service digital skills",
+   "subject": "capacity.literacy",
+   "text": "Digital literacy (civil service): civil service digital skills",
+   "indicator_id": "capacity.literacy--digital-literacy-civil-service-civil-service-digital-skills",
+   "class": "csskills",
+   "norm_short": "The AU Charter on the Principles of Public Service and Administration asks for systematic capacity development of public servants; the Digital Transformation Strategy asks for digital and data skills in state institutions.",
+   "criteria": [
+    "A source from the past three years says civil servants receive no digital-skills training.",
+    "A government body has launched, piloted or is preparing a digital-skills programme for civil servants, or held digital-skills courses for officials.",
+    "A government digital-skills programme, academy or learning platform for civil servants is in service and has trained a stated number of public servants.",
+    "The programme is open to or required of civil servants in all ministries, or has trained staff across most of government.",
+    "The share of the civil service that has completed digital-skills training is published, or the number trained beside the civil-service headcount."
+   ],
+   "criteria_of": "7de1aac90e11"
+  }
+ ],
+ "classes": [
+  "csskills",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "training",
+   "name": "Training for civil servants",
+   "role": "coverage",
+   "defer": [
+    "none"
+   ],
+   "prefer": [
+    "inservice",
+    "underway"
+   ],
+   "values": [
+    "inservice",
+    "underway",
+    "none"
+   ]
+  },
+  {
+   "key": "reach",
+   "name": "Across government",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "wide"
+   ],
+   "values": [
+    "wide"
+   ]
+  },
+  {
+   "key": "share",
+   "name": "Share published",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "published"
+   ],
+   "values": [
+    "published"
+   ]
+  }
+ ],
+ "flags": []
+}

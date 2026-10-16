@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-bmz-zaf-001-beschaftigungsperspektiven-in-der-digitalen-welt-ii",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "BMZ records the active grant 'Digital Skills 4 Jobs and Income II' (EUR 6.5m, 2024-2027, GIZ-implemented) for South Africa, aimed at jobs for unemployed youth, especially women.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital Skills 4 Jobs and Income II",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Skills 4 Jobs and Income II",
+   "country_label": "South Africa",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "BMZ / GIZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

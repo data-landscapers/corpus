@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-08-egy-sis-communications-labor-mou-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The MCIT and Labor ministries' MoU of 8 October 2026 provides digital-skills programmes for citizens, particularly graduates, job seekers and vulnerable groups, with internationally accredited certificates.",
+   "as_of": "2026-10-08",
+   "date_precision": "day",
+   "system": "MCIT-Ministry of Labor MoU digital capacity programmes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

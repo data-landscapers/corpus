@@ -72,6 +72,24 @@
      "note": "Nothing stated for this question."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers public financial literacy only; nothing on civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "A one-week financial-literacy campaign, not a digital-skills programme."
+    }
+   }
   }
  }
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:24.8",
+   "fact": "24.8 per cent of secondary schools in Comoros had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:24.4833",
+   "fact": "24.5 per cent of secondary schools in Comoros had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Comoros",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

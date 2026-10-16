@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The World Bank records DECIM digital-skills sub-component 2.2 (USD 15m) including training of 5,700 people in advanced digital skills and basic digital literacy.",
+       "as_of": "2025-11-20",
+       "date_precision": "day",
+       "system": "DECIM sub-component 2.2",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DECIM (P178701)",
+       "country_label": "Madagascar",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MNDPT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

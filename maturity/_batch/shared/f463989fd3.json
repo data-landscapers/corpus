@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-08-gha-graphic-huawei-digital-skills-100000-one-million-coders",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for the public, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Huawei began a four-year programme to train 100,000 Ghanaians in support of the government's One Million Coders Programme, with first Training of Trainers on 31 August 2026 and joint certification with the Ministry.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "One Million Coders Programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

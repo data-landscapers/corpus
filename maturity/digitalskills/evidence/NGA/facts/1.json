@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-06-nigerias-ncc-to-leverage-itu-digital-centre-to-expand-digital-skills-training",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NCC said it will leverage DBI's ITU Digital Transformation Centre designation to expand digital skills training for Nigerians nationwide, with government agencies and partners.",
+   "as_of": "2026-10-06",
+   "date_precision": "day",
+   "system": "ITU Digital Transformation Centre at Digital Bridge Institute",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

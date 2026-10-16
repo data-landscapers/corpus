@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,graduates,stem,official:9.56,"Graduates in science, technology, engineering and mathematics were 9.56 per cent of tertiary graduates in Mozambique in 2018, by UNESCO's series.",2018,year,UNESCO's tertiary graduates series,stemgraduates,ref:uis-stem-graduates@2026-02-09,https://databrowser.uis.unesco.org/

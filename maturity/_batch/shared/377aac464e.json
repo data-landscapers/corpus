@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-19-newvision-ucc-digital-skilling-health-centres",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Trains faith-based health workers, not stated as civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Health-worker training, not for the public."
+    }
+   }
+  }
+ }
+}

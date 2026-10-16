@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+BEN-001,BEN,schools,internet,official:4.0126,"4.01 per cent of secondary schools in Benin had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",2022,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

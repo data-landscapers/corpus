@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-19-guine-bissau-comunicado-conselho-ministros-politica-nacional-competencias-digitais",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Council of Ministers approved, with amendments, a draft decree on the National Digital Skills Policy, aimed at equipping national citizens with digital skills.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Política Nacional de Competências Digitais",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Política Nacional de Competências Digitais",
+   "country_label": "Guiné-Bissau",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Conselho de Ministros",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

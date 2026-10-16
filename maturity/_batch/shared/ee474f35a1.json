@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-22-egypt-nti-al-riyada-university-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The protocol covers students and graduates, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "The protocol covers university students and graduates only."
+    }
+   }
+  }
+ }
+}

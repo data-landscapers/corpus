@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-09-nga-undp-cisco-njfp-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for youth fellows, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNDP and Cisco signed an MoU giving up to 50,000 Nigeria Jubilee Fellows Programme fellows and alumni free Cisco Networking Academy digital-skills learning on a rolling basis.",
+       "as_of": "2026-10-09",
+       "date_precision": "day",
+       "system": "Nigeria Jubilee Fellows Programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nigeria Jubilee Fellows Programme",
+       "country_label": "Nigeria",
+       "class": "publicskills",
+       "platform": "Cisco Networking Academy",
+       "owner": "UNDP with Federal Government, EU-funded",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:3.6661",
+   "fact": "3.67 per cent of secondary schools in Sierra Leone had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:5.7456",
+   "fact": "5.75 per cent of secondary schools in Sierra Leone had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:5.0837",
+   "fact": "5.08 per cent of secondary schools in Sierra Leone had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:5.043",
+   "fact": "5.04 per cent of secondary schools in Sierra Leone had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Sierra Leone",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

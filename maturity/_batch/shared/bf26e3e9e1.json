@@ -1,0 +1,33 @@
+{
+ "slug": "2026-08-11-cybastion-us-embassies-digital-skills-africa",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital-skills training for civil servants is stated."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital-skills training for civil servants is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Camp run by Cybastion and the U.S. Embassy, not a government programme."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Training run by Cybastion at an American Corner, not a government programme."
+    }
+   }
+  }
+ }
+}

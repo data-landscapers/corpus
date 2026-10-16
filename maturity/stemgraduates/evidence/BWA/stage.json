@@ -1,0 +1,16 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "1",
+   "stem": "official:10.9365",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

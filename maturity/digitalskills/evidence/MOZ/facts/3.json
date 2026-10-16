@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-18-programa-40-mil-jovens-competencias-digitais",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Youth and Sports signed an MoU with MyRide Technologies and SoulCode for a national digital-capacity programme to train about 40,000 young people (36,000 in digital literacy, 3,660 in advanced-technology bootcamps), piloting in five provinces.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Programa nacional de capacitação digital",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programa nacional de capacitação digital",
+   "country_label": "Mozambique",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Youth and Sports",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -67,6 +67,24 @@
      "note": "No hub or park described; the AI institute and an NUST accelerator are mentioned without programme or cohort detail."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only school-curriculum digital literacy and AI degrees are stated; no public programme or measured share of adults."
+    }
+   }
   }
  }
 }

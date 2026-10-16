@@ -1,0 +1,45 @@
+{
+ "slug": "2026-05-07-cpv-resolucao-n-o-72-2026",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Resolução 72/2026 recognises as progress digital-inclusion and skills-training initiatives developed for citizens and public servants.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Digital skills initiatives for public servants",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Resolução 72/2026 recognises as progress digital-inclusion and skills-training initiatives developed for citizens and public servants.",
+       "as_of": "2026-05-07",
+       "date_precision": "day",
+       "system": "Digital inclusion and skills initiatives",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

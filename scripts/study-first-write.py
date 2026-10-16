@@ -385,6 +385,33 @@ SHORT = {
         ["No source held since October 2023 says startups are labelled or registered under a startup law or strategy.",
          "No source held since October 2023 says a public fund under the startup law or strategy has financed startups."],
         "a startup law or strategy"),
+    "civilserviceskills": (
+        ["A {y} source says civil servants receive no digital-skills training.",
+         "Digital-skills training for civil servants was under way in {y}; a standing programme is not on record.",
+         "A digital-skills programme trained civil servants in {y}; reach across government is not on record.",
+         "Digital-skills training reached civil servants across government in {y}; the share trained is not published.",
+         "The share of the civil service trained in digital skills was published in {y}."],
+        ["No source held since October 2023 says digital-skills training reaches civil servants across government.",
+         "No source held since October 2023 gives the share of the civil service trained in digital skills."],
+        "digital-skills training for civil servants"),
+    "digitalskills": (
+        ["A {y} source says no programme teaches the public digital skills.",
+         "A national digital-skills programme was under way in {y}; how many it trained is not on record.",
+         "A national digital-skills programme had trained a stated number of people by {y}; a measured share with skills is not on record.",
+         "The share of people with basic digital skills was measured in {y}, below half.",
+         "Half or more of adults had basic digital skills, measured in {y}."],
+        ["No source held since October 2023 gives a measured share of people with basic digital skills.",
+         "No source held since October 2023 gives a measured share of half or more of adults with basic digital skills."],
+        "a national digital-skills programme"),
+    "policyresearch": (
+        ["A {y} source says no local institution researches digital policy.",
+         "Research on digital policy had begun in {y}; published research by a local institution is not on record.",
+         "A local institution published research on digital policy in {y}; a part in a policy process is not on record.",
+         "Local research fed a digital policy process in {y}; a standing role is not on record.",
+         "A local research institution held a standing role in digital policy in {y}."],
+        ["No source held since October 2023 says local research fed a digital policy, law or strategy.",
+         "No source held since October 2023 says a local research institution holds a standing advisory role in digital policy."],
+        "research on digital policy"),
 }
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"

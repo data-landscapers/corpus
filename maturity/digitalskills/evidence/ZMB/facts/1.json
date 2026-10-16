@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-smart-zambia-itu-mpika-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "SMART Zambia Institute, with the ITU and the Ministry of Youth, Sport and Arts, runs the Digital Transformation Centres Initiative to equip young people and women with digital skills, and has handed ICT equipment to the Mpika Youth Resource Centre with more handovers planned.",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "Digital Transformation Centres Initiative",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Centres Initiative",
+   "country_label": "Zambia",
+   "class": "publicskills",
+   "platform": "Youth Resource Centres",
+   "owner": "SMART Zambia Institute with ITU and Ministry of Youth, Sport and Arts",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,graduates,stem,official:15.3596,"Graduates in science, technology, engineering and mathematics were 15.4 per cent of tertiary graduates in Lesotho in 2018, by UNESCO's series.",2018,year,UNESCO's tertiary graduates series,stemgraduates,ref:uis-stem-graduates@2026-02-09,https://databrowser.uis.unesco.org/

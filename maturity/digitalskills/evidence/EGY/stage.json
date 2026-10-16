@@ -1,0 +1,17 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "publicskills",
+   "stage": "unplaced",
+   "training": "",
+   "measured": "",
+   "half": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held since October 2023 says whether a national digital-skills programme is under way or in service.",
+   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
+  }
+ ]
+}

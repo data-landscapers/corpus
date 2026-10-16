@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-29-mictps-projects-government-enterprise-architecture",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of ICT and Postal Services page says the government has made significant strides in training its officers in modern technologies for the records digitisation effort, which is not yet complete.",
+   "as_of": "2026-08-29",
+   "date_precision": "day",
+   "system": "Digitization of Government Records",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-bwa-itu-statsbots-ict-data-collection",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "Statistics Botswana's 2024 Household Access and Individual Use of ICTs Survey found 59.2% of individuals reported having e-skills, basic skills more prevalent than advanced.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "2024 Botswana Household Access and Individual Use of ICTs Survey",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2024 Botswana Household Access and Individual Use of ICTs Survey",
+   "country_label": "Botswana",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Statistics Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": "Population is individuals aged 5+ and skills are not stated as basic, so no half-or-more fact."
+}

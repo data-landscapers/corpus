@@ -1,0 +1,45 @@
+{
+ "slug": "2026-10-08-egy-sis-communications-labor-mou-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "On 8 October 2026 Egypt's communications and labour ministries signed an MoU for programmes building the digital capacities of Labour Ministry employees at headquarters, directorates, labour offices and training centres.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "MCIT-Ministry of Labor MoU digital capacity programmes",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The MCIT and Labor ministries' MoU of 8 October 2026 provides digital-skills programmes for citizens, particularly graduates, job seekers and vulnerable groups, with internationally accredited certificates.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "MCIT-Ministry of Labor MoU digital capacity programmes",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

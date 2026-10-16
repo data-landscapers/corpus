@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "3",
+   "jobs": "official:0.7456",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-004",
+   "gaps": "The latest figure, 0.75 per cent of employment for 2024, is below 1.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

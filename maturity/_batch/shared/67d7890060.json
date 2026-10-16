@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-10-mdg-newsmada-metfp-gip-pix-competences-numeriques",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Certification framework talks for technical and vocational schools; not training for the public."
+    }
+   }
+  }
+ }
+}

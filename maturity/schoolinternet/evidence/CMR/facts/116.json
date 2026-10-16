@@ -1,0 +1,36 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:22.5614",
+   "fact": "22.6 per cent of secondary schools in Cameroon had internet for teaching in 2022, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:24.0921",
+   "fact": "24.1 per cent of secondary schools in Cameroon had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Cameroon",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

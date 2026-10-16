@@ -1,0 +1,17 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "research",
+   "stage": "no evidence",
+   "research": "",
+   "policy": "",
+   "standing": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether local institutions research digital policy.",
+   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
+  }
+ ]
+}

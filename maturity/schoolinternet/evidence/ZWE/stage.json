@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "3",
+   "internet": "official:49.1808",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-002",
+   "gaps": "The latest figure, 49.2 per cent of secondary schools for 2024, is below 50.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

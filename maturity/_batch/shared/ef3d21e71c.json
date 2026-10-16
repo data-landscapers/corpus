@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-01-tgo-togofirst-oif-d-clic-aneho-cfaf-300m",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital-skills training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "A second cohort of 50 young people began D-CLIC digital-skills training at Aneho in August 2026, backed by nearly CFAF 300 million from OIF since 2025.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "D-CLIC",
+       "class": "publicskills"
+      },
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "In April 2025, 244 young Togolese received certificates after five months of D-CLIC training in Lome, Aneho, Kara and Dapaong, per Togo First.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "D-CLIC",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

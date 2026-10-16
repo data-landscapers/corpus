@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-4a1-secondary-internet@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:1.2895",
+   "fact": "1.29 per cent of secondary schools in Burkina Faso had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:1.7953",
+   "fact": "1.8 per cent of secondary schools in Burkina Faso had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  },
+  {
+   "sub_indicator": "schools",
+   "aspect": "internet",
+   "value": "official:2.4612",
+   "fact": "2.46 per cent of secondary schools in Burkina Faso had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's SDG 4.a.1 series",
+   "class": "schoolinternet"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's SDG 4.a.1 series",
+   "country_label": "Burkina Faso",
+   "class": "schoolinternet",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

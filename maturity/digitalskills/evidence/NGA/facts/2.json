@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-14-thisday-fg-n10-5bn-digital-training-academy",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Federal Government launched the Digital Training Academy on 14 September 2026, committing over N10.5 billion to train more than 32,000 young Nigerians, per Education Minister Tunji Alausa.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Digital Training Academy",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Training Academy",
+   "country_label": "Nigeria",
+   "class": "publicskills",
+   "platform": "Coursera, Pluralsight",
+   "owner": "Federal Ministry of Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,1 +1,81 @@
-{"slug":"2024-04-17-sierra-leone-mocti-directorate-of-innovation","studies":{"startups":{"countries":{"SLE":{"facts":[],"systems":[],"note":"The page lists startup support only as directorate functions and a prize challenge; no adopted act, strategy, label or fund is stated."}}},"techhubs":{"countries":{"SLE":{"facts":[{"sub_indicator":"hub","aspect":"hubs","value":"underway","fact":"MoCTI's Directorate of Innovation lists a DPG Accelerator Lab with UNICEF, helping startups develop open-source digital public goods, as launching November 2025.","as_of":"2025-11","date_precision":"month","system":"DPG Accelerator Lab","class":"hub"}],"systems":[{"system":"DPG Accelerator Lab","country_label":"Sierra Leone","class":"hub","platform":"","owner":"MoCTI with UNICEF","tiers":""}],"note":""}}}}}
+{
+ "slug": "2024-04-17-sierra-leone-mocti-directorate-of-innovation",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The page lists startup support only as directorate functions and a prize challenge; no adopted act, strategy, label or fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "MoCTI's Directorate of Innovation lists a DPG Accelerator Lab with UNICEF, helping startups develop open-source digital public goods, as launching November 2025.",
+       "as_of": "2025-11",
+       "date_precision": "month",
+       "system": "DPG Accelerator Lab",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DPG Accelerator Lab",
+       "country_label": "Sierra Leone",
+       "class": "hub",
+       "platform": "",
+       "owner": "MoCTI with UNICEF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The page describes digital skills training for the public and youth only; no training for civil servants is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Communication, Technology and Innovation lists as an active 2025 programme World Bank-supported digital skills training for 1,500 Sierra Leoneans across 16 Digital Learning Hubs.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Digital Learning Hubs",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Learning Hubs",
+       "country_label": "Sierra Leone",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MoCTI Directorate of Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

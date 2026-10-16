@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-central-equatoria-digital-skills-programme-8000",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Central Equatoria State's Ministry of Information and Communication, with Scenious Hub, announced the DISK programme to give digital literacy and ICT training to 5,000 people plus 3,000 civil servants at three centres in Juba and Yei over five years, costed at USD 2,806,100.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Digital Innovation for Skills and Knowledge (DISK) programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Innovation for Skills and Knowledge (DISK) programme",
+   "country_label": "South Sudan (Central Equatoria State)",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Central Equatoria State Ministry of Information and Communication",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

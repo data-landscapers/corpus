@@ -1,0 +1,16 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "1",
+   "jobs": "official:0.1907",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BFA-002",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

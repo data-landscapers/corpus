@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-pada-tdr-especialista-em-competencias-digitais",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The PADA terms of reference say Subcomponent 2.3 supports designing, piloting and expanding hybrid digital-skills programmes and courses at ENAPP, the national school of public administration, with a methodology to assess digital skills in the public sector.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "ENAPP digital skills courses (PADA Subcomponent 2.3)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ENAPP",
+   "country_label": "Escola Nacional de Administração e Políticas Públicas",
+   "class": "csskills",
+   "platform": "online transition planned",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

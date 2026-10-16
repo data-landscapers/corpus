@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-14-mdg-techafricanews-metfp-orange-digital-skills-agreement",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Agreement concerns vocational training for youth, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Madagascar's Ministry of Technical Education and Vocational Training signed a partnership with Orange Madagascar on 8 October 2026 to develop digital-skills training frameworks and learning pathways for young people and women.",
+       "as_of": "2026-10-08",
+       "date_precision": "day",
+       "system": "METFP-Orange Madagascar partnership",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

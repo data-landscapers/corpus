@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-23-misa-ai-strategy-implications",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Zimbabwe National AI Strategy 2026-2030 introduces the Nzwisiso.ai literacy campaign to improve public understanding of AI systems, per MISA Zimbabwe.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Nzwisiso.ai",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nzwisiso.ai",
+       "country_label": "Zimbabwe",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Government of Zimbabwe",
+       "tiers": "national"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

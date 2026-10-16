@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-12-zambia-itu-kalomo-youth-centre-digital-inclusion",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Youth centre for the public; no civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "SMART Zambia Institute with the ITU handed ICT equipment to the Mukwela Youth Resource Centre in Kalomo to become a Digital Transformation Centre for digital-skills training of young people.",
+       "as_of": "2026-08-10",
+       "date_precision": "day",
+       "system": "Digital Transformation Centre (Mukwela Youth Resource Centre)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Transformation Centre, Mukwela",
+       "country_label": "Zambia",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "SMART Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

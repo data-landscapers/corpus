@@ -1,0 +1,16 @@
+{
+ "iso3": "RWA",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "1",
+   "jobs": "official:0.2726",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "RWA-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

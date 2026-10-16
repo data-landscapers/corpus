@@ -1,0 +1,13 @@
+# Cote d'Ivoire
+
+## Digital skills of the public
+
+**Training for the public.** [The Ministry of Digital Transition presented digital-training infrastructure investments in the PND 2026-2030, with an estimated budget of 95 billion FCFA, aiming to train tens of thousands of digital talents across the territory, under a strategy pillar on developing digital skills](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>). [Cote d'Ivoire's digital minister and ITU discussed efforts to expand digital skills programmes for workforce development and digital inclusion](<https://techreviewafrica.com/news/6194/cote-divoire-and-itu-strengthen-cooperation-on-digital-development-priorities>).
+
+**Share measured.** No source held since October 2023 gives a measured share of people with basic digital skills. The nearest held fact: [the one given above](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
+
+**Half or more.** No source held since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
+
+***Noted, not assessed***. [PND 2026-2030 digital strategy (seven pillars, 40 structuring projects)](<https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/>).
+
+***Not held***. No source held since October 2023 says: is one in service and counted.

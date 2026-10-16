@@ -1,0 +1,16 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "5",
+   "internet": "official:81.25",
+   "curriculum": "compulsory",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-005;NAM-001",
+   "gaps": "All four questions are answered.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

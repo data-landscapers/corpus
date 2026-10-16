@@ -1,0 +1,16 @@
+{
+ "iso3": "BWA",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "3",
+   "jobs": "official:0.7011",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BWA-004",
+   "gaps": "The latest figure, 0.7 per cent of employment for 2024, is below 1.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

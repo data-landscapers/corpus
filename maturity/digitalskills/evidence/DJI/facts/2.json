@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-25-ecofin-e-skills-campus-42-launch",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Djibouti's government launched the US$8m EU-financed 'E-SKILLS' project to develop the digital abilities of at least 3,000 youths and women by 2029, per Djibouti News Agency via Ecofin.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "E-SKILLS",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-SKILLS",
+   "country_label": "DJI",
+   "class": "publicskills",
+   "platform": "Campus 42 Djibouti; Digital Houses",
+   "owner": "Government of Djibouti, EU-financed",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

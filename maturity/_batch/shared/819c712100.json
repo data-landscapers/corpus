@@ -1,1 +1,99 @@
-{"slug": "2026-08-08-govt-launches-macetjeni-ihub-to-drive-digital-innovation", "studies": {"startups": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document states no startup law, strategy or fund."}}}, "techhubs": {"countries": {"SWZ": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Eswatini Positive News reports the Macetjeni iHub in the Lubombo Region was officially launched on 6 August 2026 as the second iHub after Piggs Peak, run by a competitively selected young entrepreneur, with a pilot that trained over 100 people and incubation support described as something it will offer.", "as_of": "2026-08-06", "date_precision": "day", "system": "Macetjeni Innovation Hub (iHub)", "class": "hub"}], "systems": [{"system": "Macetjeni Innovation Hub (iHub)", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "SEDCO with ESCCOM and UNDP", "tiers": ""}, {"system": "Piggs Peak iHub", "country_label": "Eswatini", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-08-08-govt-launches-macetjeni-ihub-to-drive-digital-innovation",
+ "studies": {
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no startup law, strategy or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Eswatini Positive News reports the Macetjeni iHub in the Lubombo Region was officially launched on 6 August 2026 as the second iHub after Piggs Peak, run by a competitively selected young entrepreneur, with a pilot that trained over 100 people and incubation support described as something it will offer.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni Innovation Hub (iHub)",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni Innovation Hub (iHub)",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "SEDCO with ESCCOM and UNDP",
+       "tiers": ""
+      },
+      {
+       "system": "Piggs Peak iHub",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital-skills training for civil servants is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Minister of Commerce, Industry and Trade launched the Macetjeni iHub on 6 August 2026, set up by SEDCO with ESCCOM and UNDP, to give beneficiaries training in computer literacy, Microsoft Office, AI and digital marketing.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni iHub",
+       "class": "publicskills"
+      },
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "More than 100 participants completed computer literacy, Microsoft Office and AI training in the Macetjeni iHub pilot phase before the official launch.",
+       "as_of": "2026-08-06",
+       "date_precision": "day",
+       "system": "Macetjeni iHub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Macetjeni iHub",
+       "country_label": "Eswatini",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "SEDCO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

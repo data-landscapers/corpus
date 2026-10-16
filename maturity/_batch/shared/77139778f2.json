@@ -56,6 +56,35 @@
      "note": "The platform is an acquisition; no local build or hosting stated."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The article lists Despacho Presidencial n.º 324/26 among recent authorisations for training local agents in digital skills, reported 2026-09-08.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "Despacho n.º 324/26",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme or measured share stated."
+    }
+   }
   }
  }
 }

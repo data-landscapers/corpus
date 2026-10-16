@@ -1,0 +1,17 @@
+{
+ "iso3": "UGA",
+ "cells": [
+  {
+   "sub_indicator": "research",
+   "stage": "4",
+   "research": "publishing",
+   "policy": "contributed",
+   "standing": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "UGA-002",
+   "gaps": "No source held since October 2023 says a local research institution holds a standing advisory role in digital policy.",
+   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-08-digital-skills-gdp-boost-techafricanews",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Secretary of State for the Digital Economy said a national strategy of skills and digital readiness, part of the World Bank-funded Digital Cabo Verde project, is being prepared after a workshop in Praia.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "National strategy of skills and digital readiness",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

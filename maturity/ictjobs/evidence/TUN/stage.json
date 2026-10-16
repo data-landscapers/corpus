@@ -1,0 +1,16 @@
+{
+ "iso3": "TUN",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "4",
+   "jobs": "official:1.2587",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TUN-003",
+   "gaps": "No source held since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

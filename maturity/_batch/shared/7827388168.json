@@ -126,6 +126,24 @@
      "note": "Only a planned exploration of SIM verification via the national ID; no service, link, count, operator, register or system status stated."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploring possible joint school-learner skills programmes; no launched programme or measure."
+    }
+   }
   }
  }
 }

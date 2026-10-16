@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "3",
+   "internet": "official:44.4123",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-002",
+   "gaps": "The latest figure, 44.4 per cent of secondary schools for 2024, is below 50.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

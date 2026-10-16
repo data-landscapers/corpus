@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:38.2942",
+   "fact": "Graduates in science, technology, engineering and mathematics were 38.3 per cent of tertiary graduates in Tunisia in 2021, by UNESCO's series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:37.8793",
+   "fact": "Graduates in science, technology, engineering and mathematics were 37.9 per cent of tertiary graduates in Tunisia in 2022, by UNESCO's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:37.9281",
+   "fact": "Graduates in science, technology, engineering and mathematics were 37.9 per cent of tertiary graduates in Tunisia in 2023, by UNESCO's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Tunisia",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

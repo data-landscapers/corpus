@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-30-aps-force-n-105000-enseignants-formes-ia",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The education minister announced on 30 September 2025 the launch of FORCE N, run by Universite numerique Cheikh Hamidou Kane with the Mastercard Foundation, to train 105,000 teachers in artificial intelligence.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "FORCE N",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FORCE N",
+   "country_label": "Senegal",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Universite numerique Cheikh Hamidou Kane",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-12-egy-techreviewafrica-mcit-labour-mou-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "MCIT and the Ministry of Labour signed an MoU for programmes to build Labour Ministry employees' digital capacities, covering its headquarters, directorates and labour offices.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "MCIT-Labour MoU capacity-building programmes",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MCIT-Labour MoU capacity-building programmes",
+   "country_label": "Egypt",
+   "class": "csskills",
+   "platform": "",
+   "owner": "MCIT and Ministry of Labour",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

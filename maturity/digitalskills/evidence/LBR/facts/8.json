@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-02-liberia-orange-digital-center-2025-report",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Orange Digital Center Liberia says it reached 3,035 beneficiaries through 44 training sessions in 2025, with a footprint in all 15 counties.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Orange Digital Center Liberia",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Digital Center Liberia",
+   "country_label": "Orange Digital Center Liberia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Orange Liberia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

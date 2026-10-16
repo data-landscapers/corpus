@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-27-ai-vocational-training-programme--techreviewafrica",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Algeria's Ministry of Vocational Training and Education launched a national 12-week artificial intelligence training programme to develop advanced digital skills.",
+   "as_of": "2026-04-27",
+   "date_precision": "day",
+   "system": "National AI training programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+NER-001,NER,schools,internet,official:8.758,"8.76 per cent of secondary schools in Niger had internet for teaching in 2021, by UNESCO's SDG 4.a.1 series.",2021,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+NER-002,NER,schools,internet,official:9.6233,"9.62 per cent of secondary schools in Niger had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",2023,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+NER-003,NER,schools,internet,official:9.6794,"9.68 per cent of secondary schools in Niger had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",2024,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

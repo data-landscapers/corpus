@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-30-ec-djibouti-partnership-page",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The European Commission's Djibouti partnership page lists support to build digital skills, including citizens' digital literacy, professional ICT training and recognised certifications.",
+   "as_of": "2025-09-30",
+   "date_precision": "day",
+   "system": "EU digital skills support",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

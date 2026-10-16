@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-08-itu-vamoz-digital-project-mozambique",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The Women in GovTech Challenge is not stated to train civil servants in digital skills."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The ITU-EU VaMoz Digital project, sponsored by Mozambique's Ministry of Communications and Digital Transformation, ran a Matola pilot training programme that trained 50 youth and 5 teachers, after a National Digital Skills Assessment.",
+       "as_of": "2026-08-08",
+       "date_precision": "day",
+       "system": "VaMoz Digital!",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VaMoz Digital!",
+       "country_label": "Mozambique",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MCTD with ITU and EU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

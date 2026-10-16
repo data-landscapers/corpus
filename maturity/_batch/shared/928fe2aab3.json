@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-28-togofirst-universite-de-lome-campus-42-digital-training-network",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for young people, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Togo's digital transformation minister launched the Campus 42 coding and AI peer-learning programme, financed by Axian Group through Yas Togo with French support, to train hundreds of young Togolese a year.",
+       "as_of": "2026-04-25",
+       "date_precision": "day",
+       "system": "Campus 42",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:19.7384",
+   "fact": "Graduates in science, technology, engineering and mathematics were 19.7 per cent of tertiary graduates in Botswana in 2021, by UNESCO's series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:19.0913",
+   "fact": "Graduates in science, technology, engineering and mathematics were 19.1 per cent of tertiary graduates in Botswana in 2022, by UNESCO's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:18.1385",
+   "fact": "Graduates in science, technology, engineering and mathematics were 18.1 per cent of tertiary graduates in Botswana in 2023, by UNESCO's series.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:10.9365",
+   "fact": "Graduates in science, technology, engineering and mathematics were 10.9 per cent of tertiary graduates in Botswana in 2024, by UNESCO's series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Botswana",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

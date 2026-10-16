@@ -1,0 +1,16 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "1",
+   "internet": "official:12.1559",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-004",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

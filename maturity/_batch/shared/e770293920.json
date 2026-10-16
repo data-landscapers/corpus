@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-20-nilepost-judiciary-digital-crime-ict-training",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Judges' training on cybercrime and digital evidence is legal training, not civil-service digital skills."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for judicial officers only."
+    }
+   }
+  }
+ }
+}

@@ -36,6 +36,24 @@
      "note": "Public debate event only; nothing answers the question."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "A forum on AI; no civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "A one-off debate event; no programme or measured share stated."
+    }
+   }
   }
  }
 }

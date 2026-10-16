@@ -1,0 +1,16 @@
+{
+ "iso3": "MLI",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "1",
+   "jobs": "official:0.1867",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MLI-003",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

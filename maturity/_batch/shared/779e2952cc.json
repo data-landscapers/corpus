@@ -1,0 +1,32 @@
+{
+ "slug": "2026-08-31-undp-malawi-digital-agency-visual-impairments",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Course is for people with visual impairments, not a civil-service programme."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ICBVI",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "UNDP Malawi",
+       "tiers": ""
+      }
+     ],
+     "note": "UNDP-run course for visually impaired people; no government national programme or count stated."
+    }
+   }
+  }
+ }
+}

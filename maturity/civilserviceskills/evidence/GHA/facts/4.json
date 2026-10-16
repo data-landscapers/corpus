@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-20-tan-ghana-national-ict-week",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Government has begun an AI capacity-building programme for public-sector officials with UNESCO, UNDP and Japan, says Deputy Minister Sukparu.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "AI capacity-building programme for public-sector officials",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI capacity-building programme for public-sector officials",
+   "country_label": "Ghana",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Government of Ghana with UNESCO, UNDP, Japan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

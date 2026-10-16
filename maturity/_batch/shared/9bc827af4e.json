@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-10-sen-seneweb-plan-formation-numerique-agents-etat",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Senegal's Ministry of the Civil Service held a national workshop on 10 September 2026 to validate the digital training plan for state employees, developed with the Ministry of Telecommunications and Digital and UNCHK through FORCE-N, before national implementation.",
+       "as_of": "2026-09-10",
+       "date_precision": "day",
+       "system": "Plan de formation au numérique des agents de l'Etat",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Plan de formation au numérique des agents de l'Etat",
+       "country_label": "Senegal",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of the Civil Service, Labour and Public Service Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers training of state employees only."
+    }
+   }
+  }
+ }
+}

@@ -76,6 +76,34 @@
      "note": "Regional skills challenge; states nothing for this country by name on the question."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil-servant training."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on civil-servant training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only as a 2025 participant country; no stated programme or training for it."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Named only as a 2025 participant country; no stated programme or training for it."
+    }
+   }
   }
  }
 }

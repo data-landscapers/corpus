@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-30-inclusion-numerique-competences-professionnelles-tchad",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNESCO's hub records a 2025-2029 digital inclusion project led by ADPV with the education ministry, whose pilot trained over 150 young people.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Inclusion numerique et competences professionnelles",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": "Share below 30 percent covers target areas only, not a national survey."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-pada-tdr-especialista-em-competencias-digitais",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The PADA terms of reference say Subcomponent 3.2 supports the Government in developing and implementing a national strategy for basic, intermediate and advanced digital skills for young and underemployed people, starting with a needs assessment.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "PADA Subcomponent 3.2 national digital skills strategy",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

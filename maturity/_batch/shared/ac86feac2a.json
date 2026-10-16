@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-24-rtd-lancement-projet-e-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Djibouti's Ministry of Digital Economy and the EU launched the E-SKILLS project, implemented by Expertise France, to train over 3,000 young people and women in digital skills by 2029.",
+       "as_of": "2025-11-24",
+       "date_precision": "day",
+       "system": "E-SKILLS",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "E-SKILLS",
+       "country_label": "Djibouti",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Digital Economy and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

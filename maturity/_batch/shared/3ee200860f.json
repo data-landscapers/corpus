@@ -1,14 +1,155 @@
-{"slug":"2026-09-17-mwi-digital-gap-nzika-id-rollout","studies":{
-"authentication":{"countries":{"MWI":{"facts":[
-{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The Nzika Digital ID Wallet, which lets citizens securely present verified identity credentials digitally, was officially launched in Lilongwe, the article says.","as_of":"2026-09-16","date_precision":"day","system":"Nzika Digital ID Wallet","class":"authentication"},
-{"sub_indicator":"authentication","aspect":"remote","value":"wallet","fact":"The Homeland Security Minister said citizens can adopt a digital credential through the Nzika Digital ID Wallet as an option alongside the physical card.","as_of":"2026-09-16","date_precision":"day","system":"Nzika Digital ID Wallet","class":"authentication"}],
-"systems":[{"system":"Nzika Digital ID Wallet","country_label":"Malawi","class":"authentication","platform":"","owner":"","tiers":""},{"system":"National Identity Card","country_label":"Malawi","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}},
-"birthidlink":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not mention civil register and ID exchange."}}},
-"idcoverage":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document gives no count or share of people enrolled."}}},
-"idfrombirth":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not mention a number at birth."}}},
-"idmaintenance":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not say who operates or maintains the ID system."}}},
-"idregisters":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The document does not mention registers keyed on the ID number."}}},
-"idrobustness":{"countries":{"MWI":{"facts":[
-{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The article refers to the existing physical National Identity Card, which the Nzika wallet complements, and says National Identity Cards will no longer have expiry dates.","as_of":"2026-09-16","date_precision":"day","system":"National Identity Card","class":"idsystem"}],
-"systems":[{"system":"National Identity Card","country_label":"Malawi","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}}
-}}
+{
+ "slug": "2026-09-17-mwi-digital-gap-nzika-id-rollout",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Nzika Digital ID Wallet, which lets citizens securely present verified identity credentials digitally, was officially launched in Lilongwe, the article says.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "Nzika Digital ID Wallet",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "The Homeland Security Minister said citizens can adopt a digital credential through the Nzika Digital ID Wallet as an option alongside the physical card.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "Nzika Digital ID Wallet",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nzika Digital ID Wallet",
+       "country_label": "Malawi",
+       "class": "authentication",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention civil register and ID exchange."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no count or share of people enrolled."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not say who operates or maintains the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document does not mention registers keyed on the ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The article refers to the existing physical National Identity Card, which the Nzika wallet complements, and says National Identity Cards will no longer have expiry dates.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "National Identity Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Card",
+       "country_label": "Malawi",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant digital-skills training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "measured",
+       "value": "measured",
+       "fact": "Malawi's ICT minister Shadric Namalomba said only 12.5 percent of the population has basic internet usage skills.",
+       "as_of": "2026-09-16",
+       "date_precision": "day",
+       "system": "",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

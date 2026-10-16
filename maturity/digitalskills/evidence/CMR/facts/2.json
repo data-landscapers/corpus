@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-31-unesco-mil-digital-skills-project-status",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNESCO's project 3210652071 (USD 166,800, 66% progress, 2024-2025) on digital skills and media and information literacy for populations is on going, with an allocation to this country (Cameroun 35%).",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "UNESCO MIL digital skills project 3210652071",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO MIL digital skills project 3210652071",
+   "country_label": "CMR",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "UNESCO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

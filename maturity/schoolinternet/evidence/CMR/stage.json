@@ -1,0 +1,16 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "2",
+   "internet": "official:24.0921",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-002",
+   "gaps": "The latest figure, 24.1 per cent of secondary schools for 2023, is below 33.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

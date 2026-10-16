@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-17-syc-world-bank-country-growth-jobs-report-digitalize",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a recommendation to strengthen digital skills; no programme or measured share stated."
+    }
+   }
+  }
+ }
+}

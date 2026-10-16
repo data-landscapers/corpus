@@ -1,0 +1,53 @@
+{
+ "slug": "2026-09-10-lesahel-delegation-algerienne-escep-partenariat-numerique",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on digital-skills training for civil servants."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only Algerie Telecom's role is stated; no programme in Algeria described."
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "An Algerie Telecom delegation visited ESCEP in Niamey on 9 September 2026 to study rapid deployment of a digital Skills Center, under a July 2026 partnership accord, to train people in ICT, cybersecurity, AI and robotics.",
+       "as_of": "2026-09-09",
+       "date_precision": "day",
+       "system": "Skills Center",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Skills Center (planned)",
+       "country_label": "Niger",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "ESCEP with Algerie Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

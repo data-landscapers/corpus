@@ -1,0 +1,33 @@
+[
+ {
+  "kind": "country",
+  "iso": "DJI",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "GAB",
+  "ns": [
+   1
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "NAM",
+  "ns": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "kind": "country",
+  "iso": "SWZ",
+  "ns": [
+   1,
+   2
+  ]
+ }
+]

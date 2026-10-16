@@ -1,0 +1,46 @@
+{
+ "slug": "ref:uis-stem-graduates@2026-02-09",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:20.6757",
+   "fact": "Graduates in science, technology, engineering and mathematics were 20.7 per cent of tertiary graduates in Burkina Faso in 2021, by UNESCO's series.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:25.3375",
+   "fact": "Graduates in science, technology, engineering and mathematics were 25.3 per cent of tertiary graduates in Burkina Faso in 2022, by UNESCO's series.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  },
+  {
+   "sub_indicator": "graduates",
+   "aspect": "stem",
+   "value": "official:61.4018",
+   "fact": "Graduates in science, technology, engineering and mathematics were 61.4 per cent of tertiary graduates in Burkina Faso in 2024, by UNESCO's series.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "UNESCO's tertiary graduates series",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO's tertiary graduates series",
+   "country_label": "Burkina Faso",
+   "class": "stemgraduates",
+   "platform": "",
+   "owner": "UNESCO Institute for Statistics",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from reference/measures.csv; no document opened"
+}

@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CPV-001,CPV,graduates,stem,official:16.1268,"Graduates in science, technology, engineering and mathematics were 16.1 per cent of tertiary graduates in Cape Verde in 2018, by UNESCO's series.",2018,year,UNESCO's tertiary graduates series,stemgraduates,ref:uis-stem-graduates@2026-02-09,https://databrowser.uis.unesco.org/

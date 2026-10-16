@@ -1,0 +1,13 @@
+# Sierra Leone
+
+## Civil service digital skills
+
+**Training for civil servants.** [The Ministry of Communication, Technology and Innovation, with the Ministry of Public Administration and Political Affairs, the HRMO and the Public Service Academy, is running Cohort 1 of a digital skills training programme for civil servants, with a new cohort to follow](<https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants>). [The Ministry of Communication, Technology and Innovation with MoPAPA, CSTC and HRMO launched a Digital Skills Training Programme to train 1,000 civil servants in its first year, first cohort starting 17 July](<https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/>). A later answer places the country above that step.
+
+**Across government.** [TechReviewAfrica reports the training targets staff across ministries, departments and agencies](<https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants>).
+
+**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants>).
+
+***Noted, not assessed***. [Enterprise Architecture and Digital Service Standards training](<https://mocti.gov.sl/mocti-trains-over-100-ict-professionals-to-strengthen-digital-skills-to-design-develop-and-maintain-robust-enterprise-architecture/>).
+
+***Not held***. No source held since October 2023 gives the share of the civil service trained in digital skills.

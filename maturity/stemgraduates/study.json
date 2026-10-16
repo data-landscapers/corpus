@@ -1,0 +1,74 @@
+{
+ "id": "stemgraduates",
+ "study_file": "maturity-study-stemgraduates.md",
+ "pass": "first",
+ "window_from": "2023-10-01",
+ "story_cap": 10,
+ "subjects": [
+  "capacity.training"
+ ],
+ "stage_topic": "capacity.training",
+ "redraws": [
+  "capacity.training--dt-related-university-facilities-and-qualifications"
+ ],
+ "carry": [
+  "capacity.training--dt-related-university-facilities-and-qualifications"
+ ],
+ "carry_studies": [],
+ "token_ceiling": 3000000,
+ "terms": [
+  "research and education network",
+  "NREN",
+  "réseau national de recherche",
+  "réseau de recherche et d'éducation",
+  "FasoREN",
+  "WACREN",
+  "AfricaConnect",
+  "eduroam",
+  "STEM"
+ ],
+ "sub_indicators": [
+  {
+   "key": "graduates",
+   "label": "STEM graduates",
+   "subject": "capacity.training",
+   "text": "DT-related university facilities and qualifications: STEM graduates",
+   "indicator_id": "capacity.training--dt-related-university-facilities-and-qualifications-stem-graduates",
+   "class": "stemgraduates",
+   "norm_short": "The AU Digital Education Strategy asks for a national research and education network in every country by 2027; Agenda 2063's second ten-year plan asks for 40 per cent of graduates in STEM by 2033.",
+   "criteria": [
+    "The latest figure, for 2023 or later, puts STEM graduates below 13 per cent of tertiary graduates.",
+    "STEM graduates are 13 per cent or more of tertiary graduates, in the latest figure for 2023 or later, from UNESCO's series.",
+    "STEM graduates are 27 per cent or more of tertiary graduates.",
+    "STEM graduates are 40 per cent or more of tertiary graduates.",
+    "STEM graduates are 40 per cent or more of tertiary graduates, and a national research and education network is in service connecting the public universities."
+   ],
+   "criteria_of": "2c9fd1bba844"
+  }
+ ],
+ "classes": [
+  "stemgraduates",
+  "other"
+ ],
+ "aspects": [
+  {
+   "key": "stem",
+   "name": "STEM graduates, as a share of tertiary graduates",
+   "role": "coverage",
+   "pattern": "official:\\d{1,3}(\\.\\d+)?"
+  },
+  {
+   "key": "nren",
+   "name": "Research and education network",
+   "role": "coverage",
+   "defer": [],
+   "prefer": [
+    "service"
+   ],
+   "values": [
+    "service"
+   ]
+  }
+ ],
+ "flags": []
+}

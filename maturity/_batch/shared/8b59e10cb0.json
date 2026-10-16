@@ -1,0 +1,43 @@
+{
+ "slug": "2026-08-31-techafricanews-mtn-south-sudan-aweil-ict-hub",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Hub serves students, entrepreneurs and community; no civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MTN South Sudan launched the Aweil ICT Hub offering digital skills training and scholarships, in partnership with the Northern Bahr el Ghazal State government, per the state Information Minister and MTN's CEO.",
+       "as_of": "2026-08-31",
+       "date_precision": "day",
+       "system": "Aweil ICT Hub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Aweil ICT Hub",
+       "country_label": "South Sudan",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MTN South Sudan",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

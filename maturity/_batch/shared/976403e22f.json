@@ -1,0 +1,43 @@
+{
+ "slug": "2026-07-03-guinebissau-ang-impact-hub-competencias-digitais-50-mulheres",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Participants are women and girls, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Fifty women and girls completed a seven-day trainer course on digital skills, digital security and financial education under the Justiça pa Tudu Djintis and Empoderamento da Mulher projects, run by UNDP and the Government of Guinea-Bissau with EU and UNDP funding.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Justiça pa Tudu Djintis and Empoderamento da Mulher projects",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Justiça pa Tudu Djintis and Empoderamento da Mulher projects",
+       "country_label": "Guinea-Bissau",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "UNDP and Government of Guinea-Bissau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

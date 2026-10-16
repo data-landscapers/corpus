@@ -1,0 +1,16 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "no evidence",
+   "internet": "",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held gives secondary schools with internet for teaching.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

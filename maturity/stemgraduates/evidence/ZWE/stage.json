@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "2",
+   "stem": "official:23.7921",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-001",
+   "gaps": "The latest figure, 23.8 per cent of tertiary graduates for 2024, is below 27.",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

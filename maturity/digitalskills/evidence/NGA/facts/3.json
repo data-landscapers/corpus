@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-thisday-fg-digital-training-academy-16000-first-cohort",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Nigeria's Federal Ministry of Education admitted 16,000 people to the first cohort of the free Digital Training Academy, with national launch set for 14 September 2026 and training via Coursera and Pluralsight.",
+   "as_of": "2026-09-09",
+   "date_precision": "day",
+   "system": "Digital Training Academy",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Training Academy (DTA)",
+   "country_label": "Nigeria",
+   "class": "publicskills",
+   "platform": "Coursera, Pluralsight",
+   "owner": "Federal Ministry of Education",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

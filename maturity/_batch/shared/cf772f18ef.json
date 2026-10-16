@@ -1,0 +1,45 @@
+{
+ "slug": "2026-01-01-dial-digital-transformation-in-sierra-leone",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "DIAL says it designed and delivered training for government stakeholders in digital policy development, infrastructure planning and data management, and that training programmes for government officials were run.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "DIAL capacity-building training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "DIAL says the Sierra Leone effort involved widespread digital literacy campaigns for the public.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "digital literacy campaigns",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

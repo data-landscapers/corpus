@@ -1,0 +1,16 @@
+{
+ "iso3": "MAR",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "3",
+   "stem": "official:29.7418",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MAR-004",
+   "gaps": "The latest figure, 29.7 per cent of tertiary graduates for 2024, is below 40.",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-16-zimbabwe-internet-affordability-access-misa",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "POTRAZ's digital centres gave nearly 15,000 people ICT training in 2025, with more than 257,000 accessing services, MISA Zimbabwe reports.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "POTRAZ digital centres",
+   "class": "publicskills"
+  },
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "MISA Zimbabwe names the 1.5 Million Coders Programme and the Digital Skills Ambassadors Programme as human capital programmes building the skills pipeline.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "1.5 Million Coders Programme; Digital Skills Ambassadors Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ digital centres",
+   "country_label": "Zimbabwe",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

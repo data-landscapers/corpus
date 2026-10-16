@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-08-moz-bcl-estrategia-internet-para-todos",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital-skills training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategy under validation only sets 2030 digital-skills targets; no programme or measured share stated."
+    }
+   }
+  }
+ }
+}

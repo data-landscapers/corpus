@@ -1,0 +1,16 @@
+{
+ "iso3": "BDI",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "1",
+   "stem": "official:9.7526",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BDI-001",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-08-sierra-leone-uncdf-national-digital-financial-literacy-baseline-survey",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "measured",
+       "value": "measured",
+       "fact": "UNCDF's national baseline survey gives adult digital literacy at 26 of 100 points, with 25% of adults able to save or delete phone contacts and 21.5% able to send text messages.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "National digital and financial literacy baseline survey",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

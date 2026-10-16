@@ -1,0 +1,10 @@
+{"slug": "2026-08-22-sierraloaded-mrcg-womens-digital-rights", "facts": [
+{"sub_indicator": "research", "aspect": "research", "value": "begun", "fact": "The Media Reform Coordinating Group held a national stakeholders' forum in Freetown, part of its project on press freedom, women's rights and accountability governance, to examine women's online abuse and develop recommendations on laws and policies.", "as_of": "2026-08-22", "date_precision": "day", "system": "Media Reform Coordinating Group", "class": "research"},
+{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "MRCG National Coordinator Francis Sowa said the group has produced reports on women's rights online, gendered disinformation, media freedom and freedom of expression in Sierra Leone, with initiatives running 2020 to 2024.", "as_of": "2024", "date_precision": "year", "system": "Media Reform Coordinating Group", "class": "research"},
+{"sub_indicator": "research", "aspect": "research", "value": "publishing", "fact": "The Sierra Leone Association of Women in Journalism published a 2022 study, 'Threats Against Public-Facing Women in Sierra Leone', on women journalists' and rights defenders' experiences on digital platforms, per its president.", "as_of": "2022", "date_precision": "year", "system": "Sierra Leone Association of Women in Journalism", "class": "research"}
+],
+"systems": [
+{"system": "Media Reform Coordinating Group", "country_label": "Sierra Leone", "class": "research", "platform": "", "owner": "Media Reform Coordinating Group", "tiers": ""},
+{"system": "Sierra Leone Association of Women in Journalism", "country_label": "Sierra Leone", "class": "research", "platform": "", "owner": "Sierra Leone Association of Women in Journalism", "tiers": ""}
+],
+"note": ""}

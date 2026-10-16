@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-benue-40000-civil-servants-training",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Benue State announced it is committing to train 40,000 civil servants in digital tools and ICT skills, with the Nigerian Data Protection Commission providing part of the training.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Benue State civil servant digital training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Benue State civil servant digital training",
+   "country_label": "Nigeria (Benue State)",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Benue State Government",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

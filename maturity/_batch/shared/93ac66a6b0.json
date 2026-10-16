@@ -18,6 +18,24 @@
      "note": "2030 targets only; no law, fund or hub stated."
     }
    }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a 2030 target of 80% of government employees digitally skilled; no training stated as under way."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only 2030 targets (70% literacy, 10 million trained); no programme under way or measured share stated."
+    }
+   }
   }
  }
 }

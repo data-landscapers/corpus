@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-17-sierra-leone-mocti-directorate-of-innovation",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Technology and Innovation lists as an active 2025 programme World Bank-supported digital skills training for 1,500 Sierra Leoneans across 16 Digital Learning Hubs.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Digital Learning Hubs",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Learning Hubs",
+   "country_label": "Sierra Leone",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "MoCTI Directorate of Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

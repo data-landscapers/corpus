@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-13-unima-undp-launch-nzeru-hub",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Platform for students and communities; civil servants not mentioned."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The University of Malawi and UNDP launched Nzeru Hub, a free digital learning platform for students and underserved communities offering digital skills courses, per UNIMA and UNDP.",
+       "as_of": "2025-10-13",
+       "date_precision": "day",
+       "system": "Nzeru Hub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nzeru Hub",
+       "country_label": "Nzeru Hub",
+       "class": "publicskills",
+       "platform": "online learning platform",
+       "owner": "University of Malawi with UNDP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-24-govt-launches-digital-skills-hub-rural-women",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Hub is for rural women, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Minister of Women Affairs launched a digital empowerment hub to equip rural women with digital skills, with French Embassy support, per AfroGazette.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "Rural women digital empowerment hub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Rural women digital empowerment hub",
+       "country_label": "Empowerment Hub",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Women Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

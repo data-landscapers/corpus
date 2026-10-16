@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-25-worldbank-chad-digital-transformation-project-broadband",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The World Bank approved on 2024-09-25 the Chad Digital Transformation Project, which will strengthen the digital skills of the population and train about 40,000 beneficiaries directly, at least 25,000 of them women and girls.",
+   "as_of": "2024-09-25",
+   "date_precision": "day",
+   "system": "Chad Digital Transformation Project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chad Digital Transformation Project",
+   "country_label": "Chad",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

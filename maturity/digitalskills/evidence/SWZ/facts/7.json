@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-23-eswatini-launches-africa-first-womens-digital-academy",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ICT minister said Coders Eswatini, implemented through cooperation with the UAE, aims to equip 300,000 emaSwati with internationally recognised digital skills, at least half women.",
+   "as_of": "2026-07-23",
+   "date_precision": "day",
+   "system": "Coders Eswatini",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Coders Eswatini",
+   "country_label": "Eswatini",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Government of Eswatini with UAE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

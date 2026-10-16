@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-dailynews-world-bank-digital-tanzania-project-phase-two",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Under the Digital Tanzania Project 500 government staff were trained, 50 on master's degrees abroad in AI and machine learning and 450 on short local courses, per project coordinator Bakari Mwamgugu.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Digital Tanzania Project",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

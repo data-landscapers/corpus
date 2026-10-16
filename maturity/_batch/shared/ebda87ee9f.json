@@ -1,0 +1,53 @@
+{
+ "slug": "2025-10-28-sudan-unhcr-asu-iridimi-digital-learning-center",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing about Sudan's civil servants."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Centre trains refugees and youth, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns eastern Chad only."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "UNHCR and the Government of Chad established the Iridimi Digital Learning Center, which with Arizona State University offers online training to refugees and host-community youth, with certified office tools and digital literacy training to follow.",
+       "as_of": "2025-10-27",
+       "date_precision": "day",
+       "system": "Iridimi Digital Learning Center",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Iridimi Digital Learning Center",
+       "country_label": "Chad",
+       "class": "publicskills",
+       "platform": "ASU online learning platform",
+       "owner": "UNHCR and Government of Chad",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

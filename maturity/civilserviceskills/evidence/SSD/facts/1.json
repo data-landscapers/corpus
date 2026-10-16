@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-disk-programme-central-equatoria-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Central Equatoria State's Ministry of Information and Communication, with Scenius Hub, is implementing the five-year DISK Program, whose three Digital Skills Centres in government facilities will train civil servants among others, with renovation works already begun.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Digital Innovation for Skills and Knowledge (DISK) Program",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Innovation for Skills and Knowledge (DISK) Program",
+   "country_label": "South Sudan",
+   "class": "csskills",
+   "platform": "Digital Skills Centres",
+   "owner": "Central Equatoria State Ministry of Information and Communication with Scenius Hub",
+   "tiers": "state"
+  }
+ ],
+ "note": ""
+}

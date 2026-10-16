@@ -1,0 +1,17 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "csskills",
+   "stage": "no evidence",
+   "training": "",
+   "reach": "",
+   "share": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether civil servants are trained in digital skills.",
+   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
+  }
+ ]
+}

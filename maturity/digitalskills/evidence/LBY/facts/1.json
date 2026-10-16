@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-14-eu4skills-qudurat-digital-skills-assessment-platform",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "EU4Skills says the Libyan Innovation Digital Lab's Qudurat platform, to assess and develop digital competencies of individuals and institutions, is in its final stages and due to launch in 2026.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Qudurat",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Qudurat",
+   "country_label": "Libya",
+   "class": "publicskills",
+   "platform": "digital skills assessment platform",
+   "owner": "Libyan Innovation Digital Lab",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

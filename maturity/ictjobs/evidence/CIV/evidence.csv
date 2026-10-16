@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CIV-001,CIV,ictjobs,jobs,official:0.9225,"Information and communication employed 0.92 per cent of all workers in Cote d'Ivoire in 2019, by ILOSTAT's labour force series.",2019,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/

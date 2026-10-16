@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-24-eu-dji-e-skills-programme",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Djibouti's government launched the EU-funded E-SKILLS programme to train at least 3,000 youths and women in digital skills by 2029.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "E-SKILLS",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-SKILLS",
+   "country_label": "Djibouti",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Digital Economy and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

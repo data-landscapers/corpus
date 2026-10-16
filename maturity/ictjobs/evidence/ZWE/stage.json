@@ -1,0 +1,16 @@
+{
+ "iso3": "ZWE",
+ "cells": [
+  {
+   "sub_indicator": "ictjobs",
+   "stage": "1",
+   "jobs": "official:0.2485",
+   "youth": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZWE-005",
+   "gaps": "",
+   "note": "First pass: counted from the four questions by study-figure.py ictjobs."
+  }
+ ]
+}

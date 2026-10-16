@@ -1,0 +1,16 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "2",
+   "stem": "official:14.0501",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "EGY-004",
+   "gaps": "The latest figure, 14.1 per cent of tertiary graduates for 2025, is below 27.",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

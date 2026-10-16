@@ -1,0 +1,43 @@
+{
+ "slug": "2025-11-28-giz-desta-launch-digitalised-tvet",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on civil-servant digital-skills training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Digital Ethiopia Skills and TVET in Action (DESTA) project, EUR 21m, launched with the Ministry of Labor and Skills, Germany, the EU and Finland, aims to equip youth with digital and entrepreneurial skills in five regions, per GIZ.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "DESTA",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DESTA",
+       "country_label": "ETH",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Labor and Skills with GIZ, KfW, EDUFI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

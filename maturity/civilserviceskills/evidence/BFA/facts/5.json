@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The record says the World Bank-funded PACTDIGITAL project, reported 2024-03-11, includes public-administration skills among its components.",
+   "as_of": "2024-03-11",
+   "date_precision": "day",
+   "system": "PACTDIGITAL",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PACTDIGITAL",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

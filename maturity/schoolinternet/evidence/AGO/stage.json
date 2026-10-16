@@ -1,0 +1,16 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "schools",
+   "stage": "unplaced",
+   "internet": "",
+   "curriculum": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "No figure for 2023 or later is held for secondary schools with internet for teaching.",
+   "note": "First pass: counted from the four questions by study-figure.py schoolinternet."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-04-tza-wtpf-session-ict-priorities",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no civil-servant digital-skills training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Minister Angellah Kairuki said the government, through TCRA, has established 800 Digital Clubs aimed at developing ICT skills among citizens.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "Digital Clubs",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Clubs",
+       "country_label": "Tanzania",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "TCRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

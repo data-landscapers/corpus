@@ -1,0 +1,17 @@
+{
+ "iso3": "STP",
+ "cells": [
+  {
+   "sub_indicator": "publicskills",
+   "stage": "no evidence",
+   "training": "",
+   "measured": "",
+   "half": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "Nothing held says whether the public is taught digital skills.",
+   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
+  }
+ ]
+}

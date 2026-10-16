@@ -1,0 +1,55 @@
+{
+ "slug": "2025-11-07-ai-cybersecurity-skills-civil-servants",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube.",
+       "as_of": "2025-11-07",
+       "date_precision": "day",
+       "system": "Digital skills certification for civil servants",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The planned digital skills certification (Microsoft, Google, cybersecurity) is to be mandatory for all civil servants, targeting 10 000 a year.",
+       "as_of": "2025-11-07",
+       "date_precision": "day",
+       "system": "Digital skills certification for civil servants",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Government has launched a national plan to train 1.5 million coders by 2028, focusing on AI, programming and data science, per the report.",
+       "as_of": "2025-11-07",
+       "date_precision": "day",
+       "system": "National plan to train 1.5 million coders",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

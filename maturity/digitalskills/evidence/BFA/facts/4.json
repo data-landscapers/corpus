@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The World Bank appraisal document (2023-12-22) for PACTDIGITAL includes a US$22.00m component on developing digital skills and a project aim to increase access to digital skills programs.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "PACTDIGITAL",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PACTDIGITAL",
+   "country_label": "Burkina Faso",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Digital Transition, Posts and Electronic Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

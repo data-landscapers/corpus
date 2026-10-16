@@ -1,0 +1,47 @@
+{
+ "slug": "2026-07-30-new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers a policy tracker; no civil-servant training stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article covers a policy tracker; no civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article counts digital-skills policy documents only; no programme teaching the public stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article counts digital-skills policy documents only; no programme teaching the public stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tracker is by a foreign body (Carnegie) with ATU; no local institution named as researching digital policy."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Tracker is by a foreign body (Carnegie) with ATU; no local institution named as researching digital policy."
+    }
+   }
+  }
+ }
+}

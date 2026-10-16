@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+DZA-001,DZA,schools,internet,official:89.8196,"89.8 per cent of secondary schools in Algeria had internet for teaching in 2023, by UNESCO's SDG 4.a.1 series.",2023,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+DZA-002,DZA,schools,internet,official:60.8723,"60.9 per cent of secondary schools in Algeria had internet for teaching in 2024, by UNESCO's SDG 4.a.1 series.",2024,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/
+DZA-003,DZA,schools,internet,official:61.1949,"61.2 per cent of secondary schools in Algeria had internet for teaching in 2025, by UNESCO's SDG 4.a.1 series.",2025,year,UNESCO's SDG 4.a.1 series,schoolinternet,ref:uis-4a1-secondary-internet@2026-02-09,https://databrowser.uis.unesco.org/

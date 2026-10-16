@@ -1,0 +1,32 @@
+{
+ "slug": "2026-09-01-eduspots-digital-champions-mastercard-foundation-ghana",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "NGO programme for community Catalysts; no civil-servant training stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Digital Champions Programme",
+       "country_label": "Ghana",
+       "class": "other",
+       "platform": "EduSpots App",
+       "owner": "EduSpots",
+       "tiers": "Champion, Ambassador, Fellow"
+      }
+     ],
+     "note": "NGO programme for 60 community Catalysts; no government programme stated."
+    }
+   }
+  }
+ }
+}

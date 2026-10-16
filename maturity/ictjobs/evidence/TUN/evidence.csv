@@ -1,0 +1,4 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+TUN-001,TUN,ictjobs,jobs,official:1.1446,"Information and communication employed 1.14 per cent of all workers in Tunisia in 2021, by ILOSTAT's labour force series.",2021,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+TUN-002,TUN,ictjobs,jobs,official:1.3201,"Information and communication employed 1.32 per cent of all workers in Tunisia in 2022, by ILOSTAT's labour force series.",2022,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/
+TUN-003,TUN,ictjobs,jobs,official:1.2587,"Information and communication employed 1.26 per cent of all workers in Tunisia in 2023, by ILOSTAT's labour force series.",2023,year,ILOSTAT's labour force series,ictjobs,ref:ilostat-isic-j-employment@2026-09-23,https://ilostat.ilo.org/data/

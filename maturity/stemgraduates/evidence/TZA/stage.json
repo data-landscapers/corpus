@@ -1,0 +1,16 @@
+{
+ "iso3": "TZA",
+ "cells": [
+  {
+   "sub_indicator": "graduates",
+   "stage": "2",
+   "stem": "official:13.6907",
+   "nren": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TZA-004",
+   "gaps": "The latest figure, 13.7 per cent of tertiary graduates for 2024, is below 27.",
+   "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
+  }
+ ]
+}

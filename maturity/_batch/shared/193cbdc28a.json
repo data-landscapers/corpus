@@ -1,0 +1,43 @@
+{
+ "slug": "2026-09-11-senegal-public-sector-digital-skills-programme",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "ITWeb Africa reports Senegal's Ministry of Telecommunications and Digital launched a programme, led by the Ministry of Public Service with UNCHK technical support through Force-N, to upskill public servants in digital tools, data, AI and cybersecurity.",
+       "as_of": "2026-09-11",
+       "date_precision": "day",
+       "system": "Force-N Sénégal public servants digital skills programme",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Force-N Sénégal public servants digital skills programme",
+       "country_label": "Senegal",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of Public Service, Labour and Public Service Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme described trains public servants only."
+    }
+   }
+  }
+ }
+}

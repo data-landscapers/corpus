@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-07-zwe-potraz-dtprp-call-for-policy-research-proposals",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The joint POTRAZ, RCZ and SIRDC call invites policy research proposals under the DTPRP in five digital policy areas, closing 3 October 2026.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "National Digital Technologies Policy Research Programme (DTPRP)",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Technologies Policy Research Programme (DTPRP)",
+   "country_label": "Zimbabwe",
+   "class": "research",
+   "platform": "",
+   "owner": "POTRAZ with Research Council of Zimbabwe and SIRDC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
