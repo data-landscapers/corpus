@@ -397,6 +397,76 @@ def scan(run_date: date, as_json: bool, hour: int = 0) -> int:
     return 0
 
 
+def report_render():
+    """`report-render.py`, which owns which sources a place monthly prints."""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "report_render", Path(__file__).resolve().parent / "report-render.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def scan_monthly(run_date: date, as_json: bool) -> int:
+    """The work order for the place monthlies *(Bill, 2026-10-16)*.
+
+    A monthly prints the bulletin's cards over the sources of the rows that moved since the first
+    of last month, and many of those sources were never in a bulletin window: they arrived days or
+    weeks after they were published. They are summarised into the same store by the same rules,
+    so a summary is still written once whichever document asked for it first. Run before BUILD
+    stage 5, which renders the monthlies; an item left unsummarised prints its catalogue line."""
+    wanted = report_render().monthly_sources(run_date.isoformat())
+    store = load_store()
+    rows = {}
+    with CATALOGUE.open(encoding="utf-8-sig", newline="") as fh:
+        for row in csv.DictReader(fh):
+            if row["slug"] in wanted and row["slug"] not in store:
+                rows[row["slug"]] = row
+    pending = sorted(rows.values(), key=lambda r: (r["published"], r["slug"]))
+    if as_json:
+        print(json.dumps({
+            "items": len(wanted),
+            "pending": [{"slug": r["slug"], "title": r["title"], "publisher": r["publisher"],
+                         "published": r["published"], "units": wanted[r["slug"]],
+                         "raw": raw_path(r)} for r in pending],
+        }, indent=2, ensure_ascii=False))
+        return 0
+    print(f"monthlies {len(wanted)} source(s); {len(wanted) - len(pending)} already summarised "
+          f"or not catalogued, {len(pending)} to write")
+    for r in pending:
+        print(f"{r['slug']}\n    title      {r['title']}\n    units      "
+              f"{', '.join(wanted[r['slug']])}\n    read       {raw_path(r)}")
+    return 0
+
+
+def import_summaries(path: Path, run_date: date) -> int:
+    """Write a batch of summaries, `{slug: text}`, in one load and one save.
+
+    For a backfill split across several writers: each writes its own file and this merges them,
+    because `--write` loads and saves the whole store and two writers at once lose each other's
+    work."""
+    batch = json.loads(path.read_text(encoding="utf-8"))
+    published = {}
+    with CATALOGUE.open(encoding="utf-8-sig", newline="") as fh:
+        for row in csv.DictReader(fh):
+            if row["slug"] in batch:
+                published[row["slug"]] = row["published"].strip()
+    store, written, refused = load_store(), 0, []
+    for slug, text in batch.items():
+        text = " ".join((text or "").split())
+        if slug not in published or not text:
+            refused.append(slug)
+            continue
+        store[slug] = {"published": published[slug], "written": run_date.isoformat(),
+                       "summary": text}
+        written += 1
+    save_store(store)
+    print(f"imported {written} summar(ies) from {path.name}")
+    for slug in refused:
+        print(f"  refused {slug} — not in the catalogue, or empty", file=sys.stderr)
+    return 0 if not refused else 2
+
+
 # ── assembly ───────────────────────────────────────────────────────
 
 def long_date(iso: str) -> str:
@@ -874,6 +944,10 @@ def main() -> int:
     ap.add_argument("--write", metavar="SLUG", default=None, help="record one item's summary")
     ap.add_argument("--text", default=None, help="the summary (default: read stdin)")
     ap.add_argument("--assemble", action="store_true", help="write the bulletin")
+    ap.add_argument("--monthly", action="store_true",
+                    help="with --scan, the work order for the place monthlies instead")
+    ap.add_argument("--import", dest="import_file", type=Path, default=None,
+                    help="write a batch of summaries from a JSON file of {slug: text}")
     args = ap.parse_args()
 
     now = datetime.now()
@@ -883,8 +957,12 @@ def main() -> int:
     if args.write:
         text = args.text if args.text is not None else sys.stdin.read()
         return write_summary(args.write, text, run_date)
+    if args.import_file:
+        return import_summaries(args.import_file, run_date)
     if args.assemble:
         return assemble(run_date, hour=hour)
+    if args.monthly:
+        return scan_monthly(run_date, args.json)
     return scan(run_date, args.json, hour)
 
 

@@ -1336,18 +1336,42 @@ def topic_toc(tree):
     return out + ["</nav>", ""]
 
 
+def row_sources(r, start, end):
+    """The row's sources published inside the window, deduplicated, in the row's own order."""
+    seen = []
+    for s in (r.get("sources") or "").split("|"):
+        s = s.strip()
+        if s and s not in seen and in_window(slug_date(s), start, end):
+            seen.append(s)
+    return seen
+
+
+def monthly_sources(today):
+    """{slug: [units]} — every source a place monthly cuts on `today` would print.
+
+    The bulletin's `--scan --monthly` reads this to ask for the summaries the monthlies lack, so
+    the selection has one implementation. Read straight off each ledger, without `load()`'s
+    normalising write: a work order should not touch the files it reports on."""
+    start, end = month_bounds(last_closed_month(today), 1, today)
+    out = collections.defaultdict(list)
+    for unit in sorted(os.listdir(REPORTS)):
+        path = os.path.join(REPORTS, unit, "ledger.csv")
+        if not os.path.exists(path):
+            continue
+        for r in moved_in(read_csv(path), start, end):
+            for s in row_sources(r, start, end):
+                if unit not in out[s]:
+                    out[s].append(unit)
+    return dict(out)
+
+
 def monthly_body(unit, changed, ordered, subj, start, end):
     """(lines, items written out) — the contents bars, then sections of story-grouped cards."""
     bul = bulletin()
     cat, store, names = catalogue_items(), bul.load_store(), bul.place_names()
 
     def story(r):
-        seen, items = set(), []
-        for s in (r.get("sources") or "").split("|"):
-            s = s.strip()
-            if s and s not in seen and s in cat and in_window(slug_date(s), start, end):
-                seen.add(s)
-                items.append(cat[s])
+        items = [cat[s] for s in row_sources(r, start, end) if s in cat]
         return sorted(items, key=lambda i: (slug_date(i["slug"]), i["title"].lower()))
 
     tree, plan = [], []

@@ -29,3 +29,14 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 - **Detail sits in one place**: an item carrying five topics is summarised once and cross-referenced from the other four.
 - **The sections are `lookups/taxonomy.csv`'s order and labels**, Level-1 groups with Level-2 sections.
 - **A sweep that published nothing into the window has still updated the bulletin**; the run reports `checked` rather than `written`.
+
+## The monthlies' summaries — run before BUILD stage 5
+
+The country and region monthlies print the same cards over every source of a row that moved since the first of last month, so most of them arrive days or weeks after publication and never enter a bulletin window. Summarise them into the same store, by the same rules, **before stage 5 re-renders the monthlies**:
+
+```bash
+python scripts/bulletin.py --scan --monthly   # every monthly source with no summary yet
+python scripts/bulletin.py --write {slug} --text "…"
+```
+
+A large order (a backfill, or a night after a big ingest) can be split across agents: each writes a `{slug: text}` JSON file and `python scripts/bulletin.py --import {file}` merges it. Never have two writers using `--write` at the same time. An item left unsummarised prints its `catalogue_hero` line, so a short run is not a broken page.

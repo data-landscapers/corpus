@@ -86,6 +86,8 @@ python scripts/lint-scope.py                               # the whole backlog
 
 ## Stage 5 — re-render (mechanical, always run)
 
+**First**: `BULLETIN.md` → *The monthlies' summaries*.
+
 ```bash
 python scripts/rebuild.py --reports all      # rebuild every report's tables from its ledger, carry narrative across
 ```
