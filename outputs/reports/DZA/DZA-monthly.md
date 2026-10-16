@@ -3,9 +3,9 @@ title: Algeria — monthly update, Sep – Oct 2026
 compiled: 2026-10-16
 period: 2026-09-01 to 2026-10-16
 place: DZA
-ledger_rows: 36
-not_held: 6
-record: 5203fce84b72
+ledger_rows: 37
+not_held: 5
+record: 58f57b8256c0
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -632,6 +632,8 @@ Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assista
 <a href="#ai">AI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -677,6 +679,22 @@ Algeria's state electronics firm INATEL, in a consortium with PGS Africa and DAB
 **[Inatel signe un accord strategique pour le projet de nouvelle ville de Kinshasa](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/)** — Algerie Eco, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 The Algerian state electronics firm INATEL, with PGS Africa and DABYAN, signed a protocol with the coordination of the DRC's Kinshasa expansion project for an integrated digital, industrial and technological programme covering digital technologies, electronic payment systems, digital equipment and services, knowledge transfer and a centre for innovation in payment systems, cybersecurity and applied artificial intelligence. No amount is stated.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Structured video-game and e-sports industry plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Algeria reaches preliminary partnership agreement with Roblox to train video game developers](https://techreviewafrica.com/news/7752/algeria-reaches-preliminary-partnership-agreement-with-roblox-to-train-video-game-developers)** — Tech Review Africa, 16 October 2026
+
+Developer training first phase; parental controls, fast-track reports, chat disabled in Algeria pending safeguards.
 
 </div>
 

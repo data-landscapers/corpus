@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, Sep – Oct 2026
-compiled: 2026-10-16
-period: 2026-09-01 to 2026-10-16
+compiled: 2026-10-17
+period: 2026-09-01 to 2026-10-17
 place: MRT
-ledger_rows: 22
+ledger_rows: 23
 not_held: 3
-record: f6be129aacdc
+record: 58e87d04d507
 ---
 
 # Monthly update, Sep – Oct 2026
@@ -97,6 +97,20 @@ Mauritania's finance minister, Codioro Moussa N'Guénore, received an IMF techni
 **[إطلاق برنامج تكويني لتوحيد معايير البنية الرقمية للدولة](https://www.elilam.net/index.php/ar/node/16321)** — الإعلام نت (Elilam), 28 September 2026
 
 Mauritania's digital ministry opened a week-long training for its officials and 120 new staff on applying unified state digital-infrastructure standards to every new digital service, following a March consultation of 34 ministerial sectors under the Digital-Y project. The ministry says the national government cloud now hosts state services and its design system is in use internally ahead of wider rollout.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership (national standards office)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ONANOR - Office National de la Normalisation et det la Métrologie](https://www.iso.org/member/576513.html)** — International Organization for Standardization, 16 October 2026
+
+ONANOR is Mauritania's ISO correspondent member; participating on 5 technical committees, observing on 10 (October 2026).
 
 </div>
 
